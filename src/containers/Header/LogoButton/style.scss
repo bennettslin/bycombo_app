@@ -1,0 +1,8 @@
+@import '../../../scss/constants/responsive';
+
+.LogoButton {
+    svg {
+        height: $height__header;
+        width: $height__header * 1.5;
+    }
+}

@@ -1,0 +1,14 @@
+@import '../../scss/constants/responsive';
+
+.Main {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    min-height: calc(100vh - #{$height__header__mobile + $margin__narrow * 2});
+
+    @media (min-width: $width__page__narrow) {
+        min-height: calc(100vh - #{$height__header + $margin__narrow * 2});
+    }
+}

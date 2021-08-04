@@ -1,0 +1,20 @@
+@import '../../../scss/constants/shadows';
+@import '../../../scss/constants/transition';
+
+.ButtonAnimatable {
+    filter: $dropShadow;
+    position: relative;
+    height: auto;
+    width: auto;
+
+    .Button:hover
+    & {
+        animation: bounceHover $transitionDuration__slow;
+        filter: $dropShadow__lightHover;
+    }
+
+    .Button:active
+    & {
+        transform: scale(0.9);
+    }
+}

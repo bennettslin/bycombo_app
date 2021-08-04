@@ -1,0 +1,11 @@
+@import '../../scss/constants/colours';
+@import '../../scss/constants/responsive';
+
+.Heading {
+    color: $colour__primary__dark;
+    margin-bottom: $margin__wide;
+}
+
+.Heading__bodyHeading {
+    text-align: center;
+}

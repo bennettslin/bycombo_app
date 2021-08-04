@@ -1,0 +1,56 @@
+@import '../../scss/constants/borders';
+@import '../../scss/constants/colours';
+@import '../../scss/constants/responsive';
+@import '../../scss/constants/shadows';
+
+.AlbumLink {
+    position: relative;
+
+    // Eyeballed. Keep small enough not to push footer off screen.
+    width: 75%;
+
+    border-radius: $borderRadius__medium;
+    overflow: hidden;
+
+    filter: $dropShadow;
+
+    &:hover {
+        filter: $dropShadow__lightHover;
+    }
+}
+
+.AlbumLink__image {
+    width: 100%;
+    height: 100%;
+}
+
+.AlbumLink__caption {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: $margin__wide;
+    
+    background-color: $colour__neutral__opaque;
+    border-bottom-left-radius: $borderRadius__wide;
+
+    text-align: right;
+    text-shadow: $textShadow__dark;
+}
+
+.AlbumLink__newWebcomic {
+    color: $colour__text__light;
+    font-size: 0.9em;
+
+    @media (min-width: $width__page__narrow) {
+        font-size: 1.2em;
+    }
+}
+
+.AlbumLink__yearlingsBobtail {
+    color: $colour__primary__light;
+    font-size: 1.5em;
+
+    @media (min-width: $width__page__narrow) {
+        font-size: 2em;
+    }
+}

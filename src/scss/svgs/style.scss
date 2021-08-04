@@ -1,0 +1,24 @@
+svg {
+    &.bobtailYearlings {
+        .primaryDark { fill: hsl(30, 22%, 45%); }
+        .primaryLight { fill: hsl(30, 30%, 57%); }
+        .secondaryDark { fill: hsl(225, 20%, 35%); }
+        .sclera { fill: hsl(225, 20%, 90%); }
+    }
+
+    &.copyUrl {
+        .steelDark { fill: hsl(195, 8%, 47%); }
+    }
+
+    &.copyUrlCopied {
+        .flatGreenLight { fill: hsl(120, 33%, 67%); }
+    }
+
+    &.facebook {
+        .field { fill: hsl(214, 60%, 58%); }
+    }
+
+    &.twitter {
+        .bird { fill: hsl(203, 65%, 58%); }
+    }
+}

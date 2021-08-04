@@ -1,0 +1,63 @@
+@import '../../scss/constants/borders';
+@import '../../scss/constants/colours';
+@import '../../scss/constants/responsive';
+
+$height__mailingList: 32px;
+$marginTop__mailingList: 4px;
+
+.MailingList {
+    width: 100%;
+    max-width: 400px;
+}
+
+.MailingList__label {
+    color: $colour__primary__dark;
+    font-size: 1.4em;
+
+    @media (min-width: $width__page__narrow) {
+        font-size: 2.1em;
+    }
+}
+
+.MailingList__inputs {
+    display: flex;
+
+    & > :not(:last-child) {
+        margin-right: $marginTop__mailingList * 2;
+    }
+}
+
+.MailingList__input {
+    box-sizing: border-box;
+    padding: 0;
+    font-size: 1em;
+
+    &:focus {
+        outline: none;
+    }
+}
+
+.MailingList__emailField {
+    flex-grow: 1;
+
+    height: $height__mailingList;
+    padding-top: $marginTop__mailingList;
+    padding-left: $marginTop__mailingList * 2;
+
+    &::placeholder {
+        color: $colour__neutral__light;
+    }
+
+    border: 1px solid $colour__neutral__dark;
+    border-radius: $borderRadius__narrow;
+
+    &:hover,
+    &:active,
+    &:focus {
+        border-color: $colour__primary__light;
+    }
+}
+
+.MailingList__submitButton {
+    height: $height__mailingList + $marginTop__mailingList;
+}

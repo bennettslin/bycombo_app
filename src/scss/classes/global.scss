@@ -1,0 +1,45 @@
+@import '../constants/colours';
+
+body {
+    background-color: $colour__background__subFooter;
+    color: $colour__text__dark;
+}
+
+body, p, h1, h5, h6 {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+button, input[type=submit] {
+	background: none;
+	border: none;
+	padding: 0;
+}
+
+a, button, input[type=submit] {
+    color: $colour__link__dark;
+
+    &:not(:disabled) {
+        cursor: pointer;
+    }
+
+    &:hover {
+        color: $colour__link__medium;
+    }
+
+    &:active {
+        color: $colour__link__light;
+    }
+
+    &:disabled {
+        color: $colour__neutral__light;
+    }
+}
+
+em, i {
+    position: relative;
+    left: -0.05em;
+}

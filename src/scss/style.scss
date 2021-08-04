@@ -1,0 +1,34 @@
+@import './classes/animation';
+@import './classes/font';
+@import './classes/global';
+@import './constants/colours';
+@import './svgs/style';
+
+@font-face {
+    font-family: Asap;
+    src: url('../assets/fonts/Asap/Asap-Regular.ttf');
+}
+
+@font-face {
+    font-family: Asap;
+    src: url('../assets/fonts/Asap/Asap-RegularItalic.ttf');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Asap;
+    src: url('../assets/fonts/Asap/Asap-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Asap;
+    src: url('../assets/fonts/Asap/Asap-BoldItalic.ttf');
+    font-style: italic;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Birra;
+    src: url('../assets/fonts/Birra/Birra-Stout.otf');
+}
