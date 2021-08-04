@@ -36,7 +36,7 @@ export const openSocialMediaPopup = ({
 }) => {
     window.open(
         getSocialMediaUrl(brandId, getUrlForPage(page)),
-        'bobtailYearlings_socialMedia',
+        'byCombo_socialMedia',
         getWindowFeatures({
             ...BASE_WINDOW_FEATURES,
 

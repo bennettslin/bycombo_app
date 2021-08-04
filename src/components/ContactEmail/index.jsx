@@ -2,14 +2,14 @@ import React, { Fragment } from 'react'
 import cx from 'classnames'
 import './style'
 
-const CONTACT_EMAIL = 'info@bobtailyearlings.com'
+const CONTACT_EMAIL = 'info@bycombo.com'
 
 const ContactEmail = () => (
     <div
         {...{
             className: cx(
                 'ContactEmail',
-                'Birra',
+                'Sexsmith',
             ),
         }}
     >

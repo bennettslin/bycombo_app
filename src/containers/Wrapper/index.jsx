@@ -8,7 +8,7 @@ const Wrapper = ({ children }) => (
         {...{
             className: cx(
                 'Wrapper',
-                'Asap'
+                'AsapCondensed'
             ),
         }}
     >

@@ -9,23 +9,23 @@ export const getIsProductionBuild = () => (
 export const getFaviconFileName = () => {
     switch (process.env.DESTINATION) {
         case 'local':
-            return 'bobtailYearlings_local'
+            return 'byCombo_local'
         case 'candidate':
-            return 'bobtailYearlings_candidate'
+            return 'byCombo_candidate'
         case 'delivery':
-            return 'bobtailYearlings_delivery'
+            return 'byCombo_delivery'
         default:
-            return 'bobtailYearlings'
+            return 'byCombo'
     }
 }
 
 export const getS3BucketName = () => {
     switch (process.env.DESTINATION) {
         case 'candidate':
-            return 'bobtailyearlings--candidate'
+            return 'bycombo--candidate'
         case 'delivery':
-            return 'bobtailyearlings--delivery'
+            return 'bycombo--delivery'
         default:
-            return 'bobtailyearlings--production'
+            return 'bycombo--production'
     }
 }

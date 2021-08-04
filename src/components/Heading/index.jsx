@@ -16,7 +16,7 @@ const Heading = ({
                 className: cx(
                     'Heading',
                     isBodyHeading && 'Heading__bodyHeading',
-                    'Birra',
+                    'Sexsmith',
                 ),
             }}
         >

@@ -13,13 +13,13 @@ export const getMetaTitle = ({
     page,
     title,
 }) => (
-    `${page === HOME_PAGE ? '' : `${title || capitalise(page)} | `}Bobtail Yearlings`
+    `${page === HOME_PAGE ? '' : `${title || capitalise(page)} | `}BYCombo`
 )
 
 export const getMetaDescription = description => (
     description ?
         getTruncatedText(description) :
-        'Website for the band Bobtail Yearlings.'
+        'Website for BYCombo.'
 )
 
 const getDefaultConfig = description => ({
@@ -47,7 +47,7 @@ const getTwitterConfig = ({
     title,
 }) => ({
     'twitter:card': 'summary',
-    'twitter:site': '@BobtailYearling',
+    'twitter:site': '@BeWhyCombo',
     'twitter:title': getMetaTitle({
         page,
         title,

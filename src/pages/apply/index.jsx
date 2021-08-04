@@ -1,14 +1,14 @@
 import React from 'react'
 import Page from '../../containers/Page'
 import MarkdownBody from '../../containers/Page/MarkdownBody'
-import content from '../../content/home'
+import content from '../../content/apply'
 
-const Home = () => (
+const Apply = () => (
     <Page>
-        <MarkdownBody {...{ title: 'Home' }}>
+        <MarkdownBody showContactEmail {...{ title: 'Apply' }}>
             {content}
         </MarkdownBody>
     </Page>
 )
 
-export default Home
+export default Apply
