@@ -1,14 +1,24 @@
 svg {
     &.byCombo {
-        .baseBottom { fill: hsl(25, 34%, 48%); }
-        .baseFront { fill: hsl(25, 35%, 44%); }
-        .baseTop { fill: hsl(25, 39%, 53%); }
-        .silverFront { fill: hsl(178, 12%, 57%); }
-        .silverTop { fill: hsl(176, 17%, 64%); }
-        .plasticSide { fill: hsl(154, 7%, 39%); }
-        .plasticFront { fill: hsl(155, 7%, 35%); }
-        .plasticTop { fill: hsl(154, 7%, 44%); }
-        .label { fill: hsl(68, 27%, 59%); }
-        .bar { fill: hsl(175, 6%, 59%); }
+        .mapleDark { fill: hsl(23, 17%, 47%); }
+        .mapleMediumDark { fill: hsl(23, 18%, 52%); }
+        .mapleMedium { fill: hsl(23, 19%, 57%); }
+        .chromeDarkest { fill: hsl(160, 10%, 37%); }
+        .chromeDarker { fill: hsl(160, 10%, 42%); }
+        .chromeDark { fill: hsl(160, 10%, 47%); }
+        .chromeMedium { fill: hsl(160, 10%, 57%); }
+        .steelMedium { fill: hsl(195, 8%, 57%); }
+        .steelLight { fill: hsl(195, 8%, 67%); }
+        .rubberMediumDark { fill: hsl(240, 5%, 32%); }
+        .dullYellowMedium { fill: hsl(60, 20%, 57%); }
+        .bloodDarker { fill: hsl(0, 45%, 42%); }
+        .bloodDark { fill: hsl(0, 45%, 47%); }
+        .bloodMedium { fill: hsl(0, 45%, 57%); }
+
+        .tongueFold { fill: hsl(350, 26%, 23%); }
+        .tongue { fill: hsl(350, 26%, 63%); }
+        .skinFold, .skinDisplay { fill: hsl(29, 45%, 28%); }
+        .skinEastAsian { fill: hsl(29, 45%, 68%); }
+        .deadEyeBlack, .eyebrowBlack, .hairBlack { fill: hsl(26, 7%, 25%); }
     }
 }
