@@ -1,13 +1,11 @@
 * Begin work on BY Combo
     * Create svgs
-        * Logo
         * Favicons
     * New GA
     * Finalise fonts and colours
-    * AWS
-        * S3
-        * Deploy
+    * Confirm deploy
     * Connect emails
+    * Create Bands page
     * Google Form
         * Embed on page
         * Connect results to Google Sheet

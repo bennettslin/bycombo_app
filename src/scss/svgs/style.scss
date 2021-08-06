@@ -1,24 +1,14 @@
 svg {
     &.byCombo {
-        .primaryDark { fill: hsl(30, 22%, 45%); }
-        .primaryLight { fill: hsl(30, 30%, 57%); }
-        .secondaryDark { fill: hsl(225, 20%, 35%); }
-        .sclera { fill: hsl(225, 20%, 90%); }
-    }
-
-    &.copyUrl {
-        .steelDark { fill: hsl(195, 8%, 47%); }
-    }
-
-    &.copyUrlCopied {
-        .flatGreenLight { fill: hsl(120, 33%, 67%); }
-    }
-
-    &.facebook {
-        .field { fill: hsl(214, 60%, 58%); }
-    }
-
-    &.twitter {
-        .bird { fill: hsl(203, 65%, 58%); }
+        .baseBottom { fill: hsl(25, 34%, 48%); }
+        .baseFront { fill: hsl(25, 35%, 44%); }
+        .baseTop { fill: hsl(25, 39%, 53%); }
+        .silverFront { fill: hsl(178, 12%, 57%); }
+        .silverTop { fill: hsl(176, 17%, 64%); }
+        .plasticSide { fill: hsl(154, 7%, 39%); }
+        .plasticFront { fill: hsl(155, 7%, 35%); }
+        .plasticTop { fill: hsl(154, 7%, 44%); }
+        .label { fill: hsl(68, 27%, 59%); }
+        .bar { fill: hsl(175, 6%, 59%); }
     }
 }
