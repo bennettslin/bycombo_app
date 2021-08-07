@@ -2,22 +2,22 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
 import { useSelector } from 'react-redux'
-import Button from '../../../../components/Button'
-import { getMapIsSelectedPage } from '../../../../redux/page/selector'
+import Button from '../../../components/Button'
+import { getMapIsSelectedPage } from '../../../redux/page/selector'
 import './style'
 
-const MenuButton = ({ pageLink, children }) => {
+const HeaderButton = ({ className, pageLink, children }) => {
     const isSelectedPage = useSelector(getMapIsSelectedPage(pageLink))
 
     return (
         <Button
             {...{
                 className: cx(
-                    'MenuButton',
-                    `MenuButton__${pageLink}`,
+                    'HeaderButton',
                     'Sexsmith',
+                    className,
                 ),
-                gaLabel: `MenuButton: ${pageLink}`,
+                gaLabel: `HeaderButton: ${pageLink}`,
                 pageLink,
                 isSelected: isSelectedPage,
             }}
@@ -27,9 +27,10 @@ const MenuButton = ({ pageLink, children }) => {
     )
 }
 
-MenuButton.propTypes = {
+HeaderButton.propTypes = {
+    className: PropTypes.string,
     pageLink: PropTypes.string.isRequired,
     children: PropTypes.string.isRequired,
 }
 
-export default MenuButton
+export default HeaderButton
