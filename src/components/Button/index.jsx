@@ -14,6 +14,7 @@ const Button = forwardRef(({
     gaLabel,
     pageLink,
     href,
+    isSelected,
     tooltipId,
     tooltipText,
     isTooltipSuccess,
@@ -27,6 +28,10 @@ const Button = forwardRef(({
         isTooltipEnabled = Boolean(tooltipId)
 
     const onClick = e => {
+        if (isSelected) {
+            return
+        }
+
         if (pageLink) {
             dispatch(updateSelectedPage(pageLink))
         }
@@ -69,9 +74,10 @@ const Button = forwardRef(({
                     'data-for': tooltipId,
                     'data-tip': tooltipText,
                 },
+                disabled: isSelected,
             }}
         >
-            <ButtonAnimatable>
+            <ButtonAnimatable {...{ isSelected }}>
                 {children}
             </ButtonAnimatable>
             {isTooltipEnabled && (
@@ -92,6 +98,7 @@ Button.propTypes = {
     gaLabel: PropTypes.string.isRequired,
     pageLink: PropTypes.string,
     href: PropTypes.string,
+    isSelected: PropTypes.bool,
     tooltipId: PropTypes.string,
     tooltipText: PropTypes.string,
     isTooltipShown: PropTypes.bool,

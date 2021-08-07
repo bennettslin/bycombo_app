@@ -1,18 +1,19 @@
 import React from 'react'
-import cx from 'classnames'
-import Button from '../../../components/Button'
+// import cx from 'classnames'
+// import Button from '../../../components/Button'
+import MenuButton from '../Menu/MenuButton'
 import Svg from '../../../components/Svg'
 import byCombo from '../../../assets/svgs/byCombo.svg'
 import { HOME_PAGE } from '../../../constants/pages'
 import './style'
 
 const LogoButton = () => (
-    <Button
+    <MenuButton
         {...{
-            className: cx(
-                'LogoButton',
-            ),
-            gaLabel: 'LogoButton',
+            // className: cx(
+            //     'LogoButton',
+            // ),
+            // gaLabel: 'LogoButton',
             pageLink: HOME_PAGE,
         }}
     >
@@ -21,7 +22,7 @@ const LogoButton = () => (
                 src: byCombo,
             }}
         />
-    </Button>
+    </MenuButton>
 )
 
 export default LogoButton

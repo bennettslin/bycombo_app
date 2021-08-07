@@ -2,10 +2,13 @@
 @import '../../../scss/constants/transition';
 
 .ButtonAnimatable {
-    filter: $dropShadow;
     position: relative;
     height: auto;
     width: auto;
+}
+
+.ButtonAnimatable__enabled {
+    filter: $dropShadow;
 
     .Button:hover
     & {

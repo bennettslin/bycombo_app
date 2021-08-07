@@ -38,20 +38,17 @@ button {
 a, button {
     color: $colour__link__dark;
 
-    &:not(:disabled) {
-        cursor: pointer;
-    }
-
-    &:hover {
+    &:not([disabled]):hover {
         color: $colour__link__medium;
     }
 
-    &:active {
+    &:not([disabled]):active {
         color: $colour__link__light;
     }
 
-    &:disabled {
-        color: $colour__neutral__light;
+    &[disabled] {
+        color: $colour__primary__dark;
+        cursor: default;
     }
 }
 

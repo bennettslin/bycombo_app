@@ -4,12 +4,14 @@ import cx from 'classnames'
 import './style'
 
 const ButtonAnimatable = ({
+    isSelected,
     children,
 }) => (
     <div
         {...{
             className: cx(
                 'ButtonAnimatable',
+                !isSelected && 'ButtonAnimatable__enabled',
             ),
         }}
     >
@@ -18,6 +20,7 @@ const ButtonAnimatable = ({
 )
 
 ButtonAnimatable.propTypes = {
+    isSelected: PropTypes.bool,
     children: PropTypes.any,
 }
 
