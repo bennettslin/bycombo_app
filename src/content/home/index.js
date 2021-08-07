@@ -1,3 +1,3 @@
 export default `
-Temporary home page content!
+Temporary home content!
 `

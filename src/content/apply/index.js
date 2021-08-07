@@ -1,3 +1,3 @@
 export default `
-Temporary band content!
+Temporary apply content!
 `
