@@ -38,7 +38,7 @@ const getFacebookConfig = ({
         title,
     }),
     'og:description': getMetaDescription(description),
-    'og:image': getUrlForFile(`share/image/facebook_image/promo.jpg`),
+    'og:image': getUrlForFile(`share/image/facebook/byCombo.png`),
 })
 
 const getTwitterConfig = ({
@@ -54,7 +54,7 @@ const getTwitterConfig = ({
     }),
     'twitter:description': getMetaDescription(description),
     'twitter:image':
-        getUrlForFile(`share/image/twitter_thumbnail/promo.jpg`),
+        getUrlForFile(`share/image/twitter/byCombo.png`),
 })
 
 const spreadHelmetConfig = ({ config, nameKey }) => (
