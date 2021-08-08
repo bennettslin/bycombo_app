@@ -1,11 +1,11 @@
-import { sendToGaFromLog } from './helpers/analytics'
+import { sendToAnalyticsFromLog } from './helpers/analytics'
 import { getTimeDifference } from './helpers/time'
 
 import {
     EVENT,
     SERVE,
     ERROR,
-    getStyleForCategory,
+    getCategoryStyleForAnalyticsStatus,
 } from './helpers/styles'
 
 const _log = ({
@@ -25,7 +25,7 @@ const _log = ({
     if (log) {
         console[level](
             `%c${log}`,
-            styles || getStyleForCategory({
+            styles || getCategoryStyleForAnalyticsStatus({
                 category: styleCategory || category,
                 action,
             }),
@@ -33,7 +33,7 @@ const _log = ({
         )
     }
 
-    sendToGaFromLog({
+    sendToAnalyticsFromLog({
         category,
         action,
         label,

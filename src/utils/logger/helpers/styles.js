@@ -1,5 +1,4 @@
 export const ANALYTICS__FAILURE = 'analyticsFailure'
-export const ANALYTICS__PENDING = 'analyticsPending'
 export const ANALYTICS__SUCCESS = 'analyticsSuccess'
 export const ERROR = 'error'
 export const EVENT = 'event'
@@ -16,7 +15,7 @@ const BASE_STYLES = {
     fontSize: '1.25em',
 }
 
-const GA_STYLE = {
+const GTAG_STYLE = {
     // If log sends to analytics, show yellow background instead.
     backgroundColor: '#fffff0',
 }
@@ -39,10 +38,6 @@ const LOG_STYLES = {
         color: '#b44',
         fontSize: '0.6em',
     },
-    [ANALYTICS__PENDING]: {
-        color: '#bb4',
-        fontSize: '0.6em',
-    },
     [ANALYTICS__SUCCESS]: {
         color: '#4b4',
         fontSize: '0.6em',
@@ -60,7 +55,7 @@ const LOG_STYLES = {
     },
 }
 
-export const getStyleForCategory = ({
+export const getCategoryStyleForAnalyticsStatus = ({
     category,
     action,
 
@@ -68,11 +63,10 @@ export const getStyleForCategory = ({
     _getStyles({
         ...(
             category !== ANALYTICS__SUCCESS &&
-            category !== ANALYTICS__PENDING &&
             category !== ANALYTICS__FAILURE
         ) && BASE_STYLES,
         ...LOG_STYLES[category],
-        // It's a GA call if it has an action.
-        ...Boolean(action) && GA_STYLE,
+        // It's an analytics call if it has an action.
+        ...Boolean(action) && GTAG_STYLE,
     })
 )

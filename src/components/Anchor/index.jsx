@@ -9,7 +9,7 @@ import './style'
 
 const Anchor = ({
     className,
-    gaLabel,
+    analyticsLabel,
     href,
     pageLink,
     children,
@@ -24,10 +24,10 @@ const Anchor = ({
             dispatch(updateSelectedPage(pageLink))
         }
 
-        if (gaLabel || pageLink) {
+        if (analyticsLabel || pageLink) {
             logEvent(
                 'Anchor',
-                gaLabel || pageLink,
+                analyticsLabel || pageLink,
             )
         }
     }
@@ -56,7 +56,7 @@ const Anchor = ({
 
 Anchor.propTypes = {
     className: PropTypes.string,
-    gaLabel: PropTypes.string,
+    analyticsLabel: PropTypes.string,
     href: PropTypes.string,
     pageLink: PropTypes.string,
     onClick: PropTypes.func,

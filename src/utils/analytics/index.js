@@ -1,53 +1,33 @@
-import { getDateTimeForGa } from '../build'
 import { GA_ACCOUNT } from '../../constants/analytics'
-import {
-    BROWSER_NAME, BROWSER_VERSION, ENGINE_NAME, ENGINE_VERSION, OS_NAME, OS_VERSION, PLATFORM_TYPE, PLATFORM_VENDOR,
-} from '../device'
+import { ANALYTICS__FAILURE, ANALYTICS__SUCCESS } from '../logger/helpers/styles'
 
-const isGaUndefined = () => (
-    typeof ga === 'undefined'
+const isGtagUndefined = () => (
+    typeof gtag === 'undefined'
 )
 
-export const setCustomDimensions = () => {
-    if (isGaUndefined()) {
-        return
-    }
-
-    ga('set', 'dimension1', getDateTimeForGa(BUILD_DATE_TIME))
-    ga('set', 'dimension2', BROWSER_NAME)
-    ga('set', 'dimension3', BROWSER_VERSION)
-    ga('set', 'dimension4', ENGINE_NAME)
-    ga('set', 'dimension5', ENGINE_VERSION)
-    ga('set', 'dimension6', OS_NAME)
-    ga('set', 'dimension7', OS_VERSION)
-    ga('set', 'dimension8', PLATFORM_TYPE)
-    ga('set', 'dimension9', PLATFORM_VENDOR)
-}
-
-export const sendToGa = ({
+export const sendToAnalytics = ({
     category,
     action,
     label,
     value,
 
 }) => {
-    if (isGaUndefined()) {
-        return 'failure'
+    if (isGtagUndefined()) {
+        return ANALYTICS__FAILURE
     }
 
-    ga('send', {
+    gtag('event', category, {
         hitType: 'event',
-        eventCategory: category,
-        eventAction: action,
-        ...label && { eventLabel: label },
-        ...value && { eventValue: value },
+        action,
+        ...label && { label },
+        ...value && { value },
     })
 
-    return 'success'
+    return ANALYTICS__SUCCESS
 }
 
-export const logGa = () => {
-    if (isGaUndefined()) {
+export const logAnalytics = () => {
+    if (isGtagUndefined()) {
         logServe('GA did not initialise.')
 
     } else {
@@ -56,7 +36,7 @@ export const logGa = () => {
                 'GA initialised.' :
                 `GA initialised with id ${GA_ACCOUNT}.`,
             {
-                action: 'ga',
+                action: 'gtag',
             }
         )
     }

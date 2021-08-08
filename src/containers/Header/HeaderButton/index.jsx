@@ -17,7 +17,7 @@ const HeaderButton = ({ className, pageLink, children }) => {
                     'Sexsmith',
                     className,
                 ),
-                gaLabel: `HeaderButton: ${pageLink}`,
+                analyticsLabel: `HeaderButton__${pageLink}`,
                 pageLink,
                 isSelected: isSelectedPage,
             }}

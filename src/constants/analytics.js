@@ -1,2 +1,2 @@
 // Filter prevents events fired outside of host name.
-export const GA_ACCOUNT = 'UA-133481555-3'
+export const GA_ACCOUNT = 'G-RF9J32D5N3'

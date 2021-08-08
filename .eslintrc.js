@@ -23,7 +23,7 @@ module.exports = {
         'BUILD_DATE_TIME': true,
         'IS_RUNTIME': true,
         'IS_PRODUCTION': true,
-        'ga': true,
+        'gtag': true,
         'logError': true,
         'logEvent': true,
         'logServe': true,

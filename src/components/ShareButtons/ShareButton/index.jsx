@@ -18,7 +18,7 @@ const ShareButton = forwardRef(({
                 'ShareButton',
                 className,
             ),
-            gaLabel: `ShareButton: ${id}`,
+            analyticsLabel: `ShareButton__${id}`,
             ...rest,
         }}
     >

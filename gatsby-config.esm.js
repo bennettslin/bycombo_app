@@ -7,9 +7,11 @@ import {
 export default {
     plugins: [
         {
-            resolve: `gatsby-plugin-google-analytics`,
+            resolve: `gatsby-plugin-google-gtag`,
             options: {
-                trackingId: GA_ACCOUNT,
+                trackingIds: [
+                    GA_ACCOUNT,
+                ],
             },
         },
         {

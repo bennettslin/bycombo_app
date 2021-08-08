@@ -11,7 +11,7 @@ import './style'
 
 const Button = forwardRef(({
     className,
-    gaLabel,
+    analyticsLabel,
     pageLink,
     href,
     isSelected,
@@ -36,10 +36,10 @@ const Button = forwardRef(({
             dispatch(updateSelectedPage(pageLink))
         }
 
-        if (gaLabel) {
+        if (analyticsLabel) {
             logEvent(
                 'Button',
-                gaLabel,
+                analyticsLabel,
             )
         }
 
@@ -95,7 +95,7 @@ const Button = forwardRef(({
 
 Button.propTypes = {
     className: PropTypes.string,
-    gaLabel: PropTypes.string.isRequired,
+    analyticsLabel: PropTypes.string.isRequired,
     pageLink: PropTypes.string,
     href: PropTypes.string,
     isSelected: PropTypes.bool,
