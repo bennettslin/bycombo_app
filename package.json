@@ -72,8 +72,8 @@
     "gatsby-plugin-s3": "^0.3.8",
     "gatsby-plugin-sass": "^4.11.0",
     "jsdom": "^16.7.0",
-    "node-sass": "^6.0.1",
     "redux-devtools-extension": "^2.13.9",
+    "sass": "^1.37.5",
     "webpack": "^5.49.0"
   }
 }
