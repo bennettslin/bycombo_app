@@ -1,6 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
+import Header from '../Header'
+import Main from '../Main'
 import './style'
 
 const Wrapper = ({ children }) => (
@@ -8,11 +10,11 @@ const Wrapper = ({ children }) => (
         {...{
             className: cx(
                 'Wrapper',
-                'AsapCondensed'
             ),
         }}
     >
-        {children}
+        <Header />
+        <Main>{children}</Main>
     </div>
 )
 

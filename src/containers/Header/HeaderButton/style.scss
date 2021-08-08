@@ -3,10 +3,6 @@
 .HeaderButton {
     font-size: 2em;
 
-    &:not(:last-child) {
-        margin-right: $margin__wide;
-    }
-
     @media (min-width: $width__page__narrow) {
         font-size: 3em;
     }
