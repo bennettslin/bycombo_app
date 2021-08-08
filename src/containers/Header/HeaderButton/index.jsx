@@ -30,7 +30,7 @@ const HeaderButton = ({ className, pageLink, children }) => {
 HeaderButton.propTypes = {
     className: PropTypes.string,
     pageLink: PropTypes.string.isRequired,
-    children: PropTypes.string.isRequired,
+    children: PropTypes.node.isRequired,
 }
 
 export default HeaderButton
