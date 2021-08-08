@@ -6,6 +6,7 @@ import {
 export const ERROR = 'error'
 export const EVENT = 'event'
 export const SERVE = 'serve'
+export const SUCCESS = 'success'
 
 const BASE_STYLES = {
     // Show turquoise background by default.
@@ -40,6 +41,10 @@ const LOG_STYLES = {
     },
     [SERVE]: {
         fontSize: '1.1em',
+    },
+    [SUCCESS]: {
+        color: '#4b4',
+        fontSize: '2em',
     },
 }
 

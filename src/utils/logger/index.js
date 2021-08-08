@@ -2,9 +2,10 @@ import { sendToAnalyticsFromLog } from './helpers/analytics'
 import { getTimeDifference } from './helpers/time'
 
 import {
+    ERROR,
     EVENT,
     SERVE,
-    ERROR,
+    SUCCESS,
     getStyleForCategoryLog,
 } from './helpers/styles'
 
@@ -64,6 +65,13 @@ export const logError = (log, props) => {
         log,
         level: 'error',
         category: ERROR,
+        ...props,
+    })
+}
+export const logSuccess = (log, props) => {
+    _log({
+        log,
+        category: SUCCESS,
         ...props,
     })
 }

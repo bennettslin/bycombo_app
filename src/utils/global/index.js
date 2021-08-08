@@ -1,11 +1,13 @@
 import {
+    logError,
     logEvent,
     logServe,
-    logError,
+    logSuccess,
 } from '../logger'
 
 export const globaliseLogs = () => {
+    global.logError = logError
     global.logEvent = logEvent
     global.logServe = logServe
-    global.logError = logError
+    global.logSuccess = logSuccess
 }

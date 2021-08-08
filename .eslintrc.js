@@ -16,6 +16,7 @@ module.exports = {
         logError: true,
         logEvent: true,
         logServe: true,
+        logSuccess: true,
         process: true,
     },
     parser: '@babel/eslint-parser',
@@ -123,7 +124,7 @@ module.exports = {
         'line-comment-position': 'off',
         'linebreak-style': [
             'error',
-            'windows',
+            'unix',
         ],
         'lines-around-comment': 'off',
         'lines-around-directive': 'error',
