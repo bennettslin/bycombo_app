@@ -1,5 +1,8 @@
-export const ANALYTICS__FAILURE = 'analyticsFailure'
-export const ANALYTICS__SUCCESS = 'analyticsSuccess'
+import {
+    ANALYTICS__FAILURE,
+    ANALYTICS__SUCCESS,
+} from '../../../constants/analytics'
+
 export const ERROR = 'error'
 export const EVENT = 'event'
 export const SERVE = 'serve'
@@ -15,9 +18,29 @@ const BASE_STYLES = {
     fontSize: '1.25em',
 }
 
-const GTAG_STYLE = {
-    // If log sends to analytics, show yellow background instead.
-    backgroundColor: '#fffff0',
+const ANALYTICS_STYLES = {
+    [ANALYTICS__FAILURE]: {
+        color: '#b44',
+        fontSize: '0.6em',
+    },
+    [ANALYTICS__SUCCESS]: {
+        color: '#4b4',
+        fontSize: '0.6em',
+    },
+}
+
+const LOG_STYLES = {
+    [ERROR]: {
+        color: '#b44',
+        fontSize: '2em',
+    },
+    [EVENT]: {
+        color: '#8ad',
+        fontSize: '0.8em',
+    },
+    [SERVE]: {
+        fontSize: '1.1em',
+    },
 }
 
 const _getStyles = (styles) => {
@@ -33,40 +56,15 @@ const _getStyles = (styles) => {
     return stylesArray.join(' ')
 }
 
-const LOG_STYLES = {
-    [ANALYTICS__FAILURE]: {
-        color: '#b44',
-        fontSize: '0.6em',
-    },
-    [ANALYTICS__SUCCESS]: {
-        color: '#4b4',
-        fontSize: '0.6em',
-    },
-    [ERROR]: {
-        color: '#b44',
-        fontSize: '2em',
-    },
-    [EVENT]: {
-        color: '#8ad',
-        fontSize: '0.8em',
-    },
-    [SERVE]: {
-        fontSize: '1.1em',
-    },
-}
-
-export const getCategoryStyleForAnalyticsStatus = ({
-    category,
-    action,
-
-}) => (
+export const getStyleForAnalyticsLog = category => (
     _getStyles({
-        ...(
-            category !== ANALYTICS__SUCCESS &&
-            category !== ANALYTICS__FAILURE
-        ) && BASE_STYLES,
+        ...ANALYTICS_STYLES[category],
+    })
+)
+
+export const getStyleForCategoryLog = category => (
+    _getStyles({
+        ...BASE_STYLES,
         ...LOG_STYLES[category],
-        // It's an analytics call if it has an action.
-        ...Boolean(action) && GTAG_STYLE,
     })
 )

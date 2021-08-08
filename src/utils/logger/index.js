@@ -5,7 +5,7 @@ import {
     EVENT,
     SERVE,
     ERROR,
-    getCategoryStyleForAnalyticsStatus,
+    getStyleForCategoryLog,
 } from './helpers/styles'
 
 const _log = ({
@@ -25,10 +25,7 @@ const _log = ({
     if (log) {
         console[level](
             `%c${log}`,
-            styles || getCategoryStyleForAnalyticsStatus({
-                category: styleCategory || category,
-                action,
-            }),
+            styles || getStyleForCategoryLog(styleCategory || category),
             timeDifference
         )
     }

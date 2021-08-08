@@ -1,5 +1,5 @@
 import { sendToAnalytics } from '../../analytics'
-import { getCategoryStyleForAnalyticsStatus } from './styles'
+import { getStyleForAnalyticsLog } from './styles'
 
 export const sendToAnalyticsFromLog = ({
     category,
@@ -12,7 +12,7 @@ export const sendToAnalyticsFromLog = ({
         return
     }
 
-    const gtagStatus = sendToAnalytics({
+    const analyticsStatus = sendToAnalytics({
         category,
         action,
         label,
@@ -24,6 +24,9 @@ export const sendToAnalyticsFromLog = ({
          * Log analytics parameters to make data analysis easier. Only show
          * with verbose logging.
          */
-        console.debug(`%c${`category: ${category}\naction: ${action}${typeof label !== 'undefined' ? `\nlabel: ${label}` : ''}${Number.isFinite(value) ? `\nvalue: ${value}` : ''}`}`, getCategoryStyleForAnalyticsStatus({ category: gtagStatus }))
+        console.debug(
+            `%c${`category: ${category}\naction: ${action}${typeof label !== 'undefined' ? `\nlabel: ${label}` : ''}${Number.isFinite(value) ? `\nvalue: ${value}` : ''}`}`,
+            getStyleForAnalyticsLog(analyticsStatus)
+        )
     }
 }

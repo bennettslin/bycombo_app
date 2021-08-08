@@ -1,5 +1,8 @@
-import { GA_ACCOUNT } from '../../constants/analytics'
-import { ANALYTICS__FAILURE, ANALYTICS__SUCCESS } from '../logger/helpers/styles'
+import {
+    ANALYTICS__FAILURE,
+    ANALYTICS__SUCCESS,
+    GA_ACCOUNT,
+} from '../../constants/analytics'
 
 const isGtagUndefined = () => (
     typeof gtag === 'undefined'
@@ -17,7 +20,6 @@ export const sendToAnalytics = ({
     }
 
     gtag('event', category, {
-        hitType: 'event',
         action,
         ...label && { label },
         ...value && { value },
