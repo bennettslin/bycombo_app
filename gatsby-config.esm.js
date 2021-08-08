@@ -27,7 +27,6 @@ export default {
                 icon: `src/assets/favicon/${getFaviconFileName()}.png`,
             },
         },
-        `gatsby-plugin-postcss`,
         `gatsby-plugin-react-helmet`,
         `gatsby-plugin-remove-trailing-slashes`,
         `gatsby-plugin-sass`,

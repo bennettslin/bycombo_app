@@ -5,7 +5,6 @@ import { Link } from 'gatsby'
 import { useDispatch } from 'react-redux'
 import { updateSelectedPage } from '../../redux/page/action'
 import { getPathForPage } from '../../constants/pages'
-import './style'
 
 const Anchor = ({
     className,
