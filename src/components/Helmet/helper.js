@@ -23,7 +23,7 @@ export const getMetaDescription = description => (
 )
 
 const getDefaultConfig = description => ({
-    'description': getMetaDescription(description),
+    description: getMetaDescription(description),
 })
 
 const getFacebookConfig = ({
