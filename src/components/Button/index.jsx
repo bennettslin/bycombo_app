@@ -60,7 +60,7 @@ const Button = forwardRef(({
                 ref,
                 className: cx(
                     'Button',
-                    className
+                    className,
                 ),
                 onClick,
                 ...pageLink && {

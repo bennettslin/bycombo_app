@@ -39,7 +39,7 @@ export const logAnalytics = () => {
                 `GA initialised with id ${GA_ACCOUNT}.`,
             {
                 action: 'gtag',
-            }
+            },
         )
     }
 }

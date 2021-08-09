@@ -36,7 +36,7 @@ const Anchor = ({
             {...{
                 className: cx(
                     'Anchor',
-                    className
+                    className,
                 ),
                 ...href && {
                     href,

@@ -6,7 +6,7 @@ const SubFooter = () => (
     <div
         {...{
             className: cx(
-                'SubFooter'
+                'SubFooter',
             ),
         }}
     >

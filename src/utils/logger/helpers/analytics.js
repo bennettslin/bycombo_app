@@ -26,7 +26,7 @@ export const sendToAnalyticsFromLog = ({
          */
         console.debug(
             `%c${`category: ${category}\naction: ${action}${typeof label !== 'undefined' ? `\nlabel: ${label}` : ''}${Number.isFinite(value) ? `\nvalue: ${value}` : ''}`}`,
-            getStyleForAnalyticsLog(analyticsStatus)
+            getStyleForAnalyticsLog(analyticsStatus),
         )
     }
 }

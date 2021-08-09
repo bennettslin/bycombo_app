@@ -7,7 +7,7 @@ const Content = ({ children }) => (
     <div
         {...{
             className: cx(
-                'Content'
+                'Content',
             ),
         }}
     >

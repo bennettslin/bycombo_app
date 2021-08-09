@@ -13,7 +13,7 @@ const Image = ({
         {...{
             className: cx(
                 'Image',
-                className
+                className,
             ),
             src,
             onLoad,

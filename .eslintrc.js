@@ -25,6 +25,7 @@ module.exports = {
             experimentalObjectRestSpread: true,
             jsx: true,
         },
+        ecmaVersion: 2020,
         sourceType: 'module',
     },
     plugins: [

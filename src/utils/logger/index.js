@@ -27,7 +27,7 @@ const _log = ({
         console[level](
             `%c${log}`,
             styles || getStyleForCategoryLog(styleCategory || category),
-            timeDifference
+            timeDifference,
         )
     }
 
@@ -39,7 +39,7 @@ const _log = ({
             useTimeForValue ?
                 // Send to analytics as milliseconds.
                 timeDifference * 1000 :
-                value
+                value,
         ),
     })
 }
