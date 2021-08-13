@@ -10,7 +10,7 @@ const App = ({ children }) => (
         {...{
             className: cx(
                 'App',
-                'AsapCondensed',
+                'Bitter',
             ),
         }}
     >
