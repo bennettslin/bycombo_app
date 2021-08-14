@@ -1,3 +1,3 @@
 export default `
-Temporary apply content!
+Stay tuned! The application form is coming soon.
 `
