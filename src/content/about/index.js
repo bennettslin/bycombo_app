@@ -11,19 +11,19 @@ And then it dawned on me. I should create a masterpiece, "The *Ulysses* of Rock 
 
 But there was no new wave. Instead, upon completion, every demo of *Yearling's Bobtail* was rejected. I soon understood why. With so many unknown bands hoping to be considered, the gatekeepers can only give each release the same bare minimum of their time. Want another chance? Put out another release.
 
-Still, what's hard for one is hard for all. And so the most promising bands embrace this challenge, tailoring their creative approach to put out frequent releases. This maximizes their chances while giving them continual feedback for improvement.
+Still, what's hard for one is hard for all. And so the most promising bands embrace the challenge, tailoring their creative approach to put out frequent releases. This maximizes their chances while giving them continual feedback for improvement.
 
-But *Yearling's Bobtail* took more than five years to create. It was designed to reveal hidden layers of meaning upon repeated listens. And there was no way for me to signal this. If it were possible, then every other band would do the same. So I just kept trying to get the same work heard, over and over— which is exactly what the *least* competent artists are expected to do.
+But *Yearling's Bobtail* took more than five years to create. It was designed to reveal hidden layers of meaning upon repeated listens. And there was no way for me to signal this. If it were possible, then every other band would do the same. So I just kept trying to get the same work heard, over and over— which is what we expect the *least* competent artists to do.
 
-In other words, any artist who creates “The *Ulysses* of Rock Albums” will get lumped in with those who suffer from the Dunning-Kruger effect. They will seem too incompetent to even realize it. But this actually got me excited. Because along with studying masterpieces, I'd also studied artistic revolutions. And every major revolution starts with the incompetent.
+In other words, any artist who creates “The *Ulysses* of Rock Albums” will get lumped in with those who suffer from the Dunning-Kruger effect. They will seem too incompetent to even realize it. But this only got me excited. Because along with studying masterpieces, I'd also studied artistic revolutions. And every major revolution starts with those we dismiss as incompetent.
 
 ### Building from nothing
 
 Every now and then, a respected cohort of underground bands is welcomed into the mainstream. This is a minor revolution. There is no momentum, because each incremental shift of the needle faces new resistance. The next cohort is now the one whose music is too raw, or too experimental, for a mainstream audience.
 
-But a major revolution starts with those we see as incompetent, like the early pioneers of jazz or hip hop. Once they compel us to revise our notion of competence, others who were shut out before can now join, expanding the boundaries further. And so the revolution gains momentum by building outward from nothing in a virtuous circle, making it seem inevitable in hindsight.
+But a major revolution starts with those we see as incompetent, like the early pioneers of jazz or hip hop. Once they compel us to revise our notion of competence, others who were shut out before can now join, expanding the boundaries further. And so the revolution gains momentum by building outward from nothing in a virtuous circle, making it seem inevitable in hindsight. (Rephrase.)
 
-This phenomenon isn't limited to art. Henry Ford and Steve Jobs were derided as incompetent for trying to sell a worse car and a worse computer, respectively. But worse products are also cheaper, and this allowed them to build something from nothing— namely, a middle class that could now join the market for cars and computers.
+This phenomenon isn't limited to art. Henry Ford and Steve Jobs were derided as incompetent for trying to sell a worse car and a worse computer, respectively. But worse products are also cheaper, and this allowed them to build something from nothing— namely, a middle-class market for cars and computers.
 
 ### The masterpiece revolution
 
