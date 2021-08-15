@@ -6,6 +6,12 @@
     margin-bottom: $margin__wide;
 }
 
+h1 {
+    &.Heading {
+        margin-bottom: $margin__wide + $margin__narrow * 2;
+    }
+}
+
 .Heading__bodyHeading {
     text-align: center;
 }
