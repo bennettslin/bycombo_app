@@ -4,7 +4,7 @@ import HeaderButton from '../HeaderButton'
 import {
     ABOUT_PAGE,
     APPLY_PAGE,
-    BANDS_PAGE,
+    // BANDS_PAGE,
     CONTACT_PAGE,
 } from '../../../constants/pages'
 import './style'
@@ -23,9 +23,9 @@ const Menu = () => (
         <HeaderButton {...{ pageLink: APPLY_PAGE }}>
             Apply
         </HeaderButton>
-        <HeaderButton {...{ pageLink: BANDS_PAGE }}>
+        {/* <HeaderButton {...{ pageLink: BANDS_PAGE }}>
             Bands
-        </HeaderButton>
+        </HeaderButton> */}
         <HeaderButton {...{ pageLink: CONTACT_PAGE }}>
             Contact
         </HeaderButton>

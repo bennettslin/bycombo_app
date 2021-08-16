@@ -1,3 +1,4 @@
+export const title = `Apply to BYCombo`
 export default `
-Stay tuned! The application form is coming soon.
+The application form is coming soon! In the meantime, please get in touch if you have any questions.
 `

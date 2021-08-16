@@ -1,3 +1,4 @@
+export const title = `The BYCombo story`
 export default `
 ### So epic it couldn't fail
 
@@ -35,7 +36,7 @@ The good news is that no one ever accused me of incompetence. I was simply undon
 
 To start with, let's agree that "one release, one chance" is very fair. Any alternative system has to be no less egalitarian. So I propose counting the number of hours that went into creating a work. By this metric, it would be reasonable for a masterpiece to be granted extra consideration. BYCombo can verify this number for each of its bands, while working to convince the gatekeepers of its value.
 
-But devoting years of your life to creating a masterpiece also isn't easy. No one should do it alone. You need bandmates for moral support, a critical ear, and social fulfillment. So BYCombo will also bring together ambitious artists who couldn't have found each other on their own.
+But devoting years of your life to creating a masterpiece also isn't easy. No one should do it alone. You need bandmates for moral support and a critical ear, on top of everything else. So BYCombo will also bring together ambitious artists who couldn't have found each other on their own.
 
-Not every artist wants to join the masterpiece revolution, of course. But for those who do, I suspect that BYCombo will be right up their alley. Had it been an option when I was creating *Yearling's Bobtail*, I certainly would have taken it!
+Not every artist wants to join the masterpiece revolution, of course. But for those who do, I suspect that BYCombo will be right up their alley. Had it been an option for me, I know I would have taken it!
 `
