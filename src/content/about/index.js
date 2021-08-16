@@ -30,13 +30,13 @@ This phenomenon isn't limited to art. Henry Ford and Steve Jobs were derided as 
 
 ### The masterpiece revolution
 
-It's not hard to imagine an unknown band hearing *Yearling's Bobtail* and feeling encouraged to create their own masterpiece here and now. This work might then inspire others, continuing a virtuous circle. But unless these bands can avoid the runaround I was given, the masterpiece revolution will begin and end with me.
+It's not hard to imagine an unknown band hearing *Yearling's Bobtail* and feeling encouraged to create a masterpiece. Their work might then inspire others, continuing a virtuous circle. But if these bands are given the same runaround I was given, then this masterpiece revolution will end with me.
 
-The good news is that no one ever accused me of incompetence. I was simply undone by a system that's been streamlined to weed it out. Which means this might be the first revolution in music history that doesn't need to change hearts or minds. The problem is really only systemic. Its solution can be likewise.
+The good news is that no one actually accused me of incompetence. I was simply undone by a system that's been streamlined to weed it out. Which means this might be the first revolution in music history that doesn't need to change hearts or minds. The problem is really only systemic. Its solution can be likewise.
 
 To start with, let's agree that "one release, one chance" is very fair. Any alternative system has to be no less egalitarian. So I propose counting the number of hours that went into creating a work. By this metric, it would be reasonable for a masterpiece to be granted extra consideration. BYCombo can verify this number for each of its bands, while working to convince the gatekeepers of its value.
 
-But devoting years of your life to creating a masterpiece also isn't easy. No one should do it alone. You need bandmates for moral support and a critical ear, on top of everything else. So BYCombo will also bring together ambitious artists who couldn't have found each other on their own.
+But devoting years of your life to creating a masterpiece isn't easy. No one should do it alone. You need bandmates for moral support and a critical ear, if nothing else. So BYCombo will also bring together ambitious artists who couldn't have found each other on their own.
 
-Not every artist wants to join the masterpiece revolution, of course. But for those who do, I suspect that BYCombo will be right up their alley. Had it been an option for me, I know I would have taken it!
+I suspect that for any artist who hopes to create a masterpiece, having BYCombo is a welcome option. I know I would have taken it!
 `
