@@ -20,7 +20,7 @@ An artist who creates “The *Ulysses* of Rock Albums,” in other words, will s
 
 ### Momentum from nothing
 
-While this frustrated me at first, I slowly grew excited. Because along with studying masterpieces, I'd also studied musical revolutions. And revolution starts with the incompetent. (?)
+Though this frustrated me at first, I soon grew excited. Because along with studying masterpieces, I'd also studied musical revolutions. And revolution starts with the incompetent.
 
 Every now and then, some underground bands we respect are welcomed into the mainstream. Let's call this a minor revolution. There is no momentum, because each incremental shifting of the needle faces new resistance. The next cohort is now the one whose music is too raw, or too experimental, for a mainstream audience.
 
@@ -36,7 +36,7 @@ The good news is that no one actually accused me of incompetence. I was simply u
 
 To start with, let's agree that "one release, one chance" is very fair. Any alternative system has to be no less egalitarian. So I propose counting the number of hours that went into creating a work. By this metric, it would be reasonable for a masterpiece to be granted extra consideration. BYCombo can verify this number for each of its bands, while working to convince the gatekeepers of its value.
 
-But devoting years of your life to creating a masterpiece isn't easy. No one should do it alone. You need bandmates for moral support and a critical ear, if nothing else. So BYCombo will also bring together ambitious artists who couldn't have found each other on their own.
+But devoting every waking hour, year after year, to creating a masterpiece isn't easy. No one should do it alone. Bandmates provide moral support and a critical ear, if nothing else. So BYCombo will also bring together ambitious artists who couldn't have found each other on their own.
 
-I suspect that any artist hoping to create a masterpiece will welcome BYCombo as an option. I know I would have taken it! (?)
+Not every artist wants to join the masterpiece revolution, of course. But I suspect that for those who do, BYCombo must seem like the most obvious idea in hindsight. Had it been an option for me, I certainly would have taken it!
 `
