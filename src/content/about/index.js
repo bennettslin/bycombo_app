@@ -16,15 +16,15 @@ Still, what's hard for one is hard for all. And so the most promising bands simp
 
 But *Yearling's Bobtail* took me five years to create. It hides layers of meaning that are revealed upon repeated listens. And there was no way to signal this. If it were possible, then every other band would do the same. So I just kept trying to get the same work heard, again and again. But this is what the *least* competent artists do— because they don't understand that rejection can be used to get better.
 
-An artist who creates “The *Ulysses* of Rock Albums,” in other words, will seem to exemplify the Dunning-Kruger effect. They will appear too incompetent to even recognize their own incompetence.
+An artist who creates “The *Ulysses* of Rock Albums,” in other words, will seem to exemplify the Dunning-Kruger effect. They will appear too incompetent to even recognize it.
 
 ### Momentum from nothing
 
-Though this frustrated me at first, I soon grew excited. Because along with studying masterpieces, I'd also studied musical revolutions. And revolution starts with the incompetent.
+This frustrated me, of course. But soon I saw a history-making opportunity and grew excited. I hadn't just studied masterpieces, after all; I'd also studied musical revolutions. And revolution begins with the incompetent.
 
 Every now and then, some underground bands we respect are welcomed into the mainstream. Let's call this a minor revolution. There is no momentum, because each incremental shifting of the needle faces new resistance. The next cohort is now the one whose music is too raw, or too experimental, for a mainstream audience.
 
-But a major revolution starts with those we deem incompetent, like the early pioneers of jazz or hip hop. As they compel us to expand our notion of competence, others who were shut out can now join, pushing the boundary further to let even more in. And so, starting from nothing, the revolution builds momentum in a virtuous circle, making it seem inevitable in hindsight.
+But a major revolution begins with those we deem incompetent, like the early pioneers of jazz or hip hop. As they compel us to expand our notion of competence, others who were shut out can now join, pushing the boundary further to let even more in. And so, starting from nothing, the revolution builds momentum in a virtuous circle, making it seem inevitable in hindsight.
 
 This phenomenon isn't limited to art. Henry Ford and Steve Jobs were derided as incompetent for trying to sell a worse car and worse computer, respectively. But their products were also cheaper, which allowed them to build something from nothing— namely, a middle-class market for cars and computers.
 
@@ -32,11 +32,11 @@ This phenomenon isn't limited to art. Henry Ford and Steve Jobs were derided as 
 
 It's not hard to imagine an unknown band hearing *Yearling's Bobtail* and feeling encouraged to create a masterpiece. Their work might then inspire others, continuing a virtuous circle. But if these bands are given the same runaround I was given, then this masterpiece revolution will end with me.
 
-The good news is that no one actually accused me of incompetence. I was simply undone by a system that's been streamlined to weed it out. Which means this might be the first revolution in music history that doesn't need to change hearts or minds. The problem is really only systemic. Its solution can be likewise.
+The good news is that no one actually accused me of incompetence. What undid me was a system that's been streamlined to weed it out. Which means this might be the first revolution in music history that doesn't need to change hearts or minds. The problem is really only systemic; its solution can be likewise.
 
-To start with, let's agree that "one release, one chance" is very fair. Any alternative system has to be no less egalitarian. So I propose counting the number of hours that went into creating a work. By this metric, it would be reasonable for a masterpiece to be granted extra consideration. BYCombo can verify this number for each of its bands, while working to convince the gatekeepers of its value.
+To start with, let's agree that "one release, one chance" is very fair. Any alternative system must be no less egalitarian. So I propose counting the number of hours that went into creating a work. By this metric, it would be reasonable for a masterpiece to be granted extra consideration. BYCombo can verify this number for each of its bands, while working to convince the gatekeepers of its value.
 
-But devoting every waking hour, year after year, to creating a masterpiece isn't easy. No one should do it alone. Bandmates provide moral support and a critical ear, if nothing else. So BYCombo will also bring together ambitious artists who couldn't have found each other on their own.
+But devoting every waking hour, year after year, toward creating a masterpiece isn't easy. No one should do it alone. Along with so much else, bandmates provide moral support and a critical ear. So BYCombo will also bring together ambitious artists who couldn't have found each other on their own.
 
-Not every artist wants to join the masterpiece revolution, of course. But I suspect that for those who do, BYCombo must seem like the most obvious idea in hindsight. Had it been an option for me, I certainly would have taken it!
+Not everyone wants to join the masterpiece revolution, of course. But I suspect that for those artists who do, BYCombo must seem like the most obvious idea in retrospect. Had it been an option for me, I certainly would have taken it!
 `
