@@ -14,7 +14,7 @@ const HeaderButton = ({ className, pageLink, children }) => {
             {...{
                 className: cx(
                     'HeaderButton',
-                    'Sexsmith',
+                    'font__heading',
                     className,
                 ),
                 analyticsLabel: `HeaderButton__${pageLink}`,

@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
 import Heading from '../../../components/Heading'
+import { replaceStraightWithSmartQuotes } from '../../../utils/format/smartQuote'
 import './style'
 
 const Body = ({ title, children }) => (
@@ -13,7 +14,9 @@ const Body = ({ title, children }) => (
         }}
     >
         {title && (
-            <Heading isBodyHeading>{title}</Heading>
+            <Heading isBodyHeading>
+                {replaceStraightWithSmartQuotes(title)}
+            </Heading>
         )}
         {children}
     </div>

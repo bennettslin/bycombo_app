@@ -1,7 +1,8 @@
 svg {
     &.byCombo {
+        .copperDark { fill: hsl(34, 28%, 47%); }
+        .copperMedium { fill: hsl(34, 28%, 57%); }
         .mapleDark { fill: hsl(23, 17%, 47%); }
-        .mapleMediumDark { fill: hsl(23, 18%, 52%); }
         .mapleMedium { fill: hsl(23, 19%, 57%); }
         .chromeDarkest { fill: hsl(160, 10%, 37%); }
         .chromeDarker { fill: hsl(160, 10%, 42%); }
@@ -10,11 +11,11 @@ svg {
         .steelDark { fill: hsl(195, 8%, 47%); }
         .steelMedium { fill: hsl(195, 8%, 57%); }
         .rubberMediumDark { fill: hsl(240, 5%, 32%); }
-        .dullYellowMedium { fill: hsl(60, 20%, 57%); }
         .bloodDarker { fill: hsl(0, 45%, 42%); }
         .bloodDark { fill: hsl(0, 45%, 47%); }
         .bloodLight { fill: hsl(0, 45%, 67%); }
-
+        
+        .bloodDried { fill: hsl(17.8, 37.7%, 57.8%); }
         .tongueFold { fill: hsl(350, 26%, 23%); }
         .tongue { fill: hsl(350, 26%, 63%); }
         .skinFold, .skinDisplay { fill: hsl(29, 45%, 28%); }
