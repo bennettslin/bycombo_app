@@ -20,7 +20,7 @@ An artist who creates “The *Ulysses* of Rock Albums,” in other words, will s
 
 ### Momentum from nothing
 
-This frustrated me, of course. But soon I saw a history-making opportunity and grew excited. I hadn't just studied masterpieces, after all; I'd also studied musical revolutions. And revolution begins with the incompetent.
+This frustrated me, of course. But soon I saw a history-making opportunity and grew excited. Because along with studying masterpieces, I'd also studied musical revolutions. And revolution begins with the incompetent.
 
 Every now and then, some underground bands we respect are welcomed into the mainstream. Let's call this a minor revolution. There is no momentum, because each incremental shifting of the needle faces new resistance. The next cohort is now the one whose music is too raw, or too experimental, for a mainstream audience.
 
@@ -38,5 +38,5 @@ To start with, let's agree that "one release, one chance" is very fair. Any alte
 
 But devoting every waking hour, year after year, toward creating a masterpiece isn't easy. No one should do it alone. Along with so much else, bandmates provide moral support and a critical ear. So BYCombo will also bring together ambitious artists who couldn't have found each other on their own.
 
-Not everyone wants to join the masterpiece revolution, of course. But I suspect that for those artists who do, BYCombo must seem like the most obvious idea in retrospect. Had it been an option for me, I certainly would have taken it!
+Not everyone wants to join the masterpiece revolution, of course. But for those artists who do, I suspect that BYCombo must seem like an obvious idea in retrospect. Had it been an option for me, I know I would have taken it!
 `
