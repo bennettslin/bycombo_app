@@ -6,5 +6,5 @@ Are you an unknown artist who's ready to craft a masterpiece? If you're willing 
 
 We'll put you in a band with others as ambitious as you are, help you develop your big idea, provide you with a supportive community, and work with the gatekeepers to ensure your masterpiece is given fair consideration.
 
-And BYCombo isn't just for musicians. We welcome anyone who hopes to challenge the accepted notion of who belongs in a band and what a band creates. Comic book artists, game developers, and all others, we hope to hear from you!
+And BYCombo isn't just for musicians. We welcome anyone who hopes to challenge the accepted notion of who belongs in a band and what a band creates. Comic book artists, game developers, and all others, we'd love to hear from you!
 `
