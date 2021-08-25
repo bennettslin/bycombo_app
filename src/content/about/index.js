@@ -2,7 +2,7 @@ export const title = `The BYCombo story`
 export default `
 ### So epic it couldn't fail
 
-A long time ago, I was in a band with some friends of mine. We'd been playing out for several years, and I was frustrated that my friends didn't share my ambition to make it big. Yet I struggled to find ambitious bandmates elsewhere, because I didn't look like any front person who'd ever made it before.
+A long time ago, I was in a band with some friends of mine. We'd been playing shows for several years, and I was frustrated that my friends didn't share my ambition to make it big. Yet I struggled to find ambitious bandmates elsewhere, because I didn't look like any front person who'd ever made it before.
 
 At the time, I was studying masterpieces like James Joyce's *Ulysses* and the Beatles' later albums, hoping to learn what makes a work great. As I read about the extensive recording sessions for *Sgt. Pepper's*, I realized something. With home studios becoming more affordable, a band no longer needed to be established to record their first masterpiece.
 
