@@ -1,7 +1,14 @@
+@import '../constants/colours';
+
 .font__text {
     font-family: Bitter, Arial;
 }
 
 .font__heading {
     font-family: Birra, Georgia;
+}
+
+.font__finePrint {
+    font-size: 0.75em;
+    color: $colour__neutral__dark;
 }

@@ -18,8 +18,26 @@ svg {
         .bloodDried { fill: hsl(17.8, 37.7%, 57.8%); }
         .tongueFold { fill: hsl(350, 26%, 23%); }
         .tongue { fill: hsl(350, 26%, 63%); }
-        .skinFold, .skinDisplay { fill: hsl(29, 45%, 28%); }
+        .skinFold,
+        .skinDisplay { fill: hsl(29, 45%, 28%); }
         .skinEastAsian { fill: hsl(29, 45%, 68%); }
-        .deadEyeBlack, .eyebrowBlack, .hairBlack { fill: hsl(26, 7%, 25%); }
+        .deadEyeBlack,
+        .eyebrowBlack,
+        .hairBlack { fill: hsl(26, 7%, 25%); }
+    }
+    &.copyUrl {
+        .steelDark { fill: hsl(195, 8%, 47%); }
+    }
+
+    &.copyUrlCopied {
+        .flatGreenLight { fill: hsl(120, 33%, 67%); }
+    }
+
+    &.facebook {
+        .field { fill: hsl(214, 60%, 58%); }
+    }
+
+    &.twitter {
+        .bird { fill: hsl(203, 65%, 58%); }
     }
 }
