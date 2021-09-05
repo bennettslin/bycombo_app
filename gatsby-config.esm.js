@@ -1,8 +1,10 @@
-import { GA_ACCOUNT } from './src/constants/analytics'
 import {
+    APP_DESCRIPTION,
+    APP_TITLE,
     getFaviconFileName,
     getS3BucketName,
 } from './src/utils/server'
+import { GA_ACCOUNT } from './src/constants/analytics'
 
 export default {
     plugins: [
@@ -17,9 +19,9 @@ export default {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `BYCombo`,
-                short_name: `BYCombo`,
-                description: 'Website for BYCombo',
+                name: APP_TITLE,
+                short_name: APP_TITLE,
+                description: APP_DESCRIPTION,
                 start_url: '/',
                 background_color: '#7d9bb8',
                 theme_color: '#8c7363',

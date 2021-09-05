@@ -1,3 +1,9 @@
+export const APP_TITLE = 'BYCombo'
+export const APP_DESCRIPTION =
+    'Website for the artist accelerator BYCombo.'
+export const APP_NAME = 'byCombo'
+export const DOMAIN = APP_NAME.toLowerCase()
+
 export const getIsRuntimeBuild = () => (
     process.env.BUILD === 'runtime'
 )
@@ -9,23 +15,23 @@ export const getIsProductionBuild = () => (
 export const getFaviconFileName = () => {
     switch (process.env.DESTINATION) {
         case 'local':
-            return 'byCombo_local'
+            return `${APP_NAME}_local`
         case 'candidate':
-            return 'byCombo_candidate'
+            return `${APP_NAME}_candidate`
         case 'delivery':
-            return 'byCombo_delivery'
+            return `${APP_NAME}_delivery`
         default:
-            return 'byCombo'
+            return APP_NAME
     }
 }
 
 export const getS3BucketName = () => {
     switch (process.env.DESTINATION) {
         case 'candidate':
-            return 'bycombo--candidate'
+            return `${DOMAIN}--candidate`
         case 'delivery':
-            return 'bycombo--delivery'
+            return `${DOMAIN}--delivery`
         default:
-            return 'bycombo--production'
+            return `${DOMAIN}--production`
     }
 }
