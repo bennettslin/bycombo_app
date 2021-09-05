@@ -9,6 +9,10 @@ body, p, h1, h3, h5 {
     margin: 0;
 }
 
+label {
+    color: $colour__primary__dark;
+}
+
 a {
     text-decoration: none;
 }
