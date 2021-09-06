@@ -1,3 +1,5 @@
+@import '../constants/colours';
+
 svg {
     &.byCombo {
         .copperDark { fill: hsl(34, 28%, 47%); }
@@ -25,23 +27,24 @@ svg {
         .eyebrowBlack,
         .hairBlack { fill: hsl(26, 7%, 25%); }
     }
+
     &.copyUrl {
-        .steelDark { fill: hsl(195, 8%, 47%); }
+        fill: hsl(195, 8%, 47%);
     }
 
     &.copyUrlCopied {
-        .flatGreenLight { fill: hsl(120, 33%, 67%); }
+        fill: hsl(120, 33%, 67%);
     }
 
     &.facebook {
-        .field { fill: hsl(214, 60%, 58%); }
+        fill: $colour__facebook;
     }
 
     &.twitter {
-        .bird { fill: hsl(203, 65%, 58%); }
+        fill: $colour__twitter;
     }
 
     &.popupClose {
-        .close { fill: hsl(0, 50%, 65%); }
+        fill: hsl(0, 50%, 65%);
     }
 }
