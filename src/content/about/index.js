@@ -7,7 +7,7 @@ const
 
 export default {
     title: `The BYCombo story`,
-    content: `
+    body: `
 ${getMarkdownLinkFromId(EPIC_COULDNT_FAIL)}
 ${getMarkdownLinkFromId(DUNNING_KRUGER_ARTIST)}
 ${getMarkdownLinkFromId(MOMENTUM_FROM_NOTHING)}
