@@ -1,6 +1,18 @@
+import { getMarkdownLinkFromId } from '../../utils/format/markdown'
+const
+    EPIC_COULDNT_FAIL = 'So epic it couldn\'t fail',
+    DUNNING_KRUGER_ARTIST = 'A Dunning-Kruger artist',
+    MOMENTUM_FROM_NOTHING = 'Momentum from nothing',
+    MASTERPIECE_REVOLUTION = 'The masterpiece revolution'
+
 export const title = `The BYCombo story`
 export default `
-### So epic it couldn't fail
+${getMarkdownLinkFromId(EPIC_COULDNT_FAIL)}
+${getMarkdownLinkFromId(DUNNING_KRUGER_ARTIST)}
+${getMarkdownLinkFromId(MOMENTUM_FROM_NOTHING)}
+${getMarkdownLinkFromId(MASTERPIECE_REVOLUTION)}
+
+### ${EPIC_COULDNT_FAIL}
 
 A long time ago, I was in a band with some friends of mine. We'd been playing shows for several years, and I was frustrated that my friends didn't share my ambition to make it big. Yet I struggled to find ambitious bandmates elsewhere, because I didn't look like any front person who'd ever made it before.
 
@@ -8,7 +20,7 @@ At the time, I was studying masterpieces like James Joyce's *Ulysses* and the Be
 
 And then it hit me. I should create a masterpiece, "The *Ulysses* of Rock Albums," on my own. It would be so epic that I couldn't fail to make it big. I assumed that others out there were thinking similarly, and I would emerge to find myself part of an exciting wave of new bands, each striving to be as good as the Beatles.
 
-### A Dunning-Kruger artist
+### ${DUNNING_KRUGER_ARTIST}
 
 But there was no new wave. Instead, upon completion, every demo of *Yearling's Bobtail* was rejected. I soon understood why. With so many unknown bands hoping to be considered, the gatekeepers can only grant each release a fleeting first impression. Want another chance? Release another work.
 
@@ -18,7 +30,7 @@ But *Yearling's Bobtail* took me five years to create. It hides layers of meanin
 
 An artist who creates “The *Ulysses* of Rock Albums,” in other words, will seem to exemplify the Dunning-Kruger effect. They will appear too incompetent to even recognize it.
 
-### Momentum from nothing
+### ${MOMENTUM_FROM_NOTHING}
 
 This frustrated me, of course. But soon I saw a history-making opportunity and grew excited. Because along with studying masterpieces, I'd also studied musical revolutions. And revolution begins with the incompetent.
 
@@ -28,7 +40,7 @@ But a major revolution begins with those we deem incompetent, like the early pio
 
 This phenomenon isn't limited to art. Henry Ford and Steve Jobs were derided as incompetent for trying to sell a worse car and worse computer, respectively. But their products were also cheaper, which allowed them to build something from nothing— namely, a middle-class market for cars and computers.
 
-### The masterpiece revolution
+### ${MASTERPIECE_REVOLUTION}
 
 It's not hard to imagine an unknown band hearing *Yearling's Bobtail* and feeling encouraged to create a masterpiece. Their work might then inspire others, continuing a virtuous circle. But if these bands are given the same runaround I was given, then this masterpiece revolution will end with me.
 
