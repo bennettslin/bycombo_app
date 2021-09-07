@@ -1,12 +1,9 @@
 import React from 'react'
-import Page from '../../containers/Page'
-import Body from '../../containers/Page/Body'
 import content from '../../content/contact'
+import Page from '../../containers/Page'
 
 const Contact = () => (
-    <Page>
-        <Body showContactEmail {...content} />
-    </Page>
+    <Page {...content} />
 )
 
 export default Contact

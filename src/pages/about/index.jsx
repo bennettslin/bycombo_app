@@ -1,12 +1,9 @@
 import React from 'react'
-import Page from '../../containers/Page'
-import Body from '../../containers/Page/Body'
 import content from '../../content/about'
+import Page from '../../containers/Page'
 
 const About = () => (
-    <Page>
-        <Body {...content} />
-    </Page>
+    <Page {...content} />
 )
 
 export default About
