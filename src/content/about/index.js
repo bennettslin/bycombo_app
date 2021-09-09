@@ -1,4 +1,4 @@
-import { getMarkdownLinkFromId } from '../../utils/format/markdown'
+import { getMarkdownLinkFromText } from '../../utils/format/markdown'
 const
     EPIC_COULDNT_FAIL = 'So epic it couldn\'t fail',
     DUNNING_KRUGER_ARTIST = 'A Dunning-Kruger artist',
@@ -8,10 +8,10 @@ const
 export default {
     title: `The BYCombo story`,
     body: `
-${getMarkdownLinkFromId(EPIC_COULDNT_FAIL)}
-${getMarkdownLinkFromId(DUNNING_KRUGER_ARTIST)}
-${getMarkdownLinkFromId(MOMENTUM_FROM_NOTHING)}
-${getMarkdownLinkFromId(MASTERPIECE_REVOLUTION)}
+${getMarkdownLinkFromText(EPIC_COULDNT_FAIL)}
+${getMarkdownLinkFromText(DUNNING_KRUGER_ARTIST)}
+${getMarkdownLinkFromText(MOMENTUM_FROM_NOTHING)}
+${getMarkdownLinkFromText(MASTERPIECE_REVOLUTION)}
 
 ### ${EPIC_COULDNT_FAIL}
 
