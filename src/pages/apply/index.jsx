@@ -1,9 +1,9 @@
-import React from 'react'
-import content from '../../content/apply'
-import Page from '../../containers/Page'
+import { getPageElementForConfig } from '../../containers/Page'
 
-const Apply = () => (
-    <Page {...content} />
-)
-
-export default Apply
+export default getPageElementForConfig({
+    title: `Apply to BYCombo`,
+    showContactEmail: true,
+    body: `
+The application form is coming soon! In the meantime, please get in touch if you have any questions.
+    `,
+})

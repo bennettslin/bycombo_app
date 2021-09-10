@@ -1,9 +1,9 @@
-import React from 'react'
-import content from '../../content/contact'
-import Page from '../../containers/Page'
+import { getPageElementForConfig } from '../../containers/Page'
 
-const Contact = () => (
-    <Page {...content} />
-)
-
-export default Contact
+export default getPageElementForConfig({
+    title: `Contact us`,
+    showContactEmail: true,
+    body: `
+If you have any questions, or if you'd like to help us get the word out about BYCombo, please get in touch. Thanks!
+    `,
+})
