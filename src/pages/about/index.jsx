@@ -8,7 +8,6 @@ const
     MASTERPIECE_REVOLUTION = 'The masterpiece revolution'
 
 export default getPageElementForConfig({
-    title: `The BYCombo story`,
     body: `
 ${getMarkdownLinkFromText(EPIC_COULDNT_FAIL)}
 ${getMarkdownLinkFromText(DUNNING_KRUGER_ARTIST)}

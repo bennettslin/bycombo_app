@@ -1,7 +1,6 @@
 import { getPageElementForConfig } from '../../containers/Page'
 
 export default getPageElementForConfig({
-    title: `Hi, we're BYCombo`,
     body: `
 Hi! We're BYCombo, a nonprofit dedicated to launching a revolution of musical masterpieces.
 
