@@ -1,5 +1,34 @@
 @import '../constants/colours';
 
+@font-face {
+    font-family: Bitter;
+    src: url('../assets/fonts/Bitter/Bitter-Regular.ttf');
+}
+
+@font-face {
+    font-family: Bitter;
+    src: url('../assets/fonts/Bitter/Bitter-RegularItalic.ttf');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Bitter;
+    src: url('../assets/fonts/Bitter/Bitter-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Bitter;
+    src: url('../assets/fonts/Bitter/Bitter-BoldItalic.ttf');
+    font-style: italic;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Limelight;
+    src: url('../assets/fonts/Limelight/Limelight-Regular.ttf');
+}
+
 .font__text {
     font-family: Bitter, Arial;
 }
