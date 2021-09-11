@@ -1,4 +1,6 @@
+@import '../../scss/constants/colours';
 @import '../../scss/constants/responsive';
+@import '../../scss/constants/shadows';
 
 .Header {
     width: 100%;
@@ -9,6 +11,9 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+
+    background-color: $colour__background;
+    // box-shadow: $boxShadow__above;
 
     @media (min-width: $width__page__narrow) {
         flex-direction: row;
