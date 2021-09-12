@@ -1,11 +1,11 @@
 export const getMapFromPages = ({
-    rootPage,
+    topLevelPage,
     pages,
 
 }) => (
     pages.reduce((map, page, index) => {
         map[page.id] = {
-            rootPage,
+            topLevelPage,
             ...page,
             ...index > 0 && {
                 previousPage: pages[index - 1],
@@ -20,7 +20,7 @@ export const getMapFromPages = ({
 )
 
 export const getLinkForPage = ({
-    rootPage,
+    topLevelPage,
     id,
     date = {},
 }) => {
@@ -36,6 +36,6 @@ export const getLinkForPage = ({
         )
 
     return (
-        `${rootPage}/${datePath}${id}`
+        `${topLevelPage}/${datePath}${id}`
     )
 }

@@ -17,16 +17,16 @@ const Menu = () => (
             ),
         }}
     >
-        <HeaderButton {...{ pageLink: ABOUT_PAGE }}>
+        <HeaderButton {...{ pagePath: ABOUT_PAGE }}>
             About
         </HeaderButton>
-        <HeaderButton {...{ pageLink: APPLY_PAGE }}>
+        <HeaderButton {...{ pagePath: APPLY_PAGE }}>
             Apply
         </HeaderButton>
-        <HeaderButton {...{ pageLink: CONTACT_PAGE }}>
+        <HeaderButton {...{ pagePath: CONTACT_PAGE }}>
             Contact
         </HeaderButton>
-        <HeaderButton {...{ pageLink: LINKS_PAGE }}>
+        <HeaderButton {...{ pagePath: LINKS_PAGE }}>
             Links
         </HeaderButton>
     </div>

@@ -12,20 +12,20 @@ export const LINKS_PAGE = 'links'
 
 const TABBED_PAGES_SET = new Set([])
 
-export const getRootPageFromPath = (path = '') => (
+export const getTopLevelPageFromPath = (path = '') => (
     path.split('/')[0]
 )
 
-export const getIsTabbedPage = path => (
-    TABBED_PAGES_SET.has(getRootPageFromPath(path))
+export const getIsTabbedPageFromPath = path => (
+    TABBED_PAGES_SET.has(getTopLevelPageFromPath(path))
 )
 
-export const getPathForPage = page => (
-    page === HOME_PAGE ? '/' : `/${page}`
+export const getLinkFromPath = path => (
+    path === HOME_PAGE ? '/' : `/${path}`
 )
 
 export const getPathForChildPage = ({
-    rootPage,
+    topLevelPage,
     id,
     date: {
         year,
@@ -33,22 +33,16 @@ export const getPathForChildPage = ({
         day,
     } = {},
 }) => [
-    rootPage && `${rootPage}/`,
+    topLevelPage && `${topLevelPage}/`,
     year && `${year}/`,
     month && `${year}-`,
     day && `${year}-`,
     id && `${id}`,
 ].filter(segment => Boolean(segment)).join('')
 
-export const getUrlForPage = page => {
-    const
-        pagePath = getPathForPage(page),
-        // Include ending forward slash because Twitter warns about redirects.
-        finalSlash = page === HOME_PAGE ? '' : '/'
+export const getUrlFromPath = path => {
+    // Include ending forward slash because Twitter warns about redirects.
+    const finalSlash = path === HOME_PAGE ? '' : '/'
 
-    return `${DOMAIN_NAME}${pagePath}${finalSlash}`
+    return `${DOMAIN_NAME}${getLinkFromPath(path)}${finalSlash}`
 }
-
-export const getUrlForFile = filePath => (
-    `${DOMAIN_NAME}${getPathForPage(filePath)}`
-)
