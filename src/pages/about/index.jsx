@@ -1,4 +1,5 @@
-import { getPageElementForConfig } from '../../containers/Page'
+import React from 'react'
+import Page from '../../containers/Page'
 import { getMarkdownLinkFromText } from '../../utils/format/markdown'
 
 const
@@ -7,8 +8,10 @@ const
     MOMENTUM_FROM_NOTHING = 'Momentum from nothing',
     MASTERPIECE_REVOLUTION = 'The masterpiece revolution'
 
-export default getPageElementForConfig({
-    body: `
+const Component = () => (
+    <Page
+        {...{
+            body: `
 ${getMarkdownLinkFromText(EPIC_COULDNT_FAIL)}
 ${getMarkdownLinkFromText(DUNNING_KRUGER_ARTIST)}
 ${getMarkdownLinkFromText(MOMENTUM_FROM_NOTHING)}
@@ -54,4 +57,8 @@ But devoting every waking hour, year after year, toward creating a masterpiece i
 
 Not everyone wants to join the masterpiece revolution, of course. But for those who do, I suspect that BYCombo must seem like an obvious idea in retrospect. Had it been an option for me, I know I would have taken it!
     `,
-})
+        }}
+    />
+)
+
+export default Component
