@@ -3,8 +3,8 @@
 @import '../../scss/constants/shadows';
 
 .Header {
+    position: relative;
     width: 100%;
-    box-sizing: border-box;
     padding: $margin__xs $margin__md;
 
     display: flex;
