@@ -6,7 +6,7 @@ import {
     APPLY_PAGE,
     CONTACT_PAGE,
     LINKS_PAGE,
-} from '../../../constants/pages'
+} from '../../../../constants/pages'
 import './style'
 
 const Menu = () => (
