@@ -4,7 +4,6 @@ import HeaderButton from '../HeaderButton'
 import Svg from '../../../components/Svg'
 import logo from '../../../assets/svgs/app/logo'
 import { HOME_PAGE } from '../../../constants/pages'
-import './style'
 
 const HomeButton = () => (
     <HeaderButton
@@ -18,6 +17,7 @@ const HomeButton = () => (
         <Svg
             {...{
                 src: logo,
+                scaleFactor: 0.66,
             }}
         />
     </HeaderButton>
