@@ -1,6 +1,5 @@
-// @import '../../scss/constants/colours';
+@import '../../scss/constants/colours';
 @import '../../scss/constants/responsive';
-// @import '../../scss/constants/shadows';
 
 .Page {
     flex-grow: 1;
@@ -15,9 +14,7 @@
     padding: $margin__xl $margin__md;
     overflow-y: scroll;
 
-    // background-color: $colour__background__light;
-
-    // box-shadow: $boxShadow__above;
+    background-color: $colour__background__light;
 
     @media (min-width: $width__page__narrow) {
         width: $width__page__narrow;
