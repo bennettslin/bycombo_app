@@ -1,7 +1,7 @@
-@import '../../../scss/constants/colours';
 @import '../../../scss/constants/responsive';
 
 .MainHeader {
+    width: 100%;
     padding: $margin__sm $margin__md;
 
     display: flex;
@@ -9,10 +9,7 @@
     justify-content: space-between;
     align-items: center;
 
-    background-color: $colour__background;
-
     @media (min-width: $width__page__narrow) {
-        width: $width__page__narrow;
         flex-direction: row;
     }
 }
