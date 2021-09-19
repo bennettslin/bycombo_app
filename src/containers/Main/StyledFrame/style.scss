@@ -1,0 +1,7 @@
+@import '../../../scss/constants/responsive';
+
+.StyledFrame {
+    @media (min-width: $width__page__narrow) {
+        width: $width__page__narrow;
+    }
+}

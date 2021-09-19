@@ -10,9 +10,9 @@
     flex-direction: column;
     align-items: center;
     
-    // @media (min-width: $width__page__narrow) {
-    //     gap: $margin__md;
-    // }
+    @media (min-width: $width__page__narrow) {
+        gap: $margin__sm;
+    }
 }
 
 #gatsby-focus-wrapper {
