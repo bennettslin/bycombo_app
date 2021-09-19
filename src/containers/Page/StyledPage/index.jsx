@@ -1,11 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
-import Flex from '../../../components/Flex'
 import './style'
 
 const StyledPage = ({ className, children }) => (
-    <Flex
+    <div
         {...{
             className: cx(
                 'StyledPage',
@@ -14,7 +13,7 @@ const StyledPage = ({ className, children }) => (
         }}
     >
         {children}
-    </Flex>
+    </div>
 )
 
 StyledPage.propTypes = {

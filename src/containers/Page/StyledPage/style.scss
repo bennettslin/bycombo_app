@@ -1,0 +1,10 @@
+@import '../../../scss/constants/responsive';
+
+.StyledPage {
+    flex-grow: 1;
+    display: flex;
+
+    @media (min-width: $width__page__narrow) {
+        width: $width__page__narrow;
+    }
+}
