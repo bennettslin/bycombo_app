@@ -1,7 +1,7 @@
 import React from 'react'
 import cx from 'classnames'
 import MailingListInputs from './Inputs'
-import { replaceStraightWithSmartQuotes } from '../../utils/format/smartQuote'
+import { getSmartQuotedText } from '../../utils/format/smartQuote'
 import { EMAIL_ACTION } from '../../constants/website'
 import './style'
 
@@ -22,7 +22,7 @@ const MailingList = () => (
         </label>
         <MailingListInputs />
         <div {...{ className: cx('font__finePrint') }}>
-            {replaceStraightWithSmartQuotes(
+            {getSmartQuotedText(
                 `We'll send out one email per month at most.`,
             )}
         </div>

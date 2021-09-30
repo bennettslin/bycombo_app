@@ -5,7 +5,7 @@ import ReactMarkdown from 'react-markdown'
 import Anchor from '../Anchor'
 import Heading from '../Heading'
 import Paragraph from '../Paragraph'
-import { replaceStraightWithSmartQuotes } from '../../utils/format/smartQuote'
+import { getSmartQuotedText } from '../../utils/format/smartQuote'
 import './style'
 
 const Markdown = ({
@@ -31,7 +31,7 @@ const Markdown = ({
             },
         }}
     >
-        {replaceStraightWithSmartQuotes(children)}
+        {getSmartQuotedText(children)}
     </ReactMarkdown>
 )
 
