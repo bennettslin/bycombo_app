@@ -48,6 +48,7 @@ const Anchor = ({
                 ),
                 ...internalLink && {
                     to: getLinkFromPath(internalLink),
+                    replace: true,
                 },
                 ...!internalLink && href && {
                     href,
