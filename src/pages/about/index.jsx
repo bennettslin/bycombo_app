@@ -58,7 +58,7 @@ Will BYCombo devolve as well? I doubt it. Our solution, taken to its absurd conc
 
 Who foresaw indie rock's endgame? Minorities did— which is why they've never started an indie movement. Instead, their movements reward what can't be bought: talent and originality, born from a long time spent in hunger. And this is what BYCombo does.
 
-Yes, indie rock has belatedly embraced female and minority artists. But it's just going to be a steady rotation from here on out, which means this influx of diversity will forever be synonymous with indie rock's decline. By contrast, BYCombo allows women and minorities to aim for the *top* of rock music's pantheon.
+Yes, indie rock has belatedly embraced female and minority artists. But it's just going to be a steady rotation from here on out, which means history will remember this influx of diversity as an afterthought. By contrast, BYCombo allows women and minorities to aim for the *top* of rock music's pantheon.
 
 Of course, like every other movement started by a minority, BYCombo doesn't just benefit those like ourselves. If you're hungry, we're here for you!
     `,
