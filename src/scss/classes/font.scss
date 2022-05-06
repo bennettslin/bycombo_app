@@ -24,17 +24,13 @@
     font-weight: bold;
 }
 
-@font-face {
-    font-family: Limelight;
-    src: url('../assets/fonts/Limelight/Limelight-Regular.ttf');
-}
-
 .font__text {
     font-family: Bitter, Arial;
 }
 
 .font__heading {
-    font-family: Limelight, Georgia;
+    font-family: Bitter, Georgia;
+    font-weight: bold;
 }
 
 .font__finePrint {

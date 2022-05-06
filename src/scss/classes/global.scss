@@ -13,12 +13,20 @@ body, p, h1, h3, h5, ul {
     margin: 0;
 }
 
-h1 {
-    text-align: center;
-}
-
 label {
     color: $colour__primary__dark;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.17em;
+}
+
+h5 {
+    font-size: 0.83em;
 }
 
 a {

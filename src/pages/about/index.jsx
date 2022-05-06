@@ -1,61 +1,66 @@
 import React from 'react'
 import Page from '../../containers/Page'
-import { getMarkdownLinkFromText } from '../../utils/format/markdown'
 
 const
-    EPIC_COULDNT_FAIL = 'So epic it couldn\'t fail',
-    DUNNING_KRUGER_ARTIST = 'A Dunning-Kruger artist',
-    MOMENTUM_FROM_NOTHING = 'Momentum from nothing',
-    MASTERPIECE_REVOLUTION = 'The masterpiece revolution'
+    WHY_BYCOMBO = 'Why BYCombo?',
+    INTERDEPENDENCE = 'Interdependence 101',
+    SERENDIPITY = 'Serendipity favors a single hat',
+    RISK_AVERSION = 'Middling power leads to risk aversion',
+    MASSES_JOIN = 'The masses join the revolution last',
+    RUNAWAY_EFFECTS = 'Responsible movements anticipate runaway effects',
+    HUNGRY_OUTSIDERS = 'For hungry outsiders, by a hungry outsider'
 
 const Component = () => (
     <Page
         {...{
             body: `
-${getMarkdownLinkFromText(EPIC_COULDNT_FAIL)}
-${getMarkdownLinkFromText(DUNNING_KRUGER_ARTIST)}
-${getMarkdownLinkFromText(MOMENTUM_FROM_NOTHING)}
-${getMarkdownLinkFromText(MASTERPIECE_REVOLUTION)}
+# ${WHY_BYCOMBO}
 
-### ${EPIC_COULDNT_FAIL}
+Hi! I'm Bennett from the Bobtail Yearlings. I've spent half my life arguing that indie rock has made music worse. And now, in the last few years, people have started agreeing with me. Which means the next revolution can begin! There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt against a system, when systems prevent future revolutions by design?
 
-A long time ago, I was in a band with some friends of mine. We'd been playing shows for several years, and I was frustrated that my friends didn't share my ambition to make it big. Yet I struggled to find ambitious bandmates elsewhere, because I didn't look like any front person who'd ever made it before.
+The key is to understand the reasons *why* music got worse under indie rock: poor knowledge and perverse incentives. Given an endless sea of candidates, indie labels don’t have time to learn about every artist, so they base their judgments on fanbase size. This number can be cynically inflated, however, making it a terrible measure of artistic worth. Yet indie artists grind away and inflate it all the same, just to stay afloat in an endless sea of candidates.
 
-At the time, I was studying masterpieces like James Joyce's *Ulysses* and the Beatles' later albums, hoping to learn what makes a work great. As I read about the extensive recording sessions for *Sgt. Pepper's*, I realized something. With home studios becoming more affordable, a band no longer needed to be established to record their first masterpiece.
+BYCombo's solution, then, is for assembled bands to make demos of historical consequence. To the labels, we promise that solid chunks of lifetime went into making each demo; and to the bands, we promise that every demo is given fair consideration. So labels can have a full picture of who's out there, and bands can devote time and energy to what matters.
 
-And then it hit me. I should create a masterpiece, "The *Ulysses* of Rock Albums," on my own. It would be so epic that I couldn't fail to make it big. I assumed that others out there were thinking similarly, and I would emerge to find myself part of an exciting wave of new bands, each striving to be as good as the Beatles.
+### ${INTERDEPENDENCE}
 
-### ${DUNNING_KRUGER_ARTIST}
+Why historical consequence? Because when people say that music has gotten worse, this is what they're really talking about. Yes, good art still gets made, but history no longer cares by default. What's needed from today's artists is an explicit intent to last, and massive effort to deserve it. And only centralized initiatives can steer them toward this ambition.
 
-But there was no new wave. Instead, upon completion, every demo of *Yearling's Bobtail* was rejected. I soon understood why. With so many unknown bands hoping to be considered, the gatekeepers can only grant each release a fleeting first impression. Want another chance? Release another work.
+Why demos? Because to make consequential art, a band needs to build exceptional strengths. But this is only possible if they're allowed to stay weak in areas that a label will later cover. In other words, consequential art needs an interdependent partner, and demos are the work of a band that's still seeking theirs.
 
-Still, what's hard for one is hard for all. And so the most promising bands simply embrace the system, maximizing their chances by putting out more and frequent releases.
+Why assembled bands? Because contrary to what indie rock thinks, there are revolutionary bands still to come; they're just unlikely to come together on their own. After all, how do five musicians committed to making consequential art find each other across the globe? How does a comic book artist join a band as a full-fledged member? Unprecedented coalitions need top-down assembly, and this is where BYCombo can help.
 
-But *Yearling's Bobtail* took me five years to create. It hides layers of meaning that are revealed upon repeated listens. And there was no way to signal this. If it were possible, then every other band would do the same. So I just kept trying to get the same work heard, again and again. But this is what the *least* competent artists do— because they don't understand that rejection can be used to get better.
+### ${SERENDIPITY}
 
-An artist who creates “The *Ulysses* of Rock Albums,” in other words, will seem to exemplify the Dunning-Kruger effect. They will appear too incompetent to even recognize it.
+Indie rock requires artists to wear multiple hats. There's the manager hat, the publicist hat… all of which take up precious time. Of course, the best indie artists don't skimp on wearing the artist hat. Their art is always as good as one would expect for their level of talent.
 
-### ${MOMENTUM_FROM_NOTHING}
+But the best works of art are *better* than the artists who make them. Why? Because such works also benefit from countless moments of serendipity that can't be repeated at will. And when serendipity strikes, its benefits go to whichever hat you're wearing. So if you only care for the artist hat, then BYCombo is here for you. You want your art to be better than you, and so do we.
 
-This frustrated me, of course. But soon I saw a history-making opportunity and grew excited. Because along with studying masterpieces, I'd also studied musical revolutions. And revolution begins with the incompetent.
+### ${RISK_AVERSION}
 
-Every now and then, some underground bands we respect are welcomed into the mainstream. Let's call this a minor revolution. There is no momentum, because each incremental shifting of the needle faces new resistance. The next cohort is now the one whose music is too raw, or too experimental, for a mainstream audience.
+In his book *Originals*, Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, so *no one* takes any risks.
 
-But a major revolution begins with those we deem incompetent, like the early pioneers of jazz or hip hop. As they compel us to expand our notion of competence, others who were shut out can now join, pushing the boundary further to let even more in. And so, starting from nothing, the revolution builds momentum in a virtuous circle, making it seem inevitable in hindsight.
+Because indie artists strive for power from day one, they're immediately beholden to the current paradigm that empowers them. They then fail to develop an instinct for questioning *any* paradigm. So at BYCombo, we encourage bands to treat their powerless years as a creative asset. What paradigm is your art free to challenge, while you have no power to safeguard?
 
-This phenomenon isn't limited to art. Henry Ford and Steve Jobs were derided as incompetent for trying to sell a worse car and worse computer, respectively. But their products were also cheaper, which allowed them to build something from nothing— namely, a middle-class market for cars and computers.
+### ${MASSES_JOIN}
 
-### ${MASTERPIECE_REVOLUTION}
+Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. This creates an echo chamber, the same kind that makes streaming algorithms so detrimental to art. Even worse, it means the current paradigm can never change, because the masses *never* ask for paradigm change on their own.
 
-It's not hard to imagine an unknown band hearing *Yearling's Bobtail* and feeling encouraged to create a masterpiece. Their work might then inspire others, continuing a virtuous circle. But if these bands are given the same runaround I was given, then this masterpiece revolution will end with me.
+Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *popularized* by powerful insiders at the top. Far from just exploiting such movements, these insiders play a crucial role in getting buy-in from the masses. This may not jibe with anyone's anti-establishment fantasy, but it's the historical truth. So BYCombo doesn't fight this truth; we work with it.
 
-The good news is that no one actually accused me of incompetence. What undid me was a system that's been streamlined to weed it out. Which means this might be the first revolution in music history that doesn't need to change hearts or minds. The problem is really only systemic; its solution can be likewise.
+### ${RUNAWAY_EFFECTS}
 
-To start with, let's agree that "one release, one chance" is very fair. Any alternative system must be no less egalitarian. So I propose counting the number of hours that went into creating a work. By this metric, it would be reasonable for a masterpiece to be granted extra consideration. BYCombo can verify this number for each of its bands, while working to convince the gatekeepers of its value.
+Indie rock created a decentralized system in which artists are given tools to bypass the middleman, and then left alone. But if the middleman's job is straightforward enough for artists to do themselves, then any wealthy artist can easily pay *others* to do it. So indie rock devolved into a trust fund playground, leading to today's disillusionment. Yet this was the foreseeable endgame all along!
 
-But devoting every waking hour, year after year, toward creating a masterpiece isn't easy. No one should do it alone. Along with so much else, bandmates provide moral support and a critical ear. So BYCombo will also bring together ambitious artists who couldn't have found each other on their own.
+Will BYCombo devolve as well? I doubt it. Our solution, taken to its absurd conclusion, calls for spending insane chunks of lifetime to combine brazenly diverse mediums. If anything, the bands that do this will likely end up making the most consequential works of the century.
 
-Not everyone wants to join the masterpiece revolution, of course. But for those who do, I suspect that BYCombo must seem like an obvious idea in retrospect. Had it been an option for me, I know I would have taken it!
+### ${HUNGRY_OUTSIDERS}
+
+Who foresaw indie rock's endgame? Minorities did— which is why they've never started an indie movement. Instead, their movements reward what can't be bought: talent and originality, born from a long time spent in hunger. And this is what BYCombo does.
+
+Yes, indie rock has belatedly embraced female and minority artists. But it's just going to be a steady rotation from here on out, which means this influx of diversity will forever be synonymous with indie rock's decline. By contrast, BYCombo allows women and minorities to aim for the *top* of rock music's pantheon.
+
+Of course, like every other movement started by a minority, BYCombo doesn't just benefit those like ourselves. If you're hungry, we're here for you!
     `,
         }}
     />

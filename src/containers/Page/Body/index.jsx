@@ -27,10 +27,7 @@ const Body = () => {
             }}
         >
             <Heading>
-                {getSmartQuotedText(pageHeading)}
-            </Heading>
-            <Heading {...{ level: 3 }}>
-                {getSmartQuotedText(titleHeading || title)}
+                {getSmartQuotedText(pageHeading || titleHeading || title)}
             </Heading>
             <Heading {...{ level: 5 }}>
                 {getHeaderFromDate(date)}
