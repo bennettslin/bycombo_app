@@ -24,11 +24,11 @@ BYCombo's solution, then, is for assembled bands to make demos of historical con
 
 ### ${INTERDEPENDENCE}
 
-Why historical consequence? Because when people say that music has gotten worse, this is what they're really talking about. Yes, good art still gets made, but history no longer cares by default. What's needed from today's artists is an explicit intent to last, and massive effort to deserve it. And only centralized initiatives can steer them toward this ambition.
+Why historical consequence? Because when people say that music has gotten worse, this is what they're really talking about. Yes, good art still gets made, but history no longer cares by default. What's needed from today's artists is an explicit intent to last, and massive effort to ensure it. And this can only happen through the kind of top-down initiative that BYCombo offers.
 
 Why demos? Because to make consequential art, a band needs to build exceptional strengths. But this is only possible if they're allowed to stay weak in areas that a label will later cover. In other words, consequential art needs an interdependent partner, and demos are the work of a band that's still seeking theirs.
 
-Why assembled bands? Because contrary to what indie rock thinks, there are revolutionary bands still to come; they're just unlikely to come together on their own. After all, how do five musicians committed to making consequential art find each other across the globe? How does a comic book artist join a band as a full-fledged member? Unprecedented coalitions need top-down assembly, and this is where BYCombo can help.
+Why assembled bands? Because contrary to what indie rock thinks, there are revolutionary bands still to come; they're just unlikely to come together on their own. How do five musicians committed to making consequential art find each other across the globe? How does a comic book artist join a band as a full-fledged member? Unprecedented coalitions need top-down assembly, and this is where BYCombo can help.
 
 ### ${SERENDIPITY}
 
