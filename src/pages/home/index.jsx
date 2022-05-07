@@ -1,6 +1,15 @@
 import React from 'react'
 import Page from '../../containers/Page'
 
+// BYCombo accelerates bands the way others accelerate startups. This is how we'll kickstart the interdependence revolution!
+
+// The key is to know *why* music got worse under indie rock: Labels suffer from poor knowledge, and artists face perverse incentives.
+
+// Given an endless sea of candidates, indie labels can't learn about every artist, so they base their judgments on fanbase size. But this number can be cynically inflated, making it an awful measure of artistic worth. Still, indie artists grind away and inflate it all the same, just to stay afloat in an endless sea of candidates.
+
+// To the labels, we promise that solid chunks of lifetime went into making each demo; and to the bands, we promise that every demo is given fair consideration.
+// This way, labels can have a full picture of who's out there, and bands can focus solely on what matters.
+
 const Component = () => (
     <Page
         {...{
