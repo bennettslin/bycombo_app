@@ -24,7 +24,7 @@ Why assembled bands? Because there are revolutionary bands still to come; they'r
 Indie rock requires artists to wear several hats: the manager hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their level of talent.
 
 // TODO: Make it more clear that switching hats means *never* engaging in unconscious thinking.
-But the best works of art are *better* than the artists who make them. Why? Because they benefit from countless moments of serendipity that can't be repeated at will. These moments require unconscious thinking that can't be interrupted by switching hats. So if you want your art to be better than you, BYCombo frees you to only ever wear the artist hat.
+But the best works of art are *better* than the artists who make them. Why? Because they benefit from countless moments of serendipity that can't be repeated at will. And serendipity requires unconscious thinking that can't be disrupted by switching hats. So if you want your art to be better than you, BYCombo frees you to only ever wear the artist hat.
 
 ### Middling power leads to risk aversion
 
