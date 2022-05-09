@@ -7,9 +7,9 @@ const Component = () => (
             body: `
 # Join the interdependence revolution!
 
-Indie rock has made music worse, and it's not hard to see why. Indie labels are too busy to learn who's out there, which forces indie artists to waste time and energy on increasingly worthless signals, like touring at a loss.
+Indie rock has made music worse, and it's not hard to see why. Labels are too busy to learn who's out there, which forces artists to waste time and energy on increasingly worthless signals, such as touring at a loss.
 
-BYCombo fixes this mess by assembling bands who are committed to making historically consequential demos. We promise the labels that solid chunks of lifetime went into each demo; and we promise the bands that every demo is given fair consideration. So labels can know who's out there, and bands can focus on what matters.
+BYCombo fixes this mess by assembling bands who are committed to making demos for works of historical consequence. We promise the labels that solid chunks of lifetime went into each demo; and we promise the bands that every demo is given fair consideration. So labels can know who's out there, and bands can focus on what matters.
 
 ### What we're looking for
 

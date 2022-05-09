@@ -9,7 +9,7 @@ const Component = () => (
 
 Hi, I'm Bennett from the Bobtail Yearlings. I've spent half my life arguing that indie rock has made music worse, to no avail. But something amazing has happened in recent years: People have finally started agreeing with me. Which means the interdependence revolution can begin!
 
-There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt against this system, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well: Through BYCombo, we'll assemble bands who are committed to making demos of historical consequence.
+There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt against this system, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well: Through BYCombo, we'll assemble bands who are committed to making demos for historically consequential works.
 
 ### Interdependence 101
 
