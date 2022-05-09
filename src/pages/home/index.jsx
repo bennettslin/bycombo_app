@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # A thousand *Yearling's Bobtail*s
 
-Hi, it's Bennett. I spent 25,000 hours— twelve full-time years— to make the album and audio webcomic for *Yearling's Bobtail*. Imagine a thousand other bands putting in the same dedication to advance rock music as an art form, each in their own way. This would undeniably be the next revolution!
+Hi, it's Bennett. I spent 25,000 hours— twelve full-time years— making the album and audio webcomic for *Yearling's Bobtail*. Imagine a thousand other bands putting in the same dedication to advance rock music as an art form, each in their own way. This would undeniably be the next revolution!
 
 Yet indie rock punishes such behavior— not by anyone's intent, but because it can't self-correct to align with its ideals. Labels are too busy to learn who's out there, forcing artists to waste time and energy on worthless signals.
 
