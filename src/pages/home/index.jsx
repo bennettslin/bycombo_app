@@ -7,19 +7,13 @@ const Component = () => (
             body: `
 # Join the interdependence revolution!
 
-BYCombo accelerates bands the way others accelerate startups. This is how we'll kickstart the interdependence revolution!
+Indie rock has made music worse, and it's not hard to see why. Indie labels are too busy to learn who's out there, which forces indie artists to waste time and energy on increasingly worthless signals, like touring at a loss.
 
-The key is to know *why* music got worse under indie rock: Labels suffer from poor knowledge, and artists face perverse incentives.
+BYCombo fixes this mess by assembling bands who are committed to making historically consequential demos. We promise the labels that solid chunks of lifetime went into each demo; and we promise the bands that every demo is given fair consideration. So labels can know who's out there, and bands can focus on what matters.
 
+### What we're looking for
 
-Indie labels can't learn about every artist, so they base their judgments on fanbase size. But this number can be cynically inflated, making it an awful measure of artistic worth. Still, indie artists grind away and inflate it all the same, just to stay afloat in an endless sea of candidates.
-
-BYCombo can break this vicious circle of poor knowledge and perverse incentives by  
-
-To the labels, we promise that solid chunks of lifetime went into making each demo; and to the bands, we promise that every demo is given fair consideration.
-This way, labels can have a full picture of who's out there, and bands can focus solely on what matters.
-
-Hi! We're BYCombo, a nonprofit dedicated to launching a revolution of musical masterpieces.
+### What we'll do for you
 
 Are you an unknown artist who's ready to craft a masterpiece? If you're willing to move to a major city and commit forty hours a week for as many years as it takes, then BYCombo is here for you.
 

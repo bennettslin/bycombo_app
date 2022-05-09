@@ -27,21 +27,21 @@ But the best works of art are *better* than the artists who make them. Why? Beca
 
 ### Middling power leads to risk aversion
 
-In his book *Originals*, Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, resulting in *no one* taking any risks.
+In his book *Originals*, Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, which results in *no one* taking risks.
 
-Because indie artists strive for power from the get-go, they're immediately beholden to the current paradigm that empowers them. And then they never learn to question *any* paradigm. This is why BYCombo encourages bands to treat their powerless years as a creative asset. While you have nothing to lose, what paradigms are you free to challenge?
+Because indie artists strive for power from the get-go, they're immediately beholden to the current paradigm that empowers them. And then they never think to question *any* paradigm. This is why BYCombo encourages bands to treat their powerless years as a creative asset. While you have nothing to lose, what paradigms are you free to challenge?
 
 ### The masses are last to join the revolution
 
 Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. This creates a feedback loop, the same kind that makes streaming algorithms so detrimental to art. Even worse, it means the current paradigm can never change, because the masses *never* ask for paradigm change on their own.
 
-Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *popularized* by powerful insiders at the top. Far from just exploiting such movements, these insiders play a crucial role in getting buy-in from the masses. This may not jibe with anyone's anti-establishment fantasy, but it's the historical truth. So BYCombo works with this truth.
+Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *popularized* by powerful insiders. Far from exploiting such movements, those at the top play a crucial role in getting buy-in from the masses. This may not jibe with anyone's anti-establishment fantasy, but it's the historical truth. So BYCombo works with it.
 
 ### Responsible revolutions plan for runaway effects
 
 Indie rock is a culture of self-reliance that gives artists the tools needed to bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can just as easily pay *others* to do it. As a result, indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
-Will BYCombo devolve as well? I doubt it. Our ideals, taken to their absurd conclusion, call for spending insane chunks of lifetime while combining brazenly diverse mediums. But if anything, the bands who do this are likely to make the most consequential works of the century!
+Will BYCombo also devolve? Well, taken to their absurd conclusion, our ideals call for spending insane chunks of lifetime while combining brazenly diverse mediums. If anything, the bands who do this are likely to make the most consequential works of the century!
 
 ### For hungry outsiders, by a hungry outsider
 
@@ -53,9 +53,9 @@ Yes, indie rock has recently embraced female and minority artists. But don't be 
 
 Indie rock is all about fair compensation: Artists must never give more of themselves than they take. Not even voluntarily, since this is a slippery slope that leads to further expectations of sacrifice all around. As such, indie rock has never given the world a rock and roll martyr— and proudly so.
 
-Yet art *needs* martyrs, because the extreme ends of the art form can only be explored at great personal cost. No one wants to go back to the days of artists dying young, of course. But thankfully, history tells of another kind of martyr: artists willing to give up not their *lives*, but their *lifetimes*.
+Yet rock *needs* martyrs, because the extreme ends of the art form can only be explored at great personal cost. Let's never return to the days of artists dying young, of course. But thankfully, history tells of another kind of martyr: artists willing to give up not their *lives*, but their *lifetimes*.
 
-Will you sacrifice a chunk of lifetime to make history by advancing rock and roll as an art form? If so, BYCombo is here to get you heard!
+So will you sacrifice solid chunks of lifetime to advance the musical art form and make history? If so, BYCombo's mission is to get you heard!
     `,
         }}
     />
