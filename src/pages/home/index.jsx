@@ -5,11 +5,13 @@ const Component = () => (
     <Page
         {...{
             body: `
-# Join the interdependence revolution!
+# A thousand *Yearling's Bobtail*s
 
-Indie rock has made music worse, and it's not hard to see why. Labels are too busy to learn who's out there, which forces artists to waste time and energy on increasingly worthless signals, such as touring at a loss.
+Rock music today is in a mess. Labels are too busy to learn who's out there, which forces artists to waste time and energy on worthless signals.
 
-BYCombo fixes this mess by assembling bands who are committed to making demos for works of historical consequence. We promise the labels that solid chunks of lifetime went into each demo; and we promise the bands that every demo is given fair consideration. So labels can know who's out there, and bands can focus on what matters.
+BYCombo fixes this mess by assembling bands committed to making highly ambitious demos. We promise the labels that solid chunks of lifetime went into each demo; and we promise the bands that every demo is given fair consideration. So labels can know who's out there, and bands can focus on what matters.
+
+Hi, it's Bennett from the Bobtail Yearlings. 
 
 ### What we're looking for
 

@@ -7,9 +7,9 @@ const Component = () => (
             body: `
 # Why BYCombo?
 
-Hi, I'm Bennett from the Bobtail Yearlings. I've spent half my life arguing that indie rock has made music worse, to no avail. But something amazing has happened in recent years: People have finally started agreeing with me. Which means the interdependence revolution can begin!
+Hi, it's Bennett from the Bobtail Yearlings. I've spent half my life arguing that indie rock has made music worse, to no avail. But something amazing has happened in recent years: People have finally started agreeing with me. Which means the interdependence revolution can begin!
 
-There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt against this system, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well: Through BYCombo, we'll assemble bands who are committed to making demos for historically consequential works.
+There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt against this system, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well: Through BYCombo, we'll assemble bands committed to making demos for historically consequential works of art.
 
 ### Interdependence 101
 
@@ -23,7 +23,8 @@ Why assembled bands? Because there are revolutionary bands still to come; they'r
 
 Indie rock requires artists to wear several hats: the manager hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their level of talent.
 
-But the best works of art are *better* than the artists who make them. Why? Because they benefit from moments of serendipity that can't be repeated at will. And when serendipity strikes, its benefits go to whichever hat you're wearing. So if you only care for the artist hat, then BYCombo is here for you. You want your art to be better than you, and so do we.
+// TODO: Make it more clear that switching hats means *never* engaging in unconscious thinking.
+But the best works of art are *better* than the artists who make them. Why? Because they benefit from countless moments of serendipity that can't be repeated at will. These moments require unconscious thinking that can't be interrupted by switching hats. So if you want your art to be better than you, BYCombo frees you to only ever wear the artist hat.
 
 ### Middling power leads to risk aversion
 
@@ -53,9 +54,9 @@ Yes, indie rock has recently embraced female and minority artists. But don't be 
 
 Indie rock is all about fair compensation: Artists must never give more of themselves than they take. Not even voluntarily, since this is a slippery slope that leads to further expectations of sacrifice all around. As such, indie rock has never given the world a rock and roll martyr— and proudly so.
 
-Yet rock *needs* martyrs, because the extreme ends of the art form can only be explored at great personal cost. Let's never return to the days of artists dying young, of course. But thankfully, history tells of another kind of martyr: artists willing to give up not their *lives*, but their *lifetimes*.
+Yet rock *needs* martyrs, because the extreme ends of the art form can only be explored at great personal cost. Let's never return to the days of artists dying young, of course. But thankfully, history tells of another kind of martyr: those willing to give up not their *lives*, but their *lifetimes*.
 
-So will you sacrifice solid chunks of lifetime to advance the musical art form and make history? If so, BYCombo's mission is to get you heard!
+Will you sacrifice a solid chunk of lifetime to advance the musical art form and make history? If so, BYCombo's mission is to get you heard!
     `,
         }}
     />
