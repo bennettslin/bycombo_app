@@ -6,7 +6,19 @@ const Component = () => (
         {...{
             showContactEmail: true,
             body: `
-The application form is coming soon! In the meantime, please get in touch if you have any questions.
+# Join the interdependence revolution!
+
+Be a part of our test pilot cohort! Send us the following information:
+
+* Your name and pronouns
+* Your current city, and where you can relocate
+* A list of your talents and skill levels
+* Your bold ideas for a project, if any
+* Your artistic and musical preferences
+* Any links to social media or videos that you like
+* Suggestions to improve BYCombo, if any
+
+Women and minorities are encouraged to apply.
             `,
         }}
     />

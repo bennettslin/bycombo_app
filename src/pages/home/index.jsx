@@ -5,25 +5,32 @@ const Component = () => (
     <Page
         {...{
             body: `
+**BYCombo is a rock band accelerator. Our mission is to assemble bands committed to making highly ambitious demos.**
+
 # A thousand *Yearling's Bobtail*s
 
-Hi, it's Bennett. I spent 25,000 hours— twelve full-time years— making the album and audio webcomic for *Yearling's Bobtail*. Imagine a thousand bands just as dedicated, each advancing rock music as an art form in their own way. This would undeniably be the next revolution!
+Hi, it's Bennett. I spent 25,000 hours— twelve full-time years— making the album and audio webcomic for *Yearling's Bobtail*. Now imagine a thousand other bands putting in the same time and energy to advance rock music, each in their own way. This would undeniably be the next revolution!
 
-Yet indie rock will ignore such efforts, because it can't self-correct to align with its ideals. Labels are too busy to learn what's out there, so an artist's first priority is to waste time and energy on worthless signals.
+Yet indie rock will ignore any such efforts. Since the labels are too busy to learn what's out there, artists are forced to vie for attention by wasting time and energy instead on worthless signals.
 
-BYCombo fixes this mess by assembling bands committed to making highly ambitious demos like *Yearling's Bobtail*. We promise the labels that solid chunks of lifetime went into each demo; and we promise the bands that every demo is given fair consideration. So labels can know who's out there, and bands can focus on what matters.
+But BYCombo can fix this mess! To the labels, we promise that each band spends a solid chunk of lifetime on their demo; and to the bands, we promise that each label gives their demo fair consideration. So labels can know who's out there, and bands can focus on what matters.
 
-### What we're looking for
+### Who we're looking for
 
-Are you an unknown artist who's ready to craft a masterpiece? If you're willing to move to a major city and commit forty hours a week for as many years as it takes, then BYCombo is here for you.
+BYCombo is looking for anyone who wants to join a band and be part of the interdependence revolution! You're at least one of the following:
+
+* A creator with bold ideas for a project
+* A rock musician— singer, guitarist, drummer
+* A musician of another stripe— throatsinger, tabla player
+* An artist of some other medium— dancer, web developer
+
+After relocating to Los Angeles or another major city, you'll commit forty hours a week for three or more years to the making of an ambitious demo. When the demo is complete, you'll perform all the expected duties of a full band member.
 
 ### What we'll do for you
 
-We'll put you in a band with others as ambitious as you are, help you develop your big idea, provide you with a supportive community, and work with the gatekeepers to ensure your masterpiece is given fair consideration.
+BYCombo will put you in a band with other members of comparable talent, subject to everyone's approval. Through the years, we'll help you develop your band's project and provide you with a community of like-minded bands. The Bobtail Yearlings will also help however they can.
 
-And BYCombo isn't just for musicians. We welcome anyone who hopes to challenge the accepted notion of who belongs in a band and what a band creates. Comic book artists, game developers, and all others, we'd love to hear from you!
-
-If you're a musician 
+Once your demo is completed, we'll send it to participating labels. We'll then post it on this website afterward, making it discoverable to anyone looking for a disciplined band that made an ambitious 25,000-hour demo.
             `,
         }}
     />
