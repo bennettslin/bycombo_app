@@ -5,7 +5,7 @@ const Component = () => (
     <Page
         {...{
             body: `
-**BYCombo is a rock band accelerator. Our mission is to assemble bands committed to making ambitious demos of historical consequence.**
+**BYCombo is a nonprofit band incubator. Our mission is to assemble rock bands committed to making ambitious demos of historical consequence.**
 
 # "A thousand *Yearling's Bobtail*s"
 
@@ -28,7 +28,7 @@ You'll relocate with your band to Los Angeles or some other major city. Once set
 
 ### What we'll do for you
 
-BYCombo will put you in a band with other members of comparable talent, subject to everyone's approval. Through the years, we'll help you develop your band's project and provide you with a community of like-minded bands. The Bobtail Yearlings will also help wherever they can.
+BYCombo will put you in a band with other members of comparable talent, subject to everyone's approval. Through the years, we'll help you develop your band's project and provide you with a community of like-minded bands. The Bobtail Yearlings will also help wherever they can!
 
 Once your demo is completed, we'll send it to participating labels. Afterward we'll post it on this website, making it discoverable to anyone looking for a disciplined band that made an ambitious 25,000-hour demo.
             `,
