@@ -15,7 +15,7 @@ There's just one problem: Indie rock isn't so much a genre as it is a system of 
 
 Why historical consequence? Because when people say that rock music has gotten worse, this is what they really have in mind. Yes, good art is still being made, but history no longer cares by default. What's needed from today's artists is an explicit intent to last, and a massive effort to ensure it. And this can only happen through top-down initiatives like BYCombo.
 
-Why demos? Because to make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, consequential art can only happen interdependently. It needs to partner with a label, and demos are what a band sounds like until they've found one.
+Why demos? Because to make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, consequential art can only happen interdependently. It needs to partner with a label, and demos are what a band sounds like until they've found theirs.
 
 Why assembled bands? Because there are revolutionary acts still to come; it's just no longer likely that they'll come together on their own. How do five musicians committed to making history find each other across the globe? How does a comic book artist join as a full-fledged member? Unprecedented ensembles need top-down assembly, and BYCombo can help.
 

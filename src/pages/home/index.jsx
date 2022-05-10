@@ -24,7 +24,7 @@ BYCombo is looking for anyone who wants to join a band and be part of the interd
 * A musician of another stripe— throatsinger, tabla player
 * An artist of some other medium— dancer, web developer
 
-You'll relocate with your band to Los Angeles or some other major city. Once settled, you'll commit forty hours a week for three years to the making of an ambitious demo. When the demo is complete, you'll perform all the expected duties of a full band member.
+You'll relocate with your band to Los Angeles or some other major city. Once settled, you'll commit forty hours a week for three years to the making of an ambitious demo. Then when the demo is complete, you'll perform all the expected duties of a band member.
 
 ### What we'll do for you
 
