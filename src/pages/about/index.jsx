@@ -9,7 +9,7 @@ const Component = () => (
 
 Hi, it's Bennett. I've spent half my life arguing that indie rock has made music worse, to no avail. But something amazing has happened in recent years: People have finally started agreeing with me. Which means the interdependence revolution can now begin!
 
-There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt against this system, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well: Through BYCombo, we'll assemble bands committed to making highly ambitious demos of historical consequence.
+There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt against this system, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well: Through BYCombo, we'll assemble bands committed to making ambitious demos of historical consequence.
 
 ### Interdependence 101
 
@@ -17,13 +17,13 @@ Why historical consequence? Because when people say that rock music has gotten w
 
 Why demos? Because to make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, consequential art can only happen interdependently. It needs to partner with a label, and demos are what a band sounds like until they've found one.
 
-Why assembled bands? Because there are revolutionary bands still to come; they're just no longer likely to come together on their own. How do five musicians committed to making consequential art find each other across the globe? How does a comic book artist join as a full-fledged member? Unprecedented ensembles need top-down assembly, and BYCombo can help.
+Why assembled bands? Because there are revolutionary acts still to come; it's just no longer likely that they'll come together on their own. How do five musicians committed to making history find each other across the globe? How does a comic book artist join as a full-fledged member? Unprecedented ensembles need top-down assembly, and BYCombo can help.
 
 ### Serendipity favors a single hat
 
 Indie rock requires artists to wear several hats: the manager hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their level of talent.
 
-But the best works of art are *better* than the artists who make them. Why? Because they also benefit from countless eureka moments that can't be repeated at will. And these moments arise from unconscious thoughts that easily get disrupted by switching hats. So BYCombo lets you keep the artist hat on. You want your art to be better than you, and so do we.
+But the best works of art are *better* than the artists who make them. Why? Because they also benefit from countless eureka moments that can't be repeated at will. And these moments emerge from unconscious thinking that easily gets disrupted by switching hats. So BYCombo lets you keep the artist hat on. You want your art to be better than you, and so do we.
 
 ### Middling power leads to risk aversion
 
