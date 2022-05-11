@@ -8,7 +8,7 @@ const Component = () => (
             body: `
 # Join the interdependence revolution!
 
-Make history by being a part of our test pilot cohort! To apply, send us the following, and we'll be in touch shortly:
+Make history by being part of our pilot cohort! Send us the following, and we'll be in touch shortly:
 
 * Your name and pronouns
 * Your current city, and where you can relocate
@@ -18,7 +18,7 @@ Make history by being a part of our test pilot cohort! To apply, send us the fol
 * Any links to social media or videos that you like
 * Suggestions to improve BYCombo, if any
 
-Women and minorities are encouraged to apply.
+Women and minorities are encouraged to apply!
             `,
         }}
     />

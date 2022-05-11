@@ -1,6 +1,7 @@
 import React from 'react'
 import Demo from '../../components/Demo'
 import Page from '../../containers/Page'
+import bobtailYearlings from '../../assets/images/bobtailYearlings.png'
 
 const Component = () => (
     <Page
@@ -14,7 +15,8 @@ If you have any questions, or if you'd like to help us get the word out about BY
                         {...{
                             band: `Bobtail Yearlings`,
                             title: `Yearling's Bobtail`,
-                            description: `"A thousand *Yearling's Bobtail*s" needs to start with the original one!`,
+                            description: `The first of a thousand *Yearling's Bobtail*s!`,
+                            src: bobtailYearlings,
                         }}
                     />
                 ),

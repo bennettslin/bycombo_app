@@ -7,9 +7,9 @@ const Component = () => (
             body: `
 **BYCombo is a nonprofit band incubator. Our mission is to assemble rock bands committed to making ambitious demos of historical consequence.**
 
-# "A thousand *Yearling's Bobtail*s"
+# A thousand *Yearling's Bobtail*s
 
-Hi, it's Bennett. I spent 25,000 hours— twelve full-time years!— making the album and audio webcomic for *Yearling's Bobtail*. Now imagine a thousand other bands putting the same time and energy into their own demos. This would surely be the next revolution in rock music!
+Hi, I'm Bennett. It took me 25,000 hours— twelve full-time years!— to make the album and audio webcomic for *Yearling's Bobtail*. Now imagine a thousand other bands putting the same time and energy into their own demos. This would surely be the next revolution!
 
 And yet, indie rock isn't set up to notice such efforts. The labels are too busy to learn who's out there, so artists must vie for attention by wasting time and energy instead on broken signals, like touring at a loss.
 

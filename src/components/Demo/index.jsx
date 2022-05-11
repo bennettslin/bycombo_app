@@ -2,14 +2,16 @@ import React from 'react'
 import cx from 'classnames'
 import PropTypes from 'prop-types'
 import Flex from '../Flex'
-import './style'
+import Image from '../Image'
 import Markdown from '../Markdown'
+import './style'
 
 const Demo = ({
     className,
     band,
     title,
     description,
+    src,
 }) => (
     <Flex
         {...{
@@ -28,7 +30,7 @@ const Demo = ({
                 ),
             }}
         >
-
+            <Image {...{ src }} />
         </Flex>
         <Flex
             {...{
@@ -56,6 +58,7 @@ Demo.propTypes = {
     band: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
     description: PropTypes.string.isRequired,
+    src: PropTypes.string.isRequired,
 }
 
 export default Demo

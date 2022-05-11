@@ -55,7 +55,7 @@ Indie rock is all about fair compensation: Artists must never give more of thems
 
 Yet rock *needs* martyrs, because the extreme ends of the art form can only be explored at great personal cost. Let's never return to the days of artists dying young, of course. But thankfully, history tells of another kind of martyr: those willing to give up not their *lives*, but their *lifetimes*.
 
-Will you sacrifice a solid chunk of lifetime to advance rock music as an art form and make history? If so, BYCombo is here for you!
+Will you sacrifice a solid chunk of lifetime to advance rock music as an art form and make history? If so, then BYCombo is here for you!
     `,
         }}
     />
