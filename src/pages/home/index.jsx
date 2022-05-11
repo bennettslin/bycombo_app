@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 **BYCombo is a nonprofit band incubator. Our mission is to assemble rock bands committed to making ambitious demos of historical consequence.**
 
-# A thousand *Yearling's Bobtail*s
+# "A thousand *Yearling's Bobtail*s"
 
 Hi, I'm Bennett. It took me 25,000 hours— twelve full-time years!— to make the album and audio webcomic for *Yearling's Bobtail*. Now imagine a thousand other bands putting the same time and energy into their own demos. This would surely be the next revolution!
 

@@ -9,7 +9,7 @@ body {
     color: $colour__text__dark;
 }
 
-body, p, h1, h3, h5, ul {
+body, p, h1, h2, h3, h5, ul {
     margin: 0;
 }
 
@@ -19,6 +19,10 @@ label {
 
 h1 {
     font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.33em;
 }
 
 h3 {

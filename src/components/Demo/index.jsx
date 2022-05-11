@@ -4,7 +4,9 @@ import PropTypes from 'prop-types'
 import Flex from '../Flex'
 import Image from '../Image'
 import Markdown from '../Markdown'
+import Heading from '../Heading'
 import './style'
+import { getSmartQuotedText } from '../../utils/format/smartQuote'
 
 const Demo = ({
     className,
@@ -19,7 +21,9 @@ const Demo = ({
                 'Demo',
                 className,
             ),
-            gap: `md`,
+            justifyContent: 'normal',
+            alignItems: 'start',
+            gap: `sm`,
         }}
     >
         <Flex
@@ -38,14 +42,14 @@ const Demo = ({
                     'Demo__text',
                     className,
                 ),
+                flexDirection: 'column',
+                alignItems: 'normal',
             }}
         >
-            <Markdown>
-                {band}
-            </Markdown>
-            <Markdown>
-                {title}
-            </Markdown>
+            <Heading {...{ level: 2 }}>
+                <i>{getSmartQuotedText(title)}</i>
+            </Heading>
+            <Heading {...{ level: 3 }}>{getSmartQuotedText(band)}</Heading>
             <Markdown>
                 {description}
             </Markdown>

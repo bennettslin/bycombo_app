@@ -1,7 +1,6 @@
+@use 'sass:math';
 @import '../../scss/constants/responsive';
 
-.Demo {
-    &:not(:first-child) {
-        margin-top: $margin__md;
-    }
+.Demo__image {
+    min-width: math.div($width__sm, 3);
 }
