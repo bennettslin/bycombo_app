@@ -9,7 +9,7 @@ const Component = () => (
             body: [
                 `
 # The new outsider art
-Who's *really* out there? Where are all the bands sacrificing solid chunks of lifetime to make history? The bands that indie rock won't tell you about, because they aren't wasting time and energy on broken signals to vie for attention? With BYCombo, you'll never wonder again!
+Who's *really* out there? Where are all the bands sacrificing solid chunks of lifetime to make history? The bands you won't hear about from indie rock, because they aren't wasting time and energy on broken signals to vie for attention? With BYCombo, you'll never wonder again!
                 `,
                 (
                     <Demo

@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # Why BYCombo?
 
-Hi, it's Bennett. I've spent half my life arguing that indie rock has made music worse, to no avail. But something amazing has happened in recent years: People have finally started agreeing with me. Which means the interdependence revolution can now begin!
+Hi, it's Bennett. I've spent half my life arguing that indie rock has made music worse, to no avail. But something amazing has happened in recent years: People have finally started to agree with me. Which means the interdependence revolution can now begin!
 
 There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt against this system, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well: Through BYCombo, we'll assemble rock bands committed to making ambitious demos of historical consequence.
 
