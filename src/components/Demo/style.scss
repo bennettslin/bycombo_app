@@ -1,0 +1,7 @@
+@import '../../scss/constants/responsive';
+
+.Demo {
+    &:not(:first-child) {
+        margin-top: $margin__md;
+    }
+}
