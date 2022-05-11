@@ -6,11 +6,11 @@
 
 .PopupView {
     position: relative;
-    width: $width__modal;
+    width: $width__sm;
     gap: $margin__sm;
 
     padding: $margin__md;
-    background-color: $colour__background;
+    background-color: $colour__background__light;
     border-radius: $borderRadius__wide;
     box-shadow: $boxShadow__above;
 
