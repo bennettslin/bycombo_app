@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import { useDispatch } from 'react-redux'
 import { updateSelectedPagePath } from '../../redux/page/action'
-import { getLinkFromPath } from '../../utils/pages/path'
+import { getInternalLinkForPath } from '../../utils/pages/path'
 import { getInternalLink } from './helper'
 
 const Anchor = ({
@@ -47,7 +47,7 @@ const Anchor = ({
                     className,
                 ),
                 ...internalLink && {
-                    to: getLinkFromPath(internalLink),
+                    to: getInternalLinkForPath(internalLink),
                     replace: true,
                 },
                 ...!internalLink && href && {

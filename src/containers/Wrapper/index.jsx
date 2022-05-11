@@ -13,7 +13,7 @@ const Wrapper = ({ children }) => (
             className: cx(
                 'Wrapper',
             ),
-            flexDirection: 'column-reverse',
+            flexDirection: 'columnReverse',
         }}
     >
         <Background />

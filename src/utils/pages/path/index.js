@@ -12,7 +12,7 @@ export const getIsTabbedPath = path => (
     TABBED_PAGES_SET.has(getTopLevelPageFromPath(path))
 )
 
-export const getLinkFromPath = path => (
+export const getInternalLinkForPath = path => (
     path === HOME_PAGE ? '/' : `/${path}`
 )
 
@@ -25,5 +25,5 @@ export const getUrlFromPath = path => {
         path.includes('.')
     ) ? '' : '/'
 
-    return `${DOMAIN_NAME}${getLinkFromPath(path)}${finalSlash}`
+    return `${DOMAIN_NAME}${getInternalLinkForPath(path)}${finalSlash}`
 }

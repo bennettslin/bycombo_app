@@ -23,7 +23,7 @@ const PopupView = ({
                 in: isVisible,
                 timeout: 200,
                 classNames: {
-                    enterDone: 'PopupView__visible',
+                    enterDone: 'shown',
                 },
             }}
         >
@@ -32,8 +32,10 @@ const PopupView = ({
                     className: cx(
                         'PopupView',
                         `${popupName}View`,
+                        'hidden',
                     ),
                     flexDirection: 'column',
+                    gap: 'sm',
                     onClick,
                 }}
             >

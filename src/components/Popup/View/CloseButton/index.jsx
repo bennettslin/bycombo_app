@@ -11,6 +11,7 @@ const PopupCloseButton = ({
 }) => {
     return (
         <Button
+            dropShadow
             {...{
                 className: cx(
                     'PopupCloseButton',
@@ -20,6 +21,7 @@ const PopupCloseButton = ({
         >
             <Svg
                 {...{
+                    className: 'popupClose',
                     src: popupClose,
                 }}
             />

@@ -7,7 +7,7 @@ import Flex from '../Flex'
 import ButtonAnimatable from './Animatable'
 import Tooltip from './Tooltip'
 import { updateSelectedPagePath } from '../../redux/page/action'
-import { getLinkFromPath } from '../../utils/pages/path'
+import { getInternalLinkForPath } from '../../utils/pages/path'
 import './style'
 
 const Button = forwardRef(({
@@ -58,7 +58,7 @@ const Button = forwardRef(({
                 ),
                 onClick,
                 ...isInternalLink && {
-                    to: getLinkFromPath(pagePath),
+                    to: getInternalLinkForPath(pagePath),
                     replace: true,
                 },
                 ...isTooltipEnabled && {
