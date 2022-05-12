@@ -11,9 +11,9 @@ Hi, Bennett here. I've spent half my life arguing that indie rock has made music
 
 There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt against this system, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well: Through BYCombo, we'll assemble interdependent bands committed to making historically consequential demos.
 
-### Why top-down interdependence is up next
+### Interdependence comes from the top down
 
-Why historical consequence? Because when people say that rock music has gotten worse, this is what they really have in mind. Yes, good art is still being made, but history no longer cares by default. What's needed from today's artists is an explicit intent to last, and a massive effort to ensure it. And this can only happen through top-down initiatives like BYCombo.
+Why historical consequence? Because when people say that rock music has gotten worse, this is what they really have in mind. Yes, good albums are still being made, but history no longer cares by default. What's needed from today's artists is an explicit intent to make art that lasts, and this can only be sparked by top-down initiatives like BYCombo.
 
 Why demos? Because to make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, consequential art can only happen interdependently. It needs to partner with a label, and demos are what a band sounds like until they've found theirs.
 
@@ -47,7 +47,7 @@ Will BYCombo also devolve? Well, taken to its absurd conclusion, our solution ca
 
 Who foresaw indie rock's absurd conclusion? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: talent and originality born from hunger. And this is what BYCombo does.
 
-Yes, indie rock has recently embraced female and minority artists. But don't be fooled: They've been handed the reins *because* it's in decline. These are crumbs being offered here. Worse, history may *blame* this belated influx of diversity for indie rock's demise. By contrast, BYCombo allows women and minorities to tap their natural hunger and aim for the *top* of the pantheon.
+Yes, indie rock has recently embraced female and minority artists. But don't be fooled: They've been handed the reins *because* it's in decline. These are crumbs being offered here. By contrast, BYCombo allows women and minorities to tap their natural hunger and aim for the *top* of the pantheon.
 
 ### Art needs the blood of martyrs
 
