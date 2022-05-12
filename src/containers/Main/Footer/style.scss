@@ -20,7 +20,7 @@
     align-items: center;
     gap: $margin__sm;
     
-    @media (min-width: $breakpoint__lg) {
+    @media (min-width: $breakpoint__md) {
         flex-direction: row;
     }
 }

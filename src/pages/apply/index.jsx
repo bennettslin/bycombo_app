@@ -12,11 +12,10 @@ Make history by being part of our pilot cohort! Send us the following, and we'll
 
 * Your name and pronouns
 * Your current city, and where you can relocate
-* A list of your talents and skill levels
-* Your bold ideas for a project, if any
+* Your bold ideas for a musical project, if any
 * Your artistic and musical preferences
-* Any links to social media or videos that you like
-* Suggestions to improve BYCombo, if any
+* A list of your talents and corresponding skill levels
+* Any relevant links
 
 Women and minorities are encouraged to apply!
             `,

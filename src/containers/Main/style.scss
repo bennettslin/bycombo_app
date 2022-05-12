@@ -10,7 +10,7 @@
     flex-direction: column;
     align-items: center;
     
-    @media (min-width: $breakpoint__lg) {
+    @media (min-width: $breakpoint__md) {
         gap: $margin__sm;
     }
 }

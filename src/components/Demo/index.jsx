@@ -44,6 +44,7 @@ const Demo = ({
                 ),
                 flexDirection: 'column',
                 alignItems: 'normal',
+                gap: 'xxs',
             }}
         >
             <Heading {...{ level: 2 }}>

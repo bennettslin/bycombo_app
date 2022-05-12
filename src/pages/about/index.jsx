@@ -5,19 +5,19 @@ const Component = () => (
     <Page
         {...{
             body: `
-# Why BYCombo?
+# The problem with indie rock
 
-Hi, it's Bennett. I've spent half my life arguing that indie rock has made music worse, to no avail. But something amazing has happened in recent years: People have finally started to agree with me. Which means the interdependence revolution can now begin!
+Hi, Bennett here. I've spent half my life arguing that indie rock has made music worse, to no avail. But something amazing has happened in recent years: People have finally started to agree with me. Which means the interdependence revolution can now begin!
 
-There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt against this system, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well: Through BYCombo, we'll assemble rock bands committed to making ambitious demos of historical consequence.
+There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt against this system, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well: Through BYCombo, we'll assemble interdependent bands committed to making historically consequential demos.
 
-### Interdependence 101
+### Why top-down interdependence is next
 
 Why historical consequence? Because when people say that rock music has gotten worse, this is what they really have in mind. Yes, good art is still being made, but history no longer cares by default. What's needed from today's artists is an explicit intent to last, and a massive effort to ensure it. And this can only happen through top-down initiatives like BYCombo.
 
 Why demos? Because to make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, consequential art can only happen interdependently. It needs to partner with a label, and demos are what a band sounds like until they've found theirs.
 
-Why assembled bands? Because there are revolutionary acts still to come; it's just no longer likely that they'll come together on their own. How do five musicians committed to making history find each other across the globe? How does a comic book artist join as a full-fledged member? Unprecedented ensembles need top-down assembly, and BYCombo can help.
+Why assembled bands? Because there are revolutionary acts still to come; they're just no longer likely to come together on their own. How do five musicians committed to making history find each other across the globe? How does a comic book artist join as a full-fledged member? Unprecedented ensembles need top-down assembly, and BYCombo can help.
 
 ### Serendipity favors a single hat
 
@@ -33,21 +33,21 @@ Because indie artists strive for power from the get-go, they're immediately beho
 
 ### The masses are last to join the revolution
 
-Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. This creates a feedback loop, the same kind that makes streaming algorithms so detrimental to art. Even worse, it means the current paradigm can never change, because the masses *never* ask for paradigm change on their own.
+Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. This creates an echo chamber, the same kind that makes streaming algorithms so detrimental to art. Even worse, it means the current paradigm can never change, because the masses *never* ask for paradigm change on their own.
 
 Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *popularized* by powerful insiders. Far from exploiting such movements, those at the top play a crucial role in getting buy-in from the masses. This may not jibe with anyone's anti-establishment fantasy, but it's the historical truth. So BYCombo works with it.
 
 ### Responsible revolutions plan for runaway effects
 
-Indie rock is a culture of self-reliance that gives artists the tools needed to bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can just as easily pay *others* to do it. As a result, indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
+Indie rock is a culture of self-reliance that gives artists the tools needed to bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can pay *others* to do it. As a result, indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
-Will BYCombo also devolve? Well, taken to their absurd conclusion, our ideals call for spending insane chunks of lifetime while combining brazenly diverse mediums. If anything, the bands who do this are likely to make the most consequential works of the century!
+Will BYCombo also devolve? Well, taken to its absurd conclusion, our solution calls for spending *insane* chunks of lifetime. But if anything, the bands who do this are almost *guaranteed* to make the most consequential works of the century!
 
 ### For hungry outsiders, by a hungry outsider
 
 Who foresaw indie rock's absurd conclusion? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: talent and originality born from hunger. And this is what BYCombo does.
 
-Yes, indie rock has recently embraced female and minority artists. But don't be fooled: They've been handed the reins *because* it's in decline. These are crumbs being offered here. Worse, history may *blame* this belated influx of diversity for indie rock's demise. BYCombo, on the other hand, allows women and minorities to aim for the *top* of rock and roll's pantheon.
+Yes, indie rock has recently embraced female and minority artists. But don't be fooled: They've been handed the reins *because* it's in decline. These are crumbs being offered here. Worse, history may *blame* this belated influx of diversity for indie rock's demise. By contrast, BYCombo allows women and minorities to tap their natural hunger and aim for the *top* of the pantheon.
 
 ### Art needs the blood of martyrs
 
@@ -55,7 +55,7 @@ Indie rock is all about fair compensation: Artists must never give more of thems
 
 Yet rock *needs* martyrs, because the extreme ends of the art form can only be explored at great personal cost. Let's never return to the days of artists dying young, of course. But thankfully, history tells of another kind of martyr: those willing to give up not their *lives*, but their *lifetimes*.
 
-Will you sacrifice a solid chunk of lifetime to advance rock music as an art form and make history? If so, then BYCombo is here for you!
+Are you willing to sacrifice a solid chunk of lifetime for the betterment of rock music? If so, then BYCombo is here for you!
     `,
         }}
     />

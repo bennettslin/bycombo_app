@@ -1,7 +1,7 @@
 @import '../../../scss/constants/responsive';
 
 .StyledFrame {
-    @media (min-width: $breakpoint__lg) {
+    @media (min-width: $breakpoint__md) {
         width: $width__lg;
     }
 }
