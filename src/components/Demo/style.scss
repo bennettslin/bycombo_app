@@ -1,6 +1,0 @@
-@use 'sass:math';
-@import '../../scss/constants/responsive';
-
-.Demo__image {
-    min-width: math.div($width__sm, 3);
-}

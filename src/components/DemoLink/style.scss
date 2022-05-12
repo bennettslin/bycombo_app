@@ -1,0 +1,26 @@
+@import '../../scss/constants/colours';
+@import '../../scss/constants/responsive';
+@import '../../scss/constants/transition';
+
+.DemoLink {
+    padding: $margin__sm;
+    color: $colour__text__dark;
+    transition: background-color $transitionDuration__slow;
+
+    &:hover {
+        color: $colour__text__dark !important;
+        background-color: $colour__background__medium;
+    }
+
+    &:active {
+        color: $colour__neutral__dark !important;
+
+        .Heading {
+            color: $colour__primary__medium;
+        }
+    }
+}
+
+.DemoLink__image {
+    min-width: $length__icon__lg * 4;
+}

@@ -11,7 +11,7 @@ Hi, Bennett here. I've spent half my life arguing that indie rock has made music
 
 There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt against this system, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well: Through BYCombo, we'll assemble interdependent bands committed to making historically consequential demos.
 
-### Why top-down interdependence is next
+### Why top-down interdependence is up next
 
 Why historical consequence? Because when people say that rock music has gotten worse, this is what they really have in mind. Yes, good art is still being made, but history no longer cares by default. What's needed from today's artists is an explicit intent to last, and a massive effort to ensure it. And this can only happen through top-down initiatives like BYCombo.
 
@@ -39,11 +39,11 @@ Revolutions that challenge the current paradigm may *start* with powerless outsi
 
 ### Responsible revolutions plan for runaway effects
 
-Indie rock is a culture of self-reliance that gives artists the tools needed to bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can pay *others* to do it. As a result, indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
+Indie rock is a culture of self-reliance that gives artists the tools needed to bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can just as easily pay *others* to do it. As a result, indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
 Will BYCombo also devolve? Well, taken to its absurd conclusion, our solution calls for spending *insane* chunks of lifetime. But if anything, the bands who do this are almost *guaranteed* to make the most consequential works of the century!
 
-### For hungry outsiders, by a hungry outsider
+### *For* hungry outsiders, *by* a hungry outsider
 
 Who foresaw indie rock's absurd conclusion? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: talent and originality born from hunger. And this is what BYCombo does.
 

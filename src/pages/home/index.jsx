@@ -30,7 +30,7 @@ You'll relocate with your band to Los Angeles or another major US city. Once set
 
 BYCombo will put you in a band with three or four like-minded artists of comparable talent, subject to everyone's approval. Through the years, we'll advise you and provide you with a supportive community of other bands. The Bobtail Yearlings will also help wherever they can!
 
-Once your demo is completed, we'll send it to participating labels. We'll post it on this website afterward, where it will be discoverable to anyone looking for an ambitious band with a 25,000-hour demo.
+Once your demo is completed, we'll send it to participating labels. We'll then post it on this website, where it will be discoverable to anyone looking for an ambitious band with a 25,000-hour demo.
             `,
         }}
     />
