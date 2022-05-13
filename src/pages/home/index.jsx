@@ -5,13 +5,13 @@ const Component = () => (
     <Page
         {...{
             body: `
-**BYCombo is a band incubator. We're a nonprofit, and our mission is to assemble interdependent bands committed to making historically consequential demos.**
+**BYCombo is a band incubator. We're a nonprofit and the first of our kind! Our mission is to assemble and assist interdependent bands committed to making historically consequential demos.**
 
 # "A thousand *Yearling's Bobtail*s"
 
-Hi, I'm Bennett. It took me 25,000 hours— twelve full-time years!— to make *Yearling's Bobtail*. Now imagine a thousand other bands putting the same time and energy into their own demos. It would be the next revolution!
+Hi, I'm Bennett. It took me 25,000 hours— twelve full-time years!— to make *Yearling's Bobtail*. Now imagine a thousand other bands putting the same time and energy into their own ambitious demos. This would surely be the next revolution!
 
-And yet, indie rock isn't set up to notice such efforts. The labels are too busy to learn who's out there, so artists need to vie for attention by wasting time and energy on broken signals, like touring at a loss.
+And yet, indie rock isn't set up to notice such efforts. The labels are too busy to learn who's out there, so artists need to vie for attention by wasting time and energy instead on broken signals, like touring at a loss.
 
 But BYCombo fixes this mess! We promise the labels that each band spends a solid chunk of lifetime on their demo; and we promise the bands that each label gives their demo fair consideration. So labels can know who's out there, and bands can focus on what matters. And the interdependence revolution can begin!
 
