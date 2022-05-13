@@ -9,7 +9,7 @@ const Component = () => (
             body: [
                 `
 # Return of the rock and roll martyrs
-Who's *really* out there? Where are the bands who willingly sacrifice their lifetimes for the betterment of rock music? The ones who *don't* waste time and energy on broken signals to vie for indie rock's attention? Thanks to BYCombo, you can find their demos here!
+Each band on this list spent 25,000 hours to make a demo with the aim of advancing the musical art form and making history! If you have an offer or opportunity for any of them to consider, please contact them directly.
                 `,
                 (
                     <DemoLink
