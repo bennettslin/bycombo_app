@@ -9,7 +9,7 @@ const Component = () => (
             body: [
                 `
 # Return of the rock and roll martyrs
-Who's *really* out there? Where are the bands sacrificing solid chunks of lifetime for the betterment of rock music? The ones who *don't* waste time and energy on broken signals to vie for indie rock's attention? Thanks to BYCombo, you can find their demos here!
+Who's *really* out there? Where are the bands who willingly sacrifice their lifetimes for the betterment of rock music? The ones who *don't* waste time and energy on broken signals to vie for indie rock's attention? Thanks to BYCombo, you can find their demos here!
                 `,
                 (
                     <DemoLink

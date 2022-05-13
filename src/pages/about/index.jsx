@@ -41,13 +41,13 @@ Revolutions that challenge the current paradigm may *start* with powerless outsi
 
 Indie rock is a culture of self-reliance that gives artists the tools needed to bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can just as easily pay *others* to do it. As a result, indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
-Will BYCombo also devolve? Well, taken to its absurd conclusion, our solution calls for spending *insane* chunks of lifetime. But if anything, the bands who do this are almost *guaranteed* to make the most consequential works of the century!
+Will BYCombo also devolve? Well, taken to its absurd conclusion, our solution calls for spending an *entire* lifetime on a demo. But if anything, the bands who do this are almost *guaranteed* to make the most consequential works of the century!
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
-Who foresaw indie rock's absurd conclusion? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: talent and originality born from hunger. And this is what BYCombo does.
+Who foresaw indie rock's absurd conclusion? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: talent and originality born from hunger. And BYCombo is no different.
 
-Yes, indie rock has recently embraced female and minority artists. But don't be fooled: They've been handed the reins *because* it's in decline. These are crumbs being offered here. By contrast, BYCombo allows women and minorities to tap their natural hunger and aim for the *top* of the pantheon.
+Yes, indie rock has recently embraced female and minority artists. But don't be fooled: They've been handed the reins *because* it's in decline. These are crumbs being offered here. Meanwhile, BYCombo allows women and minorities to tap their natural hunger and aim for the *top* of the pantheon.
 
 ### Art needs the blood of martyrs
 

@@ -13,7 +13,7 @@ Hi, I'm Bennett. It took me 25,000 hours— twelve full-time years!— to make *
 
 And yet, indie rock isn't set up to notice such efforts. The labels are too busy to learn who's out there, so artists need to vie for attention by wasting time and energy instead on broken signals, like touring at a loss.
 
-But BYCombo fixes this mess! We promise the labels that each band spends a solid chunk of lifetime on their demo; and we promise the bands that each label gives their demo fair consideration. So labels can know who's out there, and bands can focus on what matters. And the interdependence revolution can begin!
+But BYCombo fixes this mess! We promise the labels that each band spends solid chunks of lifetime on their demo; and we promise the bands that each label gives their demo fair consideration. So labels can know who's out there, and bands can focus on what matters. And the interdependence revolution can begin!
 
 ### Who we're looking for
 
