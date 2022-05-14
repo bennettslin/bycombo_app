@@ -2,7 +2,7 @@ import React from 'react'
 import cx from 'classnames'
 import HeaderButton from '../HeaderButton'
 import Svg from '../../../../components/Svg'
-import logo from '../../../../assets/svgs/app/logo'
+import byCombo from '../../../../assets/svgs/app/byCombo'
 import { HOME_PAGE } from '../../../../constants/pages'
 
 const HomeButton = () => (
@@ -16,7 +16,7 @@ const HomeButton = () => (
     >
         <Svg
             {...{
-                src: logo,
+                src: byCombo,
                 scaleFactor: 0.66,
             }}
         />
