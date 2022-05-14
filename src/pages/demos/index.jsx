@@ -9,7 +9,7 @@ const Component = () => (
             body: [
                 `
 # Return of the rock and roll martyrs
-Each band on this list spent 25,000 hours to make a demo with the aim of advancing the musical art form and making history! If you have an offer or opportunity for any of these bands to consider, please contact them directly.
+Each band on this list spent 25,000 hours to make a demo, with the aim of advancing the musical art form and making history! Please contact any of them directly if you have an offer or opportunity for them to consider.
                 `,
                 (
                     <DemoLink
