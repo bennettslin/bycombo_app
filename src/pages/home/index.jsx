@@ -5,7 +5,7 @@ const Component = () => (
     <Page
         {...{
             body: `
-**BYCombo is a nonprofit band incubator that's the first of its kind! Our mission is to assemble and assist interdependent bands committed to making historically consequential demos.**
+**BYCombo is a nonprofit band incubator and the first of its kind! Our mission is to assemble interdependent bands committed to making historically consequential demos.**
 
 # "A thousand *Yearling's Bobtail*s"
 
