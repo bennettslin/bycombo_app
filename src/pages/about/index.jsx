@@ -11,9 +11,9 @@ Hi, Bennett here. I've spent half my life arguing that indie rock has made music
 
 There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt against this system, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well: Through BYCombo, we'll assemble interdependent bands committed to making historically consequential demos.
 
-### The next revolution requires centralized initiatives
+### The next revolution starts from centralized initiatives
 
-Why historical consequence? Because when people say that rock music has gotten worse, this is what they really have in mind. Yes, there's still talent out there, but history no longer cares by default. What's needed from today's artists is an explicit intent to make art that lasts, and only a centralized initiative like BYCombo will light that fire.
+Why historical consequence? Because when people say that rock music has gotten worse, this is what they really have in mind. Yes, talent still exists, but history no longer cares by default. What's needed from today's artists is an explicit intent to make art that lasts, and only a centralized initiative like BYCombo will light that fire.
 
 Why assembled bands? Because there are revolutionary acts still to come; they're just no longer likely to come together on their own. How do five musicians committed to making history find each other across the globe? How does a comic book artist join as a full-fledged member? A centralized initiative is also needed to form unprecedented ensembles.
 
@@ -29,7 +29,7 @@ But the best works of art are *better* than the artists who make them. Why? Beca
 
 In his book *Originals*, Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, which results in *no one* taking risks.
 
-Because indie artists strive for power from the get-go, they're immediately beholden to the current paradigm that empowers them. And then they never think to question *any* paradigm. This is why BYCombo encourages bands to treat their powerless years as a creative asset. While you have nothing to lose, what paradigms are you free to challenge?
+Because indie artists strive for power from the get-go, they're immediately beholden to the current paradigm that empowers them. And then they never learn to question *any* paradigm. This is why BYCombo encourages bands to treat their powerless years as a creative asset: While you have nothing to lose, what paradigms are you free to challenge?
 
 ### The masses are last to join the revolution
 
@@ -47,7 +47,7 @@ Will BYCombo also devolve? Well, taken to its absurd conclusion, our solution ca
 
 Who foresaw indie rock's absurd conclusion? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: talent and originality born from hunger. And BYCombo is the latest case in point.
 
-Yes, indie rock has recently embraced female and minority artists. But don't be fooled: They've been handed the reins *because* it's in decline. These are crumbs being offered here. Meanwhile, BYCombo is designed for women, minorities, and anyone else whose disadvantage drives both an instinct to seek *mutual* reliance, and a hunger to aim for the *top* of the pantheon.
+Yes, indie rock has recently embraced female and minority artists. But don't be fooled: They've been handed the reins *because* it's in decline. These are crumbs being offered here. Meanwhile, BYCombo is designed for women, minorities, and anyone else whose disadvantage drives their desire for *mutual* reliance, as well as a hunger to aim for the *top* of the pantheon.
 
 ### Art needs the blood of martyrs
 
