@@ -17,7 +17,7 @@ Our musical tile game.
 Our songwriting lesson book.
 
 [*Yearling's Bobtail*](https://www.yearlingsbobtail.com/)${'  '}
-Our "*Ulysses* of Rock Albums."
+Our "*Ulysses* of rock albums."
             `,
         }}
     />

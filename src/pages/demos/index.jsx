@@ -16,7 +16,7 @@ Each band on this list aimed for historical consequence by spending 25,000 hours
                         {...{
                             band: `Bobtail Yearlings`,
                             title: `Yearling's Bobtail`,
-                            description: `"A thousand *Yearling's Bobtail*s" has to start with the first! A double album and audio webcomic for "The *Ulysses* of Rock Albums."`,
+                            description: `"A thousand *Yearling's Bobtail*s" has to start with the first! A double album and audio webcomic for "the *Ulysses* of rock albums."`,
                             href: `https://www.yearlingsbobtail.com`,
                             src: bobtailYearlings,
                         }}
