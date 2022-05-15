@@ -47,7 +47,7 @@ Will BYCombo also devolve? Well, taken to its absurd conclusion, our solution ca
 
 Who foresaw indie rock's absurd conclusion? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: talent and originality born from hunger. And BYCombo is the latest case in point.
 
-Don't be fooled by indie rock's recent embrace of female and minority artists: They've been handed the reins *because* it's in decline. These are crumbs on offer here. Meanwhile, BYCombo is explicitly set up to serve women and minorities. We know that disadvantage drives their desire for *mutual* reliance, as well as their hunger to aim for the *top* of the pantheon.
+Don't be fooled by indie rock's recent embrace of female and minority artists: They've been handed the reins *because* it's in decline. These are crumbs on offer here. Meanwhile, BYCombo is explicitly designed to serve women and minorities. We know that being disadvantaged drives their desire for *mutual* reliance, as well as their hunger to aim for the *top* of the pantheon.
 
 ### Art needs the blood of martyrs
 
