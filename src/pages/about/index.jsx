@@ -13,7 +13,7 @@ There's just one problem: Indie rock isn't so much a genre as it is a system of 
 
 ### The next revolution starts from centralized initiatives
 
-Why historical consequence? Because when people say that rock music has gotten worse, this is what they really have in mind. Yes, talent still exists, but history no longer cares by default. What's needed from today's artists is an explicit intent to make art that lasts, and only a centralized initiative like BYCombo can light that fire.
+Why historical consequence? Because when people say that rock music has gotten worse, this is what they really have in mind. Yes, talent still exists, but history no longer cares by default. What's needed from today's artists is an explicit intent to make art that lasts, and only a centralized initiative like BYCombo can light this fire.
 
 Why assembled bands? Because there are revolutionary acts still to come; they're just no longer likely to come together on their own. How do five musicians committed to making history find each other across the globe? How does a comic book artist join as a full-fledged member? Centralized initiatives are also needed to form unprecedented ensembles.
 
@@ -47,7 +47,7 @@ Will BYCombo also devolve? Well, taken to its absurd conclusion, our solution ca
 
 Who foresaw indie rock's absurd conclusion? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: talent and originality born from hunger. And BYCombo is the latest case in point.
 
-Don't be fooled by indie rock's recent embrace of female and minority artists: They've been handed the reins *because* it's in decline. These are crumbs on offer here. Meanwhile, BYCombo's mission was explicitly crafted to serve women and minorities. We know that disadvantage drives a natural desire for *mutual* reliance, as well as a hunger to aim for the *top* of the pantheon.
+Don't be fooled by indie rock's recent embrace of female and minority artists: They've been handed the reins *because* it's in decline. These are crumbs on offer here. Meanwhile, BYCombo is explicitly set up to serve women and minorities. We know that disadvantage drives their desire for *mutual* reliance, as well as their hunger to aim for the *top* of the pantheon.
 
 ### Art needs the blood of martyrs
 
