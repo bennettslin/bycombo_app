@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The problem with indie rock
 
-Bennett here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Some people have grown disillusioned with indie rock and now agree with me. Which means the interdependence revolution can begin!
+Bennett here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: People have started to agree with me. Which means the interdependence revolution can begin!
 
 There's just one problem: Indie rock isn't so much a genre as it is a system of rule. So how do we revolt against it, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well: Through BYCombo, we'll assemble interdependent bands committed to making historically consequential demos.
 
@@ -23,7 +23,7 @@ Why interdependence? Why demos? Because to make consequential art, a band needs 
 
 Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their level of talent.
 
-But the best works of art are *better* than the artists who make them. Why? Because they also benefit from countless eureka moments that can't be repeated at will. And these moments emerge from unconscious thinking that easily gets disrupted by switching hats. So BYCombo lets you keep the artist hat on. You want your art to be better than you, and so do we.
+But the best works of art are *better* than the artists who make them. Why? Because they also benefit from so many eureka moments that can't be repeated at will. And these moments emerge from unconscious thinking that easily gets disrupted by switching hats. As such, BYCombo lets you keep the artist hat on. You want your art to be better than you, and so do we.
 
 ### Middling power leads to risk aversion
 
@@ -47,13 +47,13 @@ Will BYCombo also devolve? Well, a band taking our approach to its absurd conclu
 
 Who foresaw indie rock's absurd conclusion? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: talent and originality born from hunger. And BYCombo is the latest case in point.
 
-Don't be fooled by indie rock's recent embrace of female and minority artists: They're being handed the reins *because* it's in decline. These are crumbs on offer here. Meanwhile, BYCombo is *designed* to serve women, minorities, and all others who face disadvantages. We know that being disadvantaged drives your desire for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
+Don't be fooled by indie rock's recent embrace of female and minority artists: They've been handed the reins *because* it's in decline. These are crumbs on offer here. Meanwhile, BYCombo was *conceived* to serve women, minorities, and all others who face disadvantages. We know that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
 ### Art needs the blood of martyrs
 
 Indie rock is all about fair compensation: Artists must never give more of themselves than they take. Not even voluntarily, since this is a slippery slope that leads to further expectations of sacrifice all around. As such, indie rock has never given the world a rock and roll martyr— and proudly so.
 
-Yet rock *needs* martyrs, because the extreme ends of the art form can only be explored at great personal cost. Let's never return to the days of artists dying young, of course. But thankfully, history tells of another kind of martyr: those willing to give up not their *lives*, but their *lifetimes*.
+Yet rock *needs* martyrs, because the farthest heights and ends of the art form can only be reached at great personal cost. Let's never return to the days of artists dying young, of course. But thankfully, history tells of another kind of martyr: those willing to give up not their *lives*, but their *lifetimes*.
 
 So are you willing to sacrifice a solid chunk of lifetime for the betterment of rock music? BYCombo is here for you!
     `,
