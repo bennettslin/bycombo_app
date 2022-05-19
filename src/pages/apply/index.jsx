@@ -13,9 +13,9 @@ Make history by being part of our pilot cohort! Send us the following, and we'll
 * Your name and pronouns
 * Your current city, and where you can relocate
 * Your bold ideas for a musical project, if any
-* Your artistic and musical preferences
 * A list of your talents and corresponding skill levels
-* Any relevant links
+* Your artistic and musical preferences
+* Links to your social media
 
 Women and minorities are encouraged to apply!
             `,
