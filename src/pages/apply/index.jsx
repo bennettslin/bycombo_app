@@ -8,6 +8,7 @@ const Component = () => (
             body: `
 # Join the interdependence revolution!
 
+// TODO: Fearless${'  '}
 Make history by being part of our pilot cohort! Send us the following, and we'll be in touch shortly:
 
 * Your name and pronouns

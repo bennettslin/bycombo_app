@@ -5,7 +5,7 @@ const Component = () => (
     <Page
         {...{
             body: `
-**BYCombo is a nonprofit incubator of rock bands. Our mission is to assemble interdependent bands committed to making historically consequential demos, and to be a trusted repository of their work.**
+**BYCombo is a nonprofit incubator of rock bands. Our mission is to assemble interdependent bands committed to making historically consequential demos, and to be a trusted archive of their work.**
 
 # "A thousand *Yearling's Bobtail*s"
 
@@ -17,6 +17,7 @@ But BYCombo promises the labels that each band spends solid chunks of lifetime o
 
 ### Who we're looking for
 
+// TODO: Fearless${'  '}
 BYCombo is open to anyone who wants to join a band and make history! You should also be one of the following:
 
 * A creator with bold ideas for a musical project
@@ -30,7 +31,7 @@ If we accept you, we'll put you in a band with three or four others of equal tal
 
 Through the years, BYCombo will advise you on your project and provide you with a community of similarly ambitious bands. The Bobtail Yearlings will also help when they can!
 
-// TODO
+// TODO: Archive${'  '}
 Once your demo is complete, we'll show it to participating labels. We'll also post it on this website afterward.
             `,
         }}
