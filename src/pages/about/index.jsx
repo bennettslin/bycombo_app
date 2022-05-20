@@ -19,7 +19,7 @@ Why assembled bands? Because there are revolutionary acts still to come; they're
 
 Why interdependence and demos? Because to make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, consequential art *needs* to be interdependent; it *needs* to partner with a label. And demos are what a band sounds like before they've found theirs.
 
-Why a trusted archive? Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie labels are too harried for this task. Any band trying to make history, in other words, will be shut out by indie rock's gatekeepers. So BYCombo aims to be an archive, forever trusted and known to all, where such bands can always be found by potential allies.
+Why a trusted archive? Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie labels are too harried for this task. Yet bands who risk their chances with the gatekeepers are the ones who make history! So BYCombo aims to be an archive, forever known to all, where such bands can always be found by anyone else.
 
 Why *else* is indie rock so ill-suited to these times? I can give a few more reasons…
 
