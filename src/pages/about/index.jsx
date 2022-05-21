@@ -9,7 +9,7 @@ const Component = () => (
 
 Hi, Bennett here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people have started to agree with me. Which means the interdependence revolution can now begin!
 
-There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt, when systems prevent revolution by design? Luckily, I've spent half my life contemplating this as well: BYCombo will assemble interdependent bands committed to making historically consequential demos, and then serve as a trusted archive of their work.
+There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt, when systems prevent revolution by design? Luckily, I've spent half my life contemplating this as well: BYCombo will assemble interdependent bands committed to making historically consequential demos, and then serve as a trusted registry of their work.
 
 ### The next revolution will be centralized
 
@@ -19,7 +19,8 @@ Why assembled bands? Because there are revolutionary acts still to come; they're
 
 Why interdependence and demos? Because to make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, consequential art *needs* to be interdependent; it *needs* to partner with a label. And demos are what a band sounds like before they've found theirs.
 
-Why a trusted archive? Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie labels are too harried for this task. Yet bands who risk their chances with the gatekeepers are the ones who make history! So BYCombo aims to be an archive, forever known to all, where such bands can always be found by anyone else.
+// TODO: Registry${'  '}
+Why a trusted registry? Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who readily defy the gatekeepers of their time are the ones who make history! With BYCombo, the world can trust that such bands will always be discoverable to anyone.
 
 Why *else* is indie rock so ill-suited to these times? I can give a few more reasons…
 
@@ -59,7 +60,7 @@ Indie rock is all about fair compensation: Artists must never give more of thems
 
 Yet rock *needs* martyrs, because the farthest heights and ends of the art form can only be reached at great personal cost. Let's never go back to the days of artists dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*.
 
-And how about you? Are you willing to sacrifice a solid chunk of lifetime for the betterment of rock music? If so, then BYCombo is here for you!
+Are you a martyr who's ready to sacrifice a solid chunk of lifetime for the betterment of rock music? BYCombo is here for you!
     `,
         }}
     />

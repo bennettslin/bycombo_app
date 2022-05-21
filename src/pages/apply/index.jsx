@@ -8,7 +8,6 @@ const Component = () => (
             body: `
 # Join the interdependence revolution!
 
-// TODO: Fearless${'  '}
 Make history by being part of our pilot cohort! Send us the following, and we'll be in touch shortly:
 
 * Your name and pronouns
@@ -16,7 +15,8 @@ Make history by being part of our pilot cohort! Send us the following, and we'll
 * Your bold ideas for a musical project, if any
 * A list of your talents and corresponding skill levels
 * Your artistic and musical preferences
-* Links to your social media
+// TODO: Demonstration of their talent${'  '}
+* Links to social media
 
 Women and minorities are encouraged to apply!
             `,
