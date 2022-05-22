@@ -19,7 +19,7 @@ Why assembled bands? Because there are revolutionary acts still to come; they're
 
 Why interdependence and demos? Because to make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, consequential art *needs* to be interdependent; it *needs* to partner with a label. And demos are what a band sounds like before they've found theirs.
 
-Why a trusted registry? Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who readily defy the gatekeepers of their time are the ones who make history! So with BYCombo, the world can trust that such bands will always be discoverable to anyone.
+Why a trusted registry? Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who readily defy the gatekeepers are the ones who make history! Now with BYCombo, the world can trust that these bands might still be found.
 
 Why *else* is indie rock so ill-suited to these times? Here are a few more reasons…
 
