@@ -15,11 +15,11 @@ There's just one problem: Indie rock isn't so much a genre as it is a system of 
 
 Why historical consequence? Because when people say that rock music has gotten worse, this is what they have in mind. Yes, talent is still out there, but it's no longer enough. For the foreseeable future, making art that matters to history will require massive effort. And only a centralized initiative like BYCombo can light this fire in today's artists.
 
-Why assembled bands? Because there are revolutionary acts still to come; they're just unlikely to come together on their own now. How do five musicians committed to making history find each other across the globe? How does a comic book artist join as a full-fledged member? Untested ensembles can also only happen through centralized initiatives.
+Why assembled bands? Because there are revolutionary acts still to come; they're just unlikely to come together on their own now. How do five musicians committed to making history find each other across the globe? How does a comic book artist join as a full-fledged member? Untested ensembles also need a centralized initiative to make them happen.
 
 Why interdependence and demos? Because to make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, consequential art *needs* to be interdependent; it *needs* to partner with a label. And demos are what a band sounds like before they've found theirs.
 
-Why a trusted registry? Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who readily defy the gatekeepers are the ones who make history! Now with BYCombo, the world can trust that these bands might still be found.
+Why a trusted registry? Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who defy the gatekeepers are the ones who make history! Through a trusted registry, the world can bypass the gatekeepers and discover these bands directly.
 
 Why *else* is indie rock so ill-suited to these times? Here are a few more reasons…
 
