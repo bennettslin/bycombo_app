@@ -13,15 +13,15 @@ There's just one problem: Indie rock isn't so much a genre as it is a system of 
 
 ### The next revolution will be centralized
 
-Why historical consequence? Because when people say that rock music has gotten worse, this is what they have in mind. Yes, there's still talent out there, but it's no longer enough. For the foreseeable future, making art that matters to history will require massive effort. And only a centralized initiative like BYCombo can light this fire in today's artists.
+Why historical consequence? Because when people say that rock music has gotten worse, this is what they have in mind. Yes, talent is still out there, but it's no longer enough. For the foreseeable future, making art that matters to history will require massive effort. And only a centralized initiative like BYCombo can light this fire in today's artists.
 
 Why assembled bands? Because there are revolutionary acts still to come; they're just unlikely to come together on their own now. How do five musicians committed to making history find each other across the globe? How does a comic book artist join as a full-fledged member? Untested ensembles can also only happen through centralized initiatives.
 
 Why interdependence and demos? Because to make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, consequential art *needs* to be interdependent; it *needs* to partner with a label. And demos are what a band sounds like before they've found theirs.
 
-Why a trusted registry? Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who readily defy the gatekeepers of their time are the ones who make history! With BYCombo, the world can trust that such bands will always be discoverable to anyone.
+Why a trusted registry? Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who readily defy the gatekeepers of their time are the ones who make history! So with BYCombo, the world can trust that such bands will always be discoverable to anyone.
 
-Why *else* is indie rock so ill-suited to these times? I can give a few more reasons…
+Why *else* is indie rock so ill-suited to these times? Here are a few more reasons…
 
 ### Serendipity favors a single hat
 
@@ -43,7 +43,7 @@ Revolutions that challenge the current paradigm may *start* with powerless outsi
 
 ### Responsible revolutions plan for runaway effects
 
-Indie rock is a culture of self-reliance that gives artists the tools needed to bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can also just pay *others* to do it. As a result, indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
+Indie rock is a culture of self-reliance that gives artists the tools needed to bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can just pay *others* to do it. As a result, indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
 Will BYCombo also devolve? Well, a band taking our approach to its absurd conclusion might spend an *entire* lifetime on their demo. But if anything, doing this practically *guarantees* that you'll be remembered by history!
 
@@ -59,7 +59,7 @@ Indie rock is all about fair compensation: Artists must never give more of thems
 
 Yet rock *needs* martyrs, because the farthest heights and ends of the art form can only be reached at great personal cost. Let's never go back to the days of artists dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*.
 
-Are you a martyr who's ready to sacrifice a chunk of lifetime to the betterment of rock music? BYCombo is here for you!
+Are you willing to be a martyr, and sacrifice a chunk of lifetime to the betterment of rock music? Then BYCombo is here for you!
     `,
         }}
     />
