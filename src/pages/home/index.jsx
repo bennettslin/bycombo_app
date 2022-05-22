@@ -34,7 +34,7 @@ Through the years, BYCombo will advise you on your project and include you in a 
 
 Once your demo is complete, we'll send it to any record labels or music industry insiders who sign up to hear it first. In exchange for this privilege, they'll promise to give it fair consideration and a timely response.
 
-Finally, we'll add your demo to our registry. In time, BYCombo will become the world's trusted source to hear about any bands trying to make history, whose works defy what the gatekeepers expect. Of course, the ones building and benefiting from this trust will be bands like yours!
+Finally, we'll add your demo to our registry. In time, BYCombo will become the world's trusted resource to hear about any bands trying to make history, whose works defy what the gatekeepers expect. Of course, the ones building and benefiting from this trust will be bands like yours!
             `,
         }}
     />
