@@ -12,13 +12,12 @@ Make history by being part of our pilot cohort! Send us the following, and we'll
 
 * Your name and pronouns
 * Your current city, and where you can relocate
-* Your bold ideas for a musical project, if any
-* A list of your talents and corresponding skill levels
 * Your artistic and musical preferences
-// TODO: Demonstration of their talent${'  '}
-* Links to social media
+* Your talents and corresponding skill levels
+* Your bold ideas for a musical project, if any
+* Links to social media or video demonstrations
 
-Women and minorities are encouraged to apply!
+If you wish to co-apply with other artists or a full band, let us know and we'll try to make things work. Women and minorities are also highly encouraged!
             `,
         }}
     />
