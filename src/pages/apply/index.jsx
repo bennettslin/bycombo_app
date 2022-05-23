@@ -8,7 +8,7 @@ const Component = () => (
             body: `
 # Join the interdependence revolution!
 
-Make history by being part of our pilot cohort! Send us the following, and we'll be in touch shortly:
+Are you eager to sacrifice a chunk of your lifetime to make history? Be part of our pilot cohort! Send us the following, and we'll be in touch shortly:
 
 * Your name and pronouns
 * Your current city, and where you can relocate

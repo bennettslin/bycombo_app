@@ -5,21 +5,29 @@ const Component = () => (
     <Page
         {...{
             body: `
-**BYCombo is a nonprofit incubator of rock bands. Our mission is to assemble interdependent bands committed to making historically consequential demos, and to be a trusted registry of their works.**
+# The BYCombo mission
 
-# "A thousand *Yearling's Bobtail*s"
+// TODO: Make more eloquent${'  '}
+**BYCombo is a nonprofit incubator of rock bands. Our mission is to assemble interdependent bands committed to making historically consequential demos, and to be a public registry of these demos.**
 
-Hi, I'm Bennett. It took me 25,000 hours— twelve full-time years!— to make the album and audio webcomic for *Yearling's Bobtail*. Imagine a thousand bands putting the same time and energy into an ambitious demo of their own. This would be the next revolution in history that we're all waiting for!
+### "A thousand *Yearling's Bobtail*s"
 
-Yet indie rock won't notice such efforts. Its gatekeepers are too harried to learn who's out there, so artists vie for their attention by wasting time and energy on broken signals— like touring at a loss. Any artist who *doesn't*, the gatekeepers will never tell us about. And this is the heart of the problem:
+Hi, I'm Bennett. It took me 25,000 hours— twelve full-time years!— to make the album and audio webcomic for *Yearling's Bobtail*. Imagine a thousand bands putting the same time and energy into an ambitious demo of their own. This would be the next revolution remembered by history!
+
+Yet indie rock isn't set up to notice such efforts. Its gatekeepers are too harried to learn who's out there, so artists vie for their attention by wasting time and energy on broken signals— like touring at a loss. Any artist who *doesn't*, the gatekeepers will simply never tell us about.
+
+### Policing the gatekeepers
+
+And this is the heart of the problem.
 
 **Once the gatekeepers start to fail us, there's no way for us to know. Which means they'll be failing us for a long time— if they haven't been *already*.**
 
-But BYCombo fixes this problem by providing a safety net. So even if making an ambitious demo puts a band at odds with the gatekeepers, they'll still have a way to be heard!
+// TODO: Policing the gatekeepers${'  '}
+But BYCombo fixes this problem. By providing a registry by allowing the public to evaluate the gatekeepers!
 
 ### Who we're looking for
 
-BYCombo is open to any artist who's willing to devote a chunk of lifetime to the interdependence revolution! You're also one of the following:
+BYCombo is open to any artist who's ready to sacrifice a chunk of their lifetime to join the interdependence revolution! You're also one of the following:
 
 * A creator with a bold idea for a musical project
 * A rock musician— singer, guitarist, drummer…
@@ -34,7 +42,7 @@ Through the years, BYCombo will advise you on your project and include you in a 
 
 Once your demo is complete, we'll send it to any record labels or music industry insiders who sign up to hear it first. In exchange for this privilege, they'll promise to give it fair consideration and a timely response.
 
-Finally, we'll add your demo to our registry. BYCombo aims to become the world's trusted resource to hear about any bands trying to make history, whose works necessarily defy what the gatekeepers expect. Of course, the ones both building and benefiting from this trust will be bands like yours!
+Finally, we'll add your demo to our registry. With your help, BYCombo will become the public's trusted source to hear about all the bands out there putting in 25,000 hours to make history!
             `,
         }}
     />
