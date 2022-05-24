@@ -21,7 +21,7 @@ And this is the heart of the problem:
 
 **Once the gatekeepers start to fail us, there's no way for us to know. Which means they'll be failing us for a long time— if they haven't been *already*.**
 
-But now with BYCombo, the public will finally know what the gatekeepers *aren't* showing them! Anyone can look through BYCombo's public registry to learn about the latest bands trying to make history, whose works necessarily defy what the indie gatekeepers expect.
+But with BYCombo, the public will finally know what the gatekeepers *aren't* showing them! Anyone can now look through BYCombo's public registry to learn about the latest bands trying to make history, whose works necessarily defy what the indie gatekeepers expect.
 
 ### Who we're looking for
 
@@ -30,7 +30,7 @@ BYCombo is open to any artist who's ready to sacrifice a chunk of their lifetime
 * A creator with a bold idea for a musical project
 * A rock musician— singer, guitarist, drummer…
 * A musician of another stripe— cellist, tabla player…
-* An artist of some other medium— novelist, web developer…
+* An artist of some other medium— dancer, web developer…
 
 If we accept you, we'll put you in a band with three or four others of equal talent, subject to everyone's approval. You'll then relocate with your band to Los Angeles or another US city. Once the band project is decided, you'll each put enough time into it for the sum total to be at least 25,000 hours. With four bandmates, this works out to forty hours a week for three years.
 

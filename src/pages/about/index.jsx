@@ -37,7 +37,7 @@ Because indie artists strive for power from the get-go, they're immediately beho
 
 ### The masses are *last* to join the revolution
 
-Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber, the same kind that makes streaming algorithms so detrimental to art. Even worse, it means the world is stuck with the current paradigm, because the masses *never* ask for paradigm change on their own.
+Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means the world is stuck with the current paradigm, because the masses *never* ask for paradigm change on their own.
 
 Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *popularized* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. This may not jibe with indie rock's anti-establishment fantasy, but it's the historical truth. So BYCombo works with this truth.
 
@@ -45,7 +45,7 @@ Revolutions that challenge the current paradigm may *start* with powerless outsi
 
 Indie rock is a culture of self-reliance that gives artists the tools needed to bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can just pay *others* to do it. As a result, indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was predictable from day one!
 
-Sure, BYCombo faces a runaway effect as well— but ours is predictably a race to the *top*. Taking our mission to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which pretty much *guarantees* they'll be remembered by history!
+Of course, BYCombo faces a runaway effect as well— but ours is predictably a race to the *top*. Taking our mission to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which pretty much *guarantees* they'll be remembered by history!
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
