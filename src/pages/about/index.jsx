@@ -45,7 +45,7 @@ Revolutions that challenge the current paradigm may *start* with powerless outsi
 
 Indie rock is a culture of self-reliance that gives artists the tools needed to bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can just pay *others* to do it. As a result, indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was predictable from day one!
 
-Sure, BYCombo leads to a runaway effect as well— but ours is predictably a race to the *top*. Taking our mission to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which pretty much *guarantees* they'll be remembered by history!
+Sure, BYCombo faces a runaway effect as well— but ours is predictably a race to the *top*. Taking our mission to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which pretty much *guarantees* they'll be remembered by history!
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
