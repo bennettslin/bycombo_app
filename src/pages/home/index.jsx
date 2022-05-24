@@ -11,7 +11,7 @@ const Component = () => (
 
 ### "A thousand *Yearling's Bobtail*s"
 
-Hi, I'm Bennett. It took me 25,000 hours— twelve full-time years!— to make the album and audio webcomic for *Yearling's Bobtail*. Imagine a thousand bands putting the same time and energy into an ambitious demo of their own. This would be the next revolution remembered by history!
+Hi, I'm Bennett. It took me 25,000 hours— twelve full-time years!— to make the album and audio webcomic for *Yearling's Bobtail*. Imagine a thousand rock bands putting the same time and energy into an ambitious demo of their own. This would be the next revolution remembered by history!
 
 Yet indie rock isn't set up to notice such efforts. Its gatekeepers are too harried to learn who's out there, so artists vie for their attention by wasting time and energy instead on broken signals, like touring at a loss. Any artist who *doesn't*— the gatekeepers will simply never tell us about.
 
@@ -25,7 +25,7 @@ But with BYCombo, the public will finally know what the gatekeepers *aren't* sho
 
 ### Who we're looking for
 
-BYCombo is open to any artist who's ready to sacrifice a chunk of their lifetime to join the interdependence revolution! You're also one of the following:
+BYCombo is open to any artist who's ready to sacrifice a chunk of their lifetime to join the interdependence revolution— the next movement in history after indie rock! You're also one of the following:
 
 * A creator with a bold idea for a musical project
 * A rock musician— singer, guitarist, drummer…
