@@ -13,11 +13,13 @@ There's just one problem: Indie rock isn't so much a genre as it is a system of 
 
 ### The next revolution will be centralized
 
-Why historical consequence? Because when people say that music has gotten worse, this is what they have in mind. Yes, talent is still out there, but it's no longer enough. For the foreseeable future, art that matters to history will require massive effort to make. And only a centralized initiative like BYCombo can light this fire in today's artists.
+Why historical consequence? Because when young people say that music has gotten worse, they're really griping that history is no longer being made. Yes, talent still exists— but competing with the past now calls for deliberate intent and massive effort. And only a centralized push can light this fire in today's artists.
 
-Why assembled bands? Because there are revolutionary acts still to come; they're just unlikely to come together on their own now. How do five musicians committed to making history find each other across the globe? How does a comic book artist join as a full-fledged member? A centralized initiative is needed as well to form untested ensembles.
+Why assembled bands? Because there are revolutionary acts still to come; they're just unlikely to come together on their own now. How do five musicians committed to making history find each other across the globe? How does a comic book artist join as a full-fledged member? A centralized push is also needed to form untested ensembles.
 
-Why interdependence and demos? Because to make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, consequential art *needs* to be interdependent; it *needs* to partner with a label. And demos are what a band sounds like before they've found theirs.
+### History makers crave interdependence
+
+Why demos? Because to make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, consequential art *needs* to be interdependent; it *needs* to partner with a label. And demos are what a band sounds like before they've found theirs.
 
 Why a public registry? Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who defy the gatekeepers' expectations are the ones who make history! So our registry allows the public to find out about these bands directly.
 
