@@ -19,7 +19,7 @@ Why assembled bands? Because there are revolutionary acts still to come; they're
 
 ### History makers crave interdependence
 
-Why demos? Because to make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, consequential art needs to be *inter*-dependent, not *indie*-pendent; it *needs* to partner with a label. And demos are what a band sounds like before they've found theirs.
+Why demos? Because to make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, consequential art needs to be *inter*-dependent, not *indie*-pendent; it *needs* to partner with a label. And demos are what a band sounds like before they've signed to one.
 
 Why a public registry? Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who defy the gatekeepers' expectations are the ones who make history! So our registry allows the public to find out about these bands directly.
 
