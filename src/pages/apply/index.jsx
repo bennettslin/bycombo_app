@@ -8,16 +8,18 @@ const Component = () => (
             body: `
 # Join the interdependence revolution!
 
-Are you eager to sacrifice a chunk of your lifetime to make history? Be part of our pilot cohort! Send us the following, and we'll be in touch shortly:
+Are you eager to sacrifice a chunk of your lifetime to make history? Be part of our pilot cohort! Email us the following information, and we'll be in touch shortly:
 
-* Your name and pronouns
-* Your current city, and where you can relocate
-* Your artistic and musical preferences
-* Your talents and corresponding skill levels
+* Your name, email, and pronouns
+* Your city, and where you can (or can't) relocate if needed
+* Your musical and aesthetic preferences (or dealbreakers)
+* Your artistic talents and corresponding skill levels
 * Your bold ideas for a musical project, if any
 * Links to social media or video demonstrations
 
-If you wish to co-apply with other artists or a full band, let us know and we'll try to make things work. Women and minorities are also highly encouraged!
+If you're co-applying with others to be placed in the same band, please send a single email with each person's information. We'll do our best to make it work.
+
+Women and minorities are highly encouraged!
             `,
         }}
     />
