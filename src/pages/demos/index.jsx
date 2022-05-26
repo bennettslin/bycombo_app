@@ -17,7 +17,7 @@ Each band in this registry aimed to make history by putting at least 25,000 hour
                         {...{
                             band: `Bobtail Yearlings`,
                             title: `Yearling's Bobtail`,
-                            description: `"A thousand *Yearling's Bobtail*s" has to start with the first! A double album and audio webcomic for "the *Ulysses* of rock albums."`,
+                            description: `"A hundred *Yearling's Bobtail*s" has to start with the first! A double album and audio webcomic for "the *Ulysses* of rock albums."`,
                             href: `https://www.yearlingsbobtail.com`,
                             src: bobtailYearlings,
                         }}

@@ -3,9 +3,14 @@
 @import '../../scss/constants/transition';
 
 .DemoLink {
-    padding: $margin__sm;
     color: $colour__text__dark;
     transition: background-color $transitionDuration__slow;
+
+    padding: $margin__xs;
+
+    @media (min-width: $breakpoint__sm) {
+        padding: $margin__sm;
+    }
 
     &:hover {
         color: $colour__text__dark !important;
@@ -22,5 +27,13 @@
 }
 
 .DemoLink__image {
-    min-width: $length__icon__lg * 4;
+    max-width: $length__icon__lg * 2;
+
+    @media (min-width: $breakpoint__sm) {
+        max-width: $length__icon__lg * 3;
+    }
+
+    @media (min-width: $breakpoint__md) {
+        max-width: $length__icon__lg * 4;
+    }
 }
