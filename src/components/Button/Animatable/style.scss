@@ -19,6 +19,8 @@
 
     .Button:active
     & {
-        transform: scale(0.9);
+        @media (hover: hover) {
+            transform: scale(0.9);
+        }
     }
 }
