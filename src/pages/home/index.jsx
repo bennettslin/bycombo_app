@@ -12,31 +12,28 @@ const Component = () => (
 ### Tools… are *rules*
 
 // TODO: Update the whole thing.${'  '}
-Indie rock is all about providing artists with tools meant to empower them. These tools require commitment— but since any artist can use them, there's no advantage for those who do. There's only a *dis*-advantage for those who *don't*. And this is the telltale sign of a rule.
+Indie rock is all about supplying artists with tools meant to empower them. These tools require commitment and effort— yet they offer no advantage, since every artist is expected to use them. Instead, they simply disadvantage any who *don't*. But if you think about it, this is exactly how *rules* work!
 
-// TODO: Make this bold ${'  '}
-Which means that these tools are de facto *rules*, and the indie artists who get excited about them are the rule followers of our time.
+// TODO: Make this better.${'  '}
+In other words, indie rock's tools are *rules*, and the artists who get excited by them are the same ones who love to follow rules.
 
-// TODO: Rephrase ${'  '}
-Hi, I'm Bennett. I always prefer to do what everyone else isn't. But this *should* be the disadvantaged path— otherwise, *everyone* would do it! It *should* cost many times the effort to do one's own thing. Which is why I spent 25,000 hours— twelve full-time years!— to make the album and audio webcomic for *Yearling's Bobtail*.
+### A hundred *Yearling's Bobtail*s
 
-### A hundred *Yearling's Bobtail*s!
+Hi, I'm Bennett. I hate indie rock's rules— but if everyone felt the same, then breaking them would be the new rule! So I understand why my attitude puts me at a disadvantage, which then has to be overcome by other means. This is why I spent 25,000 hours— twelve full-time years!— to make the album and audio webcomic for *Yearling's Bobtail*.
 
-Rule breakers like me may be uncommon, but we're also not rare! Imagine a hundred other bands putting the same time and energy into an ambitious demo of their own. This would be the next revolution remembered by history!
-
-We should all want this! So why doesn't it happen?
-
-// TODO: Indie rock, the land of rules, isn't set up to expect anyone to break them${'  '}
-Yet indie rock isn't set up to notice such efforts. Its gatekeepers are too harried to learn who's out there, so artists vie for their attention by wasting time and energy instead on broken signals, like touring at a loss. Any artist who *doesn't*— the gatekeepers will simply never tell us about.
+Now, rule breakers like me aren't common— but we're also not rare! Imagine a hundred other bands putting the same time and energy into an ambitious demo of their own. This would be the next revolution! We all want this to happen. So why doesn't it?
 
 ### Who gatekeeps the gatekeepers?
 
-And this is the heart of the problem:
+// TODO: Indie rock, the land of rules, isn't set up to expect anyone to break them${'  '}
+Yet indie rock isn't set up to notice such efforts. Its gatekeepers are too harried to learn who's out there, so artists vie for their attention by wasting time and energy instead on broken signals, like touring at a loss. Any artist who *doesn't*— the gatekeepers will simply never tell us about. And this is the heart of the problem:
 
 **Once the gatekeepers start to fail us, there's no way for us to know. Which means they'll be failing us for a long time— if they haven't been *already*.**
 
 // TODO: Make more clear that it's for rule breakers and fans of them${'  '}
 But with BYCombo, the public will finally know what the gatekeepers *aren't* showing them! Anyone can now look through BYCombo's public registry to learn about the latest bands trying to make history, whose works necessarily defy what the indie gatekeepers expect.
+
+Gives rule breakers and their allies a long overdue chance in the 21st century.
 
 ### Who we're looking for
 
