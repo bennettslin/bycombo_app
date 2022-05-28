@@ -13,13 +13,13 @@ There's just one problem: Indie rock isn't so much a genre as it is a system of 
 
 ### The next revolution will be centralized
 
-Why historical consequence? Because when young people gripe about rock music getting worse, they're *really* griping that history is no longer being made. Yes, talent still exists— but competing with the past now calls for deliberate intent and massive effort. And only a centralized push can light this fire in today's artists.
+Why historical consequence? Because when people gripe about rock music getting worse, they're *really* griping that history is no longer being made. Yes, talent still exists— but competing with the past now calls for deliberate intent and massive effort. And only a centralized push can light this fire in today's artists.
 
 Why assembled bands? Because there are revolutionary acts still to come; they're just unlikely to come together on their own now. How do five musicians committed to making history find each other across the globe? How does a comic book artist join as a full-fledged member? A centralized push is also needed to form untested ensembles.
 
 ### History makers crave interdependence
 
-Why demos? Because to make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, consequential art needs to be *inter*-dependent, not *indie*-pendent; it *needs* to partner with a label. And demos are what a band sounds like before they've signed to one.
+Why demos? Because to make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, consequential art needs to be *inter*-dependent, not *indie*-pendent; it *needs* to partner with a label. And demos are what a band sounds like before they've signed to a label.
 
 Why a public registry? Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who defy the gatekeepers' expectations are the ones who make history! So our registry allows the public to find out about these bands directly.
 
@@ -41,13 +41,13 @@ Because indie artists strive for power from the get-go, they're immediately beho
 
 Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means the world is stuck with the current paradigm, because the masses *never* ask for paradigm change on their own.
 
-Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *popularized* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. This may not jibe with indie rock's anti-establishment fantasy, but it's the historical truth. So BYCombo works with this truth.
+Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *popularized* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. This may not jibe with indie rock's anti-establishment fantasy, but it's the historical truth. So BYCombo works with powerful insiders, for the sake of our revolutionary bands.
 
 ### Responsible revolutions plan for runaway effects
 
-Indie rock is a culture of self-reliance that encourages artists to bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can just pay *others* to do it. As a result, indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was predictable from day one!
+Indie rock is a culture of self-reliance that celebrates artists who bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can just pay *others* to do it. As a result, indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was predictable from day one!
 
-Of course, BYCombo faces a runaway effect as well— but ours is predictably a race to the *top*. Taking our mission to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which pretty much *guarantees* they'll be remembered by history!
+Won't BYCombo see a runaway effect as well? Yes, but ours is predictably a race to the *top*. Taking our mission to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which pretty much *guarantees* they'll be remembered by history!
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
