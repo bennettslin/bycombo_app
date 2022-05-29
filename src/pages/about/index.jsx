@@ -13,7 +13,7 @@ There's just one problem: Indie rock isn't so much a genre as it is a system of 
 
 ### The next revolution will be centralized
 
-Why historical consequence? Because when people gripe about rock music getting worse, they're *really* griping that history is no longer being made. Yes, talent still exists— but competing with the past now calls for deliberate intent and massive effort. And only a centralized push can light this fire in today's artists.
+Why historical consequence? Because when people gripe about rock music getting worse, they're *really* griping that history is no longer being made. Yes, talent is still out there— but competing with the past now calls for deliberate intent and massive effort. And only a centralized push can light this fire in today's artists.
 
 Why assembled bands? Because there are revolutionary acts still to come; they're just unlikely to come together on their own now. How do five musicians committed to making history find each other across the globe? How does a comic book artist join as a full-fledged member? A centralized push is also needed to form untested ensembles.
 
