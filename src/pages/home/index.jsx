@@ -13,7 +13,7 @@ const Component = () => (
 
 Hi, I'm Bennett. It took me 25,000 hours— twelve full-time years!— to make the album and audio webcomic for *Yearling's Bobtail*. Imagine a thousand other bands putting the same time and energy into an ambitious demo of their own. This would be the next revolution remembered by history!
 
-Yet indie rock isn't set up to notice such efforts. Its gatekeepers are too harried to learn who's out there, so artists vie for their attention by wasting time and energy instead on broken signals, like touring at a loss. Any artist who *doesn't*— the gatekeepers will simply never tell us about.
+Yet indie rock isn't set up to notice such efforts. Its gatekeepers are too harried to learn who's out there, so artists must vie for their attention by wasting time and energy instead on broken signals, like touring at a loss. Any artist who *doesn't*— the gatekeepers will simply never tell us about.
 
 ### Who gatekeeps the gatekeepers?
 
@@ -21,7 +21,7 @@ And this is the heart of the problem:
 
 **Once the gatekeepers start to fail us, there's no way for us to know. Which means they'll be failing us for a long time— if they haven't been *already*.**
 
-But with BYCombo, the public will finally know what the gatekeepers *aren't* showing them! Anyone can now look through BYCombo's public registry to learn about the latest bands trying to make history, whose works necessarily defy what the indie gatekeepers expect.
+But through BYCombo's demo registry, the public will finally know what the indie gatekeepers *aren't* showing them! Anyone can now learn about the latest bands trying to make history, whose ambitious works necessarily risk being overlooked by the gatekeepers.
 
 ### Who we're looking for
 
