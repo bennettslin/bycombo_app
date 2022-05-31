@@ -21,7 +21,7 @@ Now, rule breakers like me aren't common, but we're also not rare! Imagine a hun
 
 ### Who gatekeeps the gatekeepers?
 
-And yet, indie rock won't notice these efforts. The indie gatekeepers are too harried to learn who's out there, so the only artists they'll look into are the ones working hard to follow the rules instead. Any artist who *isn't*— they'll simply never tell us about. And this is the heart of the problem:
+And yet… indie rock won't notice these efforts. The indie gatekeepers are too harried to learn who's out there, so the only artists they'll look into are the ones working hard to follow the rules instead. Any artist who *isn't*— they'll simply never tell us about. And this is the heart of the problem:
 
 **Once the gatekeepers fail us, there's no way for us to know. Which means they'll be failing us for a long time— if they haven't been *already*.**
 
