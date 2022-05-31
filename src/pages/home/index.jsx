@@ -11,7 +11,7 @@ const Component = () => (
 
 ### Tools… are rules
 
-Indie rock is all about providing artists with tools of empowerment. These tools require commitment— yet they offer no advantage, since *every* artist is expected to use them. Instead, they simply punish those who *don't*… But this is how rules works! Indie rock's *tools*, in other words, are just more *rules*.
+Indie rock is all about providing artists with tools of empowerment. These tools require commitment— yet they offer no advantage, since *every* artist is expected to use them. Instead, they simply punish those who *don't*… But this is how rules work! Indie rock's *tools*, in other words, are just more *rules*.
 
 ### A hundred *Yearling's Bobtail*s
 
