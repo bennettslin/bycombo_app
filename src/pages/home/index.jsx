@@ -40,7 +40,7 @@ Through the years, BYCombo will advise you on your project and include you in a 
 
 Once your demo is complete, we'll send it to any record labels or music industry insiders who sign up to hear it first. In exchange for this privilege, they'll promise to give it fair consideration and a timely response.
 
-Finally, we'll add your demo to our public registry. With your help, BYCombo will become the public's trusted source to hear about the latest bands putting in at least 25,000 hours to make history!
+Finally, we'll add your demo to our public registry. With your help, BYCombo will become the public's trusted source to hear about the latest bands who've sacrificed a chunk of their lifetime to make history!
             `,
         }}
     />

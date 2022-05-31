@@ -23,7 +23,7 @@ Why demos? Because to make consequential art, a band needs to build exceptional 
 
 Why a public registry? Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who defy the gatekeepers' expectations are the ones who make history! So our registry allows the public to find out about these bands directly.
 
-Why *else* is indie rock so ill-suited to these times? Here are a few more reasons…
+Why *else* is indie rock so ill-suited to these times? A few more reasons…
 
 ### Serendipity favors a single hat
 
@@ -41,13 +41,13 @@ Because indie artists strive for power from the get-go, they're immediately beho
 
 Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means the world is stuck with the current paradigm, because the masses *never* ask for paradigm change on their own.
 
-Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *popularized* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. This may not jibe with indie rock's anti-establishment fantasy, but it's the historical truth. So BYCombo works with powerful insiders, for the sake of our revolutionary bands.
+Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *popularized* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. This may not jibe with indie rock's anti-establishment fantasy, but it's the historical truth. So BYCombo readily works with powerful insiders, for the sake of our revolutionary bands.
 
 ### Responsible revolutions plan for runaway effects
 
-Indie rock is a culture of self-reliance that celebrates artists who bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can just pay *others* to do it. As a result, indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was predictable from day one!
+Indie rock is a culture of self-reliance that celebrates artists who bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can just pay *others* to do it. As a result, indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
-Won't BYCombo see a runaway effect as well? Yes, but ours is predictably a race to the *top*. Taking our mission to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which pretty much *guarantees* they'll be remembered by history!
+Won't BYCombo see a runaway effect as well? Yes, but ours is foreseeably a race to the *top*. Taking our mission to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which pretty much *guarantees* they'll be remembered by history!
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
