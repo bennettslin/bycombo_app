@@ -8,7 +8,7 @@ const Component = () => (
         {...{
             body: [
                 `
-# Return of the rock and roll martyrs
+# Return of the rock martyrs
 
 Each band in our registry aimed to make rock history by putting 25,000 or more hours into a demo that advances the art form. Please contact any band directly if you have an offer or opportunity for them to consider!
                 `,

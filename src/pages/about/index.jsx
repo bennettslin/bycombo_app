@@ -9,7 +9,7 @@ const Component = () => (
 
 Hi, Bennett here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people have started to agree with me. Which means the interdependence revolution can now begin!
 
-There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt, when systems prevent revolution by design? Luckily, I've spent half my life contemplating this as well: BYCombo will assemble interdependent bands committed to making historically consequential demos, and then serve as a public registry of this work.
+There's just one problem: Indie rock isn't so much a genre as it is a system of rule. How do we revolt, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well: BYCombo will assemble interdependent bands committed to making historically consequential demos, and then serve as a public registry of their works.
 
 ### The next revolution will be centralized
 
@@ -57,11 +57,11 @@ Don't be fooled by indie rock's recent embrace of female and minority artists: T
 
 ### Art needs the blood of martyrs
 
-Indie rock is all about fair compensation: Artists must never give more of themselves than they take. Not even voluntarily, since this is a slippery slope that leads to further expectations of sacrifice all around. As such, indie rock has never given the world a rock and roll martyr— and proudly so.
+Indie rock is all about fair compensation: Artists must never give more of themselves than they take. Not even voluntarily, since this is a slippery slope that leads to further expectations of sacrifice all around. As such, indie rock has never given the world a rock martyr— and proudly so.
 
 Yet rock *needs* martyrs, because the farthest heights and ends of the art form can only be reached at great personal cost. Let's never go back to the days of artists dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*.
 
-So are you willing to sacrifice a chunk of your lifetime for the betterment of rock and roll? Then BYCombo is here for you!
+Are you willing to sacrifice a chunk of your lifetime for the betterment of rock music? If so, then BYCombo is here for you!
     `,
         }}
     />

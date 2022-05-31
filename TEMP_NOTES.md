@@ -5,10 +5,8 @@
     * Menu buttons shift?
     * Footer
 * BYCombo content
-    * Tools are rules
-        * Restructure homepage
-            * Make clear it's for rule breakers and music fans skeptical of the gatekeepers
-        * Spread idea of rule breakers around
+    * Explain my lessons from Yearling's Bobtail in gatekeepers
+    * Mention gatekeepers in demos page?
 
 * Begin work on BY Combo
     * Google Form
