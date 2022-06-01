@@ -4,9 +4,6 @@
 * BYCombo UI
     * Menu buttons shift?
     * Footer
-* BYCombo content
-    * Explain my lessons from Yearling's Bobtail in gatekeepers
-    * Mention gatekeepers in demos page?
 
 * Begin work on BY Combo
     * Google Form

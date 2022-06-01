@@ -17,11 +17,11 @@ Indie rock is all about providing artists with tools of empowerment. These tools
 
 Hi, I'm Bennett. I *hate* rules— but if everyone felt the same, then breaking rules would be the rule! So I get why my attitude puts me at a disadvantage, which then has to be overcome in other ways. This is why I spent 25,000 hours— twelve full-time years!— to make the album and audio webcomic for *Yearling's Bobtail*.
 
-Now, rule breakers like me aren't common, but we're also not rare! Imagine a hundred other bands working just as hard to make an ambitious demo of their own. It would be the next revolution in rock history!
+Now, rule breakers like me aren't common. But we're also not rare! Imagine a hundred other bands working just as hard to make an ambitious demo of their own. It would be the next revolution in rock history!
 
 ### Who gatekeeps the gatekeepers?
 
-And yet… indie rock won't notice these efforts. The indie gatekeepers are too harried to learn who's out there, so the only artists they'll look into are the ones working hard to follow the rules instead. Any artist who *isn't*— they'll simply never tell us about. And this is the heart of the problem:
+And yet… I can say from experience that indie rock won't notice these efforts. The indie gatekeepers are too harried to learn who's out there, so the only artists they'll ever consider are the ones working hard to follow the rules. Any artist who *isn't*— they'll simply never tell us about. And this is the heart of the problem:
 
 **Once the gatekeepers fail us, there's no way for us to know. Which means they'll be failing us for a long time— if they haven't been *already*.**
 
