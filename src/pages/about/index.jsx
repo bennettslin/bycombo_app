@@ -29,6 +29,7 @@ To make consequential art, a band needs to build exceptional strengths. But this
 
 **Why a public registry?**
 
+// TODO: Clarify.${'  '}
 Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who defy the gatekeepers' expectations are the ones who make history! So our registry allows the public to find out about their works directly.
 
 **Why serious chunks of lifetime?**

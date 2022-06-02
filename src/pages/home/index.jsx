@@ -24,6 +24,7 @@ Rule breakers like me aren't common, of course— but we're also not rare! Pictu
 
 ### Who gatekeeps the gatekeepers?
 
+// TODO: Working hard to get noticed.${'  '}
 And yet… I can say from experience that indie rock won't notice such efforts. The indie gatekeepers are too harried to learn who's out there, so the only artists they'll consider are the ones working hard to follow their rules. Any artist who *isn't*— they'll simply never tell us about. And this is the heart of the problem:
 
 **Once the gatekeepers fail us, there's no way for us to know. Which means they'll be failing us for a long time— if they haven't been *already*.**
