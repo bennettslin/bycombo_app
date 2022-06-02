@@ -15,11 +15,11 @@ Indie rock is all about providing artists with tools of empowerment. These tools
 
 But… this is how *rules* work! Indie rock's *tools*, in other words, are just more *rules*.
 
-### A hundred *Yearling's Bobtail*s
+### A thousand *Yearling's Bobtail*s
 
 Hi, I'm Bennett. I *hate* having to follow rules— but if everyone felt the same, then breaking rules would be the new rule! So I get why my attitude puts me at a disadvantage, which then has to be overcome in other ways. This is why I spent 25,000 hours— twelve full-time years!— to make the album and audio webcomic for *Yearling's Bobtail*.
 
-Now, rule breakers like me aren't common. But we're also not rare! Imagine a hundred other bands, each sacrificing a serious chunk of lifetime to make an ambitious demo of their own. It would be rock history's next revolution!
+Now, rule breakers like me aren't common. But we're also not rare! Imagine a thousand other bands, each sacrificing a serious chunk of lifetime to make an ambitious demo of their own. It would be rock history's next revolution!
 
 ### Who gatekeeps the gatekeepers?
 
