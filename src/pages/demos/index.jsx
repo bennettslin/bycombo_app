@@ -10,7 +10,7 @@ const Component = () => (
                 `
 # Return of the rock martyrs
 
-Each band in our registry aimed to make rock history by putting 25,000 or more hours into a demo that advances the art form. Please contact any band directly if you have an offer or opportunity for them to consider!
+Each band in our registry sacrificed a serious chunk of lifetime— at least 25,000 hours!— to make a demo that advances the art form. Please contact any band directly if you have an offer or opportunity for them to consider!
                 `,
                 (
                     <DemoLink
