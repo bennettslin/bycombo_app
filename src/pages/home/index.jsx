@@ -11,13 +11,15 @@ const Component = () => (
 
 ### Tools… are rules
 
-Indie rock is all about providing artists with tools of empowerment. These tools require commitment— yet they offer no advantage, since *every* artist is expected to use them. Instead, they simply punish those who *don't*… But this is how rules work! Indie rock's *tools*, in other words, are just more *rules*.
+Indie rock is all about providing artists with tools of empowerment. These tools require the artist's commitment— and yet, since *every* artist is expected to use them, they offer no advantage. Instead, they simply punish those who *don't*.
+
+But… this is how *rules* work! Indie rock's *tools*, in other words, are just more *rules*.
 
 ### A hundred *Yearling's Bobtail*s
 
-Hi, I'm Bennett. I *hate* rules— but if everyone felt the same, then breaking rules would be the rule! So I get why my attitude puts me at a disadvantage, which then has to be overcome in other ways. This is why I spent 25,000 hours— twelve full-time years!— to make the album and audio webcomic for *Yearling's Bobtail*.
+Hi, I'm Bennett. I *hate* having to follow rules— but if everyone felt the same, then breaking rules would be the new rule! So I get why my attitude puts me at a disadvantage, which then has to be overcome in other ways. This is why I spent 25,000 hours— twelve full-time years!— to make the album and audio webcomic for *Yearling's Bobtail*.
 
-Now, rule breakers like me aren't common. But we're also not rare! Imagine a hundred other bands working just as hard to make an ambitious demo of their own. It would be the next revolution in rock history!
+Now, rule breakers like me aren't common. But we're also not rare! Imagine a hundred other bands, each sacrificing a serious chunk of lifetime to make an ambitious demo of their own. It would be rock history's next revolution!
 
 ### Who gatekeeps the gatekeepers?
 
@@ -36,15 +38,15 @@ BYCombo is open to any artist who's ready to join the interdependence revolution
 * An artist of some other medium— dancer, web developer…
 * A creator with a bold vision for a musical project
 
-We'll put you in a band with three or four others of equal talent, subject to everyone's approval. You'll then relocate with your band to Los Angeles or another US city. Once the band project is decided, you'll each put in enough time for the sum total to be at least 25,000 hours. With four bandmates, this works out to forty hours a week for three years.
+Once we put you in a band with three or four others— subject to everyone's approval— you'll all relocate to Los Angeles or another major city. Each of you will then put in enough time on your band project for the sum total to be 25,000 hours.
 
 ### What we'll do for you
 
-Through the years, BYCombo will advise you on your project and include you in a supportive community of other ambitious bands. The Bobtail Yearlings will also help when they can!
+Through the years, BYCombo will advise you on your band project. If the project requires unique collaborators— acrobats? puppeteers?— we'll help you find them. We'll also include you in a supportive community of other ambitious bands. And finally, the Bobtail Yearlings will help when they can!
 
-Once your demo is complete, we'll send it to any record labels or music industry insiders who sign up to hear it first. In exchange for this privilege, they'll promise to give it fair consideration and a timely response.
+Once your demo is complete, we'll send it to any record labels or industry insiders who sign up to hear it first. In exchange for this privilege, they'll promise to give it fair consideration and a timely response.
 
-Finally, we'll add your demo to our public registry. With your help, BYCombo will become the public's trusted source to hear about all the latest bands sacrificing a chunk of their lifetime to make history!
+Finally, we'll add your demo to our public registry. With your help, BYCombo will become the public's trusted source to hear about all the latest bands sacrificing serious chunks of lifetime to make history!
             `,
         }}
     />

@@ -15,7 +15,7 @@ There's just one problem: Indie rock isn't so much a genre as it is a system of 
 
 Why historical consequence? Because when people gripe about rock music getting worse, they're *really* griping that history is no longer being made. Yes, talent is still out there— but competing with the past now calls for deliberate intent and massive effort. And only a centralized push can light this fire in today's artists.
 
-Why assembled bands? Because there are revolutionary acts still to come; they're just unlikely to come together on their own now. How do five musicians committed to making history find each other across the globe? How does a comic book artist join as a full-fledged member? A centralized push is also needed to form untested ensembles.
+Why assembly? Because there are revolutionary bands still to come; they're just unlikely to come together on their own now. How do five musicians committed to making history find each other across the globe? How does an illustrator join as a full-fledged member? A centralized push is also needed to form untested ensembles.
 
 ### History makers crave interdependence
 
@@ -61,7 +61,7 @@ Indie rock is all about fair compensation: Artists must never give more of thems
 
 Yet rock *needs* martyrs, because the farthest heights and ends of the art form can only be reached at great personal cost. Let's never go back to the days of artists dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*.
 
-Are you willing to sacrifice a chunk of your lifetime for the betterment of rock music? If so, then BYCombo is here for you!
+Are you willing to sacrifice a serious chunk of lifetime for the betterment of rock music? If so, then BYCombo is here for you!
     `,
         }}
     />
