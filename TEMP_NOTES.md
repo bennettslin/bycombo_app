@@ -4,6 +4,7 @@
 * BYCombo UI
     * Menu buttons shift?
     * Footer
+* By those willing to incur great personal cost
 
 * Begin work on BY Combo
     * Google Form

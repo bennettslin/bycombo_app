@@ -11,10 +11,9 @@ const Component = () => (
 
 ### Tools… are *rules*
 
-// TODO: All they do is${'  '}
-Indie rock loves to provide artists with tools of empowerment. These tools require the artist's commitment— and yet they offer no advantage, since *every* artist is expected to use them. All they do is penalize the ones who *don't*. But if you think about it, this is how *rules* work! Which means:
+Indie rock loves to provide artists with tools of empowerment. These tools require the artist's commitment— and yet they offer no advantage, since *every* artist is expected to use them. All they do is penalize the ones who *don't*. But if you think about it… this is how *rules* work! In other words:
 
-**Every tool of empowerment is just another rule for artists to follow.**
+**Every tool of empowerment is just another *rule* for artists to follow.**
 
 ### A thousand *Yearling's Bobtail*s
 
@@ -24,11 +23,11 @@ Now, rule breakers like me aren't common— but we're also not rare! Picture a t
 
 ### Who gatekeeps the gatekeepers?
 
-And yet… I can say from experience that indie rock won't notice such efforts. The indie gatekeepers are too harried to learn who's out there, so the only artists they'll consider are the ones working hard to follow their rules. Any artist who *isn't*— they'll simply never tell us about. And this is the heart of the problem:
+And yet… I can say from experience that indie rock won't notice such efforts. The indie gatekeepers are too harried to learn who's out there, so the only artists they ever consider are the ones who follow the rules by using their tools. Any artist who *doesn't*— they'll simply never tell us about. And this is the heart of the problem:
 
 **Once the gatekeepers fail us, there's no way for us to know. Which means they'll be failing us for a long time— if they haven't been *already*.**
 
-But with BYCombo, the public can now learn about any bands breaking the rules to make history, who risk being ignored by the indie gatekeepers!
+But with BYCombo, the public can now discover any bands breaking the rules to make history, who risk being ignored by the indie gatekeepers!
 
 ### Who we're looking for
 
