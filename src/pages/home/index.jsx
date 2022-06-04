@@ -11,7 +11,7 @@ const Component = () => (
 
 ### Tools… are *rules*
 
-Indie rock loves to provide artists with tools of empowerment. These tools require the artist's commitment— and yet they offer no advantage, since *every* artist is expected to use them. All they do is penalize the ones who *don't*. But if you think about it… this is how *rules* work! In other words:
+Indie rock loves to provide artists with tools of empowerment. These tools require the artist's commitment— and yet they offer no advantage, since *every* artist is expected to use them. Instead, they simply penalize the ones who *don't*. But… this is how *rules* work! In other words:
 
 **Every tool of empowerment is just another *rule* for artists to follow.**
 

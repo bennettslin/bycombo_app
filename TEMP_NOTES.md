@@ -4,7 +4,12 @@
 * BYCombo UI
     * Menu buttons shift?
     * Footer
-* By those willing to incur great personal cost
+
+* Final bold statement on home page about serious chunk of lifetime
+
+* Car
+* Accountant
+* New apartment
 
 * Begin work on BY Combo
     * Google Form
