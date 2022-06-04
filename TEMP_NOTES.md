@@ -6,6 +6,7 @@
     * Footer
 
 * Final bold statement on home page about serious chunk of lifetime
+    * Social proof
 
 * Car
 * Accountant

@@ -11,7 +11,7 @@ const Component = () => (
 
 ### Tools… are *rules*
 
-Indie rock loves to provide artists with tools of empowerment. These tools require the artist's commitment— and yet they offer no advantage, since *every* artist is expected to use them. Instead, they simply penalize the ones who *don't*. But… this is how *rules* work! In other words:
+Indie rock loves to provide artists with tools of empowerment. These tools require the artist's commitment— and yet they offer no advantage, since *every* artist is expected to use them. Instead, they simply penalize those who *don't*. But… this is how *rules* work! In other words:
 
 **Every tool of empowerment is just another *rule* for artists to follow.**
 
@@ -26,6 +26,8 @@ Now, rule breakers like me aren't common— but we're also not rare! Picture a t
 And yet… I can say from experience that indie rock won't notice such efforts. The indie gatekeepers are too harried to learn who's out there, so the only artists they ever consider are the ones who follow the rules by using their tools. Any artist who *doesn't*— they'll simply never tell us about. And this is the heart of the problem:
 
 **Once the gatekeepers fail us, there's no way for us to know. Which means they'll be failing us for a long time— if they haven't been *already*.**
+
+### How BYCombo works
 
 But with BYCombo, the public can now discover any bands breaking the rules to make history, who risk being ignored by the indie gatekeepers!
 
