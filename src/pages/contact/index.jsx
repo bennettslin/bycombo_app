@@ -12,7 +12,7 @@ If you're a record label or industry insider who'd like to be among the first to
 
 If you'd like to work for BYCombo in an administrative role, let us know what you have in mind. We're happy to get all the help we can!
 
-Please let us know if you have any questions, or if you have suggestions for improvement. Thanks!
+Please let us know if you have any questions, or if you have suggestions for how we can improve. Thanks!
             `,
         }}
     />

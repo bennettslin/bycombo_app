@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The BYCombo mission
 
-**BYCombo is a nonprofit incubator of rock bands. Our mission is to launch the interdependence revolution— the next movement in rock history!**
+**BYCombo is a nonprofit incubator of rock bands. We're here to launch the interdependence revolution— the next movement in rock history!**
 
 ### Tools… are *rules*
 
@@ -19,15 +19,13 @@ Indie rock loves to provide artists with tools of empowerment. These tools requi
 
 Hi, I'm Bennett. Personally, I *hate* rules— but if everyone felt the same, then breaking rules would be the new rule! So I get why my attitude puts me at a disadvantage, which then has to be overcome in other ways. This is why I spent 25,000 hours— twelve full-time years!— to make the album and audio webcomic for *Yearling's Bobtail*.
 
-Now, rule breakers like me aren't common— but we're also not rare! Picture a thousand bands, each sacrificing a serious chunk of lifetime to make an ambitious demo of their own. It would be the next revolution!
+Now, rule breakers like me aren't common— but we're also not rare! Picture a thousand bands, each sacrificing a serious chunk of lifetime to make a historically consequential demo of their own. This would be the next revolution!
 
 ### Who gatekeeps the gatekeepers?
 
 And yet… I can say from experience that indie rock won't notice such efforts. The indie gatekeepers are too harried to learn who's out there, so the only artists they ever consider are the ones who follow the rules by using their tools. Any artist who *doesn't*— they'll simply never tell us about. And this is the heart of the problem:
 
 **Once the gatekeepers fail us, there's no way for us to know. Which means they'll be failing us for a long time— if they haven't been *already*.**
-
-### How BYCombo works
 
 But with BYCombo, the public can now discover any bands breaking the rules to make history, who risk being ignored by the indie gatekeepers!
 
