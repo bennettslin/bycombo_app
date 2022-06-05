@@ -9,7 +9,7 @@ const Component = () => (
 
 Bennett here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. Which means the interdependence revolution can finally begin!
 
-There's just one problem: Indie rock isn't so much a *genre*, as it is a *system* of rule. How do we revolt, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well:
+There's just one problem: Indie rock isn't really a *genre*, so much as it's a *system* of rule. How do we revolt, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well:
 
 **Through BYCombo, we'll assemble interdependent bands committed to sacrificing serious chunks of lifetime to make historically consequential demos. We'll then store these demos in a public registry.**
 
@@ -33,7 +33,8 @@ Because art that requires massive effort to *make* also takes more effort to *un
 
 **Why serious chunks of lifetime?**
 
-Because nothing today predicts artistic worth more accurately than time spent making art. So if a band *must* be reduced to a single number, then this *should* be the one they want. And a lifetime is finite; once that chunk is gone, it's *gone*. Which means there's also nothing better that a band can sacrifice to gain the public's trust.
+// TODO:${'  '}
+Because nothing predicts artistic worth more accurately than time spent making art. So if a band *must* be reduced to a single number, then this *should* be the one they want. And a lifetime is fixed; once that chunk is gone, it's *gone*. Which means there's nothing better a band can sacrifice to gain the public's trust.
 
 Why *else* is indie rock so ill-suited to these times? A few more reasons…
 

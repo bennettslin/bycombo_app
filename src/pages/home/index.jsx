@@ -27,6 +27,7 @@ And yet… I can say from experience that indie rock won't notice such efforts. 
 
 **Once the gatekeepers fail us, there's no way for us to know. Which means they'll be failing us for a long time— if they haven't been *already*.**
 
+// TODO: Redo${'  '}
 But with BYCombo, the public can now discover any bands breaking the rules to make history, who risk being ignored by the indie gatekeepers!
 
 ### Who we're looking for
