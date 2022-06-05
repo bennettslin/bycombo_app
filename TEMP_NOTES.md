@@ -11,6 +11,7 @@
 * Car
 * Accountant
 * New apartment
+* DMV
 
 * Begin work on BY Combo
     * Google Form

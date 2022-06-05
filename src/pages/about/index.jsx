@@ -21,7 +21,7 @@ Because when people gripe about rock music getting worse, they're *really* gripi
 
 **Why band assembly?**
 
-Because there *are* revolutionary bands still to come; they're just unlikely to come together on their own now. How do five musicians committed to making history find each other across the globe? How does an illustrator join as a full-fledged member? A centralized force is also needed to try out new musical ensembles.
+Because there *are* revolutionary bands still to come; they're just unlikely to come together on their own now. How do five musicians committed to making history find each other across the globe? How does an illustrator join as a full-fledged member? A centralized force is also needed to experiment with new musical ensembles.
 
 **Why interdependence? Why demos?**
 
@@ -33,8 +33,7 @@ Because art that requires massive effort to *make* also takes more effort to *un
 
 **Why serious chunks of lifetime?**
 
-// TODO: Just reword better${'  '}
-Because a lifetime is a fixed sum; once that chunk is gone, it's *gone*. Which means there's nothing better that a band can sacrifice to gain the public's trust. And nothing predicts artistic worth more accurately than time spent making art. So if a band *must* be reduced to a single number, then this *should* be the one they want.
+Because a lifetime is fixed; once that chunk is gone, it's *gone*. Which means there's nothing better that a band can sacrifice to gain the public's trust. And going forward, time spent making art is likely the best predictor of artistic worth. So if a band *must* be reduced to a concrete number, then this *should* be the one they want.
 
 Why *else* is indie rock so ill-suited to these times? A few more reasons…
 
