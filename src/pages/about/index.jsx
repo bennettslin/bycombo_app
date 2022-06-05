@@ -33,8 +33,8 @@ Because art that requires massive effort to *make* also takes more effort to *un
 
 **Why serious chunks of lifetime?**
 
-// TODO:${'  '}
-Because nothing predicts artistic worth more accurately than time spent making art. So if a band *must* be reduced to a single number, then this *should* be the one they want. And a lifetime is fixed; once that chunk is gone, it's *gone*. Which means there's nothing better a band can sacrifice to gain the public's trust.
+// TODO: Just reword better${'  '}
+Because a lifetime is a fixed sum; once that chunk is gone, it's *gone*. Which means there's nothing better that a band can sacrifice to gain the public's trust. And nothing predicts artistic worth more accurately than time spent making art. So if a band *must* be reduced to a single number, then this *should* be the one they want.
 
 Why *else* is indie rock so ill-suited to these times? A few more reasons…
 
