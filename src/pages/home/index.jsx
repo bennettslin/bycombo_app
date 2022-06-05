@@ -19,7 +19,7 @@ Indie rock loves to provide artists with tools of empowerment. These tools requi
 
 Hi, I'm Bennett. Personally, I *hate* rules— but if everyone felt the same, then breaking rules would be the new rule! So I get why my attitude puts me at a disadvantage, which then has to be overcome in other ways. This is why I spent 25,000 hours— twelve full-time years!— to make the album and audio webcomic for *Yearling's Bobtail*.
 
-Now, rule breakers like me aren't common— but we're also not rare! Picture a thousand bands, each sacrificing a serious chunk of lifetime to make a historically consequential demo of their own. This would be the next revolution!
+Now, rule breakers like me aren't common— but we're also not rare! Picture a thousand other bands, each sacrificing a serious chunk of lifetime to make history with a demo of their own. It would be the next revolution!
 
 ### Who gatekeeps the gatekeepers?
 
