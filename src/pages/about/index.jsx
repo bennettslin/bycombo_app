@@ -29,11 +29,11 @@ To make consequential art, a band needs to build exceptional strengths. But this
 
 **Why a public registry?**
 
-Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers aren't up for this task. But bands who defy the gatekeepers' expectations are the ones who make history! So our registry allows the public to discover these bands directly.
+Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who defy the gatekeepers' expectations are the ones who make history! So our registry allows the public to discover these bands directly.
 
 **Why serious chunks of lifetime?**
 
-Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it's *gone*. Which means there's nothing of greater value that a band can sacrifice to gain the public's trust. And going forward, time spent making art is likely the best predictor of artistic worth. So if a band *must* be reduced to a single number, then this *should* be the one they want.
+Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it's *gone*. Which means there's nothing of greater value that a band can sacrifice to gain the public's trust. And going forward, time spent making art is likely the best predictor of artistic worth. So if a band *must* be certified by a single number, then this *should* be the one they want.
 
 Why *else* is indie rock so ill-suited to these times? A few more reasons…
 
@@ -43,11 +43,12 @@ Indie rock requires artists to wear several hats: the influencer hat, the public
 
 But the best works of art are *better* than the artists who make them. Why? Because they also benefit from so many eureka moments that can't be summoned at will. And such moments emerge from unconscious thoughts that get disrupted by switching hats. This is why BYCombo lets you keep the artist hat on. You want your art to be better than you, and so do we.
 
-### Middling power leads to risk aversion
+### A pittance secures loyalty to the paradigm
 
 In his book *Originals*, Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, which results in *no one* taking risks.
 
-Because indie artists strive for power from the get-go, they're immediately beholden to the current paradigm that empowers them. And then they never learn to question *any* paradigm. For this reason, BYCombo encourages bands to treat their powerless years as a creative asset: While you have nothing to lose, what paradigms are you free to question?
+// TODO: Embrace powerlessness${'  '}
+Because indie artists strive for power from the get-go, they're immediately beholden to the current paradigm that might empower them. And then they never learn to question *any* paradigm. For this reason, BYCombo encourages bands to embrace their powerless years. While you have nothing to lose, what paradigms are you free to challenge?
 
 ### The masses are *last* to join the revolution
 

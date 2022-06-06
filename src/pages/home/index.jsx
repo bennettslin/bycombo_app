@@ -16,17 +16,18 @@ Indie rock loves to provide artists with tools of empowerment. These tools requi
 **Every tool of empowerment is just one more *rule* to follow.**
 
 // TODO: Finalize heading${'  '}
-### Call for a truce
+### Calling for a truce
 
-Hi, I'm Bennett. Personally, I *hate* rules— but if everyone felt the same, then breaking the rules would be the new rule! So I get why my attitude holds me back. Still, I'm going to break the rules anyway, because rock history really just remembers the rule breakers. Even rule followers know this. And I *will* be remembered! So how about a truce:
+// TODO: Rephrase${'  '}
+Hi, I'm Bennett. Personally, I *hate* rules— yet if everyone felt the same, then breaking the rules would be the new rule! So I get why my attitude hurts me and me alone. But… I'm going to break them anyway, since rock history mainly remembers the rule breakers. And I *will* be remembered! So how about a truce:
 
-**Since rules are made to be followed, rule breakers shouldn't complain that they face a *natural* disadvantage. But since breaking the rules is also how history gets made, let's not impose *systemic* barriers on them as well.**
+**Since rules are made to be followed, rule breakers can't complain about facing a *natural* disadvantage. But since breaking the rules is also how history gets made, let's not impose *systemic* barriers on them as well.**
 
 ### A thousand *Yearling's Bobtail*s
 
-Okay, so how did *I* choose to overcome my natural disadvantage? Given all the time I saved by *not* using indie rock's tools, I spent 25,000 hours— twelve full-time *years*!— to make the music and webcomic for *Yearling's Bobtail*.
+So how did *I* choose to overcome my natural disadvantage? Given all the time I saved by *not* using indie rock's tools, I spent 25,000 hours— twelve full-time *years*!— to make the music and webcomic for *Yearling's Bobtail*.
 
-Now, rule breakers like me aren't common, but we're also not rare! Picture a thousand other bands, each sacrificing a serious chunk of lifetime to make history with a demo of their own. It would be the next revolution!
+Now, rule breakers like me aren't common— but we're also not rare! Picture a thousand other bands, each sacrificing a serious chunk of lifetime to advance the art form with a demo of their own. It would be the next revolution!
 
 ### Who gatekeeps the gatekeepers?
 
@@ -34,14 +35,14 @@ And yet… I can say from experience that indie rock won't notice such efforts. 
 
 **Once the gatekeepers fail us, there's no way for us to know. Which means they'll be failing us for a long time— if they haven't been *already*.**
 
-// TODO: Polar reversal${'  '}
-Indie rock, in other words, has violated our truce, and now these systemic barriers are insurmountable. To be fair, I think this happened because it's only recently that breaking the rules requires *more* work, not less. So indie rock doesn't realize that it's shutting out the rule breakers, because it still expects them to come from the other extreme!
+// TODO: Confirm wording${'  '}
+In other words, indie rock has violated our truce, and now these systemic barriers are insurmountable. To be fair, breaking the rules now requires *more* effort, not less, and this is a recent change. So maybe the gatekeepers don't realize that they're shutting out the rule breakers, because they still expect them to come from the opposite extreme!
 
 // TODO: Finalize heading${'  '}
 ### Artistic gadfly
 
 // TODO: Flesh out${'  '}
-Luckily, there are rule breakers among music fans as well
+Luckily, there are rule breakers among music fans as well, who recognize that they're no longer seeing their own on the artist side.
 Who intuitively understand that these days, the *spirit* of the Sex Pistols won't be found in any band that *sounds* like them; that it's far more likely to be found in a band like the Bobtail Yearlings.
 
 who aren't content to accept whatever the gatekeepers tell them, and are pretty sure that what they're being shown isn't all there is.
@@ -66,6 +67,7 @@ Once we put you in a band with three or four others— subject to everyone's app
 
 Through the years, BYCombo will advise you on your band project. If the project requires unique collaborators— acrobats? puppeteers?— we'll help you find them. We'll also include you in a supportive community of other ambitious bands. And finally, the Bobtail Yearlings will help when they can!
 
+// TODO: Include writers and gadflies${'  '}
 Once your demo is complete, we'll send it to any record labels or industry insiders who sign up to hear it first. In exchange for this privilege, they'll promise to give it fair consideration and a timely response.
 
 Finally, we'll add your demo to our public registry. With your help, BYCombo will become the public's trusted resource to hear about all the latest bands sacrificing serious chunks of lifetime to make history!
