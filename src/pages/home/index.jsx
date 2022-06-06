@@ -36,14 +36,13 @@ And yet… I can say from experience that indie rock won't notice such efforts. 
 **Once the gatekeepers fail us, there's no way for us to know. Which means they'll be failing us for a long time— if they haven't been *already*.**
 
 // TODO: Confirm wording${'  '}
-In other words, indie rock has violated our truce, and now these systemic barriers are insurmountable. To be fair, breaking the rules now requires *more* effort, not less, and this is a recent change. So maybe the gatekeepers don't realize that they're shutting out the rule breakers, because they still expect them to come from the opposite extreme!
+In other words, indie rock has violated our truce, and now these systemic barriers are insurmountable. To be fair, there's been a role reversal: Breaking the rules now requires far *more* effort, not *less*. So maybe the gatekeepers don't realize that they've shut out the rule breakers, because they still expect them to come from the opposite extreme!
 
 // TODO: Finalize heading${'  '}
-### Artistic gadfly
+### Uniting the rock gadflies
 
 // TODO: Flesh out${'  '}
-Luckily, there are rule breakers among music fans as well, who recognize that they're no longer seeing their own on the artist side.
-Who intuitively understand that these days, the *spirit* of the Sex Pistols won't be found in any band that *sounds* like them; that it's far more likely to be found in a band like the Bobtail Yearlings.
+Luckily, there are rule breakers among music fans as well, who recognize that they're no longer seeing their own among today's artists— they're just unclear on the reason.
 
 who aren't content to accept whatever the gatekeepers tell them, and are pretty sure that what they're being shown isn't all there is.
 
