@@ -19,7 +19,7 @@ Indie rock loves to provide artists with tools of empowerment. These tools requi
 ### Calling for a truce
 
 // TODO: Rephrase${'  '}
-Hi, I'm Bennett. Personally, I *hate* rules— yet if everyone felt the same, then breaking the rules would be the new rule! So I get why my attitude hurts me and me alone. But… I'm going to break them anyway, since rock history mainly remembers the rule breakers. And I *will* be remembered! So how about a truce:
+Hi, I'm Bennett. Personally, I *hate* rules— yet if everyone felt the same, then breaking the rules would be the new rule! So I get why my attitude hurts me and me alone. But… I'm going to break them anyway. Rock history mainly remembers the rule breakers, and I *will* be remembered! So here's a truce:
 
 **Since rules are made to be followed, rule breakers can't complain about facing a *natural* disadvantage. But since breaking the rules is also how history gets made, let's not impose *systemic* barriers on them as well.**
 
