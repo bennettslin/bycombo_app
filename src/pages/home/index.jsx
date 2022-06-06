@@ -20,7 +20,7 @@ Indie rock loves to provide artists with tools of empowerment. These tools requi
 
 Hi, I'm Bennett. Personally, I *hate* rules— but if everyone felt the same, then breaking the rules would be the new rule! So I get why my attitude holds me back. Still, I'm going to break the rules anyway, because rock history really just remembers the rule breakers. Even rule followers know this. And I *will* be remembered! So how about a truce:
 
-**Since rules are made to be followed, rule breakers shouldn't complain that they face *natural* disadvantages. But since breaking the rules is also how history gets made, let's not impose *systemic* barriers on them as well.**
+**Since rules are made to be followed, rule breakers shouldn't complain that they face a *natural* disadvantage. But since breaking the rules is also how history gets made, let's not impose *systemic* barriers on them as well.**
 
 ### A thousand *Yearling's Bobtail*s
 
