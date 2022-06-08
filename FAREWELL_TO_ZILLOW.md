@@ -1,10 +1,10 @@
 Farewell to Zillow
 
-I wanted to express my gratitude for all that Zillow Group has done for me, as well as to reflect on how my time here fits into my overall life's journey. I found it difficult to explain a few things without providing additional context, so there's a bit of backstory here, which makes all of this a little more self-indulgent than I'd originally planned. Sorry! I've labeled the various parts, so feel free to jump in anywhere.
+I wanted to express my gratitude for all that Zillow Group has done for me, as well as to reflect on how my time here fits into my overall life's journey. I found that in order to explain some things, I needed to provide additional context. So there's a bit of backstory here, which makes all of this a little more self-indulgent than I'd originally planned. Sorry! I've labeled the various parts, so feel free to jump in anywhere.
 
 The rock band part
 
-I spent the first years of my adult life in the Bay Area, playing in a country punk band with friends. We weren't big by any means, but people we didn't know would know who we were. I'd walk into a party and overhear, "Hey, that's the Yearlings singer." I thought this was the most amazing feeling ever, and I wanted more of it! But weirdly, my friends didn't. So after years of going nowhere, I decided to strike out on my own. I would spend five years making a demo so epic, it was guaranteed to get noticed.
+I spent the first years of my adult life in the Bay Area, playing in a country punk band with friends. We weren't big by any means, but people we didn't know would know who we were. I'd walk into a party and overhear, "Hey, that's the Yearlings singer." I thought this was the most amazing feeling ever, and I wanted more of it! For some reason, my friends didn't. So after years of going nowhere, I decided to strike out on my own. The plan was to spend five years making a demo so epic, it was guaranteed to get noticed.
 
 It worked. The demo attracted some record labels. But they needed to see that I had a working band. And as I quickly found out, it's hard to get others to join when: they aren't your close friends; they didn't contribute to the demo themselves; and, the music is so complex that it's difficult to learn. I just couldn't keep a band together long enough, and the talks fizzled. (Fun fact: Right after Jagjaguwar gave up on us, they signed Bon Iver.)
 

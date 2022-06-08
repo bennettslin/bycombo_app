@@ -47,7 +47,7 @@ But the best works of art are *better* than the artists who make them. Why? Beca
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, which results in *no one* taking risks.
 
-Because indie artists strive to get paid from the get-go, they're immediately beholden to the current paradigm that empowers them. For this reason, BYCombo encourages bands to embrace being powerless and unpaid in their early years: While you have nothing to lose, what paradigms are you free to challenge?
+Because indie artists strive to get paid from the get-go, they're immediately beholden to the current paradigm that empowers them. For this reason, BYCombo encourages bands to embrace being powerless and unpaid in their early years: While you have nothing to lose, what assumptions are you free to challenge?
 
 ### The masses are *last* to join the revolution
 
@@ -59,7 +59,7 @@ Revolutions that challenge the current paradigm may *start* with powerless outsi
 
 Indie rock is a culture of self-reliance that celebrates artists who bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can just pay *others* to do it. As a result, indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
-Won't BYCombo see a runaway effect as well? Yes, but ours is foreseeably a race to the *top*. Taking our mission to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which pretty much *guarantees* they'll be remembered by history!
+Won't BYCombo see a runaway effect as well? Yes, but ours is foreseeably a race to the *top*. Taking our approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which pretty much *guarantees* they'll be remembered by history!
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
