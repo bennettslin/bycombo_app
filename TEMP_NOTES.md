@@ -4,14 +4,14 @@
 * BYCombo UI
     * Menu buttons shift?
     * Footer
+* YB doesn't redirect from root?
+* Write to Hopes
 
-* Final bold statement on home page about serious chunk of lifetime
-    * Social proof
-
+* Orthodontist
 * Car
 * Accountant
 * New apartment
-* DMV
+* DMV real ID
 
 * Begin work on BY Combo
     * Google Form

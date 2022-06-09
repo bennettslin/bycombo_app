@@ -13,12 +13,11 @@ const Component = () => (
 
 Indie rock loves to provide artists with tools of empowerment. These tools require the artist's time and commitment— yet they offer no advantage over others, since *every* artist is expected to use them. Instead, they just penalize the few who *don't*. But… this is how *rules* work! In other words:
 
-// TODO: Flesh out${'  '}
-**Every tool of empowerment is just one more *rule* to follow.**
+**Every tool of empowerment is effectively one more *rule* to follow.**
 
 ### Calling for a truce
 
-Hi, I'm Bennett. Personally, I *hate* rules— yet if everyone felt the same, then breaking the rules would be the new rule! So I get why my attitude sets me back. But… I'm going to break the rules anyway. Because rock history mainly remembers the rule breakers, and I want to be remembered! So how about this for a truce:
+Hi, I'm Bennett. Personally, I *hate* rules— yet if everyone felt the same, then breaking the rules would just be the new rule! So I understand why I get no sympathy when my attitude sets me back. But… I'm going to break the rules anyway. Rock history mainly remembers the rule breakers, and I want to be remembered! So how about a truce:
 
 **Since rules are made to be followed, rule breakers can't complain about facing *natural* disadvantages. But since breaking the rules is also how history gets made, let's not impose *systemic* barriers on them as well.**
 
@@ -42,6 +41,8 @@ To be fair, breaking the rules now requires *more* effort, not *less*, and this 
 
 // TODO: Flesh out${'  '}
 Luckily, there are rule breakers among music fans as well, who recognize that they're no longer seeing their own among today's artists— they're just unclear on the reason.
+
+When systemic barriers that are insurmountable are put into place
 
 who aren't content to accept whatever the gatekeepers tell them, and are pretty sure that what they're being shown isn't all there is.
 
