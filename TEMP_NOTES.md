@@ -6,8 +6,17 @@
     * Footer
 * YB doesn't redirect from root?
 * Write to Hopes
+* Broken signal
 
-* Orthodontist
+# TODO Friday
+* Farewell letters
+* Go through departure wiki
+* Go through mail
+* Mom's license
+* Mom's haircut
+* Write back Connie
+
+* Orthodontist/surgery
 * Car
 * Accountant
 * New apartment

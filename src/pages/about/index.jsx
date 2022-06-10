@@ -29,11 +29,12 @@ To make consequential art, a band needs to build exceptional strengths. But this
 
 **Why a public registry?**
 
+// TODO: Artistic gadflies?${'  '}
 Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who defy the gatekeepers' expectations are the ones who make history! So our registry allows the public to discover these bands directly.
 
 **Why serious chunks of lifetime?**
 
-Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it's *gone*. Which means there's nothing of greater value that a band can sacrifice to gain the public's trust. And going forward, time spent making art is likely the best predictor of artistic worth. So if a band *must* be certified by a single number, then this *should* be the one they want.
+Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it's *gone*. Which means there's nothing of greater value that a band can sacrifice to gain the public's trust. And going forward, time spent making art is likely the best predictor of artistic worth. So if a band *must* be verified by a single number, then this *should* be the one they want.
 
 Why *else* is indie rock so ill-suited to these times? A few more reasons…
 
@@ -41,6 +42,7 @@ Why *else* is indie rock so ill-suited to these times? A few more reasons…
 
 Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their level of talent.
 
+// TODO: Mention boredom${'  '}
 But the best works of art are *better* than the artists who make them. Why? Because they also benefit from so many eureka moments that can't be summoned at will. And such moments emerge from unconscious thoughts that get disrupted by switching hats. This is why BYCombo lets you keep the artist hat on. You want your art to be better than you, and so do we.
 
 ### A pittance secures loyalty to the paradigm

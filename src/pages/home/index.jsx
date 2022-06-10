@@ -11,13 +11,13 @@ const Component = () => (
 
 ### Tools… are *rules*
 
-Indie rock loves to provide artists with tools of empowerment. These tools require the artist's time and commitment— yet they offer no advantage over others, since *every* artist is expected to use them. Instead, they just penalize the few who *don't*. But… this is how *rules* work! In other words:
+Indie rock aims to lower the barriers to entry by providing artists with tools of empowerment. These tools aren't exactly free: They cost the artist's time and attention. And yet they offer no advantage in the end, since *every* artist is expected to use them. So all they do is penalize the few who *don't*. But… this is how *rules* work! In other words:
 
-**Every tool of empowerment is effectively one more *rule* to follow.**
+**Every tool of empowerment is effectively another *rule* to follow.**
 
 ### Calling for a truce
 
-Hi, I'm Bennett. Personally, I *hate* rules— yet if everyone felt the same, then breaking the rules would just be the new rule! So I understand why I get no sympathy when my attitude sets me back. But… I'm going to break the rules anyway. Rock history mainly remembers the rule breakers, and I want to be remembered! So how about a truce:
+Hi, I'm Bennett. Personally, I'd rather break the rules. But if everyone felt the same, then breaking the rules would be the new rule! So I understand why my attitude sets me back, and why I get no sympathy when it does. Still, rock history mainly remembers the rule breakers… and I want to be remembered! So how about a truce:
 
 **Since rules are made to be followed, rule breakers can't complain about facing *natural* disadvantages. But since breaking the rules is also how history gets made, let's not impose *systemic* barriers on them as well.**
 
@@ -25,22 +25,25 @@ Hi, I'm Bennett. Personally, I *hate* rules— yet if everyone felt the same, th
 
 So how did *I* choose to overcome my natural disadvantages? Given all the time I saved by *not* using indie rock's tools, I spent 25,000 hours— twelve full-time *years*!— to make the music and webcomic for *Yearling's Bobtail*.
 
+// TODO: Rule breakers now have to work much harder, not less. The next revolutionaries can be both the Sex Pistols *and* Steely Dan.${'  '}
+
 Now, rule breakers like me aren't common— but we're also not rare! Picture a thousand bands, each sacrificing a serious chunk of lifetime to make an ambitious demo of their own. It would be the next revolution in rock history that we've all been waiting for!
 
 ### Who gatekeeps the gatekeepers?
 
-And yet… I can say from experience that indie rock won't notice such efforts. The indie gatekeepers are too harried to learn who's out there, so the only artists they ever consider are the ones who follow the rules. Any artist who *doesn't*— they'll simply never tell us about. And this is the heart of the problem:
+And yet… I can say from experience that indie rock won't notice such efforts. When barriers to entry are lowered, the gatekeepers become harried. And harried gatekeepers are sticklers for the rules. So every artist *must* use their tools to be given consideration; we'll simply never hear about any who *don't*. This brings us to the heart of the problem:
 
-**Once the gatekeepers fail us by shutting out the rule breakers, there's no way for us to know. Which means they'll be failing us for a long time— if they haven't been *already*.**
+**Once the gatekeepers fail us by shutting out the rule breakers, there's no way for us to know. Which means they'll be failing us for a long time— and likely already have been.**
 
 // TODO: Finalize heading${'  '}
 ### Uniting the rock gadflies
 
-// TODO: Incorporate into one below${'  '}
-To be fair, breaking the rules now requires *more* effort, not *less*, and this role reversal is fairly recent. So maybe the gatekeepers don't realize that they're shutting out the rule breakers, because they still expect them to come from the opposite extreme!
+So today's rule breakers face systemic barriers that are now insurmountable.
 
 // TODO: Flesh out${'  '}
 Luckily, there are rule breakers among music fans as well, who recognize that they're no longer seeing their own among today's artists— they're just unclear on the reason.
+
+BYCombo harnesses the energy of disgruntled fans who believe rock music has gotten worse, and intellectually understand that indie rock *should* be worse.
 
 When systemic barriers that are insurmountable are put into place
 
