@@ -15,12 +15,14 @@
 * Mom's license
 * Mom's haircut
 * Write back Connie
+* Research health insurance
 
 * Orthodontist/surgery
 * Car
 * Accountant
 * New apartment
 * DMV real ID
+* BY mission
 
 * Begin work on BY Combo
     * Google Form
