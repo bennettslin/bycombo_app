@@ -1,28 +1,42 @@
-Old-timers on my team
-Andrea, Brittany
-Opening up to me
+Farewell, and please check out my band
 
-Others on my team
-Stephens, Maja, Chelsea, Braydon, E.K., Csaba, Srinath, Youna
+Hi everyone,
 
-Managers
-Amritha, Emily
+I'm writing to let you know that June 20 will be my last day at Zillow. I'm leaving to pursue my lifelong ambition of making it in a band.
 
-Headshots
-Aaron, Clark, James
-(For those who are curious, yes, those are former Zillowites Ashley Douthett, Graham Young, Matt Viele, and Vicki Huang.)
+I've decided to combine the Mark Winham and Tim Stevens approaches to saying farewell. In addition to this email, here is a zWiki with some personal reflections.
 
-Interviewers
-Esther, Scott, Minhao, Josh (Scott also zPal)
+To Andrea and Brittany, I’ll always have fond memories of our team as it went through so many transitions. Thank you for opening up to me. It feels like we've all grown together.
 
-Rentals Project Comet
+To Braydon, Chelsea, E.K., Maja, and Stephens, I've learned so much working with each of you, and I'll always be grateful for those experiences. I will miss the camaraderie that I felt coming into the office each morning.
+
+To Amritha and Emily, thank you for having confidence in my abilities. I'll always look to you as models of effective management.
+
+To Csaba, Srinath, and Youna, it was wonderful to finally meet you in person. I had a lot of fun building out new features with you this past year.
+
+To Christopher, Douglas, and Sean, thank you for making yourselves available to chat with me. I was always amazed how much access I had to our leadership at Zillow.
+
+To those of you in Rentals, I'll never forget working on Project Comet. It felt like we were all in Mission Control and shooting for the moon. And since then, I've enjoyed collaborating and engaging with you on various projects.
+
+To Esther, Josh, Minhao, and Scott, thank you for interviewing me and giving me a chance. Your decision changed my life. And Scott, thank you for being my zPal.
+
+To Aaron, Clark, and James, thank you for agreeing to do headshots for my webcomic. If you're curious, this scene shows all the characters. (And yes, those are former Zillowites Ashley Douthett, Graham Young, Matt Viele, and Vicki Huang as well.)
+https://www.yearlingsbobtail.com/19-epilogue
+
+To the rest of you, thank you for embodying the spirit and warmth of Zillow. It made my time here so memorable. I'll always be cheering for Zillow from the sidelines!
+
+Please don't hesitate to connect with me.
+Facebook
+LinkedIn
+
+And if you're interested, here are some of my music-related projects. (They're all still in the early stages, so if you check them out now, it won't seem like we're even a real band. But they'll be built out in the coming months.)
+
+Project Comet and Rentals
 Josh, Chris, Tanya, Leila
 
-Leaders
-Christopher, Douglas Pope, Sean Voss
 
 Others
-Heather, Joy, Monique
+Heather, Joy, Monique, Aditya
 
 HotPads
 Chris Mo, John Aleman, David Judilla, Joshua Liang

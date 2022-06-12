@@ -10,3 +10,5 @@ Rule breakers now have to work much harder, not less.
 <!-- Lowering the barriers to entry makes gatekeepers harried.
 And harried gatekeepers become sticklers for the rules. The first ones who get shut out are the rule breakers.
 Once the rule breakers are shut out, we'll never know. -->
+
+The art of rule breakers will increasingly become complex, as the indie gatekeepers grow increasingly impatient.

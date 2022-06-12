@@ -11,13 +11,13 @@ Bennett here! I've spent half my life arguing that indie rock has made music wor
 
 There's just one problem: Indie rock isn't really a *genre*, so much as it's a *system* of rule. How do we revolt, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well:
 
-**Through BYCombo, we'll assemble interdependent bands committed to sacrificing serious chunks of lifetime to make historically consequential demos. We'll then store these demos in a public registry.**
+**Through BYCombo, we'll assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos. We'll then store these demos in a public registry.**
 
 ### The revolution will *not* be decentralized
 
 **Why historical consequence?**
 
-Because when people gripe about rock music getting worse, they're *really* griping that history is no longer being made. Yes, talent is still out there— but competing with the past now calls for explicit intent and massive effort. And only a centralized force like BYCombo can light this fire in today's artists.
+Because when people gripe about rock getting worse, they're *really* griping that history is no longer being made. Yes, talent is still out there— but competing with the past now calls for explicit intent and massive effort. And only a centralized force like BYCombo can light this fire in today's artists.
 
 **Why band assembly?**
 
@@ -25,7 +25,7 @@ Because there *are* revolutionary bands still to come; they're just unlikely to 
 
 **Why interdependence? Why demos?**
 
-To make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, history makers need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And demos are what a band sounds like while they're still unsigned.
+To make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, history makers need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And demos are what a band sounds like until they're signed.
 
 **Why a public registry?**
 
@@ -34,7 +34,7 @@ Because art that requires massive effort to *make* also takes more effort to *un
 
 **Why serious chunks of lifetime?**
 
-Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it's *gone*. Which means there's nothing of greater value that a band can sacrifice to gain the public's trust. And going forward, time spent making art is likely the best predictor of artistic worth. So if a band *must* be verified by a single number, then this *should* be the one they want.
+Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it's *gone*. Which means there's nothing of greater value that a band can sacrifice to gain the public's trust. And going forward, time spent making art is likely the best predictor of artistic worth. So if a band *must* be certified by a single number, then this is the one they should want.
 
 Why *else* is indie rock so ill-suited to these times? A few more reasons…
 

@@ -11,13 +11,13 @@
 # TODO Friday
 * Farewell letters
 * Go through departure wiki
-* Go through mail
 * Mom's license
 * Mom's haircut
 * Write back Connie
 * Research health insurance
+* Pay BURL health bill
+* Do rectal exam
 
-* Orthodontist/surgery
 * Car
 * Accountant
 * New apartment

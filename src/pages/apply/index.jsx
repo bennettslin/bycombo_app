@@ -31,7 +31,7 @@ Finally, we'll add your demo to our public registry. With your help, BYCombo wil
 
 ### How to apply
 
-Email us the following information, and we'll be in touch shortly:
+Email us the following information, and we'll be in touch:
 
 * Your name, email, and pronouns
 * Your city, and where you can— or can't— relocate if needed
@@ -40,7 +40,7 @@ Email us the following information, and we'll be in touch shortly:
 * Your bold ideas for a musical project, if any
 * Links to social media or video demonstrations
 
-If you're co-applying with others, please send a single email with each person's information. If you have special circumstances that need to be considered, please let us know! We'll always try to make things work.
+If you're co-applying with others, please send a single email with each person's information. If you have special circumstances that need to be considered, please let us know! We'll try to make things work.
             `,
         }}
     />
