@@ -25,7 +25,7 @@ Because there *are* revolutionary bands still to come; they're just unlikely to 
 
 **Why interdependence? Why demos?**
 
-To make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, history makers need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And demos are what a band sounds like until they're signed.
+To make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, history makers need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And demos are what a band sounds like while they're still unsigned.
 
 **Why a public registry?**
 
@@ -38,12 +38,11 @@ Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it'
 
 Why *else* is indie rock so ill-suited to these times? A few more reasons…
 
-### Serendipity favors a single hat
+### Revelatory insight favors a single hat
 
 Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their level of talent.
 
-// TODO: Mention boredom${'  '}
-But the best works of art are *better* than the artists who make them. Why? Because they also benefit from so many eureka moments that can't be summoned at will. And such moments emerge from unconscious thoughts that get disrupted by switching hats. This is why BYCombo lets you keep the artist hat on. You want your art to be better than you, and so do we.
+But the best works of art are *better* than the artists who make them. Why? Because they *also* benefit from so many insightful revelations that can't be summoned at will. Such insight arises from letting thoughts drift in the shower, or even daydreaming out of boredom; it can't happen if you're always switching hats. So BYCombo is here to let you keep the artist hat on.
 
 ### A pittance secures loyalty to the paradigm
 

@@ -13,21 +13,21 @@ const Component = () => (
 
 Indie rock aims to lower the barriers to entry by providing artists with tools of empowerment. These tools aren't exactly free: They cost the artist's time and attention. And yet they offer no advantage in the end, since *every* artist is expected to use them. So all they do is penalize the ones who *don't*. But… this is how *rules* work! In other words:
 
-**Every tool of empowerment becomes just another *rule* to follow.**
+**Every tool of empowerment… is just another *rule* to follow.**
 
 ### Calling for a truce
 
 Hi, I'm Bennett. I find indie rock's rules absurd, and I refuse to follow them. Yet if everyone felt this way, then breaking the rules… would be the new rule! So I understand why I get no sympathy when this attitude hurts me and me alone. Still, rock history mainly remembers the rule breakers— and I *will* be remembered! So how about a truce:
 
-**Since rules are made to be followed, rule breakers can't complain about facing *natural* disadvantages. But since breaking the rules is also how history gets made, let's not impose *systemic* barriers to shut them out.**
+**Since rules are made to be followed, rule breakers can't complain about facing *natural* disadvantages. But breaking the rules is how history gets made, so let's not impose *systemic* barriers to shut them out either.**
 
 ### A thousand *Yearling's Bobtail*s
 
-Sounds fair to me. So I spent 25,000 hours— twelve full-time *years*!— to make the music and webcomic for *Yearling's Bobtail*. And I have no regrets. Had I tried to empower myself using indie rock's tools instead, the idea for doublespeaker rhyme never would have come to me. There's a lesson here:
+Sounds fair to me! Which is why I spent 25,000 hours— twelve full-time *years*!— to make the music and webcomic for *Yearling's Bobtail*. And I have no regrets; had I just followed the rules and used indie rock's tools instead, an idea like doublespeaker rhyme never would have come to me. There's a conclusion to draw here:
 
-**To overcome their disadvantages, today's rule breakers have only one option: Double down on making art. Which means the most *disruptive* works of our time will also be the most *accomplished*.**
+**To overcome their disadvantages, today's rule breakers have only one option: Keep doubling down on making consequential art. Which means the most *disruptive* works of our time… will also be the most *accomplished*.**
 
-Picture a thousand bands, each sacrificing a serious chunk of lifetime to make an ambitious demo of their own. It would be the next revolution in rock history!
+Now picture a thousand bands, each sacrificing a serious chunk of lifetime to make an ambitious demo of their own. It would be the next revolution in rock history!
 
 ### Who gatekeeps the gatekeepers?
 
@@ -36,9 +36,9 @@ And yet… indie rock isn't set up to care. When barriers to entry are lowered, 
 **Once the gatekeepers fail us by shutting out the rule breakers, there's no way for us to know. Which means they'll be failing us for a long time— and likely already *have been*.**
 
 // TODO: Finalize heading${'  '}
-### Breeding gadflies
+### A nation of gadflies
 
-The situation might seem hopeless. Luckily, there are rule breakers among music fans as well! They're the ones who refuse to be gaslit when indie rock insists that rock music has never been better. Artists should be filling us with awe, not asking for support! Today's rock just doesn't seem destined for historical consequence, and this tells them that something is very wrong.
+The situation might seem hopeless. Luckily, there are rule breakers among music fans as well! They're the ones who refuse to be gaslit when indie rock insists that rock has never been better. Artists should be filling us with awe, not asking for support! Today's rock just doesn't seem destined for historical consequence, and this tells them that something is very wrong.
 
 Intuitively recognize that today's rule breakers are making ambitious demos.
 

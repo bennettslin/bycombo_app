@@ -18,7 +18,7 @@ To Christopher, Douglas, and Sean, thank you for making yourselves available to 
 
 To those of you in Rentals, I'll never forget working on Project Comet. It felt like we were all in Mission Control and shooting for the moon. And since then, I've enjoyed collaborating and engaging with you on various projects.
 
-To Esther, Josh, Minhao, and Scott, thank you for interviewing me and giving me a chance. Your decision changed my life. And Scott, thank you for being my zPal.
+To Esther, Josh, Minhao, and Scott, thank you for interviewing me and giving a chance to a bootcamp graduate. Your decision changed my life. And Scott, thank you for being my zPal.
 
 To Aaron, Clark, and James, thank you for agreeing to do headshots for my webcomic. If you're curious, this scene shows all the characters. (And yes, those are former Zillowites Ashley Douthett, Graham Young, Matt Viele, and Vicki Huang as well.)
 https://www.yearlingsbobtail.com/19-epilogue
