@@ -15,6 +15,9 @@ Indie rock aims to lower the barriers to entry by providing artists with tools o
 
 **Every tool of empowerment… is just another *rule* to follow.**
 
+// TODO: Make this point.${'  '}
+Indie rock's rules aren't based on aesthetics
+
 ### Calling for a truce
 
 Hi, I'm Bennett. I find indie rock's rules absurd, and I refuse to follow them. Yet if everyone felt this way, then breaking the rules… would be the new rule! So I understand why I get no sympathy when this attitude hurts me and me alone. Still, rock history mainly remembers the rule breakers— and I *will* be remembered! So how about a truce:
@@ -23,11 +26,13 @@ Hi, I'm Bennett. I find indie rock's rules absurd, and I refuse to follow them. 
 
 ### A thousand *Yearling's Bobtail*s
 
-Sounds fair to me! Which is why I spent 25,000 hours— twelve full-time *years*!— to make the music and webcomic for *Yearling's Bobtail*. And I have no regrets! Had I followed the rules and used indie rock's tools like so many others, an idea like doublespeaker rhyme never would have come to me. So there's a conclusion to draw here:
+// TODO: Is conclusion the right word.${'  '}
+Sounds fair to me! Which is why I spent 25,000 hours— twelve full-time *years*!— to make the music and webcomic for *Yearling's Bobtail*. And I have no regrets. Had I just followed indie rock's rules like so many others, an idea like doublespeaker rhyme never would have come to me. We can draw a conclusion here:
 
 **To overcome their disadvantages, today's rule breakers have only one option: Keep doubling down on making consequential art. This means the most *disruptive* works of our time… will also be the most *accomplished*.**
 
-So picture a thousand bands, each sacrificing a serious chunk of lifetime to make an ambitious demo of their own. It would be the next revolution in rock history!
+// TODO: Reword nicely.${'  '}
+In other words, it's possible to be both the Sex Pistols *and* Steely Dan! Now, the kind of artist who gets excited by this probably isn't common— but I suspect we're not rare, either! Picture a thousand bands, each ignoring indie rock's tools and instead making an ambitious demo of their own. It would be the next revolution in rock history!
 
 ### Who gatekeeps the gatekeepers?
 
