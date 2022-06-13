@@ -17,17 +17,18 @@ Indie rock aims to lower the barriers to entry by providing artists with tools o
 
 ### Calling for a truce
 
-Hi, I'm Bennett. I find indie rock's rules absurd, and I refuse to follow them. Yet if everyone felt this way, then breaking the rules… would be the new rule! So I understand that my attitude hurts me alone, and why I get no sympathy for this. Still, rock history remembers the rule breakers and their disruptive works above all else— and I *will* be remembered! So how about a truce:
+Hi, I'm Bennett. I find indie rock's rules absurd, and I refuse to follow them. Yet if everyone felt this way, then breaking the rules… would be the new rule! So I understand that my attitude hurts me alone, and why I get no sympathy for this. Still, rock history remembers the rule breakers above all else— and I *will* be remembered! So how about a truce:
 
 **Since rules are made to be followed, rule breakers can't complain about facing *natural* disadvantages. But since breaking the rules is how history gets made, let's not put up *systemic* barriers to shut them out either.**
 
 ### A hundred *Yearling's Bobtail*s
 
-So rather than complain, I spent 25,000 hours— twelve full-time *years*!— to make the music and webcomic for *Yearling's Bobtail*. And I have no regrets! Had I chosen to empower myself using indie rock's tools instead, an idea like doublespeaker rhyme never would have come to me. Which qualifies me to make an observation:
+So rather than complain, I ultimately spent 25,000 hours to make the music and webcomic for *Yearling's Bobtail*. That's twelve full-time *years*! But it was worth it. Had I chosen to empower myself using indie rock's tools instead, so many ideas like doublespeaker rhyme wouldn't have come to me. I think this qualifies me to make an observation:
 
-**To overcome their disadvantages, today's rule breakers have only one option: Sacrifice a serious chunk of lifetime to make consequential art. This means the most *disruptive* works of our time… will also be the most *accomplished*.**
+**To overcome their disadvantages, today's rule breakers have only one option: Sacrifice a serious chunk of lifetime to make consequential art.**
 
-A rule breaker today can be both the next Sex Pistols *and* the next Steely Dan! So picture a hundred bands, each hoping to make history with an ambitious demo of their own. It would be the next revolution!
+// TODO: Rephrase${'  '}
+Which means that breaking the rules is how this generation will get its most *disruptive* works— as well as its most *accomplished*! So picture a hundred bands, each hoping to make history with an ambitious demo of their own. It would be the next revolution!
 
 ### Who gatekeeps the gatekeepers?
 
