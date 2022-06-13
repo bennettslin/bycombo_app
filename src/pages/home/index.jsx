@@ -21,14 +21,13 @@ Hi, I'm Bennett. I find indie rock's rules absurd, and I refuse to follow them. 
 
 **Since rules are made to be followed, rule breakers can't complain about facing *natural* disadvantages. But since breaking the rules is how history gets made, let's not put up *systemic* barriers to shut them out either.**
 
-### A hundred *Yearling's Bobtail*s
+### A thousand *Yearling's Bobtail*s
 
-// TODO: Wording and phrasing?${'  '}
-So rather than complain, I ultimately spent 25,000 hours to make the music and webcomic for *Yearling's Bobtail*— twelve full-time *years*! But it was worth it. Had I chosen to empower myself using indie rock's tools instead, an idea like doublespeaker rhyme never would have come to me. Which leads to this observation:
+So rather than complain, I ultimately spent 25,000 hours to make the music and webcomic for *Yearling's Bobtail*— twelve full-time *years*! But it was worth it. Had I chosen to empower myself using indie rock's tools instead, an idea like doublespeaker rhyme never would have come to me. Which leads to an observation:
 
-**To overcome their disadvantages, today's rule breakers have only one option: Sacrifice a serious chunk of lifetime to make consequential art. This means they won't just be making the *disruptive* works of our time— they'll be making our most *accomplished* works as well.**
+**To overcome their disadvantages, today's rule breakers have only one option: Sacrifice a serious chunk of lifetime to make consequential art.**
 
-Picture a hundred bands, each trying to make history with an ambitious demo of their own. It would be the next revolution!
+But think about what this means: Rule breakers won't just be making the *disruptive* works of our time— they'll be giving us our most *accomplished* works as well! Picture a thousand bands, each trying to do just that with an ambitious demo of their own. It would be the next revolution!
 
 ### Who gatekeeps the gatekeepers?
 
