@@ -62,6 +62,7 @@ So BYCombo gladly works with powerful insiders, for the sake of our revolutionar
 
 Indie rock is a culture of self-reliance that celebrates artists who bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can just pay *others* to do it. As a result, indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
+// TODO: There's always a runaway effect${'  '}
 Won't BYCombo see a runaway effect as well? Yes, but ours is foreseeably a race to the *top*. Taking our approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which pretty much *guarantees* they'll be remembered by history!
 
 ### *For* hungry outsiders, *by* a hungry outsider
