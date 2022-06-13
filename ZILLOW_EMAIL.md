@@ -39,4 +39,4 @@ Others
 Heather, Joy, Monique, Aditya
 
 HotPads
-Chris Mo, John Aleman, David Judilla, Joshua Liang, Jon Rogozen
+Chris Mo, John Aleman, David Judilla, Joshua Liang
