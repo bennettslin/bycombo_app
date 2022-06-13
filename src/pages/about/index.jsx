@@ -11,7 +11,7 @@ Bennett here! I've spent half my life arguing that indie rock has made music wor
 
 There's just one problem: Indie rock isn't really a *genre*, so much as it's a *system* of rule. How do we revolt, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well:
 
-**Through BYCombo, we'll assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos. We'll then store these demos in a public registry.**
+**BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos. We'll then store these demos in a public registry.**
 
 ### The revolution will *not* be decentralized
 
@@ -38,11 +38,11 @@ Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it'
 
 Why *else* is indie rock so ill-suited to these times? A few more reasons…
 
-### Revelatory insight favors a single hat
+### Insightful revelation favors a single hat
 
 Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their level of talent.
 
-But the best works of art are *better* than the artists who make them. Why? Because they *also* benefit from so many insightful revelations that can't be summoned at will. Such insight arises from letting thoughts drift in the shower, or even daydreaming out of boredom; it can't happen if you're always switching hats. So BYCombo is here to let you keep the artist hat on.
+But the best works of art are *better* than the artists who make them. Why? Because they *also* benefit from countless revelatory insights that can't be summoned at will. These insights arise from letting thoughts drift in the shower, or even daydreaming out of boredom; they won't happen if you're always switching hats. So BYCombo is here to let you keep the artist hat on.
 
 ### A pittance secures loyalty to the paradigm
 
@@ -54,7 +54,9 @@ Because indie artists strive to get paid from the get-go, they're immediately be
 
 Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means the world is stuck with the current paradigm, because the masses *never* ask for paradigm change on their own.
 
-Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *popularized* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. This may not jibe with indie rock's anti-establishment fantasy, but it's the historical truth. So BYCombo gladly works with powerful insiders, for the sake of our revolutionary bands.
+Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *popularized* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. This may not jibe with indie rock's anti-establishment fantasy, but it's the historical truth.
+
+So BYCombo gladly works with powerful insiders, for the sake of our revolutionary bands.
 
 ### Responsible revolutions plan for runaway effects
 

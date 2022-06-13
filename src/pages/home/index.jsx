@@ -13,26 +13,21 @@ const Component = () => (
 
 Indie rock aims to lower the barriers to entry by providing artists with tools of empowerment. These tools aren't exactly free: They cost the artist's time and attention. And yet they offer no advantage in the end, since *every* artist is expected to use them. So all they do is penalize the ones who *don't*. But… this is how *rules* work! In other words:
 
-**Every tool of empowerment… is just another *rule* to follow.**
-
-// TODO: Make this point.${'  '}
-Indie rock's rules aren't based on aesthetics
+**Every tool of empowerment is effectively just another *rule* to follow.**
 
 ### Calling for a truce
 
-Hi, I'm Bennett. I find indie rock's rules absurd, and I refuse to follow them. Yet if everyone felt this way, then breaking the rules… would be the new rule! So I understand why I get no sympathy when this attitude hurts me and me alone. Still, rock history mainly remembers the rule breakers— and I *will* be remembered! So how about a truce:
+Hi, I'm Bennett. I find indie rock's rules absurd, and I refuse to follow them. Yet if everyone felt this way, then breaking the rules… would be the new rule! So I understand that my attitude hurts me alone, and why I get no sympathy for this. Still, rock history remembers the rule breakers and their disruptive works above all else— and I *will* be remembered! So how about a truce:
 
-**Since rules are made to be followed, rule breakers can't complain about facing *natural* disadvantages. But breaking the rules is how history gets made, so let's not impose *systemic* barriers to shut them out either.**
+**Since rules are made to be followed, rule breakers can't complain about facing *natural* disadvantages. But since breaking the rules is how history gets made, let's not put up *systemic* barriers to shut them out either.**
 
-### A thousand *Yearling's Bobtail*s
+### A hundred *Yearling's Bobtail*s
 
-// TODO: Is conclusion the right word.${'  '}
-Sounds fair to me! Which is why I spent 25,000 hours— twelve full-time *years*!— to make the music and webcomic for *Yearling's Bobtail*. And I have no regrets. Had I just followed indie rock's rules like so many others, an idea like doublespeaker rhyme never would have come to me. We can draw a conclusion here:
+So rather than complain, I spent 25,000 hours— twelve full-time *years*!— to make the music and webcomic for *Yearling's Bobtail*. And I have no regrets! Had I chosen to empower myself using indie rock's tools instead, an idea like doublespeaker rhyme never would have come to me. Which qualifies me to make an observation:
 
-**To overcome their disadvantages, today's rule breakers have only one option: Keep doubling down on making consequential art. This means the most *disruptive* works of our time… will also be the most *accomplished*.**
+**To overcome their disadvantages, today's rule breakers have only one option: Sacrifice a serious chunk of lifetime to make consequential art. This means the most *disruptive* works of our time… will also be the most *accomplished*.**
 
-// TODO: Reword nicely.${'  '}
-In other words, it's possible to be both the Sex Pistols *and* Steely Dan! Now, the kind of artist who gets excited by this probably isn't common— but I suspect we're not rare, either! Picture a thousand bands, each ignoring indie rock's tools and instead making an ambitious demo of their own. It would be the next revolution in rock history!
+A rule breaker today can be both the next Sex Pistols *and* the next Steely Dan! So picture a hundred bands, each hoping to make history with an ambitious demo of their own. It would be the next revolution!
 
 ### Who gatekeeps the gatekeepers?
 
