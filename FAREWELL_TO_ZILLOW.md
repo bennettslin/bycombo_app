@@ -1,16 +1,16 @@
-Farewell to Zillow
+Farewell, and please check out the Bobtail Yearlings
 
-I wanted to express my gratitude for all that Zillow has done for me. Since the path I took is a bit unusual, I decided to provide additional context to explain certain parts. So there's a bit of backstory here, which makes all of this a little more self-indulgent than I'd originally planned. Sorry! I've labeled the various parts, so feel free to jump in anywhere.
+I wanted to personally reflect on my time here at Zillow, and to express gratitude for all that my team and my colleagues have done for me. Since the path I took is a bit unusual, I provided some additional context to explain certain parts. So there's a bit of backstory here, which makes all of this a little more self-indulgent than I'd originally planned. Sorry! I've labeled the various parts, so feel free to jump in— or out— at any point.
 
 The rock band part
 
 I spent the first years of my adult life in the Bay Area, playing in a band with friends. We weren't big by any means, but people we didn't know would know who we were. I'd walk into a party and overhear, "Hey, that's the Yearlings singer." I thought this was the most amazing feeling ever, and I wanted more of it! For some reason… my friends didn't. So after years of going nowhere, I decided to strike out on my own. The plan was to spend five years making a demo so epic, it was guaranteed to get noticed.
 
-It worked. The demo attracted some record labels. But they needed to see that I had a working band. And as I quickly found out, it's hard to get others to join when: they aren't your close friends; they didn't contribute to the demo themselves; and, the music is so complex that it's difficult to learn. I just couldn't keep a band together long enough, and the talks fizzled. (Fun fact: After Jagjaguwar gave up on us, they signed Bon Iver.)
+It worked. The demo attracted some record labels. But they needed to see that I had a working band. And as I quickly found out, it's hard to get others to join when: they aren't your close friends; they didn't contribute to the demo themselves; and, the music is so complex that it's difficult to learn. I just couldn't keep a band together long enough, and the talks fizzled. (Fun fact: After Secretly Group gave up on us, they signed Bon Iver.)
 
 The grad school part
 
-Not knowing what else to do, I moved to New York and got an MA in music composition. Still not knowing what to do, I decided to get a PhD in music theory. The choice was between FSU and UW. I was genuinely torn between the two, but my girlfriend at the time, who was from Little Rock, had no desire to live in the South again. So she chose for us. Seattle it was! (Chelsea and Stephens, feel free to chime in on whether Tallahassee is really part of the South.)
+Not knowing what else to do, I moved to New York and got an MA in music composition. Still not knowing what to do, I decided to get a PhD in music theory. The choice was between FSU and UW. I was genuinely torn between the two, but my girlfriend at the time, who was from Little Rock, had no desire to live in the South again. So she chose for us— Seattle it was! (Chelsea and Stephens, feel free to confirm whether Tallahassee is really part of the South.)
 
 Unfortunately, my advisor retired as soon as I arrived at UW, and no one else specialized in the neo-Riemannian theory that I came to study. In fact, I later learned that it's a bit controversial among music theorists, and some of the other professors were openly indifferent to it.
 
@@ -30,7 +30,7 @@ My friends advised me to play local shows in my free time, but I knew this wasn'
 
 I needed an artistic project that could align with my Zillow work. So I decided to create an audio webcomic for my epic demo. For the next five years, I would put in forty hours a week at Zillow, and then another forty hours on this project. I've now logged more than 10,000 hours on this webcomic!
 
-Over the years, everything I learned about frontend coding at Zillow would also benefit my own projects: functional components, hooks, Jest mocking. And occasionally, the reverse happened: I would spend hours trying to fix a Safari issue on my own project, and then take minutes when the same issue showed up in our team's code. After E.K. Yancy joined, the frontend best practices he introduced to our team improved my own project by leaps and bounds.
+Over the years, everything I learned about frontend coding at Zillow would also benefit my own project: functional components, hooks, Jest mocking. And occasionally, the reverse happened: I would spend hours trying to fix a scrolling issue on my own project, and then take minutes when the same issue showed up in our team's code. After E.K. Yancy joined, the frontend best practices he introduced to our team improved my own project by leaps and bounds.
 
 If I have to be honest, I was never a great band leader. So one of the things I appreciate most about Zillow is the understanding that leadership and teamwork are skills to be learned. Whenever we attended training sessions on effective communication
 
@@ -44,6 +44,8 @@ Project Comet, groups of friends
 
 When the pandemic hit, I appreciated that 
 
-A couple months ago, I took my R&R. For the first time in a long time, I was able to devote every waking hour to my projects. Because I wasn't context switching, I was able to log a hundred hours each week. It was heaven! So when I came back to work after the six weeks was up… I found it really, really hard to escape the gravity of my projects. After a while, I realized this wasn't fair to my team, and so I gave notice.
+A couple months ago, I took my R&R. For the first time in a long while, I was able to devote every waking hour to my projects. Since I no longer had to context switch, I was logging a hundred hours each week. It was heaven! So when I came back to work after the six weeks was up… I found it really, really hard to escape the gravity of my projects. After a while, I realized this wasn't fair to my team, and I gave notice.
 
-And please check out the Bobtail Yearlings! If I say it here, for the permanent record, then this will force me 
+And please check out my band, the Bobtail Yearlings!
+
+Let me make a prediction now: Within a year, the Bobtail Yearlings will be signed to a record label on par with Secretly Canadian. So if I fail, it will live on in this zWiki, and I'll be super embarrassed, ha.

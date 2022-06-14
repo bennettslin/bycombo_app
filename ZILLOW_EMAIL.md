@@ -1,4 +1,4 @@
-Farewell, and please check out the Bobtail Yearlings
+Farewell, and please check out my band
 
 Hi everyone,
 
@@ -12,7 +12,7 @@ To Braydon, Chelsea, E.K., Maja, and Stephens, I've learned so much working with
 
 To Amritha and Emily, thank you for having confidence in my abilities. I'll always look to you as models of effective management.
 
-To Csaba, Srinath, and Youna, it was wonderful to finally meet you in person. I had a lot of fun building out new features with you this past year.
+To Csaba, Srinath, and Youna, it was wonderful to meet you in person. I had a lot of fun building out new features with you this past year.
 
 To Christopher, Douglas, and Sean, thank you for making yourselves available to chat with me. I was always amazed how much access I had to our leadership at Zillow.
 
@@ -20,19 +20,19 @@ To those of you in Rentals, I'll never forget working on Project Comet. It felt 
 
 To Esther, Josh, Minhao, and Scott, thank you for interviewing me and giving a chance to a bootcamp graduate. Your decision changed my life. And Scott, thank you for being my zPal.
 
-To Aaron, Clark, and James, thank you for agreeing to do headshots for my webcomic. If you're curious, this scene shows all the characters. (And yes, those are former Zillowites Ashley Douthett, Graham Young, Matt Viele, and Vicki Huang as well.)
+To Aaron, Clark, and James, thank you for agreeing to do headshots for my webcomic. If anyone's curious, this scene shows all the characters. (And yes, those are former Zillowites Ashley Douthett, Graham Young, Matt Viele, and Vicki Huang as well.)
 https://www.yearlingsbobtail.com/19-epilogue
 
-To everyone else, thank you for embodying the spirit and warmth of Zillow. It made my time here so memorable. I'll always be cheering for Zillow from the sidelines!
+To everyone else, thank you for befriending me, and for embodying the spirit and warmth of Zillow. It made my time here so memorable. I'll always be cheering for Zillow from the sidelines!
 
-I'm happy to connect with anyone here.
+Though I'm rarely active, I'm happy to connect with here.
 Facebook
 LinkedIn
 
 And if you're interested, here are some musical projects related to my band, the Bobtail Yearlings. They're all still in the early stages, so if you check them out now, it won't even seem like we're a real band, ha. But they'll be built out in the coming months.
 
 Project Comet and Rentals
-Josh, Chris, Tanya, Leila
+Josh, Chris, Tanya, Leila, Gaohan, Yulong
 
 
 Others
