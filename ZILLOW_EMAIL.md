@@ -1,10 +1,10 @@
-Farewell, and please check out my band
+Farewell, and please check out the Bobtail Yearlings
 
 Hi everyone,
 
 I'm writing to let you know that June 20 will be my last day at Zillow. I'm leaving to pursue my lifelong ambition of making it in a band.
 
-I've decided to combine the Mark Winham and Tim Stevens approaches to saying farewell. In addition to this email, here is a zWiki with some personal reflections.
+To say farewell, I've decided to combine the Mark Winham approach of sending a group email addressed to individuals, with the Tim Stevens approach of creating a zWiki page that's more of a personal reflection.
 
 To Andrea and Brittany, I’ll always have fond memories of our team as it went through so many transitions. Thank you for opening up to me. It feels like we've all grown together.
 
@@ -23,13 +23,13 @@ To Esther, Josh, Minhao, and Scott, thank you for interviewing me and giving a c
 To Aaron, Clark, and James, thank you for agreeing to do headshots for my webcomic. If you're curious, this scene shows all the characters. (And yes, those are former Zillowites Ashley Douthett, Graham Young, Matt Viele, and Vicki Huang as well.)
 https://www.yearlingsbobtail.com/19-epilogue
 
-To the rest of you, thank you for embodying the spirit and warmth of Zillow. It made my time here so memorable. I'll always be cheering for Zillow from the sidelines!
+To everyone else, thank you for embodying the spirit and warmth of Zillow. It made my time here so memorable. I'll always be cheering for Zillow from the sidelines!
 
-Please don't hesitate to connect with me.
+I'm happy to connect with anyone here.
 Facebook
 LinkedIn
 
-And if you're interested, here are some of my music-related projects. (They're all still in the early stages, so if you check them out now, it won't seem like we're even a real band. But they'll be built out in the coming months.)
+And if you're interested, here are some musical projects related to my band, the Bobtail Yearlings. They're all still in the early stages, so if you check them out now, it won't even seem like we're a real band, ha. But they'll be built out in the coming months.
 
 Project Comet and Rentals
 Josh, Chris, Tanya, Leila

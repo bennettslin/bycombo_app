@@ -21,7 +21,7 @@ Because when people gripe about rock getting worse, they're *really* griping tha
 
 **Why band assembly?**
 
-Because there *are* revolutionary bands still to come; they're just unlikely to come together on their own now. How do five musicians committed to making history find each other across the globe? How does an illustrator join as a full-fledged member? A centralized force is also needed to experiment with new musical ensembles.
+Because there *are* revolutionary bands still to come; they're just unlikely to come together on their own now. How do five musicians committed to making history find each other across the globe? How does an illustrator join as a full-fledged member? A centralized force is also needed to try out new musical ensembles.
 
 **Why interdependence? Why demos?**
 
@@ -42,7 +42,7 @@ Why *else* is indie rock so ill-suited to these times? A few more reasons…
 
 Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their level of talent.
 
-But the best works of art are *better* than the artists who make them. Why? Because they *also* benefit from countless revelatory insights that can't be summoned at will. These insights arise from letting thoughts drift in the shower, or even daydreaming out of boredom; they won't happen if you're always switching hats. So BYCombo is here to let you keep the artist hat on.
+But the best works of art are *better* than the artists who make them. Why? Because they *also* benefit from countless revelatory insights that can't be summoned at will. These insights come from letting thoughts drift in the shower, or even daydreaming out of boredom; they won't happen if you're always switching hats. So BYCombo is here to let you keep the artist hat on.
 
 ### A pittance secures loyalty to the paradigm
 
