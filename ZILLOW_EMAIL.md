@@ -1,42 +1,46 @@
-Farewell, and please check out my band
+Farewell… and please check out my band!
 
 Hi everyone,
 
-I'm writing to let you know that June 20 will be my last day at Zillow. I'm leaving to pursue my lifelong ambition of making it in a band.
+I'm writing to let you know that June 20 will be my last day at Zillow. I'm leaving to be a full-time musician with my band, the Bobtail Yearlings. Please check us out!
 
-To say farewell, I've decided to combine the Mark Winham approach of sending a group email addressed to individuals, with the Tim Stevens approach of creating a zWiki page that's more of a personal reflection.
+I've decided to combine the Mark Winham approach of sending a group email addressed to individuals, and the Tim Stevens approach of creating a zWiki page with some personal reflections. There are also links to some band-related projects I'll be working on next.
 
-To Andrea and Brittany, I’ll always have fond memories of our team as it went through so many transitions. Thank you for opening up to me. It feels like we've all grown together.
+To Andrea and Brittany, I’ll always have fond memories of our team as it went through so many transitions. Thank you for opening up to me at various times through the years. It feels like we've all grown together.
 
 To Braydon, Chelsea, E.K., Maja, and Stephens, I've learned so much working with each of you, and I'll always be grateful for those experiences. I will miss the camaraderie that I felt coming into the office each morning.
 
-To Amritha and Emily, thank you for having confidence in my abilities. I'll always look to you as models of effective management.
+To Amritha and Emily, thank you for having confidence in my abilities. I've enjoyed our 1-on-1 chats. I'll always look to you as models of effective management.
 
 To Csaba, Srinath, and Youna, it was wonderful to meet you in person. I had a lot of fun building out new features with you this past year.
 
 To Christopher, Douglas, and Sean, thank you for making yourselves available to chat with me. I was always amazed how much access I had to our leadership at Zillow.
 
-To those of you in Rentals, I'll never forget working on Project Comet. It felt like we were all in Mission Control and shooting for the moon. And since then, I've enjoyed collaborating and engaging with you on various projects.
+To the other Rentals teams, I'll never forget working on Project Comet. It felt like we were all in Mission Control and shooting for the moon. And since then, I've enjoyed collaborating and engaging with you on various projects.
 
 To Esther, Josh, Minhao, and Scott, thank you for interviewing me and giving a chance to a bootcamp graduate. Your decision changed my life. And Scott, thank you for being my zPal.
 
-To Aaron, Clark, and James, thank you for agreeing to do headshots for my webcomic. If anyone's curious, this scene shows all the characters. (And yes, those are former Zillowites Ashley Douthett, Graham Young, Matt Viele, and Vicki Huang as well.)
+To Aaron, Clark, and James, thank you for agreeing to do headshots for my webcomic. If you're curious, this scene shows all the characters. (And yes, you're also seeing former Zillowites Ashley Douthett, Graham Young, Matt Viele, and Vicki Huang.)
 https://www.yearlingsbobtail.com/19-epilogue
 
-To everyone else, thank you for befriending me, and for embodying the spirit and warmth of Zillow. It made my time here so memorable. I'll always be cheering for Zillow from the sidelines!
+To everyone else, thank you for embodying the spirit and warmth of Zillow. It made my time here so memorable.
 
-Though I'm rarely active, I'm happy to connect with here.
-Facebook
-LinkedIn
+Feel free to connect with me in any way:
+Email: bennett@bobtailyearlings.com
+Facebook: https://www.facebook.com/bobtail
+Instagram: https://www.instagram.com/bobtailyearlings
+LinkedIn: https://www.linkedin.com/in/bennettslin
 
-And if you're interested, here are some musical projects related to my band, the Bobtail Yearlings. They're all still in the early stages, so if you check them out now, it won't even seem like we're a real band, ha. But they'll be built out in the coming months.
+I wish you all the best in your life's journey!
+Bennett
 
 Project Comet and Rentals
-Josh, Chris, Tanya, Leila, Gaohan, Yulong
+Josh, Chris, Tanya, Leila, Gaohan, Yulong, Harmeek, Steven Kwan
 
 
 Others
-Heather, Joy, Monique, Aditya
+Heather, Joy, Monique, Aditya, Brendan, Kristina
 
 HotPads
 Chris Mo, John Aleman, David Judilla, Joshua Liang
+
