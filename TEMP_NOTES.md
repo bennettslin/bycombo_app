@@ -11,8 +11,6 @@
 # TODO Friday
 * Farewell letters
 * Go through departure wiki
-* Mom's license
-* Mom's haircut
 * Write back Connie
 * Research health insurance
 * Pay BURL health bill

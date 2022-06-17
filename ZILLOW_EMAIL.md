@@ -1,4 +1,4 @@
-Farewell… and please check out my band!
+Farewell, and please check out my band
 
 Hi everyone,
 
@@ -12,7 +12,9 @@ To Braydon, Chelsea, E.K., Maja, and Stephens, I've learned so much working with
 
 To Amritha and Emily, thank you for having confidence in my abilities. I've enjoyed our 1-on-1 chats. I'll always look to you as models of effective management.
 
-To Csaba, Srinath, and Youna, it was wonderful to meet you in person. I had a lot of fun building out new features with you this past year.
+To Csaba, Srinath, and Youna, it was so wonderful to finally meet you in person. I had a lot of fun building out new features with you this past year.
+
+To Hassan and Mukul, it was nice to meet you. You're in the best hands with the Rentals Applications team!
 
 To Christopher, Douglas, and Sean, thank you for making yourselves available to chat with me. I was always amazed how much access I had to our leadership at Zillow.
 
@@ -25,22 +27,12 @@ https://www.yearlingsbobtail.com/19-epilogue
 
 To everyone else, thank you for embodying the spirit and warmth of Zillow. It made my time here so memorable.
 
+I'll miss you all, and I wish each of you the best in your life's journey!
+
 Feel free to connect with me in any way:
 Email: bennett@bobtailyearlings.com
 Facebook: https://www.facebook.com/bobtail
 Instagram: https://www.instagram.com/bobtailyearlings
 LinkedIn: https://www.linkedin.com/in/bennettslin
 
-I wish you all the best in your life's journey!
 Bennett
-
-Project Comet and Rentals
-Josh, Chris, Tanya, Leila, Gaohan, Yulong, Harmeek, Steven Kwan
-
-
-Others
-Heather, Joy, Monique, Aditya, Brendan, Kristina
-
-HotPads
-Chris Mo, John Aleman, David Judilla, Joshua Liang
-
