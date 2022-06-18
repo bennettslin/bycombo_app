@@ -30,7 +30,6 @@ To everyone else, thank you for embodying the spirit and warmth of Zillow. It ma
 I'll miss you all, and I wish each of you the best in your life's journey!
 
 Feel free to connect with me in any way:
-Email: bennett@bobtailyearlings.com
 Facebook: https://www.facebook.com/bobtail
 Instagram: https://www.instagram.com/bobtailyearlings
 LinkedIn: https://www.linkedin.com/in/bennettslin

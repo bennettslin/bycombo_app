@@ -9,10 +9,10 @@
 * Broken signal
 
 # TODO Friday
+* Write back Connie
 * Farewell letters
 * Go through departure wiki
-* Write back Connie
-* Research health insurance
+    * Research health insurance
 * Pay BURL health bill
 * Do rectal exam
 
