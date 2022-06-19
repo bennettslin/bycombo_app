@@ -8,18 +8,18 @@ const Component = () => (
             body: `
 # Join the interdependence revolution!
 
-**Women and minorities are highly encouraged to apply!**
+Are you eager to sacrifice a serious chunk of lifetime to make rock history? Be part of our pilot cohort!
 
 ### Who we're looking for
 
-Are you eager to sacrifice a serious chunk of lifetime to make rock history? Be part of our pilot cohort! Perhaps you're one of the following:
+Perhaps you're one of the following:
 
 * A rock musician: singer, guitarist, drummer…
 * A musician of another stripe: cellist, tabla player…
 * An artist of some other medium: dancer, web developer…
 * A creator with a bold vision for a musical project
 
-Once we put you in a band with three or four others— subject to everyone's approval— you'll all relocate to Los Angeles or another major city. Each of you will then put in enough time on your band project for the sum total to be 25,000 hours.
+Once we put you in a band with three or four others— subject to everyone's approval— you'll all relocate to Los Angeles or another major city. Each of you will then put in enough time on your band project for the total to sum up to 25,000 hours.
 
 ### What we'll do for you
 
@@ -39,9 +39,12 @@ Email us the following information, and we'll be in touch:
 * Your artistic talents and corresponding skill levels
 * Your bold ideas for a musical project, if any
 * Links to social media or video demonstrations
+
 // TODO: Best version or different${'  '}
 
 If you're co-applying with others, please send a single email with each person's information. If you have special circumstances that need to be considered, please let us know! We'll try to make things work.
+
+**Women and minorities are highly encouraged to apply!**
             `,
         }}
     />

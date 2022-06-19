@@ -17,7 +17,7 @@ There's just one problem: Indie rock isn't really a *genre*, so much as it's a *
 
 **Why historical consequence?**
 
-Because when people gripe about rock getting worse, they're *really* griping that history is no longer being made. Yes, talent is still out there— but competing with the past now calls for explicit intent and massive effort. And only a centralized force like BYCombo can light this fire in today's artists.
+Because when people gripe about rock getting worse, they're *really* griping that history no longer gets made. Yes, talent is still out there— but competing with the past now calls for explicit intent and massive effort. And only a centralized force like BYCombo can light this fire in today's artists.
 
 **Why band assembly?**
 
@@ -29,7 +29,6 @@ To make consequential art, a band needs to build exceptional strengths. But this
 
 **Why a public registry?**
 
-// TODO: Artistic gadflies?${'  '}
 Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who defy the gatekeepers' expectations are the ones who make history! So our registry allows the public to discover these bands directly.
 
 **Why serious chunks of lifetime?**
