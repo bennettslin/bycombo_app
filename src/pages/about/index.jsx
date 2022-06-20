@@ -25,7 +25,7 @@ Because there *are* revolutionary bands still to come; they're just unlikely to 
 
 **Why interdependence? Why demos?**
 
-To make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, history makers need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And demos are what a band sounds like until they're signed to one.
+To make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, history makers need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And demos are what a band sounds like until they've signed to one.
 
 **Why a public registry?**
 

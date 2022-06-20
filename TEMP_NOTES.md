@@ -1,6 +1,4 @@
 # Monday
-    * Update info on Workday
-    * Accept Schwab stocks
     * Look for email with QR code
 
 # TODAY
