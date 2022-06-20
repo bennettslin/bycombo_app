@@ -40,8 +40,6 @@ Email us the following information, and we'll be in touch:
 * Your bold ideas for a musical project, if any
 * Links to social media or video demonstrations
 
-// TODO: Best version or different${'  '}
-
 If you're co-applying with others, please send a single email with each person's information. If you have special circumstances that need to be considered, please let us know! We'll try to make things work.
 
 **Women and minorities are highly encouraged to apply!**
