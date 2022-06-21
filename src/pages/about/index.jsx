@@ -11,7 +11,7 @@ Bennett here! I've spent half my life arguing that indie rock has made music wor
 
 There's just one problem: Indie rock isn't really a *genre* so much as it's a *system*. How do we revolt, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well:
 
-**BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then keep in a public registry to help sustain an anti-indie counterculture.**
+**BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then keep in our public registry to sustain an anti-indie counterculture.**
 
 ### The revolution will *not* be decentralized
 

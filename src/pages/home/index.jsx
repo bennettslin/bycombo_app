@@ -7,8 +7,7 @@ const Component = () => (
             body: `
 # The BYCombo mission
 
-// TODO: ${'  '}
-**BYCombo is a nonprofit incubator of rock bands. Our mission is to launch the interdependence revolution, and to make it the most historically consequential rock movement of the 21st century!**
+**BYCombo is a nonprofit incubator of rock bands. We're here to support the bands who'll make the interdependence revolution the most consequential rock movement of this century.**
 
 ### Tools… are *rules*
 
