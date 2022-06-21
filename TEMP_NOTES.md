@@ -1,6 +1,5 @@
 # TODO today
 * Look over tax thing
-* Exercise
 * Write to game manufacturer
 * Write to Andrea
 
