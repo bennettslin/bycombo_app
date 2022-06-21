@@ -1,30 +1,28 @@
-# Monday
-    * Look for email with QR code
-
-# TODAY
-* Go through departure wiki
-    * https://docs.google.com/document/d/1SHfDomGDl5Vde-HHAe_FAufOfX4SNpUoI87t8wFMShs
+# TODO today
+* Look over tax thing
+* Cardio
+* Exercise
+* Write to game
+* Write to Andrea
 
 # Ongoing
-    * COBRA will mail info
+    * Look for email with QR code
 
 # FIXME
 * BYCombo UI
     * Menu buttons shift?
     * Footer
 * YB doesn't redirect from root?
-* Broken signal
-* Make middleman more clear
 * Anti-indie counterculture
 
 # TODO
-* Write down Evernote stuff
-    * They *don't* just raise the standard by which the unexpected needs to impress them, as we might expect. Instead, they're no longer willing to hear the unexpected *at all*.
-* Write to game
+* Write to game manufacturer
 * Research health insurance
+    * COBRA will mail info
 * Tax thing
 * Do rectal exam
-* Add Zillow farewell to website
+* Set up all appointments in Google Calendar
+* Switch Instagram accounts
 
 * Contacts
 * Car
