@@ -1,8 +1,6 @@
 # TODO today
 * First thing
     * Write to game manufacturer
-* Do rectal exam
-* Return laptop to FedEx
 * Transfer from Schwab to Capital One
 * Look into Vanguard to Schwab transfer thing
 * Plan out rest of June
