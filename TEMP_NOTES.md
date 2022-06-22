@@ -1,7 +1,11 @@
 # TODO today
-* Look over tax thing
-* Write to game manufacturer
-* Write to Andrea
+* First thing
+    * Write to game manufacturer
+* Do rectal exam
+* Return laptop to FedEx
+* Transfer from Schwab to Capital One
+* Look into Vanguard to Schwab transfer thing
+* Plan out rest of June
 
 # Ongoing
     * Look for email with QR code
@@ -18,9 +22,9 @@
 * Write to game manufacturer
 * Research health insurance
     * COBRA will mail info
-* Tax thing
 * Do rectal exam
 * Switch Instagram accounts
+* Wait on the tax thing
 
 * Car
 * Contacts

@@ -33,7 +33,7 @@ Because art that requires massive effort to *make* also takes more effort to *un
 
 **Why serious chunks of lifetime?**
 
-Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it's *gone*. Which means there's nothing of greater value that a band can sacrifice to gain the public's trust. And going forward, time spent making art is likely the best predictor of artistic worth. So if a band *must* be judged by a single metric, then this should be the one they want.
+Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it's *gone*. Which means there's nothing of greater value that a band can sacrifice to gain the public's trust. And going forward, time spent making art is likely to be the best predictor of artistic worth. So if a band *must* be judged by a single metric, then this should be the one they want.
 
 **Why an anti-indie counterculture?**
 
@@ -56,7 +56,7 @@ Because indie artists strive to get paid from the get-go, they're immediately be
 
 ### The masses are *last* to join the revolution
 
-Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means the world is stuck with the current paradigm, because the masses *never* ask for paradigm change on their own.
+Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means we're all stuck with the current paradigm, because the masses *never* ask for paradigm change on their own.
 
 Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *spread* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. This may not jibe with indie rock's anti-establishment fantasy, but it's the historical truth. So BYCombo gladly works with powerful insiders, for the sake of our revolutionary bands.
 
