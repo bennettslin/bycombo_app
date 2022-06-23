@@ -3,7 +3,6 @@
     * Write to game manufacturer
 * Transfer from Schwab to Capital One
 * Look into Vanguard to Schwab transfer thing
-* Plan out rest of June
 * Exercise
 
 * Pick up Zoka records
@@ -15,6 +14,13 @@
     * Footer
 * YB doesn't redirect from root?
 * Anti-indie counterculture
+
+# June
+* Lotus flowers
+* Position posters
+* Adjust prop colours in preparation
+* Finish BYCombo text
+* Some fixes
 
 # TODO
 * Write to game manufacturer
