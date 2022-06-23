@@ -4,9 +4,10 @@
 * Transfer from Schwab to Capital One
 * Look into Vanguard to Schwab transfer thing
 * Plan out rest of June
+* Exercise
 
-# Ongoing
-    * Look for email with QR code
+* Plasma donation
+* Pick up Zoka records
 
 # FIXME
 * BYCombo UI
