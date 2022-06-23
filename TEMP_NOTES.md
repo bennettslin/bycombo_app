@@ -6,7 +6,6 @@
 * Plan out rest of June
 * Exercise
 
-* Plasma donation
 * Pick up Zoka records
 
 # FIXME

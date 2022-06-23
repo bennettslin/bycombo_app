@@ -11,16 +11,15 @@ const Component = () => (
 
 ### Tools… are *rules*
 
-Indie rock wants to lower the barriers to entry by providing artists with tools of empowerment. These tools aren't actually free: They cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them. So all they do is penalize the ones who *don't*. But this is how *rules* work! Which is to say:
+Indie rock wants to lower the barriers to entry by providing artists with tools of empowerment. These tools aren't actually free: They cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them. So all they do is penalize the ones who *don't*. But… this is how *rules* work! Which is to say:
 
 **An indie culture that wants artists to empower themselves will end up imposing rules that every artist *must* follow.**
 
 ### Calling for a truce
 
-// TODO: Connect this more carefully.${'  '}
-Hi, I'm Bennett. It seems obvious to me that the best artists *don't* waste time and energy on self-empowerment; it's just a natural byproduct of their worth. And so I refuse to use indie rock's tools. I'd rather be *interdependent* and depend on a record label, one that in turn depends on *me* to be at my best. But this means:
+Hi, I'm Bennett. It seems obvious to me that the best artists *don't* waste time and energy on self-empowerment; it's just a byproduct of their worth. And so I refuse to use indie rock's tools. I'd rather be *interdependent*, and depend on a record label— one that, in turn, depends on *me* to rank among the best. But think of what this tells us:
 
-**Once the indie culture takes over, any interdependent band who wants to reach their full potential… will be breaking the rules to do so.**
+**Once the indie culture takes over, any interdependent band who aims to rank among the best… will be breaking the rules to do so.**
 
 Now, if all others were like me, then breaking the rules… would just be the new rule! So I understand that my attitude hurts me and me alone, and why I get no sympathy for it. But at the same time, everyone *else* understands that rule breakers are the ones who make rock history! So how about a truce:
 
@@ -28,11 +27,11 @@ Now, if all others were like me, then breaking the rules… would just be the ne
 
 ### A thousand *Yearling's Bobtail*s
 
-One disadvantage is that when an artist refuses to put *any* time or energy into self-empowerment, they're seen as lazy and inept. To counter this misreading, then, an interdependent band's only option is to pour *all* their time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort. But think of what this means:
+One disadvantage is that when an interdependent band refuses to put *any* time or energy into self-empowerment, they're seen as lazy and inept. To counter this misreading, then, their only option is to pour *all* their time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort. But think of what this means:
 
-**By breaking the rules, interdependent bands won't just be making the *disruptive* works of our time; theirs will be our most *accomplished* as well.**
+**By breaking the rules, interdependent bands won't be making just the *disruptive* works of our time, but our most *accomplished* as well.**
 
-In other words, the next Sex Pistols… will *also* be the next Steely Dan! This is why I spent 25,000 hours— twelve full-time *years*!— to make the music and webcomic for *Yearling's Bobtail*. But who *wouldn't* want to rebel by always making art? Picture a thousand bands, each with an ambitious demo of their own. It would be the next revolution!
+In other words, the next Sex Pistols… can also be the next Steely Dan! This is why I spent 25,000 hours— twelve full-time *years*!— to make the music and webcomic for *Yearling's Bobtail*. But who *wouldn't* want to rebel by making art nonstop? Picture a thousand bands, each with an ambitious demo of their own. It would be the next revolution!
 
 ### Who gatekeeps the gatekeepers?
 
@@ -41,6 +40,7 @@ Well… not so fast. When barriers to entry are lowered, gatekeepers become harr
 // TODO: Flesh out${'  '}
 Furthermore, indie artists *can't* coexist with interdependent bands, whom they see as an existential threat. Once we give them power, they will create a system that can never allow for the possibility that an artist can be better by not being indie.
 
+// TODO: Rethink${'  '}
 **Once the indie culture fails us by shutting out the interdependent bands who would otherwise start the next revolution, there's no way for us to know. Which means it'll be failing us for a long time— and likely already *has* been.**
 
 ### An anti-indie counterculture
