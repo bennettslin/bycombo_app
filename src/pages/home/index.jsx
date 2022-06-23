@@ -11,7 +11,7 @@ const Component = () => (
 
 ### Tools… are *rules*
 
-Indie rock wants to lower the barriers to entry by providing artists with tools of empowerment. These tools aren't actually free: They cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them. So all they do is punish the ones who *don't*. But… this is how *rules* work! Every tool is just another *rule*. Which is to say:
+Indie rock wants to lower the barriers to entry by providing artists with tools of empowerment. These tools aren't actually free: They cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them. So all they do is punish the ones who *don't*. But… this is how *rules* work! Using these tools is now the *rule*. Which is to say:
 
 **An indie culture that helps artists to empower themselves will end up imposing rules that *every* artist must follow.**
 
@@ -35,7 +35,8 @@ Which is why I spent 25,000 hours— twelve full-time *years*!— to make the mu
 
 Well… not so fast. As barriers to entry are lowered, indie rock's gatekeepers grow harried; and harried gatekeepers have no patience for ambitious demos. Instead, every artist hoping for their consideration *must* follow the rules and use their tools; we'll just never hear about any who *don't*.
 
-But worse, no indie artist will ever concede that the best artists *aren't* indie. As far as they're concerned, if you're not indie, then you're lazy and inept— *end of story*. So everyone who roots for them embraces this view as well. And this brings us to the heart of the problem:
+// TODO: All ideas are there?${'  '}
+But worse, no indie artist will ever concede that the best art comes from *not* being indie. The way they see it, if you aren't indie, then you're lazy or inept— *end of story*. And everyone who roots for them will embrace this view as well. So no one misses interdependence, because the concept doesn't even exist. This brings us to the heart of the problem:
 
 **Once the indie culture fails us by shutting out the interdependent bands who would otherwise start the next revolution, we'll never know. Which means it'll be failing us for a long time— and likely already *has* been.**
 
