@@ -7,38 +7,38 @@ const Component = () => (
             body: `
 # The BYCombo mission
 
+// TODO: Bands are consequential${'  '}
 **BYCombo is a nonprofit incubator of rock bands. Our mission is to launch the interdependence revolution, and to support the bands who'll make interdependence the most consequential rock movement of the century!**
 
 ### Tools… are *rules*
 
-Indie rock wants to lower the barriers to entry by providing artists with tools of empowerment. These tools aren't actually free: They cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them. So all they do is punish the ones who *don't*. But… this is how *rules* work! Using these tools is now the *rule*. Which is to say:
+Indie rock wants to lower the barriers to entry by providing artists with tools of empowerment. These tools aren't actually free: They cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them. So all they do is punish the ones who *don't*. But… this is how *rules* work! Indie rock's tools are just more *rules*. All of which is to say:
 
 **An indie culture that helps artists to empower themselves will end up imposing rules that *every* artist must follow.**
 
 ### A call for a truce
 
-Hi, I'm Bennett. It's obvious to me that the best artists *don't* waste time and energy on self-empowerment; it just comes to them as a byproduct of their worth. So I refuse to use indie rock's tools. I don't want to be indie at *all*; I'd rather be *interdependent*— to depend on a record label that, in turn, depends on my band to be one of the best. But think about what this means:
+Hi, I'm Bennett. It's obvious to me that the best artists *don't* waste time and energy on self-empowerment; it's simply a byproduct of their worth. So I refuse to use indie rock's tools. I don't want to be indie at *all*; I'd rather be *interdependent*— to depend on a record label that, in turn, depends on my band to be one of the best. Which leads to my problem:
 
 **Once the indie culture takes over, any interdependent band who aims to be the best… will be breaking the rules to do so.**
 
-How about a truce, though? We all know that rules are made to be followed, so rule breakers can't complain about being punished. But at the same time, everyone *also* knows that breaking the rules is how history gets made! So let's not shut them out either.
+How about a truce, though? Since rules are made to be followed, those who break them shouldn't complain about being punished. But at the same time, we *all* know that breaking the rules is how history gets made! So let's not shut out the rule breakers either.
 
 ### A thousand *Yearling's Bobtail*s
 
-Since interdependent bands aren't thrilled to put *any* time or energy into self-empowerment, they get punished for being lazy and inept. Again… no complaints! To correct this misunderstanding, their only option is to pour *all* their time and energy into an ambitious demo that advances the art form— and which *couldn't* have been made for any less effort. But think about it:
+Because interdependent bands aren't thrilled to put *any* time or energy into using indie rock's tools, they get punished for being lazy and inept. But again, no complaints! So to correct this misreading, their only option is to pour *all* their time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort. Yet think of what this means:
 
-**In breaking the rules, interdependent bands won't just be making the *disruptive* works of our time; theirs will be the most *accomplished* as well.**
+**By breaking the rules, interdependent bands won't just be making the *disruptive* works of our time; their works will be this generation's most *accomplished* as well.**
 
-Which is why I spent 25,000 hours— twelve full-time *years*!— to make the music and webcomic for *Yearling's Bobtail*. Who wouldn't want to be the next Sex Pistols *and* the next Steely Dan? Picture a thousand other bands thinking the same, each with an ambitious demo of their own. It would be the next revolution!
+Which is why I spent 25,000 hours— twelve full-time *years*!— to make the music and webcomic for *Yearling's Bobtail*. I mean, who wouldn't want to be both the next Sex Pistols *and* the next Steely Dan? Picture a thousand bands thinking the same, each with an ambitious demo of their own. It would be the next revolution!
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast. As barriers to entry are lowered, indie rock's gatekeepers grow harried; and harried gatekeepers have no patience for ambitious demos. Instead, every artist hoping for their consideration *must* follow the rules and use their tools; we'll just never hear about any who *don't*.
+Well… not so fast. As barriers to entry are lowered, indie rock's gatekeepers grow harried; and harried gatekeepers have no patience for ambitious demos. Instead, every artist hoping for their consideration *must* follow the rules and use their tools. We'll just never hear about any who *don't*.
 
-// TODO: All ideas are there?${'  '}
-But worse, no indie artist will ever concede that the best art comes from *not* being indie. The way they see it, if you aren't indie, then you're lazy or inept— *end of story*. And everyone who roots for them will embrace this view as well. So no one misses interdependence, because the concept doesn't even exist. This brings us to the heart of the problem:
+But worse, no indie artist will ever concede that the best art comes from *not* being indie. The way they see it, if you aren't indie, then you're lazy or inept— *end of story*. And everyone who supports them will embrace this view as well. This brings us to the heart of the problem:
 
-**Once the indie culture fails us by shutting out the interdependent bands who would otherwise start the next revolution, we'll never know. Which means it'll be failing us for a long time— and likely already *has* been.**
+**Once the indie culture fails us by shutting out the interdependent bands who want to start the next revolution, we'll never know. Which means it'll be failing us for a long time— and likely already *has* been.**
 
 ### An anti-indie counterculture
 
