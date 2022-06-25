@@ -19,7 +19,7 @@ If you have an offer or opportunity for any of our bands to consider, please con
                         {...{
                             band: `Bobtail Yearlings`,
                             title: `Yearling's Bobtail`,
-                            description: `"A thousand *Yearling's Bobtail*s" has to start with the first! A double album and audio webcomic for "the *Ulysses* of rock albums."`,
+                            description: `"A hundred *Yearling's Bobtail*s" has to start with the first! A double album and audio webcomic for "the *Ulysses* of rock albums."`,
                             href: `https://www.yearlingsbobtail.com`,
                             src: bobtailYearlings,
                         }}
