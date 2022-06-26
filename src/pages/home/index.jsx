@@ -13,7 +13,7 @@ const Component = () => (
 
 To lower the barriers to entry, indie rock provides artists with tools to build a fanbase without label support. These tools of empowerment aren't free: They cost the artist's time and energy. Yet they offer no advantage in the end, since *every* artist is expected to use them. So all they do is penalize those who *don't*. But… this is how *rules* work! Which is to say:
 
-**Once artists are *expected* by the indie culture to empower themselves, they're more or less *required* to do so. These rules are then imposed on *all* artists.**
+**Once artists are *expected* to empower themselves, they're more or less *required* to do so. The indie culture then imposes these rules on *all* artists.**
 
 ### A call for a truce
 
@@ -21,18 +21,16 @@ Hi, I'm Bennett. It's obvious to me that the best artists *don't* waste time and
 
 **An interdependent band trying to make the best art will be breaking the indie culture's rules, and penalized for it.**
 
-How about a truce, though? Interdependent bands can't complain about being penalized, since rules are made to be followed. But breaking the rules is also how rock history gets made! So let's not shut them out either.
+How about a truce? Since rules are made to be followed, interdependent bands can't complain about being penalized. But breaking the rules is also how rock history gets made! So let's not shut them out either.
 
 ### A hundred *Yearling's Bobtail*s
 
-I learned what the biggest penalty is early on: When you refuse to put *any* time or energy into being indie, everyone sees you as lazy and inept. But again, no complaints! The way to correct this misunderstanding, then, is to pour *all* your time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort.
+One penalty I faced early on, is that by refusing to put *any* time or energy into being indie, I was seen as lazy and inept. To counter this misunderstanding, I decided to pour *all* my time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort.
 
+// TODO: Complete this section${'  '}
 Which is how I came to spend 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. Inventions like doublespeaker rhyme and the audio webcomic were partly motivated by my need to defend. It was just obvious to me that given enough effort, my strategy was guaranteed to succeed:
 
-**Above a certain level of quality, an interdependent band with no fanbase will be easier to scale than an indie artist with an existing fanbase.**
-
-choose an interdependent band with no fanbase 
-**An interdependent band committed to making the best art will keep getting better, until they reach the point where even with no fanbase, they'll be seen as the most attractive option by any competent label.**
+**Above a certain level, an interdependent band with no fanbase becomes more attractive to a competent label than an indie artist with an existing fanbase.**
 
 Then, once the first interdependent band proves that this is a viable path, others will try to repeat this story. Picture a hundred bands, each with an ambitious demo that showcases an artistic innovation of their own. It would be the next revolution! Leading to:
 
