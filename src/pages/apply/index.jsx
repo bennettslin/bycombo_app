@@ -10,6 +10,7 @@ const Component = () => (
 
 Are you eager to sacrifice a serious chunk of lifetime to make rock history? Be part of our pilot cohort!
 
+// TODO: Conceived to serve${'  '}
 **Women and minorities are highly encouraged to apply!**
 
 ### Who we're looking for
