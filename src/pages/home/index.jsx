@@ -27,12 +27,13 @@ How about a truce? Since rules are made to be followed, interdependent bands can
 
 One penalty I faced early on is that by refusing to put *any* time or energy into being indie, I was seen as lazy and inept. To counter this misunderstanding, I decided to pour *all* my time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort.
 
-So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* trying to build a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. Because it's just obvious to me that if my band can deliver on our promise to make the best art, then any decent label will be eager to help us build a fanbase from scratch.
+// TODO: Reconsider decent${'  '}
+So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* trying to build a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. It's just obvious to me that if my band can deliver on our promise to make the best art, then *some* label out there will want to help us build a fanbase from scratch.
 
 // TODO: Verify${'  '}
-But my best defense is this: Rock was *once* interdependent, and hip hop has never *not* been. So the concept is clearly viable; the world just needs to see it proven. Once this happens, a hundred other bands will happily take the path of interdependence, each with an ambitious demo to showcase innovations of their own! My long-held belief will then be fulfilled:
+But my best defense is this: Rock was *once* interdependent, and hip hop has never *not* been. So the concept is clearly viable; the world just needs to see it proven. Once this happens, a hundred other bands will happily choose this path, each with an ambitious demo to showcase innovations of their own! My long-held belief will then be fulfilled:
 
-**By breaking the rules, interdependent bands will be making the most disruptive *and* most accomplished works of our time. This is the next revolution we're all waiting for!**
+**By breaking the rules, interdependent bands will be making the most disruptive *and* the most accomplished works of our time. This is the next revolution we're all waiting for!**
 
 ### Who gatekeeps the gatekeepers?
 
