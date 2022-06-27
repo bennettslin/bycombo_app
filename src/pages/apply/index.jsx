@@ -10,9 +10,6 @@ const Component = () => (
 
 Are you eager to sacrifice a serious chunk of lifetime to make rock history? Be part of our pilot cohort!
 
-// TODO: Conceived to serve${'  '}
-**Women and minorities are highly encouraged to apply!**
-
 ### Who we're looking for
 
 Perhaps you're one of the following:
@@ -21,6 +18,8 @@ Perhaps you're one of the following:
 * A musician of another stripe: cellist, tabla player…
 * An artist of some other medium: dancer, web developer…
 * A creator with a bold vision for a musical project
+
+You'll pledge to advance the art form, be kind to everyone, and help future BYCombo bands. There are no contracts or fees.
 
 Once we put you in a band with three or four others— subject to everyone's approval— you'll all relocate to Los Angeles or another major city. Each of you will then put in enough time on your band project for the total to sum up to 25,000 hours.
 
@@ -37,13 +36,16 @@ Finally, we'll add your demo to our public registry. With your help, BYCombo wil
 Email us the following information, and we'll be in touch:
 
 * Your name, email, and pronouns
-* Your city, and where you can— or can't— relocate if needed
+* Your city, and where you can relocate if not Los Angeles
 * Your musical and aesthetic preferences— or dealbreakers
 * Your artistic talents and corresponding skill levels
 * Your bold ideas for a musical project, if any
 * Links to social media or video demonstrations
 
 If you're co-applying with others, please send a single email with each person's information. If you have special circumstances that need to be considered, please let us know! We'll try to make things work.
+
+// TODO: Conceived to serve${'  '}
+**Women and minorities are highly encouraged to apply!**
             `,
         }}
     />
