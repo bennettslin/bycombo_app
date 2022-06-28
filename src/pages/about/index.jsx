@@ -21,7 +21,7 @@ Because when people gripe about rock getting worse, they're *really* griping tha
 
 **Why band assembly?**
 
-Because there *are* revolutionary bands still to come; they're just unlikely to come together on their own now. How do five musicians committed to making history find each other across the globe? How does an illustrator join as a full-fledged member? A centralized force is also needed to try out new musical ensembles.
+Because there *are* revolutionary bands to come; they're just unlikely to come together on their *own* now. How do five musicians committed to making history find each other across the globe? How does an illustrator join as a full-fledged member? A centralized force is needed to try out new musical ensembles.
 
 **Why interdependence? Why demos?**
 
@@ -37,16 +37,15 @@ Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it'
 
 **Why an anti-indie counterculture?**
 
-// TODO: Flesh out${'  '}
-Blah
+Because countercultures provide a steady influx of radical ideas, and there hasn't been one for some time now. And while indie rock has made music worse, its values come from good intentions. So a safe space is needed to protect those who get vilified for pointing out its follies.
 
-Why *else* is indie rock so ill-suited to these times? Here's an incomplete list of reasons…
+Why *exactly* has indie rock made music worse? Here's an incomplete list of reasons…
 
 ### Insightful revelation requires a single hat
 
 Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their level of talent.
 
-But the best works of art are *better* than the artists who make them. Why? Because they *also* benefit from countless revelatory insights that can't be summoned at will. These insights come from letting thoughts drift in the shower, or even daydreaming out of boredom; they won't happen if you're always switching hats. So BYCombo is here to let you keep the artist hat on.
+But the best works of art are *better* than the artists who make them. Why? Because they *also* benefit from countless revelatory insights that can't be summoned at will. These insights come from letting thoughts drift in the shower, or even daydreaming out of boredom; they won't happen if you're always switching hats. So BYCombo lets you keep the artist hat on.
 
 ### A pittance secures loyalty to the paradigm
 
@@ -58,11 +57,11 @@ Because indie artists strive to get paid from the get-go, they're immediately be
 
 Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means we're all stuck with the current paradigm, because the masses *never* ask for paradigm change on their own.
 
-Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *spread* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. This may not jibe with indie rock's anti-establishment fantasy, but it's the historical truth. So BYCombo gladly works with powerful insiders, for the sake of our revolutionary bands.
+Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *spread* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. This may not jibe with indie rock's anti-establishment fantasy, but it's the historical truth. So BYCombo introduces revolutionary bands to powerful insiders.
 
 ### Responsible revolutions plan for runaway effects
 
-Indie rock is a culture of self-reliance that celebrates artists who bypass the middleman. But if the middleman's job is simple enough for any artist to do themselves, then wealthy artists can just pay *others* to do it. As a result, indie rock is now a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
+Indie rock is a culture of self-reliance that celebrates artists who bypass the middleman. But if the middleman's job is simple enough for anyone to do, then wealthy artists can just pay *others* to do it. As a result, indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
 Won't BYCombo see a runaway effect as well? Yes, but ours is foreseeably a race to the *top*. Taking our approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which pretty much *guarantees* they'll be remembered by history!
 
