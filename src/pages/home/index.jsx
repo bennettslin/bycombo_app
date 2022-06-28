@@ -25,11 +25,11 @@ How about a truce? Since rules are made to be followed, interdependent bands can
 
 ### A hundred *Yearling's Bobtail*s
 
-One penalty I faced early on is that by refusing to put *any* time or energy into being indie, I was seen as lazy and inept. To counter this misunderstanding, I needed to pour *all* my time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort.
+One penalty I faced early on is that by refusing to put *any* time or energy into being indie, I was seen as arrogant and lazy. To correct this misreading, then, I needed to pour *all* my time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort.
 
-So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. After all, if my band can deliver on our promise to make the best art, then some label out there will *help* us build a fanbase.
+So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. After all, if my band can make the best art, then some label will *help* us build a fanbase.
 
-But my best defense is this: Rock was *once* interdependent, while hip hop has never *not* been. The concept is solid; rock just needs to prove it once more. And I can't be the only one who gets this. So picture a hundred bands, each advancing the art form with an ambitious demo of their own! The world would soon understand:
+The fact is, rock was *once* interdependent, while hip hop has never *not* been. The concept is solid; rock just needs to prove it once more. And I can't be the only one who gets this. Picture a hundred bands, each advancing the art form with an ambitious demo of their own! The world would soon understand:
 
 **By breaking the rules, interdependent bands will be making the most disruptive *and* most accomplished works of our time. *This* is the next revolution we're all waiting for!**
 
@@ -43,7 +43,7 @@ But worse, the very *concept* of interdependence can never take root, because no
 
 ### An anti-indie counterculture
 
-The situation might seem hopeless, but there's good news: Some music fans would rather break the rules as well! They dispute the claim that indie rock backs the underdog; after all, working-class minorities seem *least* eager to lower the barriers to entry. And how do indie artists who require charitable support stand *any* chance to make rock history, anyway?
+The situation might seem hopeless, but there's good news: Some music fans would rather break the rules as well! They dispute the claim that indie rock backs the underdog; after all, working-class minorities are the *least* eager to lower the barriers to entry. And how do indie artists who need our charitable support stand *any* chance to make rock history, anyway?
 
 // TODO: Flesh out${'  '}
 These disgruntled fans are rock's last hope. They already have the *will* to challenge the indie gatekeepers. Now with BYCombo, they finally have the *way*.
