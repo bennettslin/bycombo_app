@@ -37,7 +37,7 @@ Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it'
 
 **Why an anti-indie counterculture?**
 
-Because countercultures provide a steady influx of radical ideas, and there hasn't been one for some time now. And though indie rock has made music worse, its values come from good intentions. So those who point out its follies need a safe space where they aren't treated as the villains.
+Because countercultures provide a steady influx of radical ideas, yet there hasn't been one for some time now. And while indie rock has made music worse, its values come from good intentions, so disgruntled music fans who point out its follies get treated like villains. But these anti-indie heroes speak truth to power for *all* of us, and they need a safe space.
 
 Why *exactly* has indie rock made music worse? Here's an incomplete list of reasons…
 
@@ -45,7 +45,7 @@ Why *exactly* has indie rock made music worse? Here's an incomplete list of reas
 
 Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their level of talent.
 
-But the best works of art are *better* than the artists who make them. Why? Because they *also* benefit from countless revelatory insights that can't be summoned at will. These insights come from letting thoughts drift in the shower, or even daydreaming out of boredom; they won't happen if you're always switching hats. So BYCombo lets you keep the artist hat on.
+But the best works of art are *better* than the artists who make them. Why? Because they *also* benefit from countless revelatory insights that can't be summoned at will. These insights come from letting thoughts drift in the shower, or daydreaming out of boredom; they won't happen if you're always switching hats. So BYCombo lets you keep the artist hat on.
 
 ### A pittance secures loyalty to the paradigm
 
@@ -57,7 +57,7 @@ Because indie artists strive to get paid from the get-go, they're immediately be
 
 Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means we're all stuck with the current paradigm, because the masses *never* ask for paradigm change on their own.
 
-Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *spread* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. This may not jibe with indie rock's anti-establishment fantasy, but it's the historical truth. So BYCombo introduces revolutionary bands to powerful insiders.
+Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *spread* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. This may not jibe with indie rock's anti-establishment fantasy, but it's the historical truth. So BYCombo connects revolutionary bands to powerful insiders.
 
 ### Responsible revolutions plan for runaway effects
 

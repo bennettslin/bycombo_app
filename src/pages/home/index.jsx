@@ -29,7 +29,7 @@ One penalty I faced early on is that by refusing to put *any* time or energy int
 
 So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. After all, if my band can make the best art, then some label will *help* us build a fanbase.
 
-The fact is, rock was *once* interdependent, while hip hop has never *not* been. The concept is solid; rock just needs to prove it once more. And I can't be the only one who gets this. Picture a hundred bands, each advancing the art form with an ambitious demo of their own! The world would soon understand:
+The fact is, rock was *once* interdependent, while hip hop has never *not* been. The concept is solid; rock just needs to prove it once more. And I can't be the only one who gets this. Picture a hundred bands, each advancing the art form with an ambitious demo of their own! The world would soon realize:
 
 **By breaking the rules, interdependent bands will be making the most disruptive *and* most accomplished works of our time. *This* is the next revolution we're all waiting for!**
 
@@ -46,7 +46,9 @@ But worse, the very *concept* of interdependence can never take root, because no
 The situation might seem hopeless, but there's good news: Some music fans would rather break the rules as well! They dispute the claim that indie rock backs the underdog; after all, working-class minorities are the *least* eager to lower the barriers to entry. And how do indie artists who need our charitable support stand *any* chance to make rock history, anyway?
 
 // TODO: Flesh out${'  '}
-These disgruntled fans are rock's last hope. They already have the *will* to challenge the indie gatekeepers. Now with BYCombo, they finally have the *way*.
+These disgruntled music fans are rock's last hope. They already have the *will* to challenge the indie gatekeepers. Now with BYCombo, they finally have the *way*.
+
+// TODO: Have final bold line about BYCombo${'  '}
             `,
         }}
     />
