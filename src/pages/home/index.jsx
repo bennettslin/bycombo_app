@@ -27,9 +27,9 @@ How about a truce? Since rules are made to be followed, interdependent bands can
 
 One penalty I faced early on is that by refusing to put *any* time or energy into being indie, I was seen as arrogant and lazy. To correct this misreading, then, I needed to pour *all* my time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort.
 
-So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. It was just obvious to me that if my band can make the best art, then *some* label will help us build a fanbase.
+So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. It just seemed obvious that if my band can make the best art, then some label will *help* us build a fanbase.
 
-The fact is, rock was *once* interdependent, and hip hop has never *not* been. So the concept is solid; rock just needs to see it proven once more. And I can't be the only one who gets this. Picture a hundred bands, each advancing the art form with an ambitious demo of their own! The world would soon realize:
+The fact is, rock was *once* interdependent, and hip hop has never *not* been. The concept is solid; rock just needs to see it proven once more. And I can't be the only one who gets this. Picture a hundred bands, each advancing the art form with an ambitious demo of their own! The world would soon realize:
 
 **By breaking the rules, interdependent bands will be making the most disruptive *and* most accomplished works of our time. *This* is the next revolution we're all waiting for!**
 
