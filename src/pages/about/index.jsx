@@ -19,7 +19,7 @@ There's just one problem: Indie rock isn't really a *genre* so much as it's a *s
 
 Because when people gripe about rock getting worse, they're *really* griping that history no longer gets made. Yes, talent is still out there— but competing with the past now calls for explicit intent and massive effort. And only a centralized force like BYCombo can light this fire in today's artists.
 
-**Why band assembly?**
+**Why assembled bands?**
 
 Because there *are* revolutionary bands to come; they're just unlikely to come together on their *own* now. How do five musicians committed to making history find each other across the globe? How does an illustrator join as a full-fledged member? A centralized force is needed to explore new musical ensembles.
 
