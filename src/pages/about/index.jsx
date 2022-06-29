@@ -37,7 +37,7 @@ Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it'
 
 **Why an anti-indie counterculture?**
 
-Countercultures provide a steady influx of radical ideas, yet there hasn't been one for a while now. Meanwhile, indie rock has made music worse, but because its values come from good intentions, those who point out its follies are seen as villains. These anti-indie heroes are saving rock for *all* of us, and they need the moral support of a shared community.
+Countercultures provide a steady influx of radical ideas, yet there hasn't been one for a while now. Meanwhile, indie rock has made music worse, but because its values come from good intentions, any music fans who point out its follies are seen as villains. These anti-indie heroes are saving rock for *all* of us, and they need the moral support of a shared community.
 
 Why *exactly* has indie rock made music worse? Here's an incomplete list of reasons…
 
@@ -57,7 +57,7 @@ Because indie artists strive to get paid from the get-go, they're immediately be
 
 Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means we're all stuck with the current paradigm, because the masses *never* ask for paradigm change on their own.
 
-While revolutions may *start* with powerless outsiders, they're *spread* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. This may not jibe with indie rock's anti-establishment fantasy, but it's the historical truth. So BYCombo is happy to see our bands work with powerful insiders.
+Artistic revolutions may *start* with powerless outsiders, but they're *spread* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. And while this may not jibe with indie rock's anti-establishment fantasy, it's the historical truth. So BYCombo is happy to have our bands work with powerful insiders.
 
 ### Responsible revolutions plan for runaway effects
 

@@ -17,7 +17,7 @@ To lower the barriers to entry, indie rock provides artists with tools to build 
 
 ### A call for a truce
 
-Hi, I'm Bennett. I think it's clear that the best artists *don't* waste time and energy on self-empowerment; it's just a byproduct of their worth. So I refuse to use indie rock's tools; I don't want to be indie at *all*. I want my band to be *interdependent*: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art. Which leads to my problem:
+Hi, I'm Bennett. I think it's obvious that the best artists *don't* waste time and energy on self-empowerment; it's just a byproduct of their worth. So I refuse to use indie rock's tools; I don't want to be indie at *all*. I want my band to be *interdependent*: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art. Which leads to my problem:
 
 **An interdependent band trying to make the best art will be penalized for breaking the indie culture's rules.**
 
