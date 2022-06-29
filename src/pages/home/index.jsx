@@ -43,7 +43,7 @@ But worse, the very *concept* of interdependence can never take root, because no
 
 ### An anti-indie counterculture
 
-The situation might seem hopeless, but there's good news: Some music fans would rather break the rules as well! They dispute the claim that indie rock backs the underdog, when working-class minorities are the *least* eager to lower the barriers to entry. And how do indie artists who require charitable support stand *any* chance to make rock history, anyway?
+The situation might seem hopeless, but there's good news: Some music fans would rather break the rules as well! They dispute the claim that indie rock backs the underdog, since working-class minorities are the *least* eager to lower the barriers to entry. And how do indie artists who require charitable support stand *any* chance to make rock history, anyway?
 
 // TODO: Flesh out${'  '}
 These disgruntled music fans know that indie rock is lacking, but they have no proof.

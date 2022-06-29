@@ -57,13 +57,13 @@ Because indie artists strive to get paid from the get-go, they're immediately be
 
 Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means we're all stuck with the current paradigm, because the masses *never* ask for paradigm change on their own.
 
-Revolutions that challenge the current paradigm may *start* with powerless outsiders, but they're *spread* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. This may not jibe with indie rock's anti-establishment fantasy, but it's the historical truth. So BYCombo connects revolutionary bands to powerful insiders.
+While revolutions may *start* with powerless outsiders, they're *spread* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. This may not jibe with indie rock's anti-establishment fantasy, but it's the historical truth. So BYCombo is happy to see our bands work with powerful insiders.
 
 ### Responsible revolutions plan for runaway effects
 
 Indie rock is a culture of self-reliance that celebrates artists who bypass the middleman. But if the middleman's job is simple enough for anyone to do, then wealthy artists can just pay *others* to do it. As a result, indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
-Won't BYCombo see a runaway effect as well? Yes, but ours is foreseeably a race to the *top*. Taking our approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which pretty much *guarantees* they'll be remembered by history!
+Won't BYCombo see a runaway effect as well? Yes, but ours is foreseeably a race to the *top*. Taking our approach to its absurd conclusion, a band might spend an *insane* chunk of lifetime on their demo— which pretty much *guarantees* they'll be remembered by history!
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
