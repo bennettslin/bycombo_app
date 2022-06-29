@@ -21,7 +21,7 @@ Because when people gripe about rock getting worse, they're *really* griping tha
 
 **Why band assembly?**
 
-Because there *are* revolutionary bands to come; they're just unlikely to come together on their *own* now. How do five musicians committed to making history find each other across the globe? How does an illustrator join as a full-fledged member? A centralized force is needed to try out new musical ensembles.
+Because there *are* revolutionary bands to come; they're just unlikely to come together on their *own* now. How do five musicians committed to making history find each other across the globe? How does an illustrator join as a full-fledged member? A centralized force is needed to explore new musical ensembles.
 
 **Why interdependence? Why demos?**
 
@@ -37,7 +37,7 @@ Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it'
 
 **Why an anti-indie counterculture?**
 
-Countercultures provide a steady influx of radical ideas, yet there hasn't been one for a while now. Meanwhile, indie rock has made music worse, but because its values come from good intentions, those who point out its follies get treated like villains. These anti-indie heroes are saving music for *all* of us, and they need moral support from a shared community.
+Countercultures provide a steady influx of radical ideas, yet there hasn't been one for a while now. Meanwhile, indie rock has made music worse, but because its values come from good intentions, those who point out its follies are seen as villains. These anti-indie heroes are saving rock for *all* of us, and they need the moral support of a shared community.
 
 Why *exactly* has indie rock made music worse? Here's an incomplete list of reasons…
 
@@ -51,7 +51,7 @@ But the best works of art are *better* than the artists who make them. Why? Beca
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, which results in *no one* taking risks.
 
-Because indie artists strive to get paid from the get-go, they're immediately beholden to the current paradigm that empowers them. For this reason, BYCombo encourages bands to embrace being powerless and unpaid in their early years: While you have nothing to lose, what paradigms are you free to challenge?
+Because indie artists strive to get paid from the get-go, they're immediately beholden to the current paradigm that empowers them. For this reason, BYCombo encourages our bands to embrace being powerless and unpaid in their early years: While you have nothing to lose, what paradigms are you free to challenge?
 
 ### The masses are *last* to join the revolution
 
