@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The BYCombo mission
 
-**BYCombo is a nonprofit incubator of rock bands. Our mission is to launch the interdependence revolution, and to support the bands who'll make interdependence the most consequential rock movement of the century!**
+**BYCombo is a nonprofit incubator of rock bands. Our mission is to support the bands who'll launch the interdependence revolution and create the most consequential rock movement of the 21st century!**
 
 ### Tools… are *rules*
 
@@ -19,7 +19,7 @@ To lower the barriers to entry, indie rock provides artists with tools to build 
 
 Hi, I'm Bennett. I think it's obvious that the best artists *don't* waste time and energy on self-empowerment; it's just a byproduct of their worth. So I refuse to use indie rock's tools; I don't want to be indie at *all*. I want my band to be *interdependent*: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art. Which leads to my problem:
 
-**An interdependent band trying to make the best art will be penalized for breaking the indie culture's rules.**
+**An interdependent band committed to making the best art must break the indie culture's rules, for which they'll be penalized.**
 
 How about a truce? Since rules are made to be followed, interdependent bands can't complain about being penalized. But breaking the rules is also how rock history gets made! So let's not shut them out either.
 
@@ -27,7 +27,7 @@ How about a truce? Since rules are made to be followed, interdependent bands can
 
 One penalty I faced early on is that by refusing to put *any* time or energy into being indie, I was seen as arrogant and lazy. To correct this misreading, then, I needed to pour *all* my time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort.
 
-So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. After all, if my band can make the best art, then some label out there will *help* us build a fanbase.
+So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. After all, if my band can make the best art, then some label will want to *help* us build a fanbase.
 
 The fact is, rock was *once* interdependent, and hip hop has never *not* been. The concept is solid; rock just needs to see it proven once more. And I can't be the only one who gets this. Picture a hundred bands, each advancing the art form with an ambitious demo of their own! The world would soon realize:
 

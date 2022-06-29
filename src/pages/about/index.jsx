@@ -51,13 +51,13 @@ But the best works of art are *better* than the artists who make them. Why? Beca
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, which results in *no one* taking risks.
 
-Because indie artists strive to get paid from the get-go, they're immediately beholden to the current paradigm that empowers them. For this reason, BYCombo encourages our bands to embrace being powerless and unpaid in their early years: While you have nothing to lose, what paradigms are you free to challenge?
+Because indie artists strive to get paid from the get-go, they're quickly beholden to the current paradigm that empowers them. For this reason, BYCombo encourages our bands to embrace being powerless and unpaid early on: While you have nothing to lose, what revolutions are you free to start?
 
-### The masses are *last* to join the revolution
+### The masses join the revolution *last*
 
-Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means we're all stuck with the current paradigm, because the masses *never* ask for paradigm change on their own.
+Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution gets nipped in the bud, because the masses *never* accept paradigm change on their own.
 
-Artistic revolutions may *start* with powerless outsiders, but they're *spread* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. And while this may not jibe with indie rock's anti-establishment fantasy, it's the historical truth. So BYCombo is happy to have our bands work with powerful insiders.
+Revolutions may *start* with powerless outsiders, but they're *spread* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. While this may not jibe with indie rock's anti-establishment fantasy, it's the historical truth. So BYCombo is happy to see our bands partner with powerful insiders.
 
 ### Responsible revolutions plan for runaway effects
 
