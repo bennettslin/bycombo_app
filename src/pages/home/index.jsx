@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The BYCombo mission
 
-**BYCombo is a nonprofit incubator of rock bands. Our mission is to support the bands who'll launch and lead the interdependence revolution, making it the most consequential rock movement of the 21st century.**
+**BYCombo is a nonprofit incubator of rock bands. Our mission is to support the bands who'll lead the interdependence revolution, making it the most consequential rock movement of the 21st century!**
 
 ### Tools… are *rules*
 
@@ -19,13 +19,14 @@ To lower the barriers to entry, indie rock provides artists with tools to build 
 
 Hi, I'm Bennett. I think it's obvious that the best artists *don't* waste time and energy on self-empowerment; it's just a byproduct of their worth. So I refuse to use indie rock's tools; I don't want to be indie at *all*. I want my band to be *interdependent*: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art. Which leads to my problem:
 
-**A band hoping to making the best art will choose interdependence. But this means breaking the indie culture's rules, for which they'll be penalized.**
+**A band trying to making the best art will choose interdependence. But this means breaking the indie culture's rules, for which they'll be penalized.**
 
 How about a truce? Since rules are made to be followed, interdependent bands can't complain about being penalized. But breaking the rules is also how rock history gets made! So let's not shut them out either.
 
+// TODO: New heading${'  '}
 ### A hundred *Yearling's Bobtail*s
 
-One penalty I faced early on is that by refusing to put *any* time or energy into being indie, I was seen as arrogant and lazy. To correct this misreading, then, I needed to pour *all* my time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort.
+One penalty I faced early on is that by refusing to put *any* time or energy into being indie, I was seen as arrogant and lazy. To correct this misjudgment, I needed to pour *all* my time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort.
 
 So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. After all, if my band can make the best art, then some label will want to *help* us build a fanbase.
 
@@ -36,14 +37,20 @@ The fact is, rock was *once* interdependent, and hip hop has never *not* been. T
 
 // TODO: Once lost, interdependence is hard to regain. requires a band to make overture
 
+**Interdependence can only be regained by bands sacrificing serious chunks of lifetime to make the best art, with no guarantee that our misjudgment of them will ever be corrected.**
+
+// TODO: Martyr
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast. As barriers to entry get lowered, the indie gatekeepers grow harried. Thankfully, indie rock's tools ensure that each work they hear will be quick and easy to digest. So long as every artist follows the rules, all is well. But this means they'll never consider an ambitious demo, which breaks the rules by its very existence.
+Well… not so fast.
 
-Even worse, the concept of interdependence *itself* can never take root, since no indie artist will ever concede that the best art comes from *not* being indie. Building a fanbase is what proved *their* worth, making it the true measure of *every* artist. *They* followed the rules, and now they'll enforce them. This is the heart of the problem:
+// TODO: Expand on this${'  '}
+As barriers to entry are lowered, the indie gatekeepers grow harried. And so artists *must* use indie rock's tools, which serve to keep their works bite-sized and uniform with others. This means the gatekeepers won't ever bother with an ambitious demo.
 
-**As the indie culture becomes loyal to its rules, it loses both the will *and* the way to regain interdependence. So interdependent bands get shut out, and we'll just never know.**
+Even worse, the concept of interdependence *itself* can never take root, since no indie artist will ever concede that the best art comes from *not* being indie. As they see it, building a fanbase is what proved *their* worth, which makes it the true measure of *every* artist. And this is the heart of the problem:
+
+**As the indie culture grows attached to its rules for their own sake, it loses both the will *and* the way to regain interdependence. So interdependent bands will be shut out, and we'll just never know.**
 
 ### An anti-indie counterculture
 

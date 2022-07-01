@@ -37,8 +37,7 @@ Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it'
 
 **Why an anti-indie counterculture?**
 
-// TODO: Phrasing?${'  '}
-Countercultures provide a steady influx of radical ideas, yet there hasn't been one for a while now. Meanwhile, indie rock has made music worse, but because its values come from good intentions, any music fans who point out its follies are seen as villains. These anti-indie heroes are saving rock for *all* of us, and they need the moral support of a shared community.
+Countercultures provide a steady influx of radical ideas, yet there hasn't been one for a while now. And though indie rock has made music worse, its values are well intended and are now the mainstream. So anti-indie critics get plenty of grief, even though they're saving rock for *all* of us. They could use the moral support of a shared community.
 
 Why *exactly* has indie rock made music worse? Here's an incomplete list of reasons…
 
@@ -56,7 +55,7 @@ Because indie artists strive to get paid from the get-go, they're quickly behold
 
 ### The masses join the revolution *last*
 
-Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution gets nipped in the bud, because the masses *never* accept paradigm change on their own.
+Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution will be nipped in the bud, because the masses *never* accept paradigm change on their own.
 
 Revolutions may *start* with powerless outsiders, but they're *spread* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. While this may not jibe with indie rock's anti-establishment fantasy, it's the historical truth. So BYCombo is happy to see our bands partner with powerful insiders.
 
@@ -70,7 +69,7 @@ Won't BYCombo see a runaway effect as well? Yes, but ours is foreseeably a race 
 
 Who foresaw indie rock's absurd conclusion? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: talent and originality born from hunger. And BYCombo is the latest case in point.
 
-Don't be fooled by indie rock's recent embrace of female and minority artists: They've been handed the reins *because* it's in decline. These are crumbs on offer here. Meanwhile, BYCombo was *conceived* to serve all those who face disadvantages in life. We know that disadvantage drives your desire for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
+Don't be fooled by indie rock's recent embrace of female and minority artists: They've been handed the reins *because* it's in decline. These are crumbs on offer here. Meanwhile, BYCombo was *conceived* to serve anyone who's disadvantaged. We know that disadvantage drives your desire for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
 ### Art needs the blood of martyrs
 
