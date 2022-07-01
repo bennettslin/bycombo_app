@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The BYCombo mission
 
-**BYCombo is a nonprofit incubator of rock bands. Our mission is to support the bands who'll launch the interdependence revolution and lead the most consequential rock movement of the 21st century!**
+**BYCombo is a nonprofit incubator of rock bands. Our mission is to support the bands who'll launch and lead the interdependence revolution, making it the most consequential rock movement of the 21st century.**
 
 ### Tools… are *rules*
 
@@ -39,14 +39,11 @@ The fact is, rock was *once* interdependent, and hip hop has never *not* been. T
 
 ### Who gatekeeps the gatekeepers?
 
-// TODO: What I personally discovered.
+Well… not so fast. As barriers to entry get lowered, the indie gatekeepers grow harried. Thankfully, indie rock's tools ensure that each work they hear will be quick and easy to digest. So long as every artist follows the rules, all is well. But this means they'll never consider an ambitious demo, which breaks the rules by its very existence.
 
-// TODO: They close themselves off to the possibility of ambitious demos, which technically should never happen in a world where everyone's properly following the rules.
-Well… not so fast. As barriers to entry are lowered, indie labels grow harried; and harried labels have no patience for ambitious demos. Instead, every artist hoping for their consideration *must* follow the rules and use indie rock's tools. We'll just never hear about any who *don't*.
+Even worse, the concept of interdependence *itself* can never take root, since no indie artist will ever concede that the best art comes from *not* being indie. Building a fanbase is what proved *their* worth, making it the true measure of *every* artist. *They* followed the rules, and now they'll enforce them. This is the heart of the problem:
 
-But worse, the very *concept* of interdependence can never take root, because no indie artist will *ever* concede that the best art comes from *not* being indie. The way they see it, building a fanbase is what proved *their* worth, so it's the only measure of *any* artist. And by supporting them, we strengthen this view. This brings us to the heart of the problem:
-
-**Because the indie culture now exists for its own sake, it lacks both the will and the way to regain interdependence. Which means it will always shut out the interdependent bands, and we'll just never know.**
+**As the indie culture becomes loyal to its rules, it loses both the will *and* the way to regain interdependence. So interdependent bands get shut out, and we'll just never know.**
 
 ### An anti-indie counterculture
 
