@@ -17,7 +17,7 @@ To lower the barriers to entry, indie rock provides artists with tools to build 
 
 ### A call for a truce
 
-Hi, I'm Bennett. I think it's obvious that the best artists *don't* waste time and energy on self-empowerment; it's just a byproduct of their worth. So I refuse to use indie rock's tools; I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and then, in turn, have this label depend on *us* to make the best art. Here's my problem:
+Hi, I'm Bennett. Let's face it, the best artists *don't* waste time and energy on self-empowerment; it's just a byproduct of their worth. So I refuse to use indie rock's tools; I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and then, in turn, have this label depend on *us* to make the best art. Here's my problem:
 
 **A band trying to making the best art will choose interdependence. But this means breaking the indie culture's rules, for which they'll be penalized.**
 
@@ -27,16 +27,11 @@ How about a truce? Since rules are made to be followed, interdependent bands can
 
 One penalty I faced early on is that by refusing to put *any* time or energy into being indie, I was seen as arrogant and lazy. To correct this misjudgment, I needed to pour *all* my time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort.
 
-So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. After all, if my band can make the best art, then some label will want to *help* us build a fanbase.
+So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. After all, if my band can just make the *best* art, then some label will want to *help* us build a fanbase.
 
-// TODO: Because it was just obvious to me:
+The fact is, rock was *once* interdependent. The concept is solid; we just need to see it proven once more. It's not hard to understand how we lost it. It requires trusting a partner. Once that trust breaks down, and we learn to do their job for ourselves, we lose the will and the way to regain interdependence.
 
-The fact is, rock was *once* interdependent, and hip hop has never *not* been. The concept is solid; rock just needs to see it proven once more. 
-// TODO: Clearly, we're not going to shut out a band trying to make the best art.
-
-// TODO: Once lost, interdependence is hard to regain. requires a band to make overture
-
-**Interdependence can only be regained by bands sacrificing serious chunks of lifetime to make the best art, with no guarantee that our misjudgment of them will ever be corrected.**
+**Interdependence can only be regained by bands sacrificing serious chunks of lifetime, while given no guarantee that our misjudgment of their intentions will ever be corrected.**
 
 // TODO: Martyr
 
@@ -44,7 +39,7 @@ The fact is, rock was *once* interdependent, and hip hop has never *not* been. T
 
 Well… not so fast. As barriers to entry are lowered, the indie gatekeepers grow harried. And so artists *must* use indie rock's tools, which serve to keep their works bite-sized and uniform with others. This means the gatekeepers won't ever bother with an ambitious demo made by a band who clearly didn't follow the rules.
 
-Even worse, the concept of interdependence *itself* can never take root, since no indie artist will ever concede that the best art comes from *not* being indie. As they see it, building a fanbase is what proved *their* worth, which makes it the true measure of *every* artist. And this is the heart of the problem:
+Even worse, the concept of interdependence *itself* can never take root, since no indie artist will ever concede that the best art comes from *not* being indie. As they see it, building a fanbase is what proved *their* worth, which makes it the true measure of *every* artist. And this is the heart of the matter:
 
 **As the indie culture grows attached to its rules, it loses both the will *and* the way to regain interdependence. So interdependent bands will be shut out, and we'll just never know.**
 

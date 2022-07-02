@@ -39,13 +39,13 @@ Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it'
 
 Countercultures provide a steady influx of radical ideas, yet there hasn't been one for a while now. And though indie rock has made music worse, its well-intended values are now the mainstream. So anti-indie agitators get plenty of grief, even though they're saving rock for *all* of us. We owe them the moral support of a sympathetic community.
 
-Why *exactly* has indie rock made music worse? Here's an incomplete list of reasons…
+In what ways has indie rock made music worse, that BYCombo now hopes to fix? Here's an incomplete list…
 
 ### Art needs an opposition party
 
-Political conservatives want socioeconomic *indie*-pendence. Which is fine, since no one mistakes this for a universal belief. Liberals, their opponents, want *inter*-dependence instead. And each of us is free to decide which side speaks more to our circumstances.
+Political conservatives want socioeconomic *indie*-pendence. Which is fine, since no one mistakes this partisan belief for a universal one. Liberals, their opponents, want *inter*-dependence instead. And each of us is free to decide which side speaks more to our circumstances.
 
-Indie rock is clearly the conservative party of rock, and yet its beliefs are treated as universal, not partisan. Anytime an artist finds that being indie is a poor fit for their circumstances, they're told to suck it up and try harder. With BYCombo, they can now join rock's liberal party, which advocates for the *inter*-dependence they've always wanted but didn't know was possible.
+Indie rock is clearly the conservative party of rock, yet its beliefs are seen as universal, *not* partisan. So anytime an artist finds that being indie is a poor fit for their circumstances, they're told to suck it up and try harder. But with BYCombo, they can now join rock's liberal party, which advocates for the *inter*-dependence they've always wanted but didn't know was possible.
 
 ### Insightful revelation requires a single hat
 
