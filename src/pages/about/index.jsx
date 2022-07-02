@@ -37,9 +37,15 @@ Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it'
 
 **Why an anti-indie counterculture?**
 
-Countercultures provide a steady influx of radical ideas, yet there hasn't been one for a while now. And though indie rock has made music worse, its values are well intended and are now the mainstream. So anti-indie critics get plenty of grief, even though they're saving rock for *all* of us. They could use the moral support of a shared community.
+Countercultures provide a steady influx of radical ideas, yet there hasn't been one for a while now. And though indie rock has made music worse, its well-intended values are now the mainstream. So anti-indie agitators get plenty of grief, even though they're saving rock for *all* of us. We owe them the moral support of a sympathetic community.
 
 Why *exactly* has indie rock made music worse? Here's an incomplete list of reasons…
+
+### Art needs an opposition party
+
+Political conservatives want socioeconomic *indie*-pendence. Which is fine, since no one mistakes this for a universal belief. Liberals, their opponents, want *inter*-dependence instead. And each of us is free to decide which side speaks more to our circumstances.
+
+Indie rock is clearly the conservative party of rock, and yet its beliefs are treated as universal, not partisan. Anytime an artist finds that being indie is a poor fit for their circumstances, they're told to suck it up and try harder. With BYCombo, they can now join rock's liberal party, which advocates for the *inter*-dependence they've always wanted but didn't know was possible.
 
 ### Insightful revelation requires a single hat
 
@@ -55,7 +61,7 @@ Because indie artists strive to get paid from the get-go, they're quickly behold
 
 ### The masses join the revolution *last*
 
-Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution will be nipped in the bud, because the masses *never* accept paradigm change on their own.
+Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution will be nipped in the bud, because the masses *never* accept a paradigm change on their own.
 
 Revolutions may *start* with powerless outsiders, but they're *spread* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. While this may not jibe with indie rock's anti-establishment fantasy, it's the historical truth. So BYCombo is happy to see our bands partner with powerful insiders.
 

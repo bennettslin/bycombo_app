@@ -17,14 +17,13 @@ To lower the barriers to entry, indie rock provides artists with tools to build 
 
 ### A call for a truce
 
-Hi, I'm Bennett. I think it's obvious that the best artists *don't* waste time and energy on self-empowerment; it's just a byproduct of their worth. So I refuse to use indie rock's tools; I don't want to be indie at *all*. I want my band to be *interdependent*: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art. Which leads to my problem:
+Hi, I'm Bennett. I think it's obvious that the best artists *don't* waste time and energy on self-empowerment; it's just a byproduct of their worth. So I refuse to use indie rock's tools; I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and then, in turn, have this label depend on *us* to make the best art. Here's my problem:
 
 **A band trying to making the best art will choose interdependence. But this means breaking the indie culture's rules, for which they'll be penalized.**
 
 How about a truce? Since rules are made to be followed, interdependent bands can't complain about being penalized. But breaking the rules is also how rock history gets made! So let's not shut them out either.
 
-// TODO: New heading${'  '}
-### A hundred *Yearling's Bobtail*s
+### Return of the rock martyrs
 
 One penalty I faced early on is that by refusing to put *any* time or energy into being indie, I was seen as arrogant and lazy. To correct this misjudgment, I needed to pour *all* my time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort.
 
@@ -43,16 +42,13 @@ The fact is, rock was *once* interdependent, and hip hop has never *not* been. T
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast.
-
-// TODO: Expand on this${'  '}
-As barriers to entry are lowered, the indie gatekeepers grow harried. And so artists *must* use indie rock's tools, which serve to keep their works bite-sized and uniform with others. This means the gatekeepers won't ever bother with an ambitious demo.
+Well… not so fast. As barriers to entry are lowered, the indie gatekeepers grow harried. And so artists *must* use indie rock's tools, which serve to keep their works bite-sized and uniform with others. This means the gatekeepers won't ever bother with an ambitious demo made by a band who clearly didn't follow the rules.
 
 Even worse, the concept of interdependence *itself* can never take root, since no indie artist will ever concede that the best art comes from *not* being indie. As they see it, building a fanbase is what proved *their* worth, which makes it the true measure of *every* artist. And this is the heart of the problem:
 
-**As the indie culture grows attached to its rules for their own sake, it loses both the will *and* the way to regain interdependence. So interdependent bands will be shut out, and we'll just never know.**
+**As the indie culture grows attached to its rules, it loses both the will *and* the way to regain interdependence. So interdependent bands will be shut out, and we'll just never know.**
 
-### An anti-indie counterculture
+### A hundred *Yearling's Bobtail*s
 
 The situation might seem hopeless, but there's good news: Some music fans would rather break the rules as well! They dispute the claim that indie rock backs the underdog, since working-class minorities are the *least* eager to lower the barriers to entry. And how do indie artists who require charitable support stand *any* chance to make rock history, anyway?
 
