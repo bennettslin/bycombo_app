@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The BYCombo mission
 
-**BYCombo is a nonprofit incubator of rock bands. Our mission is to support the bands who'll lead the interdependence revolution, making it the most consequential rock movement of the 21st century!**
+**BYCombo is a nonprofit incubator of rock bands. Our mission is to launch the interdependence revolution, and to support the bands who'll build it into the most consequential rock movement of the 21st century!**
 
 ### Tools… are *rules*
 
@@ -17,11 +17,11 @@ To lower the barriers to entry, indie rock provides artists with tools to build 
 
 ### A call for a truce
 
-Hi, I'm Bennett. Let's face it, the best artists *don't* waste time and energy on self-empowerment; it's just a byproduct of their worth. So I refuse to use indie rock's tools; I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and then, in turn, have this label depend on *us* to make the best art. Here's my problem:
+Hi, I'm Bennett. Let's face it, the best artists *don't* waste time and energy on self-empowerment; it's just a byproduct of their worth. So I refuse to use indie rock's tools; I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art. But here's my problem:
 
-**A band trying to making the best art will choose interdependence. But this means breaking the indie culture's rules, for which they'll be penalized.**
+**An interdependent band committed to making the best art will need to break the indie culture's rules, for which they'll be penalized.**
 
-How about a truce? Since rules are made to be followed, interdependent bands can't complain about being penalized. But breaking the rules is also how rock history gets made! So let's not shut them out either.
+So how about a truce? Since rules are made to be followed, interdependent bands can't complain about being penalized. But breaking the rules is also how rock history gets made! So let's not shut them out either.
 
 ### Return of the rock martyrs
 
@@ -41,7 +41,7 @@ Well… not so fast. As barriers to entry are lowered, the indie gatekeepers gro
 
 Even worse, the concept of interdependence *itself* can never take root, since no indie artist will ever concede that the best art comes from *not* being indie. As they see it, building a fanbase is what proved *their* worth, which makes it the true measure of *every* artist. And this is the heart of the matter:
 
-**As the indie culture grows attached to its rules, it loses both the will *and* the way to regain interdependence. So interdependent bands will be shut out, and we'll just never know.**
+**As the indie culture grows attached to its rules, it loses both the will *and* the way to regain interdependence. Interdependent bands will then be shut out for good— and we'll just never know.**
 
 ### A hundred *Yearling's Bobtail*s
 
@@ -52,8 +52,6 @@ The situation might seem hopeless, but there's good news: Some music fans would 
 The fact is, rock was *once* interdependent, and hip hop has never *not* been. The concept is solid; rock just needs to see it proven once more. And I can't be the only one who gets this. Picture a hundred bands, each advancing the art form with an ambitious demo of their own! The world would soon realize:
 
 **By breaking the indie culture's rules, interdependent bands will be making the most disruptive *and* most accomplished works of our time. *This* is the next revolution we're all waiting for!**
-
-// TODO: Have final bold line about BYCombo${'  '}
             `,
         }}
     />
