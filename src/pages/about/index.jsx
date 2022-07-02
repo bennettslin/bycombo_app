@@ -37,7 +37,7 @@ Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it'
 
 **Why an anti-indie counterculture?**
 
-Countercultures provide a steady influx of radical ideas, yet there hasn't been one for a while now. Meanwhile, indie rock has made music worse, but its well-intended values are now the mainstream. So anti-indie agitators get plenty of grief— even though they're saving rock for *all* of us!— and we owe them the moral support of a sympathetic community.
+Countercultures provide a steady influx of radical ideas, yet there hasn't been one for a while now. Meanwhile, indie rock has made music worse, but its well-intended values are now the mainstream. So anti-indie agitators get plenty of grief— even though they're saving rock for *all* of us! They could use the moral support of a sympathetic community.
 
 Why *exactly* has indie rock made music worse? Here's an incomplete list of reasons…
 
