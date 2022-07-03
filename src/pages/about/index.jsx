@@ -30,7 +30,7 @@ To make consequential art, a band needs to build exceptional strengths. But this
 **Why an anti-indie counterculture?**
 
 // TODO: All of this can really be phrased better. Keep in this position?${'  '}
-Countercultures provide a steady influx of radical ideas, yet there hasn't been one for a while now. Meanwhile, indie rock has made music worse, its well-intended values are now the mainstream. So those who point out its problems get plenty of grief, even though they're saving rock for *all* of us. We owe them the moral support of a sympathetic community.
+Indie rock is well intentioned, and its values are now the mainstream. So anyone who points out that indie rock has made music worse will get plenty of grief. They need the moral support of a sympathetic counterculture. And countercultures are needed in general to provide a steady influx of radical ideas. If anyone hasn't noticed, there hasn't been one for a while now.
 
 **Why a public registry?**
 
@@ -49,7 +49,7 @@ Here's an incomplete list of reasons…
 
 Political conservatives want socioeconomic *indie*-pendence. Which is fine— since no one mistakes this partisan belief for a universal one. Liberals, their opponents, would rather have *inter*-dependence. And each of us is free to decide which side speaks more to our circumstances.
 
-Indie rock is clearly the conservative party of rock— yet its beliefs are treated as universal, *not* partisan! So anytime an artist struggles to be indie because it's a poor fit for their circumstances, they're told to suck it up and try harder. Now with BYCombo, you can join rock's liberal party, which advocates for the interdependence you've always wanted but didn't know was possible.
+Indie rock is clearly the conservative party of rock— yet its beliefs are treated as universal, *not* partisan! So if an artist struggles to be indie because it's a poor fit for their circumstances, they're told to suck it up and just try harder. Now with BYCombo, you can join rock's liberal party, which advocates for the interdependence you've always wanted but didn't know was possible.
 
 ### Insightful revelation requires a single hat
 
