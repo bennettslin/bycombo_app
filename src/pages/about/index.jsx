@@ -29,13 +29,13 @@ To make consequential art, a band needs to build exceptional strengths. But this
 
 **Why an anti-indie counterculture?**
 
-// TODO: All of this can really be phrased better. Keep in this position?${'  '}
-Indie rock is well intentioned, and its values are now the mainstream. So anyone who points out that indie rock has made music worse will get plenty of grief. They need the moral support of a sympathetic counterculture. And countercultures are needed in general to provide a steady influx of radical ideas. If anyone hasn't noticed, there hasn't been one for a while now.
+// TODO: Flip this into a positive statement: the way to *save* rock is to give up our well intended support…${'  '}
+A counterculture is where dangerous ideas emerge, yet there hasn't been one for a while now. Meanwhile, even as indie rock has made music worse, its good intentions have allowed it to enter the mainstream. But here's a thought: What if rock has gotten worse *because* of all our well-intended support for indie artists? This… might be *the* dangerous idea of our time.
 
 **Why a public registry?**
 
 // TODO: Helping the anti-indie cause${'  '}
-Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who defy the gatekeepers' expectations are the ones who make history! So our registry allows the public to discover these bands directly.
+Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who defy the gatekeepers' expectations are the ones who make history! A registry allows the public to discover these bands directly.
 
 **Why serious chunks of lifetime?**
 

@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The BYCombo mission
 
-**BYCombo is a nonprofit incubator of rock bands. Our mission is to launch the interdependence revolution and bring forth the most consequential rock bands of the 21st century!**
+**BYCombo is a nonprofit incubator of rock bands. We're here to launch the interdependence revolution that will bring forth the most consequential rock bands of the 21st century!**
 
 ### Tools… are *rules*
 
@@ -27,7 +27,7 @@ So how about a truce? Since rules are made to be followed, interdependent bands 
 
 One penalty I faced early on is that by refusing to put *any* time or energy into being indie, I was seen as arrogant and lazy. To correct this misjudgment, I needed to pour *all* my time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort.
 
-So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. After all, if my band can just make the *best* art, then some label will want to *help* us build a fanbase.
+So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. After all, if my band can make the *best* art, then some label will want to *help* us build a fanbase.
 
 The fact is, rock was *once* interdependent. The concept is solid; we just need to see it proven once more. It's not hard to understand how we lost it. It requires trusting a partner. Once that trust breaks down, and we learn to do their job for ourselves, we lose the will and the way to regain interdependence.
 
