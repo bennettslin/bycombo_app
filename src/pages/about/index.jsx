@@ -15,33 +15,31 @@ There's just one problem: Indie rock isn't really a *genre* so much as it's a *s
 
 ### The revolution will *not* be decentralized
 
-**Why historical consequence?**
+**Why an anti-indie counterculture?**
+
+There hasn't been a counterculture in a while, yet they're needed to protect dangerous ideas. Meanwhile, even as indie rock has made music worse, the mainstream has adopted its good intentions. But… what if rock has gotten worse *because* of all our well-intentioned support for indie artists? This is a dangerous idea, but it might be rock's only hope— so let's protect it.
+
+**Why historical consequence? Why BYCombo?**
 
 Because when people gripe about rock getting worse, they're *really* griping that history no longer gets made. Yes, talent is still out there— but competing with the past now calls for explicit intent and massive effort. And only a centralized force like BYCombo can light this fire in today's artists.
 
 **Why assembled bands?**
 
-Because there *are* revolutionary bands to come; they're just unlikely to come together on their *own* now. How do five musicians committed to making history find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member? A centralized force is needed to reimagine what a rock band can *be*.
+Because there *are* revolutionary bands to come; they're just unlikely to come together on their *own* now. How do five musicians committed to making history find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member? A centralized force is also needed to fully reimagine what a rock band can *be*.
 
 **Why interdependence? Why demos?**
 
 To make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, history makers need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And demos are what a band sounds like until they've signed to one.
 
-**Why an anti-indie counterculture?**
-
-// TODO: Reword? If this is the dangerous idea of our time, we need counterculture${'  '}
-There hasn't been a counterculture in a while, yet they're needed to promote dangerous ideas. Meanwhile, even as indie rock has made music worse, the mainstream has adopted its good intentions. But what if rock has gotten worse *because* of all our well-intentioned support for indie artists? This might be *the* dangerous idea of our time!
-
 **Why a public registry?**
 
-// TODO: Reword?${'  '}
-Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But defying what the gatekeepers expect is how history gets made! So a public registry allows the counterculture to discover these bands and offer them up as solutions, instead of just dwelling on indie rock's problems.
+Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But with a registry, the public can discover these revolutionary bands directly. And this allows the counterculture to offer up interdependence as a solution, instead of just dwelling on indie rock's problems.
 
 **Why serious chunks of lifetime?**
 
-Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it's *gone*. Which means there's nothing of greater value that a band can sacrifice to gain the public's trust. And going forward, time spent making art is likely the best predictor of artistic worth in the first place.
+Because going forward, time spent making art will likely be the best predictor of artistic worth. Not only that, a lifetime is all you have, and it's fixed. Once that chunk is gone, it's *gone*. Which means there's nothing of greater value that a band can sacrifice to gain the public's trust.
 
-**And finally… why *exactly* has indie rock made music worse?**
+**Why has indie rock made music worse?**
 
 Here's an incomplete list of reasons…
 
@@ -49,7 +47,7 @@ Here's an incomplete list of reasons…
 
 Political conservatives want socioeconomic *indie*-pendence. Which is fine— since no one mistakes this partisan ideal for a universal one. Liberals, their opponents, would rather have *inter*-dependence. And each of us is free to decide which side speaks more to our circumstances.
 
-Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when artists struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. With BYCombo, you can now join rock's liberal party, which advocates for the interdependence you've always wanted but didn't know was possible.
+Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when artists struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. Now with BYCombo, you can join rock's liberal party, which advocates for the interdependence you've always wanted but didn't know was possible.
 
 ### Insightful revelation requires a single hat
 
