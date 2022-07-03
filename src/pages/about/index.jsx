@@ -29,27 +29,27 @@ To make consequential art, a band needs to build exceptional strengths. But this
 
 **Why an anti-indie counterculture?**
 
-// TODO: Flip this into a positive statement: the way to *save* rock is to give up our well intended support…${'  '}
-A counterculture is where dangerous ideas emerge, yet there hasn't been one for a while now. Meanwhile, even as indie rock has made music worse, its good intentions have allowed it to enter the mainstream. But here's a thought: What if rock has gotten worse *because* of all our well-intended support for indie artists? This… might be *the* dangerous idea of our time.
+// TODO: Reword? If this is the dangerous idea of our time, we need counterculture${'  '}
+There hasn't been a counterculture in a while, yet they're needed to promote dangerous ideas. Meanwhile, even as indie rock has made music worse, the mainstream has adopted its good intentions. But what if rock has gotten worse *because* of all our well-intentioned support for indie artists? This might be *the* dangerous idea of our time!
 
 **Why a public registry?**
 
-// TODO: Helping the anti-indie cause${'  '}
-Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who defy the gatekeepers' expectations are the ones who make history! A registry allows the public to discover these bands directly.
+// TODO: Reword?${'  '}
+Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But defying what the gatekeepers expect is how history gets made! So a public registry allows the counterculture to discover these bands and offer them up as solutions, instead of just dwelling on indie rock's problems.
 
 **Why serious chunks of lifetime?**
 
-Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it's *gone*. Which means there's nothing of greater value that a band can sacrifice to gain the public's trust. And going forward, time spent making art is likely to be the best predictor of artistic worth anyway.
+Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it's *gone*. Which means there's nothing of greater value that a band can sacrifice to gain the public's trust. And going forward, time spent making art is likely the best predictor of artistic worth in the first place.
 
-**Why has indie rock made music worse?**
+**And finally… why *exactly* has indie rock made music worse?**
 
 Here's an incomplete list of reasons…
 
 ### Art needs an opposition party
 
-Political conservatives want socioeconomic *indie*-pendence. Which is fine— since no one mistakes this partisan belief for a universal one. Liberals, their opponents, would rather have *inter*-dependence. And each of us is free to decide which side speaks more to our circumstances.
+Political conservatives want socioeconomic *indie*-pendence. Which is fine— since no one mistakes this partisan ideal for a universal one. Liberals, their opponents, would rather have *inter*-dependence. And each of us is free to decide which side speaks more to our circumstances.
 
-Indie rock is clearly the conservative party of rock— yet its beliefs are treated as universal, *not* partisan! So when artists struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. Now with BYCombo, you can join rock's liberal party, which advocates for the interdependence you've always wanted but didn't know was possible.
+Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when artists struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. With BYCombo, you can now join rock's liberal party, which advocates for the interdependence you've always wanted but didn't know was possible.
 
 ### Insightful revelation requires a single hat
 
