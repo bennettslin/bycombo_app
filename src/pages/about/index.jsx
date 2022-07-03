@@ -39,7 +39,7 @@ Because art that requires massive effort to *make* also takes more effort to *un
 
 **Why serious chunks of lifetime?**
 
-Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it's *gone*. Which means there's nothing of greater value that a band can sacrifice to gain the public's trust. And going forward, time spent making art is likely to be the best predictor of artistic worth.
+Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it's *gone*. Which means there's nothing of greater value that a band can sacrifice to gain the public's trust. And going forward, time spent making art is likely to be the best predictor of artistic worth anyway.
 
 **Why has indie rock made music worse?**
 
@@ -49,7 +49,7 @@ Here's an incomplete list of reasons…
 
 Political conservatives want socioeconomic *indie*-pendence. Which is fine— since no one mistakes this partisan belief for a universal one. Liberals, their opponents, would rather have *inter*-dependence. And each of us is free to decide which side speaks more to our circumstances.
 
-Indie rock is clearly the conservative party of rock— yet its beliefs are treated as universal, *not* partisan! So if an artist struggles to be indie because it's a poor fit for their circumstances, they're told to suck it up and just try harder. Now with BYCombo, you can join rock's liberal party, which advocates for the interdependence you've always wanted but didn't know was possible.
+Indie rock is clearly the conservative party of rock— yet its beliefs are treated as universal, *not* partisan! So when artists struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. Now with BYCombo, you can join rock's liberal party, which advocates for the interdependence you've always wanted but didn't know was possible.
 
 ### Insightful revelation requires a single hat
 
