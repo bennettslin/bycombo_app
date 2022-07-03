@@ -7,6 +7,7 @@ const Component = () => (
             body: `
 # The BYCombo mission
 
+// TODO: Reword?${'  '}
 **BYCombo is a nonprofit incubator of rock bands. Our mission is to launch the interdependence revolution, and to support the bands who'll build it into the most consequential rock movement of the 21st century!**
 
 ### Tools… are *rules*
@@ -41,6 +42,7 @@ Well… not so fast. As barriers to entry are lowered, the indie gatekeepers gro
 
 Even worse, the concept of interdependence *itself* can never take root, since no indie artist will ever concede that the best art comes from *not* being indie. As they see it, building a fanbase is what proved *their* worth, which makes it the true measure of *every* artist. And this is the heart of the matter:
 
+// TODO: Reword?${'  '}
 **As the indie culture grows attached to its rules, it loses both the will *and* the way to regain interdependence. Interdependent bands will then be shut out for good— and we'll just never know.**
 
 ### A hundred *Yearling's Bobtail*s

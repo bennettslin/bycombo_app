@@ -21,31 +21,35 @@ Because when people gripe about rock getting worse, they're *really* griping tha
 
 **Why assembled bands?**
 
-Because there *are* revolutionary bands to come; they're just unlikely to come together on their *own* now. How do five musicians committed to making history find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member? A centralized force is needed to reimagine all the ways a rock band can *be*.
+Because there *are* revolutionary bands to come; they're just unlikely to come together on their *own* now. How do five musicians committed to making history find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member? A centralized force is needed to reimagine what a rock band can *be*.
 
 **Why interdependence? Why demos?**
 
 To make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, history makers need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And demos are what a band sounds like until they've signed to one.
 
+**Why an anti-indie counterculture?**
+
+// TODO: All of this can really be phrased better. Keep in this position?${'  '}
+Countercultures provide a steady influx of radical ideas, yet there hasn't been one for a while now. Meanwhile, indie rock has made music worse, its well-intended values are now the mainstream. So those who point out its problems get plenty of grief, even though they're saving rock for *all* of us. We owe them the moral support of a sympathetic community.
+
 **Why a public registry?**
 
+// TODO: Helping the anti-indie cause${'  '}
 Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But bands who defy the gatekeepers' expectations are the ones who make history! So our registry allows the public to discover these bands directly.
 
 **Why serious chunks of lifetime?**
 
 Because a lifetime is all you have, and it's fixed. Once that chunk is gone, it's *gone*. Which means there's nothing of greater value that a band can sacrifice to gain the public's trust. And going forward, time spent making art is likely to be the best predictor of artistic worth.
 
-**Why an anti-indie counterculture?**
+**Why has indie rock made music worse?**
 
-Countercultures provide a steady influx of radical ideas, yet there hasn't been one for a while now. Meanwhile, indie rock has made music worse, but its well-intended values are now the mainstream. So anti-indie agitators get plenty of grief— even though they're saving rock for *all* of us! We owe them the moral support of a sympathetic community.
-
-Why *exactly* has indie rock made music worse? Here's an incomplete list of reasons…
+Here's an incomplete list of reasons…
 
 ### Art needs an opposition party
 
 Political conservatives want socioeconomic *indie*-pendence. Which is fine— since no one mistakes this partisan belief for a universal one. Liberals, their opponents, would rather have *inter*-dependence. And each of us is free to decide which side speaks more to our circumstances.
 
-Indie rock is clearly the conservative party of rock— yet its beliefs are treated as universal, *not* partisan! So when artists struggle to be indie because it's a poor fit for their circumstances, they're told to just suck it up and try harder. Now with BYCombo, you can join rock's liberal party, which advocates for the interdependence you've always wanted but didn't know was possible.
+Indie rock is clearly the conservative party of rock— yet its beliefs are treated as universal, *not* partisan! So anytime an artist struggles to be indie because it's a poor fit for their circumstances, they're told to suck it up and try harder. Now with BYCombo, you can join rock's liberal party, which advocates for the interdependence you've always wanted but didn't know was possible.
 
 ### Insightful revelation requires a single hat
 
@@ -57,7 +61,7 @@ But the best works of art are *better* than the artists who make them. Why? Beca
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, which results in *no one* taking risks.
 
-Because indie artists strive to get paid from the get-go, they're instantly beholden to the current paradigm that promises to empower them. For this reason, BYCombo encourages our bands to embrace being powerless and unpaid early on: While you have nothing to lose, what revolutions are you free to start?
+Because indie artists strive to get paid from the get-go, they're instantly beholden to the current paradigm, which promises to empower them. For this reason, BYCombo encourages our bands to embrace being powerless and unpaid early on: While you have nothing to lose, what revolutions are you free to start?
 
 ### The masses join the revolution *last*
 
