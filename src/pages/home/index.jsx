@@ -29,20 +29,21 @@ One penalty I faced early on is that by refusing to put *any* time or energy int
 
 So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. After all, if my band can make the *best* art, then some label will want to *help* us build a fanbase.
 
-The fact is, rock was *once* interdependent. The concept is solid; we just need to see it proven once more. It's not hard to understand how we lost it. It requires trusting a partner. Once that trust breaks down, and we learn to do their job for ourselves, we lose the will and the way to regain interdependence.
+I wasn't doing anything unprecedented. The fact is, rock was *once* interdependent. We lost it because interdependence is easy to lose. It requires trusting a partner. Once that trust breaks down, and we learn to do their job for ourselves, we lose the way to regain interdependence.
 
 **Interdependence can only be regained by bands sacrificing serious chunks of lifetime, while given no guarantee that our misjudgment of their intentions will ever be corrected.**
 
 // TODO: Martyr
+The world was just waiting on a rock martyr to regain interdependence. Because surely we haven't lost the will to do so?
 
 ### Who gatekeeps the gatekeepers?
 
 Well… not so fast. As barriers to entry are lowered, the indie gatekeepers grow harried. And so artists *must* use indie rock's tools, which serve to keep their works bite-sized and uniform with others. This means the gatekeepers won't ever bother with an ambitious demo made by a band who clearly didn't follow the rules.
 
-Even worse, the concept of interdependence *itself* can never take root, since no indie artist will ever concede that the best art comes from *not* being indie. As they see it, building a fanbase is what proved *their* worth, which makes it the true measure of *every* artist. And this is the heart of the matter:
+Even worse, the concept of interdependence *itself* can never take root, since no indie artist will ever concede that the best art comes from *not* being indie. As they see it, building a fanbase is what proved *their* worth, which makes it the true measure of *every* artist. So this is the heart of the matter:
 
 // TODO: Reword?${'  '}
-**As the indie culture grows attached to its rules, it loses both the will *and* the way to regain interdependence. Interdependent bands will then be shut out for good— and we'll just never know.**
+**As the indie culture grows attached to its rules, it loses both the will *and* the way to regain interdependence. Any band willing to try then gets shut out— and we'll just never know.**
 
 ### A hundred *Yearling's Bobtail*s
 

@@ -21,23 +21,23 @@ A counterculture is needed to protect dangerous ideas, and there hasn't been one
 
 **Why historical consequence? Why BYCombo?**
 
-Because when people gripe about rock getting worse, they're *really* griping that history no longer gets made. Yes, talent is still out there— but competing with the past now calls for explicit intent and massive effort. And only a centralized force like BYCombo can light this fire in today's artists.
+When people gripe about rock getting worse, they're *really* griping that history no longer gets made. Yes, talent is still out there— but competing with the past now calls for explicit intent and massive effort. And only a centralized force like BYCombo can light this fire in today's artists.
 
 **Why assembled bands?**
 
-Because there *are* revolutionary bands to come; they're just unlikely to come together on their *own* now. How do five musicians committed to making history find each other across the globe? How do a cartoonist and a dancer join as full-fledged members? A centralized force is also needed to fully reimagine what a rock band can *be*.
+There *are* history-making bands to come; they're just unlikely to come together on their *own* now. How do four musicians committed to making history find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member? A centralized force is also needed to fully reimagine what a rock band can *be*.
 
 **Why interdependence? Why demos?**
 
-To make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, history makers need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And demos are what a band sounds like until they've signed to a label.
+To make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, history makers need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And demos are what a band sounds like before they're signed to one.
 
 **Why a public registry?**
 
-Because a demo that requires massive effort to *make* also takes more effort to *understand*— but the indie gatekeepers are too harried for this task. With a registry, the public can discover these revolutionary works on their own. This also allows the counterculture to offer up interdependence as a *solution*, instead of just pointing out indie rock's *problems*.
+A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried for this task. With a registry, the public can discover such consequential works on their own. This then sustains the counterculture, which can now offer interdependence as a *solution*, instead of just pointing out indie rock's *problems*.
 
 **Why serious chunks of lifetime?**
 
-Because going forward, time spent making art will likely be the best measure of artistic worth. And a lifetime is all you have; once that chunk is gone, it's *gone*. Which means there's nothing of greater value that an interdependent band can sacrifice to gain the public's trust.
+Going forward, time spent making art will likely be the best measure of artistic worth. And a lifetime is all you have; once that chunk is gone, it's *gone*. Which means there's nothing of greater value that an interdependent band can sacrifice to gain the public's trust.
 
 **Why has indie rock made music worse?**
 
