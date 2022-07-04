@@ -38,12 +38,12 @@ The world was just waiting on a rock martyr to regain interdependence. Because s
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast. As barriers to entry are lowered, the indie gatekeepers grow harried. And so artists *must* use indie rock's tools, which serve to keep their works bite-sized and uniform with others. This means the gatekeepers won't ever bother with an ambitious demo made by a band who clearly didn't follow the rules.
+Well… not so fast. As barriers to entry are lowered, the indie gatekeepers grow harried. So artists *must* use indie rock's tools, which serve to keep their works bite-sized and uniform with others. This means the gatekeepers won't ever bother with an ambitious demo made by a band who clearly didn't follow the rules.
 
 Even worse, the concept of interdependence *itself* can never take root, since no indie artist will ever concede that the best art comes from *not* being indie. As they see it, building a fanbase is what proved *their* worth, which makes it the true measure of *every* artist. So this is the heart of the matter:
 
 // TODO: Reword?${'  '}
-**As the indie culture grows attached to its rules, it loses both the will *and* the way to regain interdependence. Any band willing to try then gets shut out— and we'll just never know.**
+**The indie culture lacks both the will *and* the way to regain interdependence. Interdependent bands will always get shut out— and we'll just never know.**
 
 ### A hundred *Yearling's Bobtail*s
 

@@ -33,7 +33,7 @@ To make consequential art, a band needs to build exceptional strengths. But this
 
 **Why a public registry?**
 
-A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried for this task. With a registry, the public can discover such consequential works on their own. This then sustains the counterculture, which can now offer interdependence as a *solution*, instead of just pointing out indie rock's *problems*.
+A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried for this task. With our registry, the public can discover such consequential works on their own. This then allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
 
 **Why serious chunks of lifetime?**
 
