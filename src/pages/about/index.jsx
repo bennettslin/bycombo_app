@@ -17,7 +17,7 @@ There's just one problem: Indie rock isn't really a *genre* so much as it's a *s
 
 **Why an anti-indie counterculture?**
 
-There hasn't been a counterculture in a while, yet they're needed to protect dangerous ideas. Meanwhile, even as indie rock has made music worse, the mainstream has adopted its good intentions. But… what if rock has gotten worse *because* of all our well-intentioned support for indie artists? This is a dangerous idea, but it might be rock's only hope— so let's protect it.
+A counterculture is needed to protect dangerous ideas, and there hasn't been one for a while. Meanwhile, even as indie rock has made music worse, the mainstream has adopted its good intentions. But… what if rock has gotten worse *because* of all our well-intentioned support for indie artists? This is a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
 **Why historical consequence? Why BYCombo?**
 
@@ -25,19 +25,19 @@ Because when people gripe about rock getting worse, they're *really* griping tha
 
 **Why assembled bands?**
 
-Because there *are* revolutionary bands to come; they're just unlikely to come together on their *own* now. How do five musicians committed to making history find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member? A centralized force is also needed to fully reimagine what a rock band can *be*.
+Because there *are* revolutionary bands to come; they're just unlikely to come together on their *own* now. How do five musicians committed to making history find each other across the globe? How do a cartoonist and a dancer join as full-fledged members? A centralized force is also needed to fully reimagine what a rock band can *be*.
 
 **Why interdependence? Why demos?**
 
-To make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, history makers need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And demos are what a band sounds like until they've signed to one.
+To make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, history makers need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And demos are what a band sounds like until they've signed to a label.
 
 **Why a public registry?**
 
-Because art that requires massive effort to *make* also takes more effort to *understand*— and the indie gatekeepers are too harried for this task. But with a registry, the public can discover these revolutionary bands directly. And this allows the counterculture to offer up interdependence as a solution, instead of just dwelling on indie rock's problems.
+Because a demo that requires massive effort to *make* also takes more effort to *understand*— but the indie gatekeepers are too harried for this task. With a registry, the public can discover these revolutionary works on their own. This also allows the counterculture to offer up interdependence as a *solution*, instead of just pointing out indie rock's *problems*.
 
 **Why serious chunks of lifetime?**
 
-Because going forward, time spent making art will likely be the best predictor of artistic worth. Not only that, a lifetime is all you have, and it's fixed. Once that chunk is gone, it's *gone*. Which means there's nothing of greater value that a band can sacrifice to gain the public's trust.
+Because going forward, time spent making art will likely be the best measure of artistic worth. And a lifetime is all you have; once that chunk is gone, it's *gone*. Which means there's nothing of greater value that an interdependent band can sacrifice to gain the public's trust.
 
 **Why has indie rock made music worse?**
 
@@ -59,7 +59,7 @@ But the best works of art are *better* than the artists who make them. Why? Beca
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, which results in *no one* taking risks.
 
-Because indie artists strive to get paid from the get-go, they're instantly beholden to the current paradigm, which promises to empower them. For this reason, BYCombo encourages our bands to embrace being powerless and unpaid early on: While you have nothing to lose, what revolutions are you free to start?
+Because indie artists strive to get paid from the get-go, they're instantly beholden to the current paradigm and its promises to empower them. For this reason, BYCombo encourages our bands to embrace being powerless and unpaid early on: While you have nothing to lose, what revolutions are you free to start?
 
 ### The masses join the revolution *last*
 

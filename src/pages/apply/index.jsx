@@ -19,7 +19,7 @@ Perhaps you're one of the following:
 * An artist of some other medium: animator, web developer…
 * A creator with a bold vision for a musical project
 
-You'll pledge to be kind, advance the art form, and help future BYCombo bands. There are no contracts or fees involved.
+You'll pledge to be kind, advance the art form, and help future BYCombo bands. There are no contracts or fees whatsoever.
 
 Once we put you in a band with three or four others— subject to everyone's approval— you'll all relocate to Los Angeles or another major city. Each of you will then put in enough time on your band project for the total to sum up to 25,000 hours.
 
