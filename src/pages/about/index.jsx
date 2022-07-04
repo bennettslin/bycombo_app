@@ -9,7 +9,7 @@ const Component = () => (
 
 Bennett here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. Which means the interdependence revolution can finally begin!
 
-There's just one problem: Indie rock isn't really a *genre* so much as it's a *system*. How do we revolt, when systems prevent revolution by design? Luckily, I've spent half my life figuring this out as well:
+There's just one problem: Indie rock isn't really a *genre* so much as it's a *system*. How do we revolt, when systems preserve a status quo by design? Luckily, I've spent half my life figuring this out as well:
 
 **BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then keep in our public registry to sustain an anti-indie counterculture.**
 
@@ -25,7 +25,7 @@ When people gripe about rock getting worse, they're *really* griping that histor
 
 **Why assembled bands?**
 
-There *are* history-making bands to come; they're just unlikely to come together on their *own* now. How do four musicians committed to making history find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member? A centralized force is also needed to fully reimagine what a rock band can *be*.
+There *are* revolutionary bands to come; they're just unlikely to come together on their *own* now. How do four musicians committed to making history find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member? A centralized force is also needed to fully reimagine what a rock band can *be*.
 
 **Why interdependence? Why demos?**
 
@@ -33,7 +33,7 @@ To make consequential art, a band needs to build exceptional strengths. But this
 
 **Why a public registry?**
 
-A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried for this task. With our registry, the public can discover such consequential works on their own. This then allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
+A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried to do so. With our registry, the public can discover these revolutionary works on their own. And this allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
 
 **Why serious chunks of lifetime?**
 
