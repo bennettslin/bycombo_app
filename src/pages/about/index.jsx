@@ -17,7 +17,7 @@ There's just one problem: Indie rock isn't really a *genre* so much as it's a *s
 
 **Why an anti-indie counterculture?**
 
-A counterculture is needed to protect dangerous ideas, and there hasn't been one for a while. Meanwhile, even as indie rock has made music worse, the mainstream has adopted its good intentions. But… what if rock has gotten worse *because* of all our well-intentioned support for indie artists? This is a dangerous idea, yet it might be rock's only hope— so let's protect it.
+A counterculture is needed to protect dangerous ideas, and there hasn't been one for a while. Meanwhile, even as indie rock has made music worse, the mainstream has adopted its good intentions. But… what if rock has gotten worse *because* of all this well-intentioned support for indie artists? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
 **Why historical consequence? Why BYCombo?**
 
@@ -33,7 +33,7 @@ To make consequential art, a band needs to build exceptional strengths. But this
 
 **Why a public registry?**
 
-A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried to do so. With our registry, the public can discover these revolutionary works on their own. And this allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
+A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried for this task. So with our registry, the public can discover such revolutionary works on their own. This also allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
 
 **Why serious chunks of lifetime?**
 
@@ -45,7 +45,7 @@ Here's an incomplete list of reasons…
 
 ### Art needs an opposition party
 
-Political conservatives want socioeconomic *indie*-pendence. Which is fine— since no one mistakes this partisan ideal for a universal one. Liberals, their opponents, would rather have *inter*-dependence. And each of us is free to decide which side speaks more to our circumstances.
+Political conservatives want socioeconomic *indie*-pendence. Which is fine, since no one mistakes this partisan ideal for a universal one. Liberals, their opponents, would rather have *inter*-dependence. And each of us is free to decide which side speaks more to our circumstances.
 
 Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when artists struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. Now with BYCombo, you can join rock's liberal party, which advocates for the interdependence you've always wanted but didn't know was possible.
 

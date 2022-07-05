@@ -25,31 +25,34 @@ So how about a truce? Since rules are made to be followed, interdependent bands 
 
 ### Return of the rock martyrs
 
-One penalty I faced early on is that by refusing to put *any* time or energy into being indie, I was seen as arrogant and lazy. To correct this misjudgment, I needed to pour *all* my time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort.
+One penalty I faced early on is that by refusing to put *any* time or energy into being indie, I was seen as arrogant and lazy. To counter this misjudgment, I needed to pour *all* my time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort.
 
-So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. After all, if my band can make the *best* art, then some label will want to *help* us build a fanbase.
+So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was free to invent doublespeaker rhyme and create the audio webcomic. After all, if my band can make the best art, then some label will *help* us build a fanbase.
 
-I wasn't doing anything unprecedented. The fact is, rock was *once* interdependent. We lost it because interdependence is easy to lose. It requires trusting a partner. Once that trust breaks down, and we learn to do their job for ourselves, we lose the way to regain interdependence.
+// TODO: Martyrdom${'  '}
+This way of thinking *isn't* new to rock; we've just lost it. Interdependence requires trust between partners, so once that trust is broken, each side does what it can not to need the other.
 
-**Interdependence can only be regained by bands sacrificing serious chunks of lifetime, while given no guarantee that our misjudgment of their intentions will ever be corrected.**
+**Interdependence can only be regained by a band maximizing gains for label while shouldering all the risk itself.**
 
-// TODO: Martyr
-The world was just waiting on a rock martyr to regain interdependence. Because surely we haven't lost the will to do so?
+**Interdependence can only be regained by a band willing to shoulder *all* the risks, with no guarantee that the indie culture's misjudgment of their intentions will ever be corrected.**
+
+So rock is waiting on… a martyr. But if that's *all*, then interdependence is guaranteed to happen. Because surely we haven't lost the *will* to regain it?
 
 ### Who gatekeeps the gatekeepers?
 
 Well… not so fast. As barriers to entry are lowered, the indie gatekeepers grow harried. So artists *must* use indie rock's tools, which serve to keep their works bite-sized and uniform with others. This means the gatekeepers won't ever bother with an ambitious demo made by a band who clearly didn't follow the rules.
 
-Even worse, the concept of interdependence *itself* can never take root, since no indie artist will ever concede that the best art comes from *not* being indie. As they see it, building a fanbase is what proved *their* worth, which makes it the true measure of *every* artist. So this is the heart of the matter:
+Even worse, the concept of interdependence *itself* can never take root, since no indie artist will ever concede that the best art comes from *not* being indie. As they see it, building a fanbase is what proved *their* worth, which makes it the true measure of *every* artist. This is then taken to be the underdog view. All of which leads to the heart of the problem:
 
 // TODO: Reword?${'  '}
-**The indie culture lacks the will *and* the way to regain interdependence. So every interdependent band will get shut out— and we'll just never know.**
+**The indie culture lives to perpetuate its rules. As such, it lacks the *will* to regain interdependence. So every interdependent band will get shut out— and we'll just never know.**
 
 ### A hundred *Yearling's Bobtail*s
 
 The situation might seem hopeless, but there's good news: Some music fans would rather break the rules as well! They dispute the claim that indie rock backs the underdog, since working-class minorities are the *least* eager to lower the barriers to entry. And how do indie artists who require charitable support stand *any* chance to make rock history, anyway?
 
-// TODO: These music fans will have no trouble embracing interdependence because… so they just need to know about the bands trying to bring it back.
+// TODO: Final${'  '}
+These music fans will have no trouble embracing interdependence because… so they just need to know about the bands trying to bring it back.
 
 The fact is, rock was *once* interdependent, and hip hop has never *not* been. The concept is solid; rock just needs to see it proven once more. And I can't be the only one who gets this. Picture a hundred bands, each advancing the art form with an ambitious demo of their own! The world would soon realize:
 
