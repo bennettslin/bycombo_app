@@ -32,7 +32,7 @@ One penalty I faced early on is that by refusing to put *any* time or energy int
 Because we've done things this way in rock before; we just lost it. Interdependence requires trust between partners, so it's really hard to regain once that trust is broken. Each side digs in further not to need the other. So it was clear to me:
 
 // TODO: Really think what this should be.${'  '}
-**Interdependence can only be regained by a band willing to shoulder *all* the risk, absorb *all* the losses, and be misjudged for a long period of time.**
+**Interdependence can only be regained by a band willing to shoulder *all* the burden, and be misjudged for a long period of time.**
 
 // TODO: Wording.${'  '}
 In other words, rock is just waiting on… a martyr. So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was able to invent doublespeaker rhyme and create the audio webcomic. But I assumed that would be all. Because surely we haven't lost the *will* to regain interdependence?
