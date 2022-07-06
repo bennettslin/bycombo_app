@@ -44,7 +44,7 @@ Well… not so fast. As barriers to entry are lowered, the indie gatekeepers gro
 But worse, the concept of interdependence *itself* can never take root, since no indie artist will ever concede that the best art comes from *not* being indie. As they see it, building a fanbase is what proved *their* worth, which makes it the true measure of *every* artist. And this is the heart of the problem:
 
 // TODO: Reword?${'  '}
-**The indie culture lives to perpetuate its rules. As such, it lacks the *will* to regain interdependence. So every interdependent band will get shut out— and we'll just never know.**
+**The indie culture has no will to regain interdependence. So it will fail us by shutting out any interdependent band, and we'll just never know. Which means it'll be failing us for a long time— and likely already has been.**
 
 ### A hundred *Yearling's Bobtail*s
 
