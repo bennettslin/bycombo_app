@@ -9,7 +9,7 @@ const Component = () => (
 
 Bennett here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. Which means the interdependence revolution can finally begin!
 
-There's just one problem: Indie rock isn't really a *genre* so much as it's a *system*. How do we revolt, when systems preserve a status quo by design? Luckily, I've spent half my life figuring this out as well:
+There's just one problem: Indie rock isn't really a *genre* so much as it's a *system*. How do we revolt, when every system preserves a status quo by design? Luckily, I've spent half my life figuring this out as well:
 
 **BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then keep in our public registry to sustain an anti-indie counterculture.**
 

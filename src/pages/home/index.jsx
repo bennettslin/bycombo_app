@@ -22,7 +22,7 @@ These tools of empowerment aren't free, though: They cost the artist's time and 
 Hi, I'm Bennett. Let's face it, the best artists *don't* waste time and energy on self-empowerment; it comes as a byproduct of their worth. So I refuse to use indie rock's tools; I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
 // TODO. The idea is there?${'  '}
-Not building a fanbase, however, makes me seem lazy and incompetent. This then marks my band ineligible for charitable support, which is the only way artists can advance in indie rock. So this is my dilemma:
+Not building a fanbase, however, makes me seem lazy and incompetent. This then marks my band ineligible for charitable support, which is the only way to get ahead in indie rock. So this is my dilemma:
 
 **An interdependent band committed to making the best art will need to break the indie culture's rules, for which they'll face penalties.**
 
@@ -31,12 +31,11 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 ### Return of the rock martyrs
 
 // TODO: First paragraph.${'  '}
-What's crazy is that rock was interdependent once. How did we lose it, such that being indie is now an unfortunate necessity? Interdependence requires trust between partners. Once that trust is broken, each side digs in further not to need the other. Making interdependence hard to regain.
+The crazy thing is that rock was once interdependent. So how did it come to this, such that indie rock's rules became the unfortunate reality? Interdependence requires trust between partners. Once that trust is broken, each side digs in further not to need the other. Making interdependence hard to regain.
 
 // TODO: How to get interdependence back. Must be initiated by bands. Why indie rock *can't* make the best art, and to take the opposite approach to make the best art. And to embrace the fact that this makes a band helpless without a partner.${'  '}
 (Indie artists gain leverage by *not* needing a label at all. Interdependent bands need a label; their leverage comes from being so good that *other* labels should want them.)
 Another penalty I faced early on is that by not putting *any* time or energy into building a fanbase on my own, I was treated as lazy and incompetent. To counter this misjudgment, then, I needed to pour *all* my time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort.
-
 
 // TODO: What a band needs to do.${'  '}
 // Explain why such a long period of time.
@@ -48,7 +47,7 @@ In other words, interdependence is just waiting for… rock martyrs. So I spent 
 
 Well… not so fast. As barriers to entry are lowered, the indie gatekeepers grow harried. So artists *must* use indie rock's tools, which serve to keep works bite-sized and uniform with all others. This means the gatekeepers won't ever bother with an ambitious demo from a band who clearly didn't follow the rules.
 
-But worse, the concept of interdependence *itself* can never take root, since no indie artist will ever concede that the best art comes from *not* being indie. As they see it, building a fanbase is what proved *their* worth, which makes it the true measure of *every* artist to come. And this is the heart of the problem:
+But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist works hard to build a fanbase on their own, they can't ever be gracious to the argument that the best art comes from *not* doing so. And everyone who supports them will hold the same attitude. This leads to the heart of the problem:
 
 **The indie culture *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to regain interdependence— and we'll just never hear about it.**
 
