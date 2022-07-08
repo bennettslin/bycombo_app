@@ -21,8 +21,8 @@ These tools of empowerment aren't free, though: They cost the artist's time and 
 
 Hi, I'm Bennett. Let's face it, the best artists *don't* waste time and energy on self-empowerment; it comes as a byproduct of their worth. So I refuse to use indie rock's tools; I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
-// TODO. The idea is there?${'  '}
-Not building a fanbase, however, makes me seem lazy and incompetent. This then marks my band ineligible for charitable support, which is the only way to get ahead in indie rock. So this is my dilemma:
+// TODO: Mention being misjudged, lack of sympathy.${'  '}
+Not building a fanbase, however, marks my band ineligible for charitable support, which is needed to get ahead in indie rock. So this is my dilemma:
 
 **An interdependent band committed to making the best art will need to break the indie culture's rules, for which they'll face penalties.**
 
@@ -30,26 +30,22 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 
 ### Return of the rock martyrs
 
-// TODO: First paragraph.${'  '}
-The crazy thing is that rock was once interdependent. So how did it come to this, such that indie rock's rules became the unfortunate reality? Interdependence requires trust between partners. Once that trust is broken, each side digs in further not to need the other. Making interdependence hard to regain.
+// TODO: Ideas are good now, just need rewording.${'  '}
+The crazy thing is, *every* band was interdependent once! How did indie rock become the unfortunate reality? Quite simply, interdependence requires trust between bands and labels. Once that trust is broken, each side does what it can not to need the other. So how can a band rebuild trust?
 
-// TODO: How to get interdependence back. Must be initiated by bands. Why indie rock *can't* make the best art, and to take the opposite approach to make the best art. And to embrace the fact that this makes a band helpless without a partner.${'  '}
-(Indie artists gain leverage by *not* needing a label at all. Interdependent bands need a label; their leverage comes from being so good that *other* labels should want them.)
-Another penalty I faced early on is that by not putting *any* time or energy into building a fanbase on my own, I was treated as lazy and incompetent. To counter this misjudgment, then, I needed to pour *all* my time and energy into advancing the art form, with an ambitious demo that *couldn't* have been made for any less effort.
+It might seem obvious to do what worked in the past. Instead of gaining leverage by *not* needing a label, a band can become good enough that *other* labels should want them. But these days, every label will still insist that a band set aside *some* time and energy to build a fanbase— which defeats the very reason to seek out a label! And so there's only one solution:
 
-// TODO: What a band needs to do.${'  '}
-// Explain why such a long period of time.
-**To regain interdependence, bands must sacrifice a serious chunk of lifetime to make the best art, all the while shouldering the entire burden and having their intentions misjudged.**
+**To regain interdependence, a band must sacrifice a serious chunk of lifetime, during which *all* their time and energy is spent on an ambitious demo that *couldn't* have been made for any less effort.**
 
-In other words, interdependence is just waiting for… rock martyrs. So I spent 25,000 hours— twelve full-time *years*!— to make *Yearling's Bobtail*. And by *not* building a fanbase, I was able to invent doublespeaker rhyme and the audio webcomic. What label *wouldn't* be happy with this tradeoff?
+In other words, interdependence is waiting for… a rock martyr. And martyrs are the ones who make rock history! So this is why I spent 25,000 hours— that's twelve full-time *years*!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And by *not* building a fanbase, I was able to invent doublespeaker rhyme and create the audio webcomic. What label *wouldn't* be happy with this tradeoff?
 
 ### Who gatekeeps the gatekeepers?
 
 Well… not so fast. As barriers to entry are lowered, the indie gatekeepers grow harried. So artists *must* use indie rock's tools, which serve to keep works bite-sized and uniform with all others. This means the gatekeepers won't ever bother with an ambitious demo from a band who clearly didn't follow the rules.
 
-But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist works hard to build a fanbase on their own, they can't ever be gracious to the argument that the best art comes from *not* doing so. And everyone who supports them will hold the same attitude. This leads to the heart of the problem:
+But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist works hard to build a fanbase on their own, they'll never concede that the best art comes from *not* doing so. And why should they be gracious to any band promising a revolution that would hurt their standing? This leads to the heart of the problem:
 
-**The indie culture *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to regain interdependence— and we'll just never hear about it.**
+**The indie culture *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out every band trying to regain interdependence— and we'll never hear about it.**
 
 ### A hundred *Yearling's Bobtail*s
 
