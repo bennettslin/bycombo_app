@@ -35,15 +35,15 @@ The crazy thing is, *every* band was interdependent once! How did indie rock bec
 
 It might seem obvious to do what worked in the past. Instead of gaining leverage by *not* needing a label, a band can become good enough that *other* labels should want them. But these days, every label will still insist that a band set aside *some* time and energy to build a fanbase— which defeats the very reason to seek out a label! And so there's only one solution:
 
-**To regain interdependence, a band must sacrifice a serious chunk of lifetime, during which *all* their time and energy is spent on an ambitious demo that *couldn't* have been made for any less effort.**
+**To regain interdependence, a band needs to sacrifice a serious chunk of lifetime, during which *all* their time and energy must be spent on an ambitious demo that *couldn't* have been made for any less effort.**
 
-In other words, interdependence is waiting for… a rock martyr. And martyrs are the ones who make rock history! So this is why I spent 25,000 hours— that's twelve full-time *years*!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And by *not* building a fanbase, I was able to invent doublespeaker rhyme and create the audio webcomic. What label *wouldn't* be happy with this tradeoff?
+In other words, interdependence is waiting for… a rock martyr. But martyrs are the ones who make history! So this is why I spent 25,000 hours— twelve full-time *years*!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And by *not* building a fanbase, I was able to invent doublespeaker rhyme and create the audio webcomic. What label *wouldn't* be happy with this tradeoff?
 
 ### Who gatekeeps the gatekeepers?
 
 Well… not so fast. As barriers to entry are lowered, the indie gatekeepers grow harried. So artists *must* use indie rock's tools, which serve to keep works bite-sized and uniform with all others. This means the gatekeepers won't ever bother with an ambitious demo from a band who clearly didn't follow the rules.
 
-But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist works hard to build a fanbase on their own, they'll never concede that the best art comes from *not* doing so. And why should they be gracious to any band promising a revolution that would hurt their standing? This leads to the heart of the problem:
+But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist works hard to build a fanbase on their own, they'll never concede that the best art comes from *not* doing so. And why should they be gracious to any band promising a revolution that would undermine them? This leads to the heart of the problem:
 
 **The indie culture *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out every band trying to regain interdependence— and we'll never hear about it.**
 
