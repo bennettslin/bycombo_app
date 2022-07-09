@@ -57,9 +57,9 @@ But the best works of art are *better* than the artists who make them. Why? Beca
 
 ### A pittance secures loyalty to the paradigm
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, which results in *no one* taking risks.
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, with *no one* involved taking any risks.
 
-Because indie artists strive to get paid from the get-go, they're instantly beholden to the current paradigm and its promises to empower them. For this reason, BYCombo encourages our bands to embrace being powerless and unpaid early on: While you have nothing to lose, what revolutions are you free to start?
+Because indie artists strive to get paid from the get-go, they're instantly beholden to the current paradigm, which promises to empower them. For this reason, BYCombo encourages our bands to embrace being powerless and unpaid early on: While you have nothing to lose, what revolutions are you free to start?
 
 ### The masses join the revolution *last*
 
