@@ -17,7 +17,7 @@ There's just one problem: Indie rock isn't really a *genre* so much as it's a *s
 
 **Why an anti-indie counterculture?**
 
-A counterculture is needed to protect dangerous ideas, and there hasn't been one for a while. Meanwhile, even as indie rock has made music worse, the mainstream has adopted its good intentions. But… what if rock has gotten worse *because* of all this well-intentioned support for indie artists? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
+There hasn't been a counterculture for a while, yet they're needed to protect dangerous ideas. Meanwhile, even as indie rock has made music worse, the mainstream has adopted its good intentions. But… what if rock has gotten worse *because* of all this well-intentioned support for indie artists? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
 **Why historical consequence? Why BYCombo?**
 

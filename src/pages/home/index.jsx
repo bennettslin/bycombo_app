@@ -13,7 +13,7 @@ const Component = () => (
 
 Indie rock loves to back the underdog, which is why it's all about lowering the barriers to entry. To do this, it provides tools that any artist can use to build a fanbase without label support.
 
-These tools of empowerment aren't free, though: They cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them. All they do is penalize those who *don't*. But… this is how *rules* work! Which is to say:
+These tools of empowerment aren't free, though: They cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them; all they do is penalize those who *don't*. But… this is how *rules* work! Which is to say:
 
 **By *expecting* artists to empower themselves, indie rock effectively *requires* them to do so. It then imposes its rules on *all* artists.**
 
@@ -29,11 +29,11 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 
 ### Return of the rock martyrs
 
-The thing is, rock was interdependent once. But as trust eroded, each side took steps not to need the other. Indie artists now build a fanbase to show they can easily walk away from talks with a label. And labels, for their part, now bet on this fanbase rather than the artist's future potential.
+The thing is, rock was interdependent once. But as trust eroded, each side took steps not to need the other. Indie artists now build a fanbase to show they can walk away from talks with a label. And labels now bet on this fanbase rather than the artist's future potential.
 
-How do we fix this unfortunate reality? It's not enough for interdependent bands to commit to making the best art; given the mutual distrust, they'll still be misjudged as lazy and incompetent. After all, why don't they spend their *remaining* time and energy to build a fanbase, knowing this is what the labels now bet on? Which means there's only one solution:
+How do we fix this unfortunate reality? It's not enough for interdependent bands to commit to making the best art; in a world of mutual distrust, they'll still be misjudged as lazy and incompetent. After all, why don't they spend their *remaining* time and energy to build a fanbase, knowing this is what the labels now bet on? Which means there's only one solution:
 
-**To help rock regain its interdependence, a band must spend *all* their time and energy, for years and years of their lifetime, on an ambitious demo that couldn't have been made for *any* less effort.**
+**To help rock regain its interdependence, a band must spend *all* their time and energy— for years and years of their lifetime— on an ambitious demo that couldn't have been made for *any* less effort.**
 
 In other words, interdependence is waiting for… a rock martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And by *not* building a fanbase, I was able to invent doublespeaker rhyme and create the audio webcomic. What label *wouldn't* be happy with this tradeoff?
 
