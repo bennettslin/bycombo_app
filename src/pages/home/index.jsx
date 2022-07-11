@@ -21,17 +21,17 @@ These tools of empowerment aren't free, though: They cost the artist's time and 
 
 Hi, I'm Bennett. Let's face it, the best artists *don't* waste time and energy on self-empowerment; it comes as a byproduct of their worth. So I refuse to use indie rock's tools; I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
-By not building a fanbase, however, I'm seen as lazy and incompetent. This then marks my band ineligible for charitable support, which other artists rely on to get ahead. So to sum up my dilemma:
+By not building a fanbase, however, I'm seen as lazy and incompetent. And then my band is denied the charitable support that helps other artists get ahead. So this is my dilemma:
 
-**An interdependent band promising to make the best art will *need* to break indie rock's rules— for which they'll face penalties.**
+**In promising to make the best art, an interdependent band *needs* to break indie rock's rules— for which they'll be penalized.**
 
-But how about a truce? Since rules are made to be followed, interdependent bands can't complain about being penalized. Yet breaking the rules is how rock history gets made! So let's not shut them out either.
+But how about a truce? Since rules are made to be followed, interdependent bands can't complain about facing penalties. Yet breaking the rules is how rock history gets made! So let's not shut them out either.
 
 ### Return of the rock martyrs
 
-The thing is, rock was interdependent once. But as trust broke down, each side took unfortunate but necessary steps not to depend on the other. Indie artists now build a fanbase to show they can walk away from talks with a label. And labels now bet on an artist's self-made career, rather than invest in their future potential. So how does rock get out of this mess?
+The thing is, rock was interdependent once. As trust broke down, however, each side took unfortunate but necessary steps not to need the other. Indie artists now build a fanbase to show they can walk away from talks with a label. But labels, in turn, now bet on this fanbase rather than the artist's future potential. So how do we fix such a mess?
 
-Sadly, it's no longer enough for a band to promise the best art. In a world of charitable support, all art is subjective; and in a world of mutual distrust, nothing subjective is a deciding factor. So indie artists are just *assumed* to make the best art possible, giving them plenty of time and energy to build the fanbase that labels *actually* decide on. This leaves only one solution:
+Sadly, it's no longer enough for a band to promise the best art. In a world of charitable support, all art is subjective; and in a world of mutual distrust, nothing subjective can be a deciding factor. So indie artists are just *assumed* to make the best art possible, leaving them enough time and energy to build the fanbase that labels *really* decide on. This gives us only one solution:
 
 **To regain rock's interdependence, a band must spend *all* their time and energy— for untold years of their lifetime— on an *objectively* ambitious demo that couldn't have been made for *any* less effort.**
 
