@@ -37,7 +37,7 @@ A demo that requires massive effort to *make* will also take more effort to *und
 
 **Why serious chunks of lifetime?**
 
-Going forward, time spent making art will likely be the best measure of artistic worth. And a lifetime is all you have; once that chunk is gone, it's *gone*. Which means there's nothing of greater value that an interdependent band can sacrifice to gain the public's trust.
+Going forward, time spent making art will likely be the best predictor of artistic worth. And a lifetime is all you have; once that chunk is gone, it's *gone*. Which means there's nothing of greater value that an interdependent band can sacrifice to gain the public's trust.
 
 **Why has indie rock made music worse?**
 
@@ -45,9 +45,15 @@ Here's an incomplete list of reasons…
 
 ### Art needs an opposition party
 
-Political conservatives want socioeconomic *indie*-pendence. Which is fine, since no one mistakes this partisan ideal for a universal one. Liberals, their opponents, would rather have *inter*-dependence. And each of us is free to decide which side speaks more to our circumstances.
+Political conservatives want socioeconomic *indie*-pendence. Which is fine, since no one mistakes this partisan ideal for a universal one. Liberals, their opponents, would rather have *inter*-dependence. And so we hold elections to promote healthy competition, as each of us decides which side speaks more to our circumstances.
 
-Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when artists struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. Now with BYCombo, you can join rock's liberal party, which advocates for the interdependence you've always wanted but didn't know was possible.
+Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when bands struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. Now with BYCombo, you can join the opposition party, which advocates for the interdependence you've always wanted but didn't know was possible.
+
+${'  ' || `
+### History wants hooks, not hustles
+
+// TODO: Mention [Bobtail Method](https://bobtailmethod.com).
+`}
 
 ### Insightful revelation requires a single hat
 

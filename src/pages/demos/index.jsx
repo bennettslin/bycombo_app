@@ -12,6 +12,10 @@ const Component = () => (
 
 **Each band in our registry sacrificed a serious chunk of lifetime— at least 25,000 hours!— to make a demo that advances the art form.**
 
+${'  ' || `
+// TODO: Mention knowing not what the indie gatekeepers want to see.
+`}
+
 If you have an offer or opportunity for any of our bands to consider, please contact them directly!
                 `,
                 (
