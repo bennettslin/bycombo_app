@@ -29,7 +29,7 @@ There *are* revolutionary bands to come; they're just unlikely to come together 
 
 **Why interdependence? Why demos?**
 
-To make consequential art, a band needs to build exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. Which is to say, history makers need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And demos are what a band sounds like before they're signed to one.
+To make consequential art, a band needs to develop exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And a demo is what their work will sound like before they've signed to one.
 
 **Why a public registry?**
 
@@ -37,7 +37,7 @@ A demo that requires massive effort to *make* will also take more effort to *und
 
 **Why serious chunks of lifetime?**
 
-Going forward, time spent making art will likely be the best predictor of artistic worth. And a lifetime is all you have; once that chunk is gone, it's *gone*. Which means there's nothing of greater value that an interdependent band can sacrifice to gain the public's trust.
+Going forward, time spent making art will be the best predictor of artistic worth. And a lifetime is all you have; once that chunk is gone, it's *gone*. Which means there's nothing of greater value that an interdependent band can sacrifice to gain the public's trust.
 
 **Why has indie rock made music worse?**
 
@@ -47,27 +47,27 @@ Here's an incomplete list of reasons…
 
 Political conservatives want socioeconomic *indie*-pendence. Which is fine, since no one mistakes this partisan ideal for a universal one. Liberals, their opponents, would rather have *inter*-dependence. And so we hold elections to promote healthy competition, as each of us decides which side speaks more to our circumstances.
 
-Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when bands struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. Now with BYCombo, you can join the opposition party, which advocates for the interdependence you've always wanted but didn't know was possible.
+Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when bands struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. With BYCombo, you can now join the opposition, which advocates for the interdependence you've always wanted but didn't know was possible.
 
-${'  ' || `
-### History wants hooks, not hustles
+### History wants hooks, not hustle
 
-// TODO: Mention [Bobtail Method](https://bobtailmethod.com).
-`}
+A while back, I sent manuscripts of my songwriting book [Bobtail Method](https://bobtailmethod.com) to the indie labels. None were interested, and I soon learned why. Composing an appealing melody and chord progression takes time, but so does building a fanbase— and indie rock is all about the latter. As such, its aesthetic is *defined* by a lack of strong melodies, which some indie fans even prefer.
+
+But few of us care if a *past* artist put in the hustle; we prefer the ones who composed the best hooks— and future generations will undoubtedly feel the same. There's no way around it: Making history starts with having the best hooks. So BYCombo gives you all the time you need to compose them.
 
 ### Insightful revelation requires a single hat
 
 Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their level of talent.
 
-But the best works of art are *better* than the artists who make them. Why? Because they *also* benefit from countless revelatory insights that can't be summoned at will. These insights come from letting thoughts drift in the shower, or daydreaming out of boredom; they won't happen if you're always switching hats. So BYCombo lets you keep the artist hat on.
+But the best works of art are *better* than the artists who make them. Why? Because they *also* benefit from countless revelatory insights that can't be summoned at will. These insights come from letting thoughts drift in the shower, or daydreaming out of boredom; they won't happen if you're always switching hats. So with BYCombo, you'll keep the artist hat on.
 
 ### A pittance secures loyalty to the paradigm
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, with *no one* involved taking any risks.
 
-Because indie artists strive to get paid from the get-go, they're instantly beholden to the current paradigm, which promises to empower them. For this reason, BYCombo encourages our bands to embrace being powerless and unpaid early on: While you have nothing to lose, what revolutions are you free to start?
+Because indie artists strive to get paid from the get-go, they're instantly beholden to the current paradigm, which promises to empower them. For this reason, BYCombo encourages our bands to embrace being powerless and unpaid early on: While you have nothing to lose, what paradigms are you free to challenge?
 
-### The masses join the revolution *last*
+### Masses join revolutions *last*
 
 Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution will be nipped in the bud, because the masses have *never* accepted a paradigm change on their own.
 
