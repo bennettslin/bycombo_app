@@ -51,9 +51,9 @@ Indie rock is clearly the conservative party of rock— yet its ideals are treat
 
 ### History wants hooks, not hustle
 
-A while back, I sent manuscripts of my songwriting book [Bobtail Method](https://bobtailmethod.com) to the indie labels. None were interested, and I soon learned why. Composing an appealing melody and chord progression takes time, but so does building a fanbase— and indie rock is all about the latter. As such, its aesthetic is *defined* by a lack of strong melodies, which some indie fans even prefer.
+A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to the indie labels. None were interested, and I soon learned why. Composing an appealing melody and chord progression takes time, but so does building a fanbase— and indie rock is all about the latter. As such, the indie aesthetic is proudly *defined* by its lack of strong melodies.
 
-But few of us care if a *past* artist put in the hustle; we prefer the ones who composed the best hooks— and future generations will undoubtedly feel the same. There's no way around it: Making history starts with having the best hooks. So BYCombo gives you all the time you need to compose them.
+But few of us care if a *past* artist put in the hustle, while almost all of us love the ones who composed the best hooks— and future generations will surely feel the same. There's no way around it: Making history starts with having the best hooks. So BYCombo gives you all the time you need to compose them.
 
 ### Insightful revelation requires a single hat
 

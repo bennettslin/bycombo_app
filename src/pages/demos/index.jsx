@@ -8,13 +8,11 @@ const Component = () => (
         {...{
             body: [
                 `
-# Return of the rock martyrs
+# Return of the rock martyrs… *and* saviors!
 
 **Each band in our registry sacrificed a serious chunk of lifetime— at least 25,000 hours!— to make a demo that advances the art form.**
 
-${'  ' || `
-// TODO: Mention knowing not what the indie gatekeepers want to see.
-`}
+Remember, the indie gatekeepers will *ignore* these demos; they want artists to put effort into building a fanbase instead. So unless someone *else* tells the world about our bands, rock is now dead forever. Can this rock savior be you?
 
 If you have an offer or opportunity for any of our bands to consider, please contact them directly!
                 `,
