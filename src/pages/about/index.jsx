@@ -53,7 +53,7 @@ Indie rock is clearly the conservative party of rock— yet its ideals are treat
 
 A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested, and I soon figured out why. It takes time to compose an appealing melody and chord progression, no less than it does to build a fanbase— and indie rock is all about the latter. As such, its aesthetic is proudly *defined* by a lack of strong melodies and chords.
 
-But few of us care that a past artist hustled to build a fanbase, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with composing your best hooks. Which is why BYCombo gives you all the time you'll need to do that.
+But few of us care that a past artist hustled to build a fanbase, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with composing your best hooks. So BYCombo gives you all the time you'll need to do that.
 
 ### Insightful revelation requires a single hat
 
@@ -75,21 +75,21 @@ Revolutions may *start* with powerless outsiders, but they're *spread* by powerf
 
 ### Responsible revolutions plan for runaway effects
 
-Indie rock is a culture of self-reliance that celebrates artists who bypass the middleman. But if the middleman's job is simple enough for anyone to do, then wealthy artists can just pay *others* to do it. As a result, indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
+Indie rock is a culture of self-reliance that celebrates artists who bypass the middleman. But if the middleman's job is simple enough for anyone to do, then wealthy artists can just pay *others* to do it— including, ironically, former middlemen. As a result, indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
-Won't BYCombo see a runaway effect as well? Yes, but ours is foreseeably a race to the *top*. Taking our approach to its absurd conclusion, a band might spend an *insane* chunk of lifetime on their demo— which pretty much *guarantees* they'll be remembered by history!
+Won't BYCombo see a runaway effect as well? Yes, but ours is foreseeably a race to the *top*. Taking our approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— yet this pretty much *guarantees* they'll be remembered by history!
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
-Who foresaw indie rock's absurd conclusion? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: talent and originality born from hunger. And BYCombo is the latest case in point.
+Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: talent and originality born from hunger. And BYCombo is the latest case in point.
 
-Don't be fooled by indie rock's recent embrace of female and minority artists: They've been handed the reins *because* it's in decline. These are crumbs on offer here. Meanwhile, BYCombo was *conceived* to serve anyone who's disadvantaged. We know that disadvantage drives your desire for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
+Don't be fooled by indie rock's recent embrace of female and minority artists: They've been handed the reins *because* it's in decline. These are crumbs on offer here. Meanwhile, BYCombo was *conceived* to serve disadvantaged groups. I know firsthand that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
 ### Art needs the blood of martyrs
 
 ${'  ' || `
-// TODO: Final.
-Indie rock loves to celebrate self-empowerment. But self-empowerment is really just self-serving, power-seeking behavior in those we're rooting for— which means there are many ways a celebration of it can backfire.
+// TODO: Change this.
+Indie rock loves to celebrate self-empowerment. But self-empowerment is really just self-serving, power-seeking behavior in those we're rooting for— which means there are many ways it can backfire.
 `}
 
 Indie rock is all about fair compensation: Artists must never give more of themselves than they take. Not even voluntarily, since this is a slippery slope that leads to further expectations of sacrifice all around. As such, indie rock has never given the world a rock martyr— and proudly so.
