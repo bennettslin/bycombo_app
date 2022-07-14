@@ -61,9 +61,7 @@ Given that interdependence is what made rock great in the past, these music fans
 
 BYCombo allows bands to win over music fans and industry insiders directly who want to regain interdependence for rock to connect.
 
-Picture a hundred bands, each advancing the art form with an ambitious demo of their own! The world would then see:
-
-**By breaking indie rock's rules, interdependent bands will be making the most disruptive *and* most accomplished works of our time. *This* is the next revolution in rock history!**
+Picture a hundred bands, each advancing the art form with an ambitious demo of their own. In breaking indie rock's rules, they're already making the *disruptive* works of our time. But in trying to regain interdependence, they'll also be making our most *accomplished* works. *This* is the next revolution in rock history!
             `,
         }}
     />
