@@ -51,15 +51,15 @@ Indie rock is clearly the conservative party of rock— yet its ideals are treat
 
 ### History wants hooks, not hustle
 
-A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to the indie labels. None were interested, and I soon learned why. Composing an appealing melody and chord progression takes time, but so does building a fanbase— and indie rock is all about the latter. As such, the indie aesthetic is proudly *defined* by its lack of strong melodies.
+A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to the indie labels. None were interested, and I soon figured out why. It takes time to compose an appealing melody and chord progression, no less so than to build a fanbase— and indie rock is all about the latter. As such, its aesthetic is proudly *defined* by a lack of strong melodies.
 
-But few of us care if a *past* artist put in the hustle, while almost all of us love the ones who composed the best hooks— and future generations will surely feel the same. There's no way around it: Making history starts with having the best hooks. So BYCombo gives you all the time you need to compose them.
+But few of us care that a past artist had to hustle, while almost all of us love a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with composing your best hooks. And BYCombo gives you all the time needed to do that.
 
 ### Insightful revelation requires a single hat
 
 Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their level of talent.
 
-But the best works of art are *better* than the artists who make them. Why? Because they *also* benefit from countless revelatory insights that can't be summoned at will. These insights come from letting thoughts drift in the shower, or daydreaming out of boredom; they won't happen if you're always switching hats. So with BYCombo, you'll keep the artist hat on.
+But the best works of art are *better* than the artists who make them. Why? Because they *also* benefit from countless revelatory insights that can't be summoned at will. These insights come from letting thoughts drift in the shower, or even daydreaming out of boredom; they won't happen if you're always context switching. So with BYCombo, you'll keep the artist hat on.
 
 ### A pittance secures loyalty to the paradigm
 
