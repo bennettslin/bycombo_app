@@ -49,11 +49,11 @@ Political conservatives want socioeconomic *indie*-pendence. Which is fine, sinc
 
 Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when bands struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. With BYCombo, you can now join the opposition, which advocates for the interdependence you've always wanted but didn't know was possible.
 
-### History wants hooks, not hustle
+### History wants hooks, not the hustle
 
-A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to the indie labels. None were interested, and I soon figured out why. It takes time to compose an appealing melody and chord progression, no less so than to build a fanbase— and indie rock is all about the latter. As such, its aesthetic is proudly *defined* by a lack of strong melodies.
+A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested, and I soon figured out why. It takes time to compose an appealing melody and chord progression, no less than it does to build a fanbase— and indie rock is all about the latter. As such, its aesthetic is proudly *defined* by a lack of strong melodies.
 
-But few of us care that a past artist had to hustle, while almost all of us love a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with composing your best hooks. And BYCombo gives you all the time needed to do that.
+But few of us care that a past artist had to hustle, while nearly all of us love a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with composing your best hooks. So BYCombo gives you all the time needed to do that.
 
 ### Insightful revelation requires a single hat
 
