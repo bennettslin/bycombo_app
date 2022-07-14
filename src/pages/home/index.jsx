@@ -45,23 +45,23 @@ In other words, interdependence is waiting for… a rock martyr. But martyrs are
 
 Well… not so fast. As barriers to entry are lowered, the indie gatekeepers grow harried. So artists are *required* to use indie rock's tools, which serve to keep their works bite-sized and uniform with all others. This means the gatekeepers won't ever bother with an ambitious demo from a band who clearly didn't follow the rules.
 
-But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist puts time and energy into building a fanbase, they'll never agree that the best art comes from *not* doing so. And having paid their dues, they're now loyal to a status quo in which all *other* artists struggle as inefficiently as *they* did. Which leads to the heart of the problem:
+But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist puts time and energy into building a fanbase, they'll never agree that the best art comes from *not* doing so. And having paid their dues, they're now loyal to a status quo in which all other artists struggle as inefficiently as *they* did. Which leads to the heart of the problem:
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to regain interdependence— and we'll never hear about it.**
 
 ### A hundred *Yearling's Bobtail*s
 
-The situation might seem hopeless, but don't fret: Some music fans would rather break the rules as well! They dispute the claim that indie rock backs the underdog, since working-class minorities are the *least* eager to lower the barriers to entry. And how do indie artists who rely on charitable support stand *any* chance to make rock history, anyway?
+The situation might seem hopeless. But don't fret: Some music fans would rather break the rules as well! They dispute the claim that indie rock backs the underdog, since working-class minorities are the *least* eager to lower the barriers to entry. And how do indie artists who rely on charitable support stand *any* chance to make rock history, anyway?
 
 ${'  ' || `
 // TODO: Final.
 `}
 
-Given that interdependence is what made rock great in the past, these music fans intuitively understand the concept. And so do some industry insiders— hip hop, for example, has never *not* been interdependent. Meanwhile, some bands would love to sacrifice years of their lifetime to make an ambitious demo of their own. So here's the good news:
+Being familiar with rock history, these music fans grasp that the best art comes from interdependence. And so do some industry insiders— hip hop, for example, has never *not* been interdependent. Meanwhile, how many bands would prefer to depend on a label to build their fanbase, in exchange for promising to make the best art? So here's the great news:
 
-BYCombo allows bands to win over music fans and industry insiders directly who want to regain interdependence for rock to connect.
+BYCombo promotes interdependence by allowing bands to win over music fans and industry insiders directly who want to regain interdependence for rock to connect.
 
-Picture a hundred bands, each advancing the art form with an ambitious demo of their own. In breaking indie rock's rules, they're already making the *disruptive* works of our time. But in trying to regain interdependence, they'll also be making our most *accomplished* works. *This* is the next revolution in rock history!
+Picture a hundred bands, each advancing the art form with an ambitious demo of their own. In breaking indie rock's rules, they're already making the *disruptive* works of our time. But in trying to regain interdependence, they'll also be making our most *accomplished* works. *This* is the next revolution in rock history that we're all waiting for!
             `,
         }}
     />
