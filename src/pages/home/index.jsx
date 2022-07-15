@@ -11,7 +11,7 @@ const Component = () => (
 
 ### Tools… are *rules*
 
-Indie rock loves to back the underdog, which is why it's all about lowering the barriers to entry. To do this, it provides tools that any artist can use to build a fanbase without label support.
+Indie rock loves to back the underdog, which means it's all about lowering the barriers to entry. To do this, it provides tools for artists to build a fanbase without label support.
 
 These tools of empowerment aren't free, though: They cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them; all they do is penalize those who *don't*. But… this is how *rules* work! Which is to say:
 
@@ -19,7 +19,7 @@ These tools of empowerment aren't free, though: They cost the artist's time and 
 
 ### A call for a truce
 
-Hi, I'm Bennett. It's clear to me that the best artists *don't* waste time and energy on self-empowerment; it comes as a byproduct of their worth. So I refuse to use indie rock's tools; I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art.
+Hi, I'm Bennett. It's clear to me that the best artists *don't* waste time and energy on self-empowerment; it comes as a byproduct of their talent. So I refuse to use indie rock's tools; I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
 By *not* building a fanbase, however, I'm seen as lazy and incompetent. And then my band isn't given the same charitable support that puts indie artists ahead— which effectively puts us *behind*. So this is my dilemma:
 
@@ -29,9 +29,9 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 
 ### Return of the rock martyrs
 
-The funny thing is, rock was interdependent once. But as mutual trust broke down, each side took unfortunate yet necessary steps not to need the other. Now, indie artists build a fanbase to show they can walk away from talks with a label. And labels, in turn, just bet on this fanbase instead of the artist's future potential. What a mess! How does an interdependent band fix it?
+The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to depend on the other. So now indie artists build a fanbase to show they can walk away from talks with a label. And labels, in turn, believe in this fanbase instead of the artist's talent. What a mess! How does an interdependent band fix it?
 
-Sadly, it's no longer enough for them to promise the best art. In a world of charitable support, all art is subjective; and in a world of mutual distrust, nothing subjective can be a deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build the fanbase that labels *really* decide on. This leaves only one solution:
+Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective can be a label's deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build the fanbase that labels *really* decide on. This leaves only one solution:
 
 **To regain rock's interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
@@ -47,17 +47,17 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 
 ### A hundred *Yearling's Bobtail*s
 
-The situation might seem hopeless. But don't fret: Some music fans would rather break the rules as well! They dispute the claim that indie rock backs the underdog, since working-class minorities are the *least* eager to lower the barriers to entry. And how do indie artists who rely on charitable support stand *any* chance to make rock history, anyway?
-
 ${'  ' || `
 // TODO: Final.
 `}
 
-These fans know their rock history. And so they intuitively grasp that the best art comes from interdependence. And some industry insiders, such as those in hip hop, have never *not* been interdependent. Meanwhile, how many bands would love to have a label build their fanbase, in exchange for promising to make the best art? So here's the great news:
+The situation might seem hopeless. But don't fret: Some music fans would rather break the rules as well! They dispute the claim that indie rock backs the underdog, since working-class minorities are the *least* eager to lower the barriers to entry. And how do indie artists who rely on charitable support stand *any* chance to make rock history, anyway?
+
+Since interdependence isn't new to rock, these fans intuitively grasp the concept. And some industry insiders, such as those in hip hop, have never *not* been interdependent. Meanwhile, plenty of bands would love to make the best art while a label builds their fanbase. So here's the great news:
 
 **BYCombo will introduce music fans and industry insiders to bands.**
 
-Picture a hundred bands, each with an ambitious demo. By breaking indie rock's rules, they're already making the *disruptive* works of our time. But by working to regain rock's interdependence, they'll also be making our most *accomplished* works. *This* is the next revolution in rock history!
+Picture a hundred bands, each with an ambitious demo. By breaking the rules, they're already making this generation's *disruptive* works. But by breaking *indie rock's* rules in particular, they'll also be making the most *accomplished* works of our time. *This* is the next revolution in rock history!
             `,
         }}
     />
