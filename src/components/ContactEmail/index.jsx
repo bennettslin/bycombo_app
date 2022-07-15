@@ -1,10 +1,11 @@
 import React, { Fragment } from 'react'
+import PropTypes from 'prop-types'
 import cx from 'classnames'
 import './style'
 
 const CONTACT_EMAIL = 'info@bycombo.com'
 
-const ContactEmail = () => (
+const ContactEmail = ({ email }) => (
     <div
         {...{
             className: cx(
@@ -13,7 +14,7 @@ const ContactEmail = () => (
             ),
         }}
     >
-        {CONTACT_EMAIL.split('').map((character, index) => (
+        {(email || CONTACT_EMAIL).split('').map((character, index) => (
             <Fragment {...{ key: index }}>
                 <span {...{ style: { display: 'none' } }}>
                     {String.fromCharCode(
@@ -25,5 +26,9 @@ const ContactEmail = () => (
         ))}
     </div>
 )
+
+ContactEmail.propTypes = {
+    email: PropTypes.string,
+}
 
 export default ContactEmail
