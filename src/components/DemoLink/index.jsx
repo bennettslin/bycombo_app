@@ -8,11 +8,13 @@ import Markdown from '../Markdown'
 import Heading from '../Heading'
 import { getSmartQuotedText } from '../../utils/format/smartQuote'
 import './style'
+import ContactEmail from '../ContactEmail'
 
 const DemoLink = ({
     className,
     band,
     title,
+    email,
     description,
     href,
     src,
@@ -63,6 +65,7 @@ const DemoLink = ({
                 <Markdown>
                     {description}
                 </Markdown>
+                <ContactEmail {...{ email }}/>
             </Flex>
         </Flex>
     </Anchor>
@@ -72,6 +75,7 @@ DemoLink.propTypes = {
     className: PropTypes.string,
     band: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
+    email: PropTypes.string.isRequired,
     description: PropTypes.string.isRequired,
     href: PropTypes.string.isRequired,
     src: PropTypes.string.isRequired,

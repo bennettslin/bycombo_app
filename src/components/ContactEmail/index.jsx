@@ -10,7 +10,11 @@ const ContactEmail = ({ email }) => (
         {...{
             className: cx(
                 'ContactEmail',
-                'font__heading',
+                email ?
+                    'font__finePrint' : [
+                        'ContactEmail__heading',
+                        'font__heading',
+                    ],
             ),
         }}
     >

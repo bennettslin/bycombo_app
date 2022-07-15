@@ -27,13 +27,13 @@
 }
 
 .DemoLink__image {
-    max-width: $length__icon__lg * 2;
+    max-width: $length__icon__lg * 3;
 
     @media (min-width: $breakpoint__sm) {
-        max-width: $length__icon__lg * 3;
+        max-width: $length__icon__lg * 4;
     }
 
     @media (min-width: $breakpoint__md) {
-        max-width: $length__icon__lg * 4;
+        max-width: $length__icon__lg * 5;
     }
 }
