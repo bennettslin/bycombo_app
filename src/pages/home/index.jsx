@@ -48,7 +48,7 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Final.
+// TODO: Ideas are there, just reword.
 `}
 
 The situation might seem hopeless. But don't fret: Some music fans would rather break the rules as well! They dispute the claim that indie rock backs the underdog, since working-class minorities are the *least* eager to lower the barriers to entry. And how do indie artists who rely on charitable support stand *any* chance to make rock history, anyway?

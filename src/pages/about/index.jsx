@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The problem with indie rock
 
-Bennett here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. Which means the interdependence revolution can finally begin!
+Bennett here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people are disillusioned, and some now agree with me. Which means the interdependence revolution can finally begin!
 
 There's just one problem: Indie rock isn't really a *genre* so much as it's a *system*. How do we revolt, when every system preserves a status quo by design? Luckily, I've spent half my life figuring this out as well:
 
@@ -51,7 +51,7 @@ Indie rock is clearly the conservative party of rock— yet its ideals are treat
 
 ### History wants hooks, not hustles
 
-A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose an appealing melody and chord progression, no less than it does to build a fanbase— and indie rock is all about the latter. As such, its aesthetic is proudly *defined* by a lack of strong melodies and chords.
+A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose an appealing melody and chord progression, no less than it does to build a fanbase— and indie rock is all about the latter. As such, its aesthetic is proudly *defined* by a lack of strong melodies.
 
 But few of us care that a past artist hustled to build a fanbase, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with composing your best hooks. So BYCombo gives you all the time you need.
 
@@ -87,16 +87,11 @@ Don't be fooled by indie rock's recent embrace of female and minority artists: T
 
 ### Art needs the blood of martyrs
 
-${'  ' || `
-// TODO: Change this to be more about the problem with self-empowerment, not fair compensation.
-Indie rock loves to celebrate self-empowerment. But self-empowerment is just self-serving, power-seeking behavior in those we're rooting for— which means there are countless ways for a culture that celebrates it to backfire.
-`}
+To be indie is to be self-empowered— but self-empowerment is really just self-serving and power-seeking behavior in those we see as the underdog. Artists of this disposition already have a natural advantage; indie rock then puts them ahead further, allowing them to fully shape our impression of how *all* underdogs behave.
 
-Indie rock is all about fair compensation: Artists must never give more of themselves than they take. Not even voluntarily, since this is a slippery slope that leads to further expectations of sacrifice all around. As such, indie rock has never given the world a rock martyr— and proudly so.
+But as rock gets worse, our times desperately call for a counterculture that promotes the *opposite* disposition. Today's young people want *selfless* bands who'll strive to extend the farthest heights and ends of the art form without hope for compensation. After self-empowerment, in other words… comes the age of martyrdom.
 
-Yet rock *needs* martyrs, because the farthest heights and ends of the art form can only be reached at great personal cost. Let's never go back to the days of artists dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*.
-
-And how about you? Are you ready to sacrifice a serious chunk of lifetime to advance the art form? If so, then apply to BYCombo!
+Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. So if you're ready to sacrifice a serious chunk of lifetime to advance the art form, then apply to BYCombo!
     `,
         }}
     />
