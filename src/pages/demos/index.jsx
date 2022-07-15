@@ -8,13 +8,13 @@ const Component = () => (
         {...{
             body: [
                 `
-# Return of the rock martyrs… and saviors!
+# Return of the rock martyrs… and *saviors*!
 
-**Each band in our registry sacrificed a serious chunk of lifetime— at least 25,000 hours!— to make a demo that advances the art form.**
+**Each band in our registry sacrificed a serious chunk of lifetime— at least 25,000 hours!— to make a demo that objectively advances the art form.**
 
-But remember, the indie gatekeepers will *ignore* these demos; they want artists to follow the rules and build a fanbase instead. So if rock is to be saved as an art form, we need someone *else* to tell the world about our bands. Can this rock savior… be you?
+But remember, the indie gatekeepers will *ignore* these demos; they want artists to follow the rules and build a fanbase instead. So if rock is to be saved as an art form, we need *others* to tell the world about our bands. Can one of these rock saviors… be you?
 
-If you have an offer or opportunity for any of our bands to consider, please contact them directly!
+Please contact any of our bands directly if you have an offer or opportunity for them to consider!
                 `,
                 (
                     <DemoLink

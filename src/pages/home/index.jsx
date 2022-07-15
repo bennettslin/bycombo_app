@@ -33,19 +33,15 @@ The funny thing is, rock was interdependent once. But as trust broke down, each 
 
 Sadly, it's no longer enough for them to promise the best art. In a world of charitable support, all art is subjective; and in a world of mutual distrust, nothing subjective can be a deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build the fanbase that labels *really* decide on. This leaves only one solution:
 
-${'  ' || `
-// TODO: Mention advancing the art form?
-`}
+**To regain rock's interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
-**To regain rock's interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on an *objectively* ambitious demo that couldn't have been made for *any* less effort.**
-
-In other words, interdependence is waiting for… a rock martyr. But martyrs are the ones who make history! So without once complaining, I spent 25,000 hours— *twelve* full-time years— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And by *not* building a fanbase, I was able to invent [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) and the audio webcomic. What label *wouldn't* be happy with this tradeoff?
+In other words, interdependence is waiting for… a rock martyr. But martyrs are the ones who make history! And so I spent 25,000 hours— that's *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And by *not* building a fanbase, I was able to invent [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) and create the audio webcomic. What label *wouldn't* be happy with this tradeoff?
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast. As barriers to entry are lowered, the indie gatekeepers grow harried. So artists are *required* to use indie rock's tools, which serve to keep their works bite-sized and uniform with all others. This means the gatekeepers won't ever bother with an ambitious demo from a band who clearly didn't follow the rules.
+Well… not so fast. As barriers to entry are lowered, the indie gatekeepers grow harried. So artists are *required* to use indie rock's tools, which serve to keep their works bite-sized and uniform with all others. This means the gatekeepers won't *ever* bother with an ambitious demo from a band who clearly didn't follow the rules.
 
-But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist puts time and energy into building a fanbase, they'll never agree that the best art comes from *not* doing so. And having paid their dues, they're now loyal to a status quo in which every artist must struggle as inefficiently as *they* did. Which leads to the heart of the problem:
+But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist puts time and energy into building a fanbase, they'll never agree that the best art comes from *not* doing so. And having paid their dues, they're now loyal to a status quo in which *every* artist has to struggle as inefficiently as *they* did. Which leads to the heart of the problem:
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to regain rock's interdependence— and we'll never hear about it.**
 
@@ -57,11 +53,11 @@ ${'  ' || `
 // TODO: Final.
 `}
 
-Being familiar with rock history, these music fans grasp that the best art comes from interdependence. And so do some industry insiders— hip hop, for example, has never *not* been interdependent. Meanwhile, how many bands would prefer to depend on a label to build their fanbase, in exchange for promising to make the best art? So here's the great news:
+These fans know their rock history. And so they grasp that the best art comes from interdependence. And so do some industry insiders— hip hop, for example, has never *not* been interdependent. Meanwhile, how many bands would love to have a label build their fanbase, in exchange for promising to make the best art? So here's the great news:
 
 BYCombo promotes interdependence by allowing bands to win over music fans and industry insiders directly who want to regain interdependence for rock to connect.
 
-Picture a hundred bands, each advancing the art form with an ambitious demo of their own. In breaking indie rock's rules, they're already making the *disruptive* works of our time. But in trying to regain interdependence, they'll also be making our most *accomplished* works. *This* is the next revolution in rock history that we're all waiting for!
+Picture a hundred bands, each advancing the art form with an ambitious demo of their own. In breaking indie rock's rules, they're already making the *disruptive* works of our time. But to regain rock's interdependence, they'll also be making our most *accomplished* works. *This* is the next revolution in rock history that we're all waiting for!
             `,
         }}
     />
