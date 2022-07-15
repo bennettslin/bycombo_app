@@ -88,9 +88,9 @@ Don't be fooled by indie rock's recent embrace of female and minority artists: T
 ### Art needs the blood of martyrs
 
 ${'  ' || `
-// TODO: Change this.
-`}
+// TODO: Change this to be more about the problem with self-empowerment, not fair compensation.
 Indie rock loves to celebrate self-empowerment. But self-empowerment is just self-serving, power-seeking behavior in those we're rooting for— which means there are countless ways for a culture that celebrates it to backfire.
+`}
 
 Indie rock is all about fair compensation: Artists must never give more of themselves than they take. Not even voluntarily, since this is a slippery slope that leads to further expectations of sacrifice all around. As such, indie rock has never given the world a rock martyr— and proudly so.
 

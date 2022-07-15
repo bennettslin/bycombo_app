@@ -29,7 +29,7 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 
 ### Return of the rock martyrs
 
-The funny thing is, rock was interdependent once. But as trust broke down, each side took unfortunate yet necessary steps not to need the other. So now, indie artists build a fanbase to show they can walk away from talks with a label. And labels, in turn, just bet on this fanbase instead of the artist's future potential. What a mess! How does an interdependent band fix it?
+The funny thing is, rock was interdependent once. But as mutual trust broke down, each side took unfortunate yet necessary steps not to need the other. Now, indie artists build a fanbase to show they can walk away from talks with a label. And labels, in turn, just bet on this fanbase instead of the artist's future potential. What a mess! How does an interdependent band fix it?
 
 Sadly, it's no longer enough for them to promise the best art. In a world of charitable support, all art is subjective; and in a world of mutual distrust, nothing subjective can be a deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build the fanbase that labels *really* decide on. This leaves only one solution:
 
@@ -53,11 +53,11 @@ ${'  ' || `
 // TODO: Final.
 `}
 
-These fans know their rock history. And so they grasp that the best art comes from interdependence. And so do some industry insiders— hip hop, for example, has never *not* been interdependent. Meanwhile, how many bands would love to have a label build their fanbase, in exchange for promising to make the best art? So here's the great news:
+These fans know their rock history. And so they intuitively grasp that the best art comes from interdependence. And some industry insiders, such as those in hip hop, have never *not* been interdependent. Meanwhile, how many bands would love to have a label build their fanbase, in exchange for promising to make the best art? So here's the great news:
 
-BYCombo promotes interdependence by allowing bands to win over music fans and industry insiders directly who want to regain interdependence for rock to connect.
+**BYCombo will introduce music fans and industry insiders to bands.**
 
-Picture a hundred bands, each advancing the art form with an ambitious demo of their own. In breaking indie rock's rules, they're already making the *disruptive* works of our time. But to regain rock's interdependence, they'll also be making our most *accomplished* works. *This* is the next revolution in rock history that we're all waiting for!
+Picture a hundred bands, each with an ambitious demo. By breaking indie rock's rules, they're already making the *disruptive* works of our time. But by working to regain rock's interdependence, they'll also be making our most *accomplished* works. *This* is the next revolution in rock history!
             `,
         }}
     />
