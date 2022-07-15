@@ -57,7 +57,7 @@ Since interdependence isn't new to rock, these fans intuitively grasp the concep
 
 **BYCombo will introduce music fans and industry insiders to bands.**
 
-Picture a hundred bands, each with an ambitious demo. By breaking the rules, they're already making this generation's *disruptive* works. But by breaking *indie rock's* rules in particular, they'll also be making the most *accomplished* works of our time. *This* is the next revolution in rock history!
+Picture a hundred bands, each with an ambitious demo. In breaking the rules, they're already making this generation's *disruptive* works. By regaining rock's interdependence, they'll also be making the most *accomplished* works of our time. *This* is the next revolution in rock history!
             `,
         }}
     />

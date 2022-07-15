@@ -87,11 +87,11 @@ Don't be fooled by indie rock's recent embrace of female and minority artists: T
 
 ### Art needs the blood of martyrs
 
-To be indie is to be self-empowered— but self-empowerment is really just self-serving and power-seeking behavior in those we see as the underdog. Artists of this disposition already have a natural advantage; indie rock then puts them ahead further, allowing them to fully shape our impression of how *all* underdogs behave.
+To be indie is to be self-empowered— but self-empowerment is really just self-serving and power-seeking behavior in those we see as the underdog. Artists of this disposition already have a natural advantage; indie rock then puts them ahead further, allowing them to shape our impression of how *all* underdogs intrinsically behave.
 
 But as rock gets worse, our times desperately call for a counterculture that promotes the *opposite* disposition. Today's young people want *selfless* bands who'll strive to extend the farthest heights and ends of the art form without hope for compensation. After self-empowerment, in other words… comes the age of martyrdom.
 
-Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. So if you're ready to sacrifice a serious chunk of lifetime to advance the art form, then apply to BYCombo!
+Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. So are you ready to sacrifice a serious chunk of lifetime to advance the art form? Then apply to BYCombo!
     `,
         }}
     />
