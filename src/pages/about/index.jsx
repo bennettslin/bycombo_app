@@ -89,14 +89,14 @@ Don't be fooled by indie rock's recent embrace of female and minority artists: T
 
 ${'  ' || `
 // TODO: Change this.
-Indie rock loves to celebrate self-empowerment. But self-empowerment is really just self-serving, power-seeking behavior in those we're rooting for— which means there are many ways it can backfire.
 `}
+Indie rock loves to celebrate self-empowerment. But self-empowerment is really just self-serving, power-seeking behavior in those we're rooting for— which means there are many ways it can backfire.
 
 Indie rock is all about fair compensation: Artists must never give more of themselves than they take. Not even voluntarily, since this is a slippery slope that leads to further expectations of sacrifice all around. As such, indie rock has never given the world a rock martyr— and proudly so.
 
 Yet rock *needs* martyrs, because the farthest heights and ends of the art form can only be reached at great personal cost. Let's never go back to the days of artists dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*.
 
-And how about you? Are *you* ready to sacrifice a serious chunk of lifetime to advance the art form? If so, then apply to BYCombo!
+And how about you? Are you ready to sacrifice a serious chunk of lifetime to advance the art form? If so, then apply to BYCombo!
     `,
         }}
     />

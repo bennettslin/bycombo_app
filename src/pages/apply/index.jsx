@@ -19,9 +19,9 @@ Perhaps you're one of the following:
 * An artist of some other medium: animator, web developer…
 * A creator with a bold vision for a musical project
 
-You'll pledge to be kind, advance the art form, and help future BYCombo bands. There are no contracts or fees.
+You'll pledge to be kind; to advance the art form; and to help future BYCombo bands. There are no contracts or fees.
 
-Once we put you in a band with three or four others— subject to everyone's approval— you'll all relocate to Los Angeles or another major city. Each of you will then put in enough time on your band project for the sum total to be 25,000 hours.
+We'll put you in a prospective band with three or four others. You'll review each other's links and videos, then meet online. Upon everyone's approval, you'll all relocate to Los Angeles or another major city. Each of you will then put in enough time on your band project for the sum total to be at least 25,000 hours.
 
 ### What we'll do for you
 
@@ -36,7 +36,7 @@ Finally, we'll add your demo to our public registry. With your help, BYCombo wil
 Email us the following information, and we'll be in touch:
 
 * Your name, email, and pronouns
-* Your city, and where you can relocate if not Los Angeles
+* Your city, and where you can relocate, if not Los Angeles
 * Your musical and aesthetic preferences— or dealbreakers
 * Your artistic talents and corresponding skill levels
 * Your bold ideas for a musical project, if any
@@ -44,7 +44,7 @@ Email us the following information, and we'll be in touch:
 
 If you're co-applying with others, please send a single email with each person's information. If you have special circumstances that need to be considered, please let us know! We'll try to make things work.
 
-**Women and minorities are highly encouraged to apply!**
+Women and minorities are encouraged to apply!
             `,
         }}
     />
