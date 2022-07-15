@@ -53,7 +53,7 @@ Indie rock is clearly the conservative party of rock— yet its ideals are treat
 
 A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested, and I soon figured out why. It takes time to compose an appealing melody and chord progression, no less than it does to build a fanbase— and indie rock is all about the latter. As such, its aesthetic is proudly *defined* by a lack of strong melodies and chords.
 
-But few of us care that a past artist hustled to build a fanbase, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with composing your best hooks. So BYCombo gives you all the time you'll need to do that.
+But few of us care that a past artist hustled to build a fanbase, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with composing your best hooks. So BYCombo gives you all the time you need to do that.
 
 ### Insightful revelation requires a single hat
 
