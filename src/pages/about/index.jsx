@@ -75,7 +75,7 @@ Revolutions may *start* with powerless outsiders, but they're *spread* by powerf
 
 ### Responsible revolutions plan for runaway effects
 
-Indie rock is a culture of self-reliance that celebrates artists who bypass the middleman. But if the middleman's job is simple enough for anyone to do, then wealthy artists can just pay *others* to do it— including, ironically, former middlemen. As a result, indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
+Indie rock is a culture of self-reliance that celebrates artists who bypass the middleman. But if the middleman's job is simple enough for anyone to do, then wealthy artists can just pay *others* to do it— including, ironically, former middlemen. And so indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
 Won't BYCombo see a runaway effect as well? Yes, but ours is foreseeably a race to the *top*. Taking our approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— yet this pretty much *guarantees* they'll be remembered by history!
 
@@ -87,9 +87,9 @@ Don't be fooled by indie rock's recent embrace of female and minority artists: T
 
 ### Art needs the blood of martyrs
 
-To be indie is to be self-empowered— but self-empowerment is really just self-serving and power-seeking behavior in those we see as the underdog. Artists of this disposition already have a natural advantage; indie rock then puts them ahead further, allowing them to fully shape our impression of how *all* underdogs behave.
+Being indie means being self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we see as underdogs. Artists with this disposition already have a natural advantage; indie rock then puts them even further ahead. As a result, this generation has never known any competing notion of how an underdog might behave.
 
-But as rock gets worse, our times desperately call for a counterculture that promotes the *opposite* disposition. Today's young people want *selfless* bands who'll strive to extend the farthest heights and ends of the art form without hope for compensation. In other words, after self-empowerment… comes the age of martyrdom.
+But as rock gets worse, our times desperately call for a counterculture that promotes the *opposite* disposition. Young people today want *selfless* bands who'll strive to extend the farthest heights and ends of the art form without thought for compensation. After self-empowerment, in other words… comes the age of martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. So are you ready to sacrifice a serious chunk of lifetime to advance the art form? Then apply to BYCombo!
     `,

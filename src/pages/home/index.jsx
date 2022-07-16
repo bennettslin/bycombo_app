@@ -53,7 +53,7 @@ ${'  ' || `
 
 The situation might seem hopeless. But don't fret: Some music fans would rather break the rules as well! They dispute the claim that indie rock backs the underdog, since working-class minorities are the *least* eager to lower the barriers to entry. And how do indie artists who rely on charitable support stand *any* chance to make rock history, anyway?
 
-Since interdependence isn't new to rock, these fans intuitively grasp the concept. And some industry insiders, such as those in hip hop, have never *not* been interdependent. Meanwhile, plenty of bands would love to make the best art while a label builds their fanbase. So here's the great news:
+Interdependence isn't new to rock, so these fans intuitively grasp the concept. And some industry insiders, such as those in hip hop, have never *not* been interdependent. Meanwhile, plenty of bands would love to make the best art while a label builds their fanbase. So here's the great news:
 
 **BYCombo will introduce music fans and industry insiders to bands.**
 
