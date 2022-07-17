@@ -11,7 +11,7 @@ Bennett here! I've spent half my life arguing that indie rock has made music wor
 
 There's just one problem: Indie rock isn't really a *genre* so much as it's a *system*. How do we revolt, when every system preserves a status quo by design? Luckily, I've spent half my life figuring this out as well:
 
-**BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then keep in our public registry to sustain an anti-indie counterculture.**
+**BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll keep in a public registry to sustain an anti-indie counterculture.**
 
 ### The revolution will *not* be decentralized
 
@@ -33,7 +33,7 @@ To make consequential art, a band needs to develop exceptional strengths. But th
 
 **Why a public registry?**
 
-A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried for this task. With our registry, the public can discover such revolutionary works on their own. This then allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
+A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried for this task. With a registry, the public can discover such revolutionary works on their own. This then allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
 
 **Why serious chunks of lifetime?**
 
@@ -51,7 +51,7 @@ Indie rock is clearly the conservative party of rock— yet its ideals are treat
 
 ### History wants hooks, not hustles
 
-A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose an appealing melody and chord progression, no less than it does to build a fanbase— and indie rock is all about the latter. As such, its aesthetic is proudly *defined* by a lack of strong melodies.
+A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression, no less than it does to build a fanbase— and indie rock is all about the latter. As such, its aesthetic is proudly *defined* by a lack of widespread appeal.
 
 But few of us care that a past artist hustled to build a fanbase, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with composing your best hooks. So BYCombo gives you all the time you need.
 
@@ -65,19 +65,19 @@ But the best works of art are *better* than the artists who make them. Why? Beca
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, with *no one* involved taking any risks.
 
-Because indie artists strive to get paid from the get-go, they're instantly beholden to the current paradigm, which promises to empower them. For this reason, BYCombo encourages our bands to embrace being powerless and unpaid early on: While you have nothing to lose, what paradigms are you free to challenge?
+Because indie artists strive to get paid from the get-go, they're instantly beholden to the current paradigm, which promises to empower them. For this reason, BYCombo encourages its bands to embrace being powerless and unpaid early on: While you have nothing to lose, what paradigms are you free to challenge?
 
 ### Masses join revolutions *last*
 
 Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution will be nipped in the bud, because the masses have *never* accepted a paradigm change on their own.
 
-Revolutions may *start* with powerless outsiders, but they're *spread* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. While this may not jibe with indie rock's anti-establishment fantasy, it's the historical truth. So BYCombo is happy to see our bands partner with powerful insiders.
+Revolutions may *start* with powerless outsiders, but they're *spread* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. While this may not jibe with indie rock's anti-establishment fantasy, it's the historical truth. So BYCombo is happy to see its bands partner with powerful insiders.
 
 ### Responsible revolutions plan for runaway effects
 
 Indie rock is a culture of self-reliance that celebrates artists who bypass the middleman. But if the middleman's job is simple enough for anyone to do, then wealthy artists can just pay *others* to do it— including, ironically, former middlemen. And so indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
-Won't BYCombo see a runaway effect as well? Yes, but ours is foreseeably a race to the *top*. Taking our approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— yet this pretty much *guarantees* they'll be remembered by history!
+Won't BYCombo see a runaway effect as well? Yes, but it's foreseeably a race to the *top*. Taking the BYCombo approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— yet this basically *guarantees* they'll be remembered by history!
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
@@ -87,9 +87,9 @@ Don't be fooled by indie rock's recent embrace of female and minority artists: T
 
 ### Art needs the blood of martyrs
 
-Being indie means being self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we see as underdogs. Artists of this disposition already *start* with the advantage; indie rock's charitable support then puts them ahead *further*. So for the past generation, no other notion of how an underdog might behave has been able to take hold.
+Being indie means being self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we root for. Artists of this nature already *start* with an advantage; our charitable support then puts them ahead *further*. So fans give and artists take, granting indie rock a higher level of prestige than what the art by itself would merit.
 
-But as rock gets worse, our times desperately call for a counterculture that roots for the *opposite* disposition. Young people today want *selfless* bands, who'll strive to extend the farthest heights and ends of the art form with *no* thought for compensation. After self-empowerment, in other words… comes the age of martyrdom.
+But it's not just that future generations won't cooperate with this dynamic. As rock gets worse, these desperate times call for *bands* to be the ones who endlessly give, as they strive to extend the farthest heights and ends of the art form with no thought for compensation. After self-empowerment, in other words… comes the age of martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. So are you ready to sacrifice a serious chunk of lifetime to advance the art form? Then apply to BYCombo!
     `,
