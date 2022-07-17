@@ -53,11 +53,11 @@ ${'  ' || `
 
 The situation might seem hopeless. But don't worry: Some music fans would rather break the rules as well! They dispute the claim that indie rock backs the underdog, since working-class minorities are the *least* eager to lower the barriers to entry. And how do indie artists who rely on charitable support stand *any* chance to make rock history, anyway?
 
-Given that rock was interdependent once, these fans already grasp the concept. And some industry insiders have never *not* been interdependent— hip hop, for example, would love to get into rock. They're happy to hear an ambitious demo from a band who broke indie rock's rules— as long as their time isn't being wasted. So here's the great news:
+These fans know their rock history; they get how interdependence works. And some industry insiders have *always* been interdependent. Plenty of them would love to hear an ambitious demo from a band who broke the rules— as long as their time isn't being wasted. So here's the great news:
 
-**BYCombo allows interdependent bands to earn the trust of music fans and industry insiders by keeping their demo in a public registry, where the one barrier to entry is the amount of lifetime spent to advance the art form.**
+**BYCombo allows interdependent bands to earn the trust of music fans and industry insiders, by storing their demo in a public registry where the one barrier to entry is the amount of lifetime spent to advance the art form.**
 
-Picture a hundred bands, each with an ambitious demo. In breaking the rules, they're already making the *disruptive* works of our time. But by regaining rock's interdependence, they'll also be making our most *accomplished* works. *This* is the next revolution in rock history!
+Picture a hundred bands, each with an ambitious demo. In breaking indie rock's rules, they're already making the *disruptive* works of our time. But by regaining rock's interdependence, they'll also be making our most *accomplished* works. *This* is the next revolution in rock history!
             `,
         }}
     />

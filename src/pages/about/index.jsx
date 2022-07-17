@@ -11,7 +11,7 @@ Bennett here! I've spent half my life arguing that indie rock has made music wor
 
 There's just one problem: Indie rock isn't really a *genre* so much as it's a *system*. How do we revolt, when every system preserves a status quo by design? Luckily, I've spent half my life figuring this out as well:
 
-**BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll keep in a public registry to sustain an anti-indie counterculture.**
+**BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll store in a public registry to sustain an anti-indie counterculture.**
 
 ### The revolution will *not* be decentralized
 
@@ -87,13 +87,13 @@ Don't be fooled by indie rock's recent embrace of female and minority artists: T
 
 ### Art needs the blood of martyrs
 
-Being indie means being self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we root for. It's not inherently noble; and worse, such artists *already* have the upper hand. Empowering them serves no purpose but to keep us from rooting for anyone else. So for the past generation… we haven't.
-
 ${'  ' || `
-// TODO: Make shortened version make sense.
+// TODO: Ideas are all there, just need to work on wording. Another word for "serve"?
 `}
 
-But the farthest heights and ends of the art form can *never* be reached by self-serving power seekers; the personal costs are too great. And with rock now at its worst, young people are desperate to root for selfless bands who *will* make the sacrifice. After self-empowerment, in other words… comes the age of martyrdom.
+Being indie means being self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we root for; it's not inherently noble. Even worse, such artists *already* have the upper hand, so indie rock's celebration of them only serves to keep us from rooting for anyone else.
+
+But worst of all, indie artists will never try to reach rock's farthest heights and ends, because the personal costs are too great for those who just serve themselves. And so the art form can advance only if the next generation roots for *selfless* bands who'll happily make the sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. So are you ready to sacrifice a serious chunk of lifetime to advance the art form? Then apply to BYCombo!
     `,
