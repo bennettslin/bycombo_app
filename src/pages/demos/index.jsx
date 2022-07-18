@@ -10,7 +10,7 @@ const Component = () => (
                 `
 # Return of the rock martyrs… and *saviors*!
 
-**Each band in our registry sacrificed a serious chunk of lifetime— at least 25,000 hours!— to make a demo that advances the art form.**
+**Each band in this registry sacrificed a serious chunk of lifetime— at least 25,000 hours!— to make a demo that advances the art form.**
 
 ${'  ' || `
 // TODO: Think more about price of entry.
