@@ -8,7 +8,7 @@ const Component = () => (
             body: `
 # Support the interdependence revolution!
 
-If you're a record label or industry insider who'd like to be among the first to hear every demo, please get in touch!
+If you're an industry insider who'd like to be among the first to hear every demo, please get in touch! In exchange for this privilege, you'll promise to give each one fair consideration and a timely response.
 
 If you'd like to work for BYCombo in an administrative role, let us know what you have in mind. We're happy to get all the help we can!
 

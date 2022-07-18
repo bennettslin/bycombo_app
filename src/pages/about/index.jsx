@@ -33,9 +33,13 @@ To make consequential art, a band needs to develop exceptional strengths. But th
 
 **Why a public registry?**
 
-A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried for this task. With a registry, the public can discover such revolutionary works on their own. This then allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
+A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried for this task. With BYCombo's registry, the public can discover such revolutionary works on their own. This then allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
 
 **Why serious chunks of lifetime?**
+
+${'  ' || `
+// TODO: Think more about price of entry. Centralized force.
+`}
 
 Going forward, time spent making art will be the best predictor of artistic worth. And a lifetime is all you have; once that chunk is gone, it's *gone*. Which means there's nothing of greater value that an interdependent band can sacrifice to gain the public's trust.
 
@@ -87,9 +91,9 @@ Don't be fooled by indie rock's recent embrace of female and minority artists: T
 
 ### Art needs the blood of martyrs
 
-Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we root for; it's not inherently noble. And worse, such artists *already* have the upper hand. So celebrating them has no other effect than to keep us from rooting for anyone else.
+Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we root for; it's not inherently noble. Not only that, such artists *already* have the upper hand. So all indie rock really does is to keep us from rooting for anyone else.
 
-The problem is, indie artists will never strive to bring rock to new heights and ends; for those like them, who only serve themselves, the personal costs are too great. Which means the art form can advance only if the next generation roots for *selfless* bands who'll readily make the sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
+And this is a problem, because indie artists will *never* strive to take rock to new heights; the personal costs are too great for those like them, who only serve themselves. If the art form is ever to advance again, we need to root for *selfless* bands, who'll readily make the sacrifice. After self-empowerment, in other words… comes the age of martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. So are you ready to sacrifice a serious chunk of lifetime to advance the art form? Then apply to BYCombo!
     `,

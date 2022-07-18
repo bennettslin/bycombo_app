@@ -12,6 +12,10 @@ const Component = () => (
 
 **Each band in our registry sacrificed a serious chunk of lifetime— at least 25,000 hours!— to make a demo that advances the art form.**
 
+${'  ' || `
+// TODO: Think more about price of entry.
+`}
+
 But remember, the indie gatekeepers will *ignore* these demos; they want artists to follow the rules and build a fanbase instead. So if rock is to be saved as an art form, we need *others* to tell the world about our bands. Can one of these rock saviors… be you?
 
 Please contact any of our bands directly if you have an offer or opportunity for them to consider!
