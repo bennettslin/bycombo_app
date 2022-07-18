@@ -87,9 +87,9 @@ Don't be fooled by indie rock's recent embrace of female and minority artists: T
 
 ### Art needs the blood of martyrs
 
-Being indie means being self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we root for; it's not inherently noble. And worse, such artists *already* have the upper hand. So indie rock's sole reason for elevating them is to keep us from rooting for anyone else.
+Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we root for; it's not inherently noble. And worse, such artists *already* have the upper hand. So celebrating them has no other effect than to keep us from rooting for anyone else.
 
-But indie artists will never try to extend rock's farthest heights and ends; the personal costs are too great for those who just serve themselves. This means the art form can advance only if the next generation roots for *selfless* bands who'll happily make the sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
+The problem is, indie artists will never strive to bring rock to new heights and ends. For those like them, who only serve themselves, the personal costs are too great. Which means the art form can advance only if the next generation roots for *selfless* bands who'll happily make the sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. So are you ready to sacrifice a serious chunk of lifetime to advance the art form? Then apply to BYCombo!
     `,
