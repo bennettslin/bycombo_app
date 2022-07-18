@@ -53,7 +53,7 @@ Indie rock is clearly the conservative party of rock— yet its ideals are treat
 
 A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression, no less than it does to build a fanbase— and indie rock prioritizes the latter. As such, its aesthetic is proudly *defined* by a lack of widespread appeal.
 
-But few of us care that a past artist hustled to build a fanbase, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with composing your best hooks. So BYCombo gives you all the time you need.
+Yet few of us care that a past artist hustled to build a fanbase, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with composing your best hooks. So BYCombo gives you all the time you need.
 
 ### Insightful revelation requires a single hat
 
@@ -89,7 +89,7 @@ Don't be fooled by indie rock's recent embrace of female and minority artists: T
 
 Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we root for; it's not inherently noble. And worse, such artists *already* have the upper hand. So celebrating them has no other effect than to keep us from rooting for anyone else.
 
-The problem is, indie artists will never strive to bring rock to new heights and ends. For those like them, who only serve themselves, the personal costs are too great. Which means the art form can advance only if the next generation roots for *selfless* bands who'll happily make the sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
+The problem is, indie artists will never strive to bring rock to new heights and ends; for those like them, who only serve themselves, the personal costs are too great. Which means the art form can advance only if the next generation roots for *selfless* bands who'll readily make the sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. So are you ready to sacrifice a serious chunk of lifetime to advance the art form? Then apply to BYCombo!
     `,
