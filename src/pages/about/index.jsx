@@ -17,11 +17,11 @@ There's just one problem: Indie rock isn't really a *genre* so much as it's a *s
 
 **Why an anti-indie counterculture?**
 
-There hasn't been a counterculture for a while, yet they're needed to protect dangerous ideas. Meanwhile, even as indie rock has made music worse, society has adopted its good intentions. But… what if rock has gotten worse *because* of all this well-intentioned support for indie artists? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
+Countercultures are needed to protect dangerous ideas, and there hasn't been a counterculture for a while. Meanwhile, even as indie rock has made music worse, we've all adopted its good intentions. But… what if rock has gotten worse *because* of all our well-intentioned support for indie artists? This is a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
 **Why historical consequence? Why BYCombo?**
 
-Critical acclaim can be inflated, which makes it meaningless. What *can't* be hacked is the historical canon honored by future generations. No indie artist today will likely be inducted, and people can sense this; *that's* why they gripe that rock is getting worse.
+Critical acclaim can be inflated, which makes it meaningless. What *can't* be hacked is the historical canon revered by future generations. No indie artist today will likely be inducted, and people can sense this; *that's* why they gripe that rock is getting worse.
 
 Yes, talent is out there. But making history means competing with a past that *didn't* benefit from anyone's good intentions. This calls for explicit intent and massive effort, and only a centralized force like BYCombo can light this fire in today's artists.
 
@@ -39,7 +39,7 @@ A demo that requires massive effort to *make* will also take more effort to *und
 
 **Why serious chunks of lifetime?**
 
-By lowering the barriers to entry, indie rock has lost the public's trust. But this trend can't be reversed, because the system is decentralized. What rock needs now, then, is a centralized force like BYCombo to enforce a steep *cost* of entry. And this cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime.
+By lowering the barriers to entry, indie rock has lost the public's trust. But this trend can't be reversed now, because the system is decentralized. What rock needs, then, is a centralized force like BYCombo to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime.
 
 After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to earn the public's trust.
 
