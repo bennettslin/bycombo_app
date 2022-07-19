@@ -33,7 +33,7 @@ To make consequential art, a band needs to develop exceptional strengths. But th
 
 **Why a public registry?**
 
-A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried for this task. With BYCombo's registry, the public can discover such revolutionary works on their own. This then allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
+A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried for this task. With BYCombo's registry, the public can discover these revolutionary works on their own. This then allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
 
 **Why serious chunks of lifetime?**
 
@@ -41,7 +41,9 @@ ${'  ' || `
 // TODO: Think more about price of entry. Centralized force.
 `}
 
-Going forward, time spent making art will be the best predictor of artistic worth. And a lifetime is all you have; once that chunk is gone, it's *gone*. Which means there's nothing of greater value that an interdependent band can sacrifice to gain the public's trust.
+By lowering the barriers to entry, indie rock has lost the public's trust. But because the system is decentralized, this trend can't be reversed. What rock needs now, then, is for a centralized force like BYCombo to enforce its own *cost* of entry. And this cost can't be arbitrary or artificial, which leaves only one possibility: a serious chunk of lifetime.
+
+After all, a lifetime is all you have; once that chunk is gone, it's *gone*! So there's nothing more precious that a band can sacrifice to gain the public's trust.
 
 **Why has indie rock made music worse?**
 
@@ -79,7 +81,7 @@ Revolutions may *start* with powerless outsiders, but they're *spread* by powerf
 
 ### Responsible revolutions plan for runaway effects
 
-Indie rock is a culture of self-reliance that celebrates artists who bypass the middleman. But if the middleman's job is simple enough for anyone to do, then wealthy artists can just pay *others* to do it— including, ironically, former middlemen. And so indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
+Indie rock is all about rewarding artists who bypass the middleman. But if the middleman's job is simple enough for artists to do themselves, then any wealthy artist can just pay *others* to do it— including, ironically, former middlemen! And so indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
 Won't interdependence see a runaway effect as well? Yes, but it's foreseeably a race to the *top*. Taking the BYCombo approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— yet this basically *guarantees* they'll be remembered by history!
 
