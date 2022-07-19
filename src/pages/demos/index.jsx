@@ -12,10 +12,6 @@ const Component = () => (
 
 **To earn your trust as a listener, BYCombo enforces a steep cost of entry. Each band in this registry sacrificed a serious chunk of lifetime— at least 25,000 hours!— to make a demo that objectively advances the art form.**
 
-${'  ' || `
-// TODO: Think more about price of entry.
-`}
-
 But remember, the indie gatekeepers will *ignore* these demos. So if rock is to be saved as an art form, we need *others* to tell the world about our bands. Can one of these rock saviors… be you?
 
 Please contact any of our bands directly if you have an offer or opportunity for them to consider!

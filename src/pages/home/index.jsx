@@ -55,6 +55,10 @@ ${'  ' || `
 
 These fans know that rock was interdependent once. And industry insiders in other genres, like hip hop, have *only* worked interdependently. So plenty out there would love to hear an ambitious demo that breaks indie rock's rules— so long as their time isn't being wasted. Well, I have great news:
 
+${'  ' || `
+// TODO: Mention directly?
+`}
+
 **Interdependent bands can earn the trust of industry insiders and music fans by adding their demo to BYCombo's registry, for which the cost of entry is steep: a serious chunk of lifetime spent to advance the art form.**
 
 Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time. Now to regain interdependence, they'll also be making our generation's most *accomplished* works. *This* is the next revolution in rock history!
