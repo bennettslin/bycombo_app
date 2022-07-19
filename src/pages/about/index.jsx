@@ -37,13 +37,9 @@ A demo that requires massive effort to *make* will also take more effort to *und
 
 **Why serious chunks of lifetime?**
 
-${'  ' || `
-// TODO: Think more about price of entry. Centralized force.
-`}
+By lowering the barriers to entry, indie rock has lost the public's trust. But because the system is decentralized, this trend can't be reversed. What rock needs now, then, is a centralized force like BYCombo to *mandate* a cost of entry. The cost can't be arbitrary or artificial, leaving only one possibility: a serious chunk of lifetime.
 
-By lowering the barriers to entry, indie rock has lost the public's trust. But because the system is decentralized, this trend can't be reversed. What rock needs now, then, is for a centralized force like BYCombo to enforce its own *cost* of entry. And this cost can't be arbitrary or artificial, which leaves only one possibility: a serious chunk of lifetime.
-
-After all, a lifetime is all you have; once that chunk is gone, it's *gone*! So there's nothing more precious that a band can sacrifice to gain the public's trust.
+After all, a lifetime is all you have; once that chunk is gone, it's *gone*! And so there's nothing more precious that a band can sacrifice to gain the public's trust.
 
 **Why has indie rock made music worse?**
 

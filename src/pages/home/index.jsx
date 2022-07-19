@@ -31,7 +31,7 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 
 The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to depend on the other. Indie artists now build a fanbase to show they can walk away from talks with a label. And labels, in turn, just bet on this fanbase instead of the artist's talent. Such a mess! So what's an interdependent band to do?
 
-Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective can be a label's deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build the fanbase that labels can objectively measure. This leaves only one solution:
+Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective can be a label's deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build a fanbase that labels can objectively measure. This leaves only one solution:
 
 **To regain interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
@@ -39,7 +39,7 @@ In other words, interdependence is waiting for… a rock martyr. But martyrs are
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast. As barriers to entry are lowered, the indie gatekeepers grow harried. So artists are *required* to use indie rock's tools, which serve to keep their works bite-sized and uniform with all others. This means the gatekeepers won't *ever* bother with an ambitious demo from a band who clearly didn't follow the rules.
+Well… not so fast. As barriers to entry are lowered, the indie gatekeepers grow harried. And so they'll always double down on requiring artists to use indie rock's tools, which serve to keep every work bite-sized and uniform with all others. This means the gatekeepers won't *ever* bother with an ambitious demo from a band who clearly didn't follow the rules.
 
 But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist puts time and energy into building a fanbase, they'll never agree that the best art comes from *not* doing so. And having paid their dues, they're now loyal to a status quo in which *every* artist has to struggle as inefficiently as *they* did. Which leads to the heart of the problem:
 
