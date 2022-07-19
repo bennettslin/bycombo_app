@@ -49,9 +49,13 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 
 The situation isn't hopeless, though: Some music fans would rather break the rules as well! They dispute the claim that indie rock backs the underdog, since working-class minorities are the *least* eager to lower the barriers to entry. And how do indie artists who rely on charitable support stand *any* chance to make rock history, anyway?
 
+${'  ' || `
+// TODO: Mention losing trust because of lowered barriers to entry here?
+`}
+
 These fans know that rock was interdependent once. And industry insiders in other genres, like hip hop, have *only* worked interdependently. So plenty out there would love to hear an ambitious demo that breaks indie rock's rules— so long as their time isn't being wasted. Well, I have great news:
 
-**Interdependent bands can earn the trust of industry insiders and music fans by adding their demo to BYCombo's registry, for which the cost of entry is a serious chunk of lifetime spent to advance the art form.**
+**Interdependent bands can earn the trust of industry insiders and music fans by adding their demo to BYCombo's registry, for which the cost of entry is steep: a serious chunk of lifetime spent to advance the art form.**
 
 Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time. Now to regain interdependence, they'll also be making our generation's most *accomplished* works. *This* is the next revolution in rock history!
             `,

@@ -10,7 +10,7 @@ const Component = () => (
                 `
 # Return of the rock martyrs… and *saviors*!
 
-**Each band in this registry sacrificed a serious chunk of lifetime— at least 25,000 hours!— to make a demo that advances the art form.**
+**To earn your trust as a listener, BYCombo enforces a steep cost of entry. Each band in this registry sacrificed a serious chunk of lifetime— at least 25,000 hours!— to make a demo that objectively advances the art form.**
 
 ${'  ' || `
 // TODO: Think more about price of entry.

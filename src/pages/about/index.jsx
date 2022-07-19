@@ -21,6 +21,10 @@ There hasn't been a counterculture for a while, yet they're needed to protect da
 
 **Why historical consequence? Why BYCombo?**
 
+${'  ' || `
+// TODO: Mention advancing the art form?
+`}
+
 When people gripe about rock getting worse, they're *really* griping that history no longer gets made. Yes, talent is still out there— but competing with the past now calls for explicit intent and massive effort. And only a centralized force like BYCombo can light this fire in today's artists.
 
 **Why assembled bands?**
@@ -37,9 +41,9 @@ A demo that requires massive effort to *make* will also take more effort to *und
 
 **Why serious chunks of lifetime?**
 
-By lowering the barriers to entry, indie rock has lost the public's trust. But because the system is decentralized, this trend can't be reversed. What rock needs now, then, is a centralized force like BYCombo to *mandate* a cost of entry. The cost can't be arbitrary or artificial, leaving only one possibility: a serious chunk of lifetime.
+By lowering the barriers to entry, indie rock has lost the public's trust. But because the system is decentralized, this trend can't be reversed. What rock needs now, then, is a centralized force like BYCombo to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, leaving only one possibility: a serious chunk of lifetime.
 
-After all, a lifetime is all you have; once that chunk is gone, it's *gone*! And so there's nothing more precious that a band can sacrifice to gain the public's trust.
+After all, a lifetime is all you have; once that chunk is gone, it's *gone*! And so there's nothing more precious that a band can sacrifice to earn the public's trust.
 
 **Why has indie rock made music worse?**
 
