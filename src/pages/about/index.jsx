@@ -21,7 +21,7 @@ Countercultures are needed to protect dangerous ideas, and there hasn't been a c
 
 **Why historical consequence? Why BYCombo?**
 
-Critical acclaim can be inflated, which makes it meaningless. What *can't* be hacked is the historical canon— and future generations just aren't likely to induct any of today's indie artists. People sense this; that's why they gripe that rock is getting worse.
+Critical acclaim can be inflated, which makes it worthless. What *can't* be hacked is the historical canon— and future generations aren't likely to induct any of today's indie artists. People sense this; that's why they gripe that rock is getting worse.
 
 Yes, talent is still out there. But making history means competing with past artists who *didn't* benefit from anyone's good intentions. This will require massive effort— and only a centralized force like BYCombo can light this fire in today's artists.
 
@@ -35,13 +35,13 @@ To make consequential art, a band needs to develop exceptional strengths. But th
 
 **Why a public registry?**
 
-A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried for this task. With BYCombo's registry, the public can discover these revolutionary works on their own. This then allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
+A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried for this task. With BYCombo's registry, the public can discover these revolutionary works on their own. This also allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
 
 **Why serious chunks of lifetime?**
 
-When indie rock lowered the barriers to entry, it lost the public's trust in *all* aspiring artists. And this trend can't be reversed now, because the system is decentralized. What rock needs, then, is a centralized force like BYCombo to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime.
+When indie rock lowered the barriers to entry, it lost the public's trust for *all* aspiring artists. And this trend can't be reversed now, because the system is decentralized. What rock needs, then, is a centralized force like BYCombo to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime.
 
-After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to earn back the public's trust.
+Because a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to win back the public's trust.
 
 **Why has indie rock made music worse?**
 
@@ -67,7 +67,7 @@ But the best works of art are *better* than the artists who make them. Why? Beca
 
 ### A pittance secures loyalty to the paradigm
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, with *no one* involved taking any risks.
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, with *no one* taking any risks.
 
 Because indie artists strive to get paid from the get-go, they're instantly beholden to the current paradigm, which promises to empower them. For this reason, BYCombo encourages its bands to embrace being powerless and unpaid early on: While you have nothing to lose, what paradigms are you free to challenge?
 
