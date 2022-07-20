@@ -21,7 +21,7 @@ Perhaps you're one of the following:
 
 You'll pledge to be kind; to advance the art form; and to help future BYCombo bands. There are no fees whatsoever.
 
-We'll set you up with three or four prospective bandmates. You'll review each other's links and videos, then meet online. Once everyone agrees to form a band, you'll all relocate to Los Angeles or another major city. After you've settled in, each of you will then put in enough time on your band project for the sum total to be at least 25,000 hours.
+We'll set you up with three or four prospective bandmates. You'll review each other's links and videos, then meet online. Once everyone agrees to form a band, you'll all relocate to Los Angeles or another major city. After you've settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
 
 ### What we'll do for you
 

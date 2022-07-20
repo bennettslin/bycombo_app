@@ -17,13 +17,13 @@ There's just one problem: Indie rock isn't really a *genre* so much as it's a *s
 
 **Why an anti-indie counterculture?**
 
-Countercultures are needed to protect dangerous ideas, and there hasn't been a counterculture for a while. Meanwhile, even as indie rock has made music worse, we've all adopted its good intentions. But… what if rock has gotten worse *because* of our well-intentioned support for indie artists? This is a dangerous idea, yet it might be rock's only hope— so let's protect it.
+Countercultures are needed to protect dangerous ideas, and there hasn't been a counterculture for a while. Meanwhile, even as indie rock has made music worse, we've all adopted its good intentions. But… what if rock has gotten worse *because* of all our well-intentioned support for indie artists? This is a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
 **Why historical consequence? Why BYCombo?**
 
 Critical acclaim can be inflated, which makes it worthless. What *can't* be hacked is the historical canon— and future generations aren't likely to induct any of today's indie artists. People sense this; that's why they gripe that rock is getting worse.
 
-Yes, talent is still out there. But making history means competing with past artists who *didn't* benefit from anyone's good intentions. This will require massive effort— and only a centralized force like BYCombo can light this fire in today's artists.
+Yes, talent is still out there. But making history means competing with past artists who *didn't* benefit from anyone's good intentions. This will require massive effort— and only a centralized force like BYCombo can light a fire in today's artists.
 
 **Why assembled bands?**
 
@@ -81,7 +81,7 @@ Revolutions may *start* with powerless outsiders, but they're *spread* by powerf
 
 Indie rock is all about rewarding artists who bypass the middleman. But if the middleman's job is simple enough for any artist to do themselves, then a wealthy artist can just pay someone *else* to do it— including, ironically, a former middleman! And so indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
-Yes, interdependence will see a runaway effect as well. But it's foreseeably a race to the *top*. Taking BYCombo's approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which basically *guarantees* they'll be remembered by history!
+Won't interdependence see a runaway effect as well? Yes, but it's foreseeably a race to the *top*. Taking BYCombo's approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which basically *guarantees* they'll be remembered by history!
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
