@@ -15,7 +15,7 @@ Indie rock loves to back the underdog, which means it's all about lowering the b
 
 These tools of empowerment aren't free, though: They cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them; so all they do is penalize those who *don't*. But… this is how *rules* work! Which is to say:
 
-**By *expecting* artists to empower themselves, indie rock effectively *requires* them to do so. It then imposes its rules on *all* artists.**
+**By *expecting* its artists to empower themselves, indie rock effectively *requires* them to do so. It then imposes its rules on *all* aspiring artists.**
 
 ### A call for a truce
 
@@ -31,7 +31,7 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 
 The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to depend on the other. Indie artists now build a fanbase to show they can walk away from talks with a label. And labels, in turn, just bet on this fanbase instead of the artist's talent. Such a mess! So what's an interdependent band to do?
 
-Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective can be a label's deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build a fanbase that labels can objectively measure. This leaves only one solution:
+Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective can be a label's deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build a fanbase that can be objectively measured. This leaves only one solution:
 
 **To regain interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
@@ -61,7 +61,7 @@ ${'  ' || `
 
 **Interdependent bands can earn the trust of industry insiders and music fans by adding their demo to BYCombo's registry, for which the cost of entry is steep: a serious chunk of lifetime spent to advance the art form.**
 
-Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time. Now to regain interdependence, they'll also be making our generation's most *accomplished* works. *This* is the next revolution in rock history!
+Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time; now to regain interdependence, they'll also be making our generation's most *accomplished* works. *This* is the next revolution in rock history!
             `,
         }}
     />

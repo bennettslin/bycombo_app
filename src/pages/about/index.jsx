@@ -11,19 +11,19 @@ Bennett here! I've spent half my life arguing that indie rock has made music wor
 
 There's just one problem: Indie rock isn't really a *genre* so much as it's a *system*. How do we revolt, when every system preserves a status quo by design? Luckily, I've spent half my life figuring this out as well:
 
-**BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll store in a public registry to sustain an anti-indie counterculture.**
+**BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then store in a public registry to sustain an anti-indie counterculture.**
 
 ### The revolution will *not* be decentralized
 
 **Why an anti-indie counterculture?**
 
-Countercultures are needed to protect dangerous ideas, and there hasn't been a counterculture for a while. Meanwhile, even as indie rock has made music worse, we've all adopted its good intentions. But… what if rock has gotten worse *because* of all our well-intentioned support for indie artists? This is a dangerous idea, yet it might be rock's only hope— so let's protect it.
+Countercultures are needed to protect dangerous ideas, and there hasn't been a counterculture for a while. Meanwhile, even as indie rock has made music worse, we've all adopted its good intentions. But… what if rock has gotten worse *because* of our well-intentioned support for indie artists? This is a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
 **Why historical consequence? Why BYCombo?**
 
-Critical acclaim can be inflated, which makes it meaningless. What *can't* be hacked is the historical canon revered by future generations. No indie artist today will likely be inducted, and people can sense this; *that's* why they gripe that rock is getting worse.
+Critical acclaim can be inflated, which makes it meaningless. What *can't* be hacked is the historical canon— and future generations just aren't likely to induct any of today's indie artists. People sense this; that's why they gripe that rock is getting worse.
 
-Yes, talent is out there. But making history means competing with a past that *didn't* benefit from anyone's good intentions. This calls for explicit intent and massive effort, and only a centralized force like BYCombo can light this fire in today's artists.
+Yes, talent is out there. But making history means competing with a past that *didn't* benefit from anyone's good intentions. This calls for explicit intent and massive effort— and only a centralized force like BYCombo can light this fire in today's artists.
 
 **Why assembled bands?**
 
@@ -35,13 +35,13 @@ To make consequential art, a band needs to develop exceptional strengths. But th
 
 **Why a public registry?**
 
-A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried for this task. With BYCombo's registry, the public can discover these revolutionary works on their own. This then allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
+A demo that requires massive effort to *make* will also take much more effort to *understand*— but the indie gatekeepers are too harried for this task. With BYCombo's registry, the public can discover these revolutionary works on their own. This then allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
 
 **Why serious chunks of lifetime?**
 
-By lowering the barriers to entry, indie rock has lost the public's trust. But this trend can't be reversed now, because the system is decentralized. What rock needs, then, is a centralized force like BYCombo to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime.
+When indie rock lowered the barriers to entry, it lost the public's trust in *all* aspiring artists. And this trend can't be reversed now, because the system is decentralized. What rock needs, then, is a centralized force like BYCombo to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime.
 
-After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to earn the public's trust.
+After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to earn back the public's trust.
 
 **Why has indie rock made music worse?**
 
@@ -79,15 +79,15 @@ Revolutions may *start* with powerless outsiders, but they're *spread* by powerf
 
 ### Responsible revolutions plan for runaway effects
 
-Indie rock is all about rewarding artists who bypass the middleman. But if the middleman's job is simple enough for any artist to do themselves, then a wealthy artist can just pay *others* to do it— including, ironically, former middlemen! And so indie rock has devolved into a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
+Indie rock is all about rewarding artists who bypass the middleman. But if the middleman's job is simple enough for any artist to do themselves, then a wealthy artist can just pay someone *else* to do it— including, ironically, a former middleman! And so indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
-Won't interdependence see a runaway effect as well? Yes, but it's foreseeably a race to the *top*. Taking the BYCombo approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which basically *guarantees* they'll be remembered by history!
+Yes, interdependence will see a runaway effect as well. But it's foreseeably a race to the *top*. Taking BYCombo's approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— which basically *guarantees* they'll be remembered by history!
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
 Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: originality and talent born from hunger. And BYCombo is the latest case in point.
 
-Don't be fooled by indie rock's recent embrace of female and minority artists: They've been handed the reins *because* it's in decline. These are crumbs on offer here. Meanwhile, BYCombo was *conceived* to benefit disadvantaged groups. I know firsthand that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
+Don't be fooled by indie rock's recent embrace of female and minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. Meanwhile, BYCombo was *conceived* to benefit disadvantaged groups. I know firsthand that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
 ### Art needs the blood of martyrs
 
