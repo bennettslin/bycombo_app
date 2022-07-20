@@ -23,7 +23,7 @@ Countercultures are needed to protect dangerous ideas, and there hasn't been a c
 
 Critical acclaim can be inflated, which makes it meaningless. What *can't* be hacked is the historical canon— and future generations just aren't likely to induct any of today's indie artists. People sense this; that's why they gripe that rock is getting worse.
 
-Yes, talent is out there. But making history means competing with a past that *didn't* benefit from anyone's good intentions. This calls for explicit intent and massive effort— and only a centralized force like BYCombo can light this fire in today's artists.
+Yes, talent is still out there. But making history means competing with past artists who *didn't* benefit from anyone's good intentions. This will require massive effort— and only a centralized force like BYCombo can light this fire in today's artists.
 
 **Why assembled bands?**
 
@@ -35,7 +35,7 @@ To make consequential art, a band needs to develop exceptional strengths. But th
 
 **Why a public registry?**
 
-A demo that requires massive effort to *make* will also take much more effort to *understand*— but the indie gatekeepers are too harried for this task. With BYCombo's registry, the public can discover these revolutionary works on their own. This then allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
+A demo that requires massive effort to *make* will also take more effort to *understand*— but the indie gatekeepers are too harried for this task. With BYCombo's registry, the public can discover these revolutionary works on their own. This then allows the counterculture to offer interdependence as a *solution*, rather than just point out indie rock's *problems*.
 
 **Why serious chunks of lifetime?**
 
