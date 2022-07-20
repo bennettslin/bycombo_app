@@ -27,7 +27,7 @@ const Menu = () => (
             Contact
         </HeaderButton>
         <HeaderButton {...{ pagePath: DEMOS_PAGE }}>
-            Demos
+            Registry
         </HeaderButton>
     </div>
 )

@@ -31,7 +31,7 @@ There *are* revolutionary bands to come; they're just unlikely to come together 
 
 **Why interdependence? Why demos?**
 
-To make consequential art, a band needs to develop exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And a demo is what their work will sound like before they've signed to one.
+To make consequential art, a band needs to develop exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And a demo is what their work sounds like before they've signed to one.
 
 **Why a public registry?**
 
@@ -41,7 +41,7 @@ A demo that requires massive effort to *make* will also take more effort to *und
 
 When indie rock lowered the barriers to entry, it lost the public's trust for *all* aspiring artists. And this trend can't be reversed now, because the system is decentralized. What rock needs, then, is a centralized force like BYCombo to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime.
 
-Because a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to win back the public's trust.
+After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to win back the public's trust.
 
 **Why has indie rock made music worse?**
 
