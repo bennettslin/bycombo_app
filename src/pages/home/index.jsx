@@ -11,7 +11,7 @@ const Component = () => (
 
 ### Tools… are *rules*
 
-Indie rock is all about lowering the barriers to entry. To do this, it provides tools for artists to build a fanbase without label support.
+Indie rock is all about lowering the barriers to entry. To do this, it provides tools for artists to build a fanbase without being signed to a label: social media analytics, streaming algorithms, distribution services, and so forth.
 
 These tools of empowerment aren't free, though: They cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them; all they do is penalize those who *don't*. But… this is how *rules* work! Which is to say:
 
