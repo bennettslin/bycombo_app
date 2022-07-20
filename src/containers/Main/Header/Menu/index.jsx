@@ -5,7 +5,7 @@ import {
     ABOUT_PAGE,
     APPLY_PAGE,
     CONTACT_PAGE,
-    DEMOS_PAGE,
+    REGISTRY_PAGE,
 } from '../../../../constants/pages'
 import './style'
 
@@ -26,7 +26,7 @@ const Menu = () => (
         <HeaderButton {...{ pagePath: CONTACT_PAGE }}>
             Contact
         </HeaderButton>
-        <HeaderButton {...{ pagePath: DEMOS_PAGE }}>
+        <HeaderButton {...{ pagePath: REGISTRY_PAGE }}>
             Registry
         </HeaderButton>
     </div>
