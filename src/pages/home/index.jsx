@@ -19,9 +19,9 @@ These tools of empowerment aren't free, though: They cost the artist's time and 
 
 ### A call for a truce
 
-Hi, I'm Bennett. It's clear to me that the best artists *don't* waste time and energy on empowerment; it just comes to them as a byproduct of their talent. So I refuse to use indie rock's tools; I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art.
+Hi, I'm Bennett from the band [Bobtail Yearlings](https://www.bobtailyearlings.com). It's clear to me that the best artists *don't* waste time and energy on empowerment; it just comes to them as a byproduct of their talent. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
-By *not* building a fanbase, however, I'm seen as lazy and incompetent. And then my band isn't given the same charitable support that puts indie artists ahead— which effectively puts us *behind*. So this is my dilemma:
+By not using indie rock's tools, however, I'm seen as lazy and incompetent. And then my band isn't given the same charitable support that puts indie artists ahead— which effectively puts us *behind*. So this is my dilemma:
 
 **In promising to make the best art, interdependent bands *need* to break indie rock's rules— for which they'll be penalized.**
 
