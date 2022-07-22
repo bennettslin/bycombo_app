@@ -1,7 +1,7 @@
 {
   "name": "bycombo_app",
   "version": "1.0.0",
-  "description": "Website for the artist accelerator BYCombo.",
+  "description": "BYCombo is a nonprofit incubator of rock bands.",
   "main": "index.js",
   "scripts": {
     "clean": "gatsby clean",

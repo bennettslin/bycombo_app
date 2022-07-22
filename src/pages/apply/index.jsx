@@ -10,6 +10,10 @@ const Component = () => (
 
 Are you ready to sacrifice a serious chunk of lifetime to make rock history? Be part of our pilot cohort!
 
+### Diversity policy
+
+**Women and minorities are encouraged to apply! As a rock movement founded by a minority, BYCombo was *conceived* to serve disadvantaged groups, who naturally favor *inter*-dependence over *indie*-pendence.**
+
 ### Who we're looking for
 
 Perhaps you're one of the following:
@@ -19,17 +23,15 @@ Perhaps you're one of the following:
 * An artist of another medium: animator, web developer…
 * An administrator: manager, social media guru…
 
-You'll pledge to be kind; to advance the art form; and to help future BYCombo bands. There are no fees whatsoever.
+We'll set you up with a few prospective bandmates. You'll review each other's links and videos, then meet online. If everyone agrees to form a band, you'll relocate to Los Angeles or another major city. After you've settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
 
-We'll set you up with a few prospective bandmates. You'll review each other's links and videos, then meet online. Once everyone agrees to form a band, you'll relocate to Los Angeles or another major city. After you've settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
+There are no fees whatsoever.
 
 ### What we'll do for you
 
 BYCombo will include you in a supportive community of other ambitious bands. Through the years, we'll advise you on your band project. The Bobtail Yearlings will also help where they can!
 
-Once your demo is complete, we'll send it to any record labels or industry insiders who sign up to hear it first. In exchange for this privilege, they'll promise to give it fair consideration and a timely response.
-
-Finally, we'll add your demo to our public registry. With your help, BYCombo will become the public's trusted resource to hear about all the latest bands sacrificing serious chunks of lifetime to advance the art form!
+Once your demo is complete, we'll add it to our public registry, and then we'll notify the record labels and industry insiders on our mailing list. With your help, BYCombo will become the public's trusted resource to hear about all the latest bands sacrificing serious chunks of lifetime to advance the art form!
 
 ### How to apply
 
@@ -43,8 +45,6 @@ Email us the following information, and we'll be in touch:
 * Links to social media or video demonstrations
 
 If you're co-applying with one or more bandmates, please send a single email with each person's information. If you have special circumstances that need to be considered, please let us know! We'll try to make things work.
-
-Women and minorities are encouraged to apply!
             `,
         }}
     />

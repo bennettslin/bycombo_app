@@ -1,6 +1,6 @@
 export const APP_TITLE = 'BYCombo'
 export const APP_DESCRIPTION =
-    'Website for the artist accelerator BYCombo.'
+    'BYCombo is a nonprofit incubator of rock bands.'
 export const APP_NAME = 'byCombo'
 export const DOMAIN = APP_NAME.toLowerCase()
 

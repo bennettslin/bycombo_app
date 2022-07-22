@@ -8,11 +8,11 @@ const Component = () => (
             body: `
 # Support the interdependence revolution!
 
-If you're an industry insider who'd like to be among the first to hear every demo, please get in touch! In exchange for this privilege, you'll promise to give each demo your fair consideration and a timely response.
+If you're a music fan or industry insider who'd like to be notified when we add a new demo to our public registry, please get in touch!
 
-If you'd like to work for BYCombo in an administrative role, let us know what you have in mind. We're happy to get all the help we can!
+If you'd like to work for BYCombo in a paid administrative role, let us know what you have in mind. We're happy to get all the help we can!
 
-Please let us know if you have any questions, or if you have suggestions for how we can improve. Thanks!
+Feel free to ask any questions, and we'll answer them in a future FAQ page. We'd also love to hear suggestions for how we can improve. Thanks!
             `,
         }}
     />

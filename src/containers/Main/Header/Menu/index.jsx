@@ -20,14 +20,14 @@ const Menu = () => (
         <HeaderButton {...{ pagePath: ABOUT_PAGE }}>
             About
         </HeaderButton>
+        <HeaderButton {...{ pagePath: REGISTRY_PAGE }}>
+            Registry
+        </HeaderButton>
         <HeaderButton {...{ pagePath: APPLY_PAGE }}>
             Apply
         </HeaderButton>
         <HeaderButton {...{ pagePath: CONTACT_PAGE }}>
             Contact
-        </HeaderButton>
-        <HeaderButton {...{ pagePath: REGISTRY_PAGE }}>
-            Registry
         </HeaderButton>
     </div>
 )

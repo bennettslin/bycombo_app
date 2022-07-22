@@ -9,7 +9,7 @@ const Component = () => (
 
 Bennett here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people are disillusioned, and some now agree with me. Which means the interdependence revolution can finally begin!
 
-There's just one problem: Indie rock isn't really a *genre* so much as it's a *system*. How do we revolt, when every system preserves a status quo by design? Luckily, I've spent half my life figuring this out as well:
+There's just one problem: Indie rock isn't really a *genre* so much as it's a *system*. How do we revolt, when every system protects a status quo by design? Luckily, I've spent half my life figuring this out as well:
 
 **BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then store in a public registry to sustain an anti-indie counterculture.**
 
@@ -87,7 +87,7 @@ Won't interdependence see a runaway effect as well? Yes, but it's foreseeably a 
 
 Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: originality and talent born from hunger. And BYCombo is the latest case in point.
 
-Don't be fooled by indie rock's recent embrace of female and minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. Meanwhile, BYCombo was *conceived* to benefit disadvantaged groups. I know firsthand that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
+Don't be fooled by indie rock's recent embrace of female and minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. Meanwhile, BYCombo was *conceived* to serve disadvantaged groups. I know firsthand that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
 ### Art needs the blood of martyrs
 
