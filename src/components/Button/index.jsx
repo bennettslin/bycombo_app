@@ -1,12 +1,10 @@
 import React, { forwardRef } from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
-import { useDispatch } from 'react-redux'
 import { Link } from 'gatsby'
 import Flex from '../Flex'
 import ButtonAnimatable from './Animatable'
 import Tooltip from './Tooltip'
-import { updateSelectedPagePath } from '../../redux/page/action'
 import { getInternalLinkForPath } from '../../utils/pages/path'
 import './style'
 
@@ -24,7 +22,6 @@ const Button = forwardRef(({
 
 }, ref) => {
     const
-        dispatch = useDispatch(),
         isTooltipEnabled = Boolean(tooltipId),
         isInternalLink = pagePath && !isSelected,
         Tag = isInternalLink ? Link : 'button'
@@ -32,10 +29,6 @@ const Button = forwardRef(({
     const onClick = e => {
         if (isSelected) {
             return
-        }
-
-        if (pagePath) {
-            dispatch(updateSelectedPagePath(pagePath))
         }
 
         if (analyticsLabel) {
@@ -59,7 +52,6 @@ const Button = forwardRef(({
                 onClick,
                 ...isInternalLink && {
                     to: getInternalLinkForPath(pagePath),
-                    // replace: true,
                 },
                 ...isTooltipEnabled && {
                     'data-for': tooltipId,

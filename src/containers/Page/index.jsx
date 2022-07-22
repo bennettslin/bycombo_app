@@ -1,6 +1,7 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
+import { useDispatch } from 'react-redux'
 import PageConfigContext from '../../contexts/PageConfig'
 import StyledPage from './StyledPage'
 import TabbedMenu from './TabbedMenu'
@@ -8,34 +9,48 @@ import Body from './Body'
 import PageFooter from './Footer'
 import Flex from '../../components/Flex'
 import Helmet from '../../components/Helmet'
+import { updateSelectedPagePath } from '../../redux/page/action'
+import { getPathFromWindowLocation } from '../../utils/pages/path'
 import './style'
 
 const Page = ({
     children,
     ...rest
-}) => (
-    <PageConfigContext.Provider {...{ value: rest }}>
-        <Helmet />
-        {/* This assumes children or markdown, but never both. */}
-        {children ? children : (
-            <StyledPage>
-                <Flex
-                    {...{
-                        className: cx(
-                            'Page',
-                        ),
-                        flexDirection: 'column',
-                        justifyContent: 'normal',
-                    }}
-                >
-                    <TabbedMenu />
-                    <Body />
-                    <PageFooter />
-                </Flex>
-            </StyledPage>
-        )}
-    </PageConfigContext.Provider>
-)
+}) => {
+    const dispatch = useDispatch()
+
+    useEffect(() => {
+        dispatch(
+            updateSelectedPagePath(
+                getPathFromWindowLocation(window.location.pathname),
+            ),
+        )
+    }, [])
+
+    return (
+        <PageConfigContext.Provider {...{ value: rest }}>
+            <Helmet />
+            {/* This assumes children or markdown, but never both. */}
+            {children ? children : (
+                <StyledPage>
+                    <Flex
+                        {...{
+                            className: cx(
+                                'Page',
+                            ),
+                            flexDirection: 'column',
+                            justifyContent: 'normal',
+                        }}
+                    >
+                        <TabbedMenu />
+                        <Body />
+                        <PageFooter />
+                    </Flex>
+                </StyledPage>
+            )}
+        </PageConfigContext.Provider>
+    )
+}
 
 Page.propTypes = {
     noShare: PropTypes.bool,
