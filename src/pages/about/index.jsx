@@ -39,7 +39,7 @@ A demo that requires massive effort to *make* will also take more effort to *und
 
 **Why serious chunks of lifetime?**
 
-When indie rock lowered the barriers to entry, it lost the public's trust for *all* aspiring artists. And this trend can't be reversed now, because the system is decentralized. What rock needs, then, is a centralized force like BYCombo to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime.
+When indie rock lowered the barriers to entry, it lost the public's trust. And this trend can't be reversed, because the system is decentralized. What rock needs now, then, is a centralized force like BYCombo to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime.
 
 After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to win back the public's trust.
 

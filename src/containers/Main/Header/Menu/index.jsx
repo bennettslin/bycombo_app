@@ -23,11 +23,11 @@ const Menu = () => (
         <HeaderButton {...{ pagePath: REGISTRY_PAGE }}>
             Registry
         </HeaderButton>
-        <HeaderButton {...{ pagePath: APPLY_PAGE }}>
-            Apply
-        </HeaderButton>
         <HeaderButton {...{ pagePath: CONTACT_PAGE }}>
             Contact
+        </HeaderButton>
+        <HeaderButton {...{ pagePath: APPLY_PAGE }}>
+            Apply
         </HeaderButton>
     </div>
 )

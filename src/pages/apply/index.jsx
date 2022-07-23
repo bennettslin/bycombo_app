@@ -25,7 +25,7 @@ Perhaps you're one of the following:
 
 We'll set you up with a few prospective bandmates. You'll review each other's links and videos, then meet online. If everyone agrees to form a band, you'll relocate to Los Angeles or another major city. After you've settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
 
-There are no legal contracts or fees. We'll just ask you to make a nonbinding pledge that includes being vaccinated, respecting pronouns, and so forth.
+There are no legal contracts or fees. We'll just ask you to make a nonbinding pledge to be vaccinated, to respect pronouns, and so forth.
 
 ### What we'll do for you
 
