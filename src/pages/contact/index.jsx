@@ -10,7 +10,7 @@ const Component = () => (
 
 BYCombo is here to serve music fans and industry insiders who've grown tired of indie rock's low barriers to entry. We'll win your trust by enforcing a steep *cost* of entry:
 
-**To be added to BYCombo's registry, bands must sacrifice at least 25,000 hours— that's twelve years working full time!— on a demo that advances the art form.**
+**To be added to BYCombo's registry, bands must sacrifice at least 25,000 hours— that's twelve years working full time!— to make a demo that advances the art form.**
 
 If you'd like to be notified when a new demo is added to our registry, please join our mailing list!
 

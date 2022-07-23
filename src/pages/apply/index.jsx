@@ -8,11 +8,13 @@ const Component = () => (
             body: `
 # Join the interdependence revolution!
 
-Are you ready to sacrifice a serious chunk of lifetime to make rock history? Be part of our pilot cohort!
+Are you ready to sacrifice a serious chunk of lifetime to make rock history? Be part of BYCombo's pilot cohort!
 
 ### Diversity policy
 
-**Women and minorities are encouraged to apply! As a rock movement founded by a minority, BYCombo was *conceived* to serve disadvantaged groups, who naturally favor *inter*-dependence over *indie*-pendence.**
+**Women and minorities are encouraged to apply!**
+
+As a rock movement *founded* by a minority, BYCombo was *conceived* to give disadvantaged groups the interdependence they naturally prefer and thrive under.
 
 ### Who we're looking for
 
