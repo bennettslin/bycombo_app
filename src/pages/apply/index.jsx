@@ -25,19 +25,19 @@ Perhaps you're one of the following:
 
 We'll set you up with a few prospective bandmates. You'll review each other's links and videos, then meet online. If everyone agrees to form a band, you'll relocate to Los Angeles or another major city. After you've settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
 
-There are no fees whatsoever.
+There are no legal contracts or fees. We'll just ask you to make a nonbinding pledge that includes being vaccinated, respecting pronouns, and so forth.
 
 ### What we'll do for you
 
 BYCombo will include you in a supportive community of other ambitious bands. Through the years, we'll advise you on your band project. The Bobtail Yearlings will also help where they can!
 
-Once your demo is complete, we'll add it to our public registry, and then we'll notify the record labels and industry insiders on our mailing list. With your help, BYCombo will become the public's trusted resource to hear about all the latest bands sacrificing serious chunks of lifetime to advance the art form!
+Once your demo is complete, we'll add it to our public registry and then notify the music fans and industry insiders on our mailing list. With your help, BYCombo will become the public's trusted resource to hear about the latest bands sacrificing serious chunks of lifetime to advance the art form!
 
 ### How to apply
 
 Email us the following information, and we'll be in touch:
 
-* Your name, email, and pronouns
+* Your name, email address, and pronouns
 * Your city, and where you can relocate, if not Los Angeles
 * Your musical and aesthetic preferences— or dealbreakers
 * Your artistic talents and corresponding skill levels

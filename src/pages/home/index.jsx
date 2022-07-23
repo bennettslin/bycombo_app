@@ -35,7 +35,7 @@ Sadly, it's no longer enough to promise the best art. In a world of charitable s
 
 **To regain interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
-In other words, interdependence is waiting for… a rock martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And by *not* building a fanbase, I was able to invent [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) and create the audio webcomic. What label *wouldn't* be happy with this tradeoff?
+In other words, interdependence is waiting for… a rock martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And by *not* building a fanbase, I was able to invent [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7), and to code and illustrate the audio webcomic. What label *wouldn't* be happy with this tradeoff?
 
 ### Who gatekeeps the gatekeepers?
 
@@ -47,9 +47,9 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 
 ### A hundred *Yearling's Bobtail*s
 
-The situation isn't hopeless, though: Some music fans *prefer* rock from its interdependent years. And industry insiders in other genres, like hip hop, have *only* worked interdependently. Plenty of them would love to hear an ambitious demo that breaks indie rock's rules— they're just tired of getting suckered by a world with low barriers to entry. Well, I have great news:
+The situation isn't hopeless, though: Some music fans *prefer* rock from its interdependent years. And industry insiders in other genres, like hip hop, have *only* worked interdependently. Plenty of them would love to hear an ambitious demo that breaks indie rock's rules— they're just tired of getting suckered in a world with such low barriers to entry. Well, I have great news:
 
-**To win the trust of non-indie fans and insiders, interdependent bands can work with BYCombo, which enforces a steep cost of entry: a serious chunk of lifetime spent to advance the art form.**
+**To win the trust of non-indie fans and insiders, interdependent bands can work with BYCombo, which enforces a steep *cost* of entry: a serious chunk of lifetime spent to advance the art form.**
 
 Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time; now to regain interdependence, they'll also be making our generation's most *accomplished* works. *This* is the next revolution in rock history!
             `,

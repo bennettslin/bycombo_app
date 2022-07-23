@@ -9,6 +9,5 @@ export const ABOUT_PAGE = 'about'
 export const APPLY_PAGE = 'apply'
 export const CONTACT_PAGE = 'contact'
 export const REGISTRY_PAGE = 'registry'
-export const LINKS_PAGE = 'links'
 
 export const TABBED_PAGES_SET = new Set([])
