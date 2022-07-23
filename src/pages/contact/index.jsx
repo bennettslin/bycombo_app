@@ -8,9 +8,9 @@ const Component = () => (
             body: `
 # Support the interdependence revolution!
 
-If you're a music fan or industry insider who's grown frustrated with indie rock's low barriers to entry, then BYCombo is here to win your trust! We'll do so by enforcing a steep *cost* of entry:
+BYCombo is here to serve music fans and industry insiders who've grown tired of indie rock's low barriers to entry. We'll win your trust by enforcing a steep *cost* of entry:
 
-**BYCombo's registry only includes those bands who've sacrificed at least 25,000 hours— that's twelve years working full time!— on a demo that advances the art form.**
+**To be added to BYCombo's registry, bands must sacrifice at least 25,000 hours— that's twelve years working full time!— on a demo that advances the art form.**
 
 If you'd like to be notified when a new demo is added to our registry, please join our mailing list!
 
