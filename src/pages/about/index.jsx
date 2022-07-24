@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The problem with indie rock
 
-Bennett here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people are disillusioned, and some now agree with me. Which means the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people are disillusioned, and some now agree with me. Which means the interdependence revolution can finally begin!
 
 There's just one problem: Indie rock isn't really a *genre* so much as it's a *system*. How do we revolt, when every system protects a status quo by design? Luckily, I've spent half my life figuring this out as well:
 
@@ -19,7 +19,7 @@ There's just one problem: Indie rock isn't really a *genre* so much as it's a *s
 
 Countercultures are needed to protect dangerous ideas, and there hasn't been a counterculture for a while. Meanwhile, even as indie rock has made music worse, we've all adopted its good intentions. But… what if rock has gotten worse *because* of all our well-intentioned support for indie artists? This is a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
-**Why historical consequence? Why BYCombo?**
+**Why historical consequence?**
 
 Critical acclaim can be inflated, which makes it worthless. What *can't* be hacked is the historical canon— and future generations aren't likely to induct any of today's indie artists. People sense this; that's why they gripe that rock is getting worse.
 
@@ -29,9 +29,13 @@ Yes, talent is still out there. But making history means competing with past art
 
 There *are* revolutionary bands to come; they're just unlikely to come together on their *own* now. How do four musicians committed to making history find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member? A centralized force is also needed to fully reimagine what a rock band can *be*.
 
-**Why interdependence? Why demos?**
+**Why interdependence?**
 
-To make consequential art, a band needs to develop exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label. And a demo is what their work will sound like before they've signed to one.
+To make consequential art, a band needs to develop exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label.
+
+**Why demos?**
+
+A demo's audience agrees to hear what it can be in the future, *with* label support. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so. For example, had I known while making [*Yearling's Bobtail*](https://www.yearlingsbobtail.com) that I'd be expected to release it on my own, the idea for [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) *never* would have come to me.
 
 **Why a public registry?**
 
@@ -39,7 +43,7 @@ A demo that requires massive effort to *make* will also take more effort to *und
 
 **Why serious chunks of lifetime?**
 
-Indie rock lost the public's trust when it lowered the barriers to entry. And this trend can't be reversed, because the system is decentralized. What rock needs now, then, is a centralized force like BYCombo to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime.
+Indie rock lost the public's trust when it lowered the barriers to entry. And this trend can't be reversed now, because the system is decentralized. What rock needs, then, is a centralized force like BYCombo to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime.
 
 After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to win back the public's trust.
 

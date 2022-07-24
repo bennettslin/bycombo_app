@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The BYCombo mission
 
-**BYCombo is a nonprofit incubator of rock bands. We're here to launch the interdependence revolution that will bring forth the most consequential rock bands of this century!**
+**BYCombo is a nonprofit incubator of rock bands. We're here to launch the interdependence revolution that will bring forth the most historically consequential rock bands of this century!**
 
 How will we fulfill our mission? By enforcing a steep *cost* of entry. Why is this necessary? Here's why…
 
@@ -21,7 +21,7 @@ These tools of empowerment aren't free, though— they cost the artist's time an
 
 ### A call for a truce
 
-Hi, I'm Bennett from the band [Bobtail Yearlings](https://www.bobtailyearlings.com). It's clear to me that the best artists *don't* waste time and energy on empowerment; it just comes to them as a byproduct of their talent. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art.
+Hi, I'm Bennett, from the band [Bobtail Yearlings](https://www.bobtailyearlings.com). It's clear to me that the best artists *don't* waste time and energy on empowerment; it just comes to them as a byproduct of their talent. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
 By not using indie rock's tools, however, I'm seen as lazy and incompetent. And then my band isn't given the same charitable support that puts indie artists ahead— which effectively puts us *behind*. So this is my dilemma:
 
@@ -37,7 +37,7 @@ Sadly, it's no longer enough to promise the best art. In a world of charitable s
 
 **To regain interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
-In other words, interdependence is waiting for… a rock martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And by *not* building a fanbase, I was able to invent [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) and to code and illustrate the audio webcomic. What label *wouldn't* be happy with this tradeoff?
+In other words, interdependence is waiting for… a rock martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And by *not* building a fanbase, I was able to invent [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7), and to code and illustrate the audio webcomic. What label *wouldn't* be happy with this tradeoff?
 
 ### Who gatekeeps the gatekeepers?
 
