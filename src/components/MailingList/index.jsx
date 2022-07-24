@@ -18,7 +18,7 @@ const MailingList = () => (
         }}
     >
         <label {...{ className: cx('MailingList__label') }}>
-            Join the Bobtail Yearlings mailing list:
+            Join the BYCombo mailing list:
         </label>
         <MailingListInputs />
         <div {...{ className: cx('font__finePrint') }}>

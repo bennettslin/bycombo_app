@@ -7,6 +7,7 @@ import FollowButtons from '../../../components/FollowButtons'
 import StyledFrame from '../StyledFrame'
 import { mapIsUpsellShown } from '../../../redux/option/selector'
 import './style'
+import Flex from '../../../components/Flex'
 
 const MainFooter = () => {
     const
@@ -24,31 +25,31 @@ const MainFooter = () => {
                 in: didMount && !isUpsellShown,
                 timeout: 200,
                 classNames: {
-                    enterDone: 'MainFooter__containerVisible',
+                    enterDone: 'shown',
                 },
             }}
         >
-            <div
+            <StyledFrame
                 {...{
                     className: cx(
-                        'MainFooter__container',
+                        'hidden',
                     ),
                 }}
             >
-                <StyledFrame>
-                    <div
-                        {...{
-                            className: cx(
-                                'MainFooter',
-                            ),
-                        }}
-                    >
+                <Flex
+                    {...{
+                        className: cx(
+                            'MainFooter',
+                        ),
+                        justifyContent: 'spaceBetween',
+                        gap: 'sm',
+                    }}
+                >
 
-                        <MailingList />
-                        <FollowButtons />
-                    </div>
-                </StyledFrame>
-            </div>
+                    <MailingList />
+                    <FollowButtons />
+                </Flex>
+            </StyledFrame>
         </CSSTransition>
     )
 }

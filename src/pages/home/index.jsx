@@ -9,7 +9,7 @@ const Component = () => (
 
 **BYCombo is a nonprofit incubator of rock bands. We're here to launch the interdependence revolution that will bring forth the most consequential rock bands of this century!**
 
-How will we fulfill our mission? We'll enforce a steep *cost* of entry. Why is this necessary? Here's why…
+How will we fulfill our mission? By enforcing a steep *cost* of entry. Why is this necessary? Here's why…
 
 ### Tools… are *rules*
 
@@ -49,9 +49,9 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 
 ### A hundred *Yearling's Bobtail*s
 
-The situation isn't hopeless, though: Some music fans *prefer* rock from its interdependent years, back when artists *didn't* rely on charitable support. And industry insiders in other genres, like hip hop, have *only* ever worked interdependently.
+The situation isn't hopeless, though: Some music fans *prefer* rock from its interdependent years, when artists *didn't* rely on charitable support. And industry insiders in other genres, like hip hop, have *only* ever worked interdependently.
 
-Plenty of them would love to hear an ambitious demo that breaks indie rock's rules— they're just too worn down by a world with such low barriers to entry. Well, here's great news:
+Plenty of them would love to hear an ambitious demo that breaks indie rock's rules— they're just jaded by a world with low barriers to entry. Well, here's some good news:
 
 **To win the trust of non-indie fans and insiders, interdependent bands can now work with BYCombo, which enforces a steep *cost* of entry: a serious chunk of lifetime spent to advance the art form.**
 

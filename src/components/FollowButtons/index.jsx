@@ -15,7 +15,7 @@ const FollowButtons = () => (
             gap: 'xs',
         }}
     >
-        <label>Follow the Bobtail Yearlings:</label>
+        <label>Follow BYCombo:</label>
         <Flex
             {...{
                 className: cx(

@@ -1,6 +1,8 @@
 @import '../../../scss/constants/responsive';
 
 .StyledFrame {
+    width: 100%;
+
     @media (min-width: $breakpoint__md) {
         width: $width__lg;
     }

@@ -1,22 +1,26 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
+import Flex from '../../components/Flex'
 import MainHeader from './Header'
 import MainFooter from './Footer'
 import './style'
 
 const Main = ({ children }) => (
-    <div
+    <Flex
         {...{
             className: cx(
                 'Main',
             ),
+            flexGrow: 1,
+            flexDirection: 'column',
+            gap: 'xs',
         }}
     >
         <MainHeader />
         {children}
         <MainFooter />
-    </div>
+    </Flex>
 )
 
 Main.propTypes = {
