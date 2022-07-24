@@ -29,7 +29,7 @@ There *are* history-making bands still to come; they're just unlikely to come to
 
 **Why interdependence?**
 
-To make historically consequential art, a band must develop exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. That is to say, such bands need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label.
+To make historically consequential art, a band *must* develop exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. That is to say, such bands need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label.
 
 **Why demos?**
 
