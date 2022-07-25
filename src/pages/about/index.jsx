@@ -21,29 +21,34 @@ Countercultures are needed to protect dangerous ideas, and there hasn't been a c
 
 **Why historical consequence?**
 
-Critical acclaim can be inflated, which makes it worthless. What can *never* be hacked is the historical canon, because making history means competing on equal terms with great artists of the past— *none* of whom benefited from well-intentioned support. It's obvious, then, that *no* indie artist today is likely to be inducted, and *this* is why people gripe that rock is getting worse.
+Critical acclaim can be inflated, which makes it worthless. What can *never* be hacked is the historical canon— because making history means competing on equal terms with past artists who *didn't* benefit from charitable support. In this light, it's obvious that no indie artist today will likely be inducted. And *this* is why people gripe that rock is getting worse.
+
+${'  ' || `
+// TODO: Complete essay
+(What makes a work historically consequential? Here are [my thoughts]().)
+`}
 
 **Why assembled bands?**
 
-While there *are* history-making bands still to come, they're unlikely to come together on their *own*. How do four musicians committed to advancing the art form find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member? A centralized force like BYCombo is needed to fully reimagine what a rock band can *be*.
+But there *are* history-making bands to come; they're just unlikely to come together on their *own*. How do four musicians committed to advancing the art form find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member? A centralized force like BYCombo is needed to fully reimagine what a rock band can *be*.
 
 **Why interdependence?**
 
-To make historically consequential art, a band *must* develop exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover. That is to say, such bands need to be *inter*-dependent, not *indie*-pendent; they *need* to partner with a label.
+To make historically consequential art, a band has to develop exceptional strengths. But this isn't humanly possible unless they stay weak in areas that a label will later cover; they *must* hold off on the administrative work that a label can do far more efficiently. Which is to say, such bands can only be *inter*-dependent, not *indie*-pendent. They *need* to partner with a label.
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so. For example, the idea for [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) came to me only *because* my plan was to win over the labels with an ambitious demo— and *not* to build a fanbase with a self-released work.
+A demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so. By contrast, an indie artist planning to self-release their work will unconsciously limit themselves to what they can pull off in the *present*.
+
+(As an example, the idea for [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) came to me *only* because I was trying to win over a label.)
 
 **Why a public registry?**
 
-The indie gatekeepers know that any artist they choose will be charitably supported. As such, they lack the will to consider ambitious demos that take so much effort to understand. A registry allows history-making bands to win over the public directly.
-
-With these clear examples of what we gain through interdependence, the counterculture can then propose it as a *solution*, rather than just point out indie rock's *problems*.
+Ambitious demos necessarily take time to fairly consider. But the indie gatekeepers have no desire to put in this effort, because every artist they choose will enjoy charitable support all the same. And so a public registry allows interdependent bands to win over non-indie music fans and industry insiders directly. This will then sustain the anti-indie counterculture.
 
 **Why serious chunks of lifetime?**
 
-Indie rock lost the public's trust when it lowered the barriers to entry. And because the system is decentralized, this trend can't be reversed. What rock needs now, then, is a centralized force like BYCombo to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime.
+By lowering the barriers to entry, indie rock exhausted the public's trust in *all* aspiring artists. And because the system is decentralized, this trend can't be reversed. What rock needs now, then, is a centralized force like BYCombo to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime.
 
 After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to earn the public's trust.
 
