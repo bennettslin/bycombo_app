@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The BYCombo mission
 
-**BYCombo is a nonprofit incubator of rock bands. We're here to launch the interdependence revolution that will bring forth the most historically consequential rock bands of this century!**
+**BYCombo is a nonprofit incubator of rock bands. We're here to launch the interdependence revolution that will bring forth the most historically consequential rock bands of the 21st century!**
 
 How will we fulfill our mission? By enforcing a steep *cost* of entry. Why is this necessary? Here's why…
 

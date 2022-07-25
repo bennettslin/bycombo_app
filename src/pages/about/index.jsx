@@ -21,7 +21,7 @@ Countercultures are needed to protect dangerous ideas, and there hasn't been a c
 
 **Why historical consequence?**
 
-Critical acclaim can be inflated, which makes it worthless. What can *never* be hacked is the historical canon— because making history means competing on equal terms with past artists who *didn't* benefit from charitable support. In this light, it's obvious that no indie artist today will likely be inducted. And *this* is why people gripe that rock is getting worse.
+Critical acclaim can be inflated, which makes it worthless. What can *never* be hacked is the historical canon, because making history means competing on equal terms with past artists who *didn't* benefit from charitable support. In this light, it's obvious that no indie artist today will likely be inducted— and *this* is why people gripe that rock is getting worse.
 
 ${'  ' || `
 // TODO: Complete essay
@@ -30,7 +30,7 @@ ${'  ' || `
 
 **Why assembled bands?**
 
-But there *are* history-making bands to come; they're just unlikely to come together on their *own*. How do four musicians committed to advancing the art form find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member? A centralized force like BYCombo is needed to fully reimagine what a rock band can *be*.
+But there *are* history-making bands to come; they're just unlikely to come together on their *own*. How do four musicians committed to advancing the art form find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member? A centralized force like BYCombo is needed to fully reimagine what a 21st-century rock band can *be*.
 
 **Why interdependence?**
 
@@ -38,13 +38,23 @@ To make historically consequential art, a band has to develop exceptional streng
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so. By contrast, an indie artist planning to self-release their work will unconsciously limit themselves to what they can pull off in the *present*.
+${'  ' || `
+// TODO: Maybe don't make it so much about indie artists. Just a brief mention: Unlike indie artists… Also make sure example is good.
+`}
 
-(As an example, the idea for [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) came to me *only* because I was trying to win over a label.)
+An indie artist's self-released work is limited to what they can pull off in the *present*. But past artists made *demos*, and competing with them likely involves doing the same. Because a demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very *thought* to do so.
+
+(My go-to example is [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7). I came up with the idea, and was motivated to pursue it, only because I thought I was making a demo.)
 
 **Why a public registry?**
 
-Ambitious demos necessarily take time to fairly consider. But the indie gatekeepers have no desire to put in this effort, because every artist they choose will enjoy charitable support all the same. And so a public registry allows interdependent bands to win over non-indie music fans and industry insiders directly. This will then sustain the anti-indie counterculture.
+${'  ' || `
+// TODO: Make this fair, and better.
+`}
+
+Ambitious demos take time to fairly consider. But the indie gatekeepers have no need to put in this effort, because every artist they choose is charitably supported all the same. So with a public registry, interdependent bands can hope to win over non-indie music fans and industry insiders directly.
+
+This registry then allows our counterculture to offer interdependence as a *solution*. Otherwise, we'd look like curmudgeons for only ever pointing out indie rock's *problems*.
 
 **Why serious chunks of lifetime?**
 
