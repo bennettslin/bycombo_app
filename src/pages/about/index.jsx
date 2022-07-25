@@ -38,29 +38,17 @@ To make historically consequential art, a band has to develop exceptional streng
 
 **Why demos?**
 
-${'  ' || `
-// TODO: Possible without "why"?
-`}
-
-Indie artists self-release their works, paving the way for others. But this is a curse, *not* a blessing. Past artists made *demos*— and competing with the past likely involves doing the same. Why? Because a demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very *thought* to do so.
+Indie artists self-release their works, paving the way for others. But this is a curse, *not* a blessing. Past artists made *demos*— and competing with the past likely involves doing the same. After all, a demo shows what a work can be in the *future*, with the help of a label. This doesn't just *free* a band to aim high and take creative risks; it awakens the very *thought* to do so.
 
 (If you need a solid example, the idea for [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) came to me only because I was making a demo to win over the labels.)
 
 **Why a public registry?**
 
-${'  ' || `
-// TODO: Review this as well.
-`}
-
-Ambitious demos take time to fairly evaluate. But the indie gatekeepers feel no need to put in this effort, because *any* artist they choose will be charitably supported. So an interdependent band's only hope is to appeal directly to an anti-indie counterculture— which they now can, by adding their demo to BYCombo's registry.
+Ambitious demos take time to fairly evaluate. But the indie gatekeepers feel no need to put in this effort, because *any* artist they choose will be charitably supported. So an interdependent band's only hope is to appeal directly to an emerging counterculture that questions indie rock's values— and now they can, by adding their demo to BYCombo's registry.
 
 **Why serious chunks of lifetime?**
 
-${'  ' || `
-// TODO: Mention registry
-`}
-
-By lowering the barriers to entry, indie rock exhausted the public's trust in *all* aspiring artists. And because the system is decentralized, this trend can't be reversed. What rock needs now, then, is a centralized force like BYCombo to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime.
+By lowering the barriers to entry, indie rock exhausted the public's trust for *all* aspiring artists. And because the system is decentralized, this trend can't be reversed. What rock needs now, then, is a centralized force like BYCombo to enforce a steep *cost* of entry for its registry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime.
 
 After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to earn the public's trust.
 
@@ -82,13 +70,9 @@ Yet few of us care that a past artist hustled to build a fanbase, while nearly e
 
 ### Insightful revelation requires a single hat
 
-${'  ' || `
-// TODO: Just review.
-`}
+Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talent. Yet the best works of art are even *better* than the artists who make them. Why?
 
-Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their level of talent. Yet the best works of art are even *better* than the artists who make them. Why?
-
-Because they *also* benefit from so many revelatory insights that stem from the unconscious and can't be summoned at will. These insights come from letting thoughts drift in the shower, or daydreaming out of boredom; they won't happen if you're always context switching. So BYCombo lets you keep the artist hat on. You want your art to be *better* than you, and so do we.
+Because they *also* benefit from revelatory insights that stem from the unconscious and can't be summoned at will. These insights emerge when your thoughts drift in the shower, or you daydream out of boredom; but this won't happen if you're always context switching. So BYCombo lets you keep the artist hat on. You want your art to be *better* than you, and so do we.
 
 ### A pittance secures loyalty to the paradigm
 

@@ -14,7 +14,7 @@ Are you ready to sacrifice a serious chunk of lifetime to make rock history? Be 
 
 **Women and minorities are encouraged to apply!**
 
-As a rock movement *founded* by a minority, BYCombo was *conceived* to give disadvantaged groups the interdependence they naturally prefer and thrive under.
+As a rock movement *founded* by a minority, BYCombo was *conceived* to give disadvantaged groups the interdependence they intuitively prefer and thrive under.
 
 ### Who we're looking for
 
