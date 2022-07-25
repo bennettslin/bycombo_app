@@ -39,20 +39,20 @@ To make historically consequential art, a band has to develop exceptional streng
 **Why demos?**
 
 ${'  ' || `
-// TODO: Maybe don't make it so much about indie artists. Just a brief mention: Unlike indie artists… Also make sure example is good.
+// TODO: Mention in example, that I would have limited myself to what I could do in the present. And unconscious mind.
 `}
 
-An indie artist's self-released work is limited to what they can pull off in the *present*. But past artists made *demos*, and competing with them likely involves doing the same. Because a demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very *thought* to do so.
+Today's artists can self-release their works, so now they're expected to. This is a curse, *not* a blessing. Past artists made *demos*, and competing with them likely involves doing the same. Why? Because a demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very *thought* to do so.
 
-(My go-to example is [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7). I came up with the idea, and was motivated to pursue it, only because I thought I was making a demo.)
+For example, the idea for [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) came to me only because I thought I was making a demo.
 
 **Why a public registry?**
 
 ${'  ' || `
-// TODO: Make this fair, and better.
+// TODO: Make this fair, and better wording. Interdependent bands need to reach fans and insiders directly. To do this…
 `}
 
-Ambitious demos take time to fairly consider. But the indie gatekeepers have no need to put in this effort, because every artist they choose is charitably supported all the same. So with a public registry, interdependent bands can hope to win over non-indie music fans and industry insiders directly.
+Ambitious demos take time to fairly consider. But the indie gatekeepers have no need to put in this effort, because *any* artist they choose will be charitably supported. So with a public registry, interdependent bands can hope to win over non-indie music fans and industry insiders directly.
 
 This registry then allows our counterculture to offer interdependence as a *solution*. Otherwise, we'd look like curmudgeons for only ever pointing out indie rock's *problems*.
 
