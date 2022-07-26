@@ -34,6 +34,10 @@ But there *are* history-making bands to come; they're just unlikely to come toge
 
 **Why interdependence?**
 
+${'  ' || `
+// TODO: Phrase how it is in the Pareto package deal.
+`}
+
 To make historically consequential art, a band has to develop exceptional strengths. But this isn't humanly possible unless they stay weak in other areas. They *must* hold off on the administrative tasks that a label will later cover far more efficiently. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent. They *need* to partner with a label.
 
 **Why demos?**
@@ -46,9 +50,13 @@ Ambitious demos take time to fairly evaluate. But the indie gatekeepers feel no 
 
 **Why serious chunks of lifetime?**
 
+${'  ' || `
+// TODO: Non-indie?
+`}
+
 By lowering the barriers to entry, indie rock exhausted the public's trust for *all* aspiring artists. And because the system is decentralized, this trend can't be reversed. What rock needs now, then, is a centralized force like BYCombo to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime.
 
-After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to earn the public's trust.
+After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that an interdependent band can sacrifice to earn the public's trust.
 
 **Why has indie rock made music worse?**
 
