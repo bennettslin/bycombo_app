@@ -2,21 +2,22 @@ import React from 'react'
 import cx from 'classnames'
 import PropTypes from 'prop-types'
 import Anchor from '../Anchor'
+import ContactEmail from '../ContactEmail'
 import Flex from '../Flex'
 import Image from '../Image'
 import Markdown from '../Markdown'
 import Heading from '../Heading'
 import { getSmartQuotedText } from '../../utils/format/smartQuote'
+import { getDemoLinkPath } from '../../utils/pages/path'
 import './style'
-import ContactEmail from '../ContactEmail'
 
 const DemoLink = ({
     className,
+    year,
     band,
-    title,
+    project,
     email,
     description,
-    href,
     src,
 }) => (
     <Anchor
@@ -25,7 +26,11 @@ const DemoLink = ({
                 'DemoLink',
                 className,
             ),
-            href,
+            pagePath: getDemoLinkPath({
+                year,
+                band,
+                project,
+            }),
         }}
     >
         <Flex
@@ -57,7 +62,7 @@ const DemoLink = ({
                 }}
             >
                 <Heading {...{ level: 2 }}>
-                    <i>{getSmartQuotedText(title)}</i>
+                    <i>{getSmartQuotedText(project)}</i>
                 </Heading>
                 <Heading {...{ level: 3 }}>
                     {getSmartQuotedText(band)}
@@ -73,8 +78,9 @@ const DemoLink = ({
 
 DemoLink.propTypes = {
     className: PropTypes.string,
+    year: PropTypes.number.isRequired,
     band: PropTypes.string.isRequired,
-    title: PropTypes.string.isRequired,
+    project: PropTypes.string.isRequired,
     email: PropTypes.string.isRequired,
     description: PropTypes.string.isRequired,
     href: PropTypes.string.isRequired,

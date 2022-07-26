@@ -19,11 +19,11 @@ Please contact any of our bands directly if you have an offer or opportunity for
                 (
                     <DemoLink
                         {...{
+                            year: 2022,
                             band: `Bobtail Yearlings`,
-                            title: `Yearling's Bobtail`,
+                            project: `Yearling's Bobtail`,
                             email: `info@bobtailyearlings.com`,
                             description: `"A hundred *Yearling's Bobtail*s" has to start with the first! A double album and audio webcomic for "the *Ulysses* of rock albums."`,
-                            href: `https://www.yearlingsbobtail.com`,
                             src: bobtailYearlings,
                         }}
                     />

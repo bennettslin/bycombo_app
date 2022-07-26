@@ -1,4 +1,5 @@
-import { DOMAIN_NAME, HOME_PAGE, TABBED_PAGES_SET } from '../../../constants/pages'
+import slugify from 'slugify'
+import { DOMAIN_NAME, HOME_PAGE, REGISTRY_PAGE, TABBED_PAGES_SET } from '../../../constants/pages'
 
 export const getTopLevelPageFromPath = (path = '') => (
     path.split('/')[0]
@@ -31,3 +32,26 @@ export const getUrlFromPath = path => {
 export const getPathFromWindowLocation = locationPath => (
     locationPath === '/' ? HOME_PAGE : locationPath.replace('/', '')
 )
+
+export const getDemoLinkPath = ({
+    year,
+    band,
+    project,
+}) => [
+    REGISTRY_PAGE,
+    year,
+    slugify(
+        band,
+        {
+            lower: true,
+            strict: true,
+        },
+    ),
+    slugify(
+        project,
+        {
+            lower: true,
+            strict: true,
+        },
+    ),
+].join('/')
