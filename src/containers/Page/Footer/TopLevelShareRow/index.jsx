@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import { useSelector } from 'react-redux'
 import PageConfigContext from '../../../../contexts/PageConfig'
 import PageFooterRow from '../FooterRow'
-import TopLevelPageLink from './TopLevelPageLink'
+import BackLink from '../../BackLink'
 import ShareButtons from '../../../../components/ShareButtons'
 import { mapSelectedPagePath } from '../../../../redux/page/selector'
 import { getIsTabbedPath, getTopLevelPageFromPath } from '../../../../utils/pages/path'
@@ -25,8 +25,8 @@ const TopLevelShareRow = () => {
         <PageFooterRow
             isBottomRow
             {...{
-                leftChild: doRenderTopLevelPageLink && (
-                    <TopLevelPageLink />
+                leftChild: (
+                    <BackLink />
                 ),
                 rightChild: !noShare && (
                     <ShareButtons />
