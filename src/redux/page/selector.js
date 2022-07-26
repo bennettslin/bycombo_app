@@ -1,4 +1,5 @@
-import { getIsTabbedPath, getTopLevelPageFromPath } from '../../utils/pages/path'
+import { createSelector } from 'reselect'
+import { getTopLevelPageFromPath } from '../../utils/pages/path'
 import { PAGE_STORE } from '../../constants/store'
 
 export const mapSelectedPagePath = (
@@ -9,9 +10,9 @@ export const getMapIsSelectedPagePath = pagePath => (
     { [PAGE_STORE]: { selectedPagePath } },
 ) => pagePath === selectedPagePath
 
-export const getMapIsSelectedTabbedPath = pagePath => (
-    { [PAGE_STORE]: { selectedPagePath } },
-) => (
-    getIsTabbedPath(pagePath) &&
-    pagePath === getTopLevelPageFromPath(selectedPagePath)
+export const getMapIsSelectedMenuPath = topLevelPage => createSelector(
+    mapSelectedPagePath,
+    selectedPagePath => (
+        getTopLevelPageFromPath(selectedPagePath) === topLevelPage
+    ),
 )
