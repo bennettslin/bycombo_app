@@ -17,7 +17,7 @@ Indie rock is all about *lowering* the barriers to entry. To do this, it provide
 
 These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them; all they do is penalize those who *don't*. But… this is how *rules* work! Which is to say:
 
-**By *expecting* its artists to empower themselves, indie rock effectively *requires* them to do so. It then imposes its rules on *all* aspiring artists.**
+**By *expecting* its artists to empower themselves, indie rock effectively *requires* them to do so. It then imposes its rules on *all* unknown artists.**
 
 ### A call for a truce
 
@@ -37,11 +37,11 @@ Sadly, it's no longer enough to promise the best art. In a world of charitable s
 
 **To regain interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
-In other words, interdependence is waiting for… a rock martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And by *not* building a fanbase, I was able to invent [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7), and to code and illustrate the audio webcomic. What label *wouldn't* be happy with this tradeoff?
+In other words, interdependence is waiting for… a rock martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years!— on *Yearling's Bobtail*. And by *not* building a fanbase, I was able to invent [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7), and to code and illustrate the audio webcomic. What label *wouldn't* be happy with this tradeoff?
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast. As barriers to entry are lowered, the indie gatekeepers grow harried. So they'll always double down on requiring artists to use indie rock's tools, which serve to keep every work bite-sized and uniform with all others. This means the gatekeepers won't *ever* bother with an ambitious demo from a band who clearly didn't follow the rules.
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, making the indie gatekeepers grow harried. They then double down on requiring artists to use indie rock's tools, which serve to keep every work bite-sized and uniform with all others. This means they won't *ever* bother with an ambitious demo from a band who clearly didn't follow the rules.
 
 But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist puts time and energy into building a fanbase, they'll never agree that the best art comes from *not* doing so. And having paid their dues, they're now loyal to a status quo in which *every* artist has to struggle as inefficiently as *they* did. Which leads to the heart of the problem:
 
