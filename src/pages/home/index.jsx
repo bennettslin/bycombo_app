@@ -33,7 +33,7 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 
 The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to depend on the other. Indie artists now build a fanbase to show they can walk away from talks with a label. And labels, in turn, just bet on this fanbase instead of the artist's talent. Such a mess! So what's an interdependent band to do?
 
-Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective can be a label's deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build the fanbase that labels want to see. This leaves only one solution:
+Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective can be a label's deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build a fanbase that *can* be measured. This leaves only one solution:
 
 **To regain interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
