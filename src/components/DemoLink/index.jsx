@@ -43,12 +43,18 @@ const DemoLink = ({
             <Flex
                 {...{
                     className: cx(
-                        'DemoLink__image',
                         className,
                     ),
                 }}
             >
-                <Image {...{ src }} />
+                <Image
+                    {...{
+                        className: cx(
+                            'DemoLink__image',
+                        ),
+                        src,
+                    }}
+                />
             </Flex>
             <Flex
                 {...{
@@ -83,7 +89,6 @@ DemoLink.propTypes = {
     project: PropTypes.string.isRequired,
     email: PropTypes.string.isRequired,
     description: PropTypes.string.isRequired,
-    href: PropTypes.string.isRequired,
     src: PropTypes.string.isRequired,
 }
 
