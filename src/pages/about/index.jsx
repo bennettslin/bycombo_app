@@ -30,7 +30,7 @@ ${'  ' || `
 
 **Why assembled bands?**
 
-But there *are* history-making bands to come; they're just unlikely to come together on their *own*. How do four musicians committed to advancing the art form find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member? A centralized force like BYCombo is needed to reimagine what a rock band in the 21st century can *be*.
+There *are* history-making bands to come; they're just unlikely to come together on their *own* now. How do four musicians committed to advancing the art form find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member? A centralized force like BYCombo is needed to reimagine what a rock band in the 21st century can *be*.
 
 **Why interdependence?**
 
@@ -42,7 +42,7 @@ Indie artists self-release their works, paving the way for others. But this is a
 
 **Why a public registry?**
 
-Ambitious demos take time to fairly evaluate. But the indie gatekeepers feel no need to put in this effort, because *any* artist they choose will be charitably supported. So an interdependent band's only hope is to appeal directly to a counterculture that rejects indie rock's ideals. And now they can, by adding their demo to BYCombo's registry.
+Ambitious demos take time to fairly evaluate. But the indie gatekeepers have no need to put in this effort, because *any* artist they choose will be charitably supported. So an interdependent band's only hope is to appeal directly to a counterculture that rejects indie rock's ideals. And now they can, by adding their demo to BYCombo's registry.
 
 **Why serious chunks of lifetime?**
 
