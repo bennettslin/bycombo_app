@@ -41,7 +41,7 @@ In other words, interdependence is waiting for… a rock martyr. But martyrs are
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, making the indie gatekeepers grow harried. They then double down on requiring artists to use indie rock's tools, which serve to keep every work bite-sized and uniform with all others. This means they won't *ever* bother with an ambitious demo from a band who clearly didn't follow the rules.
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, which harries the indie gatekeepers. They then double down on requiring artists to use indie rock's tools, which serve to keep every work bite-sized and uniform with others. This means they won't *ever* bother with an ambitious demo from a band who clearly didn't follow the rules.
 
 But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist puts time and energy into building a fanbase, they'll never agree that the best art comes from *not* doing so. And having paid their dues, they're now loyal to a status quo in which *every* artist has to struggle as inefficiently as *they* did. Which leads to the heart of the problem:
 

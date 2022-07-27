@@ -4,7 +4,6 @@ import Page from '../../../../containers/Page'
 const Component = () => (
     <Page
         {...{
-            showContactEmail: true,
             body: `
 # Placeholder Yearling's Bobtail page!
 
