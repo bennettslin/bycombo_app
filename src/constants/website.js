@@ -1,7 +1,7 @@
 // MailChimp constants.
-export const EMAIL_ACTION = `https://bobtailyearlings.us4.list-manage.com/subscribe/post?u=7a9ef82a8d139c5688d0209ef&amp;id=13ca4c5861`
+export const EMAIL_ACTION = `https://bycombo.us10.list-manage.com/subscribe/post?u=f58f472a7c2927d831dd8e195&amp;id=c97df68266`
 export const EMAIL_NAME = 'EMAIL'
-export const EMAIL_DUMMY_NAME = 'b_7a9ef82a8d139c5688d0209ef_13ca4c5861'
+export const EMAIL_DUMMY_NAME = 'b_f58f472a7c2927d831dd8e195_c97df68266'
 
 // Can actually be anything, but keeping the MailChimp one for simplicity.
 export const EMAIL_ID = 'mce-EMAIL'
