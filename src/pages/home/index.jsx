@@ -41,11 +41,7 @@ In other words, interdependence is waiting for… a rock martyr. But martyrs are
 
 ### Who gatekeeps the gatekeepers?
 
-${'  ' || `
-// TODO: Phrasing?
-`}
-
-Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. Overwhelmed, the indie gatekeepers then double down on requiring artists to use indie rock's tools, which serve to keep every work bite-sized and uniform with others. This means they won't *ever* bother with an ambitious demo from a band who clearly didn't follow the rules.
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, which overwhelms the indie gatekeepers. And so they *need* artists to use indie rock's tools, in order to keep every work bite-sized and uniform with others. This means they'll never have patience for an ambitious demo from a band who didn't follow the rules.
 
 But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist puts time and energy into building a fanbase, they'll never agree that the best art comes from *not* doing so. And having paid their dues, they're now loyal to a status quo in which *every* artist has to struggle as inefficiently as *they* did. Which leads to the heart of the problem:
 
@@ -55,9 +51,9 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 
 The situation isn't hopeless, though: Some music fans *prefer* rock from its interdependent years, when artists *didn't* rely on charitable support. And industry insiders in other genres, like hip hop, have *only* ever worked interdependently.
 
-Plenty of them would love to hear an ambitious demo that breaks indie rock's rules— they're just jaded by a world with such low barriers to entry. Well, I have great news!
+Plenty of them would love to hear an ambitious demo that breaks the rules— they're just jaded by indie rock's low barriers to entry, which have led to a surplus of underwhelming artists. Well, here's great news!
 
-**To earn the trust of non-indie fans and insiders, interdependent bands can work with BYCombo, which enforces a steep *cost* of entry: a serious chunk of lifetime spent to advance the art form.**
+**Interdependent bands can earn the public's trust by adding their demo to BYCombo's registry, which has a steep *cost* of entry: a serious chunk of lifetime spent to advance the art form.**
 
 Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time; now to regain interdependence, they'll also be making our generation's most *accomplished* works. *This* is the next revolution in rock history!
             `,

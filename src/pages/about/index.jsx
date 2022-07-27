@@ -34,7 +34,7 @@ There *are* history-making bands to come; they're just unlikely to come together
 
 **Why interdependence?**
 
-To make consequential art, a band has to develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in areas where a label is far more efficient, like marketing and distribution. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent. They *need* to partner with a label.
+To make consequential art, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in those areas where a label is far more efficient, like marketing and distribution. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent. They *need* to partner with a label.
 
 **Why demos?**
 
@@ -43,7 +43,7 @@ Indie artists self-release their works, paving the way for others. But this is a
 **Why a public registry?**
 
 ${'  ' || `
-// TODO: Make it clear that BYCombo saves them
+// TODO: Make it clear that BYCombo saves them. And so there needs to be a registry trusted by the public where their demo can be found.
 `}
 
 Ambitious demos take time to fairly evaluate. But the indie gatekeepers have no need to put in this effort, because *any* artist they choose will be charitably supported. An interdependent band's only hope, then, is to appeal directly to a counterculture that rejects indie rock's ideals. And now they can do that, by adding their demo to BYCombo's registry.
@@ -51,10 +51,10 @@ Ambitious demos take time to fairly evaluate. But the indie gatekeepers have no 
 **Why serious chunks of lifetime?**
 
 ${'  ' || `
-// TODO: Phrasing, and repeat of then
+// TODO: Phrasing, and repeat of then. Make last sentence in first paragraph about earning trust.
 `}
 
-By lowering the barriers to entry, indie rock flooded the applicant pool— which then *raised* the public's defenses against unknown artists! And because the system is decentralized, this trend can't be reversed. What rock needs now, then, is a centralized force like BYCombo to enforce a steep *cost* of entry.
+Indie rock's low barriers to entry have flooded the applicant pool with too many underwhelming artists, causing the public to grow weary. But because indie rock is a decentralized system, it has no way to recognize this damage, let alone to reverse it. What rock needs now, then, is a centralized force like BYCombo to enforce a steep *cost* of entry.
 
 The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! And so there's nothing more precious that an interdependent band can sacrifice to earn the public's trust.
 
