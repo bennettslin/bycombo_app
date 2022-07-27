@@ -21,7 +21,7 @@ Countercultures are needed to protect dangerous ideas, and there hasn't been a c
 
 **Why historical consequence?**
 
-Critical acclaim can be inflated, which makes it worthless. What can *never* be hacked is the historical canon, because making history means competing on equal terms with past artists who *didn't* benefit from charitable support. In this light, it's likely that no indie artist today will be inducted— and *this* is why people gripe that rock is getting worse.
+Critical acclaim can be inflated, which makes it worthless. What can *never* be hacked is the historical canon, because making history means competing on equal terms with past artists who *didn't* benefit from charitable support. In this light, it's likely that *no* indie artist today will be inducted— and *this* is why people gripe that rock is getting worse.
 
 ${'  ' || `
 // TODO: Complete essay
@@ -42,11 +42,19 @@ Indie artists self-release their works, paving the way for others. But this is a
 
 **Why a public registry?**
 
-Ambitious demos take time to fairly evaluate. But the indie gatekeepers have no need to put in this effort, because *any* artist they choose will be charitably supported. So an interdependent band's only hope is to appeal directly to a counterculture that rejects indie rock's ideals— and now they can, by adding their demo to BYCombo's registry.
+${'  ' || `
+// TODO: Make it clear that BYCombo saves them
+`}
+
+Ambitious demos take time to fairly evaluate. But the indie gatekeepers have no need to put in this effort, because *any* artist they choose will be charitably supported. An interdependent band's only hope, then, is to appeal directly to a counterculture that rejects indie rock's ideals. And now they can do that, by adding their demo to BYCombo's registry.
 
 **Why serious chunks of lifetime?**
 
-By lowering the barriers to entry, indie rock flooded the applicant pool— which then raised the public's defenses against *all* unknown artists. And because the system is decentralized, this trend can't be reversed. What rock needs now, then, is a centralized force like BYCombo to enforce a steep *cost* of entry.
+${'  ' || `
+// TODO: Phrasing, and repeat of then
+`}
+
+By lowering the barriers to entry, indie rock flooded the applicant pool— which then *raised* the public's defenses against unknown artists! And because the system is decentralized, this trend can't be reversed. What rock needs now, then, is a centralized force like BYCombo to enforce a steep *cost* of entry.
 
 The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! And so there's nothing more precious that an interdependent band can sacrifice to earn the public's trust.
 
