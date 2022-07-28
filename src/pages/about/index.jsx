@@ -17,7 +17,7 @@ There's just one problem: Indie rock isn't really a *genre* so much as it's a *s
 
 **Why an anti-indie counterculture?**
 
-A counterculture is needed to protect dangerous ideas, yet there hasn't been one for a while. Meanwhile, indie rock has made music worse, despite its good intentions. But… what if rock has gotten worse precisely *because* of all this well-intentioned support for indie artists? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
+A counterculture is needed to protect dangerous ideas, yet there hasn't been one for a while. Meanwhile, indie rock has made music worse, despite its good intentions. But… what if rock has gotten worse precisely *because* of so much well-intentioned support for indie artists? This is a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
 **Why historical consequence?**
 
@@ -42,13 +42,13 @@ A demo shows what a work can be in the *future*, with the help of a label. This 
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie gatekeepers feel no need to put in this effort, since any artist they choose will be charitably supported all the same. An interdependent band's only hope, then, is to appeal to the music fans of a counterculture that *rejects* indie rock's ideals. And a public registry is how they'll find each other.
+It takes time to review an ambitious demo— but the indie gatekeepers feel no need to put in this effort, since any artist they choose will be charitably supported just the same. So an interdependent band's only hope is to appeal to the music fans of a counterculture that *rejects* indie rock's ideals— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
 
-Low barriers to entry have flooded the applicant pool with underwhelming artists, causing the public to grow distrustful. But because indie rock is a decentralized system, it can't recognize this damage, let alone reverse it. Which means only a centralized force like BYCombo can save rock. And the way to do so is by enforcing a steep *cost* of entry.
+Low barriers to entry have led to a surplus of underwhelming artists, causing the public to grow weary. But being a decentralized system, indie rock can't recognize this damage, let alone reverse it. To save rock, then, a centralized force like BYCombo has to step up and enforce a steep *cost* of entry.
 
-This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! And so there's nothing more precious that an interdependent band can sacrifice to earn the public's trust.
+The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! And so there's nothing more precious that an interdependent band can sacrifice to earn the public's trust.
 
 **Why has indie rock made music worse?**
 
