@@ -4,11 +4,19 @@ import Page from '../../../../containers/Page'
 const Component = () => (
     <Page
         {...{
-            body: `
+            body: [
+                `
 # Placeholder Yearling's Bobtail page!
 
-Blah blah blah
-            `,
+**How does this advance the art form?**
+
+Placeholder content!
+
+**What other projects are there?**
+
+More placeholder content!
+                `,
+            ],
         }}
     />
 )

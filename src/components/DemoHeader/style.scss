@@ -1,0 +1,24 @@
+@import '../../scss/constants/colours';
+@import '../../scss/constants/responsive';
+
+.DemoHeader {
+    color: $colour__text__dark;
+
+    padding: $margin__xs;
+
+    @media (min-width: $breakpoint__sm) {
+        padding: $margin__sm;
+    }
+}
+
+.DemoHeader__image {
+    width: $length__icon__lg * 3;
+
+    @media (min-width: $breakpoint__sm) {
+        width: $length__icon__lg * 4;
+    }
+
+    @media (min-width: $breakpoint__md) {
+        width: $length__icon__lg * 5;
+    }
+}
