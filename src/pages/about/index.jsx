@@ -9,7 +9,7 @@ const Component = () => (
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people are disillusioned, and some now agree with me. Which means the interdependence revolution can finally begin!
 
-There's just one problem: Indie rock isn't really a *genre* so much as it's a *system*. How do we revolt, when every system protects a status quo by design? Luckily, I've spent half my life figuring this out as well:
+There's just one problem: Indie rock isn't really a *genre* so much as it's a *system*. How do we revolt, when every system preserves a status quo by design? Luckily, I've spent half my life figuring this out as well:
 
 **BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then store in a public registry to sustain an anti-indie counterculture.**
 
@@ -17,7 +17,7 @@ There's just one problem: Indie rock isn't really a *genre* so much as it's a *s
 
 **Why an anti-indie counterculture?**
 
-Countercultures are needed to protect dangerous ideas, and there hasn't been a counterculture for a while. Meanwhile, even as indie rock has made music worse, we've all adopted its good intentions. But… what if rock has gotten worse *because* of all our well-intentioned support for indie artists? This is a dangerous idea, yet it might be rock's only hope— so let's protect it.
+A counterculture is needed to protect dangerous ideas, yet there hasn't been one for a while. Meanwhile, indie rock has made music worse, despite its good intentions. But… what if rock has gotten worse precisely *because* of all this well-intentioned support for indie artists? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
 **Why historical consequence?**
 
@@ -42,11 +42,11 @@ Indie artists self-release their works, paving the way for others. But this is a
 
 **Why a public registry?**
 
-Ambitious demos take time to fairly evaluate. But the indie gatekeepers have no need to put in this effort, because *any* artist they choose will be charitably supported. This means an interdependent band's only hope is to appeal to all those who *reject* indie rock's ideals. And so there needs to be a public registry where this anti-indie counterculture knows to find such bands.
+Ambitious demos take time to fairly evaluate— but the indie gatekeepers have no need to put in this effort, because whichever artists they choose will be charitably supported. So an interdependent band's only hope is to appeal to all those who *reject* indie rock's ideals. And a public registry is where this anti-indie counterculture will know to find such bands.
 
 **Why serious chunks of lifetime?**
 
-Indie rock's low barriers to entry have flooded the applicant pool with too many underwhelming artists, causing the public to grow distrustful. But because indie rock is a decentralized system, it can't even recognize this damage, let alone reverse it. What rock needs now, then, is a centralized force like BYCombo to rebuild trust by enforcing a steep *cost* of entry.
+Low barriers to entry have flooded the applicant pool with underwhelming artists, causing the public to grow distrustful. But because indie rock is a decentralized system, it can't even recognize this damage, let alone reverse it. What rock needs now, then, is a centralized force like BYCombo to rebuild trust by enforcing a steep *cost* of entry.
 
 The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! And so there's nothing more precious that an interdependent band can sacrifice to earn the public's trust.
 
@@ -70,7 +70,7 @@ Yet few of us care that a past artist hustled to build a fanbase, while nearly e
 
 Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talent. Yet the best works of art are even *better* than the artists who make them. Why?
 
-Because they *also* benefit from revelatory insights that stem from the unconscious and can't be summoned at will. These insights emerge when your thoughts drift in the shower, or you daydream out of boredom; but this won't happen if you're always context switching. So BYCombo lets you keep the artist hat on. You want your art to be *better* than you, and so do we.
+Because they *also* benefit from revelatory insights that stem from the unconscious and can't be summoned at will. These insights emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So BYCombo lets you keep the artist hat on. *You* want your art to be better than you, and so do *we*.
 
 ### A pittance secures loyalty to the paradigm
 
