@@ -38,11 +38,11 @@ To make consequential art, a band must develop exceptional strengths. But this i
 
 **Why demos?**
 
-Indie artists self-release their works, paving the way for others. But this is a curse, *not* a blessing. Past artists made *demos*— and competing with them likely involves doing the same. After all, a demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so.
+A demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so. Indie artists today may be empowered to self-release their works, but this is a *curse*, not a *blessing*. Past artists made *demos*— and competing with them likely involves doing the same.
 
 **Why a public registry?**
 
-Ambitious demos take time to fairly evaluate— but the indie gatekeepers have no need to put in this effort, because whichever artists they choose will be charitably supported. So an interdependent band's only hope is to appeal to all those who *reject* indie rock's ideals. And a public registry is where this anti-indie counterculture will know to find such bands.
+Ambitious demos take time to fairly evaluate— but the indie gatekeepers feel no need to put in this effort, knowing that *whichever* artists they choose will be charitably supported. So an interdependent band's only hope is to appeal to all those who *reject* indie rock's ideals. And a public registry is where this anti-indie counterculture will know to find such bands.
 
 **Why serious chunks of lifetime?**
 
