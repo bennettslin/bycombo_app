@@ -1,7 +1,7 @@
 import React from 'react'
 import DemoLink from '../../components/DemoLink'
 import Page from '../../containers/Page'
-import bobtailYearlings from '../../assets/images/bobtailYearlings.png'
+import bobtailYearlings from '../../content/registry/2022/bobtail-yearlings/yearlings-bobtail'
 
 const Component = () => (
     <Page
@@ -17,16 +17,7 @@ But remember, the indie gatekeepers will *ignore* these demos. So if rock is to 
 Please contact any of our bands directly if you have an offer or opportunity for them to consider!
                 `,
                 (
-                    <DemoLink
-                        {...{
-                            year: 2022,
-                            band: `Bobtail Yearlings`,
-                            project: `Yearling's Bobtail`,
-                            email: `info@bobtailyearlings.com`,
-                            description: `"A hundred *Yearling's Bobtail*s" has to start with the first! A double album and audio webcomic for "the *Ulysses* of rock albums."`,
-                            src: bobtailYearlings,
-                        }}
-                    />
+                    <DemoLink {...bobtailYearlings} />
                 ),
             ],
         }}
