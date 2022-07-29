@@ -15,11 +15,7 @@ const BackLink = () => {
         topLevelPage !== selectedPagePath &&
         !getIsTabbedPath(selectedPagePath)
     ) && (
-        <Flex
-            {...{
-                justifyContent: 'normal',
-            }}
-        >
+        <Flex {...{ justifyContent: 'normal' }} >
             <Anchor {...{ pagePath: topLevelPage }} >
                 ❮ Back to {getCapitalizedText(topLevelPage)}
             </Anchor>

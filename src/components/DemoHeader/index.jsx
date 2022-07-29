@@ -61,13 +61,15 @@ const DemoHeader = ({
                 <Markdown>
                     {description}
                 </Markdown>
-                <Anchor {...{ href }}>
-                    {
-                        href
-                            .replace('http://', '')
-                            .replace('https://', '')
-                    }
-                </Anchor>
+                <Flex {...{ justifyContent: 'normal' }} >
+                    <Anchor {...{ href }}>
+                        {
+                            href
+                                .replace('http://', '')
+                                .replace('https://', '')
+                        }
+                    </Anchor>
+                </Flex>
                 <ContactEmail {...{ email }} />
             </Flex>
         </Flex>
