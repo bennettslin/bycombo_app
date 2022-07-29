@@ -42,11 +42,11 @@ A demo shows what a work can be in the *future*, with the help of a label. This 
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie gatekeepers feel no need to put in this effort, since any artist they choose will be charitably supported just the same. So an interdependent band's only hope is to appeal to the music fans of a counterculture that *rejects* indie rock's ideals— and a public registry is where they'll find each other.
+It takes time to review an ambitious demo— but the indie gatekeepers feel no need to put in this effort, since any artist they choose will be charitably supported just the same. So an interdependent band's only hope is to appeal to a counterculture that *rejects* indie rock's ideals— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
 
-Low barriers to entry have led to a surplus of underwhelming artists, causing the public to grow weary. But being a decentralized system, indie rock can't recognize this damage, let alone reverse it. To save rock, then, a centralized force like BYCombo has to step up and enforce a steep *cost* of entry.
+Low barriers to entry have led to a surplus of underwhelming artists, causing the public to grow weary. But being a decentralized system, indie rock can't recognize this damage, let alone reverse it. To save rock, then, a centralized force like BYCombo must now step up and enforce a steep *cost* of entry.
 
 The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! And so there's nothing more precious that an interdependent band can sacrifice to earn the public's trust.
 

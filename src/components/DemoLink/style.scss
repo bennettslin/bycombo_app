@@ -6,14 +6,7 @@
     color: $colour__text__dark;
     transition: background-color $transitionDuration__slow;
 
-    padding: $margin__xs;
-
-    @media (min-width: $breakpoint__sm) {
-        padding: $margin__sm;
-    }
-
     &:hover {
-        color: $colour__text__dark !important;
         background-color: $colour__background__medium;
     }
 
@@ -23,17 +16,5 @@
         .Heading {
             color: $colour__primary__medium;
         }
-    }
-}
-
-.DemoLink__image {
-    width: $length__icon__lg * 3;
-
-    @media (min-width: $breakpoint__sm) {
-        width: $length__icon__lg * 4;
-    }
-
-    @media (min-width: $breakpoint__md) {
-        width: $length__icon__lg * 5;
     }
 }

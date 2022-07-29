@@ -1,24 +1,9 @@
 import React from 'react'
-import Page from '../../../../containers/Page'
+import DemoPage from '../../../../containers/Pages/Demo'
+import bobtailYearlings from '../../../../content/registry/2022/bobtail-yearlings/yearlings-bobtail'
 
 const Component = () => (
-    <Page
-        {...{
-            body: [
-                `
-# Placeholder Yearling's Bobtail page!
-
-**How does this advance the art form?**
-
-Placeholder content!
-
-**What other projects are there?**
-
-More placeholder content!
-                `,
-            ],
-        }}
-    />
+    <DemoPage {...bobtailYearlings} />
 )
 
 export default Component
