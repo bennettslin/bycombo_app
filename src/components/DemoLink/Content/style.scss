@@ -9,6 +9,14 @@
     @media (min-width: $breakpoint__sm) {
         padding: $margin__sm;
     }
+
+    &:active {
+        color: $colour__neutral__dark !important;
+
+        .Heading {
+            color: $colour__primary__medium;
+        }
+    }
 }
 
 .DemoLinkContent__image {

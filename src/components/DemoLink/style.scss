@@ -1,20 +1,10 @@
 @import '../../scss/constants/colours';
-@import '../../scss/constants/responsive';
 @import '../../scss/constants/transition';
 
 .DemoLink {
-    color: $colour__text__dark;
     transition: background-color $transitionDuration__slow;
 
     &:hover {
         background-color: $colour__background__medium;
-    }
-
-    &:active {
-        color: $colour__neutral__dark !important;
-
-        .Heading {
-            color: $colour__primary__medium;
-        }
     }
 }
