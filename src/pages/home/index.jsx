@@ -51,7 +51,7 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 
 The situation isn't hopeless, though: Some music fans *prefer* rock from its interdependent years, when artists *didn't* rely on charitable support. And industry insiders in other genres, like hip hop, have *only* ever worked interdependently.
 
-Plenty of them would love to hear an ambitious demo that breaks the rules— they're just jaded by indie rock's low barriers to entry, which have led to a surplus of underwhelming artists. Well, here's great news!
+Plenty of them would love to hear an ambitious demo that breaks the rules— they've just been jaded by indie rock's low barriers to entry, which have led to a surplus of underwhelming artists. Well, here's great news!
 
 **Interdependent bands can earn the public's trust by adding their demo to BYCombo's registry, which has a steep *cost* of entry: a serious chunk of lifetime spent to advance the art form.**
 
