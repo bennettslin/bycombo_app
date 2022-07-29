@@ -1,18 +1,32 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import removeMarkdown from 'remove-markdown'
 import Page from '../../Page'
 import DemoHeader from '../../../components/DemoHeader'
+import { getSmartQuotedText } from '../../../utils/format/smartQuote'
 
 const DemoPage = ({
     advancementText,
     otherProjectsText,
+    project,
+    description,
     ...rest
 }) => (
     <Page
         {...{
+            title: project,
+            description: removeMarkdown(
+                getSmartQuotedText(description),
+            ),
             body: [
                 (
-                    <DemoHeader {...rest} />
+                    <DemoHeader
+                        {...{
+                            project,
+                            description,
+                            ...rest,
+                        }}
+                    />
                 ),
                 `
 **How does this project advance the art form?**
@@ -29,6 +43,8 @@ ${otherProjectsText}
 )
 
 DemoPage.propTypes = {
+    project: PropTypes.string.isRequired,
+    description: PropTypes.string.isRequired,
     advancementText: PropTypes.string.isRequired,
     otherProjectsText: PropTypes.string.isRequired,
 }
