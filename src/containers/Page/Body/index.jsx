@@ -4,15 +4,15 @@ import PageConfigContext from '../../../contexts/PageConfig'
 import ContactEmail from '../../../components/ContactEmail'
 import Markdown from '../../../components/Markdown'
 import Heading from '../../../components/Heading'
-import { getSmartQuotedText } from '../../../utils/format/smartQuote'
+// import { getSmartQuotedText } from '../../../utils/format/smartQuote'
 import { getHeaderFromDate } from '../../../utils/format/dates'
 import './style'
 
 const Body = () => {
     const {
-        pageHeading,
-        titleHeading,
-        title,
+        // pageHeading,
+        // titleHeading,
+        // title,
         date,
         body,
         showContactEmail,
@@ -26,9 +26,9 @@ const Body = () => {
                 ),
             }}
         >
-            <Heading>
+            {/* <Heading>
                 {getSmartQuotedText(pageHeading || titleHeading || title)}
-            </Heading>
+            </Heading> */}
             <Heading {...{ level: 5 }}>
                 {getHeaderFromDate(date)}
             </Heading>

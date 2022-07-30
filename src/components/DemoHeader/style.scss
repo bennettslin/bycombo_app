@@ -6,13 +6,13 @@
 }
 
 .DemoHeader__image {
-    width: $length__icon__lg * 3;
+    width: $length__icon__md * 3;
 
     @media (min-width: $breakpoint__sm) {
-        width: $length__icon__lg * 4;
+        width: $length__icon__md * 4;
     }
 
     @media (min-width: $breakpoint__md) {
-        width: $length__icon__lg * 5;
+        width: $length__icon__md * 5;
     }
 }

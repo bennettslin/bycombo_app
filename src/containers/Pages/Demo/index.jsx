@@ -28,6 +28,7 @@ const DemoPage = ({
                         }}
                     />
                 ),
+                description,
                 `
 **How does this project advance the art form?**
 

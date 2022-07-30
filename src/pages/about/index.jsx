@@ -25,6 +25,10 @@ Critical acclaim can be inflated; as such, it's a terrible barometer. What *can'
 
 **Why assembled bands?**
 
+${'  ' || `
+// TODO: Talk more about decentralized system.
+`}
+
 Going forward, making history will require deliberate intent and massive effort— but it *can* happen. So there *are* canonical bands still to come; they're just unlikely to come together on their *own* now. How do four musicians committed to advancing the art form find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member?
 
 To compete with the past, today's artists need to fully reimagine what a rock band in the 21st century can *be*. And only a centralized force like BYCombo can give them that freedom.
