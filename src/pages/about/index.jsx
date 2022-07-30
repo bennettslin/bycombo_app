@@ -25,10 +25,6 @@ Critical acclaim can be inflated; as such, it's a terrible barometer. What *can'
 
 **Why assembled bands?**
 
-${'  ' || `
-// TODO: Just review.
-`}
-
 Has rock fully explored all the ways a band can come together? It might seem like it. Ditch the notion that they must come together on their *own*, however, and it's clear that rock has only scratched the surface.
 
 What if musicians dead set on making history could instantly find each other across the globe? What if a cartoonist or a dancer could readily join as a full-fledged member? With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized force like BYCombo to make it possible.
