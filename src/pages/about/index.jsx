@@ -29,9 +29,9 @@ ${'  ' || `
 // TODO: Just review.
 `}
 
-It might seem like we've exhausted all the ways a rock band can come together. Ditch the notion that they have to come together on their *own*, however, and it's clear we've only scratched the surface.
+Has rock fully explored all the ways a band can come together? It might seem like it. Ditch the notion that they must come together on their *own*, however, and it's clear that rock has only scratched the surface.
 
-What if musicians dead set on making history could instantly find each other across the globe? What if a cartoonist or a dancer could readily join as a full-fledged member? Given the possibilities for innovation left, there most certainly *are* canonical bands still to come— all that's needed is a centralized force like BYCombo to make it happen.
+What if musicians dead set on making history could instantly find each other across the globe? What if a cartoonist or a dancer could readily join as a full-fledged member? With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized force like BYCombo to make it possible.
 
 **Why interdependence?**
 
@@ -65,13 +65,13 @@ Indie rock is clearly the conservative party of rock— yet its ideals are treat
 
 A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression, no less than it does to build a fanbase— and indie rock prioritizes the latter. As such, its aesthetic is proudly *defined* by a lack of widespread appeal.
 
-Yet few of us care that a past artist hustled to build a fanbase, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with composing your best hooks. So BYCombo gives you all the time you need.
+Yet few of us care that a past artist hustled to build a fanbase, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with composing your best hooks. Which is why BYCombo gives you all the time you need.
 
 ### Insightful revelation requires a single hat
 
 Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talent. Yet the best works of art are even *better* than the artists who make them. Why?
 
-Because they *also* benefit from revelatory insights that stem from the unconscious and can't be summoned at will. These insights emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So BYCombo lets you keep the artist hat on. *You* want your art to be better than you, and so do *we*.
+Because they *also* benefit from revelatory insights that stem from the unconscious and can't be summoned at will. These insights emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. You want your art to be better than you, and so does BYCombo.
 
 ### A pittance secures loyalty to the paradigm
 
