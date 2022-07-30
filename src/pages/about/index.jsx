@@ -26,12 +26,12 @@ Critical acclaim can be inflated; as such, it's a terrible barometer. What *can'
 **Why assembled bands?**
 
 ${'  ' || `
-// TODO: Talk more about decentralized system.
+// TODO: Just review.
 `}
 
-Going forward, making history will require deliberate intent and massive effort— but it *can* happen. So there *are* canonical bands still to come; they're just unlikely to come together on their *own* now. How do four musicians committed to advancing the art form find each other across the globe? How does a cartoonist or a dancer join as a full-fledged member?
+It might seem like we've exhausted all the ways a rock band can come together. Ditch the notion that they have to come together on their *own*, however, and it's clear we've only scratched the surface.
 
-To compete with the past, today's artists need to fully reimagine what a rock band in the 21st century can *be*. And only a centralized force like BYCombo can give them that freedom.
+What if musicians dead set on making history could instantly find each other across the globe? What if a cartoonist or a dancer could readily join as a full-fledged member? Given the possibilities for innovation left, there most certainly *are* canonical bands still to come— all that's needed is a centralized force like BYCombo to make it happen.
 
 **Why interdependence?**
 
@@ -39,7 +39,7 @@ To make consequential art, a band must develop exceptional strengths. But this i
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so. Yes, today's artists now have the means to self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and competing with them likely involves doing the same.
+A demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so. Yes, today's artists now have the means to self-release their works, but this is a *curse*, not a *blessing*. Past artists made *demos*— and competing with them means doing likewise.
 
 **Why a public registry?**
 
