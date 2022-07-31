@@ -44,10 +44,10 @@ In other words, interdependence is waiting for… a rock martyr. But martyrs are
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. For this reason, the labels will refuse any ambitious demos from bands who clearly didn't follow the rules.
 
 ${'  ' || `
-// TODO: Eventually make paid dues its own section on About page? With A players. Make *that* about runaway effects? And make self-reliance more about privilege?
+// TODO: Here, talk more about charitable support given to them by fans and writers. Move paid dues over to A players section.
 `}
 
-But worse, the concept of interdependence *itself* can never take root. Indie artists build their own fanbase; they'll never agree that the best art comes from *not* doing so. And having paid their dues, they're now loyal to a status quo in which *every* artist struggles as inefficiently as *they* did. Which leads to the heart of the problem:
+But worse, the concept of interdependence *itself* can never take root. Once an indie artist builds their own fanbase, they'll never agree that the best art comes from *not* doing so. And having paid their dues, they're now loyal to a status quo in which *every* artist struggles as inefficiently as *they* did. Which leads to the heart of the problem:
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to regain interdependence— and we'll never hear about it.**
 

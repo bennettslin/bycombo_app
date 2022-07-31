@@ -61,11 +61,11 @@ Political conservatives want socioeconomic *indie*-pendence. Which is fine, sinc
 
 Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when bands struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. With BYCombo, you can now join the opposition, which advocates for the interdependence you've always wanted but didn't know was possible.
 
-### History wants hooks, not hustles
+### History remembers hooks
 
 A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression, no less than it does to build a fanbase— and indie rock prioritizes the latter. As such, its aesthetic is proudly *defined* by a lack of widespread appeal.
 
-Yet few of us care that a past artist hustled to build a fanbase, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with composing your best hooks. Which is why BYCombo gives you all the time you need.
+Yet few of us care that a past artist built a fanbase on their own, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with crafting your best hooks. Which is why BYCombo gives you all the time you need.
 
 ### Insightful revelation requires a single hat
 
@@ -77,7 +77,7 @@ Because they *also* benefit from revelatory insights that stem from the unconsci
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal: Indie artists seek power while indie labels relinquish it, with *no one* taking any risks.
 
-Because indie artists strive to get paid from the get-go, they're instantly beholden to the current paradigm, which promises to empower them. For this reason, BYCombo encourages its bands to embrace being powerless and unpaid in their early years: While you have nothing to lose, what paradigms are you free to challenge?
+Because indie artists strive to get paid from the get-go, they're instantly beholden to the current paradigm, given its promises to empower them. For this reason, BYCombo encourages bands to embrace being powerless and unpaid in their early years: While you have nothing to lose, what paradigms are you free to challenge?
 
 ### Masses join revolutions *last*
 
@@ -87,13 +87,17 @@ Revolutions may *start* with powerless outsiders, but they're *spread* by powerf
 
 ### Responsible revolutions plan for runaway effects
 
+${'  ' || `
+// TODO: Split this in two. Make one about A players, paid dues, the hustle, possibly hip hop. Make another about self-reliance amounting to privilege. Make runaway effects the general theme, but not in title.
+`}
+
 Indie rock is all about rewarding artists who bypass the middleman. But if the middleman's job is simple enough for any artist to do themselves, then a wealthy artist can just pay someone *else* to do it— including, ironically, a former middleman! And so indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
 Won't interdependence see a runaway effect as well? Yes, but it's foreseeably a race to the *top*. Taking BYCombo's approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— but this basically *guarantees* they'll be remembered by history!
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
-Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: originality and talent born from hunger. And BYCombo is the latest case in point.
+Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: originality and talent born from an outsider's hunger. And BYCombo is the latest case in point.
 
 Don't be fooled by indie rock's recent embrace of female and minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. Meanwhile, BYCombo was *conceived* to serve disadvantaged groups. I know firsthand that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
