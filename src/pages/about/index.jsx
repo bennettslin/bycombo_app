@@ -35,7 +35,7 @@ To make consequential art, a band must develop exceptional strengths. But this i
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so. Yes, today's artists now have the means to self-release their works, but this is a *curse*, not a *blessing*. Past artists made *demos*— and competing with them means doing likewise.
+A demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so. Yes, today's artists now have the means to self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and competing with them means doing likewise.
 
 **Why a public registry?**
 
@@ -53,7 +53,7 @@ Here's an incomplete list of reasons…
 
 ### Art needs an opposition party
 
-Political conservatives want socioeconomic *indie*-pendence. Which is fine, since no one mistakes this for a universal ideal. Liberals, their opponents, would rather have *inter*-dependence. We then hold elections to promote healthy competition, as each of us decides which side speaks more to our circumstances.
+Political conservatives want socioeconomic *indie*-pendence. Which is fine, since no one mistakes this for a universal ideal. Liberals, their opponents, would rather have *inter*-dependence. And so we hold elections to promote healthy competition, as each of us decides which side speaks more to our circumstances.
 
 Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when bands struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. With BYCombo, you can now join the opposition, which advocates for the interdependence you've always wanted but didn't know was possible.
 
@@ -71,7 +71,7 @@ Because they *also* benefit from revelatory insights that stem from the unconsci
 
 ### A pittance secures loyalty to the paradigm
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal. Its artists seek power while its labels relinquish it, with *no one* taking any risks.
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal: Indie artists seek power while indie labels relinquish it, with *no one* taking any risks.
 
 Because indie artists strive to get paid from the get-go, they're instantly beholden to the current paradigm, which promises to empower them. For this reason, BYCombo encourages its bands to embrace being powerless and unpaid in their early years: While you have nothing to lose, what paradigms are you free to challenge?
 
