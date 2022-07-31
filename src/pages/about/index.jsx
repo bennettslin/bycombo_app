@@ -31,7 +31,7 @@ Critical acclaim can be inflated; as such, it's a terrible barometer. What *can'
 
 Has rock fully explored all the ways a band can come together? It might seem like it. Ditch the notion that they must come together on their *own*, however, and it's clear that rock has only scratched the surface.
 
-What if musicians dead set on making history could instantly find each other across the globe? What if a cartoonist or a dancer could readily join as a full-fledged member? With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized force like BYCombo to make it possible.
+What if musicians committed to making history could instantly find each other across the globe? What if a cartoonist or a dancer could readily join as a full-fledged member? With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized force like BYCombo to help them come together.
 
 **Why interdependence?**
 
@@ -43,7 +43,7 @@ A demo shows what a work can be in the *future*, with the help of a label. This 
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie gatekeepers feel no need to put in this effort, since *any* artist they choose will be charitably supported just the same. So an interdependent band's only hope is to appeal to a counterculture that *rejects* indie rock's ideals— and a public registry is how they can find each other.
+It takes time to review an ambitious demo— but the indie gatekeepers refuse to put in this effort, knowing that *any* artist they choose will be charitably supported just the same. So an interdependent band's only hope is to appeal to a counterculture that *rejects* indie rock's good intentions— and a public registry is where they'll know to find each other.
 
 **Why serious chunks of lifetime?**
 
