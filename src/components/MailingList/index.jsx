@@ -1,16 +1,18 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import cx from 'classnames'
 import MailingListInputs from './Inputs'
 import { getSmartQuotedText } from '../../utils/format/smartQuote'
 import { EMAIL_ACTION } from '../../constants/website'
 import './style'
 
-const MailingList = () => (
+const MailingList = ({ isWide }) => (
     <form
         noValidate
         {...{
             className: cx(
                 'MailingList',
+                isWide && 'MailingList__wide',
             ),
             action: EMAIL_ACTION,
             method: 'post',
@@ -28,5 +30,9 @@ const MailingList = () => (
         </div>
     </form>
 )
+
+MailingList.propTypes = {
+    isWide: PropTypes.bool,
+}
 
 export default MailingList
