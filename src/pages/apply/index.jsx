@@ -14,7 +14,7 @@ Are you ready to sacrifice a serious chunk of lifetime to make rock history? Be 
 
 **Women, minorities, and other disadvantaged groups are encouraged to apply!**
 
-As a rock movement *founded* by a minority, BYCombo was *conceived* to give disadvantaged groups the interdependence they intuitively prefer and thrive under.
+As a rock movement *founded* by a minority, BYCombo was *conceived* to give disadvantaged groups the interdependence they naturally prefer and thrive under.
 
 ### Who we're looking for
 
@@ -25,7 +25,7 @@ Perhaps you're one of the following:
 * An artist of another medium: animator, web developer…
 * An administrator: manager, social media guru…
 
-We'll set you up with a few prospective bandmates. You'll review each other's links and videos, then meet online. If everyone agrees to form a band, you'll relocate to Los Angeles or another major city. After you've settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
+We'll set you up with prospective bandmates who match your musical preferences and skill levels. You'll review each other's links and videos, then meet online. If everyone agrees to form a band, you'll relocate to Los Angeles or another major city. After you've settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
 
 There are no legal contracts or fees. We'll just ask you to make a nonbinding pledge to be vaccinated, to respect pronouns, and so forth.
 
