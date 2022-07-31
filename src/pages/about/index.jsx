@@ -21,6 +21,10 @@ A counterculture is needed to protect dangerous ideas, yet there hasn't been one
 
 **Why historical consequence?**
 
+${'  ' || `
+// TODO: Add link to "Five vowels."
+`}
+
 Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the historical canon, because making history means competing on equal terms with past artists, who *didn't* rely on charitable support. In this light, it's obvious that *no* indie artist today will likely be inducted— and *this* is why people gripe that rock is getting worse.
 
 **Why assembled bands?**
