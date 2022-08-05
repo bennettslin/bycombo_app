@@ -3,6 +3,7 @@ import bobtailYearlings from '../../../../assets/images/bobtailYearlings.png'
 export default {
     year: 2022,
     email: `info@bobtailyearlings.com`,
+    bandUrl: `https://bobtailyearlings.com`,
     projectUrl: `https://yearlingsbobtail.com`,
     overviewUrl: `https://yearlingsbobtail.com/promo/onesheet`,
     band: `Bobtail Yearlings`,

@@ -13,6 +13,7 @@ import './style'
 const DemoHeader = ({
     band,
     project,
+    bandUrl,
     projectUrl,
     overviewUrl,
     email,
@@ -59,7 +60,7 @@ const DemoHeader = ({
                 </Heading>
                 <Markdown>
                     {`
-[project website](${projectUrl}) • [project overview](${overviewUrl})
+[overview](${overviewUrl}) • [project](${projectUrl}) • [band](${bandUrl})
                     `}
                 </Markdown>
                 {/* <Flex
@@ -87,6 +88,7 @@ DemoHeader.propTypes = {
     band: PropTypes.string.isRequired,
     project: PropTypes.string.isRequired,
     description: PropTypes.string.isRequired,
+    bandUrl: PropTypes.string.isRequired,
     projectUrl: PropTypes.string.isRequired,
     overviewUrl: PropTypes.string.isRequired,
     email: PropTypes.string.isRequired,
