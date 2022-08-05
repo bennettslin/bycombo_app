@@ -104,7 +104,11 @@ Don't be fooled by indie rock's recent embrace of female and minority artists. T
 ### Art needs the blood of martyrs
 
 ${'  ' || `
-// TODO: Innovation, by its very nature, is never fairly compensated.
+// TODO: Find right way to phrase these ideas.
+
+This is a problem, because *only* the selfless can lift rock up from its current stagnation.
+
+Pioneering invention is a raw deal; The pioneers who invent the raw ideas and sounds for the next generation are never fairly compensated for their efforts. So if rock is ever to be reinvented…
 `}
 
 Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. On top of that, it means we're effectively rooting *against* the selfless— who start at a disadvantage to begin with.
