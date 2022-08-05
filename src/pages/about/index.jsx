@@ -25,7 +25,11 @@ ${'  ' || `
 // TODO: Add link to "Five vowels."
 `}
 
-Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the historical canon, because making history means competing on equal terms with past artists, who *didn't* rely on charitable support. In this light, it's obvious that *no* indie artist today will likely be inducted— and *this* is why people gripe that rock is getting worse.
+${'  ' || `
+// TODO: In a world of good intentions, critical acclaim is easy to come by.
+`}
+
+Critical acclaim can be inflated by good intentions; as such, it's a terrible barometer. What *can't* be hacked is the historical canon, because making history means competing on equal terms with past artists, who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted— and *this* is why people gripe that rock is getting worse.
 
 **Why assembled bands?**
 
@@ -39,11 +43,11 @@ To make consequential art, a band must develop exceptional strengths. But this i
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so. Yes, today's artists now have the means to self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and competing with them means doing likewise.
+A demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so. Yes, today's artists now have the means to self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, so competing with them means doing likewise.
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie gatekeepers refuse to put in this effort, knowing that *any* artist they choose will be charitably supported just the same. So an interdependent band's only hope is to appeal to a counterculture that *rejects* indie rock's good intentions— and a public registry is where they'll know to find each other.
+It takes time to review an ambitious demo— but the indie gatekeepers refuse to put in this effort, knowing that *any* artist they choose will be charitably supported just the same. So an interdependent band's only hope is to appeal to a counterculture that *rejects* indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
 
@@ -106,12 +110,10 @@ Don't be fooled by indie rock's recent embrace of female and minority artists. T
 ${'  ' || `
 // TODO: Find right way to phrase these ideas.
 
-This is a problem, because *only* the selfless can lift rock up from its current stagnation.
-
-Pioneering invention is a raw deal; The pioneers who invent the raw ideas and sounds for the next generation are never fairly compensated for their efforts. So if rock is ever to be reinvented…
+This is a problem, because pioneering invention is an inherently raw deal; The earliest pioneers who invent the raw ideas and sounds for the next generation are never fairly compensated for their efforts. So if rock is ever to be reinvented…
 `}
 
-Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. On top of that, it means we're effectively rooting *against* the selfless— who start at a disadvantage to begin with.
+Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. On top of that, it means we're effectively rooting against the *selfless*— who start at a disadvantage to begin with.
 
 This is a problem, because indie artists, whose main concern is to serve themselves, will never take rock to new heights; the personal costs are too great for them. So if the art form is ever to advance again, we *need* to clear a path for the selfless bands who'll happily make this sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
 
