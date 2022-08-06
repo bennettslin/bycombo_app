@@ -104,11 +104,11 @@ Don't be fooled by indie rock's recent embrace of female and minority artists. T
 ### Art needs the blood of martyrs
 
 ${'  ' || `
-// TODO: Find right way to phrase these ideas.
+// TODO: Find right way to phrase this idea.
 
 Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, we're favoring them over the *selfless*, who already start at a disadvantage. This is a problem, because artistic invention is a lousy deal that *only* the selfless will ever take.
 
-The earliest pioneers of every movement, who invent the raw ideas that others will later perfect, are rarely compensated in their own time. If today's rock has any chance to be reinvented, then, we *need* to clear a path for the selfless bands who'll make this sacrifice. After self-empowerment, in other words… comes the age of martyrdom.
+The earliest pioneers of every movement, who invent the raw ideas that others will later perfect, are rarely compensated in their own time. If rock has any chance to be reinvented, then, we *need* to clear a path for the selfless bands who'll make this sacrifice. After self-empowerment, in other words… comes the age of martyrdom.
 `}
 
 Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. On top of that, it means we're effectively rooting against the *selfless*— who start at a disadvantage to begin with.
