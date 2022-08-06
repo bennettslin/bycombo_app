@@ -25,11 +25,7 @@ ${'  ' || `
 // TODO: Add link to "Five vowels."
 `}
 
-${'  ' || `
-// TODO: In a world of good intentions, critical acclaim is easy to come by.
-`}
-
-Critical acclaim can be inflated by good intentions; as such, it's a terrible barometer. What *can't* be hacked is the historical canon, because making history means competing on equal terms with past artists, who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted— and *this* is why people gripe that rock is getting worse.
+Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the historical canon, because making history means competing on equal terms with past artists, who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted— and *this* is why people gripe that rock is getting worse.
 
 **Why assembled bands?**
 
@@ -110,7 +106,9 @@ Don't be fooled by indie rock's recent embrace of female and minority artists. T
 ${'  ' || `
 // TODO: Find right way to phrase these ideas.
 
-This is a problem, because pioneering invention is an inherently raw deal; The earliest pioneers who invent the raw ideas and sounds for the next generation are never fairly compensated for their efforts. So if rock is ever to be reinvented…
+Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, we're favoring them over the *selfless*, who already start at a disadvantage. This is a problem, because artistic invention is a lousy deal that *only* the selfless will ever take.
+
+The earliest pioneers of every movement, who invent the raw ideas that others will later perfect, are rarely compensated in their own time. If today's rock has any chance to be reinvented, then, we *need* to clear a path for the selfless bands who'll make this sacrifice. After self-empowerment, in other words… comes the age of martyrdom.
 `}
 
 Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. On top of that, it means we're effectively rooting against the *selfless*— who start at a disadvantage to begin with.

@@ -23,7 +23,7 @@ These tools of empowerment aren't free, though— they cost the artist's time an
 
 Hi, I'm Bennett, from the band [Bobtail Yearlings](https://www.bobtailyearlings.com). It's clear to me that the best artists *don't* waste time and energy on empowerment; they just get it for free, as a byproduct of their talent. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
-By not using indie rock's tools, however, I'm seen as lazy and incompetent. And then my band isn't given the charitable support that puts indie artists ahead— which effectively puts us *behind*. So this is my dilemma:
+By *not* using indie rock's tools, however, I'm seen as lazy and incompetent. And then my band isn't given the same charitable support that puts indie artists ahead— which effectively puts us *behind*. So this is my dilemma:
 
 **In trying to make the best art, interdependent bands *need* to break indie rock's rules— for which they'll be penalized.**
 
@@ -33,11 +33,7 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 
 The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to depend on the other. Indie artists now build a fanbase to show they can walk away from talks with a label. And labels, in turn, just bet on this fanbase instead of the artist's talent. Such a mess! So what's an interdependent band to do?
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective is a label's deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build a fanbase that labels can objectively measure. This leaves only one solution:
+Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective is a label's deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build a fanbase that labels *can* objectively measure. This leaves only one solution:
 
 **To regain interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
@@ -59,11 +55,7 @@ But worse, the concept of interdependence *itself* can never take root. Once an 
 
 The situation isn't hopeless, though: Many music fans *prefer* rock from its interdependent years, when artists *didn't* rely on charitable support. And industry insiders in other genres, like hip hop, have *only* ever worked interdependently.
 
-${'  ' || `
-// TODO: Avoid saying indie rock twice.
-`}
-
-Plenty of them would love to hear an ambitious demo that breaks indie rock's rules— they're just wary of all the underwhelming artists pouring in through indie rock's low barriers to entry. Well, here's great news!
+Plenty of them would love to hear an ambitious demo that breaks the rules— they're just wary of all the underwhelming artists pouring in through indie rock's low barriers to entry. Well, here's great news!
 
 **To earn the public's trust, interdependent bands can add their demo to BYCombo's registry, which has a steep *cost* of entry: a serious chunk of lifetime spent to advance the art form.**
 
