@@ -44,7 +44,7 @@ In other words, interdependence is waiting for… a rock martyr. But martyrs are
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. For this reason, the labels will refuse any ambitious demos from bands who clearly didn't follow the rules.
 
 ${'  ' || `
-// TODO: Here, talk more about charitable support given to them by fans and writers. Move paid duess idea to its own section on About page.
+// TODO: Move paid dues idea to its own section on About page. Here, make this point. Being indie is a de facto advantage. Having the advantage means being unopposed in your claim to be an underdog. And being the underdog means getting charitable support. Mention being an underdog in the first paragraph as well?
 `}
 
 But worse, the concept of interdependence *itself* can never take root. Once an indie artist builds their own fanbase, they'll never agree that the best art comes from *not* doing so. And having paid their dues, they're now loyal to a status quo in which *every* artist struggles as inefficiently as *they* did. Which leads to the heart of the problem:

@@ -75,6 +75,10 @@ Because they *also* benefit from revelatory insights that stem from the unconsci
 
 ### A pittance secures loyalty to the paradigm
 
+${'  ' || `
+// TODO: Make more about being unwilling to rebel.
+`}
+
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal: Indie artists seek power while indie labels relinquish it, with *no one* taking any risks.
 
 Because indie artists strive to get paid from the get-go, they're instantly beholden to the current paradigm, given its promises to empower them. For this reason, BYCombo encourages bands to embrace being powerless and unpaid in their early years: While you have nothing to lose, what paradigms are you free to challenge?
@@ -88,7 +92,7 @@ Revolutions may *start* with powerless outsiders, but they're *spread* by powerf
 ### Responsible revolutions plan for runaway effects
 
 ${'  ' || `
-// TODO: Split this in two. Make one about paid dues, the hustle, possibly hip hop. Paid dues must now collude. But how does it differ from the pittance section? Make the other about runaway effects of a culture that celebrates self-reliance amounting to privilege.
+// TODO: Split this in two. Make one about paid dues, the hustle, possibly hip hop. Paid dues now collude. But how does it differ from the pittance section? Make it more about misinformation. Make the other about runaway effects of a culture that celebrates self-reliance amounting to privilege.
 `}
 
 Indie rock is all about rewarding artists who bypass the middleman. But if the middleman's job is simple enough for any artist to do themselves, then a wealthy artist can just pay someone *else* to do it— including, ironically, a former middleman! And so indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
