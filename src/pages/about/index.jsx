@@ -75,13 +75,9 @@ Because they *also* benefit from revelatory insights that stem from the unconsci
 
 ### A pittance secures loyalty to the paradigm
 
-${'  ' || `
-// TODO: Make more about being unwilling to rebel.
-`}
-
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal: Indie artists seek power while indie labels relinquish it, with *no one* taking any risks.
 
-Because indie artists strive to get paid from the get-go, they're instantly beholden to the current paradigm, given its promises to empower them. For this reason, BYCombo encourages bands to embrace being powerless and unpaid in their early years: While you have nothing to lose, what paradigms are you free to challenge?
+Because indie artists strive to get paid from the get-go, they'll never think to rebel against the current paradigm, which promises to empower them. For this reason, BYCombo encourages bands to embrace being powerless and unpaid early on: While you have nothing to lose, what revolutions are you free to start?
 
 ### Masses join revolutions *last*
 
@@ -108,14 +104,14 @@ Don't be fooled by indie rock's recent embrace of female and minority artists. T
 ### Art needs the blood of martyrs
 
 ${'  ' || `
-// TODO: Find right way to phrase this idea.
+// TODO: In a decentralized system, those with this trait naturally hold the advantage, which makes it an odd thing to favor.
 
-Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, we're favoring them over the *selfless*, who already start at a disadvantage. This is a problem, because artistic invention is a lousy deal that *only* the selfless will ever take.
+Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, we're effectively rooting against the *selfless*— who start at a disadvantage to begin with.
 
-The earliest pioneers of every movement, who invent the raw ideas that others will later perfect, are rarely compensated in their own time. If rock has any chance to be reinvented, then, we *need* to clear a path for the selfless bands who'll make this sacrifice. After self-empowerment, in other words… comes the age of martyrdom.
+And this is a problem, because the self-empowered will never invent raw ideas for future generations to perfect; there's little reward in doing so. So if rock has any hope of undergoing a new renaissance, we *need* to clear a path for selfless bands who'll readily self-sacrifice. After self-empowerment, in other words… comes the age of martyrdom.
 `}
 
-Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. On top of that, it means we're effectively rooting against the *selfless*— who start at a disadvantage to begin with.
+Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, we're effectively rooting against the *selfless*— who start at a disadvantage to begin with.
 
 This is a problem, because indie artists, whose main concern is to serve themselves, will never take rock to new heights; the personal costs are too great for them. So if the art form is ever to advance again, we *need* to clear a path for the selfless bands who'll happily make this sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
 
