@@ -77,7 +77,11 @@ Because they *also* benefit from revelatory insights that stem from the unconsci
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal: Indie artists seek power while indie labels relinquish it, with *no one* taking any risks.
 
-Because indie artists strive to get paid from the get-go, they'll never think to rebel against the current paradigm, which promises to empower them. For this reason, BYCombo encourages bands to embrace being powerless and unpaid early on: While you have nothing to lose, what revolutions are you free to start?
+${'  ' || `
+// TODO: Make these more about getting paid, less about power.
+`}
+
+Because indie artists strive to get paid from the get-go, they can never rebel against the current paradigm, which promises to empower them. For this reason, BYCombo encourages bands to embrace being powerless and unpaid early on: While you have nothing to lose, what revolutions are you free to start?
 
 ### Masses join revolutions *last*
 
