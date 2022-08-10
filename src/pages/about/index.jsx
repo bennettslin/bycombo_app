@@ -57,6 +57,10 @@ Here's an incomplete list of reasons…
 
 ### Art needs an opposition party
 
+${'  ' || `
+// TODO: Mention artistic climate change?
+`}
+
 Political conservatives want socioeconomic *indie*-pendence. Which is fine, since no one mistakes this for a universal ideal. Liberals, their opponents, would rather have *inter*-dependence. And so we hold elections to promote healthy competition, as each of us decides which side speaks more to our circumstances.
 
 Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when bands struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. With BYCombo, you can now join the opposition, which advocates for the interdependence you've always wanted but didn't know was possible.

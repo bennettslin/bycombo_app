@@ -13,7 +13,11 @@ How will we fulfill our mission? By enforcing a steep *cost* of entry for our pu
 
 ### Tools… are *rules*
 
-Indie rock is all about *lowering* the barriers to entry. To do this, it provides tools for artists to build a fanbase without the help of a label: social media analytics, streaming algorithms, distribution services, and so forth.
+${'  ' || `
+// TODO: Phrase this more nicely.
+`}
+
+Indie rock roots for artists who are underdogs. And so it lowers the barriers to entry for them by providing tools they can use to build a fanbase on their own: social media analytics, streaming algorithms, distribution services, and so forth.
 
 These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them; all they do is penalize those who *don't*. But… this is how *rules* work! Which is to say:
 
