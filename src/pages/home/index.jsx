@@ -13,11 +13,7 @@ How will we fulfill our mission? By enforcing a steep *cost* of entry for our pu
 
 ### Tools… are *rules*
 
-${'  ' || `
-// TODO: Phrase this more nicely.
-`}
-
-Indie rock loves to root for artists who are underdogs. To lower the barriers to entry for such artists, it provides them with tools to build a fanbase on their own: social media analytics, streaming algorithms, distribution services, and so forth.
+Indie rock loves to help the underdog, which is why it's all about lowering the barriers to entry for artists. To do this, it keeps them well-supplied with tools to build a fanbase on their own: distribution services, streaming algorithms, social media analytics, and so forth.
 
 These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them; all they do is penalize those who *don't*. But… this is how *rules* work! Which is to say:
 
@@ -48,7 +44,7 @@ In other words, interdependence is waiting for… a rock martyr. But martyrs are
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. For this reason, the labels will refuse any ambitious demos from bands who clearly didn't follow the rules.
 
 ${'  ' || `
-// TODO: Move paid dues idea to its own section on About page. Here, just mention underdog. Mention underdog in the first paragraph as well.
+// TODO: Move paid dues idea to its own section on About page. Here, mention that building a fanbase gives them the advantage to dictate reality.
 `}
 
 But worse, the concept of interdependence *itself* can never take root. Once an indie artist builds their own fanbase, they'll never agree that the best art comes from *not* doing so. And having paid their dues, they're now loyal to a status quo in which *every* artist struggles as inefficiently as *they* did. Which leads to the heart of the problem:
