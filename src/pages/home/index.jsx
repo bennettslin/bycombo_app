@@ -9,11 +9,11 @@ const Component = () => (
 
 **BYCombo is a nonprofit incubator of rock bands. We're here to launch the interdependence revolution that will bring forth the most historically consequential rock bands of the 21st century!**
 
-How will we fulfill our mission? By enforcing a steep *cost* of entry for our public registry. Why is this needed? Here's why…
+To fulfill our mission, we'll enforce a steep *cost* of entry for our public registry. Why is this needed? Here's why…
 
 ### Tools… are *rules*
 
-Indie rock loves to help the underdog, which is why it's all about lowering the barriers to entry for artists. To do this, it keeps them well-supplied with tools to build a fanbase on their own: distribution services, streaming algorithms, social media analytics, and so forth.
+Indie rock loves to help the underdog, which is why it's all about lowering the barriers to entry for artists. To do this, it provides them with tools to build a fanbase on their own: distribution services, streaming algorithms, social media analytics, and so forth.
 
 These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them; all they do is penalize those who *don't*. But… this is how *rules* work! Which is to say:
 
