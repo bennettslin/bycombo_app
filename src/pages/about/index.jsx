@@ -97,6 +97,8 @@ Revolutions may *start* with powerless outsiders, but they're *spread* by powerf
 
 ${'  ' || `
 // TODO: Split this in two. Make one about paid dues, the hustle, possibly hip hop. Paid dues now collude. But how does it differ from the pittance section? Make it more about misinformation. Make the other about runaway effects of a culture that celebrates self-reliance amounting to privilege.
+
+And having paid their dues, they're now loyal to a status quo in which *every* artist struggles as inefficiently as *they* did.
 `}
 
 Indie rock is all about rewarding artists who bypass the middleman. But if the middleman's job is simple enough for any artist to do themselves, then a wealthy artist can just pay someone *else* to do it— including, ironically, a former middleman! And so indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!

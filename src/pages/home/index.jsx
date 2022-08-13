@@ -17,7 +17,11 @@ Indie rock loves to help the underdog, which is why it's all about lowering the 
 
 These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them; all they do is penalize those who *don't*. But… this is how *rules* work! Which is to say:
 
-**By *expecting* its artists to empower themselves, indie rock effectively *requires* them to do so. It then imposes its rules on *all* unknown artists.**
+${'  ' || `
+// TODO: Phrasing.
+`}
+
+**By *expecting* artists to empower themselves, indie rock effectively *requires* them to do so. Its rules must then be followed by *all* artists, including those with no desire to be indie.**
 
 ### A call for a truce
 
@@ -31,7 +35,7 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 
 ### Return of the rock martyrs
 
-The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to depend on the other. Indie artists now build a fanbase to show they can walk away from talks with a label. And labels, in turn, just bet on this fanbase instead of the artist's talent. Such a mess! So what's an interdependent band to do?
+The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to depend on the other. Indie artists now build a fanbase to show they can walk away from talks with a label. And labels, in turn, now just bet on this fanbase instead of the artist's talent. Such a mess! So what's an interdependent band to do?
 
 Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective is a label's deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build a fanbase that labels *can* objectively measure. This leaves only one solution:
 
@@ -44,12 +48,12 @@ In other words, interdependence is waiting for… a rock martyr. But martyrs are
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. For this reason, the labels will refuse any ambitious demos from bands who clearly didn't follow the rules.
 
 ${'  ' || `
-// TODO: Move paid dues idea to its own section on About page. Here, mention that indie rock encourages its artists to build a fanbase, and now can never betray them by admitting that the best art comes from not doing so. It must effectively argue that the best art *does* come from doing so.
+// TODO: Phrasing.
 `}
 
-But worse, the concept of interdependence *itself* can never take root. Once an indie artist builds their own fanbase, they'll never agree that the best art comes from *not* doing so. And having paid their dues, they're now loyal to a status quo in which *every* artist struggles as inefficiently as *they* did. Which leads to the heart of the problem:
+But worse, the concept of interdependence *itself* has no way to take root. After all, indie rock requires artists to build a fanbase on their own; it can never concede that the best art comes from *not* doing so, as this would be a huge betrayal. Which leads to the heart of the problem:
 
-**Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to regain interdependence— and the public will never hear about it.**
+**Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to regain interdependence— and the public will never know.**
 
 ### A hundred *Yearling's Bobtail*s
 
