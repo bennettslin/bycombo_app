@@ -49,21 +49,19 @@ It takes time to review an ambitious demo— but the indie gatekeepers refuse to
 
 Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading the public to grow wary. But indie rock has no way to reverse this damage, given its decentralized nature.
 
-To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to earn the public's trust.
+To save rock, then, a centralized force like BYCombo must now step up to enforce a *steep* cost of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to earn the public's trust.
 
 **Why has indie rock made rock worse?**
 
 Here's an incomplete list of reasons…
 
-### Art needs an opposition party
-
 ${'  ' || `
-// TODO: Mention artistic climate change?
-`}
+### Art needs an opposition party
 
 Political conservatives want socioeconomic *indie*-pendence. Which is fine, since no one mistakes this for a universal ideal. Liberals, their opponents, would rather have *inter*-dependence. And so we hold elections to promote healthy competition, as each of us decides which side speaks more to our circumstances.
 
 Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when bands struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. With BYCombo, you can now join the opposition, which advocates for the interdependence you've always wanted but didn't know was possible.
+`}
 
 ### History remembers hooks
 
@@ -82,7 +80,7 @@ Because they *also* benefit from revelatory insights that stem from the unconsci
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal: Indie artists seek power while indie labels relinquish it, with *no one* taking any risks.
 
 ${'  ' || `
-// TODO: Make these more about getting paid, less about power.
+// TODO: Make these more about getting paid, less about power? This change may not be needed if paid dues is more about misinformation.
 `}
 
 Because indie artists strive to get paid from the get-go, they can never rebel against the current paradigm, which promises to empower them. For this reason, BYCombo encourages bands to embrace being powerless and unpaid early on: While you have nothing to lose, what revolutions are you free to start?
