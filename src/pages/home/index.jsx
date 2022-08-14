@@ -45,7 +45,7 @@ Well… not so fast. As barriers to entry are lowered, the applicant pool gets f
 
 But the problem goes much deeper: The system that imposed the rules *can't* be the same one that rewards those who break them. To do so would be a huge betrayal of those who *follow* its rules— and without followers, a system ceases to exist. Which gets to the heart of the matter:
 
-**Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to regain interdependence— and the public has no way to know.**
+**Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to regain interdependence— and the public has no way to find out.**
 
 ### A hundred *Yearling's Bobtail*s
 

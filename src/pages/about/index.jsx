@@ -25,7 +25,7 @@ ${'  ' || `
 // TODO: Add link to "Five vowels."
 `}
 
-Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the historical canon, because making history means competing on equal terms with past artists, who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted— and *this* is why people gripe that rock is getting worse.
+Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the historical canon, because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted— and *this* is why people gripe that rock is getting worse.
 
 **Why assembled bands?**
 
@@ -39,7 +39,7 @@ To make consequential art, a band must develop exceptional strengths. But this i
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so. Yes, today's artists now have the means to self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, so competing with them means doing likewise.
+A demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so— [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my go-to example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and competing with them means doing likewise.
 
 **Why a public registry?**
 
