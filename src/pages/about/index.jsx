@@ -71,7 +71,7 @@ Yet few of us care that a past artist built a fanbase on their own, while nearly
 
 ### Insightful revelation requires a single hat
 
-Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talent. Yet the best works of art are even *better* than the artists who make them. Why?
+Indie rock requires its artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talent. Yet the best works of art are even *better* than the artists who make them. Why?
 
 Because they *also* benefit from revelatory insights that stem from the unconscious and can't be summoned at will. These insights emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. You want your art to be better than you, and so does BYCombo.
 

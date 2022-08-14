@@ -21,7 +21,7 @@ These tools of empowerment aren't free, though— they cost the artist's time an
 
 ### A call for a truce
 
-Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). Let's be honest, the best artists *don't* waste time and energy on empowerment; they know it's a natural byproduct of developing their talents. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art.
+Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). Let's be honest, the best artists *don't* waste time and energy on empowerment; it's just a natural byproduct of developing their talents. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
 By *not* using indie rock's tools, however, I'm seen as lazy and incompetent. And then my band isn't given the same charitable support that puts indie artists ahead— which effectively puts us *behind*. So this is my dilemma:
 
@@ -31,7 +31,7 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 
 ### Return of the rock martyrs
 
-The thing is, rock was interdependent once. But as trust eroded, each side took steps not to depend on the other. Indie artists now build a fanbase to show they can walk away from talks with a label. And labels, in turn, just bet on this fanbase instead of the artist's talents. Such a mess! So what's an interdependent band to do?
+The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to depend on the other. Indie artists now build a fanbase to show they can walk away from talks with a label. And labels, in turn, just bet on this fanbase instead of the artist's talents. Such a mess! So what's an interdependent band to do?
 
 Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective is a label's deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build a fanbase whose size *can* be objectively measured. This leaves only one solution:
 
@@ -43,9 +43,13 @@ In other words, interdependence is waiting for… a rock martyr. But martyrs are
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. For this reason, the labels will refuse any ambitious demos from bands who clearly didn't follow the rules.
 
-But the problem goes much deeper. Indie rock requires artists to build a fanbase on their *own*; it can never then betray them by conceding that the best art comes from relying on a *label* to do this work. Which gets to the heart of the matter:
+${'  ' || `
+// TODO: Review.
+`}
 
-**A system can't simultaneously reward those who follow the rules *and* those who break them. As such, the indie gatekeepers *must* shut out any band trying to regain interdependence.**
+But the problem goes much deeper: The indie gatekeepers can't *ever* concede that the best art comes from *not* building a fanbase on one's own. For a system that imposed the rules to then reward those who break them is a huge betrayal. And this gets to the heart of the matter:
+
+**Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to regain interdependence— and the public has no way to find out.**
 
 ### A hundred *Yearling's Bobtail*s
 
