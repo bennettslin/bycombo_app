@@ -41,20 +41,20 @@ In other words, interdependence is waiting for… a rock martyr. But martyrs are
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. For this reason, the labels will refuse any ambitious demos from bands who clearly didn't follow the rules.
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie gatekeepers, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. For this reason, the gatekeepers will refuse any ambitious demos from bands who clearly didn't follow the rules.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-But the problem goes much deeper: The indie gatekeepers can't *ever* concede that the best art comes from *not* building a fanbase on one's own. For a system that imposed the rules to then reward those who break them is a huge betrayal. And this gets to the heart of the matter:
+But the problem goes much deeper: Once a system imposes its rules, it can never turn around and reward those who *break* them. To do so would be a huge betrayal of those who *follow* its rules— and without followers, the system has no legitimacy. This gets to the heart of the matter:
 
-**Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to regain interdependence— and the public has no way to find out.**
+**Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to regain interdependence— and the public has no way to know.**
 
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Mention indie rock having no opposition and needing a counterculture in this last section.
+// TODO: Mention indie rock having no opposition and needing a counterculture in this last section? It's not really needed.
 `}
 
 The situation isn't hopeless, though: Many music fans *prefer* rock from its interdependent years, when artists *didn't* rely on charitable support. And industry insiders in other genres, like hip hop, have *only* ever worked interdependently.
