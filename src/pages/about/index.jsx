@@ -112,12 +112,12 @@ Don't be fooled by indie rock's recent embrace of female and minority artists. T
 ### Art needs the blood of martyrs
 
 ${'  ' || `
-// TODO: Build off underdog talk on homepage. And then renaissance.
+// TODO: Talk about renaissance.
+`}
 
-Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior coming from the underdog; it's not inherently noble. Moreover, in a decentralized system, those with this trait naturally hold the advantage, questioning the notion that they're the underdogs.
+Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, in a decentralized system, those with this trait hold the *advantage*— which calls into question whether indie artists are really the underdogs here.
 
 And this is a problem, because the self-empowered will never invent raw ideas for future generations to perfect; there's little reward in doing so. So if rock has any hope of undergoing a new renaissance, we *need* to clear a path for selfless bands who'll readily self-sacrifice. After self-empowerment, in other words… comes the age of martyrdom.
-`}
 
 Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, we're effectively rooting against the *selfless*— who start at a disadvantage to begin with.
 
