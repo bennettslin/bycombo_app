@@ -43,7 +43,7 @@ In other words, interdependence is waiting for… a rock martyr. But martyrs are
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie gatekeepers, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. For this reason, the gatekeepers will refuse any ambitious demos from bands who clearly didn't follow the rules.
 
-But the problem goes much deeper: The system that imposes the rules can't just turn around and reward those who *break* them. To do so would be a betrayal of those who *follow* its rules— and without followers, a system can no longer exist. Which gets to the heart of the matter:
+But the problem goes much deeper: The system that imposes the rules can't then turn around and reward those who *break* them. To do so would be a betrayal of those who *follow* its rules— and without followers, a system can no longer exist. Which gets to the heart of the matter:
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to regain interdependence— and the public has no way to find out.**
 
