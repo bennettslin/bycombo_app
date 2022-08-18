@@ -13,10 +13,6 @@ And to fulfill our mission, we'll enforce a *steep* cost of entry. Here's why…
 
 ### Tools… are *rules*
 
-${'  ' || `
-// TODO: In first and last sections, make point about how the indie mindset has taken over the entire rock music industry. Otherwise, it's not clear why I don't try to get heard outside of indie rock.
-`}
-
 Indie rock loves to help the underdog, which is why it's all about *lowering* the barriers to entry for artists. To do this, it provides them with tools to build a fanbase on their own: distribution services, streaming algorithms, social media analytics, and so forth.
 
 These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them; all they do is penalize those who *don't*. But… this is how *rules* work! Which is to say:
@@ -25,7 +21,13 @@ These tools of empowerment aren't free, though— they cost the artist's time an
 
 ### A call for a truce
 
-Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). Let's be honest, the best artists *don't* waste time and energy on empowerment; it's just a natural byproduct of developing their talents. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art.
+Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). Let's be honest, the best artists *don't* waste time and energy on empowerment; they know it's just a natural byproduct of developing one's talents. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art.
+
+${'  ' || `
+// TODO: Make point that charitably supported artists have overriding advantage. Which means it's now understood by everyone that the only way to get ahead is to be indie. And so the only artists to look for are indie. Which means indie rock's rules apply to *every* artist, even those with no wish to be indie.
+
+// So move that line from the previous section's bold statement to this one.
+`}
 
 By *not* using indie rock's tools, however, I'm seen as lazy and incompetent. And then my band isn't given the same charitable support that puts indie artists ahead— which effectively puts us *behind*. So this is my dilemma:
 
