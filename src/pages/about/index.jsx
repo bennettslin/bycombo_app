@@ -119,7 +119,7 @@ And this is a problem, because the self-empowered will never invent raw ideas fo
 
 Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, in a decentralized system, those with this trait hold the *advantage*— which calls into question whether indie artists are really the underdogs here.
 
-This is a problem, because indie artists, whose main concern is to serve themselves, will never take rock to new heights; the personal costs are too great for them. So if the art form is ever to advance again, we *need* to clear a path for the selfless bands who'll happily make this sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
+But worst of all, since indie artists are mainly concerned with serving themselves, they will never take rock to new heights; the personal costs are too great for them. So if the art form is ever to advance again, we *need* to clear a path for the selfless bands who'll happily make this sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. So are you ready to sacrifice a serious chunk of lifetime to advance the art form? Then apply to BYCombo!
     `,

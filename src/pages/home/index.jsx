@@ -24,9 +24,9 @@ These tools of empowerment aren't free, though— they cost the artist's time an
 Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). Let's be honest, the best artists *don't* waste time and energy on empowerment; they know it's just a natural byproduct of developing one's talents. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to depend on a *label* to build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
 ${'  ' || `
-// TODO: Make point that charitably supported artists have overriding advantage. Which means it's now understood by everyone that the only way to get ahead is to be indie. And so the only artists to look for are indie. Which means indie rock's rules apply to *every* artist, even those with no wish to be indie.
+// TODO: Make the point that charitably supported artists have an overriding advantage. And so the only way for *any* artist to get ahead these days is to be indie. Which means the only artists we look for are indie. This is why my band was stuck once we couldn't get past the indie gatekeepers.
 
-// So move that line from the previous section's bold statement to this one.
+// Then move the line from the previous section's bold statement, that indie rock's rules apply to *every* artist, to this one.
 `}
 
 By *not* using indie rock's tools, however, I'm seen as lazy and incompetent. And then my band isn't given the same charitable support that puts indie artists ahead— which effectively puts us *behind*. So this is my dilemma:
