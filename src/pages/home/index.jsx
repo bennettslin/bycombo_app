@@ -37,7 +37,7 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 
 ### Return of the rock martyrs
 
-The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to depend on the other. Indie artists now build a fanbase to show they can walk away from talks with a label. And labels, in turn, just bet on this fanbase instead of the artist's talents. Such a mess! So what's an interdependent band to do?
+The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to depend on the other. Indie artists now build a fanbase to show they can walk away from talks with a label. And indie labels, in turn, just bet on this fanbase instead of the artist's talents. Such a mess! So what's an interdependent band to do?
 
 Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective is a label's deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build a fanbase whose size *can* be objectively measured. This leaves only one solution:
 
@@ -49,11 +49,7 @@ In other words, interdependence is waiting for… a rock martyr. But martyrs are
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. For this reason, the labels will refuse any ambitious demos from bands who clearly didn't follow the rules.
 
-${'  ' || `
-// TODO: Still not sure if this is the best phrasing. Keep it, but be open to revisiting.
-`}
-
-But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist builds a fanbase on their *own*, they and their fans will never concede that the best art comes from counting on a *label* to do this work. Which leads to the heart of the problem:
+But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist builds a fanbase on their *own*, they'll never concede that the best art relies on a *label* to do this work. And having paid their dues, they're now loyal to a status quo in which *every* artist must struggle as inefficiently as *they* did. This gets to the heart of the problem:
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to regain interdependence— and the public has no way to find out.**
 
