@@ -110,14 +110,14 @@ Don't be fooled by indie rock's recent embrace of female and minority artists. T
 ### Art needs the blood of martyrs
 
 ${'  ' || `
-// TODO: Talk about renaissance.
-
-And this is a problem, because the self-empowered will never invent raw ideas for future generations to perfect; there's little reward in doing so. So if rock has any hope of undergoing a new renaissance, we *need* to clear a path for selfless bands who'll readily self-sacrifice. After self-empowerment, in other words… comes the age of martyrdom.
-`}
-
 Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, in a decentralized system, those with this trait hold the *advantage*— which calls into question whether indie artists are really the underdogs here.
 
-But worst of all, since indie artists are mainly concerned with serving themselves, they will never take rock to new heights; the personal costs are too great for them. So if the art form is ever to advance again, we *need* to clear a path for the selfless bands who'll happily make this sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
+// TODO: In second paragraph, talk about renaissance and revolution.
+`}
+
+Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. On top of that, it means we're effectively rooting against the *selfless*— who start at a disadvantage to begin with.
+
+This is a problem, because indie artists, whose main concern is to serve themselves, will never take rock to new heights; the personal costs are too great for them. So if the art form is ever to advance again, we *need* to clear a path for the selfless bands who *will* make this sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. So are you ready to sacrifice a serious chunk of lifetime to advance the art form? Then apply to BYCombo!
     `,
