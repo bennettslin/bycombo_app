@@ -3,13 +3,18 @@ import cx from 'classnames'
 import PropTypes from 'prop-types'
 import Anchor from '../Anchor'
 import DemoLinkContent from './Content'
-import { getDemoLinkPath } from '../../utils/pages/path'
+// import { getDemoLinkPath } from '../../utils/pages/path'
 import './style'
 
 const DemoLink = ({
     year,
     band,
     project,
+    /**
+     * TODO: Once demo page is finalized, remove href and re-add page path.
+     */
+    // eslint-disable-next-line react/prop-types
+    projectUrl,
     ...rest
 }) => (
     <Anchor
@@ -17,14 +22,15 @@ const DemoLink = ({
             className: cx(
                 'DemoLink',
             ),
-            pagePath: getDemoLinkPath({
-                year,
-                band,
-                project,
-            }),
+            href: projectUrl,
+            // pagePath: getDemoLinkPath({
+            //     year,
+            //     band,
+            //     project,
+            // }),
         }}
     >
-        <DemoLinkContent {...{ year, band, project, ...rest }} />
+        <DemoLinkContent {...{ year, band, project, projectUrl, ...rest }} />
     </Anchor>
 )
 
