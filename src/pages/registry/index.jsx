@@ -14,7 +14,7 @@ const Component = () => (
 
 But remember, the indie gatekeepers will *ignore* these demos. So if rock is to be saved as an art form, we need *others* to tell the world about our bands. Can one of these rock saviors… be you?
 
-Please contact any of our bands directly if you have an offer or opportunity for them to consider! There are no referral fees.
+Please contact any of our bands directly if you have an offer or opportunity for them to consider! BYCombo doesn't charge a referral fee.
                 `,
                 (
                     <DemoLink {...bobtailYearlings} />

@@ -35,7 +35,7 @@ What if musicians committed to making history could instantly find each other ac
 
 **Why interdependence?**
 
-To make consequential art, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in areas where a *label* is more efficient, like marketing and distribution. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent. They *need* to partner with a label.
+To make consequential art, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in areas where a *label* is more efficient, such as marketing and distribution. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent. They *need* to partner with a label.
 
 **Why demos?**
 
