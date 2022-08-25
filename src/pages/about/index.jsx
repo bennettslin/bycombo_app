@@ -110,9 +110,11 @@ Don't be fooled by indie rock's recent embrace of female and minority artists. T
 ### Art needs the blood of martyrs
 
 ${'  ' || `
+// TODO: Finish updating this section.
+
 Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, in a decentralized system, those with this trait hold the *advantage*— which calls into question whether indie artists are really the underdogs here.
 
-// TODO: In second paragraph, talk about renaissance and revolution.
+But worst of all, self-empowerment can only work by capitalizing on assumptions that already exist. Which means those who seek to empower themselves will never bother to create new assumptions.
 `}
 
 Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. On top of that, it means we're effectively rooting against the *selfless*— who start at a disadvantage to begin with.
