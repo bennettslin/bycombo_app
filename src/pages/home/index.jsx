@@ -24,9 +24,11 @@ These tools of empowerment aren't free, though— they cost the artist's time an
 Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). Let's be honest, the best artists *don't* waste time and energy on empowerment; they know it's just a natural byproduct of developing one's talents. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to have a *label* help us build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
 ${'  ' || `
+// TODO: Consider whether this is best here or in the last section.
+
 // TODO: Make the point that charitably supported indie artists have an overriding advantage. And so the only way for *any* artist to get ahead these days is to be be a charitably supported indie artist as well. Which means the only unknown artists we look for nowadays are indie. This is why my band was stuck once we couldn't get past the indie gatekeepers.
 
-// Then move the line from the previous section's bold statement, that indie rock's rules apply to *every* artist, to this one.
+// TODO: Can't I get around indie labels? Unfortunately, being charitably supported gives indie artists such a huge advantage, that the only way to compete is to be charitably supported as well. For this reason, major labels have largely stopped discovering rock artists.
 `}
 
 By *not* using indie rock's tools, however, I'm seen as lazy and incompetent. And then my band isn't given the same charitable support that puts indie artists ahead— which effectively puts us *behind*. So this is my dilemma:
@@ -55,7 +57,9 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 
 ### A hundred *Yearling's Bobtail*s
 
-The situation isn't hopeless, though: Many music fans *prefer* rock from its interdependent years, when artists *didn't* rely on charitable support. Plenty of them would love to hear an ambitious demo that breaks the rules— they're just wary of all the underwhelming artists pouring in through indie rock's low barriers to entry. Well, here's great news!
+The situation isn't hopeless, though: Many music fans *prefer* rock from its interdependent years, when artists *didn't* rely on charitable support. And industry insiders in other genres, like hip hop, have *only* ever worked interdependently.
+
+Plenty of them would love to hear an ambitious demo that breaks the rules— they're just wary of all the underwhelming artists pouring in through indie rock's low barriers to entry. Well, here's great news!
 
 **To earn the public's trust, interdependent bands can add their demo to BYCombo's registry, which has a *steep* cost of entry: a serious chunk of lifetime spent to advance the art form.**
 
