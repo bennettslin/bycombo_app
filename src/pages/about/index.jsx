@@ -115,6 +115,8 @@ ${'  ' || `
 Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, in a decentralized system, those with this trait hold the *advantage*— which calls into question whether indie artists are really the underdogs here.
 
 But worst of all, self-empowerment can only work by capitalizing on assumptions that already exist. Which means those who seek to empower themselves will never bother to create new assumptions.
+
+But the worst part is this. It's no coincidence that no artistic genre ever began by embracing indie ideals upfront. The indie phase of every genre can only begin once formal pathways to power have been established.
 `}
 
 Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. On top of that, it means we're effectively rooting against the *selfless*— who start at a disadvantage to begin with.
