@@ -112,11 +112,9 @@ Don't be fooled by indie rock's recent embrace of female and minority artists. T
 ${'  ' || `
 // TODO: Finish updating this section.
 
-Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, in a decentralized system, those with this trait hold the *advantage*— which calls into question whether indie artists are really the underdogs here.
+Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, in a decentralized system, such artists hold the *advantage* over bands who are self-sacrificing— which calls into question whether they're the real underdogs here.
 
-But worst of all, self-empowerment can only happen once the pathways to power are clearly defined— which is the case only at the *tail* end of a movement. This means that indie artists will never be pioneers who start a renaissance or revolution. So if the art form is ever to advance again, we *need* to clear a path for the selfless bands who *will* make this sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
-
-But the worst part is this. It's no coincidence that no artistic genre ever began by embracing indie ideals upfront. The indie phase of every genre can only begin once formal pathways to power have been established.
+But worst of all, indie artists will never start a revolution, because doing so is necessarily an act of sacrifice. Early pioneers are guaranteed *not* to be empowered— pathways to power get finalized at the movement's *tail* end. So if the art form is ever to advance again, we *need* to clear a path for the selfless bands who'll make this sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
 `}
 
 Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. On top of that, it means we're effectively rooting against the *selfless*— who start at a disadvantage to begin with.
