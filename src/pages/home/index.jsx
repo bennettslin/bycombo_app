@@ -7,6 +7,12 @@ const Component = () => (
             body: `
 # The BYCombo mission
 
+${'  ' || `
+// TODO:
+
+**BYCombo is a nonprofit incubator of rock bands committed to selflessly advancing the art form. We're here to launch the interdependence revolution, a movement devoted to creating the most historically consequential works in rock music of this century!**
+`}
+
 **BYCombo is a nonprofit incubator of rock bands. We're here to launch the interdependence revolution that will bring forth the most historically consequential rock bands of the 21st century!**
 
 And to fulfill our mission, we'll enforce a *steep* cost of entry. Here's why…
