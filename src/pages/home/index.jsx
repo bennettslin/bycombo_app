@@ -7,33 +7,33 @@ const Component = () => (
             body: `
 # The BYCombo mission
 
-**BYCombo is a nonprofit incubator of rock bands committed to selflessly advancing the art form. Our mission is to launch the interdependence revolution that will bring forth the most historically consequential rock music of the 21st century!**
+**BYCombo is a nonprofit incubator of interdependent rock bands. We're here to launch the interdependence revolution, a movement devoted to bringing forth the historically consequential rock music of this century!**
 
-And to fulfill this mission, we'll enforce a *steep* cost of entry. Here's why…
+Obviously, *inter*-dependence is the opposite of *indie*-pendence, which is the dominant way of thinking in rock these days. But why is an alternative to indie rock needed? Here's why… 
 
 ### Tools… are *rules*
 
 Indie rock loves to help the underdog, which is why it's all about *lowering* the barriers to entry for artists. To do this, it provides them with tools to build a fanbase on their own: distribution services, streaming algorithms, social media analytics, and so forth.
 
-These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them; all they do is penalize those who *don't*. But… this is how *rules* work! Which is to say:
+These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them. So all they do is penalize those who *don't*. But… this is how *rules* work! Which is to say:
 
 **By *expecting* artists to empower themselves, indie rock effectively *requires* them to do so. Its rules then apply to *every* artist— even those with no wish to be indie.**
 
 ### A call for a truce
 
-Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). Let's be honest, the best artists *don't* waste time and energy on empowerment; they know it's just a natural byproduct of developing one's talents. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to have a *label* help us build our fanbase— and, in turn, have this label depend on *us* to make the best art.
+Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). Let's be honest, the best artists *don't* waste time and energy on empowerment; it should just come naturally, as a byproduct of developing one's talents. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to have a *label* help us build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
 ${'  ' || `
 // TODO: Consider whether this is best here or in the last section.
 
-// TODO: Make the point that charitably supported indie artists have an overriding advantage. And so the only way for *any* artist to get ahead these days is to be be a charitably supported indie artist as well. Which means the only unknown artists we look for nowadays are indie. This is why my band was stuck once we couldn't get past the indie gatekeepers.
+Make the point that charitably supported indie artists have an overriding advantage. And so the only way for *any* artist to get ahead these days is to be be a charitably supported indie artist as well. Which means the only unknown artists we look for nowadays are indie. This is why my band was stuck once we couldn't get past the indie gatekeepers.
 
-// TODO: Can't I get around indie labels? Unfortunately, being charitably supported gives indie artists such a huge advantage, that the only way to compete is to be charitably supported as well. For this reason, major labels have largely stopped discovering rock artists.
+Can't I get around indie labels? Unfortunately, being charitably supported gives indie artists such a huge advantage, that the only way to compete is to be charitably supported as well. For this reason, major labels have largely stopped discovering rock artists.
 `}
 
 By *not* using indie rock's tools, however, I'm seen as lazy and incompetent. And then my band isn't given the same charitable support that puts indie artists ahead— which effectively puts us *behind*. So this is my dilemma:
 
-**In trying to make the best art, interdependent bands *need* to break indie rock's rules— for which they'll be penalized.**
+**In hoping to make the best art, interdependent bands *need* to break indie rock's rules— for which they'll be penalized.**
 
 But how about a truce? Since rules are made to be followed, interdependent bands can't complain about facing penalties. Yet breaking the rules is how rock history gets made! So let's not shut them out either.
 
