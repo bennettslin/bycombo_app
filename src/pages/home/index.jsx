@@ -24,16 +24,14 @@ These tools of empowerment aren't free, though— they cost the artist's time an
 Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). Let's be clear, the best artists *don't* waste time and energy on empowerment; they know it just comes naturally, as a byproduct of developing one's talents. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to have a *label* help us build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
 ${'  ' || `
-// TODO:
-
-Make the point that charitably supported indie artists have an overriding advantage. And so the only way for *any* artist to get ahead these days is to be be a charitably supported indie artist as well. Which means the only unknown artists we look for nowadays are indie. This is why my band was stuck once we couldn't get past the indie gatekeepers.
-
-Can't I get around indie labels? Unfortunately, being charitably supported gives indie artists such a huge advantage, that the only way to compete is to be charitably supported as well. For this reason, major labels have largely stopped discovering rock artists.
-
-By *not* using indie rock's tools, however, I'm seen as lazy and incompetent, and therefore undeserving of the same charitable support that puts indie artists ahead. And charitable support is such an overriding advantage, that the only way to compete is to be charitably supported yourself. Now *all* unknown artists are expected to be indie, to get that charitable support.
+// TODO: Idea is there, just review phrasing.
 `}
 
-By *not* using indie rock's tools, however, I'm seen as lazy and incompetent. And then my band isn't given the same charitable support that puts indie artists ahead— which effectively puts us *behind*. So this is my dilemma:
+By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't given the charitable support that indie artists get. But charitable support offers such an overriding advantage that being an indie artist is now the only way to get ahead. So this is my dilemma:
+
+${'  ' || `
+// TODO: All artists must be judged by indie rock's rules. Reiterate that interdependent bands don't want to be held by indie rock's standards.
+`}
 
 **In hoping to make the best art, interdependent bands *need* to break indie rock's rules— for which they'll be penalized.**
 
