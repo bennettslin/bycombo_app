@@ -23,11 +23,11 @@ These tools of empowerment aren't free, though— they cost the artist's time an
 
 Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). Let's be clear, the best artists *don't* waste time and energy on empowerment; they know it comes naturally, as a byproduct of developing one's talents. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to have a *label* help us build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
-By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported as an indie artist would be. But charitable support offers such a winning boost that being indie is now the only way for *all* artists to compete— and as a result, indie labels are now the only gatekeepers left. So here's my dilemma:
+By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported the way indie artists are. But charitable support offers such a winning boost that being indie is now the only way for *any* artist to compete— and indie labels are now the only gatekeepers left. So here's my dilemma:
 
 **In trying to make the best art, interdependent bands *need* to reject indie rock's tools. But for this they'll get penalized, because *every* artist is now expected to be indie— and thus required to follow indie rock's rules.**
 
-But how about a truce? Since rules are made to be followed, interdependent bands can't complain about facing penalties. Yet breaking the rules is how rock history gets made! So let's not shut them out either.
+How about a truce? Since rules are made to be followed, interdependent bands can't complain about facing penalties. Yet breaking the rules is how rock history gets made! So let's not shut them out either.
 
 ### Return of the rock martyrs
 
