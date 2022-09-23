@@ -27,9 +27,9 @@ ${'  ' || `
 // TODO: Just review.
 `}
 
-By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported as an indie artist would be. But charitable support offers such a winning boost, it's impossible for others to compete without being indie as well. As a result, the only gatekeepers left in rock are indie labels looking for indie artists. So here's my dilemma:
+By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported as an indie artist would be. But charitable support offers such a winning boost, it's impossible to compete without being indie as well. As a result, the only gatekeepers left in rock are indie labels looking for indie artists. So here's my dilemma:
 
-**In trying to make the best art, interdependent bands *need* to reject indie rock's tools. They'll get penalized for this, however, because *every* artist is now expected to be indie— and thus required to follow indie rock's rules.**
+**In trying to make the best art, interdependent bands *need* to reject indie rock's tools. They get penalized for this, however, because *every* artist is now expected to be indie— and thus required to follow indie rock's rules.**
 
 But how about a truce? Since rules are made to be followed, interdependent bands can't complain about facing penalties. Yet breaking the rules is how rock history gets made! So let's not shut them out either.
 
