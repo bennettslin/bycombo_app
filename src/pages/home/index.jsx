@@ -17,7 +17,7 @@ Indie rock loves to help the underdog, which is why it's all about *lowering* th
 
 These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them. So all they do is penalize those who *don't*. But… this is how *rules* work! Which is to say:
 
-**By *expecting* artists to empower themselves, indie rock effectively *requires* them to do so. Each tool of empowerment is now one more rule to follow.**
+**By *expecting* artists to empower themselves, indie rock effectively *requires* them to do so. Each tool of empowerment then becomes one more rule to follow.**
 
 ### A call for a truce
 
@@ -27,9 +27,9 @@ ${'  ' || `
 // TODO: Just review.
 `}
 
-By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported as an indie artist would be. But charitable support offers such a winning boost, it's impossible to compete without being indie as well. As a result, the only gatekeepers left in rock are indie labels looking for indie artists. So here's my dilemma:
+By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported as an indie artist would be. But charitable support offers such a winning advantage, the only way any other artist can compete is to be indie as well. In turn, this means the only way a label can compete is to sign indie artists. So here's my dilemma:
 
-**In trying to make the best art, interdependent bands *need* to reject indie rock's tools. They get penalized for this, however, because *every* artist is now expected to be indie— and thus required to follow indie rock's rules.**
+**In trying to make the best art, interdependent bands *need* to reject indie rock's tools. They get penalized for this, however, since *every* artist now is expected to be indie— and thus required to follow indie rock's rules.**
 
 But how about a truce? Since rules are made to be followed, interdependent bands can't complain about facing penalties. Yet breaking the rules is how rock history gets made! So let's not shut them out either.
 
