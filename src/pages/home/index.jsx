@@ -15,9 +15,13 @@ Of course, *indie*-pendence is the dominant ideology in rock today. So why is *i
 
 Indie rock loves to help the underdog, which is why it's all about *lowering* the barriers to entry for artists. To do this, it provides them with tools to build a fanbase on their own: distribution services, streaming algorithms, social media analytics, and so forth.
 
-These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet they offer no advantage in the end, since *every* artist is expected to use them. So all they do is penalize those who *don't*. But… this is how *rules* work! Which is to say:
+${'  ' || `
+// TODO: Phrasing.
+`}
 
-**By *expecting* artists to empower themselves, indie rock effectively *requires* them to do so. Each tool of empowerment then becomes one more rule to follow.**
+These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet, since they're available to *every* artist, they don't give a sizable boost to those who use them; they merely set back those who *don't*. But… this is how *rules* work! Which is to say:
+
+**By *expecting* artists to empower themselves, indie rock effectively *requires* them to do so. Each tool of empowerment then becomes yet another rule to follow.**
 
 ### A call for a truce
 
@@ -27,11 +31,11 @@ ${'  ' || `
 // TODO: Just review.
 `}
 
-By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported as an indie artist would be. But charitable support offers such a winning advantage, the only way any other artist can compete is to be indie as well. In turn, this means the only way a label can compete is to sign indie artists. So here's my dilemma:
+By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't given the charitable support that puts indie artists ahead. In fact, being charitably supported is such a winning advantage, the only way to compete is to be indie as well. In turn, this means labels can only stay competitive by signing indie artists. So here's my dilemma:
 
-**In trying to make the best art, interdependent bands *need* to reject indie rock's tools. They get penalized for this, however, since *every* artist now is expected to be indie— and thus required to follow indie rock's rules.**
+**In trying to make the best art, interdependent bands *need* to reject indie rock's tools. They suffer a penalty for this, however, since *every* artist today is expected to be indie— and thus required to follow indie rock's rules.**
 
-But how about a truce? Since rules are made to be followed, interdependent bands can't complain about facing penalties. Yet breaking the rules is how rock history gets made! So let's not shut them out either.
+But how about a truce? Since rules are made to be followed, interdependent bands can't complain about getting penalized. Yet breaking the rules is how rock history gets made! So let's not shut them out either.
 
 ### Return of the rock martyrs
 

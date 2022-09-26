@@ -112,6 +112,8 @@ Don't be fooled by indie rock's recent embrace of female and minority artists. T
 ${'  ' || `
 // TODO: Finish updating this section.
 
+Givers and takers.
+
 Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in artists we like; it's not inherently noble. Moreover, in a decentralized system, those with this trait hold the *advantage*— which calls into question whether they're the actual underdogs here.
 
 But worst of all, indie artists will never start a revolution, because early pioneers only forge pathways to power for *others*— they don't empower themselves. So if the art form is ever to advance again, we *need* to clear a path for selfless bands who are willing to make this sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
