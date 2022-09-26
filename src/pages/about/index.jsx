@@ -49,7 +49,7 @@ It takes time to review an ambitious demo— but the indie gatekeepers refuse to
 
 Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading the public to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature.
 
-To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to earn the public's trust.
+To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to rebuild the public's trust.
 
 **Why has indie rock made rock worse?**
 
@@ -111,17 +111,15 @@ Don't be fooled by indie rock's recent embrace of female and minority artists. T
 
 ${'  ' || `
 // TODO: Finish updating this section.
-
-Givers and takers.
-
-Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in artists we like; it's not inherently noble. Moreover, in a decentralized system, those with this trait hold the *advantage*— which calls into question whether they're the actual underdogs here.
-
-But worst of all, indie artists will never start a revolution, because early pioneers only forge pathways to power for *others*— they don't empower themselves. So if the art form is ever to advance again, we *need* to clear a path for selfless bands who are willing to make this sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
 `}
 
-Indie rock celebrates the self-empowered— but self-empowerment is just self-serving, power-seeking behavior in those we like; it's not inherently noble. On top of that, it means we're effectively rooting against the *selfless*— who start at a disadvantage to begin with.
+"Where's our generation's Nirvana?" It's a question often asked by today's young people. And there's a simple way to answer it: Can we imagine the *next* generation asking of any band today, "Where's our generation's _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its Nirvana. But why?
 
-This is a problem, because indie artists, whose main concern is to serve themselves, will never take rock to new heights; the personal costs are too great for them. So if the art form is ever to advance again, we *need* to clear a path for the selfless bands who *will* make this sacrifice. In other words, after self-empowerment… comes the age of martyrdom.
+The reason is because we only jealously pine for past artists who sacrificed themselves to advance the art form. But indie rock is all about celebrating self-empowered artists who demand fair compensation. Any artist who willingly self-sacrifices isn't just a danger to themselves, but also to *others*, by inviting be exploited.
+
+One problem with self-empowerment, however, is that it's ultimately just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, in a decentralized system, those with this trait hold the *advantage*— which calls into question whether they're the actual underdogs here.
+
+But worst of all, the self-empowered can never start a revolution, because pathways to fair compensation are only established at the tail end of such movements. So if the art form is ever to advance again, we *need* to clear a path for the selfless bands who are willing to sacrifice themselves. In other words, after self-empowerment… comes the age of martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. So are you ready to sacrifice a serious chunk of lifetime to advance the art form? Then apply to BYCombo!
     `,
