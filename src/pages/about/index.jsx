@@ -39,11 +39,11 @@ To make consequential art, a band must develop exceptional strengths. But this i
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so— [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my go-to example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and competing with them means doing likewise.
+A demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so— [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my go-to example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and to compete with them means doing likewise.
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie gatekeepers refuse to put in this effort, knowing that *any* artist they choose will be charitably supported just the same. So an interdependent band's only hope is to appeal to a counterculture that *rejects* indie rock's good intentions— and a public registry is where they'll find each other.
+It takes time to review an ambitious demo— but the indie gatekeepers refuse to put in this effort; they know that *any* artist they choose will be charitably supported just the same. So an interdependent band's only hope is to appeal to a counterculture that *rejects* indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
 
@@ -109,19 +109,17 @@ Don't be fooled by indie rock's recent embrace of female and minority artists. T
 
 ### Art needs the blood of martyrs
 
-${'  ' || `
-// TODO: Finish updating this section.
-`}
+"Where's *our* Nirvana?" It's a question today's young people often ask. Well, there's a simple way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its own Nirvana. Why is that?
 
-"Where's our generation's Nirvana?" It's a question often asked by today's young people. And there's a simple way to answer it: Can we imagine the *next* generation asking of any band today, "Where's our generation's _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its Nirvana. But why?
+The reason is because we only pine for past artists who gave of themselves to advance the art form. But since indie rock was founded to save artists from exploitation, it roots for those who empower themselves instead. As such, an indie artist's top priority is to demand fair compensation; they'll *never* give more than they take, because to do so is a classic sign of being exploited.
 
-The reason is because we only jealously pine for past artists who sacrificed themselves to advance the art form. But indie rock is all about celebrating self-empowered artists who demand fair compensation. Any artist who willingly self-sacrifices isn't just a danger to themselves, but also to *others*, by inviting be exploited.
+One problem with self-empowerment, however, is that it's ultimately just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, in a decentralized system, indie artists who exemplify this trait hold the *advantage*— which calls into question whether they're the real underdogs here.
 
-One problem with self-empowerment, however, is that it's ultimately just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, in a decentralized system, those with this trait hold the *advantage*— which calls into question whether they're the actual underdogs here.
+But worst of all, a self-empowered artist will never start a renaissance or a revolution, because pathways to fair compensation get paved only toward the *end* of such movements. So if the art form is ever to advance again, we *need* to clear the way for selfless bands who'll readily sacrifice themselves. After self-empowerment, in other words… comes the age of martyrdom.
 
-But worst of all, the self-empowered can never start a revolution, because pathways to fair compensation are only established at the tail end of such movements. So if the art form is ever to advance again, we *need* to clear a path for the selfless bands who are willing to sacrifice themselves. In other words, after self-empowerment… comes the age of martyrdom.
+Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* of them, each one sacrificing a serious chunk of lifetime to advance the art form?
 
-Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. So are you ready to sacrifice a serious chunk of lifetime to advance the art form? Then apply to BYCombo!
+If you're ready to join this movement, then apply to BYCombo!
     `,
         }}
     />
