@@ -27,7 +27,7 @@ By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— 
 
 **In trying to make the best art, interdependent bands *need* to reject indie rock's tools. They suffer a penalty for this, however, since *every* artist today is expected to be indie— and thus required to follow indie rock's rules.**
 
-But how about a truce? Since rules are made to be followed, interdependent bands can't complain about getting penalized. Yet breaking the rules is how rock history gets made! So let's not shut them out either.
+But how about a truce? Since rules are made to be followed, interdependent bands can't complain about being penalized. Yet breaking the rules is how rock history gets made! So let's not shut them out either.
 
 ### Return of the rock martyrs
 
@@ -35,7 +35,7 @@ The thing is, rock was interdependent once. But as trust eroded, each side took 
 
 Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective is a label's deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build a fanbase whose size can be objectively measured. This leaves only one solution:
 
-**To regain interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
+**To revive interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
 In other words, rock is just waiting for… a martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And by *not* building a fanbase, I was able to code and illustrate the audio webcomic. Surely even an indie label would be happy with this tradeoff?
 
@@ -45,7 +45,7 @@ Well… not so fast. As barriers to entry are lowered, the applicant pool gets f
 
 But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist builds a fanbase on their *own*, they'll never agree that the best art comes from waiting on a *label* to help with this effort. And having paid their dues, they're now loyal to a status quo in which *every* artist must struggle as inefficiently as *they* once did. So this is the heart of the problem:
 
-**Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to regain interdependence— and the public has no way to know.**
+**Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public has no way to know.**
 
 ### A hundred *Yearling's Bobtail*s
 
@@ -55,11 +55,11 @@ ${'  ' || `
 // TODO: Continue to work on.
 `}
 
-Plenty of them would love to hear an ambitious demo that breaks indie rock's rules— they've just grown wary of all the underwhelming artists pouring in through indie rock's low barriers to entry. Well, here's great news!
+Plenty of them would love to hear an ambitious demo that breaks indie rock's rules— they're just wary of all the underwhelming artists pouring in through indie rock's low barriers to entry. Well, here's great news!
 
-**To rebuild the public's trust, an interdependent band can add their demo to BYCombo's registry. The cost of entry is to spend a serious chunk of their lifetime to advance the art form.**
+**To regain the public's trust, an interdependent band can add their demo to BYCombo's registry. The cost of entry is to spend a serious chunk of their lifetime to advance the art form.**
 
-Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time; now to regain interdependence, they'll also be making our generation's most *accomplished* works. *This* will be the next revolution in rock history!
+Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time; now to revive interdependence, they'll also be making our generation's most *accomplished* works. *This* will be the next revolution in rock history!
             `,
         }}
     />

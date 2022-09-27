@@ -49,7 +49,7 @@ It takes time to review an ambitious demo— but the indie gatekeepers refuse to
 
 Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading the public to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature.
 
-To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to rebuild the public's trust.
+To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to regain the public's trust.
 
 **Why has indie rock made rock worse?**
 
@@ -111,7 +111,7 @@ Don't be fooled by indie rock's recent embrace of female and minority artists. T
 
 "Where's *our* Nirvana?" It's a question today's young people often ask. Well, there's a simple way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its own Nirvana. Why is that?
 
-The reason is because we only pine for past artists who gave of themselves to advance the art form. But since indie rock was founded to save artists from exploitation, it roots for those who empower themselves instead. As such, an indie artist's top priority is to demand fair compensation; they'll *never* give more than they take, because to do so is a classic sign of being exploited.
+The reason is because we only pine for past artists who gave of themselves to advance the art form. But indie rock is here to save artists from exploitation; as such, it roots for those who empower themselves instead. An indie artist's first priority is to demand fair compensation; they won't ever give more than they take, because to do so is a classic sign of being exploited.
 
 One problem with self-empowerment, however, is that it's ultimately just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, in a decentralized system, indie artists who exemplify this trait hold the *advantage*— which calls into question whether they're the real underdogs here.
 
@@ -119,7 +119,7 @@ But worst of all, a self-empowered artist will never start a renaissance or a re
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* of them, each one sacrificing a serious chunk of lifetime to advance the art form?
 
-If you're ready to join this movement, then apply to BYCombo!
+Well, if you're ready to join this movement, then apply to BYCombo!
     `,
         }}
     />
