@@ -109,13 +109,13 @@ Don't be fooled by indie rock's recent embrace of female and minority artists. T
 
 ### Art needs the blood of martyrs
 
-"Where's *our* Nirvana?" It's a question today's young people often ask. Well, there's a simple way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its own Nirvana. Why is that?
+"Where's *our* Nirvana?" It's a question that today's young people ask. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its Nirvana. Why is that?
 
-The reason is because we only pine for past artists who gave of themselves to advance the art form. But indie rock is here to save artists from exploitation; as such, it roots for those who empower themselves instead. An indie artist's first priority is to demand fair compensation; they won't ever give more than they take, because to do so is a classic sign of being exploited.
+The reason is because we only pine for past artists who gave of themselves to advance the art form. But indie rock is here to save artists from exploitation, and so it roots for those who empower themselves instead. An indie artist's first priority is to demand fair compensation; they won't *ever* give more than they take, because to do so is a classic sign of being exploited.
 
 One problem with self-empowerment, however, is that it's ultimately just self-serving, power-seeking behavior in those we like; it's not inherently noble. Moreover, in a decentralized system, indie artists who exemplify this trait hold the *advantage*— which calls into question whether they're the real underdogs here.
 
-But worst of all, a self-empowered artist will never start a renaissance or a revolution, because pathways to fair compensation get paved only toward the *end* of such movements. So if the art form is ever to advance again, we *need* to clear the way for selfless bands who'll readily sacrifice themselves. After self-empowerment, in other words… comes the age of martyrdom.
+But worst of all, a self-empowered artist will *never* start a renaissance or a revolution, because pathways to fair compensation get paved only toward the *end* of such movements. So if the art form is ever to advance again, we *need* to clear the way for selfless bands who'll readily sacrifice themselves. In other words, after self-empowerment… comes the age of martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* of them, each one sacrificing a serious chunk of lifetime to advance the art form?
 
