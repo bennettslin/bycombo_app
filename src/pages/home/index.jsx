@@ -55,9 +55,9 @@ ${'  ' || `
 // TODO: Continue to work on.
 `}
 
-Plenty of them would love to hear an ambitious demo that breaks indie rock's rules— they're just wary of all the underwhelming artists pouring in through indie rock's low barriers to entry. Well, here's great news!
+Plenty of them would love to hear an ambitious demo that breaks indie rock's rules— they're just wary of all the underwhelming artists pouring in through indie rock's low barriers to entry. So unless this influx can be countered with a steep *cost* of entry, they probably won't be interested. Well, here's great news!
 
-**To regain the public's trust, an interdependent band can add their demo to BYCombo's registry. The cost of entry is to spend a serious chunk of their lifetime to advance the art form.**
+**To regain the public's trust, an interdependent band can add their demo to BYCombo's registry, which has a steep *cost* of entry: a serious chunk of lifetime spent to advance the art form.**
 
 Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time; now to revive interdependence, they'll also be making our generation's most *accomplished* works. *This* will be the next revolution in rock history!
             `,
