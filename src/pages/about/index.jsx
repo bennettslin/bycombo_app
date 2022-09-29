@@ -35,7 +35,7 @@ What if musicians committed to making history could instantly find each other ac
 
 **Why interdependence?**
 
-To make consequential art, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in areas where a *label* is more efficient, such as marketing and distribution. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent. They *need* to partner with a label.
+To make consequential art, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in areas where a *label* is more efficient, like marketing and distribution. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent. They *need* to partner with a label.
 
 **Why demos?**
 
@@ -43,13 +43,13 @@ A demo shows what a work can be in the *future*, with the help of a label. This 
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie gatekeepers refuse to put in this effort; they know that *any* artist they choose will be charitably supported just the same. So an interdependent band's only hope is to appeal to a counterculture that *rejects* indie rock's good intentions— and a public registry is where they'll find each other.
+It takes time to review an ambitious demo— but the indie gatekeepers refuse to put in this effort; they know that *any* artist they choose will be charitably supported just the same. So an interdependent band's only hope is to appeal to a counterculture that *rejects* indie rock's good intentions— and a public registry is where each will find the other.
 
 **Why serious chunks of lifetime?**
 
 Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading the public to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature.
 
-To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to regain the public's trust.
+To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to regain the public's interest.
 
 **Why has indie rock made rock worse?**
 
@@ -83,7 +83,7 @@ ${'  ' || `
 // TODO: Make these more about getting paid, less about power? This change may not be needed if paid dues is more about misinformation.
 `}
 
-Because indie artists strive to get paid from the get-go, they can never rebel against the current paradigm, given how it promises to empower them. For this reason, BYCombo encourages bands to embrace being powerless and unpaid early on: While you have nothing to lose, what revolutions are you free to start?
+Because indie artists strive to get paid from the get-go, they can never rebel against the current paradigm, given its promises to empower them. For this reason, BYCombo encourages bands to embrace being powerless and unpaid early on: While you have nothing to lose, what revolutions are you free to start?
 
 ### Masses join revolutions *last*
 
@@ -111,19 +111,15 @@ Don't be fooled by indie rock's recent embrace of female and minority artists. T
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its own Nirvana. Why is that?
 
-The reason is because we only pine for past artists who gave of themselves to advance the art form. But indie rock is here to save artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand fair compensation; they don't give of themselves for *any* cause, because to do so is a classic sign of being exploited.
+The reason is because we only pine for past artists who gave of themselves to advance the art form. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*, because to do so is a classic sign of being exploited.
 
-But the problems with this present Age of Self-Empowerment go beyond its failure to give us the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we like; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— which calls into question why they're seen as the underdogs.
+But the problems with our current Age of Self-Empowerment go beyond its failure to give us the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we like; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— which raises the question: How exactly are *they* the underdogs?
 
-Worst of all, a self-empowered artist will *never* start a renaissance or a revolution, because the means to fair compensation get settled only toward the *end* of such movements. So if the art form is ever to advance again, we *need* to clear the way for selfless bands who'll readily make this sacrifice. In other words, after Self-Empowerment… comes the Age of Martyrdom.
+But worst of all, a self-empowered artist will never *start* a renaissance or a revolution, because the means to fair compensation get settled only toward the *end* of such movements. So if the art form is ever to advance again, we *need* to clear the way for selfless bands who'll readily make this sacrifice. In other words, after Self-Empowerment… comes the Age of Martyrdom.
 
-Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* of them, each one sacrificing a serious chunk of lifetime to advance the art form?
+Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* made up of them, with each one sacrificing a serious chunk of lifetime to advance the art form?
 
-${'  ' || `
-// TODO: Make about next generation jealously pining for this movement.
-`}
-
-Of course, you know the answer already. So if you're ready to join our interdependence movement, then apply to BYCombo soon!
+Well, you know the drill. Can you imagine the *next* generation asking, "Where's *our* interdependence revolution? Where's *our* BYCombo?"
     `,
         }}
     />

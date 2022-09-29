@@ -41,7 +41,7 @@ In other words, rock is just waiting for… a martyr. But martyrs are the ones w
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. For this reason, the indie labels refuse to consider any ambitious demos that clearly don't follow the rules.
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. For this reason, the indie labels will refuse an ambitious demo that clearly doesn't follow the rules.
 
 But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist builds a fanbase on their *own*, they'll never agree that the best art comes from waiting on a *label* to help with this effort. And having paid their dues, they're now loyal to a status quo in which *every* artist must struggle as inefficiently as *they* once did. So this is the heart of the problem:
 
@@ -49,15 +49,15 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 
 ### A hundred *Yearling's Bobtail*s
 
-The situation isn't hopeless, though: Most music fans *prefer* rock from its interdependent years, when artists *didn't* rely on charitable support. And industry insiders in other genres, like hip hop, have *only* ever worked interdependently.
+The situation isn't hopeless, though: Most fans prefer rock music made *before* the indie era, back when artists *didn't* rely on charitable support; industry insiders in other genres, like hip hop and pop, have *only* ever worked interdependently; and budding entrepreneurs recognize that the indie labels are just waiting to be disrupted by a new model.
 
 ${'  ' || `
-// TODO: Continue to work on.
+// TODO: Continue to work on. Entrepreneurs.
 `}
 
-Plenty of them would love to hear an ambitious demo that breaks indie rock's rules— they're just wary of all the underwhelming artists pouring in through indie rock's low barriers to entry. So unless this influx can be countered with a steep *cost* of entry, they probably won't be interested. Well, here's great news!
+Plenty of them would love to hear an ambitious demo that breaks indie rock's rules— but how would they find it, among all the lackluster releases pouring in through indie rock's low barriers to entry? What's needed to revive interdependence, then, is for a centralized force to enforce a steep *cost* of entry. Well, here's great news!
 
-**To regain the public's trust, an interdependent band can add their demo to BYCombo's registry, which has a steep *cost* of entry: a serious chunk of lifetime spent to advance the art form.**
+**To regain the public's interest, an interdependent band can add their demo to BYCombo's registry, which has a steep *cost* of entry: a serious chunk of lifetime spent to advance the art form.**
 
 Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time; now to revive interdependence, they'll also be making our generation's most *accomplished* works. *This* will be the next revolution in rock history!
             `,
