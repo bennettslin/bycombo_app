@@ -31,13 +31,15 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 
 ### Return of the rock martyrs
 
-The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to depend on the other. Indie artists now build a fanbase to show they can walk away from talks with a label. And indie labels, in turn, now just bet on this fanbase instead of the artist's talents. Such a mess! So what's an interdependent band to do?
-
 ${'  ' || `
-// TODO: Artists spend most of their time and energy to build an objectively sizable fanbase, because the art will simply be assumed to be good if they have a fanbase. If art is subjective, then an objectively sizable fanbase is the only objective proof of an artist's worth.
+// TODO: Reconcile these two paragraphs. Don't need two paragraphs about fanbases.
+
+Put charitable support making art subjective in the first paragraph. Put labels in turn betting on the fanbase in the second paragraph.
 `}
 
-Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective can be a deciding factor. Quite reasonably, then, the indie labels demand that artists spend less time and energy on their art, and more on building an objectively sizable fanbase. This leaves only one solution:
+The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to depend on the other. Indie artists now build a fanbase to show they can walk away from talks with a label. And indie labels, in turn, now just bet on this fanbase instead of the artist's talents. Such a mess! So what's an interdependent band to do?
+
+Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective can be a label's deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build a fanbase whose size *can* be objectively measured. This leaves only one solution:
 
 **To revive interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
