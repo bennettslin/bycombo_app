@@ -15,7 +15,7 @@ Of course, *indie*-pendence is the dominant ideology in rock today. So why is *i
 
 Indie rock loves to help the underdog, which is why it's all about lowering the barriers to entry for artists. To do this, it provides them with tools to build a fanbase on their own: distribution services, streaming algorithms, social media analytics, and so forth.
 
-These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet, since they're available to *every* artist, they don't give a sizable boost to those who use them; they merely set back those who *don't*. But… this is how *rules* work! Which is to say:
+These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet, since they're available to *every* artist, they don't give a meaningful boost to those who use them; they merely set back those who *don't*. But… this is how *rules* work! Which is to say:
 
 **By *expecting* artists to empower themselves, indie rock effectively *requires* them to do so. Each tool of empowerment then becomes yet another rule to follow.**
 
@@ -33,7 +33,11 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 
 The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to depend on the other. Indie artists now build a fanbase to show they can walk away from talks with a label. And indie labels, in turn, now just bet on this fanbase instead of the artist's talents. Such a mess! So what's an interdependent band to do?
 
-Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective is a label's deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build a fanbase whose size can be objectively measured. This leaves only one solution:
+${'  ' || `
+// TODO: Artists spend most of their time and energy to build an objectively sizable fanbase, because the art will simply be assumed to be good if they have a fanbase. If art is subjective, then an objectively sizable fanbase is the only objective proof of an artist's worth.
+`}
+
+Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective can be a deciding factor. Quite reasonably, then, the indie labels demand that artists spend less time and energy on their art, and more on building an objectively sizable fanbase. This leaves only one solution:
 
 **To revive interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
@@ -49,13 +53,13 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 
 ### A hundred *Yearling's Bobtail*s
 
-The situation isn't hopeless, though: Most fans prefer rock music made *before* the indie era, back when artists *didn't* rely on charitable support; industry insiders in other genres, like hip hop and pop, have *only* ever worked interdependently; and budding entrepreneurs recognize that the indie labels are just waiting to be disrupted by a new model.
+The situation isn't hopeless, though: Most fans prefer rock music from *before* the indie era, when artists *didn't* rely on charitable support; industry insiders in other genres, like hip hop and pop, have *always* worked interdependently; and budding entrepreneurs recognize that the indie labels are just waiting to be disrupted by a new model.
 
 ${'  ' || `
 // TODO: Continue to work on. Entrepreneurs.
 `}
 
-Plenty of them would love to hear an ambitious demo that breaks indie rock's rules— but how would they find it, among all the lackluster releases pouring in through indie rock's low barriers to entry? What's needed to revive interdependence, then, is for a centralized force to enforce a steep *cost* of entry. Well, here's great news!
+Plenty of them would love to hear an ambitious demo that breaks indie rock's rules— they just have no way to hear about it, given the massive flood pouring in through indie rock's low barriers to entry. What's needed to revive interdependence, then, is for a centralized force to enforce a steep *cost* of entry. Well, here's great news!
 
 **To regain the public's interest, an interdependent band can add their demo to BYCombo's registry, which has a steep *cost* of entry: a serious chunk of lifetime spent to advance the art form.**
 
