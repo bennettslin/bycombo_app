@@ -55,7 +55,7 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 
 ### A hundred *Yearling's Bobtail*s
 
-The situation isn't hopeless, though: Most fans prefer rock music from *before* the indie era, when artists *didn't* rely on charitable support; industry insiders in other genres, like hip hop and pop, have *always* worked interdependently; and budding entrepreneurs recognize that the indie labels are just waiting to be disrupted by a new model.
+The situation isn't hopeless, though: Most fans prefer rock music from *before* the indie era, when artists *didn't* rely on charitable support; industry insiders in other genres, like hip hop and pop, have *always* worked interdependently; and budding entrepreneurs recognize that the indie labels are just waiting to be disrupted by a new business model.
 
 ${'  ' || `
 // TODO: Continue to work on. Entrepreneurs.
