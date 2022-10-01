@@ -32,14 +32,12 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 ### Return of the rock martyrs
 
 ${'  ' || `
-// TODO: Reconcile these two paragraphs. Don't need two paragraphs about fanbases.
-
-Put charitable support making art subjective in the first paragraph. Put labels in turn betting on the fanbase in the second paragraph.
+// TODO: Just work on phrasing now.
 `}
 
-The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to depend on the other. Indie artists now build a fanbase to show they can walk away from talks with a label. And indie labels, in turn, now just bet on this fanbase instead of the artist's talents. Such a mess! So what's an interdependent band to do?
+The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to need the other. Indie artists now build a fanbase on their own, to show that they can walk away from talks with a label. Of course, this leaves them with less time and energy to make art, but this is irrelevant to the fans who charitably support them.
 
-Sadly, it's no longer enough to promise the best art. In a world of charitable support, all art is subjective; and in a world of distrust, nothing subjective can be a label's deciding factor. So indie artists are just *assumed* to make the best art possible, which frees up their time and energy to build a fanbase whose size *can* be objectively measured. This leaves only one solution:
+Can't an interdependent band just promise to make the best art instead? Sadly, no. In a world of charitable support, *all* art is subjective; and in a world of mutual distrust, *nothing* subjective is a deciding factor. So indie labels, in turn, now simply weigh the objective size of an artist's fanbase, rather than the future potential of their talents. What a mess! This leaves only one solution:
 
 **To revive interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
