@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The BYCombo mission
 
-**BYCombo is a nonprofit incubator of interdependent rock bands. We're here to launch the interdependence revolution, a movement devoted to bringing forth this century's most historically consequential rock music!**
+**BYCombo is a nonprofit incubator of self-sacrificing rock bands. We're here to launch the interdependence revolution, a movement devoted to bringing forth this century's most historically consequential rock music!**
 
 Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative? Here's why…
 
@@ -32,12 +32,12 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 ### Return of the rock martyrs
 
 ${'  ' || `
-// TODO: Just work on phrasing now.
+// TODO: But helping their favorite artists overcome the disadvantage of having worse art is *why* their fans charitably support them.
 `}
 
-The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to need the other. Indie artists now build a fanbase on their own, to show that they can walk away from talks with a label. Of course, this leaves them with less time and energy to make art, but this is irrelevant to the fans who charitably support them.
+The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to need the other. Indie artists now focus on building a fanbase, to show they can walk away from talks with a label. This leaves them with less time and energy to make art, of course, but the fans who charitably support them understand the struggle.
 
-Can't an interdependent band just promise to make the best art instead? Sadly, no. In a world of charitable support, *all* art is subjective; and in a world of mutual distrust, *nothing* subjective is a deciding factor. So indie labels, in turn, now simply weigh the objective size of an artist's fanbase, rather than the future potential of their talents. What a mess! This leaves only one solution:
+Couldn't an interdependent band just promise to make the best art instead, then? Sadly, no. In a world of charitable support, *all* art is subjective; and in a world of mutual distrust, *nothing* subjective is a deciding factor. So, in turn, indie labels now just weigh the objective size of an artist's fanbase, rather than the artist's talents. What a mess! This leaves only one solution:
 
 **To revive interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
@@ -53,15 +53,15 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 
 ### A hundred *Yearling's Bobtail*s
 
-The situation isn't hopeless, though: Most fans prefer rock music from *before* the indie era, when artists *didn't* rely on charitable support; industry insiders in other genres, like hip hop and pop, have *always* worked interdependently; and budding entrepreneurs recognize that the indie labels are just waiting to be disrupted by a new business model.
+The situation isn't hopeless, though: Most fans prefer rock music from *before* the indie era, when artists *didn't* rely on charitable support; industry insiders in other genres, like hip hop, have *only* ever worked interdependently; and budding entrepreneurs recognize that the indie labels are just waiting to be disrupted by a new business model.
 
 ${'  ' || `
-// TODO: Continue to work on. Entrepreneurs.
+// TODO: Continue to work on. Mention sacrifice.
 `}
 
 Plenty of them would love to hear an ambitious demo that breaks indie rock's rules— they just have no way to hear about it, given the massive flood pouring in through indie rock's low barriers to entry. What's needed to revive interdependence, then, is for a centralized force to enforce a steep *cost* of entry. Well, here's great news!
 
-**To regain the public's interest, an interdependent band can add their demo to BYCombo's registry, which has a steep *cost* of entry: a serious chunk of lifetime spent to advance the art form.**
+**To regain the public's interest, an interdependent band can add their demo to BYCombo's registry, which has a steep *cost* of entry: a serious chunk of lifetime sacrificed to advance the art form.**
 
 Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time; now to revive interdependence, they'll also be making our generation's most *accomplished* works. *This* will be the next revolution in rock history!
             `,
