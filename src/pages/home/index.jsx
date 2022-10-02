@@ -25,23 +25,23 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). 
 
 By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, the only way any other artist can compete is to be indie as well. In turn, this means the only way a label can stay competitive is to sign indie artists. So here's my dilemma:
 
-**In hoping to make the best art, interdependent bands *need* to reject indie rock's tools. They suffer a penalty for this, however, since *every* artist today is expected to be indie— and thus required to follow indie rock's rules.**
+**In trying to make the best art, interdependent bands *need* to reject indie rock's tools. They suffer a penalty for this, however, since *every* artist today is expected to be indie— and thus required to follow indie rock's rules.**
 
 But how about a truce? Since rules are made to be followed, interdependent bands can't complain about being penalized. Yet breaking the rules is how rock history gets made! So let's not shut them out either.
 
 ### Return of the rock martyrs
 
 ${'  ' || `
-// TODO: Charitable support. Don't use "but." Make more about best art.
+// TODO: Clarify what I mean by this. But do this after the other one.
 `}
 
-The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to need the other. Indie artists now build a fanbase on their own, to show they can walk away from talks with a label. This leaves them with less time and energy to make art, of course, which is why they depend on the charitable support of their fans.
+The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to need the other. Indie artists now build a fanbase on their own, to show they can walk away from talks with a label. This gives them less time and energy to make art, of course— but their fans offer charitable support for this very reason.
 
-But can't an interdependent band just promise to make the best art? Sadly, no. In a world of charitable support, *all* art is subjective; and in a world of mutual distrust, *nothing* subjective can be a deciding factor. So, in turn, indie labels now just weigh the objective size of an artist's fanbase, rather than the artist's talents. What a mess! This leaves only one solution:
+Well, then, can't an interdependent band just promise to make the best art instead? Sadly, no. In a world of charitable support, *all* art is subjective; and in a world of mutual distrust, *nothing* subjective is a deciding factor. So, in turn, indie labels now just weigh the objective size of an artist's fanbase, rather than the artist's talents. What a mess! This leaves only one solution:
 
 **To revive interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
-So rock is just waiting for… a martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). In other words, it was precisely by *not* building a fanbase that I was able to code and illustrate the audio webcomic. Because even an indie label would be happy with this tradeoff?
+So rock is just waiting for… a martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was precisely by *not* building a fanbase that I was able to code and illustrate the audio webcomic. Surely even an indie label would be happy with this tradeoff!
 
 ### Who gatekeeps the gatekeepers?
 
