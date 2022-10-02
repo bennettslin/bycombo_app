@@ -43,13 +43,13 @@ A demo shows what a work can be in the *future*, with the help of a label. This 
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie gatekeepers refuse to put in this effort; they know that *any* artist they choose will be charitably supported just the same. So an interdependent band's only hope is to appeal to a counterculture that *rejects* indie rock's good intentions— and a public registry is where each will find the other.
+It takes time to review an ambitious demo— but the indie gatekeepers refuse to put in this effort, knowing that *any* artist they choose will be charitably supported just the same. So an interdependent band's only hope is to appeal to a counterculture that *rejects* indie rock's good intentions— and a public registry is where each will find the other.
 
 **Why serious chunks of lifetime?**
 
 Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading the public to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature.
 
-To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to regain the public's interest.
+To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to regain the public's trust.
 
 **Why has indie rock made rock worse?**
 
@@ -95,6 +95,8 @@ Revolutions may *start* with powerless outsiders, but they're *spread* by powerf
 
 ${'  ' || `
 // TODO: Split this in two. Make one about paid dues, the hustle, possibly hip hop. Paid dues now collude. But how does it differ from the pittance section? Make it more about misinformation. Make the other about runaway effects of a culture that celebrates self-reliance amounting to privilege.
+
+Mention hip hop in both? Hip hop is also a race to the top.
 `}
 
 Indie rock is all about rewarding artists who bypass the middleman. But if the middleman's job is simple enough for any artist to do themselves, then a wealthy artist can just pay someone *else* to do it— including, ironically, a former middleman! And so indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
@@ -111,11 +113,11 @@ Don't be fooled by indie rock's recent embrace of female and minority artists. T
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its own Nirvana. Why is that?
 
-The reason is because we only pine for past artists who gave of themselves to advance the art form. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*, because to do so is a classic sign of being exploited.
+The reason is because we only pine for past artists who gave of themselves to advance the art form. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand to be fairly compensated; they don't self-sacrifice for *anyone*, because to do so is a classic sign of being exploited.
 
 But the problems with our current Age of Self-Empowerment go beyond its failure to give us the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we like; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— which raises the question: How exactly are *they* the underdogs?
 
-But worst of all, a self-empowered artist will never *start* a renaissance or a revolution, because the means to fair compensation get settled only toward the *end* of such movements. So if the art form is ever to advance again, we *need* to clear the way for selfless bands who are ready to make this sacrifice. In other words, after Self-Empowerment… comes the Age of Martyrdom.
+But worst of all, self-empowered artists will never *start* a renaissance or a revolution, because the means for fair compensation get settled only toward the *end* of such movements. So if the art form is ever to advance again, we *need* to clear the way for selfless bands who are ready to make this sacrifice. In other words, after Self-Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* made up of them, with each one sacrificing a serious chunk of lifetime to advance the art form?
 
