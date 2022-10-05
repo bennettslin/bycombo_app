@@ -121,7 +121,7 @@ But worst of all, self-empowered artists will never *start* a renaissance or a r
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* made up of them, with each one sacrificing a serious chunk of lifetime to advance the art form?
 
-Well, you know the drill. Can you imagine the *next* generation asking, "Where's *our* interdependence revolution? Where's *our* BYCombo?"
+Well, you know the drill! Can you imagine the *next* generation asking, "Where's *our* interdependence revolution? Where's *our* BYCombo?"
     `,
         }}
     />
