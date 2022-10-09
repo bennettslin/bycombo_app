@@ -23,7 +23,7 @@ These tools of empowerment aren't free, though— they cost the artist's time an
 
 Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). Let's be clear, the best artists *don't* waste time and energy on empowerment; they know it just comes naturally, as a byproduct of developing one's talents. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to have a *label* help us build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
-By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported as an indie artist would be. But charitable support is such an overriding advantage, the only way any other artist can compete is to be indie as well. In turn, this means the only way a label can stay competitive is to sign indie artists. So here's my dilemma:
+By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, the only way for any other artist to compete is by being indie as well. In turn, this means the only way a label can stay competitive is to sign indie artists. So here's my dilemma:
 
 **In trying to make the best art, interdependent bands *need* to reject indie rock's tools. They suffer a penalty for this, however, since *every* artist today is expected to be indie— and thus required to follow indie rock's rules.**
 
@@ -31,7 +31,7 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 
 ### Return of the rock martyrs
 
-The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to need the other. Indie artists now build a fanbase on their own, to show they can walk away from talks with a label. This leaves them with less time and energy to make art, of course— but their fans charitably support them precisely to cover up this weakness.
+The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to need the other. Indie artists now build a fanbase on their own, to show they can walk away from talks with a label. This leaves them with less time and energy to make art, of course— but their fans charitably support them to cover up this weakness.
 
 Well, then, can't an interdependent band just promise to make the best art instead? Sadly, no. In a world of charitable support, *all* art is subjective; and in a world of mutual distrust, *nothing* subjective can be a deciding factor. So, in turn, indie labels now just weigh the objective size of an artist's fanbase, rather than the artist's talents. What a mess! This leaves only one solution:
 
