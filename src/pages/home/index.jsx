@@ -50,14 +50,18 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Fine for now, but continue to tweak wording to make it flow prettier. This discontent signals to budding entrepreneurs who are sensitive to signs for potential of market disruption. All that's missing, then…
+// TODO: Just phrasing now. And budding entrepreneurs.
 `}
 
-But the situation isn't hopeless! Most fans prefer rock music from the past, and some now understand that indie rock is what has made music worse. And budding entrepreneurs look for this kind of discontent to indicate that the rock market is ripe for disruption. And industry insiders in genres that *never* went indie, like hip hop, are ready to apply their expertise to the struggling rock market.
+But the situation isn't hopeless: Most fans *prefer* rock music from the past, and some now agree that indie rock has made music worse. For budding entrepreneurs, this discontent is a sign that the indie labels are ripe for disruption. And industry insiders in genres that *never* went indie, like hip hop, are ready to step in as partners in interdependence.
 
-So plenty of them would love to hear a demo that advances the art form— they've just lost faith that any artists in rock still *have* such ambitions, given how far indie rock has lowered the barriers to entry. To revive interdependence, then, all that's missing is an alternative movement that willfully *raises* these barriers. Well, here's great news!
+So plenty of them would love to hear a demo that advances the art form— they've just lost faith that any artists in rock still *have* such ambitions, given how far indie rock has lowered the barriers to entry. All that's missing to revive interdependence, then, is an alternative movement that defiantly *raises* these barriers. Well, here's great news!
 
-**To earn the public's trust, interdependent bands can add their demos to BYCombo's registry, for which the cost of entry is steep: Each band must sacrifice a serious chunk of lifetime to advance the art form.**
+${'  ' || `
+// TODO: Phrasing.
+`}
+
+**By enforcing a steep *cost* of entry, BYCombo allows its bands to earn the public's trust. To add their demo to the BYCombo registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
 Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time; now to revive interdependence, they'll also be making our generation's most *accomplished* works. *This* will be the next revolution in rock history!
             `,
