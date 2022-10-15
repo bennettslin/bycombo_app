@@ -50,12 +50,12 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Just phrasing now. Maybe specify discontent. "which is" is vague.
+// TODO: Just phrasing now.
 `}
 
-But the situation isn't hopeless! Some fans now *agree* that indie rock has made music worse, which is the first step toward reviving interdependence: It tells budding entrepreneurs that the market is ripe for disruption. And industry insiders in genres that *never* went indie, like hip hop, are ready to step in as partners in interdependence.
+But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see public discontent as a sign that markets are ripe for disruption. And industry insiders in genres that *never* went indie, like hip hop, are ready to step in as their partners in interdependence.
 
-So plenty of them would love to hear a demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step, then, is for an alternative movement to defiantly *raise* these barriers. Well, here's great news!
+So plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative movement to willfully *raise* these barriers. Well, here's great news!
 
 ${'  ' || `
 // TODO: Still need to do. Really consider order of information.

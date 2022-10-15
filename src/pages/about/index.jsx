@@ -43,7 +43,7 @@ A demo shows what a work can be in the *future*, with the help of a label. This 
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie gatekeepers refuse to put in this effort, knowing that *any* artist they choose will be charitably supported just the same. So an interdependent band's only hope is to appeal to a counterculture that *rejects* indie rock's good intentions— and a public registry is where each will find the other.
+It takes time to review an ambitious demo— but the indie gatekeepers refuse to put in this effort, knowing that *any* artist they choose will be charitably supported just the same. So an interdependent band's only hope is to appeal to a counterculture that *rejects* indie rock's good intentions— and a public registry is how they can find each other.
 
 **Why serious chunks of lifetime?**
 
