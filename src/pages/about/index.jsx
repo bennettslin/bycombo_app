@@ -75,7 +75,7 @@ Because they *also* benefit from revelatory insights that stem from the unconsci
 
 ### A pittance secures loyalty to the paradigm
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal: Indie artists seek enrichment while indie labels relinquish it, with *no one* taking any risks.
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal: Indie artists seek power while indie labels relinquish it, with *no one* taking any risks.
 
 ${'  ' || `
 // TODO: Make these more about getting paid, less about power? This change may not be needed if paid dues is more about misinformation.
