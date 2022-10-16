@@ -43,27 +43,21 @@ So rock is just waiting for… a martyr. But martyrs are the ones who make histo
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. For this reason, the indie labels will refuse to hear an ambitious demo that clearly doesn't follow the rules.
 
-But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist builds a fanbase on their *own*, they'll never agree that the best art comes from waiting on a *label* to help with this effort. And having paid their dues, they now enforce a status quo in which *every* artist struggles as inefficiently as *they* once did. So this is the heart of the problem:
+But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist builds a fanbase on their *own*, they'll never concede that the best art comes from waiting on a *label* to help with this effort. And having paid their dues, they're now loyal to a status quo in which *every* artist must struggle as inefficiently as *they* once did. So this is the heart of the problem:
 
-**Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public has no way to know.**
+**Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the people have no way to know.**
 
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Just phrasing now.
+// TODO: Good enough to leave as is for now. But revisit phrasing in time.
 `}
 
-But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see public discontent as a sign that markets are ripe for disruption. And industry insiders in genres that *never* went indie, like hip hop, are ready to step in as their partners in interdependence.
+But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry insiders in genres that *never* went indie, like hip hop, are ready to jump in as partners in interdependence.
 
 So plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative movement to willfully *raise* these barriers. Well, here's great news!
 
-${'  ' || `
-// TODO: Still need to do. Really consider order of information.
-`}
-
-**By enforcing a steep *cost* of entry, BYCombo allows interdependent bands to earn the public's trust. To add a demo to the BYCombo registry, each band must sacrifice a serious chunk of lifetime.**
-
-**To add a demo to the BYCombo registry, each band must sacrifice a serious chunk of lifetime to advance the art form. By paying this steep *cost* of entry, interdependent bands can earn the public's trust.**
+**Interdependent bands can restore the people's faith by paying BYCombo's steep *cost* of entry: To add their demo to BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
 Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time; now to revive interdependence, they'll also be making our generation's most *accomplished* works. *This* will be the next revolution in rock history!
             `,

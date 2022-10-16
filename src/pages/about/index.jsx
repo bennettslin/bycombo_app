@@ -47,25 +47,23 @@ It takes time to review an ambitious demo— but the indie gatekeepers refuse to
 
 **Why serious chunks of lifetime?**
 
-Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading the public to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature.
+Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading the people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature.
 
-To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to restore the public's trust.
+To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to restore the people's faith.
 
 **Why has indie rock made rock worse?**
 
 Here's an incomplete list of reasons…
 
-${'  ' || `
-### Art needs an opposition party
+### Art *needs* an opposition party
 
 Political conservatives want socioeconomic *indie*-pendence. Which is fine, since no one mistakes this for a universal ideal. Liberals, their opponents, would rather have *inter*-dependence. And so we hold elections to promote healthy competition, as each of us decides which side speaks more to our circumstances.
 
-Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when bands struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. With BYCombo, you can now join the opposition, which advocates for the interdependence you've always wanted but didn't know was possible.
-`}
+Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when bands struggle to be indie because it's a poor fit for their circumstances, they're told to just suck it up and try harder. But with BYCombo, you can now join the opposition, which advocates for the interdependence you've always wanted but didn't know was possible.
 
 ### History remembers hooks
 
-A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression, no less than it does to build a fanbase— and indie rock prioritizes the latter. As such, its aesthetic is proudly *defined* by a lack of widespread appeal.
+A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression, no less than it does to build a fanbase— and indie rock prioritizes the latter. As such, its aesthetic is proudly *defined* by a lack of solid hooks.
 
 Yet few of us care that a past artist built a fanbase on their own, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with crafting your best hooks. Which is why BYCombo gives you all the time you need.
 
@@ -77,7 +75,7 @@ Because they *also* benefit from revelatory insights that stem from the unconsci
 
 ### A pittance secures loyalty to the paradigm
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal: Indie artists seek power while indie labels relinquish it, with *no one* taking any risks.
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal: Indie artists seek enrichment while indie labels relinquish it, with *no one* taking any risks.
 
 ${'  ' || `
 // TODO: Make these more about getting paid, less about power? This change may not be needed if paid dues is more about misinformation.
@@ -96,6 +94,9 @@ Revolutions may *start* with powerless outsiders, but they're *spread* by powerf
 ${'  ' || `
 // TODO: Split this in two. Make one about paid dues, the hustle, possibly hip hop. Paid dues now collude. But how does it differ from the pittance section? Make it more about misinformation. Make the other about runaway effects of a culture that celebrates self-reliance amounting to privilege.
 
+A culture of paid dues leaves established artists forever insecure.
+Indie rock leaves its artists with questionable skills to sustain themselves at the top. This is why its artists can never be magnanimous and want things to be easier for the ones who come next.
+
 Mention hip hop in both? Hip hop is also a race to the top.
 `}
 
@@ -109,7 +110,7 @@ Who foresaw indie rock's ironic endgame? Minorities did— which is why they've 
 
 Don't be fooled by indie rock's recent embrace of female and minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. Meanwhile, BYCombo was *conceived* to serve disadvantaged groups. I know firsthand that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
-### Art needs the blood of martyrs
+### Art *needs* the blood of martyrs
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its own Nirvana. Why is that?
 
@@ -117,11 +118,11 @@ The reason is because we only pine for past artists who gave of themselves to ad
 
 But the problems with our current Age of Self-Empowerment go beyond its failure to give us the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we like; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— which raises the question: How exactly are *they* the underdogs?
 
-But worst of all, self-empowered artists will never *start* a renaissance or a revolution, because the means for fair compensation get settled only toward the *end* of such movements. So if the art form is ever to advance again, we *need* to clear the way for selfless bands who are ready to make this sacrifice. In other words, after Self-Empowerment… comes the Age of Martyrdom.
+But worst of all, self-empowered artists will never *start* a renaissance or a revolution, because the means to fair compensation get settled only toward the *end* of such movements. So if the art form is ever to advance again, we *need* to clear the way for selfless bands who are ready to make this sacrifice. In other words, after Self-Empowerment… comes the Age of Martyrdom.
 
-Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* made up of them, with each one sacrificing a serious chunk of lifetime to advance the art form?
+Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* made up of such bands, each one sacrificing a serious chunk of lifetime to advance the art form?
 
-Well, you know the drill! Can you imagine the *next* generation asking, "Where's *our* interdependence revolution? Where's *our* BYCombo?"
+Well, can you imagine the *next* generation asking, "Where's *our* BYCombo? Where's *our* interdependence revolution?"
     `,
         }}
     />

@@ -33,7 +33,7 @@ There are no application fees or legal contracts. We'll just ask you to make a n
 
 BYCombo will include you in a supportive community of other ambitious bands. Through the years, we'll advise you on your band project. The Bobtail Yearlings will also help where they can!
 
-Once your demo is complete, we'll add it to our public registry and notify all the music fans, budding entrepreneurs, and industry insiders who've signed up to our mailing list. With your help, BYCombo will become the public's trusted resource to hear about the latest bands sacrificing serious chunks of lifetime to advance the art form!
+Once your demo is complete, we'll add it to our public registry and notify all the music fans, budding entrepreneurs, and industry insiders who've signed up to our mailing list. With your help, BYCombo will become the people's trusted resource to hear about the latest bands sacrificing serious chunks of lifetime to advance the art form!
 
 ### How to apply
 
