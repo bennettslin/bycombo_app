@@ -49,15 +49,11 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 
 ### A hundred *Yearling's Bobtail*s
 
-${'  ' || `
-// TODO: Good enough to leave as is for now. But revisit phrasing in time.
-`}
-
 But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry insiders in genres that *never* went indie, like hip hop, are ready to jump in as partners in interdependence.
 
-So plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative movement to willfully *raise* these barriers. Well, here's great news!
+So plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative movement to willfully *raise* these barriers. And this is where BYCombo comes in!
 
-**Interdependent bands can restore the people's faith by paying BYCombo's steep *cost* of entry: To add their demo to BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
+**Interdependent bands can now restore the people's faith by paying a steep *cost* of entry: To show their demo in BYCombo's registry, each band must sacrifice a serious chunk of lifetime.**
 
 Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time; now to revive interdependence, they'll also be making our generation's most *accomplished* works. *This* will be the next revolution in rock history!
             `,
