@@ -63,9 +63,9 @@ Indie rock is clearly the conservative party of rock— yet its ideals are treat
 
 ### History remembers hooks
 
-A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression— but indie artists are required to spend their time building a fanbase instead. As such, indie rock's aesthetic is proudly *defined* by a lack of hooks with mass appeal.
+A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression— but indie artists need to spend their time building a fanbase instead. As such, indie rock is proudly defined by its *lack* of solid hooks with lasting appeal.
 
-Yet few of us care that a past artist built a fanbase on their own, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with having the best hooks. So BYCombo gives you all the time you need.
+Yet few of us care that a past artist built a fanbase on their own, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with crafting your best hooks. So BYCombo gives you all the time you need.
 
 ### Insightful revelation requires a single hat
 
@@ -123,16 +123,6 @@ But worst of all, self-empowered artists will never *start* a renaissance or a r
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* made up of such bands, each one sacrificing a serious chunk of lifetime to advance the art form?
 
 Well, can you imagine the *next* generation asking, "Where's *our* BYCombo? Where's *our* interdependence revolution?"
-
-${'  ' || `
-// TODO: Footnote.
-
-Millennials have changed the meaning of indie rock in recent years, so let me clarify that my use of the term is based on the original Gen X understanding of the concept. Indie rock [began in the 1990s](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22%2C%22+indie+rock+%22&year_start=1965), as a way to distinguish those artists who chose to remain on indie labels, from alternative bands who had no problem signing to the major labels who courted them.
-
-This distinction is important, because unlike the major labels, who sign bands based on their art and talent, indie labels sign artists solely on the basis of their fanbase size. The contempt for
-
-As such, while Millennials might classify the Bobtail Yearlings as an indie band, the indie labels
-`}
     `,
         }}
     />
