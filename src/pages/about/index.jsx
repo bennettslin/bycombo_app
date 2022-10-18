@@ -35,15 +35,19 @@ What if musicians committed to making history could instantly find each other ac
 
 **Why interdependence?**
 
-To make consequential art, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of administration like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent. They *need* an administrative partner.
+To make consequential art, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of administration like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent. They need a label or some other administrative partner.
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so— [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and to compete with them means doing likewise.
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so— [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my go-to example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and to compete with them means doing likewise.
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie gatekeepers refuse to put in this effort, knowing that *any* artist they choose will be charitably supported just the same. So an interdependent band's only hope is to appeal to a counterculture that *rejects* indie rock's good intentions— and a public registry is how they can find each other.
+${'  ' || `
+// TODO: Include counterculture.
+`}
+
+It takes time to review an ambitious demo— but the indie labels feel no need to put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's only hope is to appeal to music fans and potential partners who *question* indie rock's good intentions— and a public registry is where they'll know to find each other.
 
 **Why serious chunks of lifetime?**
 
@@ -79,11 +83,11 @@ ${'  ' || `
 // TODO: Just review phrasing now.
 `}
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that those most eager to take risks are the ones safely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk averse. So which administrators make up this risk-averse middle in rock? The indie labels.
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk averse. So which administrators occupy this risk-averse middle in rock? The indie labels.
 
 Because indie labels have just enough to lose, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
 
-Revolutions may *start* with artists, but they're *spread* by administrative partners, whose know-how is key to winning buy-in from the masses. This makes it crucial that artists have access to administrators who share their appetite for risk. So BYCombo is here to help bands partner with top industry insiders, as well as with budding entrepreneurs starting at the bottom.
+Revolutions may *start* with artists, but they're *spread* by administrative partners, whose know-how is needed to win buy-in from the masses. Which makes it crucial that artists can find partners who share their appetite for risk. So BYCombo is here to introduce bands to top industry insiders, as well as to budding entrepreneurs starting at the bottom.
 
 ### Responsible revolutions plan for runaway effects
 
