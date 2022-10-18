@@ -21,7 +21,7 @@ These tools of empowerment aren't free, though— they cost the artist's time an
 
 ### A call for a truce
 
-Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). Let's be clear, the best artists *don't* waste time and energy on empowerment; they expect it to come naturally, as a byproduct of developing one's talents. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to have a *label* help us build our fanbase— and, in turn, have this label depend on *us* to make the best art.
+Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). Let's be clear, the best artists *don't* waste time and energy on empowerment; they expect it to come naturally, as a byproduct of developing one's talents. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to have a *partner* help us build our fanbase— and, in turn, have this partner depend on *us* to make the best art.
 
 By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete unless they're indie as well. In turn, this means the only way for a label to stay competitive is by signing indie artists. So here's my dilemma:
 
@@ -43,7 +43,7 @@ So rock is just waiting for… a martyr. But martyrs are the ones who make histo
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. For this reason, the indie labels will refuse to hear an ambitious demo that clearly doesn't follow the rules.
 
-But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist builds a fanbase on their *own*, they'll never concede that the best art comes from waiting on a *label* to help with this effort. And having paid their dues, they're now loyal to a status quo in which *every* artist must struggle as inefficiently as *they* once did. So this is the heart of the problem:
+But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist builds a fanbase on their *own*, they'll never concede that the best art comes from waiting on a *partner* to help with this effort. And having paid their dues, they're now loyal to a status quo in which *every* artist struggles as inefficiently as *they* once did. So this is the heart of the problem:
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the people have no way to know.**
 

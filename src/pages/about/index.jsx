@@ -35,11 +35,11 @@ What if musicians committed to making history could instantly find each other ac
 
 **Why interdependence?**
 
-To make consequential art, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in areas where a *label* is more efficient, like marketing and distribution. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent. They *need* to partner with a label.
+To make consequential art, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of administration like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent. They *need* an administrative partner.
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with the help of a label. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so— [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my go-to example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and to compete with them means doing likewise.
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so— [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and to compete with them means doing likewise.
 
 **Why a public registry?**
 
@@ -47,7 +47,7 @@ It takes time to review an ambitious demo— but the indie gatekeepers refuse to
 
 **Why serious chunks of lifetime?**
 
-Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading the people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature.
+Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, causing people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature.
 
 To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to restore the people's faith.
 
@@ -78,7 +78,7 @@ Because they *also* benefit from revelatory insights that stem from the unconsci
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal: Indie artists seek power while indie labels relinquish it, with *no one* taking any risks.
 
 ${'  ' || `
-// TODO: Make these more about getting paid, less about power? This change may not be needed if paid dues is more about misinformation.
+// TODO: Then merge this into a single section, where the powerless is referring to budding entrepreneurs, not artists.
 `}
 
 Because indie artists strive to get paid from the get-go, they can never rebel against the current paradigm, given its promises to empower them. For this reason, BYCombo encourages bands to embrace being powerless and unpaid early on: While you have nothing to lose, what revolutions are you free to start?
@@ -118,7 +118,7 @@ The reason is because we only pine for past artists who gave of themselves to ad
 
 But the problems with our current Age of Self-Empowerment go beyond its failure to give us the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we like; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— which raises the question: How exactly are *they* the underdogs?
 
-But worst of all, self-empowered artists will never *start* a renaissance or a revolution, because the means to fair compensation get settled only toward the *end* of such movements. So if the art form is ever to advance again, we *need* to clear the way for selfless bands who are ready to make this sacrifice. In other words, after Self-Empowerment… comes the Age of Martyrdom.
+But worst of all, self-empowered artists will never *start* a renaissance or a revolution, because the means to fair compensation get settled only toward the *end* of such movements. So if the art form is ever to advance again, we *need* to make way for selfless bands who are ready to self-sacrifice without pay. In other words, after Self-Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* made up of such bands, each one sacrificing a serious chunk of lifetime to advance the art form?
 
