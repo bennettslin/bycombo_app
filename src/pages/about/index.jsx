@@ -57,7 +57,7 @@ Here's an incomplete list of reasons…
 
 ### Art *needs* an opposition party
 
-Political conservatives want socioeconomic *indie*-pendence. Which is fine, since no one mistakes this for a universal ideal. Liberals, their opponents, would rather have *inter*-dependence. And so we hold elections to promote healthy competition, as each of us decides which side speaks more to our circumstances.
+Political conservatives want socioeconomic *indie*-pendence— which is fine, since no one mistakes this for a universal ideal. Liberals, their opponents, would rather have *inter*-dependence. And so we hold elections to promote healthy competition, as each of us decides which side speaks more to our circumstances.
 
 Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when bands struggle to be indie because it's a poor fit for their circumstances, they're told to just suck it up and try harder. But with BYCombo, you can now join the opposition, which advocates for the interdependence you've always wanted but didn't know was possible.
 
@@ -65,7 +65,7 @@ Indie rock is clearly the conservative party of rock— yet its ideals are treat
 
 A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression— but indie artists need to spend their time building a fanbase instead. As such, indie rock is proudly defined by its *lack* of solid hooks with lasting appeal.
 
-Yet few of us care that a past artist built a fanbase on their own, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with crafting your best hooks. So BYCombo gives you all the time you need.
+Yet few of us care that a past artist built a fanbase on their own, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with crafting your best hooks. Which is why BYCombo gives you all the time you need.
 
 ### Insightful revelation requires a single hat
 
@@ -73,26 +73,22 @@ Indie rock requires its artists to wear several hats: the influencer hat, the pu
 
 Because they *also* benefit from revelatory insights that stem from the unconscious and can't be summoned at will. These insights emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. You want your art to be better than you, and so does BYCombo.
 
-### A pittance secures loyalty to the paradigm
-
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those at the bottom with nothing to lose, and those safely perched at the top. By contrast, those in the middle are the most risk averse. This might explain why indie rock is so unoriginal: Indie artists seek power while indie labels relinquish it, with *no one* taking any risks.
+### The middle and the masses join revolutions *last*
 
 ${'  ' || `
-// TODO: Then merge this into a single section, where the powerless is referring to budding entrepreneurs, not artists.
+// TODO: Just review phrasing now.
 `}
 
-Because indie artists strive to get paid from the get-go, they can never rebel against the current paradigm, given its promises to empower them. For this reason, BYCombo encourages bands to embrace being powerless and unpaid early on: While you have nothing to lose, what revolutions are you free to start?
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that those most eager to take risks are the ones safely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk averse. So which administrators make up this risk-averse middle in rock? The indie labels.
 
-### Masses join revolutions *last*
+Because indie labels have just enough to lose, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
 
-Meanwhile, because indie labels *lack* power, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution will be nipped in the bud, because the masses have *never* accepted a paradigm change on their own.
-
-Revolutions may *start* with powerless outsiders, but they're *spread* by powerful insiders. Far from exploiting such movements, those at the very top play a crucial role in getting buy-in from the masses. While this may not jibe with indie rock's anti-establishment fantasy, it's the historical truth. So BYCombo is happy to see its bands partner with powerful insiders.
+Revolutions may *start* with artists, but they're *spread* by administrative partners, whose know-how is key to winning buy-in from the masses. This makes it crucial that artists have access to administrators who share their appetite for risk. So BYCombo is here to help bands partner with top industry insiders, as well as with budding entrepreneurs starting at the bottom.
 
 ### Responsible revolutions plan for runaway effects
 
 ${'  ' || `
-// TODO: Split this in two. Make one about paid dues, the hustle, possibly hip hop. Paid dues now collude. But how does it differ from the pittance section? Make it more about misinformation. Make the other about runaway effects of a culture that celebrates self-reliance amounting to privilege.
+// TODO: Split this in two. Make one about paid dues, the hustle, possibly hip hop. Paid dues now collude. Make it about misinformation. Make the other about runaway effects of a culture that celebrates self-reliance amounting to privilege.
 
 A culture of paid dues leaves established artists forever insecure.
 Indie rock leaves its artists with questionable skills to sustain themselves at the top. This is why its artists can never be magnanimous and want things to be easier for the ones who come next.
