@@ -35,19 +35,15 @@ What if musicians committed to making history could instantly find each other ac
 
 **Why interdependence?**
 
-To make consequential art, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of administration like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent. They need a label or some other administrative partner.
+To make consequential art, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent. They *need* a label, or some other business partner.
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to aim high and take creative risks; it awakens the very thought to do so— [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my go-to example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and to compete with them means doing likewise.
+A demo shows what a work can be in the *future*, with the help of a partner. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my go-to example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and to compete with them means doing likewise.
 
 **Why a public registry?**
 
-${'  ' || `
-// TODO: Include counterculture.
-`}
-
-It takes time to review an ambitious demo— but the indie labels feel no need to put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's only hope is to appeal to music fans and potential partners who *question* indie rock's good intentions— and a public registry is where they'll know to find each other.
+It takes time to review an ambitious demo— but the indie labels won't ever put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best hope is to join a counterculture that *rejects* indie rock's good intentions— and a public registry is where sympathetic fans and potential partners will know to find them.
 
 **Why serious chunks of lifetime?**
 
@@ -77,25 +73,22 @@ Indie rock requires its artists to wear several hats: the influencer hat, the pu
 
 Because they *also* benefit from revelatory insights that stem from the unconscious and can't be summoned at will. These insights emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. You want your art to be better than you, and so does BYCombo.
 
-### The middle and the masses join revolutions *last*
+### Middle managers and masses join revolutions *last*
 
 ${'  ' || `
-// TODO: Just review phrasing now.
+// TODO: Just keep reviewing now.
 `}
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk averse. So which administrators occupy this risk-averse middle in rock? The indie labels.
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk averse. And who are *rock's* risk-averse middle managers? The indie labels.
 
 Because indie labels have just enough to lose, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
 
-Revolutions may *start* with artists, but they're *spread* by administrative partners, whose know-how is needed to win buy-in from the masses. Which makes it crucial that artists can find partners who share their appetite for risk. So BYCombo is here to introduce bands to top industry insiders, as well as to budding entrepreneurs starting at the bottom.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win buy-in from the masses. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo introduces bands to top industry insiders, as well as to budding entrepreneurs starting out at the bottom.
 
 ### Responsible revolutions plan for runaway effects
 
 ${'  ' || `
-// TODO: Split this in two. Make one about paid dues, the hustle, possibly hip hop. Paid dues now collude. Make it about misinformation. Make the other about runaway effects of a culture that celebrates self-reliance amounting to privilege.
-
-A culture of paid dues leaves established artists forever insecure.
-Indie rock leaves its artists with questionable skills to sustain themselves at the top. This is why its artists can never be magnanimous and want things to be easier for the ones who come next.
+// TODO: Split this in two. Make the other about runaway effects of a culture that celebrates self-reliance amounting to privilege.
 
 Mention hip hop in both? Hip hop is also a race to the top.
 `}
@@ -106,9 +99,20 @@ Won't interdependence see a runaway effect as well? Yes, but it's foreseeably a 
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
-Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: originality and talent born from an outsider's hunger. And BYCombo is the latest case in point.
+Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: originality and talent, born from an outsider's hunger. And BYCombo is the latest case in point.
 
 Don't be fooled by indie rock's recent embrace of female and minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. Meanwhile, BYCombo was *conceived* to serve disadvantaged groups. I know firsthand that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
+
+### Paid dues must now collude
+
+${'  ' || `
+// TODO: The hustle, possibly hip hop. Paid dues now collude. Make it about misinformation.
+
+A culture of paid dues leaves established artists forever insecure.
+Indie rock leaves its artists with questionable skills to sustain themselves at the top. This is why its artists can never be magnanimous and want things to be easier for the ones who come next.
+
+Mention hip hop in both? Hip hop is also a race to the top.
+`}
 
 ### Art *needs* the blood of martyrs
 
