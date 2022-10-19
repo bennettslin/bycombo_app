@@ -106,12 +106,12 @@ ${'  ' || `
 ### *For* hungry outsiders, *by* a hungry outsider
 
 ${'  ' || `
-// TODO: Just review now.
+// TODO: Just review now. Are two paragraphs needed? Can they be consolidated?
 `}
 
-Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a movement that rewards self-reliance. And don't be fooled by hip hop's bravado: When rappers boast of having hustled to make it, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an advantage to rivals.
+Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a movement that rewards self-reliance. And don't be fooled by hip hop's bravado: When rappers boast of having hustled, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an advantage to rivals.
 
-No, all minority-founded movements, including hip hop, value what can't be bought: originality and talent, born from an outsider's hunger. As such, they naturally evolve to become healthy races to the *top*. And BYCombo will prove to be the latest case in point.
+No, every minority-founded movement, including hip hop, only values what can't be bought: originality and talent, born from an outsider's hunger. As such, it naturally evolves into a healthy race to the *top*. And BYCombo will prove to be the latest case in point.
 
 Don't be fooled, either, by indie rock's belated embrace of minority artists. They're being handed the reins *because* it's in decline; these are crumbs on offer here. Meanwhile, BYCombo was *conceived* from the get-go to serve disadvantaged groups. I know that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
@@ -122,6 +122,8 @@ ${'  ' || `
 
 A culture of paid dues leaves established artists forever insecure.
 Indie rock leaves its artists with questionable skills to sustain themselves at the top. This is why its artists can never be magnanimous and want things to be easier for the ones who come next.
+
+Complicit.
 `}
 
 ### Art *needs* the blood of martyrs
