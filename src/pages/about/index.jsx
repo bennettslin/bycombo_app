@@ -55,11 +55,15 @@ To save rock, then, a centralized force like BYCombo must now step up to enforce
 
 Here's an incomplete list of reasons…
 
+${'  ' || `
+// TODO: Keep or not?
+
 ### Art *needs* an opposition party
 
 Political conservatives want socioeconomic *indie*-pendence— which is fine, since no one mistakes this for a universal ideal. Liberals, their opponents, would rather have *inter*-dependence. And so we hold elections to promote healthy competition, as each of us decides which side speaks more to our circumstances.
 
 Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when bands struggle to be indie because it's a poor fit for their circumstances, they're told to just suck it up and try harder. But with BYCombo, you can now join the opposition, which advocates for the interdependence you've always wanted but didn't know was possible.
+`}
 
 ### History remembers hooks
 
@@ -76,42 +80,48 @@ Because they *also* benefit from revelatory insights that stem from the unconsci
 ### Middle managers and masses join revolutions *last*
 
 ${'  ' || `
-// TODO: Just keep reviewing now.
+// TODO: Just review now.
 `}
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. By contrast, the ones in the middle are the most risk averse. And who are *rock's* risk-averse middle managers? The indie labels.
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. By contrast, those in the middle are the most risk averse. And who are *rock's* risk-averse middle managers? The indie labels.
 
 Because indie labels have just enough to lose, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win buy-in from the masses. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo introduces bands to top industry insiders, as well as to budding entrepreneurs starting out at the bottom.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is key to winning buy-in from the masses. This makes it crucial for such artists to find partners who share their large appetite for risk. So BYCombo introduces bands to top industry insiders, as well as to budding entrepreneurs starting out at the bottom.
 
-### Responsible revolutions plan for runaway effects
+### Competitive self-reliance favors privilege
 
 ${'  ' || `
-// TODO: Split this in two. Make the other about runaway effects of a culture that celebrates self-reliance amounting to privilege.
-
-Mention hip hop in both? Hip hop is also a race to the top.
+// TODO: Split this in two. Mention runaway effects and devolving into race to the bottom.
 `}
 
 Indie rock is all about rewarding artists who bypass the middleman. But if the middleman's job is simple enough for any artist to do themselves, then a wealthy artist can just pay someone *else* to do it— including, ironically, a former middleman! And so indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
 Won't interdependence see a runaway effect as well? Yes, but it's foreseeably a race to the *top*. Taking BYCombo's approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— but this basically *guarantees* they'll be remembered by history!
 
+${'  ' || `
+// TODO: Be mindful of the segue to the next section. Keep sense of ironic endgame.
+`}
+
 ### *For* hungry outsiders, *by* a hungry outsider
 
-Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a culture that rewards self-reliance. Instead, their movements value what can't be bought: originality and talent, born from an outsider's hunger. And BYCombo is the latest case in point.
+${'  ' || `
+// TODO: Just review now.
+`}
 
-Don't be fooled by indie rock's recent embrace of female and minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. Meanwhile, BYCombo was *conceived* to serve disadvantaged groups. I know firsthand that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
+Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a movement that rewards self-reliance. And don't be fooled by hip hop's bravado: When rappers boast of having hustled to make it, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an advantage to rivals.
+
+No, all minority-founded movements, including hip hop, value what can't be bought: originality and talent, born from an outsider's hunger. As such, they naturally evolve to become healthy races to the *top*. And BYCombo will prove to be the latest case in point.
+
+Don't be fooled, either, by indie rock's belated embrace of minority artists. They're being handed the reins *because* it's in decline; these are crumbs on offer here. Meanwhile, BYCombo was *conceived* from the get-go to serve disadvantaged groups. I know that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
 ### Paid dues must now collude
 
 ${'  ' || `
-// TODO: The hustle, possibly hip hop. Paid dues now collude. Make it about misinformation.
+// TODO: Segue from hustle to paid dues. Make it about misinformation.
 
 A culture of paid dues leaves established artists forever insecure.
 Indie rock leaves its artists with questionable skills to sustain themselves at the top. This is why its artists can never be magnanimous and want things to be easier for the ones who come next.
-
-Mention hip hop in both? Hip hop is also a race to the top.
 `}
 
 ### Art *needs* the blood of martyrs
