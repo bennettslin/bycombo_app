@@ -87,7 +87,7 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 
 Because indie labels have just enough to lose, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is key to winning buy-in from the masses. This makes it crucial for such artists to find partners who share their large appetite for risk. So BYCombo introduces bands to top industry insiders, as well as to budding entrepreneurs starting out at the bottom.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is key to winning buy-in from the masses. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo gives them access to top industry insiders, as well as to budding entrepreneurs starting out at the bottom.
 
 ### Competitive self-reliance favors privilege
 
