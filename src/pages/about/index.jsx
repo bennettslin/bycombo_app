@@ -95,7 +95,7 @@ ${'  ' || `
 // TODO: Split this in two. Mention runaway effects and devolving into race to the bottom.
 `}
 
-Indie rock is all about rewarding artists who bypass the middleman. But if the middleman's job is simple enough for any artist to do themselves, then a wealthy artist can just pay someone *else* to do it— including, ironically, a former middleman! And so indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
+Indie rock rewards artists who do the middleman's job themselves. But if the middleman's job is simple enough for anyone to do, then a wealthy artist can just pay someone *else* to do it— including, ironically, a former middleman! And so indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
 Won't interdependence see a runaway effect as well? Yes, but it's foreseeably a race to the *top*. Taking BYCombo's approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— but this basically *guarantees* they'll be remembered by history!
 
