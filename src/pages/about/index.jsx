@@ -93,15 +93,25 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 
 ${'  ' || `
 // TODO: Split this in two. Mention runaway effects and devolving into race to the bottom.
+
+First paragraph should mention self-reliance.
+
+How did indie rock's runaway effect be to favor the privileged?
+
+Because indie rock is related to the arts, it benefits from the goodwill enjoyed by cultures of *cooperative* self-reliance, like the Maker Faire, that are grounded in love of the *craft*. But it's actually a culture of *competitive* self-reliance, like fiscal conservatism, that's grounded in love of the *hustle*. Such movements tend to attract the privileged, because nothing makes the hustle more fun and exciting than privilege.
+
+Mention socioeconomic indie-pendence.
+
+There's nothing wrong with being an artistic conservative who's in it for love of the hustle, of course. But it's a partisan ideal, not a universal one.
+Next paragraph is about universal versus partisan ideal.
+Love of the craft.
+
+Hustling while privileged.
 `}
 
-Indie rock rewards artists who do the middleman's job themselves. But if the middleman's job is simple enough for anyone to do, then a wealthy artist can just pay someone *else* to do it— including, ironically, a former middleman! And so indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
+Indie rock is a culture of self-reliance that rewards artists who do the middleman's job themselves. But if the middleman's job is simple enough for anyone to do, then a wealthy artist can just pay someone *else* to do it— including, ironically, a former middleman! And so indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
 
 Won't interdependence see a runaway effect as well? Yes, but it's foreseeably a race to the *top*. Taking BYCombo's approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— but this basically *guarantees* they'll be remembered by history!
-
-${'  ' || `
-// TODO: Be mindful of the segue to the next section. Keep sense of ironic endgame.
-`}
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
@@ -109,9 +119,9 @@ ${'  ' || `
 // TODO: Just review now.
 `}
 
-Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never started a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an advantage to rivals.
+Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never started a movement that rewards self-reliance. Don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering any advantage to *rivals*.
 
-Don't be misled, either, by indie rock's belated embrace of minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. No, the best movements for minorities are the ones *started* by them, which necessarily reflect their circumstances and thus reward what can't be bought: originality and talent, born from an outsider's hunger.
+Don't be fooled, either, by indie rock's belated embrace of minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. No, the best movements for minorities are the ones *started* by them, which necessarily reflect their circumstances and thus reward what can't be bought: originality and talent, born from an outsider's hunger.
 
 And BYCombo— which I founded precisely to *serve* disadvantaged groups— will prove to be the latest case in point. I know that disadvantage drives your instinct for *mutual* reliance, as well as your desire to aim for the *top* of the pantheon.
 
