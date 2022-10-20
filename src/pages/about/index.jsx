@@ -67,7 +67,7 @@ Indie rock is clearly the conservative party of rock— yet its ideals are treat
 
 ### History remembers hooks
 
-A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression— but indie artists need to spend their time building a fanbase instead. As such, indie rock is proudly defined by its *lack* of solid hooks with lasting appeal.
+A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression— but indie artists are required to spend their time building a fanbase instead. As such, indie rock is proudly defined by its *lack* of solid hooks with lasting appeal.
 
 Yet few of us care that a past artist built a fanbase on their own, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with crafting your best hooks. Which is why BYCombo gives you all the time you need.
 
@@ -87,7 +87,7 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 
 Because indie labels have just enough to lose, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is key to winning buy-in from the masses. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo gives them access to top industry insiders, as well as to budding entrepreneurs starting out at the bottom.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is key to winning buy-in from the masses. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo allows them to reach top industry insiders, as well as budding entrepreneurs starting out at the bottom.
 
 ### Competitive self-reliance favors privilege
 
@@ -109,7 +109,7 @@ ${'  ' || `
 // TODO: Just review now. Are two paragraphs needed? Can they be consolidated?
 `}
 
-Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a movement that rewards self-reliance. And don't be fooled by hip hop's bravado: When rappers boast of having hustled, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an advantage to rivals.
+Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a movement that rewards self-reliance. By the way, don't be fooled by hip hop's bravado: When rappers boast of having hustled, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an advantage to rivals.
 
 No, every minority-founded movement, including hip hop, only values what can't be bought: originality and talent, born from an outsider's hunger. As such, it naturally evolves into a healthy race to the *top*. And BYCombo will prove to be the latest case in point.
 
@@ -136,7 +136,7 @@ But the problems with our current Age of Self-Empowerment go beyond its failure 
 
 But worst of all, self-empowered artists will never *start* a renaissance or a revolution, because the means to fair compensation get settled only toward the *end* of such movements. So if the art form is ever to advance again, we *need* to make way for selfless bands who are ready to self-sacrifice without pay. In other words, after Self-Empowerment… comes the Age of Martyrdom.
 
-Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* made up of such bands, each one sacrificing a serious chunk of lifetime to advance the art form?
+Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* of such bands, each one sacrificing a serious chunk of lifetime to advance the art form?
 
 Well, can you imagine the *next* generation asking, "Where's *our* BYCombo? Where's *our* interdependence revolution?"
     `,
