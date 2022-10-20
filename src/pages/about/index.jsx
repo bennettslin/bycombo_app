@@ -15,6 +15,10 @@ There's just one problem: Indie rock isn't really a *genre* so much as it's a *s
 
 ### The revolution will *not* be decentralized
 
+${'  ' || `
+// TODO: Oof, that's a mouthful. Let's break it down.
+`}
+
 **Why an anti-indie counterculture?**
 
 A counterculture is needed to protect dangerous ideas, yet there hasn't been one for a while. Meanwhile, despite indie rock's good intentions, rock has gotten worse. But what if rock is worse… *because* of these good intentions? What if all this charitable support for indie *artists*… is actually bad for *art*? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
@@ -39,7 +43,7 @@ To make consequential art, a band must develop exceptional strengths. But this i
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with the help of a partner. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my go-to example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and to compete with them means doing likewise.
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own go-to example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and to compete with them means doing likewise.
 
 **Why a public registry?**
 
@@ -55,19 +59,9 @@ To save rock, then, a centralized force like BYCombo must now step up to enforce
 
 Here's an incomplete list of reasons…
 
-${'  ' || `
-// TODO: Keep or not?
-
-### Art *needs* an opposition party
-
-Political conservatives want socioeconomic *indie*-pendence— which is fine, since no one mistakes this for a universal ideal. Liberals, their opponents, would rather have *inter*-dependence. And so we hold elections to promote healthy competition, as each of us decides which side speaks more to our circumstances.
-
-Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when bands struggle to be indie because it's a poor fit for their circumstances, they're told to just suck it up and try harder. But with BYCombo, you can now join the opposition, which advocates for the interdependence you've always wanted but didn't know was possible.
-`}
-
 ### History remembers hooks
 
-A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression— but indie artists are required to spend their time building a fanbase instead. As such, indie rock is proudly defined by its *lack* of solid hooks with lasting appeal.
+A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression— but indie artists are required to spend their time building a fanbase instead. As such, indie rock is proudly defined by a *lack* of solid hooks with lasting appeal.
 
 Yet few of us care that a past artist built a fanbase on their own, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with crafting your best hooks. Which is why BYCombo gives you all the time you need.
 
@@ -75,26 +69,24 @@ Yet few of us care that a past artist built a fanbase on their own, while nearly
 
 Indie rock requires its artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talent. Yet the best works of art are even *better* than the artists who make them. Why?
 
-Because they *also* benefit from revelatory insights that stem from the unconscious and can't be summoned at will. These insights emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. You want your art to be better than you, and so does BYCombo.
+Because they *also* benefit from revelatory insights that stem from the unconscious and can't be summoned at will. These insights emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. You want your art to be *better* than you, and so does BYCombo.
 
 ### Middle managers and masses join revolutions *last*
 
 ${'  ' || `
-// TODO: Just review now.
+// TODO: Just review now. Really work on the last sentence.
 `}
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. By contrast, those in the middle are the most risk averse. And who are *rock's* risk-averse middle managers? The indie labels.
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those at the bottom, who have nothing to lose, as well as those safely perched at the top. The ones in the middle, by contrast, are the most risk averse. And who are *rock's* risk-averse middle managers? The indie labels.
 
-Because indie labels have just enough to lose, they only make safe bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
+Because indie labels have just enough to lose, they only make *safe* bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is key to winning buy-in from the masses. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo allows them to reach top industry insiders, as well as budding entrepreneurs starting out at the bottom.
+Past revolutions may have *started* with artists, but they were *spread* by business partners, whose know-how was key to winning buy-in from the masses. This makes it crucial for today's artists to find partners who share their appetite for risk. So BYCombo helps them reach top industry insiders, as well as budding entrepreneurs starting out from the bottom.
 
 ### Competitive self-reliance favors privilege
 
 ${'  ' || `
-// TODO: Split this in two. Mention runaway effects and devolving into race to the bottom.
-
-First paragraph should mention self-reliance.
+// TODO: Mention runaway effects and devolving into race to the bottom. First paragraph should mention self-reliance.
 
 How did indie rock's runaway effect be to favor the privileged?
 
@@ -107,6 +99,12 @@ Next paragraph is about universal versus partisan ideal.
 Love of the craft.
 
 Hustling while privileged.
+
+### Art *needs* an opposition party
+
+Political conservatives want socioeconomic *indie*-pendence— which is fine, since no one mistakes this for a universal ideal. Liberals, their opponents, would rather have *inter*-dependence. And so we hold elections to promote healthy competition, as each of us decides which side speaks more to our circumstances.
+
+Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when bands struggle to be indie because it's a poor fit for their circumstances, they're told to just suck it up and try harder. But with BYCombo, you can now join the opposition, which advocates for the interdependence you've always wanted but didn't know was possible.
 `}
 
 Indie rock is a culture of self-reliance that rewards artists who do the middleman's job themselves. But if the middleman's job is simple enough for anyone to do, then a wealthy artist can just pay someone *else* to do it— including, ironically, a former middleman! And so indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
@@ -116,14 +114,14 @@ Won't interdependence see a runaway effect as well? Yes, but it's foreseeably a 
 ### *For* hungry outsiders, *by* a hungry outsider
 
 ${'  ' || `
-// TODO: Just review now.
+// TODO: Just review now. If the point is made in the previous section about an opposition party for mutual reliance, it might not be needed to repeat it in the last sentence here.
 `}
 
-Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never started a movement that rewards self-reliance. Don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering any advantage to *rivals*.
+Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never started a movement that rewards self-reliance. And don't be misled by hip hop's bravado: When rappers boast of their past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering any advantage to *rivals*.
 
-Don't be fooled, either, by indie rock's belated embrace of minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. No, the best movements for minorities are the ones *started* by them, which necessarily reflect their circumstances and thus reward what can't be bought: originality and talent, born from an outsider's hunger.
+Don't be fooled, either, by indie rock's belated embrace of minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. No, the best movements for minorities are the ones *they* started— like hip hop— which necessarily reflect their circumstances and thus reward what can't be bought: originality and talent, born from an outsider's hunger.
 
-And BYCombo— which I founded precisely to *serve* disadvantaged groups— will prove to be the latest case in point. I know that disadvantage drives your instinct for *mutual* reliance, as well as your desire to aim for the *top* of the pantheon.
+And BYCombo— which I founded *precisely* to serve disadvantaged groups— will prove to be the latest case in point. Being a minority myself, I know that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
 ${'  ' || `
 // TODO: Segue from hustle to paid dues. Make it about misinformation.
@@ -147,6 +145,10 @@ But the problems with our current Age of Self-Empowerment go beyond its failure 
 But worst of all, self-empowered artists will never *start* a renaissance or a revolution, because the means to fair compensation get settled only toward the *end* of such movements. So if the art form is ever to advance again, we *need* to make way for selfless bands who are ready to self-sacrifice without pay. In other words, after Self-Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* of such bands, each one sacrificing a serious chunk of lifetime to advance the art form?
+
+${'  ' || `
+// TODO: Change this to be more like: No need to ask, where's our BYCombo?
+`}
 
 Well, can you imagine the *next* generation asking, "Where's *our* BYCombo? Where's *our* interdependence revolution?"
     `,
