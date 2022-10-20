@@ -43,13 +43,13 @@ A demo shows what a work can be in the *future*, with the help of a partner. Thi
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie labels won't ever put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best hope is to join a counterculture that *rejects* indie rock's good intentions— and a public registry is where sympathetic fans and potential partners will know to find them.
+It takes time to review an ambitious demo— but the indie labels won't ever put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best hope is to join a counterculture that *questions* indie rock's good intentions— and a public registry is where sympathetic fans and potential partners will know to find them.
 
 **Why serious chunks of lifetime?**
 
 Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, causing people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature.
 
-To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. The cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to restore the people's faith.
+To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to restore the people's faith.
 
 **Why has indie rock made rock worse?**
 
@@ -106,19 +106,19 @@ ${'  ' || `
 ### *For* hungry outsiders, *by* a hungry outsider
 
 ${'  ' || `
-// TODO: Just review now. Are two paragraphs needed? Can they be consolidated?
+// TODO: Just review now.
 `}
 
-Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a movement that rewards self-reliance. By the way, don't be fooled by hip hop's bravado: When rappers boast of having hustled, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an advantage to rivals.
+Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never started a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an advantage to rivals.
 
-No, every minority-founded movement, including hip hop, only values what can't be bought: originality and talent, born from an outsider's hunger. As such, it naturally evolves into a healthy race to the *top*. And BYCombo will prove to be the latest case in point.
+Don't be misled, either, by indie rock's belated embrace of minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. No, the best movements for minorities are the ones *started* by them, which necessarily reflect their circumstances and thus reward what can't be bought: originality and talent, born from an outsider's hunger.
 
-Don't be fooled, either, by indie rock's belated embrace of minority artists. They're being handed the reins *because* it's in decline; these are crumbs on offer here. Meanwhile, BYCombo was *conceived* from the get-go to serve disadvantaged groups. I know that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
-
-### Paid dues must now collude
+And BYCombo— which I founded precisely to *serve* disadvantaged groups— will prove to be the latest case in point. I know that disadvantage drives your instinct for *mutual* reliance, as well as your desire to aim for the *top* of the pantheon.
 
 ${'  ' || `
 // TODO: Segue from hustle to paid dues. Make it about misinformation.
+
+### Paid dues must now collude
 
 A culture of paid dues leaves established artists forever insecure.
 Indie rock leaves its artists with questionable skills to sustain themselves at the top. This is why its artists can never be magnanimous and want things to be easier for the ones who come next.
