@@ -10,7 +10,7 @@ const Component = () => (
 
 Are you ready to sacrifice a serious chunk of lifetime to make rock history? Be part of BYCombo's pilot cohort!
 
-### Diversity policy
+### Diversity and inclusion policy
 
 **Women, minorities, and all other disadvantaged groups are encouraged to apply!**
 
