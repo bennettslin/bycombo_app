@@ -15,9 +15,7 @@ There's just one problem: Indie rock isn't really a *genre* so much as it's a *s
 
 ### The revolution will *not* be decentralized
 
-${'  ' || `
-// TODO: Oof, that's a mouthful. Let's break it down.
-`}
+Okay, that's a mouthful. Let's break it down!
 
 **Why an anti-indie counterculture?**
 
@@ -71,53 +69,37 @@ Indie rock requires its artists to wear several hats: the influencer hat, the pu
 
 Because they *also* benefit from revelatory insights that stem from the unconscious and can't be summoned at will. These insights emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. You want your art to be *better* than you, and so does BYCombo.
 
-### Middle managers and masses join revolutions *last*
+### Middle managers and the masses join *last*
 
 ${'  ' || `
-// TODO: Just review now. Really work on the last sentence.
+// TODO: Just review now.
 `}
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those at the bottom, who have nothing to lose, as well as those safely perched at the top. The ones in the middle, by contrast, are the most risk averse. And who are *rock's* risk-averse middle managers? The indie labels.
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom, who have nothing to lose. The ones in the middle, by contrast, are the most risk averse. And who are these risk-averse middle managers in *rock*? The indie labels.
 
-Because indie labels have just enough to lose, they only make *safe* bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, it means every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
+Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
 
-Past revolutions may have *started* with artists, but they were *spread* by business partners, whose know-how was key to winning buy-in from the masses. This makes it crucial for today's artists to find partners who share their appetite for risk. So BYCombo helps them reach top industry insiders, as well as budding entrepreneurs starting out from the bottom.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is key to winning buy-in from the masses. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps them reach both industry insiders who are secure enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
 
 ### Competitive self-reliance favors privilege
 
 ${'  ' || `
-// TODO: Mention runaway effects and devolving into race to the bottom. First paragraph should mention self-reliance.
-
-How did indie rock's runaway effect be to favor the privileged?
-
-Because indie rock is related to the arts, it benefits from the goodwill enjoyed by cultures of *cooperative* self-reliance, like the Maker Faire, that are grounded in love of the *craft*. But it's actually a culture of *competitive* self-reliance, like fiscal conservatism, that's grounded in love of the *hustle*. Such movements tend to attract the privileged, because nothing makes the hustle more fun and exciting than privilege.
-
-Mention socioeconomic indie-pendence.
-
-There's nothing wrong with being an artistic conservative who's in it for love of the hustle, of course. But it's a partisan ideal, not a universal one.
-Next paragraph is about universal versus partisan ideal.
-Love of the craft.
-
-Hustling while privileged.
-
-### Art *needs* an opposition party
-
-Political conservatives want socioeconomic *indie*-pendence— which is fine, since no one mistakes this for a universal ideal. Liberals, their opponents, would rather have *inter*-dependence. And so we hold elections to promote healthy competition, as each of us decides which side speaks more to our circumstances.
-
-Indie rock is clearly the conservative party of rock— yet its ideals are treated as universal, *not* partisan! So when bands struggle to be indie because it's a poor fit for their circumstances, they're told to just suck it up and try harder. But with BYCombo, you can now join the opposition, which advocates for the interdependence you've always wanted but didn't know was possible.
+// TODO: Just review now.
 `}
 
-Indie rock is a culture of self-reliance that rewards artists who do the middleman's job themselves. But if the middleman's job is simple enough for anyone to do, then a wealthy artist can just pay someone *else* to do it— including, ironically, a former middleman! And so indie rock has become a trust fund playground, leading to today's disillusionment. Yet this was foreseeable from day one!
+Indie rock encourages self-reliance by empowering artists to bypass the middleman. But if the middleman's job is simple enough for anyone to do, then any wealthy artist can just pay *others* to do it— including, ironically, former middlemen! So indie rock has devolved into a playground for the privileged, leading to today's disillusionment. How did this happen?
 
-Won't interdependence see a runaway effect as well? Yes, but it's foreseeably a race to the *top*. Taking BYCombo's approach to its absurd conclusion, a band might spend an *entire* lifetime on their demo— but this basically *guarantees* they'll be remembered by history!
+As an artistic movement, indie rock benefits from the goodwill enjoyed by cultures of *cooperative* self-reliance, like the Maker Faire, that are united in love of the *craft*. But indie rock is really a culture of *competitive* self-reliance, like political libertarianism; it's rooted in excitement for the *hustle*. And nothing makes the hustle easier, and thus more exciting, than privilege.
+
+There's nothing wrong with indie rock's artistic libertarianism, per se, but this *partisan* ideal gets mistaken as *universal*. So when bands struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. Now with BYCombo, you can join an opposition party that advocates for the interdependence you naturally prefer and thrive under.
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
 ${'  ' || `
-// TODO: Just review now. If the point is made in the previous section about an opposition party for mutual reliance, it might not be needed to repeat it in the last sentence here.
+// TODO: Just review now.
 `}
 
-Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never started a movement that rewards self-reliance. And don't be misled by hip hop's bravado: When rappers boast of their past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering any advantage to *rivals*.
+Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never started a movement that rewards self-reliance. Don't be misled by hip hop's bravado, by the way: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering any advantage to *rivals*.
 
 Don't be fooled, either, by indie rock's belated embrace of minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. No, the best movements for minorities are the ones *they* started— like hip hop— which necessarily reflect their circumstances and thus reward what can't be bought: originality and talent, born from an outsider's hunger.
 
