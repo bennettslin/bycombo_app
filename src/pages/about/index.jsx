@@ -15,7 +15,7 @@ There's just one problem: Indie rock isn't really a *genre* so much as it's a *s
 
 ### The revolution will *not* be decentralized
 
-Okay, that's a mouthful. Let's break it down!
+Okay, that's a mouthful! Let's break it down…
 
 **Why an anti-indie counterculture?**
 
@@ -71,15 +71,11 @@ Because they *also* benefit from revelatory insights that stem from the unconsci
 
 ### Middle managers and the masses join *last*
 
-${'  ' || `
-// TODO: Just review now.
-`}
-
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom, who have nothing to lose. The ones in the middle, by contrast, are the most risk averse. And who are these risk-averse middle managers in *rock*? The indie labels.
 
 Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is key to winning buy-in from the masses. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps them reach both industry insiders who are secure enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is key to winning buy-in from the masses. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps them reach industry insiders who are secure enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
 
 ### Competitive self-reliance favors privilege
 
@@ -89,7 +85,7 @@ ${'  ' || `
 
 Indie rock encourages self-reliance by empowering artists to bypass the middleman. But if the middleman's job is simple enough for anyone to do, then any wealthy artist can just pay *others* to do it— including, ironically, former middlemen! So indie rock has devolved into a playground for the privileged, leading to today's disillusionment. How did this happen?
 
-As an artistic movement, indie rock benefits from the goodwill enjoyed by cultures of *cooperative* self-reliance, like the Maker Faire, that are united in love of the *craft*. But indie rock is really a culture of *competitive* self-reliance, like political libertarianism; it's rooted in excitement for the *hustle*. And nothing makes the hustle easier, and thus more exciting, than privilege.
+As an artistic movement, indie rock benefits from the goodwill enjoyed by cultures of *cooperative* self-reliance, like the Maker Faire, that are united in their love of the *craft*. But indie rock is really about *competitive* self-reliance, like political libertarianism; it's rooted in excitement for the *hustle*. And nothing makes the hustle easier, and thus more exciting, than privilege.
 
 There's nothing wrong with indie rock's artistic libertarianism, per se, but this *partisan* ideal gets mistaken as *universal*. So when bands struggle to be indie because it's a poor fit for their circumstances, they're just told to suck it up and try harder. Now with BYCombo, you can join an opposition party that advocates for the interdependence you naturally prefer and thrive under.
 
