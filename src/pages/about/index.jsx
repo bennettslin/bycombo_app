@@ -80,7 +80,7 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 ### Competitive self-reliance favors privilege
 
 ${'  ' || `
-// TODO: Just review now.
+// TODO: Just review now. Reconsider last sentence. Compete on mutual reliance?
 `}
 
 Indie rock encourages self-reliance by empowering artists to bypass the middleman. But if the middleman's job is simple enough for anyone to do, then any wealthy artist can just pay *others* to do it— including, ironically, former middlemen! So indie rock has devolved into a playground for the privileged, leading to today's disillusionment. How did this happen?
@@ -97,7 +97,7 @@ ${'  ' || `
 
 Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never started a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an advantage to *rivals*.
 
-Don't be fooled, either, by indie rock's belated embrace of minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. No, the best movements for minorities are the ones *they* started— like hip hop— that necessarily reflect their circumstances and thus reward what can't be bought: originality and talent, born from an outsider's hunger.
+Don't be fooled, either, by indie rock's belated embrace of minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. No, the best movements for minorities are the ones *they* started— like hip hop— that reflect their circumstances and thus reward what can't be bought: originality and talent, born from an outsider's hunger.
 
 And BYCombo— which I founded to *serve* disadvantaged groups— will prove to be the latest case in point. As a minority myself, I know that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
