@@ -19,7 +19,7 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why an anti-indie counterculture?**
 
-A counterculture is needed to protect dangerous ideas, yet there hasn't been one for a while. Meanwhile, despite indie rock's good intentions, rock has gotten worse. But what if rock is worse… *because* of these good intentions? What if all this charitable support for indie *artists*… is actually bad for *art*? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
+A counterculture is needed to protect dangerous ideas, yet we haven't had one in a while. Meanwhile, despite indie rock's good intentions, rock has gotten worse. But what if rock is worse… *because* of these good intentions? What if all this charitable support for indie *artists*… is actually bad for *art*? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
 **Why historical consequence?**
 
@@ -63,11 +63,11 @@ A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https
 
 Yet few of us care that a past artist built a fanbase on their own, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with crafting your best hooks. Which is why BYCombo gives you all the time you need.
 
-### Insightful revelation requires a single hat
+### Revelatory insight requires a single hat
 
 Indie rock requires its artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talent. Yet the best works of art are even *better* than the artists who make them. Why?
 
-Because they *also* benefit from revelatory insights that stem from the unconscious and can't be summoned at will. These insights emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. You want your art to be *better* than you, and so does BYCombo.
+Because they *also* benefit from insightful revelations that stem from the unconscious and can't be summoned at will. These revelations emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. You want your art to be *better* than you, and so does BYCombo.
 
 ### The middle and the masses join revolutions *last*
 
@@ -102,14 +102,12 @@ Don't be fooled, either, by indie rock's belated embrace of minority artists. Th
 And BYCombo— which I founded to *serve* disadvantaged groups— will prove to be the latest case in point. As a minority myself, I know that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
 ${'  ' || `
-// TODO: Segue from hustle to paid dues. Make it about misinformation.
-
 ### Paid dues must now collude
 
-A culture of paid dues leaves established artists forever insecure.
+A culture that rewards paid dues creates a hierarchy of insecure winners.
 Indie rock leaves its artists with questionable skills to sustain themselves at the top. This is why its artists can never be magnanimous and want things to be easier for the ones who come next.
 
-Complicit.
+Complicit in withholding information.
 `}
 
 ### Art *needs* the blood of martyrs
