@@ -97,14 +97,18 @@ ${'  ' || `
 TODO
 
 A culture that rewards paid dues creates a hierarchy of insecure winners.
-Indie rock leaves its artists with questionable skills to sustain themselves at the top. This is why its artists can never be magnanimous and want things to be easier for the ones who come next.
+Indie rock leaves its artists with questionable skills to sustain themselves at the top. This is why in indie rock, established artists can never be magnanimous and make the process easier for those who come next.
 
 Complicit in withholding information.
 `}
 
-### Paid dues must collude
+### Paid dues must now collude
 
 After working as a coder to build up my skills for the audio webcomic, I came back to the music world and was shocked to see so many indie artists touring at a loss, all for the sake of "paying their dues." In the tech world, "paid dues" is a synonym for fake work; it's a sign that an industry will be disrupted— by outsiders. But wait… why doesn't reform come from within?
+
+One reason is that paid dues are measured by established standards known to all; nothing innovative counts. And so when a standard degrades and no longer makes sense in the modern world, such as building a fanbase by touring, there are no innovative artists around to fix this with an ingenious solution, because they've long self-selected themselves out.
+
+This is why it took an outsider to found BYCombo. It's not that your favorite indie artists didn't see an opening to start a revolution. The concept is indeed simple. Rather, they actively don't want revolution.
 
 ### Art needs the blood of martyrs
 
