@@ -37,7 +37,7 @@ Well, then, can't an interdependent band just promise to make the best art inste
 
 **To revive interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
-So rock is just waiting for… a martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was precisely by *not* building a fanbase that I was able to code and illustrate the audio webcomic. Surely even an indie label would be happy with this tradeoff?
+So rock is just waiting for… a martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was precisely by *not* building a fanbase that I was able to code and illustrate the audio webcomic. Surely even an indie label would be happy with this tradeoff!
 
 ### Who gatekeeps the gatekeepers?
 
@@ -49,7 +49,7 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 
 ### A hundred *Yearling's Bobtail*s
 
-But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry insiders in genres that *never* went indie— like hip hop— are eager to jump in as well.
+But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry executives in genres that *never* went indie— like hip hop— are eager to jump in as well.
 
 So plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative movement to willfully *raise* these barriers. And this is where BYCombo comes in!
 

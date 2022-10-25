@@ -10,7 +10,7 @@ const Component = () => (
                 `
 # Support the interdependence revolution!
 
-BYCombo is here for every music fan, industry insider, and budding entrepreneur who's grown tired of indie rock's low barriers to entry. We'll earn your trust by enforcing a steep *cost* of entry:
+BYCombo is here for every music fan, industry executive, and budding entrepreneur who's grown tired of indie rock's low barriers to entry. We'll earn your trust by enforcing a steep *cost* of entry:
 
 **To be shown in BYCombo's registry, each band must sacrifice at least 25,000 hours— that's twelve years working full time!— to make a demo that advances the art form.**
 
