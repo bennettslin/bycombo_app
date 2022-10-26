@@ -75,7 +75,7 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 
 Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is key to winning buy-in from the masses. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps them reach industry executives who are secure enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is key to winning over the masses. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps them reach industry executives who are secure enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
 
 ### Competitive self-reliance favors privilege
 
@@ -106,15 +106,21 @@ Insecure winners. Paid dues are the worst kind of credentials, not backed up by 
 
 ### Paid dues must now collude
 
-After working as a coder to build up skills needed for my audio webcomic, I came back to the music world and was shocked to hear indie artists speak of "paying their dues"— to justify, let's say, touring at a loss. In the tech world, "paid dues" is understood to mean fake work; industries that revolve around it get disrupted— by outsiders. Why don't those on the inside see this first?
+After years spent working days as a coder and nights on my audio webcomic, I came back to the music world and was shocked to hear indie artists speak of "paying their dues"— to justify, let's say, touring at a loss. In the tech world, "paid dues" is understood to mean fake work; industries that revolve around it get disrupted— by outsiders. Why don't those on the inside see this first?
 
-One reason is that for paid dues to be measured fairly, everyone must follow familiar conventions; invention doesn't count. So as a convention degrades over time— like touring to build a fanbase, which makes less sense as society moves online— no one around sees this as a solvable problem, because those who love to find inventive solutions have already opted out.
+// TODO: Paid dues are based on familiar conventions, and those happiest to do so are the ones least likely to recognize problems and find creative solutions.
 
-But the main reason is that paid dues aren't backed by anything of genuine value. They're awarded to those who can tolerate doing fake work the longest. So those who've paid their dues, and those whose power comes from recognizing paid dues, will work to ensure that reform never happens, because reform, by its very nature, must necessarily invalidate pointless credentials.
+One reason is that for paid dues to be fairly measured, everyone must follow familiar conventions; inventions don't count, so those who excel at finding inventive solutions will opt out. So as a convention degrades over time— like touring to build a fanbase, which makes less sense as society moves online— there's no one left who sees this as a solvable problem.
 
-// TODO: They can't ever create a smarter and more efficient discovery process.
+// TODO: Paid dues are worthless outside of the system that values them. Those who've gone ahead and done the fake work are now personally invested in not creating a smarter and more efficient system for the ones coming after them.
 
-This is why it took an outsider to found BYCombo, that's based on the obvious solution of incentivizing artists to do the things that matter. It's not that your favorite indie artists and labels don't see a way to stop rock from getting worse. Rather, it's that they don't want to stop it.
+But even worse, paid dues are the worst credentials; they aren't backed by anything of genuine value. So those who've risen to the top by paying their dues will now work to ensure that reform never happens.
+
+The very nature of reform, after all, is to invalidate worthless credentials.
+
+// TODO: The reason it took an outsider to come up BYCombo isn't because its idea for solving the problem isn't complicated. It's because no indie artist or indie label before me actually wanted to solve this problem.
+
+This is why it took an outsider to found BYCombo, that's based on the obvious solution of incentivizing artists to do the things that matter. It's not that your beloved indie artists and trusted indie labels don't see a way to stop rock from getting worse. They just don't want to stop it.
 
 ### Art needs the blood of martyrs
 
