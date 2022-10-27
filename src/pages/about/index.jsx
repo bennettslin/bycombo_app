@@ -110,9 +110,13 @@ ${'  ' || `
 // TODO: Mostly review these first two paragraphs.
 `}
 
-I worked days as a coder and nights on my audio webcomic for several years. When I came back to the music world, I was shocked to hear indie artists speak of "paying their dues"— to justify, let's say, touring at a loss. In the tech world, "paid dues" is understood as fake work; industries that revolve around it get disrupted— by outsiders. But… why can't reform come from within?
+I worked days as a coder and nights on my audio webcomic for several years. When I came back to the music world, I was shocked to hear indie artists speak of "paying their dues"— to justify, let's say, touring at a loss. In the tech world, "paid dues" is understood as fake work; industries that revolve around it get disrupted— by outsiders. But… why doesn't reform come from within?
 
-One reason is that, for paid dues to be fairly measured, they must be based on known conventions; innovation doesn't count. So when a convention makes less sense over time— like touring to build a fanbase, even as society moves further online— there's no one around who sees this as a solvable problem. The innovators who love to explore solutions have long since left.
+${'  ' || `
+// TODO: Phrasing of second sentence seems off.
+`}
+
+One reason is that, for paid dues to be fairly measured, they must be based on known conventions; innovation doesn't count. So when a convention makes less sense over time— like touring to build a fanbase, even as society moves further online— there's no one around who sees this as a solvable problem. The innovators who love to find solutions have long since left.
 
 ${'  ' || `
 // TODO: Work on these last two paragraphs.
