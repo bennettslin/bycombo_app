@@ -104,23 +104,23 @@ Complicit in withholding information.
 Insecure winners. Paid dues are the worst kind of credentials, not backed up by uniquely valuable skills.
 `}
 
-### Paid dues must now collude
+### A artists help A artists, B artists help C artists
 
 ${'  ' || `
-// TODO: Mostly review these first two paragraphs.
+// TODO: Likely final review of these first two paragraphs.
 `}
 
-I worked days as a coder and nights on my audio webcomic for several years. When I came back to the music world, I was shocked to hear indie artists speak of "paying our dues"— in justifying, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this disrupt industries that don't. But why *don't* the disrupted ever see this?
+I worked days as a coder and nights on my audio webcomic for several years. When I came back to the music world, it shocked me to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-One reason is that, for paid dues to be fairly measured, they must be based on known conventions; innovation doesn't count. So even when a convention no longer makes sense— like touring to build a fanbase, while all of society moves further online— no one around sees this as a solvable problem. The innovators who love to find solutions have long since left.
+One reason is that, for paid dues to be fairly measured, they must be based on known conventions. Innovation doesn't count, so innovators don't stick around. As such, once a convention no longer makes sense— such as touring to build a fanbase, even as the rest of society moves further online— there's no one left to come up with innovative solutions.
 
 ${'  ' || `
-// TODO: Work on phrasing for last two paragraphs.
+// TODO: Work on wording for last two paragraphs.
 `}
 
-But the main reason is that paid dues have no worth outside of the system that collects. So those who advance by paying their dues will always feel insecure in their position; they'll never want the system to get smarter, to find those who are even better. As such, the system can only ever regress, by rewarding even *more* time spent on even *more* fake work.
+But a bigger reason is that paid dues are worthless outside of the current system. Those who've advanced by paying their dues will always feel insecure in their position; they can never want the ones coming after to surpass them. And so the system will steadily regress; it can only ever reward those who spend even *more* time doing even *more* fake work.
 
-This is why it took an outsider like myself to start BYCombo. My solution to save rock is so simple, I doubt that I'm the first artist to see it. Rather, having never paid indie rock's dues myself, I'm just the first one in a generation who's secure enough to want the bands coming after me to be even *better*.
+Which is why it took an outsider like me to start BYCombo— a movement with a solution to help the bands coming after to surpass me. The solution is so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
 ### Art needs the blood of martyrs
 
@@ -138,7 +138,7 @@ ${'  ' || `
 // TODO: Change this to be more like: No need to ask, where's our BYCombo?
 `}
 
-Well, can you imagine the *next* generation asking, "Where's *our* BYCombo? Where's *our* interdependence revolution?"
+Well, you don't need to ask, "Where's *our* interdependence revolution?" BYCombo is here for you now!
     `,
         }}
     />
