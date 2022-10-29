@@ -41,7 +41,7 @@ To make consequential art, a band must develop exceptional strengths. But this i
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own go-to example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and to compete with them means doing likewise.
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and to compete with them means doing likewise.
 
 **Why a public registry?**
 
@@ -53,9 +53,9 @@ Low barriers to entry have allowed an endless stream of underwhelming artists to
 
 To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to restore the people's faith.
 
-**Why has indie rock made rock worse?**
+**How has indie rock made rock worse?**
 
-Here's an incomplete list of reasons…
+Here's an incomplete list of ways…
 
 ### History remembers hooks
 
@@ -103,7 +103,7 @@ I worked days as a coder and nights on my audio webcomic for several years. When
 
 One reason is that paid dues can only be fairly measured if they're based on known conventions. Innovation doesn't count, so those who love to explore creative solutions won't stick around. As such, when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— there's no one left who sees this as a solvable problem.
 
-But a bigger reason is that paid dues aren't respected by anyone *outside* the system. So once someone bets it all on paying their dues, they'll never feel secure enough to help those coming afterward to surpass them. This means that the system will steadily regress, because to narrow its search, the only option is to reward ever *more* fake work, done for even *longer*.
+But a bigger reason is that paid dues aren't respected by anyone *outside* the system. So once someone has advanced by paying their dues, they can never feel secure enough to allow those coming afterward to surpass them. This means that the system will steadily regress, because to narrow the search, its only option is to reward ever *more* fake work, done for even *longer*.
 
 Which is why it took an outsider like myself to start BYCombo— a nonprofit devoted to helping any band coming afterward to surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
@@ -119,7 +119,7 @@ But worst of all, self-empowered artists will never *start* a renaissance or a r
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* of such bands, each one sacrificing a serious chunk of lifetime to advance the art form?
 
-Luckily, you don't need to ask, "Where's *our* interdependence revolution?" BYCombo is here to start it now!
+Luckily, you don't need to ask, "Where's *our* interdependence revolution?" BYCombo is here for you now!
     `,
         }}
     />
