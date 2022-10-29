@@ -99,13 +99,13 @@ ${'  ' || `
 // TODO: Just review phrasing.
 `}
 
-I worked days as a coder and nights on my audio webcomic for several years. When I came back to the music world, it shocked me to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
+I worked days as a coder and nights on my audio webcomic for several years. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-One reason is that paid dues can only be fairly measured if they're based on known conventions. Innovation doesn't count, so those who love to find innovative solutions don't stick around. This means there's no one left who'll see it as a solvable problem when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online.
+One reason is that paid dues can only be fairly measured if they're based on known conventions. Innovation doesn't count, so those who love to explore creative solutions won't stick around. As such, when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— there's no one left who sees this as a solvable problem.
 
-But a bigger reason is that paid dues have no worth *outside* the system. So once someone bets it all on paying their dues, they'll never feel secure enough to allow anyone coming after to surpass them. As such, the system will steadily regress, because it can only ever narrow its search by selecting those who spend even *more* time doing even *more* fake work.
+But a bigger reason is that paid dues aren't respected by anyone *outside* the system. So once someone bets it all on paying their dues, they'll never feel secure enough to help those coming afterward to surpass them. This means that the system will steadily regress, because the only option for narrowing its search is to reward even *more* fake work, done for even *longer*.
 
-Which is why it took an outsider like myself to start BYCombo, a movement devoted to helping any band coming after to surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
+Which is why it took an outsider like myself to start BYCombo— a nonprofit devoted to helping any band coming afterward to surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
 ### Art needs the blood of martyrs
 
@@ -119,7 +119,7 @@ But worst of all, self-empowered artists will never *start* a renaissance or a r
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* of such bands, each one sacrificing a serious chunk of lifetime to advance the art form?
 
-Well, here's the best part. You don't need to ask, "Where's our BYCombo?" BYCombo is here for you now!
+Luckily, you don't need to ask, "Where's *our* interdependence revolution?" BYCombo is here to start it now!
     `,
         }}
     />
