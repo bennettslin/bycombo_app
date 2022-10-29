@@ -103,7 +103,7 @@ I worked days as a coder and nights on my audio webcomic for several years. When
 
 One reason is that paid dues can only be fairly measured if they're based on known conventions. Innovation doesn't count, so those who love to explore creative solutions won't stick around. As such, when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— there's no one left who sees this as a solvable problem.
 
-But a bigger reason is that paid dues aren't respected by anyone *outside* the system. So once someone bets it all on paying their dues, they'll never feel secure enough to help those coming afterward to surpass them. This means that the system will steadily regress, because the only option for narrowing its search is to reward even *more* fake work, done for even *longer*.
+But a bigger reason is that paid dues aren't respected by anyone *outside* the system. So once someone bets it all on paying their dues, they'll never feel secure enough to help those coming afterward to surpass them. This means that the system will steadily regress, because to narrow its search, the only option is to reward ever *more* fake work, done for even *longer*.
 
 Which is why it took an outsider like myself to start BYCombo— a nonprofit devoted to helping any band coming afterward to surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
@@ -111,11 +111,11 @@ Which is why it took an outsider like myself to start BYCombo— a nonprofit dev
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its own Nirvana. Why is that?
 
-The reason is because we only pine for past artists who self-sacrificed for art's sake. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand to be fairly compensated; they don't give of themselves for *any* reason, because to do so is a classic sign of being exploited.
+The reason is because we only pine for past artists who self-sacrificed for art's sake. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand to be fairly compensated; they don't give of themselves for *anyone*, because to do so is a classic sign of being exploited.
 
-But the problems with our current Age of Self-Empowerment go beyond its failure to deliver the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we like; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— which raises the question: How exactly are *they* the underdogs?
+But the problems with our current Age of Self-Empowerment go beyond its failure to deliver the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how exactly are *they* the underdogs?
 
-But worst of all, self-empowered artists will never *start* a renaissance or a revolution, because the means to fair compensation get settled only toward the *end* of such movements. So if rock is to be saved, we *need* to make way for selfless bands who are ready to sacrifice themselves for art's sake. In other words, after Self-Empowerment… comes the Age of Martyrdom.
+But worst of all, self-empowered artists will never *start* a renaissance or a revolution, because the means to fair compensation get settled only toward the *end* of such movements. So if rock is to be saved, we *need* to make way for selfless bands who are prepared to sacrifice themselves for art's sake. In other words, after Self-Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* of such bands, each one sacrificing a serious chunk of lifetime to advance the art form?
 
