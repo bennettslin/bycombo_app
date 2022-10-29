@@ -37,7 +37,7 @@ Well, then, can't an interdependent band just promise to make the best art inste
 
 **To revive interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
-So rock is just waiting for… a martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was precisely by *not* building a fanbase that I was able to code and illustrate the audio webcomic. Surely even an indie label would be happy with this tradeoff!
+So rock is just waiting for… a martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was precisely by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Surely even an indie label would be happy with this tradeoff!
 
 ### Who gatekeeps the gatekeepers?
 
