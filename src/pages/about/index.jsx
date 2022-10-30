@@ -95,17 +95,17 @@ Hip hop was the last case in point, and BYCombo— which I founded to serve *all
 
 ### A artists help A artists, B artists help C artists
 
-I worked days as a coder and nights on my audio webcomic for several years. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
+For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
+
+One reason is that paid dues can only be fairly measured if they're based on known conventions. No credit is given for innovation, so innovators tend not to stick around. As such, when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— there's no one left to think of an innovative solution.
 
 ${'  ' || `
-// TODO: Just review these two middle paragraphs.
+// TODO: Just review this paragraph.
 `}
 
-One reason is that paid dues can only be fairly measured if they're based on known conventions. Nothing innovative counts, so innovators tend not to stick around. As such, when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— there's no one left who can think of an innovative solution.
+But a bigger reason is that paid dues are only respected *within* the system— and even then, mostly as a matter of routine. So those who pay their dues will never feel secure enough to allow a newcomer to surpass them. And they have the largest say in who comes next! As such, the system can only ever narrow its search by rewarding *more* fake work, done for even *longer*.
 
-But a bigger reason is that paid dues aren't respected by anyone *outside* the system. So once someone advances by paying their dues, they can never feel secure enough to help any up-and-comer who might surpass them. Each time the system has to narrow its search, they'll ensure that the only available option is to reward ever *more* fake work, done for even *longer*.
-
-Which is why it took an outsider like myself to start BYCombo— a nonprofit devoted to helping any upcoming band who might surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
+Which is why it took an outsider like myself to start BYCombo, as a way to help upcoming bands who might surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
 ### Art needs the blood of martyrs
 
