@@ -97,21 +97,21 @@ Hip hop was the last case in point, and BYCombo— which I founded to serve *all
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-One reason is that paid dues can only be fairly measured if they're based on known conventions; no credit is given for innovation, so innovators tend not to stick around. As such, when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— there's no one left to think of innovative solutions.
+One reason is that paid dues can only be fairly measured if they're based on known conventions; no credit is given for innovation, so innovators tend not to stick around. As such, when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— there isn't anyone left to think of innovative solutions.
 
 ${'  ' || `
 // TODO: Just review these two paragraphs.
 `}
 
-But a bigger reason is that paid dues are respected only *within* the system— and even then, largely as a matter of routine— so those who pay their dues can never feel secure enough to allow newcomers to surpass them. This means that once they're in charge, the system will only ever narrow its search by rewarding *more* fake work, done for even *longer*.
+But a bigger reason is that paid dues are respected only *within* the system— and even then, largely as a matter of routine. Which means those who pay their dues can never feel secure enough to allow any newcomer to surpass them. And they have the greatest say in who comes next! As a result, the system will only ever reward *more* fake work, done for even *longer*.
 
-Which is why it took an outsider like myself to start BYCombo, as a way to help up-and-coming bands who might surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
+This is why it took an outsider like myself to start BYCombo— out of a desire to help any up-and-coming band who might surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
 ### Art needs the blood of martyrs
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its own Nirvana. Why is that?
 
-The reason is because we only pine for past artists who self-sacrificed for art's sake. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand to be fairly compensated; they don't give of themselves for *anyone*, because to do so is a classic sign of being exploited.
+The reason is that we only pine for past artists who self-sacrificed for art's sake. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand to be fairly compensated; they don't give of themselves for *anyone*, because to do so is a classic sign of being exploited.
 
 But the problems with our current Age of Self-Empowerment go beyond its failure to deliver the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how exactly are *they* the underdogs?
 
