@@ -53,7 +53,7 @@ But the situation isn't hopeless: Some fans *agree* with me that indie rock has 
 
 So plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative movement to willfully *raise* these barriers. And this is where BYCombo comes in!
 
-**Interdependent bands can now restore the people's faith by paying a steep *cost* of entry: To show their demo in BYCombo's registry, each band must sacrifice a serious chunk of lifetime.**
+**Interdependent bands can now restore the people's faith by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime.**
 
 Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time; now to revive interdependence, they'll also be making our generation's most *accomplished* works. *This* will be the next revolution in rock history!
             `,

@@ -101,6 +101,10 @@ One reason is that paid dues can only be fairly measured if they're based on kno
 
 But a bigger reason is that paid dues are respected only *within* the system— and even then, mostly as a matter of routine. As a result, those who pay their dues can never feel secure enough to allow newcomers to surpass them. So as they advance within the system, they'll ensure that the selection process only ever rewards *more* fake work, done for even *longer*.
 
+${'  ' || `
+// TODO: Keep revisiting to come up with better phrasing, but fine as is.
+`}
+
 This is why it took an outsider like myself to start BYCombo, driven by an urge to help up-and-coming bands who might surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
 ### Art needs the blood of martyrs
@@ -115,7 +119,7 @@ But worst of all, self-empowered artists will never *start* a renaissance or a r
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* of such bands, each one sacrificing a serious chunk of lifetime to advance the art form?
 
-Luckily, you don't need to ask, "Where's *our* interdependence revolution?" BYCombo is here for you now!
+Luckily, you don't need to ask, "Where's our interdependence revolution?" BYCombo is here for you now!
     `,
         }}
     />
