@@ -41,7 +41,17 @@ So rock is just waiting for… a martyr. But martyrs are the ones who make histo
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. For this reason, the indie labels will refuse to hear an ambitious demo that clearly doesn't follow the rules.
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others.
+
+${'  ' || `
+// TODO: And in hindsight, I came to understand that those who make the rules have a moral obligation to enforce them.
+
+An indie gatekeeper's obligation isn't to some abstract notion of an art form. It's to the very real people who chose to follow their rules.
+
+The indie gatekeepers are morally obligated to suppress any attempts to innovate by breaking their rules, because this is what the artists who trusted them by following the rules expect.
+
+For this reason, the indie labels will refuse to hear an ambitious demo that clearly doesn't follow the rules.
+`}
 
 But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist builds a fanbase on their *own*, they'll never concede that the best art comes from waiting on a *label* to help with this effort. And having paid their dues, they're now loyal to a status quo in which *every* artist must struggle as inefficiently as *they* once did. So this is the heart of the problem:
 
