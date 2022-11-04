@@ -50,12 +50,28 @@ An indie gatekeeper's obligation isn't to some abstract notion of an art form. I
 
 The indie gatekeepers are morally obligated to suppress any attempts to innovate by breaking their rules, because this is what the artists who trusted them by following the rules expect.
 
-For this reason, the indie labels will refuse to hear an ambitious demo that clearly doesn't follow the rules.
+Their loyalty is to the indie artists who need to be reassured that innovation *isn't* possible for any other artist.
+
+The assurance that more time and energy redirected away from the hustle, and back toward the craft, can never again be a possibility.
+
+But, of course, it isn't that simple.
+
+It's easy from our perspective to assume that advancing the art form is always the best.
+
+Put yourself in the shoes of an indie gatekeeper, however. And you understand that having set the rules, rewarding those who break them would be a heartless betrayal of those who followed them.
+
+Having promised that advancement can happen if an artist hustles to build a fanbase, you're now morally obligated to suppress any possibility of innovation that comes from diverting time and energy away from the hustle, back toward the craft.
 `}
 
-But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist builds a fanbase on their *own*, they'll never concede that the best art comes from waiting on a *label* to help with this effort. And having paid their dues, they're now loyal to a status quo in which *every* artist must struggle as inefficiently as *they* once did. So this is the heart of the problem:
-
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the people have no way to know.**
+
+${'  ' || `
+// TODO: Scraps.
+
+For this reason, the indie labels will refuse to hear an ambitious demo that clearly doesn't follow the rules.
+
+But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist builds a fanbase on their *own*, they'll never concede that the best art comes from waiting on a *label* to help with this effort. And having paid their dues, they're now loyal to a status quo in which *every* artist must struggle as inefficiently as *they* once did. So this is the heart of the problem:
+`}
 
 ### A hundred *Yearling's Bobtail*s
 
