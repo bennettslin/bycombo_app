@@ -9,7 +9,11 @@ const Component = () => (
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people are disillusioned, and some now agree with me. Which means the interdependence revolution can finally begin!
 
-There's just one problem: Indie rock isn't really a *genre* so much as it's a *system*. How do we revolt, when every system preserves a status quo by design? Luckily, I've spent half my life figuring this out as well:
+${'  ' || `
+// TODO: Review one more time.
+`}
+
+There's just one problem: Indie rock isn't a subgenre per se, but an ideology that seeks to lock in a system of administration. Moreover, indie rock is rock's first administrative ideology *ever*— which means there's no historical precedent to show us how we might revolt, or to assure us that we even *can*. Luckily, I've also spent half my life figuring out a solution:
 
 **BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then show in a public registry to sustain an anti-indie counterculture.**
 
@@ -37,7 +41,7 @@ What if musicians committed to making history could instantly find each other ac
 
 **Why interdependence?**
 
-To make consequential art, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent. They *need* a label, or some other business partner.
+To make consequential art, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in areas of administration like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent. They *need* a label, or some other business partner.
 
 **Why demos?**
 
@@ -45,7 +49,7 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie labels don't need to put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best hope is to join a counterculture that *questions* indie rock's good intentions— and a public registry is where sympathetic fans and potential partners will know to find them.
+It takes time to review an ambitious demo— but the indie labels don't need to put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best hope is to join a counterculture that *questions* indie rock's good intentions— and a public registry is where sympathetic fans and potential business partners will know to find them.
 
 **Why serious chunks of lifetime?**
 
@@ -53,7 +57,7 @@ Low barriers to entry have allowed an endless stream of underwhelming artists to
 
 To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to restore the people's faith.
 
-**How has indie rock made rock worse?**
+**And finally… how has indie rock made rock worse?**
 
 Here's an incomplete list of ways…
 
@@ -102,7 +106,7 @@ One reason is that paid dues can only be fairly measured if they're based on kno
 But a bigger reason is that paid dues are respected only *within* the system— and even then, mostly as a matter of routine. As a result, those who pay their dues can never feel secure enough to allow newcomers to surpass them. So as they advance within the system, they'll ensure that the selection process only ever rewards *more* fake work, done for even *longer*.
 
 ${'  ' || `
-// TODO: Revisit to come up with better phrasing, but fine as is.
+// TODO: Revisit to review phrasing, but fine as is.
 `}
 
 This is why it took an outsider like myself to start BYCombo, inspired by a solution to help up-and-coming bands who might surpass me. It's so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
