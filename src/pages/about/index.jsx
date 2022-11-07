@@ -10,10 +10,12 @@ const Component = () => (
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people are disillusioned, and some now agree with me. Which means the interdependence revolution can finally begin!
 
 ${'  ' || `
-// TODO: Review one more time.
+// TODO: Clarify what I mean by administration. Stubbornness of a aesthetic ideology.
 `}
 
-There's just one problem: Indie rock isn't a subgenre per se, but an ideology that seeks to lock in a system of administration. Moreover, indie rock is rock's first administrative ideology *ever*— which means there's no historical precedent to show us how we might revolt, or to assure us that we even *can*. Luckily, I've also spent half my life figuring out a solution:
+There's just one problem: Indie rock isn't really a genre so much as it's an ideology— one that seeks to lock in a particular system of administration.
+
+Moreover, indie rock is rock's *first* administrative ideology *ever*. So there's no historical precedent to show us how we might revolt, or even to assure us that we *can*. Luckily, I've spent half my life figuring out a solution as well:
 
 **BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then show in a public registry to sustain an anti-indie counterculture.**
 
