@@ -13,7 +13,9 @@ ${'  ' || `
 // TODO: Clarify what I mean by administration. Stubbornness of a aesthetic ideology.
 `}
 
-There's just one problem: Indie rock isn't really a genre so much as it's an ideology— one that seeks to lock in a permanent system of administration. Moreover, indie rock is rock's *first* administrative ideology *ever*. So there's no historical precedent to show us how we might revolt, or even to assure us that we *can*. Luckily, I've spent half my life figuring out a solution as well:
+There's just one problem: Indie rock isn't really a genre so much as it's an ideology— one that seeks to lock in a permanent system of administration.
+
+Moreover, indie rock is rock's *first* administrative ideology *ever*. So there's no historical precedent to show us how we might revolt, or even to assure us that we *can*. Luckily, I've spent half my life figuring out a solution as well:
 
 **BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then show in a public registry to sustain an anti-indie counterculture.**
 
@@ -104,10 +106,6 @@ For many years, I worked days as a coder and nights on my audio webcomic. When I
 One reason is that paid dues can only be fairly measured if they're based on known conventions; innovation doesn't count. As such, innovators tend not to stick around. So when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— there's no one left to think of an innovative solution.
 
 But a bigger reason is that paid dues are respected only *within* the system— and even then, mostly as a matter of routine. As a result, those who pay their dues can never feel secure enough to allow newcomers to surpass them. So as they advance within the system, they'll ensure that the selection process only ever rewards *more* fake work, done for even *longer*.
-
-${'  ' || `
-// TODO: Revisit to review phrasing, but fine as is.
-`}
 
 This is why it took an outsider like myself to start BYCombo, inspired by a solution to help up-and-coming bands who might surpass me. It's so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
