@@ -13,9 +13,7 @@ ${'  ' || `
 // TODO: Clarify what I mean by administration. Stubbornness of a aesthetic ideology.
 `}
 
-There's just one problem: Indie rock isn't really a genre so much as it's an ideology— one that seeks to lock in a particular system of administration.
-
-Moreover, indie rock is rock's *first* administrative ideology *ever*. So there's no historical precedent to show us how we might revolt, or even to assure us that we *can*. Luckily, I've spent half my life figuring out a solution as well:
+There's just one problem: Indie rock isn't really a genre so much as it's an ideology— one that seeks to lock in a permanent system of administration. Moreover, indie rock is rock's *first* administrative ideology *ever*. So there's no historical precedent to show us how we might revolt, or even to assure us that we *can*. Luckily, I've spent half my life figuring out a solution as well:
 
 **BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then show in a public registry to sustain an anti-indie counterculture.**
 
