@@ -7,14 +7,24 @@ const Component = () => (
             body: `
 # The problem with indie rock
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people are disillusioned, and some now agree with me. Which means the interdependence revolution can finally begin!
-
 ${'  ' || `
-// TODO: Clarify what I mean by administration. Stubbornness of a aesthetic ideology.
+// TODO:
+
+Because indie rock is treated as a genre, its supporters will stump for it with the same willfully close-minded abandon that supporters of other genres do.
 `}
 
-There's just one problem: Indie rock isn't really a genre so much as it's an ideology— one that seeks to lock in a permanent system of administration.
+Indie rock began in the 90s, not so much as a genre but really as an ideology. It has strong opinions not on aesthetics, but on administration: Instead of expecting a rare superstar like Nirvana or Radiohead to bankroll countless failures, the indie labels promise to sign solid working bands, each and every time.
 
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music worse, to no avail.
+
+But in recent years, something amazing has happened: Young people are disillusioned, and some now agree with me.
+
+As it turns out, young people miss having superstars.
+
+Which means the interdependence revolution can finally begin!
+
+There's just one problem:
+one that seeks to lock in a permanent system of administration.
 Moreover, indie rock is rock's *first* administrative ideology *ever*. So there's no historical precedent to show us how we might revolt, or even to assure us that we *can*. Luckily, I've spent half my life figuring out a solution as well:
 
 **BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then show in a public registry to sustain an anti-indie counterculture.**
