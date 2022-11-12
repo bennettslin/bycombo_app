@@ -8,24 +8,14 @@ const Component = () => (
 # The problem with indie rock
 
 ${'  ' || `
-// TODO:
-
-Because indie rock is treated as a genre, its supporters will stump for it with the same willfully close-minded abandon that supporters of other genres do.
+// TODO: Just one more final review.
 `}
 
-Indie rock began in the 90s, not so much as a genre but really as an ideology. It has strong opinions not on aesthetics, but on administration: Instead of expecting a rare superstar like Nirvana or Radiohead to bankroll countless failures, the indie labels promise to sign solid working bands, each and every time.
+Indie rock [arose in the 90s](https://books.google.com/ngrams/graph?content=alternative+rock,indie+rock&year_start=1970), not as a *genre* but as an *ideology*— with strong opinions not on *aesthetics* but on *administration*. The major labels didn't support their artists; they simply counted on rare superstars like Nirvana and Radiohead to bankroll any losses. By contrast, the indie labels promised a working future for *every* band they signed. And they won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music worse, to no avail.
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people are disillusioned, and some now agree with me. It turns out they'd *love* to have a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
-But in recent years, something amazing has happened: Young people are disillusioned, and some now agree with me.
-
-As it turns out, young people miss having superstars.
-
-Which means the interdependence revolution can finally begin!
-
-There's just one problem:
-one that seeks to lock in a permanent system of administration.
-Moreover, indie rock is rock's *first* administrative ideology *ever*. So there's no historical precedent to show us how we might revolt, or even to assure us that we *can*. Luckily, I've spent half my life figuring out a solution as well:
+There's just one problem: Indie rock is the *first* ideology in rock to lock in a permanent system of administration. Which means there's no historical precedent to teach us how to revolt— or even to assure us that we *can*. Luckily, I've spent half my life figuring out a solution as well:
 
 **BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then show in a public registry to sustain an anti-indie counterculture.**
 
@@ -61,7 +51,7 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie labels don't need to put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best hope is to join a counterculture that *questions* indie rock's good intentions— and a public registry is where sympathetic fans and potential business partners will know to find them.
+It takes time to review an ambitious demo— but the indie labels don't need to put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best hope is to join a counterculture that *questions* indie rock's good intentions— and a public registry is where sympathetic fans and potential partners will know to find them.
 
 **Why serious chunks of lifetime?**
 
@@ -69,13 +59,13 @@ Low barriers to entry have allowed an endless stream of underwhelming artists to
 
 To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to restore the people's faith.
 
-**And finally… how has indie rock made rock worse?**
+**And finally… how has indie rock made music worse?**
 
 Here's an incomplete list of ways…
 
 ### History remembers hooks
 
-A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression— but indie artists are required to spend their time building a fanbase instead. As such, indie rock is proudly defined by a *lack* of solid hooks with lasting appeal.
+A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression— but indie artists are required to spend their time building a fanbase instead. As such, indie rock is proudly defined by a *lack* of solid hooks with widespread appeal.
 
 Yet few of us care that a past artist built a fanbase on their own, while nearly everyone loves a past work with well-crafted hooks— and future generations will surely feel the same. There's no way around it: Making history starts with crafting your best hooks. Which is why BYCombo gives you all the time you need.
 
@@ -125,9 +115,9 @@ This is why it took an outsider like myself to start BYCombo, inspired by a solu
 
 The reason is that we only pine for past artists who self-sacrificed for art's sake. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand to be fairly compensated; they don't self-sacrifice for *anyone*, because to do so is a classic sign of being exploited.
 
-But the problems with our current Age of Self-Empowerment go beyond its failure to deliver the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how exactly are *they* the underdogs?
+But the problems with this current Age of Self-Empowerment go beyond its failure to deliver the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how exactly are *they* the underdogs?
 
-But worst of all, self-empowered artists will never *start* a renaissance or a revolution, because the means to fair compensation get settled only toward the *end* of such movements. So if rock is to be saved, we *need* to make way for selfless bands who'll readily sacrifice themselves for art's sake. In other words, after Self-Empowerment… comes the Age of Martyrdom.
+But worst of all, self-empowered artists will never *start* a renaissance or a revolution, because the means to fair compensation get settled only toward the *end* of such movements. So if rock is to be saved, we *need* to make way for selfless bands who'll sacrifice themselves for art's sake. In other words, after Self-Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* of such bands, each one sacrificing a serious chunk of lifetime to advance the art form?
 
