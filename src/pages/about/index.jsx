@@ -8,14 +8,14 @@ const Component = () => (
 # The problem with indie rock
 
 ${'  ' || `
-// TODO: Just one more final review.
+// TODO: Continue to work on this.
 `}
 
-Indie rock [arose in the 90s](https://books.google.com/ngrams/graph?content=alternative+rock,indie+rock&year_start=1970), not as a *genre* but as an *ideology*— with strong opinions not on *aesthetics* but on *administration*. The major labels didn't support their artists; they simply counted on rare superstars like Nirvana and Radiohead to bankroll any losses. By contrast, the indie labels promised a working future for *every* band they signed. And they won! Except now…
+In the 90s, the major labels stopped supporting their artists; instead, they would count on a few breakout stars like Nirvana to bankroll their many losses. So indie rock arose as an ideology committed to fair administrative practices. The indie labels promised a working future for *every* band they signed— and then they won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people are disillusioned, and some now agree with me. It turns out they'd *love* to have a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music worse, to no avail. But in recent years, something amazing has happened: Young people are disillusioned, and some now agree with me. As it turns out, they'd *love* to have a Nirvana of their own. Which means the interdependence revolution can finally begin!
 
-There's just one problem: Indie rock is the *first* ideology in rock to lock in a permanent system of administration. Which means there's no historical precedent to teach us how to revolt— or even to assure us that we *can*. Luckily, I've spent half my life figuring out a solution as well:
+There's just one problem: Indie rock is the *first* ideology in rock to lock in a permanent system of administration. So how do we revolt, when there's no historical precedent to teach us how— or even to assure us that we *can*? Luckily, I've spent half my life figuring this out as well:
 
 **BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then show in a public registry to sustain an anti-indie counterculture.**
 
@@ -28,10 +28,6 @@ Okay, that's a mouthful! Let's break it down…
 A counterculture is needed to protect dangerous ideas, yet we haven't had one for some time. Meanwhile, despite indie rock's good intentions, rock has gotten worse. But what if rock is worse… *because* of these good intentions? What if all this charitable support for indie *artists*… is actually bad for *art*? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
 **Why historical consequence?**
-
-${'  ' || `
-// TODO: Add link to "Five vowels."
-`}
 
 Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the historical canon, because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted— and *this* is why people gripe that rock is getting worse.
 
@@ -59,7 +55,7 @@ Low barriers to entry have allowed an endless stream of underwhelming artists to
 
 To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to restore the people's faith.
 
-**And finally… how has indie rock made music worse?**
+**And finally… how *exactly* has indie rock made music worse?**
 
 Here's an incomplete list of ways…
 
