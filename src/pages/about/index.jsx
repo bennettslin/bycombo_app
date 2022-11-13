@@ -39,7 +39,7 @@ ${'  ' || `
 // TODO: Just one more final review of phrasing.
 `}
 
-What if musicians committed to making history could find each other across the globe? Or a cartoonist could join as a full member? What if no one needs to be held back by unconscious bias? With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized force like BYCombo to help them come together.
+What if musicians committed to making history could find each other across the globe? How about a cartoonist or dancer? What if women and minorities could ask to be considered without unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come. We just need a centralized force like BYCombo to help them come together.
 
 **Why interdependence?**
 
