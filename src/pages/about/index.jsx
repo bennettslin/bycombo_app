@@ -11,9 +11,9 @@ ${'  ' || `
 // TODO: Just one more final review of phrasing.
 `}
 
-By the 90s, the major labels no longer supported their artists; they'd simply count on a rare breakout star like Nirvana or Radiohead to bankroll all their previous losses. So in response, indie rock arose as an ideology committed to fair administrative practices. The indie labels promised a working future for *every* band they signed— and then they won! Except now…
+By the 90s, the major labels no longer supported their artists; instead, they counted on a few breakout stars like Nirvana or Radiohead to bankroll the rest, who were written off as failed bets. So indie rock rose up as an ideology committed to fair administrative practices. The indie labels promised a working future for *every* band they signed— and they won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
 There's just one problem: Indie rock didn't just lock in a permanent system of administration— it's the *first* ideology in rock *ever* to do so. How do we revolt, when there's no historical precedent to teach us how— or even to assure us that we *can*? Luckily, I've also spent half my life figuring out a solution:
 
@@ -35,7 +35,11 @@ Critical acclaim can be inflated; as such, it's a terrible barometer. What *can'
 
 Has rock fully explored all the ways a band can come together? It might seem so. Ditch the notion that they must come together on their *own*, however, and it's clear that rock has only scratched the surface.
 
-What if musicians committed to making history could instantly find each other across the globe? What if a cartoonist or a dancer could readily join as a full-fledged member? With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized force like BYCombo to help them come together.
+${'  ' || `
+// TODO: Just one more final review of phrasing.
+`}
+
+What if musicians committed to making history could find each other across the globe? Or a cartoonist could join as a full member? What if no one needs to be held back by unconscious bias? With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized force like BYCombo to help them come together.
 
 **Why interdependence?**
 
