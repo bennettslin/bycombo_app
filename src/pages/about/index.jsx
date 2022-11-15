@@ -11,9 +11,9 @@ ${'  ' || `
 // TODO: Just one more final review. Use administrative practice instead of system of administration?
 `}
 
-By the 90s, the major labels no longer supported their artists. Instead, they counted on a few breakout stars like Nirvana or Radiohead to bankroll the rest, who were written off as failed bets. So indie rock rose up to promote a more humane system of administration, in which *every* band is promised a working future upon signing with an indie label. And it won! Except now…
+By the 90s, the major labels no longer supported their artists. They simply counted on a few breakout stars like Nirvana or Radiohead to bankroll the rest, who were written off as failed bets. So indie rock promised a more humane system of administration, in which *every* band that signs with an indie label can have a working future. And it won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana or Radiohead of their own. And so the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana and Radiohead of their own. And so the interdependence revolution can finally begin!
 
 There's just one problem: Indie rock didn't just lock in a permanent system of administration, assured of its moral righteousness— it's the *first* ideology in rock *ever* to do so. How do we revolt, when there's no historical precedent to teach us how— or even to assure us that we *can*? Luckily, I've also spent half my life figuring out a solution:
 
@@ -37,11 +37,11 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-Has rock fully explored all the ways a band can come together? It might seem so. However, ditch the notion that they must come together on their *own*, in a decentralized free-for-all— and it's clear we've only scratched the surface.
+Has rock fully explored all the ways a band can come together? It might seem like it. Ditch the notion that they must do so on their own, however— in a decentralized free-for-all— and it's clear we've only scratched the surface.
 
-What if musicians committed to making history could instantly find each other across the globe? How about a cartoonist? A dancer? Or, imagine that the next Kurt Cobain or Thom Yorke is a woman or a minority, and they're currently struggling to form a band. What if they could be judged on their talents alone, free of unconscious bias?
+What if musicians committed to making history could instantly find each other across the globe? What if a cartoonist or a dancer could readily join them? Or, imagine that the next Kurt Cobain or Thom Yorke is a woman or a minority, and they're currently struggling to form a band. Well, what if *anyone* could be judged on their talents alone, free of unconscious bias?
 
-With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized force like BYCombo to help them come together.
+With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
 **Why interdependence?**
 
@@ -59,7 +59,7 @@ It takes time to review an ambitious demo— but the indie labels don't need to 
 
 Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, causing people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature.
 
-To save rock, then, a centralized force like BYCombo must now step up to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to restore the people's faith.
+To save rock, then, a centralized initiative like BYCombo must now step up to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to restore the people's faith.
 
 **And finally… how has indie rock made music worse?**
 
