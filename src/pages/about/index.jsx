@@ -33,13 +33,9 @@ Critical acclaim can be inflated; as such, it's a terrible barometer. What *can'
 
 **Why assembled bands?**
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
+Has rock fully explored all the ways a band can come together? It might seem so— assuming that bands must always form on their own, in a decentralized free-for-all. Ditch this notion, however, and it's clear we've only scratched the surface.
 
-Has rock fully explored all the ways a band can come together? It might seem like it. However, ditch the notion that they must always do so on their *own*, in a decentralized free-for-all— and it's clear we've only scratched the surface.
-
-What if musicians hoping to making history could flock to a single hub from across the globe? What if a cartoonist could readily join a band— and bands, in turn, could readily think to look for one? Or, suppose the next Kurt Cobain is a woman, the next Thom Yorke a minority. What if each could be judged as a front person based on their talents alone, free of unconscious bias?
+What if musicians hoping to making history could flock to a single hub from across the globe? What if a cartoonist could readily join a band— and bands, in turn, could readily think to look for one? Or, suppose the next Kurt Cobain is a woman, the next Thom Yorke a minority: What if each could be judged as a potential leader based on their talents alone, free of unconscious bias?
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
@@ -57,9 +53,9 @@ It takes time to review an ambitious demo— but the indie labels don't need to 
 
 **Why serious chunks of lifetime?**
 
-Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, causing people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature.
+Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature.
 
-To save rock, then, a centralized initiative like BYCombo must now step up to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to restore the people's faith.
+To save rock, then, a centralized initiative like BYCombo must now step up to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to restore the public's faith.
 
 **And finally… how has indie rock made music worse?**
 
@@ -79,7 +75,7 @@ Because they *also* benefit from insightful revelations that stem from the uncon
 
 ### The middle and the masses join *last*
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom, who have nothing to lose. The ones in the middle, by contrast, are the most risk averse. And who makes up this risk-averse middle in *rock*? The indie labels.
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom, who have nothing to lose. The ones in the middle, by contrast, are the most risk averse. And which business partners make up this risk-averse middle in *rock*? The indie labels.
 
 Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
 

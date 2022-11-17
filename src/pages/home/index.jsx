@@ -66,7 +66,7 @@ Put yourself in the shoes of an indie gatekeeper, however. And you understand th
 Having promised that advancement can happen if an artist hustles to build a fanbase, you're now morally obligated to suppress any possibility of innovation that comes from diverting time and energy away from the hustle, back toward the craft.
 `}
 
-**Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the people have no way to know.**
+**Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public has no way to know.**
 
 ${'  ' || `
 // TODO: Scraps.
@@ -82,7 +82,7 @@ But the situation isn't hopeless: Some fans *agree* with me that indie rock has 
 
 So plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative movement to willfully *raise* these barriers. Well, here's the good news!
 
-**Through BYCombo, interdependent bands can now restore the people's faith by paying a steep *cost* of entry: To show their demo in BYCombo's public registry, each band must sacrifice a serious chunk of lifetime.**
+**Through BYCombo, interdependent bands can now restore the public's faith by paying a steep *cost* of entry: To show their demo in BYCombo's registry, each band must sacrifice a serious chunk of lifetime.**
 
 Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time; now to revive interdependence, they'll also be making our generation's most *accomplished* works. *This* will be the next revolution in rock history!
             `,
