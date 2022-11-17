@@ -11,7 +11,7 @@ ${'  ' || `
 // TODO: Just one more final review. Use administrative practice instead of system of administration?
 `}
 
-By the 90s, the major labels no longer supported their artists. They simply counted on a few breakout stars like Nirvana or Radiohead to bankroll the rest, who were written off as failed bets. So indie rock promised a more humane system of administration, in which *every* band signed to an indie label can have a working future. And it won! Except now…
+By the 90s, the major labels no longer supported their artists. They simply counted on a few breakout stars like Nirvana or Radiohead to bankroll the rest, who were written off as failed bets. By contrast, indie labels promised fair administrative practices that allow *all* indie artists to have a working future. Then the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana and Radiohead of their own. And so the interdependence revolution can finally begin!
 
