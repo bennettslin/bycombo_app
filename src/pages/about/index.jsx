@@ -8,14 +8,14 @@ const Component = () => (
 # The problem with indie rock
 
 ${'  ' || `
-// TODO: Just one more final review. Use administrative practice instead of system of administration?
+// TODO: Just one more final review.
 `}
 
-By the 90s, the major labels no longer supported their artists. They simply counted on a few breakout stars like Nirvana or Radiohead to bankroll the rest, who were written off as failed bets. By contrast, indie labels promised fair administrative practices that allow *all* indie artists to have a working future. Then the majors imploded— so indie rock won! Except now…
+By the 90s, the major labels no longer supported their artists. They simply counted on a rare breakout star like Nirvana to bankroll the rest, who were written off as failed bets. By contrast, the indie labels were committed to fair administrative practices that offered *every* indie artist a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana and Radiohead of their own. And so the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana of their own. Which means the interdependence revolution can finally begin!
 
-There's just one problem: Indie rock didn't just lock in a permanent system of administration, assured of its moral righteousness— it's the *first* ideology in rock *ever* to do so. How do we revolt, when there's no historical precedent to teach us how— or even to assure us that we *can*? Luckily, I've also spent half my life figuring out a solution:
+There's just one problem: Indie rock didn't just lock in a permanent system of administration, assured of its moral righteousness— it's the *first* ideology in rock *ever* to do so. So how do we revolt, when there's no historical precedent to teach us how— or even to assure us that we *can*? Luckily, I've also spent half my life figuring out a solution:
 
 **BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then show in a public registry to sustain an anti-indie counterculture.**
 
@@ -35,7 +35,7 @@ Critical acclaim can be inflated; as such, it's a terrible barometer. What *can'
 
 Has rock fully explored all the ways a band can come together? It might seem so— assuming that bands must always form on their own, in a decentralized free-for-all. Ditch this notion, however, and it's clear we've only scratched the surface.
 
-What if musicians hoping to making history could flock to a single hub from across the globe? What if a cartoonist could readily join a band— and bands, in turn, could readily think to look for one? Or, suppose the next Kurt Cobain is a woman, the next Thom Yorke a minority: What if each could be judged as a potential leader based on their talents alone, free of unconscious bias?
+What if musicians hoping to making history could flock to a single hub from across the globe? What if a cartoonist could readily join a band— and bands, in turn, could readily think to look for one? Or, suppose the next Kurt Cobain is a woman or a minority: What if they could be judged as a potential leader based on their talents alone, free of unconscious bias?
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
