@@ -8,12 +8,12 @@ const Component = () => (
 # The problem with indie rock
 
 ${'  ' || `
-// TODO: Fine for now, but keep revisiting, especially "breakout stars" sentence.
+// TODO: Just one more final review.
 `}
 
-By the 90s, the major labels no longer invested in their artists. They simply counted on a few to become breakout stars, like Nirvana and Radiohead, while the rest were written off as failed bets. But the indie labels promised fair administrative standards that gave *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
+By the 90s, the major labels no longer invested in their artists. They simply counted on a few superstars like Nirvana or Radiohead to break out, while the rest were written off as failed bets. But the indie labels held to fair administrative standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
 There's just one problem: Indie rock didn't just lock in a permanent system of administration, assured of its moral righteousness— it's the *first* ideology in rock *ever* to do so. So how do we revolt, when there's no historical precedent to teach us how— or even to assure us that we *can*? Luckily, I've also spent half my life figuring out a solution:
 
@@ -34,12 +34,12 @@ Critical acclaim can be inflated; as such, it's a terrible barometer. What *can'
 **Why assembled bands?**
 
 ${'  ' || `
-// TODO: Fine for now, but keep revisiting, especially "Kurt Cobain" sentence.
+// TODO: Just one more final review.
 `}
 
-Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But if we ditch this notion? Then rock has only scratched the surface.
+Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But once we ditch this notion? Then rock has only scratched the surface.
 
-What if musicians hoping to form a history-making band could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain or Thom Yorke is a woman or minority who's struggling to find bandmates right now. What if they could ask to be judged free of unconscious bias?
+What if musicians hoping to form a history-making band could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain or Thom Yorke is a woman or minority who's currently struggling to find bandmates. What if they could be judged free of unconscious bias?
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
