@@ -29,7 +29,7 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). 
 
 By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete unless they're indie as well. In turn, this means the only way for a label to stay competitive is by signing indie artists. So here's my dilemma:
 
-**In trying to make the best art, interdependent bands *need* to reject indie rock's tools. They suffer a penalty for this, however, since *every* artist today is expected to be indie— and thus required to follow indie rock's rules.**
+**In trying to make the best art, interdependent bands *need* to reject indie rock's tools. They get punished for this, however, since *every* artist today is expected to be indie— and thus required to follow indie rock's rules.**
 
 But how about a truce? Since rules are made to be followed, interdependent bands can't complain about being penalized. Yet breaking the rules is how rock history gets made! So let's not shut them out either.
 
