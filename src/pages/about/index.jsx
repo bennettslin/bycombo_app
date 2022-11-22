@@ -11,7 +11,7 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-By the 90s, the major labels no longer invested in their artists. They simply counted on a few superstars like Nirvana or Radiohead to break out, while the rest were written off as failed bets. But the indie labels held to fair administrative standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
+By the 90s, the major labels no longer invested in their artists. They simply counted on a few to break out as superstars, like Nirvana or Radiohead; the rest were then written off as failed bets. But the indie labels held to fair administrative standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -39,7 +39,7 @@ ${'  ' || `
 
 Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But once we ditch this notion? Then rock has only scratched the surface.
 
-What if musicians hoping to form a history-making band could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain or Thom Yorke is a woman or minority who's currently struggling to find bandmates. What if they could be judged free of unconscious bias?
+What if musicians hoping to form a history-making band could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain is a woman, the next Thom Yorke a minority— but each is struggling to find bandmates right now. What if they could be judged free of unconscious bias?
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
@@ -106,6 +106,10 @@ Hip hop was the last case in point, and BYCombo— which I founded to serve *all
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
 One reason is that paid dues can only be fairly measured if they're based on known conventions; innovation doesn't count. As such, innovators tend not to stick around. So when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— there's no one left to think of an innovative solution.
+
+${'  ' || `
+// TODO: Make clear that the selection process is for those coming after. They'll "turn around."
+`}
 
 But a bigger reason is that paid dues are respected only *within* the system— and even then, mostly as a matter of routine. As a result, those who pay their dues can never feel secure enough to allow newcomers to surpass them. So as they advance within the system, they'll ensure that the selection process only ever rewards *more* fake work, done for even *longer*.
 
