@@ -7,13 +7,9 @@ const Component = () => (
             body: `
 # The problem with indie rock
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
+By the 90s, the major labels no longer invested in their artists. They simply counted on a few to break out as superstars, like Nirvana and Radiohead, while the rest were written off as failed bets. But the indie labels held to fair administrative standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
-By the 90s, the major labels no longer invested in their artists. They simply counted on a few to break out as superstars, like Nirvana or Radiohead; the rest were then written off as failed bets. But the indie labels held to fair administrative standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
-
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
 There's just one problem: Indie rock didn't just lock in a permanent system of administration, assured of its moral righteousness— it's the *first* ideology in rock *ever* to do so. So how do we revolt, when there's no historical precedent to teach us how— or even to assure us that we *can*? Luckily, I've also spent half my life figuring out a solution:
 
@@ -33,13 +29,9 @@ Critical acclaim can be inflated; as such, it's a terrible barometer. What *can'
 
 **Why assembled bands?**
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
-
 Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But once we ditch this notion? Then rock has only scratched the surface.
 
-What if musicians hoping to form a history-making band could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain is a woman, the next Thom Yorke a minority— but each is struggling to find bandmates right now. What if they could be judged free of unconscious bias?
+What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain or Thom Yorke is a woman or minority who's currently struggling to find bandmates. What if they could ask to be judged free of unconscious bias?
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
@@ -108,12 +100,14 @@ For many years, I worked days as a coder and nights on my audio webcomic. When I
 One reason is that paid dues can only be fairly measured if they're based on known conventions; innovation doesn't count. As such, innovators tend not to stick around. So when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— there's no one left to think of an innovative solution.
 
 ${'  ' || `
-// TODO: Make clear that the selection process is for those coming after. They'll "turn around."
+// TODO: Pick the right phrasing to make this clear. Don't need the "routine" part.
+
+But a bigger reason is that paid dues are respected only *within* the system— and even then, mostly as a matter of routine. As a result, those who pay their dues will only help those newcomers who pose no threat: those who squandered *at least* as much time as they did on fake work. Of course, in time these newcomers will advance within the system will feel the same…
 `}
 
-But a bigger reason is that paid dues are respected only *within* the system— and even then, mostly as a matter of routine. As a result, those who pay their dues can never feel secure enough to allow newcomers to surpass them. So as they advance within the system, they'll ensure that the selection process only ever rewards *more* fake work, done for even *longer*.
+But a bigger reason is that paid dues are respected only *within* the system. As a result, those who pay their dues can never feel secure enough to allow newcomers to surpass them. And so they'll only ever help the ones who pose no threat, who've squandered *at least* as much time as they did on fake work. Of course, once these newcomers advance within the system, they'll turn around and do the same…
 
-This is why it took an outsider like myself to start BYCombo, inspired by a solution to help up-and-coming bands who might surpass me. It's so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
+Which is why it took an outsider like myself to start BYCombo, inspired by a solution to help up-and-coming bands who might surpass me. It's so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
 ### Art needs the blood of martyrs
 
