@@ -100,12 +100,10 @@ For many years, I worked days as a coder and nights on my audio webcomic. When I
 One reason is that paid dues can only be fairly measured if they're based on known conventions; innovation doesn't count. As such, innovators tend not to stick around. So when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— there's no one left to think of an innovative solution.
 
 ${'  ' || `
-// TODO: Pick the right phrasing to make this clear. Don't need the "routine" part.
-
-But a bigger reason is that paid dues are respected only *within* the system— and even then, mostly as a matter of routine. As a result, those who pay their dues will only help those newcomers who pose no threat: those who squandered *at least* as much time as they did on fake work. Of course, in time these newcomers will advance within the system will feel the same…
+// TODO: Pick the right phrasing to make this clear. Don't say "as such" twice. Change "develop" to "build up"?
 `}
 
-But a bigger reason is that paid dues are respected only *within* the system. As a result, those who pay their dues can never feel secure enough to allow newcomers to surpass them. And so they'll only ever help the ones who pose no threat, who've squandered *at least* as much time as they did on fake work. Of course, once these newcomers advance within the system, they'll turn around and do the same…
+Another reason is that paid dues are respected only *within* the system— so those who pay their dues can never feel secure enough to let others surpass them. As such, they'll only ever help a newcomer who squandered even *more* time and energy on doing fake work rather than building up talents. Of course, once those newcomers advance, they'll feel even less secure…
 
 Which is why it took an outsider like myself to start BYCombo, inspired by a solution to help up-and-coming bands who might surpass me. It's so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
