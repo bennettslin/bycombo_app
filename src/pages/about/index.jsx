@@ -100,10 +100,12 @@ For many years, I worked days as a coder and nights on my audio webcomic. When I
 One reason is that paid dues can only be fairly measured if they're based on known conventions; innovation doesn't count. As such, innovators tend not to stick around. So when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— there's no one left to think of an innovative solution.
 
 ${'  ' || `
-// TODO: Pick the right phrasing to make this clear. Don't say "as such" twice. Change "develop" to "build up"?
+// TODO: Review phrasing. Get it to where it's good for now. I really need to get back to the home page.
+
+But do try to get in the notion of a vicious circle.
 `}
 
-Another reason is that paid dues are respected only *within* the system, so those who pay their dues can never feel secure enough to let a newcomer surpass them. As such, they'll only ever help the ones who willingly built up *fewer* talents to do even *more* fake work. Of course, these newcomers will then feel even *less* secure— creating a vicious circle.
+But a bigger reason is that paid dues are respected only *within* the system— so those who pay their dues can never feel secure enough to let others surpass them. As they advance within the system, then, they'll ensure that newcomers are only ever rewarded for doing *more* fake work. But these newcomers will be even *less* secure, leading to a vicious circle.
 
 Which is why it took an outsider like myself to start BYCombo, inspired by a solution to help up-and-coming bands who might surpass me. It's so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
