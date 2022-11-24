@@ -103,7 +103,7 @@ ${'  ' || `
 // TODO: Pick the right phrasing to make this clear. Don't say "as such" twice. Change "develop" to "build up"?
 `}
 
-Another reason is that paid dues are respected only *within* the system— so those who pay their dues can never feel secure enough to let others surpass them. As such, they'll only ever help a newcomer who squandered even *more* time and energy on doing fake work rather than building up talents. Of course, once those newcomers advance, they'll feel even less secure…
+Another reason is that paid dues are respected only *within* the system, so those who pay their dues can never feel secure enough to let a newcomer surpass them. As such, they'll only help out the ones who built up even *fewer* talents in order to do even *more* fake work. Of course, these newcomers will then feel even *less* secure— creating a vicious circle.
 
 Which is why it took an outsider like myself to start BYCombo, inspired by a solution to help up-and-coming bands who might surpass me. It's so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
