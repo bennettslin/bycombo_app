@@ -75,7 +75,7 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 
 Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is key to winning over the masses. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps them reach industry executives who are secure enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is key to winning over the masses. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps them reach industry executives who are sheltered enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
 
 ### Competitive self-reliance favors privilege
 
@@ -97,15 +97,17 @@ Hip hop was the last case in point, and BYCombo— which I founded to serve *all
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-One reason is that paid dues can only be fairly measured if they're based on known conventions; innovation doesn't count. As such, innovators tend not to stick around. So when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— there's no one left to think of an innovative solution.
+One reason is that paid dues can only be fairly measured if they're based on known conventions; innovation doesn't count. As a result, innovators tend not to stick around. So when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— there's no one left to think of an innovative solution.
 
 ${'  ' || `
-// TODO: Review phrasing. Get it to where it's good for now. I really need to get back to the home page.
+// TODO: Work on phrasing that really captures the idea. Maybe talk instead in these terms.
 
-But do try to get in the notion of a vicious circle.
+Without intervention, the selection process can only ever be narrowed by rewarding ever more fake work. But those who've already paid their dues are fine with this.
+
+But a bigger reason is that paid dues have no value *outside* the system— so those who've paid their dues can never feel secure enough to allow others to surpass them. As such, they'll ensure that every newcomer does even *more* fake work to pay their dues. But the ones who do will feel even *less* secure— creating a vicious circle.
 `}
 
-But a bigger reason is that paid dues are respected only *within* the system— so those who pay their dues can never feel secure enough to let others surpass them. As they advance within the system, then, they'll ensure that newcomers are only ever rewarded for doing *more* fake work. But these newcomers will be even *less* secure, leading to a vicious circle.
+But a bigger reason is that paid dues are respected only *within* the system— and even then, mostly as a matter of routine. As a result, those who pay their dues can never feel secure enough to allow others to surpass them. So as they advance within the system, they'll ensure that the selection process for newcomers only ever rewards *more* fake work, done for even *longer*.
 
 Which is why it took an outsider like myself to start BYCombo, inspired by a solution to help up-and-coming bands who might surpass me. It's so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
