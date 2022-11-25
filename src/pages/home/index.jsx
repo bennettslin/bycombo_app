@@ -45,7 +45,7 @@ So rock is just waiting for… a martyr. But martyrs are the ones who make histo
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial for artists to follow the rules by using indie rock's tools, which serve to keep every work bite-sized and uniform with others. On top of that, why would those who made the rules ever reward anyone who breaks them?
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial for artists to use indie rock's tools, which serve to keep every work bite-sized and uniform with others.
 
 ${'  ' || `
 Subjectiveness of art form, whereas objectiveness of people.
