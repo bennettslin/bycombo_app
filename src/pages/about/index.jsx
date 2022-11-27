@@ -93,26 +93,19 @@ Don't be fooled, either, by indie rock's belated embrace of minority artists. Th
 
 Hip hop was the last case in point, and BYCombo— which I founded to serve *all* disadvantaged groups— will be the next. As a minority myself, I know that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
-${'  ' || `
-// TODO: This still needs work. Really capture the idea. It might actually be a single reason that takes two paragraphs, instead of two distinct reasons.
-
 ### A artists help A artists, B artists help C artists
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-One reason is that paid dues can only be fairly measured if they're based on known conventions; innovation doesn't count. As such, innovators tend not to stick around. So when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— there's no one left to think of an innovative solution.
+${'  ' || `
+// TODO: Final review, and then leave alone for now.
+`}
 
-But a bigger reason is that paid dues are respected only *within* the system— and even then, mostly as a matter of routine. As a result, those who pay their dues can never feel secure enough to allow others to surpass them. So as they advance within the system, they'll ensure that the selection process for newcomers only ever rewards *more* fake work, done for even *longer*.
+One reason is that paid dues must be based on known conventions; nothing innovative ever counts. So when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— no one who's stuck around will try to offer any innovative solutions.
+
+But a bigger reason is that paid dues are respected only *within* the system, so those who pay their dues can never feel secure enough to let others surpass them. As such, every newcomer will be told to pay their dues by taking on even *more* fake work. Of course, the ones who do will then feel even *less* secure— thus perpetuating a vicious circle.
 
 Which is why it took an outsider like myself to start BYCombo, inspired by a solution to help up-and-coming bands who might surpass me. It's so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
-
-Scraps:
-
-Without intervention, the selection process can only ever be narrowed by rewarding ever more fake work. But those who've already paid their dues are fine with this.
-
-But a bigger reason is that paid dues have no worth *outside* the system— so those who've paid their dues can never feel secure enough to allow others to surpass them. As such, they'll ensure that every newcomer does even *more* fake work to pay their dues. But the ones who do will feel even *less* secure— creating a vicious circle.
-
-`}
 
 ### Art needs the blood of martyrs
 
