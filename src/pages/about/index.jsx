@@ -98,7 +98,7 @@ Hip hop was the last case in point, and BYCombo— which I founded to serve *all
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
 ${'  ' || `
-// TODO: Final review, and then leave alone for now.
+// TODO: Final review, and then leave alone for now. Maybe mention fewer talents?
 `}
 
 One reason is that paid dues must be based on known conventions; nothing innovative ever counts. So when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— no one who's stuck around will try to offer any innovative solutions.
