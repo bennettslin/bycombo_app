@@ -98,12 +98,12 @@ Hip hop was the last case in point, and BYCombo— which I founded to serve *all
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
 ${'  ' || `
-// TODO: Final review, and then leave alone for now. Last sentence of third paragraph okay?
+// TODO: Just one more final review, and then leave alone for now.
 `}
 
-One reason is that paid dues must be based on known conventions; nothing innovative ever counts. So when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— no one who's stuck it out will try to offer an innovative solution.
+One reason is that paid dues must be based on known conventions; nothing innovative ever counts. So when a convention no longer makes sense— like touring to build a fanbase, even as society moves further online— no one who's stuck it out will try to find an innovative solution.
 
-But a bigger reason is that paid dues are respected only *within* the system, so those who pay their dues can never feel secure enough to let others surpass them. As such, every newcomer will be told to take on *more* fake work to pay their dues. Of course, doing so will leave them with even fewer talents, so they'll feel even *less* secure— and so on, in a vicious circle.
+But a bigger reason is that paid dues are respected only *within* the system, so those who've done the fake work needed to pay their dues can never feel secure enough to let others surpass them. As such, every newcomer must take on even *more* fake work. Of course, this leaves them with even *fewer* talents, making them feel even *less* secure— and so on, in a vicious circle.
 
 Which is why it took an outsider like myself to start BYCombo, inspired by a solution to help up-and-coming bands who might surpass me. It's so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
