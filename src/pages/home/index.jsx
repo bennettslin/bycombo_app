@@ -67,6 +67,8 @@ Put yourself in the shoes of an indie gatekeeper, however. And you understand th
 Having promised that advancement can happen if an artist hustles to build a fanbase, you're now morally obligated to suppress any possibility of innovation that comes from diverting time and energy away from the hustle, back toward the craft.
 `}
 
+But the biggest problem is that indie rock is the postmodern era's first decentralized system of exposure. Postmodernism means that artists still get rewarded for making well-crafted works, *but* they're no longer punished if they *don't*. Meanwhile, decentralization rewards artists who build a fanbase, *and* it punishes those who *don't*. The net effect, then, is this:
+
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public has no way to know.**
 
 ${'  ' || `
@@ -78,6 +80,10 @@ But worse, the concept of interdependence *itself* has no way to take root. Once
 `}
 
 ### A hundred *Yearling's Bobtail*s
+
+${'  ' || `
+// TODO: Only way to save rock is centralization.
+`}
 
 But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry executives in genres that *never* went indie— like hip hop— can jump in and lend their expertise.
 
