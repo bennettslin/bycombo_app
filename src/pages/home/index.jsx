@@ -48,42 +48,20 @@ So rock is just waiting for… a martyr. But martyrs are the ones who make histo
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial for artists to use indie rock's tools, which serve to keep every work bite-sized and uniform with others.
 
 ${'  ' || `
-But there's more to it than that.
-
-Subjectiveness of art form, whereas objectiveness of people.
-
-An indie gatekeeper's obligation isn't to some abstract notion of an art form. It's to the very real people who chose to follow their rules.
-
-The indie gatekeepers are morally obligated to suppress any attempts to innovate by breaking their rules, because this is what the artists who trusted them by following the rules expect.
-
-Their loyalty is to the indie artists who need to be reassured that innovation *isn't* possible for any other artist.
-
-The assurance that more time and energy redirected away from the hustle, and back toward the craft, can never again be a possibility.
-
-It's easy from our perspective to assume that advancing the art form is always the best.
-
-Put yourself in the shoes of an indie gatekeeper, however. And you understand that having set the rules, rewarding those who break them would be a heartless betrayal of those who followed them.
-
-Having promised that advancement can happen if an artist hustles to build a fanbase, you're now morally obligated to suppress any possibility of innovation that comes from diverting time and energy away from the hustle, back toward the craft.
+// TODO: Find the right phrasing for these ideas.
 `}
 
-But the biggest problem is that indie rock is the postmodern era's first decentralized system of exposure. Postmodernism means that artists still get rewarded for making well-crafted works, *but* they're no longer punished if they *don't*. Meanwhile, decentralization rewards artists who build a fanbase, *and* it punishes those who *don't*. The net effect, then, is this:
+But there's more to it than that. Put yourself in their shoes, and you realize that in having made the rules, they can't reward those who break them. To do so would be a huge betrayal to those who followed them. Not only that, in indie rock, it's the gatekeepers who are asked to self-sacrifice. For artists to self-sacrifice, would make the gatekeepers' sacrifice worth nothing.
+
+${'  ' || `
+// TODO: Find the right phrasing for this idea.
+`}
+
+But the biggest problem is that indie rock creates a decentralized free-for-all in which the cold, hard math favors indie artists. Time spent on making art offers a sublinear advantage. Meanwhile, time spent to build a fanbase is a superlinear advantage. All of which is to say:
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public has no way to know.**
 
-${'  ' || `
-// TODO: Scraps.
-
-For this reason, the indie labels will refuse to hear an ambitious demo that clearly doesn't follow the rules.
-
-But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist builds a fanbase on their *own*, they'll never concede that the best art comes from waiting on a *label* to help with this effort. And having paid their dues, they're now loyal to a status quo in which *every* artist must struggle as inefficiently as *they* once did. So this is the heart of the problem:
-`}
-
 ### A hundred *Yearling's Bobtail*s
-
-${'  ' || `
-// TODO: Only way to save rock is centralization.
-`}
 
 But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry executives in genres that *never* went indie— like hip hop— can jump in and lend their expertise.
 
