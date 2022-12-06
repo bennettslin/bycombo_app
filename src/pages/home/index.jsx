@@ -51,13 +51,13 @@ ${'  ' || `
 // TODO: Find the right phrasing for these ideas.
 `}
 
-But there's more to it than that. Put yourself in their shoes, and you realize that in having made the rules, they can't reward those who break them. To do so would be a huge betrayal to those who followed them. Not only that, in indie rock, it's the gatekeepers who are asked to self-sacrifice. For artists to self-sacrifice, would make the gatekeepers' sacrifice worth nothing.
+But there's more to it than that. Put yourself in a gatekeeper's shoes, and you realize that those who made the rules can't simply reward anyone who breaks them; to do so would be a huge betrayal. Not only that, but in indie rock, everyone else is expected to sacrifice for the artists, and has already done so. An artist who chooses to self-sacrifice would then render their sacrifices worthless.
 
 ${'  ' || `
 // TODO: Find the right phrasing for this idea.
 `}
 
-But the biggest problem is that indie rock creates a decentralized free-for-all in which the cold, hard math favors indie artists. Time spent on making art offers a sublinear advantage. Meanwhile, time spent to build a fanbase is a superlinear advantage. All of which is to say:
+But the biggest problem is that indie rock created a decentralized system in which the math naturally favors indie artists. Time spent on making art offers a sublinear advantage. Meanwhile, time spent to build a fanbase is a superlinear advantage. All of which is to say:
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public has no way to know.**
 
