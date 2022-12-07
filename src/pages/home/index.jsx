@@ -51,7 +51,7 @@ ${'  ' || `
 // TODO: Find the right phrasing for these ideas.
 `}
 
-But there's more to it than that. Put yourself in a gatekeeper's shoes, and you realize that those who made the rules can't simply reward anyone who breaks them; to do so would be a huge betrayal. Not only that, but in indie rock, everyone else is expected to sacrifice for the artists, and has already done so. An artist who chooses to self-sacrifice would then render their sacrifices worthless.
+But there's more to it than that. Put yourself in a gatekeeper's shoes, and you realize that those who made the rules can't just reward anyone who breaks them; to do so would be a huge betrayal. Not only that, but in indie rock, everyone else is expected to sacrifice for the artists, and has already done so. An artist who chooses to self-sacrifice would then render their sacrifices worthless.
 
 ${'  ' || `
 // TODO: Find the right phrasing for this idea.
