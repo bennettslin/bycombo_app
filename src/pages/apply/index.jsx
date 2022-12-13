@@ -31,7 +31,9 @@ There are no application fees or legal contracts. We'll just ask you to make a n
 
 ### What we'll do for you
 
-BYCombo will include you in a supportive community of other ambitious bands. Through the years, we'll advise you on your band project. The Bobtail Yearlings will also help where they can!
+BYCombo will include you in a supportive community of other ambitious bands. Through the years, we'll advise you on your band project. The Bobtail Yearlings will also help where they can, including with their latest offer:
+
+**The Bobtail Yearlings will feature up to ten female-fronted BYCombo bands as guest artists on their next project, an album about the life of English biophysicist Rosalind Franklin.**
 
 Once your demo is complete, we'll add it to our registry and notify all the music fans, industry executives, and budding entrepreneurs who've signed up to our mailing list. With your help, BYCombo will become the public's trusted resource to hear about the latest bands sacrificing serious chunks of lifetime to advance the art form!
 
