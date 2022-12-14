@@ -8,13 +8,13 @@ const Component = () => (
             body: `
 # Join the interdependence revolution!
 
-Are you ready to sacrifice a serious chunk of lifetime to make rock history? Be part of BYCombo's pilot cohort!
+${'  ' || `
+// TODO: Review.
+`}
 
-### Diversity and inclusion policy
+Are you ready to sacrifice a serious chunk of lifetime to make rock history? We're looking to assemble a pilot cohort of ten bands who'll help us work out the kinks in our process. And to thank you for your help:
 
-**Women, minorities, and all other disadvantaged groups are encouraged to apply!**
-
-As a rock movement *founded* by a minority, BYCombo was *conceived* to give disadvantaged groups the interdependence they naturally prefer and thrive under.
+**The Bobtail Yearlings will feature all ten bands from our pilot cohort as guest artists on their next project, an album about the life of English biophysicist Rosalind Franklin.**
 
 ### Who we're looking for
 
@@ -31,11 +31,19 @@ There are no application fees or legal contracts. We'll just ask you to make a n
 
 ### What we'll do for you
 
-BYCombo will include you in a supportive community of other ambitious bands. Through the years, we'll advise you on your band project. The Bobtail Yearlings will also help where they can, including with their latest offer:
+${'  ' || `
+// TODO: Review.
+`}
 
-**The Bobtail Yearlings will feature up to ten female-fronted BYCombo bands as guest artists on their next project, an album about the life of English biophysicist Rosalind Franklin.**
+BYCombo will provide a forum for you and the other bands in your cohort to support each other, and we'll periodically advise you on your band project. We also encourage each alum to pay it forward and work with the next cohort!
 
 Once your demo is complete, we'll add it to our registry and notify all the music fans, industry executives, and budding entrepreneurs who've signed up to our mailing list. With your help, BYCombo will become the public's trusted resource to hear about the latest bands sacrificing serious chunks of lifetime to advance the art form!
+
+### Diversity and inclusion policy
+
+**Women, minorities, and all other disadvantaged groups are encouraged to apply!**
+
+As a rock movement *founded* by a minority, BYCombo was *conceived* to give disadvantaged groups the interdependence they naturally prefer and thrive under.
 
 ### How to apply
 
