@@ -12,9 +12,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Are you ready to sacrifice a serious chunk of lifetime to make rock history? We're looking to assemble a pilot cohort of ten bands who'll help us work out the kinks in our process. And to thank you for your help:
+Are you ready to sacrifice a serious chunk of lifetime to make rock history? BYCombo is looking to assemble a pilot cohort of ten bands! Obviously, our process hasn't been tried and tested, so you'll be helping us to work out the kinks. And to thank you for your help:
 
-**The Bobtail Yearlings will feature all ten bands from our pilot cohort as guest artists on their next project, an album about the life of English biophysicist Rosalind Franklin.**
+**The Bobtail Yearlings will feature all ten bands from our pilot cohort as guest artists on their next project, an album about the life of English biophysicist Rosalind Franklin!**
 
 ### Who we're looking for
 
@@ -35,7 +35,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-BYCombo will provide a forum for you and the other bands in your cohort to support each other, and we'll periodically advise you on your band project. We also encourage each alum to pay it forward and work with the next cohort!
+BYCombo will provide a forum for you and the other bands in your cohort to support each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and work with the next cohort!
 
 Once your demo is complete, we'll add it to our registry and notify all the music fans, industry executives, and budding entrepreneurs who've signed up to our mailing list. With your help, BYCombo will become the public's trusted resource to hear about the latest bands sacrificing serious chunks of lifetime to advance the art form!
 

@@ -96,6 +96,8 @@ Hip hop was the last case in point, and BYCombo— which I founded to serve *all
 ${'  ' || `
 // TODO: Make paid dues being based on known conventions, and innovation not counting, a standalone observation. The two reasons then stem from that.
 
+In a craft culture, being good is the one thing each band works for, so you don't mind helping another band become known. But in a hustle culture, becoming known is the one thing each band works for, which means it makes no sense helping another band become known.
+
 To understand why, it's important to observe that…
 
 ### A artists help A artists, B artists help C artists
