@@ -1,15 +1,38 @@
 import removeMarkdown from 'remove-markdown'
+import slugify from 'slugify'
 import { getPagePathFromConfig } from '../../pages/config'
 
 export const convertMarkdownToText = markdown => (
     removeMarkdown(markdown)
 )
 
+const joinArrayOfStrings = stringArray => (
+    stringArray.map(entry => {
+        if (typeof entry === 'string') {
+            return entry
+        }
+
+        const entryObject = entry?.props?.children
+
+        return Array.isArray(entryObject) ?
+            joinArrayOfStrings(entryObject) :
+            entryObject
+    })
+        .join('')
+)
+
 export const getLinkId = children => (
-    (Array.isArray(children) ? children[0] : children)
-        .toLowerCase().split(/[^a-z0-9]/)
-        .filter(text => Boolean(text))
-        .join('-')
+    slugify(
+        joinArrayOfStrings(
+            Array.isArray(children) ?
+                children :
+                [children],
+        ),
+        {
+            lower: true,
+            strict: true,
+        },
+    )
 )
 
 export const getMarkdownLinkFromText = id => (
