@@ -21,11 +21,7 @@ Perhaps you're one of the following:
 * An artist of another medium: dancer, web developer…
 * An administrator: manager, social media guru…
 
-${'  ' || `
-// TODO: Make clear that relocation isn't mandatory.
-`}
-
-We'll set you up with prospective bandmates who match your musical preferences and skill levels. You'll review each other's links and videos, then meet online. If everyone agrees to form a band, you'll relocate to Los Angeles or another major city. After you've settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
+We'll set you up with prospective bandmates who match your musical tastes and skill levels. Upon reviewing each other's links and videos, you'll meet online. Once everyone agrees to form a band, all those who can relocate to Los Angeles will do so. After you've settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
 
 There are no application fees or legal contracts. We'll just ask you to make a nonbinding pledge to be vaccinated, to respect pronouns, and so forth.
 

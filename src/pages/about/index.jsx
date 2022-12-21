@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The problem with indie rock
 
-By the 90s, the major labels no longer invested in their artists. They simply counted on a few superstars to break out, like Nirvana and Radiohead, and then they wrote off the rest as failed bets. But the indie labels held to fair administrative standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
+By the 90s, the major labels no longer invested in their artists. They simply counted on a few superstars to break out, like Nirvana and Radiohead, and then the rest were written off as failed bets. But the indie labels held to fair administrative standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -96,14 +96,14 @@ Hip hop was the last case in point, and BYCombo— which I founded to serve *all
 ### A artists help A artists, B artists help C artists
 
 ${'  ' || `
-// TODO: Just review again, but good enough for now. Does "coming after them" flow?
+// TODO: Just review one more time, and then it's done. Especially look at third paragraph.
 `}
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-One reason is that paid dues are based on known conventions; invention doesn't count. So even when a convention no longer makes sense— like touring to build a fanbase, while the rest of society moves further online— no one around will try to invent a better solution.
+One reason is that paid dues are based on known conventions; innovation doesn't count. So even when a convention no longer makes sense— like touring to build a fanbase, while the rest of society moves further online— no one around will try to think of a better solution.
 
-But the main reason is this: Once someone squanders their best years doing fake work, they'll never feel secure enough to let others surpass them. So all those coming after them will be told to squander even *more* years. But these newcomers will then feel even *less* secure— perpetuating a vicious circle.
+But the main reason is this: Once someone squanders their best years on conventional work that they were told to do, they'll never feel secure enough to be surpassed by others. So the only newcomers they'll agree to let in are those who've squandered even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
 
 Which is why it took an outsider like myself to start BYCombo, inspired by a solution to help up-and-coming bands who might surpass me. It's so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
