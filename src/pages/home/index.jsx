@@ -50,10 +50,6 @@ ${'  ' || `
 Eventually replace the second paragraph with these two points.
 
 But there's more to it than that. Put yourself in a gatekeeper's shoes, and you realize that those who made the rules can't just reward anyone who breaks them; to do so would be a huge betrayal. Not only that, but in indie rock, everyone else is expected to sacrifice for the artists, and has already done so. An artist who chooses to self-sacrifice would then render their sacrifices worthless.
-
-Make the point that time spent on the craft increases an artist's advantage at a logarithmic, or sublinear, rate, while time spent on the hustle increase their advantage at an exponential, or superlinear, rate.
-
-This point might also be used to explain the benefit of a centralized initiative like BYCombo.
 `}
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. For this reason, the indie labels will refuse to hear an ambitious demo that clearly doesn't follow the rules.

@@ -19,6 +19,17 @@ There's just one problem: Indie rock didn't just lock in a permanent system of a
 
 Okay, that's a mouthful! Let's break it down…
 
+${'  ' || `
+// TODO: Keep working on this, but okay not to have it for now.
+**Why BYCombo?**
+
+The Beatles wrote rock's greatest songs because they spent *all* their time and energy on doing so. Of course, the effort a band puts into making better art only increases their advantage at a *sub*-linear rate— because there are many forms and styles for which *lack* of cultivated talent is the ideal.
+
+By contrast, in a decentralized system such as indie rock, an artist's effort to build a fanbase increases their advantage at a *super*-linear rate— as each fan brings in more fans. So indie artists are now and forever incentivized to spend less time and energy on the craft, and more on the hustle.
+
+Since postmodernism can't be undone, we can never increase the advantage of working on the craft. However, we *can* neutralize the disadvantage of *not* working on the hustle. Which means if there's any hope for rock to regain the conditions that gave us the Beatles, it's to be found in centralized initiatives like BYCombo.
+`}
+
 **Why an anti-indie counterculture?**
 
 A counterculture is needed to protect dangerous ideas, yet we haven't had one for some time. Meanwhile, despite indie rock's good intentions, rock has gotten worse. But what if rock is worse… *because* of these good intentions? What if all this charitable support for indie *artists*… is actually bad for *art*? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
@@ -111,7 +122,7 @@ The reason is that we only pine for past artists who self-sacrificed for art's s
 
 But the problems with this current Age of Self-Empowerment go beyond its failure to deliver the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how exactly are *they* the underdogs?
 
-But worst of all, self-empowered artists will never *start* a renaissance or a revolution, because the means to fair compensation get settled only toward the *end* of such movements. So if rock is to be saved, we *need* to make way for selfless bands who'll sacrifice themselves for art's sake. In other words, after Self-Empowerment… comes the Age of Martyrdom.
+But worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only toward a movement's *end*. So if rock is to be saved, we *need* to make way for selfless bands who are ready to sacrifice themselves for art's sake. After Self-Empowerment, in other words… comes the Age of Martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* of such bands, each one sacrificing a serious chunk of lifetime to advance the art form?
 
