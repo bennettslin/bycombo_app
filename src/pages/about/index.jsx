@@ -95,17 +95,13 @@ Hip hop was the last case in point, and BYCombo— which I founded to serve *all
 
 ### A artists help A artists, B artists help C artists
 
-${'  ' || `
-// TODO: Just review one more time, and then it's done. Especially look at third paragraph.
-`}
-
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-One reason is that paid dues are based on known conventions; innovation doesn't count. So even when a convention no longer makes sense— like touring to build a fanbase, while the rest of society moves further online— no one around will try to think of a better solution.
+One reason is this: Like most credentials, paid dues must be based on known conventions. Invention doesn't count. So even when a convention no longer makes sense— like touring to build a fanbase, while the rest of society moves further online— no one around will invent a better solution.
 
-But the main reason is this: Once someone squanders their best years on conventional work that they were told to do, they'll never feel secure enough to be surpassed by others. So the only newcomers they'll agree to let in are those who've squandered even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
+But the main reason is this: Once someone squanders their potential to build up credentials rather than actual talents, they'll never feel secure enough to let others surpass them. So the only newcomers they'll accept are the ones squandering even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
 
-Which is why it took an outsider like myself to start BYCombo, inspired by a solution to help up-and-coming bands who might surpass me. It's so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
+Which is why it took an outsider like myself to start BYCombo, a nonprofit dedicated to helping up-and-coming bands who'll surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
 ### Art needs the blood of martyrs
 
