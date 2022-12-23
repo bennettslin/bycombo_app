@@ -112,7 +112,7 @@ One reason is this: Like most credentials, paid dues must be based on known conv
 
 But the main reason is this: Once someone squanders their potential to build up credentials rather than actual talents, they'll never feel secure enough to let others surpass them. So the only newcomers they'll accept are the ones squandering even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
 
-Which is why it took an outsider like myself to start BYCombo, a nonprofit dedicated to helping up-and-coming bands who'll surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
+Which is why it took an outsider like myself to start BYCombo, driven by an urge to help up-and-coming bands who might surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
 ### Art needs the blood of martyrs
 
