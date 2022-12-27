@@ -41,20 +41,19 @@ Well, then, can't an interdependent band just promise to make the best art inste
 
 **To revive interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
-So rock is just waiting for… a martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was precisely by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Surely even an indie label would be happy with this tradeoff!
+So rock is just waiting for… a self-sacrificing martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was precisely by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Surely even an indie label would be happy with this tradeoff!
 
 ### Who gatekeeps the gatekeepers?
 
 ${'  ' || `
-// TODO:
-Eventually replace the second paragraph with these two points.
-
-But there's more to it than that. Put yourself in a gatekeeper's shoes, and you realize that those who made the rules can't just reward anyone who breaks them; to do so would be a huge betrayal. Not only that, but in indie rock, everyone else is expected to sacrifice for the artists, and has already done so. An artist who chooses to self-sacrifice would then render their sacrifices worthless.
+// TODO: Review this section.
 `}
 
-Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. For this reason, the indie labels will refuse to hear an ambitious demo that clearly doesn't follow the rules.
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others.
 
-But worse, the concept of interdependence *itself* has no way to take root. Once an indie artist builds a fanbase on their *own*, they'll never concede that the best art comes from waiting on a *label* to help with this effort. And having paid their dues, they're now loyal to a status quo in which *every* artist must struggle as inefficiently as *they* once did. So this is the heart of the problem:
+But that's not all of it. Put yourself in a gatekeeper's shoes, and you realize that those who make the rules are morally *obligated* to protect rule followers from rule breakers. Moreover, in indie rock, it's the *gatekeepers* who sacrifice for the *artists*. So if a band chooses to self-sacrifice all the same, they're ultimately signaling that the gatekeepers' own sacrifices mean nothing.
+
+But worst of all, the tragedy of a decentralized system like indie rock is that it's a huge disadvantage *not* to build a fanbase.
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public has no way to know.**
 
