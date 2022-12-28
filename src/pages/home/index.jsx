@@ -25,9 +25,9 @@ These tools of empowerment aren't free, though— they cost the artist's time an
 
 ### A call for a truce
 
-Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). Let's be clear, the best artists *don't* waste time and energy on empowerment; they expect it to come naturally, as a byproduct of building up one's talents. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to have a *label* help us build our fanbase— and, in turn, have this label depend on *us* to make the best art.
+Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). Let's be clear, the best artists *don't* waste time and energy on empowerment; they expect it to come naturally, as a byproduct of building up their talents. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to have a *label* help us build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
-By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete unless they're indie as well. In turn, this means the only way for a label to stay competitive is by signing indie artists. So here's my dilemma:
+By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete unless they're indie as well. In turn, this means a label will stay competitive only by signing indie artists. So here's my dilemma:
 
 **In trying to make the best art, interdependent bands *need* to reject indie rock's tools. They get punished for this, however, since *every* artist today is expected to be indie— and thus required to follow indie rock's rules.**
 
@@ -46,14 +46,18 @@ So rock is just waiting for… a self-sacrificing martyr. But martyrs are the on
 ### Who gatekeeps the gatekeepers?
 
 ${'  ' || `
-// TODO: Review this section.
+// TODO: Do this whole section.
 `}
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others.
 
-But that's not all of it. Put yourself in a gatekeeper's shoes, and you realize that those who make the rules are morally *obligated* to protect rule followers from rule breakers. Moreover, in indie rock, it's the *gatekeepers* who sacrifice for the *artists*. So if a band chooses to self-sacrifice all the same, they're ultimately signaling that the gatekeepers' own sacrifices mean nothing.
+But that's not all of it. Put yourself in a gatekeeper's shoes, and you quickly realize that those who make the rules are morally *obligated* to protect those who follow them. For the gatekeepers themselves to reward the rule breakers would be the ultimate betrayal.
 
-But worst of all, the tragedy of a decentralized system like indie rock is that it's a huge disadvantage *not* to build a fanbase.
+${'  ' || `
+// TODO: Debate whether to skip the part about self-sacrifice.
+
+Moreover, indie rock's gatekeepers are often overworked and underpaid; for them, it's a labor of love. So if a band were to self-sacrifice as well, the gatekeepers' own sacrifices would mean nothing.
+`}
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public has no way to know.**
 

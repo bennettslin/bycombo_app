@@ -112,7 +112,7 @@ Hip hop was the last case in point, and BYCombo— which I founded to serve *all
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-One reason is this: Like most credentials, paid dues must be based on known conventions. Invention doesn't count. So even when a convention no longer makes sense— like touring to build a fanbase, while the rest of society moves further online— no one around will invent a better solution.
+One reason is that, like most credentials, paid dues must be based on known conventions; invention doesn't count. So even when a convention no longer makes sense— like touring to build a fanbase, while the rest of society moves further online— no one around will invent a better solution.
 
 But the main reason is this: Once someone squanders their potential to build up credentials rather than actual talents, they'll never feel secure enough to let others surpass them. So the only newcomers they'll accept are the ones squandering even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
 
