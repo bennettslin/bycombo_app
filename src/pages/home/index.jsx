@@ -37,7 +37,7 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 
 The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to need the other. Indie artists now build a fanbase on their own, to show they can walk away from talks with a label. This leaves them with less time and energy to make art, of course— but their fans charitably support them to cover this weakness.
 
-Well, then, can't an interdependent band just promise to make the best art instead? Sadly, no. In a world of charitable support, *all* art is subjective; and in a world of mutual distrust, *nothing* subjective can be a deciding factor. So, in turn, indie labels just weigh the objective size of an artist's fanbase, rather than the artist's talents. What a mess! This leaves only one solution:
+Well, then, can't an interdependent band just promise to make the best art instead? Sadly, no. In a world of charitable support, *all* art is subjective; and in a world of mutual distrust, *nothing* subjective can be a deciding factor. So, in turn, indie labels now just weigh the objective size of an artist's fanbase, rather than their talents. What a mess! This leaves only one solution:
 
 **To revive interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
 
@@ -46,24 +46,24 @@ So rock is just waiting for… a self-sacrificing martyr. But martyrs are the on
 ### Who gatekeeps the gatekeepers?
 
 ${'  ' || `
-// TODO: Do this whole section.
+// TODO: Just review now.
 `}
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others.
 
-But that's not all of it. Put yourself in a gatekeeper's shoes, and you quickly realize that those who make the rules are morally *obligated* to protect those who follow them. For the gatekeepers themselves to reward the rule breakers would be the ultimate betrayal.
+But that's not all of it. Much like those [teachers in research studies](https://behavioralscientist.org/the-bias-against-creativity) who *say* they value creativity but then *dislike* their most creative students, the indie labels will always favor those who follow their rules, out of both professional obligation and personal loyalty. As such, rule breakers are only ever seen as obnoxious— never creative. So this is the heart of the problem:
 
 ${'  ' || `
-// TODO: Debate whether to skip the part about self-sacrifice.
+// TODO: Debate whether to include this part about self-sacrifice.
 
-Moreover, indie rock's gatekeepers are often overworked and underpaid; for them, it's a labor of love. So if a band were to self-sacrifice as well, the gatekeepers' own sacrifices would mean nothing.
+And finally, remember that there's very little money in indie rock. Every gatekeeper is overworked and underpaid; for them, it's a labor of love. So if a band were to self-sacrifice as well, the gatekeepers' own sacrifices would mean nothing.
 `}
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public has no way to know.**
 
 ### A hundred *Yearling's Bobtail*s
 
-But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry executives in genres that *never* went indie— like hip hop— can jump in and lend their expertise.
+But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry executives in genres that *never* went indie— like hip hop— are eager to jump in and lend their expertise.
 
 So plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative movement to willfully *raise* these barriers. Well, here's the good news!
 
