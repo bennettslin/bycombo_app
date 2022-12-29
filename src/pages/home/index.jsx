@@ -49,25 +49,29 @@ ${'  ' || `
 // TODO: Just review now.
 `}
 
-Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others.
-
-But that's not all of it. Much like those [teachers in research studies](https://behavioralscientist.org/the-bias-against-creativity) who *say* they value creativity but then *dislike* their most creative students, the indie labels will always favor those who follow their rules, out of both professional obligation and personal loyalty. As such, rule breakers are only ever seen as obnoxious— never creative. So this is the heart of the problem:
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists follow the rules by using indie rock's tools, which serve to keep every work bite-sized and uniform with others.
 
 ${'  ' || `
-// TODO: Debate whether to include this part about self-sacrifice.
+// TODO: Get this paragraph right.
+`}
+
+But that's not all of it. Much like [teachers who *say* they value creativity](https://behavioralscientist.org/the-bias-against-creativity) yet *dislike* their most creative students, indie rock's gatekeepers will always favor the artists who follow their rules, out of both professional obligation and personal loyalty. Which means those who break the rules can only ever be seen as obnoxious— never creative. So this is the heart of the problem:
+
+${'  ' || `
+// TODO: Debate whether to include this part about self-sacrifice?
 
 And finally, remember that there's very little money in indie rock. Every gatekeeper is overworked and underpaid; for them, it's a labor of love. So if a band were to self-sacrifice as well, the gatekeepers' own sacrifices would mean nothing.
 `}
 
-**Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public has no way to know.**
+**Indie rock *doesn't* consider its rules an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public has no way to know.**
 
 ### A hundred *Yearling's Bobtail*s
 
 But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry executives in genres that *never* went indie— like hip hop— are eager to jump in and lend their expertise.
 
-So plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative movement to willfully *raise* these barriers. Well, here's the good news!
+So plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative movement to willfully *raise* these barriers. Well, BYCombo has some great news!
 
-**Through BYCombo, interdependent bands can now restore the public's faith by paying a steep *cost* of entry: To show their demo in BYCombo's registry, each band must sacrifice a serious chunk of lifetime.**
+**Interdependent bands can now restore the public's faith by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime.**
 
 Picture a hundred BYCombo bands. By breaking the rules, they're already making the *disruptive* works of our time; now to revive interdependence, they'll also be making our generation's most *accomplished* works. *This* will be the next revolution in rock history!
             `,
