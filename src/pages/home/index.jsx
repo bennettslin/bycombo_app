@@ -46,24 +46,16 @@ So rock is just waiting for… a self-sacrificing martyr. But martyrs are the on
 ### Who gatekeeps the gatekeepers?
 
 ${'  ' || `
-// TODO: Just review now.
+// TODO: Review at this point.
 `}
 
-Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it all the more crucial that artists follow the rules by using indie rock's tools, which serve to keep every work bite-sized and uniform with others.
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels and other gatekeepers, making it all the more crucial that artists follow the rules by using indie rock's tools, which serve to keep every work bite-sized and uniform with others.
 
-${'  ' || `
-// TODO: Get this paragraph right.
-`}
+But it's not just that: Studies show that we actually [dislike creativity](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275). We don't realize this, because we readily embrace original ideas *after* they've been widely accepted. We forget that it takes courage to do so *before* anyone else has. It's an unfortunate truth, but most of us can acknowledge this flaw in our human nature— once it's pointed out to us.
 
-But that's not all of it. Much like [teachers who *say* they value creativity](https://behavioralscientist.org/the-bias-against-creativity) yet *dislike* their most creative students, indie rock's gatekeepers will always favor the artists who follow their rules, out of both professional obligation and personal loyalty. Which means those who break the rules can only ever be seen as obnoxious— never creative. So this is the heart of the problem:
+The problem is that a gatekeeper can *never* acknowledge this truth. Much like teachers, who fail to recognize that the most creative students are their least favorite ones, gatekeepers are professionally *obligated* to enforce any rules they've made. As such, they'll only ever see a rule-breaking band as disruptive— never creative. And this is the heart of the problem:
 
-${'  ' || `
-// TODO: Debate whether to include this part about self-sacrifice?
-
-And finally, remember that there's very little money in indie rock. Every gatekeeper is overworked and underpaid; for them, it's a labor of love. So if a band were to self-sacrifice as well, the gatekeepers' own sacrifices would mean nothing.
-`}
-
-**Indie rock *doesn't* consider its rules an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public has no way to know.**
+**Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public has no way to know.**
 
 ### A hundred *Yearling's Bobtail*s
 
