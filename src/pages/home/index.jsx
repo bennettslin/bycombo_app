@@ -11,10 +11,6 @@ ${'  ' || `
 // TODO: Add link for "Five vowels" to "historically consequential," both here and on the About page.
 `}
 
-${'  ' || `
-// TODO: Review entire page to make sure it all ties together.
-`}
-
 **BYCombo is a nonprofit incubator of self-sacrificing rock bands. We're here to launch the interdependence revolution, a movement devoted to bringing forth this century's most historically consequential rock music!**
 
 Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative? Here's why…
@@ -31,11 +27,11 @@ These tools of empowerment aren't free, though— they cost the artist's time an
 
 Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). Let's be clear, the best artists *don't* waste time and energy on empowerment; they expect it to come naturally, as a byproduct of building up their talents. So I'd rather not be *indie*-pendent at all. I want my band to be *inter*-dependent: to have a *label* help us build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
-By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete unless they're indie as well. In turn, this means a label will stay competitive only by signing indie artists. So here's my dilemma:
+By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete unless they're indie as well. In turn, this means a label can stay competitive only by signing indie artists. So here's my dilemma:
 
 **In trying to make the best art, interdependent bands *need* to reject indie rock's tools. They get punished for this, however, since *every* artist today is expected to be indie— and thus required to follow indie rock's rules.**
 
-But how about a truce? Since rules are made to be followed, interdependent bands can't complain about being penalized. Yet breaking the rules is what actual creativity is all about! So let's not shut out these bands either.
+But how about a truce? Since rules are made to be followed, interdependent bands can't complain about being penalized. Yet breaking the rules is how the most creative works in history get made! So let's not shut out these bands either.
 
 ### Return of the rock martyrs
 
@@ -51,9 +47,9 @@ So rock is just waiting for… a self-sacrificing martyr. But martyrs are the on
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, which overwhelms the indie labels and other gatekeepers. This makes it all the more crucial for artists to follow the rules by using indie rock's tools, because these tools serve to keep every work bite-sized and uniform with others.
 
-It's not just that, however: Studies show that we actually [*dislike* creativity](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275). We don't realize this, because we readily embrace original ideas *after* they've been widely accepted. We forget that it takes courage to do so *before* anyone else does. It's an unfortunate truth, but most of us can acknowledge this flaw in our human nature— once it's pointed out to us.
+But it's not just that: Studies show that we actually [*dislike* creativity](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275). We don't realize this, because we readily embrace original ideas *after* they've been widely accepted. We forget that it takes courage to do so *before* anyone else does. It's an unfortunate truth, but most of us can acknowledge this flaw in our human nature— once it's pointed out to us.
 
-But indie rock's gatekeepers can *never* acknowledge this truth. Much like teachers, who fail to recognize that the most creative students are their least favorite, gatekeepers are *obligated* to enforce the rules they make. As such, a rule-breaking band will only ever be seen as troublesome— never creative. And this is the heart of the problem:
+Indie rock's gatekeepers, however, can *never* acknowledge this truth. Much like teachers, who fail to recognize that the most creative students are their least favorite, gatekeepers are *obligated* to enforce the rules they make. As such, a rule-breaking band will only ever be seen as troublesome— never creative. And this is the heart of the problem:
 
 **Indie rock *doesn't* think of its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public has no way to know.**
 

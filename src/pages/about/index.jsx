@@ -19,21 +19,6 @@ There's just one problem: Indie rock didn't just lock in a permanent system of a
 
 Okay, that's a mouthful! Let's break it down…
 
-${'  ' || `
-// TODO: Keep working on this, but okay not to have it for now.
-**Why BYCombo?**
-
-The rock bands we adored were once the best in the world at what they did. The same can still be said about hip hop's most popular rappers. But no one would say this about today's celebrated indie artists. Why does no one in indie rock go above and beyond?
-
-Talk about de facto advantages.
-
-The Beatles wrote rock's greatest songs because they spent *all* their time and energy on doing so. Of course, the effort a band puts into making better art only increases their advantage at a *sub*-linear rate— because there are many forms and styles for which *lack* of cultivated talent is the ideal.
-
-By contrast, in a decentralized system such as indie rock, an artist's effort to build a fanbase increases their advantage at a *super*-linear rate— as each fan brings in more fans. So indie artists are now and forever incentivized to spend less time and energy on the craft, and more on the hustle.
-
-Since postmodernism can't be undone, we can never increase the advantage of working on the craft. However, we *can* neutralize the disadvantage of *not* working on the hustle. Which means if there's any hope for rock to regain the conditions that gave us the Beatles, it's to be found in centralized initiatives like BYCombo.
-`}
-
 **Why an anti-indie counterculture?**
 
 A counterculture is needed to protect dangerous ideas, yet we haven't had one for some time. Meanwhile, despite indie rock's good intentions, rock has gotten worse. But what if rock is worse… *because* of these good intentions? What if all this charitable support for indie *artists*… is actually bad for *art*? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
@@ -73,10 +58,6 @@ To save rock, then, a centralized initiative like BYCombo must now step up to en
 Here's an incomplete list of ways…
 
 ### History remembers hooks
-
-${'  ' || `
-// TODO: Eventually clarify that if well crafted hooks aren't an advantage, they're actively a disadvantage.
-`}
 
 A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression— but indie artists are required to spend their time building a fanbase instead. As such, indie rock is proudly *defined* by its lack of hooks with widespread appeal.
 
