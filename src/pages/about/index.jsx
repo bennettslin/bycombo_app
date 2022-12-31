@@ -23,6 +23,10 @@ ${'  ' || `
 // TODO: Keep working on this, but okay not to have it for now.
 **Why BYCombo?**
 
+The rock bands we adored were once the best in the world at what they did. The same can still be said about hip hop's most popular rappers. But no one would say this about today's celebrated indie artists. Why does no one in indie rock go above and beyond?
+
+Talk about de facto advantages.
+
 The Beatles wrote rock's greatest songs because they spent *all* their time and energy on doing so. Of course, the effort a band puts into making better art only increases their advantage at a *sub*-linear rate— because there are many forms and styles for which *lack* of cultivated talent is the ideal.
 
 By contrast, in a decentralized system such as indie rock, an artist's effort to build a fanbase increases their advantage at a *super*-linear rate— as each fan brings in more fans. So indie artists are now and forever incentivized to spend less time and energy on the craft, and more on the hustle.
