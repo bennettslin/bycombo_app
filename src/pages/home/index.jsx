@@ -51,7 +51,7 @@ But it's not just that: Studies show that we actually [*dislike* creativity](htt
 
 Indie rock's gatekeepers, however, can *never* acknowledge this truth. Much like teachers, who fail to recognize that the most creative students are their least favorite, gatekeepers are *obligated* to enforce the rules they make. As such, a rule-breaking band will only ever be seen as troublesome— never creative. And this is the heart of the problem:
 
-**Indie rock *doesn't* think of its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public has no way to know.**
+**Indie rock *doesn't* treat its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public will never know.**
 
 ### A hundred *Yearling's Bobtail*s
 
