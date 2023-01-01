@@ -45,17 +45,25 @@ So rock is just waiting for… a self-sacrificing martyr. But martyrs are the on
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, which overwhelms the indie labels and other gatekeepers. This makes it all the more crucial for artists to follow the rules by using indie rock's tools, because these tools serve to keep every work bite-sized and uniform with others.
+${'  ' || `
+// TODO: Really, really work the expertise and Zappa angle. Leave out the scraps.
 
-But it's not just that: Studies show that we actually [*dislike* creativity](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275). We don't realize this, because we readily embrace original ideas *after* they've been widely accepted. We forget that it takes courage to do so *before* anyone else does. It's an unfortunate truth, but most of us can acknowledge this flaw in our human nature— once it's pointed out to us.
+The indie labels, however, can *never* see this truth, because they're *obligated* to enforce their own rules. Much like teachers, then, who fail to see that the most creative students are their *least* favorite, these labels will only ever see a rule-breaking band as troublesome— never creative.
 
-Indie rock's gatekeepers, however, can *never* acknowledge this truth. Much like teachers, who fail to recognize that the most creative students are their least favorite, gatekeepers are *obligated* to enforce the rules they make. As such, a rule-breaking band will only ever be seen as troublesome— never creative. And this is the heart of the problem:
+Moreover, since all their art is subjective, the indie labels can never fail badly enough to ever question their own rules. And as the "good guys," they'll never be forced to. Indie fans will simply *credit* their favorite artists with being the most creative— forever.
+`}
+
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded. This overwhelms the indie labels, making it crucial that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. And so these labels lose patience when a band gets creative and tries to bend the rules.
+
+But it's more than just that: Studies show that we actively [*dislike* creativity](https://behavioralscientist.org/the-bias-against-creativity). We don't realize this, because we readily embrace creative ideas *after* they've been popularized. We forget that it takes real courage to do so *before* anyone else does. It's an unfortunate truth, but most of us can see this flaw in our human nature— once it's pointed out.
+
+The indie labels, however, can *never* see this truth. This is because, what they lack in funding, they make up for in hard-won expertise— but experts are the [*last* to recognize creativity](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275), because the more you know, the more you trust your discomfort for the unfamiliar as being part of your hard-won knowledge. As Frank Zappa once observed, it's the [clueless old cigar chomper](https://youtu.be/KZazEM8cgt0) who are the most willing to take a chance. Which leads to the heart of the problem:
 
 **Indie rock *doesn't* treat its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public will never know.**
 
 ### A hundred *Yearling's Bobtail*s
 
-But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry executives in genres that *never* went indie— like hip hop— are eager to jump in and lend their expertise.
+But the situation isn't hopeless: Other fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry executives in genres that *never* went indie— like hip hop— are eager to jump in and lend their expertise.
 
 So plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative movement to willfully *raise* these barriers. Well, BYCombo has some great news!
 
