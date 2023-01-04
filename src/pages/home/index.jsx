@@ -46,22 +46,20 @@ So rock is just waiting for… a self-sacrificing martyr. But martyrs are the on
 ### Who gatekeeps the gatekeepers?
 
 ${'  ' || `
-// TODO: Keep working on this.
+// TODO: Review, then final review, then leave for now but revisit.
 `}
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes it all the more crucial for artists to use indie rock's tools, which serve to keep every work bite-sized and uniform with others. And so these gatekeepers lose patience when a band gets creative and bends the rules.
 
-The problem goes deeper than that, however: Thanks to indie rock, today's young people are the first generation to see their gatekeepers as "good guys." But ironically… good guys are the *least* open to creative ideas! Why is this? Because no one questions their selections, so they learn that whatever they like is the final verdict.
-
-But studies show that we actually [*dislike* creativity](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275). New ideas make us uncomfortable, and because the good guys have such faith in their own judgment, they interpret this discomfort as a valid warning from their gut. This makes them *worse* at discovering creative works than the corporate ["bad guys,"](https://youtu.be/xP4wsURn3rw) who ignore their own discomfort because it's *all* new to them.
-
 ${'  ' || `
-// TODO: Make this about rule followers. Teachers credit well-behaved with being the most creative.
-
-Indie fans will simply *credit* their favorite artists with being the most creative— forever.
+// TODO: Mention being attuned to the scene.
 `}
 
-And these indie gatekeepers can never change, because they're now *obliged* to enforce the rules they've made. Much like the teachers in those studies, then, who failed to see that their most creative students were their *least* favorite, these gatekeepers will only ever see a rule-breaking band as troublesome— never creative. Which leads to the heart of the problem:
+It's worse than just that, however: Thanks to indie rock, today's young people are the first generation to see their gatekeepers as "good guys." But… good guys are the *least* open to creative ideas! After all, no one questions their judgment, so they learn to trust whatever they like— even as studies show that it's human nature to [*dislike* creativity](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275)!
+
+Truly creative ideas are unfamiliar, which makes us uncomfortable. Now, the corporate "[bad guys](https://youtu.be/xP4wsURn3rw)" just ignore this discomfort, since it's *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, this makes them the *worst* at discovering creative works!
+
+What's more, these indie gatekeepers can never change, because they're *obliged* to protect those who follow their rules. And so, like teachers who associate [obedience with creativity](https://behavioralscientist.org/the-bias-against-creativity) in the belief that desired traits naturally go together, these gatekeepers will simply *credit* a well-behaved indie artist with being the most creative. Which leads to the heart of the problem:
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public will never know.**
 
