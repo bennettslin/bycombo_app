@@ -52,14 +52,14 @@ ${'  ' || `
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes it all the more crucial for artists to use indie rock's tools, which serve to keep every work bite-sized and uniform with others. And so these gatekeepers lose patience when a band gets creative and bends the rules.
 
 ${'  ' || `
-// TODO: Mention being attuned to the scene.
+// TODO: Make sure it all flows together.
 `}
 
-It's worse than just that, however: Thanks to indie rock, today's young people are the first generation to see their gatekeepers as "good guys." But… good guys are the *least* open to creative ideas! After all, no one questions their judgment, so they learn to trust whatever they like— even as studies show that it's human nature to [*dislike* creativity](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275)!
+It's worse than just that, however: Thanks to the indie takeover of rock, today's young people are the first generation whose gatekeepers are the "good guys." But… good guys are the *least* open to creative ideas! After all, since no one questions their judgment, they've learned to trust whatever they like— and studies show that it's human nature to [*dislike* creativity](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275)!
 
-Truly creative ideas are unfamiliar, which makes us uncomfortable. Now, the corporate "[bad guys](https://youtu.be/xP4wsURn3rw)" just ignore this discomfort, since it's *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, this makes them the *worst* at discovering creative works!
+The unfamiliarity of a truly creative idea makes us uncomfortable. Now, in the past, a corporate "[bad guy](https://youtu.be/xP4wsURn3rw)" would ignore this discomfort, since it was *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, this makes them *worse* at recognizing creativity!
 
-What's more, these indie gatekeepers can never change, because they're *obliged* to protect those who follow their rules. And so, like teachers who associate [obedience with creativity](https://behavioralscientist.org/the-bias-against-creativity) in the belief that desired traits naturally go together, these gatekeepers will simply *credit* a well-behaved indie artist with being the most creative. Which leads to the heart of the problem:
+Worst of all, they can never change, because they're *obliged* to protect those who follow their rules. And so, like teachers who associate [obedience with creativity](https://behavioralscientist.org/the-bias-against-creativity) in the belief that these valued traits naturally go together, the indie gatekeepers will simply *credit* a well-behaved artist with being the most creative. Which leads to the heart of the problem:
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public will never know.**
 
