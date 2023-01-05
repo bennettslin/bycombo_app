@@ -46,20 +46,16 @@ So rock is just waiting for… a self-sacrificing martyr. But martyrs are the on
 ### Who gatekeeps the gatekeepers?
 
 ${'  ' || `
-// TODO: Review, then final review, then leave for now but revisit.
+// TODO: Leave alone for a while. Review, then final review, then leave for now but revisit. To many "and so"s?
 `}
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes it all the more crucial for artists to use indie rock's tools, which serve to keep every work bite-sized and uniform with others. And so these gatekeepers lose patience when a band gets creative and bends the rules.
 
-${'  ' || `
-// TODO: Make sure it all flows together.
-`}
+It's worse than that, however: Thanks to the indie takeover of rock, today's young people are the first generation who've only ever known gatekeepers to be the "good guys." These gatekeepers stay close to their local scenes, and so no one questions their judgment; whatever they like is accepted as the final verdict. But… it's human nature to [*dislike* creativity](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275)!
 
-It's worse than just that, however: Thanks to the indie takeover of rock, today's young people are the first generation whose gatekeepers are the "good guys." But… good guys are the *least* open to creative ideas! After all, since no one questions their judgment, they've learned to trust whatever they like— and studies show that it's human nature to [*dislike* creativity](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275)!
+Creative ideas are unfamiliar, and this makes us uncomfortable. Of course, the corporate "[bad guys](https://youtu.be/xP4wsURn3rw)" would just ignore this discomfort, since it was *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, this makes them *worse* at discovering creativity!
 
-The unfamiliarity of a truly creative idea makes us uncomfortable. Now, in the past, a corporate "[bad guy](https://youtu.be/xP4wsURn3rw)" would ignore this discomfort, since it was *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, this makes them *worse* at recognizing creativity!
-
-Worst of all, they can never change, because they're *obliged* to protect those who follow their rules. And so, like teachers who associate [obedience with creativity](https://behavioralscientist.org/the-bias-against-creativity) in the belief that these valued traits naturally go together, the indie gatekeepers will simply *credit* a well-behaved artist with being the most creative. Which leads to the heart of the problem:
+Moreover, these indie gatekeepers will never change, because they're *obliged* to stand behind those who follow their rules. And so, much like teachers who associate [obedience with creativity](https://behavioralscientist.org/the-bias-against-creativity)— in the faith that preferred traits naturally go together— they'll simply *credit* their well-behaved artists with being the most creative. Which leads to the heart of the problem:
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public will never know.**
 
@@ -67,7 +63,7 @@ Worst of all, they can never change, because they're *obliged* to protect those 
 
 But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry executives in genres that *never* went indie— like hip hop— are eager to jump in and lend their expertise.
 
-So plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative movement to willfully *raise* these barriers. Well, BYCombo has some great news!
+So plenty out there would love to hear a creative demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative movement to willfully *raise* these barriers. Well, BYCombo has some great news!
 
 **Interdependent bands can now restore the public's faith by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime.**
 

@@ -19,6 +19,18 @@ There's just one problem: Indie rock didn't just lock in a permanent system of a
 
 Okay, that's a mouthful! Let's break it down…
 
+**Why BYCombo?**
+
+History's greatest rock bands almost certainly had no better contemporaries who were completely unknown. Yet no one can reasonably make this claim about today's most acclaimed indie artists. Why does *no one* in indie rock go above and beyond? The answer lies in indie rock's decentralized nature.
+
+${'  ' || `
+// TODO: Find a better way to explain opportunity cost.
+`}
+
+When there are no A&R reps hoping to discover artists, it's an extreme advantage for artists to build a fanbase on their own, and also an extreme disadvantage not to. And there's no limit to how much time and energy to devote to this. Which means no indie artist will ever bother to do anything for which it's *not* an extreme disadvantage *not* to. For this reason, every song, every album in indie rock is just… good enough.
+
+The only way rock can ever be saved, then, is through a centralized initiative like BYCombo.
+
 **Why an anti-indie counterculture?**
 
 A counterculture is needed to protect dangerous ideas, yet we haven't had one for some time. Meanwhile, despite indie rock's good intentions, rock has gotten worse. But what if rock is worse… *because* of these good intentions? What if all this charitable support for indie *artists*… is actually bad for *art*? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
