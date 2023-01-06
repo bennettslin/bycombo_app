@@ -21,11 +21,21 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why BYCombo?**
 
-History's greatest rock bands and rappers almost certainly had no peers who were better than them, yet completely unknown. The same can't be said, however, about today's acclaimed indie artists. Why does *no one* in indie rock go above and beyond? The reason has to do with its decentralized nature.
+${'  ' || `
+// TODO: Review, and then final review.
 
-With no A&R reps trying to discover them, it's an advantage for artists to build a fanbase on their own— *and* it's a disadvantage *not* to. There's also no limit to how much this advantage can be boosted. So if an artist directs time and energy toward efforts for which there *isn't* any disadvantage *not* to, they'll fall *behind*. As such, everyone in indie rock is just… good enough.
+Explain better. Be more straightforward that, by definition, there's no disadvantage for not going above and beyond.
 
-There's only one lever to pull that can change this situation: We must look toward *centralized* initiatives like BYCombo.
+Past a certain quality in art, the smart thing for an artist to do is always to go back to building a fanbase.
+
+No surprise, then, that everyone in indie rock is just… good enough.
+`}
+
+History's greatest rock bands and rappers almost certainly had no peers who were better than them, yet unknown. However, the same can't be said about today's acclaimed indie artists, given that they *never* go above and beyond. Why don't they? The answer lies in indie rock's decentralized nature.
+
+It's not just an advantage for artists to build a fanbase on their own; without A&R reps trying to discover them, it's also a disadvantage *not* to. And there's no limit to how far this advantage can be boosted. So if an artist directs time and energy instead into efforts for which it *isn't* a disadvantage not to, they'll end up falling *behind*. As such, everyone in indie rock is just… good enough.
+
+How do we incentivize artists to once again go above and beyond? There's only one lever to pull here: We must look toward *centralized* initiatives like BYCombo.
 
 **Why an anti-indie counterculture?**
 
