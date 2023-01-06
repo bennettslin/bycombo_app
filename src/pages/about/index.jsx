@@ -21,15 +21,11 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why BYCombo?**
 
-History's greatest rock bands almost certainly had no better contemporaries who were completely unknown. Yet no one can reasonably make this claim about today's most acclaimed indie artists. Why does *no one* in indie rock go above and beyond? The answer lies in indie rock's decentralized nature.
+History's greatest rock bands and rappers almost certainly had no peers who were better than them, yet completely unknown. The same can't be said, however, about today's acclaimed indie artists. Why does *no one* in indie rock go above and beyond? The reason has to do with its decentralized nature.
 
-${'  ' || `
-// TODO: Find a better way to explain opportunity cost.
-`}
+With no A&R reps trying to discover them, it's an advantage for artists to build a fanbase on their own— *and* it's a disadvantage *not* to. There's also no limit to how much this advantage can be boosted. So if an artist directs time and energy toward efforts for which there *isn't* any disadvantage *not* to, they'll fall *behind*. As such, everyone in indie rock is just… good enough.
 
-When there are no A&R reps hoping to discover artists, it's an extreme advantage for artists to build a fanbase on their own, and also an extreme disadvantage not to. And there's no limit to how much time and energy to devote to this. Which means no indie artist will ever bother to do anything for which it's *not* an extreme disadvantage *not* to. For this reason, every song, every album in indie rock is just… good enough.
-
-The only way rock can ever be saved, then, is through a centralized initiative like BYCombo.
+There's only one lever to pull that can change this situation: We must look toward *centralized* initiatives like BYCombo.
 
 **Why an anti-indie counterculture?**
 
@@ -37,13 +33,13 @@ A counterculture is needed to protect dangerous ideas, yet we haven't had one fo
 
 **Why historical consequence?**
 
-Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the historical canon, because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted— and *this* is why people gripe that rock is getting worse.
+Critical acclaim can be inflated, which means it's a terrible barometer. What *can't* be hacked is the historical canon, because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted— and *this* is why people gripe that rock is getting worse.
 
 **Why assembled bands?**
 
 Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But once we ditch this notion? Then rock has only scratched the surface.
 
-What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain or Thom Yorke is a woman or minority who's currently struggling to find bandmates. What if they could ask to be judged free of unconscious bias?
+What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain or Thom Yorke is a woman or minority who's currently struggling to find bandmates. What if they could ask to be judged without unconscious bias?
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
