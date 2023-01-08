@@ -21,15 +21,11 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why BYCombo?**
 
-${'  ' || `
-// TODO: Review, and then final review.
-`}
+It's almost certainly the case that history's greatest rock bands had no peers who were better than them, yet remained unknown. But the same can't be said of today's acclaimed indie artists, who *never* go above and beyond. Why don't they? The answer lies in indie rock's decentralized nature.
 
-History's greatest rock bands and rappers almost certainly had no peers who were better than them yet remained unknown. But the same can't be said of today's acclaimed indie artists, who *never* go above and beyond. Why don't they? The answer lies in indie rock's decentralized nature.
+When artists build a fanbase on their own, the advantage is cumulative, as each fan brings in more fans. But not only that, without A&R reps working to discover them, it's also a disadvantage *not* to. Meanwhile, going above and beyond yields marginal returns for massive effort, yet it *isn't* a disadvantage not to— by definition. To do so, then, means ending up the biggest loser.
 
-When artists build a fanbase on their own, the advantage is cumulative, as each fan brings in more fans. But not only that, without A&R reps working to discover them, it's also a disadvantage *not* to. Meanwhile, going above and beyond yields marginal returns for massive effort, yet it *isn't* a disadvantage not to— by definition. So any band who does so ends up the biggest loser.
-
-To save rock, then, we must fix this perverse incentive. But how? There's only one lever to pull: We must look toward *centralized* initiatives like BYCombo.
+How do we fix this perverse incentive? There's only one lever to pull: We must look toward *centralized* initiatives like BYCombo.
 
 **Why an anti-indie counterculture?**
 
@@ -57,7 +53,7 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie labels don't need to put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best hope is to join a counterculture that *questions* indie rock's good intentions— and a public registry is where sympathetic fans and potential partners will know to find them.
+It takes time to review an ambitious demo— but the indie labels won't ever put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best hope is to join a counterculture that *questions* indie rock's good intentions— and a public registry is where sympathetic fans and potential partners will know to find them.
 
 **Why serious chunks of lifetime?**
 
