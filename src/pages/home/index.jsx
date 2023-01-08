@@ -35,6 +35,10 @@ But how about a truce? Since rules are made to be followed, interdependent bands
 
 ### Return of the rock martyrs
 
+${'  ' || `
+// TODO: Irreversible?
+`}
+
 The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to need the other. Indie artists now build a fanbase on their own, to show they can walk away from talks with a label. This leaves them with less time and energy to make art, of course— but their fans charitably support them to cover this weakness.
 
 Well, then, can't an interdependent band just promise to make the best art instead? Sadly, no. In a world of charitable support, *all* art is subjective; and in a world of mutual distrust, *nothing* subjective can be a deciding factor. So, in turn, indie labels now just weigh the objective size of an artist's fanbase, rather than their talents. What a mess! This leaves only one solution:
@@ -53,23 +57,27 @@ Third paragraph can be, "This makes them worse at recognizing the creativity of 
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes it all the more crucial for artists to use indie rock's tools, which serve to keep every work bite-sized and uniform with others. And so these gatekeepers lose patience when a band gets creative and bends the rules.
 
-It's worse than that, however: Because these indie gatekeepers stay close to the underground scene, they're understood to be the "good guys." Everyone trusts their judgment, so whatever they like is accepted as the final verdict. But… studies show that it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+It's worse than that, however: Because these indie gatekeepers stay close to the underground scenes, they're treated as the "good guys." Everyone trusts their judgment, so whatever they like is accepted as the final verdict. But… studies show that it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
-Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" would ignore this discomfort, since it was *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
+Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the "good guys" pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
 ${'  ' || `
 // TODO: Gatekeepers are professionally obligated to enforce their own rules. Get rid of desired traits part.
 
 The same defense mechanism that allows us to dismiss creativity also allows us to see it where it isn't.
+
+Make final statement about charitable support. Or simply, the ones who make the rules can never see the creativity of a rule breaker.
+
+When you're a rule maker, you *must* associate obedience with creativity.
 `}
 
-And tragically, they don't notice anything amiss— which means no one else does either. Like the teachers in those studies, who associate obedience with creativity because desired traits surely go together, these indie gatekeepers simply *credit* the artists who follow their rules with being the most creative. Which leads to the heart of the problem:
+But remarkably, they'll never notice anything amiss. Like the teachers in those studies, the indie gatekeepers are required to enforce their own rules. And so they'll simply *credit* the ones who are well behaved with being the most creative. Which leads to the heart of the problem:
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public will never know.**
 
 ### A hundred *Yearling's Bobtail*s
 
-But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry executives in genres that *never* went indie— like hip hop— are eager to jump in and lend their expertise.
+But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry executives in genres that *never* went indie— like hip hop— can jump in and lend their expertise.
 
 So plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative movement to willfully *raise* these barriers. Well, BYCombo has some great news!
 
