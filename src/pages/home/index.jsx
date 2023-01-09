@@ -57,7 +57,7 @@ Third paragraph can be, "This makes them worse at recognizing the creativity of 
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes it all the more crucial for artists to use indie rock's tools, which serve to keep every work bite-sized and uniform with others. And so these gatekeepers lose patience when a band gets creative and bends the rules.
 
-It's worse than that, however: Because these indie gatekeepers stay close to the underground scenes, they're treated as the "good guys." Everyone trusts their judgment, so whatever they like is accepted as the final verdict. But… studies show that it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+It's worse than that, however: Because the indie gatekeepers stay close to the underground scenes, they're treated as the "good guys." Everyone trusts their judgment, so whatever they like is accepted as the final verdict. But… studies show that it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the "good guys" pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -72,6 +72,8 @@ When you're a rule maker, you *must* associate obedience with creativity.
 `}
 
 But remarkably, they'll never notice anything amiss. Like the teachers in those studies, the indie gatekeepers are required to enforce their own rules. And so they'll simply *credit* the ones who are well behaved with being the most creative. Which leads to the heart of the problem:
+
+**Indie rock can never see the rules being broken by the next generation of creative artists are their own.**
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public will never know.**
 
