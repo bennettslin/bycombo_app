@@ -74,7 +74,7 @@ Make final statement about charitable support. Or simply, the ones who make the 
 
 When you're a rule maker, you *must* associate obedience with creativity.
 `}
-Worst of all, the indie gatekeepers will never recognize this flaw in themselves, because they're obligated to enforce their own rules. Much like the teachers in those studies, then, they'll simply *credit* those who are most well-behaved with being the most creative. And since all art is subjective in indie rock, no one notices. Which leads to the heart of the problem:
+Worst of all, the indie gatekeepers *can't* ever notice this flaw in themselves, because they're *obligated* to enforce their own rules. Much like the teachers in those studies, then, they'll simply *credit* those who are most well-behaved with being the most creative. And since all art is subjective in indie rock, no one else notices either. Which leads to the heart of the problem:
 
 **Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public will never know.**
 
