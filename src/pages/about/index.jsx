@@ -25,7 +25,7 @@ It's all but certain that history's greatest rock bands had no peers who were be
 
 The answer lies in indie rock's decentralized nature, which forces artists to build a fanbase on their own. When they do so, the advantage is cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there working to discover them, it's a huge disadvantage *not* to.
 
-Going above and beyond, on the other hand, yields marginal returns for massive effort— yet it *isn't* a disadvantage not to, by definition. So any band who does so, in the hope to remain peerless, will end up the biggest loser. How can rock fix this perverse incentive? There's only one lever to pull: We must turn to *centralized* initiatives like BYCombo.
+Going above and beyond, on the other hand, yields marginal returns for massive effort— yet it *isn't* a disadvantage not to, by definition. So any band who does so, in the hope to remain peerless, will end up the biggest loser. How does rock fix this perverse incentive? There's only one lever to pull: We must turn to *centralized* initiatives like BYCombo.
 
 **Why an anti-indie counterculture?**
 
@@ -39,7 +39,7 @@ Critical acclaim can be inflated, which means it's a terrible barometer. What *c
 
 Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But once we ditch this notion? Then rock has only scratched the surface.
 
-What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain or Thom Yorke is a woman or minority who's currently struggling to find bandmates. What if they could ask to be judged without unconscious bias?
+What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain or Thom Yorke is a woman or minority who's struggling right now to find bandmates. What if they could ask to be judged without unconscious bias?
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
@@ -73,9 +73,9 @@ Yet few of us care that a past artist built a fanbase on their own, while nearly
 
 ### Revelations require a single hat
 
-Indie rock requires its artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talent. Yet the best works of art are even *better* than the artists who make them. Why is this?
+Indie rock requires its artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talents. Yet the best works of art are even *better* than the artists who make them. Why is this?
 
-Because they *also* benefit from insightful revelations that stem from the unconscious and can't be summoned at will. These revelations emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does *BYCombo*.
+Because they *also* benefit from insightful revelations that stem from the unconscious and can't be summoned at will. These revelations emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
 
 ### The middle and the masses join *last*
 
