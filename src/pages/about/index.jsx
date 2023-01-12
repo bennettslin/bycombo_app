@@ -23,9 +23,9 @@ Okay, that's a mouthful! Let's break it down…
 
 It's all but certain that history's greatest rock bands had no peers who were better than them, yet somehow remained unknown. But the same can't be said of today's acclaimed indie artists, who *never* go above and beyond. Why don't they?
 
-The answer lies in indie rock's decentralized nature, which forces artists to build a fanbase on their own. When they do so, the advantage is cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there working to discover them, it's a huge disadvantage *not* to.
+The answer lies in indie rock's decentralized nature, which requires artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there working to discover them, it's a huge disadvantage *not* to.
 
-Going above and beyond, on the other hand, yields marginal returns for massive effort— yet it *isn't* a disadvantage not to, by definition. So any band who does so, in the hope to remain peerless, will end up the biggest loser. How does rock fix this perverse incentive? There's only one lever to pull: We must turn to *centralized* initiatives like BYCombo.
+Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. How does rock fix this perverse incentive? There's only one lever to pull: We must turn to *centralized* initiatives like BYCombo.
 
 **Why an anti-indie counterculture?**
 
