@@ -59,23 +59,29 @@ Gatekeepers can't recognize this human failing, because they're loyal to their r
 Third paragraph can be, "This makes them worse at recognizing the creativity of rule breakers."
 `}
 
-Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes it all the more crucial for artists to use indie rock's tools, which serve to keep every work bite-sized and uniform with others. And so these gatekeepers lose patience when a band gets creative and bends the rules.
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others. And so they lose patience when a band gets creative and breaks the rules.
 
-It's worse than that, however: Because these indie gatekeepers came up from their local scenes, they're treated as the "good guys." Everyone trusts their judgment, so whatever they like is accepted as the final verdict. But… studies show that it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+It's worse than just that, however: Because these indie gatekeepers came up from their local scenes, they're seen as the "good guys." Everyone trusts their judgment, so whatever they like is accepted as the final verdict. But… studies show that it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
 ${'  ' || `
 // TODO: Make this about locking in a permanent system of administration. A permanent status quo, where revolution isn't possible.
+
+Because indie rock sees its rules as morally perfect, it
 `}
 
-But worst of all, fans don't revolt against the good guys; they defend them— forever. Which leads to the heart of the problem:
+Worst of all, if the indie gatekeepers are the good guys, then *anyone* who revolts is a bad guy— including the next generation of young people, whom we should all hope will try! And this is the heart of the problem:
 
-**Indie rock *doesn't* see its rules as an unfortunate necessity; to the contrary, they're its celebrated *purpose*. As such, it will shut out any band trying to revive interdependence— and the public will never know.**
+**Indie rock can never coexist with competing movements, because it's not an artistic *genre*, but a moral *ideology*. As such, it will shut out any band trying to revive interdependence— and the public will never know.**
 
 ### A hundred *Yearling's Bobtail*s
 
-But the situation isn't hopeless: Other fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry executives in genres that *never* went indie— like hip hop— can jump in and lend their expertise.
+${'  ' || `
+// TODO: Mention young people again.
+`}
+
+But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry executives in genres that *never* went indie— like hip hop— can jump in and lend their expertise.
 
 So plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative movement to willfully *raise* these barriers. Well, BYCombo has some great news!
 
