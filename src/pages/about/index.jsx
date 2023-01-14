@@ -23,7 +23,7 @@ Okay, that's a mouthful! Let's break it down…
 
 It's all but certain that history's greatest rock bands had no peers who were better than them, yet somehow remained unknown. But the same can't be said of today's acclaimed indie artists, who *never* go above and beyond. Why don't they?
 
-The answer lies in indie rock's decentralized nature, which requires artists to build a fanbase on their own. Happily enough, their returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there trying to discover them, it's a disadvantage *not* to.
+The answer lies in indie rock's decentralized nature, which requires artists to build a fanbase on their own. Happily enough, their returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there trying to discover them, it's a huge disadvantage *not* to.
 
 Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. How does rock fix this perverse incentive? There's only one lever to pull: We must turn to *centralized* initiatives like BYCombo.
 
@@ -33,7 +33,7 @@ A counterculture is needed to protect dangerous ideas, yet we haven't had one fo
 
 **Why historical consequence?**
 
-Critical acclaim can be inflated, which means it's a terrible barometer. What *can't* be hacked is the historical canon, because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted— and *this* is why people gripe that rock is getting worse.
+Critical acclaim can be inflated, which makes it a terrible barometer. What *can't* be hacked is the historical canon, because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted— and *this* is why people gripe that rock is getting worse.
 
 **Why assembled bands?**
 

@@ -52,14 +52,14 @@ It's worse than just that, however: Because these indie gatekeepers came up from
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
 ${'  ' || `
-// TODO: Make this about locking in a permanent system of administration. A permanent status quo, where revolution isn't possible.
-
-Because indie rock sees its rules as morally perfect, it
+// TODO: Indie rock is the first rock ideology that must suppress all future revolutions. for which society had no immunity. We don't know how to guard against it because it's never before existed. Make bold statement about locking into place.
 `}
 
-But worst of all, as the good guys, the indie gatekeepers are morally obligated to lock in a permanent system of administration, and then suppress any future revolution that might undo their work. And this is the heart of the problem:
+But if rule breakers were merely seen as uncreative troublemakers, then they could simply seek out other outlets. The real problem is that the indie gatekeepers are the good guys, which makes every rule breaker a bad guy. It becomes a *moral* imperative to shut them out. And this is the heart of the problem:
 
-**Indie rock isn't a genre that can coexist with others; it's an ideology that must *suppress* all future revolutions. As such, it will shut out any band trying to revive interdependence— and the public will never know.**
+In other words:
+
+**Indie rock is the first rock ideology that actively locks into place a system of administration. As such, it will shut out any band hoping to launch the interdependence revolution— and the public will never know.**
 
 ### A hundred *Yearling's Bobtail*s
 
