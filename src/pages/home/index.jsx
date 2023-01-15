@@ -29,6 +29,10 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com). 
 
 By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete unless they're indie as well. In turn, this means a label can stay competitive only by signing indie artists. So here's my dilemma:
 
+${'  ' || `
+// TODO: Make this one less about intent: This sets them back, since every artist is expected to benefit from following indie rock's rules.
+`}
+
 **In trying to make the best art, interdependent bands *need* to reject indie rock's tools. They get punished for this, however, since *every* artist today is expected to be indie— and thus required to follow indie rock's rules.**
 
 But how about a truce? Since rules are made to be followed, interdependent bands can't complain about being penalized. Yet breaking the rules is how the most creative works in history get made! So let's not shut out these bands either.
@@ -52,12 +56,12 @@ It's worse than just that, however: Because these indie gatekeepers came up from
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
 ${'  ' || `
-// TODO: Indie rock is the first rock ideology that must suppress all future revolutions. for which society had no immunity. We don't know how to guard against it because it's never before existed. Make bold statement about locking into place.
+// TODO: Make it clear that rule breakers are the ones rebelling.
 `}
 
-Now, if rule breakers were merely seen as incompetent troublemakers, then they could simply turn to other outlets. But they're rebelling against the good guys— which makes them bad guys, just like those corporate stooges! And so it's a *moral* imperative for the indie gatekeepers to shut them out of rock entirely. Which leads to the heart of the problem:
+But worst of all, anyone who rebels against the good guys is naturally a bad guy as well! So it becomes a moral *duty* for the indie gatekeepers to shut out any rule breakers from rock *entirely*. And this is the heart of the problem:
 
-**Indie rock isn't an artistic genre, but a moral ideology— the first of its kind in rock. As such, it's set up to lock in a permanent system of administration for *everyone*.**
+**Indie rock isn't a genre but an ideology, whose moral perfection *obliges* its rules to be locked in place forever. As such, it's the first establishment in rock history to actively *suppress* all future revolutions.**
 
 ### A hundred *Yearling's Bobtail*s
 
