@@ -55,11 +55,9 @@ ${'  ' || `
 // TODO: Indie rock is the first rock ideology that must suppress all future revolutions. for which society had no immunity. We don't know how to guard against it because it's never before existed. Make bold statement about locking into place.
 `}
 
-But if rule breakers were merely seen as uncreative troublemakers, then they could simply seek out other outlets. The real problem is that the indie gatekeepers are the good guys, which makes every rule breaker a bad guy. It becomes a *moral* imperative to shut them out. And this is the heart of the problem:
+Now, if rule breakers were merely seen as incompetent troublemakers, then they could simply turn to other outlets. But they're rebelling against the good guys— which makes them bad guys, just like those corporate stooges! And so it's a *moral* imperative for the indie gatekeepers to shut them out of rock entirely. Which leads to the heart of the problem:
 
-In other words:
-
-**Indie rock is the first rock ideology that actively locks into place a system of administration. As such, it will shut out any band hoping to launch the interdependence revolution— and the public will never know.**
+**Indie rock isn't an artistic genre, but a moral ideology— the first of its kind in rock. As such, it's set up to lock in a permanent system of administration for *everyone*.**
 
 ### A hundred *Yearling's Bobtail*s
 
