@@ -63,13 +63,11 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corpora
 
 ${'  ' || `
 // TODO: Just review these two paragraphs.
-
-Maybe not important to say it's the first establishment to do so.
 `}
 
-But worst of all, any band who breaks the rules is rebelling against the good guys— which makes them a bad guy as well! So the indie gatekeepers see it as a moral *duty* to shut them out. And this is the heart of the problem:
+But worst of all, any band who breaks the rules is rebelling against the good guys— which makes them a bad guy as well! As such, the indie gatekeepers see it as a moral *duty* to shut them out. This, then, is the heart of the problem:
 
-**A morally perfect ideology is *obliged* to lock its rules in place. As such, indie rock is the first establishment in rock history that must *silence* any future revolution— *especially* one rooted in interdependence.**
+**Any morally perfect ideology is *obliged* to lock its rules in place. And so indie rock has become the first establishment in rock history to *silence* all future revolutions— *especially* those rooted in interdependence.**
 
 ### A hundred *Yearling's Bobtail*s
 
