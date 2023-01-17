@@ -62,14 +62,18 @@ It's worse than just that, however: Because these indie gatekeepers came up from
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
 ${'  ' || `
-// TODO: Just review these two paragraphs.
+// TODO: One more final review.
 `}
 
-But worst of all, any band who breaks the rules is rebelling against the good guys— which makes them a bad guy as well! As such, the indie gatekeepers see it as a moral *duty* to shut them out. This, then, is the heart of the problem:
+But worst of all, any band who breaks the good guys' rules is necessarily a bad guy as well! As such, the indie gatekeepers see it as a moral *duty* to shut them out. This, then, is the heart of the problem:
 
-**Any morally perfect ideology is *obliged* to lock its rules in place. And so indie rock has become the first establishment in rock history to *silence* all future revolutions— *especially* those rooted in interdependence.**
+**A morally perfect ideology is *obliged* to lock its rules in place. And so, unlike previous establishments in rock history, indie rock will *silence* all future revolutions— *especially* those that seek to revive interdependence.**
 
 ### A hundred *Yearling's Bobtail*s
+
+${'  ' || `
+// TODO: Don't mention reviving interdependence so often.
+`}
 
 But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry executives in genres that *never* went indie— like hip hop— can jump in and lend their expertise.
 
