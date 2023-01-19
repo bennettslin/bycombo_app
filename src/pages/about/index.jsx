@@ -49,7 +49,7 @@ To make consequential art, a band must develop exceptional strengths. But this i
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists made *demos*, and to compete with them means doing likewise.
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists put out *demos*, and to compete with them means doing likewise.
 
 **Why a public registry?**
 

@@ -31,7 +31,7 @@ By *not* using indie rock's tools, however, I'm seen as lazy and incompetent— 
 
 **To make the best art, a band *must* be interdependent. This sets them back, however, since *every* artist today is expected to follow indie rock's rules— and thus, to reap the benefits of using its tools.**
 
-Now, rule makers and rule followers may see poetic justice here. Rules exist for a reason, after all, so rule breakers can't complain about being penalized. Yet breaking the rules is what it truly means to be creative! So let's not shut them out either.
+Now, rule makers and rule followers may see some poetic justice here. Rules exist for a reason, after all, so rule breakers really can't complain about being penalized. Yet breaking the rules is what it truly means to be creative! So let's not shut them out either.
 
 ### Return of the rock martyrs
 
