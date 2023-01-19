@@ -73,7 +73,7 @@ Yet few of us care that a past artist built a fanbase on their own, while nearly
 
 ### Revelations require a single hat
 
-Indie rock requires its artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talents. Yet the best works of art are even *better* than the artists who make them. Why is this?
+Indie rock requires its artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talents. Yet the best works of art are even *better* than the artists who make them. Why?
 
 Because they *also* benefit from insightful revelations that stem from the unconscious and can't be summoned at will. These revelations emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
 
@@ -95,7 +95,7 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
-Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an easy way for *rivals* to earn respect.
+Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an easy path for *rivals* to earn respect.
 
 Don't be fooled, either, by indie rock's belated embrace of minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. No, the best movements for minorities are the ones *they* start *themselves*, that reflect *their* circumstances— and thus reward what can't be bought: originality and talent, born from an outsider's hunger.
 
