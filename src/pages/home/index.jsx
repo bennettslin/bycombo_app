@@ -47,6 +47,10 @@ So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones wh
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others.
 
+${'  ' || `
+// TODO: Be more clear with sentence about "whatever they like."
+`}
+
 It's worse than just that, however: Because these indie gatekeepers stay close to their local scenes, they're seen as the "good guys." So whatever they like is accepted as the final verdict. But… studies show that it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
