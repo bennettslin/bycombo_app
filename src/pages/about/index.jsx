@@ -9,7 +9,7 @@ const Component = () => (
 
 By the 90s, the major labels no longer invested in their artists. They simply counted on a few superstars to break out, like Nirvana and Radiohead, and then the rest were written off as failed bets. But the indie labels held to fair administrative standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
 There's just one problem: Indie rock didn't just lock in a permanent system of administration, assured of its moral righteousness— it's the *first* ideology in rock *ever* to do so. So how do we revolt, when there's no historical precedent to teach us how— or even to assure us that we *can*? Luckily, I've also spent half my life figuring out a solution:
 
