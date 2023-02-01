@@ -103,6 +103,12 @@ Hip hop was the last case in point, and BYCombo— which I founded to serve *all
 
 ### A artists help A artists, B artists help C artists
 
+${'  ' || `
+// TODO: Second paragraph is about being loyal to the system.
+
+Third paragraph is about not wanting its system of advancement to be better at cultivating genuine talents for anyone else.
+`}
+
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
 One reason is that, like most credentials, paid dues must be based on known conventions; invention doesn't count. So even when a convention no longer makes sense— like touring to build a fanbase, while the rest of society moves further online— no one around will invent a better solution.
