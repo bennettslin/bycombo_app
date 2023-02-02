@@ -103,17 +103,11 @@ Hip hop was the last case in point, and BYCombo— which I founded to serve *all
 
 ### A artists help A artists, B artists help C artists
 
-${'  ' || `
-// TODO: Second paragraph is about being loyal to the system.
-
-Third paragraph is about not wanting its system of advancement to be better at cultivating genuine talents for anyone else.
-`}
-
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-One reason is that, like most credentials, paid dues must be based on known conventions; invention doesn't count. So even when a convention no longer makes sense— like touring to build a fanbase, while the rest of society moves further online— no one around will invent a better solution.
+It's because paid dues are worthless outside the one system that honors them. So those who've paid their dues can never let the system change, and they'll silence any calls for reform.
 
-But the main reason is this: Once someone squanders their potential to build up credentials rather than actual talents, they'll never feel secure enough to let others surpass them. So the only newcomers they'll accept are the ones squandering even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
+Not only that, once someone squanders their potential to pay dues rather than build up exceptional talents, they'll never feel secure enough to let others surpass them. So the only newcomers they can accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help up-and-coming bands who might surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
