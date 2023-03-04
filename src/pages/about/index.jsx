@@ -104,14 +104,14 @@ Hip hop was the last case in point, and BYCombo— which I founded to serve *all
 ### A artists help A artists, B artists help C artists
 
 ${'  ' || `
-// TODO: Do final review, and then publish.
+// TODO: Do final review, and then publish. Make point about credentials.
 `}
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-The reason is simple: Since paid dues are worthless outside the one system that honors them, anyone who pays them will now be loyal to the system and see no need for reform.
+The reason is simple: Paid dues are worthless outside the one system that honors them, which means all those who pay them will be loyal to the system and see no need for reform.
 
-Not only that, having squandered their potential to pay dues rather than build up exceptional talents, they can never feel secure enough to let others surpass them. So the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
+Not only that, having squandered their potential to build up credentials rather than actual talents, they can never feel secure enough to let others surpass them. So the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help up-and-coming bands who might surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, having never paid indie rock's dues myself, I'm just the first one who's secure enough to *want* it.
 
