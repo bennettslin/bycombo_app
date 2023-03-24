@@ -107,7 +107,7 @@ For many years, I worked days as a coder and nights on my audio webcomic. When I
 
 It's because paid dues are worthless outside the one system that honors them. As a result, those who pay their dues stay loyal to the system as it is.
 
-On top of this, they can never feel secure enough to let others surpass them, having squandered their potential to build up symbolic credentials rather than actual talents. So the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
+On top of this, having now squandered their potential to build up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. So the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help up-and-coming bands who might surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
