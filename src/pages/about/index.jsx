@@ -113,17 +113,17 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### Art needs the blood of martyrs
 
-"Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its Nirvana. Why is that?
+"Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is *this* generation's Nirvana. Of course, we can't— because this generation never got its Nirvana. Why is that?
 
 The reason is that we really only pine for past artists who self-sacrificed for art's sake. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand to be fairly compensated; they don't self-sacrifice for *anyone*, because to do so is a classic sign of being exploited.
 
 But the problems with this current Age of Empowerment go beyond its failure to give us the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how exactly are *they* the underdogs?
 
-But worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the very *end*. If rock is to be saved, then, we *need* to make way for selfless bands who'll self-sacrifice for art's sake. In other words, after Empowerment… comes the Age of Martyrdom.
+Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the very *end*. So to save rock, we need to make way for selfless bands who'll sacrifice themselves for art's sake. After Empowerment, in other words… comes the Age of Martyrdom.
 
 Let's never go back to the days of musicians dying young, of course. But thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* of them, each one sacrificing a serious chunk of lifetime to advance the art form?
 
-Luckily, you don't need to ask, "Where's *our* BYCombo?" We're here for you now!
+Luckily, you don't need to ask, "Where's our BYCombo?" We're here for you *now*!
     `,
         }}
     />
