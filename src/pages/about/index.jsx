@@ -77,11 +77,11 @@ Indie rock requires its artists to wear several hats: the influencer hat, the pu
 
 Because they *also* benefit from insightful revelations that stem from the unconscious and can't be summoned at will. These revelations emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
 
-### The middle and the masses join *last*
+### Middle managers join the revolution *last*
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom, who have nothing to lose. The ones in the middle, by contrast, are the most risk averse. And which business partners make up this risk-averse middle in *rock*? The indie labels.
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk averse. And who are these risk-averse middle managers in *rock*? The indie labels.
 
-Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to give the masses what they already want. But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
+Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to give the masses what they [already want](https://www.goodreads.com/quotes/988332). But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is key to winning over the masses. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps them reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
 
