@@ -23,7 +23,7 @@ Okay, that's a mouthful! Let's break it down…
 
 It's all but certain that history's greatest rock bands had no peers who were better than them, yet somehow remained unknown. But the same can't be said of today's acclaimed indie artists, who *never* go above and beyond. Why don't they?
 
-The answer lies in indie rock's decentralized nature, which requires artists to build a fanbase on their own. Happily enough, their returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there trying to discover them, it's a huge disadvantage *not* to.
+The answer lies in indie rock's decentralized nature, which requires artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to.
 
 Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. How does rock fix this perverse incentive? There's only one lever to pull: We must turn to *centralized* initiatives like BYCombo.
 
@@ -41,7 +41,7 @@ Has rock explored all the ways a band can come together? It might seem so— ass
 
 What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain or Thom Yorke is a woman or minority who's struggling right now to find bandmates. What if they could ask to be judged without unconscious bias?
 
-With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
+With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed are centralized initiatives like BYCombo to help them come together.
 
 **Why interdependence?**
 
@@ -81,9 +81,9 @@ Because they *also* benefit from insightful revelations that stem from the uncon
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk averse. And who are these risk-averse middle managers in *rock*? The indie labels.
 
-Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to give the masses what they [already want](https://www.goodreads.com/quotes/988332). But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution gets nipped in the bud, because the masses *never* ask for revolutionary change on their own.
+Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to give the people what they [already want](https://www.goodreads.com/quotes/988332). But this creates an echo chamber— the same kind that makes streaming algorithms so detrimental to art. Even worse, every revolution gets nipped in the bud, because the people *never* ask for revolutionary change on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is key to winning over the masses. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps them reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is key to winning over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps them reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
 
 ### Competitive self-reliance favors privilege
 
