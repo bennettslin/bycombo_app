@@ -35,11 +35,11 @@ Now, rule makers and rule followers may see poetic justice here. Rules exist for
 
 ### Return of the rock martyrs
 
-The thing is, rock was interdependent once. But as trust eroded, each side took unfortunate yet necessary steps not to need the other. Indie artists now build a fanbase on their own, to show they can walk away from talks with a label. This leaves them with less time and energy to make art, of course— but their fans charitably support them to cover this weakness.
+The thing is, rock was interdependent once. But as trust eroded, each side took steps not to need the other. Indie artists now build a fanbase on their own, to show they can walk away from talks with a label. This leaves them with less time and energy to make art, of course— but their fans charitably support them to cover this weakness.
 
-Well, then, can't an interdependent band just promise to make the best art instead? Sadly, no. In a world of charitable support, *all* art is subjective; and in a world of mutual distrust, *nothing* subjective can be a deciding factor. So, in turn, indie labels now just weigh the objective size of an artist's fanbase, rather than their talents. What a mess! This leaves only one solution:
+Well, then, can't an interdependent band just promise to make the best art instead? Sadly, no. In a world of charitable support, *all* art is subjective; and in a world of mutual distrust, *nothing* subjective can be a deciding factor. So, in turn, indie labels now judge an artist by the objective size of their fanbase, rather than on their talents. What a mess! This leaves only one solution:
 
-**To revive interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form and couldn't have been made for *any* less effort.**
+**To revive interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and that couldn't have been made with *any* less effort.**
 
 So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
 
@@ -53,13 +53,13 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corpora
 
 But worst of all, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock is here to shut out *all* the bad guys! So this is the heart of the problem:
 
-**A morally perfect ideology is *obliged* to lock its rules in place. As such, indie rock can *never* allow the next generation to start a revolution of their own— *especially* if what they want is interdependence.**
+**A morally perfect ideology is *obliged* to lock its rules in place. As such, indie rock can *never* allow the next generation to start a revolution of their own— *especially* if it's rooted in interdependence.**
 
 ### A hundred *Yearling's Bobtail*s
 
-But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market. And industry executives in genres that *never* went indie— like hip hop— can jump in and lend their expertise.
+But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market.
 
-So, plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist in rock still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative counterculture to willfully *raise* these barriers. Well, BYCombo has some great news!
+So, plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative counterculture to willfully *raise* these barriers. Well, BYCombo has great news!
 
 **Interdependent bands can now restore the public's faith by paying a steep *cost* of entry. To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime.**
 
