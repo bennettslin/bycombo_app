@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The problem with indie rock
 
-By the 90s, the major labels no longer invested in their artists. They simply counted on a few superstars to break out, like Nirvana and Radiohead, and then the rest were written off as failed bets. But the indie labels held to fair administrative standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
+By the 90s, the major labels no longer invested in their artists. They simply counted on a few superstars to break out, like Nirvana and Radiohead; the rest were then written off as failed bets. But the indie labels held to fair standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -23,7 +23,7 @@ Okay, that's a mouthful! Let's break it down…
 
 It's all but certain that history's greatest rock bands had no peers who were better than them, yet somehow remained unknown. But the same can't be said of today's acclaimed indie artists, who *never* go above and beyond. Why don't they?
 
-The answer lies in indie rock's decentralized nature, which requires artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to.
+The answer lies in indie rock's decentralized nature, which requires artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
 Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. How does rock fix this perverse incentive? There's only one lever to pull: We must turn to *centralized* initiatives like BYCombo.
 
@@ -37,7 +37,7 @@ Critical acclaim can be inflated, which makes it a terrible barometer. What *can
 
 **Why assembled bands?**
 
-Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But once we ditch this notion? Then rock has only scratched the surface.
+Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But once we ditch this notion? Then rock has barely scratched the surface.
 
 What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain or Thom Yorke is a woman or minority who's struggling right now to find bandmates. What if they could ask to be judged without unconscious bias?
 
@@ -53,7 +53,7 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie labels won't ever put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best hope is to join a counterculture that *questions* indie rock's good intentions— and a public registry is where sympathetic fans and potential business partners will know to find them.
+It takes time to review an ambitious demo— but the indie labels won't ever put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best hope is to join a counterculture that *questions* indie rock's good intentions— and a public registry is where sympathetic fans and potential partners will know to find them.
 
 **Why serious chunks of lifetime?**
 
@@ -87,7 +87,7 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 
 ### Competitive self-reliance favors privilege
 
-Indie rock encourages self-reliance by empowering artists to do the middleman's job for themselves. But if the work is really that simple, then any wealthy artist can just pay *others* to do it— including, ironically, former middlemen! So indie rock has become a playground for the privileged, leading to today's disillusionment. How did this happen?
+Indie rock promotes self-reliance by empowering artists to do the middleman's job for themselves. But if the work is that simple, then those with wealth can just pay *others* to do it— and, well, who better to hire than a former middleman?! Ironically, then, indie rock has done little more than shift the advantage toward the privileged. How did this happen?
 
 The problem is that indie rock enjoys the goodwill generated by artistic movements of *cooperative* self-reliance, like the [Maker Faire](https://makerfaire.com), that are united by love of the *craft*. But indie rock is really about *competitive* self-reliance, like libertarianism in politics; it's grounded in excitement for the *hustle*. And nothing makes the hustle easier— and thus more exciting— than privilege.
 
@@ -99,7 +99,7 @@ Who foresaw indie rock's ironic endgame? Minorities did— which is why they've 
 
 Don't be fooled, either, by indie rock's belated embrace of minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. No, the best movements for minorities are the ones *they* start *themselves*, that reflect *their* circumstances— and thus reward what can't be bought: originality and talent, born from an outsider's hunger.
 
-Hip hop was the last case in point, and BYCombo— which I founded to serve *all* disadvantaged groups— will be the next. As a minority myself, I know that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
+Hip hop is the latest case in point, and BYCombo— which I founded to serve *all* disadvantaged groups— will be the next. As a minority myself, I know that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
 ### A artists help A artists, B artists help C artists
 
