@@ -53,21 +53,21 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corpora
 
 But worst of all, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock is here to shut out *all* the bad guys! So this is the heart of the problem:
 
-**A morally perfect ideology is *obliged* to lock its rules in place forever. As such, indie rock can *never* allow the next generation to start a revolution of their own— *especially* if their aim is to revive interdependence.**
+**A morally perfect ideology is *obliged* to lock its rules in place. As such, indie rock can *never* allow the next generation to start a revolution of their own.**
 
 ### A hundred *Yearling's Bobtail*s
 
-But the situation isn't hopeless: Some fans *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because budding entrepreneurs see our discontent as their cue to disrupt the rock market.
+But the situation isn't hopeless: Some young people now *agree* with me that indie rock has made music worse! This discontent is the first step toward reviving interdependence, because budding entrepreneurs see it as their cue to disrupt the rock market.
 
 ${'  ' || `
 // TODO: Misses a beat here, I think.
 `}
 
-So, plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The final step toward reviving interdependence, then, is for an alternative counterculture to willfully *raise* these barriers. Well, BYCombo has great news!
+So, plenty out there would love to hear a demo that advances the art form— they've just lost faith that any artist still *has* such ambitions, given how far indie rock has lowered the barriers to entry. The next step, then, is for an alternative counterculture to willfully *raise* these barriers. Well, BYCombo has great news!
 
-**Interdependent bands can now restore the public's faith by paying a steep *cost* of entry. To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime.**
+**Interdependent bands can now restore the public's faith by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime.**
 
-Picture a *hundred* BYCombo bands. By breaking indie rock's rules, they'll be making the most creative *and* most disruptive works of our time. *This* will be the next revolution in rock history!
+Picture a *hundred* BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our time. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
