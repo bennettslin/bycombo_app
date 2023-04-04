@@ -57,11 +57,11 @@ But worst of all, any band who breaks the good guys' rules is technically a bad 
 
 ### A hundred *Yearling's Bobtail*s
 
-But the situation isn't hopeless: Some young people now *agree* with me that indie rock has made music worse! This discontent is the first step toward reviving interdependence, because it's the clearest sign yet that the rock market is ripe for disruption.
+But the situation isn't hopeless: Some young people now *agree* with me that indie rock has made music worse! Their discontent is the first step toward reviving interdependence, because it's the clearest sign yet that the rock market is ripe for disruption.
 
 So, plenty of industry executives and budding entrepreneurs would love to hear a demo that advances the art form— but how would they find it, given indie rock's low barriers to entry? The next step, then, is for an alternative counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
 
-**Interdependent bands can now be heard above the noise by paying a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
+**To be heard above the noise, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
 
 Picture a *hundred* BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our time. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
             `,

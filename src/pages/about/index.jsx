@@ -41,7 +41,7 @@ Has rock explored all the ways a band can come together? It might seem so— ass
 
 What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain or Thom Yorke is a woman or minority who's struggling right now to find bandmates. What if they could ask to be judged without unconscious bias?
 
-With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed are centralized initiatives like BYCombo to help them come together.
+With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
 **Why interdependence?**
 
