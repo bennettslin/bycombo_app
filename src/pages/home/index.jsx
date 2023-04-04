@@ -53,15 +53,15 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corpora
 
 But worst of all, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock has sworn to shut out *all* the bad guys! Which brings us to the heart of the problem:
 
-**Like every movement that believes in its own moral perfection, indie rock is here to lock its rules in place forever. As such, it can *never* allow the next generation to start a revolution of their own.**
+**Like every movement that believes in its own moral perfection, indie rock is here to lock its rules in place forever. As such, it will *never* allow the next generation to start a revolution of their own.**
 
 ### A hundred *Yearling's Bobtail*s
 
 But the situation isn't hopeless: Some young people now *agree* with me that indie rock has made music worse! This discontent is the first step toward reviving interdependence, because it's the clearest sign yet that the rock market is ripe for disruption.
 
-So, plenty of industry executives and budding entrepreneurs would love to hear a demo that advances the art form— but how would they ever find it, given indie rock's low barriers to entry? The next step, then, is for an alternative counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
+So, plenty of industry executives and budding entrepreneurs would love to hear a demo that advances the art form— but how would they find it, given indie rock's low barriers to entry? The next step, then, is for an alternative counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
 
-**Interdependent bands can now restore the public's faith by paying a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
+**Interdependent bands can now be heard above the noise by paying a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
 
 Picture a *hundred* BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our time. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
             `,
