@@ -67,13 +67,13 @@ Here's an incomplete list of ways…
 
 ### History remembers hooks
 
-A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression— but indie artists are required to spend their time building a fanbase instead. As such, indie music is proudly *defined* by its lack of hooks with widespread appeal.
+A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression— but indie artists are required to spend their time building a fanbase instead. As such, indie music is proudly *defined* by a lack of hooks with widespread appeal.
 
 Yet few of us care that a past artist built a fanbase on their own, while nearly everyone loves a past work with well-crafted hooks— and future generations will be no different. There's just no way around it: Making history starts with crafting your best hooks. So BYCombo gives you all the time you need.
 
 ### Revelations require a single hat
 
-Indie rock requires its artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talents. Yet the best works of art are even *better* than the artists who make them. Why?
+Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talents. Yet the best works of art are even *better* than the artists who make them. Why?
 
 It's because they *also* benefit from insightful revelations that stem from the unconscious and can't be summoned at will. These revelations emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
 
