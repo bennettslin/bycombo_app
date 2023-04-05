@@ -47,19 +47,31 @@ So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones wh
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other curators. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others.
 
+${'  ' || `
+// TODO: Connect sentences better?
+`}
+
 It's worse than just that, however. Because these indie curators stay close to their local scenes, they're seen as the "good guys." What they like is simply what the people like, and so we trust their judgment. But… studies show that it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-But worst of all, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock has sworn to shut out *all* the bad guys! Which brings us to the heart of the problem:
+${'  ' || `
+// TODO: Just review these two paragraphs now.
+`}
 
-**Like every movement that believes in its own moral perfection, indie rock is here to lock its rules in place forever. As such, it will *never* allow the next generation to start a revolution of their own.**
+But worst of all, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock is here to shut out *all* the bad guys! Which brings us to the heart of the problem:
+
+**Indie rock didn't just lock its rules in place, believing in the universality of its ideals; it's the *first* movement in rock to do so. So there's no historical precedent to teach us how to dissent— or even to assure us that we *can*.**
 
 ### A hundred *Yearling's Bobtail*s
 
-But the situation isn't hopeless: Some young people now *agree* with me that indie rock has made music worse! Their discontent is the first step toward reviving interdependence, because it's the clearest sign yet that the rock market is ripe for disruption.
+${'  ' || `
+// TODO: Mention revolution from the outside here.
+`}
 
-So, plenty of industry executives and budding entrepreneurs would love to hear a demo that advances the art form— but how would they find it, given indie rock's low barriers to entry? The next step, then, is for an alternative counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
+But the situation isn't hopeless: Some young people now *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because it sends a clear signal that the rock market is ripe for disruption.
+
+So, plenty of budding entrepreneurs and industry executives out there would love to hear a demo that advances the art form— but how will they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
 
 **To be heard above the noise, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
 

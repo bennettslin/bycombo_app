@@ -11,6 +11,10 @@ By the 90s, the major labels no longer invested in their artists. They simply co
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
+${'  ' || `
+// TODO: Redo, in light of having moved this point to home page.
+`}
+
 There's just one problem: Indie rock didn't just lock in a permanent system of administration, assured of its moral righteousness— it's the *first* ideology in rock *ever* to do so. So how do we revolt, when there's no historical precedent to teach us how— or even to assure us that we *can*? Luckily, I've also spent half my life figuring out a solution:
 
 **BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then show in a public registry to sustain an anti-indie counterculture.**
@@ -20,6 +24,10 @@ There's just one problem: Indie rock didn't just lock in a permanent system of a
 Okay, that's a mouthful! Let's break it down…
 
 **Why BYCombo?**
+
+${'  ' || `
+// TODO: Include foreign?
+`}
 
 It's all but certain that history's greatest rock bands had no peers who were better than them, yet somehow remained unknown. But the same can't be said of today's acclaimed indie artists, who *never* go above and beyond. Why don't they?
 
