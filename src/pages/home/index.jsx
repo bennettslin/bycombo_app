@@ -17,7 +17,7 @@ Of course, *indie*-pendence is the dominant ideology in rock today. So why is *i
 
 ### Tools… are *rules*
 
-Indie rock loves to help the underdog, which is why it's all about lowering the barriers to entry for artists. To do this, it provides them with tools to build a fanbase on their own: distribution services, streaming algorithms, social media analytics, and so forth.
+Indie rock roots for the underdog, which is why it's all about lowering the barriers to entry for artists. To do this, it provides them with tools to build a fanbase on their own: distribution services, streaming algorithms, social media analytics, and so forth.
 
 These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet, since they're available to *every* artist, they don't give a meaningful boost to those who use them; they merely set back anyone who *doesn't*. But… this is how *rules* work! Which is to say:
 
@@ -41,31 +41,27 @@ Well, then, can't an interdependent band just promise to make the best art inste
 
 **To revive interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and that couldn't have been made with *any* less effort.**
 
-So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— *twelve* full-time years— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
+So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— twelve full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
 
 ### Who curates the curators?
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other curators. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others.
 
-It's worse than just that, however. We see these indie curators as the "good guys" because they stay close to the underground scenes. This makes them one of us, so whatever they like, we trust that we'll like. But… according to studies, it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+It's worse than just that, however. We see these indie curators as the "good guys" because they stay close to the underground scenes; they're one of *us*. So we trust that whatever they like, we'll like. But… according to studies, it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
 But worst of all, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock came here to shut out *all* the bad guys! Which brings us to the heart of the problem:
 
-**Indie rock didn't just lock its rules in place, believing in the universality of its ideals; it's the *first* rock movement *ever* to do so. So there's no historical precedent to teach us how to dissent— or even to assure us that we *can*.**
+**As the first rock movement to believe in the universality of its ideals, indie rock is also the first to lock its rules in place forever. So there's no historical precedent to teach us how to dissent— or even to assure us that we *can*.**
 
 ### A hundred *Yearling's Bobtail*s
 
-${'  ' || `
-// TODO: Mention revolution from the outside here.
-`}
+But if we can't dissent, then we can always revolt! Some young people now *agree* with me that indie rock has made music worse, and this is the first step toward reviving interdependence: It sends a clear signal to the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
 
-But the situation isn't hopeless: Some young people now *agree* with me that indie rock has made music worse! This is the first step toward reviving interdependence, because it sends a clear signal that the rock market is ripe for disruption.
+So, plenty out there would love to hear a demo that advances the art form— but how will they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
 
-So, plenty of budding entrepreneurs and industry executives out there would love to hear a demo that advances the art form— but how will they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
-
-**To be heard above the noise, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
+**To stand out from the crowd, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
 
 Picture a *hundred* BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our time. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
             `,
