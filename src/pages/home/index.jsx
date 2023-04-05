@@ -47,7 +47,7 @@ So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones wh
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other curators. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others.
 
-It's worse than just that, however. We see these indie curators as the "good guys" because they stay close to the underground scenes; they're one of *us*. So we trust that whatever they like, we'll like. But… according to studies, it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+It's worse than just that, however. We see these indie curators as the "good guys" because they stay close to the underground scenes; they're one of *us*. So whatever they like, we trust that we'll like. But… according to studies, it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -59,7 +59,7 @@ But worst of all, any band who breaks the good guys' rules is technically a bad 
 
 But if we can't dissent, then we can always revolt! Some young people now *agree* with me that indie rock has made music worse, and this is the first step toward reviving interdependence: It sends a clear signal to the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
 
-So, plenty out there would love to hear a demo that advances the art form— but how will they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
+So plenty out there would love to hear a demo that advances the art form— but how will they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an anti-indie counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
 
 **To stand out from the crowd, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
 
