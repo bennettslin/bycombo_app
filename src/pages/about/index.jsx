@@ -9,9 +9,9 @@ const Component = () => (
 
 By the 90s, the major labels no longer invested in their artists. They simply counted on a few superstars to break out, like Nirvana and Radiohead; the rest were then written off as failed bets. But the indie labels held to fair standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* to have a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
-There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life figuring out a plan:
+There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life coming up with a plan:
 
 **BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then show in a public registry to sustain an anti-indie counterculture.**
 
@@ -33,7 +33,7 @@ A counterculture is needed to protect dangerous ideas, yet we haven't had one fo
 
 **Why historical consequence?**
 
-Critical acclaim can be inflated, which makes it a terrible barometer. What *can't* be hacked is the historical canon, because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted— and *this* is why people gripe that rock is getting worse.
+Critical acclaim can be inflated, which makes it a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted— and *this* is why people gripe that rock is getting worse.
 
 **Why assembled bands?**
 
@@ -53,7 +53,7 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie labels won't ever put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best hope is to join a counterculture that *questions* indie rock's good intentions— and a public registry is where sympathetic fans and potential partners will know to find them.
+It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to join a counterculture that *criticizes* indie rock's good intentions— and a public registry is where discerning fans and potential business partners will know to find them.
 
 **Why serious chunks of lifetime?**
 
@@ -67,7 +67,7 @@ Here's an incomplete list of ways…
 
 ### History remembers hooks
 
-A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression— but indie artists are required to spend their time building a fanbase instead. As such, indie music is proudly *defined* by a lack of hooks with widespread appeal.
+A while back, I sent manuscripts of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression— but indie artists are required to spend their time building a fanbase instead. As such, indie music is proudly *defined* by its lack of hooks with widespread appeal.
 
 Yet few of us care that a past artist built a fanbase on their own, while nearly everyone loves a past work with well-crafted hooks— and future generations will be no different. There's just no way around it: Making history starts with crafting your best hooks. So BYCombo gives you all the time you need.
 
@@ -121,7 +121,7 @@ But the problems with this current Age of Empowerment go beyond its failure to g
 
 Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the *end*. To save rock, then, we need to make way for selfless bands who'll sacrifice themselves for art's sake. After Empowerment, in other words… comes the Age of Martyrdom.
 
-Let's not go back to the days of musicians dying young, of course. Thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* of them, each one sacrificing a serious chunk of lifetime to advance the art form?
+Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* of them, each one sacrificing a serious chunk of lifetime to advance the art form?
 
 Luckily, you don't need to ask, "Where's our BYCombo?" We're here for you *now*!
     `,
