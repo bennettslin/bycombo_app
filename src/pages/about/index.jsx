@@ -68,7 +68,7 @@ Here's an incomplete list of ways…
 ### History remembers hooks
 
 ${'  ' || `
-// TODO: Review this final sentence.
+// TODO: Review this final sentence. Connect this thought better. Hustle and craft here?
 `}
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression— but indie artists need to spend their time building a fanbase instead. And so the indie labels only have an ear for what critics respect, not what other musicians envy.
@@ -84,14 +84,14 @@ It's because they *also* benefit from insightful revelations that stem from the 
 ### The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Pass through another review.
+// TODO: Pass through another review. Make it all flow in general.
 `}
 
-We respect indie bands of the past for having built a grassroots following. But there's a less spoken reason as well: Their stories feel deterministic. Unlike a one-hit wonder, whose success is akin to winning the lottery, these indie bands were likely to succeed because they *earned* it. They put in the work each day, for untold years.
+We all respect the original indie bands for having built a grassroots fanbase from the "bottom up," but there's an unspoken reason as well: Their success feels deterministic. That is to say, it was always likely to happen because they *earned* it; they put in the work each day for untold years— unlike a one-hit wonder, who succeeds by winning a virtual lottery.
 
-Back then, lottery players *had* to sign to a label, with each release buying them a single chance for exposure. But the Internet now empowers them to take their music directly to the people. Not only does this allow them to be respected as bona fide indie artists; they can now buy unlimited chances by saturating the market with their music.
+In those days, lottery players *had* to start from the "top down." So they would sign lopsided deals with a label, all for a single chance at exposure. But now the Internet empowers them to take their music directly to the people. This means they can be respected as indie artists in good faith, as they shoot for unlimited chances by saturating the market with their works.
 
-This means a band who prefers the deterministic path simply *can't* compete in the new lottery system that indie rock has become. But few else have noticed, as they're too busy paying respect to this new breed of indie artists, who gain exposure just fine. Now, with BYCombo, you can once again *earn* your success by showing up to work— day after day, year after year.
+But bands who prefer the deterministic path simply *can't* compete in this new lottery system that indie rock has become. Which means *they're* now the ones with no choice but to start from the top down. The indie labels refuse to understand this dilemma, so BYCombo is stepping in. Now you can *earn* your success once again, by showing up to work each day for untold years.
 
 ### Middle managers join the revolution *last*
 
