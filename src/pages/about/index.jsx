@@ -87,11 +87,11 @@ ${'  ' || `
 // TODO: Pass through another review. Make it all flow in general.
 `}
 
-We all respect the original indie bands for having built a grassroots fanbase from the "bottom up," but there's an unspoken reason as well: Their success feels deterministic. That is to say, it was destined to happen because they *earned* it. They showed up to work, every day, for untold years— not like a one-hit wonder, who succeeds by winning a virtual lottery.
+We all respect the original indie bands for having built a grassroots fanbase, but there's an unspoken reason as well: Their success feels deterministic to us. That is to say, it was always likely to happen because they *earned* it. They showed up to work each day for untold years— unlike a one-hit wonder, who succeeds by winning a virtual lottery.
 
-In those days, lottery players *had* to start from the "top down." So they would sign lopsided deals with a label, all for a single chance at exposure. But now the Internet empowers them to take their music directly to the people. This makes them indie artists in good faith, as they shoot for unlimited chances by saturating the market with their works.
+In those days, lottery players had no patience for the grassroots. So they would sign lopsided deals with a label instead, just for a chance or two at exposure. But now the Internet empowers them to take their music directly to the people. This makes them indie artists in good faith, as they each shoot for unlimited chances by saturating the market with their works.
 
-But bands who prefer the deterministic path simply *can't* compete in this new lottery system that indie rock has become. Which means *they're* now the ones with no choice but to start from the top down. The indie labels refuse to understand this dilemma, however, so BYCombo is stepping in. Now you can *earn* your success once more, by showing up to work for untold years.
+But bands who prefer the deterministic path simply *can't* compete in this new lottery system, which means *they're* now the ones being driven away from the grassroots. And yet the indie gatekeepers refuse to sympathize, out of respect for the new breed of indie artists. Luckily, with BYCombo, you can *earn* your success once more, by putting in the work for untold years.
 
 ### Middle managers join the revolution *last*
 
