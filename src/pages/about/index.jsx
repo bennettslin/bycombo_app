@@ -21,7 +21,15 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why BYCombo?**
 
+${'  ' || `
+// TODO: Should this be in history paragraph? Consider swapping parts? Consider moving this entirely to its own section, as the first one?
+`}
+
 It's all but certain that history's greatest rock bands had no peers who were better than them, yet somehow remained unknown. But the same can't be said of today's acclaimed indie artists, who *never* go above and beyond. Why don't they?
+
+${'  ' || `
+// TODO: Mention opportunity cost here?
+`}
 
 The answer lies in indie rock's decentralized nature, which requires artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
@@ -85,11 +93,15 @@ Yet few of us care what past critics thought, while nearly everyone loves a past
 
 ### The grassroots is now a lottery
 
-The original indie bands are respected for having built a grassroots fanbase, right? But there's also a less spoken reason: Their stories feel deterministic to us. That is to say, these bands were likely to succeed all along because they *earned* it. They showed up to work, every day, for years and years— unlike a one-hit wonder, whose success is more like winning the lottery.
+${'  ' || `
+// TODO: Do another review. Make a better observation about saturated market.
+`}
 
-In those days, lottery players had no patience for the grassroots. So they would sign lopsided deals with a label instead, just for a chance or two at exposure. But now the Internet empowers them to take their music directly to the people. This makes them indie artists in good faith, as they grab for unlimited chances by saturating the market with their works.
+The earliest indie bands are respected for having built a grassroots fanbase, right? But there's also a less spoken reason: Their stories feel deterministic. That is to say, these bands were always likely to succeed because they *earned* it. They showed up to work, every day, for untold years— unlike a one-hit wonder, who simply lucks out and wins the virtual lottery.
 
-But bands who prefer the deterministic path simply *can't* compete in this new lottery system that the grassroots has become, which means *they're* now the ones being shut out. Yet the indie gatekeepers refuse to sympathize, out of respect for the new breed of indie artists. Luckily, with BYCombo, you can once again *earn* your success, by putting in the work for years and years.
+In those days, lottery players had no patience for the grassroots; they would sign lopsided deals with a label instead, all for a single chance at exposure. But now the Internet has empowered them to reach the people directly— making them indie artists in good faith, *and* giving them unlimited chances.
+
+Naturally, bands who prefer the deterministic path can't compete in this new lottery system that the grassroots has become— which means *they're* now the ones being shut out! Yet the indie gatekeepers refuse to sympathize, out of respect for this new breed of indie artists. Luckily, with BYCombo, you can once again *earn* your success, by putting in the work for untold years.
 
 ### Middle managers join the revolution *last*
 
