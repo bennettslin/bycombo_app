@@ -69,11 +69,13 @@ Here's an incomplete list of ways…
 
 ${'  ' || `
 // TODO: Review this final sentence. Connect this thought better. Hustle and craft here?
+
+It takes time to compose a strong melody and chord progression— but indie artists need to spend their time building a fanbase instead. And so the indie labels only have an ear for what critics respect, not what other musicians envy.
 `}
 
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why. It takes time to compose a strong melody and chord progression— but indie artists need to spend their time building a fanbase instead. And so the indie labels only have an ear for what critics respect, not what other musicians envy.
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why.
 
-Yet few of us care that a past artist built a fanbase on their own, while nearly everyone loves a past work with well-crafted hooks— and future generations will be no different. There's just no way around it: Making history starts with crafting your best hooks. So BYCombo gives you all the time you need.
+Yet few of us care what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will be no different. There's just no way around it: Making history starts with crafting your best hooks. So BYCombo gives you all the time you need.
 
 ### Revelations require a single hat
 
@@ -83,11 +85,11 @@ It's because they *also* benefit from insightful revelations that stem from the 
 
 ### The grassroots is now a lottery
 
-We all respect the original indie bands— for having built a fanbase from the grassroots, yes, but there's a less spoken reason as well: Their stories feel deterministic to us. That is to say, they were always likely to succeed because they *earned* it. Unlike a one-hit wonder, whose success is more like winning the lottery, these bands showed up to work every day for years and years.
+We all respect the original indie bands— for having built a fanbase from the grassroots, yes, but there's a less spoken reason as well: Their stories feel deterministic to us. That is to say, they were always likely to succeed because they *earned* it. Unlike a one-hit wonder, whose success is more like winning the lottery, these bands showed up to work, every day, for years and years.
 
 In those days, lottery players had no patience for the grassroots. So they would sign lopsided deals with a label instead, just for a chance or two at exposure. But now the Internet empowers them to take their music directly to the people. This makes them indie artists in good faith, as they grab for unlimited chances by saturating the market with their works.
 
-But bands who prefer the deterministic path simply *can't* compete in this new lottery system, which means *they're* now the ones being shut out from the grassroots. And yet the indie gatekeepers refuse to sympathize, out of respect for the new breed of indie artists. Luckily, through BYCombo, you can once again *earn* your success, by putting in the work for years and years.
+But bands who prefer the deterministic path simply *can't* compete in this new lottery system, which means *they're* now the ones being shut out from the grassroots. And yet the indie gatekeepers refuse to sympathize, out of respect for the new breed of indie artists. Luckily, though, with BYCombo you can once again *earn* your success, by putting in the work for years and years.
 
 ### Middle managers join the revolution *last*
 
