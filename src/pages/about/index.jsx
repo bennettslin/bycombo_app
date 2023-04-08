@@ -65,6 +65,12 @@ To save rock, then, a centralized initiative like BYCombo must now step up to en
 
 Here's an incomplete list of ways…
 
+### Revelations require a single hat
+
+Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why?
+
+It's because they *also* benefit from insightful revelations that stem from the unconscious and can't be summoned at will. These revelations emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
+
 ### History remembers hooks
 
 ${'  ' || `
@@ -76,12 +82,6 @@ It takes time to compose a strong melody and chord progression— but indie arti
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why.
 
 Yet few of us care what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will be no different. There's just no way around it: Making history starts with crafting your best hooks. So BYCombo gives you all the time you need.
-
-### Revelations require a single hat
-
-Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why?
-
-It's because they *also* benefit from insightful revelations that stem from the unconscious and can't be summoned at will. These revelations emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
 
 ### The grassroots is now a lottery
 
