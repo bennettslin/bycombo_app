@@ -85,11 +85,11 @@ It's because they *also* benefit from insightful revelations that stem from the 
 
 ### The grassroots is now a lottery
 
-We all respect the original indie bands— for having built a fanbase from the grassroots, yes, but there's a less spoken reason as well: Their stories feel deterministic to us. That is to say, they were always likely to succeed because they *earned* it. Unlike a one-hit wonder, whose success is more like winning the lottery, these bands showed up to work, every day, for years and years.
+The original indie bands are respected for having built a grassroots fanbase, right? But there's also a less spoken reason: Their stories feel deterministic to us. That is to say, these bands were likely to succeed all along because they *earned* it. They showed up to work, every day, for years and years— unlike a one-hit wonder, whose success is more like winning the lottery.
 
 In those days, lottery players had no patience for the grassroots. So they would sign lopsided deals with a label instead, just for a chance or two at exposure. But now the Internet empowers them to take their music directly to the people. This makes them indie artists in good faith, as they grab for unlimited chances by saturating the market with their works.
 
-But bands who prefer the deterministic path simply *can't* compete in this new lottery system, which means *they're* now the ones being shut out from the grassroots. And yet the indie gatekeepers refuse to sympathize, out of respect for the new breed of indie artists. Luckily, though, with BYCombo you can once again *earn* your success, by putting in the work for years and years.
+But bands who prefer the deterministic path simply *can't* compete in this new lottery system that the grassroots has become, which means *they're* now the ones being shut out. Yet the indie gatekeepers refuse to sympathize, out of respect for the new breed of indie artists. Luckily, with BYCombo, you can once again *earn* your success, by putting in the work for years and years.
 
 ### Middle managers join the revolution *last*
 
