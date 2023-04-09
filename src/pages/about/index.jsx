@@ -63,7 +63,7 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-Historically, the rock music of the English-speaking world was *the* canon. After all, our bands had no foreign peers who were better; any who *were*, like ABBA, simply joined us. But today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they?
+Historically, the rock music of the English-speaking world was *the* canon. After all, our bands had no foreign peers who were better; any who *were*, like ABBA, simply joined us. But today, indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they?
 
 The answer lies in indie rock's decentralized nature, which forces artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
