@@ -60,10 +60,10 @@ Here's an incomplete list of ways…
 ### The opportunity cost is too damn high
 
 ${'  ' || `
-// TODO: Should this be in history paragraph? Consider swapping parts? Consider moving this entirely to its own section, as the first one?
+// TODO: Review.
 `}
 
-It's all but certain that history's greatest rock bands had no peers who were better than them, yet somehow remained unknown. But the same can't be said of today's acclaimed indie artists, who *never* go above and beyond. Why don't they?
+It's all but certain that history's greatest rock bands had no peers who were better, yet remained unknown. But the same can't be said of today's acclaimed indie artists, who *never* go above and beyond. Why don't they?
 
 The answer lies in indie rock's decentralized nature, which requires artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
@@ -95,9 +95,9 @@ ${'  ' || `
 
 The earliest indie bands are respected for having built a grassroots fanbase, right? But there's also a less spoken reason: Their stories feel deterministic. That is to say, these bands were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-In those days, lottery players had no patience for the grassroots; they would sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly— making them indie artists in good faith, *and* giving them unlimited chances! So now, in line with their known strategy, we're all inundated with their works.
+In those days, lottery players had no patience for the grassroots; they would sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now we're all inundated with their works— *and* they're respected for it.
 
-Naturally, bands who prefer the deterministic path can't compete in this new lottery system that the grassroots has become. Yet the indie gatekeepers can't sympathize; after all, these new indie artists are doing just fine! Luckily, through BYCombo, you can once again *earn* your success, by showing up to work each day for untold years.
+Naturally, bands who prefer the deterministic path can't compete this way— yet the indie gatekeepers don't sympathize. After all, *some* indie artists— the most respected ones, in fact!— are doing just fine, as always. Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work each day for untold years.
 
 ### Middle managers join the revolution *last*
 
