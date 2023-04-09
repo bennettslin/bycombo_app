@@ -67,7 +67,7 @@ Historically, the rock music of the English-speaking world was *the* canon. Afte
 
 The answer lies in indie rock's decentralized nature, which forces artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
-Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. Yikes! How do we fix this perverse incentive? Simple: through centralized initiatives like BYCombo.
+Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. Yikes! How does rock fix this perverse incentive? Simple: through a centralized initiative like BYCombo.
 
 ### Revelations require a single hat
 
@@ -85,15 +85,17 @@ It takes time to compose a strong melody and chord progression— but indie arti
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why.
 
+And yet, despite the implosion of the radio format in the last two decades, the indie labels aren't bothering to poach the next Stone Temple Pilots. Why? Because they'd never developed an ear for it.
+
 Yet few of us care what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will be no different. There's just no way around it: Making history starts with crafting your best hooks. So BYCombo gives you all the time you need.
 
 ### The grassroots is now a lottery
 
 The earliest indie bands are respected for having built a grassroots fanbase, right? But there's also a less spoken reason: Their stories feel deterministic. That is to say, these bands were always likely to succeed because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning us all in their works— *and* we respect them for it.
+In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now we're all drowning in their works— *and* they're respected for it.
 
-Naturally, bands who prefer the deterministic path can't compete like this. Yet the indie gatekeepers don't sympathize; after all, *some* indie artists are doing just fine, as always. Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work each day for untold years.
+Naturally, bands who prefer the deterministic path can't compete like this. Yet the indie gatekeepers don't sympathize; after all, *some* indie artists are doing just fine, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work each day for untold years.
 
 ### Middle managers join the revolution *last*
 
