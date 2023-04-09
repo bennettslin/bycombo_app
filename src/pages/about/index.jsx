@@ -67,7 +67,7 @@ Historically, the rock music of the English-speaking world was *the* canon. Why?
 
 The answer lies in indie rock's decentralized nature, which forces them to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
-Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. How does rock fix this perverse incentive? We must turn to *centralized* institutions like BYCombo.
+Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. Can rock fix this perverse incentive? Definitely— through centralized initiatives like BYCombo.
 
 ### Revelations require a single hat
 
@@ -75,14 +75,14 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
+Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
 
-These revelations emerge unconsciously as your thoughts drift in the shower, or while you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
+These revelations emerge unconsciously as your thoughts drift in the shower, or while you daydream out of boredom— but not if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
 
 ### History wants radio-friendly hooks
 
 ${'  ' || `
-// TODO: Review this final sentence. Connect this thought better. Hustle and craft here?
+// TODO: Do over whole section, talking more about hustle and craft.
 
 It takes time to compose a strong melody and chord progression— but indie artists need to spend their time building a fanbase instead. And so the indie labels only have an ear for what critics respect, not what other musicians envy.
 `}
