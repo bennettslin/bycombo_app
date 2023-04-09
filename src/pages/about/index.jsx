@@ -63,7 +63,7 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-Historically, the rock music of the English-speaking world was *the* canon. Why? Because our rock bands had no foreign peers who were better; anyone who *was* better, like ABBA, simply joined us. But today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they?
+Historically, the rock music of the English-speaking world was *the* canon. After all, our bands had no foreign peers who were better; any who *were*, like ABBA, simply joined us. But today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they?
 
 The answer lies in indie rock's decentralized nature, which forces artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
@@ -89,7 +89,7 @@ Yet few of us care what past critics thought, while nearly everyone loves a past
 
 ### The grassroots is now a lottery
 
-The earliest indie bands are respected for having built a grassroots fanbase, yes. But there's a less spoken reason as well: Their stories feel deterministic. That is to say, these bands were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+The earliest indie bands are respected for having built a grassroots fanbase, right? But there's also a less spoken reason: Their stories feel deterministic. That is to say, these bands were always likely to succeed because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning us all in their works— *and* we respect them for it.
 
