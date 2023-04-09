@@ -71,13 +71,9 @@ Going above and beyond, on the other hand, yields *marginal* returns for *massiv
 
 ### Revelations require a single hat
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
+Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… Of course, the best among them *don't* skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
 
-Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
-
-These revelations emerge unconsciously as your thoughts drift in the shower, or while you daydream out of boredom— but not if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
+These revelations emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom— but this won't ever happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
 
 ### History wants radio-friendly hooks
 
@@ -93,13 +89,9 @@ Yet few of us care what past critics thought, while nearly everyone loves a past
 
 ### The grassroots is now a lottery
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
-
 The earliest indie bands are respected for having built a grassroots fanbase, yes. But there's a less spoken reason as well: Their stories feel deterministic. That is to say, these bands were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-In those days, lottery players had no patience for the grassroots; they would sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith. So now we're drowning in their works— *and* they're respected for it!
+In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith. So now we're drowning in their works— *and* they're respected for it!
 
 Naturally, bands who prefer the deterministic path can't compete like this— yet the indie gatekeepers don't sympathize. After all, *some* indie artists— the most respected ones, in fact!— are doing just fine, as always. Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work each day for untold years.
 
