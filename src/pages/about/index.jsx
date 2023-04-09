@@ -60,20 +60,24 @@ Here's an incomplete list of ways…
 ### The opportunity cost is too damn high
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Just one more final review.
 `}
 
-It's all but certain that history's greatest rock bands had no peers who were better, yet remained unknown. But the same can't be said of today's acclaimed indie artists, who *never* go above and beyond. Why don't they?
+Historically, the rock music of the English-speaking world was *the* canon. Why? Because our rock bands had no foreign peers who were better; any who *were*, like ABBA, simply joined us. But today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they?
 
-The answer lies in indie rock's decentralized nature, which requires artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
+The answer lies in indie rock's decentralized nature, which forces them to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
-Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. How does rock fix this perverse incentive? There's only one lever to pull: We must turn to *centralized* initiatives like BYCombo.
+Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. How does rock fix this perverse incentive? We must turn to *centralized* institutions like BYCombo.
 
 ### Revelations require a single hat
 
-Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why?
+${'  ' || `
+// TODO: Just one more final review.
+`}
 
-It's because they *also* benefit from insightful revelations that stem from the unconscious and can't be summoned at will. These revelations emerge when your thoughts drift in the shower, or you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
+Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… of course, the best among them don't skimp on wearing the artist hat. They want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
+
+These revelations emerge unconsciously as your thoughts drift in the shower, or while you daydream out of boredom— but this won't happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
 
 ### History wants radio-friendly hooks
 
@@ -93,11 +97,11 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-The earliest indie bands are respected for having built a grassroots fanbase, right? But there's also a less spoken reason: Their stories feel deterministic. That is to say, these bands were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+The earliest indie bands are respected for having built a grassroots fanbase, yes. But there's a less spoken reason as well: Their stories feel deterministic. That is to say, these bands were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-In those days, lottery players had no patience for the grassroots; they would sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now we're all inundated with their works— *and* they're respected for it.
+In those days, lottery players had no patience for the grassroots; they would sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith. So now we're drowning in their works— *and* they're respected for it!
 
-Naturally, bands who prefer the deterministic path can't compete this way— yet the indie gatekeepers don't sympathize. After all, *some* indie artists— the most respected ones, in fact!— are doing just fine, as always. Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work each day for untold years.
+Naturally, bands who prefer the deterministic path can't compete like this— yet the indie gatekeepers don't sympathize. After all, *some* indie artists— the most respected ones, in fact!— are doing just fine, as always. Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work each day for untold years.
 
 ### Middle managers join the revolution *last*
 
@@ -129,7 +133,7 @@ For many years, I worked days as a coder and nights on my audio webcomic. When I
 
 It's because paid dues are worthless outside the one system that promises to honor them, so those who pay them will fight to keep the system as it is. In short, you can pay your dues, or you can start a revolution— but never both.
 
-Moreover, once someone has wasted their best years building up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
+Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help up-and-coming bands who might surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first artist who's secure enough to *want* it— having never paid indie rock's dues myself.
 
