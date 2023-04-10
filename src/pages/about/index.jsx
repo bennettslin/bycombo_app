@@ -89,7 +89,7 @@ Yet few of us care what past critics thought, while nearly everyone loves a past
 
 The earliest indie bands are respected for having built a grassroots fanbase, right? But there's also a less spoken reason: Their stories feel deterministic. That is to say, these bands were always likely to succeed because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now we're all drowning in their music— *and* they're respected for it.
+In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now the world is drowning in their music— *and* they're respected for it.
 
 Naturally, bands who prefer the deterministic path can't compete like this. Yet the indie gatekeepers don't sympathize; after all, *some* indie artists are doing just fine, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
 
@@ -125,7 +125,7 @@ Hip hop is the latest case in point, and BYCombo— which I founded to serve *al
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-It's because paid dues are worthless outside the one system that promises to honor them, so those who pay them will fight to keep the system as it is. In short, you can pay your dues, or you can start a revolution— but never both.
+It's because paid dues are worthless outside the one system that promises to honor them. So those who pay them will fight to keep the system as it is. In short, you can pay your dues, or you can start a revolution— but never both.
 
 Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
 
