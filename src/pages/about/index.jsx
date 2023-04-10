@@ -59,19 +59,15 @@ Here's an incomplete list of ways…
 
 ### The opportunity cost is too damn high
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
-
-Historically, the rock music of the English-speaking world was *the* canon. After all, our bands had no foreign peers who were better; any who *were*, like ABBA, simply joined us. But today, indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they?
+Historically, the rock bands of the English-speaking world had no foreign peers, making ours *the* rock canon. Anyone who *could* match us, like ABBA, simply joined us instead. But today, indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they?
 
 The answer lies in indie rock's decentralized nature, which forces artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
-Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. Yikes! How does rock fix this perverse incentive? Simple: through a centralized initiative like BYCombo.
+Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. Yikes! Luckily, there's a way to fix this perverse incentive: through *centralized* initiatives like BYCombo.
 
 ### Revelations require a single hat
 
-Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
+Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… Of course, the best among them *don't* skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
 
 These revelations emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom— but this won't ever happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
 
