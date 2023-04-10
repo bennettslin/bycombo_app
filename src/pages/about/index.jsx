@@ -59,9 +59,13 @@ Here's an incomplete list of ways…
 
 ### The opportunity cost is too damn high
 
+${'  ' || `
+// TODO: Not clear that "we" are the English-speaking world.
+`}
+
 Historically, the rock bands of the English-speaking world had no foreign peers, making ours *the* rock canon. Anyone who *could* match us, like ABBA, simply joined us instead. But today, indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they?
 
-The answer lies in indie rock's decentralized nature, which forces artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, with each fan bringing in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
+The answer lies in indie rock's decentralized nature, which forces artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, since each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
 Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. Yikes! Luckily, there's a way to fix this perverse incentive: through *centralized* initiatives like BYCombo.
 
