@@ -61,7 +61,7 @@ Here's an incomplete list of ways…
 
 Historically, the rock bands of the English-speaking world had no foreign peers, making ours *the* rock canon. Anyone who *could* match us, like ABBA, simply joined us instead. But today, indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they?
 
-The answer lies in indie rock's decentralized nature, which forces artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, as each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
+The answer lies in indie rock's decentralized nature, which forces artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, with each fan bringing in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
 Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. Yikes! Luckily, there's a way to fix this perverse incentive: through *centralized* initiatives like BYCombo.
 
@@ -71,19 +71,19 @@ Indie rock requires artists to wear several hats: the influencer hat, the public
 
 These revelations emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom— but this won't ever happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
 
+${'  ' || `
+// TODO: Think this through and flesh it out, talking more about hustle and craft.
+
 ### History wants radio-friendly hooks
 
-${'  ' || `
-// TODO: Do over whole section, talking more about hustle and craft.
-
 It takes time to compose a strong melody and chord progression— but indie artists need to spend their time building a fanbase instead. And so the indie labels only have an ear for what critics respect, not what other musicians envy.
-`}
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why.
 
 And yet, despite the implosion of the radio format in the last two decades, the indie labels aren't bothering to poach the next Stone Temple Pilots. Why? Because they'd never developed an ear for it.
 
 Yet few of us care what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will be no different. There's just no way around it: Making history starts with crafting your best hooks. So BYCombo gives you all the time you need.
+`}
 
 ### The grassroots is now a lottery
 
