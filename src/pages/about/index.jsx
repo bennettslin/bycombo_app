@@ -60,14 +60,14 @@ Here's an incomplete list of ways…
 ### The opportunity cost is too damn high
 
 ${'  ' || `
-// TODO: Not clear that "we" are the English-speaking world.
+// TODO: Just one more final review.
 `}
 
-Historically, the rock bands of the English-speaking world had no foreign peers, making ours *the* rock canon. Anyone who *could* match us, like ABBA, simply joined us instead. But today, indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they?
+In the past, we of the English-speaking world could rightfully claim ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, would join us instead. But today, indie rock is just another foreign canon, because indie artists *never* go above and beyond. Why don't they?
 
 The answer lies in indie rock's decentralized nature, which forces artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, since each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
-Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. Yikes! Luckily, there's a way to fix this perverse incentive: through *centralized* initiatives like BYCombo.
+Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. Yikes! Luckily, there's a way to fix this perverse incentive: through a centralized initiative like BYCombo.
 
 ### Revelations require a single hat
 
