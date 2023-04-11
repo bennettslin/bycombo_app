@@ -59,7 +59,7 @@ Here's an incomplete list of ways…
 
 ### The opportunity cost is too damn high
 
-In the past, we of the English-speaking world could rightfully claim ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, would join us instead. But today, indie rock is just another foreign canon, because indie artists *never* go above and beyond. Why don't they?
+In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today, indie rock is just another foreign canon, because indie artists *never* go above and beyond. Why don't they?
 
 The answer lies in indie rock's decentralized nature, which forces artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, since each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
@@ -89,7 +89,7 @@ Yet few of us care what past critics thought, while nearly everyone loves a past
 
 ### The grassroots is now a lottery
 
-The earliest indie bands are respected for having built a grassroots fanbase, right? But there's also a less spoken reason: Their stories feel deterministic. That is to say, these bands were always likely to succeed because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+The earliest indie bands are respected for having built a grassroots fanbase, yes. But there's also a less spoken reason: Their stories feel deterministic. That is to say, these bands were always likely to succeed because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the grassroots in their music— *and* getting respect for it.
 
@@ -119,9 +119,9 @@ ${'  ' || `
 
 Who foresaw indie rock's ironic endgame? We minorities did— which is why we've never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an easy path for *rivals* to earn respect.
 
-And since indie rock is defined by an ideology rather than an aesthetic, it can never value diversity of *thought*. So don't be fooled, either, by the recent wave of minority artists in this genre; there's been no genuine outreach. Society simply came to a point where some minorities are now privileged enough to *think* like White men— and therefore to *compete* like them as well.
+And since indie rock is defined by an ideology rather than an aesthetic, it can never value diversity of *thought*. So don't be fooled, either, by the recent wave of minority artists in this genre; there's been no real outreach. Society simply came to a point where *some* minorities are now privileged enough to think like White men— and therefore to compete like them as well.
 
-But why is indie rock finally sharing the reins? Because it's in *decline*; these are crumbs on offer here. So don't take the bait! No, the best movements for minorities are the ones that *we* start *ourselves*, to fit *our* circumstances— and which thus reward what can't be bought: originality and talent, born from an outsider's hunger.
+But why is indie rock finally sharing the reins? Because it's in *decline*; these are crumbs on offer here. So don't take the bait! No, the best movements for us minorities are the ones that *we* start *ourselves*, to fit *our* circumstances— and which thus reward what can't be bought: originality and talent, born from an outsider's hunger.
 
 Hip hop is the most recent case in point, and BYCombo— which I founded to serve *all* disadvantaged groups— will be the next. As one of you, I know that disadvantage drives your need for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
