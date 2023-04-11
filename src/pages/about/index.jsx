@@ -31,7 +31,7 @@ Critical acclaim can be inflated, which makes it a terrible barometer. What *can
 
 Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But once we ditch this notion? Then rock has barely scratched the surface.
 
-What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain or Thom Yorke is a woman or minority who's struggling right now to find bandmates. What if they could ask to be judged without unconscious bias?
+What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain or Thom Yorke is a woman or minority who's struggling right now to attract bandmates. What if they could ask to be judged without unconscious bias?
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
@@ -74,22 +74,24 @@ These revelations emerge from the unconscious mind as your thoughts drift in the
 ${'  ' || `
 // TODO: Think this through and flesh it out, talking more about hustle and craft.
 
-### History wants radio-friendly hooks
-
 It takes time to compose a strong melody and chord progression— but indie artists need to spend their time building a fanbase instead. And so the indie labels only have an ear for what critics respect, not what other musicians envy.
+`}
+
+### History wants radio-friendly hooks
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why.
 
 And yet, despite the implosion of the radio format in the last two decades, the indie labels aren't bothering to poach the next Stone Temple Pilots. Why? Because they'd never developed an ear for it.
 
+And so there's a comfortable acceptance that indie artists don't make the kind of works that other musicians envy. They have other strengths.
+
 Yet few of us care what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will be no different. There's just no way around it: Making history starts with crafting your best hooks. So BYCombo gives you all the time you need.
-`}
 
 ### The grassroots is now a lottery
 
 The earliest indie bands are respected for having built a grassroots fanbase, right? But there's also a less spoken reason: Their stories feel deterministic. That is to say, these bands were always likely to succeed because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now the world is drowning in their music— *and* they're respected for it.
+In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the grassroots in their music— *and* getting respect for it.
 
 Naturally, bands who prefer the deterministic path can't compete like this. Yet the indie gatekeepers don't sympathize; after all, *some* indie artists are doing just fine, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
 
@@ -112,12 +114,14 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 ### *For* hungry outsiders, *by* a hungry outsider
 
 ${'  ' || `
-// TODO: Think about whether to incorporate diversity of thought here.
+// TODO: Just needs review now.
 `}
 
 Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an easy path for *rivals* to earn respect.
 
-Don't be fooled, either, by indie rock's belated embrace of minority artists. They've been handed the reins *because* it's in decline; these are crumbs on offer here. No, the best movements for minorities are the ones *they* start *themselves*, that reflect *their* circumstances— and thus reward what can't be bought: originality and talent, born from an outsider's hunger.
+Don't be fooled, either, by the recent wave of minority indie artists. As an ideology first and foremost, indie rock still lacks the diversity of thought found in other genres; no genuine outreach took place. Instead, the indie gatekeepers simply waited for *some* minorities to be privileged enough to thrive in a decentralized system, as some white men always have.
+
+Anyway, indie rock is handing over its reins *because* it's in decline; these are crumbs on offer here. No, the best movements for minorities are the ones *they* start *themselves*, that reflect *their* circumstances— and thus reward what can't be bought: originality and talent, born from an outsider's hunger.
 
 Hip hop is the latest case in point, and BYCombo— which I founded to serve *all* disadvantaged groups— will be the next. As a minority myself, I know that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
