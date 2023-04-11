@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The problem with indie rock
 
-By the 90s, the major labels no longer invested in their artists. They simply counted on a few superstars to break out, like Nirvana and Radiohead; the rest were then written off as failed bets. But the indie labels held to fair standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
+By the 90s, the major labels no longer invested in their artists. They simply counted on a few superstars to break out, like Nirvana and Radiohead, and then they'd write off the rest as lost bets. But the indie labels held to fair standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -79,7 +79,7 @@ It takes time to compose a strong melody and chord progression— but indie arti
 
 ### History wants radio-friendly hooks
 
-As a child, I studied the works I envied— so it was obvious that for my own works to be any good, they'd need to instill a similar envy in other musicians.
+As a child, I studied the bands whose chords and melodies I envied— so it was obvious that for me to be any good, I'd need to instill a similar envy in others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why.
 
@@ -115,15 +115,11 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
-
 Who foresaw indie rock's ironic endgame? We minorities did— which is why we've never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an easy path for *rivals* to earn respect.
 
 And since indie rock is more of an ideology than an aesthetic, it will never want *true* diversity, which includes diversity of *thought*. So don't be fooled by its recent wave of minority artists; there's been no outreach. Society simply came to a point where *some* minorities are now privileged enough to think— and therefore compete— like libertarian White men.
 
-But why is indie rock finally sharing the reins? Because it's in *decline*; these are crumbs on offer here. So don't take the bait! No, the best movements for us minorities are the ones that *we* start *ourselves*, to fit *our* circumstances— and which thus reward what can't be bought: originality and talent, born from an outsider's hunger.
+But why is indie rock finally sharing the reins? Because it's in *decline*; these are crumbs on offer here. Don't take the bait! No, the best movements for us minorities are the ones that *we* start *ourselves*, to fit *our* circumstances— and which thus reward what can't be bought: originality and talent, born from an outsider's hunger.
 
 Hip hop is the most recent case in point, and BYCombo— which I founded to serve *all* disadvantaged groups— will be the next. As one of you, I know that disadvantage drives your need for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 

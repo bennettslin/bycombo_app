@@ -64,7 +64,7 @@ So plenty out there would love to hear a demo that advances the art form— but 
 **To stand out from the crowd, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
 
 ${'  ' || `
-// TODO: Revisit hobbyist here.
+// TODO: Revisit hobbyist here. Indie rock will finally collapse, under the sheer weight of not being what the people want.
 `}
 
 Picture a *hundred* BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our time. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
