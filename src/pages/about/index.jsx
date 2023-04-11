@@ -114,16 +114,16 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 ### *For* hungry outsiders, *by* a hungry outsider
 
 ${'  ' || `
-// TODO: Just needs review now.
+// TODO: Continue to review.
 `}
 
 Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an easy path for *rivals* to earn respect.
 
-Don't be fooled, either, by the recent wave of minority indie artists. As an ideology first and foremost, indie rock still lacks the diversity of thought found in other genres; no genuine outreach took place. Instead, the indie gatekeepers simply waited for *some* minorities to be privileged enough to thrive in a decentralized system, as some white men always have.
+And since indie rock is defined by an ideology rather than an aesthetic, it will always lack diversity of *thought*. So don't be fooled, either, by the recent wave of minority artists in this genre; no real outreach has taken place. Society has simply reached a point where *some* minorities are now privileged enough to think— and therefore compete— like White men.
 
-Anyway, indie rock is handing over its reins *because* it's in decline; these are crumbs on offer here. No, the best movements for minorities are the ones *they* start *themselves*, that reflect *their* circumstances— and thus reward what can't be bought: originality and talent, born from an outsider's hunger.
+Anyway, indie rock is finally handing over its reins *because* it's in decline; these are crumbs on offer here. Don't take the bait! No, the best movements for us minorities are the ones *we* start *ourselves*, that fit *our* circumstances— and thus reward what can't be bought: originality and talent, born from an outsider's hunger.
 
-Hip hop is the latest case in point, and BYCombo— which I founded to serve *all* disadvantaged groups— will be the next. As a minority myself, I know that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
+Hip hop is the most recent case in point, and BYCombo— which I founded to serve *all* disadvantaged groups— will be the next. As one of you, I know that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
 ### A artists help A artists, B artists help C artists
 
