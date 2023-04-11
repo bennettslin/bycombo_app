@@ -117,19 +117,19 @@ ${'  ' || `
 // TODO: Continue to review.
 `}
 
-Who foresaw indie rock's ironic endgame? Minorities did— which is why they've never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an easy path for *rivals* to earn respect.
+Who foresaw indie rock's ironic endgame? We minorities did— which is why we've never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an easy path for *rivals* to earn respect.
 
-And since indie rock is defined by an ideology rather than an aesthetic, it will always lack diversity of *thought*. So don't be fooled, either, by the recent wave of minority artists in this genre; no real outreach has taken place. Society has simply reached a point where *some* minorities are now privileged enough to think— and therefore compete— like White men.
+And since indie rock is defined by an ideology rather than an aesthetic, it can never value diversity of *thought*. So don't be fooled, either, by the recent wave of minority artists in this genre; there's been no genuine outreach. Society simply came to a point where *some* minorities are now privileged enough to think like White men— and therefore to compete like them as well.
 
-Anyway, indie rock is finally handing over its reins *because* it's in decline; these are crumbs on offer here. Don't take the bait! No, the best movements for us minorities are the ones *we* start *ourselves*, that fit *our* circumstances— and thus reward what can't be bought: originality and talent, born from an outsider's hunger.
+But why is indie rock finally sharing its reins? Because it's in *decline*; these are crumbs on offer here. So don't take the bait! No, the best movements for minorities are the ones that *we* start *ourselves*, to fit *our* circumstances— and which thus reward what can't be bought: originality and talent, born from an outsider's hunger.
 
-Hip hop is the most recent case in point, and BYCombo— which I founded to serve *all* disadvantaged groups— will be the next. As one of you, I know that disadvantage drives your instinct for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
+Hip hop is the most recent case in point, and BYCombo— which I founded to serve *all* disadvantaged groups— will be the next. As one of you, I know that disadvantage drives your need for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
 ### A artists help A artists, B artists help C artists
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-It's because paid dues are worthless outside the one system that promises to honor them. So those who pay them will fight to keep the system as it is. In short, you can pay your dues, or you can start a revolution— but never both.
+It's because paid dues are worthless beyond the one system that promises to honor them. So those who pay them will fight to keep the system as it is. In short, you can pay your dues, or you can start a revolution— but never both.
 
 Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
 
