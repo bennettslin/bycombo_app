@@ -63,7 +63,7 @@ In the past, we of the English-speaking world rightfully claimed ours to be *the
 
 The answer lies in indie rock's decentralized nature, which forces artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, since each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
-Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to. So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser! Luckily, there's a way to fix this perverse incentive: through a centralized initiative like BYCombo.
+Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to. So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser! Luckily, there's a way to fix this perverse incentive: through a centralized initiative like BYCombo.
 
 ### Revelations require a single hat
 
@@ -78,6 +78,8 @@ It takes time to compose a strong melody and chord progression— but indie arti
 `}
 
 ### History wants radio-friendly hooks
+
+As a child, I would study the works I envied— so it was obvious that my works should instill the same envy in others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why.
 
