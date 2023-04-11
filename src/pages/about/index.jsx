@@ -63,7 +63,7 @@ In the past, we of the English-speaking world could rightfully claim ours to be 
 
 The answer lies in indie rock's decentralized nature, which forces artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, since each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
-Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to! So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser. Yikes! Luckily, there's a way to fix this perverse incentive: through a centralized initiative like BYCombo.
+Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply not to. So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser! Luckily, there's a way to fix this perverse incentive: through a centralized initiative like BYCombo.
 
 ### Revelations require a single hat
 
@@ -133,7 +133,7 @@ It's because paid dues are worthless outside the one system that promises to hon
 
 Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
 
-Which is why it took an outsider like myself to start BYCombo, driven by an urge to help up-and-coming bands who might surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first artist who's secure enough to *want* it— having never paid indie rock's dues myself.
+Which is why it took an outsider like myself to start BYCombo, driven by an urge to help up-and-coming bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first artist who's secure enough to *want* it— having never paid indie rock's dues myself.
 
 ### Art needs the blood of martyrs
 
