@@ -119,9 +119,9 @@ ${'  ' || `
 
 Who foresaw indie rock's ironic endgame? We minorities did— which is why we've never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an easy path for *rivals* to earn respect.
 
-And since indie rock is defined by an ideology rather than an aesthetic, it can never value diversity of *thought*. So don't be fooled, either, by the recent wave of minority artists in this genre; there's been no genuine outreach. Society simply came to a point where *some* minorities are now privileged enough to think like White men— and therefore to compete like them as well.
+And since indie rock is defined by an ideology rather than an aesthetic, it can never value diversity of *thought*. So don't be fooled, either, by the recent wave of minority artists in this genre; there's been no genuine outreach. Society simply came to a point where some minorities are now privileged enough to *think* like White men— and therefore to *compete* like them as well.
 
-But why is indie rock finally sharing its reins? Because it's in *decline*; these are crumbs on offer here. So don't take the bait! No, the best movements for minorities are the ones that *we* start *ourselves*, to fit *our* circumstances— and which thus reward what can't be bought: originality and talent, born from an outsider's hunger.
+But why is indie rock finally sharing the reins? Because it's in *decline*; these are crumbs on offer here. So don't take the bait! No, the best movements for minorities are the ones that *we* start *ourselves*, to fit *our* circumstances— and which thus reward what can't be bought: originality and talent, born from an outsider's hunger.
 
 Hip hop is the most recent case in point, and BYCombo— which I founded to serve *all* disadvantaged groups— will be the next. As one of you, I know that disadvantage drives your need for *mutual* reliance, as well as your hunger to aim for the *top* of the pantheon.
 
