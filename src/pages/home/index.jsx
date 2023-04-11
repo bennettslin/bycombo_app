@@ -31,7 +31,7 @@ By *not* using indie rock's tools, however, I'm dismissed as a mere hobbyist— 
 
 **To make the best art, a band *must* be interdependent. This sets them back, however, since *every* artist today is assumed to follow indie rock's rules— and thus, to reap the benefits of using its tools.**
 
-Now, rule makers and rule followers may see poetic justice here. Rules exist for a reason, after all, so rule breakers can't complain about being penalized. Yet breaking the rules is what it truly means to be creative! So let's not shut them out either.
+Now, rule makers and rule followers may see poetic justice here. Rules exist for a reason, after all, so rule breakers can't complain about being penalized. Yet breaking the rules is what it *truly* means to be creative! So let's not shut them out either.
 
 ### Return of the rock martyrs
 
@@ -62,6 +62,10 @@ But if we can't dissent, then we'll just revolt! Some young people now *agree* w
 So plenty out there would love to hear a demo that advances the art form— but how will they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an anti-indie counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
 
 **To stand out from the crowd, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
+
+${'  ' || `
+// TODO: Revisit hobbyist here.
+`}
 
 Picture a *hundred* BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our time. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
             `,

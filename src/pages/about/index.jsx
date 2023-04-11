@@ -25,7 +25,7 @@ A counterculture is needed to protect dangerous ideas, yet we haven't had one fo
 
 **Why historical consequence?**
 
-Critical acclaim can be inflated, which makes it a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted— and *this* is why people gripe that rock is getting worse.
+Critical acclaim can be inflated, which makes it a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted into the canon— and *this* is why people gripe that rock is getting worse.
 
 **Why assembled bands?**
 
@@ -63,7 +63,7 @@ In the past, we of the English-speaking world rightfully claimed ours to be *the
 
 The answer lies in indie rock's decentralized nature, which forces artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, since each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
-Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to. So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser! Luckily, there's a way to fix this perverse incentive: through a centralized initiative like BYCombo.
+Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to. So any band who does so anyway— in the hope to remain peerless— will end up the biggest loser. Yikes! To resurrect the canon, then, we *need* to fix this perverse incentive. Luckily, BYCombo is on the case.
 
 ### Revelations require a single hat
 
@@ -79,13 +79,13 @@ It takes time to compose a strong melody and chord progression— but indie arti
 
 ### History wants radio-friendly hooks
 
-As a child, I would study the works I envied— so it was obvious that my works should instill the same envy in others.
+As a child, I studied the works I envied— so it was obvious that for my own works to be any good, they'd need to instill a similar envy in other musicians.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why.
 
 And yet, despite the implosion of the radio format in the last two decades, the indie labels aren't bothering to poach the next Stone Temple Pilots. Why? Because they'd never developed an ear for it.
 
-And so there's a comfortable acceptance that indie artists don't make the kind of works that other musicians envy. They have other strengths.
+As such, the quintessential work by an acclaimed indie artist is one that critics all admire, but no musicians envy.
 
 Yet few of us care what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will be no different. There's just no way around it: Making history starts with crafting your best hooks. So BYCombo gives you all the time you need.
 
@@ -116,12 +116,12 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 ### *For* hungry outsiders, *by* a hungry outsider
 
 ${'  ' || `
-// TODO: Continue to review.
+// TODO: Just one more final review.
 `}
 
 Who foresaw indie rock's ironic endgame? We minorities did— which is why we've never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an easy path for *rivals* to earn respect.
 
-And since indie rock is defined by an ideology rather than an aesthetic, it can never value diversity of *thought*. So don't be fooled, either, by the recent wave of minority artists in this genre; there's been no real outreach. Society simply came to a point where *some* minorities are now privileged enough to think like White men— and therefore to compete like them as well.
+And since indie rock is more of an ideology than an aesthetic, it will never want *true* diversity, which includes diversity of *thought*. So don't be fooled by its recent wave of minority artists; there's been no outreach. Society simply came to a point where *some* minorities are now privileged enough to think— and therefore compete— like libertarian White men.
 
 But why is indie rock finally sharing the reins? Because it's in *decline*; these are crumbs on offer here. So don't take the bait! No, the best movements for us minorities are the ones that *we* start *ourselves*, to fit *our* circumstances— and which thus reward what can't be bought: originality and talent, born from an outsider's hunger.
 
@@ -131,9 +131,9 @@ Hip hop is the most recent case in point, and BYCombo— which I founded to serv
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-It's because paid dues are worthless beyond the one system that promises to honor them. So those who pay them will fight to keep the system as it is. In short, you can pay your dues, or you can start a revolution— but never both.
+It's because paid dues are worthless outside the one system that promises to honor them. So those who pay them will fight to keep the system as it is. In short, you can pay your dues, or you can start a revolution— but never both.
 
-Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
+Moreover, once someone has wasted their best years to rack up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help up-and-coming bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first artist who's secure enough to *want* it— having never paid indie rock's dues myself.
 
