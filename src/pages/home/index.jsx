@@ -53,7 +53,7 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corpora
 
 But worst of all, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock came here to shut out *all* the bad guys! Which brings us to the heart of the problem:
 
-**As the first rock movement to believe in the universality of its ideals, indie rock is also the first to lock its rules in place forever. So there's no historical precedent to teach us how to dissent— or even to assure us that we *can*.**
+**As the first rock movement to believe in the universality of its ideals, indie rock is also the first to lock its rules in place forever. So there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
 
 ### A hundred *Yearling's Bobtail*s
 
@@ -61,7 +61,7 @@ ${'  ' || `
 // TODO: Make the first paragraph better, and flow nicely into second.
 `}
 
-But the situation isn't hopeless! It's *always* been obvious that indie rock's ideals, taken to their logical extreme, would lead to the present absurdity, in which the most promising artists are seen as mere hobbyists and therefore silenced. We've just been waiting for a generation to come along and finally admit it.
+So the indie gatekeepers will always see the most promising artists of our time as mere hobbyists, and hide them from view. But the situation isn't hopeless! It's been obvious all along that indie rock's ideals, taken to their logical extreme, would lead to this present-day absurdity. We're just waiting for the next generation of youth to come along and finally admit it.
 
 Unsurprisingly, then, some young people now *agree* with me that indie rock has made music worse. And their discontent is the first step toward reviving interdependence from the *outside*, because it tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption. So even if we can't dissent, we can still revolt!
 
