@@ -59,11 +59,15 @@ Here's an incomplete list of ways…
 
 ### The opportunity cost is too damn high
 
+${'  ' || `
+// TODO: Review this section again.
+`}
+
 In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today, indie rock is just another foreign canon, because indie artists *never* go above and beyond. Why don't they?
 
 The answer lies in indie rock's decentralized nature, which forces artists to build a fanbase on their own. Happily enough, the returns on this effort are cumulative, since each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to.
 
-Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to. So any band who does so anyway— in the hope to remain peerless— will end up the biggest loser. Yikes! To resurrect the canon, then, we *need* to fix this perverse incentive. Luckily, BYCombo is on the case.
+Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to. So any band who does so anyway, in the hope to remain peerless, will end up the biggest loser! No wonder we lost the canon. Can we get it back? Yes— just keep checking BYCombo's registry!
 
 ### Revelations require a single hat
 
@@ -79,15 +83,15 @@ It takes time to compose a strong melody and chord progression— but indie arti
 
 ### History wants radio-friendly hooks
 
-As a child, I studied the bands whose chords and melodies I envied— so it was obvious that for me to be any good, I'd need to instill a similar envy in others.
+As a child, I studied the bands whose works I envied— so it was obvious that my own band would need to instill a similar envy in others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why.
 
 And yet, despite the implosion of the radio format in the last two decades, the indie labels aren't bothering to poach the next Stone Temple Pilots. Why? Because they'd never developed an ear for it.
 
-As such, the quintessential work by an acclaimed indie artist is one that critics all admire, but no musicians envy.
+To this day, the quintessential indie artist is one whom most critics admire, yet few musicians envy.
 
-Yet few of us care what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will be no different. There's just no way around it: Making history starts with crafting your best hooks. So BYCombo gives you all the time you need.
+Yet few of us care what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations won't be any different. There's just no way around it: Making history starts with crafting hooks that other musicians envy. So BYCombo gives you all the time you need.
 
 ### The grassroots is now a lottery
 

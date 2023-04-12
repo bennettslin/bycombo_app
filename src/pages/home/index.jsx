@@ -45,7 +45,7 @@ So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones wh
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform with others.
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform.
 
 It's worse than just that, however. We see these indie gatekeepers as the "good guys" because they stay close to the underground scenes; they're one of *us*. So whatever they like, we trust that we'll like. But… according to studies, it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
@@ -57,17 +57,19 @@ But worst of all, any band who breaks the good guys' rules is technically a bad 
 
 ### A hundred *Yearling's Bobtail*s
 
-But if we can't dissent, then we'll just revolt! Some young people now *agree* with me that indie rock has made music worse, and this is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
+${'  ' || `
+// TODO: Make the first paragraph better, and flow nicely into second.
+`}
 
-So plenty out there would love to hear a demo that advances the art form— but how will they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an anti-indie counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
+But the situation isn't hopeless! It's *always* been obvious that indie rock's ideals, taken to their logical extreme, would lead to the present absurdity, in which the most promising artists are seen as mere hobbyists and therefore silenced. We've just been waiting for a generation to come along and finally admit it.
+
+Unsurprisingly, then, some young people now *agree* with me that indie rock has made music worse. And their discontent is the first step toward reviving interdependence from the *outside*, because it tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption. So even if we can't dissent, we can still revolt!
+
+But while plenty out there might love to hear a demo that advances the art form, how would they find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an anti-indie counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
 
 **To stand out from the crowd, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
 
-${'  ' || `
-// TODO: Revisit hobbyist here. Indie rock will finally collapse, under the sheer weight of not being what the people want.
-`}
-
-Picture a *hundred* BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our time. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
+So picture a *hundred* BYCombo bands, all of them breaking through the indie gatekeepers' resistance to make the most creative works of our time. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
