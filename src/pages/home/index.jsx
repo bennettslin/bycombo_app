@@ -61,7 +61,7 @@ ${'  ' || `
 // TODO: Make the first paragraph better, and flow nicely into second.
 `}
 
-So the indie gatekeepers will always see the most promising artists of our time as mere hobbyists, and hide them from view. But the situation isn't hopeless! It's been obvious all along that indie rock's ideals, taken to their logical extreme, would lead to this present-day absurdity. We're just waiting for the next generation of youth to come along and finally admit it.
+But the situation isn't hopeless! It was always obvious that indie rock's ideals, taken to their logical extreme, would lead to the present-day impasse, in which the most promising artists are treated as mere hobbyists. We're just waiting for the next generation of youth to come along and finally admit it.
 
 Unsurprisingly, then, some young people now *agree* with me that indie rock has made music worse. And their discontent is the first step toward reviving interdependence from the *outside*, because it tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption. So even if we can't dissent, we can still revolt!
 
