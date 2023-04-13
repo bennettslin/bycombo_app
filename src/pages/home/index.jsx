@@ -58,12 +58,12 @@ But worst of all, any band who breaks the good guys' rules is technically a bad 
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Make the first paragraph better, and flow nicely into second.
+// TODO: Continue to review. Two "so"s in a row.
 `}
 
-But the situation isn't hopeless! It was always obvious that indie rock's ideals, taken to their logical extreme, would lead to the present-day impasse, in which the most promising artists are treated as mere hobbyists. We're just waiting for the next generation of youth to come along and finally admit it.
+Here we are, then. Anyone who sacrifices a serious chunk of lifetime to make an ambitious work like *Yearling's Bobtail*… is a mere hobbyist, to be shut out forever. Even more maddening, it was obvious all along that indie rock's ideals, taken to their logical extreme, would lead to such absurdity. The last generation was just too enamored of indie rock's promises to admit it.
 
-Unsurprisingly, then, some young people now *agree* with me that indie rock has made music worse. And their discontent is the first step toward reviving interdependence from the *outside*, because it tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption. So even if we can't dissent, we can still revolt!
+But the torch has been passed once again, and today's young people largely *agree* with me that indie rock has made music worse. Their discontent is the first step toward reviving interdependence from the *outside*, because it tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption. So if we can't dissent, let's full-on revolt!
 
 But while plenty out there might love to hear a demo that advances the art form, how would they find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an anti-indie counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
 

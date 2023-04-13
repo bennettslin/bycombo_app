@@ -59,15 +59,11 @@ Here's an incomplete list of ways…
 
 ### The opportunity cost is too damn high
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
-
 In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today, indie rock is just another foreign canon, because indie artists *never* go above and beyond. Why don't they? It's because they're required to build a fanbase on their own.
 
-Happily enough, the returns on building a fanbase will compound, since each fan brings in more fans. But not only that, with no talent scouts out there discovering artists, it's a huge disadvantage *not* to. Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to!
+Happily enough, the returns on building a fanbase do compound, since each fan brings in more fans. But not only that, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to!
 
-What if a band goes above and beyond anyway, hoping to remain peerless? Add up what they gain, subtract the costs, and the math makes it clear: They'll end up the biggest loser. No wonder we lost the canon! But have no fear: With BYCombo, you can now go above and beyond to win it back.
+What happens if a band goes above and beyond anyway, hoping to remain peerless? Add up what they gain, subtract the costs, and the math makes it clear: They'll end up the biggest loser. No wonder we lost the canon! But have no fear: With BYCombo, you can now go above and beyond to win it back.
 
 ### Revelations require a single hat
 
