@@ -13,13 +13,13 @@ Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ong
 
 There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life coming up with a plan:
 
-**BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then show in a public registry to sustain an anti-indie counterculture.**
+**BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then show in a public registry to sustain an alternative counterculture.**
 
 ### The revolution will *not* be decentralized
 
 Okay, that's a mouthful! Let's break it down…
 
-**Why an anti-indie counterculture?**
+**Why an alternative counterculture?**
 
 A counterculture is needed to protect dangerous ideas, yet we haven't had one for some time. Meanwhile, despite indie rock's good intentions, rock has gotten worse. But what if rock is worse… *because* of these good intentions? What if all this charitable support for indie *artists*… is actually bad for *art*? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
@@ -85,11 +85,11 @@ ${'  ' || `
 
 ### History wants radio-friendly hooks
 
-As a child, I studied the bands whose compositional talents I envied— so it was obvious that I'd need to instill the same envy in others. A while back, I distilled everything I knew into my songwriting book [*Bobtail Method*](https://bobtailmethod.com) and sent copies to the indie labels. None were interested… and I came to figure out why: Indie rock is *defined* by its ignorance of music as a *craft*.
+As a child, I studied the bands whose compositional talents I envied— so it was obvious that I'd need to instill the same envy in others. A while back, I distilled everything I knew into [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and sent copies to various indie gatekeepers. None were interested… and I came to figure out why: Indie rock is *defined* by its ignorance of music as a *craft*.
 
-To get played on the radio in the 90s, alternative bands would craft solid hooks that can be enjoyed without external context— exactly the kind of thing that other musicians envy. So to hold their own, indie bands adapted by making works that *require* external context to appreciate— which delights music critics, because they're uniquely positioned to provide that context.
+To get played on the radio in the 90s, alternative bands would craft solid hooks that can be enjoyed without extrinsic context— exactly what other musicians envy. So to hold their own, indie bands adapted by making works that *require* extrinsic context to appreciate— which pleases music critics, because they're uniquely able to provide that context.
 
-But even after the implosion of radio in the last two decades, the indie labels *still* aren't signing the next Nirvana or Radiohead, despite such bands now being theirs for the taking. Why? Because they never developed an ear for it. So to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
+But even after the implosion of radio in the last few decades, the indie labels *still* aren't signing the next Nirvana or Radiohead, despite such bands now being all theirs for the taking. Why? Because they never developed an ear for it. So to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
 
 Yet few of us care what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations won't be any different. There's just no way around it: Making history starts with being the envy of other musicians. So BYCombo gives you all the time you need.
 
