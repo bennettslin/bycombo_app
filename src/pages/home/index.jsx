@@ -58,18 +58,18 @@ But worst of all, any band who breaks the good guys' rules is technically a bad 
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Continue to review. Two "so"s in a row.
+// TODO: Just a final review of whole section now.
 `}
 
-Here we are, then. Anyone who sacrifices a serious chunk of lifetime to make an ambitious work like *Yearling's Bobtail*… is a mere hobbyist, to be shut out forever. Even more maddening, it was obvious all along that indie rock's ideals, taken to their logical extreme, would lead to such absurdity. The last generation was just too enamored of indie rock's promises to admit it.
+Well, here we are, then. Anyone who sacrifices a serious chunk of lifetime to make an ambitious work like *Yearling's Bobtail*… will be dismissed forever as a mere hobbyist. Even more maddening, it was obvious all along that indie rock's ideals, taken to their logical extreme, would lead to such absurdity. The last two generations were just too proud of their creation to admit it.
 
-But the torch has been passed once again, and today's young people largely *agree* with me that indie rock has made music worse. Their discontent is the first step toward reviving interdependence from the *outside*, because it tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption. So if we can't dissent, let's full-on revolt!
+But if we can't dissent, then let's revolt! As the torch gets passed once again, today's young people largely *agree* with me that indie rock has made music worse. And this discontent is the first step toward reviving interdependence from the *outside*, because it tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
 
 But while plenty out there might love to hear a demo that advances the art form, how would they find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an anti-indie counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
 
 **To stand out from the crowd, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
 
-So picture a *hundred* BYCombo bands, all of them breaking through the indie gatekeepers' resistance to make the most creative works of our time. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
+So picture a *hundred* BYCombo bands, all of them breaking through the indie gatekeepers' resistance to make the most ambitiously creative works of our time. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
