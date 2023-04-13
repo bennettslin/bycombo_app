@@ -58,10 +58,10 @@ But worst of all, any band who breaks the good guys' rules is technically a bad 
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Just a final review of whole section now.
+// TODO: Just a final review of whole section now. Mention latest generation in second paragraph?
 `}
 
-Well, here we are, then. Anyone who sacrifices a serious chunk of lifetime to make an ambitious work like *Yearling's Bobtail*… will be dismissed forever as a mere hobbyist. Even more maddening, it was obvious all along that indie rock's ideals, taken to their logical extreme, would lead to such absurdity. The last two generations were just too proud of their creation to admit it.
+Well, here we are, then. Anyone who sacrifices a serious chunk of lifetime to make an ambitious work like *Yearling's Bobtail*… will be dismissed forever as a mere hobbyist. Even more maddening, it was obvious all along that indie rock's ideals, taken to their logical extreme, would lead to such absurdities. The past two generations were just too proud of their creation to admit it.
 
 But if we can't dissent, then let's revolt! As the torch gets passed once again, today's young people largely *agree* with me that indie rock has made music worse. And this discontent is the first step toward reviving interdependence from the *outside*, because it tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
 

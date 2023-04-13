@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The problem with indie rock
 
-By the 90s, the major labels no longer invested in their artists. They simply counted on a few superstars to break out, like Nirvana and Radiohead, and then they'd write off the rest as lost bets. But the indie labels held to fair standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
+By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana and Radiohead, and then the rest were written off as lost bets. But the indie labels held to fair standards that promised *all* their bands a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -71,31 +71,27 @@ Indie rock requires artists to wear several hats: the influencer hat, the public
 
 These revelations emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom— but this won't ever happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
 
-${'  ' || `
-// TODO: Think this through and flesh it out, talking more about hustle and craft.
-
-It takes time to compose a strong melody and chord progression— but indie artists need to spend their time building a fanbase instead. And so the indie labels only have an ear for what critics respect, not what other musicians envy.
-`}
-
-### History wants radio-friendly hooks
-
-As a child, I studied the bands whose works I envied— so it was obvious that my own band would need to instill a similar envy in others.
-
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels. None were interested… and I soon figured out why.
-
-And yet, despite the implosion of the radio format in the last two decades, the indie labels aren't bothering to poach the next Stone Temple Pilots. Why? Because they'd never developed an ear for it.
-
-To this day, the quintessential indie artist is one whom most critics admire, yet few musicians envy.
-
-Yet few of us care what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations won't be any different. There's just no way around it: Making history starts with crafting hooks that other musicians envy. So BYCombo gives you all the time you need.
-
 ### The grassroots is now a lottery
 
-The earliest indie bands are respected for having built a grassroots fanbase, yes. But there's also a less spoken reason: Their stories feel deterministic. That is to say, these bands were always likely to succeed because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+The early indie bands are respected for having built a grassroots fanbase, yes. But there's also a less spoken reason: Their stories feel deterministic. That is to say, these bands were always likely to succeed because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the grassroots in their music— *and* getting respect for it.
 
 Naturally, bands who prefer the deterministic path can't compete like this. Yet the indie gatekeepers don't sympathize; after all, *some* indie artists are doing just fine, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
+
+${'  ' || `
+// TODO: Continue to work on. Revise the BYCombo sentence to be more about helping artists.
+`}
+
+### History wants radio-friendly hooks
+
+As a child, I studied the bands whose compositional talents I envied— so it was obvious that I'd need to instill the same envy in others. A while back, I distilled everything I knew into my songwriting book [*Bobtail Method*](https://bobtailmethod.com) and sent copies to the indie labels. None were interested… and I came to figure out why: Indie rock is *defined* by its ignorance of music as a *craft*.
+
+To get played on the radio in the 90s, alternative bands would craft solid hooks that can be enjoyed without external context— exactly the kind of thing that other musicians envy. So to hold their own, indie bands adapted by making works that *require* external context to appreciate— which delights music critics, because they're uniquely positioned to provide that context.
+
+But even after the implosion of radio in the last two decades, the indie labels *still* aren't signing the next Nirvana or Radiohead, despite such bands now being theirs for the taking. Why? Because they never developed an ear for it. So to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
+
+Yet few of us care what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations won't be any different. There's just no way around it: Making history starts with being the envy of other musicians. So BYCombo gives you all the time you need.
 
 ### Middle managers join the revolution *last*
 
@@ -129,7 +125,7 @@ For many years, I worked days as a coder and nights on my audio webcomic. When I
 
 It's because paid dues are worthless outside the one system that promises to honor them. So those who pay them will fight to keep the system as it is. In short, you can pay your dues, or you can start a revolution— but never both.
 
-Moreover, once someone has wasted their best years to rack up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
+Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help up-and-coming bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first artist who's secure enough to *want* it— having never paid indie rock's dues myself.
 
