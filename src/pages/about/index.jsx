@@ -115,10 +115,6 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
-
 Who foresaw indie rock's ironic endgame? We did— us minorities— which is why we've never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an easy path for *rivals* to earn respect.
 
 And as a genre defined by an ideology, indie rock can never want diversity of *thought*; it can never value those who think differently from its White male founders. So don't be fooled by its recent parade of minority artists: There was no outreach. Society simply came to a point where *some* minorities are now privileged enough to think— and thus compete— like White men.
