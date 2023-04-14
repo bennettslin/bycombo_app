@@ -29,7 +29,7 @@ Critical acclaim can be inflated, which makes it a terrible barometer. What *can
 
 **Why assembled bands?**
 
-Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But once we ditch this notion? Then rock has barely scratched the surface.
+Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But if we ditch this notion? Then rock has barely scratched the surface.
 
 What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain or Thom Yorke is a woman or minority who's struggling right now to attract bandmates. What if they could ask to be judged without unconscious bias?
 
@@ -73,7 +73,7 @@ These revelations emerge from the unconscious mind as your thoughts drift in the
 
 ### The grassroots is now a lottery
 
-The early indie bands are respected for having built a grassroots fanbase, yes. But there's also a less spoken reason: Their stories feel deterministic. That is to say, these bands were always likely to succeed because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+The early indie bands are respected for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic. That is to say, these bands were always likely to succeed because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the grassroots in their music— *and* getting respect for it.
 
@@ -81,17 +81,13 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 
 ### History wants radio-friendly hooks
 
-${'  ' || `
-// TODO: Just needs final review.
-`}
+As a child, I studied the bands whose compositional skills I envied, dreaming that someday my own band would teach others. So a while back, I distilled all I knew into my book [*Bobtail Method*](https://bobtailmethod.com) and sent copies to the indie labels; I later sent samples of my game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But none were interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-As a child, I studied the bands whose compositional skills I envied, hoping that someday my own band would teach others. So a while back, I distilled all I knew into my book [*Bobtail Method*](https://bobtailmethod.com) and sent copies to the indie labels; I later did the same with my game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But none were interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
+To vie for radio airplay in the 90s, the major labels signed alternative bands who crafted solid hooks that can be enjoyed free of context— the kind of feat that other musicians envy. So to differentiate themselves, the indie labels signed bands who *rely* on extrinsic context— to the delight of music critics, who are uniquely positioned to provide that context to the public.
 
-To get radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed on their own, free of any context— the kind of feat that other musicians envy. To differentiate themselves, then, indie bands made works that rely *heavily* on extrinsic context— to the delight of music critics, who are uniquely positioned to provide that context to the public.
+But even now when radio is dying, the indie labels *still* aren't trying to sign the next Nirvana or Radiohead, despite such bands being all theirs for the taking. Why? Because they have no ear for it. To this day, then, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
 
-But even after the implosion of radio in the last few decades, the indie labels *still* aren't trying to sign the next Nirvana or Radiohead, despite such bands now being theirs for the taking. Why? Because they never developed an ear for it. And so to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
-
-Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge *our* times the same way. Let's face it: Making history starts with becoming the envy of other musicians. And BYCombo is uniquely positioned to help you do that.
+Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will recall *our* times the same way. Let's face it: Making history starts with becoming the envy of other musicians. And BYCombo is uniquely positioned to help you do that.
 
 ### Middle managers join the revolution *last*
 
