@@ -85,13 +85,13 @@ ${'  ' || `
 // TODO: Just needs final review.
 `}
 
-As a child, I studied the bands whose compositional talents I envied, and I fantasized that someday my own band would teach others. So a while back, I distilled what I knew about songwriting into my book [*Bobtail Method*](https://bobtailmethod.com) and sent copies to various indie labels. None were interested… and I eventually figured out why: Indie rock is proudly ignorant of music as a *craft*.
+As a child, I studied the bands whose compositional skills I envied, hoping that someday my own band would teach others. So a while back, I distilled all I knew into my book [*Bobtail Method*](https://bobtailmethod.com) and sent copies to the indie labels; I later did the same with my game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But none were interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-To get played on the radio in the 90s, alternative bands would craft solid hooks that can be enjoyed without extrinsic context— the kind of feat that other musicians envy. So to hold their own, indie bands made works that *require* extrinsic context to appreciate— which delights music critics, who are uniquely positioned to provide that context to the public.
+To get radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed on their own, free of any context— the kind of feat that other musicians envy. To differentiate themselves, then, indie bands made works that rely *heavily* on extrinsic context— to the delight of music critics, who are uniquely positioned to provide that context to the public.
 
-But even after the implosion of radio in the last few decades, the indie labels *still* aren't trying to sign the next Nirvana or Radiohead, despite such bands now being theirs for the taking. Why? Because they never developed an ear for it. To this day, then, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
+But even after the implosion of radio in the last few decades, the indie labels *still* aren't trying to sign the next Nirvana or Radiohead, despite such bands now being theirs for the taking. Why? Because they never developed an ear for it. And so to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
 
-Yet few of us care what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge *our* times the same way. Let's face it, making history starts with becoming the envy of other musicians. And BYCombo— whose founder also invented the game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*— is uniquely positioned to help you do that.
+Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge *our* times the same way. Let's face it: Making history starts with becoming the envy of other musicians. And BYCombo is uniquely positioned to help you do that.
 
 ### Middle managers join the revolution *last*
 
