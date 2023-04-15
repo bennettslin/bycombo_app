@@ -61,9 +61,9 @@ Here's an incomplete list of ways…
 
 In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today, indie rock is just another foreign canon, because indie artists *never* go above and beyond. Why don't they? It's because they're required to build a fanbase on their own.
 
-Happily enough, the returns on building a fanbase do compound, since each fan brings in more fans. But not only that, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to!
+Happily enough, building a fanbase yields compounded returns, since each fan brings in more fans. But not only that, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to!
 
-What happens if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the costs, and the math makes it clear: They'll end up the biggest loser. No wonder we lost the historical canon! But with BYCombo, you can now go above and beyond to win it back.
+What happens if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the costs, and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! But with BYCombo, you can now go above and beyond to win it back.
 
 ### Revelations require a single hat
 
@@ -87,7 +87,7 @@ ${'  ' || `
 
 As a child I studied the bands whose compositions I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But both times the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
 
-To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed *on their own*— the kind of feat that other musicians envy. The indie labels always lost such bands to the majors, though, so instead they listened for works that rely on *extrinsic context* to be appreciated. And these works are loved most by *critics*, who provide that context to the public.
+To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed *on their own*— the kind of feat that other musicians envy. The indie labels always lost such bands to the majors, though, so instead they listened for works that rely on *extrinsic context* to be appreciated. And these works are loved most by *critics*, who provide this context to the public.
 
 But even today with radio dying, the indie labels *aren't* signing the next Nirvana or Radiohead, despite such bands now being theirs for the taking. Why? Because they still don't have an ear for it. So to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
 
