@@ -63,7 +63,7 @@ In the past, we of the English-speaking world rightfully claimed ours to be *the
 
 Happily enough, the returns on building a fanbase do compound, since each fan brings in more fans. But not only that, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to!
 
-What happens if a band goes above and beyond anyway, hoping to remain peerless? Add up what they gain, subtract the costs, and the math makes it clear: They'll end up the biggest loser. No wonder we lost the canon! But have no fear: With BYCombo, you can now go above and beyond to win it back.
+What happens if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the costs, and the math makes it clear: They'll end up the biggest loser. No wonder we lost the historical canon! But with BYCombo, you can now go above and beyond to win it back.
 
 ### Revelations require a single hat
 
@@ -111,17 +111,13 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
-${'  ' || `
-// TODO: Instead of pantheon, connect to crumbs. Because, to no minority's surprise, a movement whose artists aim for participation ribbons … is now in decline.
-`}
-
 Who foresaw indie rock's ironic endgame? We did— us minorities— which is why we've never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an easy path for *rivals* to earn respect.
 
 And as a genre defined by an ideology, indie rock can never want diversity of *thought*; it can never value those who think differently from its White male founders. So don't be fooled by its recent parade of minority artists: There was no outreach. Society simply came to a point where *some* minorities are now privileged enough to think— and therefore compete— like White men.
 
 But why is indie rock finally sharing the reins? Because it's in *decline*; these are crumbs on offer here. No, the best movements for us minorities are the ones founded by *us*, to fit *our* circumstances— which thus reward what can't be bought: originality and talent, born from an outsider's hunger. And what benefits us, benefits *all* disadvantaged groups.
 
-Hip hop was the *last* case in point, and BYCombo is the *next*. Because, as a minority, I know that disadvantage drives your need for *mutual* reliance, as well as your hunger to aim for the *pantheon*.
+Hip hop was the *last* case in point, and BYCombo is the *next*. Because, as a minority, I know that disadvantage drives your need for *mutual* reliance, as well as your hunger to aim for the historical canon.
 
 ### A artists help A artists, B artists help C artists
 
