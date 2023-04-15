@@ -81,11 +81,15 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 
 ### History wants radio-friendly hooks
 
-As a child, I studied the bands whose compositional skills I envied, dreaming that someday my own band would teach others. So a while back, I distilled all I knew into my book [*Bobtail Method*](https://bobtailmethod.com) and sent copies to the indie labels; I later sent samples of my game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But none were interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
+${'  ' || `
+// TODO: Keep reviewing.
+`}
 
-To vie for radio airplay in the 90s, the major labels signed alternative bands who crafted solid hooks that can be enjoyed free of context— the kind of feat that other musicians envy. So to differentiate themselves, the indie labels signed bands who *rely* on extrinsic context— to the delight of music critics, who are uniquely positioned to provide that context to the public.
+As a child, I studied the bands whose compositional skills I envied, dreaming that someday my own band would teach others. So a while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; later, I did the same with my tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But they weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-But even now when radio is dying, the indie labels *still* aren't trying to sign the next Nirvana or Radiohead, despite such bands being all theirs for the taking. Why? Because they have no ear for it. To this day, then, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
+To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed all on their own— the kind of feat that other musicians envy. These bands wanted the majors, though. So the indie labels looked for bands whose works *require* extrinsic context to be appreciated— a trait loved by critics, who alone provide that context to the public.
+
+But even now with radio dying, the indie labels *still* aren't trying to sign the next Nirvana or Radiohead, despite such bands being theirs for the taking. Why? Because they have no ear for it. And so to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will recall *our* times the same way. Let's face it: Making history starts with becoming the envy of other musicians. And BYCombo is uniquely positioned to help you do that.
 
@@ -109,9 +113,9 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 Who foresaw indie rock's ironic endgame? We did— us minorities— which is why we've never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're really saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering an easy path for *rivals* to earn respect.
 
-And as a genre defined by an ideology, indie rock can never want diversity of *thought*; it can never value those who think differently from its White male founders. So don't be fooled by its recent parade of minority artists: There was no outreach. Society simply came to a point where *some* minorities are now privileged enough to think— and thus compete— like White men.
+And as a genre defined by an ideology, indie rock can never want diversity of *thought*; it can never value those who think differently from its White male founders. So don't be fooled by its recent parade of minority artists: There was no outreach. Society simply came to a point where *some* minorities are now privileged enough to think— and therefore compete— like White men.
 
-But why is indie rock finally sharing the reins? Because it's in *decline*; these are crumbs on offer here. No, the best movements for us minorities are the ones founded *by* us, to fit *our* circumstances— which, therefore, reward what can't be bought: originality and talent, born from an outsider's hunger. And what benefits us, benefits *all* disadvantaged groups.
+But why is indie rock finally sharing the reins? Because it's in *decline*; these are crumbs on offer here. No, the best movements for us minorities are the ones founded *by* us, to fit *our* circumstances— which thus reward what can't be bought: originality and talent, born from an outsider's hunger. And what benefits us, benefits *all* disadvantaged groups.
 
 Hip hop was the last case in point, and BYCombo is the next. Because, as a minority, I know that disadvantage drives your need for *mutual* reliance, as well as your hunger to aim for the pantheon.
 

@@ -45,31 +45,35 @@ So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones wh
 
 ### Who gatekeeps the gatekeepers?
 
+${'  ' || `
+// TODO: Keep working on. Make second paragraph flow better. Say ultimately, rather than worst of all.
+`}
+
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform.
 
-It's worse than just that, however. We see these indie gatekeepers as the "good guys" because they stay close to the underground scenes; they're one of *us*. So whatever they like, we trust that we'll like. But… according to studies, it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+Okay, sure, but they'll happily make an exception for a *truly* creative work, right? No… and here's why. We see these indie gatekeepers as the "good guys" because they stay close to the underground scenes; they're one of *us*. So whatever they like, we trust that we'll like. But… according to studies, it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
 But worst of all, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock came here to shut out *all* the bad guys! Which brings us to the heart of the problem:
 
-**As the first rock movement to believe in the universality of its ideals, indie rock is also the first to lock its rules in place forever. So there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
+**As the first rock movement to believe its ideals to be universal, indie rock is also the first to lock its rules in place for good. As such, there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
 
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Just a final review of whole section now. Two "so"s in a row again.
+// TODO: Just a final review of whole section now.
 `}
 
-So anyone who sacrifices a serious chunk of lifetime to make an ambitious work like *Yearling's Bobtail*… will be dismissed as a hobbyist and shut out for good. Even more maddening, it was obvious all along that indie rock's ideals, taken to their logical extreme, would lead to such absurdities. The past generation was just too loyal to their "good guys" to admit it.
+So anyone who spends all their time and energy, for untold years, to make an ambitious demo like *Yearling's Bobtail*… will be dismissed as a hobbyist and shut out forever. Even more frustrating, it was always obvious that indie rock's ideals, taken to their logical extreme, would lead to such absurdities. This last generation was just too loyal to their "good guys" to admit it.
 
-But if we can't dissent, then let's revolt! This next generation largely *agrees* with me that indie rock has made music worse. And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
+But if we can't dissent… then let's revolt! This next generation largely *agrees* with me that indie rock has made music worse. And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
 
-But while these "bad guys" might love to hear a demo that advances the art form, how would they find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
+So these "bad guys" would love to hear a demo that advances the art form— but how will they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
 
 **To stand out from the crowd, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
 
-So picture a *hundred* BYCombo bands, all of them breaking through the indie gatekeepers' resistance to make the most ambitiously creative works of our time. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
+Picture a *hundred* BYCombo bands, all of them breaking through the indie gatekeepers' resistance to make the most ambitiously creative works of our time. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
