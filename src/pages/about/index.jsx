@@ -85,11 +85,11 @@ ${'  ' || `
 // TODO: Just needs final review.
 `}
 
-As a child, I studied the bands whose compositional skills I envied, dreaming that someday my own band could teach others. So a while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; later, I did the same with my tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But none were interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
+As a child I studied the bands whose compositions I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But both times the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
 
-To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed all on their own— the kind of feat that other musicians envy. These bands wanted the majors, though. So the indie labels specialized in works that require *extrinsic* context to be appreciated— the favored choice of *critics*, who alone provide that context to the public.
+To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed *on their own*— the kind of feat that other musicians envy. The indie labels always lost such bands to the majors, though, so instead they listened for works that rely on *extrinsic context* to be appreciated. And these works are loved most by *critics*, who provide that context to the public.
 
-But even now with radio dying, the indie labels *still* aren't trying to sign the next Nirvana or Radiohead, despite such bands being theirs for the taking. Why? Because they have no ear for it. And so to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
+But even today with radio dying, the indie labels *aren't* signing the next Nirvana or Radiohead, despite such bands now being theirs for the taking. Why? Because they still don't have an ear for it. So to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it: Making history starts with being the envy of other *musicians*. And BYCombo can help you make that happen.
 
@@ -119,9 +119,9 @@ Who foresaw indie rock's ironic endgame? We did— us minorities— which is why
 
 And as a genre defined by an ideology, indie rock can never want diversity of *thought*; it can never value those who think differently from its White male founders. So don't be fooled by its recent parade of minority artists: There was no outreach. Society simply came to a point where *some* minorities are now privileged enough to think— and therefore compete— like White men.
 
-But why is indie rock finally sharing the reins? Because it's in *decline*; these are crumbs on offer here. No, the best movements for us minorities are the ones founded *by* us, to fit *our* circumstances— which thus reward what can't be bought: originality and talent, born from an outsider's hunger. And what benefits us, benefits *all* disadvantaged groups.
+But why is indie rock finally sharing the reins? Because it's in *decline*; these are crumbs on offer here. No, the best movements for us minorities are the ones founded by *us*, to fit *our* circumstances— which thus reward what can't be bought: originality and talent, born from an outsider's hunger. And what benefits us, benefits *all* disadvantaged groups.
 
-Hip hop was the last case in point, and BYCombo is the next. Because, as a minority, I know that disadvantage drives your need for *mutual* reliance, as well as your hunger to aim for the *pantheon*.
+Hip hop was the *last* case in point, and BYCombo is the *next*. Because, as a minority, I know that disadvantage drives your need for *mutual* reliance, as well as your hunger to aim for the *pantheon*.
 
 ### A artists help A artists, B artists help C artists
 
