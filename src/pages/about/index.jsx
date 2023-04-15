@@ -81,15 +81,11 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 
 ### History wants radio-friendly hooks
 
-${'  ' || `
-// TODO: Just needs final review.
-`}
-
 As a child I studied the bands whose compositions I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But both times the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
 
 To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed *on their own*— the kind of feat that other musicians envy. The indie labels always lost such bands to the majors, though, so instead they listened for works that rely on *extrinsic context* to be appreciated. And these works are loved most by *critics*, who provide this context to the public.
 
-But even today with radio dying, the indie labels *aren't* signing the next Nirvana or Radiohead, despite such bands now being theirs for the taking. Why? Because they still don't have an ear for it. So to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
+But even today with radio dying, the indie labels *still* aren't signing the next Nirvana or Radiohead, despite such bands now being theirs for the taking. Why? Because they *still* don't have an ear for it. So to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it: Making history starts with being the envy of other *musicians*. And BYCombo can help you make that happen.
 
