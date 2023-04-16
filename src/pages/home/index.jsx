@@ -57,7 +57,7 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corpora
 
 But worst of all, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock came here to shut out *all* the bad guys! Which brings us to the heart of the problem:
 
-**As the first rock movement to believe its ideals to be universal, indie rock is also the first to lock its rules in place for good. As such, there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
+**As the first rock movement to believe its ideals are universal, indie rock is also the first to lock its rules in place for good. As such, there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
 
 ### A hundred *Yearling's Bobtail*s
 

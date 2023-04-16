@@ -108,12 +108,12 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 ### *For* hungry outsiders, *by* a hungry outsider
 
 ${'  ' || `
-// TODO: Keep reviewing this section.
+// TODO: Just one more final review. The owing segment is vague.
 `}
 
 Who foresaw indie rock's ironic endgame? We did— us minorities— which is why *we've* never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering *rivals* an easy path to riches and respect.
 
-And since indie rock is *defined* by its ideology, it can *never* accept those who don't value self-reliance as White men do, owing to different circumstances. So don't be fooled by its recent spotlight on minority artists; there was no diversity outreach. Society is simply at a point now where *some* minorities are privileged enough to compete like White men.
+And since indie rock is *defined* by its ideology, it can *never* accept those who don't value self-reliance as White men do, owing to different circumstances. So don't be fooled by its recent explosion in diversity; there was no outreach. Society is simply at a point where *some* female and minority artists are now privileged enough to compete like White men.
 
 But why is indie rock finally sharing the reins? Because, having given up the canon, it's in *decline*. No thanks! The best movements *for* us minorities are the ones founded *by* us, to fit *our* circumstances— which thus reward what can never be bought: originality and talent, born from an outsider's hunger. And what benefits us, benefits *all* disadvantaged groups.
 
