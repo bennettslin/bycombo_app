@@ -111,11 +111,11 @@ ${'  ' || `
 // TODO: Keep reviewing this section.
 `}
 
-Who foresaw indie rock's ironic endgame? We did— us minorities— which is why we've never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering *rivals* an easy path to riches and respect.
+Who foresaw indie rock's ironic endgame? We did— us minorities— which is why *we've* never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering *rivals* an easy path to riches and respect.
 
-And since indie rock is defined by its ideology, it can never accept those who don't value self-reliance as its White male founders did, owing to different circumstances. So don't be fooled by its recent spotlight on minority artists; there was no diversity outreach. Society is simply at a point now where *some* minorities are privileged enough to compete like White men.
+And since indie rock is *defined* by its ideology, it can *never* accept those who don't value self-reliance as White men do, owing to different circumstances. So don't be fooled by its recent spotlight on minority artists; there was no diversity outreach. Society is simply at a point now where *some* minorities are privileged enough to compete like White men.
 
-But why is indie rock finally sharing the reins? Because, having given up the canon, it's in *decline*. No thanks! The best movements for us minorities are the ones founded *by* us, to fit *our* circumstances— which thus reward what can't be bought: originality and talent, born from an outsider's hunger. And what benefits us, benefits *all* disadvantaged groups.
+But why is indie rock finally sharing the reins? Because, having given up the canon, it's in *decline*. No thanks! The best movements *for* us minorities are the ones founded *by* us, to fit *our* circumstances— which thus reward what can never be bought: originality and talent, born from an outsider's hunger. And what benefits us, benefits *all* disadvantaged groups.
 
 Hip hop was the last case in point, and BYCombo will be the next. Because, as a minority, I know that disadvantage drives your need for *mutual* reliance, as well as your hunger to aim for the historical canon.
 
