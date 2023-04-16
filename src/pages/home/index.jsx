@@ -65,7 +65,7 @@ ${'  ' || `
 // TODO: Just a final review of whole section now.
 `}
 
-So anyone who spends all their time and energy for untold years on an ambitious demo like *Yearling's Bobtail*… will be dismissed as a hobbyist and shut out forever. Even more frustrating, it was always obvious that indie rock's ideals, taken to their logical extreme, would lead to such absurdities. This last generation was just too loyal to their "good guys" to admit it.
+So anyone who spends all their time and energy for untold years on an ambitious demo like *Yearling's Bobtail*… will be dismissed as a hobbyist and shut out forever. Even more frustrating, it was *always* obvious that indie rock's ideals, taken to their logical extreme, would lead to such absurdities. This last generation was just too loyal to their "good guys" to admit it.
 
 But if we can't dissent… then let's revolt! The next generation largely *agrees* with me that indie rock has made music worse. And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
 
