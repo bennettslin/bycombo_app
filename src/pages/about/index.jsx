@@ -81,7 +81,7 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 
 ### History wants radio-friendly hooks
 
-As a child I studied the bands whose compositions I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
+As a child, I studied the bands whose compositions I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
 
 To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed *on their own*— the kind of feat that other musicians envy. The indie labels always lost such bands to the majors, though, so instead they listened for works that rely on *extrinsic context* to be appreciated. And these works are loved most by *critics*, who provide this context to the public.
 
@@ -108,16 +108,16 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 ### *For* hungry outsiders, *by* a hungry outsider
 
 ${'  ' || `
-// TODO: Just one final review now.
+// TODO: Do a few more reviews.
 `}
 
-Who foresaw indie rock's ironic endgame? We did— us minorities— which is why *we've* never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of past hustles, what they're saying is, "Hey, *I* hustled *too*." It's to *prevent* self-reliance from offering *rivals* an easy path to riches and respect.
+Who foresaw indie rock's ironic endgame? We did— us minorities— which is why we've never founded a movement that rewards self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of having hustled, they're really saying, "Hey, I hustled *too*." It's to *prevent* self-reliance alone from offering any benefit.
 
-And since indie rock is *defined* by its ideology, it can *never* welcome those who don't value self-reliance as its White male founders did. So don't be fooled by its recent upsurge in diversity; there was no outreach. Society is simply at the point now where *some* female and minority artists are privileged enough to compete on self-reliance with the best of them.
+And since indie rock is *defined* by its ideology, it can *never* welcome those who don't value self-reliance the way its White male founders did. So don't be fooled by its recent upsurge in diversity; there was no outreach. Society is simply at a point now where *some* female and minority artists are privileged enough to compete on self-reliance just fine.
 
-But why is indie rock finally ready to share the reins? Because, having given up the historical canon, it's in *decline*. No thanks! The best movements *for* us minorities are the ones founded *by* us, to fit *our* circumstances— which thus reward what can't be bought: originality and talent, born from an outsider's hunger. And what benefits us, benefits *all* disadvantaged groups.
+But why is indie rock so eager to share the reins? Because, as just another foreign canon now, it's in *decline*. No thanks! The best movements for us minorities, as always, are the ones founded *by* us, to fit *our* circumstances— which thus reward what can never be bought: originality and talent, born from an outsider's hunger.
 
-Hip hop was the last case in point, and BYCombo will be the next. Because, as a minority, I know that disadvantage drives your need for *mutual* reliance, as well as your hunger to *rebuild* the canon.
+Hip hop was the last case in point, and BYCombo will be the next. And don't forget: What benefits us, benefits *all* disadvantaged groups. As a minority, I know that disadvantage drives your need for *mutual* reliance, as well as your hunger to aim for the *historical* canon.
 
 ### A artists help A artists, B artists help C artists
 
