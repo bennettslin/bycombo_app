@@ -51,28 +51,27 @@ It's worse than just that, however. We see these indie gatekeepers as the "good 
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-But worst of all, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock came here to shut out *all* the bad guys! Which brings us to the heart of the problem:
+But worst of all, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock came here to shut out *all* the bad guys! Which leads to the heart of the problem:
 
 **As the first rock movement to believe in the universality of its ideals, indie rock is also the first to lock its rules in place forever. So there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
 
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Just a final review of whole section now. Maybe first paragraph isn't as necessary. Set it up that 100 bands proving that the most creative works of our time can only be made by breaking indie rock's rules. Thus proving the uselessness of indie rock.
+// TODO: Just a final review of whole section now.
+
+Final paragraph: Set it up that 100 bands proving that the most creative works of our time can only be made by breaking indie rock's rules. Thus proving the uselessness of indie rock.
 `}
 
-Let's recap.
+Clearly, Boomers and Gen X want the art form to advance, even if it means breaking indie rock's rules. This would undermine indie rock's legitimacy, however— and what I hadn't counted on is that its gatekeepers are more loyal to their own jobs than to the art form. Even worse, Millennials want these "good guys" to stay in charge more than anything else.
 
-So anyone who spends all their time and energy for untold years on an ambitious demo like *Yearling's Bobtail*… will be dismissed as a hobbyist and shut out forever. Even more frustrating, it was *always* obvious that indie rock's ideals, taken to their logical extreme, would lead to such absurdities. This last generation was just too loyal to their "good guys" to admit it.
-
-But if we can't dissent… then let's revolt! The next generation largely *agrees* with me that indie rock has made music worse. And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
+But if we can't dissent… then let's revolt! Thankfully, Gen Z sides with the *older* generations; *they* want the history-making bands to come back as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
 
 So these "bad guys" would love to hear a demo that advances the art form— but how will they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
 
 **To stand out from the crowd, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
 
-Picture a *hundred* BYCombo bands, each making an ambitiously creative work of our times, that could *only* have been made by breaking indie rock's rules.
-
+Picture a *hundred* BYCombo bands, all of them making the ambitiously creative works of our times, each of which could *only* have been made by breaking indie rock's rules.
 
 This will be the *final* step toward reviving interdependence— the next revolution in rock history!
             `,

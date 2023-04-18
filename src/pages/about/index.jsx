@@ -41,7 +41,7 @@ To make consequential art, a band must develop exceptional strengths. But this i
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists put out *demos*, and to compete with them means doing likewise.
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own go-to example. Yes, artists today can self-release their works— but this is a *curse*, not a *blessing*. Past artists put out *demos*, and to compete with them means doing likewise.
 
 **Why a public registry?**
 
@@ -73,7 +73,7 @@ These revelations emerge from the unconscious mind as your thoughts drift in the
 
 ### The grassroots is now a lottery
 
-The 80s indie bands are respected for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic. That is to say, these bands were always likely to succeed because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+The 80s indie bands are respected for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic. That is to say, these bands were *always* likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
@@ -111,9 +111,9 @@ ${'  ' || `
 // TODO: Just one more final review now.
 `}
 
-Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of having hustled, they're saying, "Hey, I hustled *too*." It's to *prevent* self-reliance alone from having any worth.
+Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of having hustled, they're saying, "Hey, *I* hustled *too*." It's to *prevent* self-reliance alone from having any worth.
 
-And as an *ideology*, indie rock must *always* reward the most self-reliant, like its White male founders wanted— even as it comes to realize that few *else* want this. So don't be fooled by its recent upsurge in diversity; there was no outreach. Hey, some female and minority artists have trust funds *too*!
+And as an *ideology*, indie rock must *always* reward the self-reliant, like its White male founders wanted— even as it comes to realize that few *else* want this. So don't be fooled by its recent upsurge in artist diversity; there's been no outreach. All that happened was, well… Hey, *some* women and minorities have trust funds *too*.
 
 Why is indie rock handing over the reins to us only *now*, though? For the same reason a Fortune 500 company would: Because it's in *decline*. With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://en.wikipedia.org/wiki/Glass_cliff)…
 
