@@ -83,7 +83,7 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 
 As a child, I studied the bands whose compositions I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
 
-To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed *on their own*— the kind of feat that other musicians envy. The indie labels always lost such bands to the majors, though, so instead they listened for works that rely on *extrinsic context* to be appreciated. And these works are loved most by *critics*, who provide this context to the public.
+To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed on their *own*— the kind of feat that other musicians envy. The indie labels always lost such bands to the majors, though, so instead they listened for works that rely on *extrinsic* context to be appreciated. And these works are loved most by *critics*, who provide this context to the public.
 
 But even today with radio dying, the indie labels *still* aren't signing the next Nirvana or Radiohead, despite such bands now being theirs for the taking. Why? Because they still don't have an ear for it. So to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
 
@@ -113,9 +113,9 @@ ${'  ' || `
 
 Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of having hustled, they're saying, "Hey, I hustled *too*." It's to *prevent* self-reliance alone from having any worth.
 
-But as an *ideology*, indie rock must *always* reward self-reliance and punish the lack thereof, as its White male founders wanted— even as it comes to realize that no one *else* wants this. So don't be fooled by the belated upsurge in diversity; there was no outreach. The more privileged female and minority artists among us have simply learned to go along, to get along.
+And as an *ideology*, indie rock must *always* reward the most self-reliant, like its White male founders wanted— even as it comes to realize that few *else* want this. So don't be fooled by its recent upsurge in diversity; there was no outreach. Hey, some female and minority artists have trust funds *too*!
 
-Why is indie rock handing over the reins to us only *now*, though? For the same reason a Fortune 500 company would: Because it's in *decline*. With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://en.wikipedia.org/wiki/Glass_cliff).
+Why is indie rock handing over the reins to us only *now*, though? For the same reason a Fortune 500 company would: Because it's in *decline*. With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://en.wikipedia.org/wiki/Glass_cliff)…
 
 No thanks! The best movements *for* us are the ones founded *by* us. They fit *our* circumstances, by offering what *we* want: *mutual* reliance, and a chance at the *historical* canon— in exchange for what *can't* be bought: originality and talent, born from an outsider's hunger. Hip hop was the *last* case in point, and BYCombo will be the *next*.
 

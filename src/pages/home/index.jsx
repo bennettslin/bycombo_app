@@ -35,7 +35,7 @@ Now, rule makers and rule followers may see poetic justice here. Rules exist for
 
 ### Return of the rock martyrs
 
-The thing is, rock was interdependent once. But as trust eroded, each side took steps not to need the other. Indie artists now build a fanbase on their own, to show they can walk away from talks with a label. This leaves them with less time and energy to make art, of course— but their fans charitably support them to cover this weakness.
+The thing is, rock *was* interdependent once. But as trust eroded, each side took steps not to need the other. Indie artists now build a fanbase on their own, to show they can walk away from talks with a label. This leaves them with less time and energy to make art, of course— but their fans charitably support them to cover this weakness.
 
 Well, then, can't an interdependent band just promise to make the best art instead? Sadly, no. In a world of charitable support, *all* art is subjective; and in a world of mutual distrust, *nothing* subjective can be a deciding factor. So, in turn, indie labels now judge an artist by the objective size of their fanbase, rather than on their talents. What a mess! This leaves only one solution:
 
@@ -45,25 +45,23 @@ So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones wh
 
 ### Who gatekeeps the gatekeepers?
 
-${'  ' || `
-// TODO: Keep working on. Make second paragraph flow better. Say ultimately, rather than worst of all.
-`}
-
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform.
 
-Okay, sure, but they'll happily make an exception for a *truly* creative work, right? No… and here's why. We see these indie gatekeepers as the "good guys" because they stay close to the underground scenes; they're one of *us*. So whatever they like, we trust that we'll like. But… according to studies, it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+It's worse than just that, however. We see these indie gatekeepers as the "good guys" because they stay close to the underground scenes; they're one of *us*. So whatever they like, we trust that we'll like. But… according to studies, it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
 But worst of all, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock came here to shut out *all* the bad guys! Which brings us to the heart of the problem:
 
-**As the first rock movement to believe its ideals are universal, indie rock is also the first to lock its rules in place for good. As such, there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
+**As the first rock movement to believe in the universality of its ideals, indie rock is also the first to lock its rules in place forever. So there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
 
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
 // TODO: Just a final review of whole section now. Maybe first paragraph isn't as necessary. Set it up that 100 bands proving that the most creative works of our time can only be made by breaking indie rock's rules. Thus proving the uselessness of indie rock.
 `}
+
+Let's recap.
 
 So anyone who spends all their time and energy for untold years on an ambitious demo like *Yearling's Bobtail*… will be dismissed as a hobbyist and shut out forever. Even more frustrating, it was *always* obvious that indie rock's ideals, taken to their logical extreme, would lead to such absurdities. This last generation was just too loyal to their "good guys" to admit it.
 
