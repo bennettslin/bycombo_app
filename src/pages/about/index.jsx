@@ -73,7 +73,7 @@ These revelations emerge from the unconscious mind as your thoughts drift in the
 
 ### The grassroots is now a lottery
 
-The early indie bands are respected for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic. That is to say, these bands were always likely to succeed because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+The 80s indie bands are respected for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic. That is to say, these bands were always likely to succeed because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
@@ -108,16 +108,16 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 ### *For* hungry outsiders, *by* a hungry outsider
 
 ${'  ' || `
-// TODO: Needs just a couple reviews.
+// TODO: Needs just a couple more reviews.
 `}
 
 Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement of competitive self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of having hustled, they're saying, "Hey, I hustled *too*." It's to *prevent* self-reliance alone from having any worth.
 
-And as an *ideology*, indie rock will *always* reward self-reliance and punish the lack thereof, as its White male founders wanted— even if it's *only* White men who want this. So don't be fooled by the belated upsurge in diversity. There was no outreach; some female and minority artists simply learned to go along to get along.
+And as an *ideology*, indie rock must *always* reward self-reliance and punish the lack thereof, as its White male founders wanted— even if no one *else* really wants this. So don't be fooled by the belated upsurge in diversity. There was no outreach; the more privileged female and minority artists among us have simply learned to go along, to get along.
 
 But why is indie rock handing over the reins to us… only *now*? For the same reason a Fortune 500 company might: Because it's in *decline*. With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://en.wikipedia.org/wiki/Glass_cliff).
 
-No thanks! The best movements *for* us are the ones founded *by* us, to fit *our* circumstances. They give us what *we* want: *mutual* reliance, and a chance at the *historical* canon— and thus reward what *can't* be bought: originality and talent, born from an outsider's hunger. Hip hop was the *last* case in point, and BYCombo will be the *next*.
+No thanks! The best movements *for* us are the ones founded *by* us. They fit *our* circumstances, by offering what *we* want: *mutual* reliance, and a chance at the *historical* canon— in exchange for what *can't* be bought: originality and talent, born from an outsider's hunger. Hip hop was the *last* case in point, and BYCombo will be the *next*.
 
 ### A artists help A artists, B artists help C artists
 
