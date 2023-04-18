@@ -107,13 +107,9 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
-${'  ' || `
-// TODO: Just one more final review now.
-`}
+Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of having hustled, they're saying, "Hey, I hustled *too*." It's to *prevent* self-reliance alone from having any worth.
 
-Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of having hustled, they're saying, "Hey, *I* hustled *too*." It's to *prevent* self-reliance alone from having any worth.
-
-And as an *ideology*, indie rock must *always* reward the self-reliant, like its White male founders wanted— even as it comes to realize that few *else* want this. So don't be fooled by its recent upsurge in artist diversity; there's been no outreach. All that happened was, well… Hey, *some* women and minorities have trust funds *too*.
+And as an *ideology*, indie rock must *always* reward the self-reliant like its White male founders wanted— even as it comes to realize that few *else* want this. So don't be fooled by its recent upsurge in artist diversity; there's been no outreach. All that happened was, well… Hey, some women and minorities have trust funds *too*.
 
 Why is indie rock handing over the reins to us only *now*, though? For the same reason a Fortune 500 company would: Because it's in *decline*. With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://en.wikipedia.org/wiki/Glass_cliff)…
 
