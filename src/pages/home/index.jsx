@@ -63,7 +63,7 @@ ${'  ' || `
 Final paragraph: Set it up that 100 bands proving that the most creative works of our time can only be made by breaking indie rock's rules. Thus proving the uselessness of indie rock.
 `}
 
-Clearly, Boomers and Gen X want the art form to advance, even if it means breaking indie rock's rules. This would undermine indie rock's legitimacy, however— and what I hadn't counted on is that its gatekeepers are more loyal to their own jobs than to the art form. Even worse, Millennials want these "good guys" to stay in charge more than anything else.
+Let's recap! The art form can *only* advance by breaking indie rock's rules. This undermines indie rock's reason to exist, however— and its gatekeepers are more loyal to their own jobs than to the art form. Not only that, putting these "good guys" in charge is the Millennials' sole legacy; to criticize indie rock as a system is to say that they achieved nothing.
 
 But if we can't dissent… then let's revolt! Thankfully, Gen Z sides with the *older* generations; *they* want the history-making bands to come back as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
 
