@@ -62,7 +62,7 @@ But worst of all, any band who breaks the good guys' rules is technically a bad 
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Just a final review of whole section now.
+// TODO: Just a final review of whole section now. Maybe first paragraph isn't as necessary. Set it up that 100 bands proving that the most creative works of our time can only be made by breaking indie rock's rules. Thus proving the uselessness of indie rock.
 `}
 
 So anyone who spends all their time and energy for untold years on an ambitious demo like *Yearling's Bobtail*… will be dismissed as a hobbyist and shut out forever. Even more frustrating, it was *always* obvious that indie rock's ideals, taken to their logical extreme, would lead to such absurdities. This last generation was just too loyal to their "good guys" to admit it.
@@ -73,7 +73,10 @@ So these "bad guys" would love to hear a demo that advances the art form— but 
 
 **To stand out from the crowd, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
 
-Picture a *hundred* BYCombo bands, all of them breaking through the indie gatekeepers' resistance to make the most ambitiously creative works of our time. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
+Picture a *hundred* BYCombo bands, each making an ambitiously creative work of our times, that could *only* have been made by breaking indie rock's rules.
+
+
+This will be the *final* step toward reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
