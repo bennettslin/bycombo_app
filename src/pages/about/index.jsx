@@ -108,14 +108,14 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 ### *For* hungry outsiders, *by* a hungry outsider
 
 ${'  ' || `
-// TODO: Needs just a couple more reviews.
+// TODO: Just one more final review now.
 `}
 
-Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement of competitive self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of having hustled, they're saying, "Hey, I hustled *too*." It's to *prevent* self-reliance alone from having any worth.
+Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of having hustled, they're saying, "Hey, I hustled *too*." It's to *prevent* self-reliance alone from having any worth.
 
-And as an *ideology*, indie rock must *always* reward self-reliance and punish the lack thereof, as its White male founders wanted— even if no one *else* really wants this. So don't be fooled by the belated upsurge in diversity. There was no outreach; the more privileged female and minority artists among us have simply learned to go along, to get along.
+But as an *ideology*, indie rock must *always* reward self-reliance and punish the lack thereof, as its White male founders wanted— even as it comes to realize that no one *else* wants this. So don't be fooled by the belated upsurge in diversity; there was no outreach. The more privileged female and minority artists among us have simply learned to go along, to get along.
 
-But why is indie rock handing over the reins to us… only *now*? For the same reason a Fortune 500 company might: Because it's in *decline*. With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://en.wikipedia.org/wiki/Glass_cliff).
+Why is indie rock handing over the reins to us only *now*, though? For the same reason a Fortune 500 company would: Because it's in *decline*. With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://en.wikipedia.org/wiki/Glass_cliff).
 
 No thanks! The best movements *for* us are the ones founded *by* us. They fit *our* circumstances, by offering what *we* want: *mutual* reliance, and a chance at the *historical* canon— in exchange for what *can't* be bought: originality and talent, born from an outsider's hunger. Hip hop was the *last* case in point, and BYCombo will be the *next*.
 
