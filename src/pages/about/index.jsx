@@ -65,12 +65,6 @@ Happily enough, building a fanbase yields compounded returns, since each fan bri
 
 What happens if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the costs, and the math is clear: They'll end up the biggest loser. No wonder we lost the canon! But with BYCombo, you can now go above and beyond to win it back.
 
-### Revelations require a single hat
-
-Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… Of course, the best among them *don't* skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
-
-These revelations emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom— but this won't ever happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
-
 ### The grassroots is now a lottery
 
 The 80s indie bands are respected for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic. That is to say, these bands were *always* likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
@@ -89,6 +83,20 @@ But even today with radio dying, the indie labels *still* aren't signing the nex
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it, making history starts with being the envy of other *musicians*. And BYCombo can help you make that happen.
 
+### Revelations require a single hat
+
+Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… Of course, the best among them *don't* skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
+
+These revelations emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom— but this won't ever happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
+
+### Creativity gets its chance from the *clueless*
+
+We see the indie gatekeepers as the "good guys" because they stay close to the local scenes; they're one of *us*. So whatever they like, we trust that *we'll* like. But… according to studies, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+
+Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the "good guys" pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
+
+Which is why history's most creative artists were backed by those *without* prior experience in the arts, who had no *clue* what great art should look like. Now BYCombo gives you the same chance to partner with these "bad guys."
+
 ### Middle managers join the revolution *last*
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk averse. And who are these risk-averse middle managers in *rock*? The indie labels.
@@ -96,14 +104,6 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to give the people what they [already want](https://www.goodreads.com/quotes/988332). But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, every revolution gets nipped in the bud, because the people *never* ask for revolutionary change on their own.
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
-
-### Creativity gets its chance from the *clueless*
-
-We see the indie gatekeepers as the "good guys" because they stay close to the local scenes; they're one of *us*. And so whatever they like, we trust that *we'll* like. But… according to studies, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
-
-Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the "good guys" pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
-
-Which is why history's most creative artists were backed by those *without* prior experience in the arts, who had no *clue* what great art should look like. Now BYCombo gives you the same chance to partner with these "bad guys."
 
 ### Competitive self-reliance favors privilege
 

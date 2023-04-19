@@ -55,6 +55,8 @@ ${'  ' || `
 // TODO: Paragraph explaining good guys.
 `}
 
+Let's recap! The art form can *only* advance by breaking indie rock's rules, but this undermines indie rock's reason to exist— and its gatekeepers are more loyal to their own jobs than to the art form. Not only that, Millennials put these "good guys" in charge, and this is their *sole* legacy. And so they'll always push back against any criticism of indie rock, which necessarily implies that they achieved nothing.
+
 But worst of all, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock came here to shut out *all* the bad guys! Which leads to the heart of the problem:
 
 **As the first rock movement to believe in the universality of its ideals, indie rock is also the first to lock its rules in place forever. So there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
@@ -63,15 +65,11 @@ But worst of all, any band who breaks the good guys' rules is technically a bad 
 
 ${'  ' || `
 // TODO: Review whole section afterward.
-
-Millennial sentence needs to be worked better.
 `}
 
-Let's recap! The art form can *only* advance by breaking indie rock's rules. This undermines indie rock's reason to exist, however— and its gatekeepers are more loyal to their own jobs than to the art form. But putting these "good guys" in charge is the Millennials' *sole* legacy; to criticize indie rock as a system is to say that they achieved nothing.
+But if we can't dissent… then let's revolt! Thankfully, Gen Z sides with the *older* generations; *they* want the history-making bands to come back as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
 
-Well, if we can't dissent… then let's revolt! Thankfully, Gen Z sides with the *older* generations; *they* want the history-making bands to come back as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
-
-So these "bad guys" would love to hear a demo that advances the art form— but how will they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
+These "bad guys" would love to hear a demo that advances the art form— but how would they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
 
 **To stand out from the crowd, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
 
