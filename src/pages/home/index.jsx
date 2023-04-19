@@ -45,11 +45,15 @@ So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones wh
 
 ### Who gatekeeps the gatekeepers?
 
+${'  ' || `
+// TODO: Review whole section afterward.
+`}
+
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform.
 
-It's worse than just that, however. We see these indie gatekeepers as the "good guys" because they stay close to the underground scenes; they're one of *us*. So whatever they like, we trust that we'll like. But… according to studies, it's human nature to [*dislike* creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
-
-Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the good guys pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
+${'  ' || `
+// TODO: Paragraph explaining good guys.
+`}
 
 But worst of all, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock came here to shut out *all* the bad guys! Which leads to the heart of the problem:
 
@@ -58,18 +62,22 @@ But worst of all, any band who breaks the good guys' rules is technically a bad 
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Just a final review of whole section now.
+// TODO: Review whole section afterward.
 
-Final paragraph: Set it up that 100 bands proving that the most creative works of our time can only be made by breaking indie rock's rules. Thus proving the uselessness of indie rock.
+Millennial sentence needs to be worked better.
 `}
 
-Let's recap! The art form can *only* advance by breaking indie rock's rules. This undermines indie rock's reason to exist, however— and its gatekeepers are more loyal to their own jobs than to the art form. Not only that, putting these "good guys" in charge is the Millennials' sole legacy; to criticize indie rock as a system is to say that they achieved nothing.
+Let's recap! The art form can *only* advance by breaking indie rock's rules. This undermines indie rock's reason to exist, however— and its gatekeepers are more loyal to their own jobs than to the art form. But putting these "good guys" in charge is the Millennials' *sole* legacy; to criticize indie rock as a system is to say that they achieved nothing.
 
-But if we can't dissent… then let's revolt! Thankfully, Gen Z sides with the *older* generations; *they* want the history-making bands to come back as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
+Well, if we can't dissent… then let's revolt! Thankfully, Gen Z sides with the *older* generations; *they* want the history-making bands to come back as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
 
 So these "bad guys" would love to hear a demo that advances the art form— but how will they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
 
 **To stand out from the crowd, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
+
+${'  ' || `
+Final paragraph: Set it up that 100 bands proving that the most creative works of our time can only be made by breaking indie rock's rules. Thus proving the uselessness of indie rock.
+`}
 
 Picture a *hundred* BYCombo bands, all of them making the ambitiously creative works of our times, each of which could *only* have been made by breaking indie rock's rules.
 
