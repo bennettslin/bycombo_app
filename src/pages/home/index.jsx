@@ -52,12 +52,17 @@ ${'  ' || `
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform.
 
 ${'  ' || `
-// TODO: Paragraph explaining good guys, and how this is the Millennials' sole accomplishment.
+// TODO:
+Second paragraph: This is all a jumble. Make sure ideas are indeed correct and what I want, and then make it flow nice.
+Third paragraph: Ideas are more or less there. Just make it flow nice.
+Fourth paragraph: Just a wrap up kind of sentiment. Make sure it follows coherently from third paragraph.
 `}
 
-Let's recap! The art form can *only* advance by breaking indie rock's rules, but this undermines indie rock's reason to exist— and its gatekeepers are more loyal to their own jobs than to the art form. Not only that, Millennials put these "good guys" in charge, and this is their *sole* legacy. And so they'll always push back against any criticism of indie rock, which necessarily implies that they achieved nothing.
+My fatal mistake was to not step into their shoes. Gatekeepers can never recognize the courage or risk involved in breaking their rules. And so any struggle as a result of breaking their rules, which will invariably happen, they will happily indulge in schadenfreude. In short, indie gatekeepers will never side with the art form over their own rules.
 
-But worst of all, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock came here to shut out *all* the bad guys! Which leads to the heart of the problem:
+It's worse than just that, however. Millennials inherited Gen X's contempt for the major labels. Well, *they* were the ones who finally got rid of these "bad guys"! They replaced them with the indie labels— the "good guys"— and they assumed this would be their generation's crowning achievement. As such, central to their identity is to never [question their gatekeepers.](https://youtu.be/tODG4Xt45bU).
+
+In short, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock came here to shut out *all* the bad guys! Which leads to the heart of the problem:
 
 **As the first rock movement to believe in the universality of its ideals, indie rock is also the first to lock its rules in place forever. So there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
 
