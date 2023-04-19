@@ -91,6 +91,14 @@ These revelations emerge from the unconscious mind as your thoughts drift in the
 
 ### Creativity gets its chance from the *clueless*
 
+${'  ' || `
+// TODO: Don't make about good guys and bad guys. Make about experts and clueless.
+
+Paragraph in between about fictional movie?
+
+Make final paragraph more coherent.
+`}
+
 We see the indie gatekeepers as the "good guys" because they stay close to the local scenes; they're one of *us*. So whatever they like, we trust that *we'll* like. But… according to studies, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate "bad guys" just ignore this discomfort, since it's *all* unfamiliar to them. But the "good guys" pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
@@ -117,7 +125,7 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of having hustled, they're saying, "Hey, I hustled *too*." It's to *prevent* self-reliance alone from having any worth.
 
-And as an *ideology*, indie rock must *always* reward the self-reliant like its White male founders wanted— even as it comes to realize that few *else* want this. So don't be fooled by its recent upsurge in artist diversity; there was no outreach. All that's happened is, well… Hey, some women and minorities have trust funds *too*.
+And as an *ideology*, indie rock must *always* reward the most self-reliant, like its White male founders wanted— even as it comes to realize that few *else* want this. So don't be fooled by its recent upsurge in artist diversity; there was no outreach. All that's happened is… Hey, some women and minorities have trust funds *too*.
 
 Why is indie rock handing over the reins to us only *now*, though? For the same reason a Fortune 500 company would: Because it's in *decline*. With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://en.wikipedia.org/wiki/Glass_cliff)…
 

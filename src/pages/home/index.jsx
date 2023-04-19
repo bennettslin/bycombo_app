@@ -52,7 +52,7 @@ ${'  ' || `
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform.
 
 ${'  ' || `
-// TODO: Paragraph explaining good guys.
+// TODO: Paragraph explaining good guys, and how this is the Millennials' sole accomplishment.
 `}
 
 Let's recap! The art form can *only* advance by breaking indie rock's rules, but this undermines indie rock's reason to exist— and its gatekeepers are more loyal to their own jobs than to the art form. Not only that, Millennials put these "good guys" in charge, and this is their *sole* legacy. And so they'll always push back against any criticism of indie rock, which necessarily implies that they achieved nothing.
@@ -67,19 +67,13 @@ ${'  ' || `
 // TODO: Review whole section afterward.
 `}
 
-But if we can't dissent… then let's revolt! Thankfully, Gen Z sides with the *older* generations; *they* want the history-making bands to come back as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
+But if we can't dissent… then let's revolt! Thankfully, Gen Z sides with the *older* generations; *they* want rock bands to make history again as well! And their discontent is the first step toward reviving interdependence from the *outside*, since it tells today's David Geffens and Malcolm McLarens that the rock market is ripe for disruption.
 
 These "bad guys" would love to hear a demo that advances the art form— but how would they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
 
 **To stand out from the crowd, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
 
-${'  ' || `
-Final paragraph: Set it up that 100 bands proving that the most creative works of our time can only be made by breaking indie rock's rules. Thus proving the uselessness of indie rock.
-`}
-
-Picture a *hundred* BYCombo bands, all of them making the ambitiously creative works of our times, each of which could *only* have been made by breaking indie rock's rules.
-
-This will be the *final* step toward reviving interdependence— the next revolution in rock history!
+Picture a *hundred* BYCombo bands, all of them breaking indie rock's rules to make the most ambitiously creative works of our times. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
