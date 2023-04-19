@@ -64,10 +64,10 @@ But worst of all, any band who breaks the good guys' rules is technically a bad 
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Review whole section afterward.
+// TODO: Just a few more reviews.
 `}
 
-But if we can't dissent… then let's revolt! Thankfully, Gen Z sides with the *older* generations; *they* want rock bands to make history again as well! And their discontent is the first step toward reviving interdependence from the *outside*, since it tells today's David Geffens and Malcolm McLarens that the rock market is ripe for disruption.
+But if we can't dissent… then let's revolt! By some miracle, Gen Z sides with the *older* generations; *they* want rock bands to make history again as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen and Malcolm McLaren that the rock market is ripe for disruption.
 
 These "bad guys" would love to hear a demo that advances the art form— but how would they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative counterculture to willfully *raise* its barriers. Well, BYCombo has great news!
 
