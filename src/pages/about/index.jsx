@@ -129,7 +129,7 @@ And since indie rock is an ideology, it must *always* favor the self-reliant, as
 
 Why is indie rock handing over the reins to us only *now*, though? For the same reason a Fortune 500 company would: Because it's in *decline*. With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://en.wikipedia.org/wiki/Glass_cliff)…
 
-No thanks! The best movements *for* us are the ones founded *by* us. They fit *our* circumstances, by offering what *we* want: *mutual* reliance, and a chance at the *historical* canon— in exchange for what *can't* be bought: originality and talent, born from an outsider's hunger. Hip hop was the *last* case in point, and BYCombo will be the *next*.
+No thanks! The best movements *for* us are the ones founded *by* us, to fit *our* circumstances. They offer what *we* want: *mutual* reliance, and a chance at the *historical* canon— in exchange for what *can't* be bought: originality and talent, born from an outsider's hunger. Hip hop was the *last* case in point, and BYCombo will be the *next*.
 
 ${'  ' || `
 // TODO:
