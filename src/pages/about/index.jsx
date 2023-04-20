@@ -101,10 +101,6 @@ Which is why history's most creative artists were often backed by those with no 
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk averse. And who are these risk-averse middle managers in *rock*? The indie labels.
 
-${'  ' || `
-// TODO: Just one final review now.
-`}
-
 Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to deliver what the [people already want](https://www.goodreads.com/quotes/988332). But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, every revolution gets nipped in the bud, because the people *never* ask for revolutionary change on their own.
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
@@ -125,7 +121,7 @@ ${'  ' || `
 
 Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of having hustled, they're saying, "Hey, I hustled *too*." It's to *prevent* self-reliance alone from having any worth.
 
-And since indie rock is an ideology, it must *always* favor the self-reliant, as its White male founders wanted— even if it comes to realize later on that few *else* want this. So don't be fooled by its recent upsurge in artist diversity; there can be no outreach, and there *hasn't* been one. All that's happened is… Hey, some women and minorities have trust funds *too*.
+And since indie rock is an ideology, it must *always* favor the self-reliant, like its White male founders wanted— even as it comes to realize that few *else* want this. So don't be fooled by its recent upsurge in artist diversity; there can be no outreach, and there *wasn't* any. All that happened was… Hey, some women and minorities have trust funds *too*.
 
 Why is indie rock handing over the reins to us only now, though? For the same reason a Fortune 500 company would: Because it's in decline. With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
