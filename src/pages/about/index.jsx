@@ -83,7 +83,7 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 
 As a child, I studied the bands whose compositions I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
 
-To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed on their *own*— the kind of feat that other musicians envy. The indie labels always lost such bands to the majors, though, so instead they listened for works that rely on *extrinsic* context to be appreciated. And these works are loved most by *critics*, who provide this context to the public.
+To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed [on their *own*](https://youtu.be/yjJL9DGU7Gg?t=36)— the kind of feat that other musicians envy. The indie labels always lost such bands to the majors, though, so instead they listened for works that rely on [*extrinsic* context](https://youtu.be/1VVj1zqbWpU) to be appreciated. And these works are loved most by *critics*, who provide this context to the public.
 
 But even today with radio dying, the indie labels *still* aren't signing the next Nirvana or Radiohead, despite such bands now being theirs for the taking. Why? Because they still don't have an ear for it. So to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
 
@@ -91,15 +91,11 @@ Yet no one cares what past critics thought, while nearly everyone loves a past w
 
 ### Creativity gets its chance from the *clueless*
 
-${'  ' || `
-// TODO: Review once more, then a final review.
-`}
-
-The indie labels stay close to the local scenes, making them both "in the know" and "one of us." So whatever *they* like is the best of what *we'll* like, right? Yet according to studies… it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+Because the indie labels stay close to the local scenes, they're both "in the know" and "one of us." So whatever *they* like is the best of what *we'll* like, right? Yet according to studies… it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Which is why the *most* creative artists in history were often backed by those with the *least* prior experience in the arts. Now with BYCombo, you can once again find such business partners, who *don't* take pride in knowing what great art should look like.
+Which is why history's most creative artists were often backed by those with no prior experience in the arts. Now with BYCombo, you can once again find business partners who *don't* take pride in knowing what great art looks like.
 
 ### Middle managers join the revolution *last*
 
@@ -147,9 +143,9 @@ But the problems with this current Age of Empowerment go beyond its failure to g
 
 Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the *end*. To save rock, then, we need to make way for selfless bands who'll sacrifice themselves for art's sake. After Empowerment, in other words… comes the Age of Martyrdom.
 
-Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those willing to sacrifice not their *lives*, but their *lifetimes*. What if this generation's Nirvana won't be just *one* selfless band, but an entire *movement* of them, each one sacrificing a serious chunk of lifetime to advance the art form?
+Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if this generation's Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime to advance the art form?
 
-Luckily, you don't need to ask, "Where's our BYCombo?" We're here for you *now*!
+Luckily, you don't need to ask, "Where's our BYCombo?" BYCombo is here for you *now*!
     `,
         }}
     />

@@ -56,6 +56,8 @@ ${'  ' || `
 Second paragraph: This is all a jumble. Make sure ideas are indeed correct and what I want, and then make it flow nice.
 Third paragraph: Ideas are more or less there. Just make it flow nice.
 Fourth paragraph: Just a wrap up kind of sentiment. Make sure it follows coherently from third paragraph.
+
+Late idea: Indie rock should be the *easiest* movement to rebel against, because it has such obvious negative runaway effects when its ideals are taken to their logical extreme. Yet because of the goodwill it enjoys, it's actually the *hardest* movement to rebel against.
 `}
 
 My fatal mistake was to not step into their shoes. Gatekeepers can never recognize the courage or risk involved in breaking their rules. And so any struggle as a result of breaking their rules, which will invariably happen, they will happily indulge in schadenfreude. In short, indie gatekeepers will never side with the art form over their own rules.
