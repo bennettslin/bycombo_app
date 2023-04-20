@@ -46,25 +46,16 @@ So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones wh
 ### Who gatekeeps the gatekeepers?
 
 ${'  ' || `
-// TODO: Review whole section afterward.
+// TODO: All ideas are there, just keep tweaking to improve the flow.
 `}
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform.
 
-${'  ' || `
-// TODO:
-Second paragraph: This is all a jumble. Make sure ideas are indeed correct and what I want, and then make it flow nice.
-Third paragraph: Ideas are more or less there. Just make it flow nice. The Millennials were content not to have any great rock bands to their name.
-Fourth paragraph: Just a wrap up kind of sentiment. Make sure it follows coherently from third paragraph.
+It's worse than just that, however: To demand fair compensation, the *only* bargaining chip that artists have is their power to hold *back* the art form. A movement that empowers them, then… must be *indifferent* to seeing the art form advance! And so the indie gatekeepers *weren't* happy to see my efforts: I was like a scab crossing the picket line during a union strike.
 
-Late idea: Indie rock should be the *easiest* movement to rebel against, because it has such obvious negative runaway effects when its ideals are taken to their logical extreme. Yet because of the goodwill it enjoys, it's actually the *hardest* movement to rebel against.
-`}
+But worst of all, if the major labels were "bad guys," then the indie labels are "good guys"… and who finally put the good guys in charge? Millennials! As such, their generation sees this as its crowning achievement— which is why their identity is based on *never* questioning the indie gatekeepers. Any who do— especially from the older generations— are bad guys to them as well.
 
-My fatal mistake was to not step into their shoes. Gatekeepers can never recognize the courage or risk involved in breaking their rules. And so any struggle as a result of breaking their rules, which will invariably happen, they will happily indulge in schadenfreude. In short, indie gatekeepers will never side with the art form over their own rules.
-
-It's worse than just that, however. Millennials inherited Gen X's contempt for the major labels. Well, *they* were the ones who finally got rid of these "bad guys"! They replaced them with the indie labels— the "good guys"— and they assumed this would be their generation's crowning achievement. As such, central to their identity is to never [question their gatekeepers.](https://youtu.be/tODG4Xt45bU).
-
-In short, any band who breaks the good guys' rules is technically a bad guy as well— and indie rock came here to shut out *all* the bad guys! Which leads to the heart of the problem:
+The crazy part is this: Indie rock should be the *easiest* movement to reform! Taken to their logical extreme, its ideals lead to negative runaway effects, and this is just so obvious. Yet because of the goodwill it enjoys, reform is near *impossible*. Which brings us to the heart of the problem:
 
 **As the first rock movement to believe in the universality of its ideals, indie rock is also the first to lock its rules in place forever. So there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
 
