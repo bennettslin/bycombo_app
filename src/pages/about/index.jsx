@@ -135,7 +135,7 @@ ${'  ' || `
 // TODO:
 ### Independence breeds homogeneity
 
-Every indie gatekeeper I've ever met with ultimately concluded that I'm just a hobbyist; I'll eventually give up. Why do they misread my character so badly? For so long, I was stumped. And then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* gatekeeper, a hundred times over.
+Every time I've engaged with an indie gatekeeper, they've drawn the same conclusion: Yes, my projects are impressive, but I'm just a hobbyist; I'll eventually give up. I was stumped for so long. Why do they misjudge my nature so badly? And then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* gatekeeper, a hundred times over.
 
 It's not just because indie rock was founded by society's ingroup, who are privileged enough to lack ambition and not have this affect their survival, who have the least incentive to understand that others think differently from them.
 

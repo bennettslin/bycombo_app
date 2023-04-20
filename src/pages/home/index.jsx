@@ -46,14 +46,14 @@ So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones wh
 ### Who gatekeeps the gatekeepers?
 
 ${'  ' || `
-// TODO: All ideas are there, just keep tweaking to improve the flow.
+// TODO: All ideas are there, just keep tweaking to improve the flow and wording.
 `}
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform.
 
 It's worse than just that, however: To demand fair compensation, the *only* bargaining chip that artists have is their power to hold *back* the art form. A movement that empowers them, then… must be *indifferent* to seeing the art form advance! And so the indie gatekeepers *weren't* happy to see my efforts: I was like a scab crossing the picket line during a union strike.
 
-But worst of all, if the major labels were "bad guys," then the indie labels are "good guys"… and who finally put the good guys in charge? Millennials! As such, their generation sees this as its crowning achievement— which is why their identity is based on *never* questioning the indie gatekeepers. Any who do— especially from the older generations— are bad guys to them as well.
+But worst of all, if the major labels were "bad guys," then the indie labels are "good guys"… and who finally put the good guys in charge? Millennials! So now their generation sees this as its crowning achievement— which is why their identity is based on *never* questioning the indie gatekeepers. Any who do— especially from the older generations— are bad guys to them as well.
 
 The crazy part is this: Indie rock should be the *easiest* movement to reform! Taken to their logical extreme, its ideals lead to negative runaway effects, and this is just so obvious. Yet because of the goodwill it enjoys, reform is near *impossible*. Which brings us to the heart of the problem:
 
@@ -71,7 +71,7 @@ These "bad guys" would love to hear a demo that advances the art form— but how
 
 **To stand out from the crowd, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
 
-Picture a *hundred* BYCombo bands, all of them breaking indie rock's rules to make the most ambitiously creative works of our times. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
+Picture a *hundred* BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our times. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
