@@ -115,13 +115,31 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
+${'  ' || `
+// TODO: Just needs one more final review.
+`}
+
 Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of having hustled, they're saying, "Hey, I hustled *too*." It's to *prevent* self-reliance alone from having any worth.
 
-And as an *ideology*, indie rock must *always* reward the most self-reliant, like its White male founders wanted— even as it comes to realize that few *else* want this. So don't be fooled by its recent upsurge in artist diversity; there was no outreach. All that's happened is… Hey, some women and minorities have trust funds *too*.
+And since indie rock is an ideology, it must *always* favor the self-reliant, as its White male founders wanted— even if it comes to realize that few *else* want this. So don't be fooled by its recent upsurge in artist diversity; there can be no outreach, and there *hasn't* been one. All that's happened is… Hey, some women and minorities have trust funds *too*.
 
 Why is indie rock handing over the reins to us only *now*, though? For the same reason a Fortune 500 company would: Because it's in *decline*. With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://en.wikipedia.org/wiki/Glass_cliff)…
 
 No thanks! The best movements *for* us are the ones founded *by* us. They fit *our* circumstances, by offering what *we* want: *mutual* reliance, and a chance at the *historical* canon— in exchange for what *can't* be bought: originality and talent, born from an outsider's hunger. Hip hop was the *last* case in point, and BYCombo will be the *next*.
+
+${'  ' || `
+// TODO:
+### Independence breeds homogeneity
+
+Every indie gatekeeper I've ever met with has ultimately concluded that I'm just a hobbyist; I'll eventually give up. Why do they misread my character so badly? For so long, I was stumped. And then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected a hundred times by the *same* gatekeeper.
+
+It's not just because indie rock was founded by society's ingroup, who are privileged enough to lack ambition and not have this affect their survival, who have the least incentive to understand that others think differently from them.
+
+Interdependence itself is what you would choose to be great
+The nature of independence itself instead of interdependence, is motivated by lack of ambition to be great, and then promotes an inability to understand that others think differently.
+
+And so indie rock's gatekeepers select for themselves.
+`}
 
 ### A artists help A artists, B artists help C artists
 

@@ -54,7 +54,7 @@ Well… not so fast. As barriers to entry are lowered, the applicant pool gets f
 ${'  ' || `
 // TODO:
 Second paragraph: This is all a jumble. Make sure ideas are indeed correct and what I want, and then make it flow nice.
-Third paragraph: Ideas are more or less there. Just make it flow nice.
+Third paragraph: Ideas are more or less there. Just make it flow nice. The Millennials were content not to have any great rock bands to their name.
 Fourth paragraph: Just a wrap up kind of sentiment. Make sure it follows coherently from third paragraph.
 
 Late idea: Indie rock should be the *easiest* movement to rebel against, because it has such obvious negative runaway effects when its ideals are taken to their logical extreme. Yet because of the goodwill it enjoys, it's actually the *hardest* movement to rebel against.
