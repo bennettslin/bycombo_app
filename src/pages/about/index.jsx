@@ -127,7 +127,7 @@ Who foresaw indie rock's final stage as a trust fund playground? We did— us wo
 
 And since indie rock is an ideology, it must *always* favor the self-reliant, as its White male founders wanted— even if it comes to realize later on that few *else* want this. So don't be fooled by its recent upsurge in artist diversity; there can be no outreach, and there *hasn't* been one. All that's happened is… Hey, some women and minorities have trust funds *too*.
 
-Why is indie rock handing over the reins to us only *now*, though? For the same reason a Fortune 500 company would: Because it's in *decline*. With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://en.wikipedia.org/wiki/Glass_cliff)…
+Why is indie rock handing over the reins to us only *now*, though? For the same reason a Fortune 500 company would: Because it's in *decline*. With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
 No thanks! The best movements *for* us are the ones founded *by* us, to fit *our* circumstances. They offer what *we* want: *mutual* reliance, and a chance at the *historical* canon— in exchange for what *can't* be bought: originality and talent, born from an outsider's hunger. Hip hop was the *last* case in point, and BYCombo will be the *next*.
 
@@ -135,7 +135,9 @@ ${'  ' || `
 // TODO:
 ### Independence breeds homogeneity
 
-Every time I've engaged with an indie gatekeeper, they've drawn the same conclusion: Yes, my projects are impressive, but I'm just a hobbyist; I'll eventually give up. I was stumped for so long. Why do they misjudge my nature so badly? And then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* gatekeeper, a hundred times over.
+Every time I've engaged with an indie gatekeeper, they've drawn the same conclusion: Yes, my projects are impressive, but I'm just a hobbyist; Any serious artist would promote their work, not jump to the next project. I was stumped for so long. Why do they misjudge me so badly? And then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* gatekeeper, a hundred times over.
+
+The nature of being, and wanting, interdependence, is that you're always aware that others are different from you.
 
 It's not just because indie rock was founded by society's ingroup, who are privileged enough to lack ambition and not have this affect their survival, who have the least incentive to understand that others think differently from them.
 

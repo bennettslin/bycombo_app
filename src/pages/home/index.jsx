@@ -46,23 +46,23 @@ So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones wh
 ### Who gatekeeps the gatekeepers?
 
 ${'  ' || `
-// TODO: All ideas are there, just keep tweaking to improve the flow and wording.
+// TODO: Just keep reviewing now.
 `}
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform.
 
-It's worse than just that, however: To demand fair compensation, the *only* bargaining chip that artists have is their power to hold *back* the art form. A movement that empowers them, then… must be *indifferent* to seeing the art form advance! And so the indie gatekeepers *weren't* happy to see my efforts: I was like a scab crossing the picket line during a union strike.
+It's worse than just that, however: To demand fair compensation, the *only* bargaining chip that artists have is their collective power to hold *back* the art form. A movement that roots for them, then… must be *indifferent* to seeing the art form advance! And so the indie gatekeepers *weren't* happy about my efforts: I was a scab crossing the picket line during their union strike!
 
-But worst of all, if the major labels were "bad guys," then the indie labels are "good guys"… and who finally put the good guys in charge? Millennials! So now their generation sees this as its crowning achievement— which is why their identity is based on *never* questioning the indie gatekeepers. Any who do— especially from the older generations— are bad guys to them as well.
+But worst of all, if the major labels were "bad guys," then the indie labels are "good guys." And who finally put the good guys in charge? Millennials! This is their generation's crowning achievement; as such, their identity is based on *never* questioning the gatekeepers. All those who do— especially from the older generations— are [bad guys as well](https://youtu.be/tODG4Xt45bU).
 
-The crazy part is this: Indie rock should be the *easiest* movement to reform! Taken to their logical extreme, its ideals lead to negative runaway effects, and this is just so obvious. Yet because of the goodwill it enjoys, reform is near *impossible*. Which brings us to the heart of the problem:
+Here's the crazy part: Indie rock should be the *easiest* movement to reform! Its ideals, taken to their logical extreme, have *obviously* negative runaway effects. Yet because of the goodwill it enjoys, reform is near *impossible*. And this brings us to the heart of the problem:
 
 **As the first rock movement to believe in the universality of its ideals, indie rock is also the first to lock its rules in place forever. So there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
 
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Just a few more reviews.
+// TODO: Just keep reviewing now.
 `}
 
 But if we can't dissent… then let's revolt! By some miracle, Gen Z sides with the *older* generations; *they* want rock bands to make history again as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen and Malcolm McLaren that the rock market is ripe for disruption.
