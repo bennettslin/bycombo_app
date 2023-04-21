@@ -29,6 +29,10 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/es
 
 By *not* using indie rock's tools, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete unless they're indie as well. In turn, this means a label can only stay competitive by signing indie artists. So here's my dilemma:
 
+${'  ' || `
+// TODO: Make more clear the enormous benefits.
+`}
+
 **To make the best art, a band *must* be interdependent. This sets them back, however, since *every* artist today is assumed to follow indie rock's rules— and thus, to reap the benefits of using its tools.**
 
 Now, rule makers and rule followers may see poetic justice here. Rules exist for a reason, after all, so rule breakers can't complain about being penalized. Yet breaking the rules is what it *truly* means to be creative! So let's not shut them out either.
@@ -59,7 +63,7 @@ ${'  ' || `
 // TODO: Make it clear that I mean easy to argue for reform.
 `}
 
-Now here's the crazy part: Indie rock should be an easy movement to reform! Its ideals, taken to their logical extreme, have negative runaway effects that are obvious. Yet because it enjoys such goodwill, reform is nearly impossible. Which brings us to the heart of the problem:
+Now here's the crazy part: It would be so easy to argue that indie rock is badly in need of reform! Taken to their logical extreme, its ideals have obviously negative runaway effects. Yet because it enjoys such goodwill, reform is nearly impossible. Which brings us to the heart of the problem:
 
 **As the first rock movement to believe in the universality of its ideals, indie rock is also the first to lock its rules in place forever. So there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
 
