@@ -52,14 +52,15 @@ So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones wh
 ${'  ' || `
 // TODO: Just a few more reviews.
 
-So indie rock's ideals clearly lead to worse outcomes when taken to their logical extremes, and yet reform is nearly impossible because it enjoys so much goodwill. 
+Second paragraph should rework the indifferent sentence?
+Third paragraph needs better sentence about achievement. Try not to be snarky.
 `}
 
-Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists need to use indie rock's tools, which serve to keep every work bite-sized and uniform.
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform.
 
-It's worse than just that, however. To demand fair compensation, artists have only one bargaining chip: their collective power to hold *back* the art form. So a movement that empowers them… will be *indifferent* to seeing the art form advance! Which is why the indie gatekeepers *weren't* happy to know about my efforts: I was a scab crossing their picket line during a union strike!
+But it's worse than just that. To demand fair compensation, artists have only one bargaining chip: their collective power to hold *back* the art form. So any movement that empowers them… will be indifferent to seeing the art form advance! Which is why the indie gatekeepers *weren't* happy to know about my efforts: I was a scab crossing their picket line during a union strike!
 
-But worst of all, if the major labels are "bad guys," then the indie labels are "good guys." And who finally put the good guys in charge? Millennials! It's their generation's crowning achievement. So anyone who questions their gatekeepers— especially anyone from an [older generation](https://youtu.be/tODG4Xt45bU)— is a bad guy as well! And this is the heart of the problem:
+Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." And who finally put the good guys in charge? Millennials! It's possibly their only real contribution to rock. So anyone who questions their gatekeepers— especially anyone from an [older generation](https://youtu.be/tODG4Xt45bU)— is a bad guy as well! And this is the heart of the problem:
 
 **As the first rock movement to believe in the universality of its ideals, indie rock is also the first to lock its rules in place forever. So there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
 
