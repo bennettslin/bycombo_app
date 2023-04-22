@@ -2,10 +2,10 @@ import React from 'react'
 import cx from 'classnames'
 import HeaderButton from '../HeaderButton'
 import {
-    ABOUT_PAGE,
-    APPLY_PAGE,
-    CONTACT_PAGE,
     REGISTRY_PAGE,
+    ARTISTS_PAGE,
+    PARTNERS_PAGE,
+    INDIE_PAGE,
 } from '../../../../constants/pages'
 import './style'
 
@@ -17,17 +17,17 @@ const Menu = () => (
             ),
         }}
     >
-        <HeaderButton {...{ pagePath: ABOUT_PAGE }}>
-            About
-        </HeaderButton>
         <HeaderButton {...{ pagePath: REGISTRY_PAGE }}>
             Registry
         </HeaderButton>
-        <HeaderButton {...{ pagePath: CONTACT_PAGE }}>
-            Contact
+        <HeaderButton {...{ pagePath: ARTISTS_PAGE }}>
+            Artists
         </HeaderButton>
-        <HeaderButton {...{ pagePath: APPLY_PAGE }}>
-            Apply
+        <HeaderButton {...{ pagePath: PARTNERS_PAGE }}>
+            Partners
+        </HeaderButton>
+        <HeaderButton {...{ pagePath: INDIE_PAGE }}>
+            Indie
         </HeaderButton>
     </div>
 )

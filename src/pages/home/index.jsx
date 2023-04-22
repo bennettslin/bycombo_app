@@ -8,7 +8,7 @@ const Component = () => (
 # The BYCombo mission
 
 ${'  ' || `
-// TODO: Add link for "Five vowels" to "historically consequential," both here and on the About page.
+// TODO: Add link for "Five vowels" to "historically consequential," both here and on the Indie page.
 `}
 
 **BYCombo is a nonprofit incubator of self-sacrificing rock bands. We're here to launch the interdependence revolution, a movement devoted to bringing forth this century's most historically consequential rock music!**
