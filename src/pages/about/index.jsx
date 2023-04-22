@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The problem with indie rock
 
-By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana and Radiohead, and then the rest were written off as lost bets. But the indie labels held to fair standards that promised *all* their bands a working future. A decade later, the majors imploded— so indie rock won! Except now…
+By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana and Radiohead, and then the rest were written off as failures. But the indie labels held to fair standards that promised *all* their bands a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -81,13 +81,13 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 
 ### History wants radio-friendly hooks
 
-As a child, I studied the bands whose compositions I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
+As a child, I studied the bands whose compositions I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
 
 To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed [on their *own*](https://youtu.be/yjJL9DGU7Gg?t=36)— the kind of feat that other musicians envy. The indie labels always lost such bands to the majors, though, so instead they listened for works that rely on [*extrinsic* context](https://youtu.be/1VVj1zqbWpU) to be appreciated. And these works are loved most by *critics*, who provide this context to the public.
 
 But even today with radio dying, the indie labels *still* aren't signing the next Nirvana or Radiohead, despite such bands now being theirs for the taking. Why? Because they still don't have an ear for it. So to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
 
-Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it, making history starts with being the envy of other *musicians*. And BYCombo can help you make that happen.
+Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it, making history starts with being the envy of other *musicians*. And BYCombo can help you make this happen.
 
 ### Creativity gets its chance from the *clueless*
 
@@ -123,20 +123,20 @@ Who foresaw indie rock's final stage as a trust fund playground? We did— us wo
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
-No thanks! Never forget: Rock and roll was founded by Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means the natural target of any female or minority artist should be the *historical* canon— and today it *would* be, if indie rock hadn't intervened.
+No thanks! Remember, rock and roll was founded by Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. This means the natural target of any female or minority artist today should be the *historical* canon— and it *would* be, if indie rock hadn't intervened.
 
-To make history, outsiders know they need to be the *most* original, the *most* talented… But this is humanly possible only through *mutual* reliance, not *self*-reliance. So hip hop is a truer heir to rock and roll than indie rock! Now with BYCombo, you can once again aim for the canon— as a rock band.
+To make history, outsiders know they need to be the *most* original, the *most* talented… which can only happen through *mutual* reliance, not *self*-reliance. So hip hop is a truer heir to rock and roll than indie rock! But BYCombo lets you once again aim for the canon— as a rock band.
 
 ${'  ' || `
 // TODO: ### Independence breeds homogeneity
 
-Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive, but I'm just a hobbyist who'll eventually give up. Why do they misjudge me so badly? I was stumped for so long. And then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* gatekeeper, a hundred times over.
+Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive, but I'm a mere hobbyist who'll eventually give up. Why do they misjudge me so badly? Then it finally hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* gatekeeper, a hundred times over, who doesn't understand that I'm not them.
 
 Second paragraph:
-The nature of wanting interdependence is that you're always aware that others are different from you. You're maximizing the advantage that can be gained by combining different strengths. By contrast, those who want independence lack this incentive. They select for those like themselves.
+There's no diversity training in rock, but those who want interdependence learn the value of diversity anyway, because their advantage comes from finding partners who are strong where they're weak, and vice versa. By contrast, those who want independence lack any incentive to learn that others think differently from them.
 
-Third paragraph:
-The indie gatekeepers assume that no serious artist would jump from one project to the next, waiting for a business partner. Why? Because they've never seen anyone do that, and it isn't what *they'd* do themselves. With BYCombo, you can once again find business partners who understand the benefits of having people think and behave differently.
+Third paragraph: (Ideas are there, but wording is bad.)
+As a result, every indie gatekeeper thinks the same way and, in turn, selects those artists who think like them: That no serious artist would simply jump from one project to the next while waiting for a business partner. Why? Because it isn't what *they'd* do themselves. With BYCombo, you can once again find business partners who understand the benefits of diversity of thought.
 `}
 
 ### A artists help A artists, B artists help C artists
@@ -161,7 +161,7 @@ Worst of all, self-empowered artists will never *start* a revolution, because th
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if this generation's Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime to advance the art form?
 
-Luckily, you don't need to ask, "Where's our BYCombo?" BYCombo is here for you *now*!
+Luckily, you don't need to ask, "Where's *our* BYCombo?" BYCombo is here for you *now*!
     `,
         }}
     />

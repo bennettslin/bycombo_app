@@ -27,7 +27,7 @@ These tools of empowerment aren't free, though— they cost the artist's time an
 
 Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles). Let's be clear, the best artists *don't* waste time and energy on empowerment; it comes to them naturally, as a byproduct of building up their talents. So I'd rather not be *indie*-pendent at all! I want my band to be *inter*-dependent: to have a *label* help us build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
-By *not* using indie rock's tools, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete unless they're indie as well. In turn, this means a label can only stay competitive by signing indie artists. So here's my dilemma:
+By *not* using indie rock's tools, however, I'm dismissed as a mere hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete unless they're indie as well. In turn, this means a label can only stay competitive by signing indie artists. So here's my dilemma:
 
 ${'  ' || `
 // TODO: Make more clear the enormous benefits.
@@ -61,9 +61,9 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 
 But if we can't dissent… then let's revolt! By some miracle, Gen Z sides with the older generations; *they* want rock bands to make history again as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
 
-These "bad guys" would love to hear a demo that advances the art form— but how would they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for a trusted source to willfully *raise* its barriers. Well, BYCombo has great news!
+These "bad guys" would love to hear a demo that advances the art form— but how would they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. Well, BYCombo has great news!
 
-**To stand out from the crowd, interdependent bands can now pay a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to have their demo shown in BYCombo's registry.**
+**To earn the listener's trust, interdependent bands can now pay a steep *cost* of entry: To have their demo shown in BYCombo's public registry, each band must sacrifice a serious chunk of lifetime.**
 
 ${'  ' || `
 // TODO: logical extremes. Need for alternative counterculture
