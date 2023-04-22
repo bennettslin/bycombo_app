@@ -30,7 +30,7 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/es
 By *not* using indie rock's tools, however, I'm dismissed as a mere hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete unless they're indie as well. In turn, this means a label can only stay competitive by signing indie artists. So here's my dilemma:
 
 ${'  ' || `
-// TODO: Make more clear the enormous benefits.
+// TODO: Make more clear that the benefits are enormous?
 `}
 
 **To make the best art, a band *must* be interdependent. This sets them back, however, since *every* artist today is assumed to follow indie rock's rules— and thus, to reap the benefits of using its tools.**
@@ -38,6 +38,10 @@ ${'  ' || `
 Now, rule makers and rule followers may see poetic justice here. Rules exist for a reason, after all, so rule breakers can't complain about being penalized. Yet breaking the rules is what it *truly* means to be creative! So let's not shut them out either.
 
 ### Return of the rock martyrs
+
+${'  ' || `
+// TODO: Be more charitable here?
+`}
 
 The thing is, rock *was* interdependent once. But as trust eroded, each side took steps not to need the other. Indie artists now build a fanbase on their own, to show they can walk away from talks with a label. This leaves them with less time and energy to make art, of course— but their fans charitably support them to cover this weakness.
 
@@ -66,7 +70,7 @@ These "bad guys" would love to hear a demo that advances the art form— but how
 **To earn the listener's trust, interdependent bands can now pay a steep *cost* of entry: To have their demo shown in BYCombo's public registry, each band must sacrifice a serious chunk of lifetime.**
 
 ${'  ' || `
-// TODO: logical extremes. Need for alternative counterculture
+// TODO: Talk about logical extremes? Make it more definitive that this conclusively invalidates indie rock?
 `}
 
 Picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our times, thereby proving the need for an alternative counterculture. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
