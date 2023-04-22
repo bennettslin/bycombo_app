@@ -123,9 +123,9 @@ Who foresaw indie rock's final stage as a trust fund playground? We did— us wo
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
-No thanks! Remember, rock and roll was founded by Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. This means the natural target of any female or minority artist today should be the *historical* canon— and it *would* be, if indie rock hadn't intervened.
+No thanks! Remember, rock and roll was founded by poor Blacks and queers, then carried further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means the natural aim of any female or minority artist today should be the *historical* canon— and it *would* be, if indie rock hadn't intervened.
 
-To make history, outsiders know they need to be the *most* original, the *most* talented… which can only happen through *mutual* reliance, not *self*-reliance. So hip hop is a truer heir to rock and roll than indie rock! But BYCombo lets you once again aim for the canon— as a rock band.
+Hungry outsiders know they need to be the *most* original, the *most* talented… and this is why they flock to movements that make the best use of *mutual* reliance. So hip hop is a truer heir to rock and roll than indie rock! But with BYCombo, you can once again make rock history— as a rock band.
 
 ${'  ' || `
 // TODO: ### Independence breeds homogeneity
