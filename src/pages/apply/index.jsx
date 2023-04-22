@@ -8,9 +8,9 @@ const Component = () => (
             body: `
 # Join the interdependence revolution!
 
-Are you ready to sacrifice a serious chunk of lifetime to make rock history? Join a BYCombo band! Obviously, our process hasn't been tried and tested, so we're assembling a pilot cohort of no more than ten bands to help us work out the kinks. And to thank you for your help:
+Are you ready to sacrifice a serious chunk of lifetime to make rock history? Join a BYCombo band! Obviously, our process hasn't been tried and tested, so to thank you for helping us work out the kinks:
 
-**The Bobtail Yearlings will invite every band from our pilot cohort to feature as a guest artist on their next project: an album about the life of English biochemist Rosalind Franklin!**
+**The Bobtail Yearlings will invite ten bands from our pilot cohort to feature as guest artists on their next project: an album about the life of English biochemist Rosalind Franklin!**
 
 ### Who we're looking for
 

@@ -51,7 +51,7 @@ So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones wh
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform.
 
-But it's worse than just that. To demand fair compensation, indie artists have only one bargaining chip: their collective power *not* to make the best art. This means indie rock stands *opposed* to those who'll advance the art form at any cost! Which explains why its gatekeepers are never happy to see me: I'm like a scab crossing the picket line during a union strike!
+But it's worse than just that. To demand fair compensation, indie artists have only one bargaining chip: their collective power *not* to make the best art. This means indie rock stands *opposed* to those who'll advance the art form at any cost! Which explains why its gatekeepers *weren't* happy to see me: I was like a scab crossing the picket line during a union strike!
 
 Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an [older generation](https://youtu.be/tODG4Xt45bU)— is a bad guy as well! And this is the heart of the problem:
 
@@ -69,7 +69,7 @@ ${'  ' || `
 // TODO: logical extremes. Need for alternative counterculture
 `}
 
-Picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our times. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
+Picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our times, thereby proving the need for an alternative counterculture. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
