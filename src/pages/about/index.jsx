@@ -119,13 +119,13 @@ ${'  ' || `
 // TODO: Just review a couple more times.
 `}
 
-Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of having hustled, they're saying, "Hey, I hustled *too*." It's to *prevent* self-reliance alone from having any worth.
+Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. And hip hop is no exception; when rappers boast of hustling, they're saying, "Hey, I hustle *too*." It's to *prevent* self-reliance from offering any advantage.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
-No thanks! Never forget: Rock and roll was founded by Blacks and queers, then carried along by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means the natural inclination of today's female and minority artists should be to aim for the *historical* canon— and it *would* be, if indie rock hadn't intervened.
+No thanks! Never forget: Rock and roll was founded by Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means the natural target of any female or minority artist should be the *historical* canon— and today it *would* be, if indie rock hadn't intervened.
 
-To be loved at all, outsiders need to be the *most* original, the *most* talented… which is humanly possible only through *mutual* reliance. This is why hip hop is a truer heir to rock and roll than indie rock! But now with BYCombo, you can once again make rock history— as a rock band.
+To make history, outsiders know they need to be the *most* original, the *most* talented… But this is humanly possible only through *mutual* reliance, not *self*-reliance. So hip hop is a truer heir to rock and roll than indie rock! Now with BYCombo, you can once again aim for the canon— as a rock band.
 
 ${'  ' || `
 // TODO: ### Independence breeds homogeneity
