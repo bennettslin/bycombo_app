@@ -49,10 +49,6 @@ So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones wh
 
 ### Who gatekeeps the gatekeepers?
 
-${'  ' || `
-// TODO: Just one final review now.
-`}
-
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform.
 
 But it's worse than just that. To demand fair compensation, indie artists have only one bargaining chip: their collective power *not* to make the best art. This means indie rock stands *opposed* to those who'll advance the art form at any cost! Which explains why its gatekeepers are never happy to see me: I'm like a scab crossing the picket line during a union strike!

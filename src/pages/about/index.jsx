@@ -119,7 +119,7 @@ Who foresaw indie rock's final stage as a trust fund playground? We did— us wo
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
-No thanks! The best movements *for* us, as always, are the ones founded *by* us. They offer what *we* want: *mutual* reliance, and a chance at the *historical* canon— in exchange for what *can't* be bought: originality and talent, born from an outsider's hunger. And if hip hop was the last case in point, then BYCombo will be the next.
+No thanks! The best movements *for* us are the ones founded *by* us. They offer what *we* want— *mutual* reliance, and a chance at the *historical* canon— in exchange for what *can't* be bought: originality and talent, born from an outsider's hunger. And if hip hop was the last case in point, then BYCombo will be the next.
 
 ${'  ' || `
 // TODO: ### Independence breeds homogeneity
