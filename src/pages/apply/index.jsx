@@ -29,7 +29,7 @@ There are no application fees or legal contracts. We'll just ask you to make a n
 
 BYCombo will provide a forum for you and the other bands in your cohort to support each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and work with our bands in the next cohort!
 
-Once your demo is complete, we'll add it to our registry and notify all the music fans, industry executives, and budding entrepreneurs who've signed up to our mailing list. With your help, BYCombo will become the public's trusted resource to hear about the latest bands sacrificing serious chunks of lifetime to advance the art form!
+Once your demo is complete, we'll add it to our registry and notify all the music fans, industry executives, and budding entrepreneurs who've signed up to our mailing list. With your help, BYCombo will become the public's trusted source to hear about the latest bands sacrificing serious chunks of lifetime to advance the art form!
 
 ### Diversity and inclusion policy
 

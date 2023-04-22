@@ -115,28 +115,23 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
-${'  ' || `
-// TODO: Just a few more reviews.
-`}
-
 Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. By the way, don't be misled by hip hop's bravado: When rappers boast of having hustled, they're saying, "Hey, I hustled *too*." It's to *prevent* self-reliance alone from having any worth.
 
-Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why is this? For the same reason a Fortune 500 company would be: Because it's in *decline*! With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
+Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
-No thanks! The best movements *for* us, as always, are the ones founded *by* us. They offer what *we* want: *mutual* reliance, and a chance at the *historical* canon— in exchange for what *can't* be bought: originality and talent, born from an outsider's hunger. Hip hop was the last case in point, and BYCombo will be the next.
+No thanks! The best movements *for* us, as always, are the ones founded *by* us. They offer what *we* want: *mutual* reliance, and a chance at the *historical* canon— in exchange for what *can't* be bought: originality and talent, born from an outsider's hunger. And if hip hop was the last case in point, then BYCombo will be the next.
 
 ${'  ' || `
-// TODO:
+// TODO: ### Independence breeds homogeneity
+
+Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive, but I'm just a hobbyist who'll eventually give up. Why do they misjudge me so badly? I was stumped for so long. And then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* gatekeeper, a hundred times over.
+
 Second paragraph:
 The nature of wanting interdependence is that you're always aware that others are different from you. You're maximizing the advantage that can be gained by combining different strengths. By contrast, those who want independence lack this incentive. They select for those like themselves.
 
 Third paragraph:
 The indie gatekeepers assume that no serious artist would jump from one project to the next, waiting for a business partner. Why? Because they've never seen anyone do that, and it isn't what *they'd* do themselves. With BYCombo, you can once again find business partners who understand the benefits of having people think and behave differently.
 `}
-
-### Independence breeds homogeneity
-
-Every indie gatekeeper I've engaged with has drawn the same conclusion: Yes, my projects are impressive, but I'm just a hobbyist who'll eventually give up. Why do they misjudge me so badly? I was stumped for so long. And then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* gatekeeper, a hundred times over.
 
 ### A artists help A artists, B artists help C artists
 
