@@ -31,7 +31,9 @@ Critical acclaim can be inflated, which makes it a terrible barometer. What *can
 
 Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But if we ditch this notion? Then rock has barely scratched the surface.
 
-What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain or Thom Yorke is a woman or minority who's currently struggling to attract bandmates. What if they could ask to be judged without unconscious bias?
+What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one?
+
+Assembled bands can also provide a *remedy*. Suppose the next Kurt Cobain or Thom Yorke is a woman or minority, who's currently struggling to attract bandmates. What if they could ask to be judged without unconscious bias?
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
@@ -119,7 +121,7 @@ ${'  ' || `
 // TODO: Just review a couple more times.
 `}
 
-Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on labels and producers. When they boast of having hustled, they're saying, "Hey, I hustled *too*." It's to ensure that self-reliance means *nothing*.
+Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics). When they boast of having hustled, they're saying, "Hey, I hustled *too*." It's to ensure that self-reliance means *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
@@ -137,6 +139,9 @@ There's no diversity training in rock, but those who want interdependence learn 
 
 Third paragraph: (Ideas are there, but wording is bad.)
 As a result, every indie gatekeeper thinks the same way and, in turn, selects those artists who think like them: That no serious artist would simply jump from one project to the next while waiting for a business partner. Why? Because it isn't what *they'd* do themselves. With BYCombo, you can once again find business partners who understand the benefits of diversity of thought.
+
+Late addition: (Maybe not, now that I think more about it.)
+Indie rock's decentralized nature prevents it from benefiting from the emerging field of behavioral economics. Social media and streaming platforms are happily— and quietly— using this new science to maximize clicks. But there's no one on the other side using it to advance the art form.
 `}
 
 ### A artists help A artists, B artists help C artists
