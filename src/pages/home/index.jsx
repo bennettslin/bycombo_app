@@ -11,10 +11,6 @@ ${'  ' || `
 // TODO: Add link for "Five vowels" to "historically consequential," both here and on the Indie page.
 `}
 
-${'  ' || `
-// TODO: Review entire page a couple more times.
-`}
-
 **BYCombo is a nonprofit incubator of self-sacrificing rock bands. We're here to launch the interdependence revolution, a movement devoted to bringing forth this century's most historically consequential rock music!**
 
 Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative? Here's why…
@@ -27,13 +23,25 @@ These tools of empowerment aren't free, though— they cost the artist's time an
 
 **By *expecting* artists to empower themselves, indie rock effectively *requires* them to do so. Each tool of empowerment then becomes yet another rule to follow.**
 
+### A plea for a truce
+
+Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles). Let's be clear, the best artists *don't* waste time and energy on empowerment; it comes to them naturally, as a byproduct of building up their talents. So I'd rather not be *indie*-pendent at all! I want my band to be *inter*-dependent: to have a *label* help us build our fanbase— and, in turn, have this label depend on *us* to make the best art.
+
+By *not* using indie rock's tools, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete unless they're indie as well. In turn, this means a label can only stay competitive by signing indie artists. So here's my dilemma:
+
+${'  ' || `
+// TODO: Make this more about interdependent bands not being able to sign to a label.
+`}
+
+**To make the best art, a band *must* be interdependent. This sets them back, however, since *every* artist today is assumed to follow indie rock's rules— and thus, to reap the benefits of using its tools.**
+
+Now, rule makers and rule followers may see poetic justice here. Rules exist for a reason, after all, so rule breakers can't complain about being penalized. Yet breaking the rules is what it *truly* means to be creative! So let's not shut them out either.
+
 ### Return of the rock martyrs
 
-Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles). Let's be honest, the best artists *don't* waste time and energy on empowerment; it comes to them naturally, as a byproduct of building up their talents. So I'd rather not be *indie*-pendent at all! I want my band to be *inter*-dependent: to have a *label* help us build our fanbase— and, in turn, have this label depend on *us* to make the best art.
+The thing is, rock *was* interdependent once. But as trust eroded, each side took steps not to need the other. Indie artists now build a fanbase on their own, to show they can walk away from talks with a label. This leaves them with less time and energy to make art, of course— but their fans charitably support them to cover this weakness.
 
-The thing is, rock *was* interdependent once! But as trust eroded between artists and labels, each side took steps not to need the other. To prove they *don't* need a label, indie artists now build a fanbase on their own, allowing them to thrive solely on the charitable support of their fans. But this leaves them with less time and energy to make art!
-
-So… can't an interdependent band just promise to make the best art? Sadly, no. In a world of charitable support, *all* art is subjective; and in a world of mutual distrust, *nothing* subjective can be a deciding factor. In turn, then, indie labels now judge an artist by the objective size of their fanbase, rather than on their talents. What a mess! This leaves only one solution:
+Well, then, can't an interdependent band just promise to make the best art instead? Sadly, no. In a world of charitable support, *all* art is subjective; and in a world of mutual distrust, *nothing* subjective can be a deciding factor. So, in turn, indie labels now judge an artist by the objective size of their fanbase, rather than on their talents. What a mess! This leaves only one solution:
 
 **To revive interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and that couldn't have been made with *any* less effort.**
 
@@ -42,6 +50,10 @@ So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones wh
 ### Who gatekeeps the gatekeepers?
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform.
+
+${'  ' || `
+// TODO: Mention any movement that empowers them.
+`}
 
 But it's worse than just that. To demand fair compensation, indie artists have only one bargaining chip: their collective power *not* to make the best art. This means indie rock stands *opposed* to those who'll advance the art form at any cost! Which explains why its gatekeepers *weren't* happy to see me: I was like a scab crossing the picket line during a union strike!
 
@@ -57,7 +69,11 @@ These "bad guys" would love to hear a demo that advances the art form— but how
 
 **To earn the listener's trust, interdependent bands can now pay a steep *cost* of entry: To have their demo shown in BYCombo's public registry, each band must sacrifice a serious chunk of lifetime.**
 
-Picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our times. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
+${'  ' || `
+// TODO: Rephrase.
+`}
+
+Picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our times, thereby proving the need for an alternative counterculture. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
             `,
         }}
     />

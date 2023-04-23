@@ -125,7 +125,7 @@ Who foresaw indie rock's final stage as a trust fund playground? We did— us wo
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
-No thanks! Remember, rock and roll was founded by poor Blacks and queers, then carried further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means we women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
+No thanks! Remember, rock and roll was founded by poor Blacks and queers, then carried further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
 To be loved at all, a hungry outsider needs to be the *most* original, the *most* talented… and this is why they flock to movements that make the best use of *mutual* reliance. So hip hop is the true heir to rock and roll, not indie rock! But with BYCombo, you can once again make rock history— as a band.
 
@@ -142,7 +142,7 @@ Which is why it took an outsider like myself to found BYCombo, driven by an urge
 ${'  ' || `
 // TODO: ### Independence breeds homogeneity
 
-Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive, but I'm a mere hobbyist who'll eventually give up. Why do they misjudge me so badly? Then it finally hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* gatekeeper, a hundred times over, who doesn't understand that I'm not them.
+Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive, but I'm just a hobbyist who'll eventually give up. Why do they misjudge me so badly? Then it finally hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* gatekeeper, a hundred times over, who doesn't understand that I'm not them.
 
 Second paragraph:
 There's no diversity training in rock, but those who want interdependence learn the value of diversity anyway, because their advantage comes from finding partners who are strong where they're weak, and vice versa. By contrast, those who want independence lack any incentive to learn that others think differently from them.
