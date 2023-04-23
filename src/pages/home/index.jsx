@@ -12,7 +12,7 @@ ${'  ' || `
 `}
 
 ${'  ' || `
-// TODO: Review entire page a few times.
+// TODO: Review entire page a couple more times.
 `}
 
 **BYCombo is a nonprofit incubator of self-sacrificing rock bands. We're here to launch the interdependence revolution, a movement devoted to bringing forth this century's most historically consequential rock music!**

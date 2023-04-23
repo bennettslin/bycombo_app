@@ -127,7 +127,17 @@ Yet despite the poor fit, indie rock sure is eager of late to hand over its rein
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then carried further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means we women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Every hungry outsider knows they need to be the *most* original, the *most* talented… and this is why they flock to movements that make the best use of *mutual* reliance. So hip hop is the true heir to rock and roll, not indie rock! But with BYCombo, you can once again make rock history— as a band.
+To be loved at all, a hungry outsider needs to be the *most* original, the *most* talented… and this is why they flock to movements that make the best use of *mutual* reliance. So hip hop is the true heir to rock and roll, not indie rock! But with BYCombo, you can once again make rock history— as a band.
+
+### A artists help A artists, B artists help C artists
+
+For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
+
+It's because paid dues are worthless outside the one system that promises to honor them. So those who pay them will fight to keep the system as it is. In short, you can pay your dues, or you can start a revolution— but never both.
+
+Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
+
+Which is why it took an outsider like myself to found BYCombo, driven by an urge to help up-and-coming bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first artist who's secure enough to *want* it— having never paid indie rock's dues myself.
 
 ${'  ' || `
 // TODO: ### Independence breeds homogeneity
@@ -143,16 +153,6 @@ As a result, every indie gatekeeper thinks the same way and, in turn, selects th
 Late addition: (Maybe not, now that I think more about it.)
 Indie rock's decentralized nature prevents it from benefiting from the emerging field of behavioral economics. Social media and streaming platforms are happily— and quietly— using this new science to maximize clicks. But there's no one on the other side using it to advance the art form.
 `}
-
-### A artists help A artists, B artists help C artists
-
-For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
-
-It's because paid dues are worthless outside the one system that promises to honor them. So those who pay them will fight to keep the system as it is. In short, you can pay your dues, or you can start a revolution— but never both.
-
-Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
-
-Which is why it took an outsider like myself to found BYCombo, driven by an urge to help up-and-coming bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first artist who's secure enough to *want* it— having never paid indie rock's dues myself.
 
 ### Art needs the blood of martyrs
 
