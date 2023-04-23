@@ -73,7 +73,7 @@ ${'  ' || `
 // TODO: Talk about logical extremes? Make it more definitive that this conclusively invalidates indie rock?
 `}
 
-Picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our times, thereby proving the need for an alternative counterculture. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
+Picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our times. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
