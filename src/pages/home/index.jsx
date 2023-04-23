@@ -31,13 +31,9 @@ These tools of empowerment aren't free, though— they cost the artist's time an
 
 Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles). Let's be honest, the best artists *don't* waste time and energy on empowerment; it comes to them naturally, as a byproduct of building up their talents. So I'd rather not be *indie*-pendent at all! I want my band to be *inter*-dependent: to have a *label* help us build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
-${'  ' || `
-// TODO: Characterize this better.
-`}
+The thing is, rock *was* interdependent once! But as trust eroded between artists and labels, each side took steps not to need the other. To prove they *don't* need a label, indie artists now build a fanbase on their own, allowing them to thrive solely on the charitable support of their fans. But this leaves them with less time and energy to make art!
 
-And rock *was* interdependent once! But as trust eroded between artists and labels, each side took steps not to need the other. Indie artists now build a fanbase on their own, to show they can walk away from talks with a label. This ensures they *won't* have time and energy to make the best art— but that was never *their* goal; *they* want to get ahead through charitable support.
-
-Well, then, can't an interdependent band just promise to make the best art instead? Sadly, no. In a world of charitable support, *all* art is subjective; and in a world of mutual distrust, *nothing* subjective can be a deciding factor. So, in turn, indie labels now judge an artist by the objective size of their fanbase, rather than on their talents. What a mess! This leaves only one solution:
+So… can't an interdependent band just promise to make the best art? Sadly, no. In a world of charitable support, *all* art is subjective; and in a world of mutual distrust, *nothing* subjective can be a deciding factor. In turn, then, indie labels now judge an artist by the objective size of their fanbase, rather than on their talents. What a mess! This leaves only one solution:
 
 **To revive interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and that couldn't have been made with *any* less effort.**
 
@@ -55,7 +51,7 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 
 ### A hundred *Yearling's Bobtail*s
 
-But if we can't dissent… then let's revolt! By some miracle, Gen Z sides with the older generations; *they* want rock bands to make the best art again as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
+But if we can't dissent… then let's revolt! By some miracle, Gen Z sides with the *older* generations; *they* want rock bands to make the best art again as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
 
 These "bad guys" would love to hear a demo that advances the art form— but how would they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. Well, BYCombo has great news!
 

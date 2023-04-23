@@ -127,7 +127,7 @@ Yet despite the poor fit, indie rock sure is eager of late to hand over its rein
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then carried further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means we women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Every hungry outsider knows they need to be the *most* original, the *most* talented… and this is why they flock to movements that make the best use of *mutual* reliance. So hip hop is a truer heir to rock and roll than indie rock! But with BYCombo, you can once again make rock history— as a band.
+Every hungry outsider knows they need to be the *most* original, the *most* talented… and this is why they flock to movements that make the best use of *mutual* reliance. So hip hop is the true heir to rock and roll, not indie rock! But with BYCombo, you can once again make rock history— as a band.
 
 ${'  ' || `
 // TODO: ### Independence breeds homogeneity
