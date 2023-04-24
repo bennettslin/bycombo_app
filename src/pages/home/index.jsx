@@ -31,7 +31,7 @@ Indie rock's tools, then… are now its *rules*. And since rules are made to be 
 
 ### The minority underdog's dilemma
 
-Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles). Ever notice that hip hop— a movement *founded* by underdogs— works very differently from indie rock? The best rappers *don't* worry about empowerment; it comes to them for free, as a byproduct of building up their talents. For example, Eminem didn't have a real fanbase before he was signed by Dr. Dre; his EP sold [only 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP).
+Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles). Ever notice that hip hop— a movement *founded* by underdogs— works very differently from indie rock? The best rappers *don't* worry about empowerment; it comes to them for free, as a byproduct of building up their talents. For example, Eminem didn't have a real fanbase before Dr. Dre signed him; his EP sold [only 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP).
 
 Well, as a minority myself, I find hip hop's way of thinking far more sensible. So I want my band to be *inter*-dependent as well: to have a *label* help us build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
