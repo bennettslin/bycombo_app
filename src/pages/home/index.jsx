@@ -21,7 +21,7 @@ Of course, *indie*-pendence is the dominant ideology in rock today. So why is *i
 
 ### Tools… are *rules*
 
-Indie rock roots for the underdog, which is why it's all about lowering the barriers to entry for artists. To do this, it provides them with tools to build a fanbase on their own: distribution services, streaming algorithms, social media analytics, and so forth.
+Indie rock roots for the underdog— which is why it's all about lowering the barriers to entry for artists. To do this, it provides them with tools to bypass the labels and build a fanbase on their own: distribution services, streaming algorithms, social media analytics, and so forth.
 
 These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet, since they're available to *every* artist, they don't give a meaningful boost to those who use them; they merely penalize anyone who *doesn't*. But… this is how *rules* work! Which is to say:
 
@@ -29,33 +29,29 @@ These tools of empowerment aren't free, though— they cost the artist's time an
 
 Indie rock's tools, then… are now its *rules*. And since rules are made to be followed, rule breakers can't complain about being penalized. But breaking the rules is also how history gets made! So let's not shut them out, either.
 
-### The minority underdog's dilemma
+### A minority's dilemma
 
 Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles). Ever notice that hip hop— a movement *founded* by underdogs— works very differently from indie rock? The best rappers *don't* worry about empowerment; it comes to them for free, as a byproduct of building up their talents. For example, Eminem didn't have a real fanbase before Dr. Dre signed him; his EP sold [only 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP).
 
 Well, as a minority myself, I find hip hop's way of thinking far more sensible. So I want my band to be *inter*-dependent as well: to have a *label* help us build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
-By *not* spending time and energy using indie rock's tools, however, I'm treated as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete unless they're indie as well. In turn, this means a label stays competitive only by signing indie artists! And yet:
+By *not* spending my time and energy using indie rock's tools, however, I'm treated as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete unless they're indie as well. In turn, this means a label stays competitive only by signing indie artists! And yet:
 
-${'  ' || `
-// TODO: Better way to say the very notion of record labels as a business model? Also mention the art form.
-`}
-
-**It's not just that interdependent artists make the best art. The very *notion* of record labels as a business model will eventually fall apart unless they get back to signing interdependent artists.**
+**As indie artists grow further empowered, the very *purpose* of a label will eventually cease to exist, *unless* they get back to signing interdependent artists— who make the best art in the first place!**
 
 ### Return of the rock martyrs
 
-And that's the funny part: Rock *was* interdependent once! So can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, *all* art is now subjective; talents no longer matter. Which means an indie label's only trusted measure is the objective size of an artist's fanbase. What a mess! This leaves only one solution:
+And that's the funny part: Rock *was* interdependent once! So can't a band simply promise to make the best art, like before? Sadly, no. In a world of charitable support, *all* art is now subjective; talent no longer counts. Which means an indie label's *only* trusted measure is the objective size of an artist's fanbase. What a mess! This leaves only one solution:
 
 **To revive interdependence, a band must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and couldn't have been made with *any* less effort.**
 
-So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— twelve full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
+So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— twelve full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even indie labels love it when a creative work *needs* to break the rules!
 
 ### Who gatekeeps the gatekeepers?
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform.
 
-But it's worse than just that. To demand fair compensation, indie artists have only one bargaining chip: their collective power to hold *back* the art form. Which means indie rock is *opposed* to simply advancing the art form at any cost! And this explains why its gatekeepers *weren't* happy to see me: I was like a scab crossing the picket line during a union strike!
+But it's worse than just that. To demand fair compensation, indie artists have only one bargaining chip: their collective power to hold *back* the art form. Which means indie rock is *opposed* to simply letting the art form advance at any cost! And this explains why its gatekeepers *weren't* happy to see me: I was like a scab crossing the picket line during a union strike!
 
 Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who *finally* put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! And this is the heart of the problem:
 
