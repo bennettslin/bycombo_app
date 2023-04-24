@@ -37,11 +37,11 @@ As a minority myself, I find hip hop's way of thinking far more sensible. So I w
 
 By *not* spending time and energy using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete unless they're indie as well. In turn, labels can only stay competitive by signing indie artists! And yet their fate is clear:
 
-**As indie artists grow further empowered, the very *purpose* of labels will gradually cease to exist— *unless* they get back to signing interdependent bands… who make the best art in the first place!**
+**As indie artists grow further empowered, the very *purpose* of labels will eventually cease to exist— *unless* they get back to signing interdependent bands… who make the best art in the first place!**
 
 ### Return of the rock martyrs
 
-And that's the funny part: Rock *was* interdependent once! Well, then, can't a band simply promise to make the best art, like before? Sadly, no. In a world of charitable support, *all* art is now subjective; this means talent no longer predicts anything. So an indie label's *only* trusted measure is the objective size of an artist's fanbase. What a mess!
+And that's the funny part: Rock *was* interdependent once! Well, then, can't a band simply promise to make the best art, like before? Sadly, no. In a world of charitable support, *all* art is now subjective, so talent no longer predicts anything. Which means an indie label's *only* trusted measure is the objective size of an artist's fanbase. What a mess!
 
 ${'  ' || `
 // TODO: Another paragraph on logical extremes and hobbyist. This leaves one solution. Mention saving rock.
@@ -67,15 +67,15 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 
 ### A hundred *Yearling's Bobtail*s
 
-But if we can't dissent… then let's revolt! By some miracle, Gen Z sides with the *older* generations; *they* want rock bands to make the best art again as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells the next David Geffen or Malcolm McLaren that the rock market is ripe for disruption.
+But if we can't dissent… then let's revolt! By some miracle, Gen Z sides with the *older* generations; *they* want rock bands to make the best art again as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells potential business partners that the rock market is ripe for disruption.
 
 ${'  ' || `
-// TODO: Best way to phrase this?
+// TODO: Needs phrasing.
 `}
 
-These "bad guys" would love to hear a demo that might save rock— but how would they ever find it, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. Well, BYCombo has great news!
+Plenty out there, then, would love to deal with bands who can promise to make the best art— but how will they find each other amid all the noise coming in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. Well, BYCombo has great news!
 
-**To earn the listener's trust, interdependent bands can now pay a steep *cost* of entry: To have their demo shown in BYCombo's public registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
+**To earn the listener's trust, interdependent bands can show their demo in BYCombo's public registry, which has a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
 ${'  ' || `
 // TODO: Obviously. Proving that the best art comes from *not* using indie rock's tools.

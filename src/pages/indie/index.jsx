@@ -45,7 +45,7 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to join a counterculture that *criticizes* indie rock's good intentions— and a public registry is where discerning fans and potential partners will know to find them.
+It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to join a counterculture that *criticizes* indie rock's good intentions— and a public registry is where discerning fans and potential business partners will know to find them.
 
 **Why serious chunks of lifetime?**
 
@@ -120,10 +120,6 @@ ${'  ' || `
 `}
 
 Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics). When they boast of having hustled, they're saying, "Hey, I hustled *too*." It's to ensure that self-reliance means *nothing*.
-
-${'  ' || `
-// TODO: Mention charitable support.
-`}
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! With little of historical consequence to show after two decades of charitably supported artists, indie rock now feels like just another foreign canon. So women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
