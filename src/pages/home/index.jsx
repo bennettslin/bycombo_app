@@ -41,13 +41,13 @@ By *not* spending time and energy using indie rock's tools, however, I'm seen as
 
 ### Return of the rock martyrs
 
-And that's the funny part: Rock *was* interdependent once! Well, then, can't a band simply promise to make the best art, like before? Sadly, no. In a world of charitable support, *all* art is now subjective, so talents no longer predict anything. This means an indie label's *only* trusted measure is the objective size of an artist's fanbase. What a mess!
+And that's the funny part: Rock *was* interdependent once! Well, then, can't a band simply promise to make the best art, like before? Sadly, no. In a world of charitable support, *all* art is now subjective; this means talent no longer predicts anything. So an indie label's *only* trusted measure is the objective size of an artist's fanbase. What a mess!
 
 ${'  ' || `
 // TODO: Another paragraph on logical extremes and hobbyist. This leaves one solution. Mention saving rock.
 `}
 
-But there's good news: The public clearly wants.
+But there's good news: The public clearly wants the art form to advance.
 Absurdity of logical extremes.
 Hobbyists make the best art. And so we arrive at the perfect solution:
 

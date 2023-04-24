@@ -59,7 +59,7 @@ Here's an incomplete list of ways…
 
 ### The opportunity cost is too damn high
 
-In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today, indie rock is just another foreign canon, because indie artists *never* go above and beyond. Why don't they? It's because they're required to build a fanbase on their own.
+In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today, indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they? It's because they're required to build a fanbase on their own.
 
 Happily enough, building a fanbase yields compounded returns, since each fan brings in more fans. But not only that, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to!
 
@@ -95,13 +95,13 @@ Because the indie labels stay close to the local scenes, they're both "in the kn
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Which is why history's most creative artists were often backed by those with no prior experience in the arts. Now with BYCombo, you can once again find business partners who *don't* take pride in knowing what great art looks like.
+Which is why history's most creative artists were often backed by those with *no* prior experience in the arts. Now with BYCombo, you can once again find business partners who *don't* take pride in knowing what great art looks like.
 
 ### Middle managers join the revolution *last*
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk averse. And who are these risk-averse middle managers in *rock*? The indie labels.
 
-Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to deliver what the [people already want](https://www.goodreads.com/quotes/988332). But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, every revolution gets nipped in the bud, because the people *never* ask for revolutionary change on their own.
+Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to deliver what the people already want. But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for revolutionary change on their own.
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
 
@@ -125,7 +125,7 @@ ${'  ' || `
 // TODO: Mention charitable support.
 `}
 
-Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! With little of historical consequence to show after two decades, indie rock has been demoted to just another foreign canon. So we women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
+Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! With little of historical consequence to show after two decades of charitably supported artists, indie rock now feels like just another foreign canon. So women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then carried further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
