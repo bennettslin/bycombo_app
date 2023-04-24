@@ -55,7 +55,7 @@ So rock is waiting for… a self-sacrificing martyr. But martyrs are the ones wh
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform.
 
-But it's worse than just that. To demand fair compensation, indie artists have only one bargaining chip: their collective power to hold *back* the art form. Which means indie rock is *opposed* to simply letting the art form advance at any cost! And this explains why its gatekeepers *weren't* happy to see me: I'm like a scab crossing the picket line during a union strike!
+But it's worse than just that. To demand fair compensation, indie artists have only one bargaining chip: their collective power to hold *back* the art form. Which means indie rock is *opposed* to simply letting the art form advance at any cost! And this explains why its gatekeepers *weren't* happy to see me: I was like a scab crossing the picket line during a union strike!
 
 Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who *finally* put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! And this is the heart of the problem:
 

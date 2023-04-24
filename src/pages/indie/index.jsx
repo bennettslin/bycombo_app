@@ -31,9 +31,7 @@ Critical acclaim can be inflated, which makes it a terrible barometer. What *can
 
 Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But if we ditch this notion? Then rock has barely scratched the surface.
 
-What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one?
-
-Assembled bands can also provide a *remedy*. Suppose the next Kurt Cobain or Thom Yorke is a woman or minority, who's currently struggling to attract bandmates. What if they could ask to be judged without unconscious bias?
+What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain or Thom Yorke is a woman or minority, who's currently struggling to attract bandmates. What if they could ask to be judged without unconscious bias?
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
