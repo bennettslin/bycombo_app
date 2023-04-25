@@ -35,7 +35,7 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/es
 
 It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? Society doesn't root for outsiders. Well, as a minority myself, I'm drawn to hip hop's way of thinking. I want my band to be *inter*-dependent: to have a *label* build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
-By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete. So labels compete by only signing indie artists— who work hard *not* to need them! What a mess… And yet the future is clear:
+By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can compete. So labels compete by only signing indie artists— who work hard *not* to need them! What a mess… And yet the future is clear:
 
 **As indie artists grow further empowered, the very *purpose* of a label will cease to exist— *unless* they get back to signing the interdependent bands who *do* need them… and who make the best art in the first place!**
 
@@ -53,7 +53,7 @@ So rock is waiting on… a self-sacrificing martyr. But martyrs are the ones who
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform. And so they're unsympathetic to any demo that takes serious effort to understand.
 
-It's worse than just that, however. To demand fair compensation, indie artists have one bargaining chip: their collective power to hold *back* the art form. But this means all of indie rock opposes the alternative: bands like mine, who'll advance the art form at any cost. It makes us *worse* than hobbyists; we're scabs crossing the picket line during a union strike!
+It's worse than just that, however. To demand fair compensation, indie artists have one bargaining chip: their collective power to hold *back* the art form. But this forces all of indie rock to oppose the alternative: bands like mine, who'd rather advance the art form at any cost. It makes us *worse* than hobbyists; we're scabs crossing the picket line during a union strike!
 
 Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who *finally* put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! And this is the heart of the problem:
 
