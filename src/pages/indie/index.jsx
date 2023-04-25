@@ -121,11 +121,15 @@ ${'  ' || `
 
 Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics). When they boast of having hustled, they're saying, "Hey, I hustled *too*." It's to ensure that self-reliance means *nothing*.
 
+${'  ' || `
+// TODO: Point out that today's indie artists aren't any better than those twenty years ago who've been completely forgotten by history.
+`}
+
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades of failing to make much history, indie rock now feels like just another foreign canon. So women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then carried further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Because, to be loved at all, hungry outsiders need to be the *most* original, the *most* talented… and this is why they flock to movements that make the best use of *mutual* reliance. So hip hop is the true heir to rock and roll, not indie rock! But with BYCombo, you can once again make rock history— as a band.
+Because, to be loved at *all*, hungry outsiders need to be the *most* original, the *most* talented… This is why they flock to movements that make the best use of *mutual* reliance. So hip hop is the true heir to rock and roll, not indie rock! But with BYCombo, you can once again make rock history— as a band.
 
 ### A artists help A artists, B artists help C artists
 
