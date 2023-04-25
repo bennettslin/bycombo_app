@@ -33,11 +33,11 @@ So indie rock's tools… are now *rules*. And since rules are made to be followe
 
 Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles). Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free, if they just build up their talents. For example, Eminem didn't have a real fanbase before he was discovered by Dr. Dre; his EP sold [only 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
 
-It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? Society doesn't root for outsiders. And as a minority myself, I find hip hop's thinking more applicable. I want my band to be *inter*-dependent: to have a *label* build our fanbase— and, in turn, have this label depend on *us* to make the best art.
+It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? Society doesn't root for outsiders. Well, as a minority myself, I find hip hop's thinking more applicable. I want my band to be *inter*-dependent: to have a *label* build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
 By *not* spending time and energy using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete unless they're indie as well. Which means the labels stay competitive only by signing indie artists! And yet their fate is clear:
 
-**As indie artists grow further empowered, the very *purpose* of a label will eventually cease to exist— *unless* they get back to signing interdependent bands… who make the best art in the first place!**
+**As indie artists grow further empowered, the very *purpose* of a label will gradually cease to exist— *unless* they get back to signing interdependent bands… who make the best art in the first place!**
 
 ### Return of the rock martyrs
 
