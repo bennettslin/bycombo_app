@@ -89,6 +89,14 @@ But even today with radio dying, the indie labels *still* aren't signing the nex
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it, making history starts with being the envy of other *musicians*. And BYCombo can help you make this happen.
 
+### Creativity gets its chance from the *clueless*
+
+Because the indie labels stay close to the local scenes, they're both "in the know" and "one of us." So whatever *they* like is the best of what *we'll* like, right? Yet according to studies… it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+
+Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
+
+Which is why history's most creative artists were often backed by those with *no* prior experience in the arts. Now with BYCombo, you can once again find business partners who *don't* take pride in knowing what great art looks like.
+
 ### Middle managers join the revolution *last*
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk averse. And who are these risk-averse middle managers in *rock*? The indie labels.
@@ -117,20 +125,7 @@ Yet despite the poor fit, indie rock sure is eager of late to hand over its rein
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then carried further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-To be loved at all, a hungry outsider needs to be the *most* original, the *most* talented… and this is why they flock to movements that make the best use of *mutual* reliance. So hip hop is the true heir to rock and roll, not indie rock! But with BYCombo, you can once again make rock history— as a band.
-
-### Creativity gets its chance from the *clueless*
-
-Because the indie labels stay close to the local scenes, they're both "in the know" and "one of us." So whatever *they* like is the best of what *we'll* like, right? Yet according to studies… it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
-
-Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
-
-${'  ' || `
-// TODO: 
-Begin by saying. This explains. Then, this also explains why in the age of indie rock, the outsider can't overcome our charitable preference for the underdog through sheer invention, as would have happened in previous ages.
-`}
-
-Which is why history's most creative artists were often backed by those with *no* prior experience in the arts. Now with BYCombo, you can once again find business partners who *don't* take pride in knowing what great art looks like.
+Because, to be loved at all, hungry outsiders need to be the *most* original, the *most* talented… and this is why they flock to movements that make the best use of *mutual* reliance. So hip hop is the true heir to rock and roll, not indie rock! But with BYCombo, you can once again make rock history— as a band.
 
 ### A artists help A artists, B artists help C artists
 
@@ -141,21 +136,6 @@ It's because paid dues are worthless outside the one system that promises to hon
 Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
 
 Which is why it took an outsider like myself to found BYCombo, driven by an urge to help up-and-coming bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first artist who's secure enough to *want* it— having never paid indie rock's dues myself.
-
-${'  ' || `
-// TODO: ### Independence breeds homogeneity
-
-Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive, but I'm just a hobbyist who'll eventually give up. Why do they misjudge me so badly? Then it finally hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* gatekeeper, a hundred times over, who doesn't understand that I'm not them.
-
-Second paragraph:
-There's no diversity training in rock, but those who want interdependence learn the value of diversity anyway, because their advantage comes from finding partners who are strong where they're weak, and vice versa. By contrast, those who want independence lack any incentive to learn that others think differently from them.
-
-Third paragraph: (Ideas are there, but wording is bad.)
-As a result, every indie gatekeeper thinks the same way and, in turn, selects those artists who think like them: That no serious artist would simply jump from one project to the next while waiting for a business partner. Why? Because it isn't what *they'd* do themselves. With BYCombo, you can once again find business partners who understand the benefits of diversity of thought.
-
-Late addition: (Maybe not, now that I think more about it.)
-Indie rock's decentralized nature prevents it from benefiting from the emerging field of behavioral economics. Social media and streaming platforms are happily— and quietly— using this new science to maximize clicks. But there's no one on the other side using it to advance the art form.
-`}
 
 ### Art needs the blood of martyrs
 
