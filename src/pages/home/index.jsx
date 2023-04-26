@@ -31,13 +31,13 @@ So these tools… are now indie rock's *rules*. And since rules are made to be f
 
 ### The outsider's dilemma
 
-Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles). Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free if they just build up their talents. For example, Eminem didn't have a real fanbase before he was signed by Dr. Dre; his EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
+Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles). Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free, if they just build up their talents. For example, Eminem didn't have a real fanbase before he was signed by Dr. Dre; his EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
 
-It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? Society doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's way of thinking. I want my band to be *inter*-dependent: to have a *label* build our fanbase— and, in turn, have this label depend on *us* to make the best art.
+It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? Society doesn't root for outsiders. Well, as a minority myself, I'm drawn to hip hop's way of thinking. I want my band to be *inter*-dependent: to have a *label* build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
 By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete. Which means the labels can only compete by signing indie artists— who work hard *not* to need them! What a mess… And yet the future is clear:
 
-**As indie artists grow further empowered, the very *purpose* of a label will cease to exist— *unless* they get back to signing interdependent bands, who *do* need them… as it's the only way to make the best art!**
+**As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… as it's the only way to make the best art!**
 
 ### Return of the rock martyrs
 
@@ -51,13 +51,11 @@ So rock is waiting on… a self-sacrificing martyr. But martyrs are the ones who
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform. And so they're unsympathetic to any demo that takes serious effort to understand.
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform. And so they largely ignored my demo, as it takes genuine effort to understand.
 
-${'  ' || `
-// TODO: Make entire section about the fact that underdogs can't coexist with outsiders. Use internal links to Indie page. Need code for return button.
-`}
+It's worse than just that, however. Since underdogs lose to outsiders in any fair fight, indie rock was founded to *negate* the outsider's natural strengths: exceptional talent and creative invention. This is why its gatekeepers value a work's *extrinsic* context over its [*intrinsic* appeal](/indie#history-wants-radio-friendly-hooks), and why they reject what the science says about creativity's [counterintuitive nature](/indie#creativity-gets-its-chance-from-the-clueless).
 
-It's worse than just that, however. To demand fair compensation, indie artists have one bargaining chip: their collective power to hold *back* the art form. But this forces all of indie rock to oppose the alternative: bands like mine, who'd rather advance the art form at any cost. It makes us *worse* than hobbyists; we're scabs crossing the picket line during a union strike!
+These gatekeepers also ignored my later projects that would have *helped* their artists: [Bobtail Method](https://bobtailmethod.com), my songwriting book, and [Bobtail Dominoes](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for [helping themselves](/indie#a-artists-help-a-artists-b-artists-help-c-artists) and [not others](/indie#art-needs-the-blood-of-martyrs)!
 
 Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who *finally* put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! And this is the heart of the problem:
 
@@ -75,7 +73,10 @@ ${'  ' || `
 // TODO: Obviously. Proving that the best art comes from *not* using indie rock's tools. Mention hobbyists. Absurdity. Courage. Outsider music.
 `}
 
-Picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our times, and proving the need for an alternative counterculture. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
+Picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the most disruptively creative works of our times, 
+
+
+. This will be the *final* step toward reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
