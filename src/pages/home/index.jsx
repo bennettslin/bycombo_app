@@ -43,7 +43,7 @@ By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then m
 
 And that's the funny part: Rock *was* interdependent once! Well, then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, *all* art is now subjective; talent predicts nothing. This means an indie label's *only* trusted measure is the objective size of an artist's fanbase. Good grief… Can rock be saved?
 
-Yes! Luckily, indie rock has a glaring weakness. It doesn't *actually* separate the best artists from the worst; it simply picks "serious" artists over "casual" ones, in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will *force* us to dismiss the best artists of our times as hobbyists! Here's how it works:
+Yes! See, indie rock has a glaring weakness. It doesn't *actually* separate the best artists from the worst; it simply picks "serious" artists over "casual" ones, in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will *force* us to dismiss the best artists of our times as hobbyists! Here's how it works:
 
 **To save rock, interdependent bands must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and which couldn't have been made with *any* less effort.**
 
@@ -53,7 +53,7 @@ So rock is waiting on… a self-sacrificing martyr. But martyrs are the ones who
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform. And so they largely ignored my demo, as it takes genuine effort to understand.
 
-It's worse than just that, however. Since underdogs lose to outsiders in any fair fight, indie rock was founded to *negate* the outsider's natural strengths: exceptional talent and creative invention. This is why its gatekeepers value a work's *extrinsic* context over its [*intrinsic* appeal](/indie#history-wants-radio-friendly-hooks), and why they reject what the science says about creativity's [counterintuitive nature](/indie#creativity-gets-its-chance-from-the-clueless).
+It's worse than just that, however. Since underdogs lose to outsiders in a fair fight, indie rock was founded to *negate* the outsider's go-to strengths: sheer talent and creative invention. This is why its gatekeepers value a work's *extrinsic* context over its [*intrinsic* appeal](/indie#history-wants-radio-friendly-hooks), and why they reject the scientific evidence that [creativity is counterintuitive](/indie#creativity-gets-its-chance-from-the-clueless).
 
 These gatekeepers also ignored my later projects that would have *helped* their artists: [Bobtail Method](https://bobtailmethod.com), my songwriting book, and [Bobtail Dominoes](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for [helping themselves](/indie#a-artists-help-a-artists-b-artists-help-c-artists) and [not others](/indie#art-needs-the-blood-of-martyrs)!
 
@@ -65,7 +65,7 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 
 But if we can't dissent… then let's revolt! By some miracle, Gen Z sides with the *older* generations; *they* want to save rock as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells potential business partners that the rock market is ripe for disruption.
 
-These Dr. Dres of rock would love to meet with bands who can promise to make the best art— but how will they find each other, amidst all the noise coming in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
+These Dr. Dres of rock would love to meet with bands who can promise to make the best art— but how will they find each other, given the massive noise coming in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
 
 **To earn the listener's trust, interdependent bands can show their demo in BYCombo's public registry by paying its steep *cost* of entry: a serious chunk of lifetime sacrificed to advance the art form.**
 
