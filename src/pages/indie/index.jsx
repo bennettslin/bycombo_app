@@ -79,7 +79,7 @@ In those days, lottery players had no patience for the grassroots; they'd sign l
 
 Naturally, bands who prefer the deterministic path can't compete like this. Yet the indie gatekeepers don't sympathize; after all, *some* indie artists are doing just fine, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
 
-### History wants radio-friendly hooks
+### History is made through *peer* review
 
 As a child, I studied the bands whose compositions I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
 
@@ -87,7 +87,7 @@ To vie for radio airplay in the 90s, alternative bands would craft solid hooks t
 
 But even today with radio dying, the indie labels *still* aren't signing the next Nirvana or Radiohead, despite such bands now being theirs for the taking. Why? Because they still don't have an ear for it. So to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
 
-Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it, making history starts with being the envy of other *musicians*. And BYCombo can help you make this happen.
+Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it, making history starts with being the envy of fellow *musicians*. And BYCombo can help you make this happen.
 
 ### Creativity gets its chance from the *clueless*
 
@@ -117,11 +117,11 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics). When they boast of having hustled, they're saying, "Hey, I hustled *too*." It's to ensure that self-reliance means *nothing*.
 
-Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that will matter to history, today's indie rock feels like just another foreign canon. So women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
+Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, today's indie rock feels like just another foreign canon. So women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then carried further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-To be loved at *all*, hungry outsiders need to be the *most* original, the *most* talented… And so *their* movements make the best use of *mutual* reliance. This means hip hop is the true heir to rock and roll, not indie rock! But with BYCombo, you can once again make rock history— in a band.
+To be loved at *all*, hungry outsiders need to be the *most* original, the *most* talented… And so *they* found movements to make the best use of *mutual* reliance. This means hip hop is the true heir to rock and roll, not indie rock! But with BYCombo, you can once again make rock history— in a band.
 
 ### A artists help A artists, B artists help C artists
 
