@@ -34,7 +34,7 @@ Once your demo is complete, we'll add it to our registry and notify all the musi
 
 **Women, minorities, and all other disadvantaged groups are encouraged to apply!**
 
-As a rock movement *founded* by a minority, BYCombo was *conceived* to give disadvantaged groups the interdependence they naturally thrive under.
+As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged groups the interdependence they naturally thrive under.
 
 ### How to apply
 
