@@ -27,7 +27,7 @@ So these tools… are now indie rock's *rules*. And since rules are made to be f
 
 ### The outsider's dilemma
 
-Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles). Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free, if they just build up their talents. For example, Eminem *didn't* have a real fanbase before he was discovered by Dr. Dre; his EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
+Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles). Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free, if they just build up their talents. For example, Eminem *didn't* have any real fanbase before he was discovered by Dr. Dre; his EP had sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
 
 It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's way of thinking. I want my band to be *inter*-dependent: to have a *label* build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
@@ -43,7 +43,7 @@ Yes! See, indie rock has a glaring weakness. It doesn't *actually* separate the 
 
 **To save rock, interdependent bands must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and which couldn't have been made for *any* less effort.**
 
-So rock is waiting on… a self-sacrificing martyr. But martyrs are the ones who make history! As such, I spent 25,000 hours— twelve full-time years— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break their rules!
+So rock is waiting on… a self-sacrificing martyr. But martyrs are the ones who make history! Which is why I spent 25,000 hours— twelve full-time years— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when creative works *need* to break the rules!
 
 ### Who gatekeeps the gatekeepers?
 
@@ -61,9 +61,9 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 
 But if we can't dissent… then let's revolt! By some miracle, Gen Z sides with the *older* generations; *they* want to save rock as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells potential business partners that the rock market is ripe for disruption.
 
-These Dr. Dres of rock would love to meet with bands who can promise to make the best art— but how will they find each other, given all the noise coming in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
+These Dr. Dres of rock would love to meet with bands who can promise to make the best art— but how will they find one another, given all the noise coming in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
 
-**To earn the listener's trust, interdependent bands can show their demo in BYCombo's public registry by paying a steep *cost* of entry: Each band must sacrifice a serious chunk of lifetime to advance the art form.**
+**Interdependent bands can now earn the listener's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
 Picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the most creative works of our times— only to *still* be dismissed as hobbyists by the indie gatekeepers! They would be this generation's Beatles, Sex Pistols, *and* Shaggs, rolled into one. This, then, is the *final* step toward reviving interdependence— the next revolution in rock history!
             `,
