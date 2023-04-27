@@ -83,11 +83,11 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 
 As a child, I studied the bands whose compositions I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
 
-To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed [on their *own*](https://youtu.be/yjJL9DGU7Gg?t=36)— the kind of feat that other musicians envy. The indie labels always lost such bands to the majors, though, so instead they listened for works that rely on [*extrinsic* context](https://youtu.be/1VVj1zqbWpU) to be appreciated. And these works are loved most by *critics*, who provide this context to the public.
+To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed [on their *own*](https://youtu.be/yjJL9DGU7Gg?t=36)— the kind of feat that other musicians envy. The indie labels always lost such bands to the majors, though, so instead they listened for works that rely on [*extrinsic* context](https://youtu.be/1VVj1zqbWpU) to be appreciated. And these works are admired most by *critics*, who provide this context to the public.
 
 But even today with radio dying, the indie labels *still* aren't signing the next Nirvana or Radiohead, despite such bands now being theirs for the taking. Why? Because they still don't have an ear for it. So to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
 
-Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it, making history starts with being the envy of fellow *musicians*. And BYCombo can help you make this happen.
+Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it, making history starts with being the envy of your fellow *musicians*. And BYCombo can help you make this happen.
 
 ### Creativity gets its chance from the *clueless*
 
@@ -95,7 +95,7 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-Because the indie labels stay close to the local scenes, they're both "in the know" and "one of us." So what *they* like is whatever those like us have liked, which means it's the best of what *we'll* like, right? Yet according to studies… it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+Because the indie labels stay close to the local scenes, they're both "in the know" and "one of us." So what *they* like is whatever those like *us* have liked, which means it's the best of what *we'll* like… right? Yet according to studies, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -119,7 +119,7 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
-Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics). When they boast of having hustled, they're saying, "Hey, I hustled *too*." It's to ensure that self-reliance means *nothing*.
+Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never founded a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/3489987). When they boast of having hustled, they're saying, "Hey, I hustled *too*." It's to ensure that self-reliance means *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, today's indie rock feels like just another foreign canon. So women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
