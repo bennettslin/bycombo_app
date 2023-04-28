@@ -13,29 +13,39 @@ ${'  ' || `
 
 **BYCombo is a nonprofit incubator of self-sacrificing rock bands. We're here to launch the interdependence revolution, a movement devoted to bringing forth this century's most historically consequential rock music!**
 
-Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative? Here's why…
+Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative?
+
+Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles)! Let me explain…
 
 ### Tools… are *rules*
 
 Indie rock roots for the underdog, which is why it's all about lowering the barriers to entry for artists. To do this, it provides them with tools to bypass the labels and build a fanbase on their own: streaming platform algorithms, social media analytics, and so forth.
 
-These tools of aren't free, though— they cost the artist's time and energy. And yet, since they're available to *every* artist, they hardly boost all those who use them; they merely penalize the few who *don't*. But… this is how *rules* work! Which is to say:
+These tools of self-empowerment aren't free, though— they cost the artist's time and energy. And yet, since they're available to *every* artist, they hardly give a boost to those who use them; they merely set back the few who *don't*. But… this is how rules work! Indie rock's tools… are now its *rules*! Which is to say:
 
 ${'  ' || `
-// TODO: Just one final review.
+// TODO: Keep working on this. Pay attention to when the object of a pronoun changes. Better way to compare the cost to the steep cost of entry?
 `}
 
-**By *expecting* artists to empower themselves, indie rock effectively *requires* them to do so. Every new tool of self-empowerment, then… becomes yet another rule.**
+**By *expecting* artists to use its tools, indie rock effectively *requires* them to do so. And as more tools become available, the few who'd rather *not* pay the cost will keep falling further behind.**
 
-And since rules are made to be followed, rule breakers can't complain about being penalized. But breaking the rules is also how history gets made! So let's not shut them out, either.
+${'  ' || `
+// TODO: Mention that I know because I'm one of them.
+`}
+
+Now, rules are made to be followed, so some indie rockers might call it poetic justice to see us rule breakers get penalized. But breaking the rules is also how rock history gets made! So please don't shut us out, either.
 
 ### The outsider's dilemma
 
-Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles). Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free, if they just build up their talents. For example, Eminem *didn't* have a real fanbase before he was discovered by Dr. Dre; his self-released EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
+${'  ' || `
+// TODO: Have a good first sentence, and make it flow.
+`}
+
+Why can't I go along to get along? Here's the thing: Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free, if they just build up their talents. For example, Eminem *didn't* have a real fanbase before he was discovered by Dr. Dre; his self-released EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
 
 It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's way of thinking. I want my band to be *inter*-dependent: to have a *label* build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
-By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete. Which means the *labels* can only compete by signing indie artists— who work hard *not* to need them! What a mess… Yet the future is clear:
+By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete. Which means the *labels* can only compete by signing indie artists— who work hard *not* to need them. What a mess! And yet the future is clear:
 
 **As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… as it's the only way to make better art!**
 
