@@ -43,7 +43,7 @@ By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then m
 
 And that's the funny part: Rock *was* interdependent once! Well, then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, *all* art is now subjective; talent predicts nothing. This means an indie label's *only* trusted measure is the objective size of an artist's fanbase. Good grief… Can rock be saved?
 
-Yes! See, indie rock has a glaring weakness. It doesn't *actually* separate the best artists from the worst; it simply picks "serious" artists over "casual" ones, in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will *force* us to dismiss all the best artists as hobbyists! Here's how it works:
+Yes! See, indie rock has a glaring weakness. It doesn't *actually* separate the best artists from the worst; it picks "serious" artists over "casual" ones, in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will *force* us to dismiss all the best artists as hobbyists! Here's how it works:
 
 **To save rock, interdependent bands must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and which couldn't have been made for *any* less effort.**
 
@@ -53,15 +53,11 @@ So rock is waiting for a self-sacrificing martyr— the perfect opportunity for 
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform. And so they largely ignored my demo, as it wasn't what they expected.
 
-It's worse than just that, however. An outsider's go-to strengths— raw talent and creative invention— are the underdog's given weaknesses, so indie rock is set up to *reject* them. This is why it prizes works admired by critics, who root for underdogs— but *not* those [envied by musicians](/indie#history-is-made-through-peer-review), who *don't*; and why it disputes the scientific evidence that we're all biased [*against* creativity](/indie#creativity-gets-its-chance-from-the-clueless).
+It's worse than just that, however. An outsider's go-to strengths— cultivated talent and creative invention— are the underdog's given weaknesses. So by reflex, indie rock *rejects* them. This is why it prizes works admired by critics, who root for underdogs— but *not* those [envied by musicians](/indie#history-is-made-through-peer-review), who *don't*; and why it disputes the studies that say we're all biased [*against* creativity](/indie#creativity-gets-its-chance-from-the-clueless).
 
 The indie gatekeepers also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for only [helping themselves](/indie#art-needs-the-blood-of-martyrs)! And this is how I learned the hard way:
 
-${'  ' || `
-// TODO: Revisit this wording.
-`}
-
-**A movement that celebrates the underdog *isn't* simply waiting around for an outsider to show up with better art. To be kind to underdogs, one must be *cruel* to outsiders.**
+**To be kind to underdogs, one *must* be cruel to outsiders. So a movement that celebrates the underdog *isn't* simply waiting for an outsider with better art to show up after all. It's actively shutting them out!**
 
 Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who *finally* put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! Here, then, is the heart of the problem:
 
