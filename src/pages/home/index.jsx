@@ -57,7 +57,11 @@ It's worse than just that, however. An outsider's go-to strengths— cultivated 
 
 The indie gatekeepers also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for only [helping themselves](/indie#art-needs-the-blood-of-martyrs)! And this is how I learned the hard way:
 
-**To be kind to underdogs, one *must* be cruel to outsiders. So a movement that celebrates the underdog *isn't* simply waiting for an outsider with better art to show up after all. It's actively shutting them out!**
+${'  ' || `
+// TODO: Just one final review.
+`}
+
+**A movement that's kind to underdogs *must* be cruel to outsiders. In other words, indie rock *isn't* simply waiting for an outsider with better art to come along. It's actively shutting them out!**
 
 Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who *finally* put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! Here, then, is the heart of the problem:
 
