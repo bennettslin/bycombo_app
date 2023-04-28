@@ -21,9 +21,13 @@ Indie rock roots for the underdog, which is why it's all about lowering the barr
 
 These tools aren't free, though— they cost the artist's time and energy. And yet, since they're available to *every* artist, they hardly boost all those who use them; they merely penalize the few who *don't*. But… this is how *rules* work! Which is to say:
 
-**By *expecting* artists to empower themselves, indie rock effectively *requires* them to do so. Each tool of self-empowerment then becomes yet another rule to follow.**
+${'  ' || `
+// TODO: Revisit this wording.
+`}
 
-So these tools… are now indie rock's *rules*. And since rules are made to be followed, rule breakers can't complain about being penalized. But breaking the rules is also how history gets made! So let's not shut them out, either.
+**By *expecting* artists to empower themselves, indie rock effectively *requires* them to do so. For artists to use these tools of self-empowerment, then… is now the *rule* in indie rock.**
+
+And since rules are made to be followed, rule breakers can't complain about being penalized. But breaking the rules is also how history gets made! So let's not shut them out, either.
 
 ### The outsider's dilemma
 
@@ -33,7 +37,7 @@ It's simple: While indie rock was founded by *underdogs*, hip hop was founded by
 
 By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete. Which means the *labels* can only compete by signing indie artists— who work hard *not* to need them! What a mess… Yet the future is clear:
 
-**As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… as it's the only way to make the best art!**
+**As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… as it's the only way to make better art!**
 
 ### Return of the rock martyrs
 
@@ -49,11 +53,17 @@ So rock is waiting for a self-sacrificing martyr— the perfect opportunity for 
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform. And so they largely ignored my demo, as it wasn't what they expected.
 
-It's worse than just that, however. Since underdogs lose to outsiders in a fair fight, indie rock is set up to *reject* the outsider's go-to strengths: sheer talent and creative invention. This is why it prizes works admired by critics, who root for underdogs— but *not* those [envied by musicians](/indie#history-is-made-through-peer-review), who *don't*; and why it disputes the scientific evidence that we're all biased [*against* creativity](/indie#creativity-gets-its-chance-from-the-clueless).
+It's worse than just that, however. An outsider's go-to strengths— raw talent and creative invention— are the underdog's given weaknesses, so indie rock is set up to *reject* them. This is why it prizes works admired by critics, who root for underdogs— but *not* those [envied by musicians](/indie#history-is-made-through-peer-review), who *don't*; and why it disputes the scientific evidence that we're all biased [*against* creativity](/indie#creativity-gets-its-chance-from-the-clueless).
 
-The indie gatekeepers also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are actually *loved* for [helping themselves](/indie#a-artists-help-a-artists-b-artists-help-c-artists) and [not others](/indie#art-needs-the-blood-of-martyrs)!
+The indie gatekeepers also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for only [helping themselves](/indie#art-needs-the-blood-of-martyrs)! And this is how I learned the hard way:
 
-Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who *finally* put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! And this is the heart of the problem:
+${'  ' || `
+// TODO: Revisit this wording.
+`}
+
+**A movement that celebrates the underdog *isn't* simply waiting around for an outsider to show up with better art. To be kind to underdogs, one must be *cruel* to outsiders.**
+
+Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who *finally* put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! Here, then, is the heart of the problem:
 
 **As the first rock movement to believe its ideals to be universal, indie rock is also the first to lock down its rules for good. As such, there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
 
