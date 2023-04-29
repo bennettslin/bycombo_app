@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The problem with indie rock
 
-By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana and Radiohead, and then the rest were written off as failures. But the indie labels held to fair standards that promised *all* their bands a working future. A decade later, the majors imploded— so indie rock won! Except now…
+By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana and Radiohead, and then the rest were written off as failed bets. But the indie labels held to fair standards that promised *all* their bands a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -145,7 +145,7 @@ Worst of all, self-empowered artists will never *start* a revolution, because th
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if this generation's Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime to advance the art form?
 
-Luckily, you don't need to ask, "Where's *our* BYCombo?" BYCombo is here for you *now*!
+Luckily, you don't need to ask, "Where's *our* BYCombo?" BYCombo is here to give you the next Nirvana *now*!
     `,
         }}
     />
