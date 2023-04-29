@@ -21,11 +21,11 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/es
 
 Indie rock roots for the underdog, which is why it's all about lowering the barriers to entry for artists. To do this, it provides them with tools to bypass the labels and build a fanbase on their own: streaming platform algorithms, social media analytics, and so forth.
 
-These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet, since they're available to *all* artists, they hardly do much for those who use them; they mostly just set back those who don't. But… this is how *rules* work! In other words, by *encouraging* artists to use these tools, indie rock has now made it the *rule* to do so.
+These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet, since they're available to *all* artists, they hardly do much for the many who use them; they mostly just set back the few who don't. But… this is how *rules* work! In other words, by *encouraging* artists to use these tools, indie rock has now made it the *rule* to do so.
 
-As such, if a band chooses to spend their time and energy building up their talents and making art instead, they'll only fall further behind in this new Age of Empowerment. Of course, those who make the rules, and those who follow them, have no reason to sympathize. Well, how about a truce?
+As such, if a band chooses to spend their time and energy building up their talents or making art instead, they'll only fall further behind in this new Age of Empowerment. Of course, those who make the rules, and those who follow them, have no reason to sympathize. Well, how about a truce?
 
-**Since indie rock's rules are made to be followed, bands who refuse can't complain about being punished. But breaking the rules is also how rock history gets made! So let's not shut them out either.**
+**Since rules are made to be followed, bands who disobey indie rock's rules can't complain about being punished. But breaking the rules is also how rock history gets made! So let's not shut them out either.**
 
 ### The outsider's dilemma
 
@@ -43,15 +43,15 @@ And that's the funny part: Rock *was* interdependent once! Well, then, can't a b
 
 Yes! See, indie rock has a glaring weakness. It doesn't *actually* separate the best artists from the worst; it picks "serious" artists over "casual" ones, in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will *force* its gatekeepers to dismiss all the best artists as hobbyists! Here's how it works:
 
-**To save rock, interdependent bands must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and which couldn't have been made for *any* less effort.**
+**To save rock, self-sacrificing bands must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and which couldn't have been made for *any* less effort.**
 
-So rock is waiting for a self-sacrificing martyr— the perfect opportunity for an outsider! This is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
+But given the risk, who'd volunteer to be the first of these new rock martyrs? An outsider, that's who! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
 
 ### Who gatekeeps the gatekeepers?
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform. And so they largely ignored my demo, as it wasn't what they expected.
 
-It's worse than just that, however. An outsider's go-to strengths— cultivated talent and creative invention— are an underdog's given weaknesses. So by reflex, indie rock *rejects* them. This is why it prizes works admired by critics, who root for underdogs— but *not* those [envied by musicians](/indie#history-is-made-through-peer-review), who don't; and why it disputes the studies that say we're all biased [*against* creativity](/indie#creativity-gets-its-chance-from-the-clueless).
+It's worse than just that, however. Sheer talent and creative invention may be the outsider's strengths, but they're the underdog's weaknesses. So by reflex, indie rock *rejects* them. This is why it prizes works admired by critics, who root for underdogs— but *not* those [envied by musicians](/indie#history-is-made-through-peer-review), who don't; and why it disputes the studies that say we're all biased [*against* creativity](/indie#creativity-gets-its-chance-from-the-clueless).
 
 The indie gatekeepers also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for only [helping themselves](/indie#art-needs-the-blood-of-martyrs)! And this is how I learned the hard way:
 
