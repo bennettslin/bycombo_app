@@ -8,7 +8,7 @@ const Component = () => (
 # The BYCombo mission
 
 ${'  ' || `
-// TODO: Just one more final review, for real.
+// TODO: Needs a few more thorough reviews now.
 `}
 
 **BYCombo is a nonprofit incubator of self-sacrificing rock bands. We're here to launch the interdependence revolution, a movement devoted to bringing forth this century's most historically consequential rock music!**
@@ -21,27 +21,15 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/es
 
 Indie rock roots for the underdog, which is why it's all about lowering the barriers to entry for artists. To do this, it provides them with tools to bypass the labels and build a fanbase on their own: streaming platform algorithms, social media analytics, and so forth.
 
-These tools of self-empowerment aren't free, though— they cost the artist's time and energy. And yet, since they're available to *every* artist, they hardly give a boost to those who use them; they merely set back the few who *don't*. But… this is how rules work! Indie rock's tools… are now its *rules*! Which is to say:
+These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet, since they're available to *all* artists, they hardly do much for those who use them; they mostly just set back those who don't. But… this is how *rules* work! In other words, by *encouraging* artists to use these tools, indie rock has now made it the *rule* to do so.
 
-${'  ' || `
-// TODO: Keep working on this. Pay attention to when the object of a pronoun changes. Better way to compare the cost to the steep cost of entry?
-`}
+As such, if a band chooses to spend their time and energy building up their talents and making art instead, they'll only fall further behind in this new Age of Empowerment. Of course, those who make the rules, and those who follow them, have no reason to sympathize. Well, how about a truce?
 
-**By *expecting* artists to use its tools, indie rock effectively *requires* them to do so. And as more tools become available, the few who'd rather *not* pay the cost will keep falling further behind.**
-
-${'  ' || `
-// TODO: Mention that I know because I'm one of them.
-`}
-
-Now, rules are made to be followed, so some indie rockers might call it poetic justice to see us rule breakers get penalized. But breaking the rules is also how rock history gets made! So please don't shut us out, either.
+**Since indie rock's rules are made to be followed, bands who refuse can't complain about being punished. But breaking the rules is also how rock history gets made! So let's not shut them out either.**
 
 ### The outsider's dilemma
 
-${'  ' || `
-// TODO: Have a good first sentence, and make it flow.
-`}
-
-Why can't I go along to get along? Here's the thing: Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free, if they just build up their talents. For example, Eminem *didn't* have a real fanbase before he was discovered by Dr. Dre; his self-released EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
+Here's the curious part: Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free, if they just build up their talents. For example, Eminem *didn't* have a real fanbase before he was discovered by Dr. Dre; his self-released EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
 
 It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's way of thinking. I want my band to be *inter*-dependent: to have a *label* build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
@@ -67,11 +55,7 @@ It's worse than just that, however. An outsider's go-to strengths— cultivated 
 
 The indie gatekeepers also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for only [helping themselves](/indie#art-needs-the-blood-of-martyrs)! And this is how I learned the hard way:
 
-${'  ' || `
-// TODO: Just one final review.
-`}
-
-**A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock *isn't* simply waiting for outsiders with better art to come along. It's actively shutting them out!**
+**A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock *isn't* simply waiting for outsiders to show up with better art. It's actively shutting them out!**
 
 Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who *finally* put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! Here, then, is the heart of the problem:
 
