@@ -23,7 +23,11 @@ Indie rock roots for the underdog, which is why it's all about lowering the barr
 
 These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet, since they're available to *all* artists, they hardly do much for the many who use them; they mostly just set back the few who don't. But… this is how *rules* work! In other words, by *encouraging* artists to use these tools, indie rock has now made it the *rule* to do so.
 
-As such, if a band chooses to spend their time and energy building up their talents or making art instead, they'll only fall further behind in this new Age of Empowerment. Of course, those who make the rules, and those who follow them, have no reason to sympathize. Well, how about a truce?
+${'  ' || `
+// TODO: Keep working on this paragraph for a bit? Of course, the indie gatekeepers have no reason to sympathize, and those artists who do follow the rules *need* to see them enforced.
+`}
+
+As such, if a band chooses to spend their time and energy building up their talents or making art instead, they'll only fall further behind in this new Age of Empowerment. Of course, no one else needs to sympathize. Well, how about a truce?
 
 **Since rules are made to be followed, bands who disobey indie rock's rules can't complain about being punished. But breaking the rules is also how rock history gets made! So let's not shut them out either.**
 
@@ -31,7 +35,7 @@ As such, if a band chooses to spend their time and energy building up their tale
 
 Here's the curious part: Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free, if they just build up their talents. For example, Eminem *didn't* have a real fanbase before he was discovered by Dr. Dre; his self-released EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
 
-It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's way of thinking. I want my band to be *inter*-dependent: to have a *label* build our fanbase— and, in turn, have this label depend on *us* to make the best art.
+It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's way of thinking. I want my band to be interdependent: to have a *label* build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
 By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete. Which means the *labels* can only compete by signing indie artists— who work hard *not* to need them. What a mess! And yet the future is clear:
 
@@ -49,11 +53,11 @@ Given the risk, though, who'd volunteer to be the first of these rock martyrs? A
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform. And so they largely ignored my demo, as it wasn't what they expected.
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels, music critics, and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform. And so they largely ignored my demo, as it wasn't in a format they expected.
 
-It's worse than just that, however. Sheer talent and creative invention may be the outsider's strengths, but they're the underdog's weaknesses. So by reflex, indie rock *rejects* them. This is why it prizes works admired by critics, who root for underdogs— but *not* those [envied by musicians](/indie#history-is-made-through-peer-review), who don't; and why it disputes the studies that say we're all biased [*against* creativity](/indie#creativity-gets-its-chance-from-the-clueless).
+It's worse than just that, however. Sheer talent and creative invention may be the outsider's strengths, but they're the underdog's weaknesses. So by reflex, indie rock *rejects* them. This is why it prizes works admired by critics, who root for underdogs— but *not* those [envied by musicians](https://www.bycombo.com/indie#history-is-made-through-peer-review), who don't; and why it disputes the studies that say we're all biased [*against* creativity](https://www.bycombo.com/indie#creativity-gets-its-chance-from-the-clueless).
 
-The indie gatekeepers also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for only [helping themselves](/indie#art-needs-the-blood-of-martyrs)! And this is how I learned the hard way:
+The indie gatekeepers also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for only [helping themselves](https://www.bycombo.com/indie#art-needs-the-blood-of-martyrs)! And this is how I learned the hard way:
 
 **A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock *isn't* simply waiting for outsiders to show up with better art. It's actively shutting them out!**
 
