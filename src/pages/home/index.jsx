@@ -16,16 +16,16 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/es
 ### Tools… are *rules*
 
 ${'  ' || `
-// TODO: Keep working on this section.
+// TODO: Review a few more times.
 `}
 
 Indie rock roots for the underdog, which is why it's all about lowering the barriers to entry for artists. To do this, it provides them with tools to bypass the labels and build a fanbase on their own: streaming platform algorithms, social media analytics, and so forth.
 
-Of course, since *every* artist can access these tools of empowerment, there's no real advantage to using them; it's only a *dis*-advantage *not* to. But… this is how *rules* work! Ironically, by encouraging artists to use these tools, indie rock has now made it the *rule* to do so.
+Of course, since *every* artist can access these tools of empowerment, there's no real advantage in using them; it's mainly a *dis*-advantage *not* to. But… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so.
 
-On top of that, using these tools *isn't* free— it costs time and energy. Which means if a band would rather just build up their talents instead, they'll end up the biggest loser! Of course, no one else needs to sympathize— and they largely don't. Well, then, how about a truce?
+And none of these tools are free— each one carries a cost in time and energy. Which means if a band would rather build up their talents and keep making art instead, they'll end up the biggest loser! Of course, no one else needs to sympathize. Well, then, how about a truce?
 
-**Yes— rules are made to be followed, so bands who refuse to use indie rock's tools can't complain about being punished. But— breaking the rules is also how rock history gets made! So let's not shut them out either.**
+**Yes— rules are made to be followed, so bands who choose not to use indie rock's tools can't complain about being punished. But— breaking the rules is also how rock history gets made! So let's not shut them out either.**
 
 ### The outsider's dilemma
 
