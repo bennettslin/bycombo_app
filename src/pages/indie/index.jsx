@@ -143,9 +143,11 @@ But the problems with this current Age of Empowerment go beyond its failure to g
 
 Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the *end*. To save rock, then, we need to make way for selfless bands who'll sacrifice themselves for art's sake. In other words, after Empowerment… comes the Age of Martyrdom.
 
-Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if this generation's Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime to advance the art form?
+${'  ' || `
+// TODO: Keep working on this paragraph.
+`}
 
-Luckily, you don't need to ask, "Where's *our* BYCombo?" BYCombo is here to give you the next Nirvana *now*!
+Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if this generation's Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime to advance the art form? If so, then BYCombo is here to give you the next Nirvana *now*!
     `,
         }}
     />

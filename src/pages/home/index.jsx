@@ -15,13 +15,17 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/es
 
 ### Tools… are *rules*
 
+${'  ' || `
+// TODO: Keep working on this section.
+`}
+
 Indie rock roots for the underdog, which is why it's all about lowering the barriers to entry for artists. To do this, it provides them with tools to bypass the labels and build a fanbase on their own: streaming platform algorithms, social media analytics, and so forth.
 
-These tools of empowerment aren't free, though— they cost the artist's time and energy. And yet, since they're available to *all* artists, they hardly do much for the many who use them; they mostly just set back the few who *don't*. But… this is how *rules* work! In other words, by encouraging artists to use these tools, indie rock has now made it the *rule* to do so.
+Of course, since *every* artist can access these tools of empowerment, there's no real advantage to using them; it's only a *dis*-advantage *not* to. But… this is how *rules* work! Ironically, by encouraging artists to use these tools, indie rock has now made it the *rule* to do so.
 
-As such, if a band chooses to spend their time and energy building up their talents or making art instead, they'll only fall further behind in this new Age of Empowerment. Of course, no one else needs to sympathize. Well, how about a truce?
+On top of that, using these tools *isn't* free— it costs time and energy. Which means if a band would rather just build up their talents instead, they'll end up the biggest loser! Of course, no one else needs to sympathize— and they largely don't. Well, then, how about a truce?
 
-**Since rules are made to be followed, bands who break indie rock's rules can't complain about being punished. But rule breakers are also the ones who make rock history! So let's not shut them out either.**
+**Yes— rules are made to be followed, so bands who refuse to use indie rock's tools can't complain about being punished. But— breaking the rules is also how rock history gets made! So let's not shut them out either.**
 
 ### The outsider's dilemma
 
