@@ -21,11 +21,15 @@ ${'  ' || `
 
 Indie rock roots for the underdog, which is why it's all about lowering the barriers to entry for artists. To do this, it provides them with tools to bypass the labels and build a fanbase on their own: streaming platform algorithms, social media analytics, and so forth.
 
-These tools of empowerment are available to *every* artist, however, which means there's no real advantage in using them; it's only a *dis*-advantage *not* to. But… this is how *rules* work! In other words, by encouraging artists to use these tools, indie rock has now made it the *rule* to do so.
+${'  ' || `
+// TODO: Specify being pushed forward versus held back?
+`}
 
-And these tools *aren't* free— each one takes up time and energy that could otherwise be spent on artistic efforts. So any band hoping to make the best art *won't* welcome these tools— which makes *them* the biggest losers in this new Age of Empowerment! Of course, no one else needs to sympathize. Well, then, how about a truce?
+These tools of empowerment are available to *every* artist, though, so there's no real advantage to using them; it's just a *dis*-advantage *not* to. But… this is how *rules* work! By encouraging artists to use these tools, indie rock has made it the *rule* to do so!
 
-**Yes— rules are made to be followed, so bands who refuse to use indie rock's tools can't complain about being penalized. But— breaking the rules is also how rock history gets made! So let's not shut them out either.**
+And using these tools *isn't* free: Each one takes up time and energy that could otherwise be spent on artistic efforts. So bands who hope to make the best art simply won't bother— which means they're now *worse* off in this new Age of Empowerment! Of course, no one else needs to sympathize… Well then, how about a truce?
+
+***Yes*— since rules are made to be followed, bands who refuse to use indie rock's tools can't complain about being penalized. *But*— breaking the rules is how rock history gets made! So let's not shut them out either.**
 
 ### The outsider's dilemma
 
@@ -39,7 +43,7 @@ By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then m
 
 ### Return of the rock martyrs
 
-And that's the funny part: Rock *was* interdependent once! Well, then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, *all* art is now subjective; talent predicts nothing. This means an indie label's *only* trusted measure is the objective size of an artist's fanbase. Good grief… Can rock be saved?
+And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, *all* art is now subjective; talent predicts nothing. This means an indie label's *only* trusted measure is the objective size of an artist's fanbase. Good grief… Can rock be saved?
 
 Yes! See, indie rock has a glaring weakness. It doesn't *actually* separate the best artists from the worst; it picks "serious" artists over "casual" ones, in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will *force* us to dismiss all the best artists as hobbyists! Here's how it works:
 
