@@ -21,11 +21,11 @@ ${'  ' || `
 
 Indie rock roots for the underdog, which is why it's all about lowering the barriers to entry for artists. To do this, it provides them with tools to bypass the labels and build a fanbase on their own: streaming platform algorithms, social media analytics, and so forth.
 
-Of course, since *every* artist can access these tools of empowerment, there's no real advantage in using them; it's mainly a *dis*-advantage *not* to. But… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so.
+These tools of empowerment are available to *every* artist, however, which means there's no real advantage in using them; it's only a *dis*-advantage *not* to. But… this is how *rules* work! In other words, by encouraging artists to use these tools, indie rock has now made it the *rule* to do so.
 
-And none of these tools are free— each one carries a cost in time and energy. Which means if a band would rather build up their talents and keep making art instead, they'll end up the biggest loser! Of course, no one else needs to sympathize. Well, then, how about a truce?
+And these tools *aren't* free— each one takes up time and energy that could otherwise be spent on artistic efforts. So any band hoping to make the best art *won't* welcome these tools— which makes *them* the biggest losers in this new Age of Empowerment! Of course, no one else needs to sympathize. Well, then, how about a truce?
 
-**Yes— rules are made to be followed, so bands who choose not to use indie rock's tools can't complain about being punished. But— breaking the rules is also how rock history gets made! So let's not shut them out either.**
+**Yes— rules are made to be followed, so bands who refuse to use indie rock's tools can't complain about being penalized. But— breaking the rules is also how rock history gets made! So let's not shut them out either.**
 
 ### The outsider's dilemma
 
@@ -35,7 +35,7 @@ It's simple: While indie rock was founded by *underdogs*, hip hop was founded by
 
 By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete. Which means the *labels* can only compete by signing indie artists— who work hard *not* to need them. What a mess! And yet the future is clear:
 
-**As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… as it's the only way to make better art!**
+**As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… as it's the only way to make the best art!**
 
 ### Return of the rock martyrs
 

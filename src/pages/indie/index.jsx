@@ -147,8 +147,8 @@ ${'  ' || `
 // TODO: Keep working on this paragraph.
 `}
 
-Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if this generation's Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime to advance the art form? If so, then BYCombo is here to give you the next Nirvana *now*!
-    `,
+Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if this generation's Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime to advance the art form? In that case, BYCombo is here to give you the next Nirvana *now*!
+`,
         }}
     />
 )
