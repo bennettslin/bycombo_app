@@ -16,18 +16,14 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/es
 ### Tools… are *rules*
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Just review one more time.
 `}
 
 Indie rock roots for the underdog, which is why it's all about lowering the barriers to entry for artists. To do this, it provides them with tools to bypass the labels and build a fanbase on their own: streaming platform algorithms, social media analytics, and so forth.
 
-${'  ' || `
-// TODO: Specify being pushed forward versus held back?
-`}
+These tools are available to *every* artist, though, so they hardly benefit all those who use them; they mostly just hinder any who *don't*. But… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
-These tools of empowerment are available to *every* artist, though, so there's no real advantage to using them; it's just a *dis*-advantage *not* to. But… this is how *rules* work! By encouraging artists to use these tools, indie rock has made it the *rule* to do so!
-
-And using these tools *isn't* free: Each one takes up time and energy that could otherwise be spent on artistic efforts. So bands who hope to make the best art simply won't bother— which means they're now *worse* off in this new Age of Empowerment! Of course, no one else needs to sympathize… Well then, how about a truce?
+And using these tools *isn't* free: Each one takes up time and energy that could otherwise be spent on artistic efforts. So any band hoping to make the best art simply won't bother— which means they're now *worse* off in this new Age of Empowerment! Of course, no one else needs to sympathize… In which case, how about a truce?
 
 ***Yes*— since rules are made to be followed, bands who refuse to use indie rock's tools can't complain about being penalized. *But*— breaking the rules is how rock history gets made! So let's not shut them out either.**
 
@@ -39,7 +35,7 @@ It's simple: While indie rock was founded by *underdogs*, hip hop was founded by
 
 By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete. Which means the *labels* can only compete by signing indie artists— who work hard *not* to need them. What a mess! And yet the future is clear:
 
-**As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… as it's the only way to make the best art!**
+**As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… as it's the only way to make better art!**
 
 ### Return of the rock martyrs
 
@@ -49,7 +45,7 @@ Yes! See, indie rock has a glaring weakness. It doesn't *actually* separate the 
 
 **To save rock, self-sacrificing bands must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and which couldn't have been made for *any* less effort.**
 
-But given the risks, who'd volunteer to be the first of these new rock martyrs? An outsider, that's who! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
+But who'll volunteer to be the first of these new rock martyrs? An outsider, that's who! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
 
 ### Who gatekeeps the gatekeepers?
 
