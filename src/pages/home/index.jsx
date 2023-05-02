@@ -16,14 +16,14 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/es
 ### Tools… are *rules*
 
 ${'  ' || `
-// TODO: Keep working on the wording. But tomorrow is the absolute last day!
+// TODO: The ideas in general are correct. Now just work on wording and flow. But tomorrow is the absolute last day!
 `}
 
-Indie rock roots for the underdog, which is why it's all about helping artists *not* to need a label. To do this, it provides them with tools to build a fanbase on their own: social media analytics, streaming platform algorithms, and so forth.
+Indie rock roots for the underdog, and so it's all about lowering the barriers to entry by helping artists *not* to need a label. To do this, it provides artists with tools to build a fanbase on their own: social media analytics, streaming platform algorithms, and so forth.
 
-Here's the thing, though: Now that these tools are used by most artists, they no longer offer any relative advantage; they just punish the few holdouts. But… this is how *rules* work! In other words, by encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
+These tools aren't free, though— they cost the artist's time and energy. On top of that, they only offer a relative advantage over those who *don't* use them. Once most artists use them, then their *sole* purpose is to punish the few holdouts. But… this is how *rules* work! In other words, by encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
-And these tools *aren't* free: They cost time and energy that could otherwise be spent making art. Which means any band hoping to make the best art is now *worse* off in this new Age of Empowerment! Yet no one else needs to sympathize— and so, few do. Well, okay then… how about a truce?
+But any band hoping to make the best art will *need* to reserve all their time and energy for artistic matters. Which makes them the biggest loser in this new Age of Empowerment! Yet no one else needs to sympathize— and so, few do. Well, okay then… how about a truce?
 
 ***Yes*— since rules are made to be followed, bands who refuse to use indie rock's tools can't complain about being punished. *But*— breaking the rules is how rock history gets made! So let's not shut them out either.**
 
