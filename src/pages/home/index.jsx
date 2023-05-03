@@ -15,7 +15,7 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com)! 
 
 ### Tools… are *rules*
 
-Indie rock roots for the underdog, and so its mission is to lower the barriers to entry. To do this, it provides artists with various tools of empowerment— social media analytics, streaming platform algorithms, and so forth— that allow them to bypass the labels and build a fanbase on their own.
+Indie rock roots for the underdog, and so its mission is to lower the barriers to entry. As such, it provides artists with various tools of empowerment— social media analytics, streaming platform algorithms, and so forth— that allow them to bypass the labels and build a fanbase on their own.
 
 Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their main purpose is to punish any holdouts. But… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
@@ -37,7 +37,7 @@ By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then m
 
 And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, *all* art is now subjective; talent predicts nothing. This means an indie label's *only* trusted measure is the objective size of an artist's fanbase. Good grief… Can rock be saved?
 
-Yes! See, indie rock has a glaring weakness. It doesn't *actually* separate the best artists from the worst; it picks "serious" artists over "casual" ones, in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will force us to dismiss the best artists of our times as hobbyists! Here's how it works:
+Yes! See, indie rock has a glaring weakness. It doesn't *actually* separate the best artists from the worst; it picks "serious" artists over "casual" ones, in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will *force* us to dismiss our best artists as hobbyists! Here's how it works:
 
 **To save rock, self-sacrificing bands must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and which couldn't have been made for *any* less effort.**
 
@@ -45,7 +45,7 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 
 ### Who gatekeeps the gatekeepers?
 
-Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform. And so they largely ignored my demo, as it wasn't in a format they expected.
+Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work uniform and bite-sized. And so they largely ignored my demo, as it wasn't in a format they expected.
 
 It's worse than just that, however. Sheer talent and creative invention may be the outsider's strengths, but they're the underdog's weaknesses. So by reflex, indie rock *rejects* them. This is why it prizes works admired by critics, who root for underdogs— but *not* those [envied by musicians](https://www.bycombo.com/indie#history-happens-by-peer-review), who *don't*; and why it disputes the studies that say we're all biased [*against* creativity](https://www.bycombo.com/indie#creativity-gets-its-chance-from-the-clueless).
 
