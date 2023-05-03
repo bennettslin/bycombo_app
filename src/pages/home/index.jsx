@@ -16,14 +16,14 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/es
 ### Tools… are *rules*
 
 ${'  ' || `
-// TODO: Just review a few more times.
+// TODO: Just one more final review.
 `}
 
-Indie rock roots for the underdog, which is why it's all about lowering the barriers to entry. To do this, it empowers artists with tools to bypass the labels and build a fanbase on their own: social media analytics, streaming platform algorithms, and the like.
+Indie rock roots for the underdog, which is why it's all about lowering the barriers to entry. To do this, it provides artists with tools to bypass the labels and build a fanbase on their own: social media analytics, streaming platform algorithms, and the like.
 
-The problem is that these tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So from here on out, they benefit no one; their sole purpose is to punish the holdouts. But… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
+Here's the problem: These tools only offer an advantage over other artists who *don't* use them— but today, most *do*. So there's no longer any benefit; from here on out, their sole purpose is to punish any holdouts. Except… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
-And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if you're a band hoping to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet no one else needs to sympathize— and from what I've seen, few do. Well, okay then… how about a truce?
+And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if you're a band hoping to make the *best* art, you *won't* bother with them— leaving you *worse* off in this new Age of Empowerment! Yet from what I've seen, almost no one else sympathizes. Well, okay then… how about a truce?
 
 ***Yes*— since rules are made to be followed, bands who refuse to use indie rock's tools can't complain about being punished. *But*— breaking the rules is how rock history gets made! So let's not shut them out either.**
 
@@ -45,7 +45,7 @@ Yes! See, indie rock has a glaring weakness. It doesn't *actually* separate the 
 
 **To save rock, self-sacrificing bands must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and which couldn't have been made for *any* less effort.**
 
-But who'll volunteer to be the first of these new martyrs? A hungry outsider, that's who! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
+But who'd volunteer to be the first of these new martyrs? A hungry outsider, that's who! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
 
 ### Who gatekeeps the gatekeepers?
 
