@@ -129,9 +129,9 @@ For many years, I worked days as a coder and nights on my audio webcomic. When I
 
 It's because paid dues are worthless outside the one system that honors them; so by nature, any such system breeds loyalty to its rule. In short, you can pay your dues, or you can start a revolution— but never both.
 
-Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
+Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
 
-Which is why it took an outsider like myself to start BYCombo, driven by an urge to help up-and-coming bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first artist who's secure enough to *want* it— having never paid indie rock's dues myself.
+Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first artist who's secure enough to *want* it— having never paid indie rock's dues myself.
 
 ### Art needs the blood of martyrs
 
@@ -143,11 +143,7 @@ But the problems with this current Age of Empowerment go beyond its failure to g
 
 Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the *end*. To save rock, then, we need to make way for selfless bands who'll sacrifice themselves for art's sake. In other words, after Empowerment… comes the Age of Martyrdom.
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
-
-Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if this generation's Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime to advance the art form? In that case, BYCombo is here to give you the next Nirvana *now*!
+Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. Can we imagine this generation's Nirvana being an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime for art's sake? If so, then BYCombo will give you the next Nirvana *now*!
 `,
         }}
     />
