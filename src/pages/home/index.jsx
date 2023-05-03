@@ -15,7 +15,7 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/es
 
 ### Tools… are *rules*
 
-Indie rock roots for the underdog, which is why it's all about lowering the barriers to entry. To do this, it provides artists with tools to bypass the labels and build a fanbase on their own: social media analytics, streaming platform algorithms, and so forth.
+Indie rock roots for the underdog, and so it's all about lowering the barriers to entry. This is why it provides artists with various tools of empowerment— social media analytics, streaming platform algorithms, and so forth— that allow them to bypass the labels and build a fanbase on their own.
 
 Here's the problem: These tools only offer an advantage over other artists who *don't* use them— but today, most *do*. So there's no longer any benefit; from here on out, their sole purpose is to punish any holdouts. Except… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
