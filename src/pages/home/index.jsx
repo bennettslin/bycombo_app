@@ -16,14 +16,14 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/es
 ### Tools… are *rules*
 
 ${'  ' || `
-// TODO: The ideas in general are correct. Now just work on wording and flow. But tomorrow is the absolute last day!
+// TODO: Just review a few more times.
 `}
 
-Indie rock roots for the underdog, and so it's all about lowering the barriers to entry. It wants a world in which artists *don't* need to work with a label. To achieve this, it provides them with tools to build a fanbase on their own: social media analytics, streaming platform algorithms, and so forth.
+Indie rock roots for the underdog, which is why it's all about lowering the barriers to entry. To do this, it empowers artists with tools to bypass the labels and build a fanbase on their own: social media analytics, streaming platform algorithms, and the like.
 
-Here's the thing, though: The only advantage these tools offer is over other artists who *don't* use them— but today, most *do*. So from here on out, they benefit no one; their sole purpose is to punish the holdouts. Which is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
+The problem is that these tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So from here on out, they benefit no one; their sole purpose is to punish the holdouts. But… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
-These tools aren't free, either; they cost time and energy that could be spent to make art instead. So if you're a band hoping to make the *best* art, you *won't* care to use them— leaving you *worse* off in this new Age of Empowerment! Yet no one else needs to sympathize— and from what I've seen, few do. Well, okay then… how about a truce?
+And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if you're a band hoping to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet no one else needs to sympathize— and from what I've seen, few do. Well, okay then… how about a truce?
 
 ***Yes*— since rules are made to be followed, bands who refuse to use indie rock's tools can't complain about being punished. *But*— breaking the rules is how rock history gets made! So let's not shut them out either.**
 
@@ -51,7 +51,7 @@ But who'll volunteer to be the first of these new martyrs? A hungry outsider, th
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work bite-sized and uniform. And so they largely ignored my demo, as it wasn't in a format they expected.
 
-It's worse than just that, however. Sheer talent and creative invention may be the outsider's strengths, but they're the underdog's weaknesses. So by reflex, indie rock *rejects* them. This is why it prizes works admired by critics, who root for underdogs— but *not* those [envied by musicians](https://www.bycombo.com/indie#history-is-made-through-peer-review), who don't; and why it disputes the studies that say we're all biased [*against* creativity](https://www.bycombo.com/indie#creativity-gets-its-chance-from-the-clueless).
+It's worse than just that, however. Sheer talent and creative invention may be the outsider's strengths, but they're the underdog's weaknesses. So by reflex, indie rock *rejects* them. This is why it prizes works admired by critics, who root for underdogs— but *not* those [envied by musicians](https://www.bycombo.com/indie#history-happens-by-peer-review), who don't; and why it disputes the studies that say we're all biased [*against* creativity](https://www.bycombo.com/indie#creativity-gets-its-chance-from-the-clueless).
 
 The indie gatekeepers also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for only [helping themselves](https://www.bycombo.com/indie#art-needs-the-blood-of-martyrs)! And this is how I learned the hard way:
 

@@ -79,7 +79,7 @@ In those days, lottery players had no patience for the grassroots; they'd sign l
 
 Naturally, bands who prefer the deterministic path can't compete like this. Yet the indie gatekeepers don't sympathize; after all, *some* indie artists are doing just fine, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
 
-### History is made through peer review
+### History happens by peer review
 
 As a child, I studied the bands whose compositions I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
 
@@ -123,11 +123,11 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 
 Like those outsiders before us, we need to be the *most* original, the *most* talented… and so we *need* to make the best use of *mutual* reliance. Hip hop gets this, which is why it *hasn't* declined; today's rappers win Pulitzer Prizes. Now BYCombo gives you the same chances— in a rock band.
 
-### A artists help A artists, B artists help C artists
+### Paid dues must now collude
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-It's because paid dues are worthless outside the one system that promises to honor them. So those who pay them will fight to keep the system as it is. In short, you can pay your dues, or you can start a revolution— but never both.
+It's because paid dues are worthless outside the one system that honors them, so those who pay them will stay loyal to the system as it is. In short, you can pay your dues, or you can start a revolution— but never both.
 
 Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
 
@@ -144,12 +144,10 @@ But the problems with this current Age of Empowerment go beyond its failure to g
 Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the *end*. To save rock, then, we need to make way for selfless bands who'll sacrifice themselves for art's sake. In other words, after Empowerment… comes the Age of Martyrdom.
 
 ${'  ' || `
-// TODO: Keep working on this paragraph.
+// TODO: Just one more final review.
 `}
 
-Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if this generation's Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime to advance the art form?
-
-In that case, you no longer need to ask. BYCombo is here to give you the next Nirvana *now*!
+Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if this generation's Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime to advance the art form? In that case, BYCombo is here to give you the next Nirvana *now*!
 `,
         }}
     />
