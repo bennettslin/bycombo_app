@@ -127,7 +127,7 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-It's because paid dues are worthless outside the one system that honors them, so those who pay them will stay loyal to the system as it is. In short, you can pay your dues, or you can start a revolution— but never both.
+It's because paid dues are worthless outside the one system that honors them; so by nature, any such system breeds loyalty to its rule. In short, you can pay your dues, or you can start a revolution— but never both.
 
 Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a vicious circle.
 
