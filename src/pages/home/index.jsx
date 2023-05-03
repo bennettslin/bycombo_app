@@ -19,11 +19,11 @@ ${'  ' || `
 // TODO: The ideas in general are correct. Now just work on wording and flow. But tomorrow is the absolute last day!
 `}
 
-Indie rock roots for the underdog, and so it's all about lowering the barriers to entry by helping artists *not* to need a label. To do this, it provides artists with tools to build a fanbase on their own: social media analytics, streaming platform algorithms, and so forth.
+Indie rock roots for the underdog, and so it's all about lowering the barriers to entry. It wants a world in which artists *don't* need to work with a label. To achieve this, it provides them with tools to build a fanbase on their own: social media analytics, streaming platform algorithms, and so forth.
 
-These tools aren't free, though— they cost the artist's time and energy. On top of that, they only offer a relative advantage over those who *don't* use them. Once most artists use them, then their *sole* purpose is to punish the few holdouts. But… this is how *rules* work! In other words, by encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
+Here's the thing, though: The only advantage these tools offer is over other artists who *don't* use them— but today, most *do*. So from here on out, they benefit no one; their sole purpose is to punish the holdouts. Which is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
-But any band hoping to make the best art will *need* to reserve all their time and energy for artistic matters. Which makes them the biggest loser in this new Age of Empowerment! Yet no one else needs to sympathize— and so, few do. Well, okay then… how about a truce?
+These tools aren't free, either; they cost time and energy that could be spent to make art instead. So if you're a band hoping to make the *best* art, you *won't* care to use them— leaving you *worse* off in this new Age of Empowerment! Yet no one else needs to sympathize— and from what I've seen, few do. Well, okay then… how about a truce?
 
 ***Yes*— since rules are made to be followed, bands who refuse to use indie rock's tools can't complain about being punished. *But*— breaking the rules is how rock history gets made! So let's not shut them out either.**
 
@@ -65,7 +65,7 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 
 But if we can't dissent… then let's revolt! By some miracle, Gen Z sides with the *older* generations; *they* want to save rock as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells potential business partners that the rock market is ripe for disruption.
 
-These "Dr. Dres of rock" would love to meet with bands who can promise to make the best art— but how will they find one another, given all the noise coming in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
+These "Dr. Dres of rock" would love to meet with bands who can promise to make the best art— but how will they find one another, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
 
 **Interdependent bands can now earn the listener's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
