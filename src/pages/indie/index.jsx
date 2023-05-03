@@ -9,7 +9,7 @@ const Component = () => (
 
 By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana and Radiohead, and then the rest were written off as failed bets. But the indie labels held to fair standards that promised *all* their bands a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
 There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life coming up with a plan:
 
@@ -67,7 +67,7 @@ What happens if a band goes above and beyond anyway, hoping to remain peerless? 
 
 ### Revelations require a single hat
 
-Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… Of course, the best among them *don't* skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
+Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
 
 These revelations emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom— but this won't ever happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
 
