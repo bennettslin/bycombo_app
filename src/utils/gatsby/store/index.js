@@ -5,10 +5,13 @@ import { getIsServerSide } from '../../browser'
 import { getParsedLocation } from '../path'
 
 export const getReduxStore = element => {
-    const { page } = getParsedLocation(element)
+    const { hash, page } = getParsedLocation(element)
 
     return createStore(
-        getReducers({ initialPage: page }),
+        getReducers({
+            initialHash: hash,
+            initialPage: page,
+        }),
         getIsServerSide() ?
             undefined :
             devToolsEnhancer(),

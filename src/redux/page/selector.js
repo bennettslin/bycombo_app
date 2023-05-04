@@ -2,6 +2,10 @@ import { createSelector } from 'reselect'
 import { getTopLevelPageFromPath } from '../../utils/pages/path'
 import { PAGE_STORE } from '../../constants/store'
 
+export const mapIsHashedPage = (
+    { [PAGE_STORE]: { selectedHash } },
+) => Boolean(selectedHash)
+
 export const mapSelectedPagePath = (
     { [PAGE_STORE]: { selectedPagePath } },
 ) => selectedPagePath

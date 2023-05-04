@@ -4,7 +4,7 @@
     & > *:not(:first-child) {
         margin-top: $margin__md;
 
-        &.Heading {
+        &.Flex, &.Heading {
             margin-top: $margin__lg;
         }
     }

@@ -1,8 +1,12 @@
 import { PAGE_STORE } from '../../constants/store'
 import { getPageDefaults } from './default'
 
-export const getPageReducer = ({ initialPage }) => (
-    state = getPageDefaults({ initialPage }),
+export const getPageReducer = ({
+    initialHash,
+    initialPage,
+
+}) => (
+    state = getPageDefaults({ initialHash, initialPage }),
     { type, payload },
 ) => {
     switch (type) {

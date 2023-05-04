@@ -81,6 +81,18 @@ a, button, input[type=submit] {
     &:not([disabled]):active {
         color: $colour__link__light;
     }
+
+    &.Anchor:visited {
+        color: $colour__visited__dark;
+
+        &:not([disabled]):hover {
+            color: $colour__visited__medium;
+        }
+
+        &:not([disabled]):active {
+            color: $colour__visited__light;
+        }
+    }
 }
 
 em, i {

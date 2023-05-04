@@ -15,6 +15,7 @@ export const getParsedLocation = ({
     props: {
         url: rootElementPathname,
         location: {
+            hash,
             pathname: pageElementPathname,
         } = {},
     } = {},
@@ -26,6 +27,7 @@ export const getParsedLocation = ({
     } = getWindow()
 
     return {
+        hash,
         page: _getPathname(
             rootElementPathname ||
             pageElementPathname ||
