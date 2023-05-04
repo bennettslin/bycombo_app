@@ -10,7 +10,7 @@ const Component = () => (
                 `
 # Return of the rock martyrs… and *saviors*!
 
-**To earn your trust as a listener, each band in this public registry sacrificed a serious chunk of lifetime— at least 25,000 hours!— to make a demo that advances the art form.**
+**To earn your trust as a listener, each band listed here sacrificed a serious chunk of lifetime— at least 25,000 hours, or twelve full-time years— on a demo that advances the art form.**
 
 But remember, the indie gatekeepers will *ignore* these demos. So if rock is to be saved, we need *others* to tell the world about our bands. Can one of these rock saviors… be you?
 
