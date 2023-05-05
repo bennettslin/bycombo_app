@@ -19,7 +19,7 @@ Indie rock roots for the underdog, and so its mission is to lower the barriers t
 
 Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their main purpose is to punish any holdouts. But… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
-And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if you're a band hoping to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet from what I've seen, almost no one else sympathizes… Well, okay then, how about a truce?
+And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if you're a band trying to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet from what I've seen, almost no one else sympathizes… Well, okay then, how about a truce?
 
 ***Yes*— since rules are made to be followed, bands who refuse to use indie rock's tools can't complain about being punished. *But*— breaking the rules is how rock history gets made! So let's not shut them out either.**
 
