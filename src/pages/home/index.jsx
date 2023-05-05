@@ -39,7 +39,7 @@ And that's the funny part: Rock *was* interdependent once! Well then, can't a ba
 
 Yes! See, indie rock has a glaring weakness. It doesn't *actually* separate the best artists from the worst; it picks "serious" artists over "casual" ones, in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will *force* us to dismiss our best artists as hobbyists! Here's how it works:
 
-**To save rock, self-sacrificing bands must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and which couldn't have been made for *any* less effort.**
+**To save rock, self-sacrificing bands must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and that couldn't have been made for *any* less effort.**
 
 But who'd volunteer to be the first of these new martyrs? A hungry outsider, that's who! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
 
@@ -63,9 +63,9 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-But if we can't resist… let's revolt! By some miracle, Gen Z sides with the *older* generations; *they* want to save rock as well! And this is the first step toward reviving interdependence from the *outside*, because budding entrepreneurs need to see that the youth are truly discontent before trying to disrupt the rock market.
+But if we can't resist… let's revolt! By some miracle, Gen Z sides with the *older* generations; *they* want to save rock as well! And this is the first step toward reviving interdependence from the outside, because the youth must truly be discontent for budding entrepreneurs to try and disrupt the rock market.
 
-These "Dr. Dres of rock" would love to meet with bands who can promise to make the best art— but how will they find one another, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
+These "Dr. Dres of rock" would love to discover bands who can promise to make the best art— but how will they find one another, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
 
 **Interdependent bands can now earn the listener's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
