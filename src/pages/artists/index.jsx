@@ -8,9 +8,13 @@ const Component = () => (
             body: `
 # Join the interdependence revolution!
 
-Are you ready to sacrifice a serious chunk of lifetime to make rock history? Join a BYCombo band! Obviously, our process hasn't been tried and tested, so to thank you for helping us work out the kinks:
+${'  ' || `
+// TODO: Review this paragraph.
+`}
 
-**The Bobtail Yearlings will invite ten bands from our pilot cohort to feature as guest artists on their next project: an album about the life of English biochemist Rosalind Franklin!**
+Are you ready to make rock history by sacrificing a serious chunk of lifetime? Join a BYCombo band! We're just getting started, so to thank you for helping us work out any kinks:
+
+**The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project: an album about the life of English biochemist Rosalind Franklin!**
 
 ### Who we're looking for
 
@@ -20,17 +24,29 @@ Perhaps you're one of the following:
 * A musician of any other stripe: composer, tabla player…
 * An artist of another medium: dancer, web developer…
 
+${'  ' || `
+// TODO: Talk about age. Put diversity and inclusion stuff here.
+`}
+
+${'  ' || `
+// TODO: New section. Make this about forming the band.
+`}
+
 We'll set you up with prospective bandmates who match your musical tastes and skill levels. Upon reviewing each other's links and videos, you'll meet online. Once everyone agrees to form a band, all those who can relocate to Los Angeles will do so. After you've settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
 
-There are no application fees or legal contracts. We'll just ask you to make a nonbinding pledge to be vaccinated, to respect pronouns, and so forth.
+There are no application fees or legal contracts. We'll just ask you to make a nonbinding pledge to respect pronouns, be vaccinated, and so forth.
 
 ### What we'll do for you
 
-BYCombo will provide a forum for you and the other bands in your cohort to support each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and work with our bands in the next cohort!
+BYCombo will provide a forum for you and other bands in your cohort to support each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and work with bands in the next cohort!
 
 Once your demo is complete, we'll add it to our registry and notify all the music fans, industry executives, and budding entrepreneurs who've signed up to our mailing list. With your help, BYCombo will become the public's trusted source to hear about the latest bands sacrificing serious chunks of lifetime to advance the art form!
 
 ### Diversity and inclusion policy
+
+${'  ' || `
+// TODO: Mention maximum gender diversity.
+`}
 
 **Women, minorities, and all other disadvantaged groups are encouraged to apply!**
 
