@@ -81,11 +81,11 @@ These revelations emerge from the unconscious mind as your thoughts drift in the
 
 ### The grassroots is now a lottery
 
-We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, these bands were *always* likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, these bands were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
-Naturally, bands who prefer the deterministic path can't compete like this. Yet the indie gatekeepers don't sympathize. For them, nothing has changed: Indie artists are still bypassing the labels to build a fanbase on their own, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
+Naturally, bands who prefer the deterministic path can't compete like this. Yet the indie gatekeepers don't sympathize. After all, nothing has changed: Indie artists are bypassing the labels, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
 
 ### History happens by peer review
 
