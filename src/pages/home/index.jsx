@@ -19,7 +19,7 @@ Indie rock roots for the underdog, and so its mission is to lower the barriers t
 
 Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their main purpose is to punish any holdouts. But… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
-And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if you're a band trying to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet from what I've seen, almost no one else sympathizes… Well, okay then, how about a truce?
+And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if you're a band trying to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet in my experience, almost no one else sympathizes… Well, okay then, how about a truce?
 
 ***Yes*— since rules are made to be followed, bands who refuse to use indie rock's tools can't complain about being punished. *But*— breaking the rules is how rock history gets made! So let's not shut them out either.**
 
@@ -55,11 +55,15 @@ The indie gatekeepers also ignored my later projects that would have *helped* th
 
 Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! Here, then, is the heart of the problem:
 
-**As the first rock movement to believe its ideals to be universal, indie rock is also the first to lock down its rules for good. As such, there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
+**As the first rock movement to believe its ideals to be universal, indie rock is also the first to lock down its rules for good. As such, there's no historical precedent to show us how to resist— or even to assure us that we *can*.**
 
 ### A hundred *Yearling's Bobtail*s
 
-But if we can't dissent… then let's revolt! By some miracle, Gen Z sides with the *older* generations; *they* want to save rock as well! And their discontent is the first step toward reviving interdependence from the *outside*: It tells potential business partners that the rock market is ripe for disruption.
+${'  ' || `
+// TODO: Just one more final review.
+`}
+
+But if we can't resist… let's revolt! By some miracle, Gen Z sides with the *older* generations; *they* want to save rock as well! And this is the first step toward reviving interdependence from the *outside*, because budding entrepreneurs need to see that the youth are truly discontent before trying to disrupt the rock market.
 
 These "Dr. Dres of rock" would love to meet with bands who can promise to make the best art— but how will they find one another, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
 
