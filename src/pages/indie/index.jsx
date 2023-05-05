@@ -49,7 +49,7 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to join a counterculture that *criticizes* indie rock's good intentions— and a public registry is where discerning fans and potential business partners will know to find them.
+It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to join a counterculture that *criticizes* indie rock's good intentions— and a public registry is where discerning fans and future business partners will know to find them.
 
 **Why serious chunks of lifetime?**
 
@@ -70,6 +70,10 @@ Happily enough, building a fanbase yields compounded returns, since each fan bri
 What happens if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the costs, and the math is clear: They'll end up the biggest loser. No wonder we lost the canon! But with BYCombo, you can now go above and beyond to win it back.
 
 ### Revelations require a single hat
+
+${'  ' || `
+// TODO: Come up with better examples of roles.
+`}
 
 Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
 

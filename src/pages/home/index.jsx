@@ -63,9 +63,9 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-But if we can't resist… let's revolt! By some miracle, Gen Z sides with the *older* generations; *they* want to save rock as well! And this is the first step toward reviving interdependence from the outside, because the youth must truly be discontent for budding entrepreneurs to try and disrupt the rock market.
+But if we can't resist… let's revolt! By some miracle, Gen Z sides with the *older* generations; *they* want to save rock as well! And this is the first step toward reviving interdependence from the outside, because only when the *youth* are discontent will budding entrepreneurs try to disrupt the rock market.
 
-These "Dr. Dres of rock" would love to discover bands who can promise to make the best art— but how will they find one another, given the endless stream pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
+These "Dr. Dres of rock" would love to discover bands who'll promise to make the best art— but how can they find one another, given the endless stream of underwhelming artists pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
 
 **Interdependent bands can now earn the listener's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
