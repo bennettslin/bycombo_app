@@ -30,7 +30,7 @@ const DemoPage = ({
                 ),
                 description,
                 `
-**How does this project advance the art form?**
+**How does this advance the art form?**
 
 ${advancementText}
 

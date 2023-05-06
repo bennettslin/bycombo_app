@@ -81,7 +81,7 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 
 ### History happens by peer review
 
-As a child, I studied the bands whose compositions I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
+As a child, I studied the bands whose talents I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
 
 To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed [on their *own*](https://youtu.be/yjJL9DGU7Gg?t=36)— the kind of feat that other musicians envy. The indie labels always lost such bands to the majors, though, so instead they listened for works that rely on [*extrinsic* context](https://youtu.be/1VVj1zqbWpU) to be appreciated. And these works are admired most by *critics*, who provide this context to the public.
 
