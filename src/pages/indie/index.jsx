@@ -21,10 +21,6 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why an alternative counterculture?**
 
-${'  ' || `
-// TODO: Explain further? Decentralized versus centralized. Individuals supporting artists by whatever criteria they want, as is their right. Curators trained to check their own biases and never deviate from specified standards. What if today's music is worse because of an epidemic failure to understand this?
-`}
-
 A counterculture is needed to protect dangerous ideas, yet we haven't had one for some time. Meanwhile, despite indie rock's good intentions, music is now worse. But what if music is worse… *because* of these good intentions? What if all this charitable support for indie *artists*… is actually bad for *art*? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
 **Why historical consequence?**
@@ -71,11 +67,7 @@ What happens if a band goes above and beyond anyway, hoping to remain peerless? 
 
 ### Revelations require a single hat
 
-${'  ' || `
-// TODO: Come up with better examples of roles.
-`}
-
-Indie rock requires artists to wear several hats: the influencer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
+Indie rock requires artists to wear several hats: the marketer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
 
 These revelations emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom— but this won't ever happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
 
