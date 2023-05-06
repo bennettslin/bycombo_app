@@ -10,15 +10,11 @@ const Component = () => (
                 `
 # Return of the rock martyrs… and *saviors*!
 
-${'  ' || `
-// TODO: Really get into listener trust.
-`}
-
-**To earn your trust as a listener, each band listed here sacrificed a serious chunk of lifetime— at least 25,000 hours, or twelve full-time years— on a demo that advances the art form.**
+**To earn your trust, each band in this registry sacrificed a serious chunk of lifetime— at least 25,000 hours, or twelve full-time years— to make a demo that advances the art form.**
 
 But remember, the indie gatekeepers will *ignore* these demos. So if rock is to be saved, we need *others* to tell the world about our bands. Can one of these rock saviors… be you?
 
-Please contact any of our bands directly if you have an offer or opportunity for them to consider!
+If you have an offer or opportunity for any of our bands to consider, please contact them directly!
                 `,
                 (
                     <DemoLink {...bobtailYearlings} />
