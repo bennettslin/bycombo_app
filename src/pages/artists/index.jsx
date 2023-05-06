@@ -14,6 +14,10 @@ ${'  ' || `
 
 Are you ready to make rock history by sacrificing a serious chunk of lifetime? Join a BYCombo band! We're just getting started, so to thank you for helping us work out any kinks:
 
+${'  ' || `
+// TODO: Put this bold text lower. Make the top bold text about bypassing indie rock's digital tools.
+`}
+
 **The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project: an album about the life of English biochemist Rosalind Franklin!**
 
 ### Who we're looking for
