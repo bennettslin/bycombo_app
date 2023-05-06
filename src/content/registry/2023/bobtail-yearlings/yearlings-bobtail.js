@@ -1,7 +1,7 @@
 import bobtailYearlings from '../../../../assets/images/bobtailYearlings.png'
 
 export default {
-    year: 2022,
+    year: 2023,
     email: `info@bobtailyearlings.com`,
     bandUrl: `https://bobtailyearlings.com`,
     projectUrl: `https://yearlingsbobtail.com`,
