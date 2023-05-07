@@ -45,7 +45,7 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to join a counterculture that *criticizes* indie rock's good intentions— and a public registry is where discerning fans and future business partners will know to find them.
+It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to join a counterculture that *criticizes* indie rock's good intentions— and a public registry is where future business partners will know to find them.
 
 **Why serious chunks of lifetime?**
 
