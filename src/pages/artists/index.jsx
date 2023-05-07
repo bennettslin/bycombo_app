@@ -12,13 +12,13 @@ ${'  ' || `
 // TODO: Review this paragraph.
 
 Indie rock roots for the underdog, and so its mission is to lower the barriers to entry for artists. As such, it provides them with tools of empowerment— social media analytics, streaming platform algorithms, and so forth— that allow them to bypass the labels and build a fanbase on their own.
+`}
 
 As an artist, are you 
 
 You're not ; the system *is* broken, and BYCombo is here to fix it.
-`}
 
-**BYCombo requires its artists to focus exclusively on their craft. This allows them to bypass indie rock's tools and work directly with a business partner instead.**
+**BYCombo requires its artists to focus exclusively on their craft. This allows them to bypass indie rock's tools by earning the trust of a business partner instead.**
 
 Are you ready to make rock history by sacrificing a serious chunk of lifetime? Join a BYCombo band! We're just getting started, so to thank you for helping us work out any kinks:
 
@@ -69,6 +69,10 @@ ${'  ' || `
 As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged groups the interdependence they naturally thrive under.
 
 ### How to apply
+
+${'  ' || `
+// TODO: This will be a Google Form instead.
+`}
 
 Email us the following information, and we'll be in touch:
 

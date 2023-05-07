@@ -63,13 +63,13 @@ ${'  ' || `
 // TODO: Just one final review.
 `}
 
-But if we can't resist… then let's revolt! By some miracle, Gen Z sees what the *older* generations see: Indie rock is today's hair metal, which means the *next* revolution will be their grunge. And this is the first step toward reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the rock market.
+But if we can't resist… let's revolt! By some miracle, Gen Z sees what the *older* generations see: Indie rock is today's hair metal— and so the *next* revolution will be their grunge. This is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the rock market.
 
 These "Dr. Dres of rock" would love to discover bands who'll promise to make the best art— but how can they find one another, given the endless stream of underwhelming artists pouring in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
 
 **Interdependent bands can now earn the listener's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
-Picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the most creative works of our times— only to *still* be dismissed as hobbyists by the indie gatekeepers! They would be this generation's Beatles, Sex Pistols, *and* Shaggs, rolled into one. This, then, is the *final* step toward reviving interdependence— the next revolution in rock history!
+Picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the most creative works of our times— only to *still* be dismissed as hobbyists by the indie gatekeepers! They would be this generation's Beatles, Sex Pistols, *and* Shaggs, rolled into one. This, then, is the *final* step to reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
