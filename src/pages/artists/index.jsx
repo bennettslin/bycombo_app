@@ -10,15 +10,21 @@ const Component = () => (
 
 ${'  ' || `
 // TODO: Review this paragraph.
+
+Indie rock roots for the underdog, and so its mission is to lower the barriers to entry for artists. As such, it provides them with tools of empowerment— social media analytics, streaming platform algorithms, and so forth— that allow them to bypass the labels and build a fanbase on their own.
+
+As an artist, are you 
+
+You're not ; the system *is* broken, and BYCombo is here to fix it.
 `}
+
+**BYCombo requires its artists to focus exclusively on their craft. This allows them to bypass indie rock's tools and work directly with a business partner instead.**
 
 Are you ready to make rock history by sacrificing a serious chunk of lifetime? Join a BYCombo band! We're just getting started, so to thank you for helping us work out any kinks:
 
 ${'  ' || `
 // TODO: Put this bold text lower. Make the top bold text about bypassing indie rock's digital tools.
 `}
-
-**The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project: an album about the life of English biochemist Rosalind Franklin!**
 
 ### Who we're looking for
 
@@ -49,6 +55,8 @@ ${'  ' || `
 BYCombo will provide a forum for you and other bands in your cohort to support each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and work with bands in the next cohort!
 
 Once your demo is complete, we'll add it to our registry and notify all the music fans, industry executives, and budding entrepreneurs who've signed up to our mailing list. With your help, BYCombo will become the public's trusted source to hear about the latest bands sacrificing serious chunks of lifetime to advance the art form!
+
+**The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project: an album about the life of English biochemist Rosalind Franklin!**
 
 ### Diversity and inclusion policy
 
