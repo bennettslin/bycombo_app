@@ -8,65 +8,41 @@ const Component = () => (
             body: `
 # Join the interdependence revolution!
 
-${'  ' || `
-// TODO: Review this paragraph.
+As an artist, do you sense that everything about rock today is *backward*? Why do the indie gatekeepers force you to waste time and energy on their tools, when this isn't what the public wants, nor what matters to history? Well, you're *not* crazy: The system *is* broken— and here's how we'll fix it!
 
-Indie rock roots for the underdog, and so its mission is to lower the barriers to entry for artists. As such, it provides them with tools of empowerment— social media analytics, streaming platform algorithms, and so forth— that allow them to bypass the labels and build a fanbase on their own.
-`}
-
-As an artist, are you 
-
-You're not ; the system *is* broken, and BYCombo is here to fix it.
-
-**BYCombo requires its artists to focus exclusively on their craft. This allows them to bypass indie rock's tools by earning the trust of a business partner instead.**
-
-Are you ready to make rock history by sacrificing a serious chunk of lifetime? Join a BYCombo band! We're just getting started, so to thank you for helping us work out any kinks:
-
-${'  ' || `
-// TODO: Put this bold text lower. Make the top bold text about bypassing indie rock's digital tools.
-`}
+**BYCombo requires its artists to *ignore* indie rock's tools. To earn the trust of discerning fans and future business partners, they must instead sacrifice a serious chunk of lifetime to advance the art form.**
 
 ### Who we're looking for
 
-Perhaps you're one of the following:
+Ideally, you're old enough to have racked up some life experience. You're also highly skilled as one of the following, or reasonably skilled as two or more:
 
 * A rock musician: singer, guitarist, drummer…
 * A musician of any other stripe: composer, tabla player…
-* An artist of another medium: dancer, web developer…
-
-${'  ' || `
-// TODO: Talk about age. Put diversity and inclusion stuff here.
-`}
-
-${'  ' || `
-// TODO: New section. Make this about forming the band.
-`}
-
-We'll set you up with prospective bandmates who match your musical tastes and skill levels. Upon reviewing each other's links and videos, you'll meet online. Once everyone agrees to form a band, all those who can relocate to Los Angeles will do so. After you've settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
-
-There are no application fees or legal contracts. We'll just ask you to make a nonbinding pledge to respect pronouns, be vaccinated, and so forth.
-
-### What we'll do for you
-
-${'  ' || `
-// TODO: Be realistic.
-`}
-
-BYCombo will provide a forum for you and other bands in your cohort to support each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and work with bands in the next cohort!
-
-Once your demo is complete, we'll add it to our registry and notify all the music fans, industry executives, and budding entrepreneurs who've signed up to our mailing list. With your help, BYCombo will become the public's trusted source to hear about the latest bands sacrificing serious chunks of lifetime to advance the art form!
-
-**The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project: an album about the life of English biochemist Rosalind Franklin!**
-
-### Diversity and inclusion policy
-
-${'  ' || `
-// TODO: Mention maximum gender diversity.
-`}
+* An artist of some other medium: dancer, web developer…
 
 **Women, minorities, and all other disadvantaged groups are encouraged to apply!**
 
 As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged groups the interdependence they naturally thrive under.
+
+### How you'll form a band
+
+We'll set you up with prospective bandmates who match your artistic tastes and skill levels. Our ideal is to achieve gender balance within each band.
+
+Upon reviewing each other's links and videos, you'll meet online. If everyone agrees to form a band, you'll all relocate to Los Angeles, or another major city. After you've settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
+
+### What we'll do for you
+
+${'  ' || `
+// TODO: Mention partner. Make mailing list statement better.
+`}
+
+BYCombo will provide a forum for your band and the others in your cohort to support each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and work with bands in the next cohort!
+
+Once your demo is complete, we'll add it to our registry and notify all the music fans, industry executives, and budding entrepreneurs who've signed up to our mailing list.
+
+As a nonprofit, BYCombo will never charge a fee or take a cut of your earnings. And obviously, we're just getting started, so to thank you for helping us work out any kinks:
+
+**The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project: an album about the life of English biochemist Rosalind Franklin!**
 
 ### How to apply
 
