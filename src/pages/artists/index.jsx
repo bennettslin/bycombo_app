@@ -26,6 +26,10 @@ As a rock movement *started* by a minority, BYCombo was *conceived* to give disa
 
 ### How you'll form a band
 
+${'  ' || `
+// TODO: Just kind of keep thinking about the gender sentence.
+`}
+
 We'll set you up with prospective bandmates who match your artistic tastes and skill levels. The ideal is to have gender balance in each band.
 
 Upon reviewing each other's links and videos, you'll meet online. If everyone agrees to form a band, you'll all relocate to Los Angeles, or another major city. After you've settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
@@ -63,7 +67,7 @@ Email us the following information, and we'll be in touch:
 
 If you're co-applying with one or more bandmates, please send a single email with each person's information. If you have special circumstances that need to be considered, please let us know. We'll see if we can make things work.
 
-And remember, as a nonprofit, BYCombo will never charge a fee or take a cut of your earnings. We're here to provide a helpful service to today's artists— one that Bennett wishes had been in place for the Bobtail Yearlings!
+And remember, as a nonprofit, BYCombo will never charge a fee or take a cut of your earnings. If you're willing to self-sacrifice for art's sake, then we're here to serve you.
             `,
         }}
     />
