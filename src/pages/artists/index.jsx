@@ -26,11 +26,7 @@ As a rock movement *started* by a minority, BYCombo was *conceived* to give disa
 
 ### How you'll form a band
 
-${'  ' || `
-// TODO: Just kind of keep thinking about the gender sentence.
-`}
-
-We'll set you up with prospective bandmates who match your artistic tastes and skill levels. The ideal is to have gender balance in each band.
+We'll set you up with prospective bandmates who match your artistic tastes and skill levels. The ideal is to have gender diversity in every band.
 
 Upon reviewing each other's links and videos, you'll meet online. If everyone agrees to form a band, you'll all relocate to Los Angeles, or another major city. After you've settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
 
@@ -44,9 +40,7 @@ Make registry explanation better.
 
 BYCombo will provide a forum for your band and the others in your cohort to support each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and collaborate with bands in the next cohort!
 
-Once your demo is complete, we'll add it to our registry and notify everyone on our mailing list.
-
-Of course, since we're just getting started, there might be some kinks along the way. So to thank you for your patience as we smooth them out:
+Once your demo is complete, we'll add it to our public registry, where it can be discovered by anyone, either now or in the future. And every other demo will boost your chances, by raising awareness of BYCombo's mission. Of course, since we're just getting started, there might be some kinks along the way. So to thank you for your patience as we smooth them out:
 
 **The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project: an album about the life of English biochemist Rosalind Franklin!**
 
@@ -67,7 +61,7 @@ Email us the following information, and we'll be in touch:
 
 If you're co-applying with one or more bandmates, please send a single email with each person's information. If you have special circumstances that need to be considered, please let us know. We'll see if we can make things work.
 
-And remember, as a nonprofit, BYCombo will never charge a fee or take a cut of your earnings. If you're willing to self-sacrifice for art's sake, then we're here to serve you.
+And remember, as a nonprofit, BYCombo will never charge a fee or take a cut of your earnings. If you're willing to self-sacrifice for art's sake, then we're here to serve you!
             `,
         }}
     />
