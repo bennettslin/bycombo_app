@@ -40,9 +40,9 @@ Make registry explanation better.
 
 BYCombo will provide a forum for your band and the others in your cohort to support each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and collaborate with bands in the next cohort!
 
-Once your demo is complete, we'll add it to our public registry, where it can be discovered by anyone, either now or in the future. And every other demo will boost your chances, by raising awareness of BYCombo's mission. Of course, since we're just getting started, there might be some kinks along the way. So to thank you for your patience as we smooth them out:
+Once your demo is complete, we'll add it to our public registry and notify everyone on our mailing list. And every other demo will boost your own chances of getting heard, by raising awareness of BYCombo's mission. Of course, we're just getting started, so to thank you for your patience during these early years:
 
-**The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project: an album about the life of English biochemist Rosalind Franklin!**
+**The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project— an album about the life of English biochemist Rosalind Franklin!**
 
 ### How to apply
 
