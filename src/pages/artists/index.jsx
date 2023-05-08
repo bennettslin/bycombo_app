@@ -26,7 +26,7 @@ Anyone of legal age is welcome to apply. But ideally, you should already have so
 
 **Women, minorities, and members of other disadvantaged groups are encouraged to apply!**
 
-As a rock movement *started* by a minority, BYCombo was *conceived* to give you the interdependence you naturally crave and thrive under.
+As a rock movement *started* by a minority, BYCombo was *conceived* to give you the interdependence that disadvantaged groups naturally crave and thrive under.
 
 ### How you'll form a band
 
