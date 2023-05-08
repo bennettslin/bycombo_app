@@ -30,7 +30,7 @@ As a rock movement *started* by a minority, BYCombo was *conceived* to give you 
 
 ### How you'll form a band
 
-If we accept you, we'll set you up with prospective bandmates who match your artistic tastes and skill levels. Each band will be balanced in gender to the furthest degree possible, and no band will be single gender.
+If we accept you, we'll set you up with prospective bandmates who match your artistic tastes and skill levels. We also recognize the importance of gender diversity, and we'll strive for an equitable ratio in every band.
 
 Upon reviewing each other's links and videos, you'll meet online. If everyone agrees to form a band, you'll all relocate to Los Angeles, or another major city. After you've settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
 
