@@ -14,15 +14,15 @@ As an artist, do you sense that everything about rock today is *backward*? Why d
 
 ### Who we're looking for
 
-Ideally, you're old enough to have racked up some life experience! You're also reasonably skilled as one or more of the following:
+Anyone of legal age is welcome to apply. But ideally, you should have some life experience under your belt! You're also reasonably skilled in one or more of the following roles:
 
 * A rock musician: singer, guitarist, drummer…
 * A musician of any other stripe: composer, tabla player…
 * An artist of some other medium: dancer, web developer…
 
-**Women, minorities, and all other disadvantaged groups are encouraged to apply!**
+**Women, minorities, and members of other disadvantaged groups are encouraged to apply!**
 
-As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged groups the interdependence they naturally thrive under.
+As a rock movement *started* by a minority, BYCombo was *conceived* to give you the interdependence you crave and thrive under.
 
 ### How you'll form a band
 
@@ -34,13 +34,11 @@ Upon reviewing each other's links and videos, you'll meet online. If everyone ag
 
 ${'  ' || `
 // TODO: Mention partner once partner page is done.
-
-Make registry explanation better.
 `}
 
-BYCombo will provide a forum for your band and the others in your cohort to support each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and collaborate with bands in the next cohort!
+BYCombo will provide a forum for you and the others in your cohort to support each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and collaborate with bands in the next cohort!
 
-Once your demo is complete, we'll add it to our public registry and notify everyone on our mailing list. And every other demo will boost your own chances of getting heard, by raising awareness of BYCombo's mission. Of course, we're just getting started, so to thank you for your patience during these early years:
+Once your demo is complete, we'll add it to our public registry and notify everyone on our mailing list. Over the years, each new BYCombo band will raise awareness of our mission, boosting your own chances of getting heard. Of course, we're just getting started, so to thank you for your patience during this initial stage:
 
 **The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project— an album about the life of English biochemist Rosalind Franklin!**
 
@@ -61,7 +59,7 @@ Email us the following information, and we'll be in touch:
 
 If you're co-applying with one or more bandmates, please send a single email with each person's information. If you have special circumstances that need to be considered, please let us know. We'll see if we can make things work.
 
-And remember, as a nonprofit, BYCombo will never charge a fee or take a cut of your earnings. If you're willing to self-sacrifice for art's sake, then we're here to serve you!
+And remember, as a nonprofit, BYCombo will never charge a fee or take a cut of your earnings. If you're willing to self-sacrifice for art's sake, then we'll do all we can to serve you!
             `,
         }}
     />
