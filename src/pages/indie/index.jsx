@@ -121,7 +121,7 @@ Yet despite the poor fit, indie rock sure is eager of late to hand over its rein
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Like those outsiders before us, we need to be the *most* original, the *most* talented… and so we *need* to make the best use of *mutual* reliance. Hip hop gets this, which is why it *hasn't* declined; today's rappers win Pulitzer Prizes. Now BYCombo gives you the same chances— as a rock band.
+Like those outsiders before us, our only hope is to compete on merits that *can't* be bought: being the *most* original, the *most* talented… and so we need to make the best use of *mutual* reliance. Hip hop gets this, which is why it *hasn't* declined; today's rappers win Pulitzer Prizes. Now BYCombo gives you the same chances— as a rock band.
 
 ### Paid dues must now collude
 
