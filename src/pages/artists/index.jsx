@@ -8,7 +8,11 @@ const Component = () => (
             body: `
 # Join the interdependence revolution!
 
-As an artist, do you sense that everything about rock today is *backward*? Why do the indie gatekeepers force you to waste time and energy on their tools, when this isn't what the public wants, nor what matters to history? Well, you're *not* crazy: The system *is* broken— and here's how we'll fix it!
+${'  ' || `
+// TODO: Just a few more reviews.
+`}
+
+As an artist, do you sense that everything about rock today is *backward*? Why do the indie gatekeepers force you to waste so much time and energy using their tools? This *can't* be what the public wants, nor what matters to history… Well, you're *not* crazy: The system *is* broken— and here's how we'll fix it!
 
 **BYCombo publicly requires its artists to *ignore* indie rock's tools. Instead, they'll earn the trust of future business partners by sacrificing a serious chunk of lifetime to advance the art form.**
 
@@ -22,7 +26,7 @@ Anyone of legal age is welcome to apply. But ideally, you should have some life 
 
 **Women, minorities, and members of other disadvantaged groups are encouraged to apply!**
 
-As a rock movement *started* by a minority, BYCombo was *conceived* to give you the interdependence you crave and thrive under.
+As a rock movement *started* by a minority, BYCombo was *conceived* to give you the interdependence you naturally crave and thrive under.
 
 ### How you'll form a band
 
@@ -36,7 +40,7 @@ ${'  ' || `
 // TODO: Mention partner once partner page is done.
 `}
 
-BYCombo will provide a forum for you and the others in your cohort to support each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and collaborate with bands in the next cohort!
+BYCombo will provide a forum for you and the others in your cohort to support each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and collaborate with our bands in the next cohort!
 
 Once your demo is complete, we'll add it to our public registry and notify everyone on our mailing list. Over the years, each new BYCombo band will raise awareness of our mission, boosting your own chances of getting heard. Of course, we're just getting started, so to thank you for your patience during this initial stage:
 
