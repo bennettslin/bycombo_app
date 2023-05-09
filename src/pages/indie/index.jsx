@@ -82,7 +82,7 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 ### History happens by peer review
 
 ${'  ' || `
-// TODO: Make this one more about well-crafted hooks. Move more of the peer review stuff to the next section.
+// TODO: Make this one more about critics versus well-crafted hooks. Move more of the peer review stuff to the next section.
 `}
 
 As a child, I studied the bands whose talents I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
@@ -94,15 +94,16 @@ But even today with radio dying, the indie labels *still* aren't signing the nex
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it, making history starts with being the envy of your fellow *musicians*. And BYCombo can help you make this happen.
 
 ${'  ' || `
-// TODO: ### The long tail loses by self-sabotage
+// TODO: ### The long tail sabotages itself
 
 Somehow tie in to previous section.
 
 First paragraph:
-Millennials bet it all on indie rock's [long tail](https://en.wikipedia.org/wiki/Long_tail). But without superstars, how will a select few be remembered by history? Their answer is simple: Assume that any artist's runaway success is rooted in merit, and rally around them. In a scene swimming in goodwill, who'd beg to differ? Yet they failed to account for the one group that matters most: Every other artist, who *won't* simply take such assumptions on faith.
+Indie fans are all about betting on the [long tail](https://en.wikipedia.org/wiki/Long_tail). But without superstars, how will a select few be remembered by history? Their answer is simple: Assume any artist's runaway success is rooted in merit, then rally around them. In a scene swimming in goodwill, who'd beg to differ? Yet they failed to account for the one group that matters most: Every other artist, who *won't* simply take such assumptions on faith.
 
 Second paragraph:
-Artists are like crabs pulling each other down in a bucket. There are only two ways to escape the bucket and make it into history. The first is to succeed on such a grand scale that other crabs *can't* pull you down. The second is to be so respected by your fellow crabs that they *won't* pull you down. BYCombo can help you with this second strategy.
+Make it less about crabs, and more about providing a boost.
+Artists are like crabs in a bucket, pulling each other down from the walls. There are only two ways to escape: The first is to succeed on such a grand scale that other crabs *can't* pull you down. The second is to be so respected by your fellow crabs that they *won't* pull you down. BYCombo can help you with this second strategy.
 `}
 
 ### Creativity gets its chance from the clueless
@@ -137,7 +138,7 @@ Yet despite the poor fit, indie rock sure is eager of late to hand over its rein
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Like those outsiders before us, our only hope is to compete on merits that *can't* be bought: being the *most* original, the *most* talented… and so we need to make the best use of *mutual* reliance. Hip hop gets this, which is why it *hasn't* declined; today's rappers win Pulitzer Prizes. Now BYCombo gives you the same chances— as a rock band.
+Like those outsiders before us, we need to be the *most* original, the *most* talented… and so we *need* to make the best use of *mutual* reliance. Hip hop gets this, which is why it *hasn't* declined; today's rappers win Pulitzer Prizes. Now BYCombo gives you the same chances— as a rock band.
 
 ### Paid dues must now collude
 
@@ -163,11 +164,12 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 ### Happiness flows from the craft
 
-At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of 1 to 10, how happy was I, he asked? 8, I replied. He was floored; he'd expected the answer to be 3. But as I explained to him: The reason I chose such a different path was *precisely* to guarantee my own happiness.
+At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of 1 to 10, how happy am I, he asked? 8, I replied. He was floored; he'd expected the answer to be 3. But as I explained to him: The very *reason* I chose the riskier path was to guarantee my own happiness.
 
 There's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) happening in music. Burnout.
+The degree to which an indie artist's success on the Internet is due to merit— rather than luck or privilege— had been oversold to us from day *one*.
 
-By contrast, in his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi describes a conscious state. Yes, interdependence promises to make rock better. But make no mistake: The best argument in favor of BYCombo is ultimately a moral one.
+But what's the alternative? In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi describes a conscious state. Yes, interdependence promises to make rock better. But make no mistake: The best argument in favor of BYCombo is ultimately a moral one.
 `,
         }}
     />
