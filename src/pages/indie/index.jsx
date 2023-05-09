@@ -94,15 +94,15 @@ But even today with radio dying, the indie labels *still* aren't signing the nex
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it, making history starts with being the envy of your fellow *musicians*. And BYCombo can help you make this happen.
 
 ${'  ' || `
-// TODO: ### The long tail can't produce super crabs
+// TODO: ### The long tail loses by self-sabotage
 
 Somehow tie in to previous section.
 
 First paragraph:
-The Millennials bet on the long tail. For critics, extracting history's winners from the long tail is simple: Rally around a particular artist, taking on faith that their runaway success is grounded in merit. Who would sabotage these efforts? The answer is: Their fellow artists who remain unknown, and won't interpret their success so charitably.
+Millennials bet it all on indie rock's [long tail](https://en.wikipedia.org/wiki/Long_tail). But without superstars, how will a select few be remembered by history? Their answer is simple: Assume that any artist's runaway success is rooted in merit, and rally around them. In a scene swimming in goodwill, who'd beg to differ? Yet they failed to account for the one group that matters most: Every other artist, who *won't* simply take such assumptions on faith.
 
 Second paragraph:
-The inescapable reality is that artists are like crabs pulling each other down in a bucket. There are only two ways to rise up from the bucket. The first is to make it on such a grand scale that the other crabs *can't* pull you down. The second is to be so respected by your fellow crabs that they *won't* pull you down. BYCombo can help you with this second strategy.
+Artists are like crabs pulling each other down in a bucket. There are only two ways to escape the bucket and make it into history. The first is to succeed on such a grand scale that other crabs *can't* pull you down. The second is to be so respected by your fellow crabs that they *won't* pull you down. BYCombo can help you with this second strategy.
 `}
 
 ### Creativity gets its chance from the clueless
@@ -115,7 +115,7 @@ Which is why history's most creative artists were often backed by those with *no
 
 ### Middle managers join the revolution last
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk averse. And who are these risk-averse middle managers in *rock*? The indie labels.
+In his book [*Originals*](https://www.goodreads.com/book/show/33826583), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk averse. And who are these risk-averse middle managers in *rock*? The indie labels.
 
 Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to deliver what the people already want. But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
@@ -161,19 +161,13 @@ Worst of all, self-empowered artists will never *start* a revolution, because th
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. Can we imagine this generation's Nirvana being an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime for art's sake? If so, then BYCombo is here to give us the next Nirvana *now*!
 
-${'  ' || `
-// TODO: ### Happiness flows from the craft
+### Happiness flows from the craft
 
-At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of 1 to 10, how happy was I, he asked? 8, I replied. He was shocked; he expected my answer to be 3. But as I explained to him: In breaking the rules, I'm beholden to no one. If I were unhappy, I'd just quit.
+At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of 1 to 10, how happy was I, he asked? 8, I replied. He was floored; he'd expected the answer to be 3. But as I explained to him: The reason I chose such a different path was *precisely* to guarantee my own happiness.
 
-No one's rooting for me to keep going, as I'm not an indie artist, which is liberating in its own way; I'm not trapped.
-
-Second paragraph:
 There's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) happening in music. Burnout.
 
-Third paragraph:
-The psychological benefits of [flow](https://www.harpercollins.com/products/flow-mihaly-csikszentmihalyi). Yes, interdependence will give the world better music. But make no mistake: The argument in favor of BYCombo is ultimately a moral one.
-`}
+By contrast, in his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi describes a conscious state. Yes, interdependence promises to make rock better. But make no mistake: The best argument in favor of BYCombo is ultimately a moral one.
 `,
         }}
     />

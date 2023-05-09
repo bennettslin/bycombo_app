@@ -12,9 +12,9 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-As an artist, do you sense that everything about rock today is *backward*? Why do the indie gatekeepers force you to waste so much time and energy using their tools? This *can't* be what the public wants, nor what matters to history… Well, you're *not* crazy: The system *is* broken— and here's how we'll fix it!
+As an artist, do you sense that everything about rock today is *backward*? Why do the indie gatekeepers force you to waste so much time and energy on their tools? This *can't* be what the public wants, nor what matters to history… Well, you're *not* crazy: The system *is* broken— and here's how we'll fix it!
 
-**BYCombo publicly requires its artists to *ignore* indie rock's tools. Instead, they'll earn the trust of future business partners by sacrificing a serious chunk of lifetime to advance the art form.**
+**To join a BYCombo band, artists must pledge *not* to use indie rock's tools. Instead, they'll earn the trust of future business partners by sacrificing a serious chunk of lifetime to advance the art form.**
 
 ### Who we're looking for
 
@@ -26,7 +26,7 @@ Anyone of legal age is welcome to apply. But ideally, you should already have so
 
 **Women, minorities, and members of other disadvantaged groups are encouraged to apply!**
 
-As a rock movement *started* by a minority, BYCombo was *conceived* to give you the interdependence that disadvantaged groups naturally crave and thrive under.
+As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they thrive on.
 
 ### How you'll form a band
 
