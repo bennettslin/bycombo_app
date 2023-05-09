@@ -81,6 +81,10 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 
 ### History happens by peer review
 
+${'  ' || `
+// TODO: Make this one more about well-crafted hooks. Move more of the peer review stuff to the next section.
+`}
+
 As a child, I studied the bands whose talents I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
 
 To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed [on their *own*](https://youtu.be/yjJL9DGU7Gg?t=36)— the kind of feat that other musicians envy. The indie labels always lost such bands to the majors, though, so instead they listened for works that rely on [*extrinsic* context](https://youtu.be/1VVj1zqbWpU) to be appreciated. And these works are admired most by *critics*, who provide this context to the public.
@@ -88,6 +92,18 @@ To vie for radio airplay in the 90s, alternative bands would craft solid hooks t
 But even today with radio dying, the indie labels *still* aren't signing the next Nirvana or Radiohead, despite such bands now being theirs for the taking. Why? Because they still don't have an ear for it. So to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it, making history starts with being the envy of your fellow *musicians*. And BYCombo can help you make this happen.
+
+${'  ' || `
+// TODO: ### The long tail can't produce super crabs
+
+Somehow tie in to previous section.
+
+First paragraph:
+The Millennials bet on the long tail. For critics, extracting history's winners from the long tail is simple: Rally around a particular artist, taking on faith that their runaway success is grounded in merit. Who would sabotage these efforts? The answer is: Their fellow artists who remain unknown, and won't interpret their success so charitably.
+
+Second paragraph:
+The inescapable reality is that artists are like crabs pulling each other down in a bucket. There are only two ways to rise up from the bucket. The first is to make it on such a grand scale that the other crabs *can't* pull you down. The second is to be so respected by your fellow crabs that they *won't* pull you down. BYCombo can help you with this second strategy.
+`}
 
 ### Creativity gets its chance from the clueless
 
@@ -144,6 +160,20 @@ But the problems with this current Age of Empowerment go beyond its failure to g
 Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the *end*. To save rock, then, we need to make way for selfless bands who'll sacrifice themselves for art's sake. In other words, after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. Can we imagine this generation's Nirvana being an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime for art's sake? If so, then BYCombo is here to give us the next Nirvana *now*!
+
+${'  ' || `
+// TODO: ### Happiness flows from the craft
+
+At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of 1 to 10, how happy was I, he asked? 8, I replied. He was shocked; he expected my answer to be 3. But as I explained to him: In breaking the rules, I'm beholden to no one. If I were unhappy, I'd just quit.
+
+No one's rooting for me to keep going, as I'm not an indie artist, which is liberating in its own way; I'm not trapped.
+
+Second paragraph:
+There's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) happening in music. Burnout.
+
+Third paragraph:
+The psychological benefits of [flow](https://www.harpercollins.com/products/flow-mihaly-csikszentmihalyi). Yes, interdependence will give the world better music. But make no mistake: The argument in favor of BYCombo is ultimately a moral one.
+`}
 `,
         }}
     />
