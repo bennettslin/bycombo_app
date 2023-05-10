@@ -32,7 +32,7 @@ As a rock movement *started* by a minority, BYCombo was *conceived* to give disa
 
 If we accept you, we'll set you up with prospective bandmates who match your artistic tastes and skill levels. We also recognize the importance of gender diversity, and we'll strive for an equitable ratio in every band.
 
-Upon reviewing each other's links and videos, you'll meet online. If everyone agrees to form a band, you'll all relocate to Los Angeles, or another major city. After you've settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
+Upon reviewing each other's links and videos, you'll meet online. If everyone agrees to form a band, you'll all relocate to Los Angeles, or the major city of your band's choosing. Once settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
 
 ### What we'll do for you
 
@@ -40,7 +40,7 @@ ${'  ' || `
 // TODO: Mention partner once partner page is done.
 `}
 
-BYCombo will provide a forum for you and the others in your cohort to support each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and collaborate with our bands in the next cohort!
+BYCombo will provide a forum for you and the others in your cohort to befriend each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and collaborate with our bands in the next cohort!
 
 Once your demo is complete, we'll add it to our public registry and notify everyone on our mailing list. Over time, each new BYCombo band will raise awareness of our mission, boosting your chances to get heard. Of course, we're just getting started, so to thank you for your patience during these early years:
 

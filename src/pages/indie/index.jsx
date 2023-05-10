@@ -94,16 +94,16 @@ But even today with radio dying, the indie labels *still* aren't signing the nex
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it, making history starts with being the envy of your fellow *musicians*. And BYCombo can help you make this happen.
 
 ${'  ' || `
-// TODO: ### The long tail sabotages itself
+// TODO: ### The long tail dies by self-sabotage
 
 Somehow tie in to previous section.
 
 First paragraph:
-Indie rock is all about betting on the [long tail](https://en.wikipedia.org/wiki/Long_tail). But without superstars, how will a select few be remembered by history? Their answer is simple: Assume any artist's runaway success is rooted in merit, then rally around them. In a scene swimming in goodwill, who'd beg to differ? Yet they failed to account for the one group that matters most: Every other artist, who *won't* simply take such assumptions on faith.
+Indie rock is all about betting on the [long tail](https://en.wikipedia.org/wiki/Long_tail). But without superstars, how will a select few be remembered by history? Their answer is simple: Assume any artist's runaway success is rooted in merit, then rally around them. Who'd beg to differ? As it turns out: every other artist, who *won't* simply take such assumptions on faith.
 
 Second paragraph:
 Make it less about crabs, and more about providing a boost.
-Artists are like crabs in a bucket, pulling each other down from the walls. There are only two ways to escape: The first is to succeed on such a grand scale that other crabs *can't* pull you down. The second is to be so respected by your fellow crabs that they *won't* pull you down. BYCombo can help you with this second strategy.
+To be clear, artists aren't like crabs in a bucket, pulling each other down from the walls. There are only two ways to escape: The first is to succeed on such a grand scale that other crabs *can't* pull you down. The second is to be so respected by your fellow crabs that they *won't* pull you down. BYCombo can help you with this second strategy.
 `}
 
 ### Creativity gets its chance from the clueless
@@ -164,13 +164,17 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 ### Happiness flows from the act of creation
 
-At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of one to ten, how happy am I, he asked? Eight, I replied. He was dumbfounded; he'd expected me to say three. But as I explained to him: The very *reason* I chose this path was to guarantee my own happiness.
+${'  ' || `
+// TODO: Review a few more times.
+`}
 
-Mihaly Csikszentmihalyi, in his book [*Flow*](https://www.goodreads.com/book/show/117101), describes the mental state of an artist who's fully immersed in the act of creation: They feel challenged at the right level while receiving continual feedback, all of which leads to personal fulfillment. And this is why my sacrificial years were some of the happiest of my life; I *wasn't* burnt out like my friend had feared.
+At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of one to ten, how happy am I, he asked? Eight, I replied. He was dumbfounded; he'd expected me to say three. But as I explained to him: The very *reason* I chose this unusual path was to guarantee my own happiness.
 
-Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why? Because indie rock will never admit the truth: Whatever can be achieved through self-reliance can also be won by luck or bought by privilege. Every indie artist knows this, yet they play the game anyway— and it eats at their soul.
+Mihaly Csikszentmihalyi, in his book [*Flow*](https://www.goodreads.com/book/show/117101), describes the mental state of an artist who's fully immersed in the act of creation: They feel challenged at the right level while receiving continual feedback, all of which leads to personal fulfillment. And this is why those sacrificed years were some of the happiest of my life; I *wasn't* burnt out like my friend had feared.
 
-Why suffer ? Yes, BYCombo allows you to focus on your craft, but this isn't just to make music better. It's for your well-being.
+Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why? Because indie rock will never admit the truth: All that can be gained through self-reliance can just as easily be won by chance or bought by privilege. Every indie artist knows it, yet they play this losing game anyway… and it eats at their soul.
+
+So yes, BYCombo requires you to focus on your craft— but this *isn't* just to make your art better! It's also for your happiness, and the good of your soul.
 `,
         }}
     />
