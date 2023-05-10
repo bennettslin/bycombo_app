@@ -168,11 +168,11 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of one to ten, how happy am I, he asked? Eight, I replied. He was dumbfounded; he'd expected me to say three. But as I explained to him: The very reason I chose this unusual path was to *guarantee* my own happiness.
+At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of one to ten, how happy am I, he asked? Eight, I replied. He was dumbfounded; he'd expected me to say three. And so I cleared up the matter: The very reason I took this path was to *guarantee* my happiness.
 
-Mihaly Csikszentmihalyi, in his book [*Flow*](https://www.goodreads.com/book/show/117101), describes the mental state of an artist who's fully immersed in the act of creation: They feel challenged at the right level while receiving continual feedback, all of which leads to personal fulfillment. And this is why those sacrificed years were some of the happiest of my life; I *wasn't* burnt out like my friend had feared.
+In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when someone feels challenged at just the right level while receiving continuous feedback, they become fully immersed in the act of creation, which then leads to personal fulfillment. And this is why those sacrificed years were some of the happiest of my life; I *wasn't* burnt out like my friend had feared.
 
-Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why? Because indie rock will never admit the truth: Whatever can be gained through self-reliance can just as easily be won by chance or bought by privilege. Every indie artist knows it, yet they play this losing game anyway… and it eats at their soul.
+Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because indie rock will never admit the truth: Anything that can be gained through self-reliance can just as well be won by chance or bought by privilege. Every indie artist knows it, yet they play this losing game anyway… and it eats at their soul.
 
 So yes, BYCombo requires you to focus on your craft— but this *isn't* just to make your art better! It's also for your happiness, and the good of your soul.
 `,
