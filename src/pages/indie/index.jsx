@@ -75,36 +75,33 @@ These revelations emerge from the unconscious mind as your thoughts drift in the
 
 We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, these bands were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning us all in their music— *and* getting respect for it.
+In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
 
 Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, indie artists are still building a fanbase on their own, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
 
-### History happens by peer review
+### History wants well-crafted hooks
 
 ${'  ' || `
-// TODO: Make this one more about critics versus well-crafted hooks. Move more of the peer review stuff to the next section.
+// TODO: Review a few more times.
 `}
 
 As a child, I studied the bands whose talents I envied, and I dreamt that someday my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
 
-To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed [on their *own*](https://youtu.be/yjJL9DGU7Gg?t=36)— the kind of feat that other musicians envy. The indie labels always lost such bands to the majors, though, so instead they listened for works that rely on [*extrinsic* context](https://youtu.be/1VVj1zqbWpU) to be appreciated. And these works are admired most by *critics*, who provide this context to the public.
+To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed [on their *own*](https://youtu.be/yjJL9DGU7Gg?t=36)— the kind that other musicians will study. The indie labels always lost such bands to the majors, though, so instead they listened for works that rely on [*extrinsic* context](https://youtu.be/1VVj1zqbWpU) to be appreciated. And these works are admired most by *critics*, who provide this context to the public.
 
-But even today with radio dying, the indie labels *still* aren't signing the next Nirvana or Radiohead, despite such bands now being theirs for the taking. Why? Because they still don't have an ear for it. So to this day, an acclaimed indie artist is one whom many critics admire, but few musicians envy.
+But even now with radio dying, the indie labels *still* aren't signing the next Nirvana or Radiohead, despite such bands being theirs for the taking. Why? Because they still don't have an ear for it. So to this day, an acclaimed indie artist is one whom many critics admire, but few musicians will study.
 
-Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it, making history starts with being the envy of your fellow *musicians*. And BYCombo can help you make this happen.
+Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it, history is made by crafting works with *intrinsic* appeal. So BYCombo gives you all the time you need.
+
+### The long tail devours itself
 
 ${'  ' || `
-// TODO: ### The long tail eats itself
-
-Somehow tie in to previous section.
-
-First paragraph:
-Indie rock is all about betting on the [long tail](https://en.wikipedia.org/wiki/Long_tail). But without superstars, how will a select few be remembered by history? Their answer is simple: Assume any artist's runaway success is rooted in merit, then rally around them. Who'd beg to differ? As it turns out: every other artist, who *won't* simply take such assumptions on faith.
-
-Second paragraph:
-Make it less about crabs, and more about providing a boost.
-To be clear, artists aren't like crabs in a bucket, pulling each other down from the walls. There are only two ways to escape: The first is to succeed on such a grand scale that other crabs *can't* pull you down. The second is to be so respected by your fellow crabs that they *won't* pull you down. BYCombo can help you with this second strategy.
+// TODO: Somehow tie in to previous section.
 `}
+
+Indie rock is all about betting on the [long tail](https://en.wikipedia.org/wiki/Long_tail). But without superstars, how will a select few be remembered by history? Its answer is simple: Assume any artist's runaway success is rooted in merit, then rally around them. Who'd beg to differ? As it turns out: every other artist, that's who. They *won't* simply take such assumptions on faith.
+
+To be sure, artists *aren't* like crabs in a bucket, pulling each other down. There are only two ways to escape: The first is to succeed on such a grand scale that other crabs *can't* pull you down. The second is to be so respected by your fellow crabs that they *won't* pull you down. BYCombo can help you with this second strategy.
 
 ### Creativity gets its chance from the clueless
 
