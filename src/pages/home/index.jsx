@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The BYCombo mission
 
-**BYCombo is a nonprofit incubator of self-sacrificing rock bands. We're here to launch the interdependence revolution, a movement devoted to bringing forth this century's most historically consequential rock music!**
+**BYCombo is a nonprofit incubator of self-subsuming rock bands. We're here to launch the interdependence revolution, a movement devoted to bringing forth this century's most historically consequential rock music!**
 
 Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative?
 
@@ -39,7 +39,7 @@ And that's the funny part: Rock *was* interdependent once! Well then, can't a ba
 
 Yes! See, indie rock has a glaring weakness. It doesn't *actually* separate the best artists from the worst; it picks "serious" artists over "casual" ones, in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will *force* us to dismiss all our best artists as hobbyists! Here's how it works:
 
-**To save rock, self-sacrificing bands must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and that couldn't have been made for *any* less effort.**
+**To save rock, self-subsuming bands must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and that couldn't have been made for *any* less effort.**
 
 But who'd volunteer to be the first of these new martyrs? A hungry outsider, that's who! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
 

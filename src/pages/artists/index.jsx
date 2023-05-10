@@ -63,7 +63,7 @@ Email us the following information, and we'll be in touch:
 
 If you're co-applying with one or more bandmates, please send a single email with each person's information. If you have special circumstances that need to be considered, please let us know. We'll see if we can make things work.
 
-And remember, as a nonprofit, BYCombo will never charge a fee or take a cut of your earnings. If you're willing to self-sacrifice for art's sake, then we're here to serve you!
+And remember, BYCombo is a nonprofit. We will *never* charge fees or take a cut of your earnings. If you're ready to help us launch the interdependence revolution, then we're here to serve you!
             `,
         }}
     />
