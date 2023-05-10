@@ -75,7 +75,7 @@ These revelations emerge from the unconscious mind as your thoughts drift in the
 
 We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, these bands were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
+In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
 Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, indie artists are still building a fanbase on their own, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
 
@@ -96,7 +96,7 @@ Yet no one cares what past critics thought, while nearly everyone loves a past w
 ### The long tail devours itself
 
 ${'  ' || `
-// TODO: Somehow tie in to previous section.
+// TODO: Mention lottery winners and envying talent.
 `}
 
 Indie rock is all about betting on the [long tail](https://en.wikipedia.org/wiki/Long_tail). But without superstars, how will a select few be remembered by history? Its answer is simple: Assume any artist's runaway success is rooted in merit, then rally around them. Who'd beg to differ? As it turns out: every other artist, that's who. They *won't* simply take such assumptions on faith.
@@ -165,13 +165,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of one to ten, how happy am I, he asked? Eight, I replied. He was dumbfounded; he'd expected me to say three. And so I cleared up the matter: The very reason I took this path was to *guarantee* my happiness.
+At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of one to ten, how happy am I, he asked? Eight, I replied. He was dumbfounded; he'd expected me to say three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
 
-In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when someone feels challenged at just the right level while receiving continuous feedback, they become fully immersed in the act of creation, which then leads to personal fulfillment. And this is why those sacrificed years were some of the happiest of my life; I *wasn't* burnt out like my friend had feared.
+In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when an artist feels challenged at just the right level while receiving continuous feedback, they become fully immersed in the act of creation, which then leads to personal fulfillment. This is why those sacrificed years were some of the happiest of my life; I *wasn't* burnt out like my friend had feared.
 
-Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because indie rock will never admit the truth: Anything that can be gained through self-reliance can just as well be won by chance or bought by privilege. Every indie artist knows it, yet they play this losing game anyway… and it eats at their soul.
+Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because indie rock will never admit the truth: Anything that can be gained through self-reliance can just as well be won by chance or bought by privilege. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
-So yes, BYCombo requires you to focus on your craft— but this *isn't* just to make your art better! It's also for your happiness, and the good of your soul.
+So yes, BYCombo requires you to focus on your craft— but this isn't *just* to make your art better! It's also for your happiness, and the good of your soul.
 `,
         }}
     />
