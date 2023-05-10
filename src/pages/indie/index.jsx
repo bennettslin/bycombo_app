@@ -99,7 +99,7 @@ ${'  ' || `
 Somehow tie in to previous section.
 
 First paragraph:
-Indie fans are all about betting on the [long tail](https://en.wikipedia.org/wiki/Long_tail). But without superstars, how will a select few be remembered by history? Their answer is simple: Assume any artist's runaway success is rooted in merit, then rally around them. In a scene swimming in goodwill, who'd beg to differ? Yet they failed to account for the one group that matters most: Every other artist, who *won't* simply take such assumptions on faith.
+Indie rock is all about betting on the [long tail](https://en.wikipedia.org/wiki/Long_tail). But without superstars, how will a select few be remembered by history? Their answer is simple: Assume any artist's runaway success is rooted in merit, then rally around them. In a scene swimming in goodwill, who'd beg to differ? Yet they failed to account for the one group that matters most: Every other artist, who *won't* simply take such assumptions on faith.
 
 Second paragraph:
 Make it less about crabs, and more about providing a boost.
@@ -144,11 +144,11 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-It's because paid dues are worthless outside the one system that honors them; so by nature, any such system breeds loyalty to its rule. In other words, you can pay your dues, or you can start a revolution— but never both.
+It's because paid dues are worthless outside the one system that honors them; so by nature, any such system breeds loyalty to its rule. In short, you can pay your dues, or you can start a revolution— but never both.
 
 Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
 
-In short, a system of paid dues grows ever more rigid *and* dysfunctional. Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first artist who's secure enough to *want* it— having never paid indie rock's dues myself.
+Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first artist who's secure enough to *want* it— having never paid indie rock's dues myself.
 
 ### Art needs the blood of martyrs
 
@@ -162,15 +162,15 @@ Worst of all, self-empowered artists will never *start* a revolution, because th
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. Can we imagine this generation's Nirvana being an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime for art's sake? If so, then BYCombo is here to give us the next Nirvana *now*!
 
-### Happiness flows from the craft
+### Happiness flows from the act of creation
 
-At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of one to ten, how happy am I, he asked? Eight, I replied. He was dumbfounded; he'd expected me to say three. And so I explained to him: The very *reason* I chose this path was to guarantee my own happiness.
+At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of one to ten, how happy am I, he asked? Eight, I replied. He was dumbfounded; he'd expected me to say three. But as I explained to him: The very *reason* I chose this path was to guarantee my own happiness.
 
-In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi describes the mental state of an artist who's fully immersed in the process of creation. They feel challenged at the right level while receiving continuous feedback, leading to long-term fulfillment. This is why my years of self-sacrifice were some of the happiest of my life; I was never burnt out like my friend had feared.
+Mihaly Csikszentmihalyi, in his book [*Flow*](https://www.goodreads.com/book/show/117101), describes the mental state of an artist who's fully immersed in the act of creation: They feel challenged at the right level while receiving continual feedback, all of which leads to personal fulfillment. And this is why my sacrificial years were some of the happiest of my life; I *wasn't* burnt out like my friend had feared.
 
-There's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Yet indie rock has no solutions, because it will never admit the truth: Everything that can be achieved through self-reliance can also be bought by privilege. So some artists grind away to reach a level that others get for free, and this eats at their soul.
+Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why? Because indie rock will never admit the truth: Whatever can be achieved through self-reliance can also be won by luck or bought by privilege. Every indie artist knows this, yet they play the game anyway— and it eats at their soul.
 
-Disadvantaged artists want *mutual* reliance— and always *have*. Why suffer ? Yes, BYCombo allows you to focus on your craft, but this isn't just to make music better. It's for your well-being.
+Why suffer ? Yes, BYCombo allows you to focus on your craft, but this isn't just to make music better. It's for your well-being.
 `,
         }}
     />
