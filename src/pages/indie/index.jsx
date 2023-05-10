@@ -133,7 +133,7 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 Who foresaw indie rock's final stage as a trust fund playground? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/3489987). When they boast of having hustled, they're saying, "Hey, I hustled *too*." It's to ensure that self-reliance means *nothing*.
 
-Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, today's indie rock feels like just another foreign canon. So women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
+Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, indie rock today feels like just another foreign canon. So women and minorities are being set up to [take the fall](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
@@ -152,12 +152,12 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 ### Happiness flows from the act of creation
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Just one more final review.
 `}
 
 At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of one to ten, how happy am I, he asked? Eight, I replied. He was dumbfounded; he'd expected me to say three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
 
-In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when an artist feels challenged at just the right level while receiving continuous feedback, they become fully immersed in the act of creation, which then leads to personal fulfillment. This is why those sacrificed years were some of the happiest of my life; I *wasn't* burnt out like my friend had feared.
+In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when an artist feels challenged at just the right level while receiving continuous feedback, they become fully immersed in the act of creation— which then leads to personal fulfillment. This is why those sacrificed years were some of the happiest of my life; I *wasn't* burnt out like my friend had feared.
 
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because indie rock will never admit the truth: Anything that can be gained through self-reliance can just as well be won by chance or bought by privilege. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
@@ -166,16 +166,16 @@ So yes, BYCombo requires you to focus on your craft— but this isn't *just* to 
 ### Art needs the passion of martyrs
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Just one more final review.
 `}
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its Nirvana. Why is that?
 
-It's because we really only pine for past artists who subsumed themselves to advance the art form. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand fair compensation; they don't self-subsume for *anyone*, because to do so is a classic sign of being exploited.
+It's because we really only pine for past artists who subsumed themselves for art's sake. But since indie rock is here to *save* artists from exploitation, it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-subsume for *anyone*, because to do so is a classic sign of being exploited.
 
 But the problems with this current Age of Empowerment go beyond its failure to give us the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how exactly are *they* the underdogs?
 
-Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the *end*. To save rock, then, we need to make way for bands who'll subsume themselves to advance the art form. In other words, after Empowerment… comes the Age of Martyrdom.
+Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the *end*. To save rock, then, we *need* to make way for bands who'll subsume themselves for art's sake. In other words, after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. Can we imagine this generation's Nirvana being an entire *movement* of self-subsuming bands, each one sacrificing a serious chunk of lifetime? If so, then BYCombo is here to give us the next Nirvana *now*!
 `,
