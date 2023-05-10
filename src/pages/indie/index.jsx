@@ -94,7 +94,7 @@ But even today with radio dying, the indie labels *still* aren't signing the nex
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future generations will judge the music of *our* times the same way. Let's face it, making history starts with being the envy of your fellow *musicians*. And BYCombo can help you make this happen.
 
 ${'  ' || `
-// TODO: ### The long tail dies by self-sabotage
+// TODO: ### The long tail eats itself
 
 Somehow tie in to previous section.
 
@@ -172,7 +172,7 @@ At the peak of my years working eighty-hour weeks— forty to earn a living, and
 
 Mihaly Csikszentmihalyi, in his book [*Flow*](https://www.goodreads.com/book/show/117101), describes the mental state of an artist who's fully immersed in the act of creation: They feel challenged at the right level while receiving continual feedback, all of which leads to personal fulfillment. And this is why those sacrificed years were some of the happiest of my life; I *wasn't* burnt out like my friend had feared.
 
-Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why? Because indie rock will never admit the truth: All that can be gained through self-reliance can just as easily be won by chance or bought by privilege. Every indie artist knows it, yet they play this losing game anyway… and it eats at their soul.
+Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why? Because indie rock will never admit the truth: Whatever can be gained through self-reliance can just as easily be won by chance or bought by privilege. Every indie artist knows it, yet they play this losing game anyway… and it eats at their soul.
 
 So yes, BYCombo requires you to focus on your craft— but this *isn't* just to make your art better! It's also for your happiness, and the good of your soul.
 `,
