@@ -168,7 +168,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of one to ten, how happy am I, he asked? Eight, I replied. He was dumbfounded; he'd expected me to say three. But as I explained to him: The very *reason* I chose this unusual path was to guarantee my own happiness.
+At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of one to ten, how happy am I, he asked? Eight, I replied. He was dumbfounded; he'd expected me to say three. But as I explained to him: The very reason I chose this unusual path was to *guarantee* my own happiness.
 
 Mihaly Csikszentmihalyi, in his book [*Flow*](https://www.goodreads.com/book/show/117101), describes the mental state of an artist who's fully immersed in the act of creation: They feel challenged at the right level while receiving continual feedback, all of which leads to personal fulfillment. And this is why those sacrificed years were some of the happiest of my life; I *wasn't* burnt out like my friend had feared.
 
