@@ -38,13 +38,11 @@ Upon reviewing each other's links and videos, you'll meet online. If everyone ag
 
 ${'  ' || `
 // TODO: Mention partner once partner page is done.
-
-Mention critique.
 `}
 
 BYCombo will provide a forum for you and the others in your cohort to befriend each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and collaborate with our bands in the next cohort!
 
-Once your demo is complete, we'll add it to our public registry and notify everyone on our mailing list. Over time, each new BYCombo band will raise awareness of our mission, boosting your chances to get heard. Of course, we're just getting started, so to thank you for your patience during these early years:
+Once your demo is complete, we'll add it to our public registry and notify everyone on our mailing list. Over time, each new BYCombo band will raise awareness of our mission, boosting your own chances to get heard. Of course, we're just getting started, so to thank you for your patience during these early years:
 
 **The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project— an album about the life of English biochemist Rosalind Franklin!**
 
@@ -65,7 +63,7 @@ Email us the following information, and we'll be in touch:
 
 If you're co-applying with one or more bandmates, please send a single email with each person's information. If you have special circumstances that need to be considered, please let us know. We'll see if we can make things work.
 
-And remember, BYCombo is a nonprofit. We will *never* charge fees or take a cut of your earnings. If you're ready to help us launch the interdependence revolution, then we're here to serve you!
+And remember, as a nonprofit, BYCombo will *never* charge fees or take a cut of your earnings. If you're ready to join the interdependence revolution, then we're here to serve you!
             `,
         }}
     />

@@ -99,11 +99,11 @@ ${'  ' || `
 // TODO: Make sure the Ted Gioia articles apply. Reconsider title. History is made through peer review?
 `}
 
-Indie rock is all about betting on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go). But without superstars, how do a select few get remembered by history? The critics have an answer: Assume that any indie artist's runaway success is rooted in merit, then rally around them. Who'd beg to differ? Actually… every other artist, that's who! As it turns out, they *won't* simply take such assumptions on faith.
+Indie rock is all about betting on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go). But without superstars, how do a select few get remembered by history? The critics have an answer: Assume that any indie artist's runaway success is rooted in merit, then rally around them. Who'd beg to differ? Every other artist who remains unknown, that's who! As it turns out, they *won't* simply take such assumptions on faith.
 
-To be clear, artists aren't like crabs in a bucket, pulling each other down. But if a critical darling strikes them as a lottery winner, whose talents and works are nothing to envy, they simply won't pretend otherwise. And this is why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
+To be clear, artists aren't like crabs in a bucket, pulling each other down. But if a critical darling strikes them as a lottery winner, whose talents and works are nothing to envy, they simply won't pretend otherwise. And this is why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to the vast lot of artists who remain unknown.
 
-No one today is hoping to turn rock bands into superstars; we're all stuck in the long tail now. Which means there's only one way for any of us to make history: Earn the respect of our fellow artists, both now and in the future. So BYCombo provides a forum for you and the others in your cohort to critique each other's works.
+No one today is hoping to turn any of us rock bands into superstars; we're all stuck in the long tail now. Which means there's only one way for us to make history: Earn the respect of our fellow artists, both now and in the future. So BYCombo provides a forum for you and the other bands in your cohort to critique each other's works.
 
 ### Creativity gets its chance from the clueless
 
