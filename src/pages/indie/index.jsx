@@ -164,12 +164,13 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 ### Happiness flows from the craft
 
-At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of 1 to 10, how happy am I, he asked? 8, I replied. He was floored; he'd expected the answer to be 3. But as I explained to him: The very *reason* I chose the riskier path was to guarantee my own happiness.
+At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of one to ten, how happy am I, he asked? Eight, I replied. He was dumbfounded; he'd expected me to say three. And so I explained to him: The very *reason* I chose this path was to guarantee my own happiness.
 
-There's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) happening in music. Burnout.
-The degree to which an indie artist's success on the Internet is due to merit— rather than luck or privilege— had been oversold to us from day *one*.
+In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi describes the mental state of an artist who's fully immersed in the process of creation. They feel challenged at the right level while receiving continuous feedback, leading to long-term fulfillment. This is why my years of self-sacrifice were some of the happiest of my life; I was never burnt out like my friend had feared.
 
-But what's the alternative? In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi describes a conscious state. Yes, interdependence promises to make rock better. But make no mistake: The best argument in favor of BYCombo is ultimately a moral one.
+There's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Yet indie rock has no solutions, because it will never admit the truth: Everything that can be achieved through self-reliance can also be bought by privilege. So some artists grind away to reach a level that others get for free, and this eats at their soul.
+
+Disadvantaged artists want *mutual* reliance— and always *have*. Why suffer ? Yes, BYCombo allows you to focus on your craft, but this isn't just to make music better. It's for your well-being.
 `,
         }}
     />
