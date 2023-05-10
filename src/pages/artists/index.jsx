@@ -26,7 +26,7 @@ Anyone of legal age is welcome to apply. But ideally, you should already have so
 
 **Women, minorities, and members of other disadvantaged groups are encouraged to apply!**
 
-As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they thrive on.
+As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they crave and thrive on.
 
 ### How you'll form a band
 
@@ -38,6 +38,8 @@ Upon reviewing each other's links and videos, you'll meet online. If everyone ag
 
 ${'  ' || `
 // TODO: Mention partner once partner page is done.
+
+Mention critique.
 `}
 
 BYCombo will provide a forum for you and the others in your cohort to befriend each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and collaborate with our bands in the next cohort!
