@@ -49,7 +49,7 @@ Well… not so fast. As barriers to entry are lowered, the applicant pool gets f
 
 It's worse than just that, however. Sheer talent and creative invention may be the outsider's strengths, but they're the underdog's weaknesses. So by reflex, indie rock *rejects* them. This is why it prizes works [admired by critics](/indie#history-wants-well-crafted-hooks), who root for underdogs— but *not* those [envied by musicians](/indie#the-long-tail-devours-itself), who *don't*; and why it disputes the studies that say we're all biased [*against* creativity](/indie#creativity-gets-its-chance-from-the-clueless).
 
-The indie gatekeepers also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for only [helping themselves](/indie#art-needs-the-blood-of-martyrs)! And this is how I learned the hard way:
+The indie gatekeepers also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for only [helping themselves](/indie#art-needs-the-passion-of-martyrs)! And this is how I learned the hard way:
 
 **A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock *isn't* simply waiting for hungry outsiders to show up offering better art. It's actively shutting them out!**
 
