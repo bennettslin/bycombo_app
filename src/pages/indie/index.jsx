@@ -79,29 +79,29 @@ In those days, lottery players had no patience for the grassroots; they'd sign l
 
 Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, indie artists are still building a fanbase on their own, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
 
-### Future audiences want well-crafted hooks
+### Timeless art has intrinsic appeal
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review a few more times. Compress to this day, extrinsic context appreciated by critics into second paragraph. Make it more clear, independent of the artist who created them.
 `}
 
-As a child, I studied the bands whose talents I envied, dreaming that one day my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
+As a child, I studied the bands whose compositional skills I envied, dreaming that one day my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
 
-To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed [on their *own*](https://youtu.be/yjJL9DGU7Gg?t=36)— the kind that other artists care to study. But since the indie labels always lost such bands to the majors, they learned to listen for works that rely on [*extrinsic* context](https://youtu.be/1VVj1zqbWpU) to be appreciated. And these works are admired most by critics, who provide this context to the public.
+To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed [on their *own*](https://youtu.be/yjJL9DGU7Gg?t=36)— the kind of feat I hoped to match. But the indie labels always lost such bands to the majors, so they learned to listen for works whose [*extrinsic* context](https://youtu.be/1VVj1zqbWpU) is appreciated most by critics. And this xxx to look for critical darlings remains their strategy to this day.
 
-So to this day, the indie labels look for artists who'll get boosted by critics. Yet no one cares what a past critic thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge the music of *our* times the same way. Let's face it, history wants art with *intrinsic* appeal. So BYCombo gives you all the time you need to craft such works.
+Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge the music of *our* times the same way. Let's face it: Timeless works have *intrinsic* appeal. So BYCombo gives you all the time you need to craft them.
 
 ### History is made through peer review
 
 ${'  ' || `
-// TODO: Make sure the Ted Gioia articles apply.
+// TODO: Make sure the Ted Gioia articles apply. Community of bands.
 `}
 
-Indie rock is all about betting on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go). But without superstars, how do a select few get remembered by history? The critics have an answer: Assume that any indie artist's runaway success is rooted in merit, then rally around them. Who'd beg to differ? As it turns out… every other artist who remains unknown! They *won't* simply take such assumptions on faith.
+Indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go). But without superstars, how will a select few get remembered by history? The critics have a plan: Assume that any indie artist's runaway success is rooted in merit, then rally around them. Who'd beg to differ? Um… every other artist who remains unknown, that's who! As it turns out, they *won't* just take this assumption on faith.
 
-To be clear, artists aren't like crabs in a bucket, pulling each other down. But if a critical darling strikes them as a lottery winner, whose talents and works are nothing to envy— they won't pretend otherwise. And this explains why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to other artists who are invested in the creative process.
+To be clear, artists aren't like crabs in a bucket. But if a critical darling strikes them as a lottery winner, one whose talents are nothing to envy— they won't pretend otherwise. And this is why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
 
-No one today is hoping to turn any of us rock bands into superstars; thanks to indie rock, we're all stuck in the long tail now. Which means there's only one way for us to make history: Earn the respect of our fellow artists, both now and in the future. So BYCombo provides a forum for you and the other bands in your cohort to critique each other's works.
+No one today is hoping to turn us rock bands into superstars; thanks to indie rock, we're *all* stuck in the long tail now. Which means there's only one way for us to make history: Earn the respect of our fellow artists, both now and in the future. So BYCombo provides a forum for you and the other bands in your cohort to critique each other's works.
 
 ### Creativity gets its chance from the clueless
 

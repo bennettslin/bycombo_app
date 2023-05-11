@@ -51,9 +51,9 @@ ${'  ' || `
 // TODO: Make sure these links are right.
 `}
 
-It's worse than just that, however. Sheer talent and creative invention may be the outsider's strengths, but they're the underdog's weaknesses. So by reflex, indie rock *rejects* them. This is why it prizes works [admired by critics](/indie#future-audiences-want-well-crafted-hooks), who root for underdogs— but *not* those [envied by other artists](/indie#history-is-made-through-peer-review), who *don't*; and why it disputes the studies that say we're all biased [*against* creativity](/indie#creativity-gets-its-chance-from-the-clueless).
+It's worse than just that, however. Sheer talent and creative invention may be the outsider's strengths, but they're the underdog's weaknesses. So by reflex, indie rock *rejects* them. This is why it prizes works [admired by critics](/indie#history-is-made-through-peer-review), who root for underdogs— but *not* those envied by other artists, who *don't*; and why it disputes the studies that say we're all [biased *against* creativity](/indie#creativity-gets-its-chance-from-the-clueless).
 
-The indie gatekeepers also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for only [helping themselves](/indie#art-needs-the-passion-of-martyrs)! And this is how I learned the hard way:
+The indie gatekeepers also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for [only helping themselves](/indie#art-needs-the-passion-of-martyrs)! And this is how I learned the hard way:
 
 **A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock *isn't* simply waiting for hungry outsiders to show up offering better art. It's actively shutting them out!**
 
