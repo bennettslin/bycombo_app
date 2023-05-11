@@ -85,7 +85,7 @@ ${'  ' || `
 // TODO: Review a few more times. Third paragraph needs to be more about absence of craft. So maybe just say they learned to listen for music with the opposite qualities.
 `}
 
-To vie for radio airplay in the 90s, alternative bands would craft solid hooks that could win over audiences who weren't initially rooting for them. Since I was an unpopular child back then, my only hope was to develop the same knack for writing songs with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). And so I studied these bands closely, dreaming that one day my own band could teach others.
+To vie for radio airplay in the 90s, alternative bands would craft solid hooks that could win over audiences who weren't initially rooting for them. I was an unpopular child back then, so I knew my only hope was to develop the same knack for writing songs with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). As such, I studied these bands closely, dreaming that one day my own band could teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
