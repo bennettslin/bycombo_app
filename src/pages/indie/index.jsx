@@ -82,30 +82,42 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 ### Timeless art has intrinsic appeal
 
 ${'  ' || `
-// TODO: Review a few more times. Compress to this day, extrinsic context appreciated by critics into second paragraph. Make it more clear, independent of the artist who created them.
+// TODO: Review a few more times.
 `}
 
-As a child, I studied the bands whose compositional skills I envied, dreaming that one day my own band could teach others. So a while back, I sent copies of my book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and now I know why: Indie rock has no conception of music as a *craft*.
+To vie for radio airplay in the 90s, alternative bands would craft solid hooks to win over audiences who had no idea who they were. As an unpopular child back then, I knew my only hope was to develop the same knack for writing songs with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). And so I studied these bands closely, dreaming that one day my own band could teach others.
 
-To vie for radio airplay in the 90s, alternative bands would craft solid hooks that can be enjoyed [on their *own*](https://youtu.be/yjJL9DGU7Gg?t=36)— the kind of feat I hoped to match. But the indie labels always lost such bands to the majors, so they learned to listen for works whose [*extrinsic* context](https://youtu.be/1VVj1zqbWpU) is appreciated most by critics. And this xxx to look for critical darlings remains their strategy to this day.
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge the music of *our* times the same way. Let's face it: Timeless works have *intrinsic* appeal. So BYCombo gives you all the time you need to craft them.
+The indie labels always lost those radio-friendly bands to the majors, and so they learned to listen for works that are loved most by audiences who need to care about the artist in advance. Such works depend on critics to provide [extrinsic context](https://youtu.be/1VVj1zqbWpU), and so these labels developed a symbiotic relationship with the critics that continues to this day, long after radio's demise.
+
+Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge the music of *our* times the same way. Let's face it: To be timeless, art must have *intrinsic* appeal. So BYCombo gives you all the time you need to craft such works.
 
 ### History is made through peer review
 
 ${'  ' || `
 // TODO: Make sure the Ted Gioia articles apply. Community of bands.
+
+Imagine what the underdog of our times necessarily looks like.
+
+Explains why both labels and critics are so bad.
+
+Once an artist is in the distant band, only fellow artists will bother to preserve their legacy.
 `}
 
-Indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go). But without superstars, how will a select few get remembered by history? The critics have a plan: Assume that any indie artist's runaway success is rooted in merit, then rally around them. Who'd beg to differ? Um… every other artist who remains unknown, that's who! As it turns out, they *won't* just take this assumption on faith.
+Most artists in the historical canon were superstars in their own time. But indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go), which promises to kill off all superstars. So how does any indie artist get remembered by history? The gatekeepers have a plan: Pick a few to represent the classic underdogs of our times, then rally around them. After all, who *isn't* rooting for the underdog to win?
 
-To be clear, artists aren't like crabs in a bucket. But if a critical darling strikes them as a lottery winner, one whose talents are nothing to envy— they won't pretend otherwise. And this is why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
+Um… every remaining unknown artist, that's who! To be clear, they aren't like crabs in a bucket. But if a critical darling strikes them as a lottery winner, one whose talents are nothing to envy— they won't pretend otherwise. This explains why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
 
-No one today is hoping to turn us rock bands into superstars; thanks to indie rock, we're *all* stuck in the long tail now. Which means there's only one way for us to make history: Earn the respect of our fellow artists, both now and in the future. So BYCombo provides a forum for you and the other bands in your cohort to critique each other's works.
+Thanks to indie rock, no one today is trying to turn rock bands into superstars, so now there's only one way for us to make history: Earn the respect of our fellow artists, both now and in the future. So BYCombo provides a forum for you and the other bands in your cohort to critique each other's works.
 
 ### Creativity gets its chance from the clueless
 
-Because the indie labels stay close to the local scenes, they're both "in the know" and "one of us." So whatever *they* like is what others like *us* have liked, which means it's the best of what *we'll* like… right? Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Because the indie gatekeepers stay close to their local scenes, they're both "in the know" and "one of us." So whatever *they* like is what others like *us* have liked, which means it's the best of what *we'll* like… right? Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -149,11 +161,7 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### Happiness flows from the act of creation
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
-
-At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of one to ten, how happy am I, he asked? Eight, I replied. He was dumbfounded; he'd expected me to say three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
+At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected me to say three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
 
 In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when an artist feels challenged at just the right level while receiving continuous feedback, they become fully immersed in the act of creation— which then leads to personal fulfillment. This is why those sacrificed years were some of the happiest of my life; I *wasn't* burnt out like my friend had feared.
 
