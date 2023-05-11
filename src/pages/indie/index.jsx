@@ -89,27 +89,9 @@ To vie for radio airplay in the 90s, alternative bands would craft solid hooks t
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to cater to audiences who root for the underdog upfront— and an underdog's strength comes from having critics provide [extrinsic context](https://genius.com/3669664) to their works. So these labels developed a symbiotic relationship with the critics that continues to this day, even after radio's demise.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to cater to audiences who root for the underdog upfront— and an underdog's strength comes from having critics provide [extrinsic context](https://genius.com/3669664) to their works. So these labels developed a symbiotic relationship with the critics that's continued to this day, even after radio's demise.
 
-Yet no one cares what a past critic thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. Let's face it: To be timeless, art must have intrinsic appeal. So BYCombo gives you all the time you need to craft such works.
-
-### History is made through peer review
-
-${'  ' || `
-// TODO: Make sure the Ted Gioia articles apply. Community of bands.
-
-Imagine what the underdog of our times necessarily looks like.
-
-Explains why both labels and critics are so bad.
-
-Once an artist is in the distant band, only fellow artists will bother to preserve their legacy.
-`}
-
-Most artists in the historical canon were superstars in their own time. But indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go), which promises to kill off all superstars. So how does any indie artist get remembered by history? The gatekeepers have a plan: Pick one who represents the classic underdog of our times, then rally around them. After all, who *isn't* rooting for the underdog to win?
-
-Um… every remaining unknown artist, that's who! To be clear, they aren't like crabs in a bucket. But if a critical darling strikes them as a lottery winner, one whose talents are nothing to envy— they won't pretend otherwise. This explains why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
-
-Thanks to indie rock, no one today is trying to turn rock bands into superstars, so now there's only one way for us to make history: Earn the respect of our fellow artists, both now and in the future. So BYCombo provides a forum for you and the other bands in your cohort to critique each other's works.
+Yet no one cares what a past critic thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. Let's face it: To be timeless, works must have *intrinsic* appeal. So BYCombo gives you all the time you need to craft them.
 
 ### Creativity gets its chance from the clueless
 
@@ -130,6 +112,18 @@ In his book [*Originals*](https://www.goodreads.com/book/show/33826583), Adam Gr
 Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to deliver what the people already want. But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
+
+### History is made through peer review
+
+${'  ' || `
+// TODO: Make sure the Ted Gioia articles apply. Re-read Adam Grant article for third paragraph help. Community of bands.
+`}
+
+Most artists in the historical canon were superstars in their own time. But indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go), which promises to kill off the superstars. So how does *any* indie artist get remembered by history? The gatekeepers have a plan: Pick one who represents the classic underdog of our times, then rally around them. After all, who *isn't* rooting for the underdog to win?
+
+Um… all of us other artists who remain unknown, that's who! To be clear, we're not like crabs in a bucket. But if a critical darling strikes us as a lottery winner, whose talents and works are nothing to envy— we won't pretend otherwise. Which explains why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
+
+Because artists are invested in the creative process, they're the *only* ones who see in the present what historians will see in the future. So in the absence of anyone today trying to turn rock bands into superstars, there's only one way for us to make history: Earn the respect of our fellow artists. So BYCombo provides a forum for you and the other bands in your cohort to critique each other's works.
 
 ### Competitive self-reliance favors privilege
 

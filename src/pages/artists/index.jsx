@@ -8,10 +8,6 @@ const Component = () => (
             body: `
 # Join the interdependence revolution!
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
-
 As an artist, do you sense that everything about rock today is *backward*? Why do the indie gatekeepers force you to waste so much time and energy on their tools? This *can't* be what the public wants, nor what matters to history… Well, you're *not* crazy: The system *is* broken— and here's how we'll fix it!
 
 **To join a BYCombo band, artists must pledge *not* to use indie rock's tools. Instead, they'll earn the trust of future business partners by sacrificing a serious chunk of lifetime to advance the art form.**
@@ -63,7 +59,7 @@ Email us the following information, and we'll be in touch:
 
 If you're co-applying with one or more bandmates, please send a single email with each person's information. If you have special circumstances that need to be considered, please let us know. We'll see if we can make things work.
 
-And remember, as a nonprofit, BYCombo will *never* charge fees or take a cut of your earnings. If you're ready to join the interdependence revolution, then we're here to serve you!
+And remember, as a nonprofit, BYCombo will *never* charge fees or take a cut of your earnings. If *you're* ready to join the interdependence revolution, then *we're* here to serve you!
             `,
         }}
     />
