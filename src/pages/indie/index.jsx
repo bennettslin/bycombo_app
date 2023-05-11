@@ -82,16 +82,16 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 ### Timeless art has intrinsic appeal
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review a few more times. Third paragraph needs to be more about absence of craft. So maybe just say they learned to listen for music with the opposite qualities.
 `}
 
-To vie for radio airplay in the 90s, alternative bands would craft solid hooks to win over audiences who had no idea who they were. As an unpopular child back then, I knew my only hope was to develop the same knack for writing songs with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). And so I studied these bands closely, dreaming that one day my own band could teach others.
+To vie for radio airplay in the 90s, alternative bands would craft solid hooks that could win over audiences who weren't initially rooting for them. Since I was an unpopular child back then, my only hope was to develop the same knack for writing songs with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). And so I studied these bands closely, dreaming that one day my own band could teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-The indie labels always lost those radio-friendly bands to the majors, and so they learned to listen for works that are loved most by audiences who need to care about the artist in advance. Such works depend on critics to provide [extrinsic context](https://youtu.be/1VVj1zqbWpU), and so these labels developed a symbiotic relationship with the critics that continues to this day, long after radio's demise.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to cater to audiences who root for the underdog upfront— and an underdog's strength comes from having critics provide [extrinsic context](https://genius.com/3669664) to their works. So these labels developed a symbiotic relationship with the critics that continues to this day, even after radio's demise.
 
-Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge the music of *our* times the same way. Let's face it: To be timeless, art must have *intrinsic* appeal. So BYCombo gives you all the time you need to craft such works.
+Yet no one cares what a past critic thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. Let's face it: To be timeless, art must have intrinsic appeal. So BYCombo gives you all the time you need to craft such works.
 
 ### History is made through peer review
 
@@ -105,7 +105,7 @@ Explains why both labels and critics are so bad.
 Once an artist is in the distant band, only fellow artists will bother to preserve their legacy.
 `}
 
-Most artists in the historical canon were superstars in their own time. But indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go), which promises to kill off all superstars. So how does any indie artist get remembered by history? The gatekeepers have a plan: Pick a few to represent the classic underdogs of our times, then rally around them. After all, who *isn't* rooting for the underdog to win?
+Most artists in the historical canon were superstars in their own time. But indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go), which promises to kill off all superstars. So how does any indie artist get remembered by history? The gatekeepers have a plan: Pick one who represents the classic underdog of our times, then rally around them. After all, who *isn't* rooting for the underdog to win?
 
 Um… every remaining unknown artist, that's who! To be clear, they aren't like crabs in a bucket. But if a critical darling strikes them as a lottery winner, one whose talents are nothing to envy— they won't pretend otherwise. This explains why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
 
@@ -177,13 +177,13 @@ ${'  ' || `
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its Nirvana. Why is that?
 
-It's because we really only pine for past artists who subsumed themselves for art's sake. But since indie rock is here to *save* artists from exploitation, it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-subsume for *anyone*, because to do so is a classic sign of being exploited.
+It's because we really only pine for past artists who self-sacrificed for art's sake. But since indie rock is here to *save* artists from exploitation, it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-sacrifice for *anyone*, because to do so is a classic sign of being exploited.
 
-But the problems with this current Age of Empowerment go beyond its failure to give us the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how exactly are *they* the underdogs?
+But the problems with this current Age of Empowerment go beyond its failure to give us the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those seen as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how exactly are *they* the underdogs?
 
-Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the *end*. To save rock, then, we *need* to make way for bands who'll subsume themselves for art's sake. In other words, after Empowerment… comes the Age of Martyrdom.
+Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the *end*. To save rock, then, we *need* to make way for bands who'll selflessly advance the art form. In other words, after Empowerment… comes the Age of Martyrdom.
 
-Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. Can we imagine this generation's Nirvana being an entire *movement* of self-subsuming bands, each one sacrificing a serious chunk of lifetime? If so, then BYCombo is here to give us the next Nirvana *now*!
+Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. Can we imagine this generation's Nirvana being an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then BYCombo is here to give us the next Nirvana *now*!
 `,
         }}
     />
