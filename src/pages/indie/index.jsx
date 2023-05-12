@@ -113,17 +113,19 @@ Because indie labels have just enough standing to lose, they only make *safe* be
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
 
-### History is made through peer review
+### History happens through peer review
 
 ${'  ' || `
-// TODO: Make sure the Ted Gioia articles apply. Re-read Adam Grant article for third paragraph help. Community of bands.
+// TODO: Review just a few times.
 `}
 
-Most artists in the historical canon were superstars in their own time. But indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go), which promises to kill off the superstars. So how does *any* indie artist get remembered by history? The gatekeepers have a plan: Pick one who represents the classic underdog of our times, then rally around them. After all, who *isn't* rooting for the underdog to win?
+Most artists in the historical canon were superstars in their own time— but indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go), which promises to kill off the superstars! So how does *any* indie artist get remembered by history? The gatekeepers have a plan: Pick one who represents the classic underdog of our times, then rally around them. After all, who *isn't* rooting for the underdog to win?
 
-Um… all of us other artists who remain unknown, that's who! To be clear, we're not like crabs in a bucket. But if a critical darling strikes us as a lottery winner, whose talents and works are nothing to envy— we won't pretend otherwise. Which explains why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not crabs in a bucket. But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this explains why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
 
-Because artists are invested in the creative process, they're the *only* ones who see in the present what historians will see in the future. So in the absence of anyone today trying to turn rock bands into superstars, there's only one way for us to make history: Earn the respect of our fellow artists. So BYCombo provides a forum for you and the other bands in your cohort to critique each other's works.
+Because artists are invested in the creative process, we don't commit false positives like critics do: We recognize when a critical darling's talents are nothing to envy. And unlike the indie labels, we don't commit false negatives: We understand the courage it takes to propose unfamiliar ideas. In short, artists are the *only* ones who see now what historians will see in time.
+
+Thanks to indie rock, no one today is trying to make superstars out of rock bands. Which means there's only one way for any of us to make history: Earn the respect of our fellow *artists*. So BYCombo provides a forum for you and the other bands in your cohort to critique each other's works.
 
 ### Competitive self-reliance favors privilege
 
@@ -147,7 +149,7 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-It's because paid dues are worthless outside the one system that honors them; so by nature, any such system breeds loyalty to its rule. In short, you can pay your dues, or you can start a revolution— but never both.
+It's because paid dues are worthless outside the one system that honors them; so by nature, any such system breeds loyalty to its rule. In other words, you can pay your dues, or you can start a revolution— but never both.
 
 Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
 
@@ -155,7 +157,7 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### Happiness flows from the act of creation
 
-At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my project— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected me to say three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
+At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected me to say three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
 
 In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when an artist feels challenged at just the right level while receiving continuous feedback, they become fully immersed in the act of creation— which then leads to personal fulfillment. This is why those sacrificed years were some of the happiest of my life; I *wasn't* burnt out like my friend had feared.
 
