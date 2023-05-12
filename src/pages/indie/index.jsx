@@ -86,14 +86,14 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 ### Timeless art has intrinsic appeal
 
 ${'  ' || `
-// TODO: Review a few more times. Does the third paragraph flow well?
+// TODO: Third paragraph still needs work. Logic and flow.
 `}
 
-To vie for radio airplay in the 90s, alternative bands would craft solid hooks that could win over listeners who *weren't* initially rooting for them. I was an unpopular child back then, so I knew my only hope was to develop the same knack for writing songs with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). As such, I studied these bands closely, dreaming that one day my own band could teach others.
+To vie for radio airplay in the 90s, alternative bands would craft solid hooks that could win over listeners who *weren't* initially rooting for them. As an unpopular child back then, I knew my only hope was to develop the same knack for writing songs with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). And so I studied these bands closely, dreaming that one day my own band could teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works whose artistic elements *won't* win over a radio audience, but whose [extrinsic context](https://genius.com/3669664) *can* win over discerning listeners. This context is provided by sympathetic critics, with whom the labels developed a symbiotic relationship that lives on to this day, even after radio's demise.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works whose artistic elements *won't* win over a radio audience. Instead, they're appreciated by discerning listeners who understand their [extrinsic context](https://genius.com/3669664). This context is provided by sympathetic critics, with whom the labels developed a symbiotic relationship that lives on to this day, even after radio's demise.
 
 Yet no one cares what a past critic thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. Let's face it: To be timeless, works must have *intrinsic* appeal. So BYCombo gives you all the time you need to craft them.
 
@@ -123,7 +123,7 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-Most artists in the historical canon were superstars in their own time— but indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go), which promises to kill off the superstars! So how does *any* indie artist get remembered by history? The gatekeepers have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who *isn't* rooting for the underdog to win?
+Most artists in the historical canon were superstars in their own time— but indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go), which promises to kill off the superstars! So how does *any* indie artist make it into history? The gatekeepers have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who *isn't* rooting for the underdog to win?
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
 
