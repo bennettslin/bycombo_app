@@ -95,11 +95,15 @@ Yet no one cares what a past critic thought, while nearly everyone loves a past 
 
 ### Creativity gets its chance from the clueless
 
+${'  ' || `
+// TODO: Just one more final review.
+`}
+
 Because the indie labels stay close to their local scenes, they're both "in the know" and "one of us." So whatever *they* like is what others like *us* have liked, which means it's the best of what *we'll* like… right? Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Which is why history's most creative artists were often backed by those with *no* prior experience in the arts. Now with BYCombo, you can once again find partners who take pride in knowing how to do business— *not* in recognizing great art.
+Which explains why history's most creative artists were often backed by those with *no* prior experience in the arts. Now with BYCombo, you can once again find partners who take pride in knowing how to do business— *not* in recognizing great art.
 
 ### Middle managers join the revolution last
 
@@ -119,7 +123,7 @@ Most artists in the historical canon were superstars in their own day. But indie
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
 
-Because artists are invested in the creative process, we don't commit false positives like the critics do: We recognize when a critical darling's talents are nothing to envy. And unlike the indie labels, we don't commit false *negatives* either: We admire the courage it takes to pursue unfamiliar ideas. In short, artists are the *only* ones who see now what historians will see in time.
+Because artists are invested in the creative process, we don't commit false positives like the critics do: We recognize when a critical darling's talents are nothing to envy. And unlike the indie labels, we don't commit false *negatives* either: We understand the courage it takes to pursue unfamiliar ideas. In short, artists are the *only* ones who see now what historians will see in time.
 
 Thanks to indie rock, no one today is trying to turn bands into superstars. Which means there's only one way left for us to make rock history: Earn the respect of our fellow *artists*. So BYCombo provides a forum for you and the other bands in your cohort to critique each other's works.
 
