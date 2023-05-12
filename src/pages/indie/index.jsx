@@ -67,6 +67,10 @@ What happens if a band goes above and beyond anyway, hoping to remain peerless? 
 
 ### Revelations require a single hat
 
+${'  ' || `
+// TODO: Mention multitasking.
+`}
+
 Indie rock requires artists to wear several hats: the marketer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
 
 These revelations emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom— but this can't happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
@@ -82,7 +86,7 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 ### Timeless art has intrinsic appeal
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review a few more times. Does the third paragraph flow well?
 `}
 
 To vie for radio airplay in the 90s, alternative bands would craft solid hooks that could win over listeners who *weren't* initially rooting for them. I was an unpopular child back then, so I knew my only hope was to develop the same knack for writing songs with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). As such, I studied these bands closely, dreaming that one day my own band could teach others.
@@ -103,7 +107,7 @@ Because the indie gatekeepers stay close to their local scenes, they're both "in
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Which is why history's most creative artists were often backed by those with *no* prior experience in the arts. Now with BYCombo, you can once again find business partners who *aren't* proud to be in the know.
+Which is why history's most creative artists were often backed by those with *no* prior experience in the arts. Now with BYCombo, you can once again find partners who take pride in knowing how to do business, *not* in recognizing great art.
 
 ### Middle managers join the revolution last
 
@@ -121,11 +125,11 @@ ${'  ' || `
 
 Most artists in the historical canon were superstars in their own time— but indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go), which promises to kill off the superstars! So how does *any* indie artist get remembered by history? The gatekeepers have a plan: Pick one who represents the classic underdog of our times, then rally around them. After all, who *isn't* rooting for the underdog to win?
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not crabs in a bucket. But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this explains why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not crabs in a bucket. But if a critical darling strikes us as a lottery winner, we *won't* pretend otherwise. And this explains why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
 
-Because artists are invested in the creative process, we don't commit false positives like critics do: We recognize when a critical darling's talents are nothing to envy. And unlike the indie labels, we don't commit false negatives: We understand the courage it takes to propose unfamiliar ideas. In short, artists are the *only* ones who see now what historians will see in time.
+Because artists are invested in the creative process, we don't commit false positives like critics do: We recognize when a critical darling's talents are nothing to envy. And unlike the indie labels, we don't commit false negatives: We understand the courage it takes to introduce unfamiliar ideas. In short, artists are the *only* ones who see now what historians will see in time.
 
-Thanks to indie rock, no one today is trying to make superstars out of rock bands. Which means there's only one way for any of us to make history: Earn the respect of our fellow *artists*. So BYCombo provides a forum for you and the other bands in your cohort to critique each other's works.
+Thanks to indie rock, no one today is trying to make superstars out of rock bands. Which means there's only one way left for any of us to make history: Earn the respect of our fellow *artists*. So BYCombo provides a forum for you and the other bands in your cohort to critique each other's works.
 
 ### Competitive self-reliance favors privilege
 
@@ -157,7 +161,7 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### Happiness flows from the act of creation
 
-At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected me to say three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
+At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
 
 In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when an artist feels challenged at just the right level while receiving continuous feedback, they become fully immersed in the act of creation— which then leads to personal fulfillment. This is why those sacrificed years were some of the happiest of my life; I *wasn't* burnt out like my friend had feared.
 
