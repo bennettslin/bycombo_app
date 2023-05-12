@@ -65,15 +65,15 @@ Happily enough, building a fanbase yields compounded returns, since each fan bri
 
 What happens if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the costs, and the math is clear: They'll end up the biggest loser. No wonder we lost the canon! But with BYCombo, you can now go above and beyond to win it back.
 
-### Revelations require a single hat
+### Revelations reward the idle mind
 
 ${'  ' || `
-// TODO: Mention multitasking.
+// TODO: Just one more final review.
 `}
 
-Indie rock requires artists to wear several hats: the marketer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
+Indie rock requires artists to wear several hats: the marketer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from revelatory insights that can't be summoned at will.
 
-These revelations emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom— but this can't happen if you're always context switching. So keep your artist hat on. *You* want your art to be better than you, and so does BYCombo.
+These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom— but this can't happen if you're always context switching— or worse, multitasking. So keep your artist hat on— and let a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
 ### The grassroots is now a lottery
 
