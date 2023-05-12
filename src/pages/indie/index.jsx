@@ -67,13 +67,9 @@ What happens if a band goes above and beyond anyway, hoping to remain peerless? 
 
 ### Revelations reward the idle mind
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
-
 Indie rock requires artists to wear several hats: the marketer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from revelatory insights that can't be summoned at will.
 
-These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking. So keep your artist hat on, and let a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
+Such insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking. So keep your artist hat on, and let a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
 ### The grassroots is now a lottery
 
@@ -86,14 +82,14 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 ### Timeless art has intrinsic appeal
 
 ${'  ' || `
-// TODO: Third paragraph still needs work. Logic and flow.
+// TODO: Third paragraph still needs work. Logic and flow. Maybe first paragraph doesn't need to mention intrinsic appeal.
 `}
 
-To vie for radio airplay in the 90s, alternative bands would craft solid hooks that could win over listeners who *weren't* initially rooting for them. As an unpopular child back then, I knew my only hope was to develop the same knack for crafting works with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). And so I studied these bands closely, dreaming that one day my own band could teach others.
+In the 90s, alternative bands would craft radio-friendly hooks to win over listeners who *weren't* initially rooting for them. As an unpopular child who needed to win people over, I knew my only hope was to write music with the same [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). And so I studied these bands closely, dreaming that one day I could teach this skill to others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works whose artistic elements *won't* win over a radio audience. Instead, they're appreciated by discerning listeners who understand their [extrinsic context](https://genius.com/3669664). This context is provided by sympathetic critics, with whom the labels developed a symbiotic relationship that lives on to this day, even after radio's demise.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works whose artistic elements *won't* win over a radio audience. Instead, discerning listeners would come to appreciate these works by understanding their [extrinsic context](https://genius.com/3669664). This context is provided by sympathetic critics, with whom the labels developed a symbiotic relationship that lives on to this day, even after radio's demise.
 
 Yet no one cares what a past critic thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. Let's face it: To be timeless, works must have *intrinsic* appeal. So BYCombo gives you all the time you need to craft them.
 
@@ -107,7 +103,7 @@ Because the indie labels stay close to their local scenes, they're both "in the 
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Which is why history's most creative artists were often backed by those with *no* prior experience in the arts. Now with BYCombo, you can once again find partners who take pride in knowing how to do business, *not* in recognizing great art.
+Which is why history's most creative artists were often backed by those with *no* prior experience in the arts. Now with BYCombo, you can once again find partners who take pride in knowing how to do business— *not* in recognizing great art.
 
 ### Middle managers join the revolution last
 
@@ -123,13 +119,13 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-Most artists in the historical canon were superstars in their own time— but indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go), which promises to kill off the superstars! So how does *any* indie artist make it into history? The gatekeepers have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who *isn't* rooting for the underdog to win?
+Most artists in the historical canon were superstars in their own day— but indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go), which promises to kill off the superstars! So how does *any* indie artist make it into history? The gatekeepers have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who *isn't* rooting for the underdog to win?
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
 
-Because artists are invested in the creative process, we don't commit false positives like the critics do: We recognize when a critical darling's talents are nothing to envy. And unlike the indie labels, we don't commit false negatives: We understand the courage it takes to pursue unfamiliar ideas. In short, artists are the *only* ones who see now what historians will see in time.
+Because artists are invested in the creative process, we don't commit false positives like the critics do: We recognize when a critical darling's talents are nothing to envy. And unlike the indie labels, we don't commit false *negatives* either: We understand the courage it takes to pursue unfamiliar ideas. In short, artists are the *only* ones who see now what historians will see in time.
 
-Thanks to indie rock, no one today is trying to make superstars out of rock bands. Which means there's only one way left for any of us to make history: Earn the respect of our fellow *artists*. So BYCombo provides a forum for you and the other bands in your cohort to critique each other's works.
+Thanks to indie rock, no one today is trying to turn bands into superstars. Which means there's only one way left for any of us to make history: Earn the respect of our fellow *artists*. So BYCombo provides a forum for you and the other bands in your cohort to critique each other's works.
 
 ### Competitive self-reliance favors privilege
 
