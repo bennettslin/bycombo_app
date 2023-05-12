@@ -73,7 +73,7 @@ ${'  ' || `
 
 Indie rock requires artists to wear several hats: the marketer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from revelatory insights that can't be summoned at will.
 
-These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom— but this can't happen if you're always context switching— or worse, multitasking. So keep your artist hat on— and let a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
+These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking. So keep your artist hat on, and let a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
 ### The grassroots is now a lottery
 
@@ -89,7 +89,7 @@ ${'  ' || `
 // TODO: Third paragraph still needs work. Logic and flow.
 `}
 
-To vie for radio airplay in the 90s, alternative bands would craft solid hooks that could win over listeners who *weren't* initially rooting for them. As an unpopular child back then, I knew my only hope was to develop the same knack for writing songs with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). And so I studied these bands closely, dreaming that one day my own band could teach others.
+To vie for radio airplay in the 90s, alternative bands would craft solid hooks that could win over listeners who *weren't* initially rooting for them. As an unpopular child back then, I knew my only hope was to develop the same knack for crafting works with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). And so I studied these bands closely, dreaming that one day my own band could teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
@@ -100,7 +100,7 @@ Yet no one cares what a past critic thought, while nearly everyone loves a past 
 ### Creativity gets its chance from the clueless
 
 ${'  ' || `
-// TODO: Just one more final review.
+// TODO: Just one more final review. Make last sentence less wordy.
 `}
 
 Because the indie labels stay close to their local scenes, they're both "in the know" and "one of us." So whatever *they* like is what others like *us* have liked, which means it's the best of what *we'll* like… right? Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
