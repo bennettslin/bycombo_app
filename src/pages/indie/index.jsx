@@ -103,7 +103,7 @@ Because the indie labels stay close to their local scenes, they're both "in the 
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Which explains why history's most creative artists were often backed by those with *no* prior experience in the arts. Now with BYCombo, you can once again find partners who take pride in knowing how to do business— *not* in recognizing great art.
+Which explains why history's most creative artists were often backed by those with *no* prior experience in the arts. Now with BYCombo, you can once again find partners who know much about business— and little about art.
 
 ### Middle managers join the revolution last
 
@@ -119,7 +119,7 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go)— a world *without* superstars! So how will *any* indie artist make it into history? The gatekeepers have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who *isn't* rooting for the underdog to win?
+Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go)— a world *without* superstars! So how can *any* indie artist make it into history? The gatekeepers have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who *isn't* rooting for the underdog to win?
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
 
@@ -165,7 +165,7 @@ At the peak of my years working eighty-hour weeks— forty to earn a living, and
 
 There's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because indie rock can never admit the truth: Anything gained through self-reliance might just as well be won by chance or bought by privilege. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
-By contrast, in his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when an artist has a clear end goal; feels challenged at the right level; and receives continuous feedback, they become fully immersed in the act of creation— leading to long-term fulfillment. And this is why those sacrificed years were some of my happiest; I *wasn't* burnt out like my friend had feared.
+By contrast, in his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when an artist has a clear goal; feels adequately challenged; and receives guidance through feedback, they become fully immersed in the act of creation— and this leads to long-term fulfillment. Which is why those sacrificed years were some of my happiest; I *wasn't* burnt out like my friend had feared.
 
 So yes, BYCombo requires you to focus on your craft— but this isn't *just* to make your art better! It's also for your happiness, and the good of your soul.
 
