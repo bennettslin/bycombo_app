@@ -103,7 +103,7 @@ Because the indie gatekeepers stay close to their local scenes, they're both "in
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Which is why history's most creative artists were often backed by those with no prior experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. So BYCombo is here to help you find them.
+Which is why, throughout history, the most creative artists were backed by those with the *least* experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* how to spot great art. Now with BYCombo, you can once again find such partners to back you.
 
 ### Middle managers join the revolution last
 
