@@ -91,7 +91,7 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 
 Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works whose artistic elements *won't* win over a radio audience. Instead, discerning listeners would come to appreciate these works by understanding their [extrinsic context](https://genius.com/3669664). This context is provided by sympathetic critics, with whom the labels developed a symbiotic relationship that lives on to this day, even after radio's demise.
 
-Yet no one cares what a past critic thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. Let's face it: To be timeless, works must have *intrinsic* appeal. So BYCombo gives you all the time you need to craft them.
+Yet no one cares what a past critic thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: Timeless works have *intrinsic* appeal. So BYCombo gives you all the time you need to craft them.
 
 ### Creativity gets its chance from the clueless
 
@@ -99,11 +99,11 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-Because the indie labels stay close to their local scenes, they're both "in the know" and "one of us." So whatever *they* like is what others like *us* have liked, which means it's the best of what *we'll* like… right? Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+Because the indie gatekeepers stay close to their local scenes, they're both "in the know" and "one of us." So whatever *they* like is what others like *us* have liked, which means it's the best of what *we'll* like… right? Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Which explains why history's most creative artists were often backed by those with *no* prior experience in the arts. Now with BYCombo, you can once again find partners who know much about business— and little about art.
+Which is why history's most creative artists were often backed by those with no prior experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. So BYCombo is here to help you find them.
 
 ### Middle managers join the revolution last
 
@@ -119,13 +119,13 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go)— a world *without* superstars! So how can *any* indie artist make it into history? The gatekeepers have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who *isn't* rooting for the underdog to win?
+Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go)— an age *without* superstars! So how will *any* indie artist make it into history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who *isn't* rooting for the underdog to win?
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
 
-Because artists are invested in the creative process, we don't commit false positives like the critics do: We recognize when a critical darling's talents are nothing to envy. And unlike the indie labels, we don't commit false *negatives*: We understand the courage it takes to pursue unfamiliar ideas. In short, artists are the *only* ones who see now what historians will see in time.
+Because artists are invested in the creative process, we don't commit false positives like the critics do: We recognize when a critical darling's talents are nothing to envy. And we also don't commit false *negatives*: We'll give creative ideas a chance, knowing the courage it takes to propose them. In short, what historians will see in *time*… is what artists come closest to seeing *now*.
 
-Thanks to indie rock, no one today is hoping to turn bands into superstars. Which means there's only one way left for us to make rock history: Earn the respect of our fellow *artists*. So BYCombo provides a forum for you and the others in your cohort to critique each other's works.
+So forget the critics! To escape the long tail and make it into history, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of others who'll keep your standards high.
 
 ### Competitive self-reliance favors privilege
 
@@ -161,11 +161,11 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected a three. And so I cleared up the matter: The very reason I chose this unusual path was to *guarantee* my happiness.
+At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected a three. And so I cleared up the matter: The very reason I chose this riskier path was to *guarantee* my happiness.
 
-There's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because indie rock can never admit the truth: Anything gained through self-reliance might just as well be won by chance or bought by privilege. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
+In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when an artist has a clear goal; feels adequately challenged; and gets feedback to gauge their progress, they become fully immersed in the act of creation— which then leads to long-term fulfillment. And this is why my years of sacrifice were some of my happiest; I *wasn't* burnt out like my friend had feared.
 
-By contrast, in his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when an artist has a clear goal; feels adequately challenged; and receives guidance through feedback, they become fully immersed in the act of creation— and this leads to long-term fulfillment. Which is why those sacrificed years were some of my happiest; I *wasn't* burnt out like my friend had feared.
+Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because indie rock can never admit the truth: Anything gained through self-reliance might just as well be won by chance or bought by privilege. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
 So yes, BYCombo requires you to focus on your craft— but this isn't *just* to make your art better! It's also for your happiness, and the good of your soul.
 
