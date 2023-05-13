@@ -85,7 +85,7 @@ ${'  ' || `
 // TODO: Third paragraph still needs work. Logic and flow. Maybe first paragraph doesn't need to mention intrinsic appeal.
 `}
 
-In the 90s, alternative bands would craft radio-friendly hooks to win over listeners who *weren't* initially rooting for them. As an unpopular child who needed to win people over, I knew my only hope was to write music with the same [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). And so I studied these bands closely, dreaming that one day I could teach this skill to others.
+In the 90s, alternative bands would craft radio-friendly hooks to win over listeners who *weren't* initially rooting for them. As an unpopular child at the time, I knew my only hope was to write music with the same [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). And so I studied these bands closely, dreaming that one day I could teach this skill to others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
@@ -123,9 +123,9 @@ Most artists in the historical canon were superstars in their own day. But indie
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
 
-Because artists are invested in the creative process, we don't commit false positives like the critics do: We recognize when a critical darling's talents are nothing to envy. And unlike the indie labels, we don't commit false *negatives* either: We understand the courage it takes to pursue unfamiliar ideas. In short, artists are the *only* ones who see now what historians will see in time.
+Because artists are invested in the creative process, we don't commit false positives like the critics do: We recognize when a critical darling's talents are nothing to envy. And unlike the indie labels, we don't commit false *negatives*: We understand the courage it takes to pursue unfamiliar ideas. In short, artists are the *only* ones who see now what historians will see in time.
 
-Thanks to indie rock, no one today is trying to turn bands into superstars. Which means there's only one way left for us to make rock history: Earn the respect of our fellow *artists*. So BYCombo provides a forum for you and the other bands in your cohort to critique each other's works.
+Thanks to indie rock, no one today is hoping to turn bands into superstars. Which means there's only one way left for us to make rock history: Earn the respect of our fellow *artists*. So BYCombo provides a forum for you and the others in your cohort to critique each other's works.
 
 ### Competitive self-reliance favors privilege
 
@@ -157,11 +157,15 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### Happiness flows from the act of creation
 
-At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
+${'  ' || `
+// TODO: Just one more final review.
+`}
 
-In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when an artist feels challenged at just the right level while receiving continuous feedback, they become fully immersed in the act of creation— which then leads to personal fulfillment. This is why those sacrificed years were some of the happiest of my life; I *wasn't* burnt out like my friend had feared.
+At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected a three. And so I cleared up the matter: The very reason I chose this unusual path was to *guarantee* my happiness.
 
-Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because indie rock can never admit the truth: Anything gained through self-reliance might just as well be won by chance, or bought by privilege. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
+There's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because indie rock can never admit the truth: Anything gained through self-reliance might just as well be won by chance or bought by privilege. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
+
+By contrast, in his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when an artist has a clear end goal; feels challenged at the right level; and receives continuous feedback, they become fully immersed in the act of creation— leading to long-term fulfillment. And this is why those sacrificed years were some of my happiest; I *wasn't* burnt out like my friend had feared.
 
 So yes, BYCombo requires you to focus on your craft— but this isn't *just* to make your art better! It's also for your happiness, and the good of your soul.
 
