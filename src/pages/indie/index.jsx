@@ -85,11 +85,11 @@ ${'  ' || `
 // TODO: Just review a few times now.
 `}
 
-To get radio airplay in the 90s, alternative bands needed to win over listeners who *weren't* initially rooting for them— and they'd do so by crafting solid hooks with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child back then, I knew my only hope was to develop a knack for this myself. So I studied these bands closely, dreaming that one day I could teach others.
+To get radio airplay in the 90s, alternative bands needed to win over listeners who *weren't* initially rooting for them— and would do so by crafting hooks with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child back then, I knew my only hope was to develop a knack for this myself. So I studied these bands closely, dreaming that one day I could teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to listen for works that rely on [*extrinsic* context](https://genius.com/3669664)— the kind that sympathetic critics provide. And their symbiotic relationship lives on to this day, which is why these labels *still* favor critical darlings who *don't* bother with crafting hooks— even after radio's demise.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to listen for works that rely on [*extrinsic* context](https://genius.com/3669664)— the kind that sympathetic critics provide. And this symbiotic relationship lives on today— which is why these labels *still* prefer to sign critical darlings who *don't* bother with crafting hooks, even after radio's demise.
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: Timeless works hook the listener in with *intrinsic* appeal. So BYCombo gives you all the time you need to craft them.
 
