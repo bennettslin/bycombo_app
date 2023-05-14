@@ -85,7 +85,7 @@ ${'  ' || `
 // TODO: Just review a few times now.
 `}
 
-To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* initially rooting for them— and they'd do so by crafting hooks with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child back then, I knew my only hope was to develop a knack for this myself. So I studied these bands closely, dreaming that one day I could teach others.
+To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* initially rooting for them— and the best would do so by crafting hooks with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child back then, I knew my only hope was to develop a talent for this myself. So I studied these bands closely, dreaming that one day I could teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
