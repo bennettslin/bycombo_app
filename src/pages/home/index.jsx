@@ -61,7 +61,7 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 
 But if we can't resist… let's revolt! By some miracle, Gen Z sees what the *older* generations see: Indie rock is today's hair metal— so the *next* revolution will be their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the rock market.
 
-These "Dr. Dres of rock" would love to discover bands who'll promise to make the best art— but how can they find one another, given the multitude of artists coming in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
+These "Dr. Dres of rock" would love to discover bands who'll promise to make the best art— but how can they find one another, given the sheer number of artists coming in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
 
 **Interdependent bands can now earn the listener's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
