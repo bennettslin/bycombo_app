@@ -89,7 +89,7 @@ To get radio airplay in the 90s, alternative bands had to win over listeners who
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to listen for works that rely on [*extrinsic* context](https://genius.com/3669664)— the kind that sympathetic critics provide. And this symbiotic relationship lives on today, which is why these labels *still* prefer to sign a critical darling who *doesn't* bother with crafting hooks— even after radio's demise.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works that rely on [*extrinsic* context](https://youtu.be/1VVj1zqbWpU) to be appreciated. And these works are loved most by critics, who alone provide this context to the public— making this strategy a guaranteed success. So even today with radio in decline, the indie labels *still* prefer a critical darling with no hooks.
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: Timeless works hook the listener in with *intrinsic* appeal. So BYCombo gives you all the time you need to craft them.
 
