@@ -63,35 +63,13 @@ In the past, we of the English-speaking world rightfully claimed ours to be *the
 
 Happily enough, building a fanbase yields compounded returns, since each fan brings in more fans. But not only that, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to!
 
-What happens if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the costs, and the math is clear: They'll end up the biggest loser. No wonder we lost the canon! But with BYCombo, you can now go above and beyond to win it back.
+What happens if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the costs, and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! But with BYCombo, you can now go above and beyond to win it back.
 
 ### Revelations reward the idle mind
 
 Indie rock requires artists to wear several hats: the marketer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from revelatory insights that can't be summoned at will.
 
 Such insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking. So keep your artist hat on, and let a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
-
-### The grassroots is now a lottery
-
-We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, these bands were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
-
-In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
-
-Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
-
-### Timeless art has intrinsic appeal
-
-${'  ' || `
-// TODO: Just review a few times now.
-`}
-
-To get radio airplay in the 90s, alternative bands needed to win over listeners who *weren't* initially rooting for them— and would do so by crafting hooks with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child back then, I knew my only hope was to develop a knack for this myself. So I studied these bands closely, dreaming that one day I could teach others.
-
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
-
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to listen for works that rely on [*extrinsic* context](https://genius.com/3669664)— the kind that sympathetic critics provide. And this symbiotic relationship lives on today— which is why these labels *still* prefer to sign critical darlings who *don't* bother with crafting hooks, even after radio's demise.
-
-Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: Timeless works hook the listener in with *intrinsic* appeal. So BYCombo gives you all the time you need to craft them.
 
 ### Creativity gets its chance from the clueless
 
@@ -100,6 +78,28 @@ Because the indie gatekeepers stay close to their local scenes, they're both "in
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
 Which is why, throughout history, the most creative artists were backed by those with the *least* experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can once again find such partners to back you.
+
+### Timeless art has intrinsic appeal
+
+${'  ' || `
+// TODO: Just review a few times now.
+`}
+
+To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* initially rooting for them— and they'd do so by crafting hooks with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child back then, I knew my only hope was to develop a knack for this myself. So I studied these bands closely, dreaming that one day I could teach others.
+
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
+
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to listen for works that rely on [*extrinsic* context](https://genius.com/3669664)— the kind that sympathetic critics provide. And this symbiotic relationship lives on today— which is why these labels *still* prefer to sign critical darlings who *don't* bother with crafting hooks, even after radio's demise.
+
+Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: Timeless works hook the listener in with *intrinsic* appeal. So BYCombo gives you all the time you need to craft them.
+
+### The grassroots is now a lottery
+
+We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, these bands were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+
+In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
+
+Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
 
 ### Middle managers join the revolution last
 
