@@ -82,16 +82,16 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 ### Timeless art has intrinsic appeal
 
 ${'  ' || `
-// TODO: Third paragraph still needs work. Logic and flow. Maybe first paragraph doesn't need to mention intrinsic appeal.
+// TODO: Keep reviewing now. Two "which"s in a row in third paragraph.
 `}
 
-In the 90s, alternative bands would craft radio-friendly hooks to win over listeners who *weren't* initially rooting for them. As an unpopular child at the time, I knew my only hope was to write music with the same [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). And so I studied these bands closely, dreaming that one day I could teach this skill to others.
+To get radio airplay in the 90s, alternative bands needed to win over listeners who *weren't* initially rooting for them; as such, the best of them had a knack for crafting solid hooks with [intrinsic appeal](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child at the time, I knew my only hope was to develop this talent myself. And so I studied these bands closely, dreaming that one day I could teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works whose artistic elements *won't* win over a radio audience. Instead, discerning listeners would come to appreciate these works by understanding their [extrinsic context](https://genius.com/3669664). This context is provided by sympathetic critics, with whom the labels developed a symbiotic relationship that lives on to this day, even after radio's demise.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works that rely on [*extrinsic* context](https://genius.com/3669664), which they'd then count on sympathetic critics to provide. And this symbiotic relationship lives on to this day— which is why these labels continue to sign critical darlings with little mainstream appeal, even after radio's demise.
 
-Yet no one cares what a past critic thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: Timeless works have *intrinsic* appeal. So BYCombo gives you all the time you need to craft them.
+Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: Timeless works have *intrinsic* appeal. So BYCombo gives you all the time you need to craft them.
 
 ### Creativity gets its chance from the clueless
 
