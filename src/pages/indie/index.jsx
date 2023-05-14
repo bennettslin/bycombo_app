@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The problem with indie rock
 
-By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana and Radiohead, and then the rest were written off as failed bets. But the indie labels held to fair standards that promised *all* their bands a working future. A decade later, the majors imploded— so indie rock won! Except now…
+By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana and Radiohead, and then they wrote off the rest as failed bets. But the indie labels held to fair standards that promised *all* their bands a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -89,7 +89,7 @@ To get radio airplay in the 90s, alternative bands had to win over listeners who
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to listen for works that rely on [*extrinsic* context](https://genius.com/3669664)— the kind that sympathetic critics provide. And this symbiotic relationship lives on today— which is why these labels *still* prefer to sign critical darlings who *don't* bother with crafting hooks, even after radio's demise.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to listen for works that rely on [*extrinsic* context](https://genius.com/3669664)— the kind that sympathetic critics provide. And this symbiotic relationship lives on today, which is why these labels *still* prefer to sign a critical darling who *doesn't* bother with crafting hooks— even after radio's demise.
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: Timeless works hook the listener in with *intrinsic* appeal. So BYCombo gives you all the time you need to craft them.
 
@@ -159,7 +159,7 @@ So yes, BYCombo requires you to focus on your craft— but this isn't *just* to 
 
 ### Art needs the passion of martyrs
 
-"Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its Nirvana. Why is that?
+"Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its Nirvana. Why is this?
 
 It's because we really only pine for past artists who self-sacrificed for art's sake. But since indie rock is here to *save* artists from exploitation, it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-sacrifice for *anyone*, because to do so is a classic sign of being exploited.
 
