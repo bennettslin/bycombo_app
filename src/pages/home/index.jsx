@@ -45,10 +45,6 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 
 ### Who gatekeeps the gatekeepers?
 
-${'  ' || `
-// TODO: Elaborate on the difference between underdogs and outsiders?
-`}
-
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work uniform and bite-sized. And so they largely ignored my demo, as it wasn't in a format they expected.
 
 It's worse than just that, however. Sheer talent and creative invention may be the outsider's strengths, but they're the underdog's weaknesses. So by reflex, indie rock *rejects* them. This is why it prizes works admired by critics, who root for underdogs— but *not* those [envied by other artists](/indie#history-happens-by-peer-review), who *don't*; and why it disputes the studies that say we're all [biased *against* creativity](/indie#creativity-gets-its-chance-from-the-clueless).
