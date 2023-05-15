@@ -79,19 +79,19 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corpora
 
 Which is why, throughout history, the most creative artists were backed by those with the *least* experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can once again find such partners to back you.
 
-### Timeless art has intrinsic appeal
+### Timeless music has intrinsic appeal
 
 ${'  ' || `
-// TODO: Just review a few times now.
+// TODO: Just review a few more times now.
 `}
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child at the time, I knew my only hope was to develop such talents myself. So I studied these bands closely, dreaming that one day I could teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works that rely on [*extrinsic* context](https://youtu.be/1VVj1zqbWpU) to be appreciated— a strategy guaranteed to win over the critics, who alone provide this context to the public. So even today with radio in decline, the indie labels will *always* pick the critical darling with no hooks.
+Because the indie labels always lost those radio-friendly bands to the majors, they listened for works that rely on [*extra*-musical context](https://youtu.be/1VVj1zqbWpU) to be appreciated— a strategy guaranteed to win over critics, who alone provide this context to the public. So even today with radio in decline, an acclaimed indie artist is one whom many critics admire, but few musicians study.
 
-Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: Timeless works have *intrinsic* appeal. So BYCombo gives you all the time you need to craft your best hooks.
+Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music *must* hook the listener in on its own. So BYCombo gives you all the time you need.
 
 ### The grassroots is now a lottery
 
