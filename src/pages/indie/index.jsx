@@ -90,7 +90,7 @@ Naturally, bands who prefer the deterministic path can't compete like this. Yet 
 ### Timeless music has intrinsic appeal
 
 ${'  ' || `
-// TODO: Just review a few more times now.
+// TODO: Just one more final review.
 `}
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child at the time, I knew my only hope was to develop such a talent myself. So I studied these bands closely, dreaming that one day I could teach others.
@@ -113,9 +113,9 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 
 Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go)— an age *without* superstars! So how will *any* indie artist make it into history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who isn't rooting for the underdog to win?
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting history makers: They never consider how an artist looks to *other* artists.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why critics are so bad at spotting history makers: They never consider how an artist looks to *other* artists.
 
-Because artists are invested in the creative process, we don't commit false positives like the critics do: We recognize when a critical darling's talents are nothing to envy. And we also don't commit false *negatives*: We'll give creative ideas a chance, knowing the courage it takes to propose them. In short, what historians will see in *time*… artists come closest to seeing *now*.
+Because artists are invested in the creative process, we don't commit false positives like the critics do: We recognize when a critical darling's talents are nothing to envy. And we also don't commit [false *negatives*](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad): We'll give creative ideas a chance, knowing the courage it takes to propose them. In short, what historians will see in *time*… artists come closest to seeing *now*.
 
 So forget the critics! To escape the long tail and make it into history, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of others who'll keep your standards high.
 
