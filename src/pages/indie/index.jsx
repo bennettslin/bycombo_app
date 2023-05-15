@@ -79,27 +79,27 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corpora
 
 Which is why, throughout history, the most creative artists were backed by those with the *least* experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can once again find such partners to back you.
 
+### The grassroots is now a lottery
+
+We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+
+In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
+
+Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
+
 ### Timeless music has intrinsic appeal
 
 ${'  ' || `
 // TODO: Just review a few more times now.
 `}
 
-To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child at the time, I knew my only hope was to develop such talents myself. So I studied these bands closely, dreaming that one day I could teach others.
+To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child at the time, I knew my only hope was to develop such a talent myself. So I studied these bands closely, dreaming that one day I could teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they listened for works that rely on [*extra*-musical context](https://youtu.be/1VVj1zqbWpU) to be appreciated— a strategy guaranteed to win over critics, who alone provide this context to the public. So even today with radio in decline, an acclaimed indie artist is one whom many critics admire, but few musicians study.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works that rely on *extrinsic* context to be appreciated— a strategy guaranteed to win over the critics, who alone provide this context to the public. So even today with radio in decline, the indie labels look for an artist whom many critics will admire— but few musicians will study.
 
-Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music *must* hook the listener in on its own. So BYCombo gives you all the time you need.
-
-### The grassroots is now a lottery
-
-We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, these bands were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
-
-In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
-
-Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
+Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music must hook the listener in on its *own*. So BYCombo gives you all the time you need.
 
 ### Middle managers join the revolution last
 
@@ -126,6 +126,12 @@ To promote self-reliance, indie rock requires artists to do the middleman's job 
 The problem is that indie rock enjoys the goodwill generated by artistic movements of *cooperative* self-reliance, like the Maker Faire, that are united by love of the *craft*. But indie rock is really about *competitive* self-reliance, like libertarianism in politics; it's grounded in excitement for the *hustle*. And nothing makes the hustle easier— and thus more exciting— than privilege.
 
 There's nothing wrong with indie rock's artistic libertarianism— but it's a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to just suck it up and try harder. Now with BYCombo, there's an opposition party that advocates for the interdependence you want, out of respect for your craft.
+
+${'  ' || `
+// TODO: ### Cultures of grievance descend into stupidity
+
+Indie rock is the MAGA of the music world.
+`}
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
