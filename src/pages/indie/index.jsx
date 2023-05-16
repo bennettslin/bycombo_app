@@ -57,20 +57,6 @@ To save rock, then, a centralized initiative like BYCombo must now step up to en
 
 Here's an incomplete list of ways…
 
-${'  ' || `
-// TODO: Just review a few more times. First paragraph's they is clear? Is going viral the new grassroots?
-
-### Cultures of grievance descend in ignorance
-
-In the 90s, "indie" referred to bands like Pavement, who *didn't* sign to a major label. So every Gen Xer knows that Nirvana and Radiohead *aren't* indie. But to the younger generations, they *sound* indie— so they might as *well* be. Why the mix-up?
-
-It's because indie rock doesn't know what it stands *for*, only whom it stands *against*: namely, the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance. Unfortunately, this also means it has a high tolerance for ignorance. After all, who cares if those around you are ignorant, as long as their ignorance hurts your common enemy?
-
-For example, even once [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) made it clear that the Internet caters to the lowest common denominator, indie rock concluded that going viral is the [new grassroots](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah). Or when Radiohead and Amanda Palmer crowdfunded their own works, indie rock saw this as proof that artists *don't* need a label deal.
-
-These views were ignorant even back then, yet smart people stood by and said nothing— and now *we're* the ones being hurt! So yes, the major labels got many things wrong. But how did they get Nirvana and Radiohead *right*? With BYCombo, you can finally join a movement that nurses no grievances— and is thus willing to ask.
-`}
-
 ### The opportunity cost is too damn high
 
 In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today, indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they? It's because they're required to build a fanbase on their own.
