@@ -57,19 +57,19 @@ To save rock, then, a centralized initiative like BYCombo must now step up to en
 
 Here's an incomplete list of ways…
 
-### Cultures of grievance wallow in ignorance
-
 ${'  ' || `
-// TODO: Just review a few more times.
+// TODO: Just review a few more times. First paragraph's they is clear? Is going viral the new grassroots?
+
+### Cultures of grievance descend in ignorance
+
+In the 90s, "indie" referred to bands like Pavement, who *didn't* sign to a major label. So every Gen Xer knows that Nirvana and Radiohead *aren't* indie. But to the younger generations, they *sound* indie— so they might as *well* be. Why the mix-up?
+
+It's because indie rock doesn't know what it stands *for*, only whom it stands *against*: namely, the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance. Unfortunately, this also means it has a high tolerance for ignorance. After all, who cares if those around you are ignorant, as long as their ignorance hurts your common enemy?
+
+For example, even once [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) made it clear that the Internet caters to the lowest common denominator, indie rock concluded that going viral is the [new grassroots](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah). Or when Radiohead and Amanda Palmer crowdfunded their own works, indie rock saw this as proof that artists *don't* need a label deal.
+
+These views were ignorant even back then, yet smart people stood by and said nothing— and now *we're* the ones being hurt! So yes, the major labels got many things wrong. But how did they get Nirvana and Radiohead *right*? With BYCombo, you can finally join a movement that nurses no grievances— and is thus willing to ask.
 `}
-
-Any Gen Xer can tell you that Nirvana and Radiohead *aren't* indie— a term reserved in the 90s for bands like Pavement, who *didn't* sign to a major label. But to younger generations, they *sound* indie— so they might as *well* be. This confusion doesn't happen in metal. Why is it unique to indie rock?
-
-It's because indie rock doesn't know what it stands *for*, only whom it stands *against*: namely, major labels and the middleman. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— which means it has a high tolerance for ignorance. After all, who cares if those around you are ignorant, when this is what gets them to lash out against your common enemy?
-
-So for example, even once [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) made it clear that the Internet caters to the lowest common denominator, indie rock concluded that virality is the [new grassroots](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah). And when Radiohead and Amanda Palmer crowdfunded their own works, indie rock saw this as proof that artists *don't* need a label deal. These are ignorant views— and today, they're only hurting *us*.
-
-Yes, the major labels and middlemen got many things wrong. But to save rock, we must let go of our grievances and ask: How did they get Nirvana and Radiohead *right*? And with BYCombo, you can now act upon the answer.
 
 ### The opportunity cost is too damn high
 
@@ -102,10 +102,6 @@ In those days, lottery players had no patience for the grassroots; they'd sign l
 Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
 
 ### Timeless music has intrinsic appeal
-
-${'  ' || `
-// TODO: Just one more final review.
-`}
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child at the time, I knew my only hope was to develop such a talent myself. So I studied these bands closely, dreaming that one day I could teach others.
 
