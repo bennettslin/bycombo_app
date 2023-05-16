@@ -9,7 +9,7 @@ const Component = () => (
 
 By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana or Radiohead— and then wrote off the rest as failed bets. By contrast, the indie labels held to fair standards that promised *all* their bands a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* a Nirvana of their own. So the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
 There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life coming up with a plan:
 
@@ -57,6 +57,20 @@ To save rock, then, a centralized initiative like BYCombo must now step up to en
 
 Here's an incomplete list of ways…
 
+### Cultures of grievance wallow in ignorance
+
+${'  ' || `
+// TODO: Just review a few more times.
+`}
+
+Any Gen Xer can tell you that Nirvana and Radiohead *aren't* indie— a term reserved in the 90s for bands like Pavement, who *didn't* sign to a major label. But to younger generations, they *sound* indie— so they might as *well* be. This confusion doesn't happen in metal. Why is it unique to indie rock?
+
+It's because indie rock doesn't know what it stands *for*, only whom it stands *against*: namely, major labels and the middleman. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and such cultures have a high tolerance for ignorance. After all, who cares if those around you are ignorant, when this is what gets them to lash out against your common enemy?
+
+So for example, even once [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) made it clear that the Internet caters to the lowest common denominator, indie rock concluded that virality is the [new grassroots](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah). And when Radiohead and Amanda Palmer crowdfunded their own works, indie rock saw this as proof that artists *don't* need a label deal. These are ignorant views— and today, they're only hurting *us*.
+
+Yes, the major labels and middlemen got many things wrong. But to save rock, we must let go of our grievances and ask: How did they get Nirvana and Radiohead *right*? And with BYCombo, you can now act upon the answer.
+
 ### The opportunity cost is too damn high
 
 In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today, indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they? It's because they're required to build a fanbase on their own.
@@ -97,9 +111,9 @@ To get radio airplay in the 90s, alternative bands had to win over listeners who
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works that rely on *extrinsic* context to be appreciated— a strategy guaranteed to win over the critics, who alone provide this context to the public. So even today with radio in decline, the indie labels look for an artist whom many critics will admire— but few musicians will study.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works that rely on *extrinsic* context to be appreciated— a strategy guaranteed to win over the critics, who alone provide this context to the public. So even today with radio in decline, the indie labels look for the artist whom many critics will admire— but few musicians will study.
 
-Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music must hook the listener in on its *own*. So BYCombo gives you all the time you need.
+Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need.
 
 ### Middle managers join the revolution last
 
@@ -126,12 +140,6 @@ To promote self-reliance, indie rock requires artists to do the middleman's job 
 The problem is that indie rock enjoys the goodwill generated by artistic movements of *cooperative* self-reliance, like the Maker Faire, that are united by love of the *craft*. But indie rock is really about *competitive* self-reliance, like libertarianism in politics; it's grounded in excitement for the *hustle*. And nothing makes the hustle easier— and thus more exciting— than privilege.
 
 There's nothing wrong with indie rock's artistic libertarianism— but it's a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to just suck it up and try harder. Now with BYCombo, there's an opposition party that advocates for the interdependence you want, out of respect for your craft.
-
-${'  ' || `
-// TODO: ### Cultures of grievance descend into stupidity
-
-Indie rock is the MAGA of the music world.
-`}
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
