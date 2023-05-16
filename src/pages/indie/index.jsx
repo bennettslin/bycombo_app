@@ -65,7 +65,7 @@ ${'  ' || `
 
 Any Gen Xer can tell you that Nirvana and Radiohead *aren't* indie— a term reserved in the 90s for bands like Pavement, who *didn't* sign to a major label. But to younger generations, they *sound* indie— so they might as *well* be. This confusion doesn't happen in metal. Why is it unique to indie rock?
 
-It's because indie rock doesn't know what it stands *for*, only whom it stands *against*: namely, major labels and the middleman. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and such cultures have a high tolerance for ignorance. After all, who cares if those around you are ignorant, when this is what gets them to lash out against your common enemy?
+It's because indie rock doesn't know what it stands *for*, only whom it stands *against*: namely, major labels and the middleman. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— which means it has a high tolerance for ignorance. After all, who cares if those around you are ignorant, when this is what gets them to lash out against your common enemy?
 
 So for example, even once [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) made it clear that the Internet caters to the lowest common denominator, indie rock concluded that virality is the [new grassroots](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah). And when Radiohead and Amanda Palmer crowdfunded their own works, indie rock saw this as proof that artists *don't* need a label deal. These are ignorant views— and today, they're only hurting *us*.
 
@@ -111,7 +111,7 @@ To get radio airplay in the 90s, alternative bands had to win over listeners who
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works that rely on *extrinsic* context to be appreciated— a strategy guaranteed to win over the critics, who alone provide this context to the public. So even today with radio in decline, the indie labels look for the artist whom many critics will admire— but few musicians will study.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works that rely on *extrinsic* context to be appreciated— a strategy guaranteed to win over the critics, who alone provide this context to the public. So even today with radio in decline, the indie labels look for an artist whom many critics will admire— but few musicians will study.
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need.
 
