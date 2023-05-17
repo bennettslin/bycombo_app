@@ -35,25 +35,45 @@ By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then m
 
 ### Return of the rock martyrs
 
-And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, *all* art is now subjective; talent predicts nothing. This means an indie label's *only* trusted measure is the objective size of an artist's fanbase. Good grief… Can rock be saved?
+${'  ' || `
+// TODO: A better way to say Can rock be saved?
+`}
+
+And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, *all* art is now subjective; talent predicts nothing. This means an indie label's *only* trusted measure is the objective size of an artist's fanbase. Good grief… Can this be fixed?
 
 Yes! See, indie rock has a glaring weakness. It doesn't *actually* separate the best artists from the worst; it picks "serious" artists over "casual" ones, in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will *force* us to dismiss all our best artists as hobbyists! Here's how it works:
 
-**To save rock, self-sacrificing bands must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and that couldn't have been made for *any* less effort.**
+**To revive interdependence, bands must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and that couldn't have been made for *any* less effort.**
 
 But who'd volunteer to be the first of these new martyrs? A hungry outsider, that's who! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And, of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
 
 ### Who gatekeeps the gatekeepers?
 
+${'  ' || `
+// TODO: Begin revising to be more about underdogs vs. outsiders.
+
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work uniform and bite-sized. And so they largely ignored my demo, as it wasn't in a format they expected.
 
-It's worse than just that, however. Sheer talent and creative invention may be the outsider's strengths, but they're the underdog's weaknesses. So by reflex, indie rock *rejects* them. This is why it prizes works admired by critics, who root for underdogs— but *not* those [envied by other artists](/indie#history-happens-by-peer-review), who *don't*; and why it disputes the studies that say we're all [biased *against* creativity](/indie#creativity-gets-its-chance-from-the-clueless).
+This is why it prizes works admired by critics, who root for underdogs— but *not* those [envied by other artists](/indie#history-happens-by-peer-review), who *don't*; and why it disputes the studies that say we're all [biased *against* creativity](/indie#creativity-gets-its-chance-from-the-clueless).
 
-The indie gatekeepers also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for [only helping themselves](/indie#art-needs-the-passion-of-martyrs)! And this is how I learned the hard way:
+The indie gatekeepers also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for [only helping themselves](/indie#art-needs-the-passion-of-martyrs)! 
+`}
 
-**A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock *isn't* simply waiting for hungry outsiders to show up offering better art. It's actively shutting them out!**
+Well… not so fast. Indie rock assumes that underdogs and outsiders are ultimately the same. Help the ones you're rooting for overcome their disadvantage, and you'll lift up the rest. But the outsider's strategy is to work harder to be better than the underdog, to compensate for *not* being the one you're rooting for. Which means they're actually the underdog's number one threat!
 
-Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! Here, then, is the heart of the problem:
+So indie rock's instincts to protect the underdog invariably hurt the outsider.
+So the indie gatekeepers embrace an aesthetic sensibility that turns the outsider's strengths, well-crafted hooks and creative invention, into weaknesses.
+
+Meanwhile, they double down on the outsider's true weakness: It isn't humanly possible to work harder to be better without also needing to be interdependent. And so 
+And so I learned the hard way:
+
+${'  ' || `
+// TODO: Talk about interdependence here.
+`}
+
+**A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock *isn't* simply waiting for hungry outsiders with better art to show up. It's actively shutting them out!**
+
+Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! And this is really the heart of the problem:
 
 **As the first rock movement to believe its ideals to be universal, indie rock is also the first to lock down its rules for good. As such, there's no historical precedent to show us how to resist— or even to assure us that we *can*.**
 
