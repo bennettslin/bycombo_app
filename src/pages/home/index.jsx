@@ -35,11 +35,7 @@ By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then m
 
 ### Return of the rock martyrs
 
-${'  ' || `
-// TODO: A better way to say Can rock be saved?
-`}
-
-And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, *all* art is now subjective; talent predicts nothing. This means an indie label's *only* trusted measure is the objective size of an artist's fanbase. Good grief… Can this be fixed?
+And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, *all* art is now subjective; talent predicts nothing. This means an indie label's *only* trusted measure is the objective size of an artist's fanbase. Good grief… Can this mess be fixed?
 
 Yes! See, indie rock has a glaring weakness. It doesn't *actually* separate the best artists from the worst; it picks "serious" artists over "casual" ones, in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will *force* us to dismiss all our best artists as hobbyists! Here's how it works:
 
@@ -50,14 +46,14 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 ### Who gatekeeps the gatekeepers?
 
 ${'  ' || `
-// TODO: Begin revising to be more about underdogs vs. outsiders. Then review this entire section.
+// TODO: Keep working on underdogs vs. outsiders. Then review this entire section.
 
 Well… not so fast. As barriers to entry are lowered, the applicant pool gets flooded, overwhelming the indie labels and other gatekeepers. This makes them insist all the more firmly that artists use indie rock's tools, which serve to keep every work uniform and bite-sized. And so they largely ignored my demo, as it wasn't in a format they expected.
 
 The indie gatekeepers also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider, since underdogs are *loved* for [only helping themselves](/indie#art-needs-the-passion-of-martyrs)! 
 `}
 
-Well… not so fast. Indie rock's core assumption is that every artist faces the same disadvantages. So if you lower the barriers for those you're rooting for, you'll still lift up the rest. But the outsider's disadvantages *aren't* the same. To compensate for *not* being whom you're rooting for, they have to work harder, to be better— which makes them the underdog's number one threat!
+Well… not so fast. Indie rock's basic assumption is that all artists face the same disadvantages. So if you just lower the barriers for the ones you want, you'll still help the rest. But the outsider's disadvantages *aren't* the same. To make up for *not* being the one you want, they have to work so much harder, to be that much better— which makes them the underdog's biggest threat!
 
 To protect the underdog, then, indie rock devalues the objective strengths of any artist who might compete against them. This is why the indie gatekeepers embrace an aesthetic sensibility that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal). And it's also why they ignore the studies that say we're all [biased *against* creativity](/indie#creativity-gets-its-chance-from-the-clueless).
 
