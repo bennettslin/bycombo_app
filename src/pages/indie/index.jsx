@@ -71,14 +71,6 @@ Indie rock requires artists to wear several hats: the marketer hat, the publicis
 
 Such insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking. So keep your artist hat on, and let a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
-### Creativity gets its chance from the clueless
-
-Because the indie gatekeepers stay close to their local scenes, they're both "in the know" and "one of us." So whatever *they* like is what others like *us* have liked, which means it's the best of what *we'll* like… right? Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
-
-Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
-
-Which is why, throughout history, the most creative artists were backed by those with the *least* experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can once again find such partners to back you.
-
 ### The grassroots is now a lottery
 
 We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
@@ -97,6 +89,14 @@ Because the indie labels always lost those radio-friendly bands to the majors, t
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need.
 
+### Creativity gets its chance from the clueless
+
+Because the indie gatekeepers stay close to their local scenes, they're both "in the know" and "one of us." So whatever *they* like is what others like *us* have liked, which means it's the best of what *we'll* like… right? Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+
+Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
+
+Which is why, throughout history, the most creative artists were backed by those with the *least* experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can once again find such partners to back you.
+
 ### Middle managers join the revolution last
 
 In his book [*Originals*](https://www.goodreads.com/book/show/33826583), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk averse. And who are these risk-averse middle managers in *rock*? The indie labels.
@@ -111,7 +111,7 @@ Most artists in the historical canon were superstars in their own day. But indie
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why critics are so bad at spotting history makers: They never consider how an artist looks to *other* artists.
 
-Because artists are invested in the creative process, we don't commit false positives like the critics do: We recognize when a critical darling's talents are nothing to envy. And we also don't commit [false *negatives*](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad): We'll give creative ideas a chance, knowing the courage it takes to propose them. In short, what historians will see in *time*… artists come closest to seeing *now*.
+Because we're invested in the creative process ourselves, we don't commit false positives like critics do: We know when a critical darling's talents are nothing to envy. And we also don't commit [false *negatives*](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad): We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In short, what historians will see in *time*… artists come closest to seeing *now*.
 
 So forget the critics! To escape the long tail and make it into history, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of others who'll keep your standards high.
 
