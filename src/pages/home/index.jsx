@@ -48,14 +48,16 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 ${'  ' || `
 // TODO: Keep working on underdogs vs. outsiders. Then review this entire section.
 
+Second paragraph. Indie rock's attempts to protect the underdog, then, amount to neutralizing the kind of objective strengths.
+
 Work on third paragraph. Mention rules.
 `}
 
-Well… not so fast. Indie rock's basic assumption is that all artists face the same disadvantages. So if you just lower the barriers for the ones you want, you'll still help the rest. But the outsider's disadvantages *aren't* the same: To make up for *not* being the one you want, they have to work much harder, to become much better. Which means they're the underdog's biggest threat!
+Well… not so fast. Indie rock's basic assumption is that all artists struggle in the same way. So if you just help the ones you want, you'll still clear a path for the rest! But… the outsider's struggles *aren't* the same. To compensate for *not* being the one you want, they have to work that much harder, to be that much better. And this makes them the underdog's biggest threat!
 
-To protect the underdog, then, indie rock devalues the kind of objective strengths that an "Eminem of rock" would try to cultivate. This is why its gatekeepers favor music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), for example, and why they've never examined their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+To protect the underdog, then, indie rock devalues the kind of objective strengths that an "Eminem of rock" would try to cultivate. This is why its gatekeepers favor music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and it's also why they've never examined their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
-Meanwhile, the outsider has one weakness: It isn't humanly possible to work much harder, to become much better— without *also* relying on others. So *this* explains indie rock's failure to reap the benefits of interdependence: It *isn't* some weird fluke— it's to give the underdog an unfair advantage! Which is how I learned the hard way:
+Meanwhile, the outsider has one weakness: It isn't humanly possible to work much harder, to be much better— without *also* relying on others. So *this* explains indie rock's failure to reap the benefits of interdependence: It *isn't* some weird fluke— it's to give the underdog an unfair advantage! Which is how I learned the hard way:
 
 **A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock *isn't* just waiting for outsiders to show up with better art. It's actively shutting them out!**
 
