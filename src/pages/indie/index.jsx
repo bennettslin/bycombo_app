@@ -85,7 +85,7 @@ To get radio airplay in the 90s, alternative bands had to win over listeners who
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game *[Bobtail Dominoes](https://www.bobtaildominoes.com)*. But the labels weren't interested… and then I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works that rely on *extrinsic* context to be appreciated— a strategy guaranteed to win over the critics, who alone provide this context to the public. So even today with radio in decline, the indie labels look for an artist whom many critics will admire— but few musicians will study.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works that rely on *extrinsic* context to be appreciated— a strategy guaranteed to win over the critics, who alone provide this context to the public. So even today with radio in decline, the indie labels look for an artist whom many critics can admire— but few musicians will study.
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need.
 
@@ -109,9 +109,9 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 
 Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go)— an age *without* superstars! So how will *any* indie artist make it into history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who isn't rooting for the underdog to win?
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why critics are so bad at spotting history makers: They never consider how an artist looks to *other* artists.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at spotting the future: They never consider how an artist looks to *other* artists.
 
-Because we're invested in the creative process ourselves, we don't commit false positives like critics do: We know when a critical darling's talents are nothing to envy. And we also don't commit [false *negatives*](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad): We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In short, what historians will see in *time*… artists come closest to seeing *now*.
+Because we're invested in the creative process ourselves, we don't commit false positives like critics do: We know when a critical darling's talents are nothing to envy. And we also don't commit false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In short, what historians will see in *time*… artists come closest to seeing *now*.
 
 So forget the critics! To escape the long tail and make it into history, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of others who'll keep your standards high.
 

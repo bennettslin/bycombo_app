@@ -48,18 +48,18 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 ${'  ' || `
 // TODO: Keep working on underdogs vs. outsiders. Then review this entire section.
 
-Second paragraph. Indie rock's attempts to protect the underdog, then, amount to neutralizing the kind of objective strengths.
+Second paragraph. Logic needs to flow from first paragraph better.
 
 Work on third paragraph. Mention rules.
 `}
 
-Well… not so fast. Indie rock's basic assumption is that all artists struggle in the same way. So if you just help the ones you want, you'll still clear a path for the rest! But… the outsider's struggles *aren't* the same. To compensate for *not* being the one you want, they have to work that much harder, to be that much better. And this makes them the underdog's biggest threat!
+Well… not so fast. Indie rock's basic assumption is that all artists struggle in the same way. So if you focus on removing hurdles for the ones you want, you'll still clear a path for the rest. But… the outsider's struggles *aren't* the same. To compensate for *not* being the one you want, they have to work harder, to be better… Which makes *them* the underdog's biggest hurdle!
 
-To protect the underdog, then, indie rock devalues the kind of objective strengths that an "Eminem of rock" would try to cultivate. This is why its gatekeepers favor music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and it's also why they've never examined their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+To protect the underdog, then, indie rock devalues the kind of objective strengths that an "Eminem of rock" would cultivate. This explains why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and why its gatekeepers have never examined their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
-Meanwhile, the outsider has one weakness: It isn't humanly possible to work much harder, to be much better— without *also* relying on others. So *this* explains indie rock's failure to reap the benefits of interdependence: It *isn't* some weird fluke— it's to give the underdog an unfair advantage! Which is how I learned the hard way:
+Meanwhile, the outsider has a fatal weakness: It isn't humanly possible to work harder, to be better— without depending on others. And now it makes sense why decades have passed without indie rock once exploring the benefits of interdependence: It's *not* some weird fluke— it's to give the underdog an overriding advantage! And this is how I learned the hard way:
 
-**A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock *isn't* just waiting for outsiders to show up with better art. It's actively shutting them out!**
+**A movement that's kind to the underdog *must* be cruel to the outsider. So indie rock *isn't* simply waiting for outsiders to show up with better art after all. It's actively shutting them out!**
 
 Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! And this is really the heart of the problem:
 
@@ -67,7 +67,17 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 
 ### A hundred *Yearling's Bobtail*s
 
-But if we can't resist… let's revolt! By some miracle, Gen Z sees what the *older* generations see: Indie rock is today's hair metal— so the *next* revolution will be their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the rock market.
+${'  ' || `
+// TODO: Review this section a few times.
+`}
+
+But if we can't resist… then let's revolt! How? By… waiting. Because here's the thing: No *future* generation wants to root for a *past* underdog. After all, what difficulties did this "underdog" really face, having been charitably supported in their own time? Let's face it: Indie rock wasn't designed to age well— which means it *won't*.
+
+${'  ' || `
+// TODO: Replace budding entrepreneurs once partners page is done.
+`}
+
+Well, it's now Gen Z's time— and yes, they see what the *older* generations see: Indie rock is today's hair metal— making the *next* revolution their grunge! So this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the rock market.
 
 These "Dr. Dres of rock" would love to discover bands who can promise to make the best art— but how will they find one another, given the sheer number of artists coming in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
 
