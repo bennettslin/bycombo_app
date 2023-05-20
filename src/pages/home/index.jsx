@@ -52,18 +52,16 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 ${'  ' || `
 // TODO: Keep working on underdogs vs. outsiders. Then review this entire section.
 
-Work on third paragraph. So if the gatekeepers simply *refuse* to be interdependent, then the underdog wins by default. And it isn't humanly possible to work harder, to be better— without depending on others.
+Second paragraph: Maybe I want a different word from devalue?
 
-Continue instinct.
+Work on third paragraph. Make point that working harder to be better requires interdependence.
 `}
 
 Well… not so fast. Indie rock's basic assumption is that every artist struggles in the same way. So if you just remove hurdles for the ones you want, you'll still clear a path for the rest. But… the outsider's struggles *aren't* the same. To compensate for *not* being the one you want, they have to work much harder, to be much better— making *them* the underdog's biggest hurdle!
 
-By instinct, then, indie rock ends up devaluing the kind of objective talents that an "Eminem of rock" would try to build up. This explains why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), for example, and why its gatekeepers have never examined their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+By instinct, then, indie rock devalues the kind of objective talents that an "Eminem of rock" would try to build up. This explains why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), for example, and why its gatekeepers have never examined their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
-Meanwhile, the outsider has one weakness: They *need* to be interdependent. It just isn't humanly possible to work harder, to be better, without it. In other words, indie rock *doesn't* fail to understand how its rules limit the art form. 
-
-! And thus I learned the hard way:
+But the easiest way to give the underdog a winning advantage is simply to *prevent* any other artist from working much harder, to be much better. And to do this, all indie rock has to do is be sticklers for their rules! And thus I learned the hard way:
 
 **A movement that's kind to the underdog *must* be cruel to the outsider. So indie rock *isn't* simply waiting for outsiders to show up with better art. It's actively shutting them out!**
 
