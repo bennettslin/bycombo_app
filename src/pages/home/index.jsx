@@ -52,14 +52,14 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 ${'  ' || `
 // TODO: Keep working on underdogs vs. outsiders. Then review this entire section.
 
-Second paragraph. Logic needs to flow from first paragraph better.
-
 Work on third paragraph. So if the gatekeepers simply *refuse* to be interdependent, then the underdog wins by default. And it isn't humanly possible to work harder, to be better— without depending on others.
+
+Continue instinct.
 `}
 
 Well… not so fast. Indie rock's basic assumption is that every artist struggles in the same way. So if you just remove hurdles for the ones you want, you'll still clear a path for the rest. But… the outsider's struggles *aren't* the same. To compensate for *not* being the one you want, they have to work much harder, to be much better— making *them* the underdog's biggest hurdle!
 
-Indie rock's basic instinct, then, is to devalue the kind of objective strengths that an "Eminem of rock" would try to cultivate. This is why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), for example, and why its gatekeepers have never examined their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+By instinct, then, indie rock ends up devaluing the kind of objective talents that an "Eminem of rock" would try to build up. This explains why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), for example, and why its gatekeepers have never examined their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
 Meanwhile, the outsider has one weakness: They *need* to be interdependent. It just isn't humanly possible to work harder, to be better, without it. In other words, indie rock *doesn't* fail to understand how its rules limit the art form. 
 
@@ -75,15 +75,17 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 
 ${'  ' || `
 // TODO: Review this section a few times.
+
+Is tense in this paragraph correct?
 `}
 
-But if we can't resist, then let's revolt! How? By… waiting. See, indie rock has another glaring weakness: No *future* generation will want to root for a *past* underdog. After all, what difficulties did this "underdog" face in hindsight, having been charitably supported in their own time? The fact is, indie rock wasn't designed to age well— and so it won't.
+But if we can't resist, then let's revolt! How? By… waiting. See, indie rock has another glaring weakness: No *future* generation is going to root for a *past* underdog. After all, what difficulties did this "underdog" face in hindsight, having been charitably supported in their own time? Indie rock just wasn't designed to age well— and so it won't.
 
 ${'  ' || `
 // TODO: Replace budding entrepreneurs once partners page is done.
 `}
 
-Now Gen Z has arrived— and they see what the *older* generations see: Indie rock is today's hair metal— making the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the rock market.
+Sure enough, today Gen Zers see what the *older* generations see: Indie rock is their hair metal— making the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the rock market.
 
 These "Dr. Dres of rock" would love to discover bands who can promise to make the best art— but how will they find one another, given the sheer number of artists coming in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
 
