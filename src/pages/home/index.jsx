@@ -57,19 +57,17 @@ Second paragraph. Logic needs to flow from first paragraph better.
 Work on third paragraph. So if the gatekeepers simply *refuse* to be interdependent, then the underdog wins by default. And it isn't humanly possible to work harder, to be better— without depending on others.
 `}
 
-Well… not so fast. Indie rock's basic assumption is that every artist struggles in the same way. So if you just remove hurdles for the ones you want, you'll still clear a path for the rest. But… the outsider's struggles *aren't* the same. To compensate for *not* being the one you want, they have to work much harder, to be much better… Which makes *them* the underdog's biggest hurdle!
+Well… not so fast. Indie rock's basic assumption is that every artist struggles in the same way. So if you just remove hurdles for the ones you want, you'll still clear a path for the rest. But… the outsider's struggles *aren't* the same. To compensate for *not* being the one you want, they have to work much harder, to be much better— making *them* the underdog's biggest hurdle!
 
-Indie rock's instinct, then, is to devalue the kind of objective strengths that an "Eminem of rock" would try to cultivate. This is why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), for example, and why its gatekeepers have never examined their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+Indie rock's basic instinct, then, is to devalue the kind of objective strengths that an "Eminem of rock" would try to cultivate. This is why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), for example, and why its gatekeepers have never examined their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
-Meanwhile, the outsider has a fatal weakness: It isn't humanly possible to work harder, to be better— without depending on others. So if every artist is forced to spend all their time and energy bypassing the labels,
-
-
+Meanwhile, the outsider has one weakness: They *need* to be interdependent. It just isn't humanly possible to work harder, to be better, without it. In other words, indie rock *doesn't* fail to understand how its rules limit the art form. 
 
 ! And thus I learned the hard way:
 
-**A movement that's kind to the underdog *must* be cruel to the outsider. So indie rock *isn't* just waiting for an outsider to come along and prove that interdependence leads to better art. It's actively shutting them out!**
+**A movement that's kind to the underdog *must* be cruel to the outsider. So indie rock *isn't* simply waiting for outsiders to show up with better art. It's actively shutting them out!**
 
-Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! And this is really the heart of the problem:
+Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! And this gets at the heart of the problem:
 
 **As the first rock movement to believe its ideals to be universal, indie rock is also the first to lock down its rules for good. As such, there's no historical precedent to show us how to resist— or even to assure us that we *can*.**
 
