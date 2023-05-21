@@ -7,7 +7,7 @@ const Component = () => (
             body: `
 # The BYCombo mission
 
-**BYCombo is a nonprofit incubator of self-sacrificing rock bands. We're here to lead the interdependence revolution, a movement devoted to bringing forth this century's most historically consequential rock music!**
+**BYCombo is a nonprofit incubator of self-sacrificing rock bands. We're here to lead the interdependence revolution— a movement devoted to bringing forth this century's most historically consequential rock music!**
 
 Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative?
 
@@ -50,16 +50,14 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 ### Who gatekeeps the gatekeepers?
 
 ${'  ' || `
-// TODO: Keep working on underdogs vs. outsiders. Then review this entire section.
-
-Second paragraph: Maybe I want a different word from devalue?
+// TODO: Finish by tomorrow. Then review this entire section.
 
 Work on third paragraph. Make point that working harder to be better requires interdependence.
 `}
 
-Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the ones you want, this still helps the rest. But… the outsider's hurdles *aren't* the same. To compensate for *not* being the one you want, they have to work that much harder, to be that much better— which makes *them* the underdog's biggest hurdle!
+Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the ones you want, you'll still help the rest. But… the outsider's hurdles *aren't* the same. To compensate for *not* being the one you want, they have to work that much harder, to be that much better— which makes *them* the underdog's biggest hurdle!
 
-Indie rock's instinct, then, is to devalue the kind of objective talents that this "Eminem of rock" would try to build up. Which explains why its gatekeepers favor music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and why they've never examined their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+Indie rock's instinct, then, is to devalue the kind of objective talents that an "Eminem of rock" would try to build up. This explains why its gatekeepers favor music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), for example, and why they've never examined their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
 But as long as others are free to work much harder, to be much better— the underdog will *always* be under threat. And to do this, all indie rock has to do is be sticklers for their rules! And thus I learned the hard way:
 
@@ -75,13 +73,13 @@ ${'  ' || `
 // TODO: Review this section a few times.
 `}
 
-But if we can't resist, then let's revolt! How? We… simply wait. See, indie rock has *another* glaring weakness. It wasn't designed to age well— and so it won't. Picture how an underdog of our times will look to *future* generations: What difficulties did they really face in hindsight, with all the charitable support they were given?
+But if we can't resist, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness. It wasn't designed to age well— and so it won't. After all, picture how today's underdogs will look to future generations: What difficulties did they really face in hindsight, with all the charitable support they were given?
 
 ${'  ' || `
 // TODO: Replace budding entrepreneurs once partners page is done.
 `}
 
-Well, sure enough, today Gen Zers see what the *older* generations see: Indie rock is their hair metal— making the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that a budding entrepreneur will try to disrupt the rock market.
+Sure enough, Gen Zers now see what the *older* generations see: Indie rock is their hair metal— which makes the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that a budding entrepreneur will try to disrupt the rock market.
 
 This "Dr. Dre of rock" would love to discover bands who can promise to make the best art— but how will they find one another, given the sheer number of artists coming in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
 
