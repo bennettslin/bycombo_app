@@ -41,7 +41,7 @@ By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then m
 
 And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, *all* art is now subjective; talent predicts nothing. This means an indie label's *only* trusted measure is the objective size of an artist's fanbase. Good grief… Can this mess be fixed?
 
-Yes! See, indie rock has a glaring weakness. It doesn't *actually* separate the best artists from the worst; it picks "serious" artists over "casual" ones, in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will *force* us to dismiss all our best artists as hobbyists! Here's how it works:
+Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the worst. It picks "serious" artists over "casual" ones, in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will *force* us to dismiss all our best artists as hobbyists! Here's how it works:
 
 **To revive interdependence, bands must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and that couldn't have been made for *any* less effort.**
 
@@ -52,16 +52,18 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 ${'  ' || `
 // TODO: Finish by tomorrow. Then review this entire section.
 
+Second paragraph: Make more about the inherent battle of wits. Unstoppable force, immovable object.
+
 Work on third paragraph. Make point that working harder to be better requires interdependence.
 `}
 
-Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the ones you want, you'll still help the rest. But… the outsider's hurdles *aren't* the same. To compensate for *not* being the one you want, they have to work that much harder, to be that much better— which makes *them* the underdog's biggest hurdle!
+Well… not so fast. Indie rock's basic assumption is that all artists deal with the same hurdles— so if you just clear a path for the ones you want, you'll still help the rest. But… the outsider's hurdles *aren't* the same. To compensate for *not* being the one you want, they have to work that much harder, to be that much better— which makes *them* the underdog's biggest hurdle!
 
-Indie rock's instinct, then, is to devalue the kind of objective talents that an "Eminem of rock" would try to build up. This explains why its gatekeepers favor music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), for example, and why they've never examined their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+Knowing they'll always get beat on subjective traits, this "Eminem of rock" will try to cultivate objective talents, only to see them devalued by indie rock. For example, the indie gatekeepers favor music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and they refuse to examine their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
 But as long as others are free to work much harder, to be much better— the underdog will *always* be under threat. And to do this, all indie rock has to do is be sticklers for their rules! And thus I learned the hard way:
 
-**A movement that's kind to the underdog *must* be cruel to the outsider. So indie rock *isn't* simply waiting for outsiders to show up with better art. It's actively shutting them out!**
+**A movement that's kind to the underdog *must* be cruel to the outsider. So indie rock *isn't* just waiting for outsiders to show up with better art after all. It's actively shutting them out!**
 
 Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! And this gets at the heart of the problem:
 
@@ -73,13 +75,13 @@ ${'  ' || `
 // TODO: Review this section a few times.
 `}
 
-But if we can't resist, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness. It wasn't designed to age well— and so it won't. After all, picture how today's underdogs will look to future generations: What difficulties did they really face in hindsight, with all the charitable support they were given?
+But if we can't resist, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: It wasn't designed to age well— and so it won't. After all, why would *past* underdogs be seen as such by the *next* generation, what with all the charitable support they got in their *own* time?
 
 ${'  ' || `
 // TODO: Replace budding entrepreneurs once partners page is done.
 `}
 
-Sure enough, Gen Zers now see what the *older* generations see: Indie rock is their hair metal— which makes the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that a budding entrepreneur will try to disrupt the rock market.
+Sure enough, Gen Zers today see what the *older* generations see: Indie rock is their hair metal— which makes the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that a budding entrepreneur will try to disrupt the rock market.
 
 This "Dr. Dre of rock" would love to discover bands who can promise to make the best art— but how will they find one another, given the sheer number of artists coming in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
 
