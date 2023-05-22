@@ -30,7 +30,7 @@ Here's the curious part: Ever notice that the best rappers *don't* worry about e
 It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's way of thinking. I want my band to be *inter*-dependent: to have a *label* build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
 ${'  ' || `
-// TODO: Mention "Eminem of rock."
+// TODO: Mention "Eminem of rock" somewhere.
 `}
 
 By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete. Which means the *labels* can only compete by signing indie artists— who work hard *not* to need them. What a mess! And yet the future is clear:
@@ -63,10 +63,16 @@ It's worse than just that, however. Sheer talent and creative invention may be t
 
 Indie rock's instinct, then, is to devalue the kind of objective talents that any outsider would try to cultivate. This is why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and why they refuse to examine their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
-And so… the indie labels largely ignored my demo. They also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. Sadly, then, even *altruism* is a losing strategy for the outsider! And thus I learned the hard way:
+${'  ' || `
+// TODO: Reconsider best way to start this paragraph.
+`}
+
+And so… the indie labels largely ignored my demo. They also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. Sadly, then, even *altruism* is a losing strategy for the outsider! At this point, I finally understood:
 
 ${'  ' || `
-// TODO: More concise way to make this point? Indie rock can't ever revive interdependence.
+// TODO: More concise way to make this point? The outsider is powerless to get indie rock to reconsider reviving interdependence by enticing it with better art, because the whole point of indie rock *isn't* to advance the art form. It's to give the underdog a winning advantage.
+
+Indie rock isn't loyal to its rules out of some misguided belief that being indie leads to better art. It knows full well that interdependence leads to better art. It just doesn't care, because it *isn't* loyal to the art form. It's loyal to its underdogs.
 `}
 
 **A movement that's kind to the underdog *must* be cruel to the outsider. So indie rock *isn't* just waiting for outsiders to come along and prove the benefits of interdependence. It's actively shutting them out!**
