@@ -115,9 +115,9 @@ Most artists in the historical canon were superstars in their own day. But indie
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how an artist looks to *other* artists.
 
-Because we're invested in the creative process ourselves, we don't commit false positives like critics do: We know when a critical darling's talents are nothing to envy. And we also don't commit false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In short, what historians will see in *time*… artists come closest to seeing *now*.
+Because we're invested in the creative process ourselves, we don't commit false positives: We recognize when a critical darling's talents are nothing to envy. And we also don't commit false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
 
-So don't be led astray by indie rock's love for critical darlings! To escape the long tail and make it into history, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of others who'll keep your standards high.
+So don't be misled by what the critics like! To make rock history, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of others who'll keep your standards high.
 
 ### Competitive self-reliance favors privilege
 

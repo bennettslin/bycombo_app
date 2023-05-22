@@ -75,7 +75,7 @@ ${'  ' || `
 // TODO: Review this section a few times.
 `}
 
-But if we can't resist, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: It wasn't designed to age well— and so it won't. After all, why would *future* generations treat *past* indie artists as underdogs, given all the charitable support they got in their *own* time?
+But if we can't resist, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: It wasn't designed to age well— and so it won't. After all, why would any *past* indie artist be treated as an underdog in the *future*, given all the charitable support they got in their *own* time?
 
 ${'  ' || `
 // TODO: Replace budding entrepreneurs once partners page is done.
