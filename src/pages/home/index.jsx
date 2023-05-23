@@ -29,10 +29,6 @@ Here's the curious part: Ever notice that the best rappers *don't* worry about e
 
 It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's way of thinking. I want my band to be *inter*-dependent: to have a *label* build our fanbase— and, in turn, have this label depend on *us* to make the best art.
 
-${'  ' || `
-// TODO: Mention "Eminem of rock" somewhere.
-`}
-
 By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete. Which means the *labels* can only compete by signing indie artists— who work hard *not* to need them. What a mess! And yet the future is clear:
 
 **As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… as it's the only way to make better art!**
@@ -41,7 +37,7 @@ By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then m
 
 And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, *all* art is now subjective; talent predicts nothing. This means an indie label's *only* trusted measure is the objective size of an artist's fanbase. Good grief… Can this mess be fixed?
 
-Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the worst. It picks "serious" artists over "casual" ones, in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will *force* us to dismiss all our best artists as hobbyists! Here's how it works:
+Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the worst. It picks "serious" artists over "casual" ones, in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will force us to dismiss *all* our best artists as hobbyists! Here's how it works:
 
 **To revive interdependence, bands must spend *all* their time and energy— for untold *years* of their lifetime— on a demo that *objectively* advances the art form, and that couldn't have been made for *any* less effort.**
 
@@ -53,29 +49,13 @@ ${'  ' || `
 // TODO: Just review a few times.
 `}
 
- Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the ones you want, you'll still help the rest. But… the outsider's hurdles *aren't* the same. To compensate for not being wanted by *anyone*, they have to work that much harder, to be that much better— which makes *them* the underdog's biggest hurdle!
+Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the ones you want, you'll still help the rest. But… an outsider's hurdles *aren't* the same. To compensate for *not* being the one you want, they have to work that much harder, to be that much better— which makes *them* the underdog's biggest hurdle!
 
-${'  ' || `
-// TODO: Make more like original paragraph.
+So indie rock's instinct is to *devalue* the kind of objective strengths that this "Eminem of rock" will try to build up. This is why its labels favor music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), for example, and why they refuse to examine their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
-It's worse than just that, however. Sheer talent and creative invention may be the outsider's strengths, but they're the underdog's weaknesses. So by reflex, indie rock rejects them. This is why it prizes works admired by critics, who root for underdogs— but not those envied by musicians, who don't; and why it disputes the studies that say we're all biased against creativity.
-`}
+Suffice it to say, then… the indie labels ignored my demo. They also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider! And at this point, I finally understood:
 
-Indie rock's instinct, then, is to devalue the kind of objective talents that any outsider would try to cultivate. This is why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and why they refuse to examine their own human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
-
-${'  ' || `
-// TODO: Reconsider best way to start this paragraph.
-`}
-
-And so… the indie labels largely ignored my demo. They also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. Sadly, then, even *altruism* is a losing strategy for the outsider! At this point, I finally understood:
-
-${'  ' || `
-// TODO: More concise way to make this point? The outsider is powerless to get indie rock to reconsider reviving interdependence by enticing it with better art, because the whole point of indie rock *isn't* to advance the art form. It's to give the underdog a winning advantage.
-
-Indie rock isn't loyal to its rules out of some misguided belief that being indie leads to better art. It knows full well that interdependence leads to better art. It just doesn't care, because it *isn't* loyal to the art form. It's loyal to its underdogs.
-`}
-
-**A movement that's kind to the underdog *must* be cruel to the outsider. So indie rock *isn't* just waiting for outsiders to come along and prove the benefits of interdependence. It's actively shutting them out!**
+**A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock *isn't* simply waiting for outsiders to show up with better art. It's actively shutting them out!**
 
 Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially anyone from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! And this gets at the heart of the problem:
 
@@ -87,13 +67,13 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-But if we can't resist, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: It wasn't designed to age well— and so it won't. After all, why would any indie artist be treated as an underdog in the *future*, given all the charitable support they got in their *own* time?
+But if we can't resist, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: It wasn't meant to age well— and so it won't. After all, if an artist was charitably supported in their *own* time, why would they be seen as an underdog by *future* generations?
 
 ${'  ' || `
 // TODO: Replace budding entrepreneurs once partners page is done.
 `}
 
-Sure enough, Gen Zers today see what the *older* generations see: Indie rock is their hair metal— which makes the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that a budding entrepreneur will try to disrupt the rock market.
+Sure enough, Gen Zers now see what the *older* generations see: Indie rock is their hair metal— which makes the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that a budding entrepreneur will try to disrupt the rock market.
 
 This "Dr. Dre of rock" would love to discover bands who can promise to make the best art— but how will they find one another, given the sheer number of artists coming in through indie rock's low barriers to entry? The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
 
