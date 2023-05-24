@@ -111,7 +111,7 @@ Most artists in the historical canon were superstars in their own day. But indie
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how an artist looks to *other* artists.
 
-Because we're invested in the creative process ourselves, we don't commit false positives: We recognize when a critical darling's talents are nothing to envy. And we also don't commit false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In short, what historians will see in *time*… artists come closest to seeing *now*.
+Because we're invested in the creative process ourselves, we don't commit false positives: We recognize when a critical darling's talents are nothing to envy. And we also don't commit false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
 
 So don't be misled by how the critics think! To make rock history, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of others who'll keep your standards high.
 
@@ -125,13 +125,17 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
+${'  ' || `
+// TODO: Just one more final review.
+`}
+
 Who foresaw indie rock's final stage as a trust fund playground? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/3489987). When they boast of having hustled, they're saying, "Hey, I hustled *too*." It's to ensure that self-reliance means *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, indie rock today feels like just another foreign canon. So women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Like those outsiders before us, we need to be the *most* original, the *most* talented… and so we *need* to make the best use of *mutual* reliance. Hip hop gets this, which is why it *hasn't* declined; today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives you the same chances— as a band.
+Like those hungry outsiders before us, we need to be the *most* original, the *most* talented… and this can only happen through *mutual* reliance. Hip hop gets this, which is why it *hasn't* declined; today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). But I get this too! So BYCombo gives you the same chances— as a band.
 
 ### Paid dues must now collude
 

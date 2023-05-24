@@ -26,12 +26,12 @@ And these tools *aren't* free; they cost time and energy that could be spent mak
 ### The outsider's dilemma
 
 ${'  ' || `
-// TODO: Just review a few times.
+// TODO: Just one more final review.
 `}
 
 Here's the curious part: Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free, if they just build up their talents. For example, Eminem *didn't* have a real fanbase before he was discovered by Dr. Dre; his self-released EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
 
-It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's *inter*-dependent way of thinking. I'd rather be an "Eminem of rock," and have a *label* build my band's fanbase— and, in turn, have this label depend on *us* to make the best art.
+It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's *inter*-dependent way of thinking. I'd rather be an "Eminem of rock," and have a *label* build my band's fanbase— while having this label, in turn, depend on *us* to make the best art.
 
 By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a winning advantage, no other artist can hope to compete. Which means the *labels* can only compete by signing indie artists— who work hard *not* to need them. What a mess! And yet the future is clear:
 
@@ -55,7 +55,7 @@ ${'  ' || `
 
 Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the underdog, you'll still help the rest. But… the outsider's hurdles *aren't* the same. To compensate for *not* being the one you're rooting for, they have to work much harder, to be much better— which makes *them* the underdog's biggest hurdle!
 
-To win over an unsympathetic audience, the outsider needs to build up objective strengths— but indie rock knows this as well. So to protect the underdog, it keeps its criteria hopelessly *subjective*! This is why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and why it refuses to understand the human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+An audience whose sympathies lie elsewhere can only be won over by objective strengths. The outsider knows this, but indie rock does so as well— and for this very reason, it keeps its criteria hopelessly *subjective*! This is why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and why it refuses to understand the human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
 Suffice it to say, then… the indie labels ignored my demo. They also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider! And at this point, I finally understood:
 
@@ -68,7 +68,7 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Just review a few times.
+// TODO: Just one more final review.
 `}
 
 But if we can't resist, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: It wasn't meant to age well— and so it won't. After all, if an artist was charitably supported in their *own* time, why would future generations see *them* as the underdog?
@@ -77,9 +77,9 @@ ${'  ' || `
 // TODO: Replace budding entrepreneurs once partners page is done.
 `}
 
-Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— which makes the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that a budding entrepreneur will try to disrupt the rock market.
+Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— which makes the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the rock market.
 
-This "Dr. Dre of rock" would love to discover bands who can promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for an alternative source to *raise* its barriers. And here's where BYCombo comes in!
+These "Dr. Dres of rock" would love to discover bands who can promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for an alternative source to *raise* its barriers. And here's where BYCombo comes in!
 
 **Interdependent bands can now earn the listener's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
