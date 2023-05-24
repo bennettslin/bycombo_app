@@ -49,11 +49,11 @@ ${'  ' || `
 // TODO: Just review a few times. Last sentence of first paragraph needs to be a "but" or "yet."
 `}
 
-Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the underdog, you'll still help the rest. Except… the outsider's hurdles *aren't* the same. To compensate for *not* being the one you're rooting for, they need to work much harder, to be much better— but this makes *them* the underdog's biggest hurdle!
+Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the underdog, you'll still help the rest. Except… an outsider's hurdles *aren't* the same. To compensate for *not* being the one you're rooting for, they need to work much harder, to be much better. But… this makes *them* the underdog's biggest hurdle!
 
-So even as the outsider builds up objective strengths to win over indifferent listeners— all the while, indie rock helps the underdog by keeping its criteria *subjective*! This explains why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and why it refuses to correct its natural bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+So even as the outsider builds up objective strengths, hoping to win over indifferent listeners— indie rock keeps its criteria *subjective* to assure the underdog's victory! This is why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and why it refuses to correct its natural bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
-Suffice it to say, then… the indie labels ignored my demo. They also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider! And at this point, I finally understood:
+Suffice it to say, then… the indie labels ignored my demo. They also ignored later projects of mine that promised to *help* their underdogs: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider! And then I finally understood:
 
 **A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock will *never* sympathize with the outsider's need for interdependence— because it *means* to shut them out!**
 
