@@ -25,10 +25,6 @@ And these tools *aren't* free; they cost time and energy that could be spent mak
 
 ### The outsider's dilemma
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
-
 Here's the curious part: Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free, if they just build up their talents. For example, Eminem *didn't* have a real fanbase before he was discovered by Dr. Dre; his self-released EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
 
 It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's *inter*-dependent way of thinking. I'd rather be an "Eminem of rock," and have a *label* build my band's fanbase— while having this label, in turn, depend on *us* to make the best art.
@@ -53,9 +49,9 @@ ${'  ' || `
 // TODO: Just review a few times.
 `}
 
-Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the underdog, you'll still help the rest. But… the outsider's hurdles *aren't* the same. To compensate for *not* being the one you're rooting for, they have to work much harder, to be much better— which makes *them* the underdog's biggest hurdle!
+Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the underdog, you'll still help the rest. But… the outsider's hurdles *aren't* the same. Because they're *not* the one you're rooting for, they have to compensate by working much harder, to be much better— which makes *them* the underdog's biggest hurdle!
 
-An audience whose sympathies lie elsewhere can only be won over by objective strengths. The outsider knows this, but indie rock does so as well— and for this very reason, it keeps its criteria hopelessly *subjective*! This is why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and why it refuses to understand the human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+To win over an audience whose sympathies lie elsewhere, the outsider builds up objective strengths— but it's for the same reason that indie rock's criteria remain hopelessly *subjective*! This is why its labels favor music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and why they refuse to understand their human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
 Suffice it to say, then… the indie labels ignored my demo. They also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider! And at this point, I finally understood:
 
@@ -66,10 +62,6 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 **As the first rock movement to believe its ideals to be universal, indie rock is also the first to lock down its rules for good. As such, there's no historical precedent to show us how to resist— or even to assure us that we *can*.**
 
 ### A hundred *Yearling's Bobtail*s
-
-${'  ' || `
-// TODO: Just one more final review.
-`}
 
 But if we can't resist, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: It wasn't meant to age well— and so it won't. After all, if an artist was charitably supported in their *own* time, why would future generations see *them* as the underdog?
 
