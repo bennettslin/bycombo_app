@@ -49,9 +49,9 @@ ${'  ' || `
 // TODO: Just review a few times.
 `}
 
-Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the underdog, you'll still help the rest. But… the outsider's hurdles *aren't* the same. Because they're *not* the one you're rooting for, they have to compensate by working much harder, to be much better— which makes *them* the underdog's biggest hurdle!
+Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the underdog, you'll still help the rest. But… the outsider's hurdles *aren't* the same. To compensate for *not* being the one you're rooting for, they need to work much harder, to be much better— which makes *them* the underdog's biggest hurdle!
 
-To win over an audience whose sympathies lie elsewhere, the outsider builds up objective strengths— but it's for the same reason that indie rock's criteria remain hopelessly *subjective*! This is why its labels favor music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and why they refuse to understand their human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+So even as the outsider builds up objective strengths to win over indifferent listeners— all the while, indie rock helps the underdog by keeping its criteria *subjective*! This explains why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and why it refuses to correct its natural bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
 Suffice it to say, then… the indie labels ignored my demo. They also ignored my later projects that would have *helped* their artists: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider! And at this point, I finally understood:
 
