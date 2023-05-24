@@ -46,10 +46,10 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 ### Who gatekeeps the gatekeepers?
 
 ${'  ' || `
-// TODO: Just review a few times.
+// TODO: Just review a few times. Last sentence of first paragraph needs to be a "but" or "yet."
 `}
 
-Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the underdog, you'll still help the rest. But… the outsider's hurdles *aren't* the same. To compensate for *not* being the one you're rooting for, they need to work much harder, to be much better— which makes *them* the underdog's biggest hurdle!
+Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the underdog, you'll still help the rest. Except… the outsider's hurdles *aren't* the same. To compensate for *not* being the one you're rooting for, they need to work much harder, to be much better— but this makes *them* the underdog's biggest hurdle!
 
 So even as the outsider builds up objective strengths to win over indifferent listeners— all the while, indie rock helps the underdog by keeping its criteria *subjective*! This explains why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and why it refuses to correct its natural bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
