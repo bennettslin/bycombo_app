@@ -17,7 +17,7 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com)! 
 
 Indie rock roots for the underdog, and so its mission is to lower the barriers to entry for artists. As such, it provides them with tools of empowerment— social media analytics, streaming platform algorithms, and so forth— that allow them to bypass the labels and build a fanbase on their own.
 
-Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their main purpose is to punish any holdouts. But… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
+Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their main purpose is to punish any holdouts. But wait… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
 And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if you're a band trying to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet from what I've seen, few others sympathize. Well, okay… then how about a truce?
 
@@ -46,10 +46,10 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 ### Who gatekeeps the gatekeepers?
 
 ${'  ' || `
-// TODO: Just a few more reviews.
+// TODO: Just one more final review.
 `}
 
-Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the underdog, you'll still help the rest. Except… an outsider's hurdles *aren't* the same. To compensate for *not* being the one you're rooting for, they need to work much harder, to be much better. But… this makes *them* the underdog's biggest hurdle!
+Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the underdog, you'll still help the rest. Except… an outsider's hurdles *aren't* the same. To compensate for *not* being the one you're rooting for, they need to work much harder, to be much better. But wait… this makes *them* the underdog's biggest hurdle!
 
 So even as the outsider builds up objective strengths, hoping to win over an unfriendly public— all the while, indie rock assures victory for the underdog by keeping its criteria *subjective*! This explains why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), for example, and why it refuses to examine its natural bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
