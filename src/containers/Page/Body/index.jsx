@@ -4,7 +4,7 @@ import PageConfigContext from '../../../contexts/PageConfig'
 import ContactEmail from '../../../components/ContactEmail'
 import Markdown from '../../../components/Markdown'
 import Heading from '../../../components/Heading'
-// import { getSmartQuotedText } from '../../../utils/format/smartQuote'
+// import { getFormattedText } from '../../../utils/format'
 import { getHeaderFromDate } from '../../../utils/format/dates'
 import './style'
 
@@ -27,7 +27,7 @@ const Body = () => {
             }}
         >
             {/* <Heading>
-                {getSmartQuotedText(pageHeading || titleHeading || title)}
+                {getFormattedText(pageHeading || titleHeading || title)}
             </Heading> */}
             <Heading {...{ level: 5 }}>
                 {getHeaderFromDate(date)}

@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
 import MailingListInputs from './Inputs'
-import { getSmartQuotedText } from '../../utils/format/smartQuote'
+import { getFormattedText } from '../../utils/format'
 import { EMAIL_ACTION } from '../../constants/website'
 import './style'
 
@@ -24,7 +24,7 @@ const MailingList = ({ isWide }) => (
         </label>
         <MailingListInputs />
         <div {...{ className: cx('font__finePrint') }}>
-            {getSmartQuotedText(
+            {getFormattedText(
                 `We'll send out one email per month at most.`,
             )}
         </div>

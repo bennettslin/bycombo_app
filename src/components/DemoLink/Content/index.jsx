@@ -5,7 +5,7 @@ import Flex from '../../Flex'
 import Image from '../../Image'
 import Markdown from '../../Markdown'
 import Heading from '../../Heading'
-import { getSmartQuotedText } from '../../../utils/format/smartQuote'
+import { getFormattedText } from '../../../utils/format'
 import './style'
 
 const DemoLinkContent = ({
@@ -46,10 +46,10 @@ const DemoLinkContent = ({
                 }}
             >
                 <Heading {...{ level: 2 }}>
-                    <i>{getSmartQuotedText(project)}</i>
+                    <i>{getFormattedText(project)}</i>
                 </Heading>
                 <Heading {...{ level: 3 }}>
-                    {getSmartQuotedText(band)}
+                    {getFormattedText(band)}
                 </Heading>
                 <Markdown>
                     {description}

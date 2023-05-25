@@ -7,7 +7,7 @@ import Flex from '../Flex'
 import Image from '../Image'
 import Heading from '../Heading'
 import Markdown from '../Markdown'
-import { getSmartQuotedText } from '../../utils/format/smartQuote'
+import { getFormattedText } from '../../utils/format'
 import './style'
 
 const DemoHeader = ({
@@ -53,10 +53,10 @@ const DemoHeader = ({
                 }}
             >
                 <Heading {...{ level: 1 }}>
-                    <i>{getSmartQuotedText(project)}</i>
+                    <i>{getFormattedText(project)}</i>
                 </Heading>
                 <Heading {...{ level: 2 }}>
-                    {getSmartQuotedText(band)}
+                    {getFormattedText(band)}
                 </Heading>
                 <Markdown>
                     {`

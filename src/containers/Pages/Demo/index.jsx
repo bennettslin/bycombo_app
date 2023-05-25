@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import removeMarkdown from 'remove-markdown'
 import Page from '../../Page'
 import DemoHeader from '../../../components/DemoHeader'
-import { getSmartQuotedText } from '../../../utils/format/smartQuote'
+import { getFormattedText } from '../../../utils/format'
 
 const DemoPage = ({
     advancementText,
@@ -16,7 +16,7 @@ const DemoPage = ({
         {...{
             title: project,
             description: removeMarkdown(
-                getSmartQuotedText(description),
+                getFormattedText(description),
             ),
             body: [
                 (
