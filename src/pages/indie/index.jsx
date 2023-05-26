@@ -59,17 +59,19 @@ Here's an incomplete list of ways…
 
 ${'  ' || `
 // TODO: Just review a few more times.
+
+First paragraph: Who we should count on to discover…
 `}
 
 ### Cultures of grievance wallow in confusion
 
-In the 90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As every Gen Xer knows, then, Nirvana and Radiohead *weren't* indie. To the younger generations, though, they *sound* indie— so now they are. But this isn't a trivial mix-up— at least, not if we care to bring about the *next* Nirvana and Radiohead! How did it happen?
+In the 90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As every Gen Xer knows, then, Nirvana and Radiohead *weren't* indie. But to the younger generations, they *sound* indie— so now they are. This isn't a trivial mix-up— at least, not if we hope to bring about the *next* Nirvana and Radiohead! How did it happen?
 
-Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and the middleman. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares if those around you hold inconsistent beliefs, when *being* confused is what fires them up to hurt your common enemy?
+Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and the middleman. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares if those around you hold inconsistent beliefs, when *being* confused is what gets them fired up to hurt your common enemy?
 
 For example, even once [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) made it clear that the Internet caters to the lowest common denominator… indie rock concluded that [going viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah) is the new grassroots phenomenon?! And when Radiohead and [Amanda Palmer](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me) crowdfunded their own works… indie rock saw it as proof that artists *don't* need a label deal?!
 
-These views were refutable even then— yet they hurt the middleman, so smart people happily stood by and said nothing. But today, *we're* the ones being hurt! Sure, the major labels got many things wrong. But how did they get Nirvana and Radiohead *right*? With BYCombo, you can join a movement that holds no grievances, and thus is willing to ask— and learn.
+These views were refutable even then— but since they hurt the middleman, smart people happily stood by and said nothing. Well, today *we're* the ones being hurt! So yes, the major labels got many things wrong. But how did they get Nirvana and Radiohead *right*? With BYCombo, you can join a movement that holds no grievances, and thus is willing to ask— and learn.
 
 ### The opportunity cost is too damn high
 
