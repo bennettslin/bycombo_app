@@ -14,10 +14,6 @@ As an artist, do you sense that everything about rock today is *backward*? Why d
 
 ### Who we're looking for
 
-${'  ' || `
-// TODO: Must be driven.
-`}
-
 Anyone of legal age is welcome to apply. But ideally, you should already have some life experience under your belt! You're also reasonably skilled in one or more of the following roles:
 
 * A rock musician: singer, guitarist, drummer…
