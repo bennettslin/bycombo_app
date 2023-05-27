@@ -9,7 +9,7 @@ const Component = () => (
 
 By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana or Radiohead— and then wrote off the rest as failed bets. By contrast, the indie labels held to fair standards that promised *all* their bands a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here. I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
 There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life coming up with a plan:
 
@@ -59,19 +59,17 @@ Here's an incomplete list of ways…
 
 ${'  ' || `
 // TODO: Just review a few more times.
-
-First paragraph: Who we should count on to discover…
 `}
 
 ### Cultures of grievance wallow in confusion
 
-In the 90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As every Gen Xer knows, then, Nirvana and Radiohead *weren't* indie. But to the younger generations, they *sound* indie— so now they are. This isn't a trivial mix-up— at least, not if we hope to bring about the *next* Nirvana and Radiohead! How did it happen?
+In the 90s, "indie rock" referred to bands like Pavement, who *didn't* sign to a major label; as every Gen Xer knows, then, Nirvana and Radiohead *weren't* indie. To the younger generations, though, they *sound* indie— so they might as *well* be. But… this isn't a trivial mix-up! It means we're now looking for the *next* Nirvana and Radiohead in all the wrong places. How did this happen?
 
-Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and the middleman. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares if those around you hold inconsistent beliefs, when *being* confused is what gets them fired up to hurt your common enemy?
+Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and the middleman. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares that those around you hold irrational beliefs, if this is what fires them up to hurt your common enemy?
 
-For example, even once [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) made it clear that the Internet caters to the lowest common denominator… indie rock concluded that [going viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah) is the new grassroots phenomenon?! And when Radiohead and [Amanda Palmer](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me) crowdfunded their own works… indie rock saw it as proof that artists *don't* need a label deal?!
+For example, even once [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) made it clear that the Internet caters to the lowest common denominator… indie rock concluded that [going viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah) is the new grassroots phenomenon?! And when Radiohead and [Amanda Palmer](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me) crowdfunded their own works… indie rock saw this as proof that artists *don't* need a label deal?!
 
-These views were refutable even then— but since they hurt the middleman, smart people happily stood by and said nothing. Well, today *we're* the ones being hurt! So yes, the major labels got many things wrong. But how did they get Nirvana and Radiohead *right*? With BYCombo, you can join a movement that holds no grievances, and thus is willing to ask— and learn.
+These views were refutable even then— but since they hurt the middleman, smart people happily stood by and said nothing. Well, today *we're* the ones being hurt! So yes, the major labels got many things wrong. But how did they get Nirvana and Radiohead *right*? With BYCombo, you can join a movement that's willing to ask— and learn— because it holds no grievances.
 
 ### The opportunity cost is too damn high
 
@@ -90,12 +88,12 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 ### The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Flooding the world.
+// TODO: Just one more final review.
 `}
 
 We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
+In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
 
 Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
 
@@ -145,17 +143,13 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
-${'  ' || `
-// TODO: Better Kendrick Lamar statement.
-`}
-
 Who foresaw indie rock's final stage as a trust fund playground? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/3489987). When they boast of having hustled, they're saying, "Hey, I hustled *too*." It's to ensure that self-reliance means *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, indie rock today feels like just another foreign canon. So women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Like those hungry outsiders before us, we need to be the *most* original, the *most* talented… and this can only happen through *mutual* reliance. Hip hop gets this, which is why it *hasn't* declined; today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). But I get this too! So now with BYCombo, you can aspire to be a "Kendrick Lamar of rock."
+Like those hungry outsiders before us, we need to be the *most* original, the *most* talented… and this can only happen through *mutual* reliance. Hip hop gets this, which is why it *hasn't* declined; today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). But I get this too! So BYCombo gives you the same chances— as a band.
 
 ### Paid dues must now collude
 
