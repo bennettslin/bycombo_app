@@ -63,7 +63,7 @@ ${'  ' || `
 
 ### Cultures of grievance wallow in confusion
 
-In the 90s, "indie" referred to bands like Pavement, who *didn't* sign to a major label. As every Gen Xer knows, then, Nirvana and Radiohead *weren't* indie. To the younger generations, however, they *sound* indie— so they might as *well* be. But… this mix-up isn't trivial! It's causing us to look for the *next* Nirvana and Radiohead in all the wrong places. How did this happen?
+In the 90s, "indie" referred to bands like Pavement, who *didn't* sign to a major label. Nirvana and Radiohead *weren't* indie, then, as every Gen Xer knows. To the younger generations, however, they *sound* indie— so they might as *well* be. But… this mix-up isn't trivial! It's causing us to look for the *next* Nirvana and Radiohead in all the wrong places. How did this happen?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and the middleman. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares that those around you are confused in their beliefs, if this is what gets them fired up to hurt your common enemy?
 
@@ -87,13 +87,9 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 ### The grassroots is now a lottery
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
-
 We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
+In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
 Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
 
