@@ -139,13 +139,45 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 ### *For* hungry outsiders, *by* a hungry outsider
 
+${'  ' || `
+// TODO: Come up with a more explanatory title.
+`}
+
 Who foresaw indie rock's final stage as a trust fund playground? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/3489987). When they boast of having hustled, they're saying, "Hey, I hustled *too*." It's to ensure that self-reliance means *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, indie rock today feels like just another foreign canon. So women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Like those hungry outsiders before us, we need to be the *most* original, the *most* talented… and this can only happen through *mutual* reliance. Hip hop gets this, which is why it *hasn't* declined; today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). But I get this too! So BYCombo gives you the same chances— as a band.
+Like those hungry outsiders before us, we need to be the *most* original, the *most* talented… and this can only happen through *mutual* reliance. Hip hop gets this, which is why it *hasn't* declined; today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives you the same chances— as a rock band.
+
+### Interdependence guards against prejudice
+
+${'  ' || `
+// TODO: Ideas are all there. Just flesh out and make it flow better, especially last paragraph.
+
+Third paragraph: Make this all about indie rock's failings. Move interdependence sentence to fourth paragraph.
+`}
+
+Indie rock isn't defined by any aesthetic, but by an ideology— which means rock could have been indie from the very beginning! Imagine we travel to the 50s in a time machine, then, and we make this announcement: "Artists, you may no longer rely on business partners. Your success now rests solely on your ability to build a fanbase on your own!"
+
+But… in the 50s, Black artists *needed* White allies to advocate on their behalf. So indie rock's rules would have worked like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), effectively shutting out Black artists without admitting to this intent. Which means indie rock back then would have been unmistakable as a White supremacist movement!
+
+The message is clear: Interdependence allows artists to succeed *despite* the prejudice of their times. Is today's society completely free from prejudice? Of course not. Well then, do today's indie gatekeepers really want to be in the business of deciding which groups face enough prejudice to be exempt from their rules? I'm sure they don't.
+
+The solution, then, is obvious: Let BYCombo provide disadvantaged groups with an interdependent alternative, where it's no shame to have partners advocate on your behalf.
+
+${'  ' || `
+// TODO:
+### Independence breeds homogeneity
+
+Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive, but I'm just a hobbyist who'll eventually give up. Why do they misjudge me so badly? Then it finally hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* gatekeeper, a hundred times over, who doesn't understand that I'm not them.
+
+There's no diversity training in rock, but those who want interdependence learn the value of diversity anyway, because their advantage comes from finding partners who are strong where they're weak, and vice versa. By contrast, those who want independence lack any incentive to learn that others think differently from them.
+
+As a result, every indie gatekeeper thinks the same way and, in turn, selects those artists who think like them: That no serious artist would simply jump from one project to the next while waiting for a business partner. Why? Because it isn't what *they'd* do themselves. With BYCombo, you can once again find business partners who understand the benefits of diversity of thought.
+`}
+
 
 ### Paid dues must now collude
 
