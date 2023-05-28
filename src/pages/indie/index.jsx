@@ -58,7 +58,7 @@ To save rock, then, a centralized initiative like BYCombo must now step up to en
 Here's an incomplete list of ways…
 
 ${'  ' || `
-// TODO: Just review a few more times.
+// TODO: Just one more final review.
 `}
 
 ### Cultures of grievance wallow in confusion
@@ -127,7 +127,7 @@ Um… all of us other artists who *weren't* picked, that's who! To be clear, we'
 
 Because we're invested in the creative process ourselves, we don't commit false positives: We recognize when a critical darling's talents are nothing to envy. And we also don't commit false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
 
-So don't be misled by how the critics think! To make rock history, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of others who'll keep your standards high.
+So don't be misled by the critics! To escape the long tail and make history, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of others who'll keep your standards high.
 
 ### Competitive self-reliance favors privilege
 
@@ -154,18 +154,18 @@ Like those hungry outsiders before us, we need to be the *most* original, the *m
 ### Interdependence guards against prejudice
 
 ${'  ' || `
-// TODO: Ideas are all there. Just flesh out and make it flow better, especially last paragraph.
+// TODO: Just review a few more times.
 
-Third paragraph: Make this all about indie rock's failings. Move interdependence sentence to fourth paragraph.
+Fourth paragraph needs to be worked on.
 `}
 
-Indie rock isn't defined by any aesthetic, but by an ideology— which means rock could have been indie from the very beginning! Imagine we travel to the 50s in a time machine, then, and we make this announcement: "Artists, you may no longer rely on business partners. Your success now rests solely on your ability to build a fanbase on your own!"
+Indie rock isn't defined by any aesthetic, but by an ideology that's supposedly timeless— so why couldn't rock be indie from the very *beginning*? Imagine, then, that we travel back to the 50s in a time machine and announce: "Artists, your success now rests solely upon building a fanbase on your own. Never again will a business partner help you!"
 
-But… in the 50s, Black artists *needed* White allies to advocate on their behalf. So indie rock's rules would have worked like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), effectively shutting out Black artists without admitting to this intent. Which means indie rock back then would have been unmistakable as a White supremacist movement!
+Every Black artist would stare glumly at us. Why? Because back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), shutting them out in *effect*— without admitting to this *intent*. By introducing indie rock in the 50s, then… we'd look like White supremacists. But this *wasn't* our intent! So where did we go wrong?
 
-The message is clear: Interdependence allows artists to succeed *despite* the prejudice of their times. Is today's society completely free from prejudice? Of course not. Well then, do today's indie gatekeepers really want to be in the business of deciding which groups face enough prejudice to be exempt from their rules? I'm sure they don't.
+It's simple: Because of its decentralized nature, indie rock can't guard against the prejudices of its times. It has to reflect them— and the 50s were pretty racist! Well… is society free of prejudice today? Of course not— which means some groups *still* deserve to be exempt from indie rock's rules. Does anyone want the job of deciding which ones? I doubt it.
 
-The solution, then, is obvious: Let BYCombo provide disadvantaged groups with an interdependent alternative, where it's no shame to have partners advocate on your behalf.
+Luckily, there's an easy way to make everyone happy: Let BYCombo provide an interdependent alternative to any artist who wants it— and then never again question why any artist should want a partner to advocate on their behalf.
 
 ${'  ' || `
 // TODO:
