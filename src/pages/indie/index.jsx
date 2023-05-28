@@ -166,14 +166,16 @@ ${'  ' || `
 
 First paragraph: Characterize business partner sentence better? Isn't dependent on any particular technology.
 
-Fourth paragraph needs to be worked on.
+Third paragraph: You can join a movement that recognizes providing an interdependence option is a moral thing to do.
+
+Maybe don't need a fourth paragraph.
 `}
 
 Indie rock isn't defined by any aesthetic, but by an ideology that's supposedly timeless— so why couldn't rock be indie from the very *beginning*? Imagine, then, that we travel back to the 50s in a time machine and announce: "Artists, your success now rests solely upon building a fanbase on your own. Never again will a business partner help you!"
 
 Every Black artist would stare glumly at us. Why? Because back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), shutting them out in *effect*— without admitting to this *intent*. By introducing indie rock in the 50s, then… we'd look like White supremacists. But this *wasn't* our intent! So where did we go wrong?
 
-It's simple: Because of its decentralized nature, indie rock can't guard against the prejudices of its times. It has to reflect them— and the 50s were pretty racist! Well… is society free of prejudice today? Of course not— which means some groups *still* deserve to be exempt from indie rock's rules. Does anyone want the job of deciding which ones? I doubt it.
+It's simple: Because of its decentralized nature, indie rock can't guard against the prejudices of its times. It can only reflect them— and the 50s were pretty racist! Well… is society free of prejudice today? Of course not.
 
 Luckily, there's an easy way to make everyone happy: Let BYCombo provide an interdependent alternative to any artist who wants it— and then never again question why any artist should want a partner to advocate on their behalf.
 
