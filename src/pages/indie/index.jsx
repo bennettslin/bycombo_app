@@ -149,25 +149,17 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 
 Like those hungry outsiders before us, we need to be the *most* original, the *most* talented… and this can only happen through *mutual* reliance. Hip hop gets this, which is why it *hasn't* declined; today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives you the same chances— as a rock band.
 
-### Independence can't guard against prejudice
+### Interdependence guards against prejudice
 
 ${'  ' || `
-// TODO: Just review a few more times.
+// TODO: Just one more final review.
 `}
 
-Indie rock is less an aesthetic than an ideology— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the 50s and announce: "Artists, your success now rests solely upon building a fanbase on your own. A business partner will no longer help you!"
+Indie rock is less an aesthetic than an ideology— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the 50s and announce: "Artists, your success now rests solely upon building a fanbase on your own. A business partner can no longer help you!"
 
 Every Black artist would stare glumly at us. Why? Because back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the 50s, then… we'd look like White supremacists. But this *wasn't* our intent! So where did we go wrong?
 
-It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only reflect them— and the 50s were pretty racist! Well… is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. After all, if you *need* interdependence… who are the indie gatekeepers to tell you otherwise?
-
-### Interdependence breeds diversity of thought
-
-Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive— but I'm just a hobbyist who'll eventually give up. Why do they misjudge me so badly? Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* one, a hundred times over.
-
-There's no diversity training in rock, but those who want interdependence learn the value of diversity anyway, because their advantage comes from finding partners who are strong where they're weak, and vice versa. By contrast, those who want independence lack any incentive to learn that others think differently from them.
-
-As a result, every indie gatekeeper thinks the same way and, in turn, selects those artists who think like them: That no serious artist would simply jump from one project to the next while waiting for a business partner. Why? Because it isn't what *they'd* do themselves. With BYCombo, you can once again find business partners who understand the benefits of diversity of thought.
+It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only reflect them— and the 50s were pretty racist! Well… is society free of prejudice today? Of course not— so BYCombo lets you find partners to advocate on your behalf. After all, if you *need* to be interdependent… who are the indie gatekeepers to tell you otherwise?
 
 ### Paid dues must now collude
 
