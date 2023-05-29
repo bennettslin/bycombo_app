@@ -63,13 +63,13 @@ ${'  ' || `
 
 ### Cultures of grievance wallow in confusion
 
-In the 90s, "indie" referred to bands like Pavement, who *didn't* sign to a major label. Nirvana and Radiohead *weren't* indie, then, as every Gen Xer knows. To the younger generations, however, they *sound* indie— so they might as *well* be. But… this mix-up isn't trivial! It means we're now looking for the *next* Nirvana and Radiohead in all the wrong places. How did this happen?
+In the 90s, "indie" referred to bands like Pavement, who *never* signed to a major label. Nirvana and Radiohead *weren't* indie, then, as Gen X knows. To the younger generations, however, they *sound* indie— so they might as *well* be. But… this mix-up isn't trivial! It means we're now looking for the *next* Nirvana and Radiohead in all the wrong places. How did this happen?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares that those around you are confused in their beliefs, if this is what fires them up to hurt your common enemy?
 
 For example, even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) made it clear that the Internet caters to the lowest common denominator… indie rock concluded that [going viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah) is the new grassroots phenomenon?! And when Radiohead and [Amanda Palmer](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me) crowdfunded their own works… indie rock saw this as proof that artists *don't* need a label deal?!
 
-These early examples of indie success clearly had much to do with chance and privilege— yet smart people stood by and said nothing, eager to stick it to the major labels. So now *every* indie artist is expected to thrive under the same conditions! As with MAGA, then, the ones hurt *most* by indie rock's tolerance for confusion… are its own.
+These early examples of indie success clearly had much to do with chance and privilege— yet smart people stood by and said nothing, eager to stick it to the major labels. So now it's assumed that *any* indie artist can succeed by fending for themselves! As with MAGA, then, the ones hurt *most* by indie rock's tolerance for confusion… are its own.
 
 Sure, the major labels got many things wrong— but they got Nirvana and Radiohead *right*! Well, how? With BYCombo, you can join a movement that's willing to ask— and learn— because it holds no grievances.
 
@@ -149,7 +149,7 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 
 Like those hungry outsiders before us, we need to be the *most* original, the *most* talented… and this can only happen through *mutual* reliance. Hip hop gets this, which is why it *hasn't* declined; today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives you the same chances— as a rock band.
 
-### Interdependence guards against prejudice
+### Independence can't guard against prejudice
 
 ${'  ' || `
 // TODO: Just review a few more times.
@@ -161,17 +161,13 @@ Every Black artist would stare glumly at us. Why? Because back then, they *neede
 
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only reflect them— and the 50s were pretty racist! Well… is society free of prejudice today? Of course not. So BYCombo allows you to find partners to advocate on your behalf. Because if you *need* interdependence… who are the indie gatekeepers to tell you otherwise?
 
-${'  ' || `
-// TODO:
-### Independence breeds homogeneity
+### Interdependence breeds diversity of thought
 
-Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive, but I'm just a hobbyist who'll eventually give up. Why do they misjudge me so badly? Then it finally hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* gatekeeper, a hundred times over, who doesn't understand that I'm not them.
+Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive— but I'm just a hobbyist who'll eventually give up. Why do they misjudge me so badly? Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* one, a hundred times over.
 
 There's no diversity training in rock, but those who want interdependence learn the value of diversity anyway, because their advantage comes from finding partners who are strong where they're weak, and vice versa. By contrast, those who want independence lack any incentive to learn that others think differently from them.
 
 As a result, every indie gatekeeper thinks the same way and, in turn, selects those artists who think like them: That no serious artist would simply jump from one project to the next while waiting for a business partner. Why? Because it isn't what *they'd* do themselves. With BYCombo, you can once again find business partners who understand the benefits of diversity of thought.
-`}
-
 
 ### Paid dues must now collude
 
@@ -191,7 +187,7 @@ In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csiksze
 
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because indie rock can never admit the truth: Anything gained through self-reliance might just as well be won by chance or bought by privilege. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
-So yes, BYCombo requires you to focus on your craft— but this isn't *just* to make your art better! It's also for your happiness, and the good of your soul.
+So yes, BYCombo requires you to focus on your craft. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
 
 ### Art needs the passion of martyrs
 
