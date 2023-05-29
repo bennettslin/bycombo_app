@@ -63,15 +63,15 @@ ${'  ' || `
 // TODO: Just review a few more times.
 `}
 
-In the 90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead *aren't* indie. To the younger generations, however, they *sound* indie— so they might as *well* be. But… this confusion isn't trivial! It means we're now looking for the *next* Nirvana and Radiohead in all the wrong places. How did this happen?
+In the 90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead *aren't* indie. To the younger generations, however, they *sound* indie— so they might as *well* be. But… this confusion isn't trivial! It means we're now looking for the *next* Nirvana and Radiohead in the wrong places. How did this happen?
 
-Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares that those around you are confused in their beliefs, if this is what fires them up to attack your common enemy?
+Simply put, indie rock doesn't know what it stands *for*, only what it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares that those around you are confused in their beliefs, if this is what fires them up to attack your common enemy?
 
 So even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) made it clear that the Internet caters to the lowest common denominator… indie rock concluded that bands going viral is the new [grassroots phenomenon](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah)?! And when Radiohead and [Amanda Palmer](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me) crowdfunded their works… indie rock saw this as proof that artists *don't* need a label deal?!
 
-In every one of these success stories from the Internet's early years, chance or privilege *clearly* played a major role— yet smart people stood by and said nothing, eager to stick it to the major labels. Except… now it's assumed that *any* indie artist can succeed on the same terms! Just like MAGA, then, indie rock tolerated confusion… and ended up hurting its own.
+In each of these success stories from the Internet's early days, chance or privilege *clearly* played a major role— yet smart people stood by and said nothing, eager to stick it to the major labels. Except… now the public expects *every* artist to succeed on similar terms! As with MAGA, then, indie rock's tolerance for confusion only ended up hurting its own.
 
-So yes, the major labels got many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— and learn— because it holds no grievances.
+So yes, the major labels got many things wrong. But how did they get Nirvana and Radiohead *right*? With BYCombo, you can now join a movement that's willing to ask— and learn— because it holds no grievances.
 
 ### The opportunity cost is too damn high
 
@@ -155,11 +155,11 @@ ${'  ' || `
 // TODO: Just one more final review.
 `}
 
-Indie rock is less an aesthetic than an ideology— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the 50s and announce: "Artists, your success now rests solely upon building a fanbase on your own. A business partner can no longer help you!"
+Indie rock is less an aesthetic than an ideology— but ideologies transcend time! So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the 50s and announce: "Artists, your success now rests solely upon building a fanbase on your own. A business partner can no longer help you!"
 
 Every Black artist would stare glumly at us. Why? Because back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the 50s, then… we'd look like White supremacists. But this *wasn't* our intent! So where did we go wrong?
 
-It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only reflect them— and the 50s were pretty racist! Well… is society free of prejudice today? Of course not— so BYCombo lets you find partners to advocate on your behalf. After all, if you *need* to be interdependent… who are the indie gatekeepers to tell you otherwise?
+It's simple: Given its decentralized nature, indie rock *can't* guard against the prejudices of its times. It *has* to reflect them— and the 50s were pretty racist! Is society free of prejudice today? Of course not— and this is why BYCombo lets you find partners to advocate on your behalf. After all, if you *need* to be interdependent… who are the indie gatekeepers to tell you otherwise?
 
 ### Paid dues must now collude
 
