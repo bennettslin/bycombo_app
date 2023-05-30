@@ -60,18 +60,18 @@ Here's an incomplete list of ways…
 ### Cultures of grievance wallow in confusion
 
 ${'  ' || `
-// TODO: Just review a few more times.
+// TODO: Just one more final review.
 `}
 
 In the 90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead *aren't* indie. To the younger generations, however, they *sound* indie— so they might as *well* be. But… this confusion isn't trivial! It means we're now looking for the *next* Nirvana and Radiohead in the wrong places. How did this happen?
 
 Simply put, indie rock doesn't know what it stands *for*, only what it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares that those around you are confused in their beliefs, if this is what fires them up to attack your common enemy?
 
-So even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) made it clear that the Internet caters to the lowest common denominator… indie rock concluded that bands going viral is the new [grassroots phenomenon](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah)?! And when Radiohead and [Amanda Palmer](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me) crowdfunded their works… indie rock saw this as proof that artists *don't* need a label deal?!
+So even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) made it clear that the Internet caters to the lowest common denominator… indie rock concluded that bands going viral is the new [grassroots phenomenon](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah)?! And when Radiohead and [Amanda Palmer](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me) crowdfunded their works… this was taken as proof that artists *don't* need a label deal?!
 
-In each of these success stories from the Internet's early days, chance or privilege *clearly* played a major role— yet smart people stood by and said nothing, eager to stick it to the major labels. Except… now the public expects *every* artist to succeed on similar terms! As with MAGA, then, indie rock's tolerance for confusion only ended up hurting its own.
+In every one of these success stories from the Internet's early days, chance or privilege *clearly* played a critical role— yet smart people stood by and said nothing, eager to stick it to the major labels. So now the public expects *every* indie artist to succeed on the same terms! As with MAGA, then, indie rock's tolerance for confusion only ended up hurting its own.
 
-So yes, the major labels got many things wrong. But how did they get Nirvana and Radiohead *right*? With BYCombo, you can now join a movement that's willing to ask— and learn— because it holds no grievances.
+Yes, the major labels got many things wrong. But how did they get Nirvana and Radiohead *right*? With BYCombo, you can now join a movement that's willing to ask— and learn— because it holds no grievances.
 
 ### The opportunity cost is too damn high
 
