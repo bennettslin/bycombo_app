@@ -69,7 +69,7 @@ Simply put, indie rock doesn't know what it stands *for*— only what it stands 
 
 So even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) made it obvious that the Internet caters to the lowest common denominator… indie rock concluded that bands going viral is the new [grassroots phenomenon](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah)?! And when Radiohead and [Amanda Palmer](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me) crowdfunded their works… this was taken as proof that artists *don't* need a label deal?!
 
-These views were refutable even then, given the clear role played by chance or privilege in so many early examples of online success. Yet smart people stood by and said nothing, eager to stick it to the major labels. Well… now the public expects *every* indie artist to succeed under similar terms! Like MAGA, then, indie rock tolerated confusion… and ended up hurting its own.
+In all these early examples of online success, chance or privilege *clearly* played a key role. Yet indie rock was so eager to stick it to the major labels, it chose to overlook this point. What happened as a result? The public now assumes *any* indie artist can succeed on the same terms! Like MAGA, then, indie rock tolerated confusion… only to end up hurting its own.
 
 So yes, the major labels got many things wrong— but they got Nirvana and Radiohead *right*! Well, how? With BYCombo, you can now join a movement that's willing to ask— and learn— because it holds no grievances.
 
