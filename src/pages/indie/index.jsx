@@ -87,13 +87,13 @@ Indie rock requires artists to wear several hats: the marketer hat, the publicis
 
 These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking. So keep your artist hat on, and let a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
-### The grassroots is now a lottery
+### Creativity gets its chance from the clueless
 
-We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+Because the indie gatekeepers stay close to their local scenes, they're both "in the know" and "one of us." So whatever *they* like is what others like *us* have liked, which means it's the best of what *we'll* like… right? Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
-In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
+Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
+Which is why, throughout history, the most creative artists were backed by those with the *least* experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can once again find such partners to back you.
 
 ### Timeless music has intrinsic appeal
 
@@ -105,13 +105,13 @@ Because the indie labels always lost those radio-friendly bands to the majors, t
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need.
 
-### Creativity gets its chance from the clueless
+### The grassroots is now a lottery
 
-Because the indie gatekeepers stay close to their local scenes, they're both "in the know" and "one of us." So whatever *they* like is what others like *us* have liked, which means it's the best of what *we'll* like… right? Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
+In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
-Which is why, throughout history, the most creative artists were backed by those with the *least* experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can once again find such partners to back you.
+Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
 
 ### Middle managers join the revolution last
 
