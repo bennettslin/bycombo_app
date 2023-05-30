@@ -69,7 +69,7 @@ Simply put, indie rock doesn't know what it stands *for*— only what it stands 
 
 So even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) made it obvious that the Internet caters to the lowest common denominator… indie rock concluded that bands going viral is the new [grassroots phenomenon](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah)?! And when Radiohead and [Amanda Palmer](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me) crowdfunded their works… this was taken as proof that artists *don't* need a label deal?!
 
-In all these early examples of online success, chance or privilege *clearly* played a key role. Yet indie rock was so eager to stick it to the major labels, it chose to overlook this point. What happened as a result? The public now assumes *any* indie artist can succeed on the same terms! Like MAGA, then, indie rock tolerated confusion… only to end up hurting its own.
+In all these early examples of online success, chance or privilege played a *clear* role— yet indie rock was so eager to stick it to the major labels, it chose to ignore this point. As a result… today the public expects *every* indie artist to succeed on similar terms! Like MAGA, then, indie rock tolerates confusion— only to end up hurting its own.
 
 So yes, the major labels got many things wrong— but they got Nirvana and Radiohead *right*! Well, how? With BYCombo, you can now join a movement that's willing to ask— and learn— because it holds no grievances.
 
@@ -159,7 +159,7 @@ Indie rock is less an aesthetic than an ideology— and ideologies transcend tim
 
 Every Black artist would stare glumly at us. Why? Because back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the 50s, then… we'd look like White supremacists. But this *wasn't* our intent! So where did we go wrong?
 
-It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only reflect them— and the 50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if you *need* interdependence… who are the indie gatekeepers to tell you otherwise?
+It's simple: Given its decentralized nature, indie rock can't *guard* against the prejudices of its times. It can only *reflect* them— and the 50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if you *need* interdependence… who are the indie gatekeepers to tell you otherwise?
 
 ### Paid dues must now collude
 
