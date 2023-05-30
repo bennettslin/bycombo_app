@@ -69,9 +69,9 @@ Simply put, indie rock doesn't know what it stands *for*— only what it stands 
 
 So even once [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) made it clear that the Internet caters to the lowest common denominator… indie rock concluded that bands going viral is the new [grassroots phenomenon](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah)?! And when Radiohead and [Amanda Palmer](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me) crowdfunded their works… this was taken as proof that artists *don't* need a label deal?!
 
-In every one of these success stories from the Internet's early days, chance or privilege *clearly* played a crucial role— yet smart people stood by and said nothing, eager to stick it to the major labels. But… now the public expects *every* indie artist to succeed under the same terms! As with MAGA, then, indie rock's tolerance for confusion only ends up hurting its own.
+In each of these success stories from the Internet's early days, chance or privilege *clearly* played a crucial role— yet smart people stood by and said nothing, eager to stick it to the major labels. Except… now the public expects *every* indie artist to succeed under similar terms! Like MAGA, then, indie rock tolerated confusion… only to hurt its own.
 
-So yes, the major labels got many things wrong. But how did they get Nirvana and Radiohead *right*? With BYCombo, you can now join a movement that's willing to ask— and learn— because it holds no grievances.
+So yes, the major labels got many things wrong— but they got Nirvana and Radiohead *right*! Well, how? With BYCombo, you can now join a movement that's willing to ask— and learn— because it holds no grievances.
 
 ### The opportunity cost is too damn high
 
@@ -86,14 +86,6 @@ What happens if a band goes above and beyond anyway, hoping to remain peerless? 
 Indie rock requires artists to wear several hats: the marketer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from revelatory insights that can't be summoned at will.
 
 These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking. So keep your artist hat on, and let a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
-
-### Creativity gets its chance from the clueless
-
-Because the indie gatekeepers stay close to their local scenes, they're both "in the know" and "one of us." So whatever *they* like is what others like *us* have liked, which means it's the best of what *we'll* like… right? Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
-
-Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
-
-Which is why, throughout history, the most creative artists were backed by those with the *least* experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can once again find such partners to back you.
 
 ### Timeless music has intrinsic appeal
 
@@ -112,6 +104,14 @@ We all respect those 80s indie bands for having built a grassroots fanbase, righ
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
 Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! Thankfully, with BYCombo, you can once again *earn* your success, by showing up to work every day for untold years.
+
+### Creativity gets its chance from the clueless
+
+Because the indie gatekeepers stay close to their local scenes, they're both "in the know" and "one of us." So whatever *they* like is what others like *us* have liked, which means it's the best of what *we'll* like… right? Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+
+Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
+
+Which is why, throughout history, the most creative artists were backed by those with the *least* experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can once again find such partners to back you.
 
 ### Middle managers join the revolution last
 
@@ -155,7 +155,7 @@ Indie rock is less an aesthetic than an ideology— and ideologies transcend tim
 
 Every Black artist would stare glumly at us. Why? Because back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the 50s, then… we'd look like White supremacists. But this *wasn't* our intent! So where did we go wrong?
 
-It's simple: Given its decentralized nature, indie rock *can't* guard against the prejudices of its times. It *has* to reflect them— and the 50s were pretty racist! Is society free of prejudice today? Of course not— and this is why BYCombo lets you find partners to advocate on your behalf. Because if you *need* to be interdependent… who are the indie gatekeepers to tell you otherwise?
+It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It has to reflect them— and the 50s were pretty racist! Is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if you *need* to be interdependent… who are the indie gatekeepers to tell you otherwise?
 
 ### Paid dues must now collude
 
