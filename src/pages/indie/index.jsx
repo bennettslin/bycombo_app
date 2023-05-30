@@ -151,15 +151,11 @@ Like those hungry outsiders before us, we need to be the *most* original, the *m
 
 ### Interdependence guards against prejudice
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
-
 Indie rock is less an aesthetic than an ideology— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the 50s and announce: "Artists, your success now rests solely upon building a fanbase on your own. A business partner can no longer help you!"
 
 Every Black artist would stare glumly at us. Why? Because back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the 50s, then… we'd look like White supremacists. But this *wasn't* our intent! So where did we go wrong?
 
-It's simple: Given its decentralized nature, indie rock can't *guard* against the prejudices of its times. It can only *reflect* them— and the 50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if you *need* interdependence… who are the indie gatekeepers to tell you otherwise?
+It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the 50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if you *need* interdependence… who are the indie gatekeepers to tell you otherwise?
 
 ### Paid dues must now collude
 
