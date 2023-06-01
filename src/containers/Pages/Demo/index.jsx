@@ -6,10 +6,9 @@ import DemoHeader from '../../../components/DemoHeader'
 import { getFormattedText } from '../../../utils/format'
 
 const DemoPage = ({
-    advancementText,
-    otherProjectsText,
     project,
     description,
+    body,
     ...rest
 }) => (
     <Page
@@ -29,15 +28,7 @@ const DemoPage = ({
                     />
                 ),
                 description,
-                `
-**How does this advance the art form?**
-
-${advancementText}
-
-**What other projects does this band have?**
-
-${otherProjectsText}
-                `,
+                body,
             ],
         }}
     />
@@ -46,8 +37,7 @@ ${otherProjectsText}
 DemoPage.propTypes = {
     project: PropTypes.string.isRequired,
     description: PropTypes.string.isRequired,
-    advancementText: PropTypes.string.isRequired,
-    otherProjectsText: PropTypes.string.isRequired,
+    body: PropTypes.string.isRequired,
 }
 
 export default DemoPage
