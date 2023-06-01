@@ -1,12 +1,11 @@
 import React from 'react'
 import cx from 'classnames'
 import PropTypes from 'prop-types'
-// import Anchor from '../Anchor'
+import Anchor from '../Anchor'
 import ContactEmail from '../ContactEmail'
 import Flex from '../Flex'
 import Image from '../Image'
 import Heading from '../Heading'
-import Markdown from '../Markdown'
 import { getFormattedText } from '../../utils/format'
 import './style'
 
@@ -15,7 +14,7 @@ const DemoHeader = ({
     project,
     bandUrl,
     projectUrl,
-    overviewUrl,
+    onesheetUrl,
     email,
     src,
 }) => (
@@ -53,30 +52,33 @@ const DemoHeader = ({
                 }}
             >
                 <Heading {...{ level: 1 }}>
-                    <i>{getFormattedText(project)}</i>
+                    <Anchor
+                        noVisited
+                        {...{
+                            href: projectUrl,
+                        }}
+                    >
+                        <i>{getFormattedText(project)}</i>
+                    </Anchor>
                 </Heading>
                 <Heading {...{ level: 2 }}>
-                    {getFormattedText(band)}
+                    <Anchor
+                        noVisited
+                        {...{
+                            href: bandUrl,
+                        }}
+                    >
+                        {getFormattedText(band)}
+                    </Anchor>
                 </Heading>
-                <Markdown>
-                    {`
-[overview](${overviewUrl}) • [project](${projectUrl}) • [band](${bandUrl})
-                    `}
-                </Markdown>
-                {/* <Flex
+                <Anchor
+                    noVisited
                     {...{
-                        justifyContent: 'normal',
-                        gap: 'sm',
+                        href: onesheetUrl,
                     }}
                 >
-                    <Anchor {...{ href: projectUrl }}>
-                            project website
-                    </Anchor>
-                    {'•'}
-                    <Anchor {...{ href: overviewUrl }}>
-                        project overview
-                    </Anchor>
-                </Flex> */}
+                    onesheet
+                </Anchor>
             </Flex>
             <ContactEmail {...{ email }} />
         </Flex>
@@ -90,7 +92,7 @@ DemoHeader.propTypes = {
     description: PropTypes.string.isRequired,
     bandUrl: PropTypes.string.isRequired,
     projectUrl: PropTypes.string.isRequired,
-    overviewUrl: PropTypes.string.isRequired,
+    onesheetUrl: PropTypes.string.isRequired,
     email: PropTypes.string.isRequired,
     src: PropTypes.string.isRequired,
 }

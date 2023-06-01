@@ -6,6 +6,7 @@ import { getInternalLinkForPath } from '../../utils/pages/path'
 import { getInternalLink } from './helper'
 
 const Anchor = ({
+    noVisited,
     className,
     analyticsLabel,
     href,
@@ -37,6 +38,7 @@ const Anchor = ({
             {...{
                 className: cx(
                     'Anchor',
+                    !noVisited && 'Anchor__showVisited',
                     className,
                 ),
                 ...internalLink && {
@@ -58,6 +60,7 @@ const Anchor = ({
 }
 
 Anchor.propTypes = {
+    noVisited: PropTypes.bool,
     className: PropTypes.string,
     analyticsLabel: PropTypes.string,
     href: PropTypes.string,

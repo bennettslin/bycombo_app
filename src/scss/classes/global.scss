@@ -82,7 +82,7 @@ a, button, input[type=submit] {
         color: $colour__link__light;
     }
 
-    &.Anchor:visited {
+    &.Anchor__showVisited:visited {
         color: $colour__visited__dark;
 
         &:not([disabled]):hover {
