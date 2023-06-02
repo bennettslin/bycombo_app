@@ -13,17 +13,11 @@ export default {
     body: `
 **How does this advance the art form?**
 
-Proof of concept.
+Ulysses of rock albums. Doublespeaker rhyme.
 
 Audio webcomic.
 
-Doublespeaker rhyme.
-
-**Who are you looking for?**
-
-Partner.
-
-Label.
+Proof of concept.
 
 **What else do you have to offer?**
 
@@ -38,5 +32,11 @@ Next two albums ready to go.
 Band committed to advancing the art form.
 
 A million dollars.
+
+**Who are you looking for?**
+
+Partner.
+
+Label.
     `,
 }
