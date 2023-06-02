@@ -13,8 +13,30 @@ export default {
     body: `
 **How does this advance the art form?**
 
+Proof of concept.
+
+Audio webcomic.
+
+Doublespeaker rhyme.
+
 **Who are you looking for?**
 
+Partner.
+
+Label.
+
 **What else do you have to offer?**
+
+Bobtail Method.
+
+Bobtail Dominoes.
+
+Amnesticism.
+
+Next two albums ready to go.
+
+Band committed to advancing the art form.
+
+A million dollars.
     `,
 }
