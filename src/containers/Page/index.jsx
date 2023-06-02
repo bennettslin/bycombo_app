@@ -16,6 +16,8 @@ import './style'
 
 const Page = ({
     children,
+    metaTitle,
+    metaDescription,
     ...rest
 }) => {
     const dispatch = useDispatch()
@@ -33,7 +35,7 @@ const Page = ({
 
     return (
         <PageConfigContext.Provider {...{ value: rest }}>
-            <Helmet />
+            <Helmet {...{ metaTitle, metaDescription }} />
             {/* This assumes children or markdown, but never both. */}
             {children ? children : (
                 <StyledPage>
@@ -62,6 +64,8 @@ Page.propTypes = {
     noShare: PropTypes.bool,
     showContactEmail: PropTypes.bool,
     children: PropTypes.node,
+    metaTitle: PropTypes.string,
+    metaDescription: PropTypes.string,
     pages: PropTypes.arrayOf(PropTypes.shape({
         id: PropTypes.string.isRequired,
         title: PropTypes.string.isRequired,
