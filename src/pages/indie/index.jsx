@@ -95,15 +95,11 @@ Yet no one cares what past critics thought, while nearly everyone loves a past w
 
 ### The grassroots is now a lottery
 
-${'  ' || `
-// TODO: Just one more final review.
-`}
-
 We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, they were always likely to succeed, because they *earned* it. They showed up to work every day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
-Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! But with BYCombo, you can once again *earn* your success, by putting in the work each day for untold years— on your craft.
+Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! But with BYCombo, you can once again *earn* your success, by putting in the work each day for untold years.
 
 ### Creativity gets its chance from the clueless
 
