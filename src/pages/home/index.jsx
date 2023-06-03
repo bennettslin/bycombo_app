@@ -4,6 +4,8 @@ import Page from '../../containers/Page'
 const Component = () => (
     <Page
         {...{
+            metaTitle: ``,
+            metaDescription: ``,
             body: `
 # The BYCombo mission
 
