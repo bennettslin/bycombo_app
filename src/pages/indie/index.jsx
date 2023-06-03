@@ -1,13 +1,16 @@
 import React from 'react'
 import Page from '../../containers/Page'
 
+const TITLE = `The problem with indie rock`
+const DESCRIPTION = `How indie rock has made music worse…`
+
 const Component = () => (
     <Page
         {...{
-            metaTitle: ``,
-            metaDescription: ``,
+            metaTitle: TITLE,
+            metaDescription: DESCRIPTION,
             body: `
-# The problem with indie rock
+# ${TITLE}
 
 By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana or Radiohead— and then they wrote off the rest as failed bets. By contrast, the indie labels held to fair standards that promised *all* their bands a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
@@ -145,19 +148,13 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 ### Hungry outsiders aim for the canon
 
-${'  ' || `
-// TODO: Mention that disadvantaged groups have a realistic understanding of competition.
-
-This is why every movement started by minorities is highly competitive: Disadvantage forces you to engage with the actual reality, not some cozy fantasy in your head.
-`}
-
-Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/3489987). When they boast of having hustled, they're saying, "Hey, I hustled *too*." It's to ensure that self-reliance means *nothing*.
+Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/3489987). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, indie rock today feels like just another foreign canon. So women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Like those hungry outsiders before us, we need to be the *most* original, the *most* talented… and this can only happen through *mutual* reliance. Hip hop gets this, which is why it *hasn't* declined; today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives you the same chances— as a rock band.
+Like those hungry outsiders before us, we need to be the *most* original, the *most* talented… and this can only happen through *mutual* reliance. Hip hop gets this, which is why it *hasn't* declined; today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives you the same chances— in a rock band.
 
 ### Interdependence guards against prejudice
 

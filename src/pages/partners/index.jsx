@@ -2,15 +2,18 @@ import React from 'react'
 import MailingList from '../../components/MailingList'
 import Page from '../../containers/Page'
 
+const TITLE = `Back the interdependence revolution!`
+const DESCRIPTION = `Build partnerships with self-sacrificing rock bands!`
+
 const Component = () => (
     <Page
         {...{
             showContactEmail: true,
-            metaTitle: ``,
-            metaDescription: ``,
+            metaTitle: TITLE,
+            metaDescription: DESCRIPTION,
             body: [
                 `
-# Support the interdependence revolution!
+# ${TITLE}
 
 ${'  ' || `
 // TODO: Beatles comparison.

@@ -3,14 +3,17 @@ import DemoLink from '../../components/DemoLink'
 import Page from '../../containers/Page'
 import bobtailYearlings from '../../content/registry/2023/bobtail-yearlings/yearlings-bobtail'
 
+const TITLE = `Return of the rock martyrs… and *saviors*!`
+const DESCRIPTION = `A public registry of self-sacrificing rock bands.`
+
 const Component = () => (
     <Page
         {...{
-            metaTitle: ``,
-            metaDescription: ``,
+            metaTitle: TITLE,
+            metaDescription: DESCRIPTION,
             body: [
                 `
-# Return of the rock martyrs… and *saviors*!
+# ${TITLE}
 
 **To earn the listener's trust, each band in this public registry sacrificed a serious chunk of lifetime— 25,000 hours, or twelve full-time years— to make a demo that advances the art form.**
 

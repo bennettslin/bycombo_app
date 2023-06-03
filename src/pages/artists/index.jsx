@@ -1,14 +1,17 @@
 import React from 'react'
 import Page from '../../containers/Page'
 
+const TITLE = `Join the interdependence revolution!`
+const DESCRIPTION = `Sacrifice a serious chunk of lifetime for art's sake!`
+
 const Component = () => (
     <Page
         {...{
             showContactEmail: true,
-            metaTitle: ``,
-            metaDescription: ``,
+            metaTitle: TITLE,
+            metaDescription: DESCRIPTION,
             body: `
-# Join the interdependence revolution!
+# ${TITLE}
 
 As an artist, do you sense that everything about rock today is *backward*? Why do the indie gatekeepers force you to waste so much time and energy using their tools? This *can't* be what the public wants, nor what matters to history… Well, you're *not* crazy: The system *is* broken— and here's how we'll fix it!
 

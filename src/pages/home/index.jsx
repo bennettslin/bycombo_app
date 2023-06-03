@@ -1,13 +1,16 @@
 import React from 'react'
 import Page from '../../containers/Page'
 
+const TITLE = `The BYCombo mission`
+const DESCRIPTION = `We're here to lead the interdependence revolution!`
+
 const Component = () => (
     <Page
         {...{
-            metaTitle: ``,
-            metaDescription: ``,
+            metaTitle: TITLE,
+            metaDescription: DESCRIPTION,
             body: `
-# The BYCombo mission
+# ${TITLE}
 
 **BYCombo is a nonprofit incubator of self-sacrificing rock bands. We're here to lead the interdependence revolution— a movement devoted to bringing forth this century's most historically consequential rock music!**
 
