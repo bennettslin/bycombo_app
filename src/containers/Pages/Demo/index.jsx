@@ -6,6 +6,7 @@ import DemoHeader from '../../../components/DemoHeader'
 import { getFormattedText } from '../../../utils/format'
 
 const DemoPage = ({
+    band,
     project,
     description,
     body,
@@ -13,7 +14,7 @@ const DemoPage = ({
 }) => (
     <Page
         {...{
-            title: project,
+            title: `${project} | ${band}`,
             description: removeMarkdown(
                 getFormattedText(description),
             ),
@@ -21,6 +22,7 @@ const DemoPage = ({
                 (
                     <DemoHeader
                         {...{
+                            band,
                             project,
                             description,
                             ...rest,
@@ -35,6 +37,7 @@ const DemoPage = ({
 )
 
 DemoPage.propTypes = {
+    band: PropTypes.string.isRequired,
     project: PropTypes.string.isRequired,
     description: PropTypes.string.isRequired,
     body: PropTypes.string.isRequired,

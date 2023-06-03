@@ -5,6 +5,8 @@ const Component = () => (
     <Page
         {...{
             showContactEmail: true,
+            metaTitle: ``,
+            metaDescription: ``,
             body: `
 # Join the interdependence revolution!
 

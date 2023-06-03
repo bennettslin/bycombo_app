@@ -6,6 +6,8 @@ import bobtailYearlings from '../../content/registry/2023/bobtail-yearlings/year
 const Component = () => (
     <Page
         {...{
+            metaTitle: ``,
+            metaDescription: ``,
             body: [
                 `
 # Return of the rock martyrs… and *saviors*!
