@@ -1,4 +1,4 @@
-import { getTruncatedText } from '../../utils/format'
+import { getFormattedText, getTruncatedText } from '../../utils/format'
 import { convertMarkdownToText } from '../../utils/format/markdown'
 import { getUrlFromPath } from '../../utils/pages/path'
 import { HOME_PAGE } from '../../constants/pages'
@@ -13,24 +13,28 @@ const capitalise = str => (
     str[0].toUpperCase() + str.substring(1)
 )
 
+const getFormattedMetaText = text => (
+    getFormattedText(convertMarkdownToText(text))
+)
+
 export const getMetaTitle = ({
     page,
     title,
 }) => {
     if (title) {
-        return convertMarkdownToText(title)
+        return getFormattedMetaText(title)
 
     } else if (page === HOME_PAGE) {
         return APP_TITLE
 
     } else {
-        return `${convertMarkdownToText(capitalise(page))} | ${APP_TITLE}`
+        return `${getFormattedMetaText(capitalise(page))} | ${APP_TITLE}`
     }
 }
 
 export const getMetaDescription = description => (
     description ?
-        getTruncatedText(description) :
+        getTruncatedText(getFormattedMetaText(description)) :
         APP_DESCRIPTION
 )
 
