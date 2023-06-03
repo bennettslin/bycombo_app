@@ -3,7 +3,7 @@ import cx from 'classnames'
 import PropTypes from 'prop-types'
 import Anchor from '../Anchor'
 import DemoLinkContent from './Content'
-import { getDemoLinkPath } from '../../utils/pages/path'
+// import { getDemoLinkPath } from '../../utils/pages/path'
 import './style'
 
 const DemoLink = ({
@@ -18,12 +18,12 @@ const DemoLink = ({
             className: cx(
                 'DemoLink',
             ),
-            // href: projectUrl,
-            pagePath: getDemoLinkPath({
-                year,
-                band,
-                project,
-            }),
+            href: projectUrl,
+            // pagePath: getDemoLinkPath({
+            //     year,
+            //     band,
+            //     project,
+            // }),
         }}
     >
         <DemoLinkContent {...{ year, band, project, projectUrl, ...rest }} />
