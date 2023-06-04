@@ -70,7 +70,7 @@ ${'  ' || `
 // TODO: Replace budding entrepreneurs once partners page is done.
 `}
 
-Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— which makes the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the rock market.
+Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— which makes the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that entrepreneurs and industry executives will try to disrupt the rock market.
 
 These "Dr. Dres of rock" would love to discover bands who can promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
 

@@ -112,7 +112,7 @@ In his book [*Originals*](https://www.goodreads.com/book/show/33826583), Adam Gr
 
 Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to deliver what the people already want. But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as entrepreneurs with no standing to lose.
 
 ### The grassroots is now a lottery
 
