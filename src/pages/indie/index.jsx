@@ -168,6 +168,20 @@ Moreover, once someone has wasted their best years racking up symbolic credentia
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first artist who's secure enough to *want* it— having never paid indie rock's dues myself.
 
+### The truth will always prevail
+
+${'  ' || `
+// TODO: Ideas are generally there. Keep tinkering to refine the ideas and make the flow smoother and the phrasing more clear.
+`}
+
+A historian's job is to shine a light on all that deserves to be known about our times— and as a group, they have an eternity to get it right! Which means you can't go wrong by making art that future historians will *want* to discover! And this was my thinking in making *Yearling's Bobtail* the "*Ulysses* of rock albums."
+
+But… every time I showed my album to an indie label, they'd agree it was good— yet they'd still pass. This puzzled me: Were they mistaken about what future historians wanted— or was I? And then it hit me: Indie rock can't care about history, because indie rock can't conceive that *any* work could simply deserve to be known, in and of itself!
+
+The entire purpose of indie rock is to help artists expend effort to make themselves known. What's valuable to this movement, then, isn't their music itself, but the public's *awareness* of it. In this context, asking to be made known, for free, is rude and offensive. Even as, if it deserves to be, future historians will simply do it anyway!
+
+So come join BYCombo, whose entire purpose is to be on the right side of history! A permanent record for future historians to know which bands, in our times, were so committed to advancing the art form, they sacrificed a serious chunk of lifetime for it.
+
 ### Happiness flows from the act of creation
 
 At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
