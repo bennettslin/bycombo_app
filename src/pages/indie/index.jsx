@@ -168,24 +168,21 @@ Moreover, once someone has wasted their best years racking up symbolic credentia
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first artist who's secure enough to *want* it— having never paid indie rock's dues myself.
 
-### The truth can't be hidden forever
-
 ${'  ' || `
 // TODO: Keep working on.
 
-Third paragraph: Idea still isn't really there.
-Fourth paragraph: Needs substantial work, obviously.
-`}
+### The truth wants to be known
 
-Future historians will one day reveal all that deserves to be known about our times— so those who care to be on the right side of history will help to reveal it *now*! This is why I set out to make the "*Ulysses* of rock albums"— because who wouldn't rather be known, simply by *deserving* it?
+Whatever deserves to be known of our times, future historians will one day reveal it— which means those who care to be on the right side of history will help to reveal it *now*! So in that case, why put effort into *being* known, when you can simply *deserve* to be? This was my thinking when I decided to make the "*Ulysses* of rock albums."
 
-Yet each chance I got to show [*Yearling's Bobtail*](https://www.yearlingsbobtail.com) to an indie label, they'd agree it was impressive, only to then pass on signing us— which puzzled me. Were *they* mistaken about what history wants… or was *I*? In time I understood the reason: Indie rock *doesn't* care to be on the right side of history! But… why?
+Yet each chance I got to show [*Yearling's Bobtail*](https://www.yearlingsbobtail.com) to an indie label, they'd agree it was impressive, only to then pass on signing us— which puzzled me. Were *they* mistaken about what history wants… or was *I*? But in time I learned the reason: Indie rock *doesn't* care to be on the right side of history!
 
-It's because when artists are required to make themselves known, then the precious commodity isn't the art itself, but the public's *knowledge* of it.
+In the past, the major labels were responsible for making artists known— and so they behaved as historians would. But today's indie artists are required to make *themselves* known— which creates a completely different system! Now, the indie labels must conspire to keep all other artists hidden. In indie rock,
 
-And so this *can't* be given away for free to any artist, because then *every* artist would expect the same— causing the system to collapse. And so the notion simply doesn't exist in indie rock that a work of art can ever *deserve* to be known.
+the precious commodity isn't the art itself, but the public's *knowledge* of it.
 
 Luckily, BYCombo cares to be on the right side of history! So if you're willing to sacrifice a serious chunk of lifetime to advance the art form… future historians will instantly find you.
+`}
 
 ### Happiness flows from the act of creation
 
