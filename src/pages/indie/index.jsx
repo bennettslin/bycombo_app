@@ -170,16 +170,15 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ${'  ' || `
 // TODO: Keep working on.
-
 ### The truth wants to be known
 
-Whatever deserves to be known of our times, future historians will one day reveal it— which means those who care to be on the right side of history will help to reveal it *now*! So in that case, why put effort into *being* known, when you can simply *deserve* to be? This was my thinking when I decided to make the "*Ulysses* of rock albums."
+Whatever deserves to be known of our times, future historians will one day reveal it all— which means those who care to be on the right side of history will help to reveal it *now*! So why waste effort on *being* known, when you can just *deserve* to be? And this is how I decided to make the "*Ulysses* of rock albums."
 
 Yet each chance I got to show [*Yearling's Bobtail*](https://www.yearlingsbobtail.com) to an indie label, they'd agree it was impressive, only to then pass on signing us— which puzzled me. Were *they* mistaken about what history wants… or was *I*? But in time I learned the reason: Indie rock *doesn't* care to be on the right side of history!
 
-In the past, the major labels were responsible for making artists known— and so they behaved as historians would. But today's indie artists are required to make *themselves* known— which creates a completely different system! Now, the indie labels must conspire to keep all other artists hidden. In indie rock,
+In their heyday, the major labels were responsible for making artists known— and so they behaved as historians would.
 
-the precious commodity isn't the art itself, but the public's *knowledge* of it.
+But today's indie artists are required to make *themselves* known— and this creates a completely different system! Now, the art is just a means to the end, which is the public's *knowledge* of their art.
 
 Luckily, BYCombo cares to be on the right side of history! So if you're willing to sacrifice a serious chunk of lifetime to advance the art form… future historians will instantly find you.
 `}
