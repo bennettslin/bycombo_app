@@ -168,21 +168,6 @@ Moreover, once someone has wasted their best years racking up symbolic credentia
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first artist who's secure enough to *want* it— having never paid indie rock's dues myself.
 
-${'  ' || `
-// TODO: Keep working on.
-### The truth wants to be known
-
-Whatever deserves to be known of our times, future historians will one day reveal it all— which means those who care to be on the right side of history will help to reveal it *now*! So why waste effort on *being* known, when you can just *deserve* to be? And this is how I decided to make the "*Ulysses* of rock albums."
-
-Yet each chance I got to show [*Yearling's Bobtail*](https://www.yearlingsbobtail.com) to an indie label, they'd agree it was impressive, only to then pass on signing us— which puzzled me. Were *they* mistaken about what history wants… or was *I*? But in time I learned the reason: Indie rock *doesn't* care to be on the right side of history!
-
-In their heyday, the major labels were responsible for making artists known— and so they behaved as historians would.
-
-But today's indie artists are required to make *themselves* known— and this creates a completely different system! Now, the art is just a means to the end, which is the public's *knowledge* of their art.
-
-Luckily, BYCombo cares to be on the right side of history! So if you're willing to sacrifice a serious chunk of lifetime to advance the art form… future historians will instantly find you.
-`}
-
 ### Happiness flows from the act of creation
 
 At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
