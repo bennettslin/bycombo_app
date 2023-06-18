@@ -78,13 +78,9 @@ The moral here, then, is that by tolerating confusion, a culture of grievance en
 
 In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today, indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they? It's because they're required to build a fanbase on their own.
 
-${'  ' || `
-// TODO: Make this paragraph flow better?
-`}
-
 Happily enough, building a fanbase yields compounded returns, since each fan brings in more fans. But not only that, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to!
 
-What happens if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the costs, and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! But with BYCombo, you can now go above and beyond to win it back.
+So what happens if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the costs, and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! But with BYCombo, you can now go above and beyond to win it back.
 
 ### Revelations reward the idle mind
 

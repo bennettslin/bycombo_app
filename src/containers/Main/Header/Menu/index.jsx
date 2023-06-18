@@ -3,7 +3,7 @@ import cx from 'classnames'
 import HeaderButton from '../HeaderButton'
 import {
     REGISTRY_PAGE,
-    ARTISTS_PAGE,
+    APPLY_PAGE,
     PARTNERS_PAGE,
     INDIE_PAGE,
 } from '../../../../constants/pages'
@@ -20,8 +20,8 @@ const Menu = () => (
         <HeaderButton {...{ pagePath: REGISTRY_PAGE }}>
             Registry
         </HeaderButton>
-        <HeaderButton {...{ pagePath: ARTISTS_PAGE }}>
-            Artists
+        <HeaderButton {...{ pagePath: APPLY_PAGE }}>
+            Apply
         </HeaderButton>
         <HeaderButton {...{ pagePath: PARTNERS_PAGE }}>
             Partners
