@@ -19,21 +19,19 @@ Audio webcomic.
 
 Proof of concept.
 
-**What else do you have to offer?**
+**What else does our band have to offer?**
 
-Bobtail Method.
+[*Bobtail Method*](https://bobtailmethod.com) is a lesson book that teaches artists to write melodies and chords as a single, organic whole. We plan to release an app version.
 
-Bobtail Dominoes.
+[*Bobtail Dominoes*](https://bobtaildominoes.com) is a tile game that trains musicians to visualize chordal space. We'll create both an app and a tabletop version.
 
-Amnesticism.
+We've already written all the songs for the second album, as well as the melodies and chords for the third album. And they're some of our best!
 
-Next two albums ready to go.
-
-Band committed to advancing the art form.
+[Amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566) is a theory for composing tonal music in multidimensional virtual spaces. We'll continue to develop it in the long term.
 
 A million dollars.
 
-**Who are you looking for?**
+**Who are we looking for?**
 
 Partner.
 
