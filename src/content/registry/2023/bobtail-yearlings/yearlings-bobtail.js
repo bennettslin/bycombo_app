@@ -29,7 +29,11 @@ We've already written all the songs for the second album, as well as the melodie
 
 [Amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566) is a theory for composing tonal music in multidimensional virtual spaces. We'll continue to develop it in the long term.
 
-A million dollars.
+${'  ' || `
+// TODO: Complete.
+`}
+
+After working for years as a coder while living like a pauper, Bennett has saved up a million dollars.
 
 **Who are we looking for?**
 

@@ -182,7 +182,7 @@ So yes, BYCombo requires you to focus on your craft. But this isn't *just* to ma
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its Nirvana. Why is this?
 
-It's because we really only pine for past artists who self-sacrificed for art's sake. But since indie rock is here to *save* artists from exploitation, it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-sacrifice for *anyone*, because to do so is a classic sign of being exploited.
+It's because we really only pine for past artists who self-sacrificed for art's sake. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-sacrifice for *anyone*, because to do so is a classic sign of being exploited.
 
 But the problems with this current Age of Empowerment go beyond its failure to give us the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how exactly are *they* the underdogs?
 
