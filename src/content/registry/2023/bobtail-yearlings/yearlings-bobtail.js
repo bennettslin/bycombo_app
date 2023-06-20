@@ -13,9 +13,17 @@ export default {
     body: `
 **How does this advance the art form?**
 
-Ulysses of rock albums. Doublespeaker rhyme.
+Our hope was to do for music what James Joyce's *Ulysses* did for literature. Lyrical experiments include [stream of consciousness](https://www.yearlingsbobtail.com/8-good-night-sita/?annotation=2), [neologistic puns](https://www.yearlingsbobtail.com/10-constellations/?annotation=9), and a literary device we invented called [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7).
 
-Audio webcomic.
+${'  ' || `
+// TODO: Keep on working on this one.
+`}
+
+The audio webcomic explores the possibilities of combining music with visual storytelling, beyond what's offered by the conventional platforms.
+
+${'  ' || `
+// TODO: Complete.
+`}
 
 Proof of concept.
 
@@ -30,12 +38,16 @@ We've already written all the songs for the second album, as well as the melodie
 [Amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566) is a theory for composing tonal music in multidimensional virtual spaces. We'll continue to develop it in the long term.
 
 ${'  ' || `
-// TODO: Complete.
+// TODO: Keep on working on this one.
 `}
 
 After working for years as a coder while living like a pauper, Bennett has saved up a million dollars.
 
 **Who are we looking for?**
+
+${'  ' || `
+// TODO: Complete.
+`}
 
 Partner.
 
