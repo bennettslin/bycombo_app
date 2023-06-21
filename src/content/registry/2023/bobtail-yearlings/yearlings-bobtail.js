@@ -15,17 +15,13 @@ export default {
 
 Our hope was to do for music what James Joyce's *Ulysses* did for literature. Lyrical experiments include [stream of consciousness](https://www.yearlingsbobtail.com/8-good-night-sita/?annotation=2), [neologistic puns](https://www.yearlingsbobtail.com/10-constellations/?annotation=9), and a literary device we invented called [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7).
 
-${'  ' || `
-// TODO: Keep on working on this one.
-`}
+Musical experiments include [Tuvan throat singing](https://yearlingsbobtail.com/5-pchelkas-starry-journey/?annotation=4), [Arabic quarter tones](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17), and [Shepard tones](https://yearlingsbobtail.com/16-cremated/?annotation=4).
 
-The audio webcomic explores the possibilities of combining music with visual storytelling, beyond what's offered by the conventional platforms.
+The audio webcomic explores the possibilities of combining music with visual storytelling, beyond what the conventional platforms offer.
 
 ${'  ' || `
-// TODO: Complete.
+// TODO: Talk about proof of concept?
 `}
-
-Proof of concept.
 
 **What else does our band have to offer?**
 
@@ -37,11 +33,7 @@ We've already written all the songs for the second album, as well as the melodie
 
 [Amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566) is a theory for composing tonal music in multidimensional virtual spaces. We'll continue to develop it in the long term.
 
-${'  ' || `
-// TODO: Keep on working on this one.
-`}
-
-After working for years as a coder while living like a pauper, Bennett has saved up a million dollars.
+After working for years as a coder while living like a pauper, Bennett has saved up a million dollars to spend on marketing and promotion.
 
 **Who are we looking for?**
 
