@@ -19,9 +19,7 @@ Musical experiments include [Tuvan throat singing](https://yearlingsbobtail.com/
 
 The audio webcomic explores the possibilities of combining music with visual storytelling, beyond what the conventional platforms offer.
 
-${'  ' || `
-// TODO: Talk about proof of concept?
-`}
+If our demo is allowed to be heard, this will encourage other bands to spend all their time and energy on the craft rather than the hustle, leading to a rock renaissance.
 
 **What else does our band have to offer?**
 

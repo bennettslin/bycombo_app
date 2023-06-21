@@ -31,9 +31,9 @@ As a rock movement *started* by a minority, BYCombo was *conceived* to give disa
 
 ### How you'll form a band
 
-If we accept you, we'll set you up with prospective bandmates who match your artistic tastes and skill levels. We also recognize the importance of gender diversity, and we'll strive for an equitable ratio in every band.
+If we accept you, we'll set you up with prospective bandmates who match your artistic tastes and skill levels. We also recognize the importance of gender diversity and will strive for an equitable ratio in every band.
 
-Upon reviewing each other's links and videos, you'll meet online. If everyone agrees to form a band, you'll all relocate to Los Angeles, or another major city of your band's choosing. Once settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
+Upon reviewing each other's links and videos, you'll meet online. If everyone agrees to form a band, you'll all relocate to Los Angeles or another major city of your band's choosing. Once settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
 
 ### What we'll do for you
 
@@ -56,13 +56,14 @@ ${'  ' || `
 Email us the following information, and we'll be in touch:
 
 * Your name, email address, and pronouns
-* Your city, and where you can relocate, if not Los Angeles
+* Your city and where you can relocate, if not Los Angeles
 * Your musical and aesthetic preferences— or dealbreakers
 * Your artistic talents and corresponding skill levels
 * Your bold ideas for a musical project, if any
 * Links to social media or video demonstrations
+* Any other circumstances that need to be considered
 
-If you're co-applying with one or more bandmates, please send a single email with each person's information. If you have special circumstances that need to be considered, please let us know. We'll see if we can make things work.
+If you're co-applying with one or more bandmates, send a single email with each person's information.
 
 And remember, as a nonprofit, BYCombo will *never* charge fees or take a cut of your earnings. If *you're* ready to join the interdependence revolution, then *we're* here to serve you!
             `,
