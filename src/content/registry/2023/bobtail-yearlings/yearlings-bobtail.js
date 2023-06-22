@@ -17,9 +17,9 @@ Our hope was to do for music what James Joyce's *Ulysses* did for literature. Ly
 
 Musical experiments include [Tuvan throat singing](https://yearlingsbobtail.com/5-pchelkas-starry-journey/?annotation=4), [Arabic quarter tones](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17), and [Shepard tones](https://yearlingsbobtail.com/16-cremated/?annotation=4).
 
-The audio webcomic explores the possibilities of combining music with visual storytelling, beyond what the conventional platforms offer.
+The audio webcomic explores the possibilities of combining music with visual storytelling, beyond what the conventional platforms allow.
 
-If our demo is allowed to be heard, this will encourage other bands to spend all their time and energy on the craft rather than the hustle, leading to a rock renaissance.
+Once our demo is known to the public, other bands will be encouraged to spend all *their* time and energy on the craft as well. This will lead to a rock renaissance!
 
 **What else does our band have to offer?**
 
@@ -31,7 +31,7 @@ We've already written all the songs for the second album, as well as the melodie
 
 [Amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566) is a theory for composing tonal music in multidimensional virtual spaces. We'll continue to develop it in the long term.
 
-After working for years as a coder while living like a pauper, Bennett has saved up a million dollars to spend on marketing and promotion.
+After working for years as a coder while living like a pauper, Bennett has saved up a million dollars, to be spent on marketing and promoting our band.
 
 **Who are we looking for?**
 
