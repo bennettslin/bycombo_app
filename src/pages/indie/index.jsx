@@ -36,7 +36,7 @@ Critical acclaim can be inflated, which makes it a terrible barometer. What *can
 
 Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But if we ditch this notion? Then rock has barely scratched the surface.
 
-What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain is a minority woman who's currently struggling to attract bandmates. What if she could ask to be judged without unconscious bias?
+What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain is a minority woman who's currently struggling to attract bandmates. What if she could ask to be judged free of unconscious bias?
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
@@ -162,7 +162,7 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-It's because paid dues are worthless outside the one system that honors them; so by nature, any such system breeds loyalty to its rule. In other words, you can pay your dues, or you can start a revolution— but never both.
+It's because paid dues are worthless outside the one system that honors them, so by nature, any such system breeds loyalty to its rule. In other words, you can pay your dues, or you can start a revolution— but never both.
 
 Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
 
@@ -172,7 +172,7 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
 
-In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when an artist has a clear goal; feels adequately challenged; and gets feedback to guide their progress, they become fully immersed in the act of creation— which then leads to long-term fulfillment. This is why my years of sacrifice were some of my happiest; I *wasn't* burnt out like my friend had feared.
+In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when an artist has a clear goal; feels adequately challenged; and gets feedback to guide their progress, they become fully immersed in the act of creation— leading to long-term fulfillment. This is why my years of sacrifice were some of my happiest; I *wasn't* burnt out like my friend had feared.
 
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because indie rock can never admit the truth: Anything gained through self-reliance might just as well be won by chance or bought by privilege. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
