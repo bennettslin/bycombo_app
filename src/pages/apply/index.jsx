@@ -25,6 +25,8 @@ Anyone of legal age is welcome to apply. But ideally, you should already have so
 * A musician of any other stripe: composer, tabla player…
 * An artist of some other medium: dancer, web developer…
 
+### On diversity and inclusion
+
 **Women, minorities, and members of other disadvantaged groups are encouraged to apply!**
 
 As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they crave and thrive on.
