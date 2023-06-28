@@ -35,11 +35,11 @@ After attending a coding bootcamp, Bennett worked for years as a coder while liv
 
 **Who are we looking for?**
 
+We hope to find a partner who'll join our band as a [full-time admin](https://www.bobtailyearlings.com/essays/ongoing/our-mission-principles-and-terms/#roles). As an [equally paid](https://www.bobtailyearlings.com/essays/ongoing/our-mission-principles-and-terms/#compensation) member, you would handle all our administrative work; take on a leadership role at BYCombo; and oversee development of Bobtail Method and Bobtail Dominoes.
+
 ${'  ' || `
 // TODO: Complete.
 `}
-
-We hope to find a partner who'll join our band as a [full-time admin](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles/#roles). As an [equally paid](https://www.bobtailyearlings.com/essays/ongoing/band-mission-and-principles/#compensation) member, you would handle all our administrative work; lead BYCombo; and oversee development of Bobtail Method and Bobtail Dominoes.
 
 Label.
     `,
