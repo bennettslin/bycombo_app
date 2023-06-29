@@ -122,7 +122,7 @@ In those days, lottery players had no patience for the grassroots; they'd sign l
 
 Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! But with BYCombo, you can once again *earn* your success, by showing up every day for untold years— to work on your craft.
 
-### History happens by peer review
+### History is made through peer review
 
 Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go)— a future *without* superstars! So how will *any* indie artist make it into history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who isn't rooting for the underdog to win?
 
@@ -132,10 +132,19 @@ Because we're invested in the creative process ourselves, we don't commit false 
 
 So don't be misled by the critics! To escape the long tail and make history, you must earn the respect of your fellow *artists*. This is why BYCombo includes you in a community of others who'll keep your standards high.
 
+${'  ' || `
+// TODO: ### Barriers to entry can only be repositioned
+
+Study the concept of barriers to entry.
+https://www.investopedia.com/terms/b/barrierstoentry.asp
+
+Anyone can buy a basketball. And yet, no one considers professional sports to be liberated from the tyranny of superstars, in which any aspiring athlete can have a thousand true fans. Why?
+`}
+
 ### Competitive self-reliance favors privilege
 
 ${'  ' || `
-// TODO: Keep thinking about how barriers to entry can only be repositioned. Can it be part of this section, or should it be its own section?
+// TODO: Make clear how indie rock is about competitive self-reliance? Make clear how this favors privilege?
 `}
 
 To promote self-reliance, indie rock requires artists to do the middleman's job for themselves. But a wealthy artist can just pay *others* to do it… and, well, who better to hire than a former middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
@@ -171,6 +180,19 @@ It's because paid dues are worthless outside the one system that honors them, so
 Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first artist who's secure enough to *want* it— having never paid indie rock's dues myself.
+
+${'  ' || `
+// TODO: ### Hustle cultures get overridden by future generations
+
+Read Ted Gioia's article again.
+https://www.honest-broker.com/p/nick-drake-at-age-75
+
+First paragraph: Nick Drake didn't hustle to get heard, and so he was ignored in his own time. Yet in one fell swoop, the next generation made him known to the public— simply because he deserved to be. If you think about it, this means that the more a gatekeeper operates the way future generations will, the better they'll be at choosing artists who can make history.
+
+Second paragraph: This describes the major labels in their heyday, who would happily take a chance on artists who didn't hustle but simply deserved to be known. That's what their talent scouts were for, after all. But indie rock has sworn to respect the hustlers, which means its gatekeepers will do nothing for those who failed to hustle to make themselves known.
+
+Third paragraph: Indie gatekeepers have the completely opposite priorities from future generations— which means future generations won't feel compelled to respect who won and who lost! But BYCombo is here to allow artists to be discovered the way future generations want them to be discovered: simply by deserving it.
+`}
 
 ### Happiness flows from the act of creation
 
