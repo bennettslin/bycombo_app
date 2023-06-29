@@ -24,7 +24,7 @@ Indie rock roots for the underdog, and so its mission is to lower the barriers t
 
 Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their main purpose is to punish any holdouts. But wait… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
-And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if you're a band trying to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet from what I've seen, few others sympathize. Well, okay… then how about a truce?
+And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if you're a band trying to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet from what I've seen, few others sympathize. Well, how about a truce?
 
 ***Yes*— since rules are made to be followed, bands who refuse to use indie rock's tools can't complain about being punished. *But*— breaking the rules is how rock history gets made! So let's not shut them out either.**
 
@@ -52,13 +52,13 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 
 Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the underdog, you'll still help the rest. Except… an outsider's hurdles *aren't* the same. To compensate for *not* being the one you're rooting for, they need to work much harder, to be much better. But then… this makes *them* the underdog's biggest hurdle!
 
-So even as the outsider builds up objective strengths, hoping to win over a skeptical public— all the while, indie rock assures victory for the underdog by keeping its criteria *subjective*! This explains why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), for example, and why it refuses to examine its natural bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+So even as the outsider builds up objective strengths to win over a skeptical public— indie rock assures victory for the underdog by keeping its criteria *subjective*! This explains why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and why it refuses to examine its natural bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
 Suffice it to say, then… the indie labels rejected my demo. They also ignored later projects of mine that promised to *help* their underdogs: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider! And now I finally understood:
 
 **A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock will *never* sympathize with a hungry outsider's need for interdependence— because it *means* to shut them out!**
 
-Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers— especially those from an older generation— is a [bad guy as well](https://youtu.be/tODG4Xt45bU)! And this gets at the heart of the problem:
+Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers is a [bad guy as well](https://youtu.be/tODG4Xt45bU)— especially if they come from an older generation! And this gets at the heart of the problem:
 
 **As the first rock movement to believe its ideals to be universal, indie rock is also the first to lock down its rules for good. As such, there's no historical precedent to show us how to resist— or even to assure us that we *can*.**
 
