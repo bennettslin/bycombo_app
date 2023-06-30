@@ -30,7 +30,7 @@ And these tools *aren't* free; they cost time and energy that could be spent mak
 
 ### The outsider's dilemma
 
-Here's the curious part: Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free if they just build up their talents. For example, Eminem *didn't* have a real fanbase before he was discovered by Dr. Dre; his self-released EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
+Here's the curious part: Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free— if they just build up their talents. For example, Eminem *didn't* have a real fanbase when he was discovered by Dr. Dre; his self-released EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
 
 It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's *inter*-dependent way of thinking. I'd rather be an "Eminem of rock" and have a *label* advocate for my band— while having this label, in turn, depend on *us* to make the best art.
 
