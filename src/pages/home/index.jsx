@@ -64,13 +64,9 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 
 ### A hundred *Yearling's Bobtail*s
 
-But if we can't resist, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: It wasn't meant to age well— and so it won't. After all, if an artist was charitably supported in their *own* time, why would future generations see *them* as the underdog?
+But if we can't resist, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: It wasn't meant to age well— and so it won't. After all, if an artist was charitably supported in their *own* time, why would future generations treat *them* as the underdog?
 
-${'  ' || `
-// TODO: Replace budding entrepreneurs once partners page is done. Does this need another bold statement?
-`}
-
-Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— making the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that entrepreneurs and industry executives will try to disrupt the rock market.
+Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— making the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that aspiring entrepreneurs and industry executives will try to disrupt the rock market.
 
 These "Dr. Dres of rock" would love to discover bands who can promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
 

@@ -112,7 +112,7 @@ In his book [*Originals*](https://www.goodreads.com/book/show/33826583), Adam Gr
 
 Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to deliver what the people already want. But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as entrepreneurs with no standing to lose.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as aspiring entrepreneurs with no standing to lose.
 
 ### The grassroots is now a lottery
 
@@ -138,7 +138,7 @@ ${'  ' || `
 Study the concept of barriers to entry.
 https://www.investopedia.com/terms/b/barrierstoentry.asp
 
-Anyone can buy a basketball. And yet, no one considers professional sports to be liberated from the tyranny of superstars, in which any aspiring athlete can have a thousand true fans. Why?
+Anyone can buy a basketball. And yet, no one considers professional sports to be a world devoid of superstars, in which any aspiring athlete can have a thousand true fans. Why?
 `}
 
 ### Competitive self-reliance favors privilege
@@ -182,16 +182,15 @@ Moreover, once someone has wasted their best years racking up symbolic credentia
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
 ${'  ' || `
-// TODO: ### Hustle cultures get overridden by future generations
+// TODO: The future is a talent scout
 
-Read Ted Gioia's article again.
-https://www.honest-broker.com/p/nick-drake-at-age-75
+### The future is a talent scout
 
-First paragraph: Nick Drake didn't hustle to get heard, and so he was ignored in his own time. Yet in one fell swoop, the next generation made him known to the public— simply because he deserved to be. If you think about it, this means that the more a gatekeeper operates the way future generations will, the better they'll be at choosing artists who can make history.
+Nick Drake wasn't a hustler— and so he was ignored in his own time. Yet the next generation eagerly made him known to the public, simply because he deserved to be. He didn't need to come to them; they were willing to go to him. We can surmise, then, that the more a system thinks the same way, the better it can be at selecting artists that future generations want.
 
-Second paragraph: This describes the major labels in their heyday, who would happily take a chance on artists who didn't hustle but simply deserved to be known. That's what their talent scouts were for, after all. But indie rock has sworn to respect the hustlers, which means its gatekeepers will do nothing for those who failed to hustle to make themselves known.
+This describes the major labels in their heyday, whose talent scouts would venture out to discover artists. Indie rock, on the other hand, requires artists to hustle to get heard, which means it *must* let the chips fall where they may and not change the results. If there's a Nick Drake today who's just no good at hustling, indie rock must shrug and leave them to remain a loser.
 
-Third paragraph: Indie gatekeepers have the completely opposite priorities from future generations— which means future generations won't feel compelled to respect who won and who lost! But BYCombo is here to allow artists to be discovered the way future generations want them to be discovered: simply by deserving it.
+But future generations won't respect indie rock's final verdict of who was a loser— which means they also won't respect who indie rock declared a winner! So why try to win as an indie artist at all? This is why BYCombo helps music fans come to you, rather than requiring you to go to them.
 `}
 
 ### Happiness flows from the act of creation
