@@ -183,12 +183,11 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ${'  ' || `
 // TODO: The future is a talent scout
-
 ### The future is a talent scout
 
-Nick Drake wasn't a hustler— and so he was ignored in his own time. Yet the next generation eagerly made him known to the public, simply because he deserved to be. He didn't need to come to them; they were willing to go to him. We can surmise, then, that the more a system thinks the same way, the better it can be at selecting artists that future generations want.
+Nick Drake was ignored in his own time— yet the next generation eagerly made him known to the public, simply because he deserved to be. He didn't need to come to them; they were willing to go to him. We can surmise, then, that the more a system discovers artists by meeting them where they are, the more in tune it is with how future generations will think.
 
-This describes the major labels in their heyday, whose talent scouts would venture out to discover artists. Indie rock, on the other hand, requires artists to hustle to get heard, which means it *must* let the chips fall where they may and not change the results. If there's a Nick Drake today who's just no good at hustling, indie rock must shrug and leave them to remain a loser.
+This describes the major labels in their heyday, whose talent scouts would venture out to discover artists. The indie labels, on the other hand, require artists to hustle; they *must* meet the labels . If there's a Nick Drake today who's just no good at hustling, the indie labels will simply shrug and leave them to remain a loser.
 
 But future generations won't respect indie rock's final verdict of who was a loser— which means they also won't respect who indie rock declared a winner! So why try to win as an indie artist at all? This is why BYCombo helps music fans come to you, rather than requiring you to go to them.
 `}
