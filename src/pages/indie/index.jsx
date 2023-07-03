@@ -133,7 +133,7 @@ Because we're invested in the creative process ourselves, we don't commit false 
 So don't be misled by the critics! To escape the long tail and make history, you must earn the respect of your fellow *artists*. This is why BYCombo includes you in a community of others who'll keep your standards high.
 
 ${'  ' || `
-// TODO: ### Barriers to entry can only be repositioned
+// TODO: Barriers to entry can only be repositioned
 
 Study the concept of barriers to entry.
 https://www.investopedia.com/terms/b/barrierstoentry.asp
@@ -141,11 +141,11 @@ https://www.investopedia.com/terms/b/barrierstoentry.asp
 Anyone can buy a basketball. And yet, no one considers professional sports to be a world devoid of superstars, in which any aspiring athlete can have a thousand true fans. Why?
 `}
 
-### Competitive self-reliance favors privilege
-
 ${'  ' || `
 // TODO: Make clear how indie rock is about competitive self-reliance? Make clear how this favors privilege?
 `}
+
+### Competitive self-reliance favors privilege
 
 To promote self-reliance, indie rock requires artists to do the middleman's job for themselves. But a wealthy artist can just pay *others* to do it… and, well, who better to hire than a former middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
@@ -162,6 +162,12 @@ Yet despite the poor fit, indie rock sure is eager of late to hand over its rein
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
 Like those hungry outsiders before us, we need to be the *most* original, the *most* talented… and this can only happen through *mutual* reliance. Hip hop gets this, which is why it *hasn't* declined; today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives you the same chances— in a rock band.
+
+${'  ' || `
+// TODO: Independence breeds homogeneity
+
+### Independence breeds homogeneity
+`}
 
 ### Interdependence guards against prejudice
 

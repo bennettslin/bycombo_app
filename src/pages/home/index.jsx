@@ -60,11 +60,11 @@ Suffice it to say, then… the indie labels rejected my demo. They also ignored 
 
 Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers is a [bad guy as well](https://youtu.be/tODG4Xt45bU)— especially if they come from an older generation! And this gets at the heart of the problem:
 
-**As the first rock movement to believe its ideals to be universal, indie rock is also the first to lock down its rules for good. As such, there's no historical precedent to show us how to resist— or even to assure us that we *can*.**
+**As the first rock movement to believe its ideals to be universal, indie rock is also the first to lock down its rules for good. As such, there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
 
 ### A hundred *Yearling's Bobtail*s
 
-But if we can't resist, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: It wasn't meant to age well— and so it won't. After all, if an artist was charitably supported in their *own* time, why would future generations treat *them* as the underdog?
+But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: It wasn't meant to age well— and so it won't. After all, if an artist was charitably supported in their *own* time, why would future generations treat *them* as the underdog?
 
 Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— making the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that aspiring entrepreneurs and industry executives will try to disrupt the rock market.
 
