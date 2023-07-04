@@ -25,15 +25,9 @@ Anyone of legal age is welcome to apply. But ideally, you should already have so
 * A musician of any other stripe: composer, tabla player…
 * An artist of some other medium: dancer, web developer…
 
-### On diversity and inclusion
-
-**Women, minorities, and members of other disadvantaged groups are encouraged to apply!**
-
-As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they crave and thrive on.
-
 ### How you'll form a band
 
-If we accept you, we'll set you up with prospective bandmates who match your artistic tastes and skill levels. We also recognize the importance of gender diversity and will strive for an equitable ratio in every band.
+If we accept you, we'll set you up with prospective bandmates who match your artistic tastes and skill levels.
 
 Upon reviewing each other's links and videos, you'll meet online. If everyone agrees to form a band, you'll all relocate to Los Angeles or another major city of your band's choosing. Once settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
 
@@ -48,6 +42,12 @@ BYCombo will provide a forum for you and the others in your cohort to befriend e
 Once your demo is complete, we'll add it to our public registry and notify everyone on our mailing list. Over time, each new BYCombo band will raise awareness of our mission, boosting your own chances to get heard. Of course, we're just getting started, so to thank you for your patience during these early years:
 
 **The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project— an album about the life of English biochemist Rosalind Franklin!**
+
+### On diversity and inclusion
+
+**Women, minorities, and members of other disadvantaged groups are encouraged to apply!**
+
+As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they crave and thrive on. We also recognize the importance of gender diversity and will strive for an equitable ratio in every band.
 
 ### How to apply
 

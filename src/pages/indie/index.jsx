@@ -122,6 +122,10 @@ In those days, lottery players had no patience for the grassroots; they'd sign l
 
 Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! But with BYCombo, you can once again *earn* your success, by showing up every day for untold years— to work on your craft.
 
+${'  ' || `
+// TODO: Have a section that explains the problem with the long tail. Pareto principle.
+`}
+
 ### History is made through peer review
 
 Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go)— a future *without* superstars! So how will *any* indie artist make it into history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who isn't rooting for the underdog to win?
