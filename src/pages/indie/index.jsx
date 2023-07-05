@@ -72,7 +72,7 @@ For example, even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) proved
 
 In all these early examples of online success, chance or privilege *clearly* played a key role. Yet indie rock was so eager to "own" the major labels, it chose to downplay this point. And it worked— the Internet came to be seen as the great equalizer. Except now, when artists struggle to succeed online… the public can only assume their music is no good!
 
-The moral here, then, is that by tolerating confusion, a culture of grievance ends up hurting its own. So yes, the major labels did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it holds no grievances.
+As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the major labels did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it holds no grievances.
 
 ### The opportunity cost is too damn high
 
