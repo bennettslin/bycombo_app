@@ -64,7 +64,7 @@ Here's an incomplete list of ways…
 
 ### Cultures of grievance wallow in confusion
 
-In the 90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead *aren't* indie. To the younger generations, however, they *sound* indie— so they might as *well* be. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in all the wrong places. How did we get confused?
+In the 90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead *aren't* indie. To the younger generations, however, they *sound* indie— so they might as *well* be. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
@@ -135,6 +135,12 @@ Um… all of us other artists who *weren't* picked, that's who! To be clear, we'
 Because we're invested in the creative process ourselves, we don't commit false positives: We recognize when a critical darling's talents are nothing to envy. And we also don't commit false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
 
 So don't be misled by the critics! To escape the long tail and make history, you must earn the respect of your fellow *artists*. This is why BYCombo includes you in a community of others who'll keep your standards high.
+
+${'  ' || `
+// TODO: ### Hustling signifies mediocrity
+
+Twitter's blue checkmarks. Maybe this is ultimately the same problem as barriers to entry?
+`}
 
 ${'  ' || `
 // TODO: Barriers to entry can only be repositioned
