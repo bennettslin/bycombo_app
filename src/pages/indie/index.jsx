@@ -142,6 +142,7 @@ ${'  ' || `
 Maybe this is ultimately the same problem as barriers to entry?
 
 Twitter's blue checkmarks.
+https://slate.com/technology/2023/04/blue-check-funeral.html
 https://qz.com/the-problem-with-twitters-blue-checkmark-is-not-the-8-1850363089
 https://www.theneweuropean.co.uk/the-slow-sad-death-of-twitter/
 https://www.theverge.com/2023/4/4/23668722/elon-musk-twitter-blue-checkmark-verified
