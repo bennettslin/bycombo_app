@@ -68,7 +68,7 @@ In the 90s, "indie" referred to bands like Pavement, who *never* signed to a maj
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
-For example, even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) proved that the Internet caters to the lowest common denominator… indie rock concluded that bands going viral is the new [grassroots phenomenon](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah)?! And when Radiohead and [Amanda Palmer](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me) crowdfunded their works… this was seen as proof that artists *don't* need a major label deal?!
+For example, even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) proved that the Internet caters to the lowest common denominator… indie rock concluded that bands going viral is the new [grassroots phenomenon](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah)?! And when Radiohead and [Amanda Palmer](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me) crowdfunded their works… this was seen as proof that artists *don't* need a label deal?!
 
 In all these early examples of online success, chance or privilege *clearly* played a key role. Yet indie rock was so eager to "own" the major labels, it chose to downplay this point. And it worked— the Internet came to be seen as the great equalizer. Except now, when artists struggle to succeed online… the public can only assume their music is no good!
 
@@ -78,6 +78,10 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today, indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they? It's because they're required to build a fanbase on their own.
 
+${'  ' || `
+// TODO: Does this paragraph flow correctly?
+`}
+
 Happily enough, building a fanbase yields compounded returns, since each fan brings in more fans. But not only that, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to!
 
 So what happens if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the costs, and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! But with BYCombo, you can now go above and beyond to win it back.
@@ -86,7 +90,7 @@ So what happens if a band goes above and beyond anyway, hoping to remain peerles
 
 Indie rock requires artists to wear several hats: the marketer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
 
-These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking! So keep your artist hat on, and let a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
+These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking! So keep your artist hat on, and have a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
 ### Timeless music has intrinsic appeal
 
@@ -182,6 +186,10 @@ ${'  ' || `
 `}
 
 Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/3489987). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
+
+${'  ' || `
+// TODO: Soft bigotry of low expectations.
+`}
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, indie rock now feels like just another foreign canon. So women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
