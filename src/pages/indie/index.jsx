@@ -78,11 +78,7 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today, indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they? It's because they're required to build a fanbase on their own.
 
-${'  ' || `
-// TODO: Does this paragraph flow correctly?
-`}
-
-Happily enough, building a fanbase yields compounded returns, since each fan brings in more fans. But not only that, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. Going above and beyond, on the other hand, yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to!
+Happily enough, building a fanbase yields compounded returns, since each fan brings in more fans. Not only that, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. Meanwhile, going above and beyond yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to!
 
 So what happens if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the costs, and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! But with BYCombo, you can now go above and beyond to win it back.
 
@@ -195,7 +191,7 @@ Yet despite the poor fit, indie rock sure is eager of late to hand over its rein
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Like those hungry outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to rely on business partners. Hip hop gets this, which is why it *hasn't* declined; today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives you the same chances— in a band.
+Like those hungry outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to rely on business partners. Hip hop gets this, which is why it *hasn't* declined; today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives you the same chances— as a band.
 
 ${'  ' || `
 // TODO: Independence breeds homogeneity
@@ -250,7 +246,7 @@ It's because we really only pine for past artists who self-sacrificed for art's 
 
 But the problems with this current Age of Empowerment go beyond its failure to give us the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how exactly are *they* the underdogs?
 
-Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the *end*. To save rock, then, we *need* to make way for bands who'll selflessly advance the art form. In other words, after Empowerment… comes the Age of Martyrdom.
+Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the *end*. To save rock, then, we *need* to make way for bands who'll self-sacrifice for art's sake. In other words, after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. Can we imagine this generation's Nirvana being an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then BYCombo is here to give us the next Nirvana *now*!
 `,
