@@ -76,9 +76,9 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ### The opportunity cost is too damn high
 
-In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today, indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they? It's because they're required to build a fanbase on their own.
+In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today's indie rock feels like just one more foreign canon out of many, because indie artists *never* go above and beyond. Why don't they?
 
-Happily enough, building a fanbase yields compounded returns, since each fan brings in more fans. Not only that, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. Meanwhile, going above and beyond yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to!
+It's because building a fanbase yields compound returns, with each fan bringing in new fans. That's a huge advantage! Moreover, with no talent scouts out there trying to discover artists, it's a huge *dis*-advantage *not* to. Meanwhile, going above and beyond yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to!
 
 So what happens if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the costs, and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! But with BYCombo, you can now go above and beyond to win it back.
 
@@ -123,7 +123,9 @@ In those days, lottery players had no patience for the grassroots; they'd sign l
 Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! But with BYCombo, you can once again *earn* your success, by showing up every day for untold years— to work on your craft.
 
 ${'  ' || `
-// TODO: Have a section that explains the problem with the long tail. Pareto principle.
+// TODO: The long tail eats itself
+
+https://www.goodreads.com/notes/18858178-blockbusters/4253280-bennett
 `}
 
 ### History is made through peer review
@@ -184,7 +186,7 @@ ${'  ' || `
 Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/3489987). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
 ${'  ' || `
-// TODO: Soft bigotry of low expectations.
+// TODO: Better link for glass cliff?
 `}
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, indie rock now feels like just another foreign canon. So women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
