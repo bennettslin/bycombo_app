@@ -76,17 +76,25 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ### The opportunity cost is too damn high
 
+${'  ' || `
+// TODO: Work on wording again.
+`}
+
 In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today's indie rock feels like just one more foreign canon out of many, because indie artists *never* go above and beyond. Why don't they?
 
 It's because building a fanbase yields compound returns, with each fan bringing in new fans. That's a huge advantage! Moreover, with no talent scouts out there trying to discover artists, it's a huge *dis*-advantage *not* to. Meanwhile, going above and beyond yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to!
 
 So what happens if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the costs, and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! But with BYCombo, you can now go above and beyond to win it back.
 
-### Revelations reward the idle mind
+### Serendipity rewards the idle mind
 
 Indie rock requires artists to wear several hats: the marketer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
 
 These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking! So keep your artist hat on, and have a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
+
+${'  ' || `
+// TODO: ### Longevity is still an unplucked fruit
+`}
 
 ### Timeless music has intrinsic appeal
 
@@ -97,6 +105,14 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works that rely on *extrinsic* context to be appreciated— a strategy guaranteed to win over the critics, who alone provide this context to the public. So even today with radio in decline, the quintessential indie artist is one whom many critics admire— but few musicians study.
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need.
+
+### The grassroots is now a lottery
+
+We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+
+In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
+
+Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! But with BYCombo, you can once again *earn* your success, by showing up every day for untold years— to work on your craft.
 
 ### Creativity gets its chance from the clueless
 
@@ -114,21 +130,26 @@ Because indie labels have just enough standing to lose, they only make *safe* be
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as aspiring entrepreneurs with no standing to lose.
 
-### The grassroots is now a lottery
-
-We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
-
-In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
-
-Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! But with BYCombo, you can once again *earn* your success, by showing up every day for untold years— to work on your craft.
-
 ${'  ' || `
-// TODO: The long tail eats itself
+// TODO: ### The long tail eats itself
 
 https://www.goodreads.com/notes/18858178-blockbusters/4253280-bennett
+
+First paragraph: Indie rock bet on the long tail, yet superstars are bigger than ever. Why is this?
+
+Second paragraph: In her book Blockbusters, Anita Elberse explains that with stardom, nothing nefarious is at play. It's simply the result of our social nature, economies of scale, and network effects.
+
+Third paragraph: But not only that, indie rock in the 90s got it backwards: the major labels didn't exploit the indies. It was precisely because the indie labels were a pipeline to the majors that those 90s alternative bands signed with them in the first place. By cutting off that hope, indie rock made itself toxic to the most talented artists, who *want* to aim for stardom— even if, like Kurt Cobain, they're too ashamed to admit it.
+
+Fourth paragraph: So BYCombo is here to restore the pipeline for those who recognize that stardom is the natural conclusion to a lifetime spent building up talents, and would like to aim for it. Because there will always be superstars. A movement can either recognize that fact, and do its part to ensure that stardom is earned— or else it ceases to be relevant at all.
+
 `}
 
 ### History is made through peer review
+
+${'  ' || `
+// TODO: Update first paragraph to reflect previous section.
+`}
 
 Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go)— a future *without* superstars! So how will *any* indie artist make it into history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who isn't rooting for the underdog to win?
 
@@ -165,11 +186,11 @@ https://www.investopedia.com/terms/b/barrierstoentry.asp
 Anyone can buy a basketball. And yet, no one considers professional sports to be a world devoid of superstars, in which any aspiring athlete can have a thousand true fans. Why?
 `}
 
-${'  ' || `
-// TODO: Make clear how indie rock is about competitive self-reliance? Make clear how this favors privilege?
-`}
-
 ### Competitive self-reliance favors privilege
+
+${'  ' || `
+// TODO: Update second paragraph after work on previous section. Make clear how indie rock is about competitive self-reliance? Make clear how this favors privilege?
+`}
 
 To promote self-reliance, indie rock requires artists to do the middleman's job for themselves. But a wealthy artist can just pay *others* to do it… and, well, who better to hire than a former middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
