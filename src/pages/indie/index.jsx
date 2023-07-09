@@ -93,8 +93,16 @@ Indie rock requires artists to wear several hats: the marketer hat, the publicis
 These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking! So keep your artist hat on, and have a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
 ${'  ' || `
-// TODO: ### Longevity is still an unplucked fruit
+// TODO: ### Longevity remains untapped as a resource
 `}
+
+### The grassroots is now a lottery
+
+We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+
+In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
+
+Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! But with BYCombo, you can once again *earn* your success, by showing up every day for untold years— to work on your craft.
 
 ### Timeless music has intrinsic appeal
 
@@ -105,14 +113,6 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 Because the indie labels always lost those radio-friendly bands to the majors, they learned to favor works that rely on *extrinsic* context to be appreciated— a strategy guaranteed to win over the critics, who alone provide this context to the public. So even today with radio in decline, the quintessential indie artist is one whom many critics admire— but few musicians study.
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need.
-
-### The grassroots is now a lottery
-
-We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel deterministic to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
-
-In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
-
-Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! But with BYCombo, you can once again *earn* your success, by showing up every day for untold years— to work on your craft.
 
 ### Creativity gets its chance from the clueless
 
@@ -216,12 +216,6 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 
 Like those hungry outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to rely on business partners. Hip hop gets this, which is why it *hasn't* declined; today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives you the same chances— as a band.
 
-${'  ' || `
-// TODO: Independence breeds homogeneity
-
-### Independence breeds homogeneity
-`}
-
 ### Interdependence guards against prejudice
 
 Indie rock is less an aesthetic than an ideology— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the 50s and announce: "Artists, your success now rests solely upon building a fanbase on your own. A business partner can no longer help you!"
@@ -229,6 +223,12 @@ Indie rock is less an aesthetic than an ideology— and ideologies transcend tim
 Every Black artist would stare glumly at us. Why? Because back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the 50s, then… we'd look like White supremacists. But this *wasn't* our intent! So where did we go wrong?
 
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the 50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
+
+${'  ' || `
+// TODO: Ideological movements breed homogeneity
+
+### Ideological movements breed homogeneity
+`}
 
 ### Paid dues must now collude
 
@@ -243,6 +243,8 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 ${'  ' || `
 // TODO: The future is a talent scout
 ### The future is a talent scout
+
+Really mention one fell swoop. This is an important detail.
 
 Nick Drake wasn't a hustler, and so he was ignored in his own time— yet the next generation readily made him known to the public. They didn't need to measure the size of his fanbase; they simply judged his works. Which tells us something: Any system that discovers artists by doing the same is most in tune with how future generations will think.
 
