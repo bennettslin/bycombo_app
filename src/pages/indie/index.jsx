@@ -160,7 +160,7 @@ https://www.investopedia.com/terms/b/barrierstoentry.asp
 
 Anyone can buy a basketball. And yet, no one considers professional sports to be a world devoid of superstars, in which any aspiring athlete can have a thousand true fans. Why?
 
-// TODO: ### Paying for access signals mediocrity
+// TODO: ### Purchased signals lose their value
 
 Maybe this is ultimately the same problem as barriers to entry?
 
