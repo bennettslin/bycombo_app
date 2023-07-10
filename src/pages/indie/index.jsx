@@ -135,25 +135,26 @@ ${'  ' || `
 
 https://www.goodreads.com/notes/18858178-blockbusters/4253280-bennett
 
-First paragraph: Indie rock bet on the long tail, yet superstars are bigger than ever. Why is this?
+long tail link
+
+First paragraph: Indie rock bet on the long tail, yet superstars are bigger than ever. Why is this? Explain long tail phenomenon.
 
 Second paragraph: In her book Blockbusters, Anita Elberse explains that with stardom, nothing nefarious is at play. It's simply the result of our social nature, economies of scale, and network effects.
 
 Third paragraph: But not only that, indie rock in the 90s got it backwards: the major labels didn't exploit the indies. It was precisely because the indie labels were a pipeline to the majors that those 90s alternative bands signed with them in the first place. By cutting off that hope, indie rock made itself toxic to the most talented artists, who *want* to aim for stardom— even if, like Kurt Cobain, they're too ashamed to admit it.
 
 Fourth paragraph: So BYCombo is here to restore the pipeline for those who recognize that stardom is the natural conclusion to a lifetime spent building up talents, and would like to aim for it. Because there will always be superstars. A movement can either recognize that fact, and do its part to ensure that stardom is earned— or else it ceases to be relevant at all.
-
 `}
 
 ### History is made through peer review
 
 ${'  ' || `
-// TODO: Update first paragraph to reflect previous section.
+// TODO: Just one more review.
 `}
 
-Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the [long tail](https://tedgioia.substack.com/p/where-did-the-long-tail-go)— a future *without* superstars! So how will *any* indie artist make it into history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who isn't rooting for the underdog to win?
+Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— a future without superstars. So how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who isn't rooting for the underdog to win?
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how an artist looks to *other* artists.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
 Because we're invested in the creative process ourselves, we don't commit false positives: We recognize when a critical darling's talents are nothing to envy. And we also don't commit false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
 
@@ -200,15 +201,7 @@ There's nothing wrong with indie rock's artistic libertarianism— but it's a *p
 
 ### Hungry outsiders aim for the canon
 
-${'  ' || `
-// TODO: Mention that belonging to a disadvantaged group makes up clear-eyed about the reality that getting heard is a competition.
-`}
-
 Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/3489987). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
-
-${'  ' || `
-// TODO: Better link for glass cliff?
-`}
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, indie rock now feels like just another foreign canon. So women and minorities are being nudged onto a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff)…
 
