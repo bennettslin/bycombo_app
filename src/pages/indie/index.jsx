@@ -76,15 +76,11 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ### The opportunity cost is too damn high
 
-${'  ' || `
-// TODO: Just one more review.
-`}
-
 In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they? Well, let's examine their options.
 
 They can build a fanbase on their own— which yields compound returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond, which yields *marginal* returns for *massive* effort. Yet, by definition, it *isn't* a disadvantage simply *not* to!
 
-In a world of charitable support, the smart choice is obvious. But what if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! Thankfully, with BYCombo, you can now go above and beyond to win it back.
+In a world of charitable support, then, the smart choice is obvious. But… what if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! Luckily, with BYCombo, you can now go above and beyond to win it back.
 
 ### Serendipity rewards the idle mind
 
@@ -93,7 +89,7 @@ Indie rock requires artists to wear several hats: the marketer hat, the publicis
 These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking! So keep your artist hat on, and have a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
 ${'  ' || `
-// TODO: ### Longevity remains untapped as a resource
+// TODO: ### Longevity remains uncharted territory
 `}
 
 ### The grassroots is now a lottery
@@ -137,7 +133,7 @@ https://www.goodreads.com/notes/18858178-blockbusters/4253280-bennett
 
 long tail link
 
-First paragraph: Indie rock bet on the long tail, yet superstars are bigger than ever. Why is this? Explain long tail phenomenon.
+First paragraph: Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail), yet superstars are bigger than ever. Why is this? Explain long tail phenomenon.
 
 Second paragraph: In her book Blockbusters, Anita Elberse explains that with stardom, nothing nefarious is at play. It's simply the result of our social nature, economies of scale, and network effects.
 
@@ -148,19 +144,24 @@ Fourth paragraph: So BYCombo is here to restore the pipeline for those who recog
 
 ### History is made through peer review
 
-${'  ' || `
-// TODO: Just one more review.
-`}
-
-Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— a future without superstars. So how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who isn't rooting for the underdog to win?
+Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— a future *without* superstars! So how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who isn't rooting for the underdog to win?
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
 Because we're invested in the creative process ourselves, we don't commit false positives: We recognize when a critical darling's talents are nothing to envy. And we also don't commit false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
 
-So don't be misled by the critics! To escape the long tail and make history, you must earn the respect of your fellow *artists*. This is why BYCombo includes you in a community of others who'll keep your standards high.
+So ignore the critics! To escape the long tail and make history, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ${'  ' || `
+Barriers to entry can only be repositioned
+
+Maybe this is ultimately the same as hustling signifies mediocrity?
+
+Study the concept of barriers to entry.
+https://www.investopedia.com/terms/b/barrierstoentry.asp
+
+Anyone can buy a basketball. And yet, no one considers professional sports to be a world devoid of superstars, in which any aspiring athlete can have a thousand true fans. Why?
+
 // TODO: ### Hustling signifies mediocrity
 
 Maybe this is ultimately the same problem as barriers to entry?
@@ -174,17 +175,6 @@ https://www.theverge.com/2023/4/4/23668722/elon-musk-twitter-blue-checkmark-veri
 While I dislike social media, I need to know what conversations the indie gatekeepers are having amongst themselves. So after Elon Musk took over Twitter, I saw them argue about the follies of his plans to open up verification to any Twitter Blue subscriber. This surprised me; after all, indie rock is the Twitter Blue of music!
 
 Ted Gioia's Law
-`}
-
-${'  ' || `
-// TODO: Barriers to entry can only be repositioned
-
-Maybe this is ultimately the same as hustling signifies mediocrity?
-
-Study the concept of barriers to entry.
-https://www.investopedia.com/terms/b/barrierstoentry.asp
-
-Anyone can buy a basketball. And yet, no one considers professional sports to be a world devoid of superstars, in which any aspiring athlete can have a thousand true fans. Why?
 `}
 
 ### Competitive self-reliance favors privilege
