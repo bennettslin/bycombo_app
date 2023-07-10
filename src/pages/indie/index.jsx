@@ -120,7 +120,7 @@ Which is why, throughout history, the *most* creative artists were backed by tho
 
 ### Middle managers join the revolution last
 
-In his book [*Originals*](https://www.goodreads.com/book/show/33826583), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-averse. And who are these risk-averse middle managers in *rock*? The indie labels.
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-averse. And who are these risk-averse middle managers in *rock*? The indie labels.
 
 Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to deliver what the people already want. But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
@@ -131,11 +131,9 @@ ${'  ' || `
 
 https://www.goodreads.com/notes/18858178-blockbusters/4253280-bennett
 
-long tail link
-
 First paragraph: Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail), yet superstars are bigger than ever. Why is this? Explain long tail phenomenon.
 
-Second paragraph: In her book Blockbusters, Anita Elberse explains that with stardom, nothing nefarious is at play. It's simply the result of our social nature, economies of scale, and network effects.
+Second paragraph: In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that with stardom, nothing nefarious is at play. It's simply the result of our social nature, economies of scale, and network effects.
 
 Third paragraph: But not only that, indie rock in the 90s got it backwards: the major labels didn't exploit the indies. It was precisely because the indie labels were a pipeline to the majors that those 90s alternative bands signed with them in the first place. By cutting off that hope, indie rock made itself toxic to the most talented artists, who *want* to aim for stardom— even if, like Kurt Cobain, they're too ashamed to admit it.
 
@@ -162,7 +160,7 @@ https://www.investopedia.com/terms/b/barrierstoentry.asp
 
 Anyone can buy a basketball. And yet, no one considers professional sports to be a world devoid of superstars, in which any aspiring athlete can have a thousand true fans. Why?
 
-// TODO: ### Hustling signifies mediocrity
+// TODO: ### Paying for access signals mediocrity
 
 Maybe this is ultimately the same problem as barriers to entry?
 
@@ -240,7 +238,7 @@ But future generations won't respect indie rock's final verdict of who was a los
 
 At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
 
-In his book [*Flow*](https://www.goodreads.com/book/show/117101), Mihaly Csikszentmihalyi explains that when an artist has a clear goal; feels adequately challenged; and gets feedback to guide their progress, they become fully immersed in the act of creation— leading to long-term fulfillment. This is why my years of sacrifice were some of my happiest; I *wasn't* burnt out like my friend had feared.
+In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszentmihalyi), Mihaly Csikszentmihalyi explains that when an artist has a clear goal; feels adequately challenged; and gets feedback to guide their progress, they become fully immersed in the act of creation— leading to long-term fulfillment. This is why my years of sacrifice were some of my happiest; I *wasn't* burnt out like my friend had feared.
 
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because indie rock can never admit the truth: Anything earned through self-reliance might just as well be won by chance or bought by privilege. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
