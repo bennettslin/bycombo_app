@@ -36,7 +36,7 @@ Critical acclaim can be inflated, which makes it a terrible barometer. What *can
 
 Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But if we ditch this notion? Then rock has barely scratched the surface.
 
-What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or, suppose the next Kurt Cobain is a minority woman who's currently struggling to attract bandmates. What if she could ask to be judged free of unconscious bias?
+What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or suppose the next Kurt Cobain is a minority woman who's currently struggling to attract bandmates. What if she could ask to be judged free of unconscious bias?
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
@@ -77,14 +77,14 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 ### The opportunity cost is too damn high
 
 ${'  ' || `
-// TODO: Work on wording again.
+// TODO: Just one more review.
 `}
 
-In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today's indie rock feels like just one more foreign canon out of many, because indie artists *never* go above and beyond. Why don't they?
+In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they? Well, let's examine their options.
 
-It's because building a fanbase yields compound returns, with each fan bringing in new fans. That's a huge advantage! Moreover, with no talent scouts out there trying to discover artists, it's a huge *dis*-advantage *not* to. Meanwhile, going above and beyond yields *marginal* returns for *massive* effort— yet, by definition, it *isn't* a disadvantage simply *not* to!
+They can build a fanbase on their own— which yields compound returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond, which yields *marginal* returns for *massive* effort. Yet, by definition, it *isn't* a disadvantage simply *not* to!
 
-So what happens if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the costs, and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! But with BYCombo, you can now go above and beyond to win it back.
+In a world of charitable support, the smart choice is obvious. But what if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! Thankfully, with BYCombo, you can now go above and beyond to win it back.
 
 ### Serendipity rewards the idle mind
 
@@ -210,7 +210,7 @@ ${'  ' || `
 // TODO: Better link for glass cliff?
 `}
 
-Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, indie rock now feels like just another foreign canon. So women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
+Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, indie rock now feels like just another foreign canon. So women and minorities are being nudged onto a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff)…
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
