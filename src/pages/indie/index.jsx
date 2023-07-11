@@ -98,6 +98,10 @@ We all respect those 80s indie bands for having built a grassroots fanbase, righ
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
+${'  ' || `
+// TODO: Make the point that celebrating grassroots success is meaningful only if achieving it is difficult because the path to do so hasn't been streamlined. In other words, had indie rock not already existed before the online age, we wouldn't have bothered to start such a movement.
+`}
+
 Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! But with BYCombo, you can once again *earn* your success, by showing up every day for untold years— to work on your craft.
 
 ### Timeless music has intrinsic appeal
@@ -130,12 +134,13 @@ ${'  ' || `
 // TODO: ### The long tail eats itself
 
 https://www.goodreads.com/notes/18858178-blockbusters/4253280-bennett
+https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html
 
 First paragraph: Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail), yet superstars are bigger than ever. Why is this? Explain long tail phenomenon.
 
-Second paragraph: In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that with stardom, nothing nefarious is at play. It's simply the result of our social nature, economies of scale, and network effects.
+Second paragraph: In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that no one willed it to happen that . It's simply the result of our social nature, economies of scale, and network effects.
 
-Third paragraph: But not only that, indie rock in the 90s got it backwards: the major labels didn't exploit the indies. It was precisely because the indie labels were a pipeline to the majors that those 90s alternative bands signed with them in the first place. By cutting off that hope, indie rock made itself toxic to the most talented artists, who *want* to aim for stardom— even if, like Kurt Cobain, they're too ashamed to admit it.
+Third paragraph: But not only that, indie rock in the 90s got it backwards: The major labels didn't exploit the indies. It was precisely because the indie labels were seen as a pipeline to the majors that those 90s alternative bands signed with them in the first place. By cutting off that hope, indie rock made itself toxic to the most talented artists, who *want* to aim for stardom— even if, like Kurt Cobain, they're too ashamed to admit it.
 
 Fourth paragraph: So BYCombo is here to restore the pipeline for those who recognize that stardom is the natural conclusion to a lifetime spent building up talents, and would like to aim for it. Because there will always be superstars. A movement can either recognize that fact, and do its part to ensure that stardom is earned— or else it ceases to be relevant at all.
 `}
@@ -151,15 +156,6 @@ Because we're invested in the creative process ourselves, we don't commit false 
 So ignore the critics! To escape the long tail and make history, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ${'  ' || `
-Barriers to entry can only be repositioned
-
-Maybe this is ultimately the same as hustling signifies mediocrity?
-
-Study the concept of barriers to entry.
-https://www.investopedia.com/terms/b/barrierstoentry.asp
-
-Anyone can buy a basketball. And yet, no one considers professional sports to be a world devoid of superstars, in which any aspiring athlete can have a thousand true fans. Why?
-
 // TODO: ### Purchased signals lose their value
 
 Maybe this is ultimately the same problem as barriers to entry?
@@ -171,14 +167,12 @@ https://www.theneweuropean.co.uk/the-slow-sad-death-of-twitter/
 https://www.theverge.com/2023/4/4/23668722/elon-musk-twitter-blue-checkmark-verified
 
 While I dislike social media, I need to know what conversations the indie gatekeepers are having amongst themselves. So after Elon Musk took over Twitter, I saw them argue about the follies of his plans to open up verification to any Twitter Blue subscriber. This surprised me; after all, indie rock is the Twitter Blue of music!
-
-Ted Gioia's Law
 `}
 
 ### Competitive self-reliance favors privilege
 
 ${'  ' || `
-// TODO: Update second paragraph after work on previous section. Make clear how indie rock is about competitive self-reliance? Make clear how this favors privilege?
+// TODO: Split up second paragraph after work on previous section. Don't need to explain that getting heard is a competition. Just point out that indie rock is helping artists to command each listener's attention, which is a fixed supply. Therefore, it's a movement of competitive self-reliance.
 `}
 
 To promote self-reliance, indie rock requires artists to do the middleman's job for themselves. But a wealthy artist can just pay *others* to do it… and, well, who better to hire than a former middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
@@ -206,9 +200,8 @@ Every Black artist would stare glumly at us. Why? Because back then, they *neede
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the 50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
 ${'  ' || `
-// TODO: Ideological movements breed homogeneity
-
-### Ideological movements breed homogeneity
+// TODO: Independence breeds homogeneity
+### Independence breeds homogeneity
 `}
 
 ### Paid dues must now collude
