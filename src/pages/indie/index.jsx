@@ -128,19 +128,13 @@ ${'  ' || `
 https://www.goodreads.com/notes/18858178-blockbusters/4253280-bennett
 https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html
 
-First paragraph: Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail), yet superstars are bigger than ever. Why is this? Explain long tail phenomenon.
+First paragraph: Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail). Yet superstars are bigger than ever. Why is this?
 
-Second paragraph: In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that no one willed it to happen that . It's simply the result of our social nature, economies of scale, and network effects.
+Second paragraph: In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that there are no nefarious forces at work. It's simply the result of our social nature. But not only that, stardom is the optimal conclusion to a lifetime spent building up talents. The most talented artists want to go where this option remains open.
 
-Third paragraph: But not only that, indie rock in the 90s got it backwards: The major labels didn't exploit the indies. It was precisely *because* the indie labels were a pipeline to the majors that those 90s alternative bands signed with them in the first place.
+In other words, indie rock in the 90s got it backwards: The major labels didn't exploit the indies. It was precisely *because* the indie labels were seen as a pipeline to the majors that those 90s alternative bands signed with them in the first place. By shutting off this pipeline, indie rock ensured that the talented artists of the future would never want to join.
 
-By cutting off that hope, indie rock made itself toxic to the most talented artists, who *want* to aim for stardom— even if, like Kurt Cobain, they're too ashamed to admit it.
-
-Fourth paragraph: So BYCombo is here to restore the pipeline to stardom.
-
-stardom is the natural conclusion to a lifetime spent building up talents, and would like to aim for it.
-
-Because there will always be superstars. A movement can either recognize that fact, and do its part to ensure that stardom is earned— or else it ceases to be relevant at all.
+Fourth paragraph: So BYCombo is here to restore the pipeline to stardom. Because there will always be superstars. A movement can either recognize that fact, and do its part to ensure that stardom is earned— or else it ceases to be relevant at all.
 `}
 
 ### History is made through peer review
