@@ -140,16 +140,16 @@ Fourth paragraph: So BYCombo is here to restore the pipeline to stardom. Because
 ### History is made through peer review
 
 ${'  ' || `
-// TODO: Review a few more times..
+// TODO: Review one more time.
 `}
 
-Most artists in the historical canon were superstars in their own day. But indie rock imagines a future *without* superstars— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who isn't rooting for the underdog to win?
+Most artists in the historical canon were superstars in their own day. But indie rock imagines a future *without* superstars— so how is *any* indie artist to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who isn't rooting for the underdog to win?
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
 Because we're invested in the creative process ourselves, we don't commit false positives: We recognize when a critical darling's talents are nothing to envy. And we also don't commit false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
 
-So ignore the critics! To make history even without stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
+So ignore the critics! To make history even without stardom, you must earn the respect of your fellow *artists*. This is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ${'  ' || `
 // TODO: ### Commodified signals are worthless
