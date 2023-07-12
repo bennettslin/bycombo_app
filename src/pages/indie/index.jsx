@@ -128,13 +128,15 @@ ${'  ' || `
 https://www.goodreads.com/notes/18858178-blockbusters/4253280-bennett
 https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html
 
-First paragraph: Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail). Yet superstars are bigger than ever. Why is this?
+First paragraph: Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail). Charitably support each artist just enough for them to sustain themselves, and then move on to the next one. Rather than have one superstar, we can spread our support across a thousand artists. Yet look around, and it's superstars are bigger than ever, while indie artists have lost even *artistic* relevance. What happened?
 
-Second paragraph: In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that there are no nefarious forces at work. It's simply the result of our social nature. But not only that, stardom is the optimal conclusion to a lifetime spent building up talents. The most talented artists want to go where this option remains open.
+Second paragraph: In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that there are no nefarious forces at work. Stardom is simply the result of natural forces. As social creatures, we 
 
-In other words, indie rock in the 90s got it backwards: The major labels didn't exploit the indies. It was precisely *because* the indie labels were seen as a pipeline to the majors that those 90s alternative bands signed with them in the first place. By shutting off this pipeline, indie rock ensured that the talented artists of the future would never want to join.
+, and economies of scale.
 
-Fourth paragraph: So BYCombo is here to restore the pipeline to stardom. Because there will always be superstars. A movement can either recognize that fact, and do its part to ensure that stardom is earned— or else it ceases to be relevant at all.
+But stardom is also the optimal fate for an artist who's spent a lifetime building up talent. The most talented artists want to keep this option open. Which means indie rock in the 90s got it backward: The major labels *didn't* exploit the indies. It was precisely *because* the indie labels were seen as a pipeline to the majors that so many alternative bands were eager to sign with them in the first place.
+
+By shutting off this pipeline and forcing every artist into the long tail, indie rock ensured that the most talented among them would stay away. So BYCombo is here to restore the pipeline to stardom. Because there will always be superstars. A movement can either recognize that fact, and do its part to ensure that stardom is earned— or else it ceases to be relevant at all.
 `}
 
 ### History is made through peer review
@@ -143,13 +145,13 @@ ${'  ' || `
 // TODO: Review one more time. Check Grammarly.
 `}
 
-Most artists in the historical canon were superstars in their own day. But indie rock imagines a future *without* superstars— so how is *any* indie artist to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who isn't rooting for the underdog to win?
+Most artists in the historical canon were superstars in their own day. But indie rock is here to give us a world *without* superstars— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who won't root for the underdog to win?
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
 Because we're invested in the creative process ourselves, we don't commit false positives: We recognize when a critical darling's talents are nothing to envy. And we also don't commit false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
 
-So ignore the critics! To make history even without stardom, you must earn the respect of your fellow *artists*. This is why BYCombo includes you in a community of peers who'll keep your standards high.
+So ignore the critics! To make history without stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ${'  ' || `
 // TODO: ### Commodified signals are worthless
@@ -175,7 +177,7 @@ To promote self-reliance, indie rock requires artists to do the middleman's job 
 
 The problem is that indie rock enjoys the goodwill generated by artistic movements of *cooperative* self-reliance, such as the Maker Faire, that are united by love of the *craft*. Now, this *would* be fitting— if indie artists simply made music for their own enjoyment.
 
-But indie rock empowers them to command the attention of *others*— which is a zero-sum game. This means it's really about *competitive* self-reliance; like [libertarianism](https://en.wikipedia.org/wiki/Libertarianism) in politics, it's grounded in excitement for the *hustle*. And nothing makes the hustle easier— and thus more exciting— than privilege.
+But indie rock empowers them to command the attention of *others*, which means it's really about *competitive* self-reliance. Like [libertarianism](https://en.wikipedia.org/wiki/Libertarianism) in politics, it's grounded in excitement for the *hustle*. And nothing makes the hustle easier— and thus more exciting— than privilege.
 
 There's nothing wrong with indie rock's artistic libertarianism— but it's a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to just suck it up and try harder. Now with BYCombo, there's an opposition party that presses for the interdependence you want, out of respect for your craft.
 
