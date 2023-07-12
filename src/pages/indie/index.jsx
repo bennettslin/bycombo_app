@@ -132,35 +132,43 @@ First paragraph: Indie rock bet on the [long tail](https://en.wikipedia.org/wiki
 
 Second paragraph: In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that no one willed it to happen that . It's simply the result of our social nature, economies of scale, and network effects.
 
-Third paragraph: But not only that, indie rock in the 90s got it backwards: The major labels didn't exploit the indies. It was precisely because the indie labels were seen as a pipeline to the majors that those 90s alternative bands signed with them in the first place. By cutting off that hope, indie rock made itself toxic to the most talented artists, who *want* to aim for stardom— even if, like Kurt Cobain, they're too ashamed to admit it.
+Third paragraph: But not only that, indie rock in the 90s got it backwards: The major labels didn't exploit the indies. It was precisely *because* the indie labels were a pipeline to the majors that those 90s alternative bands signed with them in the first place.
 
-Fourth paragraph: So BYCombo is here to restore the pipeline for those who recognize that stardom is the natural conclusion to a lifetime spent building up talents, and would like to aim for it. Because there will always be superstars. A movement can either recognize that fact, and do its part to ensure that stardom is earned— or else it ceases to be relevant at all.
+By cutting off that hope, indie rock made itself toxic to the most talented artists, who *want* to aim for stardom— even if, like Kurt Cobain, they're too ashamed to admit it.
+
+Fourth paragraph: So BYCombo is here to restore the pipeline to stardom.
+
+stardom is the natural conclusion to a lifetime spent building up talents, and would like to aim for it.
+
+Because there will always be superstars. A movement can either recognize that fact, and do its part to ensure that stardom is earned— or else it ceases to be relevant at all.
 `}
 
 ### History is made through peer review
 
-Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— a future *without* superstars! So how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who isn't rooting for the underdog to win?
+${'  ' || `
+// TODO: Review a few more times..
+`}
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how it all looks to us *other* artists.
+Most artists in the historical canon were superstars in their own day. But indie rock imagines a future *without* superstars— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who isn't rooting for the underdog to win?
+
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
 Because we're invested in the creative process ourselves, we don't commit false positives: We recognize when a critical darling's talents are nothing to envy. And we also don't commit false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
 
-So ignore the critics! To escape the long tail and make history, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
+So ignore the critics! To make history even without stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ${'  ' || `
-// TODO: ### Purchased signals are worthless
+// TODO: ### Commodified signals are worthless
 
-### Purchased signals are worthless
+### Commodified signals are worthless
 
-Do more research on signaling games.
+I dislike social media, but I check Twitter to know what conversations the indie gatekeepers are having amongst themselves. So after Elon Musk took over, I saw them argue about the follies of his plans to open up verification to anyone who pays to subscribe to Twitter Blue. This surprised me; after all, indie rock is the Twitter Blue of music!
 
-I dislike social media, but I get on Twitter to know what conversations the indie gatekeepers are having amongst themselves. So after Elon Musk took over, I saw them argue about the follies of his plans to open up verification to any Twitter Blue subscriber. This surprised me; after all, indie rock is the Twitter Blue of music!
+Elon Musk called the legacy verification system elitist. So he democratized access to the user by allowing *anyone* to spend $8, to have what the elite have. Just like indie rock allows anyone to spend time and energy to expand their reach.
 
-Elon Musk called the legacy verification system elitist. So he democratized access to the user by allowing *anyone* to have what the elite have. Similarly, indie rock allows anyone with time and energy to spend to promote their works on social media.
+But the problem isn't just that if everyone has access to an audience, then no one has access. If access is something that can simply be bought— either with money or with time and energy— then it no longer conveys true information as a [signal](https://en.wikipedia.org/wiki/Signaling_game). The audience learns not to trust it, and yearns to leave for a place with honest signals.
 
-But the problem isn't just that if everyone has access to an audience, then no one has access. If access is something that one can simply spend to get, then it no longer conveys true information as a a [signal](https://en.wikipedia.org/wiki/Signaling_game). The audience learns not to trust it.
-
-But BYCombo allows artists to spend a chunk of lifetime on the craft. In the arts, it's the closest that a signal will ever get to accurately conveying what the audience wants it to convey.
+This is why BYCombo promises to be a place with honest signals, by requiring artists to spend a chunk of lifetime on the craft. In the arts, it's the closest that a signal will ever get to accurately conveying what the audience wants it to convey.
 `}
 
 ### Competitive self-reliance favors privilege
@@ -173,7 +181,7 @@ To promote self-reliance, indie rock requires artists to do the middleman's job 
 
 The problem is that indie rock enjoys the goodwill generated by artistic movements of *cooperative* self-reliance, like the Maker Faire, that are united by love of the *craft*. And this *would* be fitting— if indie artists simply made music for their own enjoyment.
 
-But indie rock empowers them to command the limited attention of *others*, which means it's really about *competitive* self-reliance. Like [libertarianism](https://en.wikipedia.org/wiki/Libertarianism) in politics, it's grounded in excitement for the *hustle*. And nothing makes the hustle easier— and thus more exciting— than privilege.
+But indie rock empowers them to command the attention of *others*, which means it's really about *competitive* self-reliance. Like [libertarianism](https://en.wikipedia.org/wiki/Libertarianism) in politics, it's grounded in excitement for the *hustle*. And nothing makes the hustle easier— and thus more exciting— than privilege.
 
 There's nothing wrong with indie rock's artistic libertarianism— but it's a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to just suck it up and try harder. Now with BYCombo, there's an opposition party that presses for the interdependence you want, out of respect for your craft.
 
@@ -187,6 +195,11 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 
 Like those hungry outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to rely on business partners. Hip hop gets this, which is why it *hasn't* declined; today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives you the same chances— as a band.
 
+${'  ' || `
+// TODO: ### Independence breeds homogeneity
+### Independence breeds homogeneity
+`}
+
 ### Interdependence guards against prejudice
 
 Indie rock is less an aesthetic than an ideology— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the 50s and announce: "Artists, your success now rests solely upon building a fanbase on your own. A business partner can no longer help you!"
@@ -194,11 +207,6 @@ Indie rock is less an aesthetic than an ideology— and ideologies transcend tim
 Every Black artist would stare glumly at us. Why? Because back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the 50s, then… we'd look like White supremacists. But this *wasn't* our intent! So where did we go wrong?
 
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the 50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
-
-${'  ' || `
-// TODO: ### Independence breeds homogeneity
-### Independence breeds homogeneity
-`}
 
 ### Paid dues must now collude
 
