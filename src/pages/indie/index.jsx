@@ -128,15 +128,13 @@ ${'  ' || `
 https://www.goodreads.com/notes/18858178-blockbusters/4253280-bennett
 https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html
 
-First paragraph: Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail). Charitably support each artist just enough for them to sustain themselves, and then move on to the next one. Rather than have one superstar, we can spread our support across a thousand artists. Yet look around, and it's superstars are bigger than ever, while indie artists have lost even *artistic* relevance. What happened?
+First paragraph: Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail). Charitably support each artist just enough for them to sustain themselves, and then move on to the next one. Rather than focus on a few superstars, we can spread our support across a thousands of artists. Yet look around, and it's superstars are bigger than ever, while indie artists have lost even *artistic* relevance. What happened?
 
-Second paragraph: In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that there are no nefarious forces at work. Stardom is simply the result of natural forces. As social creatures, we 
+Second paragraph: In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that there are no nefarious forces at work. Stardom is simply the result of natural forces. As social creatures…
 
-, and economies of scale.
+But stardom is also the optimal fate for an artist who's spent a lifetime building up talent. Which means most talented artists want to keep this option open. So indie rock got it backward: The major labels *didn't* exploit the indies. It was precisely *because* the indie labels were a pipeline to the majors that those 90s alternative bands were eager to sign with them in the first place.
 
-But stardom is also the optimal fate for an artist who's spent a lifetime building up talent. The most talented artists want to keep this option open. Which means indie rock in the 90s got it backward: The major labels *didn't* exploit the indies. It was precisely *because* the indie labels were seen as a pipeline to the majors that so many alternative bands were eager to sign with them in the first place.
-
-By shutting off this pipeline and forcing every artist into the long tail, indie rock ensured that the most talented among them would stay away. So BYCombo is here to restore the pipeline to stardom. Because there will always be superstars. A movement can either recognize that fact, and do its part to ensure that stardom is earned— or else it ceases to be relevant at all.
+By forcing every artist to a fate in the long tail, indie rock ensured that the most talented will stay away. So BYCombo is here to restore the pipeline to stardom. Because there will always be superstars. A movement can only do its part to ensure that stardom is earned— or else it ceases to be relevant at all.
 `}
 
 ### History is made through peer review
@@ -149,9 +147,9 @@ Most artists in the historical canon were superstars in their own day. But indie
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to *other* artists— especially those of us who remain unknown.
 
-Because we're invested in the creative process ourselves, we commit fewer false *positives*: We recognize when a critical darling's talents are nothing to envy. And we also commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… unknown artists come closest to seeing *now*.
+Because we're invested in the creative process ourselves, we commit fewer false *positives*: We recognize when a critical darling's talents are nothing to envy. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
 
-So ignore the critics! To make history without having reached stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
+So ignore the critics! To make history without reaching stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ${'  ' || `
 // TODO: ### Commodified signals are worthless
@@ -183,7 +181,7 @@ The problem, then, is that indie rock's artistic libertarianism is a *partisan* 
 
 ### Hungry outsiders aim for the canon
 
-Who foresaw indie rock's final stage as a trust fund playground? We did— us women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/3489987). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
+Who foresaw indie rock's final stage as a trust fund playground? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/3489987). When they boast of past hustles, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, indie rock now feels like just another foreign canon. So women and minorities are being nudged onto a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff)…
 
