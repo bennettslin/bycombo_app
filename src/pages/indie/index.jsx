@@ -189,11 +189,6 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 
 Like those hungry outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to rely on business partners. Hip hop gets this, which is why it *hasn't* declined; today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives you the same chances— as a band.
 
-${'  ' || `
-// TODO: ### Independence breeds homogeneity
-### Independence breeds homogeneity
-`}
-
 ### Interdependence guards against prejudice
 
 Indie rock is less an aesthetic than an ideology— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the 50s and announce: "Artists, your success now rests solely upon building a fanbase on your own. A business partner can no longer help you!"
@@ -201,6 +196,34 @@ Indie rock is less an aesthetic than an ideology— and ideologies transcend tim
 Every Black artist would stare glumly at us. Why? Because back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the 50s, then… we'd look like White supremacists. But this *wasn't* our intent! So where did we go wrong?
 
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the 50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
+
+${'  ' || `
+// TODO: ### Independence breeds homogeneity
+
+Read my own blog posts for this one.
+
+Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive, but I'm just a hobbyist who'll eventually give up. Why do they misjudge me so badly? Then it finally hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* gatekeeper, a hundred times over, who doesn't understand that I'm not them.
+
+Second paragraph:
+There's no diversity training in rock, but those who want interdependence learn to value diversity of thought anyway, because their advantage comes from finding partners who are strong where they're weak, and vice versa. By contrast, those who want independence lack any incentive to learn that others think differently from them. And because they need to be fairly competent in multiple fields, this shoehorns them into thinking the same way. 
+
+Third paragraph: (Ideas are there, but wording is bad.)
+As a result, every indie gatekeeper thinks the same way and, in turn, selects those artists who think like them: That no serious artist would simply jump from one project to the next while waiting for a business partner. Why? Because it isn't what *they'd* do themselves. With BYCombo, you can once again find business partners who understand the benefits of diversity of thought.
+`}
+
+### The future is a talent scout
+
+${'  ' || `
+// TODO: Review many times. Check Grammarly.
+`}
+
+Nick Drake was ignored in his own time— yet in one fell swoop, the next generation made him known to history. They didn't need to see him hustle to take him seriously; they simply judged the merit of his works. This suggests a working theory: The gatekeepers most likely to discover history-making artists are the ones who *already* think the way future audiences will.
+
+This was the case with the major labels in their heyday, whose talent scouts would sign any band with a stellar demo— even one with no fanbase. For example, Radiohead were so little known upon signing to EMI that when they were told to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they readily complied.
+
+The indie labels, on the other hand, ask questions that no future audience will: Did this artist build a fanbase on their own? Do they engage with their fans on social media? If there's a Nick Drake today who's no good at hustling, the indie labels will dismiss them as a hobbyist and move on.
+
+But future audiences *won't* respect the hustle— which means they *also* won't respect the judgments of any past movement that *did*. Why fight the future? This is why BYCombo gives you an audience who'd love to make a stellar demo known to history in one fell swoop— just as those in the future would.
 
 ### Paid dues must now collude
 
@@ -211,20 +234,6 @@ It's because paid dues are worthless outside the one system that honors them— 
 Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
-
-### The future is a talent scout
-
-${'  ' || `
-// TODO: Review many times.
-`}
-
-Nick Drake was ignored in his own time— yet in one fell swoop, the next generation made him known to history. They didn't measure the size of his fanbase; they simply judged the merit of his works. This suggests a working theory: The gatekeepers most likely to discover history-making artists are the ones who *already* think the way future audiences will think.
-
-This was the case with the major labels in their heyday, whose talent scouts would immediately sign any band with a stellar demo— even one with no fanbase. For example, Radiohead were so little known upon signing to EMI that when the label asked them to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they readily complied.
-
-The indie labels, on the other hand, ask questions that no future audience will ask: Did this artist build a fanbase on their own? Do they engage with fans on social media? If there's a Nick Drake out there today who's no good at hustling, the indie labels will dismiss them as a hobbyist and move on.
-
-But let's face it: Future audiences *won't* respect the hustle— which means they *also* won't respect the judgments of any past movement that *did*. Why fight the future? This is why BYCombo gives you an audience who'd love to make a stellar demo known to history in one fell swoop— just like those in the future would.
 
 ### Happiness flows from the act of creation
 
