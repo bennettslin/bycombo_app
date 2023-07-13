@@ -130,7 +130,7 @@ https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html
 
 First paragraph: Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail). Charitably support each artist just enough for them to sustain themselves, and then move on to the next one. Rather than focus on a few superstars, we can spread our support across a thousands of artists. Yet look around, and it's superstars are bigger than ever, while indie artists have lost even *artistic* relevance. What happened?
 
-Second paragraph: In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that there are no nefarious forces at work. Stardom is simply the result of natural forces. As social creatures…
+Second paragraph: In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that nothing nefarious is at work. Stardom is simply the result of natural forces. As social creatures…
 
 But stardom is also the optimal fate for an artist who's spent a lifetime building up talent. Which means most talented artists want to keep this option open. So indie rock got it backward: The major labels *didn't* exploit the indies. It was precisely *because* the indie labels were a pipeline to the majors that those 90s alternative bands were eager to sign with them in the first place.
 
@@ -212,20 +212,19 @@ Moreover, once someone has wasted their best years racking up symbolic credentia
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
-${'  ' || `
-// TODO: ### The future is a talent scout
 ### The future is a talent scout
 
-Really mention one fell swoop. This is an important detail.
-
-Nick Drake was ignored in his own time— yet in one fell swoop, the next generation made him known to the public. They didn't need to measure the size of his fanbase; they simply judged his works. Which tells us something: Any system that discovers artists by doing the same is most in tune with how future generations will think.
-
-This describes the major labels in their heyday, who employed talent scouts precisely because they *didn't* expect artists to build their own fanbase.
-
-Indie rock, on the other hand, is all about respecting the hustle. If there's a Nick Drake today who's just no good at hustling, the indie labels will simply shrug and leave them to remain a loser. He doesn't deserve it.
-
-But future generations won't respect indie rock's final verdict of who was a loser— which means they also won't respect who indie rock declared a winner! So why try to win as an indie artist at all? This is why BYCombo helps music fans come to you, rather than requiring you to go to them.
+${'  ' || `
+// TODO: Review many times.
 `}
+
+Nick Drake was ignored in his own time— yet in one fell swoop, the next generation made him known to history. They didn't measure the size of his fanbase; they simply judged the merit of his works. This suggests a working theory: The gatekeepers most likely to discover history-making artists are the ones who *already* think the way future audiences will think.
+
+This was the case with the major labels in their heyday, whose talent scouts would immediately sign any band with a stellar demo— even one with no fanbase. For example, Radiohead were so little known upon signing to EMI that when the label asked them to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they readily complied.
+
+The indie labels, on the other hand, ask questions that no future audience will ask: Did this artist build a fanbase on their own? Do they engage with fans on social media? If there's a Nick Drake out there today who's no good at hustling, the indie labels will dismiss them as a hobbyist and move on.
+
+But let's face it: Future audiences *won't* respect the hustle— which means they *also* won't respect the judgments of any past movement that *did*. Why fight the future? This is why BYCombo gives you an audience who'd love to make a stellar demo known to history in one fell swoop— just like those in the future would.
 
 ### Happiness flows from the act of creation
 
