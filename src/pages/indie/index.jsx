@@ -78,7 +78,7 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they? Well, let's examine their options.
 
-They can build a fanbase on their own— which yields compound returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond, which yields *marginal* returns for *massive* effort. Yet, by definition, it *isn't* a disadvantage simply *not* to!
+They can build a fanbase on their own— which yields compound returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond, which yields *marginal* returns for *massive* effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
 In a world of charitable support, then, the smart choice is obvious. But… what if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! Luckily, with BYCombo, you can now go above and beyond to win it back.
 
@@ -145,24 +145,24 @@ ${'  ' || `
 // TODO: Review one more time. Check Grammarly.
 `}
 
-Most artists in the historical canon were superstars in their own day. But indie rock is here to give us a world *without* superstars— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who won't root for the underdog to win?
+Most artists in the historical canon were superstars in their own day. But indie rock is here to give us a world *without* superstars— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who won't root for an underdog to win?
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to *other* artists— especially those of us who remain unknown.
 
-Because we're invested in the creative process ourselves, we don't commit false positives: We recognize when a critical darling's talents are nothing to envy. And we also don't commit false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
+Because we're invested in the creative process ourselves, we commit fewer false *positives*: We recognize when a critical darling's talents are nothing to envy. And we also commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… unknown artists come closest to seeing *now*.
 
-So ignore the critics! To make history without stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
+So ignore the critics! To make history without having reached stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ${'  ' || `
 // TODO: ### Commodified signals are worthless
 
 ### Commodified signals are worthless
 
-I dislike social media, but I check Twitter to know what conversations the indie gatekeepers are having amongst themselves. So after Elon Musk took over, I saw them argue about the follies of his plans to open up verification to anyone who pays to subscribe to Twitter Blue. This surprised me; after all, indie rock is the Twitter Blue of music!
+I dislike social media, but I check Twitter to know what conversations the indie gatekeepers are having amongst themselves. So after Elon Musk took over, I saw them argue about the follies of his plans to open up verification to anyone who pays to subscribe to Twitter Blue. This amused me; after all, indie rock is the Twitter Blue of music!
 
-Elon Musk called the legacy verification system elitist. So he democratized access to the user by allowing *anyone* to spend $8, to have what the elite have. Just like indie rock allows anyone to spend time and energy to expand their reach.
+Elon Musk called the legacy verification system elitist. So he democratized access to the user by allowing *anyone* to spend $8, to have what the elite have. Who else thought this way? The founders of indie rock! Just like indie rock allows anyone to spend time and energy to expand their reach.
 
-But the problem isn't just that if everyone has access to an audience, then no one has access. If access is something that can simply be bought— either with money or with time and energy— then it no longer conveys true information as a [signal](https://en.wikipedia.org/wiki/Signaling_game). The audience learns not to trust it, and yearns to leave for a place with honest signals.
+But the problem isn't just that when everyone has access to an audience, then no one will. If having access is something that can simply be bought— either with money, or with time and energy— then it no longer conveys true information. The audience learns not to trust it as a [signal](https://en.wikipedia.org/wiki/Signaling_game), and yearns to leave for a place with honest signals— if one existed.
 
 This is why BYCombo promises to be a place with honest signals, by requiring artists to spend a chunk of lifetime on the craft. In the arts, it's the closest that a signal will ever get to accurately conveying what the audience wants it to convey.
 `}
@@ -175,11 +175,11 @@ ${'  ' || `
 
 To promote self-reliance, indie rock requires artists to do the middleman's job for themselves. But a wealthy artist can just pay *others* to do it… and, well, who better to hire than a former middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
-The problem is that indie rock enjoys the goodwill generated by artistic movements of *cooperative* self-reliance, such as the Maker Faire, that are united by love of the *craft*. Now, this *would* be fitting— if indie artists simply made music for their own enjoyment.
+To understand the problem, let's first observe that indie rock enjoys the goodwill generated by artistic movements of *cooperative* self-reliance, such as the Maker Faire, that are united by love of the *craft*. Now, this *would* be fitting— if each indie artist simply made music for themselves.
 
-But indie rock empowers them to command the attention of *others*, which means it's really about *competitive* self-reliance. Like [libertarianism](https://en.wikipedia.org/wiki/Libertarianism) in politics, it's grounded in excitement for the *hustle*. And nothing makes the hustle easier— and thus more exciting— than privilege.
+But indie artists try to command the attention of *others*— and at any given time, attention that's paid to one isn't being paid to the rest. Which means indie rock is really about *competitive* self-reliance: Like [libertarians](https://en.wikipedia.org/wiki/Libertarianism), indie artists live for the *hustle*— and nothing makes hustling easier than privilege.
 
-There's nothing wrong with indie rock's artistic libertarianism— but it's a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to just suck it up and try harder. Now with BYCombo, there's an opposition party that presses for the interdependence you want, out of respect for your craft.
+The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to just suck it up and try harder. Now with BYCombo, there's an opposition party that presses for the interdependence you want, out of respect for your craft.
 
 ### Hungry outsiders aim for the canon
 
@@ -220,9 +220,11 @@ ${'  ' || `
 
 Really mention one fell swoop. This is an important detail.
 
-Nick Drake wasn't a hustler, and so he was ignored in his own time— yet the next generation readily made him known to the public. They didn't need to measure the size of his fanbase; they simply judged his works. Which tells us something: Any system that discovers artists by doing the same is most in tune with how future generations will think.
+Nick Drake was ignored in his own time— yet in one fell swoop, the next generation made him known to the public. They didn't need to measure the size of his fanbase; they simply judged his works. Which tells us something: Any system that discovers artists by doing the same is most in tune with how future generations will think.
 
-This describes the major labels in their heyday, who employed talent scouts precisely because they *didn't* expect artists to build their own fanbase. Indie rock, on the other hand, is all about respecting the hustle. If there's a Nick Drake today who's just no good at hustling, the indie labels will simply shrug and leave them to remain a loser.
+This describes the major labels in their heyday, who employed talent scouts precisely because they *didn't* expect artists to build their own fanbase.
+
+Indie rock, on the other hand, is all about respecting the hustle. If there's a Nick Drake today who's just no good at hustling, the indie labels will simply shrug and leave them to remain a loser. He doesn't deserve it.
 
 But future generations won't respect indie rock's final verdict of who was a loser— which means they also won't respect who indie rock declared a winner! So why try to win as an indie artist at all? This is why BYCombo helps music fans come to you, rather than requiring you to go to them.
 `}
