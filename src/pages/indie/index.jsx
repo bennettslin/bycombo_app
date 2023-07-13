@@ -206,22 +206,22 @@ As a result, every indie gatekeeper thinks the same way and, in turn, selects th
 ### The future is a talent scout
 
 ${'  ' || `
-// TODO: Review many times. Check Grammarly.
+// TODO: Review one more time.
 `}
 
-Nick Drake was ignored in his own time— yet in one fell swoop, the next generation made him known to history. They didn't need to see him hustle to take him seriously; they simply judged the merit of his works. This suggests a working theory: The gatekeepers most likely to discover history-making artists are the ones who *already* think the way future audiences will.
+Nick Drake was ignored in his own time— yet in one fell swoop, the next generation made him known to history. They didn't need to see him hustle to take him seriously; they simply judged the merit of his works. Which offers us a working theory: The gatekeepers most likely to discover history-making artists are the ones who *already* think the way future audiences will.
 
 This was the case with the major labels in their heyday, whose talent scouts would sign any band with a stellar demo— even one with no fanbase. For example, Radiohead were so little known upon signing to EMI that when they were told to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they readily complied.
 
-The indie labels, on the other hand, ask questions that no future audience will: Did this artist build a fanbase on their own? Do they engage with their fans on social media? If there's a Nick Drake today who's no good at hustling, the indie labels will dismiss them as a hobbyist and move on.
+The indie labels, on the other hand, ask questions that no future audience will: Did this artist build a fanbase on their own? Is their music optimized for the streaming platforms? Are they engaged on social media? In other words, if there's a Nick Drake today who's no good at hustling, the indie labels will dismiss them as a hobbyist and move on.
 
-But future audiences *won't* respect the hustle— which means they *also* won't respect the judgments of any past movement that *did*. Why fight the future? This is why BYCombo gives you an audience who'd love to make a stellar demo known to history in one fell swoop— just as those in the future would.
+But future audiences *won't* respect the hustle— which means they *also* won't respect the judgments of any past movement that *did*. Why fight the future? This is why BYCombo gives you an audience who'd make a stellar demo known to history in one fell swoop— just as those in the future would.
 
 ### Paid dues must now collude
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-It's because paid dues are worthless outside the one system that honors them— so by nature, any such system breeds loyalty to its rule. In other words, you can pay your dues, or you can start a revolution… but never both.
+It's because paid dues are worthless outside the one system that honors them— so by nature, any such system breeds loyalty to its rule. In short, you can pay your dues, or you can start a revolution… but never both.
 
 Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
 
