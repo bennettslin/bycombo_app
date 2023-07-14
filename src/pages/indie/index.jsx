@@ -68,7 +68,7 @@ In the 90s, "indie" referred to bands like Pavement, who *never* signed to a maj
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
-For example, even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) proved that the Internet caters to the lowest common denominator… indie rock concluded that bands going viral is the new [grassroots phenomenon](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah)?! And when Amanda Palmer crowdfunded her album after leaving [Roadrunner](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me)… this was seen as proof that artists *don't* need a major label deal?!
+For example, even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) proved that the Internet caters to the lowest common denominator… indie rock concluded that bands going viral is the new [grassroots phenomenon](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah)?! And when Amanda Palmer crowdfunded her album after leaving [Roadrunner](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me)… this was taken as proof that artists *don't* need a label deal?!
 
 In all these early examples of online success, chance or privilege *clearly* played a key role. Yet indie rock was so eager to "own" the major labels, it chose to downplay this point. And it worked— the Internet came to be seen as the great equalizer. Except now, when artists struggle to succeed online… the public can only assume their music is no good!
 
@@ -204,16 +204,16 @@ So every indie gatekeeper thinks the same, and thus looks for well-rounded artis
 ### The future is a talent scout
 
 ${'  ' || `
-// TODO: Review a few more times. "Make known" phrasing sounds weird.
+// TODO: Review a few more times. First paragraph doesn't really flow. Second paragraph, mention Nick Drake, then mention even into the 90s. Does fourth paragraph flow?
 `}
 
-Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle to take him seriously; they simply judged the merit of his works. This offers us a working theory: To discover history-making artists, a gatekeeper should think like a future audience.
+Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle to take him seriously; they simply judged the merit of his works. And if a gatekeeper hopes to discover history-making artists, they must think the same way.
 
-This was the case with the major labels in their heyday, whose talent scouts would sign any band with a stellar demo— even one with no fanbase. For example, Radiohead were so little known upon signing to EMI that when they were told to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they readily complied.
+This was true of the major labels in their heyday, whose talent scouts would instantly sign any band with a stellar demo— even one with no fanbase. For example, Radiohead were so little known upon signing to EMI that when they were told to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they readily complied.
 
-The indie labels, on the other hand, ask questions that no future audience will ask: Did this artist build a fanbase on their own? Is their music optimized for the streaming platforms? Are they engaged on social media? In other words, if there's a Nick Drake today who's no good at hustling, the indie labels will dismiss them as a hobbyist and move on.
+The indie labels, on the other hand, ask questions that no future audience will ask: Did this artist build a fanbase on their own? Is their music optimized for streaming platforms? Are they engaged on social media? In other words, if there's a Nick Drake today who's no good at hustling, the indie labels will dismiss them as a hobbyist and move on.
 
-But future audiences *won't* respect the hustle— which means they *also* won't respect the judgments of any past movement that *did*. Why fight the future? This is why BYCombo gives you an audience who'd instantly make a stellar demo known to history— just as those in the future would.
+But future audiences *won't* respect the hustle— which means they *also* won't respect the judgments of past gatekeepers who *did*. This is why BYCombo gives you an audience who'd instantly make you known to history based on a stellar demo— just as those in the future would.
 
 ### Paid dues must now collude
 
