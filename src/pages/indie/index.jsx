@@ -68,11 +68,7 @@ In the 90s, "indie" referred to bands like Pavement, who *never* signed to a maj
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
-${'  ' || `
-// TODO: Explain Amanda Palmer was signed to major label?
-`}
-
-For example, even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) proved that the Internet caters to the lowest common denominator… indie rock concluded that bands going viral is the new [grassroots phenomenon](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah)?! And when [Amanda Palmer](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me) crowdfunded her album… this was seen as proof that artists *don't* need a label deal?!
+For example, even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) proved that the Internet caters to the lowest common denominator… indie rock concluded that bands going viral is the new [grassroots phenomenon](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah)?! And when Amanda Palmer crowdfunded her album after leaving [Roadrunner](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me)… this was seen as proof that artists *don't* need a major label deal?!
 
 In all these early examples of online success, chance or privilege *clearly* played a key role. Yet indie rock was so eager to "own" the major labels, it chose to downplay this point. And it worked— the Internet came to be seen as the great equalizer. Except now, when artists struggle to succeed online… the public can only assume their music is no good!
 
@@ -208,7 +204,7 @@ So every indie gatekeeper thinks the same, and thus looks for well-rounded artis
 ### The future is a talent scout
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review a few more times. "Make known" phrasing sounds weird.
 `}
 
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle to take him seriously; they simply judged the merit of his works. This offers us a working theory: To discover history-making artists, a gatekeeper should think like a future audience.
