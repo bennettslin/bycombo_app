@@ -192,24 +192,22 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 ${'  ' || `
 // TODO: ### Independence breeds homogeneity
 
-Read my own blog posts for this one.
+### Independence breeds homogeneity
 
-Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive, but I'm just a hobbyist who'll eventually give up. Why do they misjudge me so badly? Then it finally hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* gatekeeper, a hundred times over, who doesn't understand that I'm not them.
+Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive, but I'm just a hobbyist who'll eventually give up. Why do they misjudge me so badly? Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* one— a hundred times over!
 
-Second paragraph:
-There's no diversity training in rock, but those who want interdependence learn to value diversity of thought anyway, because their advantage comes from finding partners who are strong where they're weak, and vice versa. By contrast, those who want independence lack any incentive to learn that others think differently from them. And because they need to be fairly competent in multiple fields, this shoehorns them into thinking the same way. 
+Interdependence involves partnering with others who are strong where you're weak, and vice versa. To be interdependent, then, is to be lopsided— and there are countless ways to be lopsided. By contrast, those who want independence can have no real weaknesses, and thus no real strengths. They must be well-rounded— which means converging on a single way of thinking.
 
-Third paragraph: (Ideas are there, but wording is bad.)
-As a result, every indie gatekeeper thinks the same way and, in turn, selects those artists who think like them: That no serious artist would simply jump from one project to the next while waiting for a business partner. Why? Because it isn't what *they'd* do themselves. With BYCombo, you can once again find business partners who understand the benefits of diversity of thought.
+So every indie gatekeeper thinks the same, and thus looks for well-rounded artists— who also think the same. But with BYCombo, you can now find a lopsided partner who *needs* you to think differently.
 `}
 
 ### The future is a talent scout
 
 ${'  ' || `
-// TODO: Review one more time.
+// TODO: Review a few more times.
 `}
 
-Nick Drake was ignored in his own time— yet in one fell swoop, the next generation made him known to history. They didn't need to see him hustle to take him seriously; they simply judged the merit of his works. Which offers us a working theory: The gatekeepers most likely to discover history-making artists are the ones who *already* think the way future audiences will.
+Nick Drake was ignored in his own time— yet in one fell swoop, the next generation made him known to history. They didn't need to see him hustle to take him seriously; they simply judged the merit of his works. Which offers us a working theory: To discover history-making artists, a gatekeeper must think the way future audiences will.
 
 This was the case with the major labels in their heyday, whose talent scouts would sign any band with a stellar demo— even one with no fanbase. For example, Radiohead were so little known upon signing to EMI that when they were told to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they readily complied.
 
