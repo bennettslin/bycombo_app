@@ -211,14 +211,14 @@ But with BYCombo, you can now find a lopsided partner who *needs* you to think d
 ### The future is a talent scout
 
 ${'  ' || `
-// TODO: Review a few more times. Check Grammarly.
+// TODO: Review one more time.
 `}
 
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle; they simply judged the merit of his works. So there's a lesson here: If a gatekeeper hopes to discover history-making artists… they should think like a future audience.
 
-In their heyday, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase. For example, upon signing to EMI, Radiohead were so little known that when they were told to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they readily complied.
+In the past, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase, like Nick Drake. And this was true even into the 90s: Radiohead were so little known that when EMI asked them to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they did so without causing any confusion.
 
-But for every Radiohead who made it, hundreds of other bands didn't— who then resented the majors for giving them false hopes. And so the indie labels learned to minimize risk by only signing artists with an existing fanbase. As such, if there's a Nick Drake out there today who's no good at hustling, the indie labels will dismiss them as a hobbyist and move on.
+But for every Radiohead who made it, hundreds of other bands didn't— who then resented the majors for giving them false hopes. And so the indie labels learned to minimize risk by *only* signing artists with an existing fanbase. As such, if there's a Nick Drake out there today who's no good at hustling, the indie labels will dismiss them as a hobbyist and move on.
 
 But future audiences *won't* respect the hustle— which means they *also* won't respect the judgments of past gatekeepers who *did*. This is why BYCombo gives you an audience who'd instantly make you known to history based on a stellar demo— just as those in the future would.
 
