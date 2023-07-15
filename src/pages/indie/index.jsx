@@ -197,29 +197,32 @@ Every Black artist would stare glumly at us. Why? Because back then, they *neede
 
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the 50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
+### Independence breeds homogeneity
+
 ${'  ' || `
 // TODO: ### Independence breeds homogeneity
 
-### Independence breeds homogeneity
-
-Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive, but I'm just a hobbyist who'll eventually give up. Why do they misjudge me so badly? Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* one— a hundred times over!
-
-Interdependence involves partnering with others who are strong where you're weak, and vice versa. To be interdependent, then, is to be lopsided— and there are countless ways to be lopsided. By contrast, those who want independence can have no real weaknesses, and thus no real strengths. They must be well-rounded— which means converging on a single way of thinking.
-
-So every indie gatekeeper thinks the same, and thus looks for well-rounded artists— who also think the same. But with BYCombo, you can now find a lopsided partner who *needs* you to think differently.
+Keep working on this, especially third paragraph.
 `}
+
+Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive— but I'm a hobbyist who'll eventually give up. Why do they misjudge me so badly? I wondered. Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* one, a hundred times over!
+
+To be interdependent, you need partners who are strong where you're weak, and vice versa. This means you value others who are just as lopsided as you— in completely different ways. But those who want independence can have no real weaknesses, and thus no real strengths. They need to be well-rounded— which means they all converge on a single way of thinking.
+
+(This creates a situation like the Dunning-Kruger effect, where those who don't think differently don't realize the degree to which one can think differently.)
+But with BYCombo, you can now find a lopsided partner who *needs* you to think differently.
 
 ### The future is a talent scout
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review a few more times. Check Grammarly.
 `}
 
-Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle to take him seriously; they simply judged the merit of his works. So there's a lesson here: If a gatekeeper hopes to discover history-making artists… they should think like a future audience.
+Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle; they simply judged the merit of his works. So there's a lesson here: If a gatekeeper hopes to discover history-making artists… they should think like a future audience.
 
-And in their heyday, the major labels did just that: Their talent scouts would instantly sign any artist based on a stellar demo— even one with no fanbase. Radiohead, for example, were so little known upon signing to EMI that when they were told to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they readily complied.
+In their heyday, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase. For example, upon signing to EMI, Radiohead were so little known that when they were told to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they readily complied.
 
-But for every band like Radiohead who made it, hundreds of others didn't— who then resented the majors for giving them false hopes. And so the indie labels learned to minimize risk by only signing artists who built their own fanbase. As such, if there's a Nick Drake out there today who's no good at hustling, the indie labels will dismiss them as a hobbyist and move on.
+But for every Radiohead who made it, hundreds of other bands didn't— who then resented the majors for giving them false hopes. And so the indie labels learned to minimize risk by only signing artists with an existing fanbase. As such, if there's a Nick Drake out there today who's no good at hustling, the indie labels will dismiss them as a hobbyist and move on.
 
 But future audiences *won't* respect the hustle— which means they *also* won't respect the judgments of past gatekeepers who *did*. This is why BYCombo gives you an audience who'd instantly make you known to history based on a stellar demo— just as those in the future would.
 
