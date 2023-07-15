@@ -74,7 +74,7 @@ Simply put, indie rock doesn't know what it stands *for*, only whom it stands *a
 
 For example, even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) proved that the Internet caters to the lowest common denominator… indie rock concluded that [bands going viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah) is the new grassroots phenomenon?! And when Amanda Palmer crowdfunded her album after [leaving Roadrunner](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me)… this was taken as proof that artists *don't* benefit from a major label deal?!
 
-In all these early examples of online success, chance or privilege *clearly* played a key role. Yet indie rock was so eager to "own" the major labels, it chose to downplay this point. And it worked— the Internet came to be seen as the great equalizer. Except now, when indie artists struggle to succeed online… the public can only assume their music is no good!
+In all these early examples of online success, chance or privilege *clearly* played a key role. Yet indie rock was so eager to "own" the major labels, it chose to downplay this point. And it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume their music is no good!
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the major labels did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it holds no grievances.
 
@@ -112,7 +112,7 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 
 Because the indie labels would lose those radio-friendly bands to the majors, they came to favor works that rely on *non*-musical context to be appreciated. And this strategy always won over the critics, who alone provide this context to the public. So even today with radio in decline, the quintessential indie artist is one whom many critics admire— but few musicians study.
 
-Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music must hook in discerning listeners on its *own*. So BYCombo gives you all the time you need.
+Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music must hook in a discerning listener on its *own*. So BYCombo gives you all the time you need.
 
 ### Creativity gets its chance from the clueless
 
@@ -217,9 +217,9 @@ ${'  ' || `
 
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle to take him seriously; they simply judged the merit of his works. So there's a lesson here: If a gatekeeper hopes to discover history-making artists… they should think like a future audience.
 
-This was true of the major labels in their heyday, whose talent scouts would instantly sign any artist based on a stellar demo— even one with no fanbase. Radiohead, for example, were so little known upon signing to EMI that when they were told to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they readily complied.
+And in their heyday, the major labels did just that: Their talent scouts would instantly sign any artist based on a stellar demo— even one with no fanbase. Radiohead, for example, were so little known upon signing to EMI that when they were told to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they readily complied.
 
-But for every band like Radiohead who made it, hundreds of others didn't— who then resented the majors for giving them false hopes. And so the indie labels learned to minimize risk by only signing artists who already have a fanbase. As such, if there's a Nick Drake out there today who's no good at hustling, the indie labels will dismiss them as a hobbyist and move on.
+But for every band like Radiohead who made it, hundreds of others didn't— who then resented the majors for giving them false hopes. And so the indie labels learned to minimize risk by only signing artists who built their own fanbase. As such, if there's a Nick Drake out there today who's no good at hustling, the indie labels will dismiss them as a hobbyist and move on.
 
 But future audiences *won't* respect the hustle— which means they *also* won't respect the judgments of past gatekeepers who *did*. This is why BYCombo gives you an audience who'd instantly make you known to history based on a stellar demo— just as those in the future would.
 
