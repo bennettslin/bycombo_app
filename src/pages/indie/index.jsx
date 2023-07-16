@@ -199,14 +199,14 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 ### Independence breeds homogeneity
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review one more time.
 `}
 
-Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive— but clearly, I'm just a hobbyist. Why do they misjudge me so badly? I wondered. Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* one, a hundred times over— who wants the same kind of artist, a hundred times over!
+Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive— but clearly, I'm just a hobbyist. Why do they misjudge me so badly? I wondered. Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* one, a hundred times over— who, in turn, is looking for the same artist, a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
-So don't be fooled by indie rock's belated embrace of diversity! There's still no diversity of *thought*— and there never will be. But BYCombo lets you find business partners who think differently— and who'll value *you* for doing the same.
+So don't be fooled by indie rock's belated embrace of diversity! There's still no diversity of *thought*— amongst both gatekeepers *and* artists. But BYCombo lets you find business partners who think differently— and who'll value *you* for doing the same.
 
 ### The future is a talent scout
 
