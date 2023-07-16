@@ -218,7 +218,7 @@ Nick Drake was ignored in his own time— yet the next generation instantly made
 
 In the past, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase, like Nick Drake. And this was true even into the 90s: Radiohead were so little known that when EMI asked them to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they did so without causing any confusion.
 
-Unfortunately, the same story *didn't* end so well for countless other bands, who then resented the majors for giving them false hopes. As a result, the indie labels learned to minimize risk by *only* signing artists with an existing fanbase. So today, if there's a Nick Drake out there who's no good at hustling, indie rock will dismiss them as a hobbyist and move on.
+Unfortunately, the same story *didn't* end so well for countless other bands, who then resented the majors for giving them false hopes. Because of this, the indie labels learned to minimize risk by *only* signing artists with an existing fanbase. So today, if there's a Nick Drake out there who's no good at hustling… indie rock will dismiss them as a hobbyist and move on.
 
 But future audiences *won't* respect the hustle— which means they *also* won't respect the judgments of past gatekeepers who *did*. This is why BYCombo gives you an audience who'd instantly make you known to history based on a stellar demo— just as those in the future would.
 
