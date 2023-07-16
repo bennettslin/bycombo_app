@@ -88,18 +88,6 @@ Indie rock requires artists to wear several hats: the marketer hat, the publicis
 
 These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking! So keep your artist hat on, and have a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
-### The grassroots is now a lottery
-
-${'  ' || `
-// TODO: Work on final paragraph.
-`}
-
-We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel [deterministic](https://en.wikipedia.org/wiki/Determinism) to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
-
-In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
-
-Which explains why we don't hear about one-hit wonders anymore: They're all indie artists now! But the world has yet to figure this out, because those who have the will to say so, lack a way to be heard— and vice versa. In the meantime, what recourse do you have if you were hoping to *earn* your success? Why, you can join BYCombo— and show up to work every day for untold years!
-
 ### Timeless music has intrinsic appeal
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child at the time, I knew my only hope was to develop such a talent myself. So I studied these bands closely, dreaming that one day I could teach others.
@@ -125,6 +113,18 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to deliver what the people already want. But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as aspiring entrepreneurs with no standing to lose.
+
+### The grassroots is now a lottery
+
+${'  ' || `
+// TODO: Review one more time.
+`}
+
+We all respect those 80s indie bands for coming up from the grassroots, right? Yes, but also for a less spoken reason: Their stories feel [deterministic](https://en.wikipedia.org/wiki/Determinism) to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+
+In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
+
+Which explains why we don't hear about one-hit wonders anymore: They're all indie artists now! But the world has yet to figure this out, because those who have the will to say so, lack a way to be heard— and vice versa. In the meantime, to *earn* your success like those indie bands of the past, you can join BYCombo— and show up to work every day for untold years!
 
 ${'  ' || `
 // TODO: ### The long tail eats itself
@@ -202,11 +202,11 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive— but clearly, I'm just a hobbyist. Why do they misjudge me so badly? I wondered. Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* one, a hundred times over— who, in turn, is looking for the same artist, a hundred times over!
+Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive— but clearly, I'm just a hobbyist. Why do they misjudge me so badly? I wondered. Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one, a hundred times over— who, in turn, is looking for the same artist, a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
-So don't be fooled by indie rock's belated embrace of diversity! There's still no diversity of *thought*— amongst both gatekeepers *and* artists. But BYCombo lets you find business partners who think differently— and who'll value *you* for doing the same.
+So don't be fooled by indie rock's belated embrace of diversity! There's still no diversity of *thought*— among both gatekeepers *and* artists. But BYCombo lets you find business partners who think differently— and who'll value *you* for doing the same.
 
 ### The future is a talent scout
 
