@@ -64,11 +64,7 @@ Here's an incomplete list of ways…
 
 ### Cultures of grievance wallow in confusion
 
-${'  ' || `
-// TODO: Just one more review.
-`}
-
-In the 90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead *aren't* indie. To the younger generations, however, they *sound* indie— so they might as *well* be. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
+In the 90s, "indie" referred to bands like Pavement, who never signed to a major label. As Gen X knows, then, Nirvana and Radiohead *aren't* indie. To the younger generations, however, they *sound* indie— so they might as *well* be. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
