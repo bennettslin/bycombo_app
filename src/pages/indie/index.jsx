@@ -94,11 +94,15 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 ### The grassroots is now a lottery
 
+${'  ' || `
+// TODO: Work on final paragraph.
+`}
+
 We all respect those 80s indie bands for having built a grassroots fanbase, right? Yes, but also for a less spoken reason: Their stories feel [deterministic](https://en.wikipedia.org/wiki/Determinism) to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
-Naturally, bands who prefer the deterministic path can't compete like this. Yet indie rock hasn't noticed; after all, *some* artists are still building a fanbase on their own, as always! But with BYCombo, you can once again *earn* your success, by showing up every day for untold years— to work on your craft.
+Which explains why we don't hear about one-hit wonders anymore: They're all indie artists now! But the world has yet to figure this out, because those who have the will to say so, lack a way to be heard— and vice versa. In the meantime, what recourse do you have if you were hoping to *earn* your success? Why, you can join BYCombo— and show up to work every day for untold years!
 
 ### Timeless music has intrinsic appeal
 
@@ -151,13 +155,13 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 
 So ignore the critics! To make history without reaching stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
-### Commodified signals are worthless
 
 ${'  ' || `
-// TODO: Keep working on this. Ideas are all there, but wording is still rough.
+// TODO: ### Commodified signals are worthless
 
-Connect having access to legitimacy.
-`}
+Keep working on this. Ideas are all there, but wording is still rough. Connect having access to legitimacy.
+
+### Commodified signals are worthless
 
 While I dislike social media, I'll check out Twitter to see what the indie gatekeepers are saying amongst themselves. So when Elon Musk made verification available to all Twitter Blue subscribers, I was amused to see many of them argue that this made it worthless. After all, indie rock… is the Twitter Blue of music!
 
@@ -166,6 +170,7 @@ Elon Musk hated that only the elites had access to a discerning audience; he wan
 But if access is something that can simply be bought— either with money, or with time and energy— then it no longer conveys honest information. The discerning audience learn not to trust it as a [signal](https://en.wikipedia.org/wiki/Signaling_game)— but not only that, those who hope to be worthy of such an audience learn not to *want* it. And both yearn to leave for a place where honest signals still abound— if one existed.
 
 This is why BYCombo promises to be such a place, by requiring you to sacrifice a serious chunk of lifetime. After all, this is the closest that a signal can come to honestly conveying what a discerning audience wants you to convey.
+`}
 
 ### Competitive self-reliance favors privilege
 
@@ -205,7 +210,7 @@ Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my 
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
-So don't be fooled by indie rock's belated embrace of diversity! There's still no diversity of *thought*— and there never will be. But through BYCombo, you can find business partners who think differently— and will value *you* for doing the same.
+So don't be fooled by indie rock's belated embrace of diversity! There's still no diversity of *thought*— and there never will be. But BYCombo lets you find business partners who think differently— and who'll value *you* for doing the same.
 
 ### The future is a talent scout
 
@@ -217,7 +222,7 @@ Nick Drake was ignored in his own time— yet the next generation instantly made
 
 In the past, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase, like Nick Drake. And this was true even into the 90s: Radiohead were so little known that when EMI asked them to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they did so without causing any confusion.
 
-Yet for every Radiohead who made it, hundreds of other bands didn't— who then resented the majors for giving them false hopes. And so the indie labels learned to minimize risk by *only* signing artists with an existing fanbase. As such, if there's a Nick Drake out there today who's no good at hustling, the indie labels will dismiss them as a hobbyist and move on.
+Yet for every Radiohead who made it, hundreds of others didn't— and they resented the majors for giving them false hopes. So the indie labels learned to minimize risk by *only* signing artists with an existing fanbase. As such, if there's a Nick Drake out there today who's no good at hustling, the indie labels will dismiss them as a hobbyist and move on.
 
 But future audiences *won't* respect the hustle— which means they *also* won't respect the judgments of past gatekeepers who *did*. This is why BYCombo gives you an audience who'd instantly make you known to history based on a stellar demo— just as those in the future would.
 
@@ -246,9 +251,11 @@ ${'  ' || `
 
 This one can wait a while…
 
-Start with observation about Beethoven. Artists continuing to break new ground, even into old age, is the remaining frontier that rock has yet to explore.
+Start with observation about Beethoven. Artists breaking continuing to new ground throughout their lifetime is the remaining frontier for rock to explore. Which means any movement that isn't trying to tap into the potential of longevity isn't serious about advancing the art form.
 
-Hustlers have no incentive to keep going on, other than to cash in on their fame— if they do make it. But most won't, and at the end, they'll be left with nothing, to feel, like Johnny Rotten, that they've been cheated. By contrast, those who love the craft can keep going for a lifetime.
+Indie rock seems like it was perversely designed for artists to burn out, as they slowly realize they're competing against lottery players and trust fund babies. Those who are in it for the hustle have no incentive to keep going on if they do make it. But most won't, and at the end, they'll be left with nothing, to feel, like Johnny Rotten, that they've been cheated.
+
+By contrast, if you're motivated by love of the craft, you can keep you going for a lifetime. You need to build up your skills in order to meet the challenges you set out for yourself, but also continue to feel challenged to build up your skills, becoming increasingly worthy of recognition as you improve as an artist, in a virtuous circle.
 
 BYCombo allows you to be in it for the long haul by giving you a community that allows you to keep going and building up your talents. If the first band isn't right for you, you'll know of others.
 `}
