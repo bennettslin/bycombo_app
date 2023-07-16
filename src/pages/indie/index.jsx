@@ -151,19 +151,21 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 
 So ignore the critics! To make history without reaching stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
-${'  ' || `
-// TODO: ### Commodified signals are worthless
-
 ### Commodified signals are worthless
 
-I dislike social media, but I check Twitter to know what conversations the indie gatekeepers are having amongst themselves. So after Elon Musk took over, I saw them argue about the follies of his plans to open up verification to anyone who pays to subscribe to Twitter Blue. This amused me; after all, indie rock is the Twitter Blue of music!
+${'  ' || `
+// TODO: Keep working on this. Ideas are all there, but wording is still rough.
 
-Elon Musk called the legacy verification system elitist. So he democratized access to the user by allowing *anyone* to spend $8, to have what the elite have. Who else thought this way? The founders of indie rock! Just like indie rock allows anyone to spend time and energy to expand their reach.
-
-But the problem isn't just that when everyone has access to an audience, then no one will. If having access is something that can simply be bought— either with money, or with time and energy— then it no longer conveys true information. The audience learns not to trust it as a [signal](https://en.wikipedia.org/wiki/Signaling_game), and yearns to leave for a place with honest signals— if one existed.
-
-This is why BYCombo promises to be a place with honest signals, by requiring artists to spend a chunk of lifetime on the craft. In the arts, it's the closest that a signal will ever get to accurately conveying what the audience wants it to convey.
+Connect having access to legitimacy.
 `}
+
+While I dislike social media, I'll check out Twitter to see what the indie gatekeepers are saying amongst themselves. So when Elon Musk made verification available to all Twitter Blue subscribers, I was amused to see many of them argue that this made it worthless. After all, indie rock… is the Twitter Blue of music!
+
+Elon Musk hated that only the elites had access to a discerning audience; he wanted to democratize it by making it available to *anyone* willing to spend the money. Well, who else thought this way? The indie gatekeepers in the 00s! They were just as eager to grant this access to *anyone* willing to spend the time and energy to promote themselves online.
+
+But if access is something that can simply be bought— either with money, or with time and energy— then it no longer conveys honest information. The discerning audience learn not to trust it as a [signal](https://en.wikipedia.org/wiki/Signaling_game)— but not only that, those who hope to be worthy of such an audience learn not to *want* it. And both yearn to leave for a place where honest signals still abound— if one existed.
+
+This is why BYCombo promises to be such a place, by requiring you to sacrifice a serious chunk of lifetime. After all, this is the closest that a signal can come to honestly conveying what a discerning audience wants you to convey.
 
 ### Competitive self-reliance favors privilege
 
@@ -199,7 +201,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive— but clearly, I'm just a hobbyist. Why do they misjudge me so badly? I wondered. Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* one, a hundred times over— who favors the same kind of artist, a hundred times over!
+Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive— but clearly, I'm just a hobbyist. Why do they misjudge me so badly? I wondered. Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the *same* one, a hundred times over— who wants the same kind of artist, a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
@@ -241,6 +243,14 @@ So yes, BYCombo requires you to focus on your craft. But this isn't *just* to ma
 
 ${'  ' || `
 // TODO: ### Longevity is the last frontier
+
+This one can wait a while…
+
+Start with observation about Beethoven. Artists continuing to break new ground, even into old age, is the remaining frontier that rock has yet to explore.
+
+Hustlers have no incentive to keep going on, other than to cash in on their fame— if they do make it. But most won't, and at the end, they'll be left with nothing, to feel, like Johnny Rotten, that they've been cheated. By contrast, those who love the craft can keep going for a lifetime.
+
+BYCombo allows you to be in it for the long haul by giving you a community that allows you to keep going and building up your talents. If the first band isn't right for you, you'll know of others.
 `}
 
 ### Art needs the passion of martyrs
