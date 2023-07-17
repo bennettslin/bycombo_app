@@ -124,7 +124,7 @@ We all respect those 80s indie bands for coming up from the grassroots, right? Y
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
-Which explains why we don't hear about one-hit wonders anymore: They're all indie artists now! But the world has yet to figure this out, because those who have the will to say so, lack a way to be heard— and vice versa. In the meantime, to *earn* your success like those indie bands of the past, you can join BYCombo— and show up to work every day for untold years!
+Which explains why we don't hear about one-hit wonders anymore: They're all indie artists now! But the world has yet to figure this out, because those who have the will to say so, lack a way to be heard— and vice versa. In the meantime, you can join BYCombo and *earn* your success— by showing up to work every day for untold years.
 
 ${'  ' || `
 // TODO: ### The long tail eats itself
@@ -250,7 +250,7 @@ ${'  ' || `
 
 The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case for rock bands— which means there's still a frontier left to explore! Unfortunately… indie rock isn't up for this task: Hustling requires the idealism and naivety of youth, which means every indie artist gradually burns out.
 
-By contrast, a genuine love of the craft can keep you motivated for a lifetime. After all, to build your talents further, you must take on greater challenges— and to take on greater challenges, you must build your talents further… ever onward, in a virtuous circle. So BYCombo helps you to stay in it for the long haul— by keeping you in love with your craft.
+By contrast, a genuine love of the craft can motivate you for a lifetime. After all, to build your talents further, you must take on greater challenges— and to take on greater challenges, you must build your talents further… ever onward, in a virtuous circle. So BYCombo helps you to stay in it for the long haul— by keeping you in love with your craft.
 
 ### Art needs the passion of martyrs
 
