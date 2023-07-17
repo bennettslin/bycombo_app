@@ -19,7 +19,7 @@ ${'  ' || `
 // TODO: Beatles comparison.
 `}
 
-BYCombo is here for every music fan, aspiring entrepreneur, and industry executive who's grown tired of indie rock's low barriers to entry. We'll earn your trust by enforcing a steep *cost* of entry:
+BYCombo is here for every music fan, budding entrepreneur, and industry executive who's grown tired of indie rock's low barriers to entry. We'll earn your trust by enforcing a steep *cost* of entry:
 
 **To be added to BYCombo's registry, each band must sacrifice at least 25,000 hours— twelve years working full time!— to make a demo that advances the art form.**
 
