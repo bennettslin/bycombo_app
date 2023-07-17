@@ -242,15 +242,15 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 
 So yes, BYCombo requires you to focus on your craft. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
 
-### Longevity is the last frontier
+### Longevity is an uncharted frontier
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review one more time.
 `}
 
-The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case for rock bands— which means there's still a frontier left to explore! Unfortunately… indie rock isn't up for this task: Hustling requires the idealism and naivety of youth, which means every indie artist gradually burns out.
+The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case for rock bands— which means there's still a frontier left to explore! Unfortunately… indie rock isn't up for this task: Hustling requires a youthful spirit, which means every indie artist eventually burns out.
 
-By contrast, a genuine love of the craft can motivate you for a lifetime. After all, to build your talents further, you must take on greater challenges— and to take on greater challenges, you must build your talents further… ever onward, in a virtuous circle. So BYCombo helps you to stay in it for the long haul— by keeping you in love with your craft.
+By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul— by helping you to stay in love with your craft.
 
 ### Art needs the passion of martyrs
 
