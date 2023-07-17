@@ -156,6 +156,7 @@ ${'  ' || `
 // TODO: ### Commodified signals are worthless
 
 Keep working on this. Ideas are all there, but wording is still rough. Connect having access to legitimacy.
+`}
 
 ### Commodified signals are worthless
 
@@ -166,7 +167,6 @@ Elon Musk hated that only the elites had access to a discerning audience; he wan
 But if access is something that can simply be bought— either with money, or with time and energy— then it no longer conveys honest information. The discerning audience learn not to trust it as a [signal](https://en.wikipedia.org/wiki/Signaling_game)— but not only that, those who hope to be worthy of such an audience learn not to *want* it. And both yearn to leave for a place where honest signals still abound— if one existed.
 
 This is why BYCombo promises to be such a place, by requiring you to sacrifice a serious chunk of lifetime. After all, this is the closest that a signal can come to honestly conveying what a discerning audience wants you to convey.
-`}
 
 ### Competitive self-reliance favors privilege
 
@@ -214,11 +214,11 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle; they simply judged the merit of his works. So there's a lesson here: If a gatekeeper hopes to discover history-making artists… they should think like a future audience.
+Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle; they simply judged the merit of his works. So there's a lesson here: If a gatekeeper hopes to discover history-making artists, they must think like a future audience.
 
 In the past, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase, like Nick Drake. And this was true even into the 90s: Radiohead were so little known that when EMI asked them to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they did so without causing any confusion.
 
-Unfortunately, the same story *didn't* end so well for countless other bands, who then resented the majors for giving them false hopes. Because of this, the indie labels learned to minimize risk by *only* signing artists with an existing fanbase. So today, if there's a Nick Drake out there who's no good at hustling… indie rock will dismiss them as a hobbyist and move on.
+But for every Radiohead who made it, countless others didn't— who then resented the majors for giving them false hopes. As such, the indie labels learned to minimize risk by *only* signing artists with an existing fanbase. So today, if there's a Nick Drake out there who's no good at hustling, indie rock will dismiss them as a hobbyist and move on.
 
 But future audiences *won't* respect the hustle— which means they *also* won't respect the judgments of past gatekeepers who *did*. This is why BYCombo gives you an audience who'd instantly make you known to history based on a stellar demo— just as those in the future would.
 
@@ -248,7 +248,7 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case for rock bands— which means there's still a frontier left to explore! Unfortunately… indie rock isn't up for this task: Hustling requires a youthful spirit, which means every indie artist eventually burns out.
+The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's still a frontier left to explore! Unfortunately, indie rock isn't up for the task: Hustling requires a youthful spirit, so every indie artist eventually burns out.
 
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul— by helping you to stay in love with your craft.
 
