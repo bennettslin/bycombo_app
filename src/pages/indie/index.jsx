@@ -88,6 +88,18 @@ Indie rock requires artists to wear several hats: the marketer hat, the publicis
 
 These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking! So keep your artist hat on, and have a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
+### The grassroots is now a lottery
+
+${'  ' || `
+// TODO: Review one more time.
+`}
+
+We all respect those 80s indie bands for starting from the grassroots, right? Sure, but also for a less spoken reason: Their stories feel [deterministic](https://en.wikipedia.org/wiki/Determinism) to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+
+In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning us all in their music— *and* getting respect for it.
+
+Which explains why we don't hear about one-hit wonders anymore: They're all indie artists now! But the world has yet to figure this out, because those who have the will to say so, lack a way to be heard— and vice versa. In the meantime, come join BYCombo to *earn* your success— by putting in the work each day for untold years.
+
 ### Timeless music has intrinsic appeal
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child at the time, I knew my only hope was to develop such a talent myself. So I studied these bands closely, dreaming that one day I could teach others.
@@ -114,18 +126,6 @@ Because indie labels have just enough standing to lose, they only make *safe* be
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
 
-### The grassroots is now a lottery
-
-${'  ' || `
-// TODO: Review one more time.
-`}
-
-We all respect those 80s indie bands for starting from the grassroots, right? Yes, but also for a less spoken reason: Their stories feel [deterministic](https://en.wikipedia.org/wiki/Determinism) to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
-
-In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning us all in their music— *and* getting respect for it.
-
-Which explains why we don't hear about one-hit wonders anymore: They're all indie artists now! But the world has yet to figure this out, because those who have the will to say so, lack a way to be heard— and vice versa. In the meantime, come join BYCombo to *earn* your success— by putting in the work each day for untold years.
-
 ${'  ' || `
 // TODO: ### The long tail eats itself
 
@@ -151,22 +151,19 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 
 So ignore the critics! To make history without reaching stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
-
-${'  ' || `
-// TODO: ### Commodified signals are worthless
-
-Keep working on this. Ideas are all there, but wording is still rough. Connect having access to legitimacy.
-`}
-
 ### Commodified signals are worthless
 
-While I dislike social media, I'll check out Twitter to see what the indie gatekeepers are saying amongst themselves. So when Elon Musk made verification available to all Twitter Blue subscribers, I was amused to see many of them argue that this made it worthless. After all, indie rock… is the Twitter Blue of music!
+${'  ' || `
+// TODO: Work on second paragraph a bit more. Two questions in a row doesn't flow right.
+`}
 
-Elon Musk hated that only the elites had access to a discerning audience; he wanted to democratize it by making it available to *anyone* willing to spend the money. Well, who else thought this way? The indie gatekeepers in the 00s! They were just as eager to grant this access to *anyone* willing to spend the time and energy to promote themselves online.
+While I dislike social media, every now and then I'll check out Twitter to see what the indie gatekeepers are saying. So after Elon Musk made [verification](https://en.wikipedia.org/wiki/Twitter_verification) available to all Twitter Blue subscribers, I was amused to see them argue that this made it worthless. After all… indie rock is the Twitter Blue of music!
 
-But if access is something that can simply be bought— either with money, or with time and energy— then it no longer conveys honest information. The discerning audience learn not to trust it as a [signal](https://en.wikipedia.org/wiki/Signaling_game)— but not only that, those who hope to be worthy of such an audience learn not to *want* it. And both yearn to leave for a place where honest signals still abound— if one existed.
+Musk hated that only the elites had access to a discerning audience. Why shouldn't *anyone* willing to spend the money have it? Hey… you know who else wanted to democratize such access? The indie gatekeepers! In the 00s, they were happy to give it to *any* artist willing to spend time and energy to promote themselves online.
 
-This is why BYCombo promises to be such a place, by requiring you to sacrifice a serious chunk of lifetime. After all, this is the closest that a signal can come to honestly conveying what a discerning audience wants you to convey.
+But clearly they see the problem here— at least when it comes to Twitter. If access to an audience can be bought— either with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, so the worthy "sender" learns not to want it— and then both yearn to leave for places where honest signaling is still possible.
+
+Well, BYCombo promises to be such a place! After all, what could be a more honest signal than devoting *all* of your time and energy to your craft, for a serious chunk of lifetime?
 
 ### Competitive self-reliance favors privilege
 
