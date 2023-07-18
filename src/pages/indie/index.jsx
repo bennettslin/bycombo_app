@@ -127,19 +127,21 @@ In those days, lottery players had no patience for the grassroots; they'd sign l
 Which explains why we don't hear about one-hit wonders anymore: They're all indie artists now! But the world has yet to figure this out, because those who have the will to say so, lack a way to be heard— and vice versa. In the meantime, come join BYCombo to *earn* your success— by putting in the work each day for untold years.
 
 ${'  ' || `
-// TODO: ### The long tail eats itself
+// TODO: Keep working on this. Fourth paragraph, let indie rock invest in the long tail. BYCombo invests in the artists who deserve to be superstars.
 
 https://www.goodreads.com/notes/18858178-blockbusters/4253280-bennett
 https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html
+`}
 
-First paragraph: Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail). Charitably support each artist just enough for them to sustain themselves, and then move on to the next one. Rather than focus on a few superstars, we can spread our support across a thousands of artists. Yet look around, and it's superstars are bigger than ever, while indie artists have lost even *artistic* relevance. What happened?
+### The long tail eats itself
 
-Second paragraph: In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that nothing nefarious is at work. Stardom is simply the result of natural forces. As social creatures…
+Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail). Charitably support each artist just enough for them to sustain themselves, and then move on to the next one. Rather than focus on a few superstars, we can spread our support across a thousands of artists. Yet look around, and it's superstars are bigger than ever, while indie artists have lost even *artistic* relevance. What happened?
 
-But stardom is also the optimal fate for an artist who's spent a lifetime building up talent. Which means most talented artists want to keep this option open. So indie rock got it backward: The major labels *didn't* exploit the indies. It was precisely *because* the indie labels were a pipeline to the majors that those 90s alternative bands were eager to sign with them in the first place.
+In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that this is a misunderstanding of how stardom happens. Stardom is simply the result of natural forces. As social creatures…
+
+But stardom is also the optimal fate for the most talented artists— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indie labels. It was precisely *because* the indies were seen as farm teams for the majors that those 90s alternative bands eagerly signed with them in the first place.
 
 By forcing every artist to a fate in the long tail, indie rock ensured that the most talented will stay away. So BYCombo is here to restore the pipeline to stardom. Because there will always be superstars. A movement can only do its part to ensure that stardom is earned— or else it ceases to be relevant at all.
-`}
 
 ### History is made through peer review
 
@@ -154,14 +156,14 @@ So ignore the critics! To make history without reaching stardom, you must earn t
 ### Commodified signals are worthless
 
 ${'  ' || `
-// TODO: Work on second paragraph a bit more.
+// TODO: Work on second paragraph a bit more. Talk about just needing to be sure they're serious.
 `}
 
-While I dislike social media, I'll check out Twitter every now and then to see what the indie gatekeepers are talking about. So when Elon Musk included the [blue checkmark](https://en.wikipedia.org/wiki/Twitter_verification) in his Twitter Blue subscription plan, I saw them argue that this made it worthless— which amused me. After all… indie rock is the Twitter Blue of music!
+While I dislike social media, I'll check out Twitter every now and then to see what the indie gatekeepers are talking about. So when Elon Musk included the [blue checkmark](https://en.wikipedia.org/wiki/Twitter_verification) in his Twitter Blue subscription plan, I saw them argue that this would make it worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
-Musk wanted everyone to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who else thought this way? The indie gatekeepers! In the 00s, they were so happy to see *any* artist promote themselves online, and have instant access that was previously available only to those who were signed.
+Musk wanted everyone to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who else thought this way? The indie gatekeepers! In the 00s, they were so happy to grant access to *any* artist who promoted themselves online.
 
-But clearly they know the problem here— at least when it comes to Twitter. If access to an audience can readily be bought— either with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to want it, and then both yearn to leave for places where honest signaling is still possible.
+But clearly they see the problem here— at least when it comes to Twitter. If access to an audience can readily be bought— either with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to want it— and both yearn to leave for places where honest signaling still happens.
 
 Well, BYCombo promises to be such a place! Because what can be a more honest signal than devoting *all* your time and energy to your craft, for a serious chunk of lifetime?
 
@@ -227,7 +229,7 @@ It's because paid dues are worthless outside the one system that honors them— 
 
 Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
 
-Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
+Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, such as yours, to surpass mine. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
 ### Happiness flows from the act of creation
 
