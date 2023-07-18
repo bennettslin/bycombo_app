@@ -82,24 +82,6 @@ They can build a fanbase on their own— which yields compound returns, as each 
 
 In a world of charitable support, then, the smart choice is obvious. But… what if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! Luckily, with BYCombo, you can now go above and beyond to win it back.
 
-### Serendipity rewards the idle mind
-
-Indie rock requires artists to wear several hats: the marketer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
-
-These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking! So keep your artist hat on, and have a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
-
-### The grassroots is now a lottery
-
-${'  ' || `
-// TODO: Review one more time.
-`}
-
-We all respect those 80s indie bands for starting from the grassroots, right? Sure, but also for a less spoken reason: Their stories feel [deterministic](https://en.wikipedia.org/wiki/Determinism) to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
-
-In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning us all in their music— *and* getting respect for it.
-
-Which explains why we don't hear about one-hit wonders anymore: They're all indie artists now! But the world has yet to figure this out, because those who have the will to say so, lack a way to be heard— and vice versa. In the meantime, come join BYCombo to *earn* your success— by putting in the work each day for untold years.
-
 ### Timeless music has intrinsic appeal
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child at the time, I knew my only hope was to develop such a talent myself. So I studied these bands closely, dreaming that one day I could teach others.
@@ -109,6 +91,12 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 Because the indie labels would lose those radio-friendly bands to the majors, they came to favor works that rely on *non*-musical context to be appreciated. And this strategy always won over the critics, who alone provide this context to the public. So even today with radio in decline, the quintessential indie artist is one whom many critics admire— but few musicians study.
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music must hook in a discerning listener on its *own*. So BYCombo gives you all the time you need.
+
+### Serendipity rewards the idle mind
+
+Indie rock requires artists to wear several hats: the marketer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
+
+These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking! So keep your artist hat on, and have a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
 ### Creativity gets its chance from the clueless
 
@@ -125,6 +113,18 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to deliver what the people already want. But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
+
+### The grassroots is now a lottery
+
+${'  ' || `
+// TODO: Review one more time.
+`}
+
+We all respect those 80s indie bands for starting from the grassroots, right? Sure, but also for a less spoken reason: Their stories feel [deterministic](https://en.wikipedia.org/wiki/Determinism) to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+
+In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning us all in their music— *and* getting respect for it.
+
+Which explains why we don't hear about one-hit wonders anymore: They're all indie artists now! But the world has yet to figure this out, because those who have the will to say so, lack a way to be heard— and vice versa. In the meantime, come join BYCombo to *earn* your success— by putting in the work each day for untold years.
 
 ${'  ' || `
 // TODO: ### The long tail eats itself
@@ -154,16 +154,16 @@ So ignore the critics! To make history without reaching stardom, you must earn t
 ### Commodified signals are worthless
 
 ${'  ' || `
-// TODO: Work on second paragraph a bit more. Two questions in a row doesn't flow right.
+// TODO: Work on second paragraph a bit more.
 `}
 
-While I dislike social media, every now and then I'll check out Twitter to see what the indie gatekeepers are saying. So after Elon Musk made [verification](https://en.wikipedia.org/wiki/Twitter_verification) available to all Twitter Blue subscribers, I was amused to see them argue that this made it worthless. After all… indie rock is the Twitter Blue of music!
+While I dislike social media, I'll check out Twitter every now and then to see what the indie gatekeepers are talking about. So when Elon Musk included the [blue checkmark](https://en.wikipedia.org/wiki/Twitter_verification) in his Twitter Blue subscription plan, I saw them argue that this made it worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
-Musk hated that only the elites had access to a discerning audience. Why shouldn't *anyone* willing to spend the money have it? Hey… you know who else wanted to democratize such access? The indie gatekeepers! In the 00s, they were happy to give it to *any* artist willing to spend time and energy to promote themselves online.
+Musk wanted everyone to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who else thought this way? The indie gatekeepers! In the 00s, they were so happy to see *any* artist promote themselves online, and have instant access that was previously available only to those who were signed.
 
-But clearly they see the problem here— at least when it comes to Twitter. If access to an audience can be bought— either with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, so the worthy "sender" learns not to want it— and then both yearn to leave for places where honest signaling is still possible.
+But clearly they know the problem here— at least when it comes to Twitter. If access to an audience can readily be bought— either with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to want it, and then both yearn to leave for places where honest signaling is still possible.
 
-Well, BYCombo promises to be such a place! After all, what could be a more honest signal than devoting *all* of your time and energy to your craft, for a serious chunk of lifetime?
+Well, BYCombo promises to be such a place! Because what can be a more honest signal than devoting *all* your time and energy to your craft, for a serious chunk of lifetime?
 
 ### Competitive self-reliance favors privilege
 
@@ -211,7 +211,7 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle; they simply judged the merit of his works. So there's a lesson here: If a gatekeeper hopes to discover history-making artists, they must think like a future audience.
+Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle; they simply judged the merit of his works. So there's a lesson here: If a gatekeeper hopes to discover history-making artists, they should think like a future audience.
 
 In the past, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase, like Nick Drake. And this was true even into the 90s: Radiohead were so little known that when EMI asked them to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they did so without causing any confusion.
 
