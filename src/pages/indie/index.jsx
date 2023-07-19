@@ -120,7 +120,7 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-We all respect those 80s indie bands for starting from the grassroots— but also for a less spoken reason: Their stories feel [deterministic](https://en.wikipedia.org/wiki/Determinism) to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+We all respect those 80s indie bands for starting from the grassroots— but there's also a less spoken reason: Their stories feel [deterministic](https://en.wikipedia.org/wiki/Determinism) to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning us all in their music— *and* getting respect for it.
 
@@ -156,14 +156,14 @@ So ignore the critics! To make history without reaching stardom, you must earn t
 ### Commodified signals are worthless
 
 ${'  ' || `
-// TODO: Work on second paragraph a bit more. Talk about just needing to be sure they're serious.
+// TODO: Work on second paragraph a bit more. Access that previously would have only been given to artists signed to a label.
 `}
 
-While I dislike social media, I'll check out Twitter every now and then to see what the indie gatekeepers are talking about. So when Elon Musk included the [blue checkmark](https://en.wikipedia.org/wiki/Twitter_verification) in his Twitter Blue subscription plan, I saw them argue that this would make it worthless— which amused me. After all… indie rock is the Twitter Blue of music!
+I dislike social media, but I'll check out Twitter every now and then to see what the indie gatekeepers are talking about. So when Elon Musk included the [blue checkmark](https://en.wikipedia.org/wiki/Twitter_verification) in his Twitter Blue subscription plan, I was amused to see them argue that this would make it worthless. After all… indie rock is the Twitter Blue of music!
 
-Musk wanted everyone to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who else thought this way? The indie gatekeepers! In the 00s, they were so happy to grant access to *any* artist who promoted themselves online.
+Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who else thought this way? The indie gatekeepers! In the 00s, they were so happy to grant access to *any* artist who promoted themselves online.
 
-But clearly they see the problem here— at least when it comes to Twitter. If access to an audience can readily be bought— either with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to want it— and both yearn to leave for places where honest signaling still happens.
+But clearly they see the problem here— at least when it comes to Twitter. If access to an audience can readily be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to want it— and then both yearn to leave for places where honest signaling still happens.
 
 Well, BYCombo promises to be such a place! Because what can be a more honest signal than devoting *all* your time and energy to your craft, for a serious chunk of lifetime?
 
@@ -201,7 +201,7 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive— but I'm a hobbyist. Why do they misjudge me so badly? I always wondered. Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one, a hundred times over— who just wants the same artist, a hundred times over!
+Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive— but I'm a hobbyist. Why do they misjudge me so badly? I always wondered. Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one, a hundred times over— who just looks for the same artist, a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
@@ -213,7 +213,7 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle; they simply judged the merit of his craft. So there's a lesson here: If a gatekeeper hopes to discover history-making artists, they should think like a future audience.
+Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle; they simply judged his craft. So there's a lesson here: If a gatekeeper hopes to discover history-making artists… they should think like a future audience.
 
 In the past, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase, like Nick Drake. And this was true even into the 90s: Radiohead were so little known that when EMI asked them to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they did so without causing any confusion.
 
