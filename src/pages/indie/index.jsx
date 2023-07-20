@@ -201,17 +201,13 @@ So don't be fooled by indie rock's belated embrace of diversity: There's still n
 
 ### The future is a talent scout
 
-${'  ' || `
-// TODO: Revisit the idea of us coming to artist, instead of artist coming to us. Don't make this about hustle versus craft, which has already been discussed elsewhere.
-`}
-
-Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle; they simply judged his craft. So there's a lesson here: If a gatekeeper hopes to discover history-making artists… they should think like a future audience.
+Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle; they simply judged his works. So there's a lesson here: If a gatekeeper hopes to discover history-making artists… they should think like a future audience.
 
 In the past, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase, like Nick Drake. And this was true even into the 90s: Radiohead were so little known that when EMI asked them to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they did so without causing any confusion.
 
 But for every Radiohead who made it, countless others didn't— who then resented the majors for giving them false hopes. As such, the indie labels learned to minimize risk by *only* signing artists with an existing fanbase. So today, if there's a Nick Drake out there who's no good at hustling, indie rock will dismiss them as a hobbyist and move on.
 
-But future audiences *won't* respect the hustle— which means they *also* won't respect the judgments of past gatekeepers who *did*. This is why BYCombo gives you an audience who'd instantly make you known to history based on a stellar demo— just as those in the future would.
+But future audiences *won't* respect the hustle— which means they *also* won't respect the judgments of past gatekeepers who *did*. This is why BYCombo gives you an audience who'd instantly make you known to history based on your works— just as those in the future would.
 
 ### Paid dues must now collude
 
@@ -221,7 +217,7 @@ It's because paid dues are worthless outside the one system that honors them— 
 
 Moreover, once someone has wasted their best years racking up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
 
-Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, such as yours, to surpass mine. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
+Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
 ### Happiness flows from the act of creation
 
@@ -235,15 +231,9 @@ So yes, BYCombo requires you to focus on your craft. But this isn't *just* to ma
 
 ### Longevity is an uncharted frontier
 
-${'  ' || `
-// TODO: Mention Happiness Curve.
-`}
-
 The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's still a frontier left to explore! Unfortunately… indie rock isn't up for this task: Hustling requires a youthful spirit, so every indie artist eventually burns out.
 
-By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle.
-
-So BYCombo keeps you in it for the long haul, by helping you to stay in love with your craft— and allowing you to do the same for others.
+By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
 
 ### Art needs the passion of martyrs
 
