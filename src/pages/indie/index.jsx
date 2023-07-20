@@ -152,7 +152,7 @@ So ignore the critics! To make history without reaching stardom, you must earn t
 ### Commodified signals are worthless
 
 ${'  ' || `
-// TODO: Work on second paragraph a bit more. Access that previously would have only been given to artists signed to a label.
+// TODO: Work on second paragraph a bit more. Access that previously would have only been given to artists signed to a label. All it takes is a few hours a day.
 `}
 
 While I dislike social media, I'll log in to Twitter every now and then to see what the indie gatekeepers are talking about. So when Elon Musk included the [blue checkmark](https://en.wikipedia.org/wiki/Twitter_verification) in his Twitter Blue subscription plan, I was amused to see them argue that this would make it worthless. After all… indie rock is the Twitter Blue of music!
