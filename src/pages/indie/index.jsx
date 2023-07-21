@@ -123,25 +123,29 @@ In those days, lottery players had no patience for the grassroots; they'd sign l
 Which explains why we don't hear about one-hit wonders anymore: They're all indie artists now! But the world has yet to figure this out, because those who have the will to say so, lack a way to be heard— and vice versa. In the meantime, come join BYCombo to *earn* your success— by putting in the work each day for untold years.
 
 ${'  ' || `
-// TODO: Keep working on this. Fourth paragraph, let indie rock invest in the long tail. BYCombo invests in the artists who deserve to be superstars.
+// TODO: Keep working on this. Keep thinking of the best title.
 
 https://www.goodreads.com/notes/18858178-blockbusters/4253280-bennett
 https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html
 `}
 
-### The long tail eats itself
+### Talent dreads the long tail
 
 Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail). Charitably support each artist just enough for them to sustain themselves, and then move on to the next one. Rather than focus on a few superstars, we can spread our support across a thousands of artists. Yet look around, and it's superstars are bigger than ever, while indie artists have lost even *artistic* relevance. What happened?
 
-In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that stardom isn't caused by nefarious forces; it's the result of our human nature. As social creatures, we're not interested in consuming the best. We simply want to share the same experiences with others.
+In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that stardom *isn't* caused by nefarious forces; it's the result of our human nature. As social creatures, we'd rather share the same experiences with others, rather than consume the objective best.
 
-But stardom is also the rightful outcome for the most talented artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indies. It was precisely *because* the indie labels were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
+But stardom is *also* the rightful outcome for the most talented artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indies. It was precisely *because* the indie labels were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
 
-In other words, the most talented artists *don't* need to be protected from aspiring superstars— they *are* the aspiring superstars! This is why BYCombo seeks to restore the path to stardom. Because as long as there are superstars, then why shouldn't you— who's trying to build up the *most* talent— get your chance to be one?
+In other words, by shutting off this pipeline to the majors, indie rock *didn't* help the most talented artists flourish; it caused them to *flee*! So BYCombo is here to restore the pathway to stardom. Because if a world of superstars is inevitable, then why shouldn't *you*— who aspires to be the most talented— get a chance to be one?
 
 ### History is made through peer review
 
-Most artists in the historical canon were superstars in their own day. But indie rock is here to give us a world *without* superstars— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who won't root for an underdog to win?
+${'  ' || `
+// TODO: Review to make sure it flows from long tail section.
+`}
+
+Here's the thing: Most artists in the historical canon *were* superstars in their own day. So how does indie rock expect *any* of its artists to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to *other* artists— especially the vast majority of us who remain unknown.
 
