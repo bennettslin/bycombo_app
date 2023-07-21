@@ -133,11 +133,11 @@ https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html
 
 Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail). Charitably support each artist just enough for them to sustain themselves, and then move on to the next one. Rather than focus on a few superstars, we can spread our support across a thousands of artists. Yet look around, and it's superstars are bigger than ever, while indie artists have lost even *artistic* relevance. What happened?
 
-In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that this is a misunderstanding of how stardom happens. Stardom is simply the result of natural forces. As social creatures…
+In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that stardom isn't caused by nefarious forces; it's the result of our human nature. As social creatures, we're not interested in consuming the best. We simply want to share the same experiences with others.
 
-But stardom is also the optimal fate for the most talented artists— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indie labels. It was precisely *because* the indies were seen as farm teams for the majors that those 90s alternative bands eagerly signed with them in the first place.
+But stardom is also the rightful outcome for the most talented artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indies. It was precisely *because* the indie labels were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
 
-By forcing every artist to a fate in the long tail, indie rock ensured that the most talented will stay away. So BYCombo is here to restore the pipeline to stardom. Because there will always be superstars. A movement can only do its part to ensure that stardom is earned— or else it ceases to be relevant at all.
+In other words, the most talented artists *don't* need to be protected from aspiring superstars— they *are* the aspiring superstars! This is why BYCombo seeks to restore the path to stardom. Because as long as there are superstars, then why shouldn't you— who's trying to build up the *most* talent— get your chance to be one?
 
 ### History is made through peer review
 
@@ -147,7 +147,7 @@ Um… all of us other artists who *weren't* picked, that's who! To be clear, we'
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We recognize when a critical darling's talents are nothing to envy. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
 
-So ignore the critics! To make history without reaching stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
+So ignore the critics! To make history without achieving stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ### Commodified signals are worthless
 
@@ -157,7 +157,7 @@ ${'  ' || `
 
 I dislike social media, but I'll log in to Twitter every now and then to see what the indie gatekeepers are talking about. So when Elon Musk included the [blue checkmark](https://en.wikipedia.org/wiki/Twitter_verification) in his Twitter Blue subscription plan, I saw them argue that this would make it worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
-Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who else thought this way? The indie gatekeepers! In the 00s, they cheered as online tools suddenly allowed *any* artist to reach the public, at the cost of just a few hours each day.
+Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who else thought this way? The indie gatekeepers! In the 00s, they cheered as *any* artist could now reach the public directly by using online tools available to everyone.
 
 But clearly they see the problem here— at least when it comes to Twitter. If access to an audience can readily be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to want it— and then both yearn to leave for places where honest signaling still happens.
 
@@ -181,7 +181,7 @@ Yet despite the poor fit, indie rock sure is eager of late to hand over its rein
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Like those hungry outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to rely on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
+Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to rely on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
 
 ### Interdependence guards against prejudice
 
@@ -200,6 +200,10 @@ To be interdependent, you need partners who are strong where you're weak, and vi
 So don't be fooled by indie rock's belated embrace of diversity: There's still no diversity of *thought*, among both gatekeepers and artists— and there never will be. But BYCombo lets you find business partners who think differently, and who'll value *you* for doing the same.
 
 ### The future is a talent scout
+
+${'  ' || `
+// TODO: In the long term, think about making this more about discovery should match rediscovery.
+`}
 
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle; they simply judged his works. So there's a lesson here: If a gatekeeper hopes to discover history-making artists… they should think like a future audience.
 
