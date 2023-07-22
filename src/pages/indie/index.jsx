@@ -108,6 +108,10 @@ Which is why, throughout history, the *most* creative artists were backed by tho
 
 ### Middle managers join the revolution last
 
+${'  ' || `
+// TODO: In the long term, make this also about indie artists. What revolutions are you free to start, while you have nothing to lose?
+`}
+
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-averse. And who are these risk-averse middle managers in *rock*? The indie labels.
 
 Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to deliver what the people already want. But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
