@@ -129,15 +129,19 @@ https://www.goodreads.com/notes/18858178-blockbusters/4253280-bennett
 https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html
 `}
 
-### Talent dreads the long tail
+### Talent wants an open path to stardom
 
-Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail). Charitably support each artist just enough for them to sustain themselves, and then move on to the next one. Rather than focus on a few superstars, we can spread our support across a thousands of artists. Yet look around, and it's superstars are bigger than ever, while indie artists have lost even *artistic* relevance. What happened?
+Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail). Charitably support each artist just enough for them to sustain themselves, and then move on to the next one. Rather than focus on a few superstars, we can spread our support across a thousands of artists. Yet look around, and it's superstars are bigger than ever, while indie artists have lost even *artistic* relevance. How did this happen?
 
-In her book [Blockbusters](http://blockbusters-thebook.com), Anita Elberse explains that stardom *isn't* caused by nefarious forces; it's the result of our human nature. As social creatures, we'd rather share the same experiences with others, rather than consume the objective best.
+The reason is simple: As social creatures, we're not interested in discovering the best artists; we just want to like those whom others like— but others feel the same!
 
-But stardom is *also* the rightful outcome for the most talented artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indies. It was precisely *because* the indie labels were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
+As a result, a random boost early on can lead to [cumulative advantage](https://en.wikipedia.org/wiki/Preferential_attachment), allowing 
 
-In other words, by shutting off this pipeline to the majors, indie rock *didn't* help the most talented artists flourish; it caused them to *flee*! So BYCombo is here to restore the pathway to stardom. Because if a world of superstars is inevitable, then why shouldn't *you*— who aspires to be the most talented— get a chance to be one?
+This is why we often feel that superstars are undeserving lottery winners.
+
+But stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indies. It was precisely *because* the indie labels were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
+
+In other words, by closing off the path to stardom, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore this path. Because if superstars are inevitable, then why shouldn't *you*— who aspires to be the most worthy— get *your* chance to become one?
 
 ### History is made through peer review
 
@@ -145,7 +149,7 @@ ${'  ' || `
 // TODO: Review to make sure it flows from long tail section.
 `}
 
-Here's the thing: Most artists in the historical canon *were* superstars in their own day. So how does indie rock expect *any* of its artists to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
+Here's the thing: Most artists in the historical canon *were* superstars in their own day. So how does indie rock expect *any* long-tail artist to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to *other* artists— especially the vast majority of us who remain unknown.
 
@@ -159,13 +163,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-I dislike social media, but I'll log in to Twitter every now and then to see what the indie gatekeepers are talking about. So when Elon Musk included the [blue checkmark](https://en.wikipedia.org/wiki/Twitter_verification) in his Twitter Blue subscription plan, I saw them argue that this would make it worthless— which amused me. After all… indie rock is the Twitter Blue of music!
+I dislike social media, but I'll hop on to see what the indie gatekeepers are saying. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
-Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who else thought this way? The indie gatekeepers! In the 00s, they cheered as *any* artist could now reach the public directly by using online tools available to everyone.
+Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers! In the 00s, they wanted *every* artist to reach the public directly using the online tools they provided.
 
 But clearly they see the problem here— at least when it comes to Twitter. If access to an audience can readily be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to want it— and then both yearn to leave for places where honest signaling still happens.
 
-Well, BYCombo promises to be such a place! Because what can be a more honest signal than devoting *all* your time and energy to your craft, for a serious chunk of lifetime?
+Well, BYCombo promises to be such a place! Because what can be a more honest signal than sacrificing a serious chunk of lifetime?
 
 ### Competitive self-reliance favors privilege
 
@@ -206,7 +210,7 @@ So don't be fooled by indie rock's belated embrace of diversity: There's still n
 ### The future is a talent scout
 
 ${'  ' || `
-// TODO: In the long term, think about making this more about discovery should match rediscovery.
+// TODO: In the long term, think about making this more about discovery should match rediscovery. If a gatekeeper hopes to discover the history-making artists of their time… they should think like a future audience hoping to *re*-discover one from their past.
 `}
 
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle; they simply judged his works. So there's a lesson here: If a gatekeeper hopes to discover history-making artists… they should think like a future audience.
