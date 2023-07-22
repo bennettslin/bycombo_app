@@ -110,6 +110,8 @@ Which is why, throughout history, the *most* creative artists were backed by tho
 
 ${'  ' || `
 // TODO: In the long term, make this also about indie artists. What revolutions are you free to start, while you have nothing to lose?
+
+Make title more like: Empowerment kills the revolutionary spirit
 `}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-averse. And who are these risk-averse middle managers in *rock*? The indie labels.
@@ -164,10 +166,10 @@ So ignore the critics! To make history without achieving stardom, you must earn 
 ### Commodified signals are worthless
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review one more time.
 `}
 
-I dislike social media, but I'll hop on to see what the indie gatekeepers are saying. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
+Though I dislike social media, I'll hop on to see what the indie gatekeepers are saying. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
 Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers! In the 00s, they wanted *every* artist to reach the public directly using the online tools they provided.
 
@@ -245,7 +247,7 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 
 So yes, BYCombo requires you to focus on your craft. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
 
-### Longevity is an uncharted frontier
+### Longevity is the last frontier
 
 The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's still a frontier left to explore! Unfortunately… indie rock isn't up for this task: Hustling requires a youthful spirit, so every indie artist eventually burns out.
 
