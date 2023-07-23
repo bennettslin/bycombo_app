@@ -109,9 +109,9 @@ Which is why, throughout history, the *most* creative artists were backed by tho
 ### Middle managers join the revolution last
 
 ${'  ' || `
-// TODO: In the long term, make this also about indie artists. What revolutions are you free to start, while you have nothing to lose?
+// TODO: In the long term, maybe include how both artists *and* gatekeepers today are risk averse? Make title: Empowerment quashes the revolutionary spirit. Make this more about how the optimal situation for risk taking is that artists are initially powerless, and gatekeepers are powerful.
 
-Make title more like: Empowerment kills the revolutionary spirit
+The problem is that this would then be similar to paid dues and passion of martyrs. But maybe this can be fixed by moving it closer down, making their connection intentional.
 `}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-averse. And who are these risk-averse middle managers in *rock*? The indie labels.
@@ -128,36 +128,29 @@ In those days, lottery players had no patience for the grassroots; they'd sign l
 
 Which explains why we don't hear about one-hit wonders anymore: They're all indie artists now! But the world has yet to figure this out, because those who have the will to say so, lack a way to be heard— and vice versa. In the meantime, come join BYCombo to *earn* your success— by putting in the work each day for untold years.
 
-${'  ' || `
-// TODO: Keep working on this. Keep thinking of the best title.
+### Talent wants a path to stardom
 
-https://www.goodreads.com/notes/18858178-blockbusters/4253280-bennett
-https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html
+${'  ' || `
+// TODO: Review a few more times. Check Grammarly. Mention nurturing alternative voices safe from the rat race of superstars. Second paragraph needs to sensibly answer question from first paragraph.
 `}
 
-### Talent wants an open path to stardom
+Indie rock's gripe in the 90s was that the major labels exploited the local scenes. So when the Internet came along with its promise of a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail), indie rock went all in. Yet today, superstars are bigger than ever, while indie artists have lost even *artistic* relevance. How did this happen?
 
-Indie rock bet on the [long tail](https://en.wikipedia.org/wiki/Long_tail). Charitably support each artist just enough for them to sustain themselves, and then move on to the next one. Rather than focus on a few superstars, we can spread our support across a thousands of artists. Yet look around, and it's superstars are bigger than ever, while indie artists have lost even *artistic* relevance. How did this happen?
+It's because stardom *isn't* caused by corporate greed, but by our own social nature. As listeners, we're not interested in finding the best; we just want to like what others like— but others feel the same! This makes popularity a [complex system](https://en.wikipedia.org/wiki/Complex_system), where any random boost can snowball into a supreme advantage— which is how the least worthy artists can end up as superstars.
 
-The reason is simple: As social creatures, we're not interested in discovering the best artists; we just want to like those whom others like— but others feel the same!
+But stardom is *also* the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indies. It was precisely *because* the indie labels were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
 
-As a result, a random boost early on can lead to [cumulative advantage](https://en.wikipedia.org/wiki/Preferential_attachment), allowing 
-
-This is why we often feel that superstars are undeserving lottery winners.
-
-But stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indies. It was precisely *because* the indie labels were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
-
-In other words, by closing off the path to stardom, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore this path. Because if superstars are inevitable, then why shouldn't *you*— who aspires to be the most worthy— get *your* chance to become one?
+In other words, by shutting off this pipeline to the majors, indie rock *didn't* help its most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore the path to stardom for rock bands. Because if superstars are inevitable, then why shouldn't *you*— who aspires to be most worthy— get a chance to be one?
 
 ### History is made through peer review
 
 ${'  ' || `
-// TODO: Review to make sure it flows from long tail section.
+// TODO: Review one more time.
 `}
 
-Here's the thing: Most artists in the historical canon *were* superstars in their own day. So how does indie rock expect *any* long-tail artist to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
+Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how are *any* of its artists expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to *other* artists— especially the vast majority of us who remain unknown.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how one artist might look to *other* artists— especially the vast majority of us who remain unknown.
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We recognize when a critical darling's talents are nothing to envy. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
 
@@ -215,17 +208,13 @@ So don't be fooled by indie rock's belated embrace of diversity: There's still n
 
 ### The future is a talent scout
 
-${'  ' || `
-// TODO: In the long term, think about making this more about discovery should match rediscovery. If a gatekeeper hopes to discover the history-making artists of their time… they should think like a future audience hoping to *re*-discover one from their past.
-`}
-
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle; they simply judged his works. So there's a lesson here: If a gatekeeper hopes to discover history-making artists… they should think like a future audience.
 
 In the past, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase, like Nick Drake. And this was still true in the 90s: Radiohead were so little known that when EMI asked them to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they did so without causing any confusion.
 
 But for every Radiohead who made it, countless others didn't— who then resented the majors for giving them false hopes. As such, the indie labels learned to minimize risk by *only* signing artists with an existing fanbase. So today, if there's a Nick Drake out there who's no good at hustling, indie rock will dismiss them as a hobbyist and move on.
 
-But future audiences *won't* respect the hustle— which means they *also* won't respect the judgments of past gatekeepers who *did*. This is why BYCombo gives you an audience who'd instantly make you known to history based on your works— just as those in the future would.
+But future audiences *won't* value the hustle— which means they *also* won't respect the judgments of past gatekeepers who *did*. This is why BYCombo gives you an audience who'd instantly make you known to history based on your works— just as those in the future would.
 
 ### Paid dues must now collude
 
