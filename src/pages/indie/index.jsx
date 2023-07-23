@@ -88,7 +88,7 @@ To get radio airplay in the 90s, alternative bands had to win over listeners who
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels would lose those radio-friendly bands to the majors, they came to favor works that rely on *non*-musical context to be appreciated. And this strategy always won over the critics, who alone provide this context to the public. So even today with radio in decline, the quintessential indie artist is one whom many critics admire— but few musicians study.
+Because the indie labels would lose those radio-friendly bands to the majors, they came to favor works that rely on *non*-musical context to be appreciated. And this strategy always won over the critics, who alone provide this context to the public. So even today with radio in decline, an acclaimed indie artist is one whom many critics admire— but few musicians study.
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music must hook in a discerning listener on its *own*. So BYCombo gives you all the time you need.
 
@@ -144,23 +144,15 @@ In other words, by shutting off this pipeline to the majors, indie rock *didn't*
 
 ### History is made through peer review
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
 Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how are *any* of its artists expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how one artist might look to *other* artists— especially the vast majority of us who remain unknown.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how an artist might look to *other* artists— especially the vast majority of us who remain unknown.
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We recognize when a critical darling's talents are nothing to envy. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
 
 So ignore the critics! To make history without achieving stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ### Commodified signals are worthless
-
-${'  ' || `
-// TODO: Review one more time.
-`}
 
 Though I dislike social media, I'll hop on to see what the indie gatekeepers are saying. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
