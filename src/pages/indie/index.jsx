@@ -109,9 +109,11 @@ Which is why, throughout history, the *most* creative artists were backed by tho
 ### Middle managers join the revolution last
 
 ${'  ' || `
-// TODO: In the long term, maybe include how both artists *and* gatekeepers today are risk averse? Make title: Empowerment quashes the revolutionary spirit. Make this more about how the optimal situation for risk taking is that artists are initially powerless, and gatekeepers are powerful.
+// TODO: In the long term, maybe include how both artists *and* gatekeepers today are risk averse? Make this more about how the optimal situation for risk taking is that artists are initially powerless, and gatekeepers are powerful, rather than both being moderately empowered.
 
 The problem is that this would then be similar to paid dues and passion of martyrs. But maybe this can be fixed by moving it closer down, making their connection intentional.
+
+Keep rethinking title. Maybe: Middling empowerment leads to risk aversion
 `}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-averse. And who are these risk-averse middle managers in *rock*? The indie labels.
@@ -136,7 +138,7 @@ ${'  ' || `
 
 Indie rock's gripe in the 90s was that the major labels exploited the local scenes. So when the Internet came along with its promise of a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail), indie rock went all in. Yet today, superstars are bigger than ever, while indie artists have lost even *artistic* relevance. How did this happen?
 
-It's because stardom *isn't* caused by corporate greed, but by our own social nature. As listeners, we're not interested in finding the best; we just want to like what others like— but others feel the same! This makes popularity a [complex system](https://en.wikipedia.org/wiki/Complex_system), where any random boost can snowball into a supreme advantage— which is how the least worthy artists can end up as superstars.
+It's because stardom *isn't* caused by corporate greed, but by our own social nature. As listeners, we're not interested in finding the best; we just want to like what others like— but others feel the same! This makes popularity a [complex system](https://en.wikipedia.org/wiki/Complex_system), where any random boost can snowball into a supreme advantage— allowing the least worthy artists to end up as superstars.
 
 But stardom is *also* the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indies. It was precisely *because* the indie labels were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
 
@@ -156,7 +158,7 @@ So ignore the critics! To make history without achieving stardom, you must earn 
 
 Though I dislike social media, I'll hop on to see what the indie gatekeepers are saying. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
-Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers! In the 00s, they wanted *every* artist to reach the public directly using the online tools they provided.
+Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly using the online tools they provided.
 
 But clearly they see the problem here— at least when it comes to Twitter. If access to an audience can readily be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to want it— and then both yearn to leave for places where honest signaling still happens.
 
@@ -199,6 +201,10 @@ To be interdependent, you need partners who are strong where you're weak, and vi
 So don't be fooled by indie rock's belated embrace of diversity: There's still no diversity of *thought*, among both gatekeepers and artists— and there never will be. But BYCombo lets you find business partners who think differently, and who'll value *you* for doing the same.
 
 ### The future is a talent scout
+
+${'  ' || `
+// TODO: In the long term, maybe talk more about how our process of discovery should match a future audience's process of rediscovery? And that being maximally engaged with your present-day fans means you won't have future fans.
+`}
 
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle; they simply judged his works. So there's a lesson here: If a gatekeeper hopes to discover history-making artists… they should think like a future audience.
 
