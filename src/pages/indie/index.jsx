@@ -12,7 +12,11 @@ const Component = () => (
             body: `
 # ${TITLE}
 
-By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana or Radiohead, and then wrote off the rest as failed bets. By contrast, the indie labels held to fair standards that promised *all* their bands a working future. A decade later, the majors imploded— so indie rock won! Except now…
+${'  ' || `
+// TODO: Review one more time.
+`}
+
+By the 90s, the major labels were hated for no longer investing in the bands they signed. They simply counted on a superstar to break out, like Nirvana or Radiohead, and then wrote off the rest as failed bets. By contrast, the indie labels held to fair standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -133,14 +137,14 @@ Which explains why we don't hear about one-hit wonders anymore: They're all indi
 ### Talent wants a path to stardom
 
 ${'  ' || `
-// TODO: Review a few more times. Check Grammarly. Mention nurturing alternative voices safe from the rat race of superstars. Second paragraph needs to sensibly answer question from first paragraph.
+// TODO: Review a few more times.
 `}
 
-Indie rock's gripe in the 90s was that the major labels exploited the local scenes. So when the Internet came along with its promise of a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail), indie rock went all in. Yet today, superstars are bigger than ever, while indie artists have lost even *artistic* relevance. How did this happen?
+In the 90s, the major labels were hated for gutting the local scenes as they searched for the next superstars. So when the Internet promised a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) in which indie artists could safely flourish on the fringes, indie rock went all in. Yet today, superstars are bigger than ever, while indie artists have lost even *artistic* relevance. How did this happen?
 
-It's because stardom *isn't* caused by corporate greed, but by our own social nature. As listeners, we're not interested in finding the best; we just want to like what others like— but others feel the same! This makes popularity a [complex system](https://en.wikipedia.org/wiki/Complex_system), where any random boost can snowball into a supreme advantage— allowing the least worthy artists to end up as superstars.
+It's because the root cause of stardom *isn't* corporate greed, but our social nature. We don't care to hear the best; we just want to like what others like— but others feel the same! This makes popularity a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into supreme advantages— allowing the least worthy artists to end up as superstars.
 
-But stardom is *also* the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indies. It was precisely *because* the indie labels were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
+But stardom is *also* the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indie labels. It was precisely *because* the indies were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
 
 In other words, by shutting off this pipeline to the majors, indie rock *didn't* help its most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore the path to stardom for rock bands. Because if superstars are inevitable, then why shouldn't *you*— who aspires to be most worthy— get a chance to be one?
 
