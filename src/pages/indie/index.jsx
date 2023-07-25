@@ -118,6 +118,13 @@ ${'  ' || `
 The problem is that this would then be similar to paid dues and passion of martyrs. But maybe this can be fixed by moving it closer down, making their connection intentional.
 
 Keep rethinking title. Maybe: Middling empowerment leads to risk aversion
+
+The maximal arrangement for taking risks, then, is the one we had in the past, where powerless artists 
+
+But you know where this is going: Indie rock hated this arrangement.
+Meanwhile, the worst situation for taking risks is the one we have now.
+
+So BYCombo
 `}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-averse. And who are these risk-averse middle managers in *rock*? The indie labels.
