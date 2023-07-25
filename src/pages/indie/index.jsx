@@ -12,11 +12,7 @@ const Component = () => (
             body: `
 # ${TITLE}
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
-By the 90s, the major labels were hated for no longer investing in the bands they signed. They simply counted on a superstar to break out, like Nirvana or Radiohead, and then wrote off the rest as failed bets. By contrast, the indie labels held to fair standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
+By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana or Radiohead, and then wrote off the rest as failed bets. By contrast, the indie labels held to fair standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -118,22 +114,22 @@ Because indie labels have just enough standing to lose, they only make *safe* be
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
 
+${'  ' || `
 ### Moderate standing leads to risk aversion
 
-${'  ' || `
 // TODO: In the long term, maybe include how both artists *and* gatekeepers today are risk averse? Make this more about how the optimal situation for risk taking is that artists are initially powerless, and gatekeepers are powerful, rather than both being moderately empowered.
 
 The problem is that this would then be similar to paid dues and passion of martyrs. But maybe this can be fixed by moving it closer down, making their connection intentional.
 
 Keep rethinking title. Maybe: Middling empowerment leads to risk aversion
 
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-averse— because they have just enough standing to lose.
+
 The maximal arrangement for taking risks, then, is the one we had in the past, where powerless artists 
 
 But you know where this is going: Indie rock hated this arrangement.
 Meanwhile, the worst situation for taking risks is the one we have now.
 `}
-
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-averse— because they have just enough standing to lose.
 
 ### The grassroots is now a lottery
 
@@ -146,7 +142,7 @@ Which explains why we don't hear about one-hit wonders anymore: They're all indi
 ### Talent wants a path to stardom
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review a few more times. First paragraph, don't say the major labels were hated. It's obvious that this sucks. Second paragraph, connect thought better about how the least worthy artists end up as superstars.
 `}
 
 In the 90s, the major labels were hated for gutting the local scenes as they searched for the next superstars. So when the Internet promised a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) in which indie artists could safely flourish on the fringes, indie rock went all in. Yet today, superstars are bigger than ever, while indie artists have lost even *artistic* relevance. How did this happen?
@@ -159,7 +155,7 @@ In other words, by shutting off this pipeline to the majors, indie rock *didn't*
 
 ### History is made through peer review
 
-Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how are *any* of its artists expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
+Here's the thing: Most artists in the historical canon were superstars in their own day. So if indie rock's bet is on the long tail… how are *any* of its artists expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how an artist might look to *other* artists— especially the vast majority of us who remain unknown.
 
