@@ -112,6 +112,14 @@ Which is why, throughout history, the *most* creative artists were backed by tho
 
 ### Middle managers join the revolution last
 
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-averse. And who are these risk-averse middle managers in *rock*? The indie labels.
+
+Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to deliver what the people already want. But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
+
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
+
+### Moderate standing leads to risk aversion
+
 ${'  ' || `
 // TODO: In the long term, maybe include how both artists *and* gatekeepers today are risk averse? Make this more about how the optimal situation for risk taking is that artists are initially powerless, and gatekeepers are powerful, rather than both being moderately empowered.
 
@@ -123,15 +131,9 @@ The maximal arrangement for taking risks, then, is the one we had in the past, w
 
 But you know where this is going: Indie rock hated this arrangement.
 Meanwhile, the worst situation for taking risks is the one we have now.
-
-So BYCombo
 `}
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-averse. And who are these risk-averse middle managers in *rock*? The indie labels.
-
-Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to deliver what the people already want. But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
-
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-averse— because they have just enough standing to lose.
 
 ### The grassroots is now a lottery
 
@@ -212,10 +214,6 @@ To be interdependent, you need partners who are strong where you're weak, and vi
 So don't be fooled by indie rock's belated embrace of diversity: There's still no diversity of *thought*, among both gatekeepers and artists— and there never will be. But BYCombo lets you find business partners who think differently, and who'll value *you* for doing the same.
 
 ### The future is a talent scout
-
-${'  ' || `
-// TODO: In the long term, maybe talk more about how our process of discovery should match a future audience's process of rediscovery? And that being maximally engaged with your present-day fans means you won't have future fans.
-`}
 
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. They didn't need to see him hustle; they simply judged his works. So there's a lesson here: If a gatekeeper hopes to discover history-making artists… they should think like a future audience.
 
