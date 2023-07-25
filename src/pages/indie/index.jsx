@@ -142,16 +142,16 @@ Which explains why we don't hear about one-hit wonders anymore: They're all indi
 ### Talent wants a path to stardom
 
 ${'  ' || `
-// TODO: Review a few more times. First paragraph, don't say the major labels were hated. It's obvious that this sucks. Second paragraph, connect thought better about how the least worthy artists end up as superstars.
+// TODO: Review a few more times.
 `}
 
-In the 90s, the major labels were hated for gutting the local scenes as they searched for the next superstars. So when the Internet promised a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) in which indie artists could safely flourish on the fringes, indie rock went all in. Yet today, superstars are bigger than ever, while indie artists have lost even *artistic* relevance. How did this happen?
+In the 90s, the major labels gutted the local scenes in their search for the next superstars. So when the Internet promised a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) in which indie artists could flourish on the fringes, decoupled from the rat race for stardom, indie rock went all in. Yet today, superstars are bigger than ever, while indie artists have lost even *artistic* relevance. How did this happen?
 
-It's because the root cause of stardom *isn't* corporate greed, but our social nature. We don't care to hear the best; we just want to like what others like— but others feel the same! This makes popularity a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into supreme advantages— allowing the least worthy artists to end up as superstars.
+It's because the root cause of stardom *isn't* corporate greed, but our social nature. We don't care to hear the best; we just want to like what others like— but others feel the same! This makes popularity a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into supreme advantages— which is how the least worthy artists end up as superstars.
 
 But stardom is *also* the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indie labels. It was precisely *because* the indies were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
 
-In other words, by shutting off this pipeline to the majors, indie rock *didn't* help its most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore the path to stardom for rock bands. Because if superstars are inevitable, then why shouldn't *you*— who aspires to be most worthy— get a chance to be one?
+In other words, by shutting off this pipeline to the majors, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore the path to stardom for rock bands. Because if superstars are inevitable, then why shouldn't *you*— who aspires to be most worthy— get a chance to be one?
 
 ### History is made through peer review
 
