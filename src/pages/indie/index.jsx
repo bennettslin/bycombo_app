@@ -84,15 +84,11 @@ In a world of charitable support, then, the smart choice is obvious. But… what
 
 ### Timeless music has intrinsic appeal
 
-${'  ' || `
-// TODO: I'm not sure "acclaimed" is really the word I want.
-`}
-
 To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child at the time, I knew my only hope was to develop such a talent myself. So I studied these bands closely, dreaming that one day I could teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels would lose those radio-friendly bands to the majors, they came to favor works that rely on *non*-musical context to be appreciated. And this strategy always won over the critics, who alone provide this context to the public. So even today with radio in decline, an acclaimed indie artist is one whom many critics admire— but few musicians study.
+Because the indie labels would lose those radio-friendly bands to the majors, they came to favor works that rely on *non*-musical context to be appreciated. And this strategy always won over the critics, who alone provide this context to the public. So even today with radio in decline, the quintessential indie artist is one whom many critics admire— but few musicians study.
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music must hook in a discerning listener on its *own*. So BYCombo gives you all the time you need.
 
@@ -159,13 +155,9 @@ In other words, by shutting off this pipeline to the majors, indie rock *didn't*
 
 ### History is made through peer review
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
 Here's the thing: Most artists in the historical canon were superstars in their own day. So if indie rock's bet is on the long tail… how are *any* of its artists expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how any one artist looks to *other* artists— especially the vast majority of us who remain unknown.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They don't consider how things look to *other* artists— especially the vast majority of us who remain unknown.
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We recognize when a critical darling's talents are nothing to envy. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
 
@@ -173,15 +165,11 @@ So ignore the critics! To make history without achieving stardom, you must earn 
 
 ### Commodified signals are worthless
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
 Every now and then, I'll get over my dislike of social media to see what the indie gatekeepers are saying among themselves. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
 Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly using the online tools they provided.
 
-But clearly they see the problem here— at least when it comes to Twitter. If access to an audience can readily be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to value it— and then both yearn to leave for places where honest signaling still happens.
+But clearly they see the problem here— at least when it comes to Twitter. If access to an audience can readily be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to want it— and then both yearn to leave for places where honest signaling still happens.
 
 Well, BYCombo promises to be such a place! Because what can be a more honest signal than sacrificing a serious chunk of lifetime?
 
@@ -215,11 +203,7 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 ### Independence breeds homogeneity
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
-Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive— but I'm a hobbyist. Why do they misjudge me so badly? I used to wonder. Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one, a hundred times over— who only ever looks for the same artist, a hundred times over!
+Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive— but I'm a hobbyist. Why do they misjudge me so badly? I used to wonder. Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one, a hundred times over— who then looks for the same artist, a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
