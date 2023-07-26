@@ -141,15 +141,11 @@ Which explains why we don't hear about one-hit wonders anymore: They're all indi
 
 ### Talent wants a path to stardom
 
-${'  ' || `
-// TODO: Review a few more times.
-`}
-
 In the 90s, the major labels gutted the local scenes in their search for the next superstars. So when the Internet promised a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) in which indie artists could flourish on the fringes, decoupled from the rat race for stardom, indie rock went all in. Yet today, superstars are bigger than ever, while indie artists have lost even *artistic* relevance. How did this happen?
 
-It's because the root cause of stardom *isn't* corporate greed, but our social nature. We don't care to hear the best; we just want to like what others like— but others feel the same! This makes popularity a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into supreme advantages— which is how the least worthy artists end up as superstars.
+It's because the root cause of stardom *isn't* corporate greed, but our social nature. We don't care to hear the best; we just want to like what others like— but others feel the same! This makes popularity a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into supreme advantages— which, of course, is how the least worthy artists end up as superstars.
 
-But stardom is *also* the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indie labels. It was precisely *because* the indies were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
+But stardom is *also* the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indie labels. It was precisely *because* the indies were seen as [farm teams](https://en.wikipedia.org/wiki/Farm_team) for the majors that those 90s alternative bands signed with them in the first place.
 
 In other words, by shutting off this pipeline to the majors, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore the path to stardom for rock bands. Because if superstars are inevitable, then why shouldn't *you*— who aspires to be most worthy— get a chance to be one?
 
@@ -165,7 +161,7 @@ So ignore the critics! To make history without achieving stardom, you must earn 
 
 ### Commodified signals are worthless
 
-Though I dislike social media, I'll hop on to see what the indie gatekeepers are saying. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
+Every now and then, I'll get over my dislike of social media to see what the indie gatekeepers are saying among themselves. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
 Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly using the online tools they provided.
 
