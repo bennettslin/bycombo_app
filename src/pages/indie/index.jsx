@@ -85,14 +85,14 @@ In a world of charitable support, then, the smart choice is obvious. But… what
 ### Timeless music has intrinsic appeal
 
 ${'  ' || `
-// TODO: Work on the third paragraph.
+// TODO: Review one more time.
 `}
 
-To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child at the time, I knew my only hope was to develop such a talent myself. So I studied these bands closely, dreaming that one day I could then teach others.
+To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child at the time, I knew my only hope was to develop such a talent myself. So I studied their works closely, dreaming that one day I could then teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels would lose those radio-friendly bands to the majors, they came to favor works that rely on *non*-musical context to be appreciated. And this strategy always won over the critics, who alone provide this context to the public. So even today with radio in decline, the quintessential indie artist is one whom many critics admire— but few musicians study.
+Because the indie labels would lose those radio-friendly bands to the majors, they came to favor works that rely on *non*-musical context to be appreciated. And this strategy always won over the critics, who alone provide this context to the public. So even today with radio in decline, a successful indie artist is one whom many critics admire— but whose works few musicians study.
 
 Yet no one cares what past critics thought, while nearly everyone loves a past work with well-crafted hooks— and future audiences will judge *our* times the same way. There's no way around it: To be timeless, your music must hook in a discerning listener on its *own*. So BYCombo gives you all the time you need.
 
