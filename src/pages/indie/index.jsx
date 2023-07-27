@@ -84,6 +84,10 @@ In a world of charitable support, then, the smart choice is obvious. But… what
 
 ### Timeless music has intrinsic appeal
 
+${'  ' || `
+// TODO: Work on the third paragraph.
+`}
+
 To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child at the time, I knew my only hope was to develop such a talent myself. So I studied these bands closely, dreaming that one day I could then teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
@@ -177,7 +181,7 @@ To understand the problem, let's first observe that indie rock enjoys the goodwi
 
 But indie artists try to command the attention of *others*— and at any given time, attention paid to one isn't being paid to the rest. Which means indie rock is really about *competitive* self-reliance. Like [libertarians](https://en.wikipedia.org/wiki/Libertarianism), its artists live for the *hustle*— and nothing makes hustling easier than privilege.
 
-The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to just suck it up and try harder. Now with BYCombo, there's an opposition party that argues for the interdependence you want— out of respect for your craft.
+The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to just suck it up and try harder. Now with BYCombo, there's an opposition party to uphold the interdependence you want— out of respect for your craft.
 
 ### Hungry outsiders aim for the canon
 
