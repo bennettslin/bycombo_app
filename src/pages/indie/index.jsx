@@ -133,10 +133,6 @@ Meanwhile, the worst situation for taking risks is the one we have now.
 
 ### The grassroots is now a lottery
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
 We all respect those 80s indie bands for starting from the grassroots, don't we? But there's a less spoken reason as well: Their stories feel [deterministic](https://en.wikipedia.org/wiki/Determinism) to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning us all in their music— *and* getting respect for it.
@@ -146,12 +142,12 @@ Which explains why we don't hear about one-hit wonders anymore: They're all indi
 ### Talent wants a path to stardom
 
 ${'  ' || `
-// TODO: Review one more time. First sentence in first paragraph could be phrased better.
+// TODO: Review one more time.
 `}
 
-In the 90s, the major labels gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in. Its artists could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have lost even *artistic* relevance. Why is this?
+By the 90s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in. Its artists could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have lost even *artistic* relevance. Why is this?
 
-It's because stardom *isn't* caused by corporate greed, but by our own social nature. We don't care to hear the best; we just want to like what others like— but others feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into supreme advantages— and *this* is how so many unworthy artists end up as superstars.
+It's because stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* care to hear the best; we just want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into supreme advantages— and *this* is how unworthy artists end up as superstars.
 
 But stardom is *also* the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indie labels. It was precisely *because* the indies were seen as [farm teams](https://en.wikipedia.org/wiki/Farm_team) for the majors that those 90s alternative bands signed with them in the first place.
 
@@ -163,11 +159,11 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-Here's the thing: Most artists in the historical canon were superstars in their own day. So if indie rock's bet is on the long tail… then how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, and rally around them. After all, who wouldn't root for an underdog to win?
+Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail, so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They don't consider how things look to *other* artists— especially the vast majority of us who remain unknown.
 
-Because we're invested in the creative process ourselves, we commit fewer false *positives*: We recognize when a fellow artist's talents are nothing to envy. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
+Because we're invested in the creative process ourselves, we commit fewer false *positives*: We recognize when a fellow artist's talents are nothing to envy. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… other artists come closest to seeing *now*.
 
 So ignore the critics! To make history without achieving stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
