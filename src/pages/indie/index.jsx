@@ -70,7 +70,7 @@ Simply put, indie rock doesn't know what it stands *for*, only whom it stands *a
 
 For example, even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) proved that the Internet caters to the lowest common denominator… indie rock concluded that [bands going viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah) is the new grassroots phenomenon?! And when Amanda Palmer raised a million dollars through crowdfunding after [leaving Roadrunner](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me)… this was taken as proof that artists *don't* benefit from a major label deal?!
 
-In every early example of online success, chance or privilege *clearly* played a key role. Yet in its eagerness to "own" the major labels, indie rock chose to downplay this point. And it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume their music is no good!
+In every early example of online success, chance or privilege played a key role. Yet in its eagerness to "own" the major labels, indie rock chose to downplay this point. And it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume their music is no good!
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the major labels did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it holds no grievances.
 
@@ -141,13 +141,9 @@ Which explains why we don't hear about one-hit wonders anymore: They're all indi
 
 ### Talent wants a path to stardom
 
-${'  ' || `
-// TODO: Review one more time.
-`}
+By the 00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in. Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have lost even *artistic* relevance. Why is this?
 
-By the 90s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in. Its artists could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have lost even *artistic* relevance. Why is this?
-
-It's because stardom *isn't* caused by corporate greed, but by our own social nature. We don't care to hear the best; we just want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into supreme advantages— and *this* is how unworthy artists end up as superstars.
+It's because stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* need to hear the best; we just want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into supreme advantages— and *this* is how unworthy artists end up as superstars.
 
 But stardom is *also* the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indie labels. It was precisely *because* the indies were seen as [farm teams](https://en.wikipedia.org/wiki/Farm_team) for the majors that those 90s alternative bands signed with them in the first place.
 
@@ -155,15 +151,11 @@ By shutting off this pipeline to the majors, then, indie rock *didn't* help the 
 
 ### History is made through peer review
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
-Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail, so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
+Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They don't consider how things look to *other* artists— especially the vast majority of us who remain unknown.
 
-Because we're invested in the creative process ourselves, we commit fewer false *positives*: We recognize when a fellow artist's talents are nothing to envy. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… other artists come closest to seeing *now*.
+Because we're invested in the creative process ourselves, we commit fewer false *positives*: We recognize when a fellow artist's talents are nothing to envy. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
 
 So ignore the critics! To make history without achieving stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
@@ -181,7 +173,7 @@ Well, BYCombo promises to be such a place! Because what can be a more honest sig
 
 To promote self-reliance, indie rock requires artists to do the middleman's job for themselves. But a wealthy artist can just pay *others* to do it… and, well, who better to hire than a former middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
-To understand the problem, let's first observe that indie rock enjoys the goodwill generated by artistic movements of *cooperative* self-reliance, such as the Maker Faire, that are united by love of the *craft*. Now, this *would* be fitting— if each indie artist simply made music for their own fulfillment.
+To understand the problem, let's first observe that indie rock enjoys the goodwill generated by artistic movements of *cooperative* self-reliance, such as the [Maker Faire](https://en.wikipedia.org/wiki/Maker_Faire), that are united by love of the *craft*. Now, this *would* be fitting— if each indie artist simply made music for their own fulfillment.
 
 But indie artists try to command the attention of *others*— and at any given time, attention paid to one isn't being paid to the rest. Which means indie rock is really about *competitive* self-reliance. Like [libertarians](https://en.wikipedia.org/wiki/Libertarianism), its artists live for the *hustle*— and nothing makes hustling easier than privilege.
 
