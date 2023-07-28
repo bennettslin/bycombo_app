@@ -64,10 +64,6 @@ Here's an incomplete list of ways…
 
 ### Cultures of grievance wallow in confusion
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
 In the 90s, "indie" referred to bands like Pavement, who never signed to a major label. As Gen X knows, then, Nirvana and Radiohead *aren't* indie. To the younger generations, however, they *sound* indie— so they might as *well* be. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
@@ -87,10 +83,6 @@ They can build a fanbase on their own— which yields compound returns, as each 
 In a world of charitable support, then, the smart choice is obvious. But… what if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! Luckily, with BYCombo, you can now go above and beyond to win it back.
 
 ### Timeless music has intrinsic appeal
-
-${'  ' || `
-// TODO: Review one more time.
-`}
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child at the time, I knew my only hope was to develop such a talent myself. So I studied their works closely, dreaming that one day I could then teach others.
 
