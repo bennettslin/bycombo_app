@@ -163,7 +163,7 @@ Here's the thing: Most artists in the historical canon were superstars in their 
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They don't consider how things look to *other* artists— especially the vast majority of us who remain unknown.
 
-Because we're invested in the creative process ourselves, we commit fewer false *positives*: We recognize when a fellow artist's talents are nothing to envy. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… artists come closest to seeing *now*.
+Because we're invested in the creative process ourselves, we commit fewer false *positives*: We recognize when a fellow artist's talents are nothing to envy. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… other artists come closest to seeing *now*.
 
 So ignore the critics! To make history without achieving stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
