@@ -114,14 +114,13 @@ Because indie labels have just enough standing to lose, they only make *safe* be
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
 
-${'  ' || `
-### Moderate standing leads to risk aversion
+### Minimal standing leads to risk aversion
 
+${'  ' || `
 // TODO: In the long term, maybe include how both artists *and* gatekeepers today are risk averse? Make this more about how the optimal situation for risk taking is that artists are initially powerless, and gatekeepers are powerful, rather than both being moderately empowered.
 
 The problem is that this would then be similar to paid dues and passion of martyrs. But maybe this can be fixed by moving it closer down, making their connection intentional.
-
-Keep rethinking title. Maybe: Middling empowerment leads to risk aversion
+`}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-averse— because they have just enough standing to lose.
 
@@ -129,7 +128,6 @@ The maximal arrangement for taking risks, then, is the one we had in the past, w
 
 But you know where this is going: Indie rock hated this arrangement.
 Meanwhile, the worst situation for taking risks is the one we have now.
-`}
 
 ### The grassroots is now a lottery
 
@@ -206,10 +204,6 @@ To be interdependent, you need partners who are strong where you're weak, and vi
 So don't be fooled by indie rock's belated embrace of diversity: There's still no diversity of *thought*, among both gatekeepers and artists— and there never will be. But BYCombo lets you find business partners who think differently, and who'll value *you* for doing the same.
 
 ### The future is a talent scout
-
-${'  ' || `
-// TODO: Review one more time.
-`}
 
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here: To discover the kind of artist that future audiences will hope to *re*-discover, just… think like a future audience.
 
