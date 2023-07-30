@@ -215,21 +215,21 @@ Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my 
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
-So don't be fooled by indie rock's belated embrace of diversity in race and gender. There's still no diversity of *thought*, among both gatekeepers and artists— and there never will be. But BYCombo lets you find business partners who think differently, and who'll value *you* for doing the same.
+So don't be fooled by indie rock's belated embrace of female and minority artists: There's still no diversity of *thought*, among both gatekeepers and artists, and there never will be. But BYCombo lets you find business partners who think differently— and who'll value *you* for doing the same.
 
 ### The future is a talent scout
 
 ${'  ' || `
-// TODO: Mention good guys.
+// TODO: Review one more time.
 `}
 
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here: To discover the kind of artist that future audiences will hope to *re*-discover, just… think like a future audience.
 
 In the past, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase, like Nick Drake. And this was still true in the 90s: Radiohead were so little known that when EMI asked them to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they did so without causing any confusion.
 
-But for every Radiohead who made it, countless others didn't— and then they resented the majors for giving them false hopes. As such, the indie labels learned to minimize risk by *only* signing artists with an existing fanbase. So today, if there's a Nick Drake out there who's no good at hustling, indie rock will dismiss them as a hobbyist and move on.
+But for every Radiohead who made it, countless others didn't— and then they resented the majors for giving them false hopes. To remain the "good guys," then, the indie labels learned to judge artists by the size of their fanbase, not by their works. So today, if there's a Nick Drake out there who's no good at hustling, indie rock will dismiss them as a hobbyist and move on.
 
-But future audiences *won't* respect the hustle, and they won't respect any past movement that *did*— making *all* of indie rock unworthy of rediscovery! This is why BYCombo gives you an audience who'd instantly make you known based on your works— just like those in the future would.
+But future audiences *won't* respect the hustle, which means they also won't respect any past movement that *did*— making *all* of indie rock unworthy of rediscovery! This is why BYCombo gives you an audience who'd instantly make you known based on your works— just like those in the future would.
 
 ### Paid dues must now collude
 
