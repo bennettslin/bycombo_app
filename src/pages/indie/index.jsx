@@ -207,10 +207,6 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 ### Independence breeds homogeneity
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
 Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my projects are impressive— but I'm a hobbyist. Why do they misjudge me so badly? I used to wonder. Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one, a hundred times over— who then looks for the same artist, a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
@@ -220,7 +216,7 @@ So don't be fooled by indie rock's belated embrace of female and minority artist
 ### The future is a talent scout
 
 ${'  ' || `
-// TODO: Review one more time.
+// TODO: Review one more time. Mention that majors are bad guys.
 `}
 
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here: To discover the kind of artist that future audiences will want to *re*-discover, just… think like a future audience.
