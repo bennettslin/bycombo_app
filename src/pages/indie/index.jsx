@@ -227,16 +227,16 @@ ${'  ' || `
 // TODO: Think about best place to put this section.
 `}
 
-As a child, I just *liked* Guns n' Roses; I didn't "support" them. Yet today's fans regularly say they "support" their favorite artists— even when those artists are world superstars! Why is this? It's because indie rock conflates personal enjoyment of an *artist* with high-minded support for the *arts*— and this leads to wild runaway effects.
+As a child, I just *liked* Guns n' Roses; I didn't *support* them. Yet today's fans regularly say they "support" their favorite artists— even when those artists are world superstars! Why is this? It's because indie rock conflates personal enjoyment of an *artist* with high-minded support for the *arts*. Unfortunately… this leads to some wild runaway effects.
 
 Second paragraph:
-Institution's support is up for grabs; by contrast, individual's support is proactive. Charitable support isn't a leg up; it's an overriding advantage! So once lowly indie artists were supported, then, this created an arms race where now even world superstars must be supported by their fans.
+Institution's support is up for grabs; by contrast, individual's support is proactive. But this tells us that charitable support isn't just a leg up; it's an overriding advantage! So once lowly indie artists were supported, then, this created an arms race where now even world superstars must be supported by their fans.
 
 Third paragraph:
-Those who aren't charitably supported are incentivized to work much harder, to be much better— only to face resistance, since the whole point of charitable support is to *protect* our favorite artists from all others. But… this is a familiar story, isn't it? It's the story of outsiders faced prejudice!
+But the problem doesn't stop there. Those who aren't charitably supported are incentivized to work much harder, to be much better— only to face resistance, since the whole point of charitable support is to *protect* our favorite artists from all others. But… this is a familiar story, isn't it? It's the story of outsiders faced prejudice!
 
 Fourth paragraph:
-This won't end well, because no future generation will "support" a past artist. On the contrary, they'll be clear-eyed about the degree to which charitable support was a de facto privilege
+This won't end well. It's not just that future generations won't "support" a past artist. They'll be clear-eyed about the degree to which charitable support was a de facto privilege.
 
 ### Paid dues must now collude
 
