@@ -16,7 +16,7 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Beatles comparison.
+// TODO: Beatles comparison. Mention visionaries.
 `}
 
 BYCombo is here for every music fan, budding entrepreneur, and industry executive who's grown tired of indie rock's low barriers to entry. We'll earn your trust by enforcing a steep *cost* of entry:

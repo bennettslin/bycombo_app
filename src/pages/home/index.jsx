@@ -52,7 +52,7 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 
 Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the underdog, you'll still help the rest. Except… an outsider's hurdles *aren't* the same. To compensate for *not* being the one you're rooting for, they need to work much harder, to be much better. But then… this makes *them* the underdog's biggest hurdle!
 
-So even as the outsider builds up objective strengths to win over a skeptical public— indie rock assures victory for the underdog by keeping its criteria *subjective*! This explains why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and why it refuses to examine its natural bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+So even as the outsider builds up objective strengths to win over a skeptical public— indie rock assures victory for the underdog by keeping its criteria *subjective*! This explains why it favors music that *lacks* [well-crafted hooks](/indie#timeless-music-has-intrinsic-appeal), and why it refuses to confront its natural bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
 Suffice it to say, then… the indie labels rejected my demo. They also ignored later projects of mine that promised to *help* their underdogs: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider! And now I finally understood:
 
@@ -64,7 +64,11 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 
 ### A hundred *Yearling's Bobtail*s
 
-But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: It wasn't meant to age well— and so it won't. After all, if an artist was charitably supported in their *own* time, why would future generations treat *them* as the underdog?
+${'  ' || `
+// TODO: Review a few times.
+`}
+
+But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: While an underdog movement can shut out every outsider, it can't prevent them from dominating in all the ways that matter. This leaves the underdog to dominate only in ways that *don't* matter… until the whole movement fades into irrelevance.
 
 Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— making the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs and industry executives will try to disrupt the rock market.
 
