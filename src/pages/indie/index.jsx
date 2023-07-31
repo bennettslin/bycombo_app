@@ -84,7 +84,7 @@ In a world of charitable support, then, the smart choice is obvious. But… what
 
 ### Timeless music has intrinsic appeal
 
-To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular child at the time, I knew my only hope was to develop such a talent myself. So I studied their works closely, dreaming that one day I could then teach others.
+To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular teenager at the time, I knew my only hope was to develop such a talent myself. So I studied their works closely, dreaming that one day I could then teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
@@ -221,15 +221,22 @@ But while Radiohead made it, countless others didn't— who then resented the ma
 
 But future audiences *won't* respect the hustle, which means they also won't respect any past movement that *did*— making *all* of indie rock unworthy of rediscovery! This is why BYCombo gives you an audience who'd instantly make you known based on your works… just like those in the future would.
 
-### Charitable support is an overriding advantage
+### Supporting an artist deprives the arts
 
 ${'  ' || `
-// TODO: ### Supporting an artist deprives the arts
+// TODO: Think about best place to put this section.
 `}
 
-As a child, my sister never once "supported" Madonna, despite owning all her albums. Yet today's fans "support" their favorite artists all the time— even those who are world superstars! Why is this? It's because indie rock conflates personal fandom for an *artist* with high-minded support for the *arts*— and this leads to crazy runaway effects.
+As a child, I just *liked* Guns n' Roses; I didn't "support" them. Yet today's fans regularly say they "support" their favorite artists— even when those artists are world superstars! Why is this? It's because indie rock conflates personal enjoyment of an *artist* with high-minded support for the *arts*— and this leads to wild runaway effects.
 
-Also point out that a charitably supported artist from the past will be recognized as a de facto person of privilege.
+Second paragraph:
+Institution's support is up for grabs; by contrast, individual's support is proactive. Charitable support isn't a leg up; it's an overriding advantage! So once lowly indie artists were supported, then, this created an arms race where now even world superstars must be supported by their fans.
+
+Third paragraph:
+Those who aren't charitably supported are incentivized to work much harder, to be much better— only to face resistance, since the whole point of charitable support is to *protect* our favorite artists from all others. But… this is a familiar story, isn't it? It's the story of outsiders faced prejudice!
+
+Fourth paragraph:
+This won't end well, because no future generation will "support" a past artist. On the contrary, they'll be clear-eyed about the degree to which charitable support was a de facto privilege
 
 ### Paid dues must now collude
 
