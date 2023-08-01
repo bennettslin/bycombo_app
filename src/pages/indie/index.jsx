@@ -74,6 +74,22 @@ In every early example of online success, chance or privilege played a key role.
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the major labels did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it holds no grievances.
 
+### Charitable support takes a hard fall
+
+${'  ' || `
+// TODO: Keep working on this. Need to work on fourth paragraph.
+
+Mention that the true heroes of our times are the fans.
+`}
+
+As a child, I didn't *support* Guns n' Roses; I simply *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated individual fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… but the negative effects didn't stop there.
+
+While arts organizations must hold to objective standards, a fan's tastes are personal and need not be reevaluated. But this means their support for an indie artist *isn't* just a leg up; it's an overriding advantage! And so indie rock ended up creating an arms race, where even superstars today need to be charitably supported to stay competitive.
+
+Meanwhile, bands who don't enjoy *anyone's* support must now compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to provide an advantage that *can't* be overcome by others. But… this sounds familiar, doesn't it? It's much like the [historic discrimination](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half) faced by Blacks!
+
+Which means… our times won't end well. We already knew that no future generation ever "supports" a past artist. But now we also know that they'll readily take down those we charitably supported— much like we topple Confederate statues today. Why be a Confederate statue of rock? Come join BYCombo, where you'll need to work much harder, to be much better.
+
 ### The opportunity cost is too damn high
 
 In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they? Well, let's examine their options.
@@ -84,7 +100,7 @@ In a world of charitable support, then, the smart choice is obvious. But… what
 
 ### Timeless music has intrinsic appeal
 
-To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular teenager at the time, I knew my only hope was to develop such a talent myself. So I studied their works closely, dreaming that one day I could then teach others.
+To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular teenager at the time, I knew my only hope was to develop such a talent myself. So I studied these works closely, dreaming that one day I could then teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
@@ -206,22 +222,6 @@ Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
 So don't be fooled by indie rock's belated embrace of female and minority artists: There's still no diversity of *thought*, among both its artists and gatekeepers— and there never will be. But BYCombo lets you find business partners who think differently… and who'll value *you* for doing the same.
-
-### Charitable support takes a hard fall
-
-${'  ' || `
-// TODO: Think about best place to put this section. Maybe closer to top, to establish problem with charitable support right away.
-`}
-
-As a child, I simply *liked* Guns n' Roses; I didn't *support* them. Yet today's fans "support" their favorite artists— even the ones who are superstars! How did this happen? It began with indie rock's conflating of personal fandom with high-minded support for the arts. Naturally, this deprived the arts of better funding… but the negative effects didn't stop there.
-
-While arts organizations hold to objective standards, an individual's tastes are personal and need not be reevaluated. But this means their support for an indie artist *isn't* just a leg up; it's an overriding advantage! And so indie rock created an arms race, where even superstars must now be charitably supported by fans to stay competitive.
-
-Meanwhile, bands who don't enjoy *anyone's* support need to work much harder, to be much better. And yet they'll *still* meet resistance— since the whole point of charitable support is to provide advantages that *can't* be overcome by others. But… this has a familiar ring to it, doesn't it? It's the classic tale of hungry outsiders facing prejudice!
-
-And… it doesn't end well. For one, no future generation ever "supports" a past artist. For another, they'll see the charitable support enjoyed by past artists for what it is— an unfair advantage— and work to *undo* its damage— much like we topple Confederate statues today.
-
-Why be a Confederate statue of rock? Come join BYCombo, where you'll need to work much harder, to be much better— and no one will sympathize if you can't… just the way you want it.
 
 ### The future is a talent scout
 
