@@ -210,16 +210,18 @@ So don't be fooled by indie rock's belated embrace of female and minority artist
 ### Charitable support takes a hard fall
 
 ${'  ' || `
-// TODO: Refer to this system as patronage? Think about best place to put this section. First paragraph doesn't need to have a question connecting the points. But do need to state that it's indie rock that caused it.
+// TODO: Think about best place to put this section. Maybe closer to top, to establish problem with charitable support right away.
 `}
 
-As a child, I simply *liked* Guns n' Roses; I didn't *support* them. Yet today's fans love to "support" their favorite artists— even those who are superstars! Why is this? It's because indie rock conflates personal fandom with high-minded support of the arts. This naturally deprives the arts… and the runaway effects don't stop there.
+As a child, I simply *liked* Guns n' Roses; I didn't *support* them. Yet today's fans "support" their favorite artists— even the ones who are superstars! How did this happen? It began with indie rock's conflating of personal fandom with high-minded support for the arts. Naturally, this deprived the arts of better funding… but the negative effects didn't stop there.
 
-While arts organizations hold to objective standards, an individual's tastes are based on personal whims that may never be reevaluated. But this means their charitable support isn't just a leg up; it's a supreme advantage! So once it's given to the humble indie artist, this creates an arms race where even superstars must now be supported by fans who'll never reevaluate their loyalty.
+While arts organizations hold to objective standards, an individual's tastes are personal and need not be reevaluated. But this means their support for an indie artist *isn't* just a leg up; it's an overriding advantage! And so indie rock created an arms race, where even superstars must now be charitably supported by fans to stay competitive.
 
-Meanwhile, those artists who *aren't* supported now need to work much harder, to be much better. And yet they'll *still* meet resistance, since the whole point of supporting our favorite artists is to provide an advantage that *can't* be challenged by others. But… this has a familiar ring to it, doesn't it? It's the classic story of hungry outsiders facing prejudice!
+Meanwhile, bands who don't enjoy *anyone's* support need to work much harder, to be much better. And yet they'll *still* meet resistance— since the whole point of charitable support is to provide advantages that *can't* be overcome by others. But… this has a familiar ring to it, doesn't it? It's the classic tale of hungry outsiders facing prejudice!
 
-This won't end well. For one, no future generation will ever "support" a past artist. For another, they'll be clear-eyed enough to understand that *our* charitable support was an unearned advantage, and they'll want to *undo* the damage we caused— much like we topple Confederate statues today. We're just waiting on a movement like BYCombo to show up and reward artists who worked harder, to be better.
+And… it doesn't end well. For one, no future generation ever "supports" a past artist. For another, they'll see the charitable support enjoyed by past artists for what it is— an unfair advantage— and work to *undo* its damage— much like we topple Confederate statues today.
+
+Why be a Confederate statue of rock? Come join BYCombo, where you'll need to work much harder, to be much better— and no one will sympathize if you can't… just the way you want it.
 
 ### The future is a talent scout
 
