@@ -80,13 +80,13 @@ ${'  ' || `
 // TODO: Keep working on this. First paragraph, find a better word than funding. Fourth paragraph, mention BYCombo's defined mission. Which is why BYCombo is here with a defined mission— so we can get back to supporting just the *arts*.
 `}
 
-As a child, I didn't *support* Guns n' Roses; I simply *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… but the negative effects didn't stop there.
+As a child, I didn't *support* Guns n' Roses; I simply *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
 
-Unlike an arts organization, fans aren't expected to have objective standards or live up to a defined mission. But if their support for an indie artist *can't* be challenged, then it *isn't* just a leg up; it's an overriding advantage! So indie rock ended up creating an arms race, where even superstars now need to be charitably supported to stay competitive.
+Unlike an arts organization, fans aren't expected to have objective standards or live up to a defined mission. But if their support for an indie artist *can't* be challenged, then it *isn't* just a leg up; it's an overriding advantage! So indie rock ended up starting an arms race, in which even superstars now need to be charitably supported to stay competitive.
 
 Meanwhile, bands who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to provide advantages that others *can't* overcome. But… this sounds familiar, doesn't it? It's like the historic saying that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half) to get half as far!
 
-Which tells us: This can't end well. Future generations *won't* "support" our favorite artists the way we did; if anything, they'll work to *undo* the damage caused by our favoritism— the way we topple Confederate statues today. So BYCombo asks the obvious question: Given all these negative effects… why not go back to supporting just the *arts*?
+Which tells us: This can't end well. Future generations *won't* "support" our favorite artists the way we did; if anything, they'll work to *undo* the damage caused by our favoritism— much like we topple Confederate statues today. So BYCombo asks the obvious question: Given all these negative effects… why not go back to supporting just the *arts*?
 
 ### The opportunity cost is too damn high
 
@@ -197,7 +197,7 @@ To understand the problem, let's first observe that indie rock enjoys the goodwi
 
 But indie artists try to command the attention of *others*— and at any given time, attention paid to one isn't being paid to the rest. Which means indie rock is really about *competitive* self-reliance. Like [libertarians](https://en.wikipedia.org/wiki/Libertarianism), its artists live for the *hustle*— and nothing makes hustling easier than privilege.
 
-The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to just suck it up and try harder. Now with BYCombo, there's an opposition party to uphold the interdependence you want— out of respect for your craft.
+The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to just suck it up and try harder. Now with BYCombo, there's an opposition party that upholds the interdependence you want— out of respect for your craft.
 
 ### Hungry outsiders aim for the canon
 
