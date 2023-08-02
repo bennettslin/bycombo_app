@@ -12,7 +12,7 @@ const Component = () => (
             body: `
 # ${TITLE}
 
-By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana or Radiohead, and then wrote off the rest as failed bets. By contrast, the indie labels held to fair standards that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
+By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana or Radiohead, and then wrote off the rest as failed bets. By contrast, the indie labels kept with fair practices that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -77,18 +77,16 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 ### Charitable support takes a hard fall
 
 ${'  ' || `
-// TODO: Keep working on this. Need to work on fourth paragraph.
-
-Mention that the true heroes of our times are the fans.
+// TODO: Keep working on this. Fourth paragraph is getting there.
 `}
 
-As a child, I didn't *support* Guns n' Roses; I simply *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated individual fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… but the negative effects didn't stop there.
+As a child, I didn't *support* Guns n' Roses; I simply *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… but the negative effects didn't stop there.
 
-While arts organizations must hold to objective standards, a fan's tastes are personal and need not be reevaluated. But this means their support for an indie artist *isn't* just a leg up; it's an overriding advantage! And so indie rock ended up creating an arms race, where even superstars today need to be charitably supported to stay competitive.
+While arts organizations hold objective standards, a fan *doesn't* need to be open-minded, and their tastes can be based on any criteria. But this means their support for indie artists *isn't* just a leg up; it's an overriding advantage! And so indie rock ended up creating an arms race, where even superstars today ask for charitable support to stay competitive.
 
-Meanwhile, bands who don't enjoy *anyone's* support must now compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to provide an advantage that *can't* be overcome by others. But… this sounds familiar, doesn't it? It's much like the [historic discrimination](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half) faced by Blacks!
+Meanwhile, bands who don't enjoy *anyone's* support must now compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to provide an advantage that others *can't* overcome. But… this sounds familiar, doesn't it? It's much like the [historic discrimination](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half) faced by Blacks!
 
-Which means… our times won't end well. We already knew that no future generation ever "supports" a past artist. But now we also know that they'll readily take down those we charitably supported— much like we topple Confederate statues today. Why be a Confederate statue of rock? Come join BYCombo, where you'll need to work much harder, to be much better.
+Which means… our times won't end well. No future generation will "support" any of today's artists, nor will they respect *our* support for some and not others. Instead, they'll seek to *undo* the damage caused by our favoritism— the way we topple Confederate statues today. And so BYCombo is here to ask: Why not go back to supporting just the *arts*?
 
 ### The opportunity cost is too damn high
 
