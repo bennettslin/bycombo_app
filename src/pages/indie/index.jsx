@@ -74,19 +74,19 @@ In every early example of online success, chance or privilege played a key role.
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the major labels did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it holds no grievances.
 
-### Charitable support takes a hard fall
+### Charitable support gets toppled by justice
 
 ${'  ' || `
-// TODO: Keep working on this. Fourth paragraph is getting there.
+// TODO: Keep working on this. First paragraph, find a better word than funding. Fourth paragraph, mention BYCombo's defined mission. Which is why BYCombo is here with a defined mission— so we can get back to supporting just the *arts*.
 `}
 
 As a child, I didn't *support* Guns n' Roses; I simply *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… but the negative effects didn't stop there.
 
-While arts organizations hold objective standards, a fan *doesn't* need to be open-minded, and their tastes can be based on any criteria. But this means their support for indie artists *isn't* just a leg up; it's an overriding advantage! And so indie rock ended up creating an arms race, where even superstars today ask for charitable support to stay competitive.
+Unlike an arts organization, fans aren't expected to have objective standards or live up to a defined mission. But if their support for an indie artist *can't* be challenged, then it *isn't* just a leg up; it's an overriding advantage! So indie rock ended up creating an arms race, where even superstars now need to be charitably supported to stay competitive.
 
-Meanwhile, bands who don't enjoy *anyone's* support must now compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to provide an advantage that others *can't* overcome. But… this sounds familiar, doesn't it? It's much like the [historic discrimination](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half) faced by Blacks!
+Meanwhile, bands who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to provide advantages that others *can't* overcome. But… this sounds familiar, doesn't it? It's like the historic saying that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half) to get half as far!
 
-Which means… our times won't end well. No future generation will "support" any of today's artists, nor will they respect *our* support for some and not others. Instead, they'll seek to *undo* the damage caused by our favoritism— the way we topple Confederate statues today. And so BYCombo is here to ask: Why not go back to supporting just the *arts*?
+Which tells us: This can't end well. Future generations *won't* "support" our favorite artists the way we did; if anything, they'll work to *undo* the damage caused by our favoritism— the way we topple Confederate statues today. So BYCombo asks the obvious question: Given all these negative effects… why not go back to supporting just the *arts*?
 
 ### The opportunity cost is too damn high
 
@@ -177,11 +177,15 @@ So ignore the critics! To make history without achieving stardom, you must earn 
 
 ### Commodified signals are worthless
 
+${'  ' || `
+// TODO: Review one more time.
+`}
+
 Every now and then, I'll get over my dislike of social media to see what the indie gatekeepers are saying among themselves. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
 Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly using the online tools they provided.
 
-But clearly they see the problem here— at least when it comes to Twitter. If access to an audience can readily be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to value it— and then both yearn to leave for places where honest signaling still happens.
+But clearly they see the problem here— at least when it comes to Twitter. If greater access to an audience can be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to value it— and then both yearn to leave for places where honest signaling still happens.
 
 Well, BYCombo promises to be such a place! Because what can be a more honest signal than sacrificing a serious chunk of lifetime?
 
@@ -221,6 +225,16 @@ To be interdependent, you need partners who are strong where you're weak, and vi
 
 So don't be fooled by indie rock's belated embrace of female and minority artists: There's still no diversity of *thought*, among both its artists and gatekeepers— and there never will be. But BYCombo lets you find business partners who think differently… and who'll value *you* for doing the same.
 
+### Paid dues must now collude
+
+For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
+
+It's because paid dues are worthless outside the one system that honors them— so by nature, any such system breeds loyalty to its rule. In short, you can pay your dues, or you can start a revolution… but never both.
+
+Moreover, once someone has wasted their best years building up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
+
+Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
+
 ### The future is a talent scout
 
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here: To discover the kind of artist that future audiences will want to *re*-discover, just… think like a future audience.
@@ -231,15 +245,7 @@ But while Radiohead made it, countless others didn't— who then resented the ma
 
 But future audiences *won't* respect the hustle, which means they also won't respect any past movement that *did*— making *all* of indie rock unworthy of rediscovery! This is why BYCombo gives you an audience who'd instantly make you known based on your works… just like those in the future would.
 
-### Paid dues must now collude
-
-For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
-
-It's because paid dues are worthless outside the one system that honors them— so by nature, any such system breeds loyalty to its rule. In short, you can pay your dues, or you can start a revolution… but never both.
-
-Moreover, once someone has wasted their best years building up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
-
-Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
+### The modern world is an Omelas
 
 ### Happiness flows from the act of creation
 
