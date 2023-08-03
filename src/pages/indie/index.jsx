@@ -233,23 +233,17 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### The future is a talent scout
 
-Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here: To discover the kind of artist that future audiences will want to *re*-discover, just… think like a future audience.
+${'  ' || `
+// TODO: Review one more time.
+`}
+
+Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson for gatekeepers here: To discover the kind of artist that future audiences will want to *re*-discover, just… think like a future audience.
 
 In the past, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase, like Nick Drake. And this was still true in the 90s: Radiohead were so little known that when EMI asked them to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they did so without causing any confusion.
 
 But while Radiohead made it, countless others didn't— who then resented the majors for giving them false hopes. As such, the indie labels learned to judge an artist by the size of their fanbase, not by their works. So today, if there's a Nick Drake out there who's no good at hustling, indie rock will dismiss them as a hobbyist and move on.
 
 But future audiences *won't* respect the hustle, which means they also won't respect any past movement that *did*— making *all* of indie rock unworthy of rediscovery! This is why BYCombo gives you an audience who'd instantly make you known based on your works… just like those in the future would.
-
-### Some will walk away from Omelas
-
-${'  ' || `
-// TODO: Begin with better sentence.
-`}
-
-If I had to sum up all the above arguments into one statement, it would be this: The modern world is an Omelas— in reference to the [short story](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas) by Ursula Le Guin. I was actually surprised to learn that "Omelas" isn't an official word, since it describes a very real-world phenomenon. So I'm here to make it so.
-
-An Omelas is a seeming utopia where injustice does, in fact, exist— but it's exclusively borne by a very small minority. This minority is powerless, so they can never rebel, and they're also invisible, so they can never disrupt the civic pride of others.
 
 ### Happiness flows from the act of creation
 
@@ -269,11 +263,15 @@ By contrast, a deep love of the craft can motivate you for a lifetime. After all
 
 ### Art needs the passion of martyrs
 
+${'  ' || `
+// TODO: Review one more time.
+`}
+
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its Nirvana. Why is this?
 
 It's because we really only pine for past artists who self-sacrificed for art's sake. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-sacrifice for *anyone*, because to do so is a classic sign of being exploited.
 
-But the problems with this current Age of Empowerment go beyond its failure to give us the next Nirvana. For one, self-empowerment is really just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how exactly are *they* the underdogs?
+But the problems with our current Age of Empowerment go even further. For one, self-empowerment is really just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how are *they* the underdogs?
 
 Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the *end*. To save rock, then, we *need* to make way for bands who'll self-sacrifice for art's sake. In other words, after Empowerment… comes the Age of Martyrdom.
 
