@@ -74,19 +74,19 @@ In every early example of online success, chance or privilege played a key role.
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the major labels did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it holds no grievances.
 
-### Charitable support gets toppled by justice
+### Charitable support will be toppled by justice
 
 ${'  ' || `
-// TODO: Keep working on this. First paragraph, find a better word than funding. Fourth paragraph, mention BYCombo's defined mission. Which is why BYCombo is here with a defined mission— so we can get back to supporting just the *arts*.
+// TODO: Keep working on phrasing and such.
 `}
 
 As a child, I didn't *support* Guns n' Roses; I simply *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
 
-Unlike an arts organization, fans aren't expected to have objective standards or live up to a defined mission. But if their support for an indie artist *can't* be challenged, then it *isn't* just a leg up; it's an overriding advantage! So indie rock ended up starting an arms race, in which even superstars now need to be charitably supported to stay competitive.
+Unlike an arts organization, fans aren't expected to have objective standards or live up to a stated mission. But if their support for an indie artist *can't* be questioned, then it *isn't* just a leg up; it's an overriding advantage! So indie rock ended up starting an arms race, where even superstars now need to be charitably supported to stay competitive.
 
-Meanwhile, bands who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to provide advantages that others *can't* overcome. But… this sounds familiar, doesn't it? It's like the historic saying that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half) to get half as far!
+Meanwhile, bands who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to make our favorite artists unbeatable. But… this sounds familiar, doesn't it? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
 
-Which tells us: This can't end well. Future generations *won't* "support" our favorite artists the way we did; if anything, they'll work to *undo* the damage caused by our favoritism— much like we topple Confederate statues today. So BYCombo asks the obvious question: Given all these negative effects… why not go back to supporting just the *arts*?
+Which tells us: This can't end well. Future generations won't "support" our favorite artists the way we did; if anything, they'll work to *undo* the damage caused by our favoritism— much like we topple Confederate statues today. So why not go back to supporting just the *arts*? With BYCombo, you can now join a rock movement that must live up to its stated mission.
 
 ### The opportunity cost is too damn high
 
@@ -177,10 +177,6 @@ So ignore the critics! To make history without achieving stardom, you must earn 
 
 ### Commodified signals are worthless
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
 Every now and then, I'll get over my dislike of social media to see what the indie gatekeepers are saying among themselves. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
 Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly using the online tools they provided.
@@ -245,7 +241,15 @@ But while Radiohead made it, countless others didn't— who then resented the ma
 
 But future audiences *won't* respect the hustle, which means they also won't respect any past movement that *did*— making *all* of indie rock unworthy of rediscovery! This is why BYCombo gives you an audience who'd instantly make you known based on your works… just like those in the future would.
 
-### The modern world is an Omelas
+### Some will walk away from Omelas
+
+${'  ' || `
+// TODO: Begin with better sentence.
+`}
+
+If I had to sum up all the above arguments into one statement, it would be this: The modern world is an Omelas— in reference to the [short story](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas) by Ursula Le Guin. I was actually surprised to learn that "Omelas" isn't an official word, since it describes a very real-world phenomenon. So I'm here to make it so.
+
+An Omelas is a seeming utopia where injustice does, in fact, exist— but it's exclusively borne by a very small minority. This minority is powerless, so they can never rebel, and they're also invisible, so they can never disrupt the civic pride of others.
 
 ### Happiness flows from the act of creation
 
