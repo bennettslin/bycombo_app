@@ -77,16 +77,16 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 ### Charitable support gets toppled by justice
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review a few more times. Check Grammarly.
 `}
 
 As a child, I didn't *support* Guns n' Roses; I simply *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
 
-Unlike an arts organization, fans *aren't* expected to have objective standards or live up to a predefined mission. But if their support for an indie artist can't be questioned, then it *isn't* just a leg up; it's an overriding advantage! So indie rock ended up starting an arms race, where even superstars now need to be charitably supported to stay competitive.
+Unlike an arts organization, fans aren't expected to have objective standards or live up to a mission statement. But if their support for an indie artist can't be questioned, then it *isn't* just a leg up; it's an overriding advantage! So indie rock ended up starting an arms race, where even superstars now need to be charitably supported to stay competitive.
 
-Meanwhile, bands who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to keep our favorite artists in the lead. But… this sounds familiar, doesn't it? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
+Meanwhile, bands who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to give our favorite artists a comfortable lead. But… this sounds familiar, doesn't it? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
 
-Which tells us: This can't end well. Future generations won't "support" our favorite artists the way we did; if anything, they'll work to *undo* the damage caused by our favoritism— much like we topple Confederate statues today. So why be both a charity case *and* a villain? Come join BYCombo instead— a movement for those willing to work much harder, to be much better.
+Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll *undo* the damage caused by such favoritism— much like we topple Confederate statues today. So why be a charity case supported by wrongdoers? Instead, come join BYCombo— whose stated mission is to help you make history the *right* way.
 
 ### The opportunity cost is too damn high
 
@@ -265,9 +265,9 @@ ${'  ' || `
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its Nirvana. Why is this?
 
-It's because we really only pine for past artists who self-sacrificed to advance the art form. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-sacrifice for *anyone*, because to do so is a classic sign of being exploited.
+It's because we really only pine for past artists who self-sacrificed to advance the art form. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a classic sign of being exploited.
 
-But there are problems here. For one, self-empowerment is just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how are *they* the underdogs?
+Yet there are problems here. For one, self-empowerment is just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how are *they* the underdogs?
 
 Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the *end*. To save rock, then, we *need* to make way for bands who'll self-sacrifice to advance the art form. In other words, after the Age of Empowerment… comes the Age of Martyrdom.
 
