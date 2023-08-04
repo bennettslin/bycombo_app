@@ -82,11 +82,11 @@ ${'  ' || `
 
 As a child, I didn't *support* Guns n' Roses; I simply *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
 
-Unlike an arts organization, fans aren't expected to have objective standards or live up to a mission statement. But if their support for an indie artist can't be questioned, then it *isn't* just a leg up; it's an overriding advantage! So indie rock ended up starting an arms race, where even superstars now need to be charitably supported to stay competitive.
+Unlike an arts organization, fans don't need to have lofty standards or live up to a mission statement. But if their charitable support for an underdog can't be challenged, then it *isn't* just a leg up; it's an overriding advantage! So indie rock ended up starting an arms race, where even superstars now compete to be seen as underdogs as well.
 
-Meanwhile, bands who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to give our favorite artists a comfortable lead. But… this sounds familiar, doesn't it? It's like the timeless notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
+Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the purpose of charitable support is to give the underdog a safe lead. But… this sounds familiar, doesn't it? It's like the timeless notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
 
-Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll *undo* the damage caused by such favoritism— much like we topple Confederate statues today. Why be a charity case backed by wrongdoers? Instead, come join BYCombo— whose stated mission is to help you make history the *right* way.
+Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll *undo* the damage caused by our favoritism— much like we topple Confederate statues today. So why be a charity case supported by wrongdoers? Instead, come join BYCombo— whose stated mission is to help you make history the *right* way.
 
 ### The opportunity cost is too damn high
 
@@ -161,7 +161,7 @@ By the 00s, the major labels had gutted the local scenes in their search for the
 
 It's because stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* need to hear the best; we just want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into supreme advantages— and *this* is how unworthy artists end up as superstars.
 
-But stardom is *also* the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indie labels. It was precisely *because* the indies were seen as [farm teams](https://en.wikipedia.org/wiki/Farm_team) for the majors that those 90s alternative bands signed with them in the first place.
+But stardom is *also* the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indie labels. It was precisely *because* the indies were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
 
 By shutting off this pipeline to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore the path to rock stardom. Because if superstars are inevitable, then why shouldn't *you*— who aspires to be most worthy— get a chance to be one?
 
@@ -267,7 +267,7 @@ ${'  ' || `
 
 It's because we really only pine for past artists who self-sacrificed to advance the art form. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a classic sign of being exploited.
 
-So what's the problem here? For one, self-empowerment is just self-serving, power-seeking behavior in those we root for as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how are *they* the underdogs?
+So what's the problem here? For one, self-empowerment is just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how are *they* the underdogs?
 
 Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the *end*. To save rock, then, we *need* to make way for bands who'll self-sacrifice to advance the art form. In other words, after the Age of Empowerment… comes the Age of Martyrdom.
 
