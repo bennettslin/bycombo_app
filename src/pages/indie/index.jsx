@@ -84,7 +84,7 @@ As a child, I didn't *support* Guns n' Roses; I simply *liked* them. Yet today's
 
 Unlike an arts organization, fans don't need to have lofty standards or live up to a mission statement. But if their charitable support for an underdog can't be challenged, then it *isn't* just a leg up; it's an overriding advantage! So indie rock ended up starting an arms race, where even superstars now compete to be seen as underdogs as well.
 
-Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the purpose of charitable support is to give the underdog a safe lead. But… this sounds familiar, doesn't it? It's like the timeless notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
+Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the purpose of charitable support is to give the underdog a safe lead. But… this sounds familiar, doesn't it? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
 
 Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll *undo* the damage caused by our favoritism— much like we topple Confederate statues today. So why be a charity case supported by wrongdoers? Instead, come join BYCombo— whose stated mission is to help you make history the *right* way.
 
@@ -159,7 +159,7 @@ Which explains why we don't hear about one-hit wonders anymore: They're all indi
 
 By the 00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in. Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have lost even *artistic* relevance. Why is this?
 
-It's because stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* need to hear the best; we just want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into supreme advantages— and *this* is how unworthy artists end up as superstars.
+It's because stardom *isn't* caused by corporate greed, but by our own social nature. We don't *need* to hear the best; we just want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into supreme advantages— and *this* is how unworthy artists end up as superstars.
 
 But stardom is *also* the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they refuse to admit it. So indie rock got it backward: The major labels *didn't* exploit the indie labels. It was precisely *because* the indies were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
 
