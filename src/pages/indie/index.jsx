@@ -64,7 +64,11 @@ Here's an incomplete list of ways…
 
 ### Cultures of grievance wallow in confusion
 
-In the 90s, "indie" referred to bands like Pavement, who never signed to a major label. As Gen X knows, then, Nirvana and Radiohead *aren't* indie. To the younger generations, however, they *sound* indie— so they might as *well* be. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
+${'  ' || `
+// TODO: Review one more time.
+`}
+
+In the 90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
@@ -80,7 +84,7 @@ ${'  ' || `
 // TODO: Review one more time. Maybe make first paragraph about people in general as a child.
 `}
 
-As a child, I didn't *support* the Killer Dwarfs; I just *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
+As a child, I didn't *support* Guns N' Roses; I just *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
 
 Unlike an arts organization, fans don't need to have lofty standards or live up to a mission statement. But if their charitable support for an underdog can't be challenged, then it *isn't* just a leg up; it's an overriding advantage! So indie rock ended up starting an arms race, where even superstars now compete to be seen as underdogs as well.
 
@@ -99,7 +103,7 @@ In a world of charitable support, then, the smart choice is obvious. But… what
 ### Timeless music has intrinsic appeal
 
 ${'  ' || `
-// TODO: Third paragraph, make it clear they favor works without hooks. First paragraph, make it less about the 90s, but the past in general? And then don't mention alternative?
+// TODO: Third paragraph, make it clear they favor works without hooks.
 `}
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/7bK5EPjGri4). Being an unpopular teenager at the time, I knew my only hope was to develop such a talent myself. So I studied these works closely, dreaming that one day I could then teach others.
