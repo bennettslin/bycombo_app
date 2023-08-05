@@ -84,14 +84,6 @@ Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by worki
 
 Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll *undo* the damage caused by our favoritism— much like we topple Confederate statues today. So why be a charity case supported by wrongdoers? Instead, come join BYCombo— whose stated mission is to help you make history the *right* way.
 
-### The opportunity cost is too damn high
-
-In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they? Well, let's examine their options.
-
-They can build a fanbase on their own— which yields compound returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond, which yields *marginal* returns for *massive* effort. Yet, by definition, it *isn't* a disadvantage simply not to!
-
-In a world of charitable support, then, the smart choice is obvious. But… what if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! Thankfully, with BYCombo, you can now go above and beyond to win it back.
-
 ### Timeless music has intrinsic appeal
 
 ${'  ' || `
@@ -105,6 +97,14 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and which thus rely on extrinsic context, often rooted in the artist's identity, to win over critics. So even today with radio in decline, an acclaimed indie artist is one whom many critics love— but whose works few musicians care to study.
 
 Yet no one cares what past critics thought, while the past works we love most are those we first enjoy without knowing anything about the artist— and future generations will judge the works of *our* times the same way. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need.
+
+### The opportunity cost is too damn high
+
+In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond. Why don't they? Well, let's examine their options.
+
+They can build a fanbase on their own— which yields compound returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond, which yields *marginal* returns for *massive* effort. Yet, by definition, it *isn't* a disadvantage simply not to!
+
+In a world of charitable support, then, the smart choice is obvious. But… what if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! Thankfully, with BYCombo, you can now go above and beyond to win it back.
 
 ### Serendipity rewards the idle mind
 
