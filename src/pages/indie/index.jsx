@@ -64,10 +64,6 @@ Here's an incomplete list of ways…
 
 ### Cultures of grievance wallow in confusion
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
 In the 90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
@@ -80,15 +76,11 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ### Charitable support gets toppled by justice
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
 As a child, I didn't *support* Guns N' Roses; I just *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
 
 Unlike an arts organization, fans don't need to have lofty standards or live up to a mission statement. But if their charitable support for an underdog can't be challenged, then it *isn't* just a leg up; it's an overriding advantage! So indie rock ended up starting an arms race, where even superstars now compete to be seen as underdogs as well.
 
-Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the purpose of charitable support is to give the underdog a safe lead. But… this sounds familiar, doesn't it? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
+Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to give the underdog a safe lead. But… this sounds familiar, doesn't it? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
 
 Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll *undo* the damage caused by our favoritism— much like we topple Confederate statues today. So why be a charity case supported by wrongdoers? Instead, come join BYCombo— whose stated mission is to help you make history the *right* way.
 
@@ -164,10 +156,6 @@ In those days, lottery players had no patience for the grassroots; they'd sign l
 Which explains why we don't hear about one-hit wonders anymore: They're all indie artists now! But the world has yet to figure this out, because those who have the will to say so, lack a way to be heard— and vice versa. In the meantime, come join BYCombo to *earn* your success— by putting in the work each day for untold years.
 
 ### Talent wants a path to stardom
-
-${'  ' || `
-// TODO: Review one more time.
-`}
 
 By the 00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in. Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have lost even *artistic* relevance. Why is this?
 
@@ -270,10 +258,6 @@ The best composers got *better* with age— Beethoven, for one, composed his [ma
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
 
 ### Art needs the passion of martyrs
-
-${'  ' || `
-// TODO: Review one more time.
-`}
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its Nirvana. Why is this?
 
