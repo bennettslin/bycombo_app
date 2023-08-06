@@ -76,7 +76,7 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ### Charitable support gets toppled by justice
 
-As a child, I didn't *support* Guns N' Roses; I just *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
+As a child, I didn't *support* Guns N' Roses; I simply *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
 
 Unlike an arts organization, fans don't need to have lofty standards or live up to a mission statement. But if their charitable support for an underdog can't be challenged, then it *isn't* just a leg up; it's an overriding advantage! So indie rock ended up starting an arms race, where even superstars now compete to be seen as underdogs as well.
 
@@ -96,7 +96,7 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 
 Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and which thus rely on *non*-musical context, typically rooted in the artist's identity, to win over critics. So even today with radio in decline, an acclaimed indie artist is one whom many critics admire— but whose works few musicians study.
 
-Yet no one cares what [past critics thought](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad), while the past works we love most *don't* require us to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to learn your craft.
+Yet no one cares what [past critics thought](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad), while the past works we love most *don't* require us to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master your craft.
 
 ### The opportunity cost is too damn high
 
@@ -150,18 +150,16 @@ Make the point that as a nonprofit, BYCombo also has nothing to lose.
 ### The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Need new ending paragraphs that are more charitable.
-
-Getting picked up by streaming platform algorithms and building up followers *is* the modern equivalent of word of mouth and drawing in crowds at shows. If we're not willing to question the wisdom of choosing artists based on this criteria in the past, then we can't question it now. In short, the grassroots is now a lottery.
-
-And so we need to ask: Are we loyal to the grassroots itself, like indie rock? If you're loyal instead to its original determinism, then there's good news: With BYCombo, you can once again *earn* your success— by putting in the work each day for untold years.
+// TODO: Keep working on this. Ideas are all there now.
 `}
 
-We all respect those 80s indie bands for starting from the grassroots, don't we? Yet there's a less spoken reason as well: Their stories feel [deterministic](https://en.wikipedia.org/wiki/Determinism) to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+We all respect those 80s indie bands for starting from the grassroots, don't we? Yet there's a less spoken reason as well: Their stories feel [meritocratic](https://en.wikipedia.org/wiki/Meritocracy) to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning us all in their music— *and* getting respect for it.
 
-Which explains why we don't hear about one-hit wonders anymore: They're all indie artists now! But the world has yet to figure this out, because those who have the will to say so, lack a way to be heard— and vice versa. In the meantime, come join BYCombo to *earn* your success— by putting in the work each day for untold years.
+Which… is as it should be! Because, make no mistake: Racking up likes on social media *is* the modern version of drawing a live crowd. And machine learning algorithms *are* the new word of mouth. In other words, indie rock *hasn't* lost its way; it's remained loyal to the grassroots. The grassroots simply became a lottery.
+
+But what if you're loyal to the original presumption of the grassroots as a merit-based system, rather than to the grassroots itself? Then come join BYCombo, where you can once again *earn* your success, by putting in the work each day for untold years— on your *craft*.
 
 ### Talent wants a path to stardom
 
