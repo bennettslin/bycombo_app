@@ -155,21 +155,15 @@ Make the point that as a nonprofit, BYCombo also has nothing to lose.
 
 ${'  ' || `
 // TODO: Keep working on this. Ideas are all there now.
-
-Account for the mention of grassroots phenomenon in cultures of grievance section.
-
-First paragraph: Their success feels earned by merit.
-
-Make more clear difference between populist and merit-based system.
 `}
 
-We all respect those 80s indie bands for starting from the grassroots, don't we? Yet there's a less spoken reason as well: Their stories feel [meritocratic](https://en.wikipedia.org/wiki/Meritocracy) to us. That is to say, they earned their success by putting in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+We all respect those 80s indie bands for starting from the grassroots, don't we? After all, they were chosen by the people, not by the elite. Yet there's a less spoken reason as well: It feels like their success was earned through merit. That is to say, they put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning us all in their music— *and* getting respect for it.
 
-Make no mistake, though: For those who value the grassroots as a *populist* system, nothing has changed. Because getting likes on social media *is* the modern version of drawing a live crowd, and machine learning algorithms *are* the new word of mouth. It remains the case that every indie artist who makes it was chosen by the people, not the elite.
+Make no mistake, though: Nothing has changed— for those who value the grassroots as a *populist* system. Getting likes on social media *is* the modern version of drawing a live crowd, and machine learning algorithms *are* the new word of mouth. An indie artist is still one who was chosen by the people, not by the elite— as it's always been.
 
-It just isn't guaranteed that other artists who put in the same effort will get comparable results, because the grassroots is no longer a *meritocratic* system. But what if that's where your loyalty lay? Then come join BYCombo, where you can once again *earn* your success, by putting in the work each day for untold years— on your *craft*.
+It's just no longer guaranteed that similar artists will see comparable results, because the grassroots has ceased to be a *meritocratic* system. But what if *that's* what you once valued about it? Then come join BYCombo, where you can once again earn your success by putting in the work each day for untold years— on your *craft*.
 
 ### Talent wants a path to stardom
 
@@ -263,7 +257,7 @@ At the peak of my years working eighty-hour weeks— forty to earn a living, and
 
 In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszentmihalyi), Mihaly Csikszentmihalyi explains that when an artist has a clear goal; feels adequately challenged; and gets feedback to guide their progress, they become fully immersed in the act of creation— leading to long-term fulfillment. This is why my years of sacrifice were some of my happiest; I *wasn't* slowly killing myself, as my friend had feared.
 
-Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because indie rock can never admit the truth: Anything earned through self-reliance might just as well be won by chance or bought by privilege. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
+Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because indie rock can never admit the truth: Anything gained through self-reliance might just as well be won by chance or bought by privilege. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
 So yes, BYCombo requires you to focus on your craft. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
 
