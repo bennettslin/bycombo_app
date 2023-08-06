@@ -64,6 +64,10 @@ Here's an incomplete list of ways…
 
 ### Cultures of grievance wallow in confusion
 
+${'  ' || `
+// TODO: Don't mention grassroots? Mention something respectable instead?
+`}
+
 In the 90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
@@ -151,15 +155,21 @@ Make the point that as a nonprofit, BYCombo also has nothing to lose.
 
 ${'  ' || `
 // TODO: Keep working on this. Ideas are all there now.
+
+Account for the mention of grassroots phenomenon in cultures of grievance section.
+
+First paragraph: Their success feels earned by merit.
+
+Make more clear difference between populist and merit-based system.
 `}
 
-We all respect those 80s indie bands for starting from the grassroots, don't we? Yet there's a less spoken reason as well: Their stories feel [meritocratic](https://en.wikipedia.org/wiki/Meritocracy) to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+We all respect those 80s indie bands for starting from the grassroots, don't we? Yet there's a less spoken reason as well: Their stories feel [meritocratic](https://en.wikipedia.org/wiki/Meritocracy) to us. That is to say, they earned their success by putting in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning us all in their music— *and* getting respect for it.
 
-Which… is as it should be! Because, make no mistake: Racking up likes on social media *is* the modern version of drawing a live crowd. And machine learning algorithms *are* the new word of mouth. In other words, indie rock *hasn't* lost its way; it's remained loyal to the grassroots. The grassroots simply became a lottery.
+Make no mistake, though: For those who value the grassroots as a *populist* system, nothing has changed. Because getting likes on social media *is* the modern version of drawing a live crowd, and machine learning algorithms *are* the new word of mouth. It remains the case that every indie artist who makes it was chosen by the people, not the elite.
 
-But what if you're loyal to the original presumption of the grassroots as a merit-based system, rather than to the grassroots itself? Then come join BYCombo, where you can once again *earn* your success, by putting in the work each day for untold years— on your *craft*.
+It just isn't guaranteed that other artists who put in the same effort will get comparable results, because the grassroots is no longer a *meritocratic* system. But what if that's where your loyalty lay? Then come join BYCombo, where you can once again *earn* your success, by putting in the work each day for untold years— on your *craft*.
 
 ### Talent wants a path to stardom
 
