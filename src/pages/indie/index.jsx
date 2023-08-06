@@ -154,22 +154,22 @@ Make the point that as a nonprofit, BYCombo also has nothing to lose.
 ### The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Keep working on this. Ideas are all there now.
+// TODO: Review a few more times. Check Grammarly.
 `}
 
-We all respect those 80s indie bands for starting from the grassroots, don't we? After all, they were chosen by the people, not by the elite. Yet there's a less spoken reason as well: It feels like their success was earned through merit. That is to say, they put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) for starting from the grassroots, don't we? After all, they were chosen by the people, not by the elite. Yet there's a less spoken reason as well: It feels like their success was *earned*. That is to say, they put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning us all in their music— *and* getting respect for it.
 
-Make no mistake, though: Nothing has changed— for those who value the grassroots as a *populist* system. Getting likes on social media *is* the modern version of drawing a live crowd, and machine learning algorithms *are* the new word of mouth. An indie artist is still one who was chosen by the people, not by the elite— as it's always been.
+Make no mistake, though: Nothing has changed— for those who respect the grassroots as a *populist* system. Getting likes on social media *is* the modern version of drawing a live crowd, and machine learning algorithms *are* the new word of mouth. Which means today's indie artists are still chosen by the people, not by the elite— the way it's always been.
 
-It's just no longer guaranteed that similar artists will see comparable results, because the grassroots has ceased to be a *meritocratic* system. But what if *that's* what you once valued about it? Then come join BYCombo, where you can once again earn your success by putting in the work each day for untold years— on your *craft*.
+It's just no longer guaranteed that equally driven and talented artists will see comparable results, because the grassroots has ceased to be a *merit-based* system. So what happens now, if you were hoping to *earn* your success? Why, you can join BYCombo, and put in the work each day for untold years— on your craft!
 
 ### Talent wants a path to stardom
 
 By the 00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in. Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have lost even *artistic* relevance. Why is this?
 
-It's because stardom *isn't* caused by corporate greed, but by our own social nature. We don't *need* to hear the best; we just want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into supreme advantages— and *this* is how unworthy artists end up as superstars.
+It's because stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* need to hear the best; we just want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into supreme advantages— and *this* is how unworthy artists end up as superstars.
 
 But stardom is *also* the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So indie rock got it backward: The major labels *didn't* exploit the indie labels. It was precisely *because* the indies were seen as farm teams for the majors that those 90s alternative bands started out with them in the first place.
 
