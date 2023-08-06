@@ -87,16 +87,16 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 ### Timeless music has intrinsic appeal
 
 ${'  ' || `
-// TODO: Review one more time.
+// TODO: Review one more time. Check Grammarly.
 `}
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/7bK5EPjGri4). Being an unpopular teenager at the time, I knew my only hope was to develop such a talent myself. So I studied these works closely, dreaming that one day I could then teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and which thus rely on extrinsic context, often rooted in the artist's identity, to win over critics. So even today with radio in decline, an acclaimed indie artist is one whom many critics love— but whose works few musicians care to study.
+Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and which thus rely on *non*-musical context, typically rooted in the artist's identity, to win over critics. So even today with radio in decline, an acclaimed indie artist is one whom many critics admire— but whose works few musicians study.
 
-Yet no one cares what past critics thought, while the past works we love most are the ones we first enjoyed without knowing about the artist— and future generations will judge the works of *our* times the same way. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to learn your craft.
+Yet no one cares what [past critics thought](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad), while the past works we love most *don't* require us to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to learn your craft.
 
 ### The opportunity cost is too damn high
 
@@ -149,7 +149,15 @@ Make the point that as a nonprofit, BYCombo also has nothing to lose.
 
 ### The grassroots is now a lottery
 
-We all respect those 80s indie bands for starting from the grassroots, don't we? But there's a less spoken reason as well: Their stories feel [deterministic](https://en.wikipedia.org/wiki/Determinism) to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+${'  ' || `
+// TODO: Need new ending paragraphs that are more charitable.
+
+Getting picked up by streaming platform algorithms and building up followers *is* the modern equivalent of word of mouth and drawing in crowds at shows. If we're not willing to question the wisdom of choosing artists based on this criteria in the past, then we can't question it now. In short, the grassroots is now a lottery.
+
+And so we need to ask: Are we loyal to the grassroots itself, like indie rock? If you're loyal instead to its original determinism, then there's good news: With BYCombo, you can once again *earn* your success— by putting in the work each day for untold years.
+`}
+
+We all respect those 80s indie bands for starting from the grassroots, don't we? Yet there's a less spoken reason as well: Their stories feel [deterministic](https://en.wikipedia.org/wiki/Determinism) to us. That is to say, they were always likely to succeed, because they *earned* it. They put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning us all in their music— *and* getting respect for it.
 
@@ -169,7 +177,7 @@ By shutting off this pipeline to the majors, then, indie rock *didn't* help the 
 
 Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They don't consider how an artist looks to *other* artists— especially the vast majority of us who remain unknown.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why critics are so bad at making timeless judgments: They don't consider how an artist looks to *other* artists— especially the vast majority of us who remain unknown.
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We recognize when a fellow artist's talents are nothing to envy. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to propose them. In other words, what historians will see in *time*… other artists come closest to seeing *now*.
 
