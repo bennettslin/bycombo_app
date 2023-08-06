@@ -96,7 +96,7 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 
 Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and which thus rely on extrinsic context, often rooted in the artist's identity, to win over critics. So even today with radio in decline, an acclaimed indie artist is one whom many critics love— but whose works few musicians care to study.
 
-Yet no one cares what past critics thought, while the past works we love most are those we first enjoy without knowing anything about the artist— and future generations will judge the works of *our* times the same way. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need.
+Yet no one cares what past critics thought, while the past works we love most are the ones we first enjoyed without knowing about the artist— and future generations will judge the works of *our* times the same way. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to learn your craft.
 
 ### The opportunity cost is too damn high
 
