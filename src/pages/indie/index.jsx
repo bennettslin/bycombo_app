@@ -72,7 +72,7 @@ In the 90s, "indie" referred to bands like Pavement, who *never* signed to a maj
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
-For example, even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) proved that the Internet caters to the lowest common denominator… indie rock insisted that [artists going viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah) *aren't* just the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars after [leaving Roadrunner](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me)… this was taken as proof that artists *don't* benefit from a major label deal?!
+For example, even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) proved that the Internet caters to the lowest common denominator… indie rock insisted that [artists who go viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah) *aren't* just the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars after [leaving Roadrunner](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me)… this was taken as proof that artists *don't* benefit from a major label deal?!
 
 In every early example of online success, chance or privilege played a key role. Yet indie rock was so eager to "own" the major labels, it chose to downplay this point. And it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume their music is no good!
 
@@ -91,14 +91,14 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 ### Timeless music has intrinsic appeal
 
 ${'  ' || `
-// TODO: Review one more time. Check Grammarly.
+// TODO: Review one more time.
 `}
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/7bK5EPjGri4). Being an unpopular teenager at the time, I knew my only hope was to develop such a talent myself. So I studied these works closely, dreaming that one day I could then teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and which instead rely on *non*-musical context, often rooted in the artist's identity, to win over critics. So even today with radio in decline, an acclaimed indie artist is one whom many critics admire— but whose works few musicians study.
+Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and thus instead rely on *non*-musical context, usually rooted in the artist's identity, to win over critics. So even today with radio in decline, an acclaimed indie artist is one whom many critics admire— but whose works few musicians study.
 
 Yet no one cares what [past critics thought](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad), while the past works we love most *don't* require us to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master your craft.
 
@@ -154,16 +154,16 @@ Make the point that as a nonprofit, BYCombo also has nothing to lose.
 ### The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Review a few more times. Check Grammarly.
+// TODO: Review one more time.
 `}
 
-We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) for starting from the grassroots, don't we? After all, they were chosen by the people, not by the elite. Yet there's a less spoken reason as well: Their success feels *earned* to us. That is to say, they put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) for starting from the grassroots, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: Their success feels *earned* to us. That is to say, they put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players had no patience for the grassroots; they'd sign lopsided deals with a label instead, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances— *and* making them indie artists in good faith! So now they're drowning us all in their music— *and* getting respect for it.
 
-Which is as it should be— for those who only see the grassroots as a *populist* system. Getting likes on social media *is* the modern equivalent of drawing a live crowd, and machine learning algorithms *are* the new word of mouth. So every successful indie artist today was still chosen by the people, not by the elite— they way they've always been.
+Of course, for those who only see the grassroots as a [*populist*](https://en.wikipedia.org/wiki/Populism) system, this is as it should be! After all, getting likes on social media *is* the modern version of drawing a live crowd, and machine learning algorithms *are* the new word of mouth. In other words, today's indie artists are still chosen by the people, *not* by the elite— the way it's always been.
 
-It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a *merit-based* system. So what happens now, if you were hoping to *earn* your success? Well, you can join BYCombo, and put in the work each day for untold years— on your craft!
+It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) system. So what happens now, if you were hoping to *earn* your success? Well, you can join BYCombo, and put in the work each day for untold years— on your craft!
 
 ### Talent wants a path to stardom
 
@@ -171,9 +171,9 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-By the 00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in. Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have lost even *artistic* relevance. Why is this?
+By the 00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have lost even *artistic* relevance. Why is this?
 
-It's because stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* need to hear the best; we just want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into supreme advantages— and *this* is how the least worthy artists end up as superstars.
+It's because stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* need to hear the best; we just want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into supreme advantages— and *this* is how unworthy artists end up as superstars.
 
 But stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So indie rock got it backward: The major labels *didn't* exploit the indie labels. It was precisely *because* the indies were seen as farm teams for the majors that those 90s alternative bands started out with them in the first place.
 
@@ -245,7 +245,7 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
-### Future generations will have agency
+### The future has its own agency
 
 ${'  ' || `
 // TODO: Add fourth paragraph that summarizes this point:
@@ -267,6 +267,8 @@ In the past, the major labels did just that: Their talent scouts would instantly
 But while Radiohead made it, countless others didn't— who then resented the majors for giving them false hopes. As such, the indie labels learned to judge an artist by the size of their fanbase, not by their works. So today, if there's a Nick Drake out there who's no good at hustling, indie rock will dismiss them as a hobbyist and move on.
 
 But future audiences *won't* respect the hustle, which means they also won't respect any past movement that *did*— making *all* of indie rock unworthy of rediscovery! This is why BYCombo gives you an audience who'd instantly make you known based on your works… just like those in the future would.
+
+### Poptimism is pop's indie rock
 
 ### Happiness flows from the act of creation
 
