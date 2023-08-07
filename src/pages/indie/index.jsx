@@ -98,7 +98,7 @@ To get radio airplay in the 90s, alternative bands had to win over listeners who
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and thus instead rely on *non*-musical context, usually rooted in the artist's identity, to win over critics. So even today with radio in decline, an acclaimed indie artist is one whom many critics admire— but whose works few musicians study.
+Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and instead rely on *non*-musical context, often rooted in the artist's identity, to win over critics. So even today with radio in decline, an acclaimed indie artist is one whom many critics admire— but whose works few musicians study.
 
 Yet no one cares what [past critics thought](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad), while the past works we love most *don't* require us to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master your craft.
 
@@ -256,15 +256,11 @@ Indie rock doesn't in good faith give future generations what they want. So futu
 When a movement isn't designed to make its artists have future fans.
 
 Why knowingly be what the future doesn't want?
-
-Maybe Radiohead example isn't needed here. Having no fanbase is why Nick Drake was ignored in his own time. And so the indie labels learned to minimize risk by judging an artist by the size of their fanbase.
 `}
 
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson for any gatekeeper here: To discover the kind of artist that future audiences will hope to *re*-discover, just… think like a future audience.
 
-In the past, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase, like Nick Drake. And this was still true in the 90s: Radiohead were so little known that when EMI asked them to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday), they did so without causing any confusion.
-
-But while Radiohead made it, countless others didn't— who then resented the majors for giving them false hopes. As such, the indie labels learned to judge an artist by the size of their fanbase, not by their works. So today, if there's a Nick Drake out there who's no good at hustling, indie rock will dismiss them as a hobbyist and move on.
+In the past, the major labels did just that: Their talent scouts would instantly sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But, of course… having no fanbase is precisely why these artists often proved to be financial liabilities. So to minimize risk, the indie labels learned to judge an artist by the size of their fanbase, *not* by their works.
 
 But future audiences *won't* respect the hustle, which means they also won't respect any past movement that *did*— making *all* of indie rock unworthy of rediscovery! This is why BYCombo gives you an audience who'd instantly make you known based on your works… just like those in the future would.
 
