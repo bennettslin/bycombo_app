@@ -254,11 +254,13 @@ When a movement isn't designed to make its artists have future fans.
 Why knowingly be what the future doesn't want?
 
 But future audiences *won't* respect the hustle, which means they also won't respect any past movement that *did*— making *all* of indie rock unworthy of rediscovery! This is why BYCombo gives you an audience who'd instantly make you known based on your works… just like those in the future would.
+
+When societies in the past stopped investing in their artists, we don't try to see the good in what they did have to offer. Societies not investing in their artists is the historical default.
 `}
 
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson for any gatekeeper here: To discover the kind of artist that future audiences will hope to *re*-discover, just… think like a future audience.
 
-In the past, the major labels did just that: Their talent scouts would instantly sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. Unfortunately… such artists were often financial liabilities. To avoid risk, then, the indie labels learned to judge an artist *only* by their hustle, *not* by their works— which means they're sure to reject today's Nick Drakes!
+In the past, the major labels did just that: Their talent scouts would instantly sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. Unfortunately… such artists are often financial liabilities. So to avoid risk, the indie labels learned to judge an artist *only* by their hustle, and *not* by their works— which means they'll reject today's Nick Drakes!
 
 Yet we know with near certainty that future generations *won't* blah.
 
