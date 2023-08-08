@@ -76,7 +76,7 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ### Charitable support gets toppled by justice
 
-As a child, I didn't *support* Guns N' Roses; I simply *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
+As a child, I didn't *support* Def Leppard; I simply *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
 
 Unlike an arts organization, fans don't need to have lofty standards or live up to a mission statement. But if their charitable support for an underdog can't be challenged, then it *isn't* just a leg up; it's an overriding advantage! So indie rock ended up starting an arms race, where even superstars now compete to be seen as underdogs as well.
 
@@ -86,13 +86,17 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 
 ### Timeless music has intrinsic appeal
 
-To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/yjJL9DGU7Gg?t=36). Being an unpopular teenager at the time, I knew my only hope was to develop such a talent myself. So I studied these works closely, dreaming that one day I could then teach others.
+${'  ' || `
+// TODO: Review one more time.
+`}
+
+To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/7bK5EPjGri4). Being an unpopular teenager at the time, I knew my only hope was to develop such a talent myself. So I studied these works closely, dreaming that one day I could then teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and instead rely on *non*-musical context, often rooted in the artist's identity, to win over critics. So even today with radio in decline, an acclaimed indie artist is one whom many critics admire— but whose works few musicians study.
+Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and which instead rely on *non*-musical context, often rooted in the artist's identity, to win over critics. So even today with radio in decline, an acclaimed indie artist is one whom many critics admire— but whose works few musicians study.
 
-Yet no one cares what [past critics thought](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad), while the past works we love most *don't* require us to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master your craft.
+Yet no one cares what [past critics thought](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad), while the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master your craft.
 
 ### The opportunity cost is too damn high
 
@@ -149,11 +153,11 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) for starting from the grassroots, don't we? After all, they were chosen by the people, not by the elite. Yet there's a less spoken reason as well: Their success feels *earned* to us. That is to say, they put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) for starting from the grassroots, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: Their success feels *earned* to us. That is to say, they put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players would sign lopsided deals with a label, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances to employ the same strategy— while making them indie artists in good faith! So now they're drowning us all in their music— *and* getting respect for it.
 
-Of course, for those who only see the grassroots as a [*populist*](https://en.wikipedia.org/wiki/Populism) domain… this is as it should be! After all, getting likes on social media *is* the modern version of drawing a live crowd, and machine learning algorithms *are* the new word of mouth. Which means today's indie artists are still chosen by the people, not by the elite— as it's always been.
+Of course, for those who only see the grassroots as a [*populist*](https://en.wikipedia.org/wiki/Populism) domain… this is as it should be! After all, getting likes on social media *is* the modern version of drawing a live crowd, and machine learning algorithms *are* the new word of mouth. Which means today's indie artists are *still* chosen by the people, not by the elite— as it's always been.
 
 It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what happens now, if you were hoping to *earn* your success? Well, you can join BYCombo, and put in the work each day for untold years— on your craft!
 
@@ -258,10 +262,10 @@ In the past, the major labels did just that: Their talent scouts would instantly
 
 Yet we know with near certainty that future generations *won't* blah.
 
-### Poptimism is pop's indie rock
-
 ${'  ' || `
-// TODO:
+// TODO: ### Poptimism is pop's indie rock
+
+### Poptimism is pop's indie rock
 
 Mention Motown.
 `}
