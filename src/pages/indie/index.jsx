@@ -229,37 +229,6 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
-### The future has its own agency
-
-${'  ' || `
-// TODO: Add fourth paragraph that summarizes this point:
-When I argue that music has gotten worse, a usual rebuttal is that we can't know which current artists will be relevant in the future. But this behaves as if the choice is simply up to us, rather than to future generations who'll have their own agency. As if whatever we hand down, they have to choose *something*. They do, and we can anticipate what they'll be as self-interested as ours.
-
-Indie rock doesn't in good faith give future generations what they want. So future generations will read this as contempt.
-
-When a movement isn't designed to make its artists have future fans.
-
-Why knowingly be what the future doesn't want?
-
-But future audiences *won't* respect the hustle, which means they also won't respect any past movement that *did*— making *all* of indie rock unworthy of rediscovery! This is why BYCombo gives you an audience who'd instantly make you known based on your works… just like those in the future would.
-
-When societies in the past stopped investing in their artists, we don't try to see the good in what they did have to offer. Societies not investing in their artists is the historical default.
-`}
-
-Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson for any gatekeeper here: To discover the kind of artist that future audiences will hope to *re*-discover, just… think like a future audience.
-
-In the past, the major labels did just that: Their talent scouts would instantly sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. Unfortunately… such artists are often financial liabilities. So to avoid risk, the indie labels learned to judge an artist *only* by their hustle, and *not* by their works— which means they'll reject today's Nick Drakes!
-
-Yet we know with near certainty that future generations *won't* blah.
-
-${'  ' || `
-// TODO: ### Poptimism is pop's indie rock
-
-### Poptimism is pop's indie rock
-
-Mention Motown.
-`}
-
 ### Happiness flows from the act of creation
 
 At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
