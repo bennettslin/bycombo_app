@@ -256,15 +256,23 @@ Indie rock doesn't in good faith give future generations what they want. So futu
 When a movement isn't designed to make its artists have future fans.
 
 Why knowingly be what the future doesn't want?
+
+But future audiences *won't* respect the hustle, which means they also won't respect any past movement that *did*— making *all* of indie rock unworthy of rediscovery! This is why BYCombo gives you an audience who'd instantly make you known based on your works… just like those in the future would.
 `}
 
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson for any gatekeeper here: To discover the kind of artist that future audiences will hope to *re*-discover, just… think like a future audience.
 
-In the past, the major labels did just that: Their talent scouts would instantly sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But, of course… having no fanbase is precisely why these artists often proved to be financial liabilities. So to minimize risk, the indie labels learned to judge an artist by the size of their fanbase, *not* by their works.
+In the past, the major labels did just that: Their talent scouts would instantly sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. Unfortunately… such artists are often financial liabilities. To minimize risk, then, the indie labels learned to judge an artist *only* by their hustle, *not* by their works— which means they'll reject the next Nick Drake.
 
-But future audiences *won't* respect the hustle, which means they also won't respect any past movement that *did*— making *all* of indie rock unworthy of rediscovery! This is why BYCombo gives you an audience who'd instantly make you known based on your works… just like those in the future would.
+Yet we know with near certainty that future generations *won't* blah.
 
 ### Poptimism is pop's indie rock
+
+${'  ' || `
+// TODO:
+
+Mention Motown.
+`}
 
 ### Happiness flows from the act of creation
 
