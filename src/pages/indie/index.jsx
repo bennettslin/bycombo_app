@@ -90,7 +90,7 @@ To get radio airplay in the 90s, alternative bands had to win over listeners who
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and which instead rely on *non*-musical context, often rooted in the artist's identity, to win over critics. So even today with radio in decline, an acclaimed indie artist is one whom many critics admire— but whose works few musicians study.
+Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and which instead rely on *non*-musical context, often rooted in the artist's identity, to win over critics. So even today with radio in decline, an acclaimed indie artist is one whom many critics praise— but whose works few musicians study.
 
 Yet no one cares what [past critics thought](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad), while the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master your craft.
 
@@ -119,10 +119,10 @@ Which is why, throughout history, the *most* creative artists were backed by tho
 ### Moderate standing leads to risk aversion
 
 ${'  ' || `
-// TODO: Just add second paragraph talking about risk-averse artists. Previous generations of artists incubated for a long time.
+// TODO: Just add second paragraph talking about risk-averse artists. Previous generations of artists incubated for a long time. After which, make sure ideas are phrased well and flow together.
 `}
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* power while its labels *relinquish* it— and so *no* one takes any risks!
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* power while its labels *relinquish* it— so *no* one takes any risks!
 
 Previous generations of artists…
 
@@ -216,21 +216,21 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
-${'  ' || `
-// TODO: ### The underdog movement forever replicates
-
-Study poptimism and rockism.
-
 ### The underdog movement forever replicates
 
-You might be thinking that my arguments here are irrelevant now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? The answer is no. It was *indie* rock that defeated rock… and then collapsed under the weight of its own lack of consequence. After which, many indie rockers became poptimists— and *this* is why rock's defeat was so complete!
+${'  ' || `
+// TODO: Keep working on this. Ideas are there but need to be fleshed out, phrased well, and made to flow together.
 
-Indie rock and poptimism are both manifestations of the same underdog movement that's designed to supplant cultures founded by outsiders. Just like indie rock defeated the revolutionary spirit of classic rock that traces its lineage to Sister Rosetta Tharpe, poptimism defeated the classic pop whose road leads back through Motown, all the way to the immigrants of Tin Pan Alley.
-
-Like a parasite that kills its host and moves on, the underdog movement creates artists who complacently make art for an audience today that charitably supports them, but are then woefully unprepared to face a future audience that will have its own agency, and won't. And will recognize that being charitably supported invalidates their status as underdogs.
-
-Which means that poptimism faces the same hard fall as indie rock. So ignore the superficial differences in sound between genres! The real difference is between art made by underdogs— which is allowed to be inconsequential because we root for them anyway— and the consequential art made by the outsiders we don't. So BYCombo is here to make sure the outsider always has a chance.
+Study poptimism and rockism.
 `}
+
+Perhaps you're thinking that my arguments are irrelevant now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? The answer is no. It was *indie* rock that defeated rock… and then collapsed under its own lack of consequence. After which, many indie rockers switched sides and became poptimists— and *this* is why rock's defeat was so complete!
+
+Indie rock and poptimism are both manifestations of the same underdog movement that supplants cultures founded by outsiders. Just like indie rock defeated the revolutionary spirit of classic rock that traces its lineage to Sister Rosetta Tharpe, poptimism defeated the classic pop whose road leads through Motown, back to the immigrants of Tin Pan Alley.
+
+Like indie rock, poptimism creates artists who complacently make art for fans who charitably support them and critics who lavish them with praise— but are then woefully unprepared to win over future audiences who'll have their own agency, and won't. And will recognize that being charitably supported invalidates their status as underdogs.
+
+Which means that poptimism faces the same hard fall as indie rock. So ignore surface-level differences between genres! The real difference is whether art was made by underdogs, and is thus free to be inconsequential because we root for them anyway. So BYCombo is here to make sure the consequential art of outsiders always has a chance.
 
 ### Happiness flows from the act of creation
 
