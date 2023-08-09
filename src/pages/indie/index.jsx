@@ -119,12 +119,12 @@ Which is why, throughout history, the *most* creative artists were backed by tho
 ### Middle managers join the revolution last
 
 ${'  ' || `
-// TODO: A full revamp isn't needed. But tweak in light of recent additions. Change predictive analytics. Instead of smart bets, maybe say bold. Maybe say fearless entrepreneurs? Make this last sentence really good.
+// TODO: A full revamp isn't needed. But tweak in light of recent additions. Instead of smart bets, maybe say bold. Maybe say fearless entrepreneurs? Make this last sentence really good. Maybe don't need to explain echo chamber.
 `}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-averse. And who are these risk-averse middle managers in *rock*? The indie labels.
 
-Because indie labels have just enough standing to lose, they only make *safe* bets. And the safest bet is to deliver what the people already want. But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
+Because indie labels have just enough standing to lose, they only make *safe* bets… and the *safest* bet is to deliver what the public already wants. But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
 
