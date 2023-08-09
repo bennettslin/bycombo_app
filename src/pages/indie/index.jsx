@@ -119,7 +119,7 @@ Which is why, throughout history, the *most* creative artists were backed by tho
 ### Middle managers join the revolution last
 
 ${'  ' || `
-// TODO: A full revamp isn't needed. But tweak in light of recent additions. Change predictive analytics. Maybe say fearless entrepreneurs? Make this last sentence really good.
+// TODO: A full revamp isn't needed. But tweak in light of recent additions. Change predictive analytics. Instead of smart bets, maybe say bold. Maybe say fearless entrepreneurs? Make this last sentence really good.
 `}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-averse. And who are these risk-averse middle managers in *rock*? The indie labels.
@@ -232,13 +232,17 @@ By contrast, a deep love of the craft can motivate you for a lifetime. After all
 
 ### Art needs the passion of martyrs
 
+${'  ' || `
+// TODO: Review one more time.
+`}
+
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its Nirvana. Why is this?
 
 It's because we really only pine for past artists who self-sacrificed to advance the art form. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a classic sign of being exploited.
 
 What's so bad about self-empowerment, though? Well, for one, it's really just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how are *they* the underdogs?
 
-Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation get settled only at the *end*. To save rock, then, we *need* to make way for bands who'll self-sacrifice to advance the art form. In other words, after the Age of Empowerment… comes the Age of Martyrdom.
+Worst of all, self-empowered artists will never start a revolution, because the means to fair compensation only get settled at the *end*. To save rock, then, we *need* to make way for bands who'll self-sacrifice to advance the art form. In other words, after the Age of Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. Can we imagine this generation's Nirvana being an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then BYCombo is here to give us the next Nirvana *now*!
 `,
