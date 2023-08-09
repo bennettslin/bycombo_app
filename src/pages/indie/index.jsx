@@ -116,17 +116,19 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corpora
 
 Which is why, throughout history, the *most* creative artists were backed by those with the *least* experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can once again find such partners to back you.
 
-### Middle managers join the revolution last
+### Moderate standing leads to risk aversion
 
 ${'  ' || `
-// TODO: A full revamp isn't needed. But tweak in light of recent additions. Instead of smart bets, maybe say bold. Maybe say fearless entrepreneurs? Make this last sentence really good. Maybe don't need to explain echo chamber.
+// TODO: Just add second paragraph talking about risk-averse artists. Previous generations of artists incubated for a long time.
 `}
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any business hierarchy, the ones most eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-averse. And who are these risk-averse middle managers in *rock*? The indie labels.
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* power while its labels *relinquish* it— and so *no* one takes any risks!
 
-Because indie labels have just enough standing to lose, they only make *safe* bets… and the *safest* bet is to deliver what the public already wants. But this creates an echo chamber— the same kind that makes predictive analytics so detrimental to art. Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
+Previous generations of artists…
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This makes it crucial for such artists to find partners who share their appetite for risk. So BYCombo helps you reach industry executives who are well-funded enough to make *smart* bets, as well as budding entrepreneurs with no standing to lose.
+Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
+
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. Which is why BYCombo helps you find partners who share your appetite for risk. Meanwhile, what revolution are you free to start— while you have nothing to lose?
 
 ### The grassroots is now a lottery
 
@@ -214,6 +216,22 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
+${'  ' || `
+// TODO: ### The underdog movement forever replicates
+
+Study poptimism and rockism.
+
+### The underdog movement forever replicates
+
+You might be thinking that my arguments here are irrelevant now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? The answer is no. It was *indie* rock that defeated rock… and then collapsed under the weight of its own lack of consequence. After which, many indie rockers became poptimists— and *this* is why rock's defeat was so complete!
+
+Indie rock and poptimism are both manifestations of the same underdog movement that's designed to supplant cultures founded by outsiders. Just like indie rock defeated the revolutionary spirit of classic rock that traces its lineage to Sister Rosetta Tharpe, poptimism defeated the classic pop whose road leads back through Motown, all the way to the immigrants of Tin Pan Alley.
+
+Like a parasite that kills its host and moves on, the underdog movement creates artists who complacently make art for an audience today that charitably supports them, but are then woefully unprepared to face a future audience that will have its own agency, and won't. And will recognize that being charitably supported invalidates their status as underdogs.
+
+Which means that poptimism faces the same hard fall as indie rock. So ignore the superficial differences in sound between genres! The real difference is between art made by underdogs— which is allowed to be inconsequential because we root for them anyway— and the consequential art made by the outsiders we don't. So BYCombo is here to make sure the outsider always has a chance.
+`}
+
 ### Happiness flows from the act of creation
 
 At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
@@ -231,10 +249,6 @@ The best composers got *better* with age— Beethoven, for one, composed his [ma
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
 
 ### Art needs the passion of martyrs
-
-${'  ' || `
-// TODO: Review one more time.
-`}
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its Nirvana. Why is this?
 
