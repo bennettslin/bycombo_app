@@ -221,16 +221,20 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 ${'  ' || `
 // TODO: Keep working on this. Ideas are there but need to be fleshed out, phrased well, and made to flow together.
 
+This section will make the points or future has its own agency, and Omelas.
+
 Study poptimism and rockism.
 `}
 
-Perhaps you're thinking that my arguments are irrelevant now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? The answer is no. It was *indie* rock that defeated rock… and then collapsed under its own lack of consequence. After which, many indie rockers switched sides and became poptimists— and *this* is why rock's defeat was so complete!
+Perhaps you're thinking all these arguments are now moot, now that [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? The problem is that this common understanding is false. It was *indie* rock that defeated rock… and then collapsed under its own lack of consequence. After which, many indie rockers switched sides and became poptimists— and *this* is why rock's defeat was so complete!
 
-Indie rock and poptimism are both manifestations of the same underdog movement that supplants cultures founded by outsiders. Just like indie rock defeated the revolutionary spirit of classic rock that traces its lineage to Sister Rosetta Tharpe, poptimism defeated the classic pop whose road leads through Motown, back to the immigrants of Tin Pan Alley.
+Indie rock and poptimism are both manifestations of the same underdog movement that seeks to supplant cultures founded by outsiders. Just like indie rock defeated the revolutionary spirit of classic rock that traces its lineage to Sister Rosetta Tharpe, poptimism defeated the classic pop whose road leads through Motown, back to the immigrants of Tin Pan Alley.
 
 Like indie rock, poptimism creates artists who complacently make art for fans who charitably support them and critics who lavish them with praise— but are then woefully unprepared to win over future audiences who'll have their own agency, and won't. And will recognize that being charitably supported invalidates their status as underdogs.
 
-Which means that poptimism faces the same hard fall as indie rock. So ignore surface-level differences between genres! The real difference is whether art was made by underdogs, and is thus free to be inconsequential because we root for them anyway. So BYCombo is here to make sure the consequential art of outsiders always has a chance.
+Which means that poptimism faces the same hard fall as indie rock. And yet, the underdog movement can never die, because underdogs and their supporters will always vastly outnumber hungry outsiders.
+
+So ignore surface-level differences between genres! The real difference is whether art was made by underdogs, and is thus free to be inconsequential because we in the present root for them anyway. So BYCombo is here to make sure the consequential art of outsiders always has a chance.
 
 ### Happiness flows from the act of creation
 
