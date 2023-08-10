@@ -138,7 +138,7 @@ In those days, lottery players would sign lopsided deals with a label, all for a
 
 Of course, for those who only see the grassroots as a [*populist*](https://en.wikipedia.org/wiki/Populism) domain… this is as it should be! After all, getting likes on social media *is* the modern version of drawing a live crowd, and machine learning algorithms *are* the new word of mouth. Which means today's indie artists are *still* chosen by the people, not by the elite— as it's always been.
 
-It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what happens now, if you were hoping to *earn* your success? Well, you can join BYCombo, and put in the work each day for untold years— on your craft!
+It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what if you were hoping to *earn* your success? Well, you can join BYCombo, and put in the work each day for untold years— on your craft!
 
 ### Talent wants a path to stardom
 
