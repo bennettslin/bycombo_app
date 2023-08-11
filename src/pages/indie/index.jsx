@@ -222,9 +222,9 @@ ${'  ' || `
 // TODO: Keep working on this. Ideas are there but need to be fleshed out, phrased well, and made to flow together.
 `}
 
-Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) defeat rockism a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and brought their indie sensibilities with them. So poptimism… is really just the new indie rock!
+Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and brought their indie sensibilities with them. So poptimism… is really just the new indie rock!
 
-Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop built by the immigrants of Tin Pan Alley and taken further by Motown.
+Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop built by the immigrants of Tin Pan Alley and advanced by Motown.
 
 Like indie rock, then, poptimism is all about giving countless chances to artists whom fans charitably support and critics shower with praise. But such artists are unlikely to make history, because future generations will have their own agency and agenda. Which means the poptimists are destined to kill pop as a genre!
 
