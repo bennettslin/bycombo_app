@@ -222,11 +222,11 @@ ${'  ' || `
 // TODO: Keep working on this. Ideas are there but need to be fleshed out, phrased well, and made to flow together.
 `}
 
-Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) defeat rockism a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Believing the death to be natural, however, many in this camp then switched to pop, bringing their indie sensibilities with them. In other words… poptimism is the indie rock of pop!
+Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) defeat rockism a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and brought their indie sensibilities with them. So poptimism… is really just the new indie rock!
 
-Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traces its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop built by Motown and the immigrants of Tin Pan Alley.
+Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop built by the immigrants of Tin Pan Alley and taken further by Motown.
 
-Like indie rock, then, poptimism is all about giving countless chances to artists whom fans charitably support and critics shower with praise— but who are then unqualified to make history, because future generations will have their own agency and agenda. Which means poptimism is destined to kill pop as a genre— if it hasn't already.
+Like indie rock, then, poptimism is all about giving countless chances to artists whom fans charitably support and critics shower with praise. But such artists are unlikely to make history, because future generations will have their own agency and agenda. Which means the poptimists are destined to kill pop as a genre!
 
 And yet there will be another underdog movement, because underdogs and their supporters vastly outnumber hungry outsiders, and so their interests will always be given precedence through brute force. So BYCombo is here to make sure the consequential art of outsiders continues to have a chance in the future.
 
