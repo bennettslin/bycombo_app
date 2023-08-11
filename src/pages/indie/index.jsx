@@ -84,13 +84,17 @@ Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by worki
 
 Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll *undo* the damage caused by our favoritism— much like we topple Confederate statues today. So why be a charity case supported by wrongdoers? Instead, come join BYCombo— whose stated mission is to help you make history the *right* way.
 
-### Timeless music has intrinsic appeal
+### Timeless works have intrinsic appeal
 
-To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/7bK5EPjGri4). Being an unpopular teenager at the time, I knew my only hope was to develop such a talent myself. So I studied these works closely, dreaming that one day I could then teach others.
+${'  ' || `
+// TODO: Review one more time.
+`}
+
+To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/7bK5EPjGri4). Being an unpopular teenager at the time, I knew my only hope as an artist was to do the same. So I studied any band whose talents I envied, dreaming that one day I could teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and which instead rely on *non*-musical context, often rooted in the artist's identity, to win over critics. So even today with radio in decline, an acclaimed indie artist is one whom many critics praise— but whose works few musicians study.
+Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and which instead rely on *non*-musical context, often rooted in the artist's identity, to win over critics. So today, an acclaimed indie artist is one whom many critics praise— but few musicians envy enough to study.
 
 Yet no one cares what [past critics thought](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad), while the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master your craft.
 
