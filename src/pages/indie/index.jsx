@@ -90,7 +90,7 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/7bK5EPjGri4). Being an unpopular teenager at the time, I knew my only hope as an artist was to do the same. So I studied any band whose talents I envied, dreaming that one day I could teach others.
+To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/7bK5EPjGri4). Being an unpopular teenager at the time, I knew my only hope was to be like them. So I studied any band whose talents I envied, dreaming that one day I could teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
@@ -228,11 +228,11 @@ ${'  ' || `
 
 Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and brought their indie sensibilities with them. So poptimism… is really just the new indie rock!
 
-Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop built by the immigrants of Tin Pan Alley and advanced by Motown.
+Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop built by Tin Pan Alley's immigrants and advanced by Motown.
 
 Like indie rock, then, poptimism is all about giving countless chances to artists whom fans charitably support and critics shower with praise. But such artists are unlikely to make history, because future generations will have their own agency and agenda. Which means the poptimists are destined to kill pop as a genre!
 
-And yet there will be another underdog movement, because underdogs and their supporters vastly outnumber hungry outsiders, and so their interests will always be given precedence through brute force. So BYCombo is here to make sure the consequential art of outsiders continues to have a chance in the future.
+Yet there will always be an underdog movement, because underdogs and their supporters vastly outnumber hungry outsiders, and so their interests will always be given precedence through brute force. So BYCombo is here to make sure the consequential art of outsiders continues to have a chance in the future.
 
 ### Happiness flows from the act of creation
 
