@@ -94,7 +94,7 @@ To get radio airplay in the 90s, alternative bands had to win over listeners who
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and which instead rely on *non*-musical context, often rooted in the artist's identity, to win over critics. So today, an acclaimed indie artist is one whom many critics praise— but few musicians envy enough to study.
+Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and which instead rely on *non*-musical context, often rooted in the artist's identity, to win over critics. So today, an acclaimed indie artist is one whom many critics praise— but few musicians deem talented enough to study.
 
 Yet no one cares what [past critics thought](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad), while the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master your craft.
 
@@ -136,7 +136,7 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 
 ### The grassroots is now a lottery
 
-We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) for starting from the grassroots, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: Their success feels *earned* to us. That is to say, they put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who started from the grassroots, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: Their success feels *earned* to us. That is to say, they put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players would sign lopsided deals with a label, all for a single chance at exposure. But the Internet has empowered them to reach the people directly, giving them unlimited chances to employ the same strategy— while making them indie artists in good faith! So now they're drowning us all in their music— *and* getting respect for it.
 
