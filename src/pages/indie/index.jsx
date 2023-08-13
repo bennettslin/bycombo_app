@@ -78,7 +78,7 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 As a child, I didn't *support* Def Leppard; I simply *liked* them. Yet today's fans say they "support" their favorite artists— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
 
-Unlike an arts organization, fans don't need to have lofty standards or live up to a mission statement. But if their charitable support for an underdog can't be challenged, then it *isn't* just a leg up; it's an overriding advantage! So indie rock ended up starting an arms race, where even superstars now compete to be seen as underdogs as well.
+Unlike an arts organization, fans don't need to have lofty standards or live up to a mission statement. But if their charitable support for an underdog can't be challenged, then it *isn't* just a leg up; it's a supreme advantage! So indie rock ended up starting an arms race, where even superstars now compete to be seen as underdogs as well.
 
 Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to give the underdog a safe lead. But… this sounds familiar, doesn't it? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
 
@@ -90,11 +90,11 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-To get radio airplay in the 90s, alternative bands had to win over listeners who *weren't* rooting for them— and the best would do this by crafting works so good, the music alone [hooks you in](https://youtu.be/7bK5EPjGri4). Being an unpopular teenager at the time, I knew my only hope was to be like them. So I studied any band whose talents I envied, dreaming that one day I could teach others.
+To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best would do this by hooking you in through the [music alone](https://youtu.be/7bK5EPjGri4). Being an unpopular teen at the time, I knew my only hope was to reach the same level. So I studied every band whose talents I envied, dreaming that one day I could teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they came to favor works that *lack* well-crafted hooks— and which instead rely on *non*-musical context, often rooted in the artist's identity, to win over critics. So today, an acclaimed indie artist is one whom many critics praise— but few musicians deem talented enough to study.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to *ignore* well-crafted hooks. Instead, they favored works that rely on *non*-musical context— often rooted in the artist's identity— to win over the critics. So today, an acclaimed indie artist is one whom many critics praise— but few musicians envy enough to study.
 
 Yet no one cares what [past critics thought](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad), while the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master your craft.
 
@@ -142,7 +142,7 @@ In those days, lottery players would sign lopsided deals with a label, all for a
 
 Of course, for those who only see the grassroots as a [*populist*](https://en.wikipedia.org/wiki/Populism) domain… this is as it should be! After all, getting likes on social media *is* the modern version of drawing a live crowd, and machine learning algorithms *are* the new word of mouth. Which means today's indie artists are *still* chosen by the people, not by the elite— as it's always been.
 
-It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what if you were hoping to *earn* your success? Well, you can join BYCombo, and put in the work each day for untold years— on your craft!
+It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. But what if you were hoping to *earn* your success? Well, you can join BYCombo, and put in the work each day for untold years— on your craft!
 
 ### Talent wants a path to stardom
 
@@ -165,6 +165,10 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 So ignore the critics! To make history without achieving stardom, you must earn the respect of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ### Commodified signals are worthless
+
+${'  ' || `
+// TODO: Connect more clearly how there was no limit to the advantage online tools provide.
+`}
 
 Every now and then, I'll get over my dislike of social media to see what the indie gatekeepers are saying among themselves. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
@@ -230,7 +234,7 @@ Perhaps you think these arguments against indie rock are moot. After all, didn't
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop built by Tin Pan Alley's immigrants and advanced by Motown.
 
-Like indie rock, then, poptimism is all about giving countless chances to artists whom fans charitably support and critics shower with praise. But such artists are unlikely to make history, because future generations will have their own agency and agenda. Which means the poptimists are destined to kill pop as a genre!
+Like indie rock, then, poptimism is all about giving the favored underdog a supreme advantage over the hungry outsider. But such artists are unlikely to make history, because future generations will have their own agency and agenda. Which means the poptimists are destined to kill pop as a genre!
 
 Yet there will always be an underdog movement, because underdogs and their supporters vastly outnumber hungry outsiders, and so their interests will always be given precedence through brute force. So BYCombo is here to make sure the consequential art of outsiders continues to have a chance in the future.
 
