@@ -90,11 +90,11 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best would do this by hooking you in through the [music alone](https://youtu.be/7bK5EPjGri4). Being an unpopular teen at the time, I knew my only hope was to reach the same level. So I studied every band whose talents I envied, dreaming that one day I could teach others.
+To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best would do this by interweaving chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) on their own. Being an unpopular teen at the time, I knew my only hope was to reach the same level. So I studied any band whose talents I envied, dreaming that one day I could teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to *ignore* well-crafted hooks. Instead, they favored works that rely on *non*-musical context— often rooted in the artist's identity— to win over the critics. So today, an acclaimed indie artist is one whom many critics praise— but few musicians bother to study.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to win over the critics *first*— and the best did this by *ignoring* well-crafted hooks, and instead favoring *non*-musical context rooted in sympathy for the artist's identity. So today, an acclaimed indie artist is one whom many critics praise— but few musicians bother to study.
 
 Yet no one cares what [past critics thought](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad), while the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
@@ -166,10 +166,6 @@ So ignore the critics! To make history without achieving stardom, you must earn 
 
 ### Commodified signals are worthless
 
-${'  ' || `
-// TODO: Connect more clearly how there was no limit to the advantage online tools provide.
-`}
-
 Every now and then, I'll get over my dislike of social media to see what the indie gatekeepers are saying among themselves. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
 Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly using the online tools they provided.
@@ -234,7 +230,7 @@ Perhaps you think these arguments against indie rock are moot. After all, didn't
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop built by Tin Pan Alley's immigrants and advanced by Motown.
 
-Like indie rock, then, poptimism is all about giving the favored underdog a supreme advantage over the hungry outsider. But such artists are unlikely to make history, because future generations will have their own agency and agenda. Which means the poptimists are destined to kill pop as a genre!
+Like indie rock, then, poptimism is all about providing charitable support to the underdog, giving them a supreme advantage over outsiders who work much harder, to be much better. But such artists are unlikely to make history, because future generations will have their own agency and agenda. Which means the poptimists are destined to kill pop as a genre!
 
 Yet there will always be an underdog movement, because underdogs and their supporters vastly outnumber hungry outsiders, and so their interests will always be given precedence through brute force. So BYCombo is here to make sure the consequential art of outsiders continues to have a chance in the future.
 
