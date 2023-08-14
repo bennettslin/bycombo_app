@@ -94,7 +94,7 @@ To get radio airplay in the 90s, alternative bands had to win over listeners who
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to win over the critics *first*— and the best did this by *ignoring* well-crafted hooks, and instead favoring *non*-musical context rooted in sympathy for the artist's identity. So today, an acclaimed indie artist is one whom many critics praise— but few musicians bother to study.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to win over the critics *first*— and the best did this by *ignoring* well-crafted hooks, and instead favoring *non*-musical context rooted in the artist's identity. So today, an acclaimed indie artist is one whom many critics praise— but few musicians bother to study.
 
 Yet no one cares what [past critics thought](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad), while the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
@@ -226,11 +226,11 @@ ${'  ' || `
 // TODO: Keep working on this. Ideas are there but need to be fleshed out, phrased well, and made to flow together.
 `}
 
-Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and brought their indie sensibilities with them. So poptimism… is really just the new indie rock!
+Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and took their indie sensibilities with them. So poptimism… is really the new indie rock!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop built by Tin Pan Alley's immigrants and advanced by Motown.
 
-Like indie rock, then, poptimism is all about providing charitable support to the underdog, giving them a supreme advantage over outsiders who work much harder, to be much better. But such artists are unlikely to make history, because future generations will have their own agency and agenda. Which means the poptimists are destined to kill pop as a genre!
+Like indie rock, then, poptimism is here to give the underdog a supreme advantage over the outsider. But future generations will have their own agency— enough to recognize that any past artist who was charitably supported, by definition, *wasn't* the underdog of their times. Which means the poptimists are destined to kill pop as a genre!
 
 Yet there will always be an underdog movement, because underdogs and their supporters vastly outnumber hungry outsiders, and so their interests will always be given precedence through brute force. So BYCombo is here to make sure the consequential art of outsiders continues to have a chance in the future.
 
