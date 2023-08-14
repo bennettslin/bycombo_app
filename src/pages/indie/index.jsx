@@ -90,11 +90,11 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best would do this by interweaving chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) on their own. Being an unpopular teen at the time, I knew my only hope was to reach the same level. So I studied any band whose talents I envied, dreaming that one day I could teach others.
+To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did so by composing chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to reach this level. So I studied any band whose talents I envied, dreaming that one day I could teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to win over the critics *first*— and the best did this by *ignoring* well-crafted hooks, and instead favoring *non*-musical context rooted in the artist's identity. So today, an acclaimed indie artist is one whom many critics praise— but few musicians bother to study.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to *reject* well-crafted hooks. This meant they had to first win over *critics*— and the best did so by putting out works rich in *non*-musical context, often rooted in the artist's identity. So today, an acclaimed indie artist is one whom many critics praise— but few musicians study.
 
 Yet no one cares what [past critics thought](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad), while the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
