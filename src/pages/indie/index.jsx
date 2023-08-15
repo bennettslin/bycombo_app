@@ -162,7 +162,7 @@ Um… all of us other artists who *weren't* picked, that's who! To be clear, we'
 
 Because we're invested in the creative process ourselves, we commit fewer false positives: We know when talents once deemed notable are now par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to carry them through. In short, what historians will see in *time*… other artists come closest to seeing *today*.
 
-So ignore the critics! To make history without first achieving stardom, your talents must inspire the envy of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
+So ignore the critics! If you're hoping to make history, your talents must inspire the envy of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ### Commodified signals are worthless
 
