@@ -68,7 +68,7 @@ In the 90s, "indie" referred to bands like Pavement, who *never* signed to a maj
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
-For example, even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) proved that the Internet caters to the lowest common denominator… indie rock concluded that [artists who go viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah) *aren't* the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars after [leaving Roadrunner](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me)… this was taken as proof that artists *don't* benefit from a major label deal?!
+For example, even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) proved that the Internet caters to the lowest common denominator… indie rock concluded that artists who [go viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah) *aren't* the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars after [leaving Roadrunner](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me)… this was taken as proof that artists *don't* benefit from a major label deal?!
 
 In every early example of online success, chance or privilege clearly played a role. Yet indie rock was so eager to "own" the major labels, it downplayed this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume their music is no good!
 
@@ -90,11 +90,11 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did so by composing chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to reach their level. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
+To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by composing chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to reach their level. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to *reject* well-crafted hooks. To reach listeners, then, they had to win over *critics*— and the best did so by releasing works rich in *non*-musical context, often centered on the artist's identity. So today, an acclaimed indie artist is one whom many critics praise— but few musicians study.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to reach listeners by first winning over *critics*— and the best did this by putting out works rich in *non*-musical context, often centered on the artist's identity. So today, an acclaimed indie artist is one whom many critics praise— but few musicians study.
 
 Yet no one cares what [past critics thought](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad), while the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
@@ -128,7 +128,7 @@ ${'  ' || `
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* power while its labels *relinquish* it— so *no* one takes any risks!
 
-In the past, artists 
+In the past, artists spent their earliest years . But when an artist has the means to build a fanbase from the get-go.
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
