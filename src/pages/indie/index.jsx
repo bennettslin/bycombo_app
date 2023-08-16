@@ -124,19 +124,9 @@ ${'  ' || `
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* power while its labels *relinquish* it— so *no* one takes any risks!
 
-In the past, a budding artist had no way to engage with the world. As such, they were likely to spend their early years focused on
+In the past, budding artists had no way to engage with the public. So each would take a path of development guided solely by their own ideas and instincts— often leading to unusual results the people never could have imagined. Today, however, indie artists are given tools to acquire fans from day one— and to know the optimal way to do so.
 
-their development was mostly shaped by their own whims, leading to idiosyncratic outcomes.
-
-all while creative ideas percolated.
-
-Today, however, indie artists aren't just empowered to build a fanbase from day one— 
-
-It's generally understood the optimal way to do so, creating incentive not to deviate from it.
-
-and they're always conscious of which paths of artistic development are less than optimal for building a fanbase.
-
-Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
+Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the public already wants. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. Which is why BYCombo helps you find partners who share your appetite for risk. Meanwhile, what revolution are you free to start— while you have nothing to lose?
 
@@ -168,11 +158,11 @@ ${'  ' || `
 
 Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why critics are so bad at making timeless judgments: They don't consider how an artist looks to *other* artists— especially those of us who remain unknown.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why critics are so bad at making timeless judgments: They never consider how things look to us *other* artists.
 
-Because we're invested in the creative process ourselves, we commit fewer false positives: We know when talents once deemed notable are now par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to carry them through. In short, what historians will see in *time*… other artists come closest to seeing *today*.
+Because we're invested in the creative process ourselves, we commit fewer false positives: We know when talents once deemed notable are now par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists come closest to seeing *today*.
 
-So ignore the critics! If you're hoping to make history, your talents must inspire the envy of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
+So ignore the critics! To make history without first achieving stardom, you must inspire the envy of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ### Commodified signals are worthless
 
