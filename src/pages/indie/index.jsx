@@ -124,7 +124,17 @@ ${'  ' || `
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* power while its labels *relinquish* it— so *no* one takes any risks!
 
-In the past, artists spent their earliest years . But when an artist has the means to build a fanbase from the get-go.
+In the past, a budding artist had no way to engage with the world. As such, they were likely to spend their early years focused on
+
+their development was mostly shaped by their own whims, leading to idiosyncratic outcomes.
+
+all while creative ideas percolated.
+
+Today, however, indie artists aren't just empowered to build a fanbase from day one— 
+
+It's generally understood the optimal way to do so, creating incentive not to deviate from it.
+
+and they're always conscious of which paths of artistic development are less than optimal for building a fanbase.
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
