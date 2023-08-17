@@ -119,12 +119,12 @@ Which is why, throughout history, the most creative artists were backed by those
 ### Moderate standing leads to risk aversion
 
 ${'  ' || `
-// TODO: Just add second paragraph talking about risk-averse artists. Previous generations of artists incubated for a long time. After which, make sure ideas are phrased well and flow together.
+// TODO: Second paragraph should be more about risk aversion. Fourth paragraph should mention BYCombo requiring you to focus on your craft. After which, make sure ideas are phrased well and flow together.
 `}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* power while its labels *relinquish* it— so *no* one takes any risks!
 
-In the past, budding artists had no way to engage with the public. So each would take a path of development guided solely by their own ideas and instincts— often leading to unusual results the people never could have imagined. Today, however, indie artists are given tools to acquire fans from day one— and to know the optimal way to do so.
+In the past, budding artists had no way to engage with the public. So each would explore guided solely by their instincts— and after years, this sometimes led them far afield from where they would have imagined themselves. Today, however, indie artists begin their development with the judgment of fans as their first concern.
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the public already wants. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
