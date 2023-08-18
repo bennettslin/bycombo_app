@@ -124,11 +124,11 @@ ${'  ' || `
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
-In the past, artists lacked all means to engage with the public in their early years— leaving them free to explore and experiment on their own. Today, however, indie artists build a fanbase from day one— which then keeps them shackled to their earliest artistic decisions.
+In the past, artists lacked all means to engage with the public in their early years— leaving them free to explore and experiment on their own. Today, however, indie artists build a fanbase from day one— which then ties them down to their earliest artistic decisions.
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose vision is needed to win over the public. This is why BYCombo allows you to explore and experiment while you have no fans to lose— and then helps you find partners perched high enough to see this as the *smartest* bet.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose vision is needed to win over the public. This is why BYCombo allows you to explore and experiment, while you have no fans to lose— and then helps you find partners with enough security to see you as the *smartest* bet.
 
 ### The grassroots is now a lottery
 
