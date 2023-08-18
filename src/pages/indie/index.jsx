@@ -119,16 +119,16 @@ Which is why, throughout history, the most creative artists were backed by those
 ### Modest standing leads to risk aversion
 
 ${'  ' || `
-// TODO: Review a few more times. Second and fourth paragraphs, ideas are there, but should be worded better.
+// TODO: Review a few more times.
 `}
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
-In the past, artists lacked all means to engage with the public in their early years— leaving them free to explore and experiment on their own. Today, however, indie artists build a fanbase from day one— which then makes them unlikely to stray from their earliest artistic identity.
+In the past, artists lacked all means to engage with the public in their early years— leaving them free to explore and experiment on their own. Today, however, indie artists build a fanbase from day one— which then ties them down to their earliest artistic decisions.
 
-Meanwhile, because the indie labels have just enough standing to lose, they only make *safe* bets— and the safest bet is to deliver what the people already want. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
+Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over a skeptical public. Which is why BYCombo helps you find partners perched high enough to make *smart* bets, while freeing you to explore and experiment with no fans to lose.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This is why BYCombo encourages you to explore and experiment while you have no fans to lose— and then helps you find partners secure enough to see how this makes you the *smartest* bet.
 
 ### The grassroots is now a lottery
 
