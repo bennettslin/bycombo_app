@@ -116,19 +116,19 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corpora
 
 Which is why, throughout history, the most creative artists were backed by those with the *least* experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can once again find such partners to back you.
 
-### Moderate standing leads to risk aversion
+### Modest standing leads to risk aversion
 
 ${'  ' || `
-// TODO: Review a few more times. Fourth paragraph should make more clear that BYCombo asks you not to have fans to lose.
+// TODO: Review a few more times. Second and fourth paragraphs, ideas are there, but should be worded better.
 `}
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* power while its labels *relinquish* it— so *no* one takes any risks!
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those safely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
-In the past, artists had no way to engage with the public in their early years. As such, they were left to experiment and explore on their own— leading some to discover new sounds that no one had imagined. Today, however, they can build a fanbase from day one, which then makes *keeping* their fans a top priority— limiting how they'll grow as artists.
+In the past, artists lacked any means to engage with the public in their early years— leaving them free to explore and experiment on their own. Today, however, indie artists build a fanbase from day one— and then prioritize keeping these fans in every early decision they make.
 
-Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the safest bet is to deliver what the people already want. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
+Meanwhile, because the indie labels have just enough standing to lose, they only make *safe* bets— and the safest bet is to deliver what the people already want. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. Which is why BYCombo helps you find partners with an appetite for risk. After all, why *not* join the revolution, when you have no fans to lose?
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over a skeptical public. Which is why BYCombo helps you find partners perched high enough to make *smart* bets, while freeing you to explore and experiment with no fans to lose.
 
 ### The grassroots is now a lottery
 
@@ -151,7 +151,12 @@ But stardom is also the rightful outcome for the *most* worthy artists, who natu
 By shutting off this pipeline to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore the path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspires to be *most* worthy— get a chance to be one?
 
 ${'  ' || `
-// TODO: 1000 true fans.
+// TODO: Startups aren't stores
+
+1000 true fans
+If they then want to try to be the next Radiohead and have millions of true fans, it's just a further step in the same direction.
+
+Paul Graham
 
 Radiohead had so few fans upon signing to EMI that when they were then asked to change their name from On a Friday, they did so without causing any confusion.
 `}
@@ -272,7 +277,7 @@ It's because we really only pine for past artists who self-sacrificed to advance
 
 What's so bad about self-empowerment, though? Well, for one, it's really just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how are *they* the underdogs?
 
-Worst of all, self-empowered artists will never start a revolution, because the means to fair compensation only get settled at the *end*. To save rock, then, we *need* to make way for bands who'll self-sacrifice to advance the art form. In other words, after the Age of Empowerment… comes the Age of Martyrdom.
+Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation only get settled at the *end*. To save rock, then, we *need* to make way for bands who'll self-sacrifice to advance the art form. In other words, after the Age of Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. Can we imagine this generation's Nirvana being an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then BYCombo is here to give us the next Nirvana *now*!
 `,
