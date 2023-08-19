@@ -119,22 +119,18 @@ Which is why, throughout history, the most creative artists were backed by those
 ### Modest standing leads to risk aversion
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review one more time.
 `}
 
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. Those in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, and those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
 In the past, artists lacked all means to engage with the public in their early years— leaving them free to explore and experiment on their own. Today, however, indie artists build a fanbase from day one— which then ties them down to their earliest artistic decisions.
 
-Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
+Meanwhile, because the indie labels have just enough standing to lose, they only make *safe* bets— and the safest bet is to deliver what the people already want. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose vision is needed to win over the public. This is why BYCombo allows you to explore and experiment, while you have no fans to lose— and then helps you find partners with enough security to see you as the *smartest* bet.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose vision is needed to win over the public. This is why BYCombo allows you to explore and experiment, while you have no fans to lose— and then helps you find partners perched high enough to see you as a *smart* bet.
 
 ### The grassroots is now a lottery
-
-${'  ' || `
-// TODO: Review one more time.
-`}
 
 We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who started from the grassroots, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: Their success feels *earned* to us. That is to say, they put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
@@ -234,16 +230,16 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 ### Underdog movements will forever replicate
 
 ${'  ' || `
-// TODO: Keep working on this. Ideas are there but need to be fleshed out, phrased well, and made to flow together. Point out that underdog movements have a fatal flaw.
+// TODO: Keep working on this. Ideas are there but need to be fleshed out, phrased well, and made to flow together. Third paragraph, make it clear that charitable support renders someone not the underdog.
 `}
 
 Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and took their indie sensibilities with them. So poptimism… is really the new indie rock!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and advanced by Motown.
 
-Like indie rock, then, poptimism is here to give the underdog a supreme advantage over the outsider. But future generations will have their own agency— enough to recognize that any past artist who was charitably supported, by definition, *wasn't* the underdog of their times. Which means the poptimists are destined to kill pop as a genre!
+Like indie rock, then, poptimism is here to charitably support its favorite artists, giving them a supreme advantage. But future generations will have their own agency— enough to see the fatal flaw of all past underdog movements: Charitable support is a de facto *privilege*. Which means the poptimists are now killing pop as a genre!
 
-Yet there will always be an underdog movement, because underdogs and their supporters vastly outnumber hungry outsiders, and they'll naturally look out for their own interests. So BYCombo is here to make sure the consequential art of outsiders will always have a chance in the future.
+And yet… it's precisely *because* underdog movements are a product of the privileged that they will always exist in some form. This is why BYCombo is here to make sure outsiders and their consequential art will continue to have a chance in the future.
 
 ### Happiness flows from the act of creation
 
