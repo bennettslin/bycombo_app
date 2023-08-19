@@ -124,7 +124,7 @@ ${'  ' || `
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, and those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
-In the past, artists lacked all means to engage with the public in their early years— leaving them free to explore and experiment on their own. Today, however, indie artists build a fanbase from day one— which then ties them down to their earliest artistic decisions.
+In the past, artists lacked all means to engage with the public in their early years— leaving them free to explore and experiment on their own. Today, however, indie artists build a fanbase from day one— which then keeps them tied to their earliest artistic decisions.
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make *safe* bets— and the safest bet is to deliver what the people already want. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
@@ -163,13 +163,17 @@ Radiohead had so few fans upon signing to EMI that when they were then asked to 
 
 ### History is made through peer review
 
+${'  ' || `
+// TODO: Review one more time.
+`}
+
 Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why critics are so bad at making timeless judgments: They never consider how things look to us *other* artists.
 
 Because we're invested in the creative process ourselves, we commit fewer false positives: We know when talents once deemed notable are now par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists come closest to seeing *today*.
 
-So ignore the critics! To make history without first achieving stardom, you must inspire the envy of your fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
+So to make history without achieving stardom, ignore the critics! Instead, your talents must inspire the envy of fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ### Commodified signals are worthless
 
@@ -221,7 +225,7 @@ So don't be fooled by indie rock's belated embrace of women and minorities: Ther
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
-It's because paid dues are worthless outside the one system that honors them— so by nature, any such system breeds loyalty to its rule. In short, you can pay your dues, or you can join the revolution… but never both.
+It's because paid dues are worthless outside the one system that honors them— so by nature, any such system breeds loyalty to its rule. In short, you can pay your dues, or you can start a revolution… but never both.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
 
