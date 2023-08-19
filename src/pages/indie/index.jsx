@@ -124,11 +124,11 @@ ${'  ' || `
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, and those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
-In the past, artists lacked all means to engage with the public in their early years— leaving them free to explore and experiment on their own. Today, however, indie artists build a fanbase from day one— which then ties them down to their earliest artistic decisions.
+In the past, artists lacked all means to engage with the public in their early years— leaving them free to explore and experiment on their own. Today, however, indie artists build a fanbase from day one— which then keeps them tied to their earliest artistic decisions.
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose vision is needed to win over the public. This is why BYCombo allows you to explore and experiment, while you have no fans to lose— and then helps you find partners perched high enough to see you as the *smartest* bet.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose vision is needed to win over the public. This is why BYCombo allows you to explore and experiment, while you have no fans to lose— and then connects you with partners secure enough to see this as the *smartest* bet.
 
 ### The grassroots is now a lottery
 
@@ -245,7 +245,7 @@ Perhaps you think these arguments against indie rock are moot. After all, didn't
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and advanced by Motown.
 
-Like indie rock, then, poptimism is here to charitably support its favorite artists, giving them a supreme advantage. But future generations will have their own agency— enough to see the fatal flaw of all past underdog movements: Charitable support is a de facto *privilege*. Which means the poptimists are now killing pop as a genre!
+Like indie rock, then, poptimism is here to give the underdog a supreme advantage over the outsider. But future generations will have their own agency— enough to see that having one's fortunes changed through charitable support is a de facto *privilege*. They'll seek to *discredit* the artists we favor as underdogs. Which means the poptimists are now killing pop as a genre!
 
 And yet… it's precisely *because* underdog movements are a product of the privileged that they will always exist in some form. This is why BYCombo is here to make sure outsiders and their consequential art will continue to have a chance in the future.
 
@@ -261,7 +261,7 @@ So yes, BYCombo requires you to focus on your craft. But this isn't *just* to ma
 
 ### Longevity is the last frontier
 
-The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's still a frontier left to explore! Unfortunately… indie rock isn't up for this task: Hustling requires a youthful spirit, so every indie artist eventually burns out.
+The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's a whole frontier left to explore! Unfortunately… indie rock isn't up for this task: Hustling requires a youthful spirit, so every indie artist eventually burns out.
 
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
 
