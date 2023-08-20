@@ -82,7 +82,7 @@ ${'  ' || `
 
 As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
 
-Unlike an arts organization, fans don't need to have lofty standards or live up to a mission statement; rooting for the underdog is seen as noble by itself. But if their charitable support *isn't* open to challengers, then it's *not* just a leg up; it's a supreme advantage! So indie rock started an arms race, where even superstars now angle to be seen as underdogs.
+Unlike an arts organization, fans don't need to have lofty standards or live up to a mission statement; rooting for the underdog is treated as noble by itself. But if their charitable support *isn't* open to challengers, then it's *not* just a leg up; it's a supreme advantage! So indie rock started an arms race, where even superstars now angle to be seen as underdogs.
 
 Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to give the underdog a safe lead. But… this sounds familiar, doesn't it? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
 
@@ -231,31 +231,19 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
-### Underdog movements are the eternal foe
+### The underdog movement is an eternal foe
 
 ${'  ' || `
 // TODO: Keep working on this.
-
-Third paragraph, don't need to talk about outsiders again.
-
-Mention the underdogs of past generations are always obviously privileged in hindsight to future generations. There's always someone below the underdog that the public *wasn't* rooting for, who then moves into prominence as the present becomes the past. This is why the indie rock of the 00s and 10s is so inconsequential. It favored White male artists in the faith that they would still be perceived as underdogs by future generations— a faith that, in hindsight, has proven unfounded. Don't say any of this directly, but allow the reader to realize this on their own.
-
-Being seen as an underdog is *already* a privilege; charitable support then confers even *further* advantage. Future generations will be clear-eyed about this.
-
-Go back to ending it with poptimism killing pop as a genre?
-
-Fourth paragraph, state that outsiders are the ones most likely to make history.
-
-Keep thinking of best title.
 `}
 
 Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and took their indie sensibilities with them. So poptimism… is really the new indie rock!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and taken further by Motown.
 
-Like indie rock, then, poptimism exists to charitably support the underdog. But there's a fatal flaw here: Charitable support is an *advantage*— so any artist who receives it *won't* be seen as an underdog by future generations. Which shouldn't surprise us— after all, the past artists we remember as underdogs *today*… were actually outsiders in their *own* time!
+Like indie rock, poptimism exists to charitably support the underdog. But this means it suffers from the same fatal flaw: Since charitable support is an *advantage*, any artist who receives it *won't* be seen as an underdog by future generations. Which shouldn't surprise us, since no one in history whom we remember *today* was an underdog in their *own* time!
 
-And yet, it's *because* underdog movements benefit the privileged that they'll always live on. This is why BYCombo is here to ensure that outsiders will continue to have a fighting chance in the future.
+So all underdog movements are destined to fade into irrelevance. And yet… because they benefit the privileged, they'll always live on in some form. Luckily, BYCombo is here to ensure that outsiders— the ones most likely to make history!— continue to have a fighting chance against them.
 
 ### Happiness flows from the act of creation
 
