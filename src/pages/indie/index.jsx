@@ -246,7 +246,9 @@ ${'  ' || `
 
 Third paragraph, don't need to talk about outsiders again.
 
-Being seen as an underdog is *already* a privilege; charitable support then confers even *further* advantage.
+Mention the underdogs of past generations are always obviously privileged in hindsight to future generations. There's always someone below the underdog that the public *wasn't* rooting for, who then moves into prominence as the present becomes the past. This is why the indie rock of the 00s and 10s is so inconsequential. It favored White male artists in the faith that they would still be perceived as underdogs by future generations— a faith that, in hindsight, has proven unfounded. Don't say any of this directly, but allow the reader to realize this on their own.
+
+Being seen as an underdog is *already* a privilege; charitable support then confers even *further* advantage. Future generations will be clear-eyed about this.
 
 Go back to ending it with poptimism killing pop as a genre?
 
