@@ -82,7 +82,7 @@ ${'  ' || `
 
 As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
 
-Unlike an arts organization, fans don't need to have lofty standards or live up to a mission statement; rooting for the underdog is treated as noble by itself. But if a fan's charitable support *isn't* open to challengers, then it's *not* just a leg up; it's a supreme advantage! So indie rock started an arms race, where even superstars now angle to be seen as underdogs.
+Unlike an arts organization, fans don't need to have lofty standards or live up to a mission statement; rooting for the underdog is considered noble on its own. But if a fan's charitable support *isn't* open to challengers, then it's *not* just a leg up; it's a supreme advantage! So indie rock started an arms race, where even superstars now angle to be seen as underdogs.
 
 Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to give the underdog a safe lead. But… this sounds familiar, doesn't it? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
 
@@ -121,10 +121,6 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corpora
 Which is why, throughout history, the most creative artists were backed by those with the *least* experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can once again find such partners to back you.
 
 ### Modest standing leads to risk aversion
-
-${'  ' || `
-// TODO: Just one more review.
-`}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
@@ -234,14 +230,14 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 ### The underdog movement is an undying foe
 
 ${'  ' || `
-// TODO: Review a few times.
+// TODO: Review a few times. Fourth paragraph, be more inclusive about who's most likely to make history.
 `}
 
 Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and took their indie sensibilities with them. So poptimism… is really the new indie rock!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and taken further by Motown.
 
-Like indie rock, then, poptimism exists to charitably support the underdog. But this means it suffers from the same fatal flaw: Since charitable support is an *advantage*, any artist who receives it *won't* be treated as an underdog by future generations. Which shouldn't surprise us— after all, no one in history whom *we* remember was an underdog in *their* own time!
+Like indie rock, then, poptimism exists to charitably support the underdog. But this means it suffers from the same fatal flaw: Since charitable support is an *advantage*, any artist who receives it *won't* be treated as an underdog by future generations. Which shouldn't surprise us— after all, no one in history whom *we* remember today was an underdog in *their* own time!
 
 So all underdog movements are destined to fade into irrelevance. And yet… because they benefit the privileged, they'll always live on in some form. Luckily, BYCombo is here to ensure that outsiders— the ones most likely to make history!— will continue to have a fighting chance against them.
 
