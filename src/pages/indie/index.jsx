@@ -217,6 +217,20 @@ To be interdependent, you need partners who are strong where you're weak, and vi
 
 So don't be fooled by indie rock's belated embrace of women and minorities: There's still no diversity of *thought*— and there never will be. But BYCombo lets you find partners who think differently… and who'll value *you* for doing the same.
 
+### Underdogs are the eternal adversary
+
+${'  ' || `
+// TODO: Review a few times. Fourth paragraph, be more inclusive about who's most likely to make history. Third paragraph, point out that true disadvantage is having no one wanting to root for you as the underdog.
+`}
+
+Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and took their indie sensibilities with them. So poptimism… is really the new indie rock!
+
+Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and taken further by Motown.
+
+Like indie rock, poptimism exists to charitably support the underdog. But this means it has the same fatal flaw: Since charitable support is an *advantage*, any artist who receives it *won't* be treated as an underdog by future generations. Which shouldn't surprise us— after all, no one in history whom *we* remember today was an underdog in *their* own time!
+
+So all underdog movements are destined to fade into irrelevance. And yet… because they benefit the privileged, they'll always live on in some form. Luckily, BYCombo is here to ensure that outsiders— the ones most likely to make history!— will continue to have a fighting chance against them.
+
 ### Paid dues must now collude
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
@@ -226,20 +240,6 @@ It's because paid dues are worthless outside the one system that honors them— 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
-
-### The underdog movement is an undying foe
-
-${'  ' || `
-// TODO: Review a few times. Fourth paragraph, be more inclusive about who's most likely to make history.
-`}
-
-Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and took their indie sensibilities with them. So poptimism… is really the new indie rock!
-
-Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and taken further by Motown.
-
-Like indie rock, then, poptimism exists to charitably support the underdog. But this means it suffers from the same fatal flaw: Since charitable support is an *advantage*, any artist who receives it *won't* be treated as an underdog by future generations. Which shouldn't surprise us— after all, no one in history whom *we* remember today was an underdog in *their* own time!
-
-So all underdog movements are destined to fade into irrelevance. And yet… because they benefit the privileged, they'll always live on in some form. Luckily, BYCombo is here to ensure that outsiders— the ones most likely to make history!— will continue to have a fighting chance against them.
 
 ### Happiness flows from the act of creation
 
