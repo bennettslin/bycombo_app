@@ -76,10 +76,6 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ### Charitable support gets toppled by justice
 
-${'  ' || `
-// TODO: Just one more review.
-`}
-
 As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
 
 Unlike an arts organization, fans don't need to have lofty standards or live up to a mission statement; rooting for the underdog is considered noble on its own. But if a fan's charitable support *isn't* open to challengers, then it's *not* just a leg up; it's a supreme advantage! So indie rock started an arms race, where even superstars now angle to be seen as underdogs.
@@ -217,7 +213,7 @@ To be interdependent, you need partners who are strong where you're weak, and vi
 
 So don't be fooled by indie rock's belated embrace of women and minorities: There's still no diversity of *thought*— and there never will be. But BYCombo lets you find partners who think differently… and who'll value *you* for doing the same.
 
-### The underdog is an undying adversary
+### The underdog is an eternal adversary
 
 ${'  ' || `
 // TODO: Review a few times. Fourth paragraph, be more inclusive about who's most likely to make history. Third paragraph, point out that true disadvantage is having no one wanting to root for you as the underdog.
