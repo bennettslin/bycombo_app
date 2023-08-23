@@ -218,6 +218,10 @@ So don't be fooled by indie rock's belated embrace of women and minorities: Ther
 ${'  ' || `
 // TODO: Review a few times. Fourth paragraph, be more inclusive about who's most likely to make history. Third paragraph, point out that true disadvantage is having no one wanting to root for you as the underdog.
 
+Third paragraph. Don't need to mention charitable support again. Mention supreme advantage instead. Make reference to KKK overt. Point out it was America's original underdog movement meant to subjugate the outsider.
+
+Fourth paragraph. Irrelevance is too soft. Change it in home page as well.
+
 Future generations will be clear-eyed about which artists we *wanted* to root for— their privilege will be salient to future generations in a way that it simply isn't to ours.
 `}
 
@@ -235,7 +239,7 @@ For many years, I worked days as a coder and nights on my audio webcomic. When I
 
 It's because paid dues are worthless outside the one system that honors them— so by nature, any such system breeds loyalty to its rule. In short, you can pay your dues, or you can start a revolution… but never both.
 
-Moreover, once someone has wasted their best years building up symbolic credentials rather than actual talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
+Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
