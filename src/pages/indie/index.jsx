@@ -217,10 +217,12 @@ To be interdependent, you need partners who are strong where you're weak, and vi
 
 So don't be fooled by indie rock's belated embrace of women and minorities: There's still no diversity of *thought*— and there never will be. But BYCombo lets you find partners who think differently… and who'll value *you* for doing the same.
 
-### Underdogs are the eternal adversary
+### The underdog is an undying adversary
 
 ${'  ' || `
 // TODO: Review a few times. Fourth paragraph, be more inclusive about who's most likely to make history. Third paragraph, point out that true disadvantage is having no one wanting to root for you as the underdog.
+
+Future generations will be clear-eyed about which artists we *wanted* to root for— their privilege will be salient to future generations in a way that it simply isn't to ours.
 `}
 
 Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and took their indie sensibilities with them. So poptimism… is really the new indie rock!
