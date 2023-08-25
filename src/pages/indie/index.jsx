@@ -76,13 +76,17 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ### Charitable support is a supreme advantage
 
+${'  ' || `
+// TODO: Review one more time.
+`}
+
 As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
 
-Unlike an arts organization, fans don't need to have lofty standards or live up to a mission statement; rooting for the underdog is considered noble on its own. But if a fan's charitable support *isn't* open to challengers, then it's *not* just a leg up; it's a supreme advantage! So indie rock started an arms race, where even superstars now angle to be seen as underdogs.
+Unlike an arts organization, fans don't need to have rigorous standards or be mindful of unconscious bias; rooting for an underdog— *any* underdog— is noble on its own. But if a fan's charitable support *isn't* open to challengers, then it's *not* just a leg up; it's a supreme advantage! So indie rock started an arms race, where even superstars now angle to be seen as underdogs.
 
 Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to give the underdog a safe lead. But… this sounds familiar, doesn't it? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
 
-Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll *undo* the damage caused by our favoritism— much like we topple Confederate statues today. So why be a charity case supported by wrongdoers? Instead, come join BYCombo— whose stated mission is to help you make history the *right* way.
+Clearly, this can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll try to *fix* the damage we caused— much like we topple Confederate statues today. So why be a charity case *and* a wrongdoer? With BYCombo, you can make history the *right* way.
 
 ### Timeless works have intrinsic appeal
 
@@ -173,7 +177,7 @@ Every now and then, I'll get over my dislike of social media to see what the ind
 
 Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly using the online tools they provided.
 
-But clearly they see the problem here— at least when it comes to Twitter. If greater access to an audience can be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to value it— and then both yearn to leave for places where honest signaling still happens.
+But clearly, they see the problem here— at least when it comes to Twitter. If greater access to an audience can be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to value it— and then both yearn to leave for places where honest signaling still happens.
 
 Well, BYCombo promises to be such a place! Because what can be a more honest signal than sacrificing a serious chunk of lifetime?
 
