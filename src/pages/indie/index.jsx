@@ -82,7 +82,7 @@ ${'  ' || `
 
 As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
 
-Unlike an arts organization, fans don't need to have rigorous standards or be mindful of unconscious bias; rooting for the underdog is considered noble on its own. But if a fan's charitable support can't be questioned, then it's *not* just a leg up; it's a supreme advantage! So indie rock started an arms race, where even superstars now angle to be seen as underdogs.
+Unlike an arts organization, fans don't need to have rigorous standards or be mindful of unconscious bias. Their charitable support for an underdog— *any* underdog— is noble on its own and can't be questioned. But this means it *isn't* just a leg up; it's a supreme advantage! So indie rock started an arms race, where even superstars now angle to be seen as underdogs.
 
 Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to give the underdog a safe lead. But… this sounds familiar, doesn't it? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
 
@@ -122,6 +122,10 @@ Which is why, throughout history, the most creative artists were backed by those
 
 ### Modest standing leads to risk aversion
 
+${'  ' || `
+// TODO: Use another word than vision.
+`}
+
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
 In the past, artists lacked all means to engage with the public in their early years— leaving them free to explore and experiment on their own. But today, indie artists are empowered to build a fanbase from day one— making them unlikely to wander from their earliest artistic decisions.
@@ -131,6 +135,10 @@ Meanwhile, because the indie labels have just enough standing to lose, they only
 Revolutions may *start* with artists, but they're *spread* by business partners, whose vision is needed to win over the public. This is why BYCombo tells you to explore and experiment, while you have no fans to lose— and then helps you find partners perched high enough to see you as the *smartest* bet.
 
 ### The grassroots is now a lottery
+
+${'  ' || `
+// TODO: Make populist paragraph flow better?
+`}
 
 We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who started from the grassroots, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: Their success feels *earned* to us. That is to say, they put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
@@ -210,6 +218,10 @@ Every Black artist would stare glumly at us. Why? Because back then, they *neede
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the 50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
 ### Independence breeds homogeneity
+
+${'  ' || `
+// TODO: Separate second paragraph into two. First, talk about vision, and when the nature of what you want is an outlier. Then talk about wisdom of crowd, when the nature of what you want is an average.
+`}
 
 Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but I'm a hobbyist. Why do they misjudge me so badly? I used to wonder. Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one, a hundred times over— who then looks for the same artist, a hundred times over!
 
