@@ -82,7 +82,7 @@ ${'  ' || `
 
 As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the negative effects didn't stop there.
 
-Unlike an arts organization, fans don't need to have rigorous standards or be mindful of unconscious bias. Their charitable support for an underdog— *any* underdog— is noble on its own and can't be questioned. But this means it *isn't* just a leg up; it's a supreme advantage! So indie rock started an arms race, where even superstars now angle to be seen as underdogs.
+Unlike an arts organization, fans don't need to have rigorous standards or be mindful of unconscious bias. Their charitable support for an underdog— *any* underdog!— is noble on its own and can never be questioned. But this means it *isn't* just a leg up; it's a supreme advantage! So indie rock started an arms race, where even superstars now angle to be seen as underdogs.
 
 Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to give the underdog a safe lead. But… this sounds familiar, doesn't it? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
 
@@ -122,17 +122,13 @@ Which is why, throughout history, the most creative artists were backed by those
 
 ### Modest standing leads to risk aversion
 
-${'  ' || `
-// TODO: Use another word than vision.
-`}
-
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
 In the past, artists lacked all means to engage with the public in their early years— leaving them free to explore and experiment on their own. But today, indie artists are empowered to build a fanbase from day one— making them unlikely to wander from their earliest artistic decisions.
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose vision is needed to win over the public. This is why BYCombo tells you to explore and experiment, while you have no fans to lose— and then helps you find partners perched high enough to see you as the *smartest* bet.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose— and then helps you find partners perched high enough to see this as the *smartest* bet.
 
 ### The grassroots is now a lottery
 
