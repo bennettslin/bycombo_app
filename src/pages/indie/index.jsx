@@ -82,9 +82,9 @@ ${'  ' || `
 
 As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the damage didn't stop there.
 
-Unlike an arts organization, fans don't need to have rigorous standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— is noble on its own and can't be questioned. But then… this *isn't* just a leg up, is it? It's a supreme advantage! So indie rock started an arms race, where even superstars now compete to be seen as underdogs.
+Unlike an arts organization, fans don't need to have rigorous standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— is noble on its own and thus can't be scrutinized. But then… this *isn't* just a leg up, is it? It's a supreme advantage! So indie rock set off an arms race, where even superstars now compete to be seen as underdogs.
 
-Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to give the underdog a safe lead. But… this sounds familiar, doesn't it? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
+Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to give the underdog a safe lead. Except… doesn't this sound familiar? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
 
 Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll try to *fix* the damage we caused— much like we topple Confederate statues today. So why be a charity case *and* a villain? With BYCombo, you can make history the *right* way.
 
@@ -133,16 +133,16 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 ### The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Make populist paragraph flow better?
+// TODO: Make sure third paragraph is clear.
 `}
 
 We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who started from the grassroots, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: Their success feels *earned* to us. That is to say, they put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-In those days, lottery players would sign lopsided deals with a label, all for a single chance at exposure. But the Internet has since empowered them to reach the people directly, giving them unlimited chances— while making them indie artists in good faith! So now they're drowning us all in their music— *and* getting respect for it.
+In those days, lottery players would sign lopsided deals with a label, all for a single chance at exposure. But the Internet has since empowered them to reach the people directly, giving them unlimited chances— while earning them respect as indie artists in good faith!
 
-Of course, for those who only see the grassroots as a [*populist*](https://en.wikipedia.org/wiki/Populism) domain… this is as it should be! After all, getting likes on social media *is* the modern version of drawing a live crowd, and machine learning algorithms *are* the new word of mouth. Which means today's indie artists are *still* chosen by the people, not by the elite— as it's always been.
+Which is as it should be… for those who only see the grassroots as a [*populist*](https://en.wikipedia.org/wiki/Populism) domain! Because if all that matters is to have artists chosen by the people, not by the elite— then nothing has changed: Getting likes on social media is indeed the modern version of drawing a live crowd, and machine learning algorithms are the new word of mouth.
 
-It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. But what if you were hoping to *earn* your success? Well, you can join BYCombo, and put in the work each day for untold years— on your craft!
+It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what happens now, if you were hoping to *earn* your success? Well, you can join BYCombo, and put in the work each day for untold years— on your craft!
 
 ### Talent wants a path to stardom
 
