@@ -129,16 +129,16 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 ### The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Make sure second to third paragraph is clear. Third paragraph can probably be less wordy.
+// TODO: Review one more time.
 `}
 
 We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who started from the grassroots, don't we? After all, they were chosen by the people, not by the elite. Yet there's a less spoken reason as well: Their success feels *earned* to us. That is to say, they put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-In those days, lottery players would sign lopsided deals with a label, all for a single chance at exposure. But the Internet has since empowered them to reach the people directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
+In those days, lottery players would sign lopsided deals with a label, all for a single chance at exposure. But the Internet has since empowered them to reach the people directly, giving them unlimited chances— while making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
-Of course, for those who only see the grassroots as a [*populist*](https://en.wikipedia.org/wiki/Populism) domain… this is as it should be! Because if all that matters is for artists to be chosen by the people, not by the elite— then indie rock hasn't changed. Getting likes on social media is just the modern version of drawing a live crowd, and machine learning algorithms are the new word of mouth.
+Of course, for those who only see the grassroots as a [*populist*](https://en.wikipedia.org/wiki/Populism) domain… this is as it should be! Because if the main concern is for artists to be chosen by the people, not by the elite— then nothing has changed. Getting likes on social media is simply the modern version of drawing a live crowd, and machine learning algorithms are the new word of mouth.
 
-It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what can be done if you were hoping to *earn* your success? Why, you can join BYCombo, and put in the work each day for untold years— on your craft!
+It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what happens now, if you were hoping to *earn* your success? Why, you can join BYCombo, and put in the work each day for untold years— on your craft!
 
 ### Talent wants a path to stardom
 
@@ -221,10 +221,13 @@ To be interdependent, you need partners who are strong where you're weak, and vi
 
 So don't be fooled by indie rock's belated embrace of women and minorities: There's still no diversity of *thought*— and there never will be. But BYCombo lets you find partners who think differently… and who'll value *you* for doing the same.
 
-### The underdog is an eternal villain
+### The underdog is a future villain
 
 ${'  ' || `
-// TODO: Review a few times. Fourth paragraph, be more inclusive about who's most likely to make history. Third paragraph, point out that true disadvantage is having no one wanting to root for you as the underdog.
+// TODO:
+If title changes, change link in home page as well.
+
+Review a few times. Fourth paragraph, be more inclusive about who's most likely to make history. Third paragraph, point out that true disadvantage is having no one wanting to root for you as the underdog.
 
 Underdog movements are founded by society's most privileged. Make this point somewhere else?
 
