@@ -225,14 +225,14 @@ To be interdependent, you need partners who are strong where you're weak, and vi
 
 So don't be fooled by indie rock's belated embrace of women and minorities: There's still no diversity of *thought*— and there never will be. But BYCombo lets you find partners who think differently… and who'll value *you* for doing the same.
 
-### Underdog movements have a fatal flaw
+### The underdog is an eternal villain
 
 ${'  ' || `
 // TODO: Review a few times. Fourth paragraph, be more inclusive about who's most likely to make history. Third paragraph, point out that true disadvantage is having no one wanting to root for you as the underdog.
 
 Underdog movements are founded by society's most privileged. Make this point somewhere else?
 
-Third paragraph. Don't need to mention charitable support again. Mention supreme advantage instead. Make reference to KKK overt. Point out it was America's original underdog movement meant to subjugate the outsider.
+Third paragraph. Poptimism exists to give a supreme advantage to the underdog by making meaningless the outsider's willingness to work that much harder, to be that much better. Make reference to KKK overt. Point out it was America's original underdog movement meant to subjugate the outsider.
 
 Fourth paragraph. Irrelevance is too soft. Change it in home page as well.
 
