@@ -173,9 +173,13 @@ So to make history without achieving stardom, ignore the critics! Instead, your 
 
 ### Commodified signals are worthless
 
+${'  ' || `
+// TODO: Review one more time.
+`}
+
 Every now and then, I'll get over my dislike of social media to see what the indie gatekeepers are saying among themselves. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
-Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly using the online tools they provided.
+Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly, by spending a few hours a day to use the online tools they provided.
 
 But clearly, they see the problem here— at least when it comes to Twitter. If greater access to an audience can be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to value it— and then both yearn to leave for places where honest signaling still happens.
 
@@ -224,8 +228,7 @@ So don't be fooled by indie rock's belated embrace of women and minorities: Ther
 ### The underdog is a future villain
 
 ${'  ' || `
-// TODO:
-If title changes, change link in home page as well.
+// TODO: If title changes, change link in home page as well.
 
 Review a few times. Fourth paragraph, be more inclusive about who's most likely to make history. Third paragraph, point out that true disadvantage is having no one wanting to root for you as the underdog.
 
@@ -236,6 +239,8 @@ Third paragraph. Poptimism exists to give a supreme advantage to the underdog by
 Fourth paragraph. Irrelevance is too soft. Change it in home page as well.
 
 Future generations will be clear-eyed about which artists we *wanted* to root for— their privilege will be salient to future generations in a way that it simply isn't to ours.
+
+Future generations will side with today's outsiders in a way that ours doesn't. After all, this was the downfall of the Ku Klux Klan— America's original underdog movement that tried to shut out America's original outsiders!
 `}
 
 Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and took their indie sensibilities with them. So poptimism… is really the new indie rock!
