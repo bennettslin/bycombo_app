@@ -110,10 +110,6 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 ### Creativity gets its chance from the clueless
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
 Because the indie gatekeepers stay close to their local scenes, they're both "in the know" and "one of us." So whatever *they* like is what others like *us* have liked, which means it's the best of what *we'll* like… right? Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
@@ -140,7 +136,7 @@ We all respect those [80s indie bands](https://www.littlebrown.com/titles/michae
 
 In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the people directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world in their music— *and* getting respect for it.
 
-Yet if the only concern is to see artists chosen by the people, not by the elite— then this is as it should be! Because how is a fanbase any different if it's built online? And what are machine learning algorithms, if not the new word of mouth? In other words, the grassroots is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
+Yet if the only concern is to see artists chosen by the people, not by the elite— then this is as it should be! Because what are machine learning algorithms, if not the new word of mouth? And isn't getting likes on social media just the modern way to draw a live crowd? The grassroots, in other words, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
 
 It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what happens now, if you were hoping to *earn* your success? Why, you can join BYCombo, and put in the work each day for untold years— on your craft!
 
