@@ -110,11 +110,15 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 ### Creativity gets its chance from the clueless
 
+${'  ' || `
+// TODO: Review one more time.
+`}
+
 Because the indie gatekeepers stay close to their local scenes, they're both "in the know" and "one of us." So whatever *they* like is what others like *us* have liked, which means it's the best of what *we'll* like… right? Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Which is why, throughout history, the most creative artists were backed by those with the *least* experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can once again find such partners to back you.
+Which is why the most creative artists in history were often backed by those with the *least* prior experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can once again find such partners to back you.
 
 ### Modest standing leads to risk aversion
 
@@ -129,7 +133,7 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 ### The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Review one more time. Primarily third paragraph.
+// TODO: Review one more time. Primarily third paragraph. Fourth paragraph should mention elite?
 `}
 
 We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who started from the grassroots, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: Their success feels *earned* to us. That is to say, they put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
