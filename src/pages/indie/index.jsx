@@ -129,16 +129,16 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 ### The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Review one more time. Fourth paragraph, mention being chosen by the elite?
+// TODO: Review one more time. Primarily third paragraph.
 `}
 
 We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who started from the grassroots, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: Their success feels *earned* to us. That is to say, they put in the work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the people directly, giving them unlimited chances— while making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
+In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the people directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world in their music— *and* getting respect for it.
 
-Of course, if the only concern is for artists to be chosen by the people, not by the elite— then all is as it should be! After all, getting likes on social media is just the modern way to draw a live crowd, and machine learning algorithms are the new word of mouth. So nothing has changed as far as indie rock is concerned, because the grassroots is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
+Yet if the only concern is to see artists chosen by the people, not by the elite— then this is as it should be! Because how is a fanbase any different if it's built online? And what are machine learning algorithms, if not the new word of mouth? In other words, the grassroots is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
 
-It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what happens now, if *you* were hoping to earn your success? Why, you can join BYCombo, and put in the work each day for untold years— on your craft!
+It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what happens now, if you were hoping to *earn* your success? Why, you can join BYCombo, and put in the work each day for untold years— on your craft!
 
 ### Talent wants a path to stardom
 
@@ -174,7 +174,7 @@ So to make history without achieving stardom, ignore the critics! Instead, your 
 ### Commodified signals are worthless
 
 ${'  ' || `
-// TODO: Review one more time.
+// TODO: Review one more time. Primarily second paragraph.
 `}
 
 Every now and then, I'll get over my dislike of social media to see what the indie gatekeepers are saying among themselves. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
