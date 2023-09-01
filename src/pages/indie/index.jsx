@@ -124,7 +124,7 @@ ${'  ' || `
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
-In the past, artists lacked all means to engage with the public in their early years— leaving them free to explore and experiment on their own. But today, indie artists build a fanbase from day one— making them unlikely to tinker with the initial formula that won over their first fans.
+In the past, artists lacked all means to engage with the public in their early years— leaving them free to explore and experiment on their own. But today, indie artists build a fanbase from day one— making them unlikely to tinker with the winning formula that gains them their first fans.
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
@@ -142,7 +142,7 @@ In those days, lottery players would sign lopsided deals with a major label, all
 
 Yet if the only concern is to see artists chosen by the people, not by the elite— then all is as it should be! Because what are machine learning algorithms, if not the new word of mouth? And how is a fanbase any different if it was built online? The grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
 
-It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what happens now, if you were hoping to ensure your success? Well, if you're willing to work on your craft for untold years, BYCombo is here to help you get chosen by the next elite!
+It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what happens now, if you were hoping to ensure your success? Well, if you're willing to work on your craft for untold years, BYCombo is here to help you get chosen— by the next elite!
 
 ### Talent wants a path to stardom
 
@@ -229,7 +229,7 @@ To be interdependent, you need partners who are strong where you're weak, and vi
 
 So don't be fooled by indie rock's belated embrace of women and minorities: There's still no diversity of *thought*— and there never will be. But BYCombo lets you find partners who think differently… and who'll value *you* for doing the same.
 
-### The underdog is a future villain
+### The underdog is an eternal villain
 
 ${'  ' || `
 // TODO: If title changes, change link in home page as well.
