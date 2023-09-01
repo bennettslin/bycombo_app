@@ -86,11 +86,15 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 
 ### Timeless works have intrinsic appeal
 
+${'  ' || `
+// TODO: Review one more time.
+`}
+
 To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by composing chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to reach their level. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to reach listeners by first winning over *critics*— and the best did this by putting out works rich in *non*-musical context, often centered on the artist's identity. So today, an acclaimed indie artist is one whom many critics praise— but few musicians study.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to reach listeners by first winning over *critics*— and the best did this by putting out works rich in *non*-musical context, often centered on the artist's identity. So even today with radio in decline, an acclaimed indie artist is one whom many critics praise— but few musicians study.
 
 Yet no one cares what [past critics thought](https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad), while the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
@@ -124,7 +128,7 @@ ${'  ' || `
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
-In the past, artists lacked all means to engage with the public in their early years— leaving them free to explore and experiment on their own. But today, indie artists build a fanbase from day one— making them unlikely to tinker with the winning formula that gains them their first fans.
+In the past, artists lacked all means to engage with the public in their early years, leaving them free to explore and experiment on their own. But indie artists today build a fanbase from day one, and so they quickly settle into an optimal approach for gaining fans.
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this just creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
@@ -140,9 +144,9 @@ We all respect those [80s indie bands](https://www.littlebrown.com/titles/michae
 
 In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the people directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world in their music— *and* getting respect for it.
 
-Yet if the only concern is to see artists chosen by the people, not by the elite— then all is as it should be! Because what are machine learning algorithms, if not the new word of mouth? And how is a fanbase any different if it was built online? The grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
+Yet if the only concern is to see artists chosen by the people, not by the elite— then this is as it should be! Because what are machine learning algorithms, if not the new word of mouth? And how is a fanbase any different if it was built online? The grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
 
-It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what happens now, if you were hoping to ensure your success? Well, if you're willing to work on your craft for untold years, BYCombo is here to help you get chosen— by the next elite!
+It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what happens now, if you were hoping to ensure your success? Why, you can work on your craft for untold years— and then let BYCombo help you get chosen by a new elite!
 
 ### Talent wants a path to stardom
 
@@ -178,12 +182,12 @@ So to make history without achieving stardom, ignore the critics! Instead, your 
 ### Commodified signals are worthless
 
 ${'  ' || `
-// TODO: Review one more time. Primarily second paragraph.
+// TODO: Review one more time.
 `}
 
 Every now and then, I'll get over my dislike of social media to see what the indie gatekeepers are saying among themselves. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
-Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly— and so they provided online tools that cost just a few hours a day.
+Musk wanted *everyone* to have access to a discerning audience, not just the elite— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly using the online tools they provided, at the cost of just a few hours each day.
 
 But clearly, they see the problem here— at least when it comes to Twitter. If greater access to an audience can be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to value it— and then both yearn to leave for places where honest signaling still happens.
 
