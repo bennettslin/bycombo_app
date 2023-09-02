@@ -138,7 +138,7 @@ ${'  ' || `
 
 We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who started from the grassroots, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they earned it by showing up to work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the people directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world in their music— *and* getting respect for it.
+In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the people directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
 
 Yet if the only concern is to see artists chosen by the people, not by the elite— then this is as it should be! Because what are machine learning algorithms, if not the new word of mouth? And how is a fanbase any different if it was built online? The grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
 
@@ -178,12 +178,12 @@ So to make history without achieving stardom, ignore the critics! Instead, your 
 ### Commodified signals are worthless
 
 ${'  ' || `
-// TODO: Review one more time.
+// TODO: Make second paragraph flow into third.
 `}
 
 Every now and then, I'll get over my dislike of social media to see what the indie gatekeepers are saying among themselves. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
-Musk wanted *everyone* to have access to a discerning audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly using online tools that cost just a few hours each day.
+Musk wanted *everyone* to have access to a discerning audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly, using online tools that cost just a few hours each day.
 
 But clearly, they see the problem here— at least when it comes to Twitter. If greater access to an audience can be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to value it— and then both yearn to leave for places where honest signaling still happens.
 
