@@ -124,9 +124,9 @@ ${'  ' || `
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
-In the past, artists lacked all means to engage with the public in their early years, leaving them free to explore and experiment on their own. But today, indie artists build a fanbase from day one, and so they quickly settle into an optimal approach for gaining fans.
+In the past, artists lacked all means to engage with the public in their early years, leaving them free to explore and experiment on their own. But today, indie artists build a fanbase from day one, so they quickly settle into an optimal approach for gaining fans.
 
-Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this ends up creating an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, it means every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
+Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for anyone perched high enough to see it.
 
@@ -176,10 +176,6 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 So to make history without achieving stardom, ignore the critics! Instead, your talents must inspire the envy of fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ### Commodified signals are worthless
-
-${'  ' || `
-// TODO: Review one more time.
-`}
 
 Every now and then, I'll get over my dislike of social media to see what the indie gatekeepers are saying among themselves. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
