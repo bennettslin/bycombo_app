@@ -30,15 +30,11 @@ And these tools *aren't* free; they cost time and energy that could be spent mak
 
 ### The outsider's dilemma
 
-${'  ' || `
-// TODO: Find replacement for "winning edge" and "supreme advantage."
-`}
-
 Here's the curious part: Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free— if they just build up their talents. For example, Eminem *didn't* have a real fanbase when he was discovered by Dr. Dre; his self-released EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
 
 It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's interdependent way of thinking. I'd rather be an "Eminem of rock" and have a *label* advocate for my band— while having this label, in turn, depend on *us* to make the best art.
 
-By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support offers such a [winning edge](/indie#charitable-support-is-a-supreme-advantage), no other artist can hope to compete. Which means the *labels* can only compete by signing indie artists— who work hard *not* to need them. What a mess! And yet the future is clear:
+By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charitable-support-is-a-winning-advantage), no other artist can hope to compete. Which means the *labels* can only compete by signing indie artists— who work hard *not* to need them. What a mess! And yet the future is clear:
 
 **As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… as it's the only way to make the best art!**
 
@@ -72,7 +68,7 @@ ${'  ' || `
 // TODO: Review after villain section.
 `}
 
-But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: While an underdog movement can shut out the outsider, it can't prevent them from outshining in all the ways that matter to history. This leaves the underdog to shine only in ways that *don't* matter… until the movement [fades into irrelevance](/indie#the-underdog-is-an-eternal-villain).
+But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: While an underdog movement can shut out the outsider, it can't prevent them from outshining in all the ways that matter to history. This leaves the underdog to shine only in ways that *don't* matter… until the movement [fades into irrelevance](/indie#underdog-movements-are-supremacist-by-nature).
 
 Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— making the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs and industry executives will try to disrupt the rock market.
 
