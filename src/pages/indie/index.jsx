@@ -124,7 +124,7 @@ ${'  ' || `
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
-In the past, artists lacked all means to engage with the public in their early years, leaving them free to explore and experiment on their own. But today, indie artists build a fanbase from day one, so they quickly settle into an optimal approach for gaining fans.
+In the past, artists lacked all means to engage with the public in their early years, leaving them free to explore and experiment on their own. But indie artists today build a fanbase from day one, and so they quickly settle into an optimal approach for gaining fans.
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
@@ -140,7 +140,7 @@ We all respect those [80s indie bands](https://www.littlebrown.com/titles/michae
 
 In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the people directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
 
-Yet if the only concern is to see artists chosen by the people, not by the elite— then this is as it should be! Because what are machine learning algorithms, if not the new word of mouth? And isn't getting likes on social media just the modern version of drawing a live crowd? The grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
+Yet if the only concern is to see artists chosen by the people, not by the elite— then this is as it should be! Because what are machine learning algorithms, if not the new word of mouth? A fanbase is no different if it was built online. And so the grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
 
 It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what happens now, if *you* were hoping to ensure your success? Why, with BYCombo, you can work on your craft for untold years— and get chosen by the next elite!
 
