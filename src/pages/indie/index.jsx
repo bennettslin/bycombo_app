@@ -136,9 +136,9 @@ We all respect those [80s indie bands](https://www.littlebrown.com/titles/michae
 
 In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the people directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
 
-Yet if the only concern is to see artists chosen by the people, not by the elite— then this is as it should be! Because what are machine learning algorithms, if not the new word of mouth? A fanbase is no different if it was built online. And so the grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
+Yet this is as it should be— if the sole concern is for artists to be chosen by the people, not by the elite! Because what are machine learning algorithms, if not the new word of mouth? The grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
 
-It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what happens now, if *you* were hoping to ensure your success? Why, with BYCombo, you can work on your craft for untold years— and get chosen by the next elite!
+It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. But what if you were hoping to ensure your success? Then come join BYCombo, and work on your craft for untold years— to get chosen by the next elite!
 
 ### Talent wants a path to stardom
 
