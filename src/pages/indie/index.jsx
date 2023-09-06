@@ -129,7 +129,7 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 ### The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Review one more time. Think of better example for third paragraph. And work on final paragraph.
+// TODO: Review one more time.
 `}
 
 We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who started from the grassroots, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they earned it by showing up to work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
@@ -138,7 +138,7 @@ In those days, lottery players would sign lopsided deals with a major label, all
 
 Yet this is as it should be— if the sole concern is for artists to be chosen by the people, not by the elite! Because what are machine learning algorithms, if not the new word of mouth? The grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
 
-It's just no longer the case that equally worthy artists will see comparable results, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. But what if you were hoping to ensure your success? Then come join BYCombo, and work on your craft for untold years— to get chosen by the next elite!
+It just no longer feels like anything separates the few who make it from the many who don't, other than pure chance, because the grassroots has ceased to be a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. So what happens now, if you were hoping to ensure your success? Why, you can work on your craft for untold years— and then have BYCombo expose you to a new elite!
 
 ### Talent wants a path to stardom
 
@@ -211,10 +211,6 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 ### Independence breeds homogeneity
 
-${'  ' || `
-// TODO: Separate second paragraph into two. First, talk about vision, and when the nature of what you want is an outlier. Then talk about wisdom of crowd, when the nature of what you want is an average.
-`}
-
 Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but I'm a hobbyist. Why do they misjudge me so badly? I used to wonder. Then it hit me: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one, a hundred times over— who then looks for the same artist, a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
@@ -237,15 +233,19 @@ Fourth paragraph. Irrelevance is too soft. Change it in home page as well.
 Future generations will be clear-eyed about which artists we *wanted* to root for— their privilege will be salient to future generations in a way that it simply isn't to ours.
 
 Future generations will side with today's outsiders in a way that ours doesn't. After all, this was the downfall of the Ku Klux Klan— America's original underdog movement that tried to shut out America's original outsiders!
+
+Fatal flaw is that underdogs must *always* be presented as such to future generations.
 `}
 
 Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and took their indie sensibilities with them. So poptimism… is really the new indie rock!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and taken further by Motown.
 
-Like indie rock, poptimism exists to charitably support the underdog. But this means it has the same fatal flaw: Since charitable support is an *advantage*, any artist who receives it *won't* be treated as an underdog by future generations. Which shouldn't surprise us— after all, no one in history whom *we* remember today was an underdog in *their* own time!
+Like indie rock, poptimism exists to give the underdog a winning advantage over the outsider who's willing to work much harder, to be much better. But this means it has the same fatal flaw: If the underdog was given opportunities and resources in their own time that were denied to others, history will have no reason to remember them as the underdog!
 
-So all underdog movements are destined to fade into irrelevance. And yet… because they benefit the privileged, they'll always live on in some form. Luckily, BYCombo is here to ensure that outsiders— the ones most likely to make history!— will continue to have a fighting chance against them.
+So future generations will discredit the past underdog, while actively rooting for those past outsiders whose fortunes they're powerless to change, but whose legacies they can still promote. This is, after all, what happened to the Ku Klux Klan— America's original underdog movement, which was founded to shut out America's original outsiders!
+
+So every underdog movement is destined for history's dustbin. And yet… because they benefit the privileged, another one will certainly rise up to take its place. Luckily, BYCombo is here to ensure that outsiders— the ones most likely to make history!— will always have a fighting chance against them.
 
 ### Paid dues must now collude
 
