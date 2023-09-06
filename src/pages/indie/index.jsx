@@ -134,11 +134,11 @@ ${'  ' || `
 
 We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who started from the grassroots, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they earned it by showing up to work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the people directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
+In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
 
 Yet if the sole concern is for artists to be chosen by the people, not by the elite— then all this is as it should be! After all, what are machine learning algorithms, if not the new word of mouth? The grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
 
-It's just that nothing but chance now separates the few who make it from the many who don't, because the grassroots is no longer a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. But… what if *you* were hoping to ensure your success? Why, you can work on your craft for untold years— and let BYCombo expose you to a new elite!
+It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. But… what if *you* were hoping to ensure your success? In that case, keep working on your craft for untold years— and let BYCombo expose you to a new elite!
 
 ### Talent wants a path to stardom
 
