@@ -151,7 +151,7 @@ But stardom is also the rightful outcome for the *most* worthy artists, who natu
 By shutting off this pipeline to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore the path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspires to be *most* worthy— get a chance to be one?
 
 ${'  ' || `
-// TODO: Startups aren't stores
+// TODO: Some artists are startups, others are stores
 
 1000 true fans
 If they then want to try to be the next Radiohead and have millions of true fans, it's just a further step in the same direction.
@@ -220,32 +220,18 @@ So don't be fooled by indie rock's belated embrace of women and minorities: Ther
 ### Underdog movements are supremacist by nature
 
 ${'  ' || `
-// TODO: If title changes, change link in home page as well.
-
-Review a few times. Fourth paragraph, be more inclusive about who's most likely to make history. Third paragraph, point out that true disadvantage is having no one wanting to root for you as the underdog.
-
-Underdog movements are founded by society's most privileged. Make this point somewhere else?
-
-Third paragraph. Poptimism exists to give a winning advantage to the underdog by making meaningless the outsider's willingness to work that much harder, to be that much better. Make reference to KKK overt. Point out it was America's original underdog movement meant to subjugate the outsider.
-
-Fourth paragraph. Irrelevance is too soft. Change it in home page as well.
-
-Future generations will be clear-eyed about which artists we *wanted* to root for— their privilege will be salient to future generations in a way that it simply isn't to ours.
-
-Future generations will side with today's outsiders in a way that ours doesn't. After all, this was the downfall of the Ku Klux Klan— America's original underdog movement that tried to shut out America's original outsiders!
-
-Fatal flaw is that underdogs must *always* be presented as such to future generations.
+// TODO: Review a few times.
 `}
 
 Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and took their indie sensibilities with them. So poptimism… is really the new indie rock!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and taken further by Motown.
 
-Like indie rock, poptimism exists to give the underdog a winning advantage over the outsider who's willing to work much harder, to be much better. But this means it has the same fatal flaw: If the underdog was given opportunities and resources in their own time that were denied to others, history will have no reason to remember them as the underdog!
+Like indie rock, then, poptimism exists to help the underdog win out over the outsider who's willing to work much harder, to be much better. And yet, to be remembered by history at all, the underdog must *forever* be championed for their disadvantages— despite being given opportunities and resources in their own time that were denied to the outsider!
 
-So future generations will discredit the past underdog, while actively rooting for those past outsiders whose fortunes they're powerless to change, but whose legacies they can still promote. This is, after all, what happened to the Ku Klux Klan— America's original underdog movement, which was founded to shut out America's original outsiders!
+Are there any historical figures from *our* past who work this way? I can think of one group: the Ku Klux Klan and other White supremacists— America's original underdogs, who tried to supplant America's original outsiders. No wonder, then, that indie rock recently took a hard fall!
 
-So every underdog movement is destined for history's dustbin. And yet… because they benefit the privileged, another one will certainly rise up to take its place. Luckily, BYCombo is here to ensure that outsiders— the ones most likely to make history!— will always have a fighting chance against them.
+So *all* underdog movements are destined for history's dustbin. And yet… because they benefit the privileged, others will surely rise up to take their place. Luckily, BYCombo is here to ensure that outsiders— the ones most likely to make history!— will always have a fighting chance against them.
 
 ### Paid dues must now collude
 
