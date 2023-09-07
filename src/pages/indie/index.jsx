@@ -241,7 +241,7 @@ Ignore the superficial differences in sound: Indie rock and poptimism are both u
 
 Like indie rock, then, poptimism exists to help the underdog win out over the outsider who works much harder, to be much better. And yet, to be remembered by history, the underdog must *still* be championed for their disadvantages— despite all the advantages they were given in their own time that were denied to the outsider!
 
-Are there any historical figures from *our* past who work this way? Yes— the Ku Klux Klan and other White supremacists. They were America's original underdogs, who tried to supplant America's original outsiders. No wonder, then, that indie rock recently took a hard fall!
+Are there any historical figures from *our* past who work this way? Yes— the Ku Klux Klan and other White supremacists. They were America's original underdogs, who tried to supplant America's original outsiders!
 
 So *all* underdog movements are destined for history's dustbin. And yet… because they benefit the privileged, others will surely rise up to take their place. Luckily, BYCombo is here to ensure that outsiders— the ones most likely to make history!— will always have a fighting chance against them.
 
