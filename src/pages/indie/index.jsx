@@ -70,7 +70,7 @@ Simply put, indie rock doesn't know what it stands *for*, only whom it stands *a
 
 For example, even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) proved that the Internet caters to the lowest common denominator… indie rock concluded that artists who [go viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah) *aren't* the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars after [leaving Roadrunner](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me)… this was taken as proof that artists *don't* benefit from a major label deal?!
 
-In every early example of online success, chance or privilege clearly played a role. Yet indie rock was so eager to "own" the major labels, it downplayed this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume their music is no good!
+In every early example of online success, chance or privilege clearly played a role. Yet indie rock was so eager to "own" the major labels, it downplayed this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public has to assume their music is no good!
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the major labels did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it holds no grievances.
 
@@ -136,7 +136,7 @@ We all respect those [80s indie bands](https://www.littlebrown.com/titles/michae
 
 In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
 
-Yet if the sole concern is for artists to be chosen by the people, not by the elite— then all this is as it should be! After all, what are machine learning algorithms, if not the new word of mouth? The grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
+Yet if the sole concern is for artists to be chosen by the people, not by the elite— then all this is as it should be! Because what are machine learning algorithms, if not the new word of mouth? The grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
 
 It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. But… what if *you* were hoping to ensure your success? In that case, keep working on your craft for untold years— and let BYCombo expose you to a new elite!
 
@@ -231,15 +231,17 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ${'  ' || `
 // TODO: Review a few times.
+
+Third paragraph: Precisely because the underdog *wasn't* better… have expectations of future generations. Are there historical figures of the past who expect the same from *us*?
 `}
 
 Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and took their indie sensibilities with them. So poptimism… is really the new indie rock!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and taken further by Motown.
 
-Like indie rock, then, poptimism exists to help the underdog win out over the outsider who's willing to work much harder, to be much better. And yet, to be remembered by history at all, the underdog must *forever* be championed for their disadvantages— despite being given opportunities and resources in their own time that were denied to the outsider!
+Like indie rock, then, poptimism exists to help the underdog win out over the outsider who works much harder, to be much better. And yet, to be remembered by history, the underdog must *still* be championed for their disadvantages— despite all the advantages they were given in their own time that were denied to the outsider!
 
-Are there any historical figures from *our* past who work this way? I can think of one group: the Ku Klux Klan and other White supremacists— America's original underdogs, who tried to supplant America's original outsiders. No wonder, then, that indie rock recently took a hard fall!
+Are there any historical figures from *our* past who work this way? Yes— the Ku Klux Klan and other White supremacists. They were America's original underdogs, who tried to supplant America's original outsiders. No wonder, then, that indie rock recently took a hard fall!
 
 So *all* underdog movements are destined for history's dustbin. And yet… because they benefit the privileged, others will surely rise up to take their place. Luckily, BYCombo is here to ensure that outsiders— the ones most likely to make history!— will always have a fighting chance against them.
 
