@@ -100,11 +100,11 @@ In the past, we of the English-speaking world rightfully claimed ours to be *the
 
 They can build a fanbase on their own— which yields compound returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond, which yields *marginal* returns for *massive* effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-In a world of charitable support, then, the smart choice is obvious. But… what if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! Thankfully, with BYCombo, you can now go above and beyond to win it back.
+In a world of charitable support, then, the smart choice is obvious. But… what if a band goes above and beyond anyway, hoping to remain peerless? Add up their gains, subtract the [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! Thankfully, with BYCombo, you can now go above and beyond to bring it back.
 
 ### Serendipity rewards the idle mind
 
-Indie rock requires artists to wear several hats: the marketer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
+Indie artists need to wear several hats: the marketer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
 
 These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking! So keep your artist hat on, and have a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
@@ -136,9 +136,9 @@ We all respect those [80s indie bands](https://www.littlebrown.com/titles/michae
 
 In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
 
-Yet if the sole concern is for artists to be chosen by the people, not by the elite— then all this is as it should be! Because what are machine learning algorithms, if not the new word of mouth? The grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
+Yet this is as it should be— if the sole concern is to see artists chosen by the people, not by the elite! Because what are machine learning algorithms, if not the new word of mouth? The grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
 
-It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. But… what if *you* were hoping to ensure your success? In that case, keep working on your craft for untold years— and let BYCombo expose you to a new elite!
+It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to a new elite!
 
 ### Talent wants a path to stardom
 
