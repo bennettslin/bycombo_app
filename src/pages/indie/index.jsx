@@ -227,19 +227,17 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ${'  ' || `
 // TODO: Review a few times.
-
-Third paragraph: Precisely because the underdog *wasn't* better… have expectations of future generations. Are there historical figures of the past who expect the same from *us*?
 `}
 
-Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and took their indie sensibilities with them. So poptimism… is really the new indie rock!
+Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and took their indie sensibilities with them. So poptimism… is the new indie rock!
 
-Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and taken further by Motown.
+Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and refined by Motown.
 
-Like indie rock, then, poptimism exists to help the underdog win out over the outsider who works much harder, to be much better. And yet, to be remembered by history, the underdog must *still* be championed for their disadvantages— despite all the advantages they were given in their own time that were denied to the outsider!
+Like indie rock, poptimism is here to help the underdog win out over the outsider who works much harder, to be much better. Yet if the underdog *isn't* the best of their time, then their place in history can only be assured if future generations *continue* to see them as the underdog— despite every advantage they were given that was denied to the outsider!
 
-Are there any historical figures from *our* past who work this way? Yes— the Ku Klux Klan and other White supremacists. They were America's original underdogs, who tried to supplant America's original outsiders!
+This… doesn't seem like a viable way to make history. After all, are there any historical figures from *our* past who require the same [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance) of *us*? I can only think of the Ku Klux Klan and others of their ilk— America's original underdogs, who tried to supplant America's original outsiders!
 
-So *all* underdog movements are destined for history's dustbin. And yet… because they benefit the privileged, others will surely rise up to take their place. Luckily, BYCombo is here to ensure that outsiders— the ones most likely to make history!— will always have a fighting chance against them.
+So *every* underdog movement is destined for history's dustbin. And yet… because they benefit the privileged, others will surely rise up to take their place. Luckily, BYCombo is here to ensure that outsiders— the ones most likely to make history!— will always have a fighting chance.
 
 ### Happiness flows from the act of creation
 
