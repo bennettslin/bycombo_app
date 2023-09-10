@@ -225,9 +225,9 @@ Perhaps you think these arguments against indie rock are moot. After all, didn't
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and refined by Motown.
 
-Like indie rock, then, poptimism exists to help the underdog win out over the outsider who works much harder, to be much better. But since the underdog *isn't* the best of their time, their place in history can only be assured if future generations *continue* to see them as the underdog— despite every advantage they were given that was denied to the outsider!
+Like indie rock, then, poptimism exists to help the underdog win out over the outsider who works much harder, to be much better. Yet since the underdog *isn't* the best of their time, their place in history can only be assured if future generations *continue* to see them as the underdog— despite every advantage they were given that was denied to the outsider!
 
-This… isn't a viable way to make history. After all, are there historical figures from *our* past who expect the same [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance) of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who tried to supplant America's original outsiders!
+Which… isn't a viable way to make history. After all, what historical figures from *our* past expect the same [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance) of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to supplant America's original outsiders!
 
 So *every* underdog movement is destined for history's dustbin. And yet… because they benefit the privileged, others will surely rise up to take their place. Luckily, BYCombo is here to ensure that outsiders— the ones most likely to make history!— will always have a fighting chance.
 
