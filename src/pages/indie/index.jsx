@@ -146,19 +146,6 @@ But stardom is also the rightful outcome for the *most* worthy artists, who natu
 
 By shutting off this pipeline to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore the path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspires to be *most* worthy— get a chance to be one?
 
-${'  ' || `
-// TODO: ### Capacity to scale is decided upfront
-
-### Capacity to scale is decided upfront
-
-1000 true fans
-If they then want to try to be the next Radiohead and have millions of true fans, it's just a further step in the same direction.
-
-Paul Graham
-
-Radiohead had so few fans upon signing to EMI that when they were then asked to change their name from On a Friday, they did so without causing any confusion.
-`}
-
 ### History is made through peer review
 
 Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
