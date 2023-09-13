@@ -54,7 +54,7 @@ It takes time to review an ambitious demo— but the indie labels won't put in t
 
 **Why serious chunks of lifetime?**
 
-Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature.
+Low [barriers to entry](https://en.wikipedia.org/wiki/Barriers_to_entry) have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature.
 
 To save rock, then, a centralized initiative like BYCombo must now step up to enforce a steep *cost* of entry. This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to restore the public's faith.
 
@@ -222,7 +222,7 @@ Perhaps you think these arguments against indie rock are moot. After all, didn't
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and refined by Motown.
 
-Like indie rock, then, poptimism is here to help the underdog win out over the outsider who works much harder, to be much better. But if the underdog *isn't* the best of their time… then their place in history is assured only as long as they're *always* seen as an underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
+Like indie rock, poptimism helps the underdog win out over all outsiders— even those who work much harder, to be much better. But if the underdog *isn't* the best of their time… then their place in history is assured only as long as they're *always* seen as an underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. After all, what historical figures from *our* past require the same [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance) of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to supplant America's original outsiders! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
