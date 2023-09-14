@@ -66,7 +66,7 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 
 But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: While an underdog movement can shut out the outsider, it can't prevent them from outshining in all the ways that matter. This leaves the underdog to shine only in ways that *don't* matter… until [history discredits](/indie#underdog-movements-are-supremacist-in-effect) the movement entirely.
 
-Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— making the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs and industry executives will try to disrupt the rock market.
+Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— making the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the rock market.
 
 These "Dr. Dres of rock" would love to discover bands who can promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
 
