@@ -214,10 +214,6 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### Underdog movements are supremacist in effect
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
 Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and took their sensibilities with them. So poptimism… is the new indie rock!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and refined by Motown.
@@ -231,14 +227,14 @@ And yet there will always be another underdog movement— because to be seen as 
 ### Happiness flows from the act of creation
 
 ${'  ' || `
-// TODO: Review one more time. Make clear that you're earning the exposure, while others are winning or buying.
+// TODO: Review one more time.
 `}
 
 At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
 
 In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszentmihalyi), Mihaly Csikszentmihalyi explains that when an artist has a clear goal; feels adequately challenged; and gets feedback to guide their progress, they become fully immersed in the act of creation— leading to long-term fulfillment. This is why my years of sacrifice were some of my happiest; I *wasn't* slowly killing myself, as my friend had feared.
 
-Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure earned through years of self-reliance… might just as well be won by chance or bought by privilege in an instant. Every indie artist knows this, yet they play the losing game anyway— and it eats at their soul.
+Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure earned through years of self-reliance might just as well be won by chance, or bought by privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
 So yes, BYCombo requires you to focus on your craft. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
 
@@ -258,7 +254,7 @@ ${'  ' || `
 
 It's because we really only pine for past artists who self-sacrificed to advance the art form. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a classic sign of being exploited.
 
-And who'd argue against self-empowerment? Um… me! I would. For one, it's just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how are *they* the underdogs?
+And who'd argue against self-empowerment? Uh… me! I would. For one, it's just [self-serving](https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how are *they* the underdogs?
 
 Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation only get settled at the *end*. To save rock, then, we *need* to make way for bands who'll self-sacrifice to advance the art form. In other words, after the Age of Empowerment… comes the Age of Martyrdom.
 
