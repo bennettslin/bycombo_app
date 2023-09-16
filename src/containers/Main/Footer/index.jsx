@@ -41,7 +41,7 @@ const MainFooter = () => {
                         className: cx(
                             'MainFooter',
                         ),
-                        justifyContent: 'spaceBetween',
+                        // justifyContent: 'spaceBetween',
                         gap: 'sm',
                     }}
                 >
