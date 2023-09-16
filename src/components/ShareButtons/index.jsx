@@ -1,8 +1,8 @@
 import React from 'react'
 import cx from 'classnames'
 import Flex from '../Flex'
-import FacebookButton from './ShareButton/FacebookButton'
-import TwitterButton from './ShareButton/TwitterButton'
+// import FacebookButton from './ShareButton/FacebookButton'
+// import TwitterButton from './ShareButton/TwitterButton'
 import CopyUrlButton from './ShareButton/CopyUrlButton'
 import './style'
 
@@ -12,13 +12,14 @@ const ShareButtons = () => (
             className: cx(
                 'ShareButtons',
             ),
+            gap: 'xs',
         }}
     >
         <label {...{ className: 'ShareButtons__label' }}>
             Share this page:
         </label>
-        <FacebookButton />
-        <TwitterButton />
+        {/* <FacebookButton /> */}
+        {/* <TwitterButton /> */}
         <CopyUrlButton />
     </Flex>
 )
