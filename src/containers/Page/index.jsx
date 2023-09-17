@@ -23,11 +23,12 @@ const Page = ({
     const dispatch = useDispatch()
 
     useEffect(() => {
-        const { hash, pathname } = window.location
+        const { hash, search, pathname } = window.location
 
         dispatch(
             updateSelectedPagePath({
                 selectedHash: hash,
+                selectedSearch: search,
                 selectedPagePath: getPathFromWindowLocation(pathname),
             }),
         )

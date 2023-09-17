@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 import { useSelector } from 'react-redux'
 import Flex from '../Flex'
 import BackButton from './BackButton'
-import { mapIsHashedPage } from '../../redux/page/selector'
+import { mapDoShowBackButton } from '../../redux/page/selector'
 import { getLinkId } from '../../utils/format/markdown'
 import './style'
 
@@ -13,7 +13,7 @@ const Heading = ({
     children,
 }) => {
     const
-        showBackButton = useSelector(mapIsHashedPage),
+        showBackButton = useSelector(mapDoShowBackButton),
         Tag = `h${level}`,
         headingElement = (
             <Tag

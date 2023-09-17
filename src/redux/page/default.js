@@ -1,8 +1,10 @@
 export const getPageDefaults = ({
     initialHash,
+    initialSearch,
     initialPage,
 
 }) => ({
-    selectedHash: initialHash,
+    selectedHash: initialHash, // No longer used.
+    selectedSearch: initialSearch,
     selectedPagePath: initialPage,
 })
