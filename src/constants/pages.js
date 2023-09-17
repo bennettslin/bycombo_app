@@ -10,4 +10,6 @@ export const APPLY_PAGE = 'apply'
 export const PARTNERS_PAGE = 'partners'
 export const INDIE_PAGE = 'indie'
 
+export const ID_LINK_KEY = 'idLink'
+
 export const TABBED_PAGES_SET = new Set([])
