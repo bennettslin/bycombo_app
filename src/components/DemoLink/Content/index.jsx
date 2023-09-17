@@ -45,10 +45,10 @@ const DemoLinkContent = ({
                     gap: 'xxs',
                 }}
             >
-                <Heading {...{ level: 2 }}>
+                <Heading noId {...{ level: 2 }}>
                     <i>{getFormattedText(project)}</i>
                 </Heading>
-                <Heading {...{ level: 3 }}>
+                <Heading noId {...{ level: 3 }}>
                     {getFormattedText(band)}
                 </Heading>
                 <Markdown>

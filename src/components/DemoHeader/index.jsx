@@ -51,7 +51,7 @@ const DemoHeader = ({
                     gap: 'xs',
                 }}
             >
-                <Heading {...{ level: 1 }}>
+                <Heading noId {...{ level: 1 }}>
                     <Anchor
                         noVisited
                         {...{
@@ -61,7 +61,7 @@ const DemoHeader = ({
                         <i>{getFormattedText(project)}</i>
                     </Anchor>
                 </Heading>
-                <Heading {...{ level: 2 }}>
+                <Heading noId {...{ level: 2 }}>
                     <Anchor
                         noVisited
                         {...{

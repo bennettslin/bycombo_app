@@ -9,6 +9,7 @@ import { getLinkId } from '../../utils/format/markdown'
 import './style'
 
 const Heading = ({
+    noId,
     level = 1,
     children,
 }) => {
@@ -19,7 +20,7 @@ const Heading = ({
     const
         doShowBackButton = useSelector(mapDoShowBackButton),
         Tag = `h${level}`,
-        linkId = getLinkId(children),
+        linkId = !noId && getLinkId(children),
         headingElement = (
             <Tag
                 {...{
@@ -27,7 +28,7 @@ const Heading = ({
                         'Heading',
                         'font__heading',
                     ),
-                    id: linkId,
+                    ...!noId && { id: linkId },
                 }}
             >
                 {children}
@@ -35,7 +36,7 @@ const Heading = ({
         )
 
     // All h3 headings have a heading button.
-    return level === 3 ? (
+    return !noId && level === 3 ? (
         <Flex
             {...{
                 justifyContent: 'normal',
@@ -49,6 +50,7 @@ const Heading = ({
 }
 
 Heading.propTypes = {
+    noId: PropTypes.bool,
     level: PropTypes.oneOf([1, 2, 3, 4, 5, 6]),
     children: PropTypes.node.isRequired,
 }
