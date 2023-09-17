@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react'
+import PropTypes from 'prop-types'
 import cx from 'classnames'
 import { useSelector } from 'react-redux'
 import ReactTooltip from 'react-tooltip'
@@ -7,12 +8,12 @@ import Svg from '../../../Svg'
 import copyUrl from '../../../../assets/svgs/socialMedia/copyUrl'
 import copyUrlCopied from '../../../../assets/svgs/socialMedia/copyUrlCopied'
 import { mapSelectedPagePath } from '../../../../redux/page/selector'
-import { getUrlFromPath } from '../../../../utils/pages/path'
+import { getUrlFromPathAndLinkId } from '../../../../utils/pages/path'
 import { COPY_URL_KEY } from '../../../../constants/socialMedia'
 
 const TOOLTIP_TEXT = 'link copied!'
 
-const CopyUrlButton = () => {
+const CopyUrlButton = ({ linkId }) => {
     const
         buttonRef = useRef(),
         copiedUrlRef = useRef(),
@@ -29,7 +30,10 @@ const CopyUrlButton = () => {
     }
 
     const handleButtonClick = () => {
-        navigator.clipboard.writeText(getUrlFromPath(selectedPagePath))
+        navigator.clipboard.writeText(getUrlFromPathAndLinkId(
+            selectedPagePath,
+            linkId,
+        ))
 
         clearTimeout(copyTimeoutId)
         setIsCopied(true)
@@ -72,6 +76,10 @@ const CopyUrlButton = () => {
             />
         </ShareButton>
     )
+}
+
+CopyUrlButton.propTypes = {
+    linkId: PropTypes.string,
 }
 
 export default CopyUrlButton

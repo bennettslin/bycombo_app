@@ -12,9 +12,14 @@ const Heading = ({
     level = 1,
     children,
 }) => {
+    if (!children) {
+        return null
+    }
+
     const
         doShowBackButton = useSelector(mapDoShowBackButton),
         Tag = `h${level}`,
+        linkId = getLinkId(children),
         headingElement = (
             <Tag
                 {...{
@@ -22,14 +27,15 @@ const Heading = ({
                         'Heading',
                         'font__heading',
                     ),
-                    id: getLinkId(children),
+                    id: linkId,
                 }}
             >
                 {children}
             </Tag>
         )
 
-    return Boolean(children) && level === 3 ? (
+    // All h3 headings have a heading button.
+    return level === 3 ? (
         <Flex
             {...{
                 justifyContent: 'normal',
@@ -37,7 +43,7 @@ const Heading = ({
             }}
         >
             {headingElement}
-            <HeadingButton {...{ doShowBackButton }} />
+            <HeadingButton {...{ linkId, doShowBackButton }} />
         </Flex>
     ) : headingElement
 }

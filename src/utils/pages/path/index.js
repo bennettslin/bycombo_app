@@ -48,6 +48,10 @@ export const getUrlFromPath = path => {
     return `${DOMAIN_NAME}${getInternalLinkForPath(path)}${finalSlash}`
 }
 
+export const getUrlFromPathAndLinkId = (path, linkId) => (
+    `${getUrlFromPath(path)}${linkId ? `#${linkId}` : ''}`
+)
+
 export const getPathFromWindowLocation = locationPath => (
     locationPath === '/' ? HOME_PAGE : locationPath.replace('/', '')
 )

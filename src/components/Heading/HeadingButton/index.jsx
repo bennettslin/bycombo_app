@@ -8,7 +8,7 @@ import CopyUrlButton from '../../ShareButtons/ShareButton/CopyUrlButton'
 import backLink from '../../../assets/svgs/app/backLink'
 import './style'
 
-const HeadingButton = ({ doShowBackButton }) => {
+const HeadingButton = ({ linkId, doShowBackButton }) => {
     const handleButtonClick = () => {
         navigate(-1)
     }
@@ -30,10 +30,11 @@ const HeadingButton = ({ doShowBackButton }) => {
                 }}
             />
         </Button>
-    ) : <CopyUrlButton />
+    ) : <CopyUrlButton {...{ linkId }} />
 }
 
 HeadingButton.propTypes = {
+    linkId: PropTypes.string,
     doShowBackButton: PropTypes.bool.isRequired,
 }
 
