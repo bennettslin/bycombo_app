@@ -3,7 +3,7 @@ import cx from 'classnames'
 import PropTypes from 'prop-types'
 import { useSelector } from 'react-redux'
 import Flex from '../Flex'
-import BackButton from './BackButton'
+import HeadingButton from './HeadingButton'
 import { mapDoShowBackButton } from '../../redux/page/selector'
 import { getLinkId } from '../../utils/format/markdown'
 import './style'
@@ -13,7 +13,7 @@ const Heading = ({
     children,
 }) => {
     const
-        showBackButton = useSelector(mapDoShowBackButton),
+        doShowBackButton = useSelector(mapDoShowBackButton),
         Tag = `h${level}`,
         headingElement = (
             <Tag
@@ -29,7 +29,7 @@ const Heading = ({
             </Tag>
         )
 
-    return Boolean(children) && showBackButton ? (
+    return Boolean(children) && level === 3 ? (
         <Flex
             {...{
                 justifyContent: 'normal',
@@ -37,7 +37,7 @@ const Heading = ({
             }}
         >
             {headingElement}
-            <BackButton {...{ showBackButton }} />
+            <HeadingButton {...{ doShowBackButton }} />
         </Flex>
     ) : headingElement
 }

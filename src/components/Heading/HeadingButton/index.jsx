@@ -4,20 +4,21 @@ import cx from 'classnames'
 import { navigate } from 'gatsby'
 import Button from '../../Button'
 import Svg from '../../Svg'
+import CopyUrlButton from '../../ShareButtons/ShareButton/CopyUrlButton'
 import backLink from '../../../assets/svgs/app/backLink'
 import './style'
 
-const BackButton = ({ showBackButton }) => {
+const HeadingButton = ({ doShowBackButton }) => {
     const handleButtonClick = () => {
         navigate(-1)
     }
 
-    return showBackButton && (
+    return doShowBackButton ? (
         <Button
             dropShadow
             {...{
                 className: cx(
-                    'BackButton',
+                    'HeadingButton',
                 ),
                 handleButtonClick,
             }}
@@ -29,11 +30,11 @@ const BackButton = ({ showBackButton }) => {
                 }}
             />
         </Button>
-    )
+    ) : <CopyUrlButton />
 }
 
-BackButton.propTypes = {
-    showBackButton: PropTypes.bool.isRequired,
+HeadingButton.propTypes = {
+    doShowBackButton: PropTypes.bool.isRequired,
 }
 
-export default BackButton
+export default HeadingButton
