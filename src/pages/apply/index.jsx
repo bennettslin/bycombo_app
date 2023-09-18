@@ -13,11 +13,19 @@ const Component = () => (
             body: `
 # ${TITLE}
 
+${'  ' || `
+// TODO: Make this more about not caring about fair compensation.
+`}
+
 As an artist, do you sense that everything about rock today is *backward*? Why do the indie gatekeepers force you to waste so much time and energy using their tools? This *can't* be what the public wants, nor what matters to history… Well, you're *not* crazy: The system *is* broken— and here's how we'll fix it!
 
 **To join a BYCombo band, artists must pledge *not* to use indie rock's tools. Instead, they'll earn the trust of future business partners by sacrificing a serious chunk of lifetime to advance the art form.**
 
 ### Who we're looking for
+
+${'  ' || `
+// TODO: Mention administrator.
+`}
 
 Anyone of legal age is welcome to apply. But ideally, you should already have some life experience under your belt! You're also reasonably skilled in one or more of the following roles:
 
@@ -25,7 +33,21 @@ Anyone of legal age is welcome to apply. But ideally, you should already have so
 * A musician of any other stripe: composer, tabla player…
 * An artist of some other medium: dancer, web developer…
 
+### On diversity and inclusion
+
+${'  ' || `
+// TODO: Include international applicants. Maybe move this up. Make this section generally about outreach.
+`}
+
+**Women, minorities, and members of other disadvantaged groups are encouraged to apply!**
+
+As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they crave and thrive on. We also recognize the importance of gender diversity and will strive for an equitable ratio in every band.
+
 ### How you'll form a band
+
+${'  ' || `
+// TODO: Make clear that administrator's hours won't count. Make clear that international applicants don't have to move.
+`}
 
 If we accept you, we'll set you up with prospective bandmates who match your artistic tastes and skill levels.
 
@@ -34,25 +56,19 @@ Upon reviewing each other's links and videos, you'll meet online. If everyone ag
 ### What we'll do for you
 
 ${'  ' || `
-// TODO: Mention partner once partner page is done.
+// TODO: Encourage cross-pollination.
 `}
 
-BYCombo will provide a forum for you and the others in your cohort to befriend each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and collaborate with our bands in the next cohort!
+BYCombo will provide a forum for you and the other bands in your cohort to befriend each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and collaborate with our bands in the next cohort!
 
 Once your demo is complete, we'll add it to our public registry and notify everyone on our mailing list. Over time, each new BYCombo band will raise awareness of our mission, boosting your own chances to get heard. Of course, we're just getting started, so to thank you for your patience during these early years:
 
 **The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project— an album about the life of English biochemist Rosalind Franklin!**
 
-### On diversity and inclusion
-
-**Women, minorities, and members of other disadvantaged groups are encouraged to apply!**
-
-As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they crave and thrive on. We also recognize the importance of gender diversity and will strive for an equitable ratio in every band.
-
 ### How to apply
 
 ${'  ' || `
-// TODO: This needs to be a Google Form instead.
+// TODO: This will be in a Google Form instead.
 `}
 
 Email us the following information, and we'll be in touch:

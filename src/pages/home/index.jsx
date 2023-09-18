@@ -12,6 +12,10 @@ const Component = () => (
             body: `
 # ${TITLE}
 
+${'  ' || `
+// TODO: Make point about fair compensation versus self-sacrifice.
+`}
+
 **BYCombo is a nonprofit incubator of self-sacrificing rock bands. We're here to lead the interdependence revolution— a movement devoted to bringing forth this century's most historically consequential rock music!**
 
 Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative?
