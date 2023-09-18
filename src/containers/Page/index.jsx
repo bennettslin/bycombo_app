@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import cx from 'classnames'
 import { useDispatch } from 'react-redux'
 import PageConfigContext from '../../contexts/PageConfig'
-import BackLink from './BackLink'
+import TopLevelShareRow from './Footer/TopLevelShareRow'
 import StyledPage from './StyledPage'
 import TabbedMenu from './TabbedMenu'
 import Body from './Body'
@@ -50,7 +50,7 @@ const Page = ({
                             alignItems: 'normal',
                         }}
                     >
-                        <BackLink />
+                        <TopLevelShareRow />
                         <TabbedMenu />
                         <Body />
                         <PageFooter />
