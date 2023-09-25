@@ -14,6 +14,10 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
+// TODO: Read article death of the artist.
+`}
+
+${'  ' || `
 // TODO: Make this more about not caring about fair compensation.
 `}
 
