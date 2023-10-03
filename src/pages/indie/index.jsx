@@ -120,7 +120,7 @@ Which is why the most creative artists in history were often backed by those wit
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
-In the past, artists lacked all means to engage with the public in their early years, leaving them free to explore and experiment on their own. But today, indie artists build a fanbase from day one, and so they quickly settle into an optimal approach for gaining fans.
+In the past, artists lacked all means to engage with the public in their early years, leaving them free to explore on their own and experiment at will. But today, indie artists build a fanbase from day one, and so they quickly settle into an optimal approach for gaining fans.
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
@@ -203,6 +203,10 @@ To be interdependent, you need partners who are strong where you're weak, and vi
 So don't be fooled by indie rock's belated embrace of women and minorities: There's still no diversity of *thought*— and there never will be. But BYCombo lets you find partners who think differently… and who'll value *you* for doing the same.
 
 ### Paid dues must now collude
+
+${'  ' || `
+// TODO: Make this about dues payers won't be helpers. Mention Mr. Rogers?
+`}
 
 For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
 
