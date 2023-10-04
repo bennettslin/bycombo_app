@@ -214,9 +214,9 @@ Fourth paragraph also needs work.
 
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for today's gatekeepers: To discover the artists that future audiences will want to *re*-discover, just… think like a future audience.
 
-In the past, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught artists to hustle, and hustlers spend time and energy directly on being known. Which means no one else can simply be made known for any other reason— *especially* by their works alone.
+In the past, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught artists to hustle, and hustlers directly spend time and energy on being known. Which means no one else can simply be made known for any other reason— including by their works alone.
 
-So imagine an artist today who refuses to hustle, and instead doubles down on trying to advance the art form. Do they have a medical excuse, like Daniel Johnston? No, their sole argument is that it's what future audiences would rather see. The indie gatekeepers *won't* sympathize, then— and I know… because the artist I'm describing is myself!
+So imagine an artist today who refuses to hustle, and instead doubles down on trying to advance the art form. Do they have a medical excuse, like Daniel Johnston? No, their sole argument is that it's what future audiences would rather see. Well then, the indie gatekeepers *won't* sympathize— and I know… because the artist I'm describing is myself!
 
 Yet why would future audiences side with past gatekeepers who *didn't* care what they wanted, over past artists who *did*?
 In fact, in this light, they may decide that *all* of indie rock is unworthy of rediscovery! Luckily, BYCombo is here to give them the art they'll want— by thinking how they'll think.
