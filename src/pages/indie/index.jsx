@@ -214,14 +214,14 @@ Fourth paragraph also needs work.
 
 Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for today's gatekeepers: To discover the artists that future audiences will want to *re*-discover, just… think like a future audience.
 
-In the past, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught artists to hustle, and hustlers directly spend time and energy on being known. Which means no one else can simply be made known for any other reason— including by their works alone.
+In the past, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught artists to hustle, and hustlers expend time and energy directly into being known. Which means no one else can simply be made known for any other reason— including by their works alone.
 
 So imagine an artist today who refuses to hustle, and instead doubles down on trying to advance the art form. Do they have a medical excuse, like Daniel Johnston? No, their sole argument is that it's what future audiences would rather see. Well then, the indie gatekeepers *won't* sympathize— and I know… because the artist I'm describing is myself!
 
 Yet why would future audiences side with past gatekeepers who *didn't* care what they wanted, over past artists who *did*?
-In fact, in this light, they may decide that *all* of indie rock is unworthy of rediscovery! Luckily, BYCombo is here to give them the art they'll want— by thinking how they'll think.
+In fact, in this light, they may dismiss *all* of indie rock as unworthy of rediscovery! But BYCombo promises to give them the art they'll want— by thinking how they'll think.
 
-### Dues payers are the worst helpers
+### Dues payers make the worst helpers
 
 ${'  ' || `
 // TODO: Make this more about dues payers being the worst helpers. Helping is the major theme. Maybe keep disruption as a minor theme by repeating it in the last paragraph.
@@ -245,7 +245,7 @@ Perhaps you think these arguments against indie rock are moot. After all, didn't
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and refined by Motown.
 
-Like indie rock, poptimism helps the underdog triumph over any outsiders— even those who work much harder, to be much better. But if the underdog *isn't* the best of their time… then their place in history is assured only as long as they're *always* seen as an underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
+Like indie rock, poptimism lets the underdog triumph over any outsiders— even those who work much harder, to be much better. But if the underdog *isn't* the best of their time… then their place in history is assured only as long as they're *always* seen as an underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. After all, what historical figures from *our* past expect the same [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance) of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to supplant America's original outsiders! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
@@ -257,7 +257,7 @@ At the peak of my years working eighty-hour weeks— forty to earn a living, and
 
 In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszentmihalyi), Mihaly Csikszentmihalyi explains that when an artist has a clear goal; feels adequately challenged; and gets feedback to guide their progress, they become fully immersed in the act of creation— leading to long-term fulfillment. This is why my years of sacrifice were some of my happiest; I *wasn't* slowly killing myself, as my friend had feared.
 
-Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure earned through years of self-reliance might just as well be won by chance, or bought by privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
+Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained through years of self-reliance might just as well be won by chance, or bought by privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
 So yes, BYCombo requires you to focus on your craft. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
 
