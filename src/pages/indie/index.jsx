@@ -160,7 +160,7 @@ So to make history without achieving stardom, ignore the critics! Instead, your 
 
 Every now and then, I'll get over my dislike of social media to see what the indie gatekeepers are saying among themselves. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
-Musk wanted *everyone* to have access to a discerning audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly— and so they promoted the use of online tools that take up just a portion of the artist's day.
+Musk wanted *everyone* to have access to a discerning audience, not just the old guard— and so he made it available for a fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly— and so they promoted the use of online tools that take up a portion of the artist's day.
 
 Yet if greater access to an audience can now be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to value it— and then both yearn to leave for places where honest signaling still happens.
 
@@ -202,21 +202,44 @@ To be interdependent, you need partners who are strong where you're weak, and vi
 
 So don't be fooled by indie rock's belated embrace of women and minorities: There's still no diversity of *thought*— and there never will be. But BYCombo lets you find partners who think differently… and who'll value *you* for doing the same.
 
-### Paid dues must now collude
+### Hustlers lack a theory of future minds
 
 ${'  ' || `
-// TODO: Make this about dues payers won't be helpers. Mention Mr. Rogers?
+// TODO: Keep working on this.
+
+Make sure last sentence flows in second paragraph.
+
+Fourth paragraph also needs work.
 `}
 
-For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I was surprised to hear indie artists speak of paying their dues— to justify, let's say, touring at a loss. In the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But why *don't* the disrupted ever see this?
+Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for today's gatekeepers: To discover the kind of artists that future audiences will want to *re*-discover, just… think like a future audience.
+
+In the past, the major labels did just that: Their talent scouts would instantly sign any band based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught artists to hustle— and because hustlers devote so much time and energy into being known, no one else can ever again be made known, for any other reason.
+
+So imagine an artist today who refuses to hustle and just doubles down on advancing the art form instead. They're not mentally ill like Daniel Johnston; their argument is simply that it's what future audiences would rather see. Well, the indie gatekeepers will forever refuse to sympathize— and I know, because the artist I'm describing is myself!
+
+Yet why would future audiences side with past gatekeepers who *didn't* care what they wanted, over a past artist who *did*?
+In fact, in this light, they may decide that *all* of indie rock is unworthy of rediscovery! So how *will* they find the best art from our times? Why, they can turn to BYCombo— whose entire purpose is to give future audiences what they'll want.
+
+### Dues payers are the worst helpers
+
+${'  ' || `
+// TODO: Make this more about dues payers being the worst helpers. Helping is the major theme. Maybe keep disruption as a minor theme by repeating it in the last paragraph.
+`}
+
+Mr. Rogers. Fixing a broken system?
+
+For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. This shocked me, because in the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But… why *don't* the disrupted see this?
 
 It's because paid dues are worthless outside the one system that honors them— so by nature, any such system breeds loyalty to its rule. In short, you can pay your dues, or you can start a revolution… but never both.
+
+Loyal to the broken system.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
-### Underdog movements are supremacist in effect
+### Underdogs are supremacists in effect
 
 Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and took their sensibilities with them. So poptimism… is the new indie rock!
 
@@ -250,7 +273,7 @@ By contrast, a deep love of the craft can motivate you for a lifetime. After all
 
 It's because we really only pine for past artists who self-sacrificed to advance the art form. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a classic sign of being exploited.
 
-Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this tendency hold the *advantage*— so how are *they* the underdogs?
+Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this mentality hold the *advantage*— so how are *they* the underdogs?
 
 Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation only get settled at the *end*. To save rock, then, we *need* to make way for bands who'll self-sacrifice to advance the art form. In other words, after the Age of Empowerment… comes the Age of Martyrdom.
 
