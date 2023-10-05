@@ -208,13 +208,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for today's gatekeepers: To discover the kind of artists that future audiences will want to *re*-discover, just… think like a [future audience](https://en.wikipedia.org/wiki/Theory_of_mind).
+Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover the artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-In the past, the major labels did just that: Their talent scouts would instantly sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught this generation to hustle, and hustlers actively work to get themselves known. Which means no one else can ever simply be *made* known— *especially* by their works alone.
+In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught this generation to hustle, and hustlers actively work to get themselves known. As a result, the notion no longer exists that anyone can simply deserve to be *made* known.
 
-So imagine an artist today who refuses to hustle, and instead doubles down on trying to make the best art. Do they have a medical excuse, like Daniel Johnston? No, their sole argument is that it's what future audiences would rather see. Well then, the indie gatekeepers *won't* sympathize— and I know… because that artist is me!
+So imagine that, as an artist, you refuse to hustle; instead, you double down on making the best art. Do you have a medical excuse, like Daniel Johnston? No, your sole argument is that it's what future audiences would rather see. Well then… in my experience, the indie gatekeepers *won't* empathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
-Yet why would the *next* generation side with past gatekeepers who didn't care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of today's indie rock! Luckily, BYCombo promises to make *your* art worthy of rediscovery— by letting you think like a future audience.
+Yet why would the next generation side with past gatekeepers who *didn't* care what they'd want, over past artists who *did*? In this light, they might just dismiss *all* of today's indie rock! Luckily, BYCombo promises to make *your* art worthy of rediscovery— by letting you think like a future audience.
 
 ### Dues payers make the worst helpers
 
@@ -232,7 +232,7 @@ It's because paid dues are worthless outside the one system that honors them— 
 
 Loyal to the broken system.
 
-Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. As a result, the only newcomers they'll accept are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
+Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. As such, the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
