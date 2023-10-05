@@ -208,13 +208,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for today's gatekeepers: To discover the artists that future audiences will want to *re*-discover, just… think like a future audience.
+Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for today's gatekeepers: To discover the kind of artists that future audiences will want to *re*-discover, just… think like a future audience.
 
-In the past, the major labels did just that: Their talent scouts would instantly sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught this generation to hustle, and hustlers actively work to get themselves known. Which means no one else can ever again be *made* known— *especially* by their works alone.
+In the past, the major labels did just that: Their talent scouts would instantly sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught this generation to hustle, and hustlers actively work to get themselves known. Which means no one else can ever simply be *made* known— *especially* by their works alone.
 
 So imagine an artist today who refuses to hustle, and instead doubles down on trying to make the best art. Do they have a medical excuse, like Daniel Johnston? No, their sole argument is that it's what future audiences would rather see. Well then, the indie gatekeepers *won't* sympathize— and I know… because that artist is me!
 
-Yet why would the next generation side with past gatekeepers who *didn't* care what they'd want, over past artists who *did*? In this light, they might just dismiss *all* of today's indie rock! Luckily, BYCombo promises to make *your* art worthy of rediscovery— by letting you think the way future audiences will.
+Yet why would the *next* generation side with past gatekeepers who didn't care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of today's indie rock! Luckily, BYCombo promises to make *your* art worthy of rediscovery— by letting you think like a future audience.
 
 ### Dues payers make the worst helpers
 
