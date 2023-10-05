@@ -206,33 +206,31 @@ So don't be fooled by indie rock's belated embrace of women and minorities: Ther
 
 ${'  ' || `
 // TODO: Review a few more times.
+
+Third paragraph, last sentence makes sense?
 `}
 
-Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover the artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
+Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught this generation to hustle, and hustlers actively work to get themselves known. As a result, the notion no longer exists that anyone can simply deserve to be *made* known.
+In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught the current generation to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone can ever be *made* known, simply by deserving it.
 
-So imagine that, as an artist, you refuse to hustle; instead, you double down on making the best art. Do you have a medical excuse, like Daniel Johnston? No, your sole argument is that it's what future audiences would rather see. Well then… in my experience, the indie gatekeepers *won't* empathize. They're loyal to the hustlers— having hustled to get where they are themselves!
+So imagine that you, as an artist, refuse to hustle; instead, you double down on making the best art. Do you have a medical excuse, like Daniel Johnston? No, your sole argument is that it's what future audiences would rather see. Well then… in my experience, the indie gatekeepers *won't* empathize. They're loyal to the hustlers— having hustled as well to get where they are!
 
 Yet why would the next generation side with past gatekeepers who *didn't* care what they'd want, over past artists who *did*? In this light, they might just dismiss *all* of today's indie rock! Luckily, BYCombo promises to make *your* art worthy of rediscovery— by letting you think like a future audience.
 
 ### Dues payers make the worst helpers
 
 ${'  ' || `
-// TODO: Make this more about dues payers being the worst helpers. Helping is the major theme. Maybe keep disruption as a minor theme by repeating it in the last paragraph.
+// TODO: Third paragraph. Talk about being loyal to the broken system. And not wanting to change it.
 `}
 
-Mr. Rogers once told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594). Well, times are bad in rock now… so why aren't there more helpers?
+Mr. Rogers told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594). Well, times are bad in rock now… so why aren't there more helpers? For so long, I would have gladly helped to fix this broken system— but being a nobody, I first needed others to help *me*. Yet even while everyone in indie rock is nice… no one *helps*.
 
-Mr. Rogers. Fixing a broken system?
+So I left the music world, and for many years, I worked days as a coder and nights on my audio webcomic. When I came back, I heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. This surprised me, because in the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't.
 
-For many years, I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. This shocked me, because in the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't. But… why *don't* the disrupted see this?
+And then I understood: Paid dues are worthless outside the one system that honors them— so by nature, any such system breeds loyalty to its rule. In short, you can pay your dues, or you can start a revolution… but never both.
 
-It's because paid dues are worthless outside the one system that honors them— so by nature, any such system breeds loyalty to its rule. In short, you can pay your dues, or you can start a revolution… but never both.
-
-Loyal to the broken system.
-
-Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. As such, the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
+Moreover, once someone has wasted their best years to build up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. As such, the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus perpetuating a [vicious circle](https://www.goodreads.com/quotes/391717).
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first artist to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
