@@ -208,7 +208,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for today's gatekeepers: To discover the kind of artists that future audiences will want to *re*-discover, just… think like a future audience.
+Nick Drake was ignored in his own time— yet the next generation instantly made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for today's gatekeepers: To discover the kind of artists that future audiences will want to *re*-discover, just… think like a [future audience](https://en.wikipedia.org/wiki/Theory_of_mind).
 
 In the past, the major labels did just that: Their talent scouts would instantly sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught this generation to hustle, and hustlers actively work to get themselves known. Which means no one else can ever simply be *made* known— *especially* by their works alone.
 
