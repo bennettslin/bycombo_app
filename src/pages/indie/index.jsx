@@ -205,10 +205,10 @@ So don't be fooled by indie rock's belated embrace of women and minorities: Ther
 ### Hustlers lack a theory of future minds
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review one more time.
 `}
 
-Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
+Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his art. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone can ever be *made* known, simply by deserving it.
 
@@ -222,11 +222,11 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why aren't there more helpers? Especially among the indie camp— the "good guys." Back in the day, I would have gladly helped to fix this broken system— but being a nobody, I needed others to first help *me*. Yet while everyone in indie rock is nice enough… no one *helps*.
+Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why aren't there more helpers? Especially among the indie camp— the "good guys"! Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
 
-So I left the music world, and for the next several years, I worked days as a coder and nights on my audio webcomic. When I came back, I heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. This surprised me, because in the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't.
+So I left the music world, and for the next several years, I worked days as a coder and nights on my audio webcomic. When I came back, I heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. This surprised me, because in the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
-But… now the lack of helpers in rock made perfect sense! If paid dues are worthless outside the one system that honors them, then those who've paid will now vote to keep the system as it is— in all its brokenness.
+But… now the lack of helpers in rock made perfect sense! Because if paid dues are worthless outside the one culture that honors them, then those who pay them will vote to keep the culture as it is— in all its brokenness.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. And so the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717) of brokenness.
 

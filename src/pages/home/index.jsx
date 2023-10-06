@@ -36,7 +36,7 @@ And these tools *aren't* free; they cost time and energy that could be spent mak
 
 Here's the curious part: Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free— if they just build up their talents. For example, Eminem *didn't* have a real fanbase when he was discovered by Dr. Dre; his self-released EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
 
-It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's interdependent way of thinking. I'd rather be an "Eminem of rock" and have a *label* advocate for my band— while having this label, in turn, depend on *us* to make the best art.
+It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's *inter*-dependent way of thinking. I'd rather be an "Eminem of rock" and have a *label* advocate for my band— while having this label, in turn, depend on *us* to make the best art.
 
 By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charitable-support-is-a-winning-advantage), no other artist can hope to compete. Which means the *labels* can only compete by signing indie artists— who work hard *not* to need them. What a mess! And yet the future is clear:
 
@@ -72,7 +72,7 @@ ${'  ' || `
 // TODO: Keep working on this.
 `}
 
-But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: If an artist diverts time and energy away from making art to use indie rock's tools instead, a neutral observer would predict that their art will now be *worse*. So a *way* to revolt against indie rock already exists; the next generation just needs to develop the *will*.
+But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: It requires artists to divert time and energy *away* from making art— which should make their art *worse*! So a *way* to revolt against indie rock already exists; we just need to summon the *will*.
 
 Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— making the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the rock market.
 
