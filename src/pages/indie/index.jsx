@@ -226,7 +226,7 @@ Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/19
 
 So I left the music world, and for the next several years, I worked days as a coder and nights on my audio webcomic. When I came back, I heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. This surprised me, because in the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt industries that don't.
 
-But… now the lack of helpers in rock made perfect sense! If paid dues are worthless outside the one system that honors them, then those who pay them will remain loyal to the system as it stands— in all its brokenness.
+But… now the lack of helpers in rock made perfect sense! If paid dues are worthless outside the one system that honors them, then those who've paid will now vote to keep the system as it is— in all its brokenness.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. And so the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717) of brokenness.
 
