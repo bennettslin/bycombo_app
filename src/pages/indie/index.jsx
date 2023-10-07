@@ -206,6 +206,8 @@ So don't be fooled by indie rock's belated embrace of women and minorities: Ther
 
 ${'  ' || `
 // TODO: Review one more time.
+
+New third paragraph. Mention pick up artists. An earnest attempt to deliver what the other wants, however naive one's understanding. The question isn't whether these techniques work, it's whether the world *wants* them to.
 `}
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
@@ -220,13 +222,17 @@ Yet why would Gen Z— and beyond— side with past gatekeepers who *didn't* car
 
 ${'  ' || `
 // TODO: Review one more time.
+
+First paragraph: Say "As for me" to make flow better?
+
+Second paragraph: Say "I was reminded" that indie artists need to pay their dues?
 `}
 
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why aren't there more helpers? Particularly among the indie camp— the "good guys"! Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
+Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why aren't there more helpers? Especially among the indie camp— the "good guys"! Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
 
 So I left the music world, and for the next several years, I worked days as a coder and nights on my audio webcomic. When I came back, I heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. This surprised me, because in the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
-But… now the lack of helpers in rock made perfect sense! Because if paid dues are worthless outside the one culture that honors them, then those who pay them will vote to keep the culture as it is— in all its brokenness.
+But… now the lack of helpers in rock made perfect sense! Because if paid dues are worthless outside the one culture that honors them, then those who've paid them will vote to keep the culture as it is— in all its brokenness.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. And so the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717) of brokenness.
 
