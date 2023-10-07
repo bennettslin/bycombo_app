@@ -208,9 +208,9 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his art. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
+Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone can ever be *made* known, simply by deserving it.
+In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone could simply be *made* known— even by deserving it.
 
 So imagine that, as an artist, you *refuse* to hustle; instead, you double down on making the best art. Do you have a medical excuse, like Daniel Johnston? No, your sole argument is that it's what future audiences would rather see. Well then… in my experience, the indie gatekeepers *won't* empathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
@@ -219,10 +219,10 @@ Yet why would Gen Z— and beyond— side with past gatekeepers who *didn't* car
 ### Dues payers make the worst helpers
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review one more time.
 `}
 
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why aren't there more helpers? Especially among the indie camp— the "good guys"! Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
+Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why aren't there more helpers? Particularly among the indie camp— the "good guys"! Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
 
 So I left the music world, and for the next several years, I worked days as a coder and nights on my audio webcomic. When I came back, I heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. This surprised me, because in the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
