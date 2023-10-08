@@ -110,7 +110,11 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 ### Creativity gets its chance from the clueless
 
-Because the indie gatekeepers stay close to their local scenes, they're both "in the know" and "one of us." So whatever *they* like is what others like *us* have liked, which means it's the best of what *we'll* like… right? Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+${'  ' || `
+// TODO: Review one more time.
+`}
+
+Because the indie gatekeepers stay close to their local scenes, they're both "in the know" and "one of us." So whatever *they* like is what others like *us* have liked, which means it's the best of what *we'll* like… no? Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -186,9 +190,9 @@ Nick Drake was ignored in his own time— yet the next generation made him known
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone could simply be *made* known— even by deserving it.
 
-Let's imagine that, as a musician devoted to your craft, you *refuse* to hustle; it makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, such approaches get results. But does the world actually *want* them to?
+Let's imagine, then, that as a musician devoted to your craft, you *refuse* to hustle; it makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this kind of approach gets results. But does the world actually *want* it to?
 
-So instead, you strive to be what a future audience— or romantic partner!— *would* want you to be, based on a theory that you revise and refine over time. Which… is also more fun and rewarding for *you*! Who can't empathize? Well, in my experience… the indie gatekeepers can't. They're loyal to the hustlers— having hustled to get where they are themselves!
+So instead, you strive to be what a future audience— or romantic partner!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't empathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
 But why would Gen Z— and beyond— side with past gatekeepers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of today's indie rock! Luckily, BYCombo promises to make *your* art worthy of rediscovery— by letting you think like a future audience.
 
@@ -224,7 +228,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad now in rock… so why is no one helping? Especially from the indie camp— the "good guys"! And me? Well, back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
+Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! And me? Well, back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
 
 So I left the music world, and for the next several years, I worked days as a coder and nights on my audio webcomic. When I came back, I heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. This surprised me; in the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
