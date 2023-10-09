@@ -12,10 +12,6 @@ const Component = () => (
             body: `
 # ${TITLE}
 
-${'  ' || `
-// TODO: Make point about fair compensation versus self-sacrifice.
-`}
-
 **BYCombo is a nonprofit incubator of self-sacrificing rock bands. We're here to lead the interdependence revolution— a movement devoted to bringing forth this century's most historically consequential rock music!**
 
 Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative?
@@ -72,7 +68,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: Its artists are *required* to divert time and energy away from making art— which should predictably lead to *worse* art! So a *way* to revolt against indie rock already exists; we're just waiting for the next generation to find the *will*.
+But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: When a movement *requires* its artists to divert time and energy away from making art— it has no excuse to fall back on if the art turns out *worse*! So a *way* to revolt against indie rock already exists; we're just waiting for the next generation to find the *will*.
 
 Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— which makes the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the rock market.
 
