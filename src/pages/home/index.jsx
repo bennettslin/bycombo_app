@@ -69,12 +69,10 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Keep working on this.
-
-Google best way to phrase "should reasonably be."
+// TODO: Review a few more times.
 `}
 
-But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: Once a movement *requires* its artists to divert time and energy away from making art, it has no excuse if its art ends up being *worse*! So a *way* to revolt against indie rock already exists; we're just waiting on the next generation to summon the *will*.
+But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: Its artists are *required* to divert time and energy away from making art— which should predictably lead to *worse* art! So a *way* to revolt against indie rock already exists; we're just waiting for the next generation to find the *will*.
 
 Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— which makes the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the rock market.
 
