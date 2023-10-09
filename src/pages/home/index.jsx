@@ -68,15 +68,15 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: When a movement *requires* its artists to divert time and energy away from making art— it has no excuse to fall back on if the art turns out *worse*! So a *way* to revolt against indie rock already exists; we're just waiting for the next generation to find the *will*.
+But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: When a movement *requires* its artists to divert time and energy away from making art— it has no excuse to fall back on if the art turns out *worse*! So a *way* to revolt against indie rock already exists; we're just waiting on the next generation to muster the *will*.
 
 Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— which makes the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the rock market.
 
-These "Dr. Dres of rock" would love to discover bands who can promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for an alternative source to willfully *raise* its barriers. And here's where BYCombo comes in!
+These "Dr. Dres of rock" would love to discover bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for an alternative source to *raise* its barriers. And here's where BYCombo comes in!
 
 **Interdependent bands can now earn the listener's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
-Picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the most creative works of our times— only to *still* be dismissed as hobbyists by the indie gatekeepers! They would be this generation's Beatles, Sex Pistols, *and* Shaggs, rolled into one. This, then, is the *final* step to reviving interdependence— the next revolution in rock history!
+Picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the most creative works of our times— only to *still* be dismissed as hobbyists by the indie gatekeepers! They would be the next Beatles *and* Shaggs, rolled into one. So this is the *final* step to reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
