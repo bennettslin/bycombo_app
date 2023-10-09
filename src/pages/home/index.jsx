@@ -30,7 +30,7 @@ And these tools *aren't* free; they cost time and energy that could be spent mak
 
 ### The outsider's dilemma
 
-Here's the curious part: Ever notice that the best rappers *don't* worry about empowerment? It comes to them for free— if they just build up their talents. For example, Eminem *didn't* have a real fanbase when he was discovered by Dr. Dre; his self-released EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
+Here's the curious part: Ever notice that the best rappers *don't* worry about self-empowerment? It comes to them for free— if they just build up enough talents. For example, Eminem *didn't* have a fanbase when he was discovered by Dr. Dre; his self-released EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
 
 It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's *inter*-dependent way of thinking. I'd rather be an "Eminem of rock" and have a *label* advocate for my band— while having this label, in turn, depend on *us* to make the best art.
 
@@ -68,7 +68,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: When a movement *requires* its artists to divert time and energy away from making art— it has no excuse to fall back on if the art turns out *worse*! So a *way* to revolt against indie rock already exists; we're just waiting on the next generation to muster the *will*.
+But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: When a movement *requires* its artists to divert time and energy away from making art— it has no excuse to fall back on if the art turns out *worse*! So a *way* to revolt against indie rock already exists; we're just waiting on the next generation to have the *will*.
 
 Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— which makes the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the rock market.
 
