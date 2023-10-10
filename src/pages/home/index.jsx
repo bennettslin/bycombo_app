@@ -68,7 +68,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: When a movement *requires* its artists to divert time and energy away from making art— it has no excuse to fall back on if the art turns out *worse*! So a *way* to revolt against indie rock already exists; we're just waiting on the next generation to have the *will*.
+But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: When a movement *requires* its artists to divert time and energy away from making art— it has no excuse to fall back on if the art proves to be *worse*! So a *way* to revolt against indie rock already exists; we're just waiting on the next generation to have the *will*.
 
 Sure enough, Gen Z now sees what the *older* generations see: Indie rock is their hair metal— which makes the *next* revolution their grunge! And this is the first step to reviving interdependence from the outside, because it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the rock market.
 

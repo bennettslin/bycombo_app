@@ -114,7 +114,7 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-Because the indie gatekeepers stay close to their local scenes, they're both "in the know" and "one of us." Whatever *they* like, then, is what others like *us* have liked— and so we assume it's the best of what *we'll* like… Yet according to science, it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+Because the indie gatekeepers stay close to their local scenes, they're both "in the know" and "one of us." Whatever *they* like, then, is what others like *us* have liked— and so we assume it's the best of what *we'll* like. Yet according to science… it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -224,7 +224,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! And as for me? Back in the day, I would have gladly helped to fix this broken culture— but as a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
+Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
 
 So I left the music world, and for the next several years, I worked days as a coder and nights on my audio webcomic. When I came back, I heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. This surprised me; in the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
