@@ -29,7 +29,7 @@ Anyone of legal age is welcome to apply. You're also reasonably skilled in one o
 
 **Women, minorities, and other disadvantaged groups:**
 
-As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they crave and thrive on. We also believe in the importance of gender diversity and will strive for an equitable ratio in every band.
+As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they crave and thrive on. We'll also strive for an equitable gender ratio in every band.
 
 **International applicants:**
 
