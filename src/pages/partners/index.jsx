@@ -16,7 +16,7 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Get rid of this page altogether.
+// TODO: Mention administrator, and reasoning. Might need to be its own section.
 `}
 
 BYCombo is here for every music fan and budding entrepreneur who's grown tired of indie rock's low barriers to entry. We'll earn your trust by enforcing a steep *cost* of entry:

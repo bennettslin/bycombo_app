@@ -15,15 +15,11 @@ const Component = () => (
 
 As an artist, do you sense that everything about rock today is *backward*? Why do the indie gatekeepers force you to waste so much time and energy caring about self-empowerment and fair compensation? These benefits should just come for free, once you've built up enough talents. Well, you're *not* crazy: The culture *is* broken— and here's how we'll fix it!
 
-**To join a BYCombo band, artists must pledge *not* to use indie rock's tools. Instead, they'll earn the trust of future business partners by sacrificing a serious chunk of lifetime to advance the art form.**
+**To join BYCombo as an artist, you must pledge *not* to use indie rock's tools. Instead, your band will work with business partners, whose trust you'll earn by sacrificing a serious chunk of lifetime to advance the art form.**
 
 ### Who we're looking for
 
-${'  ' || `
-// TODO: Mention administrator, and reasoning. Might need to be its own section.
-`}
-
-Anyone of legal age is welcome to apply. But ideally, you should already have some life experience under your belt! You're also reasonably skilled in one or more of the following roles:
+Anyone of legal age is welcome to apply. You're also reasonably skilled in one or more of the following roles:
 
 * A rock musician: singer, guitarist, drummer…
 * A musician of any other stripe: composer, tabla player…
@@ -31,23 +27,23 @@ Anyone of legal age is welcome to apply. But ideally, you should already have so
 
 ### On diversity and inclusion
 
-${'  ' || `
-// TODO: Include international applicants. Maybe move this up. Make this section generally about outreach.
-`}
+**Women, minorities, and other disadvantaged groups:**
 
-**Women, minorities, and members of other disadvantaged groups are encouraged to apply!**
+As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they crave and thrive on. We also believe in the importance of gender diversity and will strive for an equitable ratio in every band.
 
-As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they crave and thrive on. We also recognize the importance of gender diversity and will strive for an equitable ratio in every band.
+**International applicants:**
+
+BYCombo welcomes your unique perspectives and talents! While we're unable to sponsor you for a U.S. visa at this time, you'll join a community of multinational bands who'll work together to find common solutions to the same challenges.
 
 ### How you'll form a band
 
+If we accept you, we'll set you up with prospective bandmates who match your artistic tastes and skill levels. Upon reviewing each other's links and videos, you'll meet online.
+
+Once everyone agrees to form a band, the U.S. residents among you will move to the same city. This will be Los Angeles for our pilot cohort, as we'd like to regularly meet with you in person. After settling in, each of you will then put in enough time on your band project for the sum total to be at least 25,000 hours.
+
 ${'  ' || `
-// TODO: Make clear that administrator's hours won't count. Make clear that international applicants don't have to move.
+// TODO: Mention admin role.
 `}
-
-If we accept you, we'll set you up with prospective bandmates who match your artistic tastes and skill levels.
-
-Upon reviewing each other's links and videos, you'll meet online. If everyone agrees to form a band, you'll all relocate to Los Angeles or another major city of your band's choosing. Once settled in, each of you will put in enough time on your band project for the sum total to be at least 25,000 hours.
 
 ### What we'll do for you
 
@@ -55,9 +51,11 @@ ${'  ' || `
 // TODO: Encourage cross-pollination.
 `}
 
-BYCombo will provide a forum for you and the other bands in your cohort to befriend each other, and we'll periodically advise you on your band project. We also encourage every alum to pay it forward and collaborate with our bands in the next cohort!
+BYCombo will advise you on your band project, and we'll provide a forum for all the bands in your cohort to support each other. We also encourage alums to pay it forward and work with our bands in the next cohort!
 
-Once your demo is complete, we'll add it to our public registry and notify everyone on our mailing list. Over time, each new BYCombo band will raise awareness of our mission, boosting your own chances to get heard. Of course, we're just getting started, so to thank you for your patience during these early years:
+Once your demo is complete, we'll add it to our public registry and include it in the latest newsletter. Over time, each BYCombo band will raise awareness of our mission, boosting your own chances to get heard.
+
+Of course, we're still just getting started, so to thank you for your patience during these early years:
 
 **The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project— an album about the life of English biochemist Rosalind Franklin!**
 
