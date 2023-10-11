@@ -15,7 +15,7 @@ const Component = () => (
 
 As an artist, do you sense that everything about rock today is *backward*? Why do the indie gatekeepers force you to waste so much time and energy caring about self-empowerment and fair compensation? These benefits should just come for free, once you've built up enough talents. Well, you're *not* crazy: The culture *is* broken— and here's how we'll fix it!
 
-**To join BYCombo as an artist, you must pledge *not* to use indie rock's tools. Instead, your band will work with business partners, whose trust you'll earn by sacrificing a serious chunk of lifetime to advance the art form.**
+**To join BYCombo as an artist, you must pledge *not* to use indie rock's tools. Instead, your band will gain exposure through partners, whose trust you'll earn by sacrificing a serious chunk of lifetime to advance the art form.**
 
 ### Who we're looking for
 
@@ -27,19 +27,25 @@ Anyone of legal age is welcome to apply. You're also reasonably skilled in one o
 
 ### On diversity and inclusion
 
+${'  ' || `
+// TODO: Move inclusive statement upfront. Mention doing things differently, and how BYCombo bands won't look like traditional bands.
+`}
+
+BYCombo welcomes your unique perspectives and talents!
+
 **Women, minorities, and other disadvantaged groups:**
 
 As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they crave and thrive on. We'll also strive for an equitable gender ratio in every band.
 
 **International applicants:**
 
-BYCombo welcomes your unique perspectives and talents! While we're unable to sponsor you for a U.S. visa at this time, you'll join a community of multinational bands who'll work together to find common solutions to the same challenges.
+While we're unable to sponsor you for a U.S. visa at this time, you'll join a community of multinational bands who'll work together to find common solutions to the same challenges.
 
 ### How you'll form a band
 
-If we accept you, we'll set you up with prospective bandmates who match your artistic tastes and skill levels. Upon reviewing each other's links and videos, you'll meet online.
+If we accept you, we'll set you up with three or four prospective bandmates who match your artistic tastes and skill levels. Upon reviewing each other's links and videos, you'll meet online.
 
-Once everyone agrees to form a band, the U.S. residents among you will move to the same city. This will be Los Angeles for our pilot cohort, as we'd like to regularly meet with you in person. After settling in, each of you will then put in enough time on your band project for the sum total to be at least 25,000 hours.
+Once everyone agrees to form a band, the U.S. residents among you will move to the same city. This will be Los Angeles for our pilot cohort, as we'd like to meet with you in person. After settling in, each of you will then put in enough time on your band project for the sum total to be 25,000 hours.
 
 ${'  ' || `
 // TODO: Mention admin role.
