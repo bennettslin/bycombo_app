@@ -91,14 +91,14 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 ### Timeless works have anonymous appeal
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review one more time.
 `}
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by composing chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But they weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to sidestep the radio market by winning over *critics*, who favor context that can be discussed at length— such as the artist's identity— over ineffable qualities like a well-crafted hook. So to this day, an acclaimed indie artist is one whom many critics praise— but few musicians study.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to sidestep the radio market by winning over *critics*, who favor context that can be discussed at length— such as the artist's identity— over ineffable qualities like a well-crafted hook. So to this day, the most acclaimed indie artists are praised by many critics— but studied by few musicians.
 
 Yet no one cares what past critics thought, while the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
@@ -177,7 +177,7 @@ Places like… BYCombo! Because what can be a more honest signal of your worth, 
 ### Competitive self-reliance favors privilege
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review one more time.
 `}
 
 To promote self-reliance, indie rock requires artists to do the middleman's job for themselves. But a wealthy artist can just pay *others* to do it… and, well, who better to hire than a former middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
