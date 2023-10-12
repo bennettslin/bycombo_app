@@ -46,7 +46,7 @@ With so many ways left to innovate in this space, there most certainly *are* can
 
 **Why interdependent partners?**
 
-To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in business matters like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent— not *indie*-pendent; they *need* to work with partners.
+To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in business matters like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent— not *indie*-pendent; they *need* to work with a partner.
 
 **Why demos?**
 
@@ -132,7 +132,7 @@ In the past, artists lacked all means to engage with the public in their early y
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
+Revolutions may *start* with artists, but they're *spread* by partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
 
 ### The grassroots is now a lottery
 
@@ -196,7 +196,7 @@ Yet despite the poor fit, indie rock sure is eager of late to hand over its rein
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to rely on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
+Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to rely on partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
 
 ### Hustlers lack a theory of future minds
 
@@ -220,7 +220,7 @@ So don't be fooled by indie rock's belated embrace of women and minorities: Ther
 
 ### Interdependence guards against prejudice
 
-Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the 50s and announce: "Artists, your success now rests solely upon building a fanbase on your own. A business partner can no longer help you!"
+Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the 50s and announce: "Artists, your success now rests solely upon building a fanbase on your own. A partner can no longer help you!"
 
 Every Black artist would stare glumly at us. Why? Because back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the 50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
