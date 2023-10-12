@@ -15,7 +15,7 @@ const Component = () => (
                 `
 # ${TITLE}
 
-**To earn the listener's trust, each band in our public registry sacrificed a serious chunk of lifetime— 25,000 hours, or twelve full-time years— to make a demo that advances the art form.**
+**To earn the trust of partners and listeners alike, each band in our public registry sacrificed a serious chunk of lifetime— 25,000 hours, or twelve full-time years— to make a demo that advances the art form.**
 
 But remember, we require our bands *not* to care about fair compensation— which means the indie gatekeepers will dismiss them as hobbyists! So if rock is to be saved, we need *others* to tell the world about them. Can one of these rock saviors… be you?
 

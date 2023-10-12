@@ -18,6 +18,10 @@ Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I'v
 
 There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life coming up with a plan:
 
+${'  ' || `
+// TODO: Mention partners here as well.
+`}
+
 **BYCombo will assemble interdependent bands who'll sacrifice serious chunks of lifetime to make historically consequential demos, which we'll then show in a public registry to sustain an alternative counterculture.**
 
 ### The revolution will not be decentralized
@@ -40,7 +44,7 @@ What if musicians hoping to form history-making bands could flock to a single hu
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
-**Why interdependence?**
+**Why partners in interdependence?**
 
 To make consequential art, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in areas of administration like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent. They *need* a label, or some other business partner.
 
@@ -84,13 +88,17 @@ Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by worki
 
 Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll try to *fix* the damage we caused— much like we topple Confederate statues today. So why be a charity case *and* a villain? With BYCombo, you can make history the *right* way.
 
-### Timeless works have intrinsic appeal
+### Timeless works have anonymous appeal
 
-To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by composing chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to reach their level. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
+${'  ' || `
+// TODO: Review a few more times.
+`}
 
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But the labels weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
+To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by composing chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to reach listeners by first winning over *critics*— and the best did this by putting out works rich in *non*-musical context, often centered on the artist's identity. So today, even with radio in decline, an acclaimed indie artist is one whom many critics praise— but few musicians study.
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But they weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
+
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to reach listeners by first winning over *critics*, who tend to favor context that can be discussed at length— such as the artist's identity— over qualities that can't— like a well-crafted hook. So to this day, an acclaimed indie artist is one whom many critics praise— but few musicians study.
 
 Yet no one cares what past critics thought, while the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
@@ -215,10 +223,6 @@ Every Black artist would stare glumly at us. Why? Because back then, they *neede
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the 50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
 ### Dues payers make the worst helpers
-
-${'  ' || `
-// TODO: Review one more time.
-`}
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while most everyone in indie rock is nice… no one *helps*.
 
