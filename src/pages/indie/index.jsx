@@ -34,7 +34,7 @@ A counterculture is needed to protect dangerous ideas, yet we haven't had one fo
 
 **Why historical relevance?**
 
-Critical acclaim can be inflated, and so it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted into the canon— and *this* is why people gripe that rock is getting worse.
+Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted into the canon— and *this* is why people gripe that rock is getting worse.
 
 **Why assembled bands?**
 
@@ -46,7 +46,7 @@ With so many ways left to innovate in this space, there most certainly *are* can
 
 **Why interdependent partners?**
 
-To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in business matters like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent— not *indie*-pendent; they *need* to work with a partner.
+To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in business matters like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent— not *indie*-pendent.
 
 **Why demos?**
 
