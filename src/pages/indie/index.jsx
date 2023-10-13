@@ -19,16 +19,16 @@ Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I'v
 There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life coming up with a plan:
 
 ${'  ' || `
-// TODO: Review a few more times. Public registry still needs work.
+// TODO: Review a few more times. Especially public registry part. Maybe add like-minded.
 `}
 
-**BYCombo will assemble bands who'll sacrifice serious chunks of lifetime to make historically relevant demos, which they'll show in a public registry to find partners within a pro-interdependence counterculture.**
+**BYCombo will start an anti-indie counterculture… by assembling bands… who'll sacrifice serious chunks of lifetime… to make historically relevant demos… which they'll then show in a public registry… to find partners in interdependence.**
 
 ### The revolution will not be decentralized
 
 Okay, that's a mouthful! Let's break it down…
 
-**Why a counterculture?**
+**Why an anti-indie counterculture?**
 
 A counterculture is needed to protect dangerous ideas, yet there hasn't been one for some time. Meanwhile, despite indie rock's good intentions, music is now worse. But what if music is worse… *because* of these good intentions? What if all this charitable support for *artists*… is actually bad for the *arts*? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
@@ -44,9 +44,9 @@ What if musicians hoping to form history-making bands could flock to a single hu
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
-**Why interdependent partners?**
+**Why partners in interdependence?**
 
-To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in business matters like marketing and distribution, where *partners* can be more efficient. That is to say, they need to be *inter*-dependent— not *indie*-pendent; they *need* to work with a partner.
+To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in business matters like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent— not *indie*-pendent; they *need* to work with a partner.
 
 **Why demos?**
 
@@ -54,13 +54,13 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to join a counterculture that *questions* indie rock's good intentions— and a public registry is how they'll find a partner who feels the same.
+It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to work with a partner who *questions* indie rock's good intentions— and a public registry is how they'll find each other.
 
 **Why serious chunks of lifetime?**
 
 Low [barriers to entry](https://en.wikipedia.org/wiki/Barriers_to_entry) have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature. To save rock, then, a centralized initiative like BYCombo must now step up to enforce a steep *cost* of entry.
 
-This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice that can earn the trust of partners and listeners alike.
+This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you really have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to earn the trust of partners and listeners alike.
 
 **And finally… how has indie rock made music worse?**
 
