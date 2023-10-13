@@ -22,7 +22,7 @@ ${'  ' || `
 // TODO: Review a few more times. Especially public registry part. Maybe add like-minded.
 `}
 
-**BYCombo will start an anti-indie counterculture… by assembling bands… who'll sacrifice serious chunks of lifetime… to make historically relevant demos… which they'll then show in a public registry… to find partners in interdependence.**
+**BYCombo will start an anti-indie counterculture… by assembling bands… who'll sacrifice serious chunks of lifetime… to make historically relevant demos… which they'll show in a public registry… to attract partners in interdependence.**
 
 ### The revolution will not be decentralized
 
@@ -89,10 +89,6 @@ Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by worki
 Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll try to *fix* the damage we caused— much like we topple Confederate statues today. So why be a charity case *and* a villain? With BYCombo, you can make history the *right* way.
 
 ### Timeless works have anonymous appeal
-
-${'  ' || `
-// TODO: Review one more time.
-`}
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by composing chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
@@ -175,10 +171,6 @@ Yet if greater access to an audience can now be bought— with money, or with ti
 Places like… BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
 ### Competitive self-reliance favors privilege
-
-${'  ' || `
-// TODO: Review one more time.
-`}
 
 To promote self-reliance, indie rock requires artists to do the middleman's job for themselves. But a wealthy artist can just pay *others* to do it… and, well, who better to hire than a former middleman gone freelance?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
