@@ -44,7 +44,7 @@ What if musicians hoping to form history-making bands could flock to a single hu
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
-**Why partners in interdependence?**
+**Why interdependent partners?**
 
 To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in business matters like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent— not *indie*-pendent; they *need* to work with a partner.
 
@@ -54,7 +54,7 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to work with a partner who *questions* indie rock's good intentions— and a public registry is how they'll find each other.
+It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to work with a like-minded partner who also questions indie rock's good intentions— and a public registry is how they'll find each other.
 
 **Why serious chunks of lifetime?**
 
@@ -98,7 +98,7 @@ To get radio airplay in the 90s, alternative bands had to win over listeners who
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But they weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to sidestep the radio market by appealing to *critics*. And critics favor context that can be discussed at length— such as the artist's identity— over ineffable qualities like a well-crafted hook. So to this day, they'll eagerly sign an artist praised by many critics— but studied by few musicians.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to *critics*. And critics favor context that can be discussed at length— such as the artist's identity— over ineffable qualities like a well-crafted hook. So to this day, an acclaimed indie artist is one who's praised by many critics— but studied by few musicians.
 
 Yet no one cares what past critics thought, while the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
@@ -168,7 +168,7 @@ So to make history without achieving stardom, ignore the critics! Instead, your 
 
 Every now and then, I'll get over my dislike of social media to see what the indie gatekeepers are saying among themselves. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
-Musk wanted *everyone* to have access to a discerning audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly— and so they promoted the use of online tools that cost just a portion of the artist's day.
+Musk wanted *everyone* to have access to a discerning audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly— and so they promoted the use of online tools that cost "just" a portion of the artist's day.
 
 Yet if greater access to an audience can now be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to value it— and then both yearn to leave for places where honest signaling still happens.
 
@@ -180,7 +180,7 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-To promote self-reliance, indie rock requires artists to do the middleman's job for themselves. But a wealthy artist can just pay *others* to do it… and, well, who better to hire than a former middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
+To promote self-reliance, indie rock requires artists to do the middleman's job for themselves. But a wealthy artist can just pay *others* to do it… and, well, who better to hire than a former middleman gone freelance?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
 To understand the problem, let's first observe that indie rock enjoys the goodwill generated by artistic movements of *cooperative* self-reliance— such as the [Maker Faire](https://en.wikipedia.org/wiki/Maker_Faire)— that are united by love of the *craft*. Now, this *would* be fitting— if indie artists simply made music for their *own* fulfillment.
 
