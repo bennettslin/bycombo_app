@@ -4,7 +4,7 @@ import Page from '../../containers/Page'
 import bobtailYearlings from '../../content/registry/2023/bobtail-yearlings/yearlings-bobtail'
 
 const TITLE = `Return of the rock martyrs… and *saviors*!`
-const DESCRIPTION = `A public registry of self-sacrificing rock bands.`
+const DESCRIPTION = `A public registry of interdependent rock bands.`
 
 const Component = () => (
     <Page

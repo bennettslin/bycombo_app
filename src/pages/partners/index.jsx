@@ -3,7 +3,7 @@ import MailingList from '../../components/MailingList'
 import Page from '../../containers/Page'
 
 const TITLE = `Back the interdependence revolution!`
-const DESCRIPTION = `Build partnerships with self-sacrificing rock bands!`
+const DESCRIPTION = `Build partnerships with interdependent rock bands!`
 
 const Component = () => (
     <Page
