@@ -19,7 +19,7 @@ Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I'v
 There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life coming up with a plan:
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review a few more times. Use the word "counter" in public registry?
 `}
 
 **BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically relevant demos, which they'll show in a public registry to find partners from within a pro-interdependence counterculture.**
@@ -54,7 +54,7 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to work with a partner who sees the pitfalls of indie rock's good intentions— and a public registry is where they'll find each other.
+It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to work with a partner who *opposes* indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
 
