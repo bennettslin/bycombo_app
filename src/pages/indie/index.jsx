@@ -19,16 +19,16 @@ Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I'v
 There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life coming up with a plan:
 
 ${'  ' || `
-// TODO: Review a few more times. Public registry section still isn't great.
+// TODO: Review a few more times.
 `}
 
-**BYCombo will start an anti-indie counterculture… by assembling bands… who'll sacrifice serious chunks of lifetime… to make historically relevant demos… which they'll then show in a public registry… to find partners in interdependence.**
+**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically relevant demos, which they'll show in a public registry to find partners from within a pro-interdependence counterculture.**
 
 ### The revolution will not be decentralized
 
 Okay, that's a mouthful! Let's break it down…
 
-**Why an anti-indie counterculture?**
+**Why a counterculture?**
 
 A counterculture is needed to protect dangerous ideas, yet there hasn't been one for some time. Meanwhile, despite indie rock's good intentions, music is now worse. But what if music is worse… *because* of these good intentions? What if all this charitable support for *artists*… is actually bad for the *arts*? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
@@ -44,7 +44,7 @@ What if musicians hoping to form history-making bands could flock to a single hu
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
-**Why interdependent partners?**
+**Why interdependence?**
 
 To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in business matters like marketing and distribution, where *partners* can be more efficient. That is to say, they need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a partner.
 
@@ -54,7 +54,7 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to partner with those who seek to undo the damage caused by indie rock's good intentions— and a public registry is where they'll find each other.
+It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to work with a partner who sees the pitfalls of indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
 
@@ -196,7 +196,7 @@ Nick Drake was ignored in his own time— yet the next generation made him known
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone could ever be *made* known, simply by deserving it.
 
-Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. It makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this kind of approach gets results— but does the world actually *want* it to?
+Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. It makes you feel awful, like dating as a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this kind of approach gets results— but does the world actually *want* it to?
 
 So instead, you strive to be what a future audience— or romantic partner!— would *want* you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't empathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
