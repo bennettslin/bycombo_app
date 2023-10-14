@@ -46,7 +46,7 @@ With so many ways left to innovate in this space, there most certainly *are* can
 
 **Why interdependent partners?**
 
-To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in business matters like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent— not *indie*-pendent; they *need* to work with a partner.
+To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in business matters like marketing and distribution, where *partners* can be more efficient. That is to say, they need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a partner.
 
 **Why demos?**
 
@@ -54,7 +54,7 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to find a partner from within the anti-indie counterculture— and a public registry is where they'll all know to meet.
+It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to find like-minded partners from within the anti-indie counterculture— and a public registry is where these partners will know to hear about them.
 
 **Why serious chunks of lifetime?**
 
