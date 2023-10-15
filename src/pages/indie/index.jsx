@@ -22,7 +22,7 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically relevant demos, which they'll show in a public registry to find partners within a pro-interdependence counterculture.**
+**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically relevant demos, which they'll then show in a public registry to find partners from a pro-interdependence counterculture.**
 
 ### The revolution will not be decentralized
 
@@ -46,7 +46,7 @@ With so many ways left to innovate in this space, there most certainly *are* can
 
 **Why interdependence?**
 
-To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in business matters like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a partner.
+To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a partner.
 
 **Why demos?**
 
