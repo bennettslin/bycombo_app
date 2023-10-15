@@ -15,7 +15,7 @@ const Component = () => (
 
 As an artist, do you sense that everything about rock today is *backward*? Why do the indie gatekeepers force you to waste so much time and energy caring about self-empowerment and fair compensation? These benefits should just come for free, once you've built up enough talents. Well, you're *not* crazy: The culture *is* broken— and here's how we'll fix it!
 
-**To join BYCombo, artists must pledge *not* to use indie rock's tools. Instead, their band will gain exposure through a partner, whose trust they'll earn by sacrificing a serious chunk of lifetime to advance the art form.**
+**To join BYCombo, artists must pledge *not* to use indie rock's tools. Instead, their band will gain exposure through *partners*, whose trust they'll earn by sacrificing a serious chunk of lifetime to advance the art form.**
 
 ### Who we're looking for
 
