@@ -18,10 +18,6 @@ Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I'v
 
 There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life coming up with a plan:
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
 **BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically relevant demos, which they'll then show in a public registry to find partners from a pro-interdependence counterculture.**
 
 ### The revolution will not be decentralized
@@ -254,11 +250,7 @@ So yes, BYCombo requires you to focus on your craft. But this isn't *just* to ma
 
 ### Longevity is the last frontier
 
-${'  ' || `
-// TODO: Review a few more times.
-`}
-
-The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with the best bands— which means there's an entire frontier left for rock to explore! Unfortunately… indie rock isn't up for this task: Hustling requires a youthful spirit, so every indie artist eventually burns out.
+The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with the best bands— which means there's an entire frontier left for rock to explore! Unfortunately… the indie camp isn't cut out for this job: Hustling requires a youthful outlook, so every indie artist eventually burns out.
 
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
 
