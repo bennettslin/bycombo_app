@@ -19,10 +19,10 @@ Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I'v
 There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life coming up with a plan:
 
 ${'  ' || `
-// TODO: Review a few more times. Use the word "counter" in public registry?
+// TODO: Review one more time.
 `}
 
-**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically relevant demos, which they'll show in a public registry to find partners from within a pro-interdependence counterculture.**
+**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically relevant demos, which they'll show in a public registry to find partners within a pro-interdependence counterculture.**
 
 ### The revolution will not be decentralized
 
@@ -46,7 +46,7 @@ With so many ways left to innovate in this space, there most certainly *are* can
 
 **Why interdependence?**
 
-To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in business matters like marketing and distribution, where *partners* can be more efficient. That is to say, they need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a partner.
+To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in business matters like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a partner.
 
 **Why demos?**
 
@@ -54,7 +54,7 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to work with a partner who *opposes* indie rock's good intentions— and a public registry is where they'll find each other.
+It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to partner with those who *oppose* indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
 
@@ -110,7 +110,7 @@ In a world of charitable support, then, the smart choice is obvious. But… what
 
 Indie artists need to wear several hats: the marketer hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
 
-These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking! So keep your artist hat on, and have a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
+These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, [multitasking](https://en.wikipedia.org/wiki/Human_multitasking)! So keep your artist hat on, and have a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
 ### Creativity gets its chance from the clueless
 
