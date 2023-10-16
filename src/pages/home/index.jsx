@@ -16,9 +16,11 @@ ${'  ' || `
 // TODO: Mention partners here.
 
 BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically relevant demos, which they'll then show in a public registry to find partners from a pro-interdependence counterculture.
+
+**BYCombo is a nonprofit assembler of interdependent rock bands. We're here to lead the interdependence revolution— a movement devoted to bringing forth this century's most historically consequential rock music!**
 `}
 
-**BYCombo is a nonprofit incubator of interdependent rock bands. We're here to lead the interdependence revolution— a movement devoted to bringing forth this century's most historically consequential rock music!**
+**BYCombo will bring forth this century's most historically consequential rock music by assembling bands and helping them to find partners in interdependence.**
 
 Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative?
 
