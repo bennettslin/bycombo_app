@@ -200,10 +200,6 @@ But why would Gen Z— and beyond— side with past gatekeepers who *didn't* car
 
 ### Independence breeds homogeneity
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
 Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but I'm a hobbyist. Eventually, I began to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it all clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in different ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
@@ -253,10 +249,6 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 So yes, BYCombo requires you to focus on your craft. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
 
 ### Longevity is the last frontier
-
-${'  ' || `
-// TODO: Review one more time.
-`}
 
 The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's a whole frontier left to explore! Unfortunately… the indie camp isn't cut out for this job: Hustling requires a youthful outlook, so every indie artist eventually burns out.
 
