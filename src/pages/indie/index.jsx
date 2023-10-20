@@ -86,13 +86,17 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 
 ### Timeless works have anonymous appeal
 
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
 To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by composing chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But they weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to *critics*. And critics favor context that can be discussed at length— such as the artist's identity— over ineffable qualities like a well-crafted hook. So to this day, an acclaimed indie artist is one who's praised by many critics— but studied by few musicians.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to critics and local fans. And critics prefer context that can be discussed at length, while local fans— or online fans, these days— want to connect with the artist as a person. So both are drawn more to an artist's identity than to a well-crafted hook.
 
-Yet no one cares what past critics thought, while the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
+Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
 ### The opportunity cost is too damn high
 
