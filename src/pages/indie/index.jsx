@@ -87,14 +87,14 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 ### Timeless works have anonymous appeal
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review one more time.
 `}
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by composing chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But they weren't interested… and in time I figured out why: Indie rock has no conception of music as a *craft*.
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). They weren't interested, though… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to critics and local fans. And critics prefer context that can be discussed at length, while local fans— or online fans, these days— want to connect with the artist as a person. So both are drawn more to an artist's identity than to a well-crafted hook.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to critics and local fans. But critics prefer context that can be discussed at length, and local fans— or these days, online fans— like to connect with the artist as a person. So both, in their own way, are drawn more to an artist's identity than to well-crafted hooks.
 
 Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
@@ -218,18 +218,6 @@ Every Black artist would stare glumly at us. Why? Because back then, they *neede
 
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the 50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
-### Dues payers make the worst helpers
-
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while most everyone in indie rock is nice… no one *helps*.
-
-So I left the music world, and for the next several years, I worked days as a coder and nights on my audio webcomic. When I came back, I heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. This surprised me; in the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
-
-But… now the lack of helpers in rock made perfect sense! Because if paid dues are worthless outside the one culture that honors them, then of *course* those who've paid them will keep the culture as it is— in all its brokenness.
-
-Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. And so the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717) of brokenness.
-
-Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
-
 ### Underdogs are supremacists in effect
 
 Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and took their sensibilities with them. So poptimism… is the new indie rock!
@@ -241,6 +229,18 @@ Like indie rock, poptimism lets the underdog triumph over any outsiders— even 
 This… *can't* be a viable way to make history. After all, what historical figures from *our* past expect the same [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance) of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to supplant America's original outsiders! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
 And yet there will always be another underdog movement— because to be seen as an underdog is a privilege, and the privileged have ways to benefit themselves. So BYCombo is here to ensure that outsiders— the ones most likely to make history!— will still have a fighting chance.
+
+### Dues payers make lousy helpers
+
+Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while most everyone in indie rock is nice… no one *helps*.
+
+So I left the music world, and for the next several years, I worked days as a coder and nights on my audio webcomic. When I came back, I heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. This surprised me; in the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
+
+But… now the lack of helpers in rock made perfect sense! Because if paid dues are worthless outside the one culture that honors them, then of *course* those who've paid them will keep the culture as it is— in all its brokenness.
+
+Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. And so the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717) of brokenness.
+
+Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
 ### Happiness flows from the act of creation
 
