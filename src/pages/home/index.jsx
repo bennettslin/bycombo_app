@@ -13,7 +13,7 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review one more time.
 `}
 
 **As a nonprofit, BYCombo will bring forth this century's most historically consequential rock bands! We'll do so by assembling each band ourselves, and then exposing them to interdependent partners.**
