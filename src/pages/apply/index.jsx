@@ -13,11 +13,15 @@ const Component = () => (
             body: `
 # ${TITLE}
 
-As an artist, do you sense that everything about rock today is *backward*? Why do the indie gatekeepers force you to waste so much time and energy caring about self-empowerment and fair compensation? These benefits should just come for free, once you've built up enough talents. Well, you're *not* crazy: The culture *is* broken— and here's how we'll fix it!
+As an artist, do you sense that everything about rock today is *backward*? Why do the indie gatekeepers force you to waste so much time and energy caring about fair compensation and self-empowerment? These benefits should just come for free, once you've built up enough talents. Well, you're *not* crazy: The culture *is* broken— and here's how we'll fix it!
 
 **To join BYCombo as an artist, you must pledge *not* to use indie rock's tools. Instead, your band will gain exposure through *partners*, whose trust you'll earn by sacrificing a serious chunk of lifetime to advance the art form.**
 
 ### Who we're looking for
+
+${'  ' || `
+// TODO: Sacrifice a serious chunk of lifetime.
+`}
 
 Anyone of legal age is welcome to apply. You're also reasonably skilled in one or more of the following roles:
 
