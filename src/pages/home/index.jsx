@@ -16,7 +16,7 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-**As a nonprofit, BYCombo will bring forth this century's most historically consequential rock bands! We'll do so by assembling each band ourselves, and then exposing them to interdependent partners.**
+**As a nonprofit, BYCombo will bring forth this century's most historically consequential rock bands! We'll do so by assembling each band ourselves and then exposing them to interdependent partners.**
 
 Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative?
 
