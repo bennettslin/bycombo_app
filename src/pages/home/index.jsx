@@ -13,14 +13,10 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Mention partners here.
-
-BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically relevant demos, which they'll then show in a public registry to find partners from a pro-interdependence counterculture.
-
-**BYCombo is a nonprofit assembler of interdependent rock bands. We're here to lead the interdependence revolution— a movement devoted to bringing forth this century's most historically consequential rock music!**
+// TODO: Review a few more times.
 `}
 
-**BYCombo is a nonprofit dedicated to bringing forth this century's most historically consequential rock bands! We'll do so by assembling these bands ourselves and then exposing them to partners in interdependence.**
+**As a nonprofit, BYCombo will bring forth this century's most historically consequential rock bands! We'll do so by assembling each band ourselves, and then exposing them to interdependent partners.**
 
 Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative?
 
@@ -28,7 +24,7 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com)! 
 
 ### Tools… are *rules*
 
-Indie rock roots for the underdog, and so its mission is to lower the barriers to entry for artists. As such, it provides them with tools of empowerment— social media analytics, streaming platform algorithms, and so forth— that allow them to bypass the labels and build a fanbase on their own.
+Indie rock roots for the underdog, and so it seeks to lower the barriers to entry for artists. As such, it provides them with tools of empowerment— social media analytics, streaming platform algorithms, and so forth— that allow them to bypass the labels and build a fanbase on their own.
 
 Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their main purpose is to punish any holdouts. But wait… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
@@ -48,7 +44,7 @@ By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then m
 
 ### Return of the rock martyrs
 
-And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, all art is now *subjective*; talent predicts nothing. Which means an indie label's *only* trusted measure is the concrete size of an artist's fanbase. Good grief… Can we fix this mess?
+And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, all art is now *subjective*; talent predicts nothing. Which means an indie label's only trusted measure is the *objective* size of an artist's fanbase. Good grief… Can we fix this mess?
 
 Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the worst. It picks "serious" artists over "casual" ones— in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will force us to dismiss *all* our best artists as hobbyists! Here's how it works:
 

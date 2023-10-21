@@ -40,7 +40,7 @@ What if musicians hoping to form history-making bands could flock to a single hu
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
-**Why interdependence?**
+**Why interdependent partners?**
 
 To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a partner.
 
@@ -94,7 +94,7 @@ To get radio airplay in the 90s, alternative bands had to win over listeners who
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). They weren't interested, though… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to critics and local fans. But critics prefer context that can be discussed at length, and local fans— or these days, online fans— like to connect with the artist as a person. So both, in their own way, are drawn more to an artist's identity than to well-crafted hooks.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to critics and local fans. But critics prefer context that can be discussed at length, and local fans— or these days, online fans— like to connect with the artist as a person. So both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
 
 Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 

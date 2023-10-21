@@ -27,11 +27,7 @@ Anyone of legal age is welcome to apply. You're also reasonably skilled in one o
 
 ### On diversity and inclusion
 
-${'  ' || `
-// TODO: Move inclusive statement upfront. Mention doing things differently, and how BYCombo bands won't look like traditional bands.
-`}
-
-BYCombo welcomes your unique perspectives and talents!
+BYCombo believes in having representation from all groups, and we welcome artists with valuable and unique talents from across the globe!
 
 **Women, minorities, and other disadvantaged groups:**
 
