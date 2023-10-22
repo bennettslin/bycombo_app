@@ -224,6 +224,10 @@ Like indie rock, poptimism lets the underdog triumph over any outsiders— even 
 
 This… *can't* be a viable way to make history. After all, what historical figures from *our* past expect the same [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance) of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to supplant America's original outsiders! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
+${'  ' || `
+// TODO: Maybe work on this again.
+`}
+
 And yet there will always be another underdog movement— because to be seen as an underdog is a privilege, and the privileged have ways to benefit themselves. So BYCombo is here to ensure that outsiders— the ones most likely to make history!— will still have a fighting chance.
 
 ### Dues payers make lousy helpers
@@ -250,7 +254,7 @@ So yes, BYCombo requires you to focus on your craft. But this isn't *just* to ma
 
 ### Longevity is the last frontier
 
-The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's a whole frontier left to explore! Unfortunately… the indie camp isn't cut out for this job: Hustling requires a youthful outlook, so every indie artist eventually burns out.
+The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's a whole frontier left to explore! Unfortunately… the indie camp isn't cut out for this job: Hustling requires a youthful outlook, so every indie artist is guaranteed to burn out.
 
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
 
@@ -263,6 +267,10 @@ It's because we really only pine for past artists who self-sacrificed to advance
 Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how are *they* the underdogs?
 
 Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation only get settled at the *end*. To save rock, then, we *need* to make way for bands who'll self-sacrifice to advance the art form. In other words, after the Age of Empowerment… comes the Age of Martyrdom.
+
+${'  ' || `
+// TODO: Specify to advance the art form.
+`}
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. Can we imagine this generation's Nirvana being an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then BYCombo is here to give us the next Nirvana *now*!
 `,

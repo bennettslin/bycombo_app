@@ -19,10 +19,6 @@ As an artist, do you sense that everything about rock today is *backward*? Why d
 
 ### Who we're looking for
 
-${'  ' || `
-// TODO: Sacrifice a serious chunk of lifetime.
-`}
-
 Anyone of legal age is welcome to apply. You're also reasonably skilled in one or more of the following roles:
 
 * A rock musician: singer, guitarist, drummer…
@@ -33,9 +29,9 @@ Anyone of legal age is welcome to apply. You're also reasonably skilled in one o
 
 BYCombo believes in having representation from all groups, and we welcome artists with valuable and unique talents from across the globe!
 
-**Women, minorities, and other disadvantaged groups:**
+**Women and other disadvantaged groups:**
 
-As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they crave and thrive on. We'll also strive for an equitable gender ratio in every band.
+As a rock movement started by a minority, BYCombo was conceived to give disadvantaged artists the interdependence they crave and thrive on. We'll also strive for an equitable gender ratio in every band.
 
 **International artists:**
 
@@ -53,13 +49,13 @@ ${'  ' || `
 
 ### What we'll do for you
 
-${'  ' || `
-// TODO: Encourage cross-pollination.
-`}
-
 BYCombo will advise you on your band project, and we'll provide a forum for all the bands in your cohort to support each other. We also encourage alums to pay it forward and work with our bands in the next cohort!
 
 Once your demo is complete, we'll add it to our public registry and include it in the latest newsletter. Over time, each BYCombo band will raise awareness of our mission, boosting your own chances to get heard.
+
+${'  ' || `
+// TODO: Mention that you'll have priority to choose new applicants for future bandmates. Encourage cross-pollination.
+`}
 
 Of course, we're still just getting started, so to thank you for your patience during these early years:
 
