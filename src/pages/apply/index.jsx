@@ -27,7 +27,7 @@ Anyone of legal age is welcome to apply. You're also reasonably skilled in one o
 
 ### On diversity and inclusion
 
-BYCombo believes in having representation from all groups, and we welcome artists with valuable and unique talents from across the globe!
+BYCombo seeks to have representation from all groups, and we welcome artists with valuable and unique talents from across the globe!
 
 **Women and other disadvantaged groups:**
 
@@ -39,7 +39,7 @@ While we're unable to sponsor you for a U.S. visa at this time, you'll join a co
 
 ### How you'll form a band
 
-If we accept you, we'll set you up with three or four prospective bandmates who match your artistic tastes and skill levels. Upon reviewing each other's links and videos, you'll meet online.
+We'll select each applicant based on their talents, creative ideas, and how we perceive their character. If we accept you, we'll set you up with three or four prospective bandmates who match your artistic tastes and skill levels. Upon reviewing each other's links and videos, you'll meet online.
 
 Once everyone agrees to form a band, the U.S. residents among you will move to the same city. This will be Los Angeles for our pilot cohort, as we'd like to meet with you in person. After settling in, each of you will then put in enough time on your band project for the sum total to be 25,000 hours.
 
@@ -47,17 +47,13 @@ ${'  ' || `
 // TODO: Mention admin role.
 `}
 
-### What we'll do for you
+### A lifetime of band projects
 
-BYCombo will advise you on your band project, and we'll provide a forum for all the bands in your cohort to support each other. We also encourage alums to pay it forward and work with our bands in the next cohort!
+BYCombo will advise you on your band project, and we'll provide a forum for the bands in your cohort to support each other. Once your demo is complete, we'll expose you to potential partners by adding it to our public registry and including it in the latest newsletter. As an alum, you'll then have a chance to pay it forward and work with our bands in the next cohort.
 
-Once your demo is complete, we'll add it to our public registry and include it in the latest newsletter. Over time, each BYCombo band will raise awareness of our mission, boosting your own chances to get heard.
+And for your next band project, we'll ask you to set the bar even higher! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another band if it's a better fit, or to hop from one band to the next if you're so inclined. Remember, all BYCombo bands are family!
 
-${'  ' || `
-// TODO: Mention that you'll have priority to choose new applicants for future bandmates. Encourage cross-pollination.
-`}
-
-Of course, we're still just getting started, so to thank you for your patience during these early years:
+Of course, we're just getting started, so to thank you for your patience during these early years:
 
 **The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project— an album about the life of English biochemist Rosalind Franklin!**
 
