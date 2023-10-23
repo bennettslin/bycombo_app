@@ -51,9 +51,9 @@ ${'  ' || `
 
 BYCombo will advise you on your band project, and we'll provide a forum for the bands in your cohort to support each other. Once your demo is complete, we'll expose you to potential partners by adding it to our public registry and including it in the latest newsletter. As an alum, you'll also have a chance to pay it forward and work with our bands in the next cohort.
 
-And for your next band project, we want you to set the bar even higher! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another band if it's a better fit, or to hop from one band to the next if you're so inclined. Remember, all BYCombo bands are family!
+And for your next band project, we want you to set the bar even higher! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. At this point, we also encourage you to join another band if it's a better fit, or if their project interests you. Ultimately, cross-pollination benefits everyone!
 
-Of course, we're just getting started, so to thank you for your patience during these early years:
+Of course, BYCombo is just getting started, so to thank you for your patience during these early years:
 
 **The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project— an album about the life of English biochemist Rosalind Franklin!**
 
