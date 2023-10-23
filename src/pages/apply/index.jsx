@@ -49,9 +49,9 @@ ${'  ' || `
 
 ### A lifetime of band projects
 
-BYCombo will advise you on your band project, and we'll provide a forum for the bands in your cohort to support each other. Once your demo is complete, we'll expose you to potential partners by adding it to our public registry and including it in the latest newsletter. As an alum, you'll then have a chance to pay it forward and work with our bands in the next cohort.
+BYCombo will advise you on your band project, and we'll provide a forum for the bands in your cohort to support each other. Once your demo is complete, we'll expose you to potential partners by adding it to our public registry and including it in the latest newsletter. As an alum, you'll also have a chance to pay it forward and work with our bands in the next cohort.
 
-And for your next band project, we'll ask you to set the bar even higher! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another band if it's a better fit, or to hop from one band to the next if you're so inclined. Remember, all BYCombo bands are family!
+And for your next band project, we want you to set the bar even higher! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another band if it's a better fit, or to hop from one band to the next if you're so inclined. Remember, all BYCombo bands are family!
 
 Of course, we're just getting started, so to thank you for your patience during these early years:
 
@@ -75,7 +75,7 @@ Email us the following information, and we'll be in touch:
 
 If you're co-applying with one or more bandmates, send a single email with each person's information.
 
-And remember, as a nonprofit, BYCombo will *never* charge fees or take a cut of your earnings. If *you're* ready to join the interdependence revolution, then *we're* here to serve you!
+And remember, as a nonprofit, BYCombo will *never* charge fees or take a cut of your earnings. If *you're* ready to self-sacrifice to advance the art form, then *we're* here to serve you!
             `,
         }}
     />

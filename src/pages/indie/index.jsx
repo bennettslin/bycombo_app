@@ -120,7 +120,7 @@ Which is why the most creative artists in history were often backed by those wit
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
-In the past, artists lacked all means to engage with the public in their early years, leaving them free to explore on their own and experiment at will. But today, indie artists build a fanbase from day one, and so they quickly settle into an optimal approach for gaining fans.
+In the past, artists lacked all means to engage with the public in their early years, leaving them free to explore on their own and experiment at will. But today, indie artists build a fanbase from day one, and so they prematurely settle into an optimal approach for gaining fans.
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
@@ -200,7 +200,7 @@ But why would Gen Z— and beyond— side with past gatekeepers who *didn't* car
 
 ### Independence breeds homogeneity
 
-Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but I'm a hobbyist. Over time I came to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it all clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
+Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but I'm a hobbyist. Over time I came to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it finally clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in different ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
