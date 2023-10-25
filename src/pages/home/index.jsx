@@ -12,7 +12,7 @@ const Component = () => (
             body: `
 # ${TITLE}
 
-**As a nonprofit, BYCombo will bring forth this century's most historically consequential rock bands! We'll do so by assembling each band ourselves and then exposing them to potential partners in interdependence.**
+**As a nonprofit, BYCombo will bring forth this century's most consequential rock bands! To start this interdependence revolution, we'll assemble each band ourselves and then expose them to business partners.**
 
 Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative?
 
@@ -70,7 +70,7 @@ Sure enough, Gen Z now sees what the *older* generations see: Indie rock is thei
 
 These "Dr. Dres of rock" would love to partner with bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for an alternative source to *raise* its barriers. And here's where BYCombo comes in!
 
-**Interdependent bands can now earn a partner's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
+**Interdependent bands can now earn a business partner's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
 So picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the most creative works of our times. This is the *final* step to reviving interdependence— the next revolution in rock history!
             `,

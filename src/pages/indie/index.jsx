@@ -18,7 +18,7 @@ Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I'v
 
 There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life coming up with a plan:
 
-**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically relevant demos, which they'll then show in a public registry to find partners from a pro-interdependence counterculture.**
+**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically relevant demos, which they'll show in our public registry to find business partners from a pro-interdependence counterculture.**
 
 ### The revolution will not be decentralized
 
@@ -42,7 +42,7 @@ With so many ways left to innovate in this space, there most certainly *are* can
 
 **Why interdependent partners?**
 
-To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a partner.
+To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a business partner.
 
 **Why demos?**
 
@@ -56,7 +56,7 @@ It takes time to review an ambitious demo— but the indie labels won't put in t
 
 Low [barriers to entry](https://en.wikipedia.org/wiki/Barriers_to_entry) have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature. To save rock, then, a centralized initiative like BYCombo must now step up to enforce a steep *cost* of entry.
 
-This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you really have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to earn the trust of partners and listeners alike.
+This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you really have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to earn the trust of business partners and listeners alike.
 
 **And finally… how has indie rock made music worse?**
 
@@ -124,7 +124,7 @@ In the past, artists lacked all means to engage with the public in their early y
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
-Revolutions may *start* with artists, but they're *spread* by partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
 
 ### The grassroots is now a lottery
 
@@ -184,7 +184,7 @@ Yet despite the poor fit, indie rock sure is eager of late to hand over its rein
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to rely on partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar just won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
+Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to rely on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
 
 ### Hustlers lack a theory of future minds
 
@@ -204,11 +204,11 @@ Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my 
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in different ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
-So don't be fooled by indie rock's belated embrace of women and minorities: There's still no diversity of *thought*— and there never will be. But BYCombo lets you find partners who think differently… and who'll value *you* for doing the same.
+So don't be fooled by indie rock's belated embrace of women and minorities: There's still no diversity of *thought*— and there never will be. But BYCombo lets you find business partners who think differently… and who'll value *you* for doing the same.
 
 ### Interdependence guards against prejudice
 
-Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the 50s and announce: "Artists, your success now rests solely upon building a fanbase on your own. A partner can no longer help you!"
+Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the 50s and announce: "Artists, your success now rests solely upon building a fanbase on your own. A business partner can no longer help you!"
 
 Every Black artist would stare glumly at us. Why? Because back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the 50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 

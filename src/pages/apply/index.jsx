@@ -15,7 +15,7 @@ const Component = () => (
 
 As an artist, do you sense that everything about rock today is *backward*? Why do the indie gatekeepers force you to waste so much time and energy caring about fair compensation and self-empowerment? These benefits should just come for free, once you've built up enough talents. Well, you're *not* crazy: The culture *is* broken— and here's how we'll fix it!
 
-**To join BYCombo as an artist, you must pledge *not* to use indie rock's tools. Instead, your band will gain exposure through *partners*, whose trust you'll earn by sacrificing a serious chunk of lifetime to advance the art form.**
+**To join BYCombo as an artist, you must pledge *not* to use indie rock's tools. Instead, your band will gain exposure through business partners, whose trust you'll earn by sacrificing a serious chunk of lifetime.**
 
 ### Who we're looking for
 
@@ -43,13 +43,15 @@ We'll select each applicant based on their talents, creative ideas, and how we p
 
 Once everyone agrees to form a band, the U.S. residents among you will move to the same city. This will be Los Angeles for our pilot cohort, as we'd like to meet with you in person. After settling in, each of you will then put in enough time on your band project for the sum total to be 25,000 hours.
 
+Every BYCombo band will be able to opt in to experiment with a new model in which partner will be an active member of your band.
+
 ${'  ' || `
 // TODO: Mention admin role.
 `}
 
 ### A lifetime of band projects
 
-BYCombo will advise you on your band project, and we'll provide a forum for the bands in your cohort to support each other. Once your demo is complete, we'll expose you to potential partners by adding it to our public registry and including it in the latest newsletter. As an alum, you'll also have a chance to pay it forward and work with our bands in the next cohort.
+BYCombo will advise you on your band project, and we'll provide a forum for the bands in your cohort to support each other. Once your demo is complete, we'll expose you to business partners by adding it to our public registry and including it in the latest newsletter. As an alum, you'll also have a chance to pay it forward and work with our bands in the next cohort.
 
 And for your next band project, we want you to set the bar even higher! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. At this point, we also encourage you to join another band if it's a better fit, or if their project interests you. Ultimately, cross-pollination benefits everyone!
 
