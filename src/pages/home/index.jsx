@@ -2,7 +2,7 @@ import React from 'react'
 import Page from '../../containers/Page'
 
 const TITLE = `The BYCombo mission`
-const DESCRIPTION = `We're here to lead the interdependence revolution!`
+const DESCRIPTION = `BYCombo is here to lead the interdependence revolution!`
 
 const Component = () => (
     <Page
@@ -12,7 +12,11 @@ const Component = () => (
             body: `
 # ${TITLE}
 
-**As a nonprofit, BYCombo will bring forth this century's most consequential rock bands! To start this interdependence revolution, we'll assemble each band ourselves and then expose them to business partners.**
+${'  ' || `
+// TODO: Review one more time.
+`}
+
+**As a nonprofit, BYCombo is dedicated to bringing forth this century's most consequential rock bands! Our plan is to assemble each band ourselves and then expose them to interdependent-minded business partners.**
 
 Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative?
 
