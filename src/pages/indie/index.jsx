@@ -226,6 +226,16 @@ This… *can't* be a viable way to make history. After all, what historical figu
 
 And yet there will always be another underdog movement— because to be seen as an underdog is a privilege, and the privileged have ways to benefit themselves. So BYCombo is here to ensure that outsiders— the ones most likely to make history!— will still have a fighting chance.
 
+${'  ' || `
+// TODO: New section for barriers to entry?
+
+Yes, indie rock is an underdog movement, but it did exactly what outsider movements like punk and hip hop did: lower the barriers to entry by valuing things that are easy and accessible.
+
+But punk and hip hop were lifestyles and aesthetics at their core. So while their founders initially lowered the barriers to entry for themselves, these genres were able to organically reassert a cost of entry that's difficult but fair. Nirvana and Nas.
+
+By contrast, indie rock is a system at its core, whose ideology is to lower the barriers to entry. As such, it's incapable of organically erecting its own cost of entry.
+`}
+
 ### Dues payers make lousy helpers
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while most everyone in indie rock is nice… no one *helps*.
