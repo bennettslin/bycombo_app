@@ -12,10 +12,6 @@ const Component = () => (
             body: `
 # ${TITLE}
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
 **As a nonprofit, BYCombo is dedicated to bringing forth this century's most consequential rock bands! Our plan is to assemble each band ourselves and then expose them to interdependent-minded business partners.**
 
 Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative?
