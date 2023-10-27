@@ -43,17 +43,13 @@ We'll select each applicant based on their talents, creative ideas, and how we p
 
 Once everyone agrees to form a band, the U.S. residents among you will move to the same city. This will be Los Angeles for our pilot cohort, as we'd like to meet with you in person. After settling in, each of you will then put in enough time on your band project for the sum total to be 25,000 hours.
 
-Every BYCombo band will be able to opt in to experiment with a new model in which partner will be an active member of your band.
-
-${'  ' || `
-// TODO: Mention admin role.
-`}
+As part of our pilot cohort, you'll have a chance to opt into our "business partner as bandmate" [experiment](/partners#business-partners-as-bandmates), which matches you with a budding entrepreneur who'll then join your band as a full-fledged member. If this kind of arrangement proves to be feasible, we'll offer it to future cohorts.
 
 ### A lifetime of band projects
 
 BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. Once your demo is complete, we'll expose you to business partners by adding it to our public registry and including it in our latest newsletter. As an alum, you'll also have a chance to pay it forward and work with the next cohort.
 
-And for your next band project, we want you to set the bar even higher! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. At this point, we also encourage you to join another band if that's a better fit for you. Remember, cross-pollination benefits everyone!
+And for your next band project, we want you to set the bar even higher! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another BYCombo band if that's a better fit for you. Remember, cross-pollination benefits everyone, and we're all one big family!
 
 Of course, BYCombo is just getting started, so to thank you for your patience during these early years:
 

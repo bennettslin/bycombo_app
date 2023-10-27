@@ -2,7 +2,7 @@ import React from 'react'
 import MailingList from '../../components/MailingList'
 import Page from '../../containers/Page'
 
-const TITLE = `Back the interdependence revolution!`
+const TITLE = `Partner with our history-making bands!`
 const DESCRIPTION = `Build partnerships with interdependent rock bands!`
 
 const Component = () => (
@@ -29,7 +29,7 @@ If you'd like to be notified when a new demo is added to our public registry, pl
                     <MailingList isWide />
                 ),
                 `
-### Business partners as bandmates
+### Business partners as bandmates?
 
 If you'd like to work for BYCombo in a paid administrative role, let us know what you have in mind. We're happy to get all the help we can!
 
