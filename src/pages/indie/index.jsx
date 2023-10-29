@@ -50,13 +50,13 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to partner with those who see the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
+It takes time to review an ambitious demo— but the indie labels won't put in this effort, since *any* artist they sign will be charitably supported just the same. So an interdependent band's best bet is to partner with those who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
 
 Low [barriers to entry](https://en.wikipedia.org/wiki/Barriers_to_entry) have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature. To save rock, then, a centralized initiative like BYCombo must now step up to enforce a steep *cost* of entry.
 
-This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you really have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to earn the trust of business partners and listeners alike.
+This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you truly have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to earn the trust of business partners and listeners alike.
 
 **And finally… how has indie rock made music worse?**
 
@@ -76,7 +76,7 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ### Charitable support is a supreme advantage
 
-As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even the ones who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the damage didn't stop there.
+As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even those who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the damage didn't stop there.
 
 Unlike an arts organization, fans don't need to have rigorous standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— is noble on its own and thus can't be scrutinized. But then… this *isn't* just a leg up, is it? It's a supreme advantage! So indie rock set off an arms race, where even superstars now compete to be seen as underdogs.
 
@@ -86,11 +86,15 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 
 ### Timeless works have anonymous appeal
 
+${'  ' || `
+// TODO: Review one more time.
+`}
+
 To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by composing chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). They weren't interested, though… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to critics and local fans. But critics want context that can be discussed at length, and local fans— or these days, online fans— like to connect with the artist as a person. So both, in their own way, are drawn more to an artist's identity than to well-crafted hooks.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to critics and local fans. And critics want context that can be discussed at length, while local fans— or these days, online fans— like to engage with the artist as a person. So both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
 
 Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
