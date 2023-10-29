@@ -94,7 +94,7 @@ To get radio airplay in the 90s, alternative bands had to win over listeners who
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). They weren't interested, though… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to critics and local fans. And critics want context that can be discussed at length, while local fans— or these days, online fans— like to engage with the artist as a person. So both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to critics and local fans. But critics want context that can be discussed at length, and local fans— or these days, online fans— like to engage with the artist as a person. So both, in their own way, are drawn more to an artist's identity than to well-crafted hooks.
 
 Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
@@ -192,11 +192,15 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 ### Hustlers lack a theory of future minds
 
+${'  ' || `
+// TODO: Review one more time.
+`}
+
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone could ever be *made* known, simply by deserving it.
 
-Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. It makes you feel awful, like dating as a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this kind of approach gets results— but does the world actually *want* it to?
+Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. It makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. After all, forming [parasocial bonds](https://en.wikipedia.org/wiki/Parasocial_interaction) with online fans is like [negging](https://en.wikipedia.org/wiki/Negging) a potential date: Yes, this kind of approach works— but does the world actually *want* it to?
 
 So instead, you strive to be what a future audience— or romantic partner!— would *want* you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't empathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
