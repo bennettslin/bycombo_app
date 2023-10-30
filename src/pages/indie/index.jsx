@@ -12,7 +12,11 @@ const Component = () => (
             body: `
 # ${TITLE}
 
-By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana or Radiohead, and then wrote off the rest as failed bets. By contrast, the indie labels kept with fair practices that promised *all* their artists a working future. A decade later, the majors imploded— so indie rock won! Except now…
+${'  ' || `
+// TODO: Review a few more times. Maybe mention the Internet?
+`}
+
+By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana or Radiohead, and then wrote off the rest as failed bets. By contrast, the indie labels held to fair practices for *all* their artists. A decade later, the majors imploded— allowing indie rock's values to become the mainstream! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -85,10 +89,6 @@ Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by worki
 Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll try to *fix* the damage we caused— much like we topple Confederate statues today. So why be a charity case *and* a villain? With BYCombo, you can make history the *right* way.
 
 ### Timeless works have anonymous appeal
-
-${'  ' || `
-// TODO: Review one more time.
-`}
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by composing chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
@@ -200,7 +200,7 @@ Nick Drake was ignored in his own time— yet the next generation made him known
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone could ever be *made* known, simply by deserving it.
 
-Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. It makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. After all, forming [parasocial bonds](https://en.wikipedia.org/wiki/Parasocial_interaction) with online fans is like [negging](https://en.wikipedia.org/wiki/Negging) a potential date: Yes, this kind of approach works— but does the world actually *want* it to?
+Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. It makes you feel awful, like dating as a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this kind of approach works— but does the world actually *want* it to?
 
 So instead, you strive to be what a future audience— or romantic partner!— would *want* you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't empathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
