@@ -13,10 +13,10 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Make point that Big Tech took over the industry, vindicating the indie labels by embracing their model of empowering artists.
 `}
 
-By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana or Radiohead, and then wrote off the rest as failed bets. By contrast, the indie labels held to fair practices for *all* their artists. A decade later, the majors imploded— causing the entire *industry* to adopt indie rock's values! Except now…
+By the 90s, the major labels no longer invested in their bands. They simply counted on a few superstars to break out, like Nirvana or Radiohead, and then wrote off the rest as failed bets. By contrast, the indie labels held to fair practices for *all* their artists. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -136,7 +136,7 @@ We all respect those [80s indie bands](https://www.littlebrown.com/titles/michae
 
 In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
 
-Yet this is as it should be— if the sole concern is to see artists chosen by the people, not by the elite! Because what are machine-learning algorithms, if not the new word of mouth? The grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
+Yet this is as it should be— if the sole concern is to see artists chosen by the people, not by the elite! Because what are [machine learning](https://en.wikipedia.org/wiki/Machine_learning) algorithms, if not the new word of mouth? The grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
 
 It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to a new elite!
 
