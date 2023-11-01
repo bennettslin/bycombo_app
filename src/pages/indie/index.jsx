@@ -122,6 +122,10 @@ Which is why the most creative artists in history were often backed by those wit
 
 ### Modest standing leads to risk aversion
 
+${'  ' || `
+// TODO: Make it clear that they're settling on what they *think* is an optimal approach.
+`}
+
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
 In the past, artists lacked all means to engage with the public in their early years, leaving them free to explore on their own and experiment at will. But today, indie artists are empowered to build a fanbase from day one— and so they prematurely settle into an optimal approach for gaining fans.
@@ -192,11 +196,15 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 ### Hustlers lack a theory of future minds
 
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone could ever be *made* known, simply by deserving it.
 
-Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. It makes you feel awful, like dating as a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Sure, you *could* build [parasocial bonds](https://exiledfan.substack.com/about) with online fans to benefit from their free labor. Like [negging](https://en.wikipedia.org/wiki/Negging), this approach works— but does the world actually *want* it to?
+Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. Forming [parasocial bonds](https://exiledfan.substack.com/about) with online fans? To benefit from their free labor? The thought makes you feel awful, like dating as a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this kind of approach works— but does the world actually *want* it to?
 
 So instead, you strive to be what a future audience— or romantic partner!— would *want* you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't empathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
