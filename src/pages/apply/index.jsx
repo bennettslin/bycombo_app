@@ -14,7 +14,7 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review one more time.
 `}
 
 As an artist, do you sense that everything about rock today is *backward*? Why do the indie gatekeepers force you to waste so much time and energy caring about fair compensation and self-empowerment? These benefits should just come for free, once you've built up enough talents. Well, you're *not* crazy: The culture *is* broken— and here's how we'll fix it!
@@ -23,7 +23,7 @@ As an artist, do you sense that everything about rock today is *backward*? Why d
 
 ### Who we're looking for
 
-Are you willing to join an assembled band in which all members get equal credit and royalties? Are you able to devote at least thirty hours a week to your band project? If so, and you're of legal age, then apply to BYCombo! We're looking for those who are reasonably skilled in one or more of the following roles:
+Are you willing to join an assembled band whose members get equal credit and royalties? Are you able to devote at least thirty hours each week to your band project? If so, we're looking for those who are reasonably skilled in one or more of the following roles:
 
 * A rock musician: singer, guitarist, drummer…
 * A musician of any other stripe: composer, tabla player…
@@ -35,7 +35,7 @@ BYCombo seeks to have representation from all groups, and we welcome artists wit
 
 **Women and other disadvantaged groups:**
 
-As a rock movement started by a minority, BYCombo was conceived to give disadvantaged artists the interdependence they crave and thrive on. We'll also strive for an equitable gender ratio in every band.
+As a rock movement started by a minority, BYCombo was conceived to give disadvantaged artists the interdependence they crave and thrive on. We'll also strive for an equitable gender ratio in every band we assemble.
 
 **International artists:**
 
@@ -53,9 +53,9 @@ As part of our pilot cohort, you'll also have a chance to opt into our "business
 
 BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. Once your demo is complete, we'll expose you to business partners by adding it to our public registry and including it in our latest newsletter. As an alum, you'll also have a chance to pay it forward and work with the next cohort.
 
-And for your next band project, we want you to set the bar even higher! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another BYCombo band if that's a better fit for you. Remember, cross-pollination benefits everyone, and we're all family!
+And for your next band project, we want you to set the bar even higher! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another BYCombo band if that's a better fit for you. Remember, cross-pollination benefits everyone, and all BYCombo bands are family!
 
-Of course, BYCombo is just getting started, so to thank you for your patience during these early years:
+Of course, we're just getting started, so to thank you for your patience during these early years:
 
 **The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project— an album about the life of English biochemist Rosalind Franklin!**
 
@@ -63,6 +63,8 @@ Of course, BYCombo is just getting started, so to thank you for your patience du
 
 ${'  ' || `
 // TODO: This will be in a Google Form instead.
+
+Anyone of legal age is welcome to apply.
 `}
 
 Email us the following information, and we'll be in touch:
