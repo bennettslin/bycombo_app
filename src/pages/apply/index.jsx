@@ -17,7 +17,7 @@ ${'  ' || `
 // TODO: Review one more time.
 `}
 
-As an artist, do you sense that everything about rock today is *backward*? Why do the indie gatekeepers force you to waste so much time and energy caring about fair compensation and self-empowerment? These benefits should just come for free, once you've built up enough talents. Well, you're *not* crazy: The culture *is* broken— and here's how we'll fix it!
+As an artist, do you sense that all of rock today is *backward*? Why do the indie gatekeepers force you to waste so much time and energy on tools meant to empower you? Back when rock was interdependent, self-empowerment just came for free, once you'd built up enough talents. Well, you're *not* crazy: The culture *is* broken— and here's how we'll fix it!
 
 **To join BYCombo as an artist, you must pledge *not* to use indie rock's tools. Instead, your band will gain exposure through business partners, whose trust you'll earn by sacrificing a serious chunk of lifetime.**
 
@@ -31,7 +31,7 @@ Are you willing to join an assembled band whose members get equal credit and roy
 
 ### On diversity and inclusion
 
-BYCombo seeks to have representation from all groups, and we welcome artists with valuable and unique talents from across the globe!
+BYCombo seeks to have representation from all groups, and we welcome artists with remarkable and unique talents from across the globe!
 
 **Women and other disadvantaged groups:**
 
