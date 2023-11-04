@@ -19,7 +19,7 @@ As an artist, do you sense that the indie gatekeepers have it all *backward*? Wh
 
 ### Who we're looking for
 
-Are you eager to advance the art form? Are you willing to join an assembled band whose members get equal credit and royalties? Are you able to devote at least thirty hours each week to your band project? And are you ready to avoid social media for the next few years? If so, we're looking for those who are reasonably skilled in one or more of the following roles:
+Are you eager to advance the art form? Are you willing to join an assembled band whose members get equal credit and royalties? Are you able to devote at least thirty hours each week to your band project? And are you ready to avoid social media for good? If so, we're looking for those who are reasonably skilled in one or more of the following roles:
 
 * A rock musician: singer, guitarist, drummer…
 * A musician of any other stripe: composer, tabla player…
