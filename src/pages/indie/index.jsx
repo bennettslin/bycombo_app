@@ -158,7 +158,7 @@ So to make history without achieving stardom, ignore the critics! Instead, your 
 
 ### Commodified signals are worthless
 
-Every now and then, I'll get over my dislike of social media to see what the indie gatekeepers are saying among themselves. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them argue that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
+Every now and then, I'll get over my dislike of social media to see what the indie gatekeepers are saying among themselves. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them tweet that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
 Musk wanted *everyone* to have access to a discerning audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly— and so they promoted the use of online tools that cost "just" a portion of the artist's day.
 

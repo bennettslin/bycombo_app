@@ -13,17 +13,13 @@ const Component = () => (
             body: `
 # ${TITLE}
 
-${'  ' || `
-// TODO: Review one more time.
-`}
-
 As an artist, do you sense that the indie gatekeepers have it all *backward*? Why do they force you to waste so much time and energy on tools meant to empower you? Back when rock was interdependent, self-empowerment just came for free, once you'd built up enough talents. Well, you're *not* crazy: The culture *is* broken— and here's how we'll revolt against it!
 
 **To join BYCombo as an artist, you must pledge *not* to use indie rock's tools. Instead, your band will gain exposure through business partners, whose trust you'll earn by sacrificing a serious chunk of lifetime.**
 
 ### Who we're looking for
 
-Are you willing to join an assembled band whose members get equal credit and royalties? Are you able to devote at least thirty hours each week to your band project? If so, we're looking for those who are reasonably skilled in one or more of the following roles:
+Are you eager to advance the art form? Are you willing to join an assembled band whose members get equal credit and royalties? Are you able to devote at least thirty hours each week to your band project? And are you ready to avoid social media for the next few years? If so, we're looking for those who are reasonably skilled in one or more of the following roles:
 
 * A rock musician: singer, guitarist, drummer…
 * A musician of any other stripe: composer, tabla player…
