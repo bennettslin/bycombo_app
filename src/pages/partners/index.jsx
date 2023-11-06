@@ -16,12 +16,12 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Mention administrator, and reasoning. Redo this whole section.
+// TODO: Mention investing like major labels, not indie labels. Making contributions to band scholarships. Brian Epstein for "business partners as bandmates."
 `}
 
-BYCombo is here for every music fan and budding entrepreneur who's grown tired of indie rock's low barriers to entry. Our bands will earn your trust by paying a steep *cost* of entry:
+As a budding entrepreneur, have you grown tired of indie rock's low barriers to entry? BYCombo's bands will earn your trust by paying a steep *cost* of entry:
 
-**To be added to BYCombo's registry, each band must sacrifice at least 25,000 hours— twelve years working full time!— to make a demo that advances the art form.**
+**To be added to our public registry, each band must sacrifice at least 25,000 hours— twelve years working full time!— to make a demo that advances the art form.**
 
 If you'd like to be notified when a new demo is added to our public registry, please subscribe to our newsletter!
                 `,
