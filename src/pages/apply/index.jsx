@@ -13,7 +13,7 @@ const Component = () => (
             body: `
 # ${TITLE}
 
-As an artist, do you sense that the indie gatekeepers have it all *backward*? Why do they force you to waste so much time and energy on tools meant to empower you? Back when rock was interdependent, self-empowerment just came for free, once you'd built up enough talents. Well, you're *not* crazy: The culture *is* broken— and here's how we'll revolt against it!
+As an artist, do you sense that the indie gatekeepers have it all *backward*? Why do they force you to waste so much time and energy on tools meant to empower you? Back when rock was interdependent, self-empowerment just came for free, once you'd built up enough talents. Well, you're *not* crazy: The culture *is* broken— and here's how we'll revolt!
 
 **To join BYCombo as an artist, you must pledge *not* to use indie rock's tools. Instead, your band will gain exposure through business partners, whose trust you'll earn by sacrificing a serious chunk of lifetime.**
 
@@ -25,25 +25,13 @@ Are you eager to advance the art form? Are you willing to join an assembled band
 * A musician of any other stripe: composer, tabla player…
 * An artist of some other medium: dancer, web developer…
 
-### On diversity and inclusion
-
-BYCombo seeks to have representation from all groups, and we welcome artists with remarkable and unique talents from across the globe!
-
-**Women and other disadvantaged groups:**
-
-As a rock movement started by a minority, BYCombo was conceived to give disadvantaged artists the interdependence they crave and thrive on. We'll also strive for an equitable gender ratio in every band we assemble.
-
-**International artists:**
-
-While we're unable to sponsor you for a U.S. visa at this time, you'll join a community of multinational bands who'll work together to find common solutions to the same challenges.
-
 ### How you'll form a band
 
 We'll select each applicant based on their talents, creative ideas, and how we perceive their character. If we accept you, we'll set you up with three or four prospective bandmates who match your artistic tastes and skill levels. Upon reviewing each other's links and videos, you'll meet online.
 
-Once everyone agrees to form a band, the U.S. residents among you will move to the same city. This will be Los Angeles for our pilot cohort, as we'd like to meet with you in person. Upon settling in, each of you will then put in enough time on your band project for the sum total to be 25,000 hours.
+Once everyone agrees to form a band, those who can relocate to the same city will do so. For our pilot cohort, this will be Los Angeles, as we'd like to meet with you in person. Upon settling in, each of you will then put in enough time on your band project for the sum total to be 25,000 hours.
 
-As part of our pilot cohort, you'll also have a chance to opt into our "business partner as bandmate" [experiment](/partners#business-partners-as-bandmates), for which we'll match you with a budding entrepreneur who'll join your band as a full-fledged member. If this setup proves to be viable, we'll offer it to future cohorts.
+As part of our pilot cohort, you'll also have a chance to opt into our "business partner as bandmate" [experiment](/partners#business-partners-as-bandmates), for which we'll match you with a budding entrepreneur who'll join your band as a full-fledged member. If this setup proves viable, we'll offer it to future cohorts.
 
 ### A lifetime of band projects
 
@@ -54,6 +42,18 @@ And for your next band project, we want you to set the bar even higher! So if yo
 Of course, we're just getting started, so to thank you for your patience during these early years:
 
 **The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project— an album about the life of English biochemist Rosalind Franklin!**
+
+### On diversity and inclusion
+
+BYCombo seeks to have representation from all groups, and we welcome artists with remarkable and unique talents from across the globe!
+
+**Women and other disadvantaged groups:**
+
+As a rock movement started by a minority, BYCombo was conceived to give disadvantaged artists the interdependence they crave and thrive on. We'll also strive for an equitable gender ratio in every band we assemble.
+
+**International artists:**
+
+While we're unable to sponsor you for a U.S. visa at this time, you'll join a community of multinational bands who'll likely face the same challenges, and who'll work together to find common solutions.
 
 ### How to apply
 
