@@ -162,7 +162,7 @@ Every now and then, I'll get over my dislike of social media to see what the ind
 
 Musk wanted *everyone* to have access to a discerning audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly— and so they promoted the use of online tools that cost "just" a portion of the artist's day.
 
-Yet if greater access to an audience can now be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to value it— and then both yearn to leave for places where honest signaling still happens.
+Yet if greater access to an audience can now be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to buy it— and then both yearn to leave for places where honest signaling still happens.
 
 Places like… BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
