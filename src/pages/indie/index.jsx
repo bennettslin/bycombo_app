@@ -110,6 +110,10 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 ### Creativity gets its chance from the clueless
 
+${'  ' || `
+// TODO: Add another paragraph to point out that given humanity's dislike of creativity, the good guys are incentivized to only role play the idea of discovering creativity? And therefore, true creativity will only ever come from those with a profit motive— in other words, the bad guys.
+`}
+
 Because the indie gatekeepers stay close to their local scenes, they're both "in the know" and "one of us." Whatever *they* like, then, is what others like *us* have liked, which means it's the best of what *we'll* like— or so we're told. Yet according to science… it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
@@ -215,6 +219,10 @@ Every Black artist would stare glumly at us. Why? Because back then, they *neede
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the 50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
 ### Underdogs are supremacists in effect
+
+${'  ' || `
+// TODO: Change last paragraph to say that the real civil war in music today isn't between rockists and poptimists, but between rock and rollists and indie poptimists?
+`}
 
 Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— bringing their good intentions with them. So poptimism… is just the new indie rock!
 
