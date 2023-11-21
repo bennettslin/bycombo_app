@@ -222,9 +222,11 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 ${'  ' || `
 // TODO: Change last paragraph to say that the real civil war in music today isn't between rockists and poptimists, but between rock and rollists and indie poptimists?
+
+So make no mistake: The real civil war in music today *isn't* between rock and pop. It's between "rock and rollists"— those loyal to the hungry outsiders of *any* genre— and "indie poptimists"— those loyal 
 `}
 
-Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— bringing their good intentions with them. So poptimism… is just the new indie rock!
+Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and brought their good intentions with them. So poptimism… is just the new indie rock!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and refined by Motown.
 
