@@ -78,7 +78,7 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even those who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the damage didn't stop there.
 
-Unlike an arts organization, fans don't need to have rigorous standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— is noble on its own and thus can't be scrutinized. But then… this *isn't* just a leg up, is it? It's a supreme advantage! So indie rock set off an arms race, where even superstars now compete to be seen as underdogs.
+Unlike an arts organization, fans don't need to have rigorous standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— is noble on its own and thus can't be scrutinized. But then… this *isn't* just a leg up, is it? It's a supreme advantage! So indie rock set off an arms race, where even superstars now angle to be seen as underdogs.
 
 Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to give the underdog a safe lead. Except… haven't we seen this before? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
 
@@ -166,7 +166,7 @@ Every now and then, I'll get over my dislike of social media to see what the ind
 
 Musk wanted *everyone* to have access to a discerning audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the 00s! They wanted *every* artist to reach the public directly— and so they promoted the use of online tools that cost "just" a portion of the artist's day.
 
-Yet if greater access to an audience can now be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to buy it— and then both yearn to leave for places where honest signaling still happens.
+Yet if greater access to an audience can now be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to want it— and then both yearn to leave for places where honest signaling still happens.
 
 Places like… BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
@@ -260,7 +260,7 @@ So yes, BYCombo requires you to focus on your craft. But this isn't *just* to ma
 
 ### Longevity is the last frontier
 
-The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's a whole frontier left to explore! Unfortunately… the indie camp isn't cut out for this job: Hustling requires a youthful outlook, so every indie artist is destined to burn out.
+The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's a whole frontier left to explore! Unfortunately… indie rock isn't cut out for this job: Hustling requires a youthful outlook, so every indie artist is destined to burn out.
 
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
 
