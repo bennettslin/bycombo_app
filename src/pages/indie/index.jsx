@@ -74,6 +74,16 @@ In every early example of online success, chance or privilege clearly played a r
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the major labels did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it holds no grievances.
 
+### The grassroots is now a lottery
+
+We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who started from the grassroots, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they earned it by showing up to work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+
+In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
+
+Yet according to the indie gatekeepers, all this is as it should be! Because ultimately, their main concern is for artists to be chosen by the people, not by the elite— and what are recommendation algorithms, if not the new word of mouth? The grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
+
+It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to a new elite!
+
 ### Charitable support is a supreme advantage
 
 As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even those who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the damage didn't stop there.
@@ -129,16 +139,6 @@ In the past, artists lacked all means to engage with the public in their early y
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this creates an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
-
-### The grassroots is now a lottery
-
-We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who started from the grassroots, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they earned it by showing up to work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
-
-In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
-
-Yet according to the indie gatekeepers, all this is as it should be! Because ultimately, their main concern is for artists to be chosen by the people, not by the elite— and what are machine learning [algorithms](https://en.wikipedia.org/wiki/Algorithmic_bias), if not the new word of mouth? The grassroots, in essence, is still very much a [*populist*](https://en.wikipedia.org/wiki/Populism) domain.
-
-It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to a new elite!
 
 ### Talent wants a path to stardom
 
