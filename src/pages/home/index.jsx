@@ -20,13 +20,13 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com)! 
 
 ### Tools… are *rules*
 
-Indie rock roots for the underdog, and so it seeks to lower the barriers to entry for artists. As such, it provides them with tools of empowerment— social media analytics, streaming platform algorithms, and so forth— that allow them to bypass the labels and build a fanbase on their own.
+Indie rock roots for the underdog, and so it seeks to lower the barriers to entry for artists. As such, it provides them with tools of empowerment— social media, distribution services, crowdfunding platforms, and so forth— that allow them to bypass the labels and build a fanbase on their own.
 
 Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their main purpose is to punish any holdouts. But wait… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
 And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if you're a band trying to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet from what I've seen, few others sympathize. Well, how about a truce?
 
-***Yes*— since rules are made to be followed, bands who refuse to use indie rock's tools can't complain about being punished. *But*— breaking the rules is how rock history gets made! So let's not shut them out either.**
+***Yes*— since rules are made to be followed, bands who refuse to empower themselves can't complain about being punished. *But*— breaking the rules is how rock history gets made! So let's not shut them out either.**
 
 ### The outsider's dilemma
 
@@ -34,7 +34,7 @@ Here's the curious part: Ever notice that the best rappers *don't* worry about s
 
 It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's *inter*-dependent way of thinking. I'd rather be an "Eminem of rock" and have a *partner* advocate for my band— while having this partner, in turn, depend on *us* to make the best art.
 
-By *not* using indie rock's tools, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charitable-support-is-a-supreme-advantage), no other artist can hope to compete. Which means the *labels* can only compete by partnering with indie artists— who work hard *not* to need them. What a mess! And yet the future is clear:
+By *not* empowering myself, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charitable-support-is-a-supreme-advantage), no other artist can hope to compete. Which means the *labels* can only compete by partnering with indie artists— who work hard *not* to need them. What a mess! And yet the future is clear:
 
 **As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to partnering with interdependent bands, who *do* need them… as it's the only way to make the best art!**
 
