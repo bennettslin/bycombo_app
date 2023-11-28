@@ -96,7 +96,7 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 
 ### Timeless works have anonymous appeal
 
-To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by composing chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
+To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). They weren't interested, though… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
@@ -121,14 +121,14 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 ### Creativity gets its chance from the clueless
 
 ${'  ' || `
-// TODO: Add another paragraph to point out that given humanity's dislike of creativity, the good guys are incentivized to only role play the idea of discovering creativity? And therefore, true creativity will only ever come from those with a profit motive— in other words, the bad guys.
+// TODO: Review one more time.
 `}
 
 Because the indie labels and pundits stay close to their local scenes, they're both "in the know" and "one of us." Whatever *they* like, then, is what others like *us* have liked, which means it's the best of what *we'll* like— or so we're told. Yet according to science… it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Which is why the most creative artists in history were often backed by those with the *least* prior experience in the arts. Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can once again find such partners to back you.
+Which is why the most creative works in history were often backed by those with the *least* prior experience in the arts: They *didn't* know what the people liked— and thus *weren't* led astray! Let's face it, the best partners take pride in knowing how to do business, *not* in recognizing great art. And now with BYCombo, you can once again find such partners to back you.
 
 ### Modest standing leads to risk aversion
 
@@ -226,7 +226,7 @@ ${'  ' || `
 Make no mistake: The real civil war in music today *isn't* between rock and pop. It's between outsider movements— "rock and rollists," perhaps?— and an underdog monoculture— let's say, the "indie poptimists." So BYCombo is here to ensure that hungry outsiders— the ones most likely to make history!— have a fighting chance.
 `}
 
-Perhaps you think these arguments against indie rock are moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and brought their good intentions with them. So poptimism… is just indie rock for the pop genre!
+Perhaps all my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and brought their good intentions with them. So poptimism… is just indie rock for the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and refined by Motown.
 
