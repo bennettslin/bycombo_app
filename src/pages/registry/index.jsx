@@ -17,7 +17,7 @@ const Component = () => (
 
 **To earn the trust of business partners and listeners alike, each band in our public registry sacrificed a serious chunk of lifetime— 25,000 hours, or twelve full-time years— to make a demo that advances the art form.**
 
-But remember, we require our bands *not* to empower themselves— which means the indie labels will dismiss them as hobbyists! So if rock is to be saved, we need *others* to tell the world about them. Can one of these rock saviors… be you?
+But remember, we require our bands *not* to empower themselves— which means the indie labels and pundits will dismiss them as hobbyists! So if rock is to be saved, we need *others* to tell the world about them. Can one of these rock saviors… be you?
 
 If you have an offer or opportunity for any of our bands to consider, please contact them directly!
                 `,
