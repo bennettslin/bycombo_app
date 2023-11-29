@@ -120,7 +120,7 @@ In a world of charitable support, then, the smart choice is obvious. But… what
 
 Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
 
-These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, [multitasking](https://en.wikipedia.org/wiki/Human_multitasking)! So keep your artist hat on, and have a partner wear the others. *You* want your art to be better than you, and so does BYCombo.
+These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, [multitasking](https://en.wikipedia.org/wiki/Human_multitasking)! So keep your artist hat on, and have a business partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
 ### Creativity gets its chance from the clueless
 
@@ -219,12 +219,6 @@ Every Black artist would stare glumly at us. Why? Because back then, they *neede
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the 50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
 ### Underdogs are supremacists in effect
-
-${'  ' || `
-// TODO: Change last paragraph to say that the real civil war in music today isn't between rockists and poptimists, but between rock and rollists and indie poptimists?
-
-Make no mistake: The real civil war in music today *isn't* between rock and pop. It's between outsider movements— "rock and rollists," perhaps?— and an underdog monoculture— let's say, the "indie poptimists." So BYCombo is here to ensure that hungry outsiders— the ones most likely to make history!— have a fighting chance.
-`}
 
 Perhaps all my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and brought their good intentions with them. So poptimism… is just indie rock for the pop genre!
 

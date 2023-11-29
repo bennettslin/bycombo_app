@@ -31,7 +31,7 @@ We'll select each applicant based on their talents, creative ideas, and how we p
 
 Once everyone agrees to form a band, those who can relocate to the same city will do so. For our pilot cohort, this will be Los Angeles, as we'd like to meet with you in person. Upon settling in, each of you will then put in enough time on your band project for the sum total to be 25,000 hours.
 
-As part of our pilot cohort, you'll also have a chance to opt into our "business partner as bandmate" [experiment](/partners#business-partners-as-bandmates), for which we'll match you with a budding entrepreneur who'll join your band as a full-fledged member. If this setup proves viable, we'll offer it to future cohorts.
+As part of our pilot cohort, you'll also have a chance to opt into our "business partner as bandmate" [experiment](/partners#business-partners-as-bandmates), for which we'll match you with a budding entrepreneur who'll join your band as a full-fledged member. If this setup proves viable, we'll keep offering it to future cohorts.
 
 ### A lifetime of band projects
 
