@@ -64,13 +64,9 @@ Here's an incomplete list of ways…
 
 ### Cultures of grievance wallow in confusion
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the 90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
-Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
+Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like [MAGA](https://en.wikipedia.org/wiki/Make_America_Great_Again), it's a culture of grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
 For example, even after [Goatse](https://en.wikipedia.org/wiki/Goatse.cx) proved that the Internet caters to the lowest common denominator… indie rock concluded that artists who [go viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah) *aren't* the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars after [leaving Roadrunner](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me)… this was taken as proof that artists *don't* benefit from a major label deal?!
 
@@ -205,14 +201,14 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 ### Independence breeds homogeneity
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Still needs work.
 `}
 
 Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but I'm a hobbyist. Over time I came to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it finally clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in different ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
-So don't be fooled by indie rock's belated embrace of women and minorities! They were chosen for their *similarity* to its White male founders; there's still no diversity of *thought* here. But BYCombo lets you find business partners who think differently… and who'll value *you* for doing the same.
+So don't be fooled by indie rock's belated embrace of women and minorities: They're chosen based on shared similarities with its White male founders. There's still no diversity of *thought*! But BYCombo lets you find business partners who think differently… and who'll value *you* for doing the same.
 
 ### Interdependence guards against prejudice
 
