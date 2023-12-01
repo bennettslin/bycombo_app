@@ -190,17 +190,13 @@ But why would Gen Z— and beyond— side with past gatekeepers who *didn't* car
 
 ### Hungry outsiders aim for the canon
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Who foresaw indie rock's final stage as a [trust fund playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia)? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/10900). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, indie rock now feels like just another foreign canon. So women and minorities are being nudged onto a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff)…
 
-No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means today's women and minorities should naturally be aiming for the *historical* canon— and we *would* be, if indie rock hadn't intervened.
+No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Like those outsiders before us, then, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to rely on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
+Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to rely on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
 
 ### Independence breeds homogeneity
 
@@ -210,9 +206,9 @@ ${'  ' || `
 
 Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but I'm a hobbyist. Over time I came to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it finally clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
 
-To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in different ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
+To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
-So don't be fooled by indie rock's belated embrace of women and minorities: They don't add up to any further diversity in *thought*. But BYCombo lets you find business partners who think differently… and who'll value *you* for doing the same.
+So don't be fooled by indie rock's belated embrace of women and minorities: It doesn't add up to any further diversity in *thought*. But BYCombo lets you find business partners who think differently… and who'll value *you* for doing the same.
 
 ### Interdependence guards against prejudice
 
