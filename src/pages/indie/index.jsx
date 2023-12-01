@@ -201,14 +201,14 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 ### Independence breeds homogeneity
 
 ${'  ' || `
-// TODO: Still needs work.
+// TODO: Review.
 `}
 
 Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but I'm a hobbyist. Over time I came to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it finally clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in different ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
-So don't be fooled by indie rock's belated embrace of women and minorities: They're chosen based on shared similarities with its White male founders. There's still no diversity of *thought*! But BYCombo lets you find business partners who think differently… and who'll value *you* for doing the same.
+So don't be fooled by indie rock's belated embrace of women and minorities: They don't add up to any further diversity in *thought*. But BYCombo lets you find business partners who think differently… and who'll value *you* for doing the same.
 
 ### Interdependence guards against prejudice
 
