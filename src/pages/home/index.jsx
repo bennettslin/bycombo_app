@@ -34,7 +34,7 @@ Here's the curious part: Ever notice that the best rappers *don't* worry about s
 
 It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's *inter*-dependent way of thinking. I'd rather be an "Eminem of rock" and have a *partner* advocate for my band— while having this partner, in turn, depend on *us* to make the best art.
 
-By *not* empowering myself, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charitable-support-is-a-supreme-advantage), no other artist can hope to compete. Which means the *labels* can only compete by partnering with indie artists— who work hard *not* to need them. What a mess! And yet the future is clear:
+By *not* empowering myself, however, I'm seen as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charitable-support-is-a-supreme-advantage), no other artist can hope to compete. Which means the *labels* can only compete by partnering with indie artists… who work hard *not* to need them. What a mess! And yet the future is clear:
 
 **As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to partnering with interdependent bands, who *do* need them… as it's the only way to make the best art!**
 
@@ -42,7 +42,7 @@ By *not* empowering myself, however, I'm seen as a hobbyist— and then my band 
 
 And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, all art is now *subjective*; talent predicts nothing. Which means an indie label's only trusted measure is the *objective* size of an artist's fanbase. Good grief… Can we fix this mess?
 
-Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the worst. It picks "serious" artists over "casual" ones— in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will force us to dismiss *all* our best artists as hobbyists! Here's how it works:
+Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the rest. It picks "serious" artists over "casual" ones— in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will force us to dismiss *all* our best artists as hobbyists! Here's how it works:
 
 **To revive interdependence, bands must sacrifice *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
