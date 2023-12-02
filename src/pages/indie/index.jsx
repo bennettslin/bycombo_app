@@ -1,10 +1,11 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import Page from '../../containers/Page'
 
 const TITLE = `The problem with indie rock`
 const DESCRIPTION = `How indie rock has made music worse…`
 
-const Component = () => (
+const Component = ({ sectionCounter = 0 }) => (
     <Page
         {...{
             metaTitle: TITLE,
@@ -66,11 +67,7 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-${'  ' || `
-// TODO: Number headings?
-`}
-
-### Cultures of grievance wallow in confusion
+### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
 In the 90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
@@ -82,7 +79,7 @@ In every early example of online success, chance or privilege clearly played a r
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the major labels did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it holds no grievances.
 
-### Timeless works have anonymous appeal
+### ${++sectionCounter}. Timeless works have anonymous appeal
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
@@ -92,7 +89,7 @@ Because the indie labels always lost those radio-friendly bands to the majors, t
 
 Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
-### The grassroots is now a lottery
+### ${++sectionCounter}. The grassroots is now a lottery
 
 ${'  ' || `
 // TODO: Equate local scenes with grassroots.
@@ -106,7 +103,7 @@ Yet according to the indie labels and pundits… this is as it should be! Becaus
 
 It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a [*meritocratic*](https://en.wikipedia.org/wiki/Meritocracy) domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to a new elite!
 
-### Talent wants a path to stardom
+### ${++sectionCounter}. Talent wants a path to stardom
 
 By the 00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have lost even *artistic* relevance. Why is this?
 
@@ -116,7 +113,7 @@ But stardom is also the rightful outcome for the *most* worthy artists, who natu
 
 By shutting off this pipeline to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore the path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspires to be *most* worthy— get a chance to be one?
 
-### Charitable support is a supreme advantage
+### ${++sectionCounter}. Charitable support is a supreme advantage
 
 As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even those who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the damage didn't stop there.
 
@@ -126,7 +123,7 @@ Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by worki
 
 Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll try to *fix* the damage we caused— much like we topple Confederate statues today. So why be a charity case *and* a villain? With BYCombo, you can make history the *right* way.
 
-### The opportunity cost is too damn high
+### ${++sectionCounter}. The opportunity cost is too damn high
 
 ${'  ' || `
 // TODO: Make this about foreign peers.
@@ -138,7 +135,7 @@ They can build a fanbase on their own— which yields *compound* returns, as eac
 
 In a world of charitable support, then, the smart choice is obvious. But… what if a band goes above and beyond *anyway*, hoping to remain peerless? Add up their gains, subtract the [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! Thankfully, with BYCombo, you can now go above and beyond to bring it back.
 
-### History is made through peer review
+### ${++sectionCounter}. History is made through peer review
 
 Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
@@ -148,7 +145,7 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 
 So to make history without achieving stardom, ignore the critics! Instead, your talents must inspire the envy of fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
-### Serendipity rewards the idle mind
+### ${++sectionCounter}. Serendipity rewards the idle mind
 
 ${'  ' || `
 // TODO: Specify creative insights?
@@ -158,7 +155,7 @@ Indie artists need to wear several hats: the promoter hat, the publicist hat… 
 
 These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, [multitasking](https://en.wikipedia.org/wiki/Human_multitasking)! So keep your artist hat on, and have a business partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
-### Creativity gets its chance from the clueless
+### ${++sectionCounter}. Creativity gets its chance from the clueless
 
 Because the indie labels and pundits stay close to their local scenes, they're both "in the know" and "one of us." Whatever *they* like, then, is what others like *us* have liked, which means it's the best of what *we'll* like— or so we're told. Yet according to science… it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
@@ -166,7 +163,7 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corpora
 
 Which is why the most creative works in history were often backed by those with the *least* prior experience in the arts: They *didn't* know what the people liked— and thus *weren't* led astray! Let's face it, the best partners take pride in knowing how to do business, *not* in recognizing great art. And now with BYCombo, you can once again find such partners to back you.
 
-### Modest standing leads to risk aversion
+### ${++sectionCounter}. Modest standing leads to risk aversion
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
@@ -176,7 +173,7 @@ Meanwhile, because the indie labels have just enough standing to lose, they only
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
 
-### Commodified signals are worthless
+### ${++sectionCounter}. Commodified signals are worthless
 
 Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying among themselves. So when Elon Musk added [verification](https://en.wikipedia.org/wiki/Twitter_verification) to his Twitter Blue service plan, I saw them tweet that this would make the blue checkmark worthless— which amused me. After all… indie rock is the Twitter Blue of music!
 
@@ -186,7 +183,7 @@ Yet if greater access to an audience can now be bought— with money, or with ti
 
 Places like… BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
-### Competitive self-reliance favors privilege
+### ${++sectionCounter}. Competitive self-reliance favors privilege
 
 To promote self-reliance, indie rock requires artists to do the middleman's job for themselves. But a wealthy artist can just pay *others* to do it… and, well, who better to hire than a former middleman?! So in the end, indie rock has done little more than "[privatize](https://en.wikipedia.org/wiki/Privatization)" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
@@ -196,7 +193,7 @@ Instead, being indie is about commanding the *public's* attention— and this is
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to just suck it up and try harder. Now with BYCombo, there's an opposition party that upholds the interdependence you want— out of respect for your craft.
 
-### Hustlers lack a theory of future minds
+### ${++sectionCounter}. Hustlers lack a theory of future minds
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
@@ -208,7 +205,7 @@ So instead, you strive to be what a future audience— or romantic partner!— w
 
 But why would Gen Z— and beyond— side with past gatekeepers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of today's indie rock! Luckily, BYCombo promises to make *your* art worthy of rediscovery— by letting you think like a future audience.
 
-### Hungry outsiders aim for the canon
+### ${++sectionCounter}. Hungry outsiders aim for the canon
 
 Who foresaw indie rock's final stage as a [trust fund playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia)? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/10900). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
@@ -218,7 +215,7 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 
 Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to rely on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
 
-### Independence breeds homogeneity
+### ${++sectionCounter}. Independence breeds homogeneity
 
 Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but I'm a hobbyist. Over time I came to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it finally clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
 
@@ -226,7 +223,7 @@ To be interdependent, you need partners who are strong where you're weak, and vi
 
 So don't be fooled by indie rock's belated embrace of women and minorities: It doesn't add up to any further diversity in *thought*. But BYCombo lets you find business partners who think differently… and who'll value *you* for doing the same.
 
-### Interdependence guards against prejudice
+### ${++sectionCounter}. Interdependence guards against prejudice
 
 Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the 50s and announce: "Artists, your success now rests solely upon building a fanbase on your own. A business partner can no longer help you!"
 
@@ -234,7 +231,7 @@ Every Black artist would stare glumly at us. Why? Because back then, they *neede
 
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the 50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
-### Underdogs are supremacists in effect
+### ${++sectionCounter}. Underdogs are supremacists in effect
 
 Perhaps my arguments against indie rock now seem moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and brought their good intentions with them. So poptimism… is just indie rock adapted for the pop genre!
 
@@ -246,7 +243,7 @@ This… *can't* be a viable way to make history. After all, what historical figu
 
 And yet there will always be another underdog movement— because to be seen as an underdog is a privilege, and the privileged have ways to benefit themselves. So BYCombo is here to ensure that outsiders— the ones most likely to make history!— will still have a fighting chance.
 
-### Dues payers make lousy helpers
+### ${++sectionCounter}. Dues payers make lousy helpers
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while most everyone in indie rock is nice… no one *helps*.
 
@@ -258,7 +255,7 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
-### Happiness flows from the act of creation
+### ${++sectionCounter}. Happiness flows from the act of creation
 
 ${'  ' || `
 // TODO: Mention socializing with those also focused on the craft.
@@ -272,13 +269,13 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 
 So yes, BYCombo requires you to focus on your craft. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
 
-### Longevity is the last frontier
+### ${++sectionCounter}. Longevity is the last frontier
 
 The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's a whole frontier left to explore! Unfortunately… indie rock isn't cut out for this job: Hustling requires a youthful outlook, so every indie artist is destined to burn out.
 
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
 
-### Art needs the passion of martyrs
+### ${++sectionCounter}. Art needs the passion of martyrs
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got its Nirvana. Why is this?
 
@@ -293,5 +290,9 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
         }}
     />
 )
+
+Component.propTypes = {
+    sectionCounter: PropTypes.number,
+}
 
 export default Component
