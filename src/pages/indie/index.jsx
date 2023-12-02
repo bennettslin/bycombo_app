@@ -92,10 +92,10 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Equate local scenes with grassroots.
+// TODO: Review.
 `}
 
-We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who started from the grassroots, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
 
@@ -126,14 +126,14 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 ### ${++sectionCounter}. The opportunity cost is too damn high
 
 ${'  ' || `
-// TODO: Make this about foreign peers.
+// TODO: Review.
 `}
 
 In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond to make the best art. Why don't they? Well, let's examine their options.
 
 They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-In a world of charitable support, then, the smart choice is obvious. But… what if a band goes above and beyond *anyway*, hoping to remain peerless? Add up their gains, subtract the [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! Thankfully, with BYCombo, you can now go above and beyond to bring it back.
+In a world of charitable support, then, the smart choice is obvious. But… what if a band goes above and beyond *anyway*, hoping to make the best art? Add up their gains, subtract the [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! Thankfully, with BYCombo, you can now go above and beyond to bring it back.
 
 ### ${++sectionCounter}. History is made through peer review
 
@@ -148,12 +148,12 @@ So to make history without achieving stardom, ignore the critics! Instead, your 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
 ${'  ' || `
-// TODO: Specify creative insights?
+// TODO: Review.
 `}
 
 Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
 
-These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, [multitasking](https://en.wikipedia.org/wiki/Human_multitasking)! So keep your artist hat on, and have a business partner wear the others. *You* want your art to be better than you, and so does BYCombo.
+These creative insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, [multitasking](https://en.wikipedia.org/wiki/Human_multitasking)! So keep your artist hat on, and have a business partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
