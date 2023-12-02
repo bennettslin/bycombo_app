@@ -32,6 +32,10 @@ A counterculture is needed to protect dangerous ideas, yet there hasn't been one
 
 Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted into the canon— and *this* is why people gripe that rock is getting worse.
 
+${'  ' || `
+// TODO: Put interdependence before, and add "Why bands?"
+`}
+
 **Why assembled bands?**
 
 Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But if we ditch this notion? Then rock has barely scratched the surface.
@@ -61,6 +65,10 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 **And finally… how has indie rock made music worse?**
 
 Here's an incomplete list of ways…
+
+${'  ' || `
+// TODO: Number headings?
+`}
 
 ### Cultures of grievance wallow in confusion
 
@@ -236,7 +244,7 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 ### Underdogs are supremacists in effect
 
-Perhaps my arguments against indie rock now seem moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and brought their good intentions with them. So poptimism… is just indie rock's values adapted for the pop genre!
+Perhaps my arguments against indie rock now seem moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and brought their good intentions with them. So poptimism… is just indie rock adapted for the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and refined by Motown.
 
