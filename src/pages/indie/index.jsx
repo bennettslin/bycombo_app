@@ -33,21 +33,27 @@ A counterculture is needed to protect dangerous ideas, yet there hasn't been one
 
 Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted into the canon— and *this* is why people gripe that rock is getting worse.
 
+**Why interdependence?**
+
+To make history, artists must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a business partner.
+
 ${'  ' || `
-// TODO: Put interdependence before, and add "Why bands?"
+// TODO: Also reconsider opportunity cost section, in light of having already discussed English-speaking world and the historical canon? Make sure there's not much overlap.
+
+** Why bands?**
+
+Globalization has exposed us to such talented international artists, making a mockery of the English-speaking world's assumption that ours is still *the* rock canon. Yet indie artists try to maximize their earnings by going solo, making this assumption even more flagrant! After all, what competitive edge could a solo artist possibly have, to make them the best in the *world*?
+
+If the notion of a historical canon is to continue making sense in our modern age, artists from across the world must come together to form bands, to leverage interdependence's ability to create wholes greater than the sum of their parts.
 `}
 
-**Why assembled bands?**
+**Why band assembly?**
 
 Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But if we ditch this notion? Then rock has barely scratched the surface.
 
-What if musicians hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias?
+What if international artists hoping to form history-making bands could flock to a single hub? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias?
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
-
-**Why interdependent partners?**
-
-To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a business partner.
 
 **Why demos?**
 
@@ -91,10 +97,6 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
-${'  ' || `
-// TODO: Review.
-`}
-
 We all respect those [80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
@@ -125,10 +127,6 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 
 ### ${++sectionCounter}. The opportunity cost is too damn high
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond to make the best art. Why don't they? Well, let's examine their options.
 
 They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
@@ -151,9 +149,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from insightful revelations that can't be summoned at will.
+Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from creative insights that can't be summoned at will.
 
-These creative insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, [multitasking](https://en.wikipedia.org/wiki/Human_multitasking)! So keep your artist hat on, and have a business partner wear the others. *You* want your art to be better than you, and so does BYCombo.
+These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, [multitasking](https://en.wikipedia.org/wiki/Human_multitasking)! So keep your artist hat on, and have a business partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 

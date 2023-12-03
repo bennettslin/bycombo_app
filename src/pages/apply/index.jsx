@@ -49,7 +49,7 @@ ${'  ' || `
 // TODO: Mention multidisciplinary here. Move this up behind "What we're looking for."
 `}
 
-BYCombo seeks to have representation from all groups, and we welcome artists with remarkable and unique talents from across the globe!
+BYCombo seeks to have representation from all groups, and we welcome artists with remarkable and unique talents from across the world!
 
 **Women and other disadvantaged groups:**
 
