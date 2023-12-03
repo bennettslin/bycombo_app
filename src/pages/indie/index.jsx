@@ -33,21 +33,21 @@ A counterculture is needed to protect dangerous ideas, yet there hasn't been one
 
 Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted into the canon— and *this* is why people gripe that rock is getting worse.
 
-**Why interdependence?**
+**Why interdependent partners?**
 
 To make history, artists must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a business partner.
 
+**Why bands?**
+
 ${'  ' || `
-// TODO: Also reconsider opportunity cost section, in light of having already discussed English-speaking world and the historical canon? Make sure there's not much overlap.
-
-** Why bands?**
-
-Globalization has exposed us to such talented international artists, making a mockery of the English-speaking world's assumption that ours is still *the* rock canon. Yet indie artists try to maximize their earnings by going solo, making this assumption even more flagrant! After all, what competitive edge could a solo artist possibly have, to make them the best in the *world*?
-
-If the notion of a historical canon is to continue making sense in our modern age, artists from across the world must come together to form bands, to leverage interdependence's ability to create wholes greater than the sum of their parts.
+// TODO: Review.
 `}
 
-**Why band assembly?**
+In exposing the talents of international artists, globalization has made a mockery of the English-speaking world's assumption that ours is still *the* rock canon. Worse, to hoard their earnings, indie artists often [go *solo*](https://www.honest-broker.com/p/the-bands-are-never-coming-back)— thus showing up our arrogance further! Because what competitive edge could a solo artist today possibly have, to put them among the best for all *time*?
+
+If the notion of a historical canon is to make any sense in a globalized world, artists need to form *bands*— the most surefire way in the arts for a whole to be greater than the sum of its parts.
+
+**Why *assembled* bands?**
 
 Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But if we ditch this notion? Then rock has barely scratched the surface.
 
@@ -145,10 +145,6 @@ So to make history without achieving stardom, ignore the critics! Instead, your 
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from creative insights that can't be summoned at will.
 
 These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, [multitasking](https://en.wikipedia.org/wiki/Human_multitasking)! So keep your artist hat on, and have a business partner wear the others. *You* want your art to be better than you, and so does BYCombo.
@@ -233,11 +229,11 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 Perhaps my arguments against indie rock now seem moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop— and brought their good intentions with them. So poptimism… is just indie rock adapted for the pop genre!
 
-Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and refined by Motown.
+Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that suppressed a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and refined by Motown.
 
 Like indie rock, poptimism lets the underdog triumph over any outsiders— even those who work much harder, to be much better. But if the underdog *isn't* the best of their time… then their place in history is assured only as long as they're *always* seen as an underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
-This… *can't* be a viable way to make history. After all, what historical figures from *our* past expect the same [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance) of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to supplant America's original outsiders! Which doesn't bode well for indie rock's legacy… or poptimism's future…
+This… *can't* be a viable way to make history. After all, what historical figures from *our* past expect the same [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance) of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's original outsiders! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
 And yet there will always be another underdog movement— because to be seen as an underdog is a privilege, and the privileged have ways to benefit themselves. So BYCombo is here to ensure that outsiders— the ones most likely to make history!— will still have a fighting chance.
 

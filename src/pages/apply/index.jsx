@@ -28,7 +28,7 @@ Are you eager to advance the art form? Are you willing to join an assembled band
 ### On diversity and inclusion
 
 ${'  ' || `
-// TODO: Mention multidisciplinary here. Move this up behind "What we're looking for." Works that transcend platforms.
+// TODO: Mention multidisciplinary here. Works that transcend platforms.
 `}
 
 BYCombo seeks to have representation from all groups, and we welcome artists with remarkable and unique talents from across the world!
