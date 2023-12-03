@@ -219,7 +219,7 @@ Every indie gatekeeper who's met with me has drawn the same conclusion: Yes, my 
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
-So don't be fooled by indie rock's belated embrace of women and minorities: It doesn't add up to any further diversity in *thought*. But BYCombo lets you find business partners who think differently… and who'll value *you* for doing the same.
+So don't be fooled by indie rock's belated embrace of women and minorities: It doesn't add up to any greater diversity in *thought*. But BYCombo lets you find business partners who think differently… and who'll value *you* for doing the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 

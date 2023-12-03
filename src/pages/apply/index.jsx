@@ -25,6 +25,22 @@ Are you eager to advance the art form? Are you willing to join an assembled band
 * A musician of any other stripe: composer, tabla player…
 * An artist of some other medium: dancer, web developer…
 
+### On diversity and inclusion
+
+${'  ' || `
+// TODO: Mention multidisciplinary here. Move this up behind "What we're looking for." Works that transcend platforms.
+`}
+
+BYCombo seeks to have representation from all groups, and we welcome artists with remarkable and unique talents from across the world!
+
+**Women and other disadvantaged groups:**
+
+As a rock movement started by a minority, BYCombo was conceived to give disadvantaged artists the interdependence they crave and thrive on. We'll also strive for an equitable gender ratio in every band we assemble.
+
+**International artists:**
+
+While we're unable to sponsor you for a U.S. visa at this time, you'll join a community of multinational bands who'll likely face the same challenges, and who'll work together to find common solutions.
+
 ### How you'll form a band
 
 We'll select each applicant based on their talents, creative ideas, and how we perceive their character. If we accept you, we'll set you up with three or four prospective bandmates who match your artistic tastes and skill levels. Upon reviewing each other's links and videos, you'll meet online.
@@ -42,22 +58,6 @@ And for your next band project, we want you to set the bar even higher! So if yo
 Of course, we're just getting started, so to thank you for your patience during these early years:
 
 **The Bobtail Yearlings will invite up to ten bands from our pilot cohort to feature as guest artists on their next project— an album about the life of English biochemist Rosalind Franklin!**
-
-### On diversity and inclusion
-
-${'  ' || `
-// TODO: Mention multidisciplinary here. Move this up behind "What we're looking for."
-`}
-
-BYCombo seeks to have representation from all groups, and we welcome artists with remarkable and unique talents from across the world!
-
-**Women and other disadvantaged groups:**
-
-As a rock movement started by a minority, BYCombo was conceived to give disadvantaged artists the interdependence they crave and thrive on. We'll also strive for an equitable gender ratio in every band we assemble.
-
-**International artists:**
-
-While we're unable to sponsor you for a U.S. visa at this time, you'll join a community of multinational bands who'll likely face the same challenges, and who'll work together to find common solutions.
 
 ### How to apply
 
