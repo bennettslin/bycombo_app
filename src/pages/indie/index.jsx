@@ -31,7 +31,7 @@ A counterculture is needed to protect dangerous ideas, yet there hasn't been one
 
 **Why historical relevance?**
 
-Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be inducted into the canon— and *this* is why people gripe that rock is getting worse.
+Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist will be inducted into the canon— and *this* is why people gripe that rock is getting worse.
 
 **Why bands?**
 
@@ -39,13 +39,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Indie rock encourages artists to hoard their earnings by going solo. But what competitive edge could a [solo artist](https://www.honest-broker.com/p/the-bands-are-never-coming-back) today possibly have, to put them among the best in the *world*, for all *time*? If this generation is to have any chance of making history, its artists will need to form *bands*— the most surefire way in the arts for a whole to be greater than the sum of its parts.
+Indie artists are encouraged to retain their earnings by going solo. But what competitive edge could a [solo artist](https://www.honest-broker.com/p/the-bands-are-never-coming-back) today possibly have, to put them among the best in the *world*, for all *time*? If this generation has any hope of adding to the canon, its artists will need to form *bands*, as this is the most surefire way for them to be greater than the sum of their parts.
 
 **Why *assembled* bands?**
 
 Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But if we ditch this notion? Then rock has barely scratched the surface.
 
-What if artists hoping to form history-making bands could flock to a single hub from across the globe? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias?
+What if artists hoping to form history-making bands could flock to a single hub from across the world? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias?
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 

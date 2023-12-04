@@ -31,7 +31,7 @@ ${'  ' || `
 // TODO: Mention multidisciplinary here. Works that transcend platforms.
 `}
 
-BYCombo seeks to have representation from all groups, and we welcome artists with remarkable and unique talents from across the globe!
+BYCombo seeks to have representation from all groups, and we welcome artists with remarkable and unique talents from across the world!
 
 **Women and other disadvantaged groups:**
 
