@@ -39,7 +39,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Indie artists are encouraged to retain their earnings by going solo. But what competitive edge could a [solo artist](https://www.honest-broker.com/p/the-bands-are-never-coming-back) today possibly have, to put them among the best in the *world*, for all *time*? If this generation has any hope of adding to the canon, its artists will need to form *bands*, as this is the most surefire way for them to be greater than the sum of their parts.
+Indie artists are encouraged to retain their earnings— and today, this means [going solo](https://www.honest-broker.com/p/the-bands-are-never-coming-back). But what competitive edge could a solo artist today possibly have, to put them among the best in the *world*, for all *time*? To aim for the canon, this generation's artists will need to form *bands*— the most surefire way in the arts to become greater than the sum of your parts.
 
 **Why *assembled* bands?**
 
@@ -205,7 +205,7 @@ ${'  ' || `
 
 Who foresaw indie rock's final stage as a [trust fund playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia)? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/10900). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
-Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, indie rock is now just one more foreign canon. So women and minorities are being nudged onto a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff)…
+Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, indie rock has proven to be just another foreign canon. So women and minorities are being nudged onto a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff)…
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
@@ -233,7 +233,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Perhaps my arguments against indie rock now seem moot. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
+Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that suppressed a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and refined by Motown.
 
