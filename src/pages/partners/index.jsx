@@ -16,8 +16,12 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Mention investing like major labels, not indie labels. Making contributions to band scholarships. Brian Epstein for "business partners as bandmates."
+// TODO: Model first paragraph just like Apply page.
 `}
+
+As an entrepreneur, do you sense that indie artists have it all *backward*? The Beatles relied on managers from day one; it's how they got their Hamburg gigs and their auditions at Decca and Parlophone. But if history's greatest band is the perfect example of how interdependence makes us greater than the sum of our parts?
+
+Well, you're *not* crazy.
 
 As a budding entrepreneur, have you grown tired of indie rock's low barriers to entry? BYCombo's bands will earn your trust by paying a steep *cost* of entry:
 
@@ -29,7 +33,7 @@ If you'd like to be notified when a new demo is added to our public registry, pl
                     <MailingList isWide />
                 ),
                 `
-### Business partners as bandmates?
+### Managers as bandmates?
 
 If you'd like to work for BYCombo in a paid administrative role, let us know what you have in mind. We're happy to get all the help we can!
 

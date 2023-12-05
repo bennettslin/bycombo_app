@@ -39,7 +39,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Indie artists are encouraged to retain their earnings— and today, this means [going solo](https://www.honest-broker.com/p/the-bands-are-never-coming-back). But what competitive edge could a solo artist today possibly have, to put them among the best in the *world*, for all *time*? To aim for the canon, this generation's artists will need to be greater than the sum of their parts— which can only happen by forming *bands*.
+Indie rock encourages artists to retain their earnings— which, today, means [going solo](https://www.honest-broker.com/p/the-bands-are-never-coming-back). But what competitive edge could a solo artist today possibly have, to put them among the best in the *world*? From now until forever, to aim for the canon, artists will need to be greater than the sum of their parts— and this can only happen by forming *bands*.
 
 **Why *assembled* bands?**
 
@@ -200,12 +200,12 @@ But why would Gen Z— and beyond— side with past gatekeepers who *didn't* car
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
 ${'  ' || `
-// TODO: Review. Maybe say it's desperate to prove it isn't just another foreign canon. Needs mention of foreign canon for historical canon in next paragraph to make sense.
+// TODO: Review.
 `}
 
 Who foresaw indie rock's final stage as a [trust fund playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia)? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/10900). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
-Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! After two decades with little to show that could matter to history, indie rock is now desperate to prove its relevance. So women and minorities are being nudged onto a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff)…
+Yet despite the poor fit, indie rock sure is eager of late to hand over its reins to us. Why? Because it's in *decline*! Two decades of indie artists have failed to outshine any foreign canon, and now indie rock is desperate to maintain its relevance. So women and minorities are being nudged onto a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff)…
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
