@@ -39,7 +39,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Indie rock encourages artists to retain their earnings— which, today, means [going solo](https://www.honest-broker.com/p/the-bands-are-never-coming-back). But what competitive edge could a solo artist today possibly have, to put them among the best in the *world*? From now until forever, to aim for the canon, artists will need to be greater than the sum of their parts— and this can only happen by forming *bands*.
+Indie rock encourages artists to retain their earnings— which, today, means [going solo](https://www.honest-broker.com/p/the-bands-are-never-coming-back). But what competitive edge could a solo artist today possibly have, to put them among the best in the *world*? From now until forever, if artists want to aim for the canon, they'll need to be greater than the sum of their parts— and this can only happen by forming *bands*.
 
 **Why *assembled* bands?**
 
