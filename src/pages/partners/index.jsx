@@ -19,9 +19,9 @@ ${'  ' || `
 // TODO: Model first paragraph just like Apply page.
 `}
 
-As an entrepreneur, do you sense that indie artists have it all *backward*? The Beatles relied on managers from day one; it's how they got their Hamburg gigs and their auditions at Decca and Parlophone. But if history's greatest band is the perfect example of how interdependence makes us greater than the sum of our parts?
+As an entrepreneur, do you sense that indie artists have it all *backward*? The Beatles relied on a manager from day one; it's how they got their Hamburg gig, as well as their auditions at Decca and Parlophone. But if history's greatest band is the perfect example of how interdependence makes us greater than the sum of our parts?
 
-Well, you're *not* crazy.
+Well, there's good news. The best artists 
 
 As a budding entrepreneur, have you grown tired of indie rock's low barriers to entry? BYCombo's bands will earn your trust by paying a steep *cost* of entry:
 
