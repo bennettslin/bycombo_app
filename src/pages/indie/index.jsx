@@ -35,10 +35,6 @@ Critical acclaim can be inflated; as such, it's a terrible barometer. What *can'
 
 **Why bands?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, if any. But what competitive edge could a [solo artist](https://www.honest-broker.com/p/the-bands-are-never-coming-back) possibly have nowadays, to put them among the best in the *world*? From now until forever, if artists want to aim for the canon, they'll need to be greater than the sum of their parts— and this can only happen by forming *bands*.
 
 **Why *assembled* bands?**
@@ -198,10 +194,6 @@ So instead, you strive to be what a future audience— or romantic partner!— w
 But why would Gen Z— and beyond— side with past gatekeepers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of today's indie rock! Luckily, BYCombo promises to make *your* art worthy of rediscovery— by letting you think like a future audience.
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Who foresaw indie rock's final stage as a [trust fund playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia)? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/10900). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
