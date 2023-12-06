@@ -16,12 +16,12 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Model first paragraph just like Apply page.
+// TODO: Segue to bold text.
 `}
 
-As an entrepreneur, do you sense that indie rock has it all *backward*? The Beatles relied on a manager from day one; it's how they got their Hamburg gig, as well as their auditions at Decca and Parlophone. Let's face it, history's greatest band is the perfect example of how interdependence makes us greater than the sum of our parts. Why expect greatness to ever come from doing the opposite?
+As an entrepreneur, do you sense that indie rock has it all *backward*? The Beatles relied on managers from day one; it's how they got their Hamburg gig, as well as their audition at Parlophone. And if history's greatest band is a paragon of *inter*-dependence… then how good can any *indie*-pendent artist ever really be?
 
-Well, there's good news: The artists who hope to make the best art have *never* aspired to be indie. We just don't hear from them, because without a system that operates interdependently, they have no way be heard. Until now!
+Well, you're *not* crazy: The artists trying to make the best art today *don't* want to be indie; they *do* hope to work with business partners. We just never hear from them, because indie rock shuts them out. Until now!
 
 ${'  ' || `
 // TODO: State that they can contact artist directly, and there are no fees.
@@ -43,11 +43,15 @@ If you'd like to be notified when a new demo is added to our public registry, pl
 
 ${'  ' || `
 // TODO: Keep working on this. Make clear that it's a proposal.
+
+I'm trying to attract influencers, so make it less about business acumen and more about… whatever they're proud of.
+
+Read the Brian Epstein book!
 `}
 
-If indie artists are never the best, then who exactly chooses to be one? Here's a theory: Maybe the ones who most love to be their own manager… are those who, in the past, would have been resigned to managing someone *else*. So indie rock *doesn't* empower the next Beatles to retain their earnings; it lets today's Brian Epsteins enjoy the spotlight as artists *themselves*!
+If indie artists are never the best, then why are there *any*? Here's a theory: Maybe the ones who most love to be their own manager… are those who, in the past, would have been resigned to managing someone *else*. So indie rock *doesn't* empower the next Beatles to retain their earnings; it lets today's Brian Epsteins enjoy respect— and the spotlight— as artists *themselves*!
 
-As an entrepreneur, perhaps you've thought to take this path yourself. After all, what else is there to do, when indie rock only sees artists as the heroes, and anyone else who takes a share of the earnings is a villain? Why, you can join a counterculture that promotes interdependence, and be admired and respected *precisely* for your business acumen as a band manager!
+As an entrepreneur, perhaps you've thought to take this path yourself. After all, what else is there to do, when indie rock only sees artists as the heroes, while anyone else who takes a share of the earnings is a villain? Why, you can join a pro-interdependence counterculture, and be respected *precisely* for your business acumen— as a band manager!
 
 But… will you also get to enjoy the spotlight? Yes! With BYCombo, you can be a full-fledged member of the band you'll manage. As such, you'll also be given equal credit and royalties. And while there's no expectation for you to do so, whatever you contribute artistically will count toward your band's 25,000 hours.
 
