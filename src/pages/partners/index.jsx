@@ -57,11 +57,11 @@ I'm trying to attract influencers, so make it less about business acumen and mor
 Read the Brian Epstein book!
 `}
 
-If indie artists are never the best, then why are there *any*? Here's a theory: Maybe the ones who most love to be their own manager… are those who, in the past, would have been resigned to managing someone *else*. So indie rock *doesn't* empower the next Beatles to retain their earnings; it lets today's Brian Epsteins enjoy respect— and the spotlight— as artists *themselves*!
+If indie artists are never the best, then why are there *any*? Here's a theory: Maybe the ones who most love to be their own manager… are those who, in the past, would have been resigned to managing *others*. So indie rock *doesn't* help the next Beatles retain their earnings; it lets today's Brian Epsteins enjoy respect— and the spotlight— as artists *themselves*!
 
 As an entrepreneur interested in the arts, perhaps you've thought to take this path yourself. After all, what else is there to do, when indie rock only sees artists as the heroes, while all others who share in the earnings are villains? Why, you can join a pro-interdependence counterculture, and be respected *precisely* for your business acumen— as a band manager!
 
-But… will you also get to enjoy the spotlight? Yes! With BYCombo, you can be a full-fledged member of the band you'll manage. As such, you'll also be given equal credit and royalties. And while there's no expectation for you to contribute artistically, any time you spend doing so will count toward your band's 25,000 hours.
+But… will you also get to enjoy the spotlight? Yes! With BYCombo, you can be a full-fledged member of the band. As such, you'll be given equal credit and royalties. And while there's no expectation for you to contribute artistically, any time you spend doing so will count toward your band's 25,000 hours.
 
 ${'  ' || `
 // TODO: Describe plan.
