@@ -46,7 +46,7 @@ Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the 
 
 **To revive interdependence, bands must sacrifice *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
-But who'd volunteer to be the first of these new martyrs? A hungry outsider, that's who! Which is why I spent 25,000 hours— *twelve* full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
+But who'd volunteer to be the first of these new martyrs? A hungry outsider, that's who! Which is why I spent 25,000 hours— twelve full-time years!— on [*Yearling's Bobtail*](https://www.yearlingsbobtail.com). And of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
 
 ### Who gatekeeps the gatekeepers?
 
