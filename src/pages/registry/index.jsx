@@ -15,9 +15,13 @@ const Component = () => (
                 `
 # ${TITLE}
 
+${'  ' || `
+// TODO: Review.
+`}
+
 **Business partners, discerning listeners, and future historians! To earn your trust, each band in our public registry spent 25,000 hours— twelve full-time years!— to make a demo that advances the art form.**
 
-But remember, we require our bands *not* to empower themselves— which means the indie labels and curators will dismiss them as hobbyists! So if rock is to be saved, we need *others* to tell the world about them. Can one of these rock saviors… be you?
+But remember, we require our bands *not* to empower themselves. So indie rock's gatekeepers— its labels, curators, and pundits— will dismiss them as hobbyists! If rock is to be saved, then, we need *others* to tell the world about them. Can one of these rock saviors… be you?
 
 If you have an offer or opportunity for any of our bands to consider, please contact them directly!
                 `,
