@@ -231,7 +231,7 @@ This… *can't* be a viable way to make history. After all, what historical figu
 
 And yet there will always be another underdog movement— because to be seen as an underdog is a privilege, and the privileged have ways to benefit themselves. So BYCombo is here to ensure that outsiders— the ones most likely to make history!— will still have a fighting chance.
 
-### ${++sectionCounter}. Paid dues ensmallen the noblest artists
+### ${++sectionCounter}. Paid dues ensmallen the noblest spirit
 
 ${'  ' || `
 // TODO: Review.
@@ -239,7 +239,7 @@ ${'  ' || `
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while most everyone in indie rock is nice… no one *helps*.
 
-So I left the music world, and for the next several years, I worked days as a coder and nights on my audio webcomic. When I came back, I heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. This surprised me; in the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
+So I left the music world, and for the next seven years, I worked days as a coder and nights on my audio webcomic. When I came back, I heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. This surprised me; in the tech world, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
 But… now the lack of helpers in rock made perfect sense! Because if paid dues are worthless outside the one culture that honors them, then of *course* those who've paid them will keep the culture as it is— in all its brokenness.
 
