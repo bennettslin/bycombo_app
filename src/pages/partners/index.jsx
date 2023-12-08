@@ -29,7 +29,7 @@ ${'  ' || `
 // TODO: State that they can contact artist directly, and there are no fees.
 
 Scraps:
-As a budding entrepreneur, have you grown tired of indie rock's low barriers to entry? BYCombo's bands will earn your trust by paying a steep *cost* of entry:
+As an entrepreneur, have you grown tired of indie rock's low barriers to entry? BYCombo's bands will earn your trust by paying a steep *cost* of entry:
 
 **To be added to our public registry, each band must sacrifice at least 25,000 hours— twelve years working full time!— to make a demo that advances the art form.**
 
