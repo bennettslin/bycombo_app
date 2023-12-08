@@ -35,7 +35,11 @@ Critical acclaim can be inflated; as such, it's a terrible barometer. What *can'
 
 **Why bands?**
 
-Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, if any. But what competitive edge could a [solo artist](https://www.honest-broker.com/p/the-bands-are-never-coming-back) possibly have nowadays, to put them among the best in the *world*? From now until forever, if artists want to aim for the canon, they'll need to be greater than the sum of their parts— and this can only happen by forming *bands*.
+${'  ' || `
+// TODO: Review.
+`}
+
+Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, if any. But what competitive edge could a [solo artist](https://www.honest-broker.com/p/the-bands-are-never-coming-back) possibly have nowadays, to put them among the best for all *time*? From now until forever, if artists want to aim for the canon, they'll need to be greater than the sum of their parts— and this can only happen by forming *bands*.
 
 **Why *assembled* bands?**
 
@@ -47,7 +51,11 @@ With so many ways left to innovate in this space, there most certainly *are* can
 
 **Why interdependent partners?**
 
-To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a business partner.
+${'  ' || `
+// TODO: Review.
+`}
+
+To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, bands need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a business partner.
 
 **Why demos?**
 
@@ -235,10 +243,10 @@ This… *can't* be a viable way to make history. After all, what historical figu
 
 And yet there will always be another underdog movement— because to be seen as an underdog is a privilege, and the privileged have ways to benefit themselves. So BYCombo is here to ensure that outsiders— the ones most likely to make history!— will still have a fighting chance.
 
-### ${++sectionCounter}. Paid dues ensmallen the noblest spirit
+### ${++sectionCounter}. Paid dues ensmallen the noblest spirits
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review. Don't need to say I returned to music.
 `}
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while most everyone in indie rock is nice… no one *helps*.

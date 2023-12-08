@@ -3,7 +3,7 @@ import DemoLink from '../../components/DemoLink'
 import Page from '../../containers/Page'
 import bobtailYearlings from '../../content/registry/2023/bobtail-yearlings/yearlings-bobtail'
 
-const TITLE = `Return of the rock martyrs… and *saviors*!`
+const TITLE = `Return of the rock martyrs… and *saviors*`
 const DESCRIPTION = `A public registry of interdependent rock bands.`
 
 const Component = () => (
@@ -19,7 +19,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Business partners, discerning listeners, and future historians:
+Business partners, discerning listeners, and future historians!
 
 **To earn your trust, each band in BYCombo's public registry sacrificed a serious chunk of lifetime— at least 25,000 hours, or twelve full-time years— on a demo that advances the art form.**
 
