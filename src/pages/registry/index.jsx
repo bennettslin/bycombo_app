@@ -19,11 +19,11 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Business partners, discerning listeners, and future historians!
+Business partners, discerning listeners, and future historians:
 
 **To earn your trust, each band in BYCombo's public registry sacrificed a serious chunk of lifetime— at least 25,000 hours, or twelve full-time years— on a demo that advances the art form.**
 
-But remember, we require our bands *not* to empower themselves. So indie rock's gatekeepers— its labels, curators, and pundits— will dismiss them as hobbyists! If rock is to be saved, then, we need *others* to tell the world about our bands. Can one of these rock saviors… be you?
+But remember, we require our bands *not* to empower themselves. So indie rock's gatekeepers— its labels, curators, and pundits— will dismiss them as hobbyists! If rock is to be saved, then, we need *others* to tell the world about them. Can one of these rock saviors… be you?
 
 If you have an offer or opportunity for any BYCombo band to consider, please contact them directly!
                 `,
