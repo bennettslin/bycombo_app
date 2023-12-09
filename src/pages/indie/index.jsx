@@ -48,10 +48,10 @@ With so many ways left to innovate in this space, there most certainly *are* can
 **Why interdependent partners?**
 
 ${'  ' || `
-// TODO: Avoid two "they"s in a row.
+// TODO: Review.
 `}
 
-To make history, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, they need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a business partner.
+To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a business partner.
 
 **Why demos?**
 
@@ -127,8 +127,8 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 
 ${'  ' || `
 // TODO: Explain what I mean by foreign canon.
-
-As a child of immigrants, I've always been
+https://en.wikipedia.org/wiki/X_Japan
+As a child of immigrants, I've always been aware of foreign canons.
 `}
 
 In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond to make the best art. Why don't they? Well, let's examine their options.
@@ -248,14 +248,14 @@ And yet there will always be another underdog movement— because to be seen as 
 ### ${++sectionCounter}. Paid dues ensmallen the noblest spirits
 
 ${'  ' || `
-// TODO: Get the wording right in the second and third paragraphs.
+// TODO: Review.
 `}
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while most everyone in indie rock is nice… no one *helps*.
 
-So I took a coding bootcamp, and for the next [seven years](https://www.bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to the music world, I heard indie artists speak of paying their dues, like always— except now it surprised me. In tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
+So I took a coding bootcamp, and for [seven years](https://www.bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except now it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
-An artist touring at a loss, for example, impresses no one who isn't indie. And suddenly the lack of helpers in rock made perfect sense! Because if paid dues are worthless outside the one culture that honors them, then of *course* those who've paid them will keep the culture as it is— in all its brokenness.
+But… suddenly the lack of helpers in rock made perfect sense! If paid dues are worthless outside the one culture that honors them, then of *course* those who've paid them will keep the culture as it is— in all its brokenness.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So the only newcomers they'll welcome are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus embiggening the [vicious circle](https://www.goodreads.com/quotes/391717) of brokenness.
 
