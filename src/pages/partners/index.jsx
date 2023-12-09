@@ -2,8 +2,8 @@ import React from 'react'
 import MailingList from '../../components/MailingList'
 import Page from '../../containers/Page'
 
-const TITLE = `Partner with our history-making bands!`
-const DESCRIPTION = `Learn about our "band managers as bandmates" plan.`
+const TITLE = `Back the interdependence revolution!`
+const DESCRIPTION = `Come partner with our history-making bands.`
 
 const Component = () => (
     <Page

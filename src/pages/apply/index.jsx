@@ -1,7 +1,7 @@
 import React from 'react'
 import Page from '../../containers/Page'
 
-const TITLE = `Join the interdependence revolution!`
+const TITLE = `Be a martyr for interdependence!`
 const DESCRIPTION = `Sacrifice a serious chunk of lifetime to advance the art form.`
 
 const Component = () => (
@@ -18,6 +18,10 @@ As an artist, do you sense that the indie labels have it all *backward*? Why do 
 **To join BYCombo as an artist, you must pledge *not* to empower yourself. Instead, your band will gain exposure through business partners, whose trust you'll earn by sacrificing a serious chunk of lifetime.**
 
 ### Who we're looking for
+
+${'  ' || `
+// TODO: Make clear that you're a martyr. You may be left with nothing but your talents in your craft, the friendships of your bandmates, and the satisfaction of a project done.
+`}
 
 Are you eager to advance the art form? Are you willing to join an assembled band whose members get equal credit and royalties? Are you able to devote at least thirty hours each week to your band project? And are you ready to avoid social media for good? If so, we're looking for those who are reasonably skilled in one or more of the following roles:
 
