@@ -19,7 +19,7 @@ Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I'v
 
 There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life coming up with a plan:
 
-**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically relevant demos, which they'll show in a public registry to find business partners from a pro-interdependence counterculture.**
+**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically relevant demos, which they'll show in a public registry to find business partners from a counterculture of interdependence.**
 
 ### The revolution will not be decentralized
 
@@ -245,7 +245,7 @@ This… *can't* be a viable way to make history. After all, what historical figu
 
 And yet there will always be another underdog movement— because to be seen as an underdog is a privilege, and the privileged have ways to benefit themselves. So BYCombo is here to ensure that outsiders— the ones most likely to make history!— will still have a fighting chance.
 
-### ${++sectionCounter}. Dues payers feel exempt from showing magnanimity
+### ${++sectionCounter}. Paid dues quash the noblest spirits
 
 ${'  ' || `
 // TODO: Review.
