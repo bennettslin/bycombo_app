@@ -23,7 +23,7 @@ ${'  ' || `
 // TODO: Make clear that you're a martyr. You may be left with nothing but your talents in your craft, the friendships of your bandmates, and the satisfaction of a project done.
 `}
 
-Are you eager to advance the art form? Are you willing to join an assembled band whose members get equal credit and royalties? Are you able to devote at least thirty hours each week to your band project? And are you ready to avoid social media for good? If so, we're looking for those who are reasonably skilled in one or more of the following roles:
+Are you eager to make history by advancing the art form? Are you willing to join an assembled band whose members get equal credit and royalties? Are you able to devote at least thirty hours each week to your band project? And are you ready to avoid social media for good? If so, we're looking for those who are reasonably skilled in one or more of the following roles:
 
 * A rock musician: singer, guitarist, drummer…
 * A musician of any other stripe: composer, tabla player…

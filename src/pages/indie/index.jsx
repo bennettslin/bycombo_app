@@ -128,7 +128,7 @@ Final paragraph, make point about international artists?
 
 https://en.wikipedia.org/wiki/X_Japan
 
-As a child of immigrants, I've always been aware of foreign canons.
+As a child of immigrants, I've always been aware of foreign rock canons.
 `}
 
 In the past, we of the English-speaking world rightfully claimed ours to be *the* rock canon. Our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead. But today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond to make the best art. Why don't they? Well, let's examine their options.
@@ -201,7 +201,7 @@ Nick Drake was ignored in his own time— yet the next generation made him known
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone could ever be *made* known, simply by deserving it.
 
-Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't listeners eventually do the same against artists milking free labor out of [parasocial relationships](https://exiledfan.substack.com/p/the-big-business-of-stan-culture)?
+Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't listeners do the same against artists milking free labor out of [parasocial relationships](https://exiledfan.substack.com/p/the-big-business-of-stan-culture)?
 
 So instead, you strive to be what a future audience— or romantic partner!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
