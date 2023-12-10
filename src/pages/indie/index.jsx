@@ -119,7 +119,7 @@ Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by worki
 
 Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll try to *fix* the damage we caused— much like we topple Confederate statues today. So why be a charity case *and* a villain? With BYCombo, you can make history the *right* way.
 
-### ${++sectionCounter}. Opportunity costs can plainly be measured
+### ${++sectionCounter}. Every option has an opportunity cost
 
 ${'  ' || `
 // TODO: Revise. Needs a first paragraph that clearly explains what I mean by foreign canon. While "Why bands?" explains why they need to be the best for all time, this section should explain why they need to be the best in the world.
@@ -201,7 +201,7 @@ Nick Drake was ignored in his own time— yet the next generation made him known
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone could ever be *made* known, simply by deserving it.
 
-Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this approach can work— but *should* it? And if women have learned to guard against negging, then why wouldn't listeners do the same against artists trying to milk free labor out of [parasocial relationships](https://exiledfan.substack.com/p/the-big-business-of-stan-culture)?
+Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't listeners eventually do the same against artists milking free labor out of [parasocial relationships](https://exiledfan.substack.com/p/the-big-business-of-stan-culture)?
 
 So instead, you strive to be what a future audience— or romantic partner!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
@@ -245,7 +245,7 @@ This… *can't* be a viable way to make history. After all, what historical figu
 
 And yet there will always be another underdog movement— because to be seen as an underdog is a privilege, and the privileged have ways to benefit themselves. So BYCombo is here to ensure that outsiders— the ones most likely to make history!— will still have a fighting chance.
 
-### ${++sectionCounter}. Paid dues quash the noblest spirits
+### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
 ${'  ' || `
 // TODO: Review.
