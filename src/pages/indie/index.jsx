@@ -51,11 +51,7 @@ To aim for the canon, a band must develop exceptional strengths. But this isn't 
 
 **Why demos?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own go-to example. Yes, anyone today can self-release their works— but this is a *curse*, not a *blessing*. Past artists put out *demos*, and to compete with them means doing the same.
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own go-to example. Yes, anyone today can self-release their works— but this is a *curse*, not a *blessing*. Past artists put out *demos*, and to compete with them means doing likewise.
 
 **Why a public registry?**
 
@@ -123,7 +119,7 @@ Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by worki
 
 Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll try to *fix* the damage we caused— much like we topple Confederate statues today. So why be a charity case *and* a villain? With BYCombo, you can make history the *right* way.
 
-### ${++sectionCounter}. The opportunity cost is too damn high
+### ${++sectionCounter}. Opportunity costs can plainly be measured
 
 ${'  ' || `
 // TODO: Revise. Needs a first paragraph that clearly explains what I mean by foreign canon. While "Why bands?" explains why they need to be the best for all time, this section should explain why they need to be the best in the world.
@@ -139,7 +135,7 @@ In the past, we of the English-speaking world rightfully claimed ours to be *the
 
 They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-In a world of charitable support, then, the smart choice is obvious. But… what if a band goes above and beyond *anyway*, hoping to make the best art? Add up their gains, subtract the [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! Thankfully, with BYCombo, you can now go above and beyond to bring it back.
+In a world of charitable support, then, the smart choice is obvious. But… what if a band goes above and beyond *anyway*, hoping to make the best art? Add up their gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! Thankfully, with BYCombo, you can now go above and beyond to bring it back.
 
 ### ${++sectionCounter}. History is made through peer review
 
@@ -205,7 +201,7 @@ Nick Drake was ignored in his own time— yet the next generation made him known
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone could ever be *made* known, simply by deserving it.
 
-Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this kind of approach works— but *should* it? And if society learned to guard against negging, then why wouldn't it do the same against artists milking free labor from [parasocial relationships](https://exiledfan.substack.com/about)?
+Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this approach can work— but *should* it? And if women have learned to guard against negging, then why wouldn't listeners do the same against artists trying to milk free labor out of [parasocial relationships](https://exiledfan.substack.com/p/the-big-business-of-stan-culture)?
 
 So instead, you strive to be what a future audience— or romantic partner!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
@@ -249,7 +245,7 @@ This… *can't* be a viable way to make history. After all, what historical figu
 
 And yet there will always be another underdog movement— because to be seen as an underdog is a privilege, and the privileged have ways to benefit themselves. So BYCombo is here to ensure that outsiders— the ones most likely to make history!— will still have a fighting chance.
 
-### ${++sectionCounter}. Paid dues ensmallen the noblest spirits
+### ${++sectionCounter}. Dues payers feel exempt from showing magnanimity
 
 ${'  ' || `
 // TODO: Review.
@@ -261,7 +257,7 @@ So I took a coding bootcamp, and for [seven years](https://www.bobtailyearlings.
 
 But… suddenly the lack of helpers in rock made perfect sense! If paid dues are worthless outside the one culture that honors them, then of *course* those who've paid them will keep the culture as it is— in all its brokenness.
 
-Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So the only newcomers they'll welcome are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus embiggening the [vicious circle](https://www.goodreads.com/quotes/391717) of brokenness.
+Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So the only newcomers they'll welcome are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717) of brokenness.
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
@@ -273,7 +269,7 @@ In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszen
 
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained through years of self-reliance might just as well be won by chance, or bought by privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
-So yes, BYCombo requires you to focus on your craft, and to collaborate with others doing the same. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
+So yes, BYCombo requires you to focus on your craft, and to collaborate with others doing likewise. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
 
 ### ${++sectionCounter}. Longevity is the last frontier
 
