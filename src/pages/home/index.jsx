@@ -70,9 +70,9 @@ ${'  ' || `
 
 But if we can't dissent, then let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: When a movement *requires* its artists to divert time and energy away from making art— it has no defense if this art is then accused of being *worse*! So there's already a *way* to revolt against indie rock; we just need the next generation to have the *will*.
 
-Sure enough, Gen Z now sees what the older generations see: Indie rock is their hair metal— making the *next* revolution their grunge! Which is the first step to reviving interdependence in defiance of the indie gatekeepers, as it's only once the *youth* are discontent that entrepreneurs will try to disrupt the rock market.
+Sure enough, Gen Z now sees what the older generations see: Indie rock is their hair metal— making the *next* revolution their grunge! Which is the first step to reviving interdependence in defiance of the indie gatekeepers, as it's only once the *youth* are discontent that an entrepreneur will try to disrupt the rock market.
 
-These "Dr. Dres of rock" would love to partner with bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for a counterculture to emerge and *raise* its barriers. And here's where BYCombo comes in!
+This "Dr. Dre of rock" would love to partner with bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for a counterculture that *raises* its barriers to emerge. And here's where BYCombo comes in!
 
 **Interdependent bands can now earn a business partner's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
