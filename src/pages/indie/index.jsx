@@ -83,6 +83,8 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ${'  ' || `
 // TODO: Should be more clear about identity. Then modify link.
+
+Timeless works transcend the artist's identity
 `}
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
@@ -117,6 +119,8 @@ By shutting off this pipeline to the majors, then, indie rock *didn't* help the 
 
 ${'  ' || `
 // TODO: State that high minded support for the arts is a questionable source of revolutionary art to begin with.
+
+Despite philanthropy having *never* been a reliable source of revolution.
 `}
 
 As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even those who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the damage didn't stop there.
@@ -246,7 +250,7 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review. Only suggest calling it that. Don't make it definitive: "Let's call it, "rock and rollism"?"
 `}
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought to the pop genre!
