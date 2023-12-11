@@ -207,10 +207,6 @@ The problem, then, is that indie rock's artistic libertarianism is a *partisan* 
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone could ever be *made* known, simply by deserving it.
@@ -250,7 +246,7 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
 ${'  ' || `
-// TODO: Review. Only suggest calling it that. Don't make it definitive: "Let's call it, "rock and rollism"?"
+// TODO: Review.
 `}
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought to the pop genre!
@@ -261,7 +257,7 @@ Like indie rock, poptimism lets the underdog triumph over any outsiders— even 
 
 This… *can't* be a viable way to make history. After all, what historical figures from *our* past expect the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's original outsiders! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-And yet there will always be another underdog movement— because to be seen as an underdog is a *privilege*, and the privileged have ways to benefit themselves. So BYCombo is here to promote "rock and rollism"— an elitist belief in the superiority of art made by hungry outsiders— as a permanent countermeasure.
+And yet there will always be another underdog movement— because to be seen as an underdog is a *privilege*, and the privileged have ways to benefit themselves. So BYCombo offers a permanent countermeasure, uniting all who believe in the superiority of art made by hungry outsiders— "rock and rollism," perhaps?
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 

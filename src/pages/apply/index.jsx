@@ -20,7 +20,7 @@ As an artist, do you sense that the indie labels have it all *backward*? Why do 
 ### Who we're looking for
 
 ${'  ' || `
-// TODO: Revise.
+// TODO: Review.
 
 Link for tech platforms.
 `}
@@ -47,9 +47,9 @@ BYCombo seeks to have representation from all groups, and we welcome artists wit
 
 As a rock movement started by a minority, BYCombo was conceived to give disadvantaged artists the interdependence they crave and thrive on. We'll also strive for an equitable gender ratio in every band we assemble.
 
-**International artists:**
+**International applicants:**
 
-While we're unable to sponsor you for a U.S. visa at this time, you'll join a community of multinational bands who'll likely face the same challenges, and who'll work together to find common solutions.
+While we're unable to sponsor you for a U.S. visa at this time, you'll join a community of multinational bands who'll likely face the same challenges and will work together to find common solutions.
 
 ### How you'll form a band
 
