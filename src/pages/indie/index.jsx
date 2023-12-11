@@ -81,6 +81,10 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ### ${++sectionCounter}. Timeless works have anonymous appeal
 
+${'  ' || `
+// TODO: Should be more clear about identity. Then modify link.
+`}
+
 To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). They weren't interested, though… and in time I figured out why: Indie rock has no conception of music as a *craft*.
@@ -123,12 +127,10 @@ Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by worki
 
 Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll try to *fix* the damage we caused— much like we topple Confederate statues today. So why be a charity case *and* a villain? With BYCombo, you can make history the *right* way.
 
-### ${++sectionCounter}. Worthiness has a steep opportunity cost
+### ${++sectionCounter}. Excellence has a steep opportunity cost
 
 ${'  ' || `
 // TODO: Revise.
-
-Consider if "worthiness" is the best word.
 
 Needs a first paragraph that clearly explains what I mean by foreign canon. While "Why bands?" explains why they need to be the best for all time, this section should explain why they need to be the best in the world.
 
@@ -201,11 +203,15 @@ The problem, then, is that indie rock's artistic libertarianism is a *partisan* 
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone could ever be *made* known, simply by deserving it.
 
-Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this approach can work… but *should* it? And if society has learned to speak out against negging, then why wouldn't it do the same against artists forming [parasocial bonds](https://exiledfan.substack.com) with devoted fans to milk their free labor?
+Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this approach can work… but *should* it? And if society has learned to speak out against negging, then why wouldn't it do the same against artists milking free labor out of [devoted fans](https://exiledfan.substack.com) through [parasocial exchanges](https://en.wikipedia.org/wiki/Parasocial_interaction)?
 
 So instead, you strive to be what a future audience— or romantic partner!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
@@ -239,6 +245,10 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that suppressed a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and refined by Motown.
@@ -247,7 +257,7 @@ Like indie rock, poptimism lets the underdog triumph over any outsiders— even 
 
 This… *can't* be a viable way to make history. After all, what historical figures from *our* past expect the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's original outsiders! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-And yet there will always be another underdog movement— because to be seen as an underdog is a privilege, and the privileged have ways to benefit themselves. So BYCombo is here to ensure that outsiders— the ones most likely to make history!— will still have a fighting chance.
+And yet there will always be another underdog movement— because to be seen as an underdog is a *privilege*, and the privileged have ways to benefit themselves. So BYCombo is here to promote "rock and rollism"— an elitist belief in the superiority of art made by hungry outsiders— as a permanent countermeasure.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 

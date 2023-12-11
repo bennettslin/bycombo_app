@@ -20,10 +20,16 @@ As an artist, do you sense that the indie labels have it all *backward*? Why do 
 ### Who we're looking for
 
 ${'  ' || `
-// TODO: Make clear that you're a martyr. You may be left with nothing but your talents in your craft, the friendships of your bandmates, and the satisfaction of a project done.
+// TODO: Revise.
+
+Link for tech platforms.
 `}
 
-Are you eager to make history by advancing the art form? Are you willing to join an assembled band whose members get equal credit and royalties? Are you able to devote at least thirty hours each week to your band project? And are you ready to avoid social media for good? If so, we're looking for those who are reasonably skilled in one or more of the following roles:
+Are you eager to make history by advancing the art form? Are you willing to join an assembled band whose members get equal credit and royalties? And are you able to devote at least thirty hours each week to your band project?
+
+Most importantly, are you willing to defy the indie gatekeepers and their allies— the [poptimists](/indie#17-underdogs-are-supremacists-in-effect) and tech platforms— even as they have the power to shut you out forever? That is to say, do you understand that, after sacrificing years of your life, you might be left with nothing more than the work you've done, the talents you've built, and the friends you've made?
+
+If so, then come be part of the interdependence revolution! We're looking for those who are reasonably skilled in one or more of the following roles:
 
 * A rock musician: singer, guitarist, drummer…
 * A musician of any other stripe: composer, tabla player…
@@ -69,6 +75,8 @@ ${'  ' || `
 // TODO: This will be in a Google Form instead.
 
 Anyone of legal age is welcome to apply.
+
+Must read "the problem with indie rock" in its entirety and agree with most of it.
 `}
 
 Email us the following information, and we'll be in touch:
