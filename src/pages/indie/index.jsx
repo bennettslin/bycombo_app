@@ -118,14 +118,12 @@ By shutting off this pipeline to the majors, then, indie rock *didn't* help the 
 ### ${++sectionCounter}. Charitable support is a supreme advantage
 
 ${'  ' || `
-// TODO: State that high minded support for the arts is a questionable source of revolutionary art to begin with.
-
-Despite philanthropy having *never* been a reliable source of revolution.
+// TODO: Review.
 `}
 
-As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even those who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts. Naturally, this deprived the arts of greater funding… and the damage didn't stop there.
+As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even those who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts.
 
-Unlike an arts organization, fans don't need to have rigorous standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— is noble on its own and thus can't be scrutinized. But then… this *isn't* just a leg up, is it? It's a supreme advantage! So indie rock set off an arms race, where even superstars now angle to be seen as underdogs.
+Unlike an arts organization, however, fans don't need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— is noble on its own and thus can't be scrutinized. But then… this *isn't* just a leg up, is it? It's a supreme advantage! So indie rock set off an arms race, where even superstars now angle to be seen as underdogs.
 
 Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to give the underdog a safe lead. Except… haven't we seen this before? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
 
@@ -211,7 +209,7 @@ Nick Drake was ignored in his own time— yet the next generation made him known
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone could ever be *made* known, simply by deserving it.
 
-Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this approach can work… but *should* it? And if society has learned to speak out against negging, then why wouldn't it do the same against artists milking free labor out of [devoted fans](https://exiledfan.substack.com) through [parasocial exchanges](https://en.wikipedia.org/wiki/Parasocial_interaction)?
+Let's imagine, though, that as a musician dedicated to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this approach can work… but *should* it? And if society has learned to speak out against negging, then why wouldn't it do the same against artists milking free labor out of [devoted fans](https://exiledfan.substack.com) through [parasocial exchanges](https://en.wikipedia.org/wiki/Parasocial_interaction)?
 
 So instead, you strive to be what a future audience— or romantic partner!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
@@ -244,10 +242,6 @@ Every Black artist would stare glumly at us. Why? Because back then, they *neede
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the 50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought to the pop genre!
 
