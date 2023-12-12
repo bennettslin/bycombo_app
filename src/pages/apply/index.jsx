@@ -25,7 +25,7 @@ ${'  ' || `
 
 Are you eager to make history by advancing the art form? Are you willing to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project?
 
-Most importantly, are you willing to defy the indie gatekeepers and their allies— the [poptimists](/indie#17-underdogs-are-supremacists-in-effect) and tech platforms— even as they have the power to shut you out forever? That is to say, do you understand that, after sacrificing years of your life, you might be left with nothing else but the work you've done, the talents you've built, and the friends you've made?
+Most importantly, are you willing to defy the indie gatekeepers and their allies— the [poptimists](/indie#17-underdogs-are-supremacists-in-effect) and tech platforms— even as they have the power to shut you out forever? That is to say, do you understand that, after sacrificing years of your life, you may be left with nothing to show for it but the work you've done, the talents you've built, and the friends you've made?
 
 If so, then come be part of the interdependence revolution! We're looking for those who are reasonably skilled in one or more of the following roles:
 
@@ -36,18 +36,18 @@ If so, then come be part of the interdependence revolution! We're looking for th
 ### On diversity and inclusion
 
 ${'  ' || `
-// TODO: Mention multidisciplinary here. Works that transcend platforms.
+// TODO: For artists of other mediums. They hold the key to interdependence.
 `}
-
-BYCombo seeks to have representation from all groups, and we welcome artists with remarkable and unique talents from across the world!
 
 **Women and other disadvantaged groups:**
 
-As a rock movement started by a minority, BYCombo was conceived to give disadvantaged artists the interdependence they crave and thrive on. We'll also strive for an equitable gender ratio in every band we assemble.
+As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they crave and thrive on! We'll also strive for an equitable gender ratio in every band we assemble.
+
+**Artists of other mediums:**
 
 **International applicants:**
 
-While we're unable to sponsor you for a U.S. visa at this time, you'll join a community of multinational bands who'll likely face the same challenges and will work together to find common solutions.
+To revive the historical canon, we need the most talented artists from across the world to *join* us! While we're unable to sponsor you for a U.S. visa at this time, our hope is to assemble enough multinational bands such that you'll be able to work together and find common solutions.
 
 ### How you'll form a band
 

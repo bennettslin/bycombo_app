@@ -82,9 +82,7 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 ### ${++sectionCounter}. Timeless works have anonymous appeal
 
 ${'  ' || `
-// TODO: Should be more clear about identity. Then modify link.
-
-Timeless works transcend the artist's identity
+// TODO: Review.
 `}
 
 To get radio airplay in the 90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
@@ -93,7 +91,7 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 
 Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— or these days, online fans— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
 
-Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8) to know about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
+Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -123,7 +121,7 @@ ${'  ' || `
 
 As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even those who are superstars! How did this happen? It began when indie rock conflated personal fandom with high-minded support for the arts.
 
-Unlike an arts organization, however, fans don't need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— is noble on its own and thus can't be scrutinized. But then… this *isn't* just a leg up, is it? It's a supreme advantage! So indie rock set off an arms race, where even superstars now angle to be seen as underdogs.
+Unlike an arts organization, fans don't need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— is noble on its own and thus can't be scrutinized. But then… this *isn't* just a leg up, is it? It's a supreme advantage! So indie rock set off an arms race, where even superstars now angle to be seen as underdogs.
 
 Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to give the underdog a safe lead. Except… haven't we seen this before? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
 
