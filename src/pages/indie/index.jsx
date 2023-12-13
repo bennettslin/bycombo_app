@@ -205,7 +205,7 @@ Nick Drake was ignored in his own time— yet the next generation made him known
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone could ever be *made* known, simply by deserving it.
 
-Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists [milking free labor](https://exiledfan.substack.com/p/the-big-business-of-stan-culture) out of parasocial interaction?
+Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Yes, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists [milking free labor](https://exiledfan.substack.com/p/the-big-business-of-stan-culture) through parasocial interaction?
 
 So instead, you strive to be what a future audience— or romantic partner!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
@@ -271,7 +271,7 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 
 So yes, BYCombo requires you to focus on your craft, and to collaborate with others doing likewise. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
 
-### ${++sectionCounter}. Longevity is an unexplored frontier
+### ${++sectionCounter}. Longevity remains an unexplored frontier
 
 The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's a whole frontier left to explore! Unfortunately… indie rock isn't cut out for this job: Hustling requires a youthful outlook, so every indie artist is destined to burn out.
 
