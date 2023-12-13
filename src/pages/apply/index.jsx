@@ -32,18 +32,20 @@ If so, then come be part of the interdependence revolution! We're looking for th
 ### On diversity and inclusion
 
 ${'  ' || `
-// TODO: For artists of other mediums. They hold the key to interdependence.
+// TODO: Review.
 `}
 
 **Women and other disadvantaged groups:**
 
 As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they crave and thrive on! We'll also strive for an equitable gender ratio in every band we assemble.
 
-**Artists of other mediums:**
-
 **International applicants:**
 
-To revive the historical canon, we need the most talented artists from across the world to *join* us! While we're unable to sponsor you for a U.S. visa at this time, our hope is to assemble enough multinational bands such that you'll be able to work together and find common solutions.
+To bring back the historical canon, we need the most talented artists from across the world to *join* us! While we're unable to sponsor you for a U.S. visa at this time, our hope is to assemble enough multinational bands such that you'll be able to work together and find common solutions.
+
+**Artists of other mediums:**
+
+One last frontier in the arts is for bands to explore new combinations of different mediums. And working in multimedia will *require* them to ignore indie rock's [demands for conformity](/#tools-are-rules), in ways the public can sympathize with. Which means you play a vital role in reviving interdependence!
 
 ### How you'll form a band
 
