@@ -45,7 +45,7 @@ To bring back the historical canon, we need the most talented artists from acros
 
 **Artists of other mediums:**
 
-One last frontier in the arts is for bands to explore new combinations of different mediums. And working in multimedia will *require* them to ignore indie rock's [demands for conformity](/#tools-are-rules), in ways the public can sympathize with. Which means you play a vital role in reviving interdependence!
+One last frontier in the arts is for bands to explore new combinations of different mediums. And doing so will *require* them to ignore indie rock's [demands for conformity](/#tools-are-rules), in ways the public can sympathize with. Which means you play a vital role in the struggle to revive interdependence!
 
 ### How you'll form a band
 
