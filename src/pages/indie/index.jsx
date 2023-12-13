@@ -111,7 +111,11 @@ By shutting off this pipeline to the majors, then, indie rock *didn't* help the 
 
 ### ${++sectionCounter}. Charitable support is a supreme advantage
 
-As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even the ones who are superstars! How did this happen? It began when indie rock conflated personal taste with high-minded support for the arts, making every fan a philanthropist— a "phlan," perhaps?
+${'  ' || `
+// TODO: Review.
+`}
+
+Growing up, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even the ones who are superstars! How did this happen? It began when indie rock conflated personal taste with high-minded support for the arts, making every fan a philanthropist— a "phlan," perhaps?
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— is noble on its own and thus can't be scrutinized. But then… this *isn't* just a leg up, is it? It's a supreme advantage! So indie rock set off an arms race, where even superstars now angle to be seen as underdogs.
 
@@ -127,11 +131,11 @@ ${'  ' || `
 
 As a child of immigrants, I'd long been aware that other countries had their [own rock canons](https://en.wikipedia.org/wiki/X_Japan). And given how derivative their bands were, they clearly knew all about the music of our English-speaking world— even as we cared nothing of theirs. Ours was *the* canon, because our bands had no foreign peers; any who *could* match us, like ABBA, simply joined us instead.
 
-So I grew up understanding that, to be a *true* heir of the Beatles, you must be better than all other bands in the *world*. Yet today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond to make the best art. Why don't they? Well, let's examine their options.
+And so I've always understood that, to be a *true* heir of the Beatles, you must be better than every other band in the *world*. Yet today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond to make the best art. Why don't they? Well, let's examine their options.
 
 They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-In a world of charitable support, then, the smart choice is obvious. But… what if a band goes above and beyond *anyway*, hoping to make the best art? Add up their gains, subtract the [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! But with BYCombo, you can now go above and beyond to bring it back.
+In a world of charitable support, then, the smart choice is obvious. But… what if a band goes above and beyond *anyway*, hoping to make the best art? Add up their gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest loser. No wonder we lost the historical canon! But with BYCombo, you can now go above and beyond to bring it back.
 
 ### ${++sectionCounter}. History is made through peer review
 
