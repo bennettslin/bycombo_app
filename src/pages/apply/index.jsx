@@ -63,7 +63,7 @@ To bring back the historical canon, we need talented artists from across the wor
 
 **Artists of other mediums:**
 
-One last frontier in the arts is for bands to explore new combinations of different mediums. Which means you play a vital role in the struggle to revive interdependence!
+One last frontier in the arts is for bands to explore new combinations of different mediums. Which means you play a vital role in our mission to revive interdependence!
 
 ### How to apply
 
