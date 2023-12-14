@@ -50,7 +50,7 @@ Of course, we're just getting started, so to thank you for your patience during 
 ### On diversity and inclusion
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Last one should be, mission to bring forth this century's most consequential works.
 `}
 
 **Women and other disadvantaged groups:**

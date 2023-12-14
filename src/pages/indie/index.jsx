@@ -128,11 +128,11 @@ Second and fourth paragraphs, especially. General ideas are there, but can be re
 
 Growing up with immigrant parents, I was long aware that other countries had their [own rock canons](https://en.wikipedia.org/wiki/X_Japan). And given how derivative their bands were, they clearly knew all about the music of our English-speaking world, even as we cared nothing of theirs— making ours *the* rock canon. Sure, some foreign bands, like ABBA, *could* match ours… but then they joined us instead.
 
-So I've always asked: What could make my band one of the best in the *world*, to justify being eligible for *the* [Hall of Fame](https://www.rockhall.com) when those of other countries aren't? Yet today's indie rock is no better than any foreign canon— which means it effectively *is* just another one— because indie artists never ask this of themselves. Why don't they? Well, let's examine their options.
+So I've always asked: What could make my band one of the best in the *world*, to justify being eligible for *the* [Hall of Fame](https://www.rockhall.com) when those of other countries aren't? Yet today's indie rock feels like just another foreign canon, because indie artists never ask this of themselves. Why don't they? Well, let's examine their options.
 
 They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, with *diminishing* returns for any *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: Any band going above and beyond will end up the biggest loser. No wonder we lost the historical canon! Thankfully, with BYCombo, you can once again be one of the best in the *world*: by forming a band with international artists who *could* match you… but will join you instead.
+Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: Those working to *deserve* exposure, rather than just to *get* it, will end up the biggest losers. No wonder we lost the historical canon! Thankfully, with BYCombo, you can once again be one of the best in the *world*: by forming a band with international artists who *could* match you… but will join you instead.
 
 ### ${++sectionCounter}. History is made through peer review
 
@@ -198,7 +198,7 @@ Nick Drake was ignored in his own time— yet the next generation made him known
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone could ever be *made* known, simply by deserving it.
 
-Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Sure, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists [milking free labor](https://exiledfan.substack.com/p/the-big-business-of-stan-culture) out of parasocial attachments?
+Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Sure, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists [milking free labor](https://exiledfan.substack.com/p/the-big-business-of-stan-culture) out of parasocial exchanges?
 
 So instead, you strive to be what a future audience— or romantic partner!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
