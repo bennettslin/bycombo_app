@@ -123,16 +123,19 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 
 ${'  ' || `
 // TODO: Keep working on.
-Second and fourth paragraphs, especially. General ideas are there, but can be refined, and phrasing can be way better.
+
+Second paragraph: Consider whether it sounds better to say, "Indie rock is no better than any foreign canon— which effectively makes it just another foreign canon…"
+
+Fourth paragraph: Logic doesn't flow. If working to deserve exposure makes you lose, how does BYCombo change that?
 `}
 
 Growing up with immigrant parents, I was long aware that other countries had their [own rock canons](https://en.wikipedia.org/wiki/X_Japan). And given how derivative their bands were, they clearly knew all about the music of our English-speaking world, even as we cared nothing of theirs— making ours *the* rock canon. Sure, some foreign bands, like ABBA, *could* match ours… but then they joined us instead.
 
-So I've always asked: What could make my band one of the best in the *world*, to justify being eligible for *the* [Hall of Fame](https://www.rockhall.com) when those of other countries aren't? Yet today's indie rock feels like just another foreign canon, because indie artists never ask this of themselves. Why don't they? Well, let's examine their options.
+So I've always asked: What could make my band the best in the *world*, to justify being eligible for *the* [Hall of Fame](https://www.rockhall.com), when those of other countries simply have no chance? Yet today's indie rock feels like just another foreign canon, because indie artists never ask this of themselves. Why don't they? Well, let's examine their options.
 
 They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, with *diminishing* returns for any *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: Those working to *deserve* exposure, rather than just to *get* it, will end up the biggest losers. No wonder we lost the historical canon! Thankfully, with BYCombo, you can once again be one of the best in the *world*: by forming a band with international artists who *could* match you… but will join you instead.
+Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: Those working to *deserve* exposure— rather than just to *get* it— will be the biggest losers. No wonder we lost the canon! Thankfully, with BYCombo, you can once again be the best in the *world*: by forming a band with international artists who *could* match you… but will join you instead.
 
 ### ${++sectionCounter}. History is made through peer review
 
