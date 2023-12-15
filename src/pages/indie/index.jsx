@@ -115,7 +115,7 @@ It's because stardom *isn't* caused by corporate greed, but by our own social na
 
 But stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So indie rock got it backward: The major labels *didn't* exploit the local scenes. It was precisely *because* the indie labels were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
 
-By shutting off this passage to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore the path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspires to be *most* worthy— get your chance to be one?
+By sealing off this passage to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore the path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspires to be *most* worthy— get your chance to be one?
 
 ### ${++sectionCounter}. Charitable support is a supreme advantage
 
@@ -141,13 +141,13 @@ Third paragraph, first sentence runs on.
 Fourth paragraph, idea doesn't quite flow just yet.
 `}
 
-Growing up with immigrant parents, I was long aware that other countries had their [own rock canons](https://en.wikipedia.org/wiki/X_Japan). And given how derivative their bands were, they clearly knew all about the music of our English-speaking world. Yet we knew nothing of theirs— making ours *the* rock canon. Especially since any band of theirs who *could* match us, like ABBA… simply joined us instead.
+Growing up with immigrant parents, I was long aware that other countries had their [own rock canons](https://en.wikipedia.org/wiki/X_Japan). And given how derivative their bands were, they clearly knew all about the music of our English-speaking world, even as we cared nothing of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* match us, like ABBA… simply joined us instead.
 
-So to belong in the canon alongside the Beatles, I've always understood that my band needs to be the best in the *world*. Yet Millennials often resist my way of thinking, saying that it perpetuates the cultural chauvinism of our past. We shouldn't try to be better than other countries, they insist. Let a thousand canons bloom, with ours being just one of them!
+So to belong in the canon alongside the Beatles, I've always understood that my band needs to be the best in the *world*. Yet indie fans often resist my way of thinking, saying it perpetuates the cultural chauvinism of our past. We shouldn't try to be better than other countries, they insist. Let a thousand canons bloom, with ours being just one of them!
 
-But… then these Millennials will turn around and deplore that indie bands today don't have the [same chances](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) as artists in the past to get into the Rock and Roll Hall of Fame. Even as a quick glance through YouTube makes it clear that today's indie bands, unlike their past counterparts, *aren't* better than their foreign contemporaries— who have *no* chance to get in!
+But… these indie fans will then turn around and deplore the Rock and Roll Hall of Fame, arguing that [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) no longer have a realistic chance to get in. Even when it's plain to see that today's indie artists, unlike their past counterparts, *aren't* more original or talented than foreign contemporaries— who have *no* chance to get in!
 
-Let's face it, we're cultural chauvinists either way. All we can do is not be hypocrites as well, by justifying it. This is why, with BYCombo, you can once again try to be the best in the *world*— by forming a band with artists from other countries, who *could* match you… but will join you instead.
+Let's face it: We're cultural chauvinists either way. All we can do is not be hypocrites as well. This is why BYCombo lets you be the best in the *world*, in the only way possible nowadays— by forming a band with artists from other countries, who *could* match you… but will join you instead.
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
@@ -155,7 +155,7 @@ ${'  ' || `
 // TODO: Revise. Keep working on.
 `}
 
-Today's indie rock isn't better than any foreign canon— making it effectively just another foreign canon— because indie artists *never* go above and beyond to make the best art. But… why don't they? Well, let's examine their options.
+So today's indie rock is effectively just another foreign canon, because indie artists *never* go above and beyond to make the best art. But… why don't they? Well, let's examine their options.
 
 They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, with *diminishing* returns for each *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
@@ -179,11 +179,15 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Because the indie labels and curators stay close to their local scenes, they're both "in the know" and "one of us." Whatever *they* like, then, is what others like *us* have liked, which means it's the best of what *we'll* like— or so we're told. Yet according to science… it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Which is why the most creative works in history were often backed by those with the *least* prior experience in the arts: When you *don't* know what the people like, you *won't* be led astray! Let's face it, the best partners take pride in knowing how to do business, *not* in recognizing great art. And now with BYCombo, you can once again find such partners to back you.
+When you don't know what the people like, then, you won't be led astray— which is why the *most* creative works in history were often backed by those with the *least* prior experience in the arts! Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. And now with BYCombo, you can once again find such partners to back you.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
