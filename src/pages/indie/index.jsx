@@ -31,7 +31,11 @@ A counterculture is needed to protect dangerous ideas, yet there hasn't been one
 
 **Why historical relevance?**
 
-Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist will be inducted into the canon— and *this* is why people gripe that rock is getting worse.
+${'  ' || `
+// TODO: Review.
+`}
+
+Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist will be added to the canon— and *this* is why people gripe that rock is getting worse.
 
 **Why bands?**
 
@@ -101,13 +105,17 @@ It's just that now, little but chance separates the few who make it from the man
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
+${'  ' || `
+// TODO: Review.
+`}
+
 By the 00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have lost even *artistic* relevance. Why is this?
 
 It's because stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* need to hear the best; we just want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into winning advantages— and *this* is how unworthy artists end up as superstars.
 
 But stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So indie rock got it backward: The major labels *didn't* exploit the local scenes. It was precisely *because* the indie labels were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
 
-By shutting off this pipeline to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore the path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspires to be *most* worthy— get a chance to be one?
+By shutting off this passage to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore the path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspires to be *most* worthy— get your chance to be one?
 
 ### ${++sectionCounter}. Charitable support is a supreme advantage
 
@@ -126,6 +134,8 @@ ${'  ' || `
 
 Ideas are all there for first three paragraphs. Just needs phrasing.
 
+Make indie, not Millennials?
+
 Third paragraph, first sentence runs on.
 
 Fourth paragraph, idea doesn't quite flow just yet.
@@ -137,7 +147,7 @@ So I've always understood that, to belong in the canon alongside the Beatles, my
 
 But… then these Millennials will turn around and deplore that indie bands today don't have the [same chances](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) as artists in the past to get into the Rock and Roll Hall of Fame. Even as a quick glance through YouTube makes it clear that today's indie bands, unlike their past counterparts, *aren't* better than their foreign contemporaries— who have *no* chance to get in!
 
-The lesson is clear: We're cultural chauvinists either way. All we can do is not be hypocrites about it. Thankfully, I've spent a long time working on a solution that should please everyone. With BYCombo, you can once again try to be the best in the *world*— by forming a band with artists from other countries, who *could* match you… but will join you instead.
+The lesson is clear: We're cultural chauvinists either way. All we can do is not be hypocrites about it, by justifying it. This is why, with BYCombo, you can once again try to be the best in the *world*— by forming a band with artists from other countries, who *could* match you… but will join you instead.
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
