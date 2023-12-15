@@ -136,7 +136,7 @@ Ideas are all there for first three paragraphs. Just needs phrasing.
 
 Make indie, not Millennials?
 
-Third paragraph, first sentence runs on.
+Third paragraph, make first sentence about today's indie artists, second about today's artists.
 
 Fourth paragraph, idea doesn't quite flow just yet.
 `}
@@ -145,7 +145,7 @@ Growing up with immigrant parents, I was long aware that other countries had the
 
 So to belong in the canon alongside the Beatles, I've always understood that my band needs to be the best in the *world*. Yet indie fans often resist my way of thinking, saying it perpetuates the cultural chauvinism of our past. We shouldn't try to be better than other countries, they insist. Let a thousand canons bloom, with ours being just one of them!
 
-But… these indie fans will then turn around and deplore the Rock and Roll Hall of Fame, arguing that [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) no longer have a realistic chance to get in. Even when it's plain to see that today's indie artists, unlike their past counterparts, *aren't* more original or talented than foreign contemporaries— who have *no* chance to get in!
+But… these indie fans will then turn around and deplore the Rock and Roll Hall of Fame, arguing that [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) no longer have a realistic chance to get in. Even when it's plain to see that today's indie artists, unlike their past counterparts, *aren't* more original or talented than their foreign contemporaries— who have *no* chance to get in!
 
 Let's face it: We're cultural chauvinists either way. All we can do is not be hypocrites as well. This is why BYCombo lets you be the best in the *world*, in the only way possible nowadays— by forming a band with artists from other countries, who *could* match you… but will join you instead.
 
