@@ -143,11 +143,11 @@ Fourth paragraph, idea doesn't quite flow just yet.
 
 Growing up with immigrant parents, I was long aware that other countries had their [own rock canons](https://en.wikipedia.org/wiki/X_Japan). And given how derivative their bands were, they clearly knew all about the music of our English-speaking world. Yet we knew nothing of theirs— making ours *the* rock canon. Especially since any band of theirs who *could* match us, like ABBA… simply joined us instead.
 
-So I've always understood that, to belong in the canon alongside the Beatles, my band needs to be the best in the *world*. Yet Millennials often resist my way of thinking, saying that it perpetuates the cultural chauvinism of our past. We shouldn't try to be better than other countries, they insist. Let a thousand canons bloom, with ours being just one of them!
+So to belong in the canon alongside the Beatles, I've always understood that my band needs to be the best in the *world*. Yet Millennials often resist my way of thinking, saying that it perpetuates the cultural chauvinism of our past. We shouldn't try to be better than other countries, they insist. Let a thousand canons bloom, with ours being just one of them!
 
 But… then these Millennials will turn around and deplore that indie bands today don't have the [same chances](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) as artists in the past to get into the Rock and Roll Hall of Fame. Even as a quick glance through YouTube makes it clear that today's indie bands, unlike their past counterparts, *aren't* better than their foreign contemporaries— who have *no* chance to get in!
 
-The lesson is clear: We're cultural chauvinists either way. All we can do is not be hypocrites about it, by justifying it. This is why, with BYCombo, you can once again try to be the best in the *world*— by forming a band with artists from other countries, who *could* match you… but will join you instead.
+Let's face it, we're cultural chauvinists either way. All we can do is not be hypocrites as well, by justifying it. This is why, with BYCombo, you can once again try to be the best in the *world*— by forming a band with artists from other countries, who *could* match you… but will join you instead.
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
@@ -155,11 +155,11 @@ ${'  ' || `
 // TODO: Revise. Keep working on.
 `}
 
-Yet today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond to outmatch those of other countries. Why don't they? Well, let's examine their options.
+Today's indie rock isn't better than any foreign canon— making it effectively just another foreign canon— because indie artists *never* go above and beyond to make the best art. But… why don't they? Well, let's examine their options.
 
 They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, with *diminishing* returns for each *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: Those hoping to make the best art… will be the biggest losers. No wonder we lost the canon! 
+Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: Those hoping to make the best art… will be the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now go above and beyond to bring it back.
 
 ### ${++sectionCounter}. History is made through peer review
 
