@@ -19,7 +19,11 @@ Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I'v
 
 There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life coming up with a plan:
 
-**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically relevant demos, which they'll show in a public registry to find business partners from a counterculture of interdependence.**
+${'  ' || `
+// TODO: Review.
+`}
+
+**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically canonical demos, which they'll show in a public registry to find business partners from a counterculture of interdependence.**
 
 ### The revolution will not be decentralized
 
@@ -29,9 +33,13 @@ Okay, that's a mouthful! Let's break it down…
 
 A counterculture is needed to protect dangerous ideas, yet there hasn't been one for some time. Meanwhile, despite indie rock's good intentions, music is now worse. But what if music is worse… *because* of these good intentions? What if all this charitable support for *artists*… is actually bad for the *arts*? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
-**Why historical relevance?**
+**Why the historical canon?**
 
-Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist will be added to the canon— and *this* is why people gripe that rock is getting worse.
+${'  ' || `
+// TODO: Review.
+`}
+
+Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be added to the canon— and *this* is why people gripe that rock is getting worse.
 
 **Why bands?**
 

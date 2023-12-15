@@ -12,7 +12,11 @@ const Component = () => (
             body: `
 # ${TITLE}
 
-**As a nonprofit, BYCombo is dedicated to bringing forth this century's most consequential rock bands! Our plan is to assemble each band ourselves and then expose them to interdependent-minded business partners.**
+${'  ' || `
+// TODO: Review.
+`}
+
+**As a nonprofit, BYCombo will bring forth the historically canonical rock bands of this century! Our plan is to assemble each band ourselves and then expose them to interdependent-minded business partners.**
 
 Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative?
 
@@ -20,7 +24,11 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com)! 
 
 ### Tools… are *rules*
 
-Indie rock roots for the underdog, and so it seeks to lower the barriers to entry for artists. As such, it provides them with tools of empowerment— social media, distribution services, crowdfunding platforms, and so forth— that allow them to bypass the labels and build a fanbase on their own.
+${'  ' || `
+// TODO: Review.
+`}
+
+Indie rock roots for the underdog, and so it seeks to lower the barriers to entry for artists. As such, it provides them with tools of empowerment— social media, distribution services, crowdfunding platforms, and so forth— allowing them to bypass the labels and build a fanbase on their own.
 
 Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their main purpose is to punish any holdouts. But wait… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
