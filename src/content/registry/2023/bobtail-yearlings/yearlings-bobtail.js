@@ -35,6 +35,10 @@ After attending a coding bootcamp, Bennett worked for years as a coder while liv
 
 **Who are we looking for?**
 
+${'  ' || `
+// TODO: Revise in light of changes to partners page. Then review entire page.
+`}
+
 We're looking for someone to join our band in a full-time [admin position](https://www.bobtailyearlings.com/writings/ongoing/our-mission-principles-and-terms/#roles), as an [equally paid](https://www.bobtailyearlings.com/writings/ongoing/our-mission-principles-and-terms/#compensation) member. You would handle our administrative work, take on a leadership role at BYCombo, and oversee development of Bobtail Method and Bobtail Dominoes.
 
 We also hope to hear from those who'd like to work with our band in any way: managers, publicists, and labels!

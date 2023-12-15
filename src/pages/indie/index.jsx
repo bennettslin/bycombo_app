@@ -147,8 +147,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-How did indie rock end up as just another foreign canon?
-It's because indie artists *never* go above and beyond to make the best art. Okay, but… why *don't* they? Well, let's examine their options.
+How did indie rock end up as just another foreign canon? It's because indie artists *never* go above and beyond to make the best art. Okay, but… why *don't* they? Well, let's examine their options.
 
 They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, with *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
