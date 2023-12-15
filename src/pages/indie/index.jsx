@@ -31,10 +31,6 @@ A counterculture is needed to protect dangerous ideas, yet there hasn't been one
 
 **Why historical relevance?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist will be added to the canon— and *this* is why people gripe that rock is getting worse.
 
 **Why bands?**
@@ -105,10 +101,6 @@ It's just that now, little but chance separates the few who make it from the man
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
-${'  ' || `
-// TODO: Review.
-`}
-
 By the 00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have lost even *artistic* relevance. Why is this?
 
 It's because stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* need to hear the best; we just want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into winning advantages— and *this* is how unworthy artists end up as superstars.
@@ -130,36 +122,29 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
 ${'  ' || `
-// TODO: Revise.
-
-Ideas are all there for first three paragraphs. Just needs phrasing.
-
-Make indie, not Millennials?
-
-Third paragraph, make first sentence about today's indie artists, second about today's artists.
-
-Fourth paragraph, idea doesn't quite flow just yet.
+// TODO: Review a few more times.
 `}
 
-Growing up with immigrant parents, I was long aware that other countries had their [own rock canons](https://en.wikipedia.org/wiki/X_Japan). And given how derivative their bands were, they clearly knew all about the music of our English-speaking world, even as we cared nothing of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* match us, like ABBA… simply joined us instead.
+Growing up with immigrant parents, I was long aware that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). And given how derivative their bands were, they clearly knew all about the music of our English-speaking world, even as we cared little of theirs. Which made ours *the* rock canon! After all, any band of theirs who *could* match us, like ABBA… simply joined us instead.
 
 So to belong in the canon alongside the Beatles, I've always understood that my band needs to be the best in the *world*. Yet indie fans often resist my way of thinking, saying it perpetuates the cultural chauvinism of our past. We shouldn't try to be better than other countries, they insist. Let a thousand canons bloom, with ours being just one of them!
 
-But… these indie fans will then turn around and deplore the Rock and Roll Hall of Fame, arguing that [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) no longer have a realistic chance to get in. Even when it's plain to see that today's indie artists, unlike their past counterparts, *aren't* more original or talented than their foreign contemporaries— who have *no* chance to get in!
+But… these same indie fans will then deplore the Rock and Roll Hall of Fame, arguing that recent artists no longer have a [fair chance](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) to be inducted. Even when it's clear that today's indie artists, unlike past inductees, *aren't* better than their foreign contemporaries— who have *no* chance to be inducted. Yet no one complains that it's called *the* Rock Hall!
 
-Let's face it: We're cultural chauvinists either way. All we can do is not be hypocrites as well. This is why BYCombo lets you be the best in the *world*, in the only way possible nowadays— by forming a band with artists from other countries, who *could* match you… but will join you instead.
+Let's face it, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, BYCombo is here to make us the best in the world once more, in the only way now possible— by letting you form a band with artists from other countries, who *could* match you… but will join you instead.
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
 ${'  ' || `
-// TODO: Revise. Keep working on.
+// TODO: Review a few more times.
 `}
 
-So today's indie rock is effectively just another foreign canon, because indie artists *never* go above and beyond to make the best art. But… why don't they? Well, let's examine their options.
+How did indie rock end up as just another foreign canon?
+It's because indie artists *never* go above and beyond to make the best art. Okay, but… why *don't* they? Well, let's examine their options.
 
-They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, with *diminishing* returns for each *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
+They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, with *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: Those hoping to make the best art… will be the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now go above and beyond to bring it back.
+The sane choice, then, is obvious. But… what happens if a band tries to make the best art *anyway*? Add up their gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest losers. No wonder we lost the historical canon! But now with BYCombo, you can find a business partner who *wants* you to go above and beyond to bring it back.
 
 ### ${++sectionCounter}. History is made through peer review
 
@@ -179,15 +164,11 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Because the indie labels and curators stay close to their local scenes, they're both "in the know" and "one of us." Whatever *they* like, then, is what others like *us* have liked, which means it's the best of what *we'll* like— or so we're told. Yet according to science… it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-When you don't know what the people like, then, you won't be led astray— which is why the *most* creative works in history were often backed by those with the *least* prior experience in the arts! Let's face it: The best partners take pride in knowing how to do business, *not* in recognizing great art. And now with BYCombo, you can once again find such partners to back you.
+Which is why the most creative works in history were often backed by those with the *least* prior experience in the arts: When you *don't* know what the people like, you *won't* be led astray! Let's face it, the best partners take pride in knowing how to do business, *not* in recognizing great art. And now with BYCombo, you can once again find such partners to back you.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 

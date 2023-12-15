@@ -59,7 +59,7 @@ As a rock movement *started* by a minority, BYCombo was *conceived* to give disa
 
 **International applicants:**
 
-To bring back the historical canon, we need talented artists from across the world to *join* us! While we're unable to sponsor you for a U.S. visa at this time, you'll work with our other multinational bands to find shared solutions for common problems.
+To bring back the historical canon, we need talented artists from across the world to *join* us! Our future plan is to be able to sponsor you for a U.S. visa. But for now, you'll work with our other multinational bands to find shared solutions to common problems.
 
 **Artists of other mediums:**
 
