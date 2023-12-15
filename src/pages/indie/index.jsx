@@ -124,18 +124,18 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 ${'  ' || `
 // TODO: Keep working on.
 
-Second paragraph: Consider whether it sounds better to say, "Indie rock is no better than any foreign canon— which effectively makes it just another foreign canon…"
+Split into two? One is "Globalization raises artistic standards," the other is "Excellence has a steep opportunity cost"
 
-Fourth paragraph: Logic doesn't flow. If working to deserve exposure makes you lose, how does BYCombo change that?
+Talk about Chauvinism?
 `}
 
-Growing up with immigrant parents, I was long aware that other countries had their [own rock canons](https://en.wikipedia.org/wiki/X_Japan). And given how derivative their bands were, they clearly knew all about the music of our English-speaking world, even as we cared nothing of theirs— making ours *the* rock canon. Sure, some foreign bands, like ABBA, *could* match ours… but then they joined us instead.
+Growing up with immigrant parents, I was long aware that other countries had their [own rock canons](https://en.wikipedia.org/wiki/X_Japan). And given how derivative their bands were, they clearly knew all about the music of our English-speaking world. Yet we knew nothing of theirs— making ours *the* rock canon. Especially since any band of theirs who *could* match us, like ABBA… simply joined us instead.
 
-So I've always asked: What could make my band the best in the *world*, to justify being eligible for *the* [Hall of Fame](https://www.rockhall.com), when those of other countries simply have no chance? Yet today's indie rock feels like just another foreign canon, because indie artists never ask this of themselves. Why don't they? Well, let's examine their options.
+So I've always understood that, to belong in the canon alongside the Beatles and Led Zeppelin, you must be the best in the *world*. Yet today's indie rock feels like just another foreign canon, because indie artists *never* go above and beyond to outmatch those of other countries. Why don't they? Well, let's examine their options.
 
-They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, with *diminishing* returns for any *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
+They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, with *diminishing* returns for each *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: Those working to *deserve* exposure— rather than just to *get* it— will be the biggest losers. No wonder we lost the canon! Thankfully, with BYCombo, you can once again be the best in the *world*: by forming a band with international artists who *could* match you… but will join you instead.
+Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: Those promising to make the best art… will be the biggest losers. No wonder we lost the canon! Thankfully, with BYCombo, you can once again be the best in the *world*: by forming a band with artists from other countries, who *could* match you… but will join you instead.
 
 ### ${++sectionCounter}. History is made through peer review
 
@@ -192,10 +192,6 @@ Instead, being indie is about commanding the *public's* attention— and this is
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to just suck it up and try harder. Now with BYCombo, there's an opposition party that upholds the interdependence you want— out of respect for your craft.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
