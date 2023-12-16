@@ -31,7 +31,11 @@ A counterculture is needed to protect dangerous ideas, yet there hasn't been one
 
 **Why the historical canon?**
 
-Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be added to the canon— and *this* is why people gripe that music is getting worse.
+${'  ' || `
+// TODO: Review.
+`}
+
+Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be placed in the canon— and *this* is why people gripe that music is getting worse.
 
 **Why bands?**
 
@@ -124,20 +128,20 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 ${'  ' || `
 // TODO: Review a few more times.
 
-First paragraph: Could this be phrased more elegantly?
+First paragraph: Changed now. Make sure it flows and sounds right.
 
 Third paragraph: Make sure it flows and logic is correct.
 
-Fourth paragraph should flow better through cultural chauvinism, hypocrisy, and being the best in the world.
+Fourth paragraph: This is the last thing I worked on, so I'm not sure it's really good as I've left it. Make sure it flows and everything.
 `}
 
-Growing up with immigrant parents, I was long aware that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). And given how derivative their bands were, they clearly knew all about the music of our English-speaking world, even as we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* match us, like ABBA… simply joined us instead.
+Growing up a second-generation immigrant, I was aware early on that other countries had rock canons [of their own](https://en.wikipedia.org/wiki/Visual_kei). Yet theirs were always derivative of ours in the English-speaking world, so even as they knew all about ours, we cared little of theirs— making ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
-So to belong in the canon alongside the Beatles, I've always understood that my band needs to be the best in the *world*. But indie fans often resist my way of thinking, saying it perpetuates the cultural chauvinism of our past. We shouldn't try to be better than other countries, they insist. Let a thousand canons bloom, with ours being just one of them!
+So I've long understood that, to be placed in the canon alongside the Beatles, my band needs to be the best in the *world*. But indie fans resist this way of thinking, saying it perpetuates the cultural chauvinism of our past. We shouldn't try to be better than other countries, they insist. Let a thousand canons bloom, with ours being just one of them!
 
-Yet… these same indie fans will then deplore the Rock and Roll Hall of Fame, arguing that recent artists no longer have a [fair chance](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) to get in. Even when it's clear that today's indie artists, unlike past inductees, *aren't* better than their foreign contemporaries— who have *no* chance! But if they're not trying to maintain *the* rock canon, then why should they get into *the* Rock Hall?
+Yet… these same indie fans will then deplore the Rock and Roll Hall of Fame, arguing that recent artists no longer have a [fair chance](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) to get in. Even when it's clear that today's indie artists— unlike past inductees— *aren't* better than their foreign counterparts, who have *no* chance! But if they're not helping to maintain *the* rock canon, then why should they get into *the* Rock Hall?
 
-Let's face it, we're cultural chauvinists either way; the question is whether to be hypocrites as well. Luckily, BYCombo can make us the best in the world once again, in the only way now possible— by letting you form a band with artists from other countries, who *could* match you… but will join you instead.
+Look, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, BYCombo can make us the world's best once again, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. History is made through peer review
 
