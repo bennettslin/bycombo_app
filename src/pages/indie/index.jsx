@@ -137,9 +137,9 @@ Growing up with immigrant parents, I was long aware that other countries had the
 
 So to belong in the canon alongside the Beatles, I've always understood that my band needs to be the best in the *world*. Yet indie fans often resist my way of thinking, saying it perpetuates the cultural chauvinism of our past. We shouldn't try to be better than other countries, they insist. Let a thousand canons bloom, with ours being just one of them!
 
-But… these same indie fans will then deplore the Rock and Roll Hall of Fame, arguing that recent artists no longer have a [fair chance](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) to be inducted. Even when it's clear that today's indie artists, unlike past inductees, *aren't* better than their foreign contemporaries— who have *no* chance to be inducted. Yet no one complains that it's called *the* Rock Hall!
+But… these same indie fans will then deplore the Rock and Roll Hall of Fame, arguing that recent artists no longer have a [fair chance](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) to be inducted. Even when it's clear that today's indie artists, unlike past inductees, *aren't* better than their foreign contemporaries— who have *no* chance to be inducted. And no one complains that it's called *the* Rock Hall!
 
-Let's face it, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, BYCombo is here to make us the best in the world once more, in the only way now possible— by letting you form a band with artists from other countries, who *could* match you… but will join you instead.
+Let's face it, we're cultural chauvinists either way; all we can do is *not* be hypocrites as well. Luckily, BYCombo is here to make us the best in the world once again, in the only way now possible— by letting you form a band with artists from other countries, who *could* match you… but will join you instead.
 
 ### ${++sectionCounter}. History is made through peer review
 
@@ -161,7 +161,7 @@ How did indie rock end up as just another foreign canon? It's because indie arti
 
 They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, with *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-The sane choice, then, is obvious. But… what happens if a band tries to make the best art *anyway*? Add up their gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest losers. No wonder we lost the historical canon! But now with BYCombo, you can find a business partner who'll *want* you to go above and beyond to bring it back.
+The sane choice, then, is obvious. But… what happens if a band tries to make the best art *anyway*? Add up their gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest losers. No wonder we lost the historical canon! But now with BYCombo, you can find business partners who'll *want* you to go above and beyond to bring it back.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
