@@ -16,17 +16,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-**As a nonprofit, BYCombo will bring forth the historically canonical rock bands of this century! Our plan is to assemble each band ourselves and then expose them to interdependent-minded business partners.**
+**As a nonprofit, BYCombo is here to bring forth this century's historically canonical rock bands! Our plan is to assemble each band ourselves and then expose them to interdependent-minded business partners.**
 
 Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative?
 
 Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com)! Let me explain…
 
 ### Tools… are *rules*
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Indie rock roots for the underdog, and so it seeks to lower the barriers to entry for artists. As such, it provides them with tools of empowerment— social media, distribution services, crowdfunding platforms, and so forth— allowing them to bypass the labels and build a fanbase on their own.
 

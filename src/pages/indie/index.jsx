@@ -19,10 +19,6 @@ Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I'v
 
 There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life coming up with a plan:
 
-${'  ' || `
-// TODO: Review.
-`}
-
 **BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically canonical demos, which they'll show in a public registry to find business partners from a counterculture of interdependence.**
 
 ### The revolution will not be decentralized
@@ -39,7 +35,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be added to the canon— and *this* is why people gripe that rock is getting worse.
+Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be added to the canon— and *this* is why people gripe that music is getting worse.
 
 **Why bands?**
 
@@ -139,7 +135,7 @@ So to belong in the canon alongside the Beatles, I've always understood that my 
 
 But… these same indie fans will then deplore the Rock and Roll Hall of Fame, arguing that recent artists no longer have a [fair chance](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) to be inducted. Even when it's clear that today's indie artists, unlike past inductees, *aren't* better than their foreign contemporaries— who have *no* chance to be inducted. And no one complains that it's called *the* Rock Hall!
 
-Let's face it, we're cultural chauvinists either way; all we can do is *not* be hypocrites as well. Luckily, BYCombo is here to make us the best in the world once again, in the only way now possible— by letting you form a band with artists from other countries, who *could* match you… but will join you instead.
+Let's face it, we're cultural chauvinists either way; the question is whether to be hypocrites as well. Luckily, BYCombo can make us the best in the world once again, in the only way now possible— by letting you form a band with artists from other countries, who *could* match you… but will join you instead.
 
 ### ${++sectionCounter}. History is made through peer review
 
