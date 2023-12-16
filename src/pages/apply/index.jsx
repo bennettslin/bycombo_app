@@ -51,8 +51,6 @@ Of course, we're just getting started, so to thank you for your patience during 
 
 ${'  ' || `
 // TODO: Review.
-
-Work on international applicants some more. Make sure final sentence makes sense.
 `}
 
 **Women and other disadvantaged groups:**
@@ -61,7 +59,7 @@ As a rock movement *started* by a minority, BYCombo was *conceived* to give disa
 
 **International applicants:**
 
-To bring back the historical canon, we need talented artists from across the world to *join* us! Our future hope is to be able to sponsor you for a U.S. visa. In the meantime, you'll work with our other multinational bands to find shared solutions to common problems.
+To bring back the historical canon, we need talented artists from across the world to *join* us! Our future plan is to be able to sponsor you for a U.S. visa. In the meantime, you and the others in your cohort will work out solutions to the common problems you'll all face as multinational bands.
 
 **Artists of other mediums:**
 
