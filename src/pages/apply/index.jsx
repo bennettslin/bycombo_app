@@ -59,11 +59,11 @@ As a rock movement *started* by a minority, BYCombo was *conceived* to give disa
 
 **International applicants:**
 
-To bring back the historical canon, we need talented artists from across the world to *join* us! Our future plan is to be able to sponsor you for a U.S. visa. But for now, you'll work with our other multinational bands to find shared solutions to common problems.
+To bring back the historical canon, we need talented artists from across the world to *join* us! Our future hope is to be able to sponsor you for a U.S. visa. But in the meantime, you'll work with our other multinational bands to find shared solutions to common problems.
 
 **Artists of other mediums:**
 
-One last frontier in the arts is for bands to explore new combinations of different mediums. Which means you play a crucial role in making this century's canonical works!
+One last frontier in the arts is for bands to explore new combinations of different mediums. Which means you play a crucial role in bringing forth this century's canonical works!
 
 ### How to apply
 
