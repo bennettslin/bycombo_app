@@ -18,6 +18,8 @@ const Component = () => (
 ${'  ' || `
 // TODO: Segue to bold text.
 
+Make clear that *I* never wanted to be indie, and I'm guessing I speak for all artists aiming for the canon.
+
 As Dred Scott demonstrated, you're powerless to protest against the very system that renders you a non-entity.
 `}
 

@@ -72,6 +72,8 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: Keep working on. Especially section title. This will be #19. Doesn't need to repeat points made in #1 Cultures of grievance.
 
+First paragraph, mention it was the indie camp who indulged in schadenfreude as the tech platforms began eating the majors' lunch.
+
 *Must* make point that when you criticize the major labels today, you're actually criticizing them for adopting the business model favored by indie labels all along!
 
 Vision-driven model has no alibi: If you failed, it's because you're an idiot. Data driven model has an alibi: I don't know what happened, but the numbers were solid
