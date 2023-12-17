@@ -129,7 +129,7 @@ It's because stardom *isn't* caused by corporate greed, but by our own social na
 
 But stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So indie rock got it backward: The major labels *didn't* exploit the local scenes. It was precisely *because* the indie labels were seen as farm teams for the majors that those 90s alternative bands signed with them in the first place.
 
-By sealing off this passage to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to restore the path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspires to be *most* worthy— get your chance to be one?
+By sealing off this passage to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to rebuild the path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspires to be *most* worthy— get your chance to be one?
 
 ### ${++sectionCounter}. Charitable support is a supreme advantage
 
@@ -163,7 +163,7 @@ ${'  ' || `
 
 How did indie rock devolve into just another foreign canon? It's simple: Indie artists *never* go above and beyond to make the best art. Okay, but… why *don't* they? Well, let's examine their options.
 
-They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, with *diminishing* returns for every *increase* in effort. Yet— by definition— it *isn't* a disadvantage simply not to!
+They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, with *diminishing* returns for every *increase* in effort. Yet— by definition— it *isn't* a disadvantage simply not to!
 
 The sane choice, then, is obvious. But… what happens if a band tries to make the best art *anyway*? Add up their gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for going above and beyond to bring it back.
 
@@ -271,6 +271,12 @@ This… *can't* be a viable way to make history. After all, what historical figu
 
 And yet there will always be another underdog movement— because to be seen as an underdog is a *privilege*, and the privileged have ways to benefit themselves. So BYCombo offers a permanent countermeasure, uniting all who believe in the superiority of art made by hungry outsiders— "rock and rollism," perhaps?
 
+### ${++sectionCounter}. Longevity remains an unexplored frontier
+
+The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's a whole frontier left to explore! Unfortunately… indie rock isn't cut out for this job: Hustling requires a youthful outlook, so every indie artist is destined to burn out.
+
+By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
+
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while most everyone in indie rock is nice… no one *helps*.
@@ -292,12 +298,6 @@ In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszen
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained through years of self-reliance might just as well be won by chance, or bought by privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
 So yes, BYCombo requires you to focus on your craft, and to collaborate with others doing likewise. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
-
-### ${++sectionCounter}. Longevity remains an unexplored frontier
-
-The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's a whole frontier left to explore! Unfortunately… indie rock isn't cut out for this job: Hustling requires a youthful outlook, so every indie artist is destined to burn out.
-
-By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 

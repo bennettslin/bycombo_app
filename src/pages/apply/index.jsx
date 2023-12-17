@@ -63,7 +63,7 @@ One last frontier in the arts is for bands to explore new combinations of differ
 
 **International artists:**
 
-To rebuild the historical canon, we need you to *join* us! In the future, we hope to sponsor you for a U.S. visa. But for now, your cohort will work together to find shared solutions to common problems faced by all multinational bands.
+To restore the historical canon, we need you to *join* us! In the future, we hope to sponsor you for a U.S. visa. But for now, your cohort will work together to find shared solutions to common problems faced by all multinational bands.
 
 ### How to apply
 
