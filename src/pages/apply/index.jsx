@@ -55,15 +55,15 @@ ${'  ' || `
 
 **Women and other disadvantaged groups:**
 
-As a rock movement *started* by a minority, BYCombo was *conceived* to give disadvantaged artists the interdependence they crave and thrive on! We'll also strive for an equitable gender ratio in every band we assemble.
-
-**International applicants:**
-
-To bring back the historical canon, we need talented artists from across the world to *join* us! Our future plan is to be able to sponsor you for a U.S. visa. In the meantime, you and the others in your cohort will work out solutions to the common problems you'll all face as multinational bands.
+As a rock movement *started* by a minority, BYCombo was *conceived* to give you the interdependence you crave and thrive on! We'll also strive for an equitable gender ratio in every band we assemble.
 
 **Artists of other mediums:**
 
 One last frontier in the arts is for bands to explore new combinations of different mediums. Which means you play a crucial role in bringing forth this century's canonical works!
+
+**International artists:**
+
+To rebuild the historical canon, we need you to *join* us! In the future, we hope to sponsor you for a U.S. visa. But for now, your cohort will work together to find shared solutions to common problems faced by all multinational bands.
 
 ### How to apply
 

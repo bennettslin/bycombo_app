@@ -129,7 +129,7 @@ Growing up as a second-generation immigrant, I knew early on that other countrie
 
 So I've long understood that, to belong in the canon alongside the Beatles, my band needs to be the best in the *world*. But the indie camp resists this way of thinking, saying it smacks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
-Yet… this same indie camp will then deplore the Rock and Roll Hall of Fame, arguing that recent artists no longer have a [fair chance](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) to get in. Even when today's indie artists— unlike past inductees— *aren't* better than their foreign counterparts, who have *no* chance! But if they're *not* helping to justify calling ours *the* rock canon… then why would they belong in *the* Rock Hall?
+Yet… this same indie camp will then deplore the Rock and Roll Hall of Fame, arguing that recent artists no longer have a [fair chance](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) to get in. Even when today's indie artists— unlike past inductees— *aren't* better than their foreign counterparts… who have *no* chance! But if they're *not* helping to justify calling ours *the* rock canon, then why would they belong in *the* Rock Hall?
 
 Let's face it, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
@@ -222,10 +222,6 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to rely on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
 
 ### ${++sectionCounter}. Independence breeds homogeneity
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Every indie gatekeeper who's met with me has drawn the same conclusion: "Sure, your [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but you're just a hobbyist." Over time I came to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
 
