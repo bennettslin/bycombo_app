@@ -67,6 +67,28 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Technology is decentralization perfected
+
+${'  ' || `
+// TODO: Keep working on. Especially section title. This will be #19. Doesn't need to repeat points made in #1 Cultures of grievance.
+
+*Must* make point that when you criticize the major labels today, you're actually criticizing them for adopting the business model favored by indie labels all along!
+
+Vision-driven model has no alibi: If you failed, it's because you're an idiot. Data driven model has an alibi: I don't know what happened, but the numbers were solid
+
+It's impossible to rely on word of mouth success without eventually relying again on recommendation algorithms. It's impossible to respect artists who engage with their fans after a show, without eventually respecting again artists who engage with their fans on social media. If you want to keep the analog, you'll eventually go back to the digital.
+`}
+
+Perhaps my arguments against indie rock seem misplaced. After all, aren't tech platforms the *real* villains? Indie rock and tech have always been in cahoots, and continue to be. Major labels are simply behaving like indie labels *always* have.
+
+In the past, major labels are like investors, top-down intervention, broadcast model, vision-driven decisions made on ineffable qualities others *don't* see. But the nature of business is that this involves risk, and if an artist poses a risk, the terms of the contract won't be in their favor.
+
+Naturally, this made the major labels villains to all who care about artists. So indie labels appeared to be the good guys, behaving like banks, bottom-up grassroots model, data-driven decisions made on quantifiable things like the size of an artist's fanbase, which *every* other label sees. Which means labels have no leverage, and artist can negotiate best terms for themselves.
+
+Because of the indie labels' data-driven approach, they became natural allies of the tech platforms in the 00s, and lent them cultural cachet. And this alliance can never waver, because what indie rock respects will always be best xxx by tech. Word of mouth is recommendation algorithms, and fan engagement after show is social media. The tech platforms are just taking indie rock's values to their logical conclusion in the online age!
+
+This means the indie culture will *always* return to technology for solutions. So you can't revolt against the tech platforms while keeping indie rock's ideals, because indie rock's ideals are necessarily about moving away from the human element of decision making, which the tech platforms excel at. So BYCombo provides a counterculture vision-driven decision.
+
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
 In the 90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -123,13 +145,15 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 
 ${'  ' || `
 // TODO: Review a few more times.
+
+Third paragraph: Is first sentence now better?
 `}
 
 Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). Yet theirs were always derivative of ours— the English-speaking world's— so even as they looked up to ours, we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
-So I've long understood that, to belong in the canon alongside the Beatles, my band needs to be the best in the *world*. But the indie camp resists this way of thinking, saying it smacks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
+So I've long understood that, to be placed in the canon alongside the Beatles, my band needs to be the best in the *world*. But the indie camp resists this way of thinking, saying it smacks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
-Yet… this same indie camp will then deplore the Rock and Roll Hall of Fame, arguing that recent artists no longer have a [fair chance](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) to get in. Even when today's indie artists— unlike past inductees— *aren't* better than their foreign counterparts… who have *no* chance! But if they're *not* helping to justify calling ours *the* rock canon, then why would they belong in *the* Rock Hall?
+Yet… this indie camp will then complain that [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) don't have a fair chance to get into the Rock and Roll Hall of Fame. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! And if they're *not* helping to justify calling ours *the* rock canon… then why would they belong in *the* Rock Hall?
 
 Let's face it, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
