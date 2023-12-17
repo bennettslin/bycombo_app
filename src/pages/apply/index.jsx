@@ -53,9 +53,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-**Women and other disadvantaged groups:**
+**Women, minorities, and other disadvantaged groups:**
 
-As a rock movement *started* by a minority, BYCombo was *conceived* to give you the interdependence you crave and thrive on! We'll also strive for an equitable gender ratio in every band we assemble.
+As a rock movement started by a minority, BYCombo was *conceived* to give you the interdependence you crave and thrive on! We'll also strive for an equitable gender ratio in every band we assemble.
 
 **Artists of other mediums:**
 

@@ -67,6 +67,8 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Multidisciplinary bands
+
 ### ${++sectionCounter}. Technology is decentralization perfected
 
 ${'  ' || `
@@ -146,21 +148,21 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). Yet theirs were always derivative of ours— the English-speaking world's— so even as they looked up to ours, we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
+Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
-So I've long understood that, to be placed in the canon alongside the Beatles, my band needs to be the best in the *world*. But the indie camp resists my way of thinking, saying it smacks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
+So I've long understood that, to be placed in the canon alongside the Beatles, my band needs to be the best in the *world*. But the indie camp resists my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
-Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! So this means they're *not* helping to justify calling ours *the* rock canon. In which case… why would they belong in *the* Rock Hall?
+Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who still have *no* chance! So this means they're *not* helping to justify calling ours *the* rock canon. In which case… why would they belong in *the* Rock Hall?
 
 Let's face it, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 How did indie rock devolve into just another foreign canon? It's simple: Indie artists *never* go above and beyond to make the best art. Okay, but… why *don't* they? Well, let's examine their options.
