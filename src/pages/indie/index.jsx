@@ -127,11 +127,11 @@ ${'  ' || `
 
 Growing up as a second-generation immigrant, I was long aware that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). Yet theirs were always derivative of ours— the English-speaking world's— so even as they knew all about ours, we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
-So I've long understood that, to belong in the canon alongside the Beatles, my band needs to be the best in the *world*. But indie fans resist this way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
+So I've long understood that, to belong in the canon alongside the Beatles, my band needs to be the best in the *world*. But the indie camp resists this way of thinking, saying it smacks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
-Yet… these same indie fans will then deplore the Rock and Roll Hall of Fame, arguing that recent artists no longer have a [fair chance](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) to get in. Even when today's indie artists— unlike past inductees— *aren't* better than their foreign counterparts, who have *no* chance! But if they're *not* helping to justify calling ours *the* rock canon… then why would they belong in *the* Rock Hall?
+Yet… this same indie camp will then deplore the Rock and Roll Hall of Fame, arguing that recent artists no longer have a [fair chance](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) to get in. Even when today's indie artists— unlike past inductees— *aren't* better than their foreign counterparts, who have *no* chance! But if they're *not* helping to justify calling ours *the* rock canon… then why would they belong in *the* Rock Hall?
 
-Look, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo was *conceived* to make us the best in the world once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+Look, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo was conceived to make us the best in the world once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
