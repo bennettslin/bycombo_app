@@ -35,7 +35,7 @@ Critical acclaim can be inflated; as such, it's a terrible barometer. What *can'
 
 **Why bands?**
 
-Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, if any. But what competitive edge could a [solo artist](https://www.honest-broker.com/p/the-bands-are-never-coming-back) possibly have nowadays, to put them among the best for all *time*? From now until forever, if artists want to aim for the canon, they'll need to be greater than the sum of their parts— and this can only happen by forming *bands*.
+Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, [if any](https://www.honest-broker.com/p/the-bands-are-never-coming-back). But what competitive edge could a solo artist possibly have nowadays, to put them among the best for all *time*? From now until forever, if artists want to aim for the canon, they'll need to be greater than the sum of their parts— and this can only happen by forming *bands*.
 
 **Why *assembled* bands?**
 
@@ -127,11 +127,11 @@ ${'  ' || `
 
 Growing up as a second-generation immigrant, I was long aware that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). Yet theirs were always derivative of ours— the English-speaking world's— so even as they knew all about ours, we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
-So I've long understood that, to belong in the canon alongside the Beatles, my band needs to be the best in the *world*. But indie fans resist this way of thinking, saying it perpetuates the cultural chauvinism of our past. We shouldn't try to be better than other countries, they insist. Let a thousand canons bloom, with ours being just one of them!
+So I've long understood that, to belong in the canon alongside the Beatles, my band needs to be the best in the *world*. But indie fans resist this way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
 Yet… these same indie fans will then deplore the Rock and Roll Hall of Fame, arguing that recent artists no longer have a [fair chance](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) to get in. Even when today's indie artists— unlike past inductees— *aren't* better than their foreign counterparts, who have *no* chance! But if they're *not* helping to justify calling ours *the* rock canon… then why would they belong in *the* Rock Hall?
 
-Look, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, BYCombo was conceived to make us the best in the world once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+Look, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo was *conceived* to make us the best in the world once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
@@ -139,11 +139,11 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-How did indie rock end up as just one more foreign canon out of many? It's because indie artists *never* go above and beyond to make the best art. Okay, but… why *don't* they? Well, let's examine their options.
+How did indie rock end up as just another foreign canon out of many? It's because indie artists *never* go above and beyond to make the best art. Okay, but… why *don't* they? Well, let's examine their options.
 
-They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, with *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
+They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. What a deal! Moreover, with no talent scouts out there trying to discover artists, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, with *diminishing* returns for every *increase* in effort. Yet— by definition— it *isn't* a disadvantage simply not to!
 
-The sane choice, then, is obvious. But… what happens if a band tries to make the best art *anyway*? Add up their gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest losers. No wonder we lost the historical canon! But thankfully, BYCombo lets you find business partners who'll *want* you to go above and beyond to bring it back.
+The sane choice, then, is obvious. But… what happens if a band tries to make the best art *anyway*? Add up their gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for going above and beyond to bring it back.
 
 ### ${++sectionCounter}. History is made through peer review
 
@@ -223,7 +223,11 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
-Every indie gatekeeper who's met with me has drawn the same conclusion: Sure, my [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but I'm a hobbyist. Over time I came to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it finally clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
+${'  ' || `
+// TODO: Review.
+`}
+
+Every indie gatekeeper who's met with me has drawn the same conclusion: "Sure, your [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but you're just a hobbyist." Over time I came to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 

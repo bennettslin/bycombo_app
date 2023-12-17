@@ -21,7 +21,7 @@ ${'  ' || `
 As Dred Scott demonstrated, you're powerless to protest against the very system that renders you a non-entity.
 `}
 
-As an entrepreneur, do you sense that indie rock has it all *backward*? The Beatles relied on managers from day one; it's how they got their Hamburg gig, as well as their audition at Parlophone. And if history's greatest band was a paragon of *inter*-dependence… then how good can any *indie*-pendent artist really ever be?
+As an entrepreneur, do you sense that indie rock has it all *backward*? The Beatles relied on managers from day one; it's how they got their Hamburg gig, as well as their Parlophone audition. And if history's greatest rock band was a paragon of *inter*-dependence… then how good can any *indie*-pendent artist ever really be?
 
 Well, you're *not* crazy: The artists trying to make the best art today *don't* want to be indie; they *do* hope to work with business partners. We just never hear from them, because indie rock shuts them out. Until now!
 
@@ -59,7 +59,7 @@ Read the Brian Epstein book!
 
 If indie artists are never the best, then why are there *any*? Here's a theory: Maybe the ones who most love to be their own manager… are those who, in the past, would have been resigned to managing *others*. So indie rock *doesn't* help the next Beatles retain their earnings; it lets today's Brian Epsteins enjoy respect— and the spotlight— as artists *themselves*!
 
-As an entrepreneur interested in the arts, perhaps you've thought to take this path yourself. After all, what else is there to do, when indie rock only sees artists as the heroes, while all others who share in the earnings are villains? Why, you can join a counterculture of interdependence, and be respected *precisely* for your business acumen— as a band manager!
+As an entrepreneur interested in the arts, maybe you've thought to take this path yourself. After all, what else is there to do, when indie rock only sees *artists* as the heroes, while all others who share in the earnings are *villains*? Why, you can join a counterculture of interdependence, and be respected *precisely* for your business acumen— as a band manager!
 
 But… will you also get to enjoy the spotlight? Yes! With BYCombo, you can be a full-fledged member of the band. As such, you'll be given equal credit and royalties. And while there's no expectation for you to contribute artistically, any time you spend doing so will count toward your band's 25,000 hours.
 
