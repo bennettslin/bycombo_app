@@ -67,25 +67,27 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Good intentions seek to be data-driven
+
+${'  ' || `
+// TODO: Keep working on.
+
+Fifth paragraph: Third sentence extraneous?
+`}
+
+Perhaps my arguments against indie rock seem misplaced. After all, aren't tech platforms the *real* villains? Okay, but… who put them in power? It was the *indie* camp who first embraced each new technology of the 00s: digital downloads, crowdfunding, streaming media… And for good reason: The tech platforms were bringing indie rock's good intentions to the Internet!
+
+In the past, the major labels behaved like investors, betting on unproven qualities that others *didn't* see, such as a song's potential to be a radio hit. With this *vision*-based approach, often only one label saw what an artist had to offer, allowing them to negotiate the worst terms. For this reason, many saw the majors as the "bad guys."
+
+By contrast, the indie labels are like banks, betting on quantifiable measures such as the size of an artist's fanbase. With this *data*-driven approach, every label sees the same thing, so none holds an advantage. The only way for one to outbid the rest, then, is to offer the best terms. Naturally, this makes them the "good guys" to many.
+
+In the 00s, then, the tech platforms were seen by the indie pundits as good guys, as their data-driven approaches were aligned. And so these pundits eagerly defended file sharing: "Only superstars are hurt; real artists earn their living from live shows!" And social media: "Real artists win over fans by engaging with them, not by having a radio hit do all the work!"
+
+In other words, indie rock *won*. The tech platforms took over by spreading indie values; the major labels stayed alive by adopting indie ways. The world today is what the indie pundits wanted [all along](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). To revolt, then, nothing short of rejecting the indie ethos itself will work. Now with BYCombo, you can once again make art— driven by a lone, unproven vision.
+
 ### ${++sectionCounter}. AI disrupts multidisciplinary last
 
 Unfortunately, the indie labels *require* artists to empower themselves using online tools. 
-
-### ${++sectionCounter}. Data defeated vision without protest
-
-${'  ' || `
-// TODO: Keep working on. Especially section title. This will be #19.
-`}
-
-Perhaps my arguments against indie rock seem misplaced. After all, aren't tech platforms the *real* villains? Sure, but… who put them in power? In the 00s, it was the *indie* camp who first embraced each latest technology: digital downloads, crowdfunding, streaming media… For good reason: The tech platforms are based on indie rock's values, updated for the Internet!
-
-In the past, the major labels behaved like investors, betting on unproven qualities that others *didn't* see, such as a song's potential to be a radio hit. With this *vision*-based approach, often only one label saw what an artist had to offer, allowing that label to negotiate terms unfavorable to the artist. For this reason, many saw the majors as the "bad guys."
-
-By contrast, the indie labels are like banks, betting on quantifiable measures such as the size of an artist's fanbase. With this *data*-driven approach, every label has the same information, so none holds an advantage. The only way for one to outbid the rest, then, is to offer better terms to the artist. Naturally, this makes them the "good guys" to many.
-
-So in the 00s, when the tech platforms came along to show that the future would be driven by data, not vision, the indie pundits felt vindicated. And so they happily embraced file sharing: "Real bands earn their living from live shows!" And social media: "Real bands all along win over their fans by engaging with them."
-
-In other words, indie rock *won*. The tech platforms took over by spreading indie values; the major labels stayed alive by adopting indie ways. Today's culture is what the indie pundits [wanted all *along*](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). To revolt against *any* of it, we need to reject the indie ethos at its *core*. Which is why BYCombo lets you once again make art that speaks to a lone business partner's vision.
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
@@ -220,6 +222,10 @@ Instead, being indie is about commanding the *public's* attention— and this is
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to just suck it up and try harder. Now with BYCombo, there's an opposition party that upholds the interdependence you want— out of respect for your craft.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
+
+${'  ' || `
+// TODO: Reconsider Exiled Fan link?
+`}
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
