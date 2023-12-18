@@ -67,23 +67,25 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Good intentions seek to be data-driven
+### ${++sectionCounter}. Good intentions side with the data-driven
 
 ${'  ' || `
 // TODO: Keep working on.
 
-Fifth paragraph: Third sentence extraneous?
+First paragraph: Needs to be more clear upfront why indie camp recognized tech platforms as indie rock's good intentions. Need to say revisit the 00s?
+
+Fifth paragraph: Make first sentence more like, Tech platforms made all of music data-driven because it's what the indie camp wanted.
 `}
 
-Perhaps my arguments against indie rock seem misplaced. After all, aren't tech platforms the *real* villains? Okay, but… who put them in power? It was the *indie* camp who first embraced each new technology of the 00s: digital downloads, crowdfunding, streaming media… And for good reason: The tech platforms were bringing indie rock's good intentions to the Internet!
+Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms actually to blame? Okay, sure. But… who put them in power? It was the *indie* camp— for an obvious reason: The tech platforms were bringing indie rock's good intentions to the Internet!
 
-In the past, the major labels behaved like investors, betting on unproven qualities that others *didn't* see, such as a song's potential to be a radio hit. With this *vision*-based approach, often only one label saw what an artist had to offer, allowing them to negotiate the worst terms. For this reason, many saw the majors as the "bad guys."
+In the past, a major label would bet on unproven qualities that others *didn't* see, like a song's potential to be a radio hit. But the nature of this vision-based approach is that many times only one label saw what an artist had to offer, giving them leverage to negotiate the worst terms. As such, many saw the majors as the "bad guys."
 
-By contrast, the indie labels are like banks, betting on quantifiable measures such as the size of an artist's fanbase. With this *data*-driven approach, every label sees the same thing, so none holds an advantage. The only way for one to outbid the rest, then, is to offer the best terms. Naturally, this makes them the "good guys" to many.
+By contrast, the indie labels bet on easily quantifiable measures like the size of an artist's fanbase. So whatever one label sees, all others see as well. This data-driven approach gives the *artist* leverage, so the only way for one label to outbid the rest is to offer the best terms. And naturally, this makes them the "good guys" to many.
 
-In the 00s, then, the tech platforms were seen by the indie pundits as good guys, as their data-driven approaches were aligned. And so these pundits eagerly defended file sharing: "Only superstars are hurt; real artists earn their living from live shows!" And social media: "Real artists win over fans by engaging with them, not by having a radio hit do all the work!"
+When the tech platforms came along, then, their data-driven nature placed them on the side of the good guys. And so the indie pundits rushed to defend the streaming services: "Real artists earn a living through live shows; recordings are just publicity!" And social media: "Real artists win over fans by engaging with them— not by holing up to write songs for the radio!"
 
-In other words, indie rock *won*. The tech platforms took over by spreading indie values; the major labels stayed alive by adopting indie ways. The world today is what the indie pundits wanted [all along](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). To revolt, then, nothing short of rejecting the indie ethos itself will work. Now with BYCombo, you can once again make art— driven by a lone, unproven vision.
+In short, music today is data-driven because it's what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). The tech platforms took over by embracing *indie* values; the major labels stayed alive only by adopting *indie* ways. So to revolt against *any* of it… we need to reject indie rock *itself*! Now with BYCombo, you can once again make art— driven by a lone, unproven vision.
 
 ### ${++sectionCounter}. AI disrupts multidisciplinary last
 
@@ -151,7 +153,7 @@ Growing up as a second-generation immigrant, I knew early on that other countrie
 
 So I've long understood that, to be placed in the canon alongside the Beatles, my band needs to be the best in the *world*. But the indie camp resists my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
-Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who still have *no* chance! So this means they're *not* helping to justify calling ours *the* rock canon. In which case… why would they belong in *the* Rock Hall?
+Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! So this means they're *not* helping to justify calling ours *the* rock canon. In which case… why would they belong in *the* Rock Hall?
 
 Let's face it, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
