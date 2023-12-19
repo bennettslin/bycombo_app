@@ -67,25 +67,21 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Good intentions side with the data-driven
+### ${++sectionCounter}. Good intentions side with the data
 
 ${'  ' || `
 // TODO: Keep working on.
-
-First paragraph: Needs to be more clear upfront why indie camp recognized tech platforms as indie rock's good intentions. Need to say revisit the 00s?
-
-Fifth paragraph: Make first sentence more like, Tech platforms made all of music data-driven because it's what the indie camp wanted.
 `}
 
-Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms actually to blame? Okay, sure. But… who put them in power? It was the *indie* camp— for an obvious reason: The tech platforms were bringing indie rock's good intentions to the Internet!
+Perhaps my arguments against indie rock seem misplaced. After all, aren't tech platforms the ones to blame? Well, sure… but who put them in power? It was the *indie* camp! They understood that every new technology in the 00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
 
-In the past, a major label would bet on unproven qualities that others *didn't* see, like a song's potential to be a radio hit. But the nature of this vision-based approach is that many times only one label saw what an artist had to offer, giving them leverage to negotiate the worst terms. As such, many saw the majors as the "bad guys."
+In the past, the major labels would bet on an unproven vision, like a song's potential to get big on the radio. But a vision by itself was worthless; nothing could be guaranteed, and perhaps no other label saw the same promise. So the artist often had no choice but to sign an [unfair contract](https://thebaffler.com/salvos/the-problem-with-music), leading many to treat the majors as the "bad guys."
 
-By contrast, the indie labels bet on easily quantifiable measures like the size of an artist's fanbase. So whatever one label sees, all others see as well. This data-driven approach gives the *artist* leverage, so the only way for one label to outbid the rest is to offer the best terms. And naturally, this makes them the "good guys" to many.
+By contrast, an indie label bets on measurable data, like the size of an artist's fanbase; whatever promise one sees, the others see as well. This gives *all* the power to the artist, since the only way for a label to beat the rest is by offering the most favorable terms. As a result, focusing on solid numbers— or helping artists to boost theirs— is understood to be what the "good guys" do.
 
-When the tech platforms came along, then, their data-driven nature placed them on the side of the good guys. And so the indie pundits rushed to defend the streaming services: "Real artists earn a living through live shows; recordings are just publicity!" And social media: "Real artists win over fans by engaging with them— not by holing up to write songs for the radio!"
+So when the tech platforms came along, their data-driven ways put them on the side of the good guys as well. Which is why the indie pundits rushed to defend file sharing: "Real artists have *always* earned more from live shows; recordings are just publicity!" And social media: "Real artists have *always* engaged with their fans— and now they can, all the time!"
 
-In short, music today is data-driven because it's what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). The tech platforms took over by embracing *indie* values; the major labels stayed alive only by adopting *indie* ways. So to revolt against *any* of it… we need to reject indie rock *itself*! Now with BYCombo, you can once again make art— driven by a lone, unproven vision.
+In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). The tech platforms took over only with their approval; the major labels survived only by adopting their mindset. To revolt against *any* of it, then, we need to reject indie rock *itself*. Which is why BYCombo encourages you *not* to boost your numbers— but to make art in pursuit of an unproven vision.
 
 ### ${++sectionCounter}. AI disrupts multidisciplinary last
 
@@ -145,10 +141,6 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
 So I've long understood that, to be placed in the canon alongside the Beatles, my band needs to be the best in the *world*. But the indie camp resists my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
@@ -158,10 +150,6 @@ Yet… this indie camp will then complain that the Rock and Roll Hall of Fame do
 Let's face it, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
-
-${'  ' || `
-// TODO: Review.
-`}
 
 How did indie rock devolve into just another foreign canon? It's simple: Indie artists *never* go above and beyond to make the best art. Okay, but… why *don't* they? Well, let's examine their options.
 
@@ -225,15 +213,11 @@ The problem, then, is that indie rock's artistic libertarianism is a *partisan* 
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
-${'  ' || `
-// TODO: Reconsider Exiled Fan link?
-`}
-
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone could ever be *made* known, simply by deserving it.
 
-Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Sure, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists milking [free labor](https://www.porchlightbooks.com/product/monster-loyalty-how-lady-gaga-turns-followers-into-fanatics--jackie-huba) out of parasocial exchanges?
+Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Sure, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists milking [free labor](https://exiledfan.substack.com/p/the-big-business-of-stan-culture) out of parasocial exchanges?
 
 So instead, you strive to be what a future audience— or romantic partner!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
