@@ -21,12 +21,20 @@ const joinArrayOfStrings = stringArray => (
         .join('')
 )
 
+const removeListItemNumber = text => (
+    typeof text === 'string' && !isNaN(text.charAt(0)) ?
+        text.substring(text.indexOf('. ') + 2) :
+        text
+)
+
 export const getLinkId = children => (
     slugify(
-        joinArrayOfStrings(
-            Array.isArray(children) ?
-                children :
-                [children],
+        removeListItemNumber(
+            joinArrayOfStrings(
+                Array.isArray(children) ?
+                    children :
+                    [children],
+            ),
         ),
         {
             lower: true,

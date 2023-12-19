@@ -34,7 +34,7 @@ Here's the curious part: Ever notice that the best rappers *don't* worry about s
 
 It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's *inter*-dependent way of thinking. I'd rather be an "Eminem of rock" and have a *partner* advocate for my band— while having this partner, in turn, depend on *us* to make the best art.
 
-By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#5-charitable-support-is-a-supreme-advantage), no other artist can hope to compete. Which means the *labels* can only compete by partnering with indie artists… who work hard *not* to need them. What a mess! And yet the future is clear:
+By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charitable-support-is-a-supreme-advantage), no other artist can hope to compete. Which means the *labels* can only compete by partnering with indie artists… who work hard *not* to need them. What a mess! And yet the future is clear:
 
 **As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to partnering with interdependent bands, who *do* need them… as it's the only way to make the best art!**
 
@@ -52,7 +52,7 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 
 Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the underdog, you'll still help the rest. Except… an outsider's hurdles *aren't* the same. To compensate for *not* being the one you're rooting for, they need to work much harder, to be much better. But then… this makes *them* the underdog's biggest hurdle!
 
-So even as the outsider builds up objective strengths to win over a skeptical public— indie rock assures victory for the underdog by keeping its criteria *subjective*! Which explains why it favors music that *lacks* [well-crafted hooks](/indie#2-timeless-works-have-anonymous-appeal), and why it refuses to confront its human bias *against* [creative invention](/indie#10-creativity-gets-its-chance-from-the-clueless).
+So even as the outsider builds up objective strengths to win over a skeptical public— indie rock assures victory for the underdog by keeping its criteria *subjective*! Which explains why it favors music that *lacks* [well-crafted hooks](/indie#timeless-works-have-anonymous-appeal), and why it refuses to confront its human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
 Suffice it to say, then… the indie labels rejected my demo. They also ignored later projects of mine that promised to *help* their underdogs: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider! And now I finally understood:
 
