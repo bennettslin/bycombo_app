@@ -77,26 +77,6 @@ Indie artists face a double whammy.
 
 Unfortunately, the indie labels *require* artists to empower themselves using online tools. 
 
-### ${++sectionCounter}. Good intentions side with the data-driven
-
-${'  ' || `
-// TODO: Review a few more times.
-
-Second and third paragraphs: Review counterpart sentences. They can probably continue to be rephrased more thoughtfully.
-
-Third paragraph: Last sentence can still be phrased better, maybe the idea can also be improved. Find another way to say "For this reason."
-`}
-
-Perhaps my arguments against indie rock seem misplaced. After all, aren't tech platforms the ones to blame? Well, sure. But… who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
-
-In the past, the major labels would bet on an unproven vision— like a new regional style becoming the next musical revolution. But a vision by itself guaranteed nothing, and sometimes no other label saw *any* potential. This meant artists were often forced to sign [unfair contracts](https://thebaffler.com/salvos/the-problem-with-music), if they were to get signed at all. And as a result, many regarded the majors as "bad guys."
-
-By contrast, an indie label bets on one clear measure: the size of an artist's fanbase. So once *anyone* sees potential, *everyone* does. Which gives power to the *artist*, as each label outbids the others by offering more favorable terms. For this reason, it's understood by the indie camp that "good guys" look at concrete numbers— or else help artists to boost theirs.
-
-So when the tech platforms came along, their data-driven ways put them on the side of the good guys. This is why the indie pundits rushed to defend file sharing: "Real artists have *always* earned more from live shows; recordings are just publicity!" As well as social media: "Real artists have *always* engaged with their fans— and now they can at any time!"
-
-In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the major labels survived only by thinking like indie labels. To revolt, then, we need to reject indie rock *itself*. Which is why BYCombo encourages you *not* to boost your numbers— but to make art instead, in pursuit of your unproven vision.
-
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -270,6 +250,22 @@ Like indie rock, poptimism lets the underdog triumph over any outsiders— even 
 This… *can't* be a viable way to make history. After all, what historical figures from *our* past expect the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's original outsiders! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
 And yet there will always be another underdog movement— because to be seen as an underdog is a *privilege*, and the privileged have ways to benefit themselves. So BYCombo offers a permanent countermeasure, uniting all who believe in the superiority of art made by hungry outsiders— "rock and rollism," maybe?
+
+### ${++sectionCounter}. Good intentions side with the data-driven
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Perhaps my arguments against indie rock seem misplaced. After all, aren't tech platforms the ones to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
+
+In the past, the major labels would bet on unproven visions— like a new regional style becoming the next musical revolution. But a vision by itself guaranteed nothing, and sometimes no other label saw *any* potential. This meant artists had to sign [unfair contracts](https://thebaffler.com/salvos/the-problem-with-music), if they were to get signed at all. And as a result, many came to regard the majors as "bad guys."
+
+By contrast, an indie label bets on one clear measure: the size of an artist's fanbase. So once *anyone* sees potential, *everyone* does. This gives power to the *artist*, as each label outbids the others by offering more favorable terms. And thus, caring about an artist's concrete numbers came to be understood as what the "good guys" do.
+
+So when the tech platforms came along, their data-driven ways put them on the side of the good guys. This is why the indie pundits rushed to defend file sharing: "Real artists have *always* earned more from live shows; recordings are just publicity!" As well as social media: "Real artists have *always* taken the time to engage with their fans, and now they can— *all* the time!"
+
+In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now behave like indie labels. The only way to revolt, then, is to reject indie rock *itself*. Which is why BYCombo requires you *not* to boost your numbers, but to make art instead— in pursuit of your unproven vision.
 
 ### ${++sectionCounter}. Longevity remains an unexplored frontier
 
