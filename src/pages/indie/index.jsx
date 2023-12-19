@@ -129,7 +129,7 @@ Growing up as a second-generation immigrant, I knew early on that other countrie
 
 So I've long understood that, to be placed in the canon alongside the Beatles, my band needs to be the best in the *world*. But the indie camp resists my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
-Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! So this means they're *not* helping to justify calling ours *the* rock canon. In which case… why would they belong in *the* Rock Hall?
+Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! So they're *not* helping to justify calling ours *the* rock canon. In which case… why would they belong in *the* Rock Hall?
 
 Let's face it, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
@@ -251,15 +251,15 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Perhaps my arguments against indie rock seem misplaced. After all, aren't tech platforms the ones to blame? Well, sure… but who put them in power? It was the *indie* camp. After all, the idea behind every new technology in the '00s— digital downloads, streaming media, crowdfunding— was to bring indie rock's good intentions to the Internet!
+Perhaps my arguments against indie rock seem misplaced. After all, aren't tech platforms the ones to blame? Well, sure, but… who put them in power? It was the *indie* camp. After all, the idea behind every new technology in the '00s— digital downloads, streaming media, crowdfunding— was to bring indie rock's good intentions to the Internet!
 
-In the past, the major labels would bet on an unproven vision, like a song's potential to get big on the radio. But a vision by itself was worthless; nothing could be guaranteed, and oftentimes no other label saw the same promise. So artists often had no choice but to sign [unfair contracts](https://thebaffler.com/salvos/the-problem-with-music), leading many to resent the majors as the "bad guys."
+In the past, the major labels would bet on an unproven vision, like a song's potential to get big on the radio. But a vision by itself was worthless; nothing could be guaranteed, and oftentimes no other label saw the same promise. So artists were often forced to sign [unfair contracts](https://thebaffler.com/salvos/the-problem-with-music), leading many to resent the majors as the "bad guys."
 
-By contrast, an indie label bets on measurable data, like the size of an artist's fanbase; whatever promise one sees, the others see as well. This gives all the power to the *artist*, since the only way any label can beat the rest is to offer the most favorable terms. As a result, looking at solid numbers— or helping artists to boost theirs— is understood to be what the "good guys" do.
+By contrast, an indie label bets on solid measures, like the size of an artist's fanbase; whatever promise one sees, the others see as well. This gives power to the *artist*, since the only way any label can beat the rest is by offering the most favorable terms. As a result, looking at concrete numbers— or helping artists to boost theirs— is understood to be what the "good guys" do.
 
 So when the tech platforms came along, their data-driven ways put them on the side of the good guys as well. Which is why the indie pundits rushed to defend file sharing: "Real artists have *always* earned more from live shows; recordings are just publicity!" And social media: "Real artists have *always* engaged with their fans, and now they can— anytime and *all* the time!"
 
-In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). The tech platforms took over only with indie approval; the major labels survived only by adopting indie ways. To revolt against *any* of it, then, we need to reject indie rock *itself*. Which is why BYCombo encourages you *not* to boost your numbers— but to make art instead, in pursuit of your unproven vision.
+In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). The tech platforms took over *because* of indie approval; the major labels survived *only* by adopting indie ways. To revolt against *any* of it, then, we need to reject indie rock *itself*. Which is why BYCombo encourages you *not* to boost your numbers— but to make art instead, in pursuit of your unproven vision.
 
 ### ${++sectionCounter}. Longevity remains an unexplored frontier
 
