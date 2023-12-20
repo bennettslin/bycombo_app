@@ -55,15 +55,15 @@ Of course, we're just getting started, so to thank you for your patience during 
 
 **Women, minorities, and other disadvantaged groups:**
 
-As a rock movement started by a minority, BYCombo was *conceived* to give you the interdependence you crave and thrive on! We'll also strive for an equitable gender ratio in every band we assemble.
+As a rock movement started by [a minority](/indie#hungry-outsiders-aim-for-the-canon), BYCombo was *conceived* to give you the interdependence you crave and [thrive on](/indie#interdependence-guards-against-prejudice)! We'll also strive for an equitable gender ratio in every band we assemble.
 
 **Artists of other mediums:**
 
-One last frontier in the arts is for bands to explore new combinations of different mediums. Which means you play a crucial role in bringing forth this century's canonical works!
+One last frontier in the arts is for bands to explore new combinations of [different mediums](/indie#ai-disrupts-multidisciplinary-last). Which means you play a crucial role in bringing forth this century's canonical works!
 
 **International artists:**
 
-To restore the historical canon, we need you to *join* us! In the future, we hope to sponsor you for a U.S. visa. But for now, your cohort will work together to find shared solutions to common problems faced by all multinational bands.
+To restore the historical canon, we need you to [*join* us](/indie#cultural-chauvinism-can-only-be-justified)! In the future, we hope to sponsor you for a U.S. visa. But for now, your cohort will work together to find shared solutions to common problems faced by all multinational bands.
 
 ### How to apply
 
