@@ -35,7 +35,7 @@ Critical acclaim can be inflated; as such, it's a terrible barometer. What *can'
 
 **Why bands?**
 
-Indie rock encourages artists to retain their earnings— which, today, means having [fewer bandmates](https://www.honest-broker.com/p/the-bands-are-never-coming-back), if any. But what competitive edge could a solo artist possibly have nowadays, to put them among the best for all *time*? From now until forever, if artists want to aim for the canon, they'll need to be greater than the sum of their parts— and this can only happen by forming *bands*.
+Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, if any. But what competitive edge could a [solo artist](https://www.honest-broker.com/p/the-bands-are-never-coming-back) possibly have nowadays, to put them among the best for all *time*? From now until forever, if artists want to aim for the canon, they'll need to be greater than the sum of their parts— and this can only happen by forming *bands*.
 
 **Why *assembled* bands?**
 
@@ -259,15 +259,19 @@ Yet the underdog movement will never go away— because to be seen as an underdo
 
 ${'  ' || `
 // TODO: Review a few more times.
+
+Second paragraph: Say that no one else saw the artist's promise, which meant they posed a huge risk. This then makes it easier to connect to why they were pushed to sign unfavorable contracts.
+
+Third paragraph: Make sure last sentence flows with "In other words…"
 `}
 
-Perhaps my arguments against indie rock seem misplaced. After all, aren't tech platforms the ones to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
+Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
 
-In the past, the major labels would bet on unproven visions— such as a new regional style becoming the next musical revolution. But a vision by itself guaranteed nothing, and sometimes no other label saw *any* potential. This meant artists had to sign [unfair contracts](https://thebaffler.com/salvos/the-problem-with-music), if they were to get signed at all. And as a result, the majors came to be treated as "bad guys."
+In the past, the major labels would bet on unproven visions— such as, let's say, a regional style erupting into a global revolution. But a vision by itself guaranteed nothing, and sometimes no one else saw *any* promise— which put all the risk on the labels. As a result, artists got pushed into [unfavorable contracts](https://thebaffler.com/salvos/the-problem-with-music), leading many to resent the majors as "bad guys."
 
-By contrast, an indie label bets on one clear measure: the size of an artist's fanbase. So once *anyone* sees potential, *everyone* does. This gives power to the *artist*, as each label outbids the others by offering more favorable terms. And as a result, caring about concrete numbers came to be understood as what the "good guys" do.
+By contrast, the indie labels look at one clear measure: the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does. All that's left, then, is for one label to outbid the rest by offering the most generous terms. In other words, by caring solely about the numbers, the indie labels do what's best for artists— and thus, they're recognized as "good guys."
 
-So when the tech platforms came along, their data-driven ways put them on the side of the good guys. This is why the indie pundits rushed to defend file sharing: "*Real* artists earn their living by going on tour; recordings are just publicity!" As well as social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
+So when the tech platforms arrived, their data-driven ways put them on the side of the good guys as well. This is why the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at any time!"
 
 In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now behave like indie labels. The only way to revolt, then, is to reject indie rock *itself*. Which is why BYCombo requires you *not* to boost your numbers, but to make art instead— in pursuit of your unproven vision.
 
