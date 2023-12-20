@@ -67,23 +67,21 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Good intentions side with the data-driven
+### ${++sectionCounter}. Fair practices side with the data-driven
 
 ${'  ' || `
 // TODO: Review a few more times.
-
-Fifth paragraph could probably stand a little more revision.
 `}
 
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
 
-In the past, a major label tried to bet on visions that no others saw— like, let's say, a regional style erupting into a global revolution. So artists couldn't pit one label against another, and since a vision by itself is worthless, they had no power to negotiate. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music), leading many to resent the majors as "bad guys."
+In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
 
-By contrast, an indie label looks at one clear measure: the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does, and all that's left is for one label to outbid the rest by offering the most generous terms. In other words, by caring only about numbers, the indie labels are seen to be doing right by artists— which makes them the "good guys."
+By contrast, an indie label looks at one highly visible metric: the size of an artist's fanbase. So once they see a safe bet, all other labels do as well, and what's left is for one to outbid the rest by offering the most generous terms. In other words, by caring only about numbers, the indie labels are seen to treat artists fairly— which makes them the "good guys."
 
-So when the tech platforms came along, their data-driven ways made them good guys as well. This is why the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
+So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
-In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors today behave like the indie labels always have. The only way to revolt, then, is to reject indie rock *itself*. Which is why BYCombo requires you *not* to boost your numbers, but to make art instead— in pursuit of a vision that few others see.
+In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now behave like indie labels. The only way to revolt, then, is to reject indie rock *itself*. Which is why BYCombo requires you *not* to boost your numbers, but to make art instead— in pursuit of a vision that few others see.
 
 ### ${++sectionCounter}. AI disrupts multidisciplinary last
 
@@ -151,15 +149,11 @@ Which tells us: This can't end well. Future generations won't "support" any of t
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
 So I've long understood that, to be placed in the canon alongside the Beatles, my band needs to be the best in the *world*. But the indie camp resists my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
-Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! So they're *not* helping to justify calling ours *the* rock canon… in which case, why would they belong in *the* Rock Hall?
+Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance. So they're *not* helping to justify calling ours *the* rock canon! In which case… why would they belong in *the* Rock Hall?
 
 Let's face it, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
@@ -264,10 +258,6 @@ Every Black artist would stare glumly at us. Why? Because back then, they *neede
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp that killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
