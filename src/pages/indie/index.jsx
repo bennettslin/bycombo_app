@@ -260,7 +260,7 @@ ${'  ' || `
 
 Title: Is "side" really the verb I want?
 
-Third paragraph: In other words, by lacking any vision and simply trusting the numbers, the indie labels end up treating artists fairly! And for this, they're praised as the "good guys."
+Third paragraph: Avoid two "by"s in a row. In other words, by lacking any vision and simply trusting the numbers, the indie labels are seen to treat artists fairly! And for this, they're praised as the "good guys."
 `}
 
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
