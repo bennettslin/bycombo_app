@@ -72,7 +72,7 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: 
 
-Indie artists face a double whammy.
+The indie labels look for artists who succeed by word of mouth— which, today, means getting picked up by recommendation algorithms. But this hits artists with a double whammy. Not only are they forced to make the kind of bite-sized, one-size-fits-all music most easily copied by AI, but they must also contribute to the data sets that AI learns from to make them obsolete.
 
 Canonical art.
 `}
@@ -257,6 +257,10 @@ Yet underdog movements will never go away— because to be seen as an underdog i
 
 ${'  ' || `
 // TODO: Review a few more times.
+
+Title: Is "side" really the verb I want?
+
+Third paragraph: In other words, by lacking any vision and simply trusting the numbers, the indie labels end up treating artists fairly! And for this, they're praised as the "good guys."
 `}
 
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
