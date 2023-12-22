@@ -70,7 +70,7 @@ Here's an incomplete list of ways…
 ### ${++sectionCounter}. AI disrupts multidisciplinary last
 
 ${'  ' || `
-// TODO: 
+// TODO: Keep working on.
 
 The indie labels look for artists who succeed by word of mouth— which, today, means getting picked up by recommendation algorithms. But this hits artists with a double whammy. Not only are they forced to make the kind of bite-sized, one-size-fits-all music most easily copied by AI, but they must also contribute to the data sets that AI learns from to make them obsolete.
 
