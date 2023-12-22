@@ -93,13 +93,17 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ### ${++sectionCounter}. Timeless works have standalone appeal
 
+${'  ' || `
+// TODO: Review.
+`}
+
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). They weren't interested, though… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
 Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— or these days, online fans— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
 
-Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
+Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to think about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 

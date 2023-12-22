@@ -50,15 +50,19 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 
 ### Who gatekeeps the gatekeepers?
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the underdog, you'll still help the rest. Except… an outsider's hurdles *aren't* the same. To compensate for *not* being the one you're rooting for, they need to work much harder, to be much better. But then… this makes *them* the underdog's biggest hurdle!
 
-So even as the outsider builds up objective strengths to win over a skeptical public— indie rock assures victory for the underdog by keeping its criteria *subjective*! Which explains why it favors music that *lacks* [well-crafted hooks](/indie#timeless-works-have-standalone-appeal), and why it refuses to confront its human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+So even as the outsider builds up objective strengths to win over a skeptical public, indie rock's gatekeepers— its labels, curators, and pundits— assure victory for the underdog by keeping their criteria *subjective*! Which explains why they favor music that *lacks* [well-crafted hooks](/indie#timeless-works-have-standalone-appeal), and why they refuse to account for humanity's bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
 Suffice it to say, then… the indie labels rejected my demo. They also ignored later projects of mine that promised to *help* their underdogs: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider! And now I finally understood:
 
 **A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock will *never* sympathize with a hungry outsider's need for interdependence— because it *means* to shut them out!**
 
-Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers is a bad guy as well— especially if they come from an [older generation](https://youtu.be/tODG4Xt45bU)! And this gets at the heart of the problem:
+Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers is a bad guy as well— especially anyone from an [older generation](https://youtu.be/tODG4Xt45bU)! And this gets at the heart of the problem:
 
 **As the first rock movement to believe its ideals to be universal, indie rock is also the first to lock down its rules for good. As such, there's no historical precedent to show us how to dissent— or even to assure us that we *can*.**
 

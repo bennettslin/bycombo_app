@@ -20,12 +20,12 @@ As an artist, do you sense that the indie labels have it all *backward*? Why do 
 ### Who we're looking for
 
 ${'  ' || `
-// TODO: Mention lifetime here. Think more about "A lifetime of band projects" as a later section title.
+// TODO: Review.
 `}
 
 Are you eager to make history by advancing the art form? Are you willing to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project?
 
-Most importantly, are you willing to defy indie rock's gatekeepers— its labels, curators, and pundits— even as they have the power to shut you out forever? That is to say, do you understand that, after sacrificing a serious chunk of lifetime, you may be left with nothing to show but the work you've done, the talents you've built, and the friends you've made?
+Most importantly, are you willing to defy indie rock's gatekeepers— its labels, curators, and pundits— even as they have the power to shut you out forever? That is to say, do you understand that, after sacrificing a serious chunk of your lifetime, you may be left with nothing to show but the work you've done, the talents you've built, and the friends you've made?
 
 If so, then come be part of the interdependence revolution! We're looking for those who are reasonably skilled in one or more of the following roles:
 
