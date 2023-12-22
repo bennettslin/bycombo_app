@@ -122,16 +122,16 @@ It's just that now, little but chance separates the few who make it from the man
 ### ${++sectionCounter}. Talent wants a path to stardom
 
 ${'  ' || `
-// TODO: Revise. Maybe give the third and fourth paragraphs some more thought? They could flow better. Last sentence of third paragraph runs on a bit. Fourth paragraph's repeat of "path" is awkward.
+// TODO: Review.
 `}
 
-By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, the indie camp went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have lost even *artistic* relevance. Why is this?
+By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have lost even *artistic* relevance. Why is this?
 
 It's because stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* need to hear the best; we just want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into winning advantages— and *this* is how unworthy artists end up as superstars.
 
-But stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward: The majors *didn't* exploit the local scenes. It was precisely *because* the indie labels were understood to be farm teams that those '90s alternative bands signed with them in the first place.
+But stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward: The major labels *didn't* exploit the local scenes. The indie labels had *always* operated as farm teams— and *this* is why those '90s alternative bands signed with them in the first place.
 
-By closing off this path to rock stardom, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to rebuild the path. Because if superstars are inevitable, then why can't *you*— who aspires to be *most* worthy— get your chance to be one?
+By blocking all access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to build a *new* path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspires to be most worthy— get *your* chance to be one?
 
 ### ${++sectionCounter}. Charitable support is a supreme advantage
 
