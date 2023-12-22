@@ -253,23 +253,21 @@ This… *can't* be a viable way to make history. After all, what historical figu
 
 Yet underdog movements will never go away— because to be seen as an underdog is a *privilege*, and the privileged will always find ways to benefit themselves. So BYCombo offers a permanent countermeasure, uniting all who believe in the superiority of art made by hungry outsiders— "rock and rollism," maybe?
 
-### ${++sectionCounter}. Fair practices side with the data
+### ${++sectionCounter}. Fair practices defer to the data
 
 ${'  ' || `
 // TODO: Review a few more times.
-
-Title: Is "side" really the verb I want?
 `}
 
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
 
-By contrast, the indie labels look at one visible measure: the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does, and all that's left is for one label to offer the most favorable terms. In other words, by lacking any vision and simply trusting the numbers— the indie labels are seen to treat artists *fairly*! And for this, they're praised as the "good guys."
+By contrast, the indie labels look at one visible measure: the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does, and all that's left is for one label to offer the most favorable terms. In other words, by lacking any vision and simply trusting the numbers… the indie labels turn out to do *right* by artists! And for this, they're praised as the "good guys."
 
 So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
-In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over— forcing the majors, in turn, to think [like indie labels](https://www.honest-broker.com/p/record-labels-dig-their-own-grave). The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo requires you *not* to boost your numbers— but to make art in pursuit of a vision that few others see.
+In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over— forcing the majors, in turn, to think [like indie labels](https://www.honest-broker.com/p/record-labels-dig-their-own-grave). The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo requires you *not* to boost your numbers— but instead, to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Longevity remains an unexplored frontier
 
