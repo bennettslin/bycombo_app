@@ -77,6 +77,8 @@ The indie labels look for artists who succeed by word of mouth— which, today, 
 Canonical art.
 `}
 
+Sentence about AI. Unfortunately, by requiring artists to get noticed on the tech platforms, indie rock is the worst possible movement to prepare artists for a future of AI. Not only are they forced to make the kind of music most easily copied by AI, but they must also contribute to the very data sets that AI learns from to make them obsolete.
+
 Unfortunately, the indie labels *require* artists to empower themselves using online tools. 
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
@@ -271,7 +273,7 @@ Perhaps my arguments against indie rock seem misplaced. After all, aren't the te
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
 
-By contrast, the indie labels look at one visible measure: the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does, and all that's left is for one label to offer the most favorable terms. In other words, by lacking any vision and simply trusting the numbers… the indies turn out to do *right* by artists! And for this, they're praised as the "good guys."
+By contrast, the indie labels look at one visible measure: the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does, and all that's left is for one label to offer the most generous terms. In other words, by lacking any vision and simply trusting the numbers… the indies turn out to do *right* by artists! And for this, they're praised as the "good guys."
 
 So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
