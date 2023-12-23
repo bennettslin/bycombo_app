@@ -117,11 +117,11 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have lost even *artistic* relevance. Why is this?
+By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have lost even *marginal* relevance. Why is this?
 
 It's because stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* need to hear the best; we just want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into winning advantages— and *this* is how unworthy artists end up as superstars.
 
-But stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward: The major labels *didn't* exploit the local scenes. The indie labels were seen as farm teams by *everyone*, including those '90s alternative bands— who signed with them for this very reason.
+But stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward: The major labels *didn't* exploit the local scenes. They simply saw the indie labels as farm teams— as did those alternative bands in the '90s, who signed with the indies for this very reason!
 
 By blocking all access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to build a new path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspires to be most worthy— get *your* chance to be one?
 
@@ -227,7 +227,7 @@ ${'  ' || `
 
 Who foresaw indie rock's final stage as a [trust fund playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia)? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/10900). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
-Yet despite the poor fit, indie rock sure is eager of late to hand us the reins. Why? Because after two decades of failing to outshine any foreign canon— it's in *decline*! And now to regain its relevance, women and minorities are being nudged onto a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff)…
+Yet despite the poor fit, indie rock sure is eager of late to hand us the reins. Why? Because after two decades of failing to outshine any foreign canon— it's in *decline*! So to help regain its relevance, women and minorities are being nudged onto a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff)…
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
@@ -271,7 +271,7 @@ Perhaps my arguments against indie rock seem misplaced. After all, aren't the te
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
 
-By contrast, the indie labels look at one visible measure: the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does, and all that's left is for one label to offer the most favorable terms. In other words, by lacking any vision and simply trusting the numbers… the indie labels turn out to do *right* by artists! And for this, they're praised as the "good guys."
+By contrast, the indie labels look at one visible measure: the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does, and all that's left is for one label to offer the most favorable terms. In other words, by lacking any vision and simply trusting the numbers… the indies turn out to do *right* by artists! And for this, they're praised as the "good guys."
 
 So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
