@@ -116,7 +116,10 @@ It's just that now, little but chance separates the few who make it from the man
 ### ${++sectionCounter}. Talent wants a path to stardom
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Second paragraph, put first sentence later in the paragraph to make the logic flow better?
+
+It's because stardom *isn't* caused by corporate greed, as the indie camp believes…
+
 `}
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
@@ -224,7 +227,7 @@ But why would Gen Z— and beyond— side with past gatekeepers who *didn't* car
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Rephrase second paragraph, second sentence well, once and for all.
 `}
 
 Who foresaw indie rock's final stage as a [trust fund playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia)? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/10900). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
