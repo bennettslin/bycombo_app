@@ -116,10 +116,7 @@ It's just that now, little but chance separates the few who make it from the man
 ### ${++sectionCounter}. Talent wants a path to stardom
 
 ${'  ' || `
-// TODO: Revise. Second paragraph, put first sentence later in the paragraph to make the logic flow better?
-
-It's because stardom *isn't* caused by corporate greed, as the indie camp believes…
-
+// TODO: Review.
 `}
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
@@ -227,12 +224,12 @@ But why would Gen Z— and beyond— side with past gatekeepers who *didn't* car
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
 ${'  ' || `
-// TODO: Revise. Rephrase second paragraph, second sentence well, once and for all.
+// TODO: Review.
 `}
 
 Who foresaw indie rock's final stage as a [trust fund playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia)? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/10900). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
-Yet despite the poor fit, indie rock sure is eager of late to hand us the reins. Why? Because it's in *decline*! After two decades of failing to outshine any foreign canon, the movement is desperate to assert its cultural relevance. So women and minorities are being nudged onto a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff)…
+Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because after two decades of failing to outshine any foreign canon, it's now in *decline*— and desperate to regain its cultural relevance. So women and minorities are being nudged onto a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff)…
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
@@ -278,7 +275,7 @@ So when the tech platforms came along, their data-driven ways made them good guy
 
 In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over— forcing the majors, in turn, to think [like indie labels](https://www.honest-broker.com/p/record-labels-dig-their-own-grave). The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo requires you *not* to boost your numbers— but instead, to pursue a vision that few others see.
 
-### ${++sectionCounter}. Longevity remains an unexplored frontier
+### ${++sectionCounter}. Longevity remains a final frontier
 
 The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's a whole frontier left to explore! Unfortunately… indie rock isn't cut out for this job: Hustling requires a youthful outlook, so every indie artist is destined to burn out.
 
