@@ -72,14 +72,14 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: Keep working on.
 
-The indie labels look for artists who succeed by word of mouth— which, today, means getting picked up by recommendation algorithms. But this hits artists with a double whammy. Not only are they forced to make the kind of bite-sized, one-size-fits-all music most easily copied by AI, but they must also contribute to the data sets that AI learns from to make them obsolete.
+The indie gatekeepers look for artists who succeed by word of mouth— which, today, means getting picked up by recommendation algorithms. But this hits artists with a double whammy. Not only are they forced to make the kind of bite-sized, one-size-fits-all music most easily copied by AI, but they must also contribute to the data sets that AI learns from to make them obsolete.
 
 Canonical art.
 `}
 
 Sentence about AI. Unfortunately, by requiring artists to get noticed on the tech platforms, indie rock is the worst possible movement to prepare artists for a future of AI. Not only are they forced to make the kind of music most easily copied by AI, but they must also contribute to the very data sets that AI learns from to make them obsolete.
 
-Unfortunately, the indie labels *require* artists to empower themselves using online tools. 
+Unfortunately, the indie gatekeepers *require* artists to empower themselves using online tools. 
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 

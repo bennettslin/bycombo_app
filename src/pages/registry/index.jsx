@@ -19,6 +19,10 @@ Business partners, discerning listeners, and future historians:
 
 **To earn your trust, each band in BYCombo's public registry sacrificed a serious chunk of lifetime— at least 25,000 hours, or twelve full-time years— on a demo that advances the art form.**
 
+${'  ' || `
+// TODO: Revise. Two "they" pronouns.
+`}
+
 Remember, though, we require our bands *not* to empower themselves. So the indie gatekeepers and their allies— the [poptimists](/indie#underdogs-are-supremacists-in-effect) and [tech platforms](/indie#fair-practices-defer-to-the-data)— will dismiss them as hobbyists! If rock is to be saved, then, we need *others* to tell the world about them. Can one of these rock saviors… be you?
 
 If you have an offer or opportunity for any BYCombo band to consider, please contact them directly!
