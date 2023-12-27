@@ -55,7 +55,7 @@ As a rock movement started by [a minority](/indie#hungry-outsiders-aim-for-the-c
 
 **Artists of other mediums:**
 
-One last frontier in the arts is for bands to explore new combinations of [different mediums](/indie#ai-disrupts-multidisciplinary-last). Which means you play a crucial role in bringing forth this century's canonical works!
+One final frontier in the arts is for bands to explore new combinations of [different mediums](/indie#ai-disrupts-multidisciplinary-last). Which means you play a crucial role in bringing forth this century's canonical works!
 
 **International artists:**
 

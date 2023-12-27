@@ -72,10 +72,21 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: Keep working on.
 
-The indie gatekeepers look for artists who succeed by word of mouth— which, today, means getting picked up by recommendation algorithms. But this hits artists with a double whammy. Not only are they forced to make the kind of bite-sized, one-size-fits-all music most easily copied by AI, but they must also contribute to the data sets that AI learns from to make them obsolete.
+* Only multidisciplinary art can outpace AI
+* Indie rock empowers artists
+    * Which requires them to all use the same tools
+        * Making their art uniform
+    * But artists providing a huge supply of the same thing
+        * Is precisely what AI learns from the best
+            * And can eventually replace
+        * https://www.theintrinsicperspective.com/p/excuse-me-but-the-industries-ai-is
 
 Canonical art.
 `}
+
+Indie artists are expected to build a fanbase on the tech platforms— but this doesn't just force them to keep their music generic and simple, making them easily copyable by AI. It also forces them to contribute to the very data sets that AI learns from to make them obsolete.
+
+The canonical works of 
 
 Sentence about AI. Unfortunately, by requiring artists to get noticed on the tech platforms, indie rock is the worst possible movement to prepare artists for a future of AI. Not only are they forced to make the kind of music most easily copied by AI, but they must also contribute to the very data sets that AI learns from to make them obsolete.
 
