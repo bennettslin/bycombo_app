@@ -67,31 +67,6 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. AI disrupts multidisciplinary last
-
-${'  ' || `
-// TODO: Keep working on.
-
-* Only multidisciplinary art can outpace AI
-* Indie rock empowers artists
-    * Which requires them to all use the same tools
-        * Making their art uniform
-    * But artists providing a huge supply of the same thing
-        * Is precisely what AI learns from the best
-            * And can eventually replace
-        * https://www.theintrinsicperspective.com/p/excuse-me-but-the-industries-ai-is
-
-Canonical art.
-`}
-
-Indie artists are expected to build a fanbase on the tech platforms— but this doesn't just force them to keep their music generic and simple, making them easily copyable by AI. It also forces them to contribute to the very data sets that AI learns from to make them obsolete.
-
-The canonical works of 
-
-Sentence about AI. Unfortunately, by requiring artists to get noticed on the tech platforms, indie rock is the worst possible movement to prepare artists for a future of AI. Not only are they forced to make the kind of music most easily copied by AI, but they must also contribute to the very data sets that AI learns from to make them obsolete.
-
-Unfortunately, the indie gatekeepers *require* artists to empower themselves using online tools. 
-
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -277,6 +252,29 @@ By contrast, the indie labels look at one visible measure: the size of an artist
 So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
 In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over— forcing the majors, in turn, to think [like indie labels](https://www.honest-broker.com/p/record-labels-dig-their-own-grave). The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo requires you *not* to boost your numbers— but instead, to pursue a vision that few others see.
+
+${'  ' || `
+// TODO: Keep working on.
+
+* Link from apply page, under artists of different mediums.
+
+* Only multidisciplinary art can outpace AI
+* Indie rock empowers artists
+    * Which requires them to all use the same tools
+        * Making their art uniform
+    * But artists providing a huge supply of the same thing
+        * Is precisely what AI learns from the best
+            * And can eventually replace
+        * https://www.theintrinsicperspective.com/p/excuse-me-but-the-industries-ai-is
+
+Indie artists are expected to build a fanbase on the tech platforms— but this doesn't just force them to keep their music generic and simple, making them easily copyable by AI. It also forces them to contribute to the very data sets that AI learns from to make them obsolete.
+
+Sentence about AI. Unfortunately, by requiring artists to get noticed on the tech platforms, indie rock is the worst possible movement to prepare artists for a future of AI. Not only are they forced to make the kind of music most easily copied by AI, but they must also contribute to the very data sets that AI learns from to make them obsolete.
+
+Unfortunately, the indie gatekeepers *require* artists to empower themselves using online tools. 
+
+Canonical art.
+`}
 
 ### ${++sectionCounter}. Longevity remains a final frontier
 
