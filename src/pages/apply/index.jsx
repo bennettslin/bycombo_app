@@ -13,6 +13,10 @@ const Component = () => (
             body: `
 # ${TITLE}
 
+${'  ' || `
+// TODO: Revise. Make about content vs canonical here.
+`}
+
 As an artist, do you sense that the indie labels have it all *backward*? Why do they force you to waste so much time and energy using online tools meant to empower you? Back when rock was interdependent, self-empowerment just came for free, once you'd built up enough talents. Well, you're *not* crazy: The culture *is* broken— and here's how we'll revolt!
 
 **To join BYCombo as an artist, you must pledge *not* to empower yourself. Instead, your band will gain exposure through business partners, whose trust you'll earn by sacrificing a serious chunk of lifetime.**

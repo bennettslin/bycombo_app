@@ -31,6 +31,10 @@ A counterculture is needed to protect dangerous ideas, yet there hasn't been one
 
 **Why the historical canon?**
 
+${'  ' || `
+// TODO: Revise. Make about content vs canonical here.
+`}
+
 Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be added to the canon— and *this* is why people gripe that music is getting worse.
 
 **Why bands?**
@@ -200,6 +204,10 @@ In the past, the major labels did just that: Their talent scouts would sign any 
 Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Sure, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists milking [free labor](https://exiledfan.substack.com/p/the-big-business-of-stan-culture) out of parasocial exchanges?
 
 So instead, you strive to be what a future audience— or romantic partner!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
+
+${'  ' || `
+// TODO: Revise. "They just might dismiss *all* of today's indie rock as content that's *meant* to be disposed."
+`}
 
 But why would Gen Z— and beyond— side with past gatekeepers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of today's indie rock! Luckily, BYCombo promises to make *your* art worthy of rediscovery— by letting you think like a future audience.
 
