@@ -65,10 +65,10 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Revise. Make about content vs canonical here.
+// TODO: Finalize with rest of content revision.
 `}
 
-If we can't dissent, though— let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: It doesn't allow artists to focus *solely* on making art. But knowing this… any neutral observer should then expect the art to be *worse*! So there's already a *way* to revolt; the next generation just needs to find the *will*.
+If we can't dissent, though… let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: By judging the size of an artist's fanbase, it ends up favoring *content*— namely, art whose advantage lies in *not* having to win over future audiences. But content has little chance to make history, and this becomes obvious within a generation.
 
 Sure enough, Gen Z now sees what the older generations see: Indie rock is their hair metal— making the *next* revolution their grunge! Which is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that an entrepreneur will try to disrupt the rock market.
 
@@ -76,7 +76,7 @@ This "Dr. Dre of rock" would love to partner with bands who promise to make the 
 
 **Interdependent bands can now earn a business partner's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
-So picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the most creative works of our times. This is the *final* step to reviving interdependence— the next revolution in rock history!
+So picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the canonical works of our times. This is the *final* step to reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
