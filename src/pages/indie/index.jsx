@@ -27,19 +27,23 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why a counterculture?**
 
-A counterculture is needed to protect dangerous ideas, yet there hasn't been one for some time. Meanwhile, despite indie rock's good intentions, music is now worse. But what if music is worse… *because* of these good intentions? What if all this charitable support for *artists*… is actually bad for the *arts*? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
+${'  ' || `
+// TODO: Review.
+`}
+
+A counterculture protects dangerous ideas, yet we haven't had one for some time. Meanwhile, despite indie rock's good intentions, music is now worse. But what if music is worse… *because* of these good intentions? What if all this charitable support for *artists*… is actually bad for the *arts*? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
 
 **Why the historical canon?**
-
-${'  ' || `
-// TODO: Revise. Make about content vs canonical here.
-`}
 
 Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be added to the canon— and *this* is why people gripe that music is getting worse.
 
 **Why bands?**
 
-Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, if any. But what competitive edge could a [solo artist](https://www.honest-broker.com/p/the-bands-are-never-coming-back) possibly have nowadays, to put them among the best for all *time*? From now until forever, if artists want to aim for the canon, they'll need to be greater than the sum of their parts— and this can only happen by forming *bands*.
+${'  ' || `
+// TODO: Review.
+`}
+
+Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, [if any](https://www.honest-broker.com/p/the-bands-are-never-coming-back). But what competitive edge could a solo artist possibly have these days, to put them among the best for all *time*? From now until forever, if artists want to aim for the canon, they'll need to be greater than the sum of their parts— and this can only happen by forming *bands*.
 
 **Why *assembled* bands?**
 
@@ -259,7 +263,7 @@ By contrast, the indie labels look at one visible measure: the size of an artist
 
 So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
-In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over— forcing the majors, in turn, to think [like indie labels](https://www.honest-broker.com/p/record-labels-dig-their-own-grave). The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo requires you *not* to boost your numbers— but instead, to pursue a vision that few others see.
+In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over— forcing the majors, in turn, to think [like indie labels](https://www.honest-broker.com/p/record-labels-dig-their-own-grave) now. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo requires you *not* to boost your numbers— but instead, to pursue a vision that few others see.
 
 ${'  ' || `
 // TODO: Keep working on.
