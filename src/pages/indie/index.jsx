@@ -31,6 +31,10 @@ A counterculture protects dangerous ideas, yet we haven't had one for some time.
 
 **Why the historical canon?**
 
+${'  ' || `
+// TODO: Revise. Make about content vs canonical here.
+`}
+
 Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be added to the canon— and *this* is why people gripe that music is getting worse.
 
 **Why bands?**

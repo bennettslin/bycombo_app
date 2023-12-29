@@ -20,10 +20,10 @@ Business partners, discerning listeners, and future historians:
 **To earn your trust, each band in BYCombo's public registry sacrificed a serious chunk of lifetime— at least 25,000 hours, or twelve full-time years— on a demo that advances the art form.**
 
 ${'  ' || `
-// TODO: Revise. Make about content vs canonical here.
+// TODO: Finalize with rest of content revision.
 `}
 
-However, we require our bands *not* to empower themselves. So indie rock's gatekeepers— along with its allies, the [poptimists](/indie#underdogs-are-supremacists-in-effect) and [tech platforms](/indie#fair-practices-defer-to-the-data)— will dismiss them as hobbyists! If rock is to be saved, then, we need *others* to tell the world about this registry. Can one of these rock saviors… be you?
+But remember, we require our bands *not* to optimize for an audience in the present by neglecting those in the future. Which means indie rock's gatekeepers— along with its allies, the [poptimists](/indie#underdogs-are-supremacists-in-effect) and [tech platforms](/indie#fair-practices-defer-to-the-data)— will dismiss them as hobbyists! If rock is to be saved, then, we need *others* to tell the world about them. Can one of these rock saviors… be you?
 
 If you have an offer or opportunity for any of our bands to consider, please contact them directly!
                 `,

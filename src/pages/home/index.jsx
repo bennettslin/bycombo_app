@@ -68,7 +68,7 @@ ${'  ' || `
 // TODO: Finalize with rest of content revision.
 `}
 
-If we can't dissent, though… let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: By judging the size of an artist's fanbase, it ends up favoring *content*— namely, art whose advantage lies in *not* having to win over future audiences. But content has little chance to make history, and this becomes obvious within a generation.
+If we can't dissent, though— let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: By judging the size of an artist's fanbase, it ends up favoring *content*— namely, art that's optimized for gaining fans in the present, at the cost of having none in the future. But content clearly isn't meant to make history… and to prove this, we just need time to pass.
 
 Sure enough, Gen Z now sees what the older generations see: Indie rock is their hair metal— making the *next* revolution their grunge! Which is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that an entrepreneur will try to disrupt the rock market.
 
