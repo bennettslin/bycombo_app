@@ -14,10 +14,14 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Revise. Make about content vs canonical here.
+// TODO: Finalize with rest of content revision.
 `}
 
-As an artist, do you sense that the indie labels have it all *backward*? Why do they force you to waste so much time and energy using online tools meant to empower you? Back when rock was interdependent, self-empowerment just came for free, once you'd built up enough talents. Well, you're *not* crazy: The culture *is* broken— and here's how we'll revolt!
+As an artist, do you sense that the indie labels have it all *backward*? Why do they force you to waste so much time and energy using online tools meant to empower you? Back when rock was interdependent, self-empowerment just came for free, once you'd built up enough talents.
+
+Moreover, the only measure of empowerment is the size of your fanbase. But the best way for artists to gain fans on their own, in the present, is to create short-lived content that future audiences can be predicted *not* to want. So if *you* care to be remembered— you'll always lose out to those who *don't*!
+
+Well, there's good news. Through BYCombo, you can once again aim for the historical canon! Here's how:
 
 **To join BYCombo as an artist, you must pledge *not* to empower yourself. Instead, your band will gain exposure through business partners, whose trust you'll earn by sacrificing a serious chunk of lifetime.**
 
@@ -59,11 +63,11 @@ As a rock movement started by [a minority](/indie#hungry-outsiders-aim-for-the-c
 
 **Artists of other mediums:**
 
-One final frontier in the arts is for bands to explore new combinations of different mediums. Which means you play a crucial role in bringing forth this century's canonical works!
+A final frontier in the arts is for bands to explore new combinations of different mediums. Which means you play a crucial role in bringing forth this century's canonical works!
 
 **International artists:**
 
-To restore the historical canon, we need you to [*join* us](/indie#cultural-chauvinism-can-only-be-justified)! In the future, we hope to sponsor you for a U.S. visa. But for now, your cohort will work together to find shared solutions to common problems faced by all multinational bands.
+To revive the canon, we need you to [*join* us](/indie#cultural-chauvinism-can-only-be-justified)! In the future, we hope to sponsor you for a U.S. visa. But for now, your cohort will work together to find shared solutions to common problems faced by all multinational bands.
 
 ### How to apply
 
