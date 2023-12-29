@@ -15,6 +15,8 @@ const Component = () => (
 
 ${'  ' || `
 // TODO: Finalize with rest of content revision.
+
+Make it more like "You'll always be passed up by the indie labels, in favor of those who don't." Be clear that the indie labels are responsible for this.
 `}
 
 As an artist, do you sense that the indie labels have it all *backward*? Why do they force you to waste so much time and energy using online tools meant to empower you? Back when rock was interdependent, self-empowerment just came for free, once you'd built up enough talents.
