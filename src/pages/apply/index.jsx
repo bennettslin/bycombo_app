@@ -17,19 +17,17 @@ ${'  ' || `
 // TODO: Finalize with rest of content revision.
 `}
 
-As an artist, do you sense that the indie labels have it all *backward*? Why do they force you to waste so much time and energy using online tools meant to empower you? Back when rock was interdependent, self-empowerment just came for free, once you'd built up enough talents.
+As an artist, do you sense that the indie camp has it all *backward*? Why do they force you to waste so much time and energy using online tools meant to empower you? Back when rock was interdependent, self-empowerment just came for free, once you'd built up enough talents.
 
-Plus, the only measure of empowerment is the size of your fanbase— but the easiest way for artists to gain fans on their own, here and now, is to create content with no lasting value for *future* audiences. So if *you* hope to make history— the indie labels will always pass you up in favor of those who *don't*!
-
-Luckily, there's good news. Through BYCombo, you can once again aspire to make canonical art! Here's how:
+On top of that, the only measure of empowerment is the size of an artist's fanbase. But the easiest way to gain fans here and now is to create *content*— which has no lasting value for *future* audiences. So if *you* plan to make art that lasts… you'll end up the biggest loser. Luckily, with BYCombo, you can aim for the historical canon once more! Here's how:
 
 **To join BYCombo as an artist, you must pledge *not* to empower yourself. Instead, your band will gain exposure through business partners, whose trust you'll earn by sacrificing a serious chunk of lifetime.**
 
 ### Who we're looking for
 
-Are you eager to make history by advancing the art form? Are you willing to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project?
+Are you eager to make history by advancing the art form? Are you ready to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project?
 
-Most importantly, are you willing to defy indie rock's gatekeepers— its labels, curators, and pundits— even as they have the power to shut you out forever? That is to say, do you understand that, after sacrificing a serious chunk of your lifetime, you may be left with nothing to show but the work you've done, the talents you've built, and the friends you've made?
+Most importantly, are you willing to defy the indie gatekeepers and their allies— the [poptimists](/indie#underdogs-are-supremacists-in-effect) and [tech platforms](/indie#fair-practices-defer-to-the-data)— even as they have the power to shut you out forever? That is to say, do you understand that, after sacrificing a serious chunk of your lifetime, you may be left with nothing to show but the work you've done, the talents you've built, and the friends you've made?
 
 If so, then come be part of the interdependence revolution! We're looking for those who are reasonably skilled in one or more of the following roles:
 

@@ -50,9 +50,13 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 
 ### Who gatekeeps the gatekeepers?
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Well… not so fast. Indie rock's basic assumption is that all artists face the same hurdles— so if you just clear a path for the underdog, you'll still help the rest. Except… an outsider's hurdles *aren't* the same. To compensate for *not* being the one you're rooting for, they need to work much harder, to be much better. But then… this makes *them* the underdog's biggest hurdle!
 
-So even as the outsider builds up objective strengths to win over a skeptical public, indie rock's gatekeepers— its labels, curators, and pundits— assure victory for the underdog by keeping their criteria *subjective*! Which explains why they favor music that *lacks* [well-crafted hooks](/indie#timeless-works-have-standalone-appeal), and why they refuse to account for humanity's bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+So even as the outsider builds up objective strengths to win over a skeptical public, the indie gatekeepers assure victory for the underdog by keeping their criteria *subjective*! Which explains why they favor music that *lacks* [well-crafted hooks](/indie#timeless-works-have-standalone-appeal), and why they refuse to account for humanity's bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
 Suffice it to say, then… the indie labels rejected my demo. They also ignored later projects of mine that promised to *help* their underdogs: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider! And now I finally understood:
 
@@ -68,7 +72,7 @@ ${'  ' || `
 // TODO: Finalize with rest of content revision.
 `}
 
-If we can't dissent, though— let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: By judging the size of an artist's fanbase, it necessarily favors *content*— namely, art that optimizes for gaining fans in the present, at the cost of having none in the future. But content clearly isn't meant to make history… and to prove this, we just need time to pass.
+If we can't dissent, though— let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: By judging the size of an artist's fanbase, it necessarily favors *content*— namely, art that's optimized to gain fans here and now, at the cost of having none in the *future*. But content clearly isn't meant to make history… and to prove this, we just need time to pass.
 
 Sure enough, Gen Z now sees what the older generations see: Indie rock is their hair metal— making the *next* revolution their grunge! Which is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that an entrepreneur will try to disrupt the rock market.
 
