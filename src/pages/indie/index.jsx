@@ -259,7 +259,7 @@ By contrast, the indie labels look at one visible measure: the size of an artist
 
 So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
-In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over— forcing the majors, in turn, to think [like indie labels](https://www.honest-broker.com/p/record-labels-dig-their-own-grave) now. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo requires you *not* to boost your numbers— but instead, to pursue a vision that few others see.
+In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over— forcing the majors, in turn, to behave [like indie labels](https://www.honest-broker.com/p/record-labels-dig-their-own-grave) now. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo requires you *not* to boost your numbers— but instead, to pursue a vision that few others see.
 
 ${'  ' || `
 // TODO: Keep working on.
