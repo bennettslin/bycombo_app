@@ -33,9 +33,17 @@ A counterculture protects dangerous ideas, yet we haven't had one for some time.
 
 ${'  ' || `
 // TODO: Revise. Make about content vs canonical here.
+
+Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support.
+
+Art that gains its advantage over past works lies in its present
 `}
 
-Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support. In this light, it's likely that *no* indie artist today will be added to the canon— and *this* is why people gripe that music is getting worse.
+When fans charitably support artists, they prefer *content*— namely, art that directly engages with its audience. But while content has a clear advantage over *past* art, it loses all value once it belongs in the past *itself*. Of course, it takes time to see this, which is why it's only recently that people have begun to gripe that music is getting worse.
+
+Moreover, in a world of good intentions, critical acclaim gets inflated; as such, it's a terrible barometer.
+
+
 
 **Why bands?**
 
