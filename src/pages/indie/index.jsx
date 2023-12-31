@@ -175,6 +175,10 @@ Which is why the most creative works in history were often backed by those with 
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
+${'  ' || `
+// TODO: Revise. Make it more about needing to please those fans?
+`}
+
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
 In the past, artists lacked all means to engage with the public in their early years, leaving them free to explore on their own and experiment at will. But today, indie artists are empowered to build a fanbase from day one— and so they prematurely seek out an optimal approach for gaining fans.
