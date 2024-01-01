@@ -39,11 +39,9 @@ Critical acclaim can be inflated; as such, it's a terrible barometer. What *can'
 Art that gains its advantage over past works lies in its present
 `}
 
-When fans charitably support artists, they prefer *content*— namely, art that directly engages with its audience. But while content has a clear advantage over *past* art, it loses all value once it belongs in the past *itself*. Of course, it takes time to see this, which is why it's only recently that people have begun to gripe that music is getting worse.
+When fans charitably support artists, they prefer *content*— namely, art that directly engages with its audience. But while content has a clear advantage over *past* art, it completely loses once it fades into the past *itself*. Of course, it takes time to see this, which is why it's only recently that people have begun to gripe that music is getting worse.
 
 Moreover, in a world of good intentions, critical acclaim gets inflated; as such, it's a terrible barometer.
-
-
 
 **Why bands?**
 
@@ -266,6 +264,10 @@ This… *can't* be a viable way to make history. After all, what historical figu
 Yet underdog movements will never go away— because to be seen as an underdog is a *privilege*, and the privileged can always find ways to benefit themselves. So BYCombo offers a permanent countermeasure, uniting all who believe in the superiority of art made by hungry outsiders— "rock and rollism," maybe?
 
 ### ${++sectionCounter}. Fair practices defer to the data
+
+${'  ' || `
+// TODO: Revise. Say majors now behave like indie labels, by refusing to invest in artists.
+`}
 
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
 
