@@ -173,10 +173,6 @@ Which is why the most creative works in history were often backed by those with 
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
 In the past, artists lacked all means to engage with the public in their early years, leaving them free to explore on their own. But today, indie artists build a fanbase from day one— leaving them unlikely to experiment at will, for fear of [losing their fans](https://gurwinder.substack.com/p/the-perils-of-audience-capture).
@@ -255,7 +251,7 @@ ${'  ' || `
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
-Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that suppressed a previous culture founded by outsiders. While the former defeated the revolutionary spirit of classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's immigrants and refined by Motown.
+Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that suppressed a previous culture founded by outsiders. While the former defeated the classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's European immigrants and refined by Motown.
 
 Like indie rock, poptimism lets the underdog triumph over outsiders who work much harder, to be much better. But if an underdog *isn't* the best of their time… then they'll also need to be *remembered* as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
