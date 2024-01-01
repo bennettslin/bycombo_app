@@ -32,16 +32,10 @@ A counterculture protects dangerous ideas, yet we haven't had one for some time.
 **Why the historical canon?**
 
 ${'  ' || `
-// TODO: Revise. Make about content vs canonical here.
-
-Critical acclaim can be inflated; as such, it's a terrible barometer. What *can't* be hacked is the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), because making history means competing on equal terms with past artists who *didn't* rely on charitable support.
-
-Art that gains its advantage over past works lies in its present
+// TODO: Keep working on. General ideas are there, but not sure if sentences connect in a satisfying flow. May need to expand on what makes content so detrimental to the arts.
 `}
 
-When fans charitably support artists, they prefer *content*— namely, art that directly engages with its audience. But while content has a clear advantage over *past* art, it completely loses once it fades into the past *itself*. Of course, it takes time to see this, which is why it's only recently that people have begun to gripe that music is getting worse.
-
-Moreover, in a world of good intentions, critical acclaim gets inflated; as such, it's a terrible barometer.
+When fans charitably support artists, they prefer *content*— namely, art that engages with its audience. But while content has a clear advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *consciously* aim to do so— because, unlike in the past, they must consciously choose *not* to be content creators.
 
 **Why bands?**
 
