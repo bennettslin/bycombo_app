@@ -13,10 +13,6 @@ const Component = () => (
             body: `
 # ${TITLE}
 
-${'  ' || `
-// TODO: Review with other content sections.
-`}
-
 As an artist, do you sense that the indie camp has it all *backward*? Why do they force you to waste so much time and energy using online tools meant to empower you? Back when rock was interdependent, self-empowerment just came for free, once you'd built up enough talents.
 
 Furthermore, the only measure of empowerment is the size of an artist's fanbase. But the easiest way to gain fans here and now is to create *content*— which has no lasting value for *future* audiences. So if *you* plan to make art that lasts… you'll end up the biggest loser. Luckily, with BYCombo, you can aim for the historical canon once more! Here's how:
@@ -27,7 +23,7 @@ Furthermore, the only measure of empowerment is the size of an artist's fanbase.
 
 Are you eager to make history by advancing the art form? Are you ready to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project?
 
-Most importantly, are you willing to defy the indie gatekeepers and their allies— the [poptimists](/indie#underdogs-are-supremacists-in-effect) and [tech platforms](/indie#fair-practices-defer-to-the-data)— even as they have the power to shut you out forever? That is to say, do you understand that, after sacrificing a serious chunk of your lifetime, you may be left with nothing to show but the work you've done, the talents you've built, and the friends you've made?
+Most importantly, are you willing to defy the indie gatekeepers and their allies— the [poptimists](/indie#underdogs-are-supremacists-in-effect) and [tech platforms](/indie#fair-practices-follow-the-data)— even as they have the power to shut you out forever? That is to say, do you understand that, after sacrificing a serious chunk of your lifetime, you may be left with nothing to show but the work you've done, the talents you've built, and the friends you've made?
 
 If so, then come be part of the interdependence revolution! We're looking for those who are reasonably skilled in one or more of the following roles:
 
