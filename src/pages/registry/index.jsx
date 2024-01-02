@@ -16,7 +16,7 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Finalize with rest of content revision.
+// TODO: Review with other content sections.
 `}
 
 Business partners, discerning listeners, and future historians:

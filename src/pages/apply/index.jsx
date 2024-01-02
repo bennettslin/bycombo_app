@@ -14,7 +14,7 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Finalize with rest of content revision.
+// TODO: Review with other content sections.
 `}
 
 As an artist, do you sense that the indie camp has it all *backward*? Why do they force you to waste so much time and energy using online tools meant to empower you? Back when rock was interdependent, self-empowerment just came for free, once you'd built up enough talents.

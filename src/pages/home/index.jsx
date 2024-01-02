@@ -65,7 +65,7 @@ Worst of all, if the major labels are "bad guys," then the indie labels are "goo
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Finalize with rest of content revision.
+// TODO: Review with other content sections.
 `}
 
 If we can't dissent, though— let's revolt! How? We simply… wait. See, indie rock has *another* glaring weakness: By judging the size of an artist's fanbase, it necessarily favors *content*— namely, art that's optimized to gain fans here and now, at the cost of having none in the *future*. But content clearly isn't meant to make history… and to prove this, we just need time to pass.
