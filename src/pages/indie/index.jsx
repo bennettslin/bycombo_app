@@ -35,10 +35,6 @@ When fans charitably support an artist, they want *content*— namely, art that 
 
 **Why bands?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, [if any](https://www.honest-broker.com/p/the-bands-are-never-coming-back). But what competitive edge could a solo artist possibly have these days, to put them among the best for all *time*? From now until forever, if artists want to aim for the canon, they'll need to be greater than the sum of their parts— and in rock, this happens by forming *bands*.
 
 **Why *assembled* bands?**
@@ -166,6 +162,10 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corpora
 Which is why the most creative works in history were often backed by those with the *least* prior experience in the arts: When you *don't* know what the people like, you *won't* be led astray! Let's face it, the best partners take pride in knowing how to do business, *not* in recognizing great art. And now with BYCombo, you can once again find such partners to back you.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
+
+${'  ' || `
+// TODO: Revise. Maybe bring back idea that they prematurely optimize to gain fans.
+`}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
