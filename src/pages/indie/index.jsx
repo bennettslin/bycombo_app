@@ -35,7 +35,11 @@ When fans charitably support an artist, they want *content*— namely, art that 
 
 **Why bands?**
 
-Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, [if any](https://www.honest-broker.com/p/the-bands-are-never-coming-back). But what competitive edge could a solo artist possibly have these days, to put them among the best for all *time*? From now until forever, if artists want to aim for the canon, they'll need to be greater than the sum of their parts— and this can only happen by forming *bands*.
+${'  ' || `
+// TODO: Review.
+`}
+
+Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, [if any](https://www.honest-broker.com/p/the-bands-are-never-coming-back). But what competitive edge could a solo artist possibly have these days, to put them among the best for all *time*? From now until forever, if artists want to aim for the canon, they'll need to be greater than the sum of their parts— and in rock, this happens by forming *bands*.
 
 **Why *assembled* bands?**
 
