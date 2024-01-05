@@ -35,7 +35,7 @@ When fans charitably support an artist, they want *content*— namely, art that 
 
 **Why bands?**
 
-Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, [if any](https://www.honest-broker.com/p/the-bands-are-never-coming-back). But what competitive edge could a solo artist possibly have these days, to put them among the best for all *time*? From now until forever, if artists want to aim for the canon, they'll need to be greater than the sum of their parts— and in rock, this happens by forming *bands*.
+Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, if any. But what competitive edge could a solo artist possibly have these days, to put them among the best for all *time*? From now until forever, if artists want to aim for the canon, they'll need to be greater than the sum of their parts— and in rock, this happens by forming *bands*.
 
 **Why *assembled* bands?**
 
@@ -163,10 +163,6 @@ Which is why the most creative works in history were often backed by those with 
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
 In the past, artists lacked all means to engage with the public on their own, freeing them to explore at will. But today, they're told to build a fanbase from day one, leaving them reluctant to experiment for fear of losing their fans.
@@ -247,11 +243,15 @@ Yet underdog movements will never go away— because to be seen as an underdog i
 
 ### ${++sectionCounter}. Fair practices follow the data
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
 
-By contrast, the indie labels look at one visible measure: the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does, and all that's left is for one label to offer the most generous terms. In other words, by lacking any vision and simply trusting the numbers… the indies turn out to do *right* by artists! And for this, they're praised as the "good guys."
+By contrast, the indie labels look at one visible measure: the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does, and all that's left is for each label to offer its most generous terms. In other words, by lacking any vision and simply trusting the numbers… the indies turn out to do *right* by artists! And for this, they're praised as the "good guys."
 
 So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
