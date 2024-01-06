@@ -68,6 +68,8 @@ But… will you also get to enjoy the spotlight? Yes! With BYCombo, you can be a
 ${'  ' || `
 // TODO: Describe plan.
 
+Also revise BY terms in light of the plan.
+
 Scraps:
 If you'd like to work for BYCombo in a paid administrative role, let us know what you have in mind. We're happy to get all the help we can!
 
