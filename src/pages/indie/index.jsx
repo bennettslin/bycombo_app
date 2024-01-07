@@ -273,11 +273,15 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Happiness flows from the act of creation
 
+${'  ' || `
+// TODO: Review.
+`}
+
 At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
 
 In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszentmihalyi), Mihaly Csikszentmihalyi explains that when an artist has a clear goal; feels adequately challenged; and gets feedback to guide their progress, they become fully immersed in the act of creation— leading to long-term fulfillment. This is why my years of sacrifice were some of my happiest; I *wasn't* slowly killing myself, as my friend had feared.
 
-Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained through years of self-reliance might just as well be won by chance, or bought by privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
+Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained through decades of self-reliance might just as well be won by chance, or bought by privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
 So yes, BYCombo requires you to focus on your craft, and to collaborate with others doing likewise. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
 
