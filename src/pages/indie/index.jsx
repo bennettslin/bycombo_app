@@ -31,7 +31,7 @@ A counterculture protects dangerous ideas, yet we haven't had one for some time.
 
 **Why the historical canon?**
 
-When fans charitably support an artist, they want *content*— namely, art that engages with its audience. But while content has a clear advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
+When fans charitably support an artist, they want *content*— namely, art that engages directly with its audience. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
@@ -239,7 +239,7 @@ Like indie rock, poptimism lets the underdog triumph over outsiders who work muc
 
 This… *can't* be a viable way to make history. After all, what historical figures from *our* past expected the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's original outsiders! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-Yet underdog movements will never go away— because to be seen as an underdog is a *privilege*, and the privileged can always find ways to benefit themselves. So BYCombo offers a permanent countermeasure, uniting all who believe in the superiority of art made by hungry outsiders— "rock and rollism," maybe?
+Yet underdog movements will never go away— because to be seen as an underdog is a *privilege*, and the privileged will always find ways to benefit themselves. So BYCombo offers a permanent countermeasure, uniting all who believe in the superiority of art made by hungry outsiders— "rock and rollism," maybe?
 
 ### ${++sectionCounter}. Fair practices follow the data
 
