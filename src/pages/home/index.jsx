@@ -56,7 +56,7 @@ ${'  ' || `
 
 Well… not so fast. The indie camp assumes that every artist faces the same hurdles— so by clearing a path for the underdog, they're still helping the rest. Except… as an outsider, your hurdles *aren't* the same. To compensate for *not* being the one they're rooting for, you need to work much harder, to be much better. But then… this makes *you* the underdog's biggest hurdle!
 
-So even as the outsider builds up objective strengths to win over a skeptical public, indie rock's gatekeepers assure victory for the underdog by keeping their criteria *subjective*! Which explains why they favor music that *lacks* [enviable hooks](/indie#timeless-works-have-standalone-appeal), and why they refuse to account for humanity's bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+So even as you build up objective strengths to win over a skeptical public, indie rock's gatekeepers assure victory for the underdog by keeping their criteria *subjective*! Which is why they favor music that *lacks* [enviable hooks](/indie#timeless-works-have-standalone-appeal), and why they never acknowledge the human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
 Suffice it to say, then… the indie labels rejected my demo. They also ignored later projects of mine that promised to *help* their underdogs: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://www.bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider! And now I finally understood:
 
