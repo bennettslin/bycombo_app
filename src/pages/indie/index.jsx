@@ -45,7 +45,7 @@ What if artists hoping to form history-making bands could flock to a single hub 
 
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized initiative like BYCombo to help them come together.
 
-**Why interdependent partners?**
+**Why interdependent partnerships?**
 
 To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to work with business partners.
 
