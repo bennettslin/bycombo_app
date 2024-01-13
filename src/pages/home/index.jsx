@@ -51,10 +51,10 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 ### Who gatekeeps the gatekeepers?
 
 ${'  ' || `
-// TODO: Revise. Fix pronoun mess. Instead of "indie rock's basic assumption," say the "indie camp assumes…"
+// TODO: Review.
 `}
 
-Well… not so fast. Indie rock's basic assumption is that every artist faces the same hurdles— so if they just clear a path for the underdog, they'll still help the rest. Except… an outsider's hurdles *aren't* the same. To compensate for *not* being the one they're rooting for, you need to work much harder, to be much better. But then… this makes *you* the underdog's biggest hurdle!
+Well… not so fast. The indie camp assumes that every artist faces the same hurdles— so by clearing a path for the underdog, they're still helping the rest. Except… as an outsider, your hurdles *aren't* the same. To compensate for *not* being the one they're rooting for, you need to work much harder, to be much better. But then… this makes *you* the underdog's biggest hurdle!
 
 So even as the outsider builds up objective strengths to win over a skeptical public, indie rock's gatekeepers assure victory for the underdog by keeping their criteria *subjective*! Which explains why they favor music that *lacks* [enviable hooks](/indie#timeless-works-have-standalone-appeal), and why they refuse to account for humanity's bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
