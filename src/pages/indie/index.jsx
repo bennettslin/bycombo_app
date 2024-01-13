@@ -21,7 +21,7 @@ There's just one problem. Rebelling against centralized institutions is simple: 
 
 **BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically canonical demos, which they'll show in a public registry to find business partners from a counterculture of interdependence.**
 
-### The revolution will not be decentralized
+### The revolution will *not* be decentralized
 
 Okay, that's a mouthful! Let's break it down…
 
@@ -47,7 +47,7 @@ With so many ways left to innovate in this space, there most certainly *are* can
 
 **Why interdependent partners?**
 
-To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to work with a business partner.
+To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to work with business partners.
 
 **Why demos?**
 
