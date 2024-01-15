@@ -131,10 +131,6 @@ Let's face it, we're cultural chauvinists either way; all we can do is not be hy
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
-${'  ' || `
-// TODO: Review.
-`}
-
 How did indie rock degrade into just another foreign canon? It's simple: Indie artists *never* go above and beyond to make the best art. Okay, but… why *don't* they? Well, let's examine their options.
 
 They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Moreover, with no talent scouts out there trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
@@ -186,10 +182,6 @@ Yet if greater access to an audience can now be bought— with money, or with ti
 Places like… BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To promote self-reliance, indie rock requires artists to do the middleman's job for themselves. But a wealthy artist can just pay *others* to do it… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
@@ -291,7 +283,7 @@ In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszen
 
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained through decades of self-reliance might just as well be won by chance, or bought by privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
-So yes, BYCombo tells you to focus on your craft, and to befriend others doing the same. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
+So yes, BYCombo tells you to focus on your craft, and lets you befriend others doing the same. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
