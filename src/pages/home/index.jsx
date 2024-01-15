@@ -50,10 +50,6 @@ But who'd volunteer to be the first of these new martyrs? A hungry outsider, tha
 
 ### Who gatekeeps the gatekeepers?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Well… not so fast. The indie camp assumes that every artist faces the same hurdles— in which case, clearing the way for an underdog still helps the rest. Except… your hurdles as an outsider *aren't* the same. To compensate for *not* being the one they're rooting for, you need to work much harder, to be much better. But then… this makes *you* the underdog's biggest hurdle!
 
 So even as you build up *objective* strengths to win over a skeptical public, the indie gatekeepers assure victory for the underdog by keeping their criteria *subjective*. Which is why they favor music that *lacks* [enviable hooks](/indie#timeless-works-have-standalone-appeal), and why they refuse to acknowledge the human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
