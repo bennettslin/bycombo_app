@@ -253,12 +253,6 @@ So when the tech platforms came along, their data-driven ways made them good guy
 
 In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now [follow the data](https://www.honest-broker.com/p/record-labels-dig-their-own-grave) as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
 
-### ${++sectionCounter}. Longevity remains a final frontier
-
-The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's a whole frontier left to explore! Unfortunately… indie rock isn't cut out for this job: Hustling requires a youthful outlook, so every indie artist is destined to burn out.
-
-By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
-
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
@@ -283,7 +277,13 @@ In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszen
 
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained through decades of self-reliance might just as well be won by chance, or bought by privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
-So yes, BYCombo tells you to focus on your craft, and lets you befriend others doing the same. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
+So yes, BYCombo tells you to focus on your craft, and to join a community of others doing the same. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
+
+### ${++sectionCounter}. Longevity remains a final frontier
+
+The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's a whole frontier left to explore! Unfortunately… indie rock isn't cut out for this job: Hustling requires a youthful outlook, so every indie artist is destined to burn out.
+
+By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
