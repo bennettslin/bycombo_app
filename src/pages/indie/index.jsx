@@ -67,6 +67,18 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Disintermediation is a dream of middlemen
+
+${'  ' || `
+// TODO: Keep working on. Come up with satisfying third paragraph. Also figure out best location for this section.
+`}
+
+Obviously, cutting out the middleman doesn't eliminate any need for the work they do. So what indie rock has *really* done is create a new hybrid role in which one person does the job of both artist *and* middleman. Now obviously, artists are well qualified for this role, since they're already skilled at one of these jobs. And yet… the same can be said of middlemen!
+
+These two jobs aren't equal, however. Whereas the artist is loved for doing work that we all enjoy, the middleman is hated for doing work that many of us dread. So in this new hybrid role, artists *have* to be their own middlemen— but middlemen *get* to be their own artists. Which tells us something: A world without middlemen… is a middleman's dream, *not* an artist's!
+
+So indie rock can only devolve further into a playground for those who'd otherwise be middlemen. Which is why
+
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
