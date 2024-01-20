@@ -67,10 +67,13 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Disintermediation is the dream of middlemen
+### ${++sectionCounter}. Disintermediation is a dream of middlemen
 
 ${'  ' || `
-// TODO: Keep working on. Can last sentence of second paragraph and first sentence of third paragraph be reduced to one? Or is the point so unexpected that it needs to be restated? I'm going with the latter right now.
+// TODO: Keep working on.
+First paragraph needs to be more like, artists can easily do this, as it only involves taking on one more skill set.
+
+Can last sentence of second paragraph and first sentence of third paragraph be reduced to one? Or is the point so unexpected that it needs to be restated? I'm going with the latter right now.
 
 "Since it's" and "as it's" are similar sentence structures.
 
@@ -81,7 +84,7 @@ Obviously, cutting out the middleman doesn't eliminate our need for the work the
 
 And these two jobs *aren't* equal. Whereas the artist is loved for doing work that all of us enjoy, the middleman is hated for doing work that many of us dread. So in this new hybrid role, artists *have* to be their own middlemen— but middlemen *get* to be their own artists. Which tells us something: A world without middlemen… is a middleman's dream, *not* an artist's!
 
-In other words, the artists who most love to be indie are those who would otherwise be *middlemen*. Yet Millennials never question this world, since it's all they've ever known. Luckily, I came of age *before* indie rock took over, and so I've *always* dreamt of only doing the artist's job— as there's no other way to be the best at it! Now with BYCombo, you can have this dream as well.
+In other words, the artists who most love to be indie are those who would otherwise be *middlemen*. Yet Millennials never question this world, since it's all they've ever known. Luckily, I came of age *before* indie rock took over, and so I've *always* dreamt of doing just the artist's job— as there's no other way to be the best at it! Now with BYCombo, you can have this dream as well.
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
