@@ -67,24 +67,26 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Disintermediation is a dream of middlemen
+### ${++sectionCounter}. Disintermediation is a middleman's dream
 
 ${'  ' || `
 // TODO: Keep working on.
 First paragraph needs to be more like, artists can easily do this, as it only involves taking on one more skill set.
 
-Can last sentence of second paragraph and first sentence of third paragraph be reduced to one? Or is the point so unexpected that it needs to be restated? I'm going with the latter right now.
+Can last sentence of second paragraph and first sentence of third paragraph be reduced to one? Or is the point so unexpected that it needs to be restated? I'm going with the former right now, since it's already in the section title.
+
+Switch order of second and third sentences in second paragraph?
 
 "Since it's" and "as it's" are similar sentence structures.
 
 Also figure out best location for this section.
 `}
 
-Obviously, cutting out the middleman doesn't eliminate our need for the work they do. So what indie rock has *really* done is create a new hybrid role in which one person does the job of both artist *and* middleman. Now, artists are obvious candidates for this role, since they're already skilled at *one* of these jobs. Yet… the same can be said of middlemen!
+Obviously, cutting out the middlemen doesn't eliminate anyone's need for the work they do. So what indie rock has *really* done is create a new hybrid role in which one person does the job of both artist *and* middleman. The thinking is that artists should welcome this change, since they're already skilled at one of these jobs. Yet… the same can be said of middlemen!
 
-And these two jobs *aren't* equal. Whereas the artist is loved for doing work that all of us enjoy, the middleman is hated for doing work that many of us dread. So in this new hybrid role, artists *have* to be their own middlemen— but middlemen *get* to be their own artists. Which tells us something: A world without middlemen… is a middleman's dream, *not* an artist's!
+And whereas artists are adored for doing what most of us would love to do ourselves, middlemen are vilified for doing work that many of us would hate. So in this new hybrid role, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. Which tells us that a world without middlemen… is the dream of a *middleman*, not an *artist*!
 
-In other words, the artists who most love to be indie are those who would otherwise be *middlemen*. Yet Millennials never question this world, since it's all they've ever known. Luckily, I came of age *before* indie rock took over, and so I've *always* dreamt of doing just the artist's job— as there's no other way to be the best at it! Now with BYCombo, you can have this dream as well.
+Yet Millennials never question this world, since it's all they've ever known. Luckily, I came of age *before* indie rock took over, and so I've *always* dreamt of being allowed to do just the artist's job— as there's no other way to be the best at it! Now with BYCombo, you can have this dream as well.
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
