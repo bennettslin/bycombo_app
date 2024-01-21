@@ -67,6 +67,18 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Disintermediation is a middleman's dream
+
+${'  ' || `
+// TODO: Review a few more times. Sentence to begin second paragraph can be improved.
+`}
+
+Indie rock is all about cutting out the middlemen, and so it empowers artists to do the middleman's job. Of course, the Bizarro version of this would be to empower *middlemen* to do the *artist's* job. Absurd, right? But… the result would just be the same, with each person now doing the job of both artist *and* middleman. So indie rock is its own Bizarro world!
+
+Yet these two jobs aren't equal. Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few artists enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. Which tells us something: A world without middlemen… is a *middleman's* dream, not an artist's!
+
+Sadly, today's young people never question this world, since it's all they've ever known. I came of age *before* indie rock took over, however, and so I've *always* dreamt of having only one job as an artist— as there's no other way to be the best at it! Now with BYCombo, this dream can be yours as well.
+
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -181,24 +193,12 @@ Yet if greater access to an audience can now be bought— with money, or with ti
 
 Places like… BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
-### ${++sectionCounter}. Disintermediation is a middleman's dream
-
-${'  ' || `
-// TODO: Review a few more times. Change first paragraph to make it clear that indie rock is all about cutting out the middleman.
-
-Saying "few of us would enjoy" still seems harsh. Find a better way to say most of us don't want to do it, in a way that doesn't suggest the work absolutely sucks.
-`}
-
-Obviously, cutting out the middleman doesn't eliminate an artist's need for the work they do. So what indie rock has *really* done is create a new hybrid role in which one person does the job of both artist *and* middleman. This shouldn't be a burden for artists to take on, of course, since they're already skilled at one of these jobs. Yet… the same can be said of *middlemen*!
-
-And these two jobs *aren't* equal. Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few of us would enjoy. So in this new hybrid role, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. Which means a world without middlemen… is a *middleman's* dream, not an artist's!
-
-Yet today's young people never question this world, since it's all they've ever known. Luckily, I came of age *before* indie rock took over, and so I've *always* dreamt of having only one job as an artist— as there's no other way to be the best at it! Now with BYCombo, this dream can be yours as well.
-
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
 ${'  ' || `
 // TODO: Change first paragraph in light of disintermediation section.
+
+"By requiring artists to do the middleman's job for themselves, indie rock can be said to promote self-reliance."
 `}
 
 To promote self-reliance, indie rock requires artists to do the middleman's job for themselves. But a wealthy artist can just pay *others* to do it… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
