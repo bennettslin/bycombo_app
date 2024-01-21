@@ -67,27 +67,6 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Disintermediation is a middleman's dream
-
-${'  ' || `
-// TODO: Keep working on.
-First paragraph needs to be more like, artists can easily do this, as it only involves taking on one more skill set.
-
-Can last sentence of second paragraph and first sentence of third paragraph be reduced to one? Or is the point so unexpected that it needs to be restated? I'm going with the former right now, since it's already in the section title.
-
-Switch order of second and third sentences in second paragraph?
-
-"Since it's" and "as it's" are similar sentence structures.
-
-Also figure out best location for this section.
-`}
-
-Obviously, cutting out the middlemen doesn't eliminate anyone's need for the work they do. So what indie rock has *really* done is create a new hybrid role in which one person does the job of both artist *and* middleman. The thinking is that artists should welcome this change, since they're already skilled at one of these jobs. Yet… the same can be said of middlemen!
-
-And whereas artists are adored for doing what most of us would love to do ourselves, middlemen are vilified for doing work that many of us would hate. So in this new hybrid role, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. Which tells us that a world without middlemen… is the dream of a *middleman*, not an *artist*!
-
-Yet Millennials never question this world, since it's all they've ever known. Luckily, I came of age *before* indie rock took over, and so I've *always* dreamt of being allowed to do just the artist's job— as there's no other way to be the best at it! Now with BYCombo, you can have this dream as well.
-
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -211,6 +190,18 @@ To understand the problem, let's first observe that indie rock enjoys the goodwi
 Instead, being indie is about commanding the *public's* attention— and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. Which means indie rock is really about *competitive* self-reliance! Its winners live for the *hustle*— like libertarians in politics— and nothing makes the hustle easier than [having privilege](https://prri.org/wp-content/uploads/2013/11/110613.Libertarians1.jpg).
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to just suck it up and try harder. Now with BYCombo, there's an opposition party that upholds the interdependence you want— out of respect for your craft.
+
+### ${++sectionCounter}. Disintermediation is a middleman's dream
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Obviously, cutting out the middleman doesn't eliminate an artist's need for the work they do. So what indie rock has *really* done is create a new hybrid role in which one person does the job of both artist *and* middleman. Now, this shouldn't be a burden for artists to take on, since they're already skilled at one of these jobs. Yet… the same can be said of middlemen!
+
+And these two jobs *aren't* equal. Whereas artists are adored for doing what we'd all love to do ourselves, middlemen are vilified for doing work that many of us would hate. So in this new hybrid role, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. Which means a world without middlemen… is a *middleman's* dream, not an *artist's*!
+
+Yet today's young people never question this world, since it's all they've ever known. Luckily, I came of age *before* indie rock took over, and so I've *always* dreamt of having only one job as an artist— as there's no other way to be the best at it! Now with BYCombo, this dream can be yours as well.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
