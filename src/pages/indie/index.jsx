@@ -194,12 +194,12 @@ The problem, then, is that indie rock's artistic libertarianism is a *partisan* 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review a few more times. Is this the best location?
 `}
 
-Obviously, cutting out the middleman doesn't eliminate an artist's need for the work they do. So what indie rock has *really* done is create a new hybrid role in which one person does the job of both artist *and* middleman. Now, this shouldn't be a burden for artists to take on, since they're already skilled at one of these jobs. Yet… the same can be said of middlemen!
+Obviously, cutting out the middleman doesn't eliminate an artist's need for the work they do. So what indie rock has *really* done is create a new hybrid role in which one person does the job of both artist *and* middleman. This shouldn't be a burden for artists to take on, of course, since they're already skilled at one of these jobs. Yet… the same can be said of *middlemen*!
 
-And these two jobs *aren't* equal. Whereas artists are adored for doing what we'd all love to do ourselves, middlemen are vilified for doing work that many of us would hate. So in this new hybrid role, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. Which means a world without middlemen… is a *middleman's* dream, not an *artist's*!
+And these two jobs *aren't* equal. Whereas artists are adored for doing what we'd all love to do ourselves, middlemen are vilified for doing work that many of us would hate. So in this new hybrid role, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. Which means a world without middlemen… is a *middleman's* dream, not an artist's!
 
 Yet today's young people never question this world, since it's all they've ever known. Luckily, I came of age *before* indie rock took over, and so I've *always* dreamt of having only one job as an artist— as there's no other way to be the best at it! Now with BYCombo, this dream can be yours as well.
 
