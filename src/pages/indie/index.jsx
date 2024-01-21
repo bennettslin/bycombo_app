@@ -194,7 +194,7 @@ The problem, then, is that indie rock's artistic libertarianism is a *partisan* 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
 ${'  ' || `
-// TODO: Review a few more times. Is this the best location?
+// TODO: Review a few more times. "Hate" is a strong word. Figure out something better.
 `}
 
 Obviously, cutting out the middleman doesn't eliminate an artist's need for the work they do. So what indie rock has *really* done is create a new hybrid role in which one person does the job of both artist *and* middleman. This shouldn't be a burden for artists to take on, of course, since they're already skilled at one of these jobs. Yet… the same can be said of *middlemen*!
