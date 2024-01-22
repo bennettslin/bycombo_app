@@ -23,7 +23,7 @@ Make clear that *I* never wanted to be indie, and I'm guessing I speak for all a
 As Dred Scott demonstrated, you're powerless to protest against the very system that renders you a non-entity.
 `}
 
-As an entrepreneur, do you sense that indie rock has it all *backward*? The Beatles relied on managers from day one; it's how they got their Hamburg gig, as well as their Parlophone audition. And if history's greatest rock band was a paragon of *inter*-dependence… then how good can any *indie*-pendent artist ever really be?
+As an entrepreneur, do you sense that indie rock has it all *backward*? The Beatles relied on managers from day one; it's how they got their Hamburg gig, as well as their Parlophone audition. And if history's greatest rock band was an emblem of *inter*-dependence… then how good can any *indie*-pendent artist ever really be?
 
 Well, you're *not* crazy: The artists trying to make the best art today *don't* want to be indie; they *do* hope to work with business partners. We just never hear from them, because indie rock shuts them out. Until now!
 
