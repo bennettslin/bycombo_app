@@ -184,7 +184,7 @@ Places like… BYCombo! Because what can be a more honest signal of your worth, 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
 ${'  ' || `
-// TODO: Be more specific in second paragraph. This is the dream of those who would otherwise be middlemen, not artists.
+// TODO: Be more specific in second paragraph. This is the dream of those who would otherwise be middlemen, not artists. Those who are otherwise most qualified to be the middlemen.
 `}
 
 Indie rock is all about cutting out the middleman, and so it empowers artists to do the middleman's job. Of course, the Bizarro way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet… the result would still be the same, with each person now doing the job of both artist *and* middleman. So indie rock is its own Bizarro world!
