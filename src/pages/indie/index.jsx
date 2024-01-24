@@ -196,14 +196,14 @@ Sadly, today's young people never question this auto-Bizarro world, since it's a
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise. Third paragraph should make it less about the hustle, and more about having privilege makes it easier to be self-reliant. Also make sure I'm not saying libertarians love to hustle, just to be self-reliant. Consider best link, or whether to even have link.
 `}
 
 Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
 Simply put, indie rock was initially understood to be another [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement like the maker culture, which promotes *cooperative* self-reliance by instilling love for the *craft*. As such, it met with no opposition and enjoyed the same goodwill. Now, this *would* have been fitting— if indie artists simply made music for their *own* fulfillment.
 
-But being indie is all about commanding the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. Which means indie rock is really about *competitive* self-reliance! Its winners live for the *hustle*, like libertarians in politics— and nothing makes the hustle easier than [having privilege](https://prri.org/wp-content/uploads/2013/11/110613.Libertarians1.jpg).
+But being indie is all about commanding the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. Which means indie rock is really about *competitive* self-reliance! Its winners live for the *hustle*, like libertarians in politics— and nothing makes the hustle easier than [having privilege](https://www.pewresearch.org/short-reads/2014/08/25/in-search-of-libertarians).
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that still gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to suck it up and try harder. Now with BYCombo, there's an opposition party that upholds the interdependence you want— out of respect for your craft.
 
