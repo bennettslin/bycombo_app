@@ -183,10 +183,6 @@ Places like… BYCombo! Because what can be a more honest signal of your worth, 
 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the Bizarro way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet… the outcome would be the same, with each person now doing the job of both artist *and* middleman. So indie rock is its own Bizarro world!
 
 And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few artists enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a *middleman's* dream, not an artist's!
@@ -196,14 +192,14 @@ Sadly, today's young people never question this auto-Bizarro world, since it's a
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
 ${'  ' || `
-// TODO: Revise. Third paragraph should make it less about the hustle, and more about having privilege makes it easier to be self-reliant. Also make sure I'm not saying libertarians love to hustle, just to be self-reliant. Consider best link, or whether to even have link.
+// TODO: Revise. Third paragraph really, really needs work. Make it more about winners versus losers? And it's easier to be happy with a system where the difference between winners and losers in based on self-reliance, because the things that can be procured with self-reliance can also be procured through privilege.
 `}
 
 Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
-Simply put, indie rock was initially understood to be another [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement like the maker culture, which promotes *cooperative* self-reliance by instilling love for the *craft*. As such, it met with no opposition and enjoyed the same goodwill. Now, this *would* have been fitting— if indie artists simply made music for their *own* fulfillment.
+Simply put, indie rock was initially understood to be another [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement like the maker culture, which promotes *cooperative* self-reliance by instilling love for the *craft*. As such, it met with no opposition and enjoyed the same goodwill. Of course, this *would* have been fitting— if indie artists simply made music for their *own* fulfillment.
 
-But being indie is all about commanding the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. Which means indie rock is really about *competitive* self-reliance! Its winners live for the *hustle*, like libertarians in politics— and nothing makes the hustle easier than [having privilege](https://www.pewresearch.org/short-reads/2014/08/25/in-search-of-libertarians).
+But being indie is all about commanding the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. Which means indie rock is really about *competitive* self-reliance! Its winners get ahead by being the *most* self-reliant, like libertarians in politics— and nothing makes it easier to do so than [having privilege](https://www.pewresearch.org/short-reads/2014/08/25/in-search-of-libertarians).
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that still gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to suck it up and try harder. Now with BYCombo, there's an opposition party that upholds the interdependence you want— out of respect for your craft.
 
@@ -289,7 +285,7 @@ ${'  ' || `
 
 At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
 
-In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszentmihalyi), Mihaly Csikszentmihalyi explains that when an artist has a clear goal; feels adequately challenged; and gets immediate feedback from the task at hand, they become fully immersed in the act of creation— leading to long-term fulfillment. This is why my years of sacrifice were some of my happiest; I *wasn't* slowly killing myself, as my friend had feared.
+In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszentmihalyi), Mihaly Csikszentmihalyi explains that when you have a clear goal; feel adequately challenged; and get immediate feedback from the task at hand, you become fully immersed in the act of creation— which leads to long-term fulfillment. And this is why my years of sacrifice were some of my happiest; I *wasn't* slowly killing myself, as my friend had feared.
 
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained through decades of self-reliance might just as well be won by chance, or bought by privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
