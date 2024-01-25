@@ -183,11 +183,15 @@ Places like… BYCombo! Because what can be a more honest signal of your worth, 
 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
+${'  ' || `
+// TODO: Review.
+`}
+
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the Bizarro way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet… the outcome would be the same, with each person now doing the job of both artist *and* middleman. So indie rock is its own Bizarro world!
 
 And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few artists enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a *middleman's* dream, not an artist's!
 
-Sadly, today's young people never question this auto-Bizarro world, since it's all they've ever known. Luckily, I came of age *before* indie rock took over, and so I've *always* dreamt of having only one job as an artist. Now with BYCombo, this dream can be yours as well.
+Sadly, young people never question today's auto-Bizarro world, since it's all they've ever known. But since I came of age *before* the indie camp took over, I've *always* dreamt of having only one job as an artist. Now with BYCombo, this dream can be yours as well.
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
@@ -195,11 +199,11 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Want even more absurdity? Any [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay others to do the middleman's job *for* them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
+Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
-Simply put, indie rock is seen as another [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement like the maker culture, which promotes *cooperative* self-reliance by instilling love for the *craft*. As such, it meets with no opposition and enjoys the same goodwill. Now, this *would* make sense— if indie artists simply made music for their *own* fulfillment.
+Simply put, indie rock has always been seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement like the maker culture, which promotes *cooperative* self-reliance by instilling love for the *craft*. As such, it meets with no opposition and enjoys the same goodwill. Now, this *would* make sense— if indie artists simply made music for their *own* fulfillment.
 
-But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and nothing makes it easier to cop this attitude than [having privilege](https://www.pewresearch.org/short-reads/2014/08/25/in-search-of-libertarians).
+But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and privilege is the [greatest predictor](https://www.pewresearch.org/short-reads/2014/08/25/in-search-of-libertarians) of this belief.
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to suck it up and try harder. Now with BYCombo, there's an opposition party that upholds the interdependence you want— out of respect for your craft.
 
@@ -278,10 +282,6 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
 ### ${++sectionCounter}. Happiness flows from the act of creation
-
-${'  ' || `
-// TODO: Review.
-`}
 
 At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. On a scale of one to ten, he asked, how happy am I? Eight, I replied. He was dumbfounded; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
 
