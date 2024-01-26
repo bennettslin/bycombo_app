@@ -183,10 +183,6 @@ Places like… BYCombo! Because what can be a more honest signal of your worth, 
 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the Bizarro way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet… the outcome would be the same, with each person now doing the job of both artist *and* middleman. So indie rock is its own Bizarro world!
 
 And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few artists enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a *middleman's* dream, not an artist's!
@@ -201,7 +197,7 @@ ${'  ' || `
 
 Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
-Simply put, indie rock is seen as another [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement like the maker culture, which promotes *cooperative* self-reliance by instilling love for the *craft*. As such, it meets with no opposition and enjoys the same goodwill. Now, this *would* be fitting— if indie artists simply made music for their *own* fulfillment.
+Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys the same goodwill. Now, this *would* be fitting— if indie artists only made music for their *own* fulfillment.
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.pewresearch.org/short-reads/2014/08/25/in-search-of-libertarians) of this belief.
 
