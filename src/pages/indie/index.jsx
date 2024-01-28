@@ -163,10 +163,6 @@ Which is why the most creative works in history were often backed by those with 
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
 In the past, artists lacked all means to engage with the public on their own, freeing them to explore at will. But today, indie artists build a fanbase from day one, leaving them reluctant to experiment for fear of losing their fans.
@@ -181,9 +177,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying among themselves. So when Elon Musk added the blue checkmark to his X Premium service plan, I saw them complain that this would make it worthless— which amused me. After all… indie rock is the X Premium of music!
+Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk made verification a feature of his premium service plan, I saw them argue that this totally missed the point of whom the blue checkmark was really for— which amused me. After all… indie rock is the X Premium of music!
 
-Musk wanted *everyone* to have access to a discerning audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie pundits in the '00s! They wanted *every* artist to reach the public directly— and so they promoted the use of online tools that take up a portion of the artist's day.
+Musk wanted *everyone* to have access to a discerning audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie pundits in the '00s! They wanted *every* artist to reach the public directly— and so they encouraged the use of online tools that cost "just" a portion of the artist's day.
 
 Yet if greater access to an audience can now be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to care for it— and then both yearn to leave for places where honest signaling still happens.
 
@@ -220,10 +216,6 @@ So instead, you strive to be what a future audience— or romantic partner!— *
 But why would Gen Z— and beyond— side with past gatekeepers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Who foresaw indie rock's final stage as a trust fund playground? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/10900). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
