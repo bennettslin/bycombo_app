@@ -177,11 +177,11 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk made verification a feature of his premium service plan, I saw them argue that this totally missed the point of whom the blue checkmark was really for— which amused me. After all… indie rock is the X Premium of music!
+Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk made verification a feature of his premium plan, I saw them argue that this missed the point of whom the blue checkmark is really for— which amused me. After all… indie rock is the X Premium of music!
 
 Musk wanted *everyone* to have access to a discerning audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie pundits in the '00s! They wanted *every* artist to reach the public directly— and so they encouraged the use of online tools that cost "just" a portion of the artist's day.
 
-Yet if greater access to an audience can now be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to care for it— and then both yearn to leave for places where honest signaling still happens.
+Yet if greater access to an audience can now be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, so the worthy "sender" learns not to want it— and then both yearn to leave for places where honest signaling still happens.
 
 Places like… BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
