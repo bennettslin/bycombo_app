@@ -173,11 +173,7 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 
 ### ${++sectionCounter}. Commodified signals are worthless
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk made verification a feature of his premium plan, I saw them argue that this missed the point of whom the blue checkmark is really for— which amused me. After all… indie rock is the X Premium of music!
+Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk made verification a feature of his premium plan, I saw them argue that this missed the point of whom the blue checkmark is *really* for— which amused me. After all… indie rock is the X Premium of music!
 
 Musk wanted *everyone* to have access to a discerning audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie pundits in the '00s! They wanted *every* artist to reach the public directly— and so they encouraged the use of online tools that cost "just" a portion of the artist's day.
 
