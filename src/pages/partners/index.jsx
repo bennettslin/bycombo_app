@@ -25,7 +25,7 @@ As Dred Scott demonstrated, you're powerless to protest against the very system 
 
 As an entrepreneur, do you sense that indie rock has it all *backward*? The Beatles relied on managers from day one; it's how they got their Hamburg gig, as well as their Decca and Parlophone auditions. So if history's greatest rock band was an emblem of *inter*-dependence… then how good can any *indie*-pendent artist really be?
 
-Well, you're *not* crazy: The artists trying to make the best art today [*don't* want](/indie#disintermediation-is-a-middlemans-dream) to be indie, and never have. They've *always* hoped to rely on partners like you to handle their business matters. You just haven't been allowed to hear from them, because the indie camp shuts them out. Until now!
+Well, you're *not* crazy: The artists trying to make the best art today [*don't* want](/indie#disintermediation-is-a-middlemans-dream) to be indie, and never have. They've *always* hoped to partner with those like you to handle their business matters. You just haven't been allowed to hear from them, because the indie camp shuts them out. Until now!
 
 **BYCombo introduces entrepreneurs to partner with the only kind of artist it makes sense to partner with: The ones promising to spend *all* their time and energy making the best art.**
 
