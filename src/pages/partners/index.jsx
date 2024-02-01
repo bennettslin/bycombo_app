@@ -23,17 +23,19 @@ Make clear that *I* never wanted to be indie, and I'm guessing I speak for all a
 As Dred Scott demonstrated, you're powerless to protest against the very system that renders you a non-entity.
 `}
 
-As an entrepreneur, do you sense that indie rock has it all *backward*? The Beatles relied on managers from day one; it's how they got their Hamburg gig, as well as their Parlophone audition. And if history's greatest rock band was an emblem of *inter*-dependence… then how good can any *indie*-pendent artist ever really be?
+As an entrepreneur, do you sense that indie rock has it all *backward*? The Beatles relied on managers from day one; it's how they got their Hamburg gig, as well as their Decca and Parlophone auditions. So if history's greatest rock band was an emblem of *inter*-dependence… then how good can any *indie*-pendent artist really be?
 
-Well, you're *not* crazy: The artists trying to make the best art today *don't* want to be indie; they *do* hope to work with business partners. We just never hear from them, because indie rock shuts them out. Until now!
+Well, you're *not* crazy: The artists trying to make the best art today [*don't* want](/indie#disintermediation-is-a-middlemans-dream) to be indie, and never have. They've *always* hoped to rely on partners like you to handle their business matters. You just haven't been allowed to hear from them, because the indie camp shuts them out. Until now!
+
+**BYCombo introduces entrepreneurs to partner with the only kind of artist it makes sense to partner with: The ones promising to spend *all* their time and energy making the best art.**
+
+State that they can contact artist directly, and there are no fees.
 
 ${'  ' || `
-// TODO: State that they can contact artist directly, and there are no fees.
+// TODO: Connect this all to the idea that the reader is an entrepreneur.
 
 Scraps:
 As an entrepreneur, have you grown tired of indie rock's low barriers to entry? BYCombo's bands will earn your trust by paying a steep *cost* of entry:
-
-**To be added to our public registry, each band must sacrifice at least 25,000 hours— twelve years working full time!— to make a demo that advances the art form.**
 
 If you'd like to be notified when a new demo is added to our public registry, please subscribe to our newsletter!
 `}
