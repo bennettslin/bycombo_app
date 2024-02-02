@@ -254,16 +254,16 @@ In short, today's data-driven culture is what the [*indie* camp wanted](https://
 ### ${++sectionCounter}. Commodified signals are worthless
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk made verification a feature of his X Premium plan, I saw them argue that this missed the point of whom the blue checkmark is meant to serve— which amused me. After all… indie rock is the X Premium of music!
 
 Musk wanted *everyone* to have access to an audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the '00s! They wanted *every* artist to reach an audience directly— and so they promoted the use of online tools that cost "just" a portion of the artist's day.
 
-Yet if greater access to the public can now be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, so the worthy "sender" learns not to want it— and then both yearn to leave for places where honest signaling still happens.
+Yet if greater access to the public can now be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to want it— and then both yearn to leave for places where honest signaling still happens.
 
-Places like… BYCombo! Because effective gatekeepers serve the *audience*, not the artist— and discerning audiences only want the *most* worthy artists to reach them. Well, what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
+Places like… BYCombo! Because responsible gatekeepers serve the *audience*, not the artist— and discerning audiences only want the *most* worthy artists to reach them. Well, what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
