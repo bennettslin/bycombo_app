@@ -171,25 +171,7 @@ Meanwhile, because the indie labels have just enough standing to lose, they only
 
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
 
-### ${++sectionCounter}. Commodified signals are worthless
-
-${'  ' || `
-// TODO: Review a few more times.
-`}
-
-Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk made verification a feature of his X Premium plan, I saw them argue that this missed the point of whom the blue checkmark is meant to serve— which amused me. After all… indie rock is the X Premium of music!
-
-Musk wanted *everyone* to have access to an audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the '00s! They wanted *every* artist to reach an audience directly— and so they promoted the use of online tools that cost "just" a portion of the artist's day.
-
-Yet if greater access to the public can now be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, so the worthy "sender" learns not to want it— and then both yearn to leave for places where honest signaling still happens.
-
-Places like… BYCombo! Because effective gatekeepers serve the *audience*, not the artist— and discerning audiences only want the *most* worthy artists to reach them. Well, what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
-
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the Bizarro way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet… the outcome would be the same, with each person now doing the job of both artist *and* middleman. So indie rock is its own Bizarro world!
 
@@ -268,6 +250,20 @@ By contrast, the indie labels look at one visible measure: the size of an artist
 So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
 In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now [follow the data](https://www.honest-broker.com/p/record-labels-dig-their-own-grave) as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
+
+### ${++sectionCounter}. Commodified signals are worthless
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk made verification a feature of his X Premium plan, I saw them argue that this missed the point of whom the blue checkmark is meant to serve— which amused me. After all… indie rock is the X Premium of music!
+
+Musk wanted *everyone* to have access to an audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the '00s! They wanted *every* artist to reach an audience directly— and so they promoted the use of online tools that cost "just" a portion of the artist's day.
+
+Yet if greater access to the public can now be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, so the worthy "sender" learns not to want it— and then both yearn to leave for places where honest signaling still happens.
+
+Places like… BYCombo! Because effective gatekeepers serve the *audience*, not the artist— and discerning audiences only want the *most* worthy artists to reach them. Well, what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
