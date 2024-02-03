@@ -2,7 +2,7 @@ import React from 'react'
 import MailingList from '../../components/MailingList'
 import Page from '../../containers/Page'
 
-const TITLE = `Back the interdependence revolution!`
+const TITLE = `Join the interdependence revolution!`
 const DESCRIPTION = `Come partner with our history-making bands.`
 
 const Component = () => (
@@ -18,16 +18,16 @@ const Component = () => (
 ${'  ' || `
 // TODO: Segue to bold text.
 
-Make clear that *I* never wanted to be indie, and I'm guessing I speak for all artists aiming for the canon.
+The Beatles relied on managers from day one; it's how they got their Hamburg gig and their Parlophone audition. So if history's greatest rock band was a paragon of *inter*-dependence… then how good can any *indie*-pendent artist really be?
 
-As Dred Scott demonstrated, you're powerless to protest against the very system that renders you a non-entity.
+Every BYCombo band promises to be an ideal partner in interdependence, by sacrificing a serious chunk of lifetime to advance the art form, while remaining powerless 
 `}
 
-As an entrepreneur, do you sense that indie rock has it all *backward*? The Beatles relied on managers from day one; it's how they got their Hamburg gig, as well as their Decca and Parlophone auditions. So if history's greatest rock band was an emblem of *inter*-dependence… then how good can any *indie*-pendent artist really be?
+As an entrepreneur, would you happily partner with today's artists, if only indie rock didn't have it so *backward*? Well, there's good news! The artists trying to make the best art today [*don't* wish](/indie#disintermediation-is-a-middlemans-dream) to be indie; they *do* hope to work with others who can handle their business matters. They just haven't had a way to make themselves known to you… until now!
 
-Well, you're *not* crazy: The artists trying to make the best art today [*don't* want](/indie#disintermediation-is-a-middlemans-dream) to be indie, and never have. They've *always* hoped to partner with those like you to handle their business matters. You just haven't been allowed to hear from them, because the indie camp shuts them out. Until now!
+With BYCombo, you can once again discover the next generation of bands to make history. Here's how:
 
-**BYCombo introduces entrepreneurs to partner with the only kind of artist it makes sense to partner with: The ones promising to spend *all* their time and energy making the best art.**
+**To partner with a BYCombo band allows entrepreneurs to partner with interdependent artists who promise to spend *all* their time and energy advancing the art form, in exchange for**
 
 State that they can contact artist directly, and there are no fees.
 
