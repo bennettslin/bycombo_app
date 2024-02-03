@@ -21,7 +21,7 @@ ${'  ' || `
 
 As an entrepreneur, would you readily partner with today's artists, if only indie rock didn't have it so *backward*? The Beatles relied on managers from day one; it's how they got their [Hamburg gig](https://en.wikipedia.org/wiki/Allan_Williams) and their [Parlophone audition](https://en.wikipedia.org/wiki/Brian_Epstein). And if *inter*-dependence is what allowed them to become history's greatest rock band… then how good can any *indie*-pendent artist really be?
 
-Well, there's good news! The artists trying to make the best art today *don't* want to be indie; they *do* want partners to handle their business matters. There just hasn't been a way for you to hear about them… until now. Because, thanks to BYCombo, you can work with history-making bands once again! Here's how:
+Well, there's good news! The artists trying to make the best art today *don't* want to be indie; they *do* want partners to handle their business matters. There just hasn't been a way for you to hear about them… until now. Because BYCombo is here to help you work with history-making bands once again! Here's how:
 
 **Every BYCombo band promises to be an ideal business partner by having sacrificed serious chunks of lifetime to advance the art form, even while remaining powerless to get heard on their own.**
 
