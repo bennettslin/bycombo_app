@@ -17,6 +17,8 @@ const Component = () => (
 
 ${'  ' || `
 // TODO: Segue to bold text.
+
+Every BYCombo band promises to be an ideal partner by spending *all* their time and energy to make the best art, for *years* of their lifetime, while also *needing* a partner by remaining powerless to get heard on their own.
 `}
 
 As an entrepreneur, would you readily partner with today's artists, if only indie rock didn't have it so *backward*? The Beatles relied on managers from day one; it's how they got their [Hamburg gig](https://en.wikipedia.org/wiki/Allan_Williams) and their [Parlophone audition](https://en.wikipedia.org/wiki/Brian_Epstein). And if *inter*-dependence is what allowed them to become history's greatest rock band… then how good can any *indie*-pendent artist really be?

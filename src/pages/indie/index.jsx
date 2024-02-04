@@ -67,6 +67,20 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Commodified signals are worthless
+
+${'  ' || `
+// TODO: Revise.
+`}
+
+Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this completely missed the point of verification— which amused me. After all… indie rock is the Twitter Blue of music!
+
+Musk wanted *everyone* to have access to an audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the '00s! They wanted *every* artist to reach an audience directly— and so they promoted the use of online tools that cost a small portion of the artist's day.
+
+Yet if greater access to the public can now be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to vie for it— and then both yearn to leave for places where honest signaling still happens.
+
+Places like… BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
+
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -250,20 +264,6 @@ By contrast, the indie labels look at one visible measure: the size of an artist
 So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
 In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now [follow the data](https://www.honest-broker.com/p/record-labels-dig-their-own-grave) as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
-
-### ${++sectionCounter}. Commodified signals are worthless
-
-${'  ' || `
-// TODO: Review.
-`}
-
-Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk made verification a feature of his X Premium plan, I saw them argue that this missed the point of whom the blue checkmark is meant to serve— which amused me. After all… indie rock is the X Premium of music!
-
-Musk wanted *everyone* to have access to an audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the '00s! They wanted *every* artist to reach an audience directly— and so they promoted the use of online tools that cost "just" a portion of the artist's day.
-
-Yet if greater access to the public can now be bought— with money, or with time and energy— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to want it— and then both yearn to leave for places where honest signaling still happens.
-
-Places like… BYCombo! Because responsible gatekeepers serve the *audience*, not the artist— and discerning audiences only want the *most* worthy artists to reach them. Well, what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
