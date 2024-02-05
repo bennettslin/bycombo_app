@@ -261,7 +261,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that he missed the entire point of verification— which amused me. After all… indie rock is the paid plan of music distribution!
+Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this missed the entire point of verification— which amused me. After all… indie rock is the paid plan of music distribution!
 
 Musk wanted *everyone* to have access to an audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the '00s! They wanted *every* artist to reach an audience, not just those "verified" by a label— and so they encouraged the use of online tools that cost a portion of the artist's day.
 
