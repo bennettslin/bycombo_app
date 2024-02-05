@@ -31,10 +31,6 @@ A counterculture protects dangerous ideas, yet we haven't had one for some time.
 
 **Why the historical canon?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 When fans charitably support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must consciously *aim* to do so— because without this intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
@@ -257,13 +253,9 @@ In short, today's data-driven culture is what the [*indie* camp wanted](https://
 
 ### ${++sectionCounter}. Commodified signals are worthless
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this completely missed the point of verification— which amused me. After all… indie rock is the paid plan of music distribution!
 
-Musk wanted *everyone* to have access to an audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie pundits in the '00s! They wanted *every* artist to reach an audience, not just those "verified" by a label— and so they encouraged the use of online tools that cost a portion of the artist's day.
+Musk wanted *everyone* to have access to an audience, not just the [old guard](https://twitter.com/elonmusk/status/1587498907336118274)— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie pundits in the '00s! They wanted *every* artist to reach an audience, not just those "verified" by a label— and so they encouraged the use of online tools that cost a portion of the artist's day.
 
 Yet if access to the public can now be paid for— either with cash, or through sheer grunt work— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to vie for it— and then both yearn to leave for places where honest signaling still happens.
 
@@ -282,10 +274,6 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands surpass me. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
 ### ${++sectionCounter}. Happiness flows from the act of creation
-
-${'  ' || `
-// TODO: Review.
-`}
 
 At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. "On a scale of one to ten," he asked, "how happy are you?" "Eight," I replied. He was floored; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
 
