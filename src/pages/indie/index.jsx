@@ -263,7 +263,7 @@ ${'  ' || `
 
 Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this completely missed the point of verification— which amused me. After all… indie rock is the paid plan of music distribution!
 
-Musk wanted *everyone* to have access to an audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the '00s! They wanted *every* artist to reach an audience, not just those "verified" by a label— and so they encouraged the use of online tools that cost a portion of the artist's day.
+Musk wanted *everyone* to have access to an audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie pundits in the '00s! They wanted *every* artist to reach an audience, not just those "verified" by a label— and so they encouraged the use of online tools that cost a portion of the artist's day.
 
 Yet if access to the public can now be paid for— either with cash, or through sheer grunt work— then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game), is it? The discerning "receiver" learns not to trust it, the worthy "sender" learns not to vie for it— and then both yearn to leave for places where honest signaling still happens.
 
