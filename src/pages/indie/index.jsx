@@ -35,7 +35,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-When fans charitably support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* to do so— because without this conscious intent, they'll naturally settle for being content creators instead.
+When fans charitably support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must consciously *aim* to do so— because without this intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
@@ -261,7 +261,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this missed the entire point of verification— which amused me. After all… indie rock is the paid plan of music distribution!
+Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this completely missed the point of verification— which amused me. After all… indie rock is the paid plan of music distribution!
 
 Musk wanted *everyone* to have access to an audience, not just the old guard— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie gatekeepers in the '00s! They wanted *every* artist to reach an audience, not just those "verified" by a label— and so they encouraged the use of online tools that cost a portion of the artist's day.
 
@@ -287,7 +287,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. "On a scale of one to ten," he asked, "how happy are you?" "Eight," I replied. He was thrown; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
+At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. "On a scale of one to ten," he asked, "how happy are you?" "Eight," I replied. He was floored; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
 
 In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszentmihalyi), Mihaly Csikszentmihalyi explains that when you have a clear goal; feel adequately challenged; and get immediate feedback from the task at hand, you become fully immersed in the act of creation— which leads to long-term fulfillment. This is why my years of sacrifice were some of my happiest; I *wasn't* slowly killing myself, as my friend had feared.
 
