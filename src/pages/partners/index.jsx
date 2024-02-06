@@ -16,18 +16,26 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Segue to bold text.
+// TODO:
 
 Every BYCombo band promises to be an ideal partner by spending *all* their time and energy to make the best art, for *years* of their lifetime, while also *needing* a partner by remaining powerless to get heard on their own.
+
+Discovering artists is only half the problem, however. The other half is learning to trust them.
+
+https://en.wikipedia.org/wiki/Stag_hunt
 `}
 
-As an entrepreneur, would you readily partner with today's artists, if only indie rock didn't have it so *backward*? The Beatles relied on managers from day one; it's how they got their [Hamburg gig](https://en.wikipedia.org/wiki/Allan_Williams) and their [Parlophone audition](https://en.wikipedia.org/wiki/Brian_Epstein). And if *inter*-dependence is what allowed them to become history's greatest rock band… then how good can any *indie*-pendent artist really be?
+As an entrepreneur, would you readily partner with today's artists— if only they didn't waste so much effort on the *hustle*? After all, the Beatles relied on managers from [day one](https://en.wikipedia.org/wiki/Allan_Williams), allowing them to focus entirely on the *craft*. And if history's greatest rock band was a paragon of *inter*-dependence… then how good can any *indie*-pendent artist really be?
 
-Well, there's good news! The artists trying to make the best art today *don't* want to be indie; they *do* want partners to handle their business matters. There just hasn't been a way for you to hear about them… until now. Because BYCombo is here to help you work with history-making bands once again! Here's how:
+Well, there's good news: The artists trying to make the best art today *don't* want to be indie. They *do* want a partner like you to handle their business matters. There just hasn't been a way for you to hear about them… until now. Because BYCombo helps entrepreneurs work with history-making bands once more! Here's how:
 
-**Every BYCombo band promises to be an ideal business partner by having sacrificed serious chunks of lifetime to advance the art form, even while remaining powerless to get heard on their own.**
+**Every BYCombo band promises to be your ideal partner by spending *all* their time and energy on the craft— and having done so already for serious chunks of lifetime— while remaining powerless to get heard on their own.**
 
-(Mention newsletter, or just visiting registry directly. State that they can contact artist directly, and there are no fees.)
+Next paragraph:
+In other words, the band bears all the costs, and continues to take on all the risk inherent to reviving interdependence.
+
+Next paragraph:
+Mention newsletter, or just visiting registry directly. State that they can contact artist directly, and there are no fees.
 
 ${'  ' || `
 // TODO:
