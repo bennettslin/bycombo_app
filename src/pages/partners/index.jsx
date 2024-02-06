@@ -22,7 +22,7 @@ Every BYCombo band promises to be an ideal partner by spending *all* their time 
 
 Discovering artists is only half the problem, however. The other half is learning to trust them.
 
-https://en.wikipedia.org/wiki/Stag_hunt
+https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html
 `}
 
 As an entrepreneur, would you readily partner with today's artists— if only they didn't waste so much effort on the *hustle*? After all, the Beatles relied on managers from [day one](https://en.wikipedia.org/wiki/Allan_Williams), allowing them to focus entirely on the *craft*. And if history's greatest rock band was a paragon of *inter*-dependence… then how good can any *indie*-pendent artist really be?

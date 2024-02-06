@@ -155,7 +155,7 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
-Because the indie labels and curators stay close to their local scenes, they're both "in the know" and "one of us." Whatever *they* like, then, is what others like *us* have liked, which means it's the best of what *we'll* like— or so we're told. Yet according to science… it's human nature to [*dis*-like creativity](https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html)!
+Because the indie labels and curators stay close to their local scenes, they're both "in the know" and "one of us." Whatever *they* like, then, is what others like *us* have liked, which means it's the best of what *we'll* like— or so we're told. Yet according to science… it's human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -295,7 +295,7 @@ By contrast, a deep love of the craft can motivate you for a lifetime. After all
 
 It's because we really only pine for past artists who self-sacrificed to advance the art form. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a classic sign of being exploited.
 
-Yet self-empowerment comes with its own set of problems. For one, it's just self-serving, power-seeking behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how are *they* the underdogs?
+Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.theguardian.com/music/2019/feb/14/the-ryan-adams-allegations-are-the-tip-of-an-indie-music-iceberg), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how are *they* the underdogs?
 
 Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation only get settled at the *end*. To save rock, then, we *need* to make way for bands who'll self-sacrifice to advance the art form. In other words, after Empowerment… comes the Age of Martyrdom.
 
