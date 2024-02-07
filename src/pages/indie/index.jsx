@@ -95,14 +95,14 @@ In the past, the only artists we literally "supported" were amateurs, recluses, 
 
 Unlike an arts foundation, though, phlans don't need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— is noble on its own and thus can't be scrutinized. But then… this *isn't* just a leg up, is it? It's a supreme advantage! And unlike amateurs and recluses, indie artists *do* vie for the same honors as all others.
 
-So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… putting us where we are today, with even superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of [their own](https://en.wikipedia.org/wiki/Outsider_music): All their charitable impulses went toward helping the *least* helpless artists!
+So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even billionaire superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of [their own](https://en.wikipedia.org/wiki/Outsider_music): All their charitable impulses went toward helping the *least* helpless!
 
-Yet we don't "support" artists of the past— and future audiences will be no different in judging ours. So why be a charity case today, and landfill waste tomorrow? With BYCombo, you can make history the *right* way.
+And yet, we don't "support" artists of the past— and future audiences will be no different in judging ours. So why be a charity case today, and landfill waste tomorrow? With BYCombo, you can make history the *right* way.
 
 ### ${++sectionCounter}. Timeless works have standalone appeal
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review. Consider moving further down, closer to "creating works" sections.
 `}
 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
