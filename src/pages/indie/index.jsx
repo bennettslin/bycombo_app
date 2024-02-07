@@ -69,27 +69,41 @@ Here's an incomplete list of ways…
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
+${'  ' || `
+// TODO: Review.
+`}
+
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
-For example, even after Goatse proved that the Internet caters to the lowest common denominator… indie rock concluded that artists who [go viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah) *aren't* just the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars after [leaving Roadrunner](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me)… this was taken as proof that artists *don't* benefit from a major label deal?!
+For example, even after Goatse proved that the Internet caters to the lowest common denominator… indie rock concluded that artists who [go viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah) *aren't* just the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars… this was taken as proof that artists *don't* benefit from a [major label deal](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me)?!
 
 In every early example of online success, chance or privilege clearly played a role. Yet the indie pundits were so eager to "own" the major labels, they downplayed this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public just assumes their music is no good!
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the major labels did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it holds no grievances.
 
-### ${++sectionCounter}. Charitable support is a supreme advantage
+### ${++sectionCounter}. Charitable support starts an arms race
 
-As a child, I didn't *support* my favorite bands; I simply *liked* them. Yet today, we say we "support" the artists we like— even the ones who are superstars! How did this happen? It began when indie rock conflated personal taste with high-minded support for the arts, making every fan a philanthropist— a "phlan," maybe?
+${'  ' || `
+// TODO: Keep working on final paragraph.
 
-Unlike an arts foundation, though, phlans don't need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— is noble on its own and thus can't be scrutinized. But then… this *isn't* just a leg up, is it? It's a supreme advantage! So indie rock set off an arms race, where even superstars now angle to be seen as underdogs.
+Eventually move this before chauvinism section.
+`}
 
-Meanwhile, outsiders who don't enjoy *anyone's* support must compensate by working much harder, to be much better. Yet they'll *still* meet resistance— since the whole point of charitable support is to give the underdog a safe lead. Except… haven't we seen this before? It's like the historic notion that Blacks have to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)— only to get half as far!
+In the past, the only artists we literally "supported" were amateurs, recluses, the mentally ill… Yet today's fans use the term to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with high-minded endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
-Which tells us: This can't end well. Future generations won't "support" any of today's artists the way ours did; if anything, they'll try to *fix* the damage we caused— much like we topple Confederate statues today. So why be a charity case *and* a villain? With BYCombo, you can make history the *right* way.
+Unlike an arts foundation, though, phlans don't need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— is noble on its own and thus can't be scrutinized. But then… this *isn't* just a leg up, is it? It's a supreme advantage! And unlike amateurs and recluses, indie artists *do* vie for the same honors as all others.
+
+So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of [their own](https://en.wikipedia.org/wiki/Outsider_music): All their charitable impulses went toward helping the *least* helpless artists!
+
+Yet we don't "support" artists of the past— and future audiences will be no different in judging ours. So why be a charity case today, and landfill waste tomorrow? With BYCombo, you can make history the *right* way.
 
 ### ${++sectionCounter}. Timeless works have standalone appeal
+
+${'  ' || `
+// TODO: Review.
+`}
 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
@@ -97,7 +111,7 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 
 Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— or these days, online fans— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
 
-Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to think about the artist— and future generations will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
+Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artist— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -119,6 +133,16 @@ But stardom is also the rightful outcome for the *most* worthy artists, who natu
 
 By blocking all access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to build a new path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspires to be most worthy— get *your* chance to be one?
 
+### ${++sectionCounter}. History is made through peer review
+
+Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
+
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
+
+Because we're invested in the creative process ourselves, we commit fewer false positives: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists come closest to seeing *today*.
+
+So to make history without achieving stardom, ignore the critics! Instead, your talents must inspire the envy of fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
+
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
 Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
@@ -136,16 +160,6 @@ How did indie rock degrade into just another foreign canon? It's simple: Indie a
 They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Moreover, with no talent scouts out there trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
 The sane choice, then, is obvious. But… what happens if a band tries to make the best art *anyway*? Add up their gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for going above and beyond to bring it back.
-
-### ${++sectionCounter}. History is made through peer review
-
-Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
-
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
-
-Because we're invested in the creative process ourselves, we commit fewer false positives: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists come closest to seeing *today*.
-
-So to make history without achieving stardom, ignore the critics! Instead, your talents must inspire the envy of fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -229,11 +243,15 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
-Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that suppressed a previous culture founded by outsiders. While the former defeated the classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's Eastern European immigrants and refined by Motown.
+Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that suppressed a previous culture founded by outsiders. While the former defeated the classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's Eastern European immigrants.
 
-Like indie rock, poptimism lets the underdog triumph over outsiders who work much harder, to be much better. But if an underdog *isn't* the best of their time… then they'll also need to be *remembered* as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
+Like indie rock, poptimism lets the underdog triumph over all outsiders— even those hungry enough to be [twice as good](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half), just to get half as far. But this means the underdog *isn't* the best of their times… in which case, they'll also need to be *remembered* as an underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. After all, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's original outsiders! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
