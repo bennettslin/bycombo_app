@@ -95,7 +95,7 @@ In the past, the only artists we literally "supported" were amateurs, recluses, 
 
 Unlike an arts foundation, though, phlans don't need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— is noble on its own and thus can't be scrutinized. But then… this *isn't* just a leg up, is it? It's a supreme advantage! And unlike amateurs and recluses, indie artists *do* vie for the same honors as all others.
 
-So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of [their own](https://en.wikipedia.org/wiki/Outsider_music): All their charitable impulses went toward helping the *least* helpless artists!
+So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… putting us where we are today, with even superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of [their own](https://en.wikipedia.org/wiki/Outsider_music): All their charitable impulses went toward helping the *least* helpless artists!
 
 Yet we don't "support" artists of the past— and future audiences will be no different in judging ours. So why be a charity case today, and landfill waste tomorrow? With BYCombo, you can make history the *right* way.
 
