@@ -74,8 +74,10 @@ ${'  ' || `
 Eventually link from partners page by mentioning difficulty in regaining trust.
 Eventually move below competitive self-reliance section.
 
+First paragraph has too many "which"s.
+
 Third paragraph
-Indie rock was founded because artists don't trust labels… yet *because* of indie rock, labels also have every reason not to trust artists!
+
 
 Think about adding and changing Amanda Palmer links again?
 
@@ -85,11 +87,11 @@ Very difficult to regain trust
 Requires centralized effort
 `}
 
-In game theory, the [stag hunt](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html) is a game in which you must decide whether to hunt hares, which you can do on your own; or to cooperate with another player and hunt a stag, which yields far more meat even when split two ways. But if you go for the stag while the other player sticks with hares… you end up with nothing.
+In game theory, the [stag hunt](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html) is a game in which you must decide whether to hunt hares, which can be done on your own; or to cooperate with another player and hunt a stag, which yields far more meat even when split two ways. But if you go for the stag while the other player sticks with hares… you end up with nothing.
 
-The richest societies allow us to trust that others will cooperate with us and "hunt the stag," so to speak, creating more wealth for all. The converse is also true: North Korea, one of the poorest nations, forces its citizens to "hunt hares"— its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance," after all. And now you know where this is going: Indie rock… is the North Korea of music!
+The richest societies allow us to trust that others will cooperate with us and "hunt the stag," so to speak, creating more wealth for all. The converse is also true: North Korea, one of the poorest nations, leaves its citizens to "hunt hares"— its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance," after all. And now you know where this is going: Indie rock… is the North Korea of music!
 
-Third paragraph
+Indie artists work hard not to need a label, and will do so even [while *signed*](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I've%20built%20up%20such%20an%20independent%20empire%20while%20being%20signed%20up%20to%20a%20major%20label%20that%20it%20hasn't%20even%20mattered%20what%20kind%20of%20label%20I'm%20on%20because%20I'm%20functioning%20independently%20anyway.), on the label's dime. Yet because of this, labels now have every reason not to trust *artists*!
 
 But still, mutual reliance creates more wealth— including *cultural* wealth. So if we're to restore the historical canon, we *must* allow artists to cooperate with partners once more. Which is why BYCombo allows you to rebuild the trust that indie rock lost.
 
@@ -99,7 +101,7 @@ In the '90s, "indie" referred to bands like Pavement, who *never* signed to a ma
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
-For example, even after Goatse proved that the Internet caters to the lowest common denominator… indie rock concluded that artists who [go viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah) *aren't* just the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars… this was taken as proof that artists *don't* benefit from a [major label deal](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me)?!
+For example, even after Goatse proved that the Internet caters to the lowest common denominator… indie rock concluded that artists who [go viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Clap%20Your%20Hands%20Say%20Yeah%20prove%20that%20it%27s%20still%20possible%20for%20a%20band%20to%20get%20heard%2C%20given%20enough%20talent%20and%20perseverance%2C%20without%20a%20PR%20agency%20or%20a%20label.) *aren't* just the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars… this was taken as proof that artists *don't* benefit from a [major label deal](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=You%20could%20argue%20that%20she%20has%20only%20done%20so%20because%20she%20built%20a%20fanbase%20through%20the%20Dresden%20Dolls%2C%20who%20were%20released%20on%20Universal%27s%20Roadrunner%20imprint)?!
 
 In every early example of online success, chance or privilege clearly played a role. Yet the indie pundits were so eager to "own" the major labels, they downplayed this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public just assumes their music is no good!
 
