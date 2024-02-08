@@ -67,7 +67,7 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Mutual reliance creates wealth
+### ${++sectionCounter}. Mutual reliance creates more wealth
 
 ${'  ' || `
 // TODO:
@@ -77,15 +77,21 @@ Eventually move below competitive self-reliance section.
 Third paragraph
 Indie rock was founded because artists don't trust labels… yet *because* of indie rock, labels also have every reason not to trust artists!
 
+Think about adding and changing Amanda Palmer links again?
+
 Fourth paragraph
 Cultural wealth
 Very difficult to regain trust
 Requires centralized effort
 `}
 
-In game theory, the [stag hunt](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html) is a game in which you must decide whether to hunt hares, which can be done on your own; or to cooperate with another player and hunt a stag, which yields far more meat even when split two ways. However, if you go for the stag while the other player sticks with hares, you end up with nothing.
+In game theory, the [stag hunt](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html) is a game in which you must decide whether to hunt hares, which you can do on your own; or to cooperate with another player and hunt a stag, which yields far more meat even when split two ways. But if you go for the stag while the other player sticks with hares… you end up with nothing.
 
-The richest societies allow us to trust that others will cooperate with us and "hunt the stag," so to speak, creating more wealth for all. The converse is also true: North Korea, one of the poorest nations, only allows its citizens to "hunt hares"— its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance," after all. And now you know where this is going: Indie rock… is the North Korea of music!
+The richest societies allow us to trust that others will cooperate with us and "hunt the stag," so to speak, creating more wealth for all. The converse is also true: North Korea, one of the poorest nations, forces its citizens to "hunt hares"— its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance," after all. And now you know where this is going: Indie rock… is the North Korea of music!
+
+Third paragraph
+
+But still, mutual reliance creates more wealth— including *cultural* wealth. So if we're to restore the historical canon, we *must* allow artists to cooperate with partners once more. Which is why BYCombo allows you to rebuild the trust that indie rock lost.
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
