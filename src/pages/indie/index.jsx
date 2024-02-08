@@ -67,6 +67,26 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Mutual reliance creates wealth
+
+${'  ' || `
+// TODO:
+Eventually link from partners page by mentioning difficulty in regaining trust.
+Eventually move below competitive self-reliance section.
+
+Third paragraph
+Indie rock was founded because artists don't trust labels… yet *because* of indie rock, labels also have every reason not to trust artists!
+
+Fourth paragraph
+Cultural wealth
+Very difficult to regain trust
+Requires centralized effort
+`}
+
+In game theory, the [stag hunt](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html) is a game in which you must decide whether to hunt hares, which can be done on your own; or to cooperate with another player and hunt a stag, which yields far more meat even when split two ways. However, if you go for the stag while the other player sticks with hares, you end up with nothing.
+
+The richest societies allow us to trust that others will cooperate with us and "hunt the stag," so to speak, creating more wealth for all. The converse is also true: North Korea, one of the poorest nations, only allows its citizens to "hunt hares"— its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance," after all. And now you know where this is going: Indie rock… is the North Korea of music!
+
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
