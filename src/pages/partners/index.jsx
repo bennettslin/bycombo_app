@@ -17,31 +17,17 @@ const Component = () => (
 
 ${'  ' || `
 // TODO:
-
-Every BYCombo band promises to be an ideal partner by spending *all* their time and energy to make the best art, for *years* of their lifetime, while also *needing* a partner by remaining powerless to get heard on their own.
-
-Discovering artists is only half the problem, however. The other half is learning to trust them.
-
-https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html
+Finish last paragraph of first section.
 `}
 
-As an entrepreneur, would you readily partner with today's artists— if only they didn't waste so much effort on the *hustle*? After all, the Beatles relied on managers from [day one](https://en.wikipedia.org/wiki/Allan_Williams), allowing them to focus entirely on the *craft*. And if history's greatest rock band was a paragon of *inter*-dependence… then how good can any *indie*-pendent artist really be?
+As an entrepreneur, would you love to partner with today's artists— if only they didn't waste so much effort on the *hustle*? After all, the Beatles relied on managers from [day one](https://en.wikipedia.org/wiki/Allan_Williams), allowing them to focus entirely on the *craft*. And if history's greatest rock band was a paragon of *inter*-dependence… then how good can any *indie*-pendent artist really be?
 
-Well, there's good news: The artists trying to make the best art today *don't* want to be indie. They *do* want others like you to handle the business side of things. There just hasn't been a way for you to know about them… until now. Because BYCombo helps entrepreneurs work with history-making bands once more! Here's how:
+Well, there's good news! The artists trying to make the best art today *don't* wish to be indie; they *do* want others to handle the business side of things. They just haven't had a way to make themselves known to you… until now. Because BYCombo's mission is to help entrepreneurs like you partner with history-making bands once more! Here's how:
 
-**Every BYCombo band promises to be your ideal partner by spending *all* their time and energy on the craft— and having *already* done so for serious chunks of lifetime— while remaining powerless to get heard on their own.**
-
-Next paragraph:
-In other words, the band bears all the costs, and continues to take on all the risk inherent to reviving interdependence.
+**Every BYCombo band promises to be an ideal partner by spending *all* their time and energy to make the best art, for serious chunks of lifetime— while being completely dependent on you to get heard by the public.**
 
 Next paragraph:
-Mention newsletter, or just visiting registry directly. State that they can contact artist directly, and there are no fees.
-
-${'  ' || `
-// TODO:
-If you'd like to be notified when a new demo is added to our public registry, please subscribe to our newsletter!
-`}
-
+Demo. Mention newsletter, or just visiting registry directly. State that they can contact artist directly, and there are no fees.
                 `,
                 (
                     <MailingList isWide />
@@ -64,7 +50,7 @@ Read the Brian Epstein book!
 But… will you also get to enjoy the spotlight? Yes! With BYCombo, you can be a full-fledged member of the band. 
 `}
 
-Perhaps a moment in the spotlight yourself would be nice— but indie rock only sees artists as the heroes, while all others who share in the earnings are villains. So what's an entrepreneur like you to do? Become an [artist yourself](/indie#disintermediation-is-a-middlemans-dream)? Why, you can be respected for your business acumen and people skills— by being a band manager who's also a full-fledged member of the band!
+Perhaps a moment in the spotlight yourself would be nice— but indie rock only sees artists as the heroes, while all others who share in the earnings are villains. So what's an entrepreneur to do? Become an [artist yourself](/indie#disintermediation-is-a-middlemans-dream)?! Why, you can be valued for your business acumen— as a full-fledged member of the band you manage!
 
 (Explain that this is an experimental proposal). As such, you'll be given equal credit and royalties. And while there's no expectation for you to contribute artistically, any time you spend doing so will count toward your band's 25,000 hours.
 
