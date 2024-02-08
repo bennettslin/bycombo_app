@@ -131,7 +131,7 @@ Unlike an arts foundation, though, phlans don't need to hold strict standards or
 
 So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even those at the very top angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of [their own](https://en.wikipedia.org/wiki/Outsider_music): All their charitable impulses went toward defending superstars!
 
-And yet, it's clear how this will end. We don't "support" artists of the past— and neither will future audiences. So why stoop to being a charity case today, just to be treated as landfill waste tomorrow? With BYCombo, you can once again make history the *right* way— by needing no defense to begin with.
+And yet, it's clear how this will end. We don't "support" artists of the past— and neither will future audiences. So why stoop to being a charity case today, just to be treated as dustbin waste tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 

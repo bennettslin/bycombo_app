@@ -27,9 +27,9 @@ https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-
 
 As an entrepreneur, would you readily partner with today's artists— if only they didn't waste so much effort on the *hustle*? After all, the Beatles relied on managers from [day one](https://en.wikipedia.org/wiki/Allan_Williams), allowing them to focus entirely on the *craft*. And if history's greatest rock band was a paragon of *inter*-dependence… then how good can any *indie*-pendent artist really be?
 
-Well, there's good news: The artists trying to make the best art today *don't* want to be indie. They *do* want a partner like you to handle their business matters. There just hasn't been a way for you to hear about them… until now. Because BYCombo helps entrepreneurs work with history-making bands once more! Here's how:
+Well, there's good news: The artists trying to make the best art today *don't* want to be indie. They *do* want others like you to handle the business side of things. There just hasn't been a way for you to know about them… until now. Because BYCombo helps entrepreneurs work with history-making bands once more! Here's how:
 
-**Every BYCombo band promises to be your ideal partner by spending *all* their time and energy on the craft— and having done so already for serious chunks of lifetime— while remaining powerless to get heard on their own.**
+**Every BYCombo band promises to be your ideal partner by spending *all* their time and energy on the craft— and having *already* done so for serious chunks of lifetime— while remaining powerless to get heard on their own.**
 
 Next paragraph:
 In other words, the band bears all the costs, and continues to take on all the risk inherent to reviving interdependence.
