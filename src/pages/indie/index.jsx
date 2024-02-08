@@ -122,18 +122,16 @@ So to make history without achieving stardom, ignore the critics! Instead, your 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
 ${'  ' || `
-// TODO: Keep working on final paragraph.
-
-Eventually move this before chauvinism section.
+// TODO: Review a few more times.
 `}
 
-In the past, the only artists we literally "supported" were amateurs, recluses, the mentally ill… Yet today's fans use the term to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with high-minded endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
+In the past, the only artists we said we "supported" were amateurs, recluses, the mentally ill… Yet today's fans use the term to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with high-minded endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
 Unlike an arts foundation, though, phlans don't need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— is noble on its own and thus can't be scrutinized. But then… this *isn't* just a leg up, is it? It's a supreme advantage! And unlike amateurs and recluses, indie artists *do* vie for the same honors as all others.
 
-So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even billionaire superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of [their own](https://en.wikipedia.org/wiki/Outsider_music): All their charitable impulses went toward helping the *least* helpless!
+So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even those at the very top angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of [their own](https://en.wikipedia.org/wiki/Outsider_music): All their charitable impulses went toward defending superstars!
 
-And yet, we don't "support" artists of the past— and future audiences will be no different in judging ours. So why be a charity case today, and landfill waste tomorrow? With BYCombo, you can make history the *right* way.
+And yet, it's clear how this will end. We don't "support" artists of the past— and neither will future audiences. So why stoop to being a charity case today, just to be treated as landfill waste tomorrow? With BYCombo, you can once again make history the *right* way— by needing no defense to begin with.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -187,13 +185,17 @@ Sadly, young people never question today's auto-Bizarro world, since it's all th
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
 Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys the same goodwill. Now, this *would* be fitting— if indie artists only made music for their *own* fulfillment.
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.pewresearch.org/short-reads/2014/08/25/in-search-of-libertarians) of this belief.
 
-The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to suck it up and try harder. But with BYCombo, there's now an opposition party that upholds the interdependence you want— out of respect for your craft.
+The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to suck it up and try harder. But with BYCombo, there's now an opposition party that upholds the interdependence you want— out of respect for your craft.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
