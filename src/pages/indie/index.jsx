@@ -70,19 +70,19 @@ Here's an incomplete list of ways…
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
 ${'  ' || `
-// TODO: Keep working on. Main ideas are all there, largely coherent, but probably need fresh eyes to still catch small things. Need a few more passes before moving on to review.
+// TODO: Keep working on. Main ideas are all there, largely coherent, but might need fresh eyes to catch small things. Do a few more passes before calling it a review.
 
 Eventually link from partners page by mentioning difficulty in regaining trust.
 Eventually move below competitive self-reliance section.
 `}
 
-In game theory, the [stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) is a game in which you and another player must each decide on your own: Do you hunt hares separately, or team up to hunt a stag together? The stag yields far more meat, even when split two ways. But if you go for the stag, only for the other player to stick with hares… you'll end up with nothing.
+In game theory, the [stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) is a game in which you and another player must each decide on your own: Do you hunt hares separately, or team up to hunt a stag together? The stag yields far more meat, even when split two ways. But if you go for the stag, while the other player sticks with hares… you'll end up with nothing.
 
-The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=the%20difference%20between,and%20poor%20ones.) build systems that allow their citizens to trust each other and "hunt the stag," creating more wealth for all. The converse is also true: North Korea, one of the poorest nations, forces its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." But now you know where this is going: Indie rock… is the North Korea of music!
+The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=the%20difference%20between,and%20poor%20ones.) build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The converse is also true: North Korea, a poor nation, forces its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
-Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime! So labels have learned not to trust artists *either*… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can still become, the past proves that rock can be interdependent once again!
+Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime. So labels have learned not to trust artists *either*… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can one day become, the past proves that rock can be interdependent once again!
 
-To rebuild trust, we need centralized coordination— which BYCombo is here to provide. But then we also need bands like yours to join with the Bobtail Yearlings, and keep going for the stag— again and again, despite ending up with nothing, year after year— as everyone else sticks with hares. Yes, it's the insane thing to do… So how about it?
+To rebuild trust, we need centralized coordination— which BYCombo can provide. But we *also* need bands like yours to keep going for the stag, again and again— despite ending up with nothing each time— until others feel confident enough to hunt the stag with you. Mine is *still* at it, after almost two decades… and yes, it's an insane thing to do. So… how about it?
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
@@ -198,7 +198,11 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
-To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the Bizarro way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet… the outcome would be the same, with each person now doing the job of both artist *and* middleman. So indie rock is its own Bizarro world!
+${'  ' || `
+// TODO: Review.
+`}
+
+To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the Bizarro way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
 And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few artists enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a [*middleman's* dream](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does), not an artist's!
 
@@ -282,7 +286,11 @@ In short, today's data-driven culture is what the [*indie* camp wanted](https://
 
 ### ${++sectionCounter}. Commodified signals are worthless
 
-Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this completely missed the point of verification— which amused me. After all… indie rock is the paid plan of music distribution!
+${'  ' || `
+// TODO: Review.
+`}
+
+Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this completely missed the point of verification— which amused me. After all, indie rock… is the paid plan of music distribution!
 
 Musk wanted *everyone* to have access to an audience, not just the [old guard](https://twitter.com/elonmusk/status/1587498907336118274)— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie pundits in the '00s! They wanted *every* artist to reach an audience, not just those "verified" by a label— and so they encouraged the use of online tools that cost a portion of the artist's day.
 
