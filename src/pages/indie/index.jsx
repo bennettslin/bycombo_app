@@ -70,7 +70,7 @@ Here's an incomplete list of ways…
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
 ${'  ' || `
-// TODO: Keep working on. Main ideas are all there, largely coherent, but might need fresh eyes to catch small things. Do a few more passes before calling it a review.
+// TODO: Review a few more times.
 
 Eventually link from partners page by mentioning difficulty in regaining trust.
 Eventually move below competitive self-reliance section.
@@ -82,7 +82,7 @@ The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-
 
 Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime. So labels have learned not to trust artists *either*… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can one day become, rock's past proves that we can be interdependent once again!
 
-To rebuild trust, we need centralized coordination— which BYCombo can provide. But we *also* need bands like yours to keep going for the stag, again and again— despite ending up with nothing each time— until a partner feels confident enough to hunt the stag with you. After all these years, my band is *still* at it… and yes, it's the definition of insanity. So… how about it?
+To rebuild trust, we need centralized coordination— which BYCombo can provide. But we *also* need bands like yours to keep going for the stag, again and again— despite ending up with nothing each time— until a partner feels confident enough to hunt the stag with you. After all these years, my band is *still* at it… and yes, it's the definition of insanity. So how about it?
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
