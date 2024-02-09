@@ -67,41 +67,36 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Mutual reliance creates more wealth
+### ${++sectionCounter}. Mutual reliance creates wealth
 
 ${'  ' || `
-// TODO:
+// TODO: Keep working on.
+
+Final paragraph needs to make point that we need artists like the Bobtail Yearlings to keep going for the stag, again and again.
+
 Eventually link from partners page by mentioning difficulty in regaining trust.
 Eventually move below competitive self-reliance section.
-
-First paragraph has too many "which"s.
-
-Third paragraph
-
-
-Think about adding and changing Amanda Palmer links again?
-
-Fourth paragraph
-Cultural wealth
-Very difficult to regain trust
-Requires centralized effort
 `}
 
-In game theory, the [stag hunt](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html) is a game in which you must decide whether to hunt hares, which can be done on your own; or to cooperate with another player and hunt a stag, which yields far more meat even when split two ways. But if you go for the stag while the other player sticks with hares… you end up with nothing.
+In game theory, the [stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) is a game in which you and another player must decide— each on your own— whether to hunt hares separately, or to team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you go for the stag while the other player sticks with hares… you'll end up with nothing.
 
-The richest societies allow us to trust that others will cooperate with us and "hunt the stag," so to speak, creating more wealth for all. The converse is also true: North Korea, one of the poorest nations, leaves its citizens to "hunt hares"— its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance," after all. And now you know where this is going: Indie rock… is the North Korea of music!
+The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=the%20difference%20between,and%20poor%20ones.) allow us to trust that others will cooperate with us and "hunt the stag," so to speak, creating more wealth for all. The converse is also true: North Korea, Asia's poorest nation, forces each citizen to "hunt hares"— its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance," after all. And now you know where this is going: Indie rock… is the North Korea of music!
 
-Indie artists work hard not to need a label, and will do so even [while *signed*](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I've%20built%20up%20such%20an%20independent%20empire%20while%20being%20signed%20up%20to%20a%20major%20label%20that%20it%20hasn't%20even%20mattered%20what%20kind%20of%20label%20I'm%20on%20because%20I'm%20functioning%20independently%20anyway.), on the label's dime. Yet because of this, labels now have every reason not to trust *artists*!
+Indie artists work hard *not* to need a label, and they'll do so even [while *signed*](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime! So labels have learned not to trust artists *either*… destroying the mutual reliance needed to create cultural wealth. But there's hope: Much like South Korea shows what North Korea can still become, the past proves that rock can once again be interdependent in the future!
 
-But still, mutual reliance creates more wealth— including *cultural* wealth. So if we're to restore the historical canon, we *must* allow artists to cooperate with partners once more. Which is why BYCombo allows you to rebuild the trust that indie rock lost.
+To rebuild trust between artists and business partners, we need centralized coordination— and *massive* effort. BYCombo can provide the former… so will you join with the Bobtail Yearlings to provide the latter?
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
+
+${'  ' || `
+// TODO: Review links.
+`}
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
-For example, even after Goatse proved that the Internet caters to the lowest common denominator… indie rock concluded that artists who [go viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Clap%20Your%20Hands%20Say%20Yeah%20prove%20that%20it%27s%20still%20possible%20for%20a%20band%20to%20get%20heard%2C%20given%20enough%20talent%20and%20perseverance%2C%20without%20a%20PR%20agency%20or%20a%20label.) *aren't* just the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars… this was taken as proof that artists *don't* benefit from a [major label deal](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=You%20could%20argue%20that%20she%20has%20only%20done%20so%20because%20she%20built%20a%20fanbase%20through%20the%20Dresden%20Dolls%2C%20who%20were%20released%20on%20Universal%27s%20Roadrunner%20imprint)?!
+For example, even after Goatse proved that the Internet caters to the lowest common denominator… indie rock concluded that artists who [go viral](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Clap%20Your%20Hands%20Say%20Yeah%20prove,or%20a%20label.) *aren't* just the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars… this was taken as proof that artists *don't* benefit from a [major label deal](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=You%20could%20argue,kind%20of%20exposure%3F)?!
 
 In every early example of online success, chance or privilege clearly played a role. Yet the indie pundits were so eager to "own" the major labels, they downplayed this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public just assumes their music is no good!
 
@@ -159,7 +154,7 @@ Unlike an arts foundation, though, phlans *don't* need to hold strict standards 
 
 So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of [their own](https://en.wikipedia.org/wiki/Outsider_music): All their charitable impulses went toward defending the *least* helpless!
 
-And yet, it's clear how this has to end. We don't "support" artists of the past— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
+And yet, it's clear how this will end. We don't "support" artists of the past— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -273,6 +268,10 @@ Yet underdog movements will never go away— because to be seen as an underdog i
 
 ### ${++sectionCounter}. Fair practices follow the data
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
@@ -281,7 +280,7 @@ By contrast, the indie labels look at one visible measure: the size of an artist
 
 So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
-In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now [follow the data](https://www.honest-broker.com/p/record-labels-dig-their-own-grave) as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
+In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now require artists to [first build](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) a fanbase as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Commodified signals are worthless
 
