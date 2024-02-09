@@ -76,19 +76,15 @@ Eventually link from partners page by mentioning difficulty in regaining trust.
 Eventually move below competitive self-reliance section.
 `}
 
-In game theory, the [stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) is a game in which you and another player must each decide on your own: Do you hunt hares separately, or team up to hunt a stag together? The stag yields far more meat, even when split two ways. But if you go for the stag, while the other player sticks with hares… you'll end up with nothing.
+In game theory, the [stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) is a game in which you and another player must each decide on your own: Do you hunt hares separately, or team up to hunt a stag together? The stag yields far more meat, even when split two ways. But if you go for the stag, only for the other player to stick with hares… you'll end up with nothing.
 
-The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=the%20difference%20between,and%20poor%20ones.) build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The converse is also true: North Korea, a poor nation, forces its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
+The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=the%20difference%20between,and%20poor%20ones.) build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The converse is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
-Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime. So labels have learned not to trust artists *either*… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can one day become, the past proves that rock can be interdependent once again!
+Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime. So labels have learned not to trust artists *either*… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can one day become, rock's past proves that we can be interdependent once again!
 
-To rebuild trust, we need centralized coordination— which BYCombo can provide. But we *also* need bands like yours to keep going for the stag, again and again— despite ending up with nothing each time— until others feel confident enough to hunt the stag with you. Mine is *still* at it, after almost two decades… and yes, it's an insane thing to do. So… how about it?
+To rebuild trust, we need centralized coordination— which BYCombo can provide. But we *also* need bands like yours to keep going for the stag, again and again— despite ending up with nothing each time— until a partner feels confident enough to hunt the stag with you. After all these years, my band is *still* at it… and yes, it's the definition of insanity. So… how about it?
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
-
-${'  ' || `
-// TODO: Review links.
-`}
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
@@ -142,10 +138,6 @@ So to make history without achieving stardom, ignore the critics! Instead, your 
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the past, the only artists we said we "supported" were amateurs, recluses, the mentally ill… Yet today's fans use the term to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with high-minded endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— is noble on its own and thus can't be scrutinized. But then… this *isn't* just a leg up, is it? It's a supreme advantage! And indie artists, unlike amateurs or recluses, *do* vie for the same honors as all others.
@@ -197,10 +189,6 @@ Meanwhile, because the indie labels have just enough standing to lose, they only
 Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the Bizarro way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
@@ -282,13 +270,9 @@ By contrast, the indie labels look at one visible measure: the size of an artist
 
 So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
-In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now require artists to [first build](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) a fanbase as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
+In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now require artists to build a [fanbase beforehand](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Commodified signals are worthless
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this completely missed the point of verification— which amused me. After all, indie rock… is the paid plan of music distribution!
 
