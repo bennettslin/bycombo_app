@@ -70,21 +70,19 @@ Here's an incomplete list of ways…
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
 ${'  ' || `
-// TODO: Keep working on.
-
-Final paragraph needs to make point that we need artists like the Bobtail Yearlings to keep going for the stag, again and again.
+// TODO: Keep working on. Main ideas are all there, largely coherent, but probably need fresh eyes to still catch small things. Need a few more passes before moving on to review.
 
 Eventually link from partners page by mentioning difficulty in regaining trust.
 Eventually move below competitive self-reliance section.
 `}
 
-In game theory, the [stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) is a game in which you and another player must decide— each on your own— whether to hunt hares separately, or to team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you go for the stag while the other player sticks with hares… you'll end up with nothing.
+In game theory, the [stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) is a game in which you and another player must each decide on your own: Do you hunt hares separately, or team up to hunt a stag together? The stag yields far more meat, even when split two ways. But if you go for the stag, only for the other player to stick with hares… you'll end up with nothing.
 
-The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=the%20difference%20between,and%20poor%20ones.) allow us to trust that others will cooperate with us and "hunt the stag," so to speak, creating more wealth for all. The converse is also true: North Korea, Asia's poorest nation, forces each citizen to "hunt hares"— its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance," after all. And now you know where this is going: Indie rock… is the North Korea of music!
+The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=the%20difference%20between,and%20poor%20ones.) build systems that allow their citizens to trust each other and "hunt the stag," creating more wealth for all. The converse is also true: North Korea, one of the poorest nations, forces its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." But now you know where this is going: Indie rock… is the North Korea of music!
 
-Indie artists work hard *not* to need a label, and they'll do so even [while *signed*](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime! So labels have learned not to trust artists *either*… destroying the mutual reliance needed to create cultural wealth. But there's hope: Much like South Korea shows what North Korea can still become, the past proves that rock can once again be interdependent in the future!
+Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime! So labels have learned not to trust artists *either*… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can still become, the past proves that rock can be interdependent once again!
 
-To rebuild trust between artists and business partners, we need centralized coordination— and *massive* effort. BYCombo can provide the former… so will you join with the Bobtail Yearlings to provide the latter?
+To rebuild trust, we need centralized coordination— which BYCombo is here to provide. But then we also need bands like yours to join with the Bobtail Yearlings, and keep going for the stag— again and again, despite ending up with nothing, year after year— as everyone else sticks with hares. Yes, it's the insane thing to do… So how about it?
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
