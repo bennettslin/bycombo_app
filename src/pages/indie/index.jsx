@@ -76,13 +76,13 @@ Eventually link from partners page by mentioning difficulty in regaining trust.
 Eventually move below competitive self-reliance section.
 `}
 
-In game theory, the [stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) is a game in which you and another player must each decide on your own: Do you hunt hares separately, or team up to hunt a stag together? The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for them to doubt *you* and thus stick with hares— you'll end up with nothing.
+In game theory, the [stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) is a game in which you and another player must each decide, on your own, to either hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
 
 The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=the%20difference%20between,and%20poor%20ones.) build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The converse is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
-Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime. So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can one day become, the past proves that rock can still have a rich, interdependent future!
+Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can still become, the past proves that rock can still have a rich, interdependent future.
 
-BYCombo just needs artists like you to join with the Bobtail Yearlings by going for the stag, over and over— even after ending up with nothing, again and again— until business partners feel confident enough to partner with *any* of our bands. Yes, it's the definition of insanity… So how about it?
+BYCombo just needs artists like you to join with the Bobtail Yearlings and go for the stag, over and over— even after ending up with nothing, again and again— until business partners feel confident enough to team up with us once more. Yes, it's the definition of insanity… So how about it?
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
