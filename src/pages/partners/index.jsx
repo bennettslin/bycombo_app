@@ -22,7 +22,7 @@ Finish last paragraph of first section.
 
 As an entrepreneur, would you love to partner with today's artists— if only they didn't waste so much effort on the *hustle*? After all, the Beatles relied on managers from [day one](https://en.wikipedia.org/wiki/Allan_Williams), allowing them to focus entirely on the *craft*. And if history's greatest rock band was a paragon of *inter*-dependence… then how good can any *indie*-pendent artist really be?
 
-Well, there's good news! The artists trying to make the best art today *don't* wish to be indie; they *do* want others to handle the business side of things. They just haven't had a way to make themselves known to you… until now, that is. Because BYCombo's mission is to let entrepreneurs like you partner with history-making bands once more! Here's how:
+Well, there's good news! The artists trying to make the best art today *don't* wish to be indie; they *do* want others to handle the business side of things. They just haven't had a way to make themselves known… until now, that is. Because BYCombo's mission is to let entrepreneurs like you partner with history-making bands once more! Here's how:
 
 **Every BYCombo band promises to be an ideal partner by spending *all* their time and energy to make the best art, for serious chunks of lifetime— while always being dependent on *you* to get heard by the public.**
 
