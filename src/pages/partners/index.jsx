@@ -18,6 +18,8 @@ const Component = () => (
 ${'  ' || `
 // TODO:
 Talk more about trust in second paragraph, so that last paragraph can simply restate it.
+
+The *only* people who can undo the damage caused by indie rock are interdependent artists.
 `}
 
 As an entrepreneur, would you love to partner with today's artists— if only they didn't waste so much effort on the *hustle*? After all, the Beatles relied on managers from [day one](https://en.wikipedia.org/wiki/Allan_Williams), allowing them to focus entirely on the *craft*. And if history's greatest rock band was a paragon of *inter*-dependence… then how good can any *indie*-pendent artist really be?
