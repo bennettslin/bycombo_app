@@ -67,22 +67,25 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Organized camaraderie is cronyism
+### ${++sectionCounter}. Formalized camaraderie is cronyism
 
 ${'  ' || `
 // TODO: Keep working on.
 Move after prejudice section.
 
+Figure out best link and highlight for third paragraph.
 https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes
+
+Last paragraph, last sentence should be better.
 `}
 
-The indie labels are seen as "good guys" because they aren't beholden to shareholders— but also because each one, at heart, is really just a social circle looking out for their own by signing their friends' bands. Yet if these bands fail, it can always be excused by saying, "Well, great art doesn't necessarily sell." Which degrades artistic quality.
+The indie labels are seen as "good guys" because they aren't beholden to shareholders, right? But it's also because each one, at heart, is really just a circle of friends who started out supporting each other's bands, and only later formalized the way to do so through a business license. What's not to love about that?
 
-Even worse, the indie labels are run by White men, society's most privileged group— and the privileged *don't* have to hurt others to [perpetuate inequality](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring); they just have to do favors for their own. Which… is precisely what the indie labels are loved for! And so they'll never tackle inequality at its root; they'll only ever learn to be more inclusive in whom they see as their own.
+The problem is that these labels are run by society's most privileged group— and the privileged *don't* have to undermine others to [perpetuate inequality](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring). They just have to favor their own— which is what any circle of friends will do! So indie rock can never fix its diversity problem at the root; its White male gatekeepers can only ever be more inclusive in whom they see as their own.
 
-This explains why indie rock's belated push for diversity has mostly helped women, not minorities— other than female minorities. While minorities are stereotyped as [lacking in *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model), women are only stereotyped as lacking in *competence*— in fact, they're perceived quite warmly. And a circle of friends is *defined* by 
+This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because while minorities are stereotyped as [lacking in *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model), women are only stereotyped as lacking in *competence*— they're perceived [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes), in fact. And a circle of friends is *defined* by its feelings of greater warmth for some over others.
 
-Which is why we minorities have never begrudged a label for answering to shareholders! To the contrary, our ability to profit those who *don't* perceive us with warmth has always been our [ticket to acceptance](https://genius.com/1741691). And now with BYCombo, you can once again help a business partner profit.
+You'll notice, then, that we minorities *don't* begrudge a label for answering to shareholders! To the contrary, earning a profit for those who don't receive us warmly has *always* been our [ticket to acceptance](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.%2C%20get%20the,dollar%20bill%2C%20y%27all). Now with BYCombo, you can once again be valued by business partners for earning them a profit.
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
@@ -230,7 +233,7 @@ But why would Gen Z— and beyond— side with past gatekeepers who *didn't* car
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
-Who foresaw indie rock's final stage as a trust fund playground? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/10900). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
+Who foresaw indie rock's final stage as a trust fund playground? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Two%20loced%20out,that%20pays%20me). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because after two decades of being no better than a foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So women and minorities are being nudged onto a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff)…
 
