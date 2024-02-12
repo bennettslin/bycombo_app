@@ -67,27 +67,6 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Formalized camaraderie is cronyism
-
-${'  ' || `
-// TODO: Keep working on.
-Move after prejudice section.
-
-Keep working on first paragraph.
-
-Confirm how to characterize low warmth. "Lacking in warmth" might not be correct.
-
-Review hungry outsiders section again to ensure the arguments are consistent, regarding the inclusion of women.
-`}
-
-The indie labels are seen as "good guys" not just because they aren't beholden to shareholders. Each one, at heart, is really just a circle of friends who started out supporting each other's bands, and only later formalized the way to do so with a business license. What's not to love about that?
-
-The problem is that these labels are run by society's most privileged group— and to perpetuate inequality, the privileged *don't* have to hurt others. They *just* have to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers can only ever be more inclusive in whom they accept as their own.
-
-This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because while minorities are stereotyped as being [low in warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women are only stereotyped as being low in competence— they're perceived [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes), in fact. And a circle of friends has every right to feel greater warmth for some than others.
-
-You'll notice, then, that we minorities *don't* begrudge labels for answering to shareholders! To the contrary, earning a profit for those who may not receive us warmly has always been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=No%20labels%20wanted,under%20his%20ass). Now with BYCombo, you can once again win over a business partner *without* first winning them over as a friend.
-
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -258,6 +237,20 @@ Every Black artist would stare glumly at us. Why? Because back then, they *neede
 
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
+### ${++sectionCounter}. Formalized camaraderie is cronyism
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+The indie labels are universally seen as "good guys"— and not just because they aren't beholden to shareholders. Almost every one is really a circle of friends at heart, who started out supporting each other's bands and only later found the way to do so as a business. What's not to love? Well, for one… it doesn't lend confidence that they're giving us the best art…
+
+For another, these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* have to hurt others. They *just* have to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers can only ever be more inclusive in whom they accept as their own.
+
+This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because while minorities are stereotyped as being [low in warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women are *only* stereotyped as being low in competence— they're perceived [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes), in fact. And a circle of friends has every right to feel greater warmth for some than others.
+
+You'll notice, then, that we minorities *don't* begrudge labels for answering to shareholders! To the contrary, earning a profit for those who may not receive us warmly has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=No%20labels%20wanted,under%20his%20ass). So if *you* see [free-market capitalism](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.%2C,dollar%20bill%2C%20y%27all) as the great equalizer in the arts… then take heart that BYCombo is here for you.
+
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
@@ -334,6 +327,10 @@ ${'  ' || `
     * Deferents and epicycles
     * Occam's razor
     * Copernicus and Galileo
+    * Indie labels are credited with discovering the most daring, most original
+        * Yet every artist they've discovered pales next to major labels of the '90s
+    * Meanwhile, major labels behave more and more like indie labels, in signing artists who *don't* need them, as they're capable of building their own fanbase
+        * Yet everyone seems to believe this is making art worse
 
 https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.
 `}
