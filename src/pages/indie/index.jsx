@@ -67,6 +67,25 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. The simplest explanation is likely correct
+
+${'  ' || `
+// TODO: Keep on working on.
+
+Move before martyrs section.
+
+* Simple explanation
+    * Copernicus and Galileo
+    * Indie labels are credited with discovering the most daring, most original
+        * Yet every artist they've discovered pales next to major labels of the '90s
+    * Meanwhile, major labels behave more and more like indie labels, in signing artists who *don't* need them, as they're capable of building their own fanbase
+        * Yet everyone seems to believe this is making art worse
+
+https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.
+`}
+
+To explain the squiggles traversed by the planets as they orbited around the Earth, ancient astronomers mapped out a system of [deferents and epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). Once Copernicus proposed that the planets might revolve around the *Sun*, however, these orbits became near circles. It was the simpler explanation— and so by Occam's razor, it was gradually accepted as the correct one.
+
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -247,9 +266,9 @@ The indie labels are universally seen as "good guys"— and not just because the
 
 For another, these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* have to hurt others. They *just* have to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers can only ever be more inclusive in whom they accept as their own.
 
-This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because while minorities are stereotyped as being [low in warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women are *only* stereotyped as being low in competence— they're perceived [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes), in fact. And a circle of friends has every right to feel greater warmth for some than others.
+This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because unlike minorities, who get stereotyped as being [low in warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women are *only* stereotyped as lacking in competence— in fact, they're received [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes). And a circle of friends has every right to feel greater warmth for some than others.
 
-You'll notice, then, that we minorities *don't* begrudge labels for answering to shareholders! To the contrary, earning a profit for those who may not receive us warmly has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=No%20labels%20wanted,under%20his%20ass). So if *you* see [free-market capitalism](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.%2C,dollar%20bill%2C%20y%27all) as the great equalizer in the arts… then take heart that BYCombo is here for you.
+You'll notice, then, that we minorities *don't* begrudge labels for answering to shareholders! To the contrary, earning a profit for those who may not receive us warmly has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=No%20labels%20wanted,under%20his%20ass). So if *you* see [free-market capitalism](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.%2C,dollar%20bill%2C%20y%27all) as the great equalizer in the arts… then take heart that BYCombo does so as well.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
@@ -316,24 +335,6 @@ So yes, BYCombo tells you to focus on your craft, and to join a community of oth
 The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's a whole frontier left to explore! Unfortunately… indie rock isn't cut out for this job: Hustling requires a youthful outlook, so every indie artist is destined to burn out.
 
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
-
-### ${++sectionCounter}. The simplest explanation is likely correct
-
-${'  ' || `
-// TODO: Eventually do
-
-
-* Simple explanation
-    * Deferents and epicycles
-    * Occam's razor
-    * Copernicus and Galileo
-    * Indie labels are credited with discovering the most daring, most original
-        * Yet every artist they've discovered pales next to major labels of the '90s
-    * Meanwhile, major labels behave more and more like indie labels, in signing artists who *don't* need them, as they're capable of building their own fanbase
-        * Yet everyone seems to believe this is making art worse
-
-https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.
-`}
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
