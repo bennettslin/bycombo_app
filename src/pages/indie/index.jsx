@@ -67,6 +67,23 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Organized camaraderie is cronyism
+
+${'  ' || `
+// TODO: Keep working on.
+Move after prejudice section.
+
+https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes
+`}
+
+The indie labels are seen as "good guys" because they aren't beholden to shareholders— but also because each one, at heart, is really just a social circle looking out for their own by signing their friends' bands. Yet if these bands fail, it can always be excused by saying, "Well, great art doesn't necessarily sell." Which degrades artistic quality.
+
+Even worse, the indie labels are run by White men, society's most privileged group— and the privileged *don't* have to hurt others to [perpetuate inequality](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring); they just have to do favors for their own. Which… is precisely what the indie labels are loved for! And so they'll never tackle inequality at its root; they'll only ever learn to be more inclusive in whom they see as their own.
+
+This explains why indie rock's belated push for diversity has mostly helped women, not minorities— other than female minorities. While minorities are stereotyped as [lacking in *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model), women are only stereotyped as lacking in *competence*— in fact, they're perceived quite warmly. And a circle of friends is *defined* by 
+
+Which is why we minorities have never begrudged a label for answering to shareholders! To the contrary, our ability to profit those who *don't* perceive us with warmth has always been our [ticket to acceptance](https://genius.com/1741691). And now with BYCombo, you can once again help a business partner profit.
+
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -223,11 +240,15 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Every indie gatekeeper who's met with me has drawn the same conclusion: "Sure, your [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but you're just a hobbyist." Over time I came to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
-So don't be fooled by indie rock's belated embrace of women and minorities: It doesn't amount to any greater diversity in *thought*. But BYCombo lets you find business partners who think differently… and who'll value *you* for doing the same.
+So don't be fooled by indie rock's recent embrace of diversity! It doesn't sum up to any further diversity in *thought*. But BYCombo lets you find business partners who think differently… and who'll value *you* for doing the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
@@ -263,7 +284,7 @@ By contrast, the indie labels look at one visible measure: the size of an artist
 
 So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
-In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now require artists to [first build](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) a fanbase, just like the indie labels do. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
+In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors [now measure](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) the size of an artist's fanbase as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Commodified signals are worthless
 
