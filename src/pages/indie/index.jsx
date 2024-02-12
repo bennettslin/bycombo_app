@@ -73,6 +73,8 @@ ${'  ' || `
 // TODO: Keep working on.
 Move after prejudice section.
 
+Does second paragraph need to be more fair that they aren't *all* run by White men?
+
 Figure out best link and highlight for third paragraph.
 https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes
 
@@ -81,11 +83,11 @@ Last paragraph, last sentence should be better.
 
 The indie labels are seen as "good guys" because they aren't beholden to shareholders, right? But it's also because each one, at heart, is really just a circle of friends who started out supporting each other's bands, and only later formalized the way to do so through a business license. What's not to love about that?
 
-The problem is that these labels are run by society's most privileged group— and the privileged *don't* have to undermine others to [perpetuate inequality](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring). They just have to favor their own— which is what any circle of friends will do! So indie rock can never fix its diversity problem at the root; its White male gatekeepers can only ever be more inclusive in whom they see as their own.
+The problem is that these labels are run by society's most privileged group— and to [perpetuate inequality](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring), the privileged *don't* have to undermine others. They just have to favor their own— which is what any circle of friends will do! So indie rock can never fix its diversity problem at the root; its White male gatekeepers can only ever be more inclusive in whom they see as their own.
 
 This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because while minorities are stereotyped as [lacking in *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model), women are only stereotyped as lacking in *competence*— they're perceived [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes), in fact. And a circle of friends is *defined* by its feelings of greater warmth for some over others.
 
-You'll notice, then, that we minorities *don't* begrudge a label for answering to shareholders! To the contrary, earning a profit for those who don't receive us warmly has *always* been our [ticket to acceptance](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.%2C%20get%20the,dollar%20bill%2C%20y%27all). Now with BYCombo, you can once again be valued by business partners for earning them a profit.
+You'll notice, then, that we minorities *don't* begrudge labels for answering to shareholders! To the contrary, earning a profit for those who don't receive us warmly has *always* been our [ticket to acceptance](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.%2C%20get%20the,dollar%20bill%2C%20y%27all). Now with BYCombo, you can once again be valued by business partners for earning them a profit.
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
