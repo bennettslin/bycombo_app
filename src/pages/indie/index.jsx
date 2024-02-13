@@ -260,15 +260,19 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 ${'  ' || `
 // TODO: Review a few more times.
+
+First paragraph. Try to not use "good guy" language again. It might be too much. And it works best when comparing to "bad guys."
+
+Fourth paragraph: Say something other than free-market.
 `}
 
-The indie labels are universally seen as "good guys"— and not just because they aren't beholden to shareholders. Almost every one is really a circle of friends at heart, who started out supporting each other's bands and only later found the way to do so as a business. What's not to love? Well, for one… it doesn't lend confidence that they're giving us the best art…
+The indie labels are universally seen as "good guys"— and not just because they aren't beholden to shareholders. Almost every one is really a circle of friends at heart, who started out supporting each other's bands and only later found a way to do so in business. What's not to love? Well, for one… it doesn't lend confidence that we're being given the best art…
 
 For another, these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* have to hurt others. They *just* have to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers can only ever be more inclusive in whom they accept as their own.
 
-This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because unlike minorities, who get stereotyped as being [low in warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women are *only* stereotyped as lacking competence— in fact, they're received [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes). And a circle of friends has every right to feel greater warmth for some than others.
+This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because unlike minorities, who get stereotyped as being [low in warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women are *only* stereotyped as lacking in competence— in fact, they're received [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes). And a circle of friends has every right to feel greater warmth for some than others.
 
-You'll notice, then, that we minorities *don't* begrudge labels for answering to shareholders! To the contrary, earning a profit for those who may not receive us warmly has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=No%20labels%20wanted,under%20his%20ass). So if *you* see [free-market capitalism](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.%2C,dollar%20bill%2C%20y%27all) as the great equalizer in the arts… take heart that BYCombo does so as well.
+You'll notice, then, that we minorities *don't* begrudge labels for answering to shareholders! To the contrary, earning a profit for those who may not receive us warmly has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=No%20labels%20wanted,under%20his%20ass). So if *you* see [pure capitalism](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.%2C,dollar%20bill%2C%20y%27all) as the great equalizer in the arts… take heart that BYCombo does so as well.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
