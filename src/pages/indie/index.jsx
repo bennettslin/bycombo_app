@@ -72,19 +72,14 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: Keep on working on.
 
-Second paragraph: Better example than majors operating like indie labels?
-
-Move before martyrs section.
-
-Move back to fair practices section.
-, by looking for artists who [already have](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) a fanbase!
+Move before final martyrs section.
 `}
 
-To explain the squiggles traversed by the planets as they orbited the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. It was the simpler explanation… so by Occam's razor, it gradually became accepted as the correct one.
+To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. It was a simpler explanation— so by Occam's razor, it slowly became accepted as the correct one.
 
-Well, the arts today are just as "squiggly" in the convoluted explanations they require, aren't they? After all, the indie way is widely believed to foster the most daring and original art— yet no indie artist can match what the major labels gave us in the '90s! Meanwhile, music is getting worse all *around*— even as the majors operate more and more like indie labels!
+Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring and original art— yet no indie artist can match what the major labels gave us in the '90s?! Meanwhile, art is getting worse all around— even as the hated majors have come around to behaving like the beloved indies?!
 
-So BYCombo proposes that we swap the "Sun" and "Earth" in this model: Let's say the indie way actually leads to *worse* art… Suddenly, our squiggles snap into neat circles! Of course, it takes time to debunk sacred beliefs— and the indie camp, like [the Inquisition](https://en.wikipedia.org/wiki/Galileo_affair), is a powerful defender. Will you join with the Bobtail Yearlings, then, and be a Galileo of the arts?
+But let's swap "Sun" and "Earth" in our model: What if the indie way… actually leads to *worse* art? Suddenly, our "squiggles" snap into neat lines! Of course, BYCombo can only get so far in proposing this simpler explanation; the indie camp, like [the Inquisition](https://en.wikipedia.org/wiki/Galileo_affair), is a powerful opposition. So will you join with the Bobtail Yearlings, and be a Galileo for music?
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
@@ -260,13 +255,9 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 ${'  ' || `
 // TODO: Review a few more times.
-
-First paragraph. Try to not use "good guy" language again. It might be too much. And it works best when comparing to "bad guys."
-
-Fourth paragraph: Say something other than free-market.
 `}
 
-The indie labels are universally seen as "good guys"— and not just because they aren't beholden to shareholders. Almost every one is really a circle of friends at heart, who started out supporting each other's bands and only later found a way to do so in business. What's not to love? Well, for one… it doesn't lend confidence that we're being given the best art…
+The indie labels are universally beloved— and not just because they aren't beholden to shareholders. Almost every one is a circle of friends at heart, who started out supporting each other's bands and only later formalized a way to do so as a business. What's not to love, right? Well… for one, it doesn't lend confidence that we're getting the best art…
 
 For another, these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* have to hurt others. They *just* have to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers can only ever be more inclusive in whom they accept as their own.
 
@@ -289,7 +280,7 @@ Yet underdog movements will never go away— because to be seen as an underdog i
 ### ${++sectionCounter}. Fair practices follow the data
 
 ${'  ' || `
-// TODO: Revise again for Gioia link.
+// TODO: Review.
 `}
 
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
@@ -300,7 +291,7 @@ By contrast, the indie labels look at one visible measure: the size of an artist
 
 So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
-In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now behave like indie labels as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
+In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now only sign artists with an [existing fanbase](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Commodified signals are worthless
 
