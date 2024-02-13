@@ -67,24 +67,26 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. The simplest explanation is likely correct
+### ${++sectionCounter}. The simplest explanations are likely correct
 
 ${'  ' || `
 // TODO: Keep on working on.
 
+Second paragraph: Say the majors are doing things the indie way?
+
+Final paragraph still needs work. Mention again, perhaps this too can be gradually accepted.
+
 Move before martyrs section.
 
-* Simple explanation
-    * Copernicus and Galileo
-    * Indie labels are credited with discovering the most daring, most original
-        * Yet every artist they've discovered pales next to major labels of the '90s
-    * Meanwhile, major labels behave more and more like indie labels, in signing artists who *don't* need them, as they're capable of building their own fanbase
-        * Yet everyone seems to believe this is making art worse
-
-https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.
+Move back to fair practices section.
+, by looking for artists who [already have](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) a fanbase!
 `}
 
-To explain the squiggles traversed by the planets as they orbited around the Earth, ancient astronomers mapped out a system of [deferents and epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). Once Copernicus proposed that the planets might revolve around the *Sun*, however, these orbits became near circles. It was the simpler explanation— and so by Occam's razor, it was gradually accepted as the correct one.
+To explain the squiggles traversed by the planets as they orbited the Earth, ancient astronomers mapped out a system of [deferents and epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. It was the simpler explanation… and so by Occam's razor, it was slowly accepted as the correct one.
+
+The arts today are just as "squiggly" in requiring an explanation, aren't they? The indie way is widely understood to foster the most daring and original art— yet no indie artist can match what the major labels gave us in the '90s! Meanwhile, music is getting worse all *around*— even as the majors operate more and more like indie labels!
+
+But BYCombo proposes a simple explanation: The indie way actually leads to *worse* art— and has been doing so all along. Suddenly… the squiggles are now circles! Of course, like the Inquisition, the indie camp is a powerful defender. Will you join with the Bobtail Yearlings, and be the Galileo of the arts? 
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
@@ -266,9 +268,9 @@ The indie labels are universally seen as "good guys"— and not just because the
 
 For another, these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* have to hurt others. They *just* have to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers can only ever be more inclusive in whom they accept as their own.
 
-This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because unlike minorities, who get stereotyped as being [low in warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women are *only* stereotyped as lacking in competence— in fact, they're received [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes). And a circle of friends has every right to feel greater warmth for some than others.
+This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because unlike minorities, who get stereotyped as being [low in warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women are *only* stereotyped as lacking competence— in fact, they're received [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes). And a circle of friends has every right to feel greater warmth for some than others.
 
-You'll notice, then, that we minorities *don't* begrudge labels for answering to shareholders! To the contrary, earning a profit for those who may not receive us warmly has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=No%20labels%20wanted,under%20his%20ass). So if *you* see [free-market capitalism](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.%2C,dollar%20bill%2C%20y%27all) as the great equalizer in the arts… then take heart that BYCombo does so as well.
+You'll notice, then, that we minorities *don't* begrudge labels for answering to shareholders! To the contrary, earning a profit for those who may not receive us warmly has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=No%20labels%20wanted,under%20his%20ass). So if *you* see [free-market capitalism](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.%2C,dollar%20bill%2C%20y%27all) as the great equalizer in the arts… take heart that BYCombo does so as well.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
@@ -285,7 +287,7 @@ Yet underdog movements will never go away— because to be seen as an underdog i
 ### ${++sectionCounter}. Fair practices follow the data
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise again for Gioia link.
 `}
 
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
