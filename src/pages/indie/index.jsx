@@ -67,14 +67,12 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. The simplest explanations are likely correct
+### ${++sectionCounter}. The simplest explanation is likely correct
 
 ${'  ' || `
 // TODO: Keep on working on.
 
-Second paragraph: Say the majors are doing things the indie way?
-
-Final paragraph still needs work. Mention again, perhaps this too can be gradually accepted.
+Second paragraph: Better example than majors operating like indie labels?
 
 Move before martyrs section.
 
@@ -82,11 +80,11 @@ Move back to fair practices section.
 , by looking for artists who [already have](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) a fanbase!
 `}
 
-To explain the squiggles traversed by the planets as they orbited the Earth, ancient astronomers mapped out a system of [deferents and epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. It was the simpler explanation… and so by Occam's razor, it was slowly accepted as the correct one.
+To explain the squiggles traversed by the planets as they orbited the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. It was the simpler explanation… so by Occam's razor, it gradually became accepted as the correct one.
 
-The arts today are just as "squiggly" in requiring an explanation, aren't they? The indie way is widely understood to foster the most daring and original art— yet no indie artist can match what the major labels gave us in the '90s! Meanwhile, music is getting worse all *around*— even as the majors operate more and more like indie labels!
+Well, the arts today are just as "squiggly" in the convoluted explanations they require, aren't they? After all, the indie way is widely believed to foster the most daring and original art— yet no indie artist can match what the major labels gave us in the '90s! Meanwhile, music is getting worse all *around*— even as the majors operate more and more like indie labels!
 
-But BYCombo proposes a simple explanation: The indie way actually leads to *worse* art— and has been doing so all along. Suddenly… the squiggles are now circles! Of course, like the Inquisition, the indie camp is a powerful defender. Will you join with the Bobtail Yearlings, and be the Galileo of the arts? 
+So BYCombo proposes that we swap the "Sun" and "Earth" in this model: Let's say the indie way actually leads to *worse* art… Suddenly, our squiggles snap into neat circles! Of course, it takes time to debunk sacred beliefs— and the indie camp, like [the Inquisition](https://en.wikipedia.org/wiki/Galileo_affair), is a powerful defender. Will you join with the Bobtail Yearlings, then, and be a Galileo of the arts?
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
