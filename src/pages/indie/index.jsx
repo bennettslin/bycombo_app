@@ -13,7 +13,11 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 # ${TITLE}
 
-By the '90s, the major labels no longer nurtured their bands. They simply counted on a few superstars to break out, like Nirvana or Radiohead, and then wrote off the rest as failed bets. By contrast, the indie labels held to fair practices for *all* their artists. A decade later, the majors imploded— so indie rock won! Except now…
+${'  ' || `
+// TODO: Review.
+`}
+
+By the '90s, the major labels no longer nurtured their bands. They just signed any band with a stellar demo and then counted on a few superstars to break out, like Nirvana or Radiohead. But the indie labels held to fair practices, by only signing artists empowered enough not to need a label in the first place. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -47,7 +51,11 @@ With so many ways left to innovate in this space, there most certainly *are* can
 
 **Why interdependent partnerships?**
 
-To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to work with business partners.
+${'  ' || `
+// TODO: Review.
+`}
+
+To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they need to *need* a business partner.
 
 **Why demos?**
 
@@ -73,13 +81,15 @@ ${'  ' || `
 // TODO: Keep on working on.
 
 Move before final martyrs section.
+
+Final paragraph: Make connection to Galileo more coherent.
 `}
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. It was a simpler explanation— so by Occam's razor, it slowly became accepted as the correct one.
 
-Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring and original art— yet no indie artist can match what the major labels gave us in the '90s?! Meanwhile, art is getting worse all around— even as the hated majors have come around to behaving like the beloved indies?!
+Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring and original art. Yet… no indie artist can match what the major labels gave us in the '90s?! And… even as the majors now operate like indie labels as well, by only signing artists empowered enough *not* to need a label?!
 
-But let's swap "Sun" and "Earth" in our model: What if the indie way… actually leads to *worse* art? Suddenly, our "squiggles" snap into neat lines! Of course, BYCombo can only get so far in proposing this simpler explanation; the indie camp, like [the Inquisition](https://en.wikipedia.org/wiki/Galileo_affair), is a powerful opposition. So will you join with the Bobtail Yearlings, and be a Galileo for music?
+But let's swap "Sun" and "Earth" in our model: What if the indie way… actually makes art *worse*? Now everything lines up! Of course, BYCombo can only get so far in proposing this simpler explanation; the indie camp is a powerful opposition, like [the Inquisition](https://en.wikipedia.org/wiki/Galileo_affair). So will you join with the Bobtail Yearlings, and be a Galileo for music?
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
