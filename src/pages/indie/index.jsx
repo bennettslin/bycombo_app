@@ -17,7 +17,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-By the '90s, the major labels no longer nurtured their bands. They simply signed masses of no-names to unfair contracts, and then hoped for a few superstars to break out. But the indie labels held to fair practices by only signing artists empowered enough *not* to need a label in the first place. A decade later, the majors imploded— so indie rock won! Except now…
+By the '90s, the major labels no longer nurtured their bands. They'd simply sign hundreds of no-names to unfair contracts, and then hope for a few superstars to break out. But the indie labels held to fair practices by only signing artists empowered enough *not* to need a label in the first place. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -203,11 +203,7 @@ Indie artists work hard *not* to need a label, and will do so even [when signed]
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until business partners finally reciprocate the courage to team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
-### ${++sectionCounter}. Commodified signals grow dishonest in time
-
-${'  ' || `
-// TODO: Review title. Maybe make another pass at fleshing out third paragraph
-`}
+### ${++sectionCounter}. Commodified signals lose their honesty
 
 Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this completely missed the point of verification— which amused me. After all, indie rock… is the paid plan of music distribution!
 
@@ -231,7 +227,7 @@ But why would Gen Z— and beyond— side with past gatekeepers who *didn't* car
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
-Who foresaw indie rock's final stage as a trust fund playground? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Two%20loced%20out,that%20pays%20me). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
+Who foresaw indie rock's final stage as a trust fund playground? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because after two decades of being no better than a foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So women and minorities are being nudged onto a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff)…
 
@@ -259,17 +255,15 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 ${'  ' || `
 // TODO: Review a few more times.
-
-Final paragraph. Two "always" in a row. Maybe frame "selling out" in another way.
 `}
 
-While indie labels do care about the bottom line, it's only to ensure that they aren't *losing* money. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love, right? Well…
+While indie labels do care about the bottom line, it's only to ensure that they aren't *losing* money. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love? Well…
 
-The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* have to hinder others. They *just* have to [favor their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers can only ever be more inclusive in whom they accept as their own.
+The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* have to hold others back. They *just* have to [favor their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers can only ever be more inclusive in whom they accept as their own.
 
 This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because unlike minorities— who get stereotyped as being [low in *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model)— women are only stereotyped as lacking in *competence*. They're received [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes), in fact! And a circle of friends has every right to feel greater warmth for some than others.
 
-You'll notice, then, that we minorities have *never* begrudged the major labels for answering to shareholders! To the contrary, being able to profit those who might not receive us warmly has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=No%20labels%20wanted,under%20his%20ass). So if the shame of "[selling out](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.%2C,dollar%20bill%2C%20y%27all)" has always seemed unfair to you for this reason… take heart that BYCombo is on your side.
+You'll notice, then, that we minorities have *never* begrudged any label for answering to shareholders! To the contrary, being able to profit those who wouldn't warm to us otherwise has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). So if the stigma of [selling out](https://genius.com/Ice-cube-no-vaseline-lyrics#:~:text=Living%20with%20the,Who%20you%20foolin%27%3F) to "the man" seems unfair to you for this reason… take heart that BYCombo is on your side.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
@@ -333,7 +327,7 @@ Final paragraph: Possibly change order: It's a simpler explanation, but BYCombo 
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. This was a simpler explanation— and so by Occam's razor, it gradually became accepted as the correct one.
 
-Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist has been able to match what the major labels gave us in the '90s?! And now the majors *themselves* do things the [indie way](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.)… yet this *hasn't* given us the next Nirvana or Radiohead?!
+Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist can match what the major labels gave us in the '90s?! And now the majors *themselves* do things the [indie way](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.)… yet this *hasn't* given us the next Nirvana or Radiohead?!
 
 But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Hey— now everything lines up! Of course, BYCombo can only get so far in proposing this simpler explanation. To reach acceptance, it might need strong advocates for a long, long time. So how about it? Will you join with the Bobtail Yearlings and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) for music?
 
