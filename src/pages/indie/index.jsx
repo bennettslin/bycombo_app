@@ -71,20 +71,6 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. The simplest explanation is likely correct
-
-${'  ' || `
-// TODO: Review a few more times.
-
-Move before final martyrs section.
-`}
-
-To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. This was a simpler explanation— and so by Occam's razor, it gradually became accepted as the correct one.
-
-Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist has been able to match what the major labels gave us in the '90s?! And now the majors *themselves* are doing things the [indie way](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.)… yet this *hasn't* given us the next Nirvana or Radiohead?!
-
-But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Hey— now everything lines up! Of course, BYCombo can only get so far in proposing this simpler explanation. To reach acceptance, it might need strong advocates for a long, long time. So how about it? Will you join with the Bobtail Yearlings and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) for music?
-
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -294,7 +280,7 @@ You'll notice, then, that we minorities have *never* begrudged the major labels 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
 ${'  ' || `
-// TODO: Review new location.
+// TODO: Review new location and revised text.
 `}
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one would *help*.
@@ -350,6 +336,18 @@ So yes, BYCombo tells you to focus on your craft, and to join a community of oth
 The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's a whole frontier left to explore! Unfortunately… indie rock isn't cut out for this job: Hustling requires a youthful outlook, so every indie artist is destined to burn out.
 
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
+
+### ${++sectionCounter}. The simplest explanation is likely correct
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. This was a simpler explanation— and so by Occam's razor, it gradually became accepted as the correct one.
+
+Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist has been able to match what the major labels gave us in the '90s?! And now the majors *themselves* are doing things the [indie way](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.)… yet this *hasn't* given us the next Nirvana or Radiohead?!
+
+But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Hey— now everything lines up! Of course, BYCombo can only get so far in proposing this simpler explanation. To reach acceptance, it might need strong advocates for a long, long time. So how about it? Will you join with the Bobtail Yearlings and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) for music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
