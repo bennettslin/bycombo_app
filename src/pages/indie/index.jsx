@@ -141,7 +141,7 @@ ${'  ' || `
 
 Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
-So I've long understood that my band needs to be the best in the *world*, if we're to belong in the canon next to the Beatles. But the indie camp resists my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
+So I've long understood that my band needs to be the best in the *world*— if we're to belong in the canon next to the Beatles. But the indie camp resists my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
 Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! So they're *not* helping to justify calling ours *the* rock canon… in which case, why would they belong in *the* Rock Hall?
 
@@ -211,7 +211,7 @@ Indie artists work hard *not* to need a label, and will do so even [when signed]
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until business partners finally reciprocate the courage to team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
-### ${++sectionCounter}. Commodified signals degrade trust
+### ${++sectionCounter}. Honest signals can't be bought
 
 ${'  ' || `
 // TODO: Review new location and title.
@@ -267,11 +267,13 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 ${'  ' || `
 // TODO: Review a few more times.
+
+Final paragraph. Two "always" in a row. Maybe frame "selling out" in another way.
 `}
 
 While indie labels do care about the bottom line, it's only to ensure that they aren't *losing* money. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love, right? Well…
 
-The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* have to hurt others. They *just* have to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers can only ever be more inclusive in whom they accept as their own.
+The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* have to hinder others. They *just* have to [favor their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers can only ever be more inclusive in whom they accept as their own.
 
 This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because unlike minorities— who get stereotyped as being [low in *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model)— women are only stereotyped as lacking in *competence*. They're received [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes), in fact! And a circle of friends has every right to feel greater warmth for some than others.
 
@@ -280,10 +282,10 @@ You'll notice, then, that we minorities have *never* begrudged the major labels 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
 ${'  ' || `
-// TODO: Review new location and revised text.
+// TODO: Review new location.
 `}
 
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one would *help*.
+Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
 
 So I took a coding bootcamp, and for [seven years](https://www.bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except now it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
@@ -345,7 +347,7 @@ ${'  ' || `
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. This was a simpler explanation— and so by Occam's razor, it gradually became accepted as the correct one.
 
-Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist has been able to match what the major labels gave us in the '90s?! And now the majors *themselves* are doing things the [indie way](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.)… yet this *hasn't* given us the next Nirvana or Radiohead?!
+Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist has been able to match what the major labels gave us in the '90s?! And now the majors *themselves* do things the [indie way](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.)… yet this *hasn't* given us the next Nirvana or Radiohead?!
 
 But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Hey— now everything lines up! Of course, BYCombo can only get so far in proposing this simpler explanation. To reach acceptance, it might need strong advocates for a long, long time. So how about it? Will you join with the Bobtail Yearlings and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) for music?
 
