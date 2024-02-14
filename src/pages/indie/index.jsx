@@ -343,6 +343,8 @@ By contrast, a deep love of the craft can motivate you for a lifetime. After all
 
 ${'  ' || `
 // TODO: Review a few more times.
+
+Final paragraph: Possibly change order: It's a simpler explanation, but BYCombo can only get so far in proposing it.
 `}
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. This was a simpler explanation— and so by Occam's razor, it gradually became accepted as the correct one.
