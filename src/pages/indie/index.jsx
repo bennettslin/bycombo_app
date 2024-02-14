@@ -17,9 +17,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-By the '90s, the major labels no longer nurtured their bands. They simply signed hundreds of no-names to unfair contracts, and then hoped for a few superstars to break out. But the indie labels held to fair practices by only signing artists empowered enough *not* to need a label in the first place. A decade later, the majors imploded— so indie rock won! Except now…
+By the '90s, the major labels no longer nurtured their bands. They simply signed countless no-names to unfair contracts, and then hoped for a few superstars to break out. But the indie labels held to fair practices by only signing artists empowered enough *not* to need a label in the first place. A decade later, the majors imploded— so indie rock won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
 There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Luckily, I've also spent half my life coming up with a plan:
 
@@ -51,10 +51,6 @@ With so many ways left to innovate in this space, there most certainly *are* can
 
 **Why interdependent partnerships?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they need to *need* a business partner.
 
 **Why demos?**
@@ -81,33 +77,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 
 Move before final martyrs section.
-
-Make grammar better in last sentence of second paragraph. Even now that the majors have embraced the indie way…
-
-Continue to work on last paragraph. Work on both grammar and ideas.
 `}
 
-To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. This was a simpler explanation— so by Occam's razor, it gradually became accepted as the correct one.
+To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. This was a simpler explanation— and so by Occam's razor, it gradually became accepted as the correct one.
 
-Well, the arts today require a similarly convoluted explanation, don't they? After all, the indie way is widely understood to foster the most daring and original art… Yet no indie artist has been able to match what the major labels gave us in the '90s?! Even as the majors now operate like indie labels as well, by only signing artists [empowered enough](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) *not* to need a label?!
+Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist has been able to match what the major labels gave us in the '90s?! And now the majors *themselves* are doing things the [indie way](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.)… yet this *hasn't* given us the next Nirvana or Radiohead?!
 
-So let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art *worse*? Now everything lines up! Of course, BYCombo can only get so far in proposing this simpler explanation. To gradually reach acceptance, our interdependence model needs powerful advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo for the arts?
-
-### ${++sectionCounter}. Formalized camaraderie is cronyism
-
-${'  ' || `
-// TODO: Review a few more times.
-
-Move after prejudice section and before underdogs section.
-`}
-
-While indie labels do care about the bottom line, it's only to ensure that they aren't *losing* money. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love, right? Well…
-
-The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* have to hurt others. They *just* have to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers can only ever be more inclusive in whom they accept as their own.
-
-This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because unlike minorities— who get stereotyped as being [low in *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model)— women are only stereotyped as lacking in *competence*. They're received [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes), in fact! And a circle of friends has every right to feel greater warmth for some than others.
-
-You'll notice, then, that we minorities have *never* begrudged the major labels for answering to shareholders! To the contrary, being allowed to profit those who might not receive us warmly has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=No%20labels%20wanted,under%20his%20ass). So if the shame of "[selling out](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.%2C,dollar%20bill%2C%20y%27all)" has always seemed unfair to you for this reason… take heart that BYCombo is on your side.
+But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Hey— now everything lines up! Of course, BYCombo can only get so far in proposing this simpler explanation. To reach acceptance, it might need strong advocates for a long, long time. So how about it? Will you join with the Bobtail Yearlings and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) for music?
 
 ### ${++sectionCounter}. Cultures of grievance wallow in confusion
 
@@ -173,9 +149,13 @@ And yet, this obviously can't end well. We don't "support" artists of the past�
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
-So I've long understood that, to be placed in the canon alongside the Beatles, my band needs to be the best in the *world*. But the indie camp resists my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
+So I've long understood that my band needs to be the best in the *world*, if we're to belong in the canon next to the Beatles. But the indie camp resists my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
 Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! So they're *not* helping to justify calling ours *the* rock canon… in which case, why would they belong in *the* Rock Hall?
 
@@ -243,7 +223,7 @@ The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-
 
 Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can one day become, the past proves that rock can be interdependent once again!
 
-BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until business partners finally reciprocate the courage and team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
+BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until business partners finally reciprocate the courage to team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -283,6 +263,20 @@ Every Black artist would stare glumly at us. Why? Because back then, they *neede
 
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
+### ${++sectionCounter}. Formalized camaraderie is cronyism
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+While indie labels do care about the bottom line, it's only to ensure that they aren't *losing* money. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love, right? Well…
+
+The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* have to hurt others. They *just* have to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers can only ever be more inclusive in whom they accept as their own.
+
+This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because unlike minorities— who get stereotyped as being [low in *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model)— women are only stereotyped as lacking in *competence*. They're received [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes), in fact! And a circle of friends has every right to feel greater warmth for some than others.
+
+You'll notice, then, that we minorities have *never* begrudged the major labels for answering to shareholders! To the contrary, being able to profit those who might not receive us warmly has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=No%20labels%20wanted,under%20his%20ass). So if the shame of "[selling out](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.%2C,dollar%20bill%2C%20y%27all)" has always seemed unfair to you for this reason… take heart that BYCombo is on your side.
+
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
@@ -309,7 +303,7 @@ By contrast, the indie labels look at one visible measure: the size of an artist
 
 So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
-In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now only sign artists with an existing fanbase as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
+In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, forcing the majors to simply follow the data now as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Commodified signals are worthless
 
