@@ -263,7 +263,7 @@ The issue is that these labels are run by society's most privileged groups— an
 
 This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because unlike minorities— who get stereotyped as being [low in *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model)— women are only stereotyped as lacking in *competence*. They're received [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes), in fact! And a circle of friends has every right to feel greater warmth for some than others.
 
-You'll notice, then, that we minorities have *never* begrudged any label for answering to shareholders! To the contrary, being able to profit those who wouldn't warm to us otherwise has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). So if the stigma of [selling out](https://genius.com/Ice-cube-no-vaseline-lyrics#:~:text=Living%20with%20the,Who%20you%20foolin%27%3F) to "the man" seems unfair to you for this reason… take heart that BYCombo is on your side.
+You'll notice, then, that we minorities have *never* begrudged a major label for answering to shareholders! To the contrary, being able to profit those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). So if the stigma of [selling out](https://genius.com/Ice-cube-no-vaseline-lyrics#:~:text=Living%20with%20the,Who%20you%20foolin%27%3F) to "the man" seems unfair to you for this reason… take heart that BYCombo is on your side.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
@@ -299,7 +299,7 @@ By contrast, the indie labels look at one visible measure: the size of an artist
 
 So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
-In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, forcing the majors to simply follow the data as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
+In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, forcing the majors to simply trust the numbers as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Happiness flows from the act of creation
 
@@ -321,15 +321,13 @@ By contrast, a deep love of the craft can motivate you for a lifetime. After all
 
 ${'  ' || `
 // TODO: Review a few more times.
-
-Final paragraph: Possibly change order: It's a simpler explanation, but BYCombo can only get so far in proposing it.
 `}
 
-To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. This was a simpler explanation— and so by Occam's razor, it gradually became accepted as the correct one.
+To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. This was a far simpler explanation— and so by Occam's razor, it became accepted as the correct one.
 
 Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist can match what the major labels gave us in the '90s?! And now the majors *themselves* do things the [indie way](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.)… yet this *hasn't* given us the next Nirvana or Radiohead?!
 
-But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Hey— now everything lines up! Of course, BYCombo can only get so far in proposing this simpler explanation. To reach acceptance, it might need strong advocates for a long, long time. So how about it? Will you join with the Bobtail Yearlings and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) for music?
+But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Hey— now everything lines up! Of course, BYCombo can only get so far in proposing this far simpler explanation; to gain acceptance, it still needs strong advocates. So how about it? Will you join with the Bobtail Yearlings and be a Galileo of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
