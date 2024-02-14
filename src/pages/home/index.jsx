@@ -18,9 +18,8 @@ ${'  ' || `
 
 **As a nonprofit, BYCombo is here to bring forth this century's historically canonical rock bands! To do so, we'll assemble each band ourselves and then expose them to interdependent-minded business partners.**
 
-Of course, *indie*-pendence is the dominant ideology in rock today. So why is *inter*-dependence needed as an alternative?
-
-Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com)! Let me explain…
+Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com)!
+As you know, *indie*-pendence is the dominant thinking in rock today. So why is *inter*-dependence needed as an alternative? Let me explain…
 
 ### Tools… are *rules*
 
