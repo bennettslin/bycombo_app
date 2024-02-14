@@ -17,7 +17,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-By the '90s, the major labels no longer nurtured their bands. They simply signed countless no-names under unfair terms, and then hoped for a few superstars to break out. But the indie labels held to fair practices by only signing artists empowered enough *not* to need a label in the first place. A decade later, the majors imploded— so indie rock won! Except now…
+By the '90s, the major labels no longer nurtured their bands. They simply signed hundreds of no-names to unfair contracts, and then hoped for a few superstars to break out. But the indie labels held to fair practices by only signing artists empowered enough *not* to need a label in the first place. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -91,7 +91,7 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 
 Well, the arts today require a similarly convoluted explanation, don't they? After all, the indie way is widely understood to foster the most daring and original art… Yet no indie artist has been able to match what the major labels gave us in the '90s?! Even as the majors now operate like indie labels as well, by only signing artists [empowered enough](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) *not* to need a label?!
 
-So let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art *worse*? Now everything lines up! Of course, BYCombo can only get so far in proposing this simpler explanation. It still needs powerful advocates for it to come to gradual acceptance. Will you join with the Bobtail Yearlings, then, and be a Galileo for interdependence in the arts?
+So let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art *worse*? Now everything lines up! Of course, BYCombo can only get so far in proposing this simpler explanation. To gradually reach acceptance, our interdependence model needs powerful advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo for the arts?
 
 ### ${++sectionCounter}. Formalized camaraderie is cronyism
 
@@ -101,9 +101,9 @@ ${'  ' || `
 Move after prejudice section and before underdogs section.
 `}
 
-While indie labels do care about the bottom line, it's only to ensure that they aren't *losing* money. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love, right? Well… for one, how does this lend confidence that we're getting the best art, exactly?
+While indie labels do care about the bottom line, it's only to ensure that they aren't *losing* money. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love, right? Well…
 
-For another, these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* have to hurt others. They *just* have to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers can only ever be more inclusive in whom they accept as their own.
+The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* have to hurt others. They *just* have to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers can only ever be more inclusive in whom they accept as their own.
 
 This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because unlike minorities— who get stereotyped as being [low in *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model)— women are only stereotyped as lacking in *competence*. They're received [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes), in fact! And a circle of friends has every right to feel greater warmth for some than others.
 
