@@ -26,7 +26,7 @@ As an entrepreneur, would you love to partner with today's artists— if only th
 
 Well, there's good news! The artists trying to make the best art today *don't* wish to be indie; they *do* want others to handle the business side of things. They just haven't had a way to make themselves known… until now, that is. Because BYCombo's mission is to let entrepreneurs like you partner with history-making bands once more! Here's how:
 
-**Every BYCombo band promises to spend *all* their time and energy to make the best art, for serious chunks of lifetime— while remaining dependent on business partners to get heard by the public.**
+**Every BYCombo band promises to spend *all* their time and energy making the best art, for serious chunks of lifetime— while remaining dependent on business partners to get heard by the public.**
 
 Next paragraph:
 Trust, with link to [mutual reliance](/indie#mutual-reliance-creates-wealth).
