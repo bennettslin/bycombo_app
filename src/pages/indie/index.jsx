@@ -71,7 +71,11 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Cultures of grievance wallow in confusion
+### ${++sectionCounter}. Nursed grievances wallow in confusion
+
+${'  ' || `
+// TODO: Review title.
+`}
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
@@ -81,7 +85,31 @@ For example, even after Goatse proved that the Internet caters to the lowest com
 
 In every early example of online success, chance or privilege clearly played a role. Yet the indie pundits were so eager to "own" the major labels, they downplayed this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public just assumes their music is no good!
 
-As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the major labels did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it holds no grievances.
+As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the major labels did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it nurses no grievances.
+
+### ${++sectionCounter}. Cultural chauvinism can only be justified
+
+${'  ' || `
+// TODO: Review.
+`}
+
+Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
+
+So I've long assumed that my band needs to be one of the best in the *world*— if we're to belong in the canon next to the Beatles. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
+
+Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! So they're *not* helping to justify calling ours *the* rock canon… in which case, why would they belong in *the* Rock Hall?
+
+Let's face it, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+
+### ${++sectionCounter}. Charitable support starts an arms race
+
+In the past, the only artists we said we "supported" were amateurs, recluses, the mentally ill… Yet today's fans use the term to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with high-minded endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
+
+Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a supreme advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
+
+So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of [their own](https://en.wikipedia.org/wiki/Outsider_music): All their charitable impulses went toward defending the *least* helpless!
+
+And yet, this obviously can't end well. We don't "support" artists of the past— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -92,16 +120,6 @@ In those days, lottery players would sign lopsided deals with a major label, all
 Yet according to the indie labels and pundits… this is as it should be! Because ultimately, their main concern is for artists to be chosen by the people, *not* by the elite— and what are recommendation algorithms, if not the new word of mouth? The grassroots, in essence, is still very much a *populist* domain.
 
 It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a *meritocratic* domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to a new elite!
-
-### ${++sectionCounter}. Timeless works have standalone appeal
-
-To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
-
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). They weren't interested, though… and in time I figured out why: Indie rock has no conception of music as a *craft*.
-
-Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— or these days, online fans— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
-
-Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artist— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
@@ -123,29 +141,23 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 
 So to make history without achieving stardom, ignore the critics! Instead, your talents must inspire the envy of fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
-### ${++sectionCounter}. Charitable support starts an arms race
+### ${++sectionCounter}. Timeless works have standalone appeal
 
-In the past, the only artists we said we "supported" were amateurs, recluses, the mentally ill… Yet today's fans use the term to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with high-minded endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
+To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
-Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a supreme advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). They weren't interested, though… and in time I figured out why: Indie rock has no conception of music as a *craft*.
 
-So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of [their own](https://en.wikipedia.org/wiki/Outsider_music): All their charitable impulses went toward defending the *least* helpless!
+Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— or these days, online fans— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
 
-And yet, this obviously can't end well. We don't "support" artists of the past— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
-
-### ${++sectionCounter}. Cultural chauvinism can only be justified
-
-Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
-
-So I've long understood that my band needs to be the best in the *world*— if we're to belong in the canon next to the Beatles. But the indie camp resists my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
-
-Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! So they're *not* helping to justify calling ours *the* rock canon… in which case, why would they belong in *the* Rock Hall?
-
-Let's face it, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artist— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to study the craft.
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
-How did indie rock degrade into just another foreign canon? It's simple: Indie artists *never* go above and beyond to make the best art. Okay, but… why *don't* they? Well, let's examine their options.
+${'  ' || `
+// TODO: Review text. Review order of previous sections as well.
+`}
+
+Say, how did indie rock degrade into just another foreign canon, anyway? It's simple: Indie artists *never* go above and beyond to make the best art. Okay, but… why *don't* they? Well, let's examine their options.
 
 They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Moreover, with no talent scouts out there trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
@@ -177,9 +189,13 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
+${'  ' || `
+// TODO: Review.
+`}
+
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the Bizarro way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
-And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few artists enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a [*middleman's* dream](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does), not an artist's!
+And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few artists enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a dream of those who would otherwise be *middlemen*, not artists!
 
 Sadly, young people never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, and so I've *only* ever dreamt of having one job as an artist— seeing that it's the only way to make the best art! Now with BYCombo, this dream can be yours as well.
 
