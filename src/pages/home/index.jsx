@@ -12,10 +12,6 @@ const Component = () => (
             body: `
 # ${TITLE}
 
-${'  ' || `
-// TODO: Review.
-`}
-
 **As a nonprofit, BYCombo is here to bring forth this century's historically canonical rock bands! To do so, we'll assemble each band ourselves and then expose them to interdependent-minded business partners.**
 
 Hi, I'm Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com)!

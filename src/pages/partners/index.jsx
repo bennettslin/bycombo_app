@@ -16,7 +16,7 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO:
+// TODO: Keep on working on.
 Talk more about trust in second paragraph, so that last paragraph can simply restate it.
 
 The *only* people who can undo the damage caused by indie rock are interdependent artists.
