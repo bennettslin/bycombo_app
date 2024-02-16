@@ -76,18 +76,18 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: Review a few more times. Ideas are there, but make sure they flow well, and the wording is good.
 
-Third paragraph. Be more clear about what the "cost to them" is referring to.
+Limit such access.
 
 Move back to after mutual reliance section.
 `}
 
-Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this completely missed the point of verification— which amused me. After all, indie rock… is the paid plan of music distribution!
+Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this missed the point of whom verification is meant to serve— which amused me. After all, indie rock… is the paid plan of music distribution!
 
 Musk wanted *everyone* to have access to an audience, not just the [old guard](https://twitter.com/elonmusk/status/1587498907336118274)— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie pundits in the '00s! They wanted *all* artists to be heard— not just those "verified" by a label— and so they promoted the use of online tools that cost nothing more than the grunt work put in.
 
-Which might *seem* commendable… to those who aren't part of the audience! Because before, having access to an audience *could* be [taken as a signal](https://en.wikipedia.org/wiki/Signaling_game) of worthiness. But now that the cost to attain access is trivial, the strongest signals will always come from the *least* worthy— who can fully invest in the signal itself, rather than in the worth being signified!
+Yet surely they must know… it's the *audience* who wants such access to be difficult— as this makes having it an [honest signal](https://en.wikipedia.org/wiki/Signaling_game) of worthiness! Once the cost to gain access becomes trivial, the strongest signals will be sent by the *least* worthy— who can fully invest in the signal itself, rather than in the worth being signified!
 
-So once a signal is no longer honest, the discerning "receiver" learns not to trust it, the worthy "sender" learns not to vie for it— and then both yearn to leave for places where honest signaling still happens. Places like… BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
+But once a signal is no longer honest, the discerning audience learns not to trust it, the most worthy learn not to vie for it— and then both yearn to leave for places where honest signaling still happens. Places like… BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
