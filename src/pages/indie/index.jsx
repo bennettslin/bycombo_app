@@ -67,24 +67,6 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Commodified signals lose their honesty
-
-${'  ' || `
-// TODO: Review a few more times. Ideas are there, but make sure they flow well, and the wording is good.
-
-Limit such access.
-
-Move back to after mutual reliance section.
-`}
-
-Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this missed the point of whom verification is meant to serve— which amused me. After all, indie rock… is the paid plan of music distribution!
-
-Musk wanted *everyone* to have access to an audience, not just the [old guard](https://twitter.com/elonmusk/status/1587498907336118274)— and so he made it available for a small fee. Hey… you know who *else* thought this way? The indie pundits in the '00s! They wanted *all* artists to be heard— not just those "verified" by a label— and so they promoted the use of online tools that cost nothing more than the grunt work put in.
-
-Yet surely they must know… it's the *audience* who wants such access to be difficult— as this makes having it an [honest signal](https://en.wikipedia.org/wiki/Signaling_game) of worthiness! Once the cost to gain access becomes trivial, the strongest signals will be sent by the *least* worthy— who can fully invest in the signal itself, rather than in the worth being signified!
-
-But once a signal is no longer honest, the discerning audience learns not to trust it, the most worthy learn not to vie for it— and then both yearn to leave for places where honest signaling still happens. Places like… BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
-
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -220,6 +202,20 @@ The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-
 Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can one day become, the past proves that rock can be interdependent once again!
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until business partners finally reciprocate the courage to team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
+
+### ${++sectionCounter}. Commodified signals lose their honesty
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this missed the point of whom verification actually benefits— which amused me. After all, indie rock… is the paid plan of music distribution!
+
+Musk wanted *everyone* to have an audience, not just the [old guard](https://twitter.com/elonmusk/status/1587498907336118274)— and so he allowed anyone to boost their tweets for a small fee. Hey… you know who *else* thought this way? The indie pundits in the '00s! They wanted *all* artists to be heard, not just those "verified" by a label— and so they encouraged the use of online tools that cost nothing more than the grunt work put in.
+
+Yet this misses the point, doesn't it? The ones who benefit from restricting access to an audience… are the *audience*! Because if the cost to gain access is now trivial, then simply having it can no longer be taken as a [signal of worth](https://en.wikipedia.org/wiki/Signaling_game). In fact, the strongest signals will now come from the *least* worthy— who can fully invest in the signal itself, rather than in the worth being signified!
+
+Still, there's good news: As a signal grows further dishonest, the audience learns not to trust it, the *most* worthy learn not to vie for it— and then both yearn to leave for places where honest signaling still happens. Places like… BYCombo! Because what can more honestly signify your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
