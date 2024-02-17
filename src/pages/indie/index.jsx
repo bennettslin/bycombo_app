@@ -67,6 +67,26 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Creativity gets its chance from the clueless
+
+${'  ' || `
+// TODO: Keep working on.
+
+First paragraph: Begin by saying in the '90s, noting which artists had built a fanbase, this reflects the will of the people. And then how they still have this spirit of reflecting will of the people.
+
+Third paragraph: Keep working on, obviously.
+
+Move back after serendipity section, and before modest standing section.
+`}
+
+Because the indie labels and curators stay close to their local scenes, they're both "in the know" and "one of us." Whatever *they* like, then, is what others like *us* have liked, which means it's what *we'll* like. And yet, according to science… it's in our human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
+
+Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
+
+But at least now I know why all the indie gatekeepers rejected *Yearling's Bobtail*— my "*Ulysses* of rock albums." In my lasting insecurity as an outsider, I'd set out to create a work of art whose objective creativity couldn't ever be disputed— only to find out that creative ideas are the *last* thing indie rock is set up to reward!
+
+Which is why the most creative works in history were often backed by those with the *least* prior experience in the arts: When you *don't* know what the people like, you *won't* be led astray! Let's face it, the best partners take pride in knowing how to do business, *not* in recognizing great art. And now with BYCombo, you can once again find such partners to back you.
+
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -153,18 +173,6 @@ Indie artists need to wear several hats: the promoter hat, the publicist hat… 
 
 These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking! So keep your artist hat on, and have a business partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
-### ${++sectionCounter}. Creativity gets its chance from the clueless
-
-${'  ' || `
-// TODO: Try to work in another paragraph?
-`}
-
-Because the indie labels and curators stay close to their local scenes, they're both "in the know" and "one of us." Whatever *they* like, then, is what others like *us* have liked, which means it's the best of what *we'll* like— or so we're told. Yet according to science… it's human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
-
-Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
-
-Which is why the most creative works in history were often backed by those with the *least* prior experience in the arts: When you *don't* know what the people like, you *won't* be led astray! Let's face it, the best partners take pride in knowing how to do business, *not* in recognizing great art. And now with BYCombo, you can once again find such partners to back you.
-
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
@@ -207,13 +215,15 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 ${'  ' || `
 // TODO: Review a few more times.
+
+Maybe rethink how first and second paragraphs go together. Could be condensed?
 `}
 
 Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this missed the point of who *really* benefits from verification— which amused me. After all, indie rock… is the paid plan of music distribution!
 
-Musk wanted *everyone* to have an audience, not just the [old guard](https://twitter.com/elonmusk/status/1587498907336118274)— and so he empowered anyone to boost their own tweets for a small fee. Hey… you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that cost nothing more than the grunt work put in.
+Musk wanted *everyone* to have an audience, not just the [old guard](https://twitter.com/elonmusk/status/1587498907336118274)— and now they can, by paying a small fee. Hey… you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that cost nothing more than the grunt work put in.
 
-Yet this misses the point of who *really* benefits from restricting access to an audience, doesn't it? It's… the *audience*! Because once the cost to gain this access becomes trivial, then having it— by itself— no longer [signifies worth](https://en.wikipedia.org/wiki/Signaling_game). In fact, the strongest signals will come from the *least* worthy— who can now invest in the signal itself, rather than in the worth being signified!
+Yet this misses the point of who *really* benefits from restricting access to an audience, doesn't it? It's… the *audience*! Because once this access is trivial to attain, then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game). If anything, the strongest signals will now come from the *least* worthy— who can invest in the signal itself, rather than in the worth being signified!
 
 But there's good news: As a signal grows further dishonest, the audience learns not to trust it, the *most* worthy learn not to vie for it— and then both yearn to leave for places where honest signaling still happens. Places like… BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
