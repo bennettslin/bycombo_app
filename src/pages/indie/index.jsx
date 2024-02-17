@@ -215,17 +215,15 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 ${'  ' || `
 // TODO: Review a few more times.
-
-Maybe rethink how first and second paragraphs go together. Could be condensed?
 `}
 
-Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this missed the point of who *really* benefits from verification— which amused me. After all, indie rock… is the paid plan of music distribution!
+Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk gave the blue checkmark to paid accounts, I saw them argue that this missed the point of who *really* benefits from verification. Which amused me…
 
-Musk wanted *everyone* to have an audience, not just the [old guard](https://twitter.com/elonmusk/status/1587498907336118274)— and now they can, by paying a small fee. Hey… you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that cost nothing more than the grunt work put in.
+Musk wanted *everyone* to have an audience, so he took all the perks enjoyed by the [old guard](https://twitter.com/elonmusk/status/1587498907336118274) and made them available to *anyone*— for a monthly fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label, and so they encourage the use of online tools that cost nothing— other than the grunt work put in.
 
-Yet this misses the point of who *really* benefits from restricting access to an audience, doesn't it? It's… the *audience*! Because once this access is trivial to attain, then it's no longer an [honest signal](https://en.wikipedia.org/wiki/Signaling_game). If anything, the strongest signals will now come from the *least* worthy— who can invest in the signal itself, rather than in the worth being signified!
+Yet who *really* benefits from restricting access to an audience? It's us— the *audience*! Once access is trivial to gain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the strongest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
 
-But there's good news: As a signal grows further dishonest, the audience learns not to trust it, the *most* worthy learn not to vie for it— and then both yearn to leave for places where honest signaling still happens. Places like… BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
+So what are you to do, if you aspire to be *most* worthy? Why, you can join a BYCombo band! After all, what's a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -289,13 +287,17 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that suppressed a previous culture founded by outsiders. While the former defeated the classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's Eastern European immigrants.
 
 Like indie rock, poptimism lets the underdog triumph over any outsiders— even those hungry enough to work much harder, to be much better. But this means the underdog *isn't* the best of their times… in which case, they'll also need to be *remembered* as an underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
-This… *can't* be a viable way to make history. After all, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
+This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
 Yet underdog movements will never go away— because to be seen as an underdog is a *privilege*, and the privileged will always find ways to benefit themselves. So BYCombo offers a permanent countermeasure, uniting all who believe in the superiority of art made by hungry outsiders— "rock and rollism," maybe?
 
@@ -333,7 +335,7 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 
 Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist can match what the major labels gave us in the '90s?! And now the majors *themselves* do things the [indie way](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.)… yet this *hasn't* given us the next Nirvana or Radiohead?!
 
-But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Hey— now everything lines up! Of course, BYCombo can only get so far in proposing this far simpler explanation; to gain acceptance, it still needs strong advocates. So how about it? Will you join with the Bobtail Yearlings and be a Galileo of music?
+But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Hey, now everything lines up! Of course, BYCombo can only get so far in proposing this far simpler explanation; to gain acceptance, it still needs strong advocates. So how about it? Will you join with the Bobtail Yearlings and be a Galileo of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
