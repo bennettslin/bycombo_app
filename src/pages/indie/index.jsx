@@ -209,13 +209,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this missed the point of who *actually* benefits from verification— which amused me. After all, indie rock… is the paid plan of music distribution!
+Every now and then, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk removed the blue checkmark from notable accounts and gave it to paid ones, I saw them argue that this missed the point of who *really* benefits from verification— which amused me. After all, indie rock… is the paid plan of music distribution!
 
-Musk wanted *everyone* to have an audience, not just the [old guard](https://twitter.com/elonmusk/status/1587498907336118274)— and so he enabled anyone to boost their tweets for a small fee. Hey… you know who *else* thought this way? The indie pundits in the '00s! They wanted *every* artist to be heard, not just those "verified" by a label— and so they encouraged the use of online tools that cost nothing more than the grunt work put in.
+Musk wanted *everyone* to have an audience, not just the [old guard](https://twitter.com/elonmusk/status/1587498907336118274)— and so he empowered anyone to boost their own tweets for a small fee. Hey… you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that cost nothing more than the grunt work put in.
 
-Yet doesn't this miss the point? The ones who *actually* want to restrict access to an audience… are the *audience*! Because once the cost to gain this access becomes trivial, then simply having it no longer [signifies worth](https://en.wikipedia.org/wiki/Signaling_game). In fact, the strongest signals will now come from the *least* worthy— who can invest in the signal itself, rather than in the worth being signified!
+Yet this misses the point of who *really* benefits from restricting access to an audience, doesn't it? It's… the *audience*! Because once the cost to gain this access becomes trivial, then having it— by itself— no longer [signifies worth](https://en.wikipedia.org/wiki/Signaling_game). In fact, the strongest signals will come from the *least* worthy— who can now invest in the signal itself, rather than in the worth being signified!
 
-Still, there's good news: As a signal grows further dishonest, the audience learns not to trust it, the *most* worthy learn not to vie for it— and then both yearn to leave for places where honest signaling still happens. Places like… BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
+But there's good news: As a signal grows further dishonest, the audience learns not to trust it, the *most* worthy learn not to vie for it— and then both yearn to leave for places where honest signaling still happens. Places like… BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
