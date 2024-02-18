@@ -217,9 +217,9 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk gave the blue checkmark to paid accounts, I saw them argue that this missed the point of who *really* benefits from verification. Which amused me…
+Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk added the blue checkmark to paid accounts, I saw them argue that this missed the point of who *really* benefits from verification. Which made me chuckle…
 
-Musk wanted *everyone* to have an audience, so he took all the perks enjoyed by the [old guard](https://twitter.com/elonmusk/status/1587498907336118274) and made them available to *anyone*— for a monthly fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label, and so they encourage the use of online tools that cost nothing— other than the grunt work put in.
+Musk wanted *everyone* to have an audience— so he took all the perks enjoyed by the [old guard](https://twitter.com/elonmusk/status/1587498907336118274) and made them available to *anyone*, for a monthly fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that cost nothing but the grunt work put in.
 
 Yet who *really* benefits from restricting access to an audience? It's us— the *audience*! Once access is trivial to gain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the strongest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
 
