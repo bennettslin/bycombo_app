@@ -181,7 +181,7 @@ In the '90s, the indie labels and curators stayed close to their local scenes, m
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those "in the know" pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Which explains the failure of *Yearling's Bobtail*, my "[*Ulysses* of rock albums](https://www.yearlingsbobtail.com/7-m/?annotation=42)": In my never-ending insecurity as an outsider, I'd set out to create a work of art whose objective creativity can't be disputed— only to learn that actual creativity is the *last* thing any gatekeeper who's "one of us" should want!
+Which explains the failure of *Yearling's Bobtail*, my "[*Ulysses* of rock albums](https://www.yearlingsbobtail.com/7-m/?annotation=42)": In my endless insecurity as an outsider, I'd set out to create a work of art whose objective creativity can't be disputed— only to learn that actual creativity is the *last* thing any gatekeeper who's "one of us" should want!
 
 This is why so many creative works in history were backed by those with the *least* prior experience in the arts: They *didn't* know what the people liked, and so they *weren't* led astray. Let's face it, a good partner takes pride in knowing how to do business, *not* in recognizing great art. And now with BYCombo, you can find one to back you once more.
 
@@ -316,18 +316,18 @@ Yet underdog movements will never go away— because to be seen as an underdog i
 ### ${++sectionCounter}. Fair practices follow the data
 
 ${'  ' || `
-// TODO: Revise. In third paragraph, make clear that the indie labels do so thinking it reflects the people's will.
+// TODO: Revise. In fifth paragraph, say majors now follow the people's will as well by looking for most sizable fanbase?
 `}
 
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
 
-By contrast, the indie labels look at one visible measure: the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does, and all that's left is for each label to offer its most generous terms. In other words, by lacking any vision and simply trusting the numbers… the indies turn out to do *right* by artists! And for this, they're praised as the "good guys."
+By contrast, the indie labels look at one visible measure: the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does, and all that's left is for each label to offer its most generous terms. In other words, by simply trusting that the people's will gets reflected in the numbers… the indies turn out to do *right* by artists! And for this, they're praised as the "good guys."
 
-So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
+So when the tech platforms arrived, their skills with numbers made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
-In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now look for a sizable fanbase as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
+In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now favor the most sizable fanbase as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Longevity remains a final frontier
 
