@@ -79,7 +79,7 @@ Third paragraph: Keep working on, obviously.
 Move back after serendipity section, and before modest standing section.
 `}
 
-Because the indie labels and curators stay close to their local scenes, they're both "in the know" and "one of us." Whatever *they* like, then, is what others like *us* have liked, which means it's what *we'll* like. And yet, according to science… it's in our human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
+In the '90s, the indie labels and curators stayed close to their local scenes, making them both "in the know" and "one of us." Whatever *they* like, then, is what others like *us* have liked, which means it's what *we'll* like. And yet, according to science… it's in our human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -217,13 +217,29 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk added the blue checkmark to paid accounts, I saw them argue that this missed the point of who *really* benefits from verification. Which made me chuckle…
+Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk added the blue checkmark to paid accounts, I saw them argue that this missed the point of verification. Which made me chuckle…
 
-Musk wanted *everyone* to have an audience— so he took all the perks enjoyed by the [old guard](https://twitter.com/elonmusk/status/1587498907336118274) and made them available to *anyone*, for a monthly fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that cost nothing but the grunt work put in.
+Musk wanted *everyone* to have an audience— so he took all the perks enjoyed by the [old guard](https://twitter.com/elonmusk/status/1587498907336118274) and made them available to *anyone*, for a monthly fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to get heard, not just those "verified" by a label— and so they encourage the use of online tools that cost nothing but the grunt work put in.
 
-Yet who *really* benefits from restricting access to an audience? It's us— the *audience*! Once access is trivial to gain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the strongest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
+Yet this misses the point, doesn't it? Once access to an audience is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); the audience can no longer assume that those who have it are worth hearing from. In fact, the strongest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
 
 So what are you to do, if you aspire to be *most* worthy? Why, you can join a BYCombo band! After all, what's a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
+
+### ${++sectionCounter}. Democratization is cruel to the audience
+
+${'  ' || `
+// TODO: Keep on working on.
+
+Don't use the word "alternative."
+
+The modern audience has substitutes.
+
+* Bypassing the middleman doesn't just put the work on the artist
+    * It also puts the work on the audience
+    * Trying to figure out who's worth hearing from is work
+`}
+
+Hey, you know who *doesn't* want every artist to have an audience? Rappers! Not only do the best of them [mock the worst](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins), they readily point out that the worst have no *choice* but [to be indie](https://genius.com/The-notorious-big-kick-in-the-door-lyrics#:~:text=THE%20MAD%20RAPPER%3A%20YouknowhatI%27ms%2D%2D%3F,a%20dime%20yet)! Which might seem cruel… until you realize that the alternative— a movement that's *kind* to artists— will always be cruel to *audiences*.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
