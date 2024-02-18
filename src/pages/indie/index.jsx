@@ -67,25 +67,23 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Creativity gets its chance from the clueless
+### ${++sectionCounter}. Democratization is cruel to the audience
 
 ${'  ' || `
-// TODO: Keep working on.
+// TODO: Keep on working on.
 
-First paragraph: Begin by saying in the '90s, noting which artists had built a fanbase, this reflects the will of the people. And then how they still have this spirit of reflecting will of the people.
+Move back after commodified signals and before future minds.
 
-Third paragraph: Keep working on, obviously.
+The modern audience has substitutes.
 
-Move back after serendipity section, and before modest standing section.
+Occupy's "We are the 99%"
+
+* Bypassing the middleman doesn't just put the work on the artist
+    * It also puts the work on the audience
+    * Trying to figure out who's worth hearing from is work
 `}
 
-In the '90s, the indie labels and curators stayed close to their local scenes, making them both "in the know" and "one of us." Whatever *they* like, then, is what others like *us* have liked, which means it's what *we'll* like. And yet, according to science… it's in our human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
-
-Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
-
-But at least now I know why all the indie gatekeepers rejected *Yearling's Bobtail*— my "*Ulysses* of rock albums." In my lasting insecurity as an outsider, I'd set out to create a work of art whose objective creativity couldn't ever be disputed— only to find out that creative ideas are the *last* thing indie rock is set up to reward!
-
-Which is why the most creative works in history were often backed by those with the *least* prior experience in the arts: When you *don't* know what the people like, you *won't* be led astray! Let's face it, the best partners take pride in knowing how to do business, *not* in recognizing great art. And now with BYCombo, you can once again find such partners to back you.
+Hey, you know who *doesn't* want every artist to have an audience? Rappers! Not only do the best of them [mock the worst](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins), they'll even point out that the worst have no *choice* but [to be indie](https://genius.com/The-notorious-big-kick-in-the-door-lyrics#:~:text=THE%20MAD%20RAPPER%3A%20YouknowhatI%27ms%2D%2D%3F,a%20dime%20yet)! Which might seem cruel… until you realize that the opposite— a movement that's *kind* to artists, like indie rock— must necessarily be cruel to *audiences*.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -173,6 +171,20 @@ Indie artists need to wear several hats: the promoter hat, the publicist hat… 
 
 These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking! So keep your artist hat on, and have a business partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
+### ${++sectionCounter}. Creativity gets its chance from the clueless
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+In the '90s, the indie labels and curators stayed close to their local scenes, making them both "in the know" and "one of us." And this hasn't changed, even with everything now online: Whatever they like is still just what others like us have liked, which means it's what we'll like. Yet, according to science… it's in our human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
+
+Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those "in the know" pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
+
+Which explains the failure of *Yearling's Bobtail*, my "[*Ulysses* of rock albums](https://www.yearlingsbobtail.com/7-m/?annotation=42)": In my never-ending insecurity as an outsider, I'd set out to create a work of art whose objective creativity can't be disputed— only to learn that actual creativity is the *last* thing any gatekeeper who's "one of us" should want!
+
+This is why so many creative works in history were backed by those with the *least* prior experience in the arts: They *didn't* know what the people liked, and so they *weren't* led astray. Let's face it, a good partner takes pride in knowing how to do business, *not* in recognizing great art. And now with BYCombo, you can find one to back you once more.
+
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
@@ -221,25 +233,9 @@ Once in a while, I'll get over my dislike of social media to see what the indie 
 
 Musk wanted *everyone* to have an audience— so he took all the perks enjoyed by the [old guard](https://twitter.com/elonmusk/status/1587498907336118274) and made them available to *anyone*, for a monthly fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to get heard, not just those "verified" by a label— and so they encourage the use of online tools that cost nothing but the grunt work put in.
 
-Yet this misses the point, doesn't it? Once access to an audience is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); the audience can no longer assume that those who have it are worth hearing from. In fact, the strongest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
+Yet this misses the point, doesn't it? Once access to an audience is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the strongest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
 
-So what are you to do, if you aspire to be *most* worthy? Why, you can join a BYCombo band! After all, what's a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
-
-### ${++sectionCounter}. Democratization is cruel to the audience
-
-${'  ' || `
-// TODO: Keep on working on.
-
-Don't use the word "alternative."
-
-The modern audience has substitutes.
-
-* Bypassing the middleman doesn't just put the work on the artist
-    * It also puts the work on the audience
-    * Trying to figure out who's worth hearing from is work
-`}
-
-Hey, you know who *doesn't* want every artist to have an audience? Rappers! Not only do the best of them [mock the worst](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins), they even point out that the worst have no *choice* but [to be indie](https://genius.com/The-notorious-big-kick-in-the-door-lyrics#:~:text=THE%20MAD%20RAPPER%3A%20YouknowhatI%27ms%2D%2D%3F,a%20dime%20yet)! Which might seem cruel… until you realize that the alternative— a movement that's *kind* to artists— will always be cruel to *audiences*.
+So what's to be done, if you aspire to be *most* worthy? Why, you can join a BYCombo band! After all, what's a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -319,6 +315,10 @@ Yet underdog movements will never go away— because to be seen as an underdog i
 
 ### ${++sectionCounter}. Fair practices follow the data
 
+${'  ' || `
+// TODO: Revise. In third paragraph, make clear that the indie labels do so thinking it reflects the people's will.
+`}
+
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
@@ -327,7 +327,7 @@ By contrast, the indie labels look at one visible measure: the size of an artist
 
 So when the tech platforms came along, their data-driven ways made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
-In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now simply look for a sizable fanbase as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
+In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, the tech platforms took over, while the majors now look for a sizable fanbase as well. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Longevity remains a final frontier
 

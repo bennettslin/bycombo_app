@@ -41,10 +41,6 @@ You'll also be able to opt into our "[band managers as bandmates](/partners#band
 
 ### A lifetime of band projects
 
-${'  ' || `
-// TODO: Make clear they can be indie for a while.
-`}
-
 BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. Once your demo is complete, we'll expose you to business partners by adding it to our public registry and including it in our latest newsletter. As an alum, you'll also have a chance to pay it forward and work with the next cohort.
 
 And for your next band project, we want you to set the bar even higher! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another BYCombo band if that's a better fit for you. Remember, cross-pollination benefits everyone, and every BYCombo band is family!
