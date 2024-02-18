@@ -299,7 +299,7 @@ Like indie rock, poptimism lets the underdog triumph over any outsiders— even 
 
 This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-Yet underdog movements will never go away— because to be seen as an underdog is a *privilege*, and the privileged will always find ways to benefit themselves. So BYCombo offers a permanent countermeasure, uniting all who believe in the superiority of art made by hungry outsiders— "rock and rollism," maybe?
+Yet underdog movements will never go away— because to be seen as an underdog is a *privilege*, and the privileged will always find ways to benefit themselves. So BYCombo offers a permanent countermeasure, uniting all who favor art made by hungry outsiders— "rock and rollism," maybe?
 
 ### ${++sectionCounter}. Fair practices follow the data
 
