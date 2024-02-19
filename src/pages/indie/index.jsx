@@ -181,7 +181,7 @@ In the '90s, the indie labels and curators stayed close to their local scenes, m
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those "in the know" pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Which explains why *Yearling's Bobtail*, my "[*Ulysses* of rock albums](https://www.yearlingsbobtail.com/7-m/?annotation=42)," remains ignored by the indie camp: In my perpetual insecurity as an outsider, I'd set out to create a work of art whose objective creativity *can't* be disputed— only to find that this is the *last* thing a gatekeeper who's "one of us" should want!
+Which explains why *Yearling's Bobtail*, my "[*Ulysses* of rock albums](https://www.yearlingsbobtail.com/7-m/?annotation=42)," remains ignored by the indie camp… In my perpetual insecurity as an outsider, I'd set out to create a work of art whose objective creativity *can't* be disputed— only to find that this is the *last* thing a gatekeeper who's "one of us" should want!
 
 It's no surprise, then, that history's most creative works were often backed by those with the [*least* prior experience](https://youtu.be/AClN5X0eEvI) in the arts. Let's face it, a good partner takes pride in doing great business, *not* in recognizing great art. Now with BYCombo, you can once again find one to back you.
 
@@ -235,7 +235,7 @@ Musk wanted *everyone* to have an audience, not just the [old guard](https://twi
 
 Yet this misses the point, doesn't it? Once access to an audience is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the strongest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
 
-So where do you go from here, if you aspire to be *most* worthy? Why, you can join a BYCombo band! After all, what's a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
+So if you aspire to be *most* worthy, where do you go from here? Why, you can join a BYCombo band! After all, what's a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -283,9 +283,9 @@ ${'  ' || `
 
 While indie labels do care about the bottom line, it's not to *make* money; it's simply to ensure that they aren't *losing* it. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love? Well…
 
-The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to hinder others. They *just* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers will simply try to be more inclusive in whom they accept as their own.
+The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *just* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male gatekeepers can only try to be more inclusive in whom they accept as their own.
 
-Yet their belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because while all minorities struggle with stereotypes of [low warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women struggle solely with stereotypes of low competence. And social justice only fixes misperceptions of competence; each of us is allowed to feel more warmly toward some than others.
+Yet their belated push for diversity strictly helps women, not minorities— not *male* minorities, anyway. Because while all minorities struggle with stereotypes of [low warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women struggle solely with stereotypes of low competence. And social justice only fixes misperceptions of competence; each of us is allowed to feel more warmly toward some than others.
 
 Which is why we minorities have *never* begrudged a major label their profit motive! To the contrary, [making money](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.,dollar%20bill%2C%20y%27all) for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, you can once again hope to profit a business partner— rather than win over a circle of friends.
 
