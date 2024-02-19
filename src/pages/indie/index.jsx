@@ -177,13 +177,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-In the '90s, the indie labels and curators stayed close to their local scenes, making them both "in the know" and "one of us." And this hasn't changed, even with everything now online: Whatever they like is still just what others like us have liked, which means it's what we'll like. Yet, according to science… it's in our human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
+In the '90s, the indie labels and curators stayed close to their local scenes, making them both "in the know" and "one of us." And this holds true today, even as everything has moved online: What they like is what others like us have liked, which means it's what *we'll* like. What's not to like? Yet according to science… it's in our human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those "in the know" pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Which explains the failure of *Yearling's Bobtail*, my "[*Ulysses* of rock albums](https://www.yearlingsbobtail.com/7-m/?annotation=42)": In my endless insecurity as an outsider, I'd set out to create a work of art whose objective creativity can't be disputed— only to learn that actual creativity is the *last* thing any gatekeeper who's "one of us" should want!
+Which is why *Yearling's Bobtail*, my "[*Ulysses* of rock albums](https://www.yearlingsbobtail.com/7-m/?annotation=42)," keeps getting ignored and rejected by the indie camp: In my perpetual insecurity as an outsider, I'd set out to create a work of art whose objective creativity can't ever be disputed— only to learn that this is the *last* thing any gatekeeper who's "one of us" should want!
 
-This is why so many creative works in history were backed by those with the *least* prior experience in the arts: They *didn't* know what the people liked, and so they *weren't* led astray. Let's face it, a good partner takes pride in knowing how to do business, *not* in recognizing great art. And now with BYCombo, you can find one to back you once more.
+It's no surprise, then, that history's most creative works were often backed by those with the [*least* prior experience](https://youtu.be/AClN5X0eEvI) of doing so… Let's face it, a good partner takes pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can find one to back you once more.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
@@ -229,9 +229,9 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk added the blue checkmark to paid accounts, I saw them argue that he missed the point of verification— which made me chuckle…
+Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk added the blue checkmark to paid accounts, I saw them argue that he missed the point of verification! Which made me chuckle…
 
-Musk wanted *everyone* to have an audience, not just the [old guard](https://twitter.com/elonmusk/status/1587498907336118274)— so he made all the same perks available to *anyone*, for a recurring fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to get heard, not just those "verified" by a label— and so they encourage the use of online tools that cost nothing but the continual grunt work put in.
+Musk wanted *everyone* to have an audience, not just the [old guard](https://twitter.com/elonmusk/status/1587498907336118274)— so he made all the same perks available to *anyone*, for a monthly fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to get heard, not just those "verified" by a label— and so they encourage the use of online tools that cost nothing but the continual grunt work put in.
 
 Yet this misses the point, doesn't it? Once access to an audience is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the strongest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
 
@@ -323,7 +323,7 @@ By contrast, the indie labels look at one visible measure: the size of an artist
 
 So when the tech platforms arrived, their ways with numbers made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
-In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); it's thanks to them that even the [*majors* now require](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) artists to have an existing fanbase. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but instead, to pursue a vision that few others see.
+In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music). Thanks to them, even the [*majors* now require](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) artists to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Longevity remains a final frontier
 
