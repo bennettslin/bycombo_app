@@ -25,9 +25,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Are you eager to make history by advancing the art form? Are you willing to join an assembled band whose members get equal credit and royalties? Are you able to devote at least forty hours each week to your band project? And can you quit social media, possibly for good?
+Are you eager to make history by advancing the art form? Are you ready to join an assembled band whose members get equal credit and royalties? Are you able to devote at least forty hours each week to your band project? And can you quit social media, possibly for good?
 
-Most importantly, are you ready to defy indie rock's gatekeepers— its labels, curators, and pundits — even as they have the power to shut you out forever? That is to say, do you understand that, after sacrificing a serious chunk of your lifetime, you may be left with nothing to show but the work you've done, the talents you've built, and the friends you've made?
+Most importantly, are you willing to defy indie rock's gatekeepers— its labels, curators, and pundits — even as they have the power to shut you out forever? That is to say, do you understand that, after sacrificing a serious chunk of your lifetime, you may be left with nothing to show but the work you've done, the talents you've built, and the friends you've made?
 
 If so, then come be part of the interdependence revolution! We're looking for those who are reasonably skilled in one or more of the following roles:
 
