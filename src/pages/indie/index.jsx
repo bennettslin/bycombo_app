@@ -179,11 +179,11 @@ ${'  ' || `
 
 In the '90s, the indie labels and curators stayed close to their local scenes, making them both "in the know" and "one of us." And this holds true today, even as everything has moved online: What they like is what others like us have liked, which means it's what *we'll* like. What's not to like? Yet according to science… it's in our human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
 
-Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore this discomfort, since it's *all* unfamiliar to them. But those "in the know" pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
+Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those "in the know" pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
 Which explains why *Yearling's Bobtail*, my "[*Ulysses* of rock albums](https://www.yearlingsbobtail.com/7-m/?annotation=42)," was ignored by the indie camp: In my perpetual insecurity as an outsider, I'd set out to create a work of art whose objective creativity can't be disputed— only to find that this is the *last* thing a gatekeeper who's "one of us" should want!
 
-It's no surprise, then, that history's most creative works were often backed by those with the [*least* prior experience](https://youtu.be/AClN5X0eEvI) of doing so. Let's face it, a good partner takes pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can find one to back you once more.
+It's no surprise, then, that history's most creative works were often backed by those with the [*least* prior experience](https://youtu.be/AClN5X0eEvI) of doing so. Let's face it, a good partner takes pride in knowing how to do business, *not* in recognizing great art. Now with BYCombo, you can once again find one to back you.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
@@ -229,13 +229,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk added the blue checkmark to paid accounts, I saw them argue that this missed the point of verification. Which made me chuckle…
+Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk added the blue checkmark to paid accounts, I saw them argue that he missed the point of verification— which made me chuckle!
 
 Musk wanted *everyone* to have an audience, not just the [old guard](https://twitter.com/elonmusk/status/1587498907336118274)— so he made all the same perks available to *anyone*, for a monthly fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to get heard, not just those "verified" by a label— and so they encourage the use of online tools that cost nothing but the continual grunt work put in.
 
 Yet this misses the point, doesn't it? Once access to an audience is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the strongest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
 
-So what's to be done, if you aspire to be *most* worthy? Why, you can join a BYCombo band! After all, what's a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
+So where do you go from here, if you aspire to be *most* worthy? Why, you can join a BYCombo band! After all, what's a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -277,13 +277,17 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 ### ${++sectionCounter}. Organized camaraderie is cronyism
 
-While indie labels do care about the bottom line, it's only to ensure that they aren't *losing* money. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love? Well…
+${'  ' || `
+// TODO: Review.
+`}
 
-The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* have to hamper others. They *just* have to [favor their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers can only learn to be more inclusive in whom they accept as their own.
+While indie labels do care about the bottom line, it's not to *make* money; it's only to ensure that they aren't *losing* it. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love? Well…
 
-This is why indie rock's belated push for diversity really only helps women, not minorities— not *male* minorities, anyway. Because unlike minorities— who get stereotyped as being [low in warmth](https://en.wikipedia.org/wiki/Stereotype_content_model)— women are *only* stereotyped as lacking in competence. They're received [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes), in fact! And a circle of friends has every right to feel greater warmth for some than others.
+The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* have to hinder others. They *just* have to [favor their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock can never fix inequality at the root; its White male gatekeepers can only try to be more inclusive in whom they accept as their own.
 
-You'll notice, then, that we minorities have *never* begrudged a business partner their profit motive! To the contrary, being able to profit those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). So if *you* see [pure capitalism](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.,dollar%20bill%2C%20y%27all) as a great equalizer in the arts… then take heart that BYCombo is on your side.
+Yet indie rock's belated push for diversity mainly helps women, rather than minorities— or *male* minorities, anyway. Because unlike minorities— who get stereotyped as being [low in warmth](https://en.wikipedia.org/wiki/Stereotype_content_model)— women are *only* stereotyped as lacking in competence. In fact, they're received [quite warmly](https://anderson-review.ucla.edu/warmth-vs-competence-a-way-to-organize-study-of-job-gender-and-racial-stereotypes)! And a circle of friends has every right to feel greater warmth for some than others.
+
+Which is why we minorities have *never* begrudged a major label their profit motive! To the contrary, [making money](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.,dollar%20bill%2C%20y%27all) for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, you can once again try to win over a business partner— rather than a circle of friends.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
@@ -319,7 +323,7 @@ Perhaps my arguments against indie rock seem misplaced. After all, aren't the te
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
 
-By contrast, the indie labels seek to reflect the people's will— which can be measured in the size of an artist's fanbase. But once *anyone* sees a safe bet, *everyone* does— forcing each label to offer its most generous terms. In other words, the way to do *right* by artists… is to simply trust the numbers! And for this, the indies get praised as the "good guys."
+By contrast, the indie labels obey the people's will— which is measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and then all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is to simply trust the numbers! And for this, the indies get praised as the "good guys."
 
 So when the tech platforms came along, their focus on numbers made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
