@@ -109,7 +109,7 @@ So I've long understood that, to belong in the canon next to the Beatles,  my ba
 
 Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! So they're *not* helping to justify calling ours *the* rock canon… in which case, why would they belong in *the* Rock Hall?
 
-Let's face it, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
@@ -198,16 +198,16 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the Bizarro way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
-And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few artists enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a dream of those who would otherwise be *middlemen*, not artists!
+And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few would enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a dream of those who would otherwise be *middlemen*, not artists!
 
-Let's face it, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Besides, if you're one of the best, then you also get your pick of the best partners. We [learned all this](https://study.com/academy/lesson/division-of-labor-text-lessons-test.html) in middle school!
+Let's be honest, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best, then you also get your pick of the best partners. We [learned all this](https://study.com/academy/lesson/division-of-labor-text-lessons-test.html) in middle school!
 
-Sadly, young people never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, and so I've *only* ever dreamt of having one job as an artist— seeing that it's the only way to make the best art! Now with BYCombo, this dream can be yours as well.
+Sadly, young people never question the auto-Bizarro world that music has become, since it's all they've ever known. But I came of age *before* indie rock took over, and so I've *only* ever dreamt of having one job as an artist— seeing that it's the only way to make the best art! Now with BYCombo, this dream can be yours as well.
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
@@ -277,7 +277,7 @@ Every Black artist would stare glumly at us. Why? Because back then, they *neede
 
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
-### ${++sectionCounter}. Organized camaraderie is cronyism
+### ${++sectionCounter}. Formalized camaraderie is cronyism
 
 ${'  ' || `
 // TODO: Review.
@@ -289,7 +289,7 @@ The issue is that these labels are run by society's most privileged groups— an
 
 Yet their belated push for diversity strictly helps women, not minorities— not *male* minorities, anyway. Because while all minorities struggle with stereotypes of [low warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women struggle solely with stereotypes of low competence. And social justice only fixes misperceptions of competence; people are allowed to feel more warmly toward some than others.
 
-You'll notice, then, that we minorities *don't* begrudge any label their profit motive! To the contrary, [making money](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.,dollar%20bill%2C%20y%27all) for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, you can once again hope to profit a business partner— rather than win over a circle of friends.
+Let's face it, camaraderie is just cronyism when you're an outsider— which is why we minorities *don't* begrudge business partners their profit motive! To the contrary, [making money](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.,dollar%20bill%2C%20y%27all) for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Thankfully, with BYCombo, this ticket can now be yours once again.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
