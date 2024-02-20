@@ -70,7 +70,7 @@ Here's an incomplete list of ways…
 ### ${++sectionCounter}. Democratization is cruel to the audience
 
 ${'  ' || `
-// TODO: Keep on working on.
+// TODO: Keep on working on. Maybe consider if this is really just another paragraph in commodified signals section.
 
 Move back after commodified signals and before future minds.
 
@@ -84,6 +84,10 @@ Occupy's "We are the 99%"
 `}
 
 Hey, you know who *doesn't* want every artist to have an audience? Rappers! Not only do the best of them [mock the worst](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins), they'll even point out that the worst have no *choice* but [to be indie](https://genius.com/The-notorious-big-kick-in-the-door-lyrics#:~:text=THE%20MAD%20RAPPER%3A%20YouknowhatI%27ms%2D%2D%3F,a%20dime%20yet)! Which might seem cruel… until you realize that the opposite— a movement that's *kind* to artists, like indie rock— must necessarily be cruel to *audiences*.
+
+The best 1% of artists want to appeal to the 99% of audiences who *don't* care to support artists. Meanwhile the 1% of audiences want to support the worst 99% of artists. The 1% of audiences and worst 99% of artists have the most time to devote. So this isn't a fair fight, at first.
+
+But the 99% of audiences have the upper hand because they can simply… leave. Modern audiences have countless substitutes. Which 
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -183,7 +187,7 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corpora
 
 Which explains why *Yearling's Bobtail*, my "[*Ulysses* of rock albums](https://www.yearlingsbobtail.com/7-m/?annotation=42)," remains ignored by the indie camp… In my perpetual insecurity as an outsider, I'd set out to create a work of art whose objective creativity *can't* be disputed— only to find that this is the *last* thing a gatekeeper who's "one of us" should want!
 
-It's no surprise, then, that history's most creative works were often backed by those with the [*least* prior experience](https://youtu.be/AClN5X0eEvI) in the arts. Let's face it, a good partner takes pride in doing great business, *not* in recognizing great art. Now with BYCombo, you can once again find one to back you.
+It's no surprise, then, that history's most creative works were often backed by those with the [*least* qualification](https://youtu.be/AClN5X0eEvI) to do so. Let's face it, a good partner takes pride in doing great business, *not* in knowing great art. Now with BYCombo, you can once again find one to back you.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
@@ -285,7 +289,7 @@ While indie labels do care about the bottom line, it isn't to *make* money; it's
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *just* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male gatekeepers can only try to be more inclusive in whom they accept as their own.
 
-Yet their belated push for diversity strictly helps women, not minorities— not *male* minorities, anyway. Because while all minorities struggle with stereotypes of [low warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women struggle solely with stereotypes of low competence. And social justice only fixes misperceptions of competence; each of us is allowed to feel more warmly toward some than others.
+Yet their belated push for diversity strictly helps women, not minorities— not *male* minorities, anyway. Because while all minorities struggle with stereotypes of [low warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women struggle solely with stereotypes of low competence. And social justice only fixes misperceptions of competence; people are allowed to feel more warmly toward some than others.
 
 Which is why we minorities have *never* begrudged a major label their profit motive! To the contrary, [making money](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.,dollar%20bill%2C%20y%27all) for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, you can once again hope to profit a business partner— rather than win over a circle of friends.
 
@@ -327,7 +331,7 @@ By contrast, the indie labels obey the people's will— which is measured by the
 
 So when the tech platforms came along, their focus on numbers made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
-In short, today's data-driven culture is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [require artists](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
+In short, today's data-driven industry is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [require artists](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Longevity remains a final frontier
 
@@ -347,15 +351,11 @@ So yes, BYCombo tells you to focus on your craft, and to join a community of oth
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. This was a far simpler explanation— and so by Occam's razor, it became accepted as the correct one.
 
 Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist can match what the major labels gave us in the '90s?! And now the majors *themselves* do things the indie way… yet this *hasn't* given us the next Nirvana or Radiohead?!
 
-But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Hey, now everything lines up! Of course, BYCombo can only get so far in proposing this far simpler explanation; to gain acceptance, interdependence still needs strong advocates. So how about it? Will you join with the Bobtail Yearlings and be a Galileo of music?
+But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Hey, now everything lines up! Of course, BYCombo can only get so far in proposing this far simpler explanation; to gain acceptance, it still needs strong advocates. So how about it? Will you join with the Bobtail Yearlings and be a Galileo of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
