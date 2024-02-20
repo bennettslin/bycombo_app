@@ -198,14 +198,14 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
 ${'  ' || `
-// TODO: Revise. Make points about difference between indie and interdependent mindsets.
-
-The best artists don't resent middlemen, they respect them— the best among them, anyway. They understand that the best make the job look easier than it is.
+// TODO: Review a few more times.
 `}
 
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the Bizarro way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
 And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few artists enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a dream of those who would otherwise be *middlemen*, not artists!
+
+Let's face it, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Besides, if you're one of the best, then you also get your pick of the best partners. We [learned all this](https://study.com/academy/lesson/division-of-labor-text-lessons-test.html) in middle school!
 
 Sadly, young people never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, and so I've *only* ever dreamt of having one job as an artist— seeing that it's the only way to make the best art! Now with BYCombo, this dream can be yours as well.
 
