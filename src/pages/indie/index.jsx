@@ -205,7 +205,7 @@ To help artists cut out the middleman, indie rock provides them with tools to do
 
 And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few would enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a dream of those who would otherwise be *middlemen*, not artists!
 
-Let's be honest, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best, then you also get your pick of the best partners. We [learned all this](https://study.com/academy/lesson/division-of-labor-text-lessons-test.html) in middle school!
+Let's be honest, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you also get your pick of the best partners. We [learned all this](https://study.com/academy/lesson/division-of-labor-text-lessons-test.html) in middle school!
 
 Sadly, young people never question the auto-Bizarro world that music has become, since it's all they've ever known. But I came of age *before* indie rock took over, and so I've *only* ever dreamt of having one job as an artist— seeing that it's the only way to make the best art! Now with BYCombo, this dream can be yours as well.
 
@@ -289,7 +289,7 @@ The issue is that these labels are run by society's most privileged groups— an
 
 Yet their belated push for diversity strictly helps women, not minorities— not *male* minorities, anyway. Because while all minorities struggle with stereotypes of [low warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women struggle solely with stereotypes of low competence. And social justice only fixes misperceptions of competence; people are allowed to feel more warmly toward some than others.
 
-Let's face it, camaraderie is just cronyism when you're an outsider— which is why we minorities *don't* begrudge business partners their profit motive! To the contrary, [making money](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.,dollar%20bill%2C%20y%27all) for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Thankfully, with BYCombo, this ticket can now be yours once again.
+Let's face it, camaraderie looks like cronyism when you're an outsider— which is why we minorities *don't* begrudge business partners their profit motive! To the contrary, [making money](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.,dollar%20bill%2C%20y%27all) for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Thankfully, with BYCombo, this ticket can now be yours once again.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
