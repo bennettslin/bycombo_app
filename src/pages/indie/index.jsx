@@ -155,7 +155,7 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
-In the '90s, the indie labels and curators stayed close to their local scenes, making them both "in the know" and "one of us." And this holds true today, even as everything has moved online: What they like is what others like us have liked, which means it's what *we'll* like. What's not to like? Yet according to science… it's in our human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
+In the '90s, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And this holds true today, even as everything has moved online: What they like is what others like us have liked, which means it's what *we'll* like. What's not to like? Yet according to science… it's in our human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those "in the know" pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -219,7 +219,7 @@ Musk wanted *everyone* to have an audience, not just those verified under "legac
 
 Yet this misses the point, doesn't it? Once access to an audience is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. If anything, the strongest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
 
-Still, there's hope: While Millennials were encouraged to be active creators from day one, Gen Z reverted to being passive consumers in the Internet's more stable years. As with Boomers and Gen X, then, Gen Z's artists relate to the audience *first*— having been an audience first themselves— and so they *don't* feel served by indie rock's efforts to "democratize" music.
+Still, there's hope: While Millennials were encouraged to be active creators from day one, Gen Z reverted to being passive consumers in the Internet's more stable years. As with Boomers and Gen X, then, Gen Z's artists relate to the *audience* foremost— having been an audience first *themselves*— and so they *don't* feel served by indie rock's "democratization" of music.
 
 Instead, they yearn to receive— and thus send!— honest signals once again. But how? Why, through BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
@@ -264,7 +264,7 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 ### ${++sectionCounter}. Formalized camaraderie is cronyism
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Flow into last paragraph still seems off. The point of cronyism is still kind of not really there. Maybe improve title.
 `}
 
 While indie labels do care about the bottom line, it isn't to *make* money; it's simply to ensure that they're not *losing* it. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love? Well…
