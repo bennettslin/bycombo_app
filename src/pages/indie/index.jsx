@@ -67,27 +67,27 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Democratization is cruel to the audience
+### ${++sectionCounter}. Democratization turns signals into noise
 
 ${'  ' || `
-// TODO: Keep on working on. Maybe consider if this is really just another paragraph in commodified signals section. The only big point I want to make is that the artist serves the audience, and the audience can leave.
+// TODO: Keep working on.
 
-Move back after commodified signals and before future minds.
+Watch Rick Beato and response videos?
 
-The modern audience has substitutes.
+Move back to after mutual reliance section.
 
-Occupy's "We are the 99%"
+First paragraph: Talk more about it being the audience who benefits from verification?
 
-* Bypassing the middleman doesn't just put the work on the artist
-    * It also puts the work on the audience
-    * Trying to figure out who's worth hearing from is work
+Last paragraph: Make good points. Gatekeepers unload work onto the audience.
 `}
 
-Hey, you know who *doesn't* want every artist to have an audience? Rappers! Not only do the best of them [mock the worst](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins), they'll even point out that the worst have no *choice* but [to be indie](https://genius.com/The-notorious-big-kick-in-the-door-lyrics#:~:text=THE%20MAD%20RAPPER%3A%20YouknowhatI%27ms%2D%2D%3F,a%20dime%20yet)! Which might seem cruel… until you realize that the opposite— a movement that's *kind* to artists, like indie rock— must necessarily be cruel to *audiences*.
+Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk added the blue checkmark to paid accounts, I saw them argue that he missed the point of verification— which made me chuckle!
 
-The best 1% of artists want to appeal to the 99% of audiences who *don't* care to support artists. Meanwhile the 1% of audiences want to support the worst 99% of artists. The 1% of audiences and worst 99% of artists have the most time to devote. So this isn't a fair fight, at first.
+Musk wanted *everyone* to have an audience, not just the [old guard](https://twitter.com/elonmusk/status/1587498907336118274)— so he made all the same perks available to *anyone*, for a monthly fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to get heard, not just those "verified" by a label— and so they encourage the use of online tools that cost nothing more than the grunt work put in.
 
-But the 99% of audiences have the upper hand because they can simply… leave. Modern audiences have countless substitutes. Which 
+Yet this misses the point, doesn't it? Once access to an audience is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the strongest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
+
+Still, there's good news! Modern audiences have countless substitutes; once the gatekeepers start taking them for granted by making them do all the work, they'll quietly leave. like… BYCombo! After all, what's a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -205,9 +205,9 @@ To help artists cut out the middleman, indie rock provides them with tools to do
 
 And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few would enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a dream of those who would otherwise be *middlemen*, not artists!
 
-Let's be honest, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you also get your pick of the best partners. We [learned all this](https://study.com/academy/lesson/division-of-labor-text-lessons-test.html) in middle school!
+Let's be honest, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We learned [all this](https://study.com/academy/lesson/division-of-labor-text-lessons-test.html) in middle school!
 
-Sadly, young people never question the auto-Bizarro world that music has become, since it's all they've ever known. But I came of age *before* indie rock took over, and so I've *only* ever dreamt of having one job as an artist— seeing that it's the only way to make the best art! Now with BYCombo, this dream can be yours as well.
+Sadly, young people never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, and so I've *only* ever dreamt of having one job as an artist— seeing that it's the only way to make the best art! Now with BYCombo, this dream can be yours as well.
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
@@ -215,7 +215,7 @@ Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/231
 
 Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys the same goodwill. Now, this *would* be fitting— if indie artists only made music for their *own* fulfillment.
 
-But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.pewresearch.org/short-reads/2014/08/25/in-search-of-libertarians) of this belief.
+But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to suck it up and try harder. But with BYCombo, there's now an opposition party that upholds the interdependence you want— out of respect for your craft.
 
@@ -228,16 +228,6 @@ The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-
 Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can one day become, the past proves that rock can be interdependent once again!
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until business partners finally reciprocate the courage to team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
-
-### ${++sectionCounter}. Commodified signals lose their honesty
-
-Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk added the blue checkmark to paid accounts, I saw them argue that he missed the point of verification— which made me chuckle!
-
-Musk wanted *everyone* to have an audience, not just the [old guard](https://twitter.com/elonmusk/status/1587498907336118274)— so he made all the same perks available to *anyone*, for a monthly fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to get heard, not just those "verified" by a label— and so they encourage the use of online tools that cost nothing more than the grunt work put in.
-
-Yet this misses the point, doesn't it? Once access to an audience is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the strongest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
-
-So if you aspire to be *most* worthy, where do you go from here? Why, you can join a BYCombo band! After all, what's a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -289,7 +279,7 @@ The issue is that these labels are run by society's most privileged groups— an
 
 Yet their belated push for diversity strictly helps women, not minorities— not *male* minorities, anyway. Because while all minorities struggle with stereotypes of [low warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women struggle solely with stereotypes of low competence. And social justice only fixes misperceptions of competence; people are allowed to feel more warmly toward some than others.
 
-Let's face it, camaraderie looks like cronyism when you're an outsider— which is why we minorities *don't* begrudge business partners their profit motive! To the contrary, [making money](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.,dollar%20bill%2C%20y%27all) for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Thankfully, with BYCombo, this ticket can now be yours once again.
+Let's face it, camaraderie looks like cronyism when you're an outsider— which is why we minorities *don't* begrudge business partners their profit motive! To the contrary, [making money](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.,dollar%20bill%2C%20y%27all) for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
