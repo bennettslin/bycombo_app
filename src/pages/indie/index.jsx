@@ -301,11 +301,15 @@ Yet underdog movements will never go away— because to be seen as an underdog i
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
 
-By contrast, the indie labels obey the people's will— which is measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and then all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is to simply trust the numbers! And for this, the indies get praised as the "good guys."
+By contrast, the indie labels obey the people's will— which is measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and then all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is simply to trust the numbers! And for this, the indies get praised as the "good guys."
 
 So when the tech platforms came along, their focus on numbers made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
@@ -337,7 +341,7 @@ But let's swap "Sun" and "Earth" in this model: What if the indie way… actuall
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
-"Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. Why is this?
+"Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is *this* generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. Why is this?
 
 It's because we really only pine for past artists who self-sacrificed to advance the art form. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a classic sign of being exploited.
 
