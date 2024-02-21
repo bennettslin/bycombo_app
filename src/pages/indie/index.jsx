@@ -67,28 +67,6 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Democratization turns signals into noise
-
-${'  ' || `
-// TODO: Keep working on.
-
-Watch Rick Beato and response videos?
-
-Move back to after mutual reliance section.
-
-First paragraph: Talk more about it being the audience who benefits from verification?
-
-Last paragraph: Make good points. Gatekeepers unload work onto the audience.
-`}
-
-Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying on Twitter. So when Elon Musk added the blue checkmark to paid accounts, I saw them argue that he missed the point of verification— which made me chuckle!
-
-Musk wanted *everyone* to have an audience, not just the [old guard](https://twitter.com/elonmusk/status/1587498907336118274)— so he made all the same perks available to *anyone*, for a monthly fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to get heard, not just those "verified" by a label— and so they encourage the use of online tools that cost nothing more than the grunt work put in.
-
-Yet this misses the point, doesn't it? Once access to an audience is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the strongest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
-
-Still, there's good news! Modern audiences have countless substitutes; once the gatekeepers start taking them for granted by making them do all the work, they'll quietly leave. like… BYCombo! After all, what's a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
-
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -189,7 +167,7 @@ It's no surprise, then, that history's most creative works were often backed by 
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
-In the past, artists lacked all means to engage with the public on their own, freeing them to explore at will. But today, indie artists build a fanbase from day one, leaving them reluctant to experiment for fear of losing their fans.
+In the past, artists lacked all means to engage with the public on their own, freeing them to explore at will. But today, indie artists build a fanbase from the get-go, leaving them reluctant to experiment for fear of losing their fans.
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this creates an echo chamber! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
@@ -201,11 +179,11 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the Bizarro way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
+To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the Bizarro way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
 And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few would enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a dream of those who would otherwise be *middlemen*, not artists!
 
-Let's be honest, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We learned [all this](https://study.com/academy/lesson/division-of-labor-text-lessons-test.html) in middle school!
+Let's be clear, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We learned [all this](https://study.com/academy/lesson/division-of-labor-text-lessons-test.html) in middle school!
 
 Sadly, young people never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, and so I've *only* ever dreamt of having one job as an artist— seeing that it's the only way to make the best art! Now with BYCombo, this dream can be yours as well.
 
@@ -228,6 +206,22 @@ The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-
 Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can one day become, the past proves that rock can be interdependent once again!
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until business partners finally reciprocate the courage to team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
+
+### ${++sectionCounter}. Democratization drowns signals in noise
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by giving the blue checkmark to paid accounts, I saw them argue that he missed the point: "Verification exists to serve the *audience*." Which made me chuckle!
+
+Musk wanted *everyone* to have an audience, not just those verified under "legacy" criteria— so he made the same perks available to *anyone*, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing, other than the grunt work put in.
+
+Yet this misses the point, doesn't it? Once access to an audience is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. If anything, the strongest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
+
+Still, there's hope: While Millennials were encouraged to be active creators from day one, Gen Z reverted to being passive consumers in the Internet's more stable years. As with Boomers and Gen X, then, Gen Z's artists are loyal to the *audience*— having been an audience first themselves— which means indie rock's efforts to "democratize" music fail to serve *them*.
+
+Instead, they yearn to receive— and thus send!— honest signals once again. But how? Why, through BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -279,7 +273,7 @@ The issue is that these labels are run by society's most privileged groups— an
 
 Yet their belated push for diversity strictly helps women, not minorities— not *male* minorities, anyway. Because while all minorities struggle with stereotypes of [low warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women struggle solely with stereotypes of low competence. And social justice only fixes misperceptions of competence; people are allowed to feel more warmly toward some than others.
 
-Let's face it, camaraderie looks like cronyism when you're an outsider— which is why we minorities *don't* begrudge business partners their profit motive! To the contrary, [making money](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.,dollar%20bill%2C%20y%27all) for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
+Let's face it, camaraderie sure looks like cronyism if you're an outsider— which is why we minorities *don't* begrudge business partners their profit motive! To the contrary, [making money](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.,dollar%20bill%2C%20y%27all) for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
