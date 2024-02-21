@@ -155,9 +155,13 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
-In the '90s, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And this holds true today, even as everything has moved online: What they like is what others like us have liked, which means it's what *we'll* like. What's not to like? Yet according to science… it's in our human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
+${'  ' || `
+// TODO: Review.
+`}
 
-Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those "in the know" pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
+In the '90s, the indie gatekeepers stayed close to their local scenes, making them both in the know and "one of us." And this holds true today, even as everything has moved online: What they like is what others like us have liked, which means it's what *we'll* like. What's not to like? Yet according to science… it's in our human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
+
+Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
 Which explains why *Yearling's Bobtail*, my "[*Ulysses* of rock albums](https://www.yearlingsbobtail.com/7-m/?annotation=42)," remains ignored by the indie camp… In my perpetual insecurity as an outsider, I'd set out to create a work of art whose objective creativity *can't* be disputed— only to find that this is the *last* thing a gatekeeper who's "one of us" should want!
 
@@ -211,11 +215,11 @@ ${'  ' || `
 
 Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by giving the blue checkmark to paid accounts, I saw them argue that he missed the point: Verification actually serves the *audience*. Which made me chuckle!
 
-Musk wanted *everyone* to have an audience, not just those verified under "legacy" criteria— so he made the same perks available to *anyone*, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing more than the grunt work put in.
+Musk wanted *everyone* to have an audience, not just those verified under legacy criteria— so he made the same perks available to *anyone*, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing more than the grunt work put in.
 
-Yet this misses the point, doesn't it? Once verification is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); the audience can no longer assume that those who have it are worth hearing from. If anything, the loudest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
+Yet this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); the audience can no longer assume that those who have it are worth hearing from. If anything, the loudest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
 
-Still, there's hope: While Millennials were encouraged to be active creators from day one, Gen Z reverted to being passive consumers in the Internet's more stable years. As with Boomers and Gen X, then, Gen Z's artists relate to the *audience* foremost— having been an audience first *themselves*— and so they *don't* feel served by indie rock's democratization of music.
+Still, there's hope: While Millennials were encouraged to be active creators from day one, Gen Z reverted to being passive consumers in the Internet's more stable years. As with Boomers and Gen X, then, Gen Z's artists relate to the *audience* foremost— having been an audience first *themselves*— and so they *don't* feel served by indie rock's "democratization" of music.
 
 Instead, they yearn to receive— and thus send!— honest signals once again. But how? Why, through BYCombo! Because what can be a more honest way to verify your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
