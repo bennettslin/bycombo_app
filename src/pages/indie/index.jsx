@@ -213,13 +213,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by giving the blue checkmark to paid accounts, I saw them argue that he missed the point: "Verification exists to serve the *audience*." Which made me chuckle!
+Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by giving the blue checkmark to paid accounts, I saw them argue that he missed the point: "Hey Elon, verification serves the *audience*." Which made me chuckle!
 
 Musk wanted *everyone* to have an audience, not just those verified under "legacy" criteria— so he made the same perks available to *anyone*, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing, other than the grunt work put in.
 
 Yet this misses the point, doesn't it? Once access to an audience is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. If anything, the strongest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
 
-Still, there's hope: While Millennials were encouraged to be active creators from day one, Gen Z reverted to being passive consumers in the Internet's more stable years. As with Boomers and Gen X, then, Gen Z's artists are loyal to the *audience*— having been an audience first themselves— which means indie rock's efforts to "democratize" music fail to serve *them*.
+Still, there's hope: While Millennials were encouraged to be active creators from day one, Gen Z reverted to being passive consumers in the Internet's more stable years. As with Boomers and Gen X, then, Gen Z's artists relate to the audience *first*— having been an audience first themselves— and so they *don't* feel served by indie rock's efforts to "democratize" music.
 
 Instead, they yearn to receive— and thus send!— honest signals once again. But how? Why, through BYCombo! Because what can be a more honest signal of your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
