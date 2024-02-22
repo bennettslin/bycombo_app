@@ -179,7 +179,7 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corpora
 
 Which explains why *Yearling's Bobtail*, my "[*Ulysses* of rock albums](https://www.yearlingsbobtail.com/7-m/?annotation=42)," remains ignored by the indie camp… In my perpetual insecurity as an outsider, I'd set out to create a work of art whose objective creativity *can't* be disputed— only to find that this is the *last* thing a gatekeeper who's "one of us" should want!
 
-It's no surprise, then, that history's most creative works were often backed by those who were [*least* in the know](https://youtu.be/AClN5X0eEvI). Let's face it, a good partner takes pride in doing great business, *not* in knowing great art. Now with BYCombo, you can once again find one to back you.
+It's no surprise, then, that history's most creative works were often backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their genre. Let's face it, the best partners take pride in doing good business, *not* in knowing great art— and now with BYCombo, you can find one to back you once more.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
@@ -227,13 +227,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by giving the blue checkmark to paid accounts, I saw them argue that he missed the point: "Hey Elon, verification doesn't serve *us*— it serves the *audience*. Take them for granted, and they'll quietly leave." Which made me chuckle!
+Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by giving the blue checkmark to paid accounts, I saw them argue that he missed the point: "Hey Elon, verification serves the *audience*— not us. Take them for granted, and they'll just leave." Which made me chuckle!
 
 Musk wanted *everyone* to have a voice, not just those verified under legacy criteria— so he made the same perks available to *anyone*, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing more than the grunt work put in.
 
-Yet this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); the audience can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! But in turn, the audience can just [quietly leave](https://youtu.be/Ag4iFa6E_yY)…
+But this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); the audience can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! Yet the audience, in turn, can [just leave](https://youtu.be/Ag4iFa6E_yY)…
 
-Still, there's hope: While Millennials were encouraged to be active creators from day one, Gen Z reverted to being passive consumers when the Internet consolidated in later years. As with Boomers and Gen X, then, Gen Z's artists relate to the *audience* foremost— having been an audience first *themselves*— and so they *don't* feel served by indie rock's "democratization" of music.
+Still, there's hope: While Millennials were encouraged to be active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated in later years. As with Boomers and Gen X, then, Gen Z's artists relate to the *audience* foremost— having been an audience first *themselves*— and so they *don't* feel served by indie rock's "democratization" of music.
 
 Instead, they yearn to receive— and thus send!— honest signals once again. But how? Why, through BYCombo! Because what more can verify your worth, than that you sacrificed a serious chunk of lifetime to earn it?
 
@@ -277,10 +277,6 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 ### ${++sectionCounter}. Formalized camaraderie is cronyism
 
-${'  ' || `
-// TODO: Review.
-`}
-
 While indie labels do care about the bottom line, it isn't to *make* money; it's simply to ensure that they're not *losing* it. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *just* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male gatekeepers can only try to be more inclusive in whom they accept as their own.
@@ -302,10 +298,6 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands like yours surpass mine. The solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
@@ -351,11 +343,11 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. This was a far simpler explanation— and so by Occam's razor, it became accepted as the correct one.
+To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became circles. This was a much simpler explanation— so by Occam's razor, it became accepted as the correct one.
 
 Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist can match what the major labels gave us in the '90s?! And now the majors *themselves* do things the indie way… yet this *hasn't* given us the next Nirvana or Radiohead?!
 
-But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art *worse*? Now everything lines up! Yet BYCombo can only get so far in proposing this far simpler explanation, since the indie camp will resist it; to gain acceptance, it still needs advocates. So how about it? Will you join with the Bobtail Yearlings and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) of music?
+But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art *worse*? Whoa— everything lines up now! Still, the indie camp will oppose this much simpler explanation— so BYCombo won't get far by just proposing it. To gain acceptance, it still needs advocates. How about it, then? Will you join with the Bobtail Yearlings and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
@@ -363,7 +355,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-"Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is *this* generation's Nirvana. Of course, we can't— because this generation never got a Nirvana of their own. Why is this?
+"Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is *this* generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. Why is this?
 
 It's because we really only pine for past artists who self-sacrificed to advance the art form. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a classic sign of being exploited.
 
@@ -371,7 +363,7 @@ Yet self-empowerment comes with its own set of problems. For one, it's just [sel
 
 Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation only get settled at the *end*. To save rock, then, we *need* to make way for bands who'll self-sacrifice to advance the art form. In other words, after Empowerment… comes the Age of Martyrdom.
 
-Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give this generation their own Nirvana *now*!
+Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give this generation a Nirvana of their own!
 `,
         }}
     />
