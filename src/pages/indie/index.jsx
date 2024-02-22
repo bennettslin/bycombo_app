@@ -213,7 +213,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by giving the blue checkmark to paid accounts, I saw them argue that he missed the point: Verification actually serves the *audience*. Which made me chuckle!
+Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by giving the blue checkmark to paid accounts, I saw them argue that he missed the point: Verification is meant to serve the *audience*. Which made me chuckle!
 
 Musk wanted *everyone* to have a voice, not just those verified under legacy criteria— so he made the same perks available to *anyone*, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing more than the grunt work put in.
 
@@ -221,7 +221,7 @@ Yet this misses the point, doesn't it? Once "verification" is trivial to attain,
 
 Still, there's hope: While Millennials were encouraged to be active creators from day one, Gen Z reverted into passive consumers during the Internet's later consolidation. As with Boomers and Gen X, then, Gen Z's artists relate to the *audience* foremost— having been an audience first *themselves*— and so they *don't* feel served by indie rock's "democratization" of music.
 
-Instead, they yearn to receive— and thus send!— honest signals once again. But how? Why, through BYCombo! Because what more can verify your worth, than that you sacrificed a serious chunk of lifetime to earn it?
+Instead, they yearn to receive— and thus send!— honest signals once again. But how? Why, through BYCombo! Because what else can verify your worth, but that you sacrificed a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -341,7 +341,11 @@ But let's swap "Sun" and "Earth" in this model: What if the indie way… actuall
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
-"Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is *this* generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. Why is this?
+${'  ' || `
+// TODO: Review.
+`}
+
+"Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is *this* generation's Nirvana. Of course, we can't— because this generation never got a Nirvana of their own. Why is this?
 
 It's because we really only pine for past artists who self-sacrificed to advance the art form. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a classic sign of being exploited.
 
@@ -349,7 +353,7 @@ Yet self-empowerment comes with its own set of problems. For one, it's just [sel
 
 Worst of all, self-empowered artists will never *start* a revolution, because the means to fair compensation only get settled at the *end*. To save rock, then, we *need* to make way for bands who'll self-sacrifice to advance the art form. In other words, after Empowerment… comes the Age of Martyrdom.
 
-Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. Are you ready to join a movement of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then BYCombo is here to give this generation their Nirvana *now*!
+Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give this generation their own Nirvana *now*!
 `,
         }}
     />
