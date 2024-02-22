@@ -71,6 +71,18 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Logistical innovation isn't noteworthy
+
+${'  ' || `
+// TODO: Keep working on.
+
+Move to before longevity section.
+`}
+
+It's often mentioned that the evolution of the piano allowed Beethoven to compose works of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's rarely mentioned that the invention of lithography allowed his scores to be sold to the middle class. Which is to say, music historians find technology interesting only when it advances the art form— not the supply chain.
+
+Millennials seem to have bet that their legacy will be all about how indie artists took advantage of online distribution; this bet is probably a losing one.
+
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -221,11 +233,11 @@ Once in a while, I'll get over my dislike of social media to see what the indie 
 
 Musk wanted *everyone* to have a voice, not just those verified under legacy criteria— so he made the same perks available to *anyone*, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing more than the grunt work put in.
 
-Yet this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); the audience can no longer assume that those who have it are worth hearing from. If anything, the loudest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worth being signified!
+Yet this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); the audience can no longer assume that those who have it are worth hearing from. If anything, the loudest signals will now be sent by the *least* worthy— since they alone can fully invest in the signal itself, rather than in the worthiness being verified!
 
 Still, there's hope: While Millennials were encouraged to be active creators from day one, Gen Z reverted into passive consumers during the Internet's later consolidation. As with Boomers and Gen X, then, Gen Z's artists relate to the *audience* foremost— having been an audience first *themselves*— and so they *don't* feel served by indie rock's "democratization" of music.
 
-Instead, they yearn to receive— and thus send!— honest signals once again. But how? Why, through BYCombo! Because what else can verify your worth, but that you sacrificed a serious chunk of lifetime to earn it?
+Instead, they yearn to receive— and thus send!— honest signals once again. But how? Why, through BYCombo! Because what can verify your worthiness better than having sacrificed a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -337,11 +349,15 @@ So yes, BYCombo tells you to focus on your craft, and to join a community of oth
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
+${'  ' || `
+// TODO: Review.
+`}
+
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became near circles. This was a far simpler explanation— and so by Occam's razor, it became accepted as the correct one.
 
 Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist can match what the major labels gave us in the '90s?! And now the majors *themselves* do things the indie way… yet this *hasn't* given us the next Nirvana or Radiohead?!
 
-But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Hey, now everything lines up! Of course, BYCombo can only get so far in proposing this far simpler explanation; to gain acceptance, it still needs strong advocates. So how about it? Will you join with the Bobtail Yearlings and be a Galileo of music?
+But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art *worse*? Hey, everything lines up! Yet the indie camp will still resist this far simpler explanation, so BYCombo can only get so far in proposing it; to gain acceptance, it needs strong advocates. How about it, then? Will you join with the Bobtail Yearlings and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
