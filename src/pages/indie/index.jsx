@@ -76,12 +76,14 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: Keep working on.
 
+Future historians will not care that the Internet afforded new ways of promotion and distribution.
+
 Move to before longevity section.
 `}
 
 It's often mentioned that the evolution of the piano allowed Beethoven to compose works of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's rarely mentioned that the invention of lithography allowed his scores to be sold to the middle class. Which is to say, music historians find technology interesting only when it advances the art form— not the supply chain.
 
-Millennials seem to have bet that their legacy will be all about how indie artists took advantage of online distribution; this bet is probably a losing one.
+So in betting that history will care how online distribution revolutionized the way artists can be heard, indie rock has probably lost.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -107,11 +109,11 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
-In the past, the only artists we said we "supported" were amateurs, recluses, the mentally ill… Yet today's fans use the term to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with high-minded endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
+In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we said we "supported" were amateurs, recluses, the mentally ill… Yet today's fans use the term to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with high-minded endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a supreme advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
 
-So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of [their own](https://en.wikipedia.org/wiki/Outsider_music): All their charitable impulses went toward defending the *least* helpless!
+So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the *least* helpless!
 
 And yet, this obviously can't end well. We don't "support" artists of the past— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
@@ -357,7 +359,7 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 
 Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist can match what the major labels gave us in the '90s?! And now the majors *themselves* do things the indie way… yet this *hasn't* given us the next Nirvana or Radiohead?!
 
-But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art *worse*? Hey, everything lines up! Yet the indie camp will still resist this far simpler explanation, so BYCombo can only get so far in proposing it; to gain acceptance, it needs strong advocates. How about it, then? Will you join with the Bobtail Yearlings and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) of music?
+But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art *worse*? Hey, everything lines up! Yet BYCombo can only get so far in proposing this far simpler explanation, since the indie camp will resist it; to gain acceptance, it still needs advocates. So how about it? Will you join with the Bobtail Yearlings and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
