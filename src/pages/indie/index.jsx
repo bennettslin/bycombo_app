@@ -13,7 +13,11 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 # ${TITLE}
 
-By the '90s, the major labels no longer nurtured their bands; they'd simply sign hundreds of no-names to unfair contracts, hoping for a superstar or two to break out. But the indie labels held to fair practices by only signing artists empowered enough *not* to need a label in the first place. A decade later, the majors imploded— so indie rock won! Except now…
+${'  ' || `
+// TODO: Review.
+`}
+
+By the '90s, the major labels no longer nurtured their bands; they'd simply sign hundreds of no-names to unfair contracts, hoping for a superstar or two to break out. But the indie labels held to fair practices by only signing artists empowered enough *not* to need a label to begin with. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -271,7 +275,7 @@ While indie labels do care about the bottom line, it isn't to *make* money; it's
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *just* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male gatekeepers can only try to be more inclusive in whom they accept as their own.
 
-Yet their belated push for diversity strictly helps women, not minorities— not *male* minorities, anyway. Because while all minorities struggle with stereotypes of [low warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women struggle solely with stereotypes of low competence. And social justice only fixes misperceptions of competence; people are allowed to feel more warmly toward some than others.
+Yet their belated push for diversity strictly helps women, not minorities— not *male* minorities, anyway. Because while all minorities struggle with stereotypes of [low warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women struggle solely with stereotypes of low competence. And social justice only fixes misperceptions of competence; people have every right to feel more warmly toward some than others.
 
 Which is why we minorities *don't* begrudge business partners their profit motive! To the contrary, [making money](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.,dollar%20bill%2C%20y%27all) for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
 
