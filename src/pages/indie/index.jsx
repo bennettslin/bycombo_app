@@ -227,15 +227,15 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by giving the blue checkmark to paid accounts, I saw them argue that he missed the point: "Hey Elon, verification serves the *audience*— not us. Take them for granted, and they'll just leave." Which made me chuckle!
+Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by giving the blue checkmark to paid accounts, I saw them argue that he missed the point: "Hey Elon, verification serves the *audience*— not us. Take them for granted, and they'll leave." Which made me chuckle!
 
 Musk wanted *everyone* to have a voice, not just those verified under legacy criteria— so he made the same perks available to *anyone*, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing more than the grunt work put in.
 
-But this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); the audience can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! Yet the audience, in turn, can [just leave](https://youtu.be/Ag4iFa6E_yY)…
+Yet this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); the audience can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy— who can just invest in the signal itself, rather than in the worth being verified! Except… the audience, in turn, can [just leave](https://youtu.be/Ag4iFa6E_yY)…
 
-Still, there's hope: While Millennials were encouraged to be active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated in later years. As with Boomers and Gen X, then, Gen Z's artists relate to the *audience* foremost— having been an audience first *themselves*— and so they *don't* feel served by indie rock's "democratization" of music.
+But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated in later years. As with Boomers and Gen X, then, Gen Z's artists relate to the *audience* foremost— having been an audience first *themselves*— which means they *don't* feel served by indie rock's "democratization" of music.
 
-Instead, they yearn to receive— and thus send!— honest signals once again. But how? Why, through BYCombo! Because what more can verify your worth, than that you sacrificed a serious chunk of lifetime to earn it?
+Instead, they long to receive— and thus send!— honest signals once again. Well, now they can, by leaving… for BYCombo! Because what better way to verify your worth, than by sacrificing a serious chunk of lifetime to earn it?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
