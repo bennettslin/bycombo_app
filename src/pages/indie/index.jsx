@@ -231,11 +231,11 @@ Once in a while, I'll get over my dislike of social media to see what the indie 
 
 Musk wanted *everyone* to have a voice, not just those verified under legacy criteria— so he made the same perks available to *anyone*, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing more than the grunt work put in.
 
-But this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! So should it surprise us if the [audience leaves](https://youtu.be/Ag4iFa6E_yY)?
+But this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! Should it surprise us, then, if the [audience leaves](https://youtu.be/Ag4iFa6E_yY)?
 
-Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate to the *audience* foremost— having been an audience first *themselves*— and so they *don't* feel served by indie rock's "democratization" of music.
+Yet there's hope: While Millennials were active creators from day one, Gen Z reverted into passive consumers once the Internet consolidated. So as with Boomers and Gen X, Gen Z's artists relate to the *audience* foremost— having been an audience first *themselves*— which means they *don't* feel served by indie rock's "democratization" of music.
 
-Instead, they long to receive— and thus send!— honest signals once more. But can they? Yes, by leaving… for BYCombo! Because what better way to verify your worth, than to sacrifice a serious chunk of lifetime for it?
+Instead, they long to receive— and thus send!— honest signals once more. But can they? Yes! By leaving… for BYCombo. Because what better way to verify your worth is there, than sacrificing a serious chunk of lifetime for it?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
