@@ -317,7 +317,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-It's often mentioned that the evolution of the piano allowed Beethoven to compose works of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). However, it's rarely mentioned that the invention of lithography allowed his scores to be bought by a growing middle class. Which is to say, music historians find technology noteworthy only when it advances the *art* form— not the *supply* chain.
+It's often mentioned that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's rarely mentioned that the invention of lithography allowed his scores to be sold to the middle class. Which is to say, music historians find technology interesting only when it advances the *art form*— not the *supply chain*.
 
 Unlike what the indie camp seems to believe, then, history *won't* care how the Internet allowed artists to market and distribute their own works. But it *might* care how BYCombo allowed them to form bands with unprecedented lineups. So come explore one of music's final frontiers— by having a dancer, puppeteer, or even manager as your bandmate!
 
