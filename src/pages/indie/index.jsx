@@ -213,11 +213,11 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by taking away their blue checkmarks and giving it to paid accounts, I saw them argue that he missed the point: "Hey Elon, verification serves the *audience*, not us; don't be surprised if they leave." Which made me chuckle!
+Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by taking away their blue checkmarks and giving it to paid accounts, I saw them argue that he missed the point: "Hey Elon, verification serves the *audience*, not us; don't be surprised to see them leave." Which made me chuckle!
 
 Musk wanted *everyone* to have a voice, not just those verified under legacy criteria— so he made the same perks available to anyone, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing more than the grunt work put in.
 
-But this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! Should we be surprised, then, if the [audience leaves](https://youtu.be/Ag4iFa6E_yY)?
+But this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! Should we be surprised, then, to see the [audience leave](https://youtu.be/Ag4iFa6E_yY)?
 
 Yet there's hope: While Millennials were active creators from day one, Gen Z reverted into passive consumers once the Internet consolidated. So as with Boomers and Gen X, Gen Z's artists relate to the *audience* foremost— having been an audience first *themselves*— which means they *don't* feel served by indie rock's "democratization" of music.
 
@@ -269,7 +269,7 @@ The issue is that these labels are run by society's most privileged groups— an
 
 Yet their belated push for diversity strictly helps women, not minorities— not *male* minorities, anyway. Because while all minorities struggle with stereotypes of [low warmth](https://en.wikipedia.org/wiki/Stereotype_content_model), women struggle solely with stereotypes of low competence. And social justice only fixes misperceptions of competence; people have every right to feel more warmly toward some than others.
 
-Which is why we minorities *don't* begrudge business partners their profit motive! To the contrary, [making money](https://genius.com/Wu-tang-clan-cream-lyrics#:~:text=Cash%20rules%20everything%20around%20me%0AC.R.E.A.M.,dollar%20bill%2C%20y%27all) for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
+Which is why we minorities *don't* begrudge business partners their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
