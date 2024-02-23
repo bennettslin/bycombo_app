@@ -177,9 +177,9 @@ In the '90s, the indie gatekeepers stayed close to their local scenes, making th
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Which explains why *Yearling's Bobtail*, my "[*Ulysses* of rock albums](https://www.yearlingsbobtail.com/7-m/?annotation=42)," remains ignored by the indie camp… In my perpetual insecurity as an outsider, I'd set out to create a work of art whose objective creativity *can't* be disputed— only to find that this is the *last* thing a gatekeeper who's "one of us" should want!
+Which explains why *Yearling's Bobtail*, my "[*Ulysses* of rock albums](https://www.yearlingsbobtail.com/7-m/?annotation=42)," remains ignored by the indie camp… In my perpetual insecurity as an outsider, I'd set out to create a work of art whose objective creativity can't be disputed— only to find that this is the *last* thing a gatekeeper who's "one of us" should want!
 
-It's no surprise, then, that history's most creative works were often backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their genre. Let's face it, the best partners take pride in doing good business, *not* in knowing great art— and now with BYCombo, you can find one to back you once more.
+It's no surprise, then, that history's pioneering works were often backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their respective genres. Let's face it, the best partners take pride in doing good business, *not* in knowing great art— and now with BYCombo, you can find one to back you once more.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
@@ -227,15 +227,15 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by taking the blue checkmark away from them and giving it to paid accounts, I saw them argue that he missed the point: "Hey Elon, verification serves the *audience*, not us— so don't be surprised if they leave." Which made me chuckle!
+Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by taking away their blue checkmarks and giving it to paid accounts, I saw them argue that he missed the point: "Hey Elon, verification serves the *audience*, not us— so don't be surprised if they leave." Which made me chuckle!
 
-Musk wanted *everyone* to have a voice, not just those verified under legacy criteria— so he made the same perks available to *anyone*, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing more than the grunt work put in.
+Musk wanted *everyone* to have a voice, not just those verified under legacy criteria— so he made the same perks available to anyone, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing more than the grunt work put in.
 
-But this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! Should it then surprise us if the [audience leaves](https://youtu.be/Ag4iFa6E_yY)?
+But this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! Should we be surprised, then, if the [audience leaves](https://youtu.be/Ag4iFa6E_yY)?
 
 Yet there's hope: While Millennials were active creators from day one, Gen Z reverted into passive consumers once the Internet consolidated. So as with Boomers and Gen X, Gen Z's artists relate to the *audience* foremost— having been an audience first *themselves*— which means they *don't* feel served by indie rock's "democratization" of music.
 
-Instead, they long to receive— and thus send!— honest signals once more. But can they? Yes! By leaving… for BYCombo. Because what better way to verify your worth is there, than to sacrifice a serious chunk of lifetime for it?
+Instead, they long to receive— and thus send!— honest signals once more. But can they? Yes, by leaving… for BYCombo! Because what better way to verify your worth, than to sacrifice a serious chunk of lifetime for it?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -347,7 +347,7 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 
 Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist can match what the major labels gave us in the '90s?! And now the majors *themselves* do things the indie way… yet this *hasn't* given us the next Nirvana or Radiohead?!
 
-But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art *worse*? Whoa— everything lines up now! Still, the indie camp will oppose this much simpler explanation— so BYCombo won't get far by just proposing it. To gain acceptance, it still needs advocates. How about it, then? Will you join with the Bobtail Yearlings and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) of music?
+But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Whoa— everything lines up now! Still, the indie camp will oppose this much simpler explanation— so BYCombo won't get far by just proposing it. To gain acceptance, it still needs advocates. How about it, then? Will you join with the Bobtail Yearlings and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
