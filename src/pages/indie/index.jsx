@@ -77,7 +77,7 @@ Future historians will not care that the Internet afforded new ways of promotion
 Move to before longevity section.
 `}
 
-It's often mentioned that the evolution of the piano allowed Beethoven to compose works of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's rarely mentioned that the invention of lithography allowed his scores to be sold to the middle class. Which is to say, music historians find technology interesting only when it advances the art form— not the supply chain.
+It's often mentioned that the evolution of the piano allowed Beethoven to compose works of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). However, it's rarely mentioned that the invention of lithography allowed his scores to be bought by a growing middle class. Which tells us: Music historians find technology interesting only when it advances the art form— not the supply chain.
 
 So in betting that history will care how online distribution revolutionized the way artists can be heard, indie rock has probably lost.
 
@@ -87,7 +87,7 @@ In the '90s, "indie" referred to bands like Pavement, who *never* signed to a ma
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
-For example, even after Goatse proved that the Internet caters to the lowest common denominator… indie rock concluded that bands who go viral *aren't* just the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars… this was taken as proof that artists *don't* benefit from a [major label deal](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=You%20could%20argue,kind%20of%20exposure%3F)?!
+For example, even after Goatse proved that the Internet caters to the lowest common denominator… indie rock concluded that bands who go viral *aren't* just the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars… this was taken as proof that artists [*don't* benefit](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=You%20could%20argue,kind%20of%20exposure%3F) from a major label deal?!
 
 In every early example of online success, chance or privilege clearly played a role. Yet the indie pundits were so eager to "own" the major labels, they downplayed this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public just assumes their music is no good!
 
@@ -115,7 +115,7 @@ And yet, this obviously can't end well. We don't "support" artists of the past�
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
-We all respect those ['80s indie bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
+We all respect those '80s indie bands who came up from the [local scenes](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
 In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
 
