@@ -29,7 +29,7 @@ If so, then come be part of the interdependence revolution! We're looking for th
 
 * A rock musician: singer, guitarist, drummer…
 * A musician of any other stripe: composer, tabla player…
-* An artist of some other medium: dancer, web developer…
+* An artist of some other medium: illustrator, web developer…
 
 ### How you'll form a band
 
@@ -57,7 +57,7 @@ As a rock movement started by [a minority](/indie#hungry-outsiders-aim-for-the-c
 
 **Artists of other mediums:**
 
-One final frontier in the arts is for bands to explore new combinations of different mediums. Which means you play a crucial role in bringing forth this century's canonical works!
+One final frontier in the arts is for bands to explore [new combinations](/indie#logistical-innovation-isnt-noteworthy) of different mediums. Which means you play a crucial role in bringing forth this century's canonical works!
 
 **International artists:**
 
