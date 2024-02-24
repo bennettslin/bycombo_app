@@ -13,7 +13,11 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 # ${TITLE}
 
-By the '90s, the major labels no longer nurtured their bands; they'd simply sign hundreds of no-names to unfair contracts, hoping for a superstar or two to break out. But the indie labels held to fair practices by only signing artists empowered enough *not* to need a label in the first place. A decade later, the majors imploded— so indie rock won! Except now…
+${'  ' || `
+// TODO: Review.
+`}
+
+By the '90s, the major labels no longer nurtured their bands; they'd simply sign hundreds of no-names to unfair contracts, hoping for a superstar to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so indie rock won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -79,16 +83,6 @@ In every early example of online success, chance or privilege clearly played a r
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the major labels did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it nurses no grievances.
 
-### ${++sectionCounter}. Cultural chauvinism can only be justified
-
-Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
-
-So I've long understood that, to belong in the canon next to the Beatles,  my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
-
-Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! So they're *not* helping to justify calling ours *the* rock canon… in which case, why would they belong in *the* Rock Hall?
-
-Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
-
 ### ${++sectionCounter}. Charitable support starts an arms race
 
 In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we said we "supported" were amateurs, recluses, the mentally ill… Yet today's fans use the term to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with high-minded endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
@@ -129,6 +123,20 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 
 So to make history without achieving stardom, ignore the critics! Instead, your talents must inspire the envy of fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
+### ${++sectionCounter}. Cultural chauvinism can only be justified
+
+${'  ' || `
+// TODO: Review new location.
+`}
+
+Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
+
+So I've long understood that, to belong in the canon next to the Beatles,  my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
+
+Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! So they're *not* helping to justify calling ours *the* rock canon… in which case, why would they belong in *the* Rock Hall?
+
+Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+
 ### ${++sectionCounter}. Timeless works have standalone appeal
 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
@@ -155,7 +163,11 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
-In the '90s, the indie gatekeepers stayed close to their local scenes, making them both in the know and "one of us." And this holds true today, even as everything has moved online: What they like is what others like us have liked, which means it's what *we'll* like. What's not to like? Yet according to science… it's in our human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
+${'  ' || `
+// TODO: Review.
+`}
+
+In the '90s, the indie gatekeepers stayed close to their local scenes, making them both in the know and "one of us." And this holds true today, even as everything has moved online: What they like is simply what others like us have liked, which means it's what *we'll* like. Yet according to science… it's in our human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -215,9 +227,9 @@ Musk wanted *everyone* to have a voice, not just those verified under legacy cri
 
 But this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! Should it surprise us, then, to see the [audience leave](https://youtu.be/Ag4iFa6E_yY)?
 
-Yet there's hope: While Millennials were active creators from day one, Gen Z reverted into passive consumers once the Internet consolidated. So as with Boomers and Gen X, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*— which means they *don't* feel served by indie rock's "democratization" of music.
+Yet there's hope: Unlike Millennials, who were active creators from day one, Gen Z reverted into passive consumers once the Internet consolidated. As a result, today's artists relate foremost to the *audience*— having first been an audience *themselves*— and so they *don't* feel served by indie rock's push to "democratize" music.
 
-Instead, they long to receive— and thus send!— honest signals once again. But how? Why, by leaving… for BYCombo! Because what better way to verify your worth, than by sacrificing a serious chunk of lifetime for it?
+Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving… for BYCombo! Because what better way to verify your worth, than by sacrificing a serious chunk of lifetime?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -239,7 +251,7 @@ Yet despite the poor fit, indie rock sure is eager of late to hand us the reins!
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to rely on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
+Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
@@ -289,7 +301,7 @@ Like indie rock, poptimism lets the underdog triumph over any outsiders— even 
 
 This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-Yet underdog movements will never go away, because to be seen as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But so long as artists like you are hungry enough to work much harder, to be much better… then BYCombo is here to stay as well.
+Yet underdog movements will never go away, because to be seen as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as artists like you are hungry enough to work much harder, to be much better… then BYCombo is here to stay as well.
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
@@ -305,7 +317,11 @@ In short, today's data-driven industry is what the [*indie* camp wanted](https:/
 
 ### ${++sectionCounter}. Logistical innovation isn't noteworthy
 
-It's often mentioned that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's rarely mentioned that the invention of lithography allowed his scores to be sold to the middle class. Which is to say, music historians find technology interesting only when it advances the *art form*— not the *supply chain*.
+${'  ' || `
+// TODO: Review.
+`}
+
+It's often mentioned that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's rarely mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians find technology interesting only when it advances the *art form*— not the *supply chain*.
 
 Unlike what the indie camp seems to believe, then, history *won't* care how the Internet allowed artists to market and distribute their own works. But it *might* care how BYCombo allowed them to form bands with unprecedented lineups. So come explore one of rock's final frontiers— by having a dancer, puppeteer, or even manager as your bandmate!
 
@@ -327,11 +343,15 @@ So yes, BYCombo tells you to focus on your craft, and to join a community of oth
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
+${'  ' || `
+// TODO: Review.
+`}
+
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became circles. This was a much simpler explanation— so by Occam's razor, it became accepted as the correct one.
 
 Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist can match what the major labels gave us in the '90s?! And now the majors *themselves* do things the indie way… yet this *hasn't* given us the next Nirvana or Radiohead?!
 
-But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Whoa— everything lines up now! Still, the indie camp will oppose this much simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence needs advocates. Will you join with the Bobtail Yearlings, then, and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) of music?
+But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this much simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
