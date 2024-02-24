@@ -209,7 +209,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by taking away their blue checkmarks and giving it to paid accounts, I saw them argue that he missed the point: "Hey Elon, verification serves the *audience* first; don't be surprised now if they leave." Which made me chuckle!
+Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by taking away their blue checkmarks and giving it to paid accounts, I saw them argue that he missed the point: "Hey Elon, verification serves the *audience*; don't be surprised now if they leave." Which made me chuckle!
 
 Musk wanted *everyone* to have a voice, not just those verified under legacy criteria— so he made the same perks available to anyone, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing more than the grunt work put in.
 
@@ -217,7 +217,7 @@ But this misses the point, doesn't it? Once "verification" is trivial to attain,
 
 Yet there's hope: While Millennials were active creators from day one, Gen Z reverted into passive consumers once the Internet consolidated. So as with Boomers and Gen X, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*— which means they *don't* feel served by indie rock's "democratization" of music.
 
-Instead, they long to receive— and thus send!— honest signals once more. But how? By leaving… for BYCombo, that's how! Because what better way to verify your worth, than to sacrifice a serious chunk of lifetime for it?
+Instead, they long to receive— and thus send!— honest signals once again. But how? Why, by leaving… for BYCombo! Because what more can verify your worth, than to sacrifice a serious chunk of lifetime for it?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -307,7 +307,7 @@ In short, today's data-driven industry is what the [*indie* camp wanted](https:/
 
 It's often mentioned that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's rarely mentioned that the invention of lithography allowed his scores to be sold to the middle class. Which is to say, music historians find technology interesting only when it advances the *art form*— not the *supply chain*.
 
-Unlike what the indie camp seems to believe, then, history *won't* care how the Internet allowed artists to market and distribute their own works. But it *might* care how BYCombo allowed them to form bands with unprecedented lineups. So come explore one of music's final frontiers— by having a dancer, puppeteer, or even manager as your bandmate!
+Unlike what the indie camp seems to believe, then, history *won't* care how the Internet allowed artists to market and distribute their own works. But it *might* care how BYCombo allowed them to form bands with unprecedented lineups. So come explore one of rock's final frontiers— by having a dancer, puppeteer, or even manager as your bandmate!
 
 ### ${++sectionCounter}. Longevity remains a final frontier
 
