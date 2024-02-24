@@ -14,10 +14,10 @@ const Component = ({ sectionCounter = 0 }) => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Revise. The notion of the major labels not "nurturing" their bands is left dangling, since the indies clearly don't do so either.
+// TODO: Review.
 `}
 
-By the '90s, the major labels no longer nurtured their bands; they'd simply sign hundreds of no-names to unfair contracts, hoping for a superstar to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so indie rock won! Except now…
+By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a superstar to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -125,10 +125,6 @@ So to make history without achieving stardom, ignore the critics! Instead, your 
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
-${'  ' || `
-// TODO: Review new location.
-`}
-
 Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://en.wikipedia.org/wiki/Visual_kei). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles,  my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
@@ -229,7 +225,7 @@ But this misses the point, doesn't it? Once "verification" is trivial to attain,
 
 Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. For this reason, today's artists once again empathize with the *audience*— having first been an audience *themselves*— and so they *don't* celebrate indie rock's push to "democratize" music.
 
-Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving… for BYCombo! Because what can better verify your worth, than to have sacrificed a serious chunk of lifetime?
+Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving… for BYCombo! Because what can better verify your worth, than sacrificing a serious chunk of lifetime?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
