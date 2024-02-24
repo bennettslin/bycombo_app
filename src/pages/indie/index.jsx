@@ -14,7 +14,7 @@ const Component = ({ sectionCounter = 0 }) => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. The notion of the major labels not "nurturing" their bands is left dangling, since the indies clearly don't do so either.
 `}
 
 By the '90s, the major labels no longer nurtured their bands; they'd simply sign hundreds of no-names to unfair contracts, hoping for a superstar to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so indie rock won! Except now…
@@ -221,15 +221,15 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by taking away their blue checkmarks and giving it to paid accounts, I saw them argue that he missed the point: "Hey Elon, verification serves the *audience*; don't be surprised now if they leave." Which made me chuckle!
+Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by taking away their blue checkmarks and giving it to paid accounts, I saw them argue that he missed the point: "Hey Elon, verification benefits the *audience*." And then they threatened to leave… Which made me chuckle!
 
 Musk wanted *everyone* to have a voice, not just those verified under legacy criteria— so he made the same perks available to anyone, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing more than the grunt work put in.
 
 But this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! Should it surprise us, then, to see the [audience leave](https://youtu.be/Ag4iFa6E_yY)?
 
-Yet there's hope: Unlike Millennials, who were active creators from day one, Gen Z reverted into passive consumers once the Internet consolidated. As a result, today's artists relate foremost to the *audience*— having first been an audience *themselves*— and so they *don't* feel served by indie rock's push to "democratize" music.
+Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. For this reason, today's artists once again empathize with the *audience*— having first been an audience *themselves*— and so they *don't* celebrate indie rock's push to "democratize" music.
 
-Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving… for BYCombo! Because what better way to verify your worth, than by sacrificing a serious chunk of lifetime?
+Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving… for BYCombo! Because what can better verify your worth, than to have sacrificed a serious chunk of lifetime?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
