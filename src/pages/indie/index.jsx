@@ -13,7 +13,11 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 # ${TITLE}
 
-By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a superstar to break out. But the indie labels held to fair practices by only signing artists who already *had* a fanbase, and who were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
+${'  ' || `
+// TODO: Review.
+`}
+
+By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to exploitative contracts, hoping for a superstar to break out. But the indie labels held to fair practices by only signing artists who already *had* a fanbase, and who were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -159,7 +163,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the '90s, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And this holds true today, even as the scenes have moved online: What they like is what others like us have liked, which means it's what *we'll* like. What's not to like? Well… it's just that… according to science, our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
+In the '90s, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And this holds true today, even as the scenes have moved online: What they like is what others like us have liked, which means it's what *we'll* like. What's not to like? Well… just that… according to science, it's in our human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -286,26 +290,30 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 ### ${++sectionCounter}. Countercultures shelter a generation's losers
 
 ${'  ' || `
-// TODO: Keep working on. All ideas are there, just ensure they're coherent and flow smoothly.
+// TODO: Review a few more times.
 `}
 
-Rappers love to bash the "[wack MC](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they'll simply dismiss you as a hobbyist if you don't hustle— a plain assessment of what you *do*.
+Rappers love to bash the "[wack MC](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they'll simply dismiss you as a hobbyist if you don't hustle— a clear-cut assessment of what you *do*.
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), *every* culture creates a status hierarchy of its own. This means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they *largely* match up. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
-Which is a problem, because Radiohead… were the ultimate hobbyists, who'd never hustled in their lives! Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they did, to no confusion, being so little known as they were in their local scene. So the *next* Radiohead… has *no* chance to get past the indie gatekeepers!
+Which is a problem, because Radiohead… were the ultimate hobbyists, who'd never hustled in their lives! Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they did, to no confusion, as they were so little known in their local scene. Yet the *next* On a Friday… has *no* chance to get past the indie gatekeepers!
 
-But couldn't *we* lift them to the top, proactively? No. As Marx explains, every status hierarchy is self-reinforcing: Those at the top have the will and the way to stay there. So the losers at the bottom have only one recourse: to leave and start a counterculture. And we should *want* them to do so, since today's losers might become [tomorrow's winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27). It's happened before!
+Well, couldn't *we* lift them up, proactively? No. As Marx explains, a status hierarchy is self-reinforcing: Those at the top have the will and the way to stay there. So the losers at the bottom have only one recourse: to leave and start a counterculture. And we should wish them well, since today's losers might become [tomorrow's winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27). It's happened before!
 
-Because indie rock enjoys such goodwill, however, a counterculture has yet to emerge: "Why counter the good guys?" Luckily, as this century's biggest loser, I've been plotting to start one for a while! Now with BYCombo, you too can hope to be the next Radiohead— by devoting all your time and energy to the craft, and none toward the hustle.
+But because indie rock enjoys such goodwill, a counterculture has yet to arise: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead— by devoting all your time and energy to the craft, and none toward the hustle.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
+
+${'  ' || `
+// TODO: Review.
+`}
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that suppressed a previous culture founded by outsiders. While the former defeated the classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's Eastern European immigrants.
 
-Like indie rock, poptimism lets the underdog triumph over any outsiders— even those hungry enough to work much harder, to be much better. But this means the underdog *isn't* the best of their times… in which case, they'll also need to be *remembered* as an underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
+Like indie rock, poptimism lets the underdog triumph over any outsiders— even those hungry enough to work much harder, to be much better. But this means the underdog *isn't* the best of their times… in which case, they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
@@ -356,14 +364,12 @@ But let's swap "Sun" and "Earth" in this model: What if the indie way… actuall
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
 ${'  ' || `
-// TODO: Revise second paragraph? It doesn't make connection to the next Nirvana.
-
-What makes a past artist one to pine for is that they self-sacrificed to advance the art form.
+// TODO: Review.
 `}
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
 
-It's because we pine for past artists who self-sacrificed to advance the art form. But indie rock is here to *save* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, indie artists today demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a classic sign of being exploited.
+It's because the past artists we pine for— that *future* audiences will pine for— are those who self-sacrificed to advance the art form. But indie rock *saves* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a sign of being exploited.
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.theguardian.com/music/2019/feb/14/the-ryan-adams-allegations-are-the-tip-of-an-indie-music-iceberg), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, in a decentralized system, artists with this trait hold the *advantage*— so how are *they* the underdogs?
 
