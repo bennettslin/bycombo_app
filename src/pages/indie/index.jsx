@@ -17,7 +17,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to exploitative contracts, hoping for a superstar to break out. But the indie labels held to fair practices by only signing artists who already *had* a fanbase, and who were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
+By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a superstar to break out. But the indie labels held to fair practices by only signing artists who already *had* a fanbase, and who were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -95,9 +95,13 @@ And yet, this obviously can't end well. We don't "support" artists of the past�
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
+${'  ' || `
+// TODO: Review.
+`}
+
 We all respect those '80s indie bands who came up from the [local scenes](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply lucked out and won the virtual lottery.
 
-In those days, lottery players would sign lopsided deals with a major label, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
+In those days, lottery players would sign unfair contracts with major labels, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
 
 Yet according to the indie labels and pundits… this is as it should be! Because ultimately, their main concern is for artists to be chosen by the people, *not* by the elite— and what are recommendation algorithms, if not the new word of mouth? The grassroots, in essence, is still very much a *populist* domain.
 
@@ -163,7 +167,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the '90s, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And this holds true today, even as the scenes have moved online: What they like is what others like us have liked, which means it's what *we'll* like. What's not to like? Well… just that… according to science, it's in our human nature to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
+In the past, the indie gatekeepers stayed close to the local scenes, making them both "in the know" and "one of us." And this holds true today, even as the scenes have moved online: What they like is what others like us have liked, which means it's what *we'll* like. What's not to like? Well… just that… according to science, our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -172,10 +176,6 @@ Which is why *Yearling's Bobtail*, my "[*Ulysses* of rock albums](https://www.ye
 It's no surprise, then, that history's pioneering works were often backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their respective genres. Let's face it, the best partners take pride in doing good business, *not* in knowing great art— and now with BYCombo, you can find one to back you once again.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
-
-${'  ' || `
-// TODO: Review.
-`}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. And this explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
@@ -290,24 +290,20 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 ### ${++sectionCounter}. Countercultures shelter a generation's losers
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise third paragraph. Could be in a better order.
 `}
 
-Rappers love to bash the "[wack MC](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they'll simply dismiss you as a hobbyist if you don't hustle— a clear-cut assessment of what you *do*.
+Rappers love to bash the "[wack MC](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they'll simply dismiss you as a hobbyist if you don't hustle— a plain assessment of what you *do*.
 
-Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), *every* culture creates a status hierarchy of its own. This means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they *largely* match up. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
+Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), *every* culture creates a status hierarchy of its own. This means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they *seem* to match up. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
-Which is a problem, because Radiohead… were the ultimate hobbyists, who'd never hustled in their lives! Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they did, to no confusion, as they were so little known in their local scene. Yet the *next* On a Friday… has *no* chance to get past the indie gatekeepers!
+Which is a problem, because Radiohead were the ultimate hobbyists, who'd never hustled in their lives! Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they did, to no confusion, as they were so little known in their local scene. Yet the *next* On a Friday… has *no* chance to get past the indie gatekeepers!
 
 Well, couldn't *we* lift them up, proactively? No. As Marx explains, a status hierarchy is self-reinforcing: Those at the top have the will and the way to stay there. So the losers at the bottom have only one recourse: to leave and start a counterculture. And we should wish them well, since today's losers might become [tomorrow's winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27). It's happened before!
 
-But because indie rock enjoys such goodwill, a counterculture has yet to arise: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead— by devoting all your time and energy to the craft, and none toward the hustle.
+But because indie rock enjoys such goodwill, a counterculture has yet to arise: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by devoting all your time and energy to the craft— and none toward the hustle.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
