@@ -167,7 +167,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the past, the indie gatekeepers stayed close to the local scenes, making them both "in the know" and "one of us." And this holds true today, even as the scenes have moved online: What they like is what others like us have liked, which means it's what *we'll* like. What's not to like? Well… just that… according to science, our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
+In the past, the indie gatekeepers stayed close to the local scenes, making them both "in the know" and "one of us." And this holds true today, even as music has moved online: What they like is what others like us have liked, which means it's what *we'll* like. What's not to like? Well… just that… according to science, our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -290,7 +290,10 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 ### ${++sectionCounter}. Countercultures shelter a generation's losers
 
 ${'  ' || `
-// TODO: Revise third paragraph. Could be in a better order.
+// TODO: Revise.
+
+Third paragraph. Could be in a better order.
+Fourth paragraph. Make clear how counterculture shelters them.
 `}
 
 Rappers love to bash the "[wack MC](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they'll simply dismiss you as a hobbyist if you don't hustle— a plain assessment of what you *do*.
