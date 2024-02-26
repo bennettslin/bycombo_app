@@ -221,7 +221,7 @@ But this misses the point, doesn't it? Once "verification" is trivial to attain,
 
 Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*— which means they *don't* side with indie rock's push to "democratize" music.
 
-Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving for BYCombo— and sacrificing a serious chunk of lifetime! Because what can be a better way to verify your worth? Seriously… I'm not asking rhetorically. *Is* there any other way at this point?
+Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving for BYCombo— and sacrificing a serious chunk of lifetime! Because what's a better way to verify your worth? Seriously, I'm not asking rhetorically… At this point, *is* there any other way?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
