@@ -158,6 +158,8 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 ${'  ' || `
 // TODO: Revise.
 
+First paragraph, make it more like, and now they offer the same assurance online.
+
 Third paragraph should make clear that the ones who don't want creativity is us.
 `}
 
@@ -212,18 +214,22 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 ### ${++sectionCounter}. Democratization drowns signals in noise
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise.
+
+First paragraph: Make sure new points flow well.
+
+Fourth paragraph, nail down an eloquent way to say the same point. Maybe break down into shorter sentences.
 `}
 
-Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by taking away their blue checkmarks and giving it to paid accounts, I saw them argue that he missed the point: "Hey Elon, verification benefits the *audience*." Then they debated whether to leave… Which made me chuckle!
+Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by taking away their blue checkmarks and giving it to paid accounts, I saw them argue that he missed the point: Verification serves the *audience*— who might easily leave Twitter for another option. Which made me chuckle!
 
 Musk wanted *everyone* to have a voice, not just those verified under legacy criteria— so he made the same perks available to anyone, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing more than the grunt work put in.
 
-But this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! And is unworthy music any [harder to leave](https://youtu.be/Ag4iFa6E_yY) than Twitter is?
+But this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! Yet given other options, is music all that [hard to leave](https://youtu.be/Ag4iFa6E_yY)?
 
-Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*— and so they *don't* side with indie rock's push to "democratize" music.
+Still, there's hope: While Millennials started out as active creators, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*— and so they *don't* side with indie rock's push to "democratize" music.
 
-Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving… for BYCombo! Because to sacrifice a serious chunk of lifetime isn't just the *best* way to verify your worth— at this point, it's likely the *only* way.
+Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving… for BYCombo! Because to sacrifice a serious chunk of lifetime isn't just the *best* way to verify your worth— at this point, it might be the *only* way.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
