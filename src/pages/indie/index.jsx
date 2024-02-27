@@ -209,17 +209,21 @@ Indie artists work hard *not* to need a label, and will do so even [when signed]
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until business partners finally reciprocate the courage to team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
-### ${++sectionCounter}. Democratization drowns signals in noise
+### ${++sectionCounter}. Democratization creates noise pollution
 
-Once in a while, I'll get over my dislike of social media to see what the indie pundits are saying. So when Elon Musk ["democratized" Twitter](https://twitter.com/elonmusk/status/1587498907336118274) by taking away their blue checkmarks and giving it to paid accounts, I saw them argue that he missed the point: "Hey Elon, verification serves the *audience*— who won't find it hard to leave." Which made me chuckle!
+${'  ' || `
+// TODO: Review a few more times. Maybe repeat idea of pollution in fourth paragraph?
+`}
 
-Musk wanted *everyone* to have a voice, not just those verified under legacy criteria— so he made the same perks available to anyone, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing more than the grunt work put in.
+Elon Musk wanted *everyone* to have a voice, not just those verified under Twitter's [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274)— so he made the blue checkmark available to any paid account. The indie camp hoped to "democratize" music the same way: They wanted *every* artist to be heard, not just those "verified" by a label— so they promoted the use of online tools that only take some grunt work.
 
-But this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game): We can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! At this point, what audience would find it [hard to leave](https://youtu.be/Ag4iFa6E_yY)?
+But once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game): We can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! So music has become "polluted" by dishonest signaling— forcing the [audience to leave](https://youtu.be/Ag4iFa6E_yY).
 
-Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*— which means they *don't* side with indie rock's push to democratize music.
+Pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest, and thus it can *only* be solved through top-down regulation. Yet indie rock is defined by its faith that *all* desired changes will emerge from the grassroots— bottom up— through artists and labels acting independently. Hence the name!
 
-Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving for BYCombo— and sacrificing a serious chunk of lifetime! Because what can be a better way to verify your worth? Seriously… I'm not being rhetorical. At this point, *is* there any other way?
+But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*— which means they *don't* side with indie rock's push to democratize music.
+
+Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving for BYCombo… and sacrificing a serious chunk of lifetime! Because what can be a better way to verify your worth? Seriously— that's not a rhetorical question. *Is* there any other way?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
