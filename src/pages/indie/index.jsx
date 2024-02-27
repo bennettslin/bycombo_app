@@ -217,11 +217,11 @@ Once in a while, I'll get over my dislike of social media to see what the indie 
 
 Musk wanted *everyone* to have a voice, not just those verified under legacy criteria— so he made the same perks available to anyone, for a fee. Hey, you know who *else* thinks this way? The indie pundits! They want *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that cost nothing more than the grunt work put in.
 
-But this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); the audience can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! And is *anything* unworthy so [hard to leave](https://youtu.be/Ag4iFa6E_yY)?
+But this misses the point, doesn't it? Once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game): The audience can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! At this point, who'd find it [hard to leave](https://youtu.be/Ag4iFa6E_yY)?
 
 Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*— which means they *don't* side with indie rock's push to "democratize" music.
 
-Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving for BYCombo— and sacrificing a serious chunk of lifetime! Because what's a better way to verify your worth? Seriously, I'm not asking rhetorically… At this point, *is* there any other way?
+Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving for BYCombo— and sacrificing a serious chunk of lifetime! Because what's a better way to verify your worth? Seriously, that's not a rhetorical question. At this point, *is* there any other way?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
