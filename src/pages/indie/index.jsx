@@ -209,7 +209,7 @@ Indie artists work hard *not* to need a label, and will do so even [when signed]
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until business partners finally reciprocate the courage to team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
-### ${++sectionCounter}. Democratization creates noise pollution
+### ${++sectionCounter}. Democratization causes noise pollution
 
 ${'  ' || `
 // TODO: Review a few more times. Maybe repeat idea of pollution in fourth paragraph?
@@ -288,7 +288,7 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Make point somewhere that hobbyist who doesn't hustle is no different from amateur who doesn't hustle? Maybe independence section is better?
 `}
 
 Rappers love to bash the "[wack MC](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you don't hustle— a plain assessment of what you *do*.
