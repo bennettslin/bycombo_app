@@ -67,24 +67,6 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Democratization causes noise pollution
-
-${'  ' || `
-// TODO: Revise. Maybe repeat idea of pollution in fourth paragraph?
-
-After mutual reliance.
-`}
-
-Elon Musk wanted *everyone* to have a voice, not just those verified under Twitter's [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274)— so he made the blue checkmark available to any paid account. The indie camp hopes to "democratize" music the same way: They want *every* artist to be heard, not just those "verified" by a label— so they promote the use of online tools that only take some grunt work.
-
-But once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game): We can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! So music has become "polluted" by dishonest signaling— forcing the [audience to leave](https://youtu.be/Ag4iFa6E_yY).
-
-Pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest, and thus it can *only* be solved through top-down regulation. Yet indie rock is defined by its faith that *all* desired changes will emerge from the grassroots— bottom up— through artists and labels acting independently. Hence the name!
-
-But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*— which means they *don't* side with indie rock's push to democratize music.
-
-Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving for BYCombo… and sacrificing a serious chunk of lifetime! Because what can be a better way to verify your worth? Seriously— that's not a rhetorical question. *Is* there any other way?
-
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
 ${'  ' || `
@@ -215,7 +197,7 @@ In the past, artists lacked all means to engage with the public on their own, fr
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this creates an echo chamber! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet, for those perched high— or stooped low!— enough to see it.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet, for those stationed high— or low!— enough to see it.
 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
@@ -246,6 +228,22 @@ The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-
 Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can one day become, the past proves that rock can be interdependent once again!
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until business partners finally reciprocate the courage to team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
+
+### ${++sectionCounter}. Democratization causes noise pollution
+
+${'  ' || `
+// TODO: Review.
+`}
+
+Elon Musk wanted *everyone* to have a voice, not just those verified under Twitter's [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274)— so he made the blue checkmark available to any paid account. Likewise, the indie camp hopes to "democratize" music: They want *every* artist to be heard, not just those "verified" by a label— so they promote the use of online tools that merely cost some grunt work.
+
+But once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game): We can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! So music has become "polluted" by dishonest signaling— forcing the [audience to leave](https://youtu.be/Ag4iFa6E_yY).
+
+Like any [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons), pollution is caused by individual parties acting in their own self-interest; as such, it can only be solved with top-down regulation. Unfortunately, this means the indie camp will never clean up the mess they created, given their expectation for all desired changes to emerge, bottom up, from the grassroots.
+
+Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. And so, coming of age in the new pollution, they *don't* celebrate indie rock's "democratization" of music.
+
+Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving for BYCombo… and sacrificing a serious chunk of lifetime! Because what's a better way to verify your worth? Seriously— that's not a rhetorical question. *Is* there any other way?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
