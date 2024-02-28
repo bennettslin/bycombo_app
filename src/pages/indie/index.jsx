@@ -67,24 +67,6 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Creativity gets its chance from the clueless
-
-${'  ' || `
-// TODO: Revise.
-
-Having moved paragraphs around, ensure now that first through third paragraph flow in wording and logic. Second paragraph may need a bit of revision. Maybe "outsider" part isn't needed.
-
-After serendipity.
-`}
-
-In the past, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What *they* like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… it's just that… according to science, our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
-
-Which is why *Yearling's Bobtail*, my "*Ulysses* of rock albums," was ignored by the indie camp. In my perpetual insecurity as an outsider, I'd set out to make a work of art whose [objective creativity](https://www.yearlingsbobtail.com/16-cremated/?annotation=4) can't be disputed. But this is the last thing a gatekeeper who's one of *us* should want, because what *we* want— as humans— is to like what we like and simply credit *that* with being creative!
-
-Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
-
-It's no surprise, then, that history's pioneering works were often backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their respective genres. Let's face it, the best partners take pride in doing good business, *not* in knowing great art— and now with BYCombo, you can find one to back you once again.
-
 ### ${++sectionCounter}. Democratization causes noise pollution
 
 ${'  ' || `
@@ -207,7 +189,25 @@ Indie artists need to wear several hats: the promoter hat, the publicist hat… 
 
 These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking! So keep your artist hat on, and have a business partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
+### ${++sectionCounter}. Creativity gets its chance from the clueless
+
+${'  ' || `
+// TODO: Review.
+`}
+
+In the past, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What *they* like is what they know others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… it's just that… according to science, our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
+
+After *Yearling's Bobtail*, my "*Ulysses* of rock albums," was rejected by all the indie labels, I was confused: I'd set out to make a work of art whose objective creativity [can't be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4). Only later did I realize that if a gatekeeper is one of us, then this is the *last* thing they should want— because what *we* want, as humans, is to simply [define for *ourselves*](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.) what creativity means!
+
+Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
+
+It's no surprise, then, that history's pioneering works were often backed by those with the [*least* standing](https://youtu.be/AClN5X0eEvI) in their respective genres. Let's face it, the best partners take pride in doing good business, *not* in knowing great art— and now with BYCombo, you can find one to back you once again.
+
 ### ${++sectionCounter}. Modest standing leads to risk aversion
+
+${'  ' || `
+// TODO: Review.
+`}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
@@ -215,7 +215,7 @@ In the past, artists lacked all means to engage with the public on their own, fr
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this creates an echo chamber! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
+Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet, for those perched high— or stooped low!— enough to see it.
 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
