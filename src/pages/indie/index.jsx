@@ -157,7 +157,7 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 In the past, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What *they* like is what they know others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… it's just that… according to science, our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
 
-After *Yearling's Bobtail*, my "*Ulysses* of rock albums," was rejected by all the indie labels, I was confused: I'd set out to make a work of art whose objective creativity [can't be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4). Only later did I realize that if a gatekeeper is one of us, then this is the *last* thing they should want— because what *we* want, as humans, is to [define for *ourselves*](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.) what creativity means!
+After *Yearling's Bobtail*, my "*Ulysses* of rock albums," got rejected by all the indie labels, I was confused: I'd set out to make a work of art whose objective creativity [can't be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4). Only later did I realize that if a gatekeeper is one of us, then this is the *last* thing they should want— because what *we* want, as humans, is to [define for *ourselves*](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.) what creativity means!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -215,15 +215,15 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Elon Musk wanted *everyone* to have a voice, not just those verified under Twitter's [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274)— so he made the blue checkmark available to any paid account. Likewise, the indie camp hopes to "democratize" music: They want *every* artist to be heard, not just those "verified" by a label— so they promote the use of online tools that merely take some grunt work.
+Elon Musk set out to "democratize" Twitter because he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274)— so he made the blue checkmark available to any paid account. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they promote the use of online tools that merely take some grunt work.
 
-But once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game): We can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! So music has become "polluted" by dishonest signaling— forcing the [audience to leave](https://youtu.be/Ag4iFa6E_yY).
+But once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game): The audience can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! So like Twitter, music has been "polluted" by dishonest signaling.
 
-Like any [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons), pollution is caused by individual parties acting in their own self-interest; as such, it can only be solved with top-down regulation. Unfortunately, this means the indie camp will never clean up the mess they created, since their expectation is for desired changes to emerge, bottom up, from the grassroots.
+Pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest. As such, it *must* be solved with top-down planning. Unfortunately, this means the indie camp can never clean up the mess they created; their thinking is that any needed change will simply emerge, bottom up, from the grassroots.
 
-Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. And so, coming of age in the new pollution, they *don't* celebrate indie rock's "democratization" of music.
+Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*— leading them to see indie rock's "democratization" of music the same way: as a tragedy.
 
-Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving for BYCombo… and sacrificing a serious chunk of lifetime! Because what's a better way to verify your worth? Seriously— that's not a rhetorical question. *Is* there any other way?
+And so they wish to receive— and thus send!— honest signals once more. But how? Why, from the top down— through BYCombo's registry! Because what can better verify your worth, than to sacrifice a serious chunk of lifetime?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -307,11 +307,11 @@ Perhaps my arguments against indie rock seem moot now. After all, didn't [poptim
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. In the case of the former, it was the classic rock that traced its lineage to Sister Rosetta Tharpe; and in the latter, the classic pop defined by Tin Pan Alley's East European immigrants.
 
-Knowing that an outsider works much harder, to be much better, indie rock and poptimism both protect the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
+Like indie rock, poptimism *knows* that an outsider will try much harder, to be much better— and so it protects the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-Yet underdog movements will never go away, because to be seen as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as artists like you are hungry enough to work much harder, to be much better… then BYCombo is here to stay as well.
+Yet underdog movements will never go away, because to be seen as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as artists like you are hungry enough to try much harder, to be much better… then BYCombo is here to stay as well.
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
