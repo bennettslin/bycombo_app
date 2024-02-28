@@ -69,10 +69,6 @@ Here's an incomplete list of ways…
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
@@ -178,7 +174,7 @@ It's no surprise, then, that history's pioneering works were often backed by tho
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Find best way to phrase last sentence.
 `}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
@@ -225,11 +221,11 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Elon Musk wanted *everyone* to have a voice, not just those verified under Twitter's [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274)— so he made the blue checkmark available to any paid account. Likewise, the indie camp hopes to "democratize" music: They want *every* artist to be heard, not just those "verified" by a label— so they promote the use of online tools that merely cost some grunt work.
+Elon Musk wanted *everyone* to have a voice, not just those verified under Twitter's [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274)— so he made the blue checkmark available to any paid account. Likewise, the indie camp hopes to "democratize" music: They want *every* artist to be heard, not just those "verified" by a label— so they promote the use of online tools that merely take some grunt work.
 
 But once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game): We can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! So music has become "polluted" by dishonest signaling— forcing the [audience to leave](https://youtu.be/Ag4iFa6E_yY).
 
-Like any [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons), pollution is caused by individual parties acting in their own self-interest; as such, it can only be solved with top-down regulation. Unfortunately, this means the indie camp will never clean up the mess they created, given their expectation for desired changes to emerge, bottom up, from the grassroots.
+Like any [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons), pollution is caused by individual parties acting in their own self-interest; as such, it can only be solved with top-down regulation. Unfortunately, this means the indie camp will never clean up the mess they created, since their expectation is for desired changes to emerge, bottom up, from the grassroots.
 
 Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. And so, coming of age in the new pollution, they *don't* celebrate indie rock's "democratization" of music.
 
@@ -319,7 +315,7 @@ ${'  ' || `
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
-Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that suppressed a previous culture founded by outsiders. While the former defeated the classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's Eastern European immigrants.
+Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. In the case of the former, it was the classic rock that traced its lineage to Sister Rosetta Tharpe; and in the latter, the classic pop defined by Tin Pan Alley's East European immigrants.
 
 Knowing that an outsider works much harder, to be much better, indie rock and poptimism both protect the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
 
