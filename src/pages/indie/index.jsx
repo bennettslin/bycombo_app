@@ -67,6 +67,78 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Creativity gets its chance from the clueless
+
+${'  ' || `
+// TODO: Revise.
+
+Having moved paragraphs around, ensure now that first through third paragraph flow in wording and logic. Second paragraph may need a bit of revision. Maybe "outsider" part isn't needed.
+
+After serendipity.
+`}
+
+In the past, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What *they* like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… it's just that… according to science, our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
+
+Which is why *Yearling's Bobtail*, my "*Ulysses* of rock albums," was ignored by the indie camp. In my perpetual insecurity as an outsider, I'd set out to make a work of art whose [objective creativity](https://www.yearlingsbobtail.com/16-cremated/?annotation=4) can't be disputed. But this is the last thing a gatekeeper who's one of *us* should want, because what *we* want— as humans— is to like what we like and simply credit *that* with being creative!
+
+Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
+
+It's no surprise, then, that history's pioneering works were often backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their respective genres. Let's face it, the best partners take pride in doing good business, *not* in knowing great art— and now with BYCombo, you can find one to back you once again.
+
+### ${++sectionCounter}. Democratization causes noise pollution
+
+${'  ' || `
+// TODO: Review a few more times. Maybe repeat idea of pollution in fourth paragraph?
+
+After mutual reliance.
+`}
+
+Elon Musk wanted *everyone* to have a voice, not just those verified under Twitter's [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274)— so he made the blue checkmark available to any paid account. The indie camp hopes to "democratize" music the same way: They want *every* artist to be heard, not just those "verified" by a label— so they promote the use of online tools that only take some grunt work.
+
+But once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game): We can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! So music has become "polluted" by dishonest signaling— forcing the [audience to leave](https://youtu.be/Ag4iFa6E_yY).
+
+Pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest, and thus it can *only* be solved through top-down regulation. Yet indie rock is defined by its faith that *all* desired changes will emerge from the grassroots— bottom up— through artists and labels acting independently. Hence the name!
+
+But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*— which means they *don't* side with indie rock's push to democratize music.
+
+Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving for BYCombo… and sacrificing a serious chunk of lifetime! Because what can be a better way to verify your worth? Seriously— that's not a rhetorical question. *Is* there any other way?
+
+### ${++sectionCounter}. Countercultures shelter today's losers
+
+${'  ' || `
+// TODO: Revise. Make point somewhere that hobbyist who doesn't hustle is no different from amateur who doesn't hustle? Maybe independence section is better?
+
+After paid dues.
+`}
+
+Rappers love to bash the "[wack MC](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you don't hustle— a plain assessment of what you *do*.
+
+Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they *seem* to match up. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
+
+And this should concern us, because Radiohead… are the ultimate hobbyists! They've never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they did, to no confusion, as they were so little known in their local scene. Yet the *next* On a Friday has *no* chance to get past the indie gatekeepers!
+
+Well, couldn't *we* proactively lift them up? No. As Marx explains, a culture's status hierarchy is self-reinforcing: Those at the top have both the will and the way to stay there. So the losers at the bottom have only one recourse: to leave for a *counter*-culture that favors their strengths. And we should wish them well— since they just might be [tomorrow's *winners*](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
+
+But because indie rock enjoys such goodwill, a counterculture has yet to arise: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by devoting *all* your time and energy to your "hobby," the craft— and *none* toward the hustle.
+
+### ${++sectionCounter}. Underdogs are supremacists in effect
+
+${'  ' || `
+// TODO: Review.
+
+Before numbers section.
+`}
+
+Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
+
+Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that suppressed a previous culture founded by outsiders. While the former defeated the classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's Eastern European immigrants.
+
+Like indie rock, poptimism protects the underdog by stifling the public's curiosity in the competition— including any outsiders trying much harder, to be much better. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
+
+This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
+
+Yet underdog movements will never go away, because to be seen as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as artists like you are hungry enough to try much harder, to be much better… then BYCombo is here to stay as well.
+
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -153,22 +225,6 @@ Indie artists need to wear several hats: the promoter hat, the publicist hat… 
 
 These insights emerge from the unconscious mind as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always context switching— or worse, multitasking! So keep your artist hat on, and have a business partner wear the others. *You* want your art to be better than you, and so does BYCombo.
 
-### ${++sectionCounter}. Creativity gets its chance from the clueless
-
-${'  ' || `
-// TODO: Revise.
-
-Having moved paragraphs around, ensure now that first through third paragraph flow in wording and logic. Second paragraph may need a bit of revision. Maybe "outsider" part isn't needed.
-`}
-
-In the past, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What *they* like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… it's just that… according to science, our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
-
-Which is why *Yearling's Bobtail*, my "*Ulysses* of rock albums," was ignored by the indie camp. In my perpetual insecurity as an outsider, I'd set out to make a work of art whose [objective creativity](https://www.yearlingsbobtail.com/16-cremated/?annotation=4) can't be disputed. But this is the last thing a gatekeeper who's one of *us* should want, because what *we* want— as humans— is to like what we like and simply credit *that* with being creative!
-
-Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
-
-It's no surprise, then, that history's pioneering works were often backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their respective genres. Let's face it, the best partners take pride in doing good business, *not* in knowing great art— and now with BYCombo, you can find one to back you once again.
-
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
@@ -208,22 +264,6 @@ The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-
 Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can one day become, the past proves that rock can be interdependent once again!
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until business partners finally reciprocate the courage to team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
-
-### ${++sectionCounter}. Democratization causes noise pollution
-
-${'  ' || `
-// TODO: Review a few more times. Maybe repeat idea of pollution in fourth paragraph?
-`}
-
-Elon Musk wanted *everyone* to have a voice, not just those verified under Twitter's [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274)— so he made the blue checkmark available to any paid account. The indie camp hoped to "democratize" music the same way: They wanted *every* artist to be heard, not just those "verified" by a label— so they promoted the use of online tools that only take some grunt work.
-
-But once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game): We can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! So music has become "polluted" by dishonest signaling— forcing the [audience to leave](https://youtu.be/Ag4iFa6E_yY).
-
-Pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest, and thus it can *only* be solved through top-down regulation. Yet indie rock is defined by its faith that *all* desired changes will emerge from the grassroots— bottom up— through artists and labels acting independently. Hence the name!
-
-But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*— which means they *don't* side with indie rock's push to democratize music.
-
-Instead, they long to receive— and thus send!— honest signals once more. But how? Why, by leaving for BYCombo… and sacrificing a serious chunk of lifetime! Because what can be a better way to verify your worth? Seriously— that's not a rhetorical question. *Is* there any other way?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -284,38 +324,6 @@ But… suddenly indie rock's lack of helpers made perfect sense! If paid dues ar
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So the only newcomers they'll welcome are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717) of brokenness.
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands like yours surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
-
-### ${++sectionCounter}. Countercultures shelter today's losers
-
-${'  ' || `
-// TODO: Revise. Make point somewhere that hobbyist who doesn't hustle is no different from amateur who doesn't hustle? Maybe independence section is better?
-`}
-
-Rappers love to bash the "[wack MC](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you don't hustle— a plain assessment of what you *do*.
-
-Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they *seem* to match up. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
-
-And this should concern us, because Radiohead… are the ultimate hobbyists! They've never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they did, to no confusion, as they were so little known in their local scene. Yet the *next* On a Friday has *no* chance to get past the indie gatekeepers!
-
-Well, couldn't *we* proactively lift them up? No. As Marx explains, a culture's status hierarchy is self-reinforcing: Those at the top have both the will and the way to stay there. So the losers at the bottom have only one recourse: to leave for a *counter*-culture that favors their strengths. And we should wish them well— since they just might be [tomorrow's *winners*](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
-
-But because indie rock enjoys such goodwill, a counterculture has yet to arise: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by devoting *all* your time and energy to your "hobby," the craft— and *none* toward the hustle.
-
-### ${++sectionCounter}. Underdogs are supremacists in effect
-
-${'  ' || `
-// TODO: Review.
-`}
-
-Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
-
-Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that suppressed a previous culture founded by outsiders. While the former defeated the classic rock that traced its lineage to Sister Rosetta Tharpe, the latter defeated the classic pop defined by Tin Pan Alley's Eastern European immigrants.
-
-Like indie rock, poptimism protects the underdog by stifling the public's curiosity in the competition— including any outsiders trying much harder, to be much better. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
-
-This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
-
-Yet underdog movements will never go away, because to be seen as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as artists like you are hungry enough to try much harder, to be much better… then BYCombo is here to stay as well.
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
