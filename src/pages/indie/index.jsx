@@ -213,9 +213,9 @@ Elon Musk set out to "democratize" Twitter because he wanted *everyone* to have 
 
 But once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game): The audience can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy, who can just invest in the signal itself— rather than in the worth being verified! So like Twitter, music has been "polluted" by dishonest signaling.
 
-Pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest. As such, it *must* be solved with top-down planning. Unfortunately, this means the indie camp can never clean up the mess they created; their thinking is that any needed change will simply emerge, bottom up, from the grassroots.
+Pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest. As such, it *must* be solved with top-down planning. Unfortunately, this means the indie camp can never clean up the mess they created; their thinking is that needed changes will always emerge, bottom up, from the grassroots.
 
-Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*— leading them to see indie rock's "democratization" of music the same way: as a tragedy.
+Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*— leading them to side with those who see music's "democratization" as a *tragedy*.
 
 And so they wish to receive— and thus send!— honest signals once more. But how? Why, from the top down— through BYCombo's registry! Because what can better verify your worth, than to sacrifice a serious chunk of lifetime?
 
@@ -299,7 +299,7 @@ ${'  ' || `
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
-Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. In the case of the former, it was the classic rock that traced its lineage to Sister Rosetta Tharpe; and in the latter, the classic pop defined by Tin Pan Alley's East European immigrants.
+Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. In the case of the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and in the latter, the classic pop defined by Tin Pan Alley's East European immigrants.
 
 Like indie rock, poptimism *knows* that an outsider will try much harder, to be much better— and so it protects the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
 
