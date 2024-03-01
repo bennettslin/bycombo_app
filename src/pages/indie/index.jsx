@@ -67,17 +67,23 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Modern audiences just leave
+### ${++sectionCounter}. The modern audience simply leaves
 
 ${'  ' || `
-// TODO: Keep working on. Begin with sports analogy.
+// TODO: Keep working on. All ideas are in place. Just make logic and wording good.
 
 Move to after democratization.
 
-Hip hop dreams aren't so different from hoop dreams.
+Link to a rap lyric.
 `}
 
-Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*— leading them to see indie rock's "democratization" of music as a tragedy as well.
+Playing sports isn't just good for *you*; it also benefits those who *watch* you. So you should aim for an audience— but then this makes you an athlete— in which case, why can't you get paid as one? The top 1% earn millions, while the bottom 99% get nothing? How is that fair? Seriously, if the 99% were to demand that *every* athlete make a living wage, who's to stop them?
+
+I'm being silly, of course. We all know: It's the audience, that's who! They *don't* care if anyone but the top 1% of athletes get paid. So if "indie sports" were to take over as a movement, they'd simply leave. There are just too many other ways to be entertained today. Well, indie rock *did* take over— yet no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
+
+Still, there's hope: While Millennials started out as active creators, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. Which means today's pro-*artist* ways are likely a generational fluke— and *not* the future of music forever.
+
+How do we bring back the pro-*audience* ways of rock's past? Well, if music is like sports, then "hip hop dreams" are like "hoop dreams"— so the solution is to embrace hip hop's need to pick the best. Which I knew from the get-go, as a minority myself! Now with BYCombo, you can aim to be the [best band alive](https://genius.com/Lil-wayne-best-rapper-alive-lyrics) once more— even if your lyrics never say so.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -179,7 +185,7 @@ It's no surprise, then, that history's pioneering works were often backed by tho
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
-In the past, artists lacked all means to engage with the public on their own, freeing them to explore at will. But today, indie artists build a fanbase from the get-go, leaving them reluctant to experiment for fear of losing their fans.
+In the past, artists lacked all means to engage with the public on their own, freeing them to explore at will. But today, indie artists build a fanbase from day one, leaving them reluctant to experiment for fear of losing their fans.
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this creates an echo chamber! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
