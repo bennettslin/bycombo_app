@@ -67,24 +67,6 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. The modern audience simply leaves
-
-${'  ' || `
-// TODO: Keep working on. All ideas are in place. Just make logic and wording good.
-
-Move to after democratization.
-
-Link to a rap lyric.
-`}
-
-Playing sports isn't just good for *you*; it also benefits those who *watch* you. So you should aim for an audience— but then this makes you an athlete— in which case, why can't you get paid as one? The top 1% earn millions, while the bottom 99% get nothing? How is that fair? Seriously, if the 99% were to demand that *every* athlete make a living wage, who's to stop them?
-
-I'm being silly, of course. We all know: It's the audience, that's who! They *don't* care if anyone but the top 1% of athletes get paid. So if "indie sports" were to take over as a movement, they'd simply leave. There are just too many other ways to be entertained today. Well, indie rock *did* take over— yet no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
-
-Still, there's hope: While Millennials started out as active creators, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. Which means today's pro-*artist* ways are likely a generational fluke— and *not* the future of music forever.
-
-How do we bring back the pro-*audience* ways of rock's past? Well, if music is like sports, then "hip hop dreams" are like "hoop dreams"— so the solution is to embrace hip hop's need to pick the best. Which I knew from the get-go, as a minority myself! Now with BYCombo, you can aim to be the [best band alive](https://genius.com/Lil-wayne-best-rapper-alive-lyrics) once more— even if your lyrics never say so.
-
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -173,13 +155,17 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
+${'  ' || `
+// TODO: Review.
+`}
+
 In the past, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What *they* like is what they know others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… it's just that… according to science, our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
 
 After *Yearling's Bobtail*, my "*Ulysses* of rock albums," got rejected by all the indie labels, I was confused: I'd set out to make a work of art whose objective creativity [*can't* be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4). Only later did I realize that if a gatekeeper is one of *us*, then this is the *last* thing they should want— because what *we* want, as humans, is to [define for *ourselves*](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.) what creativity means!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-It's no surprise, then, that history's pioneering works were often backed by those with the [*least* standing](https://youtu.be/AClN5X0eEvI) in their respective genres. Let's face it, the best partners take pride in doing good business, *not* in knowing great art— and now with BYCombo, you can find one to back you once again.
+It's no surprise, then, that many of history's pioneering works were backed by those with the [*least* standing](https://youtu.be/AClN5X0eEvI) in their respective genres. Let's face it, the best partners take pride in doing good business, *not* in knowing great art— and now with BYCombo, you can find one to back you once again.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
@@ -193,9 +179,13 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
+${'  ' || `
+// TODO: Review.
+`}
+
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the Bizarro way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
-And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a dream of those who would otherwise be *middlemen*, not artists!
+And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a dream of those who'd otherwise be *middlemen*, not artists!
 
 Let's be clear, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We learned [all this](https://study.com/academy/lesson/division-of-labor-text-lessons-test.html) in middle school!
 
@@ -234,6 +224,20 @@ But once "verification" is trivial to attain, it ceases to be an [honest signal]
 And pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest. As such, it *must* be solved with top-down planning. Unfortunately, the indie camp *defiantly* believes that any needed change will emerge, bottom up, from the grassroots— which means they'll *never* clean up this mess they've created.
 
 So if you aspire to be *most* worthy, what's left to do? You *don't* wish to add to the noise; you'd *rather* send honest signals once more… but how? Why, from the top down, that's how— through BYCombo! Because what can better verify your worth, than to sacrifice a serious chunk of lifetime?
+
+### ${++sectionCounter}. Modern audiences quietly leave
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Playing sports benefits not just you, but also those who watch you. So it's noble to aim for an audience— making you an athlete. In which case, why can't you get paid as one? The top 1% earn millions, while the bottom 99% get nothing! How is that fair? Instead, let's empower *everyone* to make a living wage as an "indie athlete." Who'd be opposed?
+
+This is silly, of course. We all know: It's the audience, that's who! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd just quietly leave; there are plenty of other ways to be entertained nowadays. Well, indie rock *did* take over— so how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
+
+Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. Which means today's pro-*artist* slant may be a generational fluke— and *not* the future of music forever.
+
+But how do we make rock pro-*audience* again? Well, since "hip hop dreams" are the "hoop dreams" of music, we can start demanding the best, as fans of hip hop always have. So BYCombo lets you aim to be the [best band alive](https://genius.com/Lil-wayne-best-rapper-alive-lyrics) once more— even if your own lyrics never say so.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -285,7 +289,11 @@ Which is why we minorities *don't* begrudge business partners their profit motiv
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I would have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
+${'  ' || `
+// TODO: Review.
+`}
+
+Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have gladly helped to fix this broken culture— but being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
 
 So I took a coding bootcamp, and for [seven years](https://www.bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except now it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
@@ -307,7 +315,7 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 
 But Radiohead… were the ultimate hobbyists! They'd never hustled a day in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. We can be sure, then, that no indie labels back then wanted them— and the ones today are no different.
 
-Wait… so indie rock can't get smarter? Not even for art's sake? No, because every status hierarchy is self-reinforcing; those at the top have both the will and the way to stay there. This means the losers at the bottom have only one recourse: to leave for a *counter*-culture that favors *them*. And we should wish them well— since they just might be [tomorrow's *winners*](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
+Wait… so indie rock can't get smarter? Not even for art's sake? No— because every status hierarchy is self-reinforcing; those at the top have both the will and the way to stay there. This means the losers at the bottom have only one recourse: to leave for a *counter*-culture that favors *them*. And we should wish them well— since they just might be [tomorrow's *winners*](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
 
 Yet no counterculture has emerged, for obvious reasons: "Why counter the good guys?" Luckily, I may be this century's biggest loser, so I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by spending all your time and energy on the craft— your "hobby"— and none on the hustle.
 
