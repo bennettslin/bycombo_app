@@ -67,14 +67,14 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Modern audiences simply leave
+### ${++sectionCounter}. Modern audiences just leave
 
 ${'  ' || `
 // TODO: Keep working on. Begin with sports analogy.
 
 Move to after democratization.
 
-The top 1% of impactful fans are loyal to the bottom 99% of artists.
+Hip hop dreams aren't so different from hoop dreams.
 `}
 
 Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*— leading them to see indie rock's "democratization" of music as a tragedy as well.
@@ -301,7 +301,7 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 
 But Radiohead… were the ultimate hobbyists! They'd never hustled a day in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. We can be sure, then, that no indie labels back then wanted them— and the ones today are no different.
 
-Wait… why can't indie rock get smarter, for art's sake? It's because every status hierarchy is self-reinforcing; those at the top have both the will and the way to stay there. So the losers at the bottom have only one recourse: to leave for a *counter*-culture that favors *them*. And we should wish them well— since they just might be [tomorrow's *winners*](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
+Wait… so indie rock can't get smarter? Not even for art's sake? No, because every status hierarchy is self-reinforcing; those at the top have both the will and the way to stay there. This means the losers at the bottom have only one recourse: to leave for a *counter*-culture that favors *them*. And we should wish them well— since they just might be [tomorrow's *winners*](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
 
 Yet no counterculture has emerged, for obvious reasons: "Why counter the good guys?" Luckily, I may be this century's biggest loser, so I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by spending all your time and energy on the craft— your "hobby"— and none on the hustle.
 
