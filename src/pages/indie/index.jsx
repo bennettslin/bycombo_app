@@ -67,7 +67,7 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Modern audiences quietly leave
+### ${++sectionCounter}. A modern audience quietly leaves
 
 ${'  ' || `
 // TODO: Review a few more times.
@@ -235,7 +235,7 @@ But this creates its own problems, doesn't it? Once "verification" is easy to at
 
 To complicate matters, pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest— which means it *must* be solved with top-down planning. But the indie camp's thinking is bottom up; under their watch, change can only happen at the grassroots. And so they'll *never* clean up this mess they've created…
 
-What's left to do, then, if you aspire to be *most* worthy? You'd rather send honest signals again… but how? Why, from the top down, that's how— with BYCombo! Because what more can verify your worth, than to sacrifice a serious chunk of lifetime?
+What's left to do, then, if you aspire to be *most* worthy? You'd like to send honest signals again… but how? Why, from the top down, that's how— with BYCombo! Because what more can verify your worth, than to sacrifice a serious chunk of lifetime?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -307,19 +307,23 @@ Rappers love to bash the "[wack MC](https://genius.com/Doug-e-fresh-and-the-get-
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
-And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. There was no recourse: The indie labels didn't want them!
+And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. There was just no recourse: The indie labels didn't want them!
 
-But why can't *today's* indies learn to sign the *next* On a Friday? It's because status hierarchies are self-reinforcing: Once status comes from hustling, then hustlers become high status— and vice versa. So the losers have only one recourse: to leave for a *counter*-culture that favors *their* strengths— possibly allowing them to become [tomorrow's *winners*](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
+Well, can't *today's* indies learn to sign the *next* On a Friday? No— because status hierarchies are self-reinforcing: When status comes from hustling, then hustlers become high status— and vice versa. So the losers have only one recourse: to leave for a *counter*-culture that favors *their* strengths— possibly allowing them to become [tomorrow's *winners*](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
 
 Yet no counterculture has emerged, for obvious reasons: "Why counter the good guys?" Luckily, I may be this century's biggest loser, so I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by spending all your time and energy on the craft— your "hobby"— and none on the hustle.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. In the case of the former, it was the classic rock whose lineage traced back to Sister Rosetta Tharpe; and the latter, the classic pop defined by Tin Pan Alley's East European immigrants.
 
-Knowing that the outsider tries much harder, to be much better, both indie rock and poptimism protect the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
+Knowing that an outsider will try much harder, to be much better, both indie rock and poptimism protect the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
