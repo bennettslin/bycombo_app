@@ -67,21 +67,21 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Democratization causes noise pollution
+### ${++sectionCounter}. Modern audiences quietly leave
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 
-Before modern audiences section.
+"Hoop dreams" is unnecessary.
 `}
 
-To "democratize" Twitter, Elon Musk made the blue checkmark available to any paid account; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). And likewise, the indie camp is here to democratize music: They want *every* artist to be heard, not just those "verified" by a label— so they promote the use of online tools that merely take some grunt work.
+Playing sports benefits not just you, but also those who watch you. So it's noble to aim for an audience— making you an athlete. In which case, why can't you get paid as one? The top 1% earn millions, while the bottom 99% get nothing! How is that fair? Instead, let's empower *everyone* to make a living wage as an "indie athlete." Who'd be opposed?
 
-But once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game): We can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy— who can just invest in the signal itself, rather than in the worth being verified! Like Twitter, then, music has become "polluted" with dishonest signaling.
+This is silly, of course. We all know: It's the audience, that's who! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd quietly leave; there are plenty of other ways to be entertained nowadays. Well, indie rock *did* take over— so how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
-And pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest. As such, it *must* be solved with top-down planning. Unfortunately, the indie camp insists that any needed change will emerge, bottom up, from the grassroots— which means they'll *never* clean up this mess they've created.
+Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. Which means today's pro-*artist* slant may be a generational fluke— and *not* the future of music forever.
 
-So if you aspire to be *most* worthy, what's left to do? Rather than add to the noise, how do you send honest signals once more? Why, from the top down, that's how— through BYCombo! Because what else can verify your worth, but to sacrifice a serious chunk of lifetime?
+But how do we make rock pro-*audience* again? Well, since "hip hop dreams" are the "hoop dreams" of music, we can start demanding the best, as fans of hip hop always have. So BYCombo lets you aim to be the [best band alive](https://genius.com/Lil-wayne-best-rapper-alive-lyrics) once more— even if your own lyrics never say so.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -223,19 +223,19 @@ Indie artists work hard *not* to need a label, and will do so even [when signed]
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until business partners finally reciprocate the courage to team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
-### ${++sectionCounter}. Modern audiences quietly leave
+### ${++sectionCounter}. Democratization causes noise pollution
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Playing sports benefits not just you, but also those who watch you. So it's noble to aim for an audience— making you an athlete. In which case, why can't you get paid as one? The top 1% earn millions, while the bottom 99% get nothing! How is that fair? Instead, let's empower *everyone* to make a living wage as an "indie athlete." Who'd be opposed?
+To "democratize" Twitter, Elon Musk made the blue checkmark available to any paid account; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who *else* thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they promote the use of online tools that merely take some grunt work.
 
-This is silly, of course. We all know: It's the audience, that's who! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd just quietly leave; there are plenty of other ways to be entertained nowadays. Well, indie rock *did* take over— so how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
+But this creates its own problems, doesn't it? Once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. So now, like Twitter, music is "polluted" with dishonest signaling from the *least* worthy— who alone can fully invest in the signal itself, rather than in the worth being verified!
 
-Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. Which means today's pro-*artist* slant may be a generational fluke— and *not* the future of music forever.
+To complicate matters, pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest— which means it *must* be solved with top-down planning. But the indie camp's thinking is bottom up; under their watch, change can only happen at the grassroots. And so they'll *never* clean up this mess they've created…
 
-But how do we make rock pro-*audience* again? Well, since "hip hop dreams" are the "hoop dreams" of music, we can start demanding the best, as fans of hip hop always have. So BYCombo lets you aim to be the [best band alive](https://genius.com/Lil-wayne-best-rapper-alive-lyrics) once more— even if your own lyrics never say so.
+What's left to do, then, if you aspire to be *most* worthy? You'd rather send honest signals again… but how? Why, from the top down, that's how— with BYCombo! Because what more can verify your worth, than to sacrifice a serious chunk of lifetime?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
