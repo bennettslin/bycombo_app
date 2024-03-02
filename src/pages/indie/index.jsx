@@ -17,7 +17,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a superstar to break out. But the indie labels held to fair practices by signing artists who already *had* a fanbase— and were thus empowered *not* to need a label. A decade later, the majors imploded. So the "good guys" won! Except now…
+By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a superstar to break out. But the indie labels held to fair practices by signing artists who already *had* a fanbase, and were thus empowered *not* to need a label. A decade later, the majors imploded. So the "good guys" won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -179,13 +179,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the past, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What *they* like is what they know others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in my case… this means they ended up rejecting *Yearling's Bobtail*— my "*Ulysses* of rock albums."
+In the past, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case… this means they ended up rejecting *Yearling's Bobtail*— my "*Ulysses* of rock albums."
 
-Which confused me, because I'd explicitly set out to make a work of art whose objective creativity [*can't* be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4). But in time I figured it out: If a gatekeeper is one of *us*, then this is the last thing *they'd* want— because it's the last thing *we'd* want. Our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.); we just don't realize this, because each of us defines it to fit our [*own* purposes](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.)!
+Which confused me, because I'd explicitly set out to make a work of art whose objective creativity [*can't* be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4)! But later on, I realized that if a gatekeeper is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we'd* want. Our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.); we just don't realize this, because each of us defines it to fit our [*own* purposes](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.)…
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-It's no surprise, then, that history's pioneering works were often backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their respective genres, who *didn't* know what the people wanted— and thus *weren't* led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
+It's no surprise, then, that history's pioneering works were often backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their respective genres— who *didn't* know what the people wanted, and thus *weren't* led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
@@ -235,11 +235,11 @@ ${'  ' || `
 
 To "democratize" Twitter, Elon Musk made the blue checkmark available to any paid account; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who *else* thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they promote the use of online tools that merely take some grunt work.
 
-But this creates its own problems, doesn't it? Once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. So like Twitter, music is now "polluted" with dishonest signaling from the *least* worthy— who alone can fully invest in the signal itself, rather than in the worth being verified!
+But this creates its own problems, doesn't it? Once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. So now, like Twitter, music is "polluted" with dishonest signaling from the *least* worthy— who can just invest in the signal itself, rather than in the worth being verified!
 
-To complicate matters, pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest— which means it *must* be solved with top-down planning. But the indie camp's thinking is bottom up; under their watch, change can only happen at the grassroots. As such, they'll *never* clean up this mess they've created…
+To complicate matters, pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest— which means it *must* be solved with top-down planning. But the indie camp's thinking is bottom up; under their watch, change can only happen at the grassroots. And so they'll *never* clean up this mess they've created…
 
-So what's left to do, if you aspire to be *most* worthy? You'd like to send honest signals again. But how? Why, from the top down, that's how— with BYCombo! Because what more can verify your worth, than that you sacrificed a serious chunk of lifetime to do so?
+Fortunately, if you aspire to be *most* worthy, you can still verify your worth from the top down… through BYCombo! After all, what's a more honest signal than to sacrifice a serious chunk of lifetime?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
