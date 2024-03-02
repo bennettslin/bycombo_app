@@ -67,6 +67,22 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Democratization causes noise pollution
+
+${'  ' || `
+// TODO: Review.
+
+Before modern audiences section.
+`}
+
+To "democratize" Twitter, Elon Musk made the blue checkmark available to any paid account; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). And likewise, the indie camp is here to democratize music: They want *every* artist to be heard, not just those "verified" by a label— so they promote the use of online tools that merely take some grunt work.
+
+But once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game): We can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy— who can just invest in the signal itself, rather than in the worth being verified! Like Twitter, then, music has become "polluted" with dishonest signaling.
+
+And pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest. As such, it *must* be solved with top-down planning. Unfortunately, the indie camp insists that any needed change will emerge, bottom up, from the grassroots— which means they'll *never* clean up this mess they've created.
+
+So if you aspire to be *most* worthy, what's left to do? Rather than add to the noise, how do you send honest signals once more? Why, from the top down, that's how— through BYCombo! Because what else can verify your worth, but to sacrifice a serious chunk of lifetime?
+
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -155,9 +171,13 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
+${'  ' || `
+// TODO: Review.
+`}
+
 In the past, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What *they* like is what they know others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… it's just that… according to science, our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.)!
 
-After *Yearling's Bobtail*, my "*Ulysses* of rock albums," got rejected by all the indie labels, I was confused: I'd set out to make a work of art whose objective creativity [*can't* be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4). Only later did I realize that if a gatekeeper is one of *us*, then this is the *last* thing they should want— because what *we* want, as humans, is to [define for *ourselves*](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.) what creativity means!
+After *Yearling's Bobtail*, my "*Ulysses* of rock albums," got rejected by all the indie labels, I was confused; I'd set out to make a work of art whose objective creativity [*can't* be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4). Only later did I realize that if a gatekeeper is one of *us*, then this is the *last* thing they should want— because what *we* want, as humans, is to [decide for *ourselves*](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.) what creativity means!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -202,20 +222,6 @@ The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-
 Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can one day become, the past proves that rock can be interdependent once again!
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until business partners finally reciprocate the courage to team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
-
-### ${++sectionCounter}. Democratization causes noise pollution
-
-${'  ' || `
-// TODO: Review.
-`}
-
-To "democratize" Twitter, Elon Musk made the blue checkmark available to any paid account; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). And likewise, the indie camp is here to democratize music: They want *every* artist to be heard, not just those "verified" by a label— so they promote the use of online tools that merely take some grunt work.
-
-But once "verification" is trivial to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game): We can no longer assume that those who have it are worth hearing from. In fact, the loudest signals will now be sent by the *least* worthy— who can just invest in the signal itself, rather than in the worth being verified! Like Twitter, then, music has become "polluted" with dishonest signaling.
-
-And pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest. As such, it *must* be solved with top-down planning. Unfortunately, the indie camp *defiantly* believes that any needed change will emerge, bottom up, from the grassroots— which means they'll *never* clean up this mess they've created.
-
-So if you aspire to be *most* worthy, what's left to do? You *don't* wish to add to the noise; you'd *rather* send honest signals once more… but how? Why, from the top down, that's how— through BYCombo! Because what can better verify your worth, than to sacrifice a serious chunk of lifetime?
 
 ### ${++sectionCounter}. Modern audiences quietly leave
 
@@ -301,9 +307,9 @@ Rappers love to bash the "[wack MC](https://genius.com/Doug-e-fresh-and-the-get-
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
-And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. There was no recourse: No indie label back then wanted them!
+And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. There was no recourse: The indie labels didn't want them!
 
-But why can't *today's* indie labels be smarter, and sign the *next* On a Friday? It's because every status hierarchy is self-reinforcing: If status is gained by hustling, then hustlers are high status— and vice versa. So the losers at the bottom have only one recourse: to leave for a *counter*-culture that favors *their* strengths— possibly allowing them to become [*tomorrow's* winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
+But why can't *today's* indies learn to sign the *next* On a Friday? It's because status hierarchies are self-reinforcing: Once status comes from hustling, then hustlers become high status— and vice versa. So the losers have only one recourse: to leave for a *counter*-culture that favors *their* strengths— possibly allowing them to become [tomorrow's *winners*](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
 
 Yet no counterculture has emerged, for obvious reasons: "Why counter the good guys?" Luckily, I may be this century's biggest loser, so I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by spending all your time and energy on the craft— your "hobby"— and none on the hustle.
 
