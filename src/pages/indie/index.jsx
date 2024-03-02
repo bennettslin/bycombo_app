@@ -230,16 +230,16 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 ### ${++sectionCounter}. Democratization causes noise pollution
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise last paragraph. Remove "verify your worth," just use "honest signal."
 `}
 
 To "democratize" Twitter, Elon Musk made the blue checkmark available to any paid account; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who *else* thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they promote the use of online tools that merely take some grunt work.
 
-But this creates its own problems, doesn't it? Once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. So now, like Twitter, music is "polluted" with dishonest signaling from the *least* worthy— who alone can fully invest in the signal itself, rather than in the worth being verified!
+But this creates its own problems, doesn't it? Once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. So like Twitter, music is now "polluted" with dishonest signaling from the *least* worthy— who alone can fully invest in the signal itself, rather than in the worth being verified!
 
 To complicate matters, pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest— which means it *must* be solved with top-down planning. But the indie camp's thinking is bottom up; under their watch, change can only happen at the grassroots. And so they'll *never* clean up this mess they've created…
 
-What's left to do, then, if you aspire to be *most* worthy? You'd like to send honest signals again… but how? Why, from the top down, that's how— with BYCombo! Because what more can verify your worth, than to sacrifice a serious chunk of lifetime?
+What's left to do, then, if you aspire to be *most* worthy? You'd like to send honest signals again… but how? Why, from the top down, that's how— with BYCombo! Because what more can verify your worth, than to sacrifice a serious chunk of lifetime for it?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -307,7 +307,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Rappers love to bash the "[wack MC](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you don't hustle— a plain assessment of what you *do*.
+Rappers love to bash the "[wack MC](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you don't hustle— a neutral assessment of what you *do*.
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
@@ -315,7 +315,7 @@ And this should concern us, since Radiohead… were the ultimate hobbyists! They
 
 Well, can't *today's* indies learn to sign the *next* On a Friday? No— because status hierarchies are self-reinforcing: When status comes from hustling, then hustlers become high status— and vice versa. So the losers have only one recourse: to leave for a *counter*-culture that favors *their* strengths— possibly allowing them to become [tomorrow's *winners*](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
 
-Yet no counterculture has emerged, for obvious reasons: "Why counter the good guys?" Luckily, I may be this century's biggest loser, so I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by spending all your time and energy on the craft— your "hobby"— and none on the hustle.
+Yet no counterculture has emerged, for obvious reasons: "Why counter the good guys?" Luckily, I may be this century's biggest loser, so I've spent half my life plotting to start one. Now with BYCombo, you too can hope to be the next Radiohead, by spending all your time and energy on the craft— your "hobby"— and none on the hustle.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
@@ -325,7 +325,7 @@ ${'  ' || `
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
-Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. In the case of the former, it was the classic rock whose lineage traced back to Sister Rosetta Tharpe; and the latter, the classic pop defined by Tin Pan Alley's East European immigrants.
+Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. In the case of the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's East European immigrants.
 
 Knowing that an outsider will try much harder, to be much better, both indie rock and poptimism protect the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
 
