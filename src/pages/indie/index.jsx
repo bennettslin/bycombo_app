@@ -79,13 +79,13 @@ ${'  ' || `
 Keep working on last paragraph.
 `}
 
-Playing sports doesn't just benefit *you*, but also those who *watch* you, right? So it's noble to aim for an audience— which then makes you an athlete. Yet while the top 1% earn millions… you don't even get a living wage! How is that fair? Well, here's an idea: Let's do away with these overpaid recruiters, and empower *everyone* in the 99% to be an "indie athlete." Who'd object?
+Playing sports doesn't just benefit *you*, but also those who *watch* you, right? So it's noble to aim for an audience— which then makes you an athlete. Yet you don't even get a living wage… while the top 1% earn millions! How is that fair? Well, here's an idea: Let's do away with overpaid scouts and recruiters, and empower *each* of us in the 99% to be an "indie athlete." Who'd object?
 
-This is silly, of course. We all know: It's the audience, that's who! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd quietly leave; there are countless other ways to be entertained nowadays. Except… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
+This is silly, of course. We all know: The audience would, that's who! They only care to watch the *best*. If "indie sports" ever took over as a movement, they'd quietly leave; there are just too many other ways to be entertained nowadays. Except… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
-Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. So today's pro-*artist* slant might just be a Millennial fluke— and *not* the future of music.
+Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. So today's pro-artist slant might just be a Millennial fluke— and *not* the future of music.
 
-Still, how do we make rock pro-*audience* again? Why, by taking notes from a genre that [*never* stopped](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) being so: hip hop! So BYCombo lets you aim to be the [best band alive](https://genius.com/Lil-wayne-best-rapper-alive-lyrics) once more— even if your own lyrics never say so.
+Still, how does rock become pro-audience again? Why, by taking pointers from a genre that [*never* stopped](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) being so: hip hop! So BYCombo lets you aim to be the [best band alive](https://genius.com/Lil-wayne-best-rapper-alive-lyrics) once more— even if your own lyrics never say so.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
