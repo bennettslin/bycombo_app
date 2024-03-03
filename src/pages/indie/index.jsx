@@ -75,13 +75,13 @@ ${'  ' || `
 Keep working on last paragraph.
 `}
 
-Playing sports doesn't just benefit *you*, but also those who *watch* you, right? So it's noble to aim for an audience— which then makes you an athlete. And yet, you don't even get a living wage… while the top 1% earn millions! Is that fair? Well, here's an idea: Let's do away with overpaid scouts and recruiters, and empower *each* of us in the 99% to be an "indie athlete." Who'd object?
+Playing sports doesn't just benefit *you*, but also those who *watch* you. So it's noble to aim for an audience— which then makes you an athlete. And yet, you don't even get a living wage… while the top 1% earn millions! How is that fair? Well, here's an idea: Let's do away with overpaid scouts and recruiters, and empower each of us in the 99% to be an "indie athlete." Who'd object?
 
-I'm being silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd quietly leave; there are just too many other ways to be entertained nowadays. We *all* get this, right? Okay. Well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
+I'm being silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd quietly leave; there are just too many other ways to be entertained nowadays. We all get this, right? Okay. Except… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. So today's pro-*artist* slant might just be a Millennial fluke— and *not* the future of music forever.
 
-But how does rock become pro-*audience* once more? Why, by taking cues from a genre that's [remained loyal](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) to its audience all along: hip hop! Now with BYCombo, you can aim to be the [best band alive](https://genius.com/Lil-wayne-best-rapper-alive-lyrics) once more— even if your own lyrics, unlike those of the best rappers, never say so.
+But how does rock become pro-*audience* once more? Why, by taking cues from a genre that's [stayed loyal](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) to its audience all along: hip hop! Now with BYCombo, you can aim to be the [best band alive](https://genius.com/Lil-wayne-best-rapper-alive-lyrics) once more— even if your own lyrics, unlike those of the best rappers, never say so.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -157,11 +157,15 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
-Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs— which stands to reason, since indie artists *never* go above and beyond to make the best art. But… why *don't* they? Well, let's examine their options.
+${'  ' || `
+// TODO: Review.
+`}
 
-They can build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Moreover, with no talent scouts out there trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
+Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs— which stands to reason, since indie artists never go above and beyond to make the *best* art. But… why *don't* they? Well, let's examine their options.
 
-The sane choice, then, is obvious. But… what happens if a band tries to make the best art *anyway*? Add up their gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for going above and beyond to bring it back.
+They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
+
+The sane choice, then, is obvious. Still… what happens if a band tries to make the best art *anyway*? Add up their gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for going above and beyond to bring it back.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -171,7 +175,7 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
-In the past, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case… this is how they came to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums."
+In the past, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case… this is why they rejected *Yearling's Bobtail*, my "*Ulysses* of rock albums."
 
 What confused me is that I'd explicitly set out to make a work of art whose creativity [*can't* be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4). Only later did it hit me: If a gatekeeper is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we'd* want. Our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.); we just don't realize this, because whatever it is *we* like… we simply call *that* the thing [that's creative](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.)!
 
