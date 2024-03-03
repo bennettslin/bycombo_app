@@ -17,7 +17,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a superstar to break out. But the indie labels held to fair practices by signing artists who already *had* a fanbase, and were thus empowered *not* to need a label. A decade later, the majors imploded. So the "good guys" won! Except now…
+By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a superstar to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
@@ -76,16 +76,16 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: Review a few more times.
 
-"Hoop dreams" is unnecessary.
+Keep working on last paragraph.
 `}
 
-Playing sports benefits not just you, but also those who watch you. So it's noble to aim for an audience— making you an athlete. In which case, why can't you get paid as one? The top 1% earn millions, while the bottom 99% get nothing! How is that fair? Instead, let's empower *everyone* to make a living wage as an "indie athlete." Who'd be opposed?
+Playing sports doesn't just benefit *you*, but also those who *watch* you, right? So it's noble to aim for an audience— which then makes you an athlete. Yet while the top 1% earn millions… you don't even get a living wage! How is that fair? Well, here's an idea: Let's do away with these overpaid recruiters, and empower *everyone* in the 99% to be an "indie athlete." Who'd object?
 
-This is silly, of course. We all know: It's the audience, that's who! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd quietly leave; there are plenty of other ways to be entertained nowadays. Well, indie rock *did* take over— so how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
+This is silly, of course. We all know: It's the audience, that's who! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd quietly leave; there are countless other ways to be entertained nowadays. Except… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
-Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. Which means today's pro-*artist* slant may be a generational fluke— and *not* the future of music forever.
+Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. So today's pro-*artist* slant might just be a Millennial fluke— and *not* the future of music.
 
-But how do we make rock pro-*audience* again? Well, since "hip hop dreams" are the "hoop dreams" of music, we can start demanding the best, as fans of hip hop always have. So BYCombo lets you aim to be the [best band alive](https://genius.com/Lil-wayne-best-rapper-alive-lyrics) once more— even if your own lyrics never say so.
+Still, how do we make rock pro-*audience* again? Why, by taking notes from a genre that [*never* stopped](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) being so: hip hop! So BYCombo lets you aim to be the [best band alive](https://genius.com/Lil-wayne-best-rapper-alive-lyrics) once more— even if your own lyrics never say so.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -179,9 +179,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the past, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case… this means they ended up rejecting *Yearling's Bobtail*— my "*Ulysses* of rock albums."
+In the past, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case… this is how they came to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums."
 
-Which confused me, because I'd explicitly set out to make a work of art whose objective creativity [*can't* be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4)! But later on, I realized that if a gatekeeper is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we'd* want. Our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.); we just don't realize this, because each of us defines it to fit our [*own* purposes](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.)…
+What confused me is that I'd explicitly set out to make a work of art whose creativity [*can't* be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4). Only later did it hit me: If a gatekeeper is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we'd* want. Our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.); we just don't realize this, because whatever it is we like… we simply call *that* the thing [that's creative](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -239,7 +239,7 @@ But this creates its own problems, doesn't it? Once "verification" is easy to at
 
 To complicate matters, pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest— which means it *must* be solved with top-down planning. But the indie camp's thinking is bottom up; under their watch, change can only happen at the grassroots. And so they'll *never* clean up this mess they've created…
 
-Fortunately, if you aspire to be *most* worthy, you can still verify your worth from the top down… through BYCombo! After all, what's a more honest signal than to sacrifice a serious chunk of lifetime?
+Fortunately, if you aspire to be *most* worthy, you can once again verify your worth from the top down— with BYCombo! Because what's a more honest signal, than to sacrifice a serious chunk of lifetime?
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -307,7 +307,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Rappers love to bash the "[wack MC](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you don't hustle— a neutral assessment of what you *do*.
+Rappers love to bash the "[wack MC](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you don't hustle— a neutral assessment of what you *do*.
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
@@ -327,7 +327,7 @@ Perhaps my arguments against indie rock seem moot now. After all, didn't [poptim
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. In the case of the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's East European immigrants.
 
-Knowing that an outsider will try much harder, to be much better, both indie rock and poptimism protect the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
+In a world where outsiders try much harder, to be much better, both indie rock and poptimism protect the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
