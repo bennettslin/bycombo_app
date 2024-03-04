@@ -219,7 +219,7 @@ ${'  ' || `
 // TODO: Review a few more times. Maybe be more clear in second paragraph that we wouldn't even notice if they left.
 `}
 
-"Playing sports doesn't just benefit *you*, but also those who *watch* you, right? So it's noble to aim for an audience— which then makes you an athlete. And yet, you don't even get a living wage… while the top 1% earn millions! Is that fair? Well, here's an idea: Let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete. Who'd object?"
+"Playing sports doesn't just benefit *you*, but also those who *watch* you. So it's noble to aim for an audience— which then makes you an athlete. And yet, you don't even get a living wage… while the top 1% earn millions! Is that fair? Well, here's an idea: Let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete. Who'd object?"
 
 I'm being silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd just leave— mostly without a fuss, since there are plenty of other ways to be entertained nowadays. We all get this, right? Okay. Except… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
