@@ -91,7 +91,7 @@ And yet, this obviously can't end well. We don't "support" artists of the past�
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
-We all respect those ['80s underground bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from their local scenes, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's also a less spoken reason: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who merely lucked out and won the virtual lottery.
+We all respect those ['80s underground bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's also a less spoken reason: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who merely lucked out and won the virtual lottery.
 
 In those days, lottery players would sign unfair contracts with major labels, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're flooding the world with their music— *and* getting respect for it.
 
@@ -149,7 +149,7 @@ Thanks to indie rock, other countries now care little about our rock canon, just
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-The sane choice, then, is obvious. Still… what happens if a band tries to make the best art *anyway*? Add up their gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for going above and beyond to bring it back.
+The sane choice, then, is obvious. Still, what happens if a band tries to make the best art *anyway*? Add up their gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for going above and beyond to bring it back.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -163,9 +163,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the past, the indie gatekeepers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case… this is what led them to reject *Yearling's Bobtail*, my "*Ulysses* of rock albums."
+In the past, the indie gatekeepers stayed close to the local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case… this is precisely what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
 
-What confused me is that I'd explicitly set out to make a work of art whose creativity [*can't* be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4). Only later did it hit me: If a gatekeeper is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we'd* want. Our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.); we just don't realize this, because whatever it is *we* like… we simply call *that* the thing [that's creative](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.)!
+What confused me is that I'd explicitly set out to make a work of art whose creativity [*can't* be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4). Only later did it hit me: If a gatekeeper is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we'd* want. Our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.); we just don't realize this, because whatever it is we like… we simply call *that* the thing [that's creative](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -224,12 +224,12 @@ Fortunately, if you aspire to be *most* worthy, you can once again verify your w
 ### ${++sectionCounter}. Modern audiences leave quietly
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review a few more times. Maybe be more clear in second paragraph that we wouldn't even notice if they left.
 `}
 
-Playing sports doesn't just benefit *you*, but also those who *watch* you. So it's noble to aim for an audience— which then makes you an athlete. And yet, you don't even get a living wage… while the top 1% earn millions! How is that fair? Well, here's an idea: Let's do away with overpaid scouts, and empower each of us in the 99% to be an "indie athlete." Who'd object?
+"Playing sports doesn't just benefit *you*, but also those who *watch* you, right? So it's noble to aim for an audience— which then makes you an athlete. And yet, you don't even get a living wage… while the top 1% earn millions! Is that fair? Well, here's an idea: Let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete. Who'd object?"
 
-I'm being silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd just leave— mostly without a fuss. After all, there are endless ways to be entertained nowadays. We all get this, right? Okay. Except… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
+I'm being silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd just leave— mostly without a fuss, since there are plenty of other ways to be entertained nowadays. We all get this, right? Okay. Except… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. So today's pro-*artist* slant might just be a Millennial fluke— and *not* the future of music forever.
 
@@ -305,11 +305,11 @@ Rappers love to bash the "[wack MC](https://genius.com/Rundmc-sucker-mcs-krush-g
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
-And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. There was no other recourse: The indie labels didn't want them!
+And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
 
-Well, can't *today's* indies learn to sign the *next* On a Friday? No. Once status comes from hustling, then hustlers will have the high status needed to *keep* it this way. In other words, a culture's status hierarchy is self-reinforcing; it can't be upended from *within*. So the losers have but one recourse: to leave for a *counter*-culture that just might deliver [*tomorrow's* winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
+But can't *today's* indies learn to sign the *next* On a Friday? No. When status comes from hustling, then hustlers become high status, and vice versa. That is to say, a culture's status hierarchy is self-reinforcing; it can't be upended from *within*. So the losers have but one recourse: to start a *counter*-culture that just might allow them to become [tomorrow's *winners*](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
 
-Yet no counterculture has arisen as a shelter from indie rock, for an obvious reason: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
+Yet no counterculture has emerged to offer shelter from indie rock, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
@@ -359,13 +359,9 @@ So yes, BYCombo tells you to focus on your craft, and to join a community of oth
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became circles. This was a much simpler explanation— so by Occam's razor, it became accepted as the correct one.
 
-Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* do things the indie way… yet this *hasn't* delivered the next Nirvana or Radiohead?!
+Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* do things the indie way… yet this *hasn't* given us the next Nirvana or Radiohead?!
 
 But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this much simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) of music?
 
