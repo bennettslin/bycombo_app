@@ -221,7 +221,7 @@ To complicate matters, pollution is a [tragedy of the commons](https://en.wikipe
 
 Fortunately, if you aspire to be *most* worthy, you can once again verify your worth from the top down— with BYCombo! Because what's a more honest signal than to sacrifice a serious chunk of lifetime?
 
-### ${++sectionCounter}. Modern audiences leave quietly
+### ${++sectionCounter}. A modern audience leaves quietly
 
 ${'  ' || `
 // TODO: Review a few more times. Maybe be more clear in second paragraph that we wouldn't even notice if they left.
@@ -341,7 +341,11 @@ It's often mentioned that the evolution of the piano allowed Beethoven to compos
 
 Unlike what the indie camp seems to believe, then, history *won't* care how the Internet allowed artists to market and distribute their own works. But it *might* care how BYCombo allowed them to form bands with unprecedented lineups. So come explore one of rock's final frontiers— by having a dancer, puppeteer, or even manager as your bandmate!
 
-### ${++sectionCounter}. A senior renaissance awaits
+### ${++sectionCounter}. A renaissance of elders awaits
+
+${'  ' || `
+// TODO: Review title.
+`}
 
 The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's *another* frontier left to explore! Unfortunately… indie rock isn't cut out for this one either: Hustling requires a youthful spirit, so every indie artist is destined to burn out.
 
