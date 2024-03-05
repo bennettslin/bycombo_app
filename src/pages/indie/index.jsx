@@ -74,7 +74,9 @@ ${'  ' || `
 
 Maybe better after paid dues and before countercultures?
 
-Figure out way to tie this to BYCombo?
+Because Millennials relied on others to create structures for them, they also adopted others' rules as their own. Hence, they were happy to be rule makers, rather than breakers.
+
+Figure out way to tie this to BYCombo? Making the best art means spending long periods of time apart from the world.
 
 * Read for inspiration
     * https://bananapeel.substack.com/p/pop-uber-alles
@@ -85,7 +87,7 @@ While hair metal combined glam's gender-bending subversion with metal's oppositi
 
 Is it because indie rock's rules are based on logistics, not aesthetics, making them harder to break? But I'd argue that this make it *easier*. For instance, indie rock requires you to divert time and energy toward the hustle. What artist *wouldn't* jump at the chance to be seen as a revolutionary, simply for doubling down on making art instead?
 
-Here's my theory: Artistic courage is inspired by informational scarcity. When you're not provided with structure, you learn to create your own. But while Millennials were exposed to informational scarcity while young, they never learned to tackle boredom on their own. They were immediately given the means to abundance. This makes them sticklers for rules— the only thing that prevents a return to scarcity, the thing they fear most.
+Here's my theory: Artistic courage is inspired by informational scarcity. When you're not given enough structure, you learn to create your own. But while Millennials were exposed to informational scarcity while young, they never learned to tackle boredom on their own. They were immediately given the means to abundance. This makes them sticklers for rules— the only thing that prevents a return to scarcity, the thing they fear most.
 
 But there's good news: Just as Boomers were the last generation to have unmitigated love for the [fast food](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) that tackled food scarcity— Millennials may be the last to feel the same about "fast *info*." For Gen Z, however, the only peril they've ever known is *over*-abundance. And so they're beginning to long for scarcity once more— along with the artistic courage it builds.
 
@@ -179,9 +181,13 @@ These insights emerge from the unconscious mind as your thoughts drift in the sh
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
+${'  ' || `
+// TODO: Review.
+`}
+
 In the past, the indie gatekeepers stayed close to the local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case… this is precisely what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
 
-What confused me is that I'd explicitly set out to make a work of art whose creativity [*can't* be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4). Only later did it hit me: If a gatekeeper is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we'd* want. Our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.); we just don't realize this, because whatever it is we like… we simply call *that* the thing [that's creative](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.)!
+What confused me is that I'd explicitly set out to make a work of art whose creativity [*can't* be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4). Only later did it hit me: If a gatekeeper is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we* want. Our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.); we just don't realize this, because whatever it is we *do* like… we simply call *that* the thing [that's creative](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
@@ -243,7 +249,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Hear me out: "Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except, you don't even get a living wage… while the top 1% earn millions! How is that fair? So let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete. Who'd object?"
+Hear me out: "Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except, you don't even get a living wage… while the top 1% earn millions! How is that fair? So let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete." Who'd object?
 
 I'm being silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd just leave— mostly without a fuss, since there are plenty of other ways to be entertained nowadays. We all get this, right? Okay. Well… indie rock *did* take over. So how come no one can figure out why the audience for music has [quietly left](https://youtu.be/Ag4iFa6E_yY)?!
 
@@ -312,10 +318,6 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands like yours surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Rappers love to bash the "[wack MC](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you refuse to hustle— a plain assessment of what you *do*.
 
