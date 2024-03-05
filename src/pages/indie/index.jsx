@@ -78,20 +78,22 @@ Because Millennials relied on others to create structures for them, they also ad
 
 Figure out way to tie this to BYCombo? Making the best art means spending long periods of time apart from the world.
 
+When you aren't given enough structure, you learn to create your own. 
+
 * Read for inspiration
     * https://bananapeel.substack.com/p/pop-uber-alles
     * https://www.gurwinder.blog/p/the-intellectual-obesity-crisis
 `}
 
-While hair metal combined glam's gender-bending subversion with metal's opposition to authority, it came a decade late. Well, indie rock's values were just as stale by the '00s— so Millennials *should* have seen interdependence as their grunge. Instead, they stuck with indie rock— their hair metal. Why did they lack the courage to start a paradigm-changing revolution?
+While hair metal combined glam's gender-bending subversion with metal's opposition to authority, it came a decade late. Well, indie rock's values were just as stale by the '00s— so Millennials *should* have seen interdependence as their grunge. Instead, they stuck with indie rock— their hair metal. Why did they lack the artistic courage to start a revolution of their own?
 
-Is it because indie rock's rules are based on logistics, not aesthetics, making them harder to break? But I'd argue that this make it *easier*. For instance, indie rock requires you to divert time and energy toward the hustle. What artist *wouldn't* jump at the chance to be seen as a revolutionary, simply for doubling down on making art instead?
+Is it because indie rock's rules are rooted in logistics, not aesthetics? No… if anything, this makes them *easier* to break. When indie rock tells artists to divert time and energy toward the hustle, who *wouldn't* jump at the chance to double down on making art instead, and be called a revolutionary for it? As an Xennial, *I* did. I wasn't being courageous; it was the obvious move!
 
-Here's my theory: Artistic courage is inspired by informational scarcity. When you're not given enough structure, you learn to create your own. But while Millennials were exposed to informational scarcity while young, they never learned to tackle boredom on their own. They were immediately given the means to abundance. This makes them sticklers for rules— the only thing that prevents a return to scarcity, the thing they fear most.
+So here's my theory: Courage is just… having dealt with scarcity. Millennials faced information scarcity only long enough to fear it; they were then given the means to conquer it forever, before they learned to deal with it themselves. This makes them sticklers for rules— the only thing that prevents a return to scarcity, the thing they fear most. And so they became rock's first generation of rule *makers*, not *breakers*.
 
-But there's good news: Just as Boomers were the last generation to have unmitigated love for the [fast food](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) that tackled food scarcity— Millennials may be the last to feel the same about "fast *info*." For Gen Z, however, the only peril they've ever known is *over*-abundance. And so they're beginning to long for scarcity once more— along with the artistic courage it builds.
+But there's good news: Just as Boomers were the last generation to have unmitigated love for the [fast food](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) that conquered food scarcity— Millennials may be the last to feel the same about "fast" information. Now that Gen Z has only ever faced its [over-*abundance*](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html), they long for its *scarcity*— boredom, in lay terms— along with the artistic courage it builds.
 
-This old Xennial has a solution: BYCombo! Shut out information.
+Well, this Xennial has a solution: BYCombo! Shut out information.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -249,9 +251,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Hear me out: "Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except, you don't even get a living wage… while the top 1% earn millions! How is that fair? So let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete." Who'd object?
+Hear me out: "Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except, you don't even get a living wage… while the top 1% earn millions. That's not fair! So let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete." Who'd object?
 
-I'm being silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd just leave— mostly without a fuss, since there are plenty of other ways to be entertained nowadays. We all get this, right? Okay. Well… indie rock *did* take over. So how come no one can figure out why the audience for music has [quietly left](https://youtu.be/Ag4iFa6E_yY)?!
+I'm being silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd just leave— mostly without a fuss, since there are plenty of other ways to be entertained nowadays. We all get this, right? Okay. Well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. So today's pro-*artist* slant might just be a Millennial fluke— and *not* the future of music forever.
 
