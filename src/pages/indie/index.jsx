@@ -67,6 +67,30 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Scarcity inspires generational courage
+
+${'  ' || `
+// TODO: Keep working on.
+
+Maybe better after paid dues and before countercultures?
+
+Figure out way to tie this to BYCombo?
+
+* Read for inspiration
+    * https://bananapeel.substack.com/p/pop-uber-alles
+    * https://www.gurwinder.blog/p/the-intellectual-obesity-crisis
+`}
+
+While hair metal combined glam's gender-bending subversion with metal's opposition to authority, it came a decade late. Well, indie rock's values were just as stale by the '00s— so Millennials *should* have seen interdependence as their grunge. Instead, they stuck with indie rock— their hair metal. Why did they lack the courage to start a paradigm-changing revolution?
+
+Is it because indie rock's rules are based on logistics, not aesthetics, making them harder to break? But I'd argue that this make it *easier*. For instance, indie rock requires you to divert time and energy toward the hustle. What artist *wouldn't* jump at the chance to be seen as a revolutionary, simply for doubling down on making art instead?
+
+Here's my theory: Artistic courage is inspired by informational scarcity. When you're not provided with structure, you learn to create your own. But while Millennials were exposed to informational scarcity while young, they never learned to tackle boredom on their own. They were immediately given the means to abundance. This makes them sticklers for rules— the only thing that prevents a return to scarcity, the thing they fear most.
+
+But there's good news: Just as Boomers were the last generation to have unmitigated love for the [fast food](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) that tackled food scarcity— Millennials may be the last to feel the same about "fast *info*." For Gen Z, however, the only peril they've ever known is *over*-abundance. And so they're beginning to long for scarcity once more— along with the artistic courage it builds.
+
+This old Xennial has a solution: BYCombo! Shut out information.
+
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
