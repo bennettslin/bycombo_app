@@ -67,34 +67,6 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Scarcity inspires generational courage
-
-${'  ' || `
-// TODO: Keep working on.
-
-Maybe better after paid dues and before countercultures?
-
-Because Millennials relied on others to create structures for them, they also adopted others' rules as their own. Hence, they were happy to be rule makers, rather than breakers.
-
-Figure out way to tie this to BYCombo? Making the best art means spending long periods of time apart from the world.
-
-When you aren't given enough structure, you learn to create your own. 
-
-* Read for inspiration
-    * https://bananapeel.substack.com/p/pop-uber-alles
-    * https://www.gurwinder.blog/p/the-intellectual-obesity-crisis
-`}
-
-While hair metal combined glam's gender-bending subversion with metal's opposition to authority, it came a decade late. Well, indie rock's values were just as stale by the '00s— so Millennials *should* have seen interdependence as their grunge. Instead, they stuck with indie rock— their hair metal. Why did they lack the artistic courage to start a revolution of their own?
-
-Is it because indie rock's rules are rooted in logistics, not aesthetics? No… if anything, this makes them *easier* to break. When indie rock tells artists to divert time and energy toward the hustle, who *wouldn't* jump at the chance to double down on making art instead, and be called a revolutionary for it? As an Xennial, *I* did. I wasn't being courageous; it was the obvious move!
-
-So here's my theory: Courage is just… having dealt with scarcity. Millennials faced information scarcity only long enough to fear it; they were then given the means to conquer it forever, before they learned to deal with it themselves. This makes them sticklers for rules— the only thing that prevents a return to scarcity, the thing they fear most. And so they became rock's first generation of rule *makers*, not *breakers*.
-
-But there's good news: Just as Boomers were the last generation to have unmitigated love for the [fast food](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) that conquered food scarcity— Millennials may be the last to feel the same about "fast" information. Now that Gen Z has only ever faced its [over-*abundance*](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html), they long for its *scarcity*— boredom, in lay terms— along with the artistic courage it builds.
-
-Well, this Xennial has a solution: BYCombo! Shut out information.
-
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -227,7 +199,11 @@ The problem, then, is that indie rock's cultural libertarianism is a *partisan* 
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
-In game theory, the [stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) is a game in which you and another player, each on your own, must decide whether to hunt hares separately, or to team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
+${'  ' || `
+// TODO: Review.
+`}
+
+In game theory, the [stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) is a game in which you and another player, each on your own, must decide whether to hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
 
 The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=the%20difference%20between,and%20poor%20ones.) build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The converse is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
@@ -255,7 +231,7 @@ Hear me out: "Playing sports doesn't just benefit *you*, but also those who *wat
 
 I'm being silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd just leave— mostly without a fuss, since there are plenty of other ways to be entertained nowadays. We all get this, right? Okay. Well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
-Yet there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. So today's pro-*artist* slant might just be a Millennial fluke— and *not* the future of music forever.
+But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. So today's pro-*artist* slant might just be a Millennial fluke— and *not* the future of music forever.
 
 Still, how does rock become pro-*audience* once more? Why, by taking cues from… hip hop! Because why *else* do rappers try to [be the best](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah), if not out of empathy for the audience? Now with BYCombo, you can try to be the best *band* alive— even if your lyrics never say so.
 
@@ -321,13 +297,17 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Rappers love to bash the "[wack MC](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you refuse to hustle— a plain assessment of what you *do*.
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
 
-But can't *today's* indies learn to sign the *next* On a Friday? No. Once status comes from hustling, then hustlers become high status, and vice versa. That is to say, a culture's status hierarchy is self-reinforcing; it can't be upended from *within*. So the losers have but one recourse: to start a *counter*-culture that just might allow them to become [*tomorrow's* winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
+But can't *today's* indies learn to sign the *next* On a Friday? No. Once hustlers become the ones with high status, now status can only come from hustling, and vice versa. That is to say, a culture's status hierarchy is self-reinforcing; it can't be upended from *within*. So the losers have but one recourse: to start a *counter*-culture that just might allow them to become [*tomorrow's* winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
 
 Yet no counterculture has arisen to offer shelter from indie rock, because… well: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
@@ -355,13 +335,31 @@ So when the tech platforms came along, their focus on numbers made them good guy
 
 In short, today's data-driven industry is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [require artists](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
+### ${++sectionCounter}. Scarcity inspires generational courage
+
+${'  ' || `
+// TODO: Ideas are all there. Just focus on coherence and flow. Make sure this is the best place. Another possibility is after paid dues, or after countercultures. But… maybe before romanticism is good?
+
+Second paragraph, reverse order of third sentence. Mention doubling down first, then jumping at the chance.
+`}
+
+Hair metal combined glam's gender-bending look with metal's opposition to authority— but it was a decade too late. Well, indie rock's values were just as stale by the '00s— so Millennials *should* have seen interdependence as their grunge… yet they stuck with indie rock, their hair metal. They simply lacked the courage to start a revolution of their own. Why is this?
+
+Is it because indie rock is more of an ideology than a genre? No… if anything, this makes its rules *easier* to break. The requirement that artists divert effort toward the hustle, for instance… I mean, who wouldn't jump at the chance to double down on making art *instead*— and be called a revolutionary for it? As an Xennial, *I* did. I wasn't being courageous; it was the obvious move!
+
+Here's my theory: Artistic courage comes from playing with boredom… and Millennials faced boredom only long enough to fear it. They were then given structured ways to conquer it— which won their loyalty— but such ways are necessarily rooted in fixed ideas for how things are "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" work. And so they became rock's first generation of rule *enforcers*.
+
+Yet there's hope: While Boomers are the last generation to have unmitigated love for the [fast food](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) that conquered food scarcity— Millennials may be the last to feel the same about today's "fast info." Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— boredom, in lay terms— along with the artistic courage this builds.
+
+And just in time… to try out an Xennial's solution! With BYCombo, you can once again double down on making art, by spending long stretches *away* from the world's firehose of information— like Gen X used to do.
+
 ### ${++sectionCounter}. Progress means aesthetics, not logistics
 
 It's often mentioned that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's rarely mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians find technology interesting only when it advances the *art form*— not the *supply chain*.
 
 Unlike what the indie camp seems to believe, then, history *won't* care how the Internet allowed artists to market and distribute their own works. But it *might* care how BYCombo allowed them to form bands with unprecedented lineups. So come explore one of rock's final frontiers— by having a dancer, puppeteer, or even manager as your bandmate!
 
-### ${++sectionCounter}. A renaissance of seniors awaits
+### ${++sectionCounter}. A renaissance of elders awaits
 
 The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's *another* frontier left to explore! Unfortunately… indie rock isn't cut out for this one either: Hustling requires a youthful spirit, so every indie artist is destined to burn out.
 
