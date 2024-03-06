@@ -339,13 +339,17 @@ In short, today's data-driven industry is what the [*indie* camp wanted](https:/
 
 ${'  ' || `
 // TODO: Ideas are all there. Just focus on coherence and flow. Make sure this is the best place. Another possibility is after paid dues, or after countercultures. But… maybe before romanticism is good?
+
+Third paragraph should say more. What am I talking about when I say scarcity? Boredom? Ignorance? If it's just boredom, doesn't this repeat the serendipity section?
+
+This section may need to just sit for a while.
 `}
 
 Hair metal combined glam's gender-bending look with metal's opposition to authority— but it was a decade too late. Well, indie rock's values were just as stale by the '00s— so Millennials *should* have seen interdependence as their grunge… yet they stuck with indie rock, their hair metal. They simply lacked the artistic courage to start a revolution of their own. Why is this?
 
 Is it that indie rock isn't a genre, but an ideology? No… if anything, this makes its rules *easier* to break. The requirement that artists divert effort toward the hustle, for instance, means that simply doubling down to make art *instead*… now marks you as a revolutionary. Who *wouldn't* jump on this twofer? As an Xennial, *I* did. I wasn't being courageous; it was the obvious move!
 
-Here's my theory: Artistic courage comes from dealing with boredom— and Millennials only faced boredom long enough to fear it. They were then given structured ways to conquer it— which won their loyalty— but these ways necessarily impose a notion that there's one way it's all "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" work. And so Millennials became rock's first generation of rule *enforcers*.
+Here's my theory: Artistic courage comes from living with boredom— and Millennials only faced boredom long enough to fear it. They were then given structured ways to conquer it— which won their loyalty— but these ways necessarily impose a notion that there's one way it's all "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" work. And so Millennials became rock's first generation of rule *enforcers*.
 
 Yet there's hope: While Boomers are the last generation to have unmitigated love for the [fast food](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) that conquered food scarcity— Millennials may be the last to feel the same about today's "fast info." Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— boredom, in lay terms— along with the artistic courage this builds.
 
