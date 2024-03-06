@@ -339,15 +339,13 @@ In short, today's data-driven industry is what the [*indie* camp wanted](https:/
 
 ${'  ' || `
 // TODO: Ideas are all there. Just focus on coherence and flow. Make sure this is the best place. Another possibility is after paid dues, or after countercultures. But… maybe before romanticism is good?
-
-Second paragraph, reverse order of third sentence. Mention doubling down first, then jumping at the chance.
 `}
 
-Hair metal combined glam's gender-bending look with metal's opposition to authority— but it was a decade too late. Well, indie rock's values were just as stale by the '00s— so Millennials *should* have seen interdependence as their grunge… yet they stuck with indie rock, their hair metal. They simply lacked the courage to start a revolution of their own. Why is this?
+Hair metal combined glam's gender-bending look with metal's opposition to authority— but it was a decade too late. Well, indie rock's values were just as stale by the '00s— so Millennials *should* have seen interdependence as their grunge… yet they stuck with indie rock, their hair metal. They simply lacked the artistic courage to start a revolution of their own. Why is this?
 
-Is it because indie rock is more of an ideology than a genre? No… if anything, this makes its rules *easier* to break. The requirement that artists divert effort toward the hustle, for instance… I mean, who wouldn't jump at the chance to double down on making art *instead*— and be called a revolutionary for it? As an Xennial, *I* did. I wasn't being courageous; it was the obvious move!
+Is it that indie rock isn't a genre, but an ideology? No… if anything, this makes its rules *easier* to break. The requirement that artists divert effort toward the hustle, for instance, means that simply doubling down to make art *instead*… now marks you as a revolutionary. Who *wouldn't* jump on this twofer? As an Xennial, *I* did. I wasn't being courageous; it was the obvious move!
 
-Here's my theory: Artistic courage comes from playing with boredom… and Millennials faced boredom only long enough to fear it. They were then given structured ways to conquer it— which won their loyalty— but such ways are necessarily rooted in fixed ideas for how things are "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" work. And so they became rock's first generation of rule *enforcers*.
+Here's my theory: Artistic courage comes from dealing with boredom— and Millennials only faced boredom long enough to fear it. They were then given structured ways to conquer it— which won their loyalty— but these ways necessarily impose a notion that there's one way it's all "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" work. And so Millennials became rock's first generation of rule *enforcers*.
 
 Yet there's hope: While Boomers are the last generation to have unmitigated love for the [fast food](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) that conquered food scarcity— Millennials may be the last to feel the same about today's "fast info." Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— boredom, in lay terms— along with the artistic courage this builds.
 
