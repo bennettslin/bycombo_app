@@ -67,6 +67,24 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Scarcity inspires generational courage
+
+${'  ' || `
+// TODO: Ideas are all there. Just make sure it flows in logic and coherence.
+
+Put after fair practices section, before romanticism?
+`}
+
+Hair metal combined glam's gender-bending look with metal's aggression— but Gen X saw it as the mere *simulation* of a youth movement, cobbled from a previous generation's ideals and cynically handed to them. Well, the same can be said of indie rock by the '00s— yet Millennials embraced it as their own. They were happy to just *role-play* the [idea of revolution](https://en.wikipedia.org/wiki/Live_action_role-playing_game). But… why?
+
+Is it that indie rock isn't a genre, but an ideology? No… if anything, this makes its rules *easier* to break. The requirement that artists divert effort toward the hustle, for instance, means that simply doubling down to make art *instead*… now marks you as a revolutionary. Who *wouldn't* jump on this twofer? As an Xennial, *I* did. I wasn't trying to be courageous; it was the obvious move!
+
+Here's my theory, then: Artistic courage is inspired by information scarcity. Back when information was costly, Gen X *had* to choose a side to invest in— punks, hippies— and then commit their lives to it. But since Millennials were allowed to be eclectic, they only knew to role-play the *idea* of taking a stand— turning them into putty for a previous generation's losers to mold.
+
+Scarcity also makes you resourceful— yet Millennials faced information scarcity only long enough to fear it. They were then given structured ways to conquer it, which won their loyalty forever— just like Boomers [stayed loyal](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) to the fast food that conquered *food* scarcity. But structures impose notions of how it's "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" be— making Millennials a generation of rule *enforcers*.
+
+Yet there's good news: Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— along with the artistic courage this inspires. And just in time… to try out an Xennial's solution! With BYCombo, you can double down on making art, by spending long stretches *away* from the world's firehose of information— like Gen X used to do.
+
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
