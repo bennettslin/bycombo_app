@@ -321,7 +321,7 @@ Perhaps my arguments against indie rock seem misplaced. After all, aren't the te
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
 
-By contrast, the indie labels respect the people's will— which is measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and then all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is simply to trust the numbers! And for this, the indies get praised as the "good guys."
+By contrast, the indie labels follow the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and then all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is simply to trust the numbers! And for this, the indies get praised as the "good guys."
 
 So when the tech platforms came along, their focus on numbers made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
