@@ -86,7 +86,8 @@ Fortunately, if you aspire to be *most* worthy, you can once again verify your w
 ${'  ' || `
 // TODO: Keep working on. Ideas are there, just need to make sure it flows in coherence and logic.
 
-First paragraph, "same can be said" isn't clear what it's referring to.
+Two "well"s too close together.
+First paragraph, "same can be said" isn't clear what it's referring to. Maybe say, "It was the perfect youth movement— but Gen X dismissed it as a semblance of one, cobbled from the previous generation's ideals. Maybe use "style," not "look."
 Second paragraph, make sure it's clear that the "one rule of our times" is referring to indie rock's rule, not the twofer. May need to change order around.
 Third paragraph, is it clear that the rule breaker is the opposition? "Is only ever a larp," "So anyone who behaves otherwise"
 `}
