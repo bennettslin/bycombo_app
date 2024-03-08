@@ -94,7 +94,7 @@ Third paragraph, is it clear that the rule breaker is the opposition? "Is only e
 
 Hair metal combined glam's gender-bending look with metal's aggression— but Gen X dismissed it as the mere *semblance* of a youth movement, cobbled from the previous generation's ideals. Well, the same can be said of indie rock by the '00s— yet Millennials embraced it! Lacking any courage to start a revolution, they simply [role-played](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larped," the idea of doing so.
 
-Indie rock requires artists to divert effort toward the hustle. But this means that doubling down to make art *instead*… now marks you as a revolutionary! Well, who *wouldn't* jump on this twofer? *I* did— and as an Xennial, what did *I* know of courage? It's just so obviously the one rule of our times that *isn't* a mere larp to break. Yet so few Millennials can see this… Why?
+Indie rock requires artists to divert effort toward the hustle. But this means that doubling down to make art *instead*… now marks you as a revolutionary! Well, who *wouldn't* jump on this twofer? *I* did— and as an Xennial, what did *I* know of courage? It's just obviously the one rule of our times that *isn't* a mere larp to break. Yet Millennials are too loyal to the indie way to see this… Why?
 
 Here's my theory: Back when information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all others. This taught Gen X to stand for their side— knowing that [tribalism is silly](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, who were allowed to be eclectic, it's now the other way around: Taking an artistic stand is *only* a larp— so any opposition *must* be a real threat.
 
@@ -241,12 +241,12 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 ### ${++sectionCounter}. Modern audiences leave quietly
 
 ${'  ' || `
-// TODO: Revise. Better first sentence in first paragraph, to make clear that it's a hypothetical?
+// TODO: Review.
 `}
 
-Hear me out: "Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except, you don't even get a living wage… while the top 1% earn millions. That's not fair! So let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete." Who'd object?
+Hey, here's a thought: "Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except… you don't even get a living wage, while the top 1% earn millions. That's not fair! So let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete." Who'd object?
 
-I'm being silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd leave— and mostly without a fuss. There are just too many other ways to be entertained nowadays. We all get this, right? Okay. Well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
+I'm being silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd leave— and mostly without a fuss. There are too many other ways to be entertained these days. We all get this, right? Okay. Well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. So today's pro-*artist* slant might just be a Millennial fluke— and *not* the future of music.
 
@@ -324,7 +324,7 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
 
-But can't *today's* indies learn to sign the *next* On a Friday? No— because once status *has* to come from hustling, then *hustlers* become the ones with status, and vice versa. That is to say, a culture's status hierarchy is self-reinforcing; it can't be upended from *within*. So the losers have but one recourse: to start a *counter*-culture that just might allow them to be [*tomorrow's* winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
+Well, can't *today's* indies learn to sign the *next* On a Friday? No, because once status *has* to come from hustling, then *hustlers* become the ones with status, and vice versa. That is to say, a culture's status hierarchy is self-reinforcing; it can't be upended from *within*. So the losers have but one recourse: to start a *counter*-culture that just might allow them to be [*tomorrow's* winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
 
 Yet no counterculture has arisen to offer shelter from indie rock, because… well: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
