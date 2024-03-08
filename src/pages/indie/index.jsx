@@ -70,22 +70,21 @@ Here's an incomplete list of ways…
 ### ${++sectionCounter}. Scarcity inspires generational courage
 
 ${'  ' || `
-// TODO: Ideas are all there. Just make sure it flows in logic and coherence.
+// TODO: Keep working on.
 
-Link to pop essay?
-
-Put after fair practices section, before romanticism?
+Second paragraph, make last sentence about Millennials more gracious. Think exclamation points.
+Fourth paragraph, make last sentence more elegant. Millennials believe that structural rules, unlike artistic rules, aren't to be broken.
 `}
 
-Hair metal combined glam's gender-bending look with metal's aggression— but Gen X dismissed it as the mere *simulation* of a youth movement, cobbled from the previous generation's ideals. Well, the same could be said of indie rock by the '00s— yet Millennials embraced it. Lacking the courage to start a revolution, they simply [*role-played*](https://en.wikipedia.org/wiki/Live_action_role-playing_game) the idea instead. But… why?
+Hair metal combined glam's gender-bending look with metal's aggression— but Gen X dismissed it as the mere *semblance* of a youth movement, cobbled from the previous generation's ideals. Well, the same could be said of indie rock by the '00s— yet Millennials embraced it! Lacking any courage to start a revolution, they simply [role-played](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larped," the idea of doing so.
 
-Is it that indie rock isn't a genre, but an ideology? No… if anything, this makes its rules *easier* to break. The requirement that artists divert effort toward the hustle, for instance, means that doubling down to make art instead… *also* marks you as a revolutionary. Who *wouldn't* jump on this twofer? *I* did— and as an Xennial, what did *I* know of courage? It was just the obvious move!
+Indie rock requires artists to divert effort toward the hustle. But this means that doubling down to make art instead… *also* marks you as a revolutionary! Well, who *wouldn't* jump on this twofer? *I* did— and as an Xennial, what did *I* know of courage? It's just so obviously the one rule of our times that *isn't* a mere larp to break. Yet Millennials fail to see this… Why?
 
-Here's my theory, then: Artistic courage comes from… information scarcity. Back when information was costly, Gen X *had* to pick a side— punks, ravers— and then commit entirely to it, [rejecting all others](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But since Millennials were allowed to be eclectic, they only knew to *role-play* the idea of taking a stand— making them putty for the previous generation's losers to mold.
+Here's my theory: Back when information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all others. This taught Gen X to stand for their side— knowing that [tribalism is silly](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, who were allowed to be eclectic, it's now the other way around: Taking an artistic stand is only ever a larp— so any opposition must be a real threat.
 
-Scarcity also builds grit— yet Millennials faced information scarcity only long enough to fear it. They were then given structured ways to conquer it, winning their loyalty forever— just like Boomers [stayed loyal](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) to the fast food that conquered *their* scarcity. But structures impose notions of how it's all "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" work— and this turned Millennials into sticklers for the rules.
+On top of this, Millennials faced information scarcity only long enough to fear it. They were then given structured ways to crush it, which won their loyalty forever— just like Boomers [stayed loyal](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) to the fast food that crushed *food* scarcity. But these ways impose notions of how it's all "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" be— causing Millennials never to break *those* rules.
 
-Yet there's good news: Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— along with the artistic courage this inspires. And just in time… to try out an Xennial's solution! With BYCombo, you can double down on making art, by spending long stretches *away* from the world's firehose of information— like Gen X used to do.
+Yet there's good news: Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— along with the artistic courage this inspires. And just in time… to try an Xennial's solution! With BYCombo, you can double down on making art, by spending long stretches *away* from the world's firehose of information— like Gen X used to do.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
