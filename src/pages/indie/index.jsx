@@ -72,16 +72,18 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: Ideas are all there. Just make sure it flows in logic and coherence.
 
+Link to pop essay?
+
 Put after fair practices section, before romanticism?
 `}
 
-Hair metal combined glam's gender-bending look with metal's aggression— but Gen X saw it as the mere *simulation* of a youth movement, cobbled from a previous generation's ideals and cynically handed to them. Well, the same can be said of indie rock by the '00s— yet Millennials embraced it as their own. They were happy to just *role-play* the [idea of revolution](https://en.wikipedia.org/wiki/Live_action_role-playing_game). But… why?
+Hair metal combined glam's gender-bending look with metal's aggression— but Gen X dismissed it as the mere *simulation* of a youth movement, cobbled from the previous generation's ideals. Well, the same could be said of indie rock by the '00s— yet Millennials embraced it. Lacking the courage to start a revolution, they simply [*role-played*](https://en.wikipedia.org/wiki/Live_action_role-playing_game) the idea instead. But… why?
 
-Is it that indie rock isn't a genre, but an ideology? No… if anything, this makes its rules *easier* to break. The requirement that artists divert effort toward the hustle, for instance, means that simply doubling down to make art *instead*… now marks you as a revolutionary. Who *wouldn't* jump on this twofer? As an Xennial, *I* did. I wasn't trying to be courageous; it was the obvious move!
+Is it that indie rock isn't a genre, but an ideology? No… if anything, this makes its rules *easier* to break. The requirement that artists divert effort toward the hustle, for instance, means that doubling down to make art instead… *also* marks you as a revolutionary. Who *wouldn't* jump on this twofer? *I* did— and as an Xennial, what did *I* know of courage? It was just the obvious move!
 
-Here's my theory, then: Artistic courage is inspired by information scarcity. Back when information was costly, Gen X *had* to choose a side to invest in— punks, hippies— and then commit their lives to it. But since Millennials were allowed to be eclectic, they only knew to role-play the *idea* of taking a stand— turning them into putty for a previous generation's losers to mold.
+Here's my theory, then: Artistic courage comes from… information scarcity. Back when information was costly, Gen X *had* to pick a side— punks, ravers— and then commit entirely to it, [rejecting all others](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But since Millennials were allowed to be eclectic, they only knew to *role-play* the idea of taking a stand— making them putty for the previous generation's losers to mold.
 
-Scarcity also makes you resourceful— yet Millennials faced information scarcity only long enough to fear it. They were then given structured ways to conquer it, which won their loyalty forever— just like Boomers [stayed loyal](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) to the fast food that conquered *food* scarcity. But structures impose notions of how it's "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" be— making Millennials a generation of rule *enforcers*.
+Scarcity also builds grit— yet Millennials faced information scarcity only long enough to fear it. They were then given structured ways to conquer it, winning their loyalty forever— just like Boomers [stayed loyal](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) to the fast food that conquered *their* scarcity. But structures impose notions of how it's all "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" work— and this turned Millennials into sticklers for the rules.
 
 Yet there's good news: Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— along with the artistic courage this inspires. And just in time… to try out an Xennial's solution! With BYCombo, you can double down on making art, by spending long stretches *away* from the world's firehose of information— like Gen X used to do.
 
@@ -91,7 +93,7 @@ In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a 
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
-For example, even after Goatse proved that the Internet caters to the lowest common denominator… indie rock concluded that bands who go viral *aren't* just the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars… this was taken as proof that artists [*don't* benefit](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=You%20could%20argue,kind%20of%20exposure%3F) from a major label deal?!
+For example, even after Goatse proved that the Internet caters to the lowest common denominator… indie rock concluded that bands who go viral *aren't* just the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars… this was taken as proof that artists [*don't* benefit](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=Palmer%20has%20managed%20to%20raise,Universal%27s%20Roadrunner%20imprint) from a major label deal?!
 
 In every early example of online success, chance or privilege clearly played a role. Yet the indie pundits were so eager to "own" the major labels, they downplayed this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public just assumes their music is no good!
 
