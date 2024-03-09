@@ -150,7 +150,9 @@ The sane choice, then, is obvious. Still, what happens if a band tries to make t
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
 ${'  ' || `
-// TODO: Revise. Mention Paul Graham's essay? Move doublespeaker rhyme here? In its place in the decentralization section, talk about technological constraints?
+// TODO: Update?
+
+Move doublespeaker rhyme here? In its place in the decentralization section, talk about technological constraints?
 `}
 
 Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from creative insights that can't be summoned at will.
@@ -333,11 +335,11 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a previous generation. But as for Gen X, they saw it as a tired rehash. Well… in forcing artists to hustle, indie rock by the '00s was no less played out— yet Millennials embraced it as their own! Why were they content to merely [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
+Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a previous generation. But as for Gen X, they saw it as a tired rehash. Well… in forcing artists to hustle, indie rock by the '00s was no less played out— yet Millennials embraced it as their own! Why were they content to just [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
 
-Here's what I mean: If you don't hustle, the indie camp will reject you. But… you should *want* to double down on making art, thereby breaking this rule— and the de facto punishment marks it as a revolutionary act! Who *wouldn't* jump on the twofer? *I* did— and as an Xennial, what did *I* know of courage? It was just the one way left *not* to larp. Yet no Millennials joined me… Why?
+Here's what I mean: If you don't hustle, the indie camp will reject you. But… you should *want* to double down on making art, thereby breaking this rule— and the de facto punishment marks it as a revolutionary act. So it's one way left *not* to larp… *and* it's a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
-This is my guess: Courage is inspired by scarcity— but Millennials only faced information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty for good— just like Boomers stayed loyal to the [fast food](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) that defeated *food* scarcity. And so Millennials became sticklers for *structural* rules that dictate how it's "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" work.
+This is my guess: Courage is inspired by scarcity— but Millennials only faced information scarcity long enough to fear it. They were then given structured means to defeat it, which won their loyalty forever— just like Boomers stayed loyal to the [fast food](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) that defeated *food* scarcity. And so Millennials became sticklers for *structural* rules that dictate how it's "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" work.
 
 There's more: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all the rest. This taught Gen X to stand fiercely for their side— knowing that [tribalism is dumb](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But since Millennials were free to be eclectic, they now see it the other way around: Taking a stand is *just* a larp— while anyone who breaks their rules is a *genuine* threat.
 
@@ -346,7 +348,10 @@ Yet there's good news: Now that Gen Z has only ever faced an *abundance* of info
 ### ${++sectionCounter}. Progress means aesthetics, not logistics
 
 ${'  ' || `
-// TODO: Revise. Mention fictional movie test?
+// TODO: Update?
+
+Mention fictional movie test?
+https://paulgraham.com/startupideas.html
 `}
 
 It's often mentioned that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's rarely mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians find technology interesting only when it advances the *art form*— not the *supply chain*.
@@ -356,10 +361,10 @@ Unlike what the indie camp seems to believe, then, history *won't* care how the 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
 ${'  ' || `
-// TODO: Revise. Mention scientists?
+// TODO: Review.
 `}
 
-The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's *another* frontier left to explore! Unfortunately… indie rock isn't cut out for this one either: Hustling requires a youthful spirit, so every indie artist is destined to burn out.
+The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's still *another* frontier to explore! Unfortunately, indie rock isn't cut out for this one either: Hustling requires a youthful spirit, so every indie artist is destined to burn out.
 
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
 
