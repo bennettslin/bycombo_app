@@ -72,22 +72,18 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: Review a few more times.
 
-Mention courage in first paragraph.
-Make sure flow from first to second paragraph is smooth.
-Second paragraph, don't need to say "de facto" and "bona fide." Too many words. Maybe just for punishment. Maybe also say "of our times."
-Third paragraph, improve last sentence obviously.
-Fourth paragraph, connect last sentence to third sentence.
+Can second paragraph's last sentence say more?
 `}
 
-Combining glam's gender-bending style with metal's aggression, hair metal was the ideal youth movement— for a previous generation. But as for Gen X, they saw it as a tired rehash. Well… in telling you to hustle, indie rock by the '00s was no less played out— yet Millennials embraced it as their own! They were content to just [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of a revolution.
+Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a previous generation. But as for Gen X, they saw it as a tired rehash. Well… in forcing you to hustle, indie rock by the '00s was no less played out— yet Millennials embraced it as their own! Why were they content to merely [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
 
-After all, if you don't hustle, the indie camp will reject you. But you should *want* to double down on making art, thereby breaking this de facto rule— and the de facto punishment now marks you as a bona fide revolutionary! Well, who *wouldn't* jump on the twofer? *I* did— and as an Xennial, what did *I* know of courage? Yet for two decades, Millennials chose to just larp… Why?
+Here's what I mean: If you don't hustle, the indie camp will reject you. But… you should *want* to double down on making art, thereby breaking this rule— and the de facto punishment marks it as a revolutionary act! Who *wouldn't* jump on the twofer? *I* did— and as an Xennial, what did *I* know of courage? Yet Millennials chose to larp instead… Why?
 
-Here's my theory: Courage is inspired by scarcity— but Millennials only faced information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty for good— just like Boomers stayed loyal to the [fast food](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) that defeated *food* scarcity. And so Millennials became sticklers for *structural* rules, along with the idea that there's one way it's "supposed to" be.
+This is my guess: Courage is inspired by scarcity— but Millennials only faced information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty for good— just like Boomers stayed loyal to the [fast food](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) that defeated *food* scarcity. And so Millennials became sticklers for *structural* rules that dictate how it's "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" work.
 
-There's more: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all others. This taught Gen X to stand fiercely for their side— knowing that [tribalism is silly](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, who were free to be eclectic, it's now the other way around: Taking a stand is only *ever* a larp— so resistance to their ideas is an *actual* threat.
+There's more: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all the rest. This taught Gen X to stand fiercely for their side— knowing that [tribalism is dumb](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But since Millennials were free to be eclectic, they see it the other way around: Taking a stand is *only* a larp— while anyone who breaks their rules is a *genuine* threat.
 
-Yet there's good news: Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— along with the courage this inspires. And just in time… to try an Xennial's solution! With BYCombo, you can now aim for the canon, in the only way left that *isn't* just a larp: by refusing to hustle, and doubling down to make art instead.
+Yet there's good news: Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— along with the courage this inspires. And just in time… to try an Xennial's solution! With BYCombo, you can now aim for the canon, in the only way left that *isn't* just a larp: by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -351,7 +347,7 @@ By contrast, the indie labels follow the people's will, as measured by the size 
 
 So when the tech platforms came along, their focus on numbers made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists stick around for hours after a show, just to engage with their fans— and now they can at *any* time!"
 
-In short, today's data-driven industry is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [require artists](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
+In short, today's data-driven industry is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Progress means aesthetics, not logistics
 
