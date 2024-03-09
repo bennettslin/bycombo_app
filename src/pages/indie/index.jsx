@@ -72,16 +72,16 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: Review a few more times.
 
-Can second paragraph's last sentence say more?
+Can second paragraph's last sentence say more? A quick mention of my experience with their close-mindedness?
 `}
 
-Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a previous generation. But as for Gen X, they saw it as a tired rehash. Well… in forcing you to hustle, indie rock by the '00s was no less played out— yet Millennials embraced it as their own! Why were they content to merely [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
+Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a previous generation. But as for Gen X, they saw it as a tired rehash. Well… in forcing you to hustle, indie rock by the '00s was no less played out— yet Millennials embraced it as their own! Why were they content to just [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
 
 Here's what I mean: If you don't hustle, the indie camp will reject you. But… you should *want* to double down on making art, thereby breaking this rule— and the de facto punishment marks it as a revolutionary act! Who *wouldn't* jump on the twofer? *I* did— and as an Xennial, what did *I* know of courage? Yet Millennials chose to larp instead… Why?
 
 This is my guess: Courage is inspired by scarcity— but Millennials only faced information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty for good— just like Boomers stayed loyal to the [fast food](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) that defeated *food* scarcity. And so Millennials became sticklers for *structural* rules that dictate how it's "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" work.
 
-There's more: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all the rest. This taught Gen X to stand fiercely for their side— knowing that [tribalism is dumb](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But since Millennials were free to be eclectic, they see it the other way around: Taking a stand is *only* a larp— while anyone who breaks their rules is a *genuine* threat.
+There's more: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all the rest. This taught Gen X to stand fiercely for their side— knowing that [tribalism is dumb](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But since Millennials were free to be eclectic, they see it the other way around: Taking a stand is *just* a larp— while anyone who breaks their rules is a *genuine* threat.
 
 Yet there's good news: Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— along with the courage this inspires. And just in time… to try an Xennial's solution! With BYCombo, you can now aim for the canon, in the only way left that *isn't* just a larp: by doubling down to make art, for a serious chunk of lifetime.
 
