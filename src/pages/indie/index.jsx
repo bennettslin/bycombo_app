@@ -72,6 +72,8 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: Review a few more times.
 
+First paragraph should say, "forcing us"?
+
 Can second paragraph's last sentence say more? A quick mention of my experience with their close-mindedness?
 `}
 
