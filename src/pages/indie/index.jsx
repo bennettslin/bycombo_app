@@ -67,40 +67,23 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Democratization causes noise pollution
-
-${'  ' || `
-// TODO: Revise. In first paragraph, make comparison more clear by saying that indie camp wants to democratize music. Get rid of online tools and grunt work if needed.
-`}
-
-To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who *else* thought this way: the indie camp! They wanted *every* artist to be heard, not just those "verified" by a label— and so they promoted the use of online tools that merely take some grunt work.
-
-But this creates its own problems, doesn't it? Once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. So now, like Twitter, music is "polluted" with dishonest signaling from the *least* worthy— who can just invest in the signal itself, rather than in the worth being verified!
-
-To complicate matters, pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest— which means it *must* be solved with top-down planning. But the indie camp's thinking is bottom up; under their watch, change can only happen at the grassroots. And so they'll *never* clean up this mess they've created…
-
-Fortunately, if you aspire to be *most* worthy, you can once again verify your worth from the top down— with BYCombo! Because what's a more honest signal than to sacrifice a serious chunk of lifetime?
-
 ### ${++sectionCounter}. Scarcity inspires generational courage
 
 ${'  ' || `
-// TODO: Keep working on. Ideas are there, just need to make sure it flows in coherence and logic.
+// TODO: Review a few more times.
 
-Two "well"s too close together.
-First paragraph, "same can be said" isn't clear what it's referring to. Maybe say, "It was the perfect youth movement— but Gen X dismissed it as a semblance of one, cobbled from the previous generation's ideals. Maybe use "style," not "look."
-Second paragraph, make sure it's clear that the "one rule of our times" is referring to indie rock's rule, not the twofer. May need to change order around.
-Third paragraph, is it clear that the rule breaker is the opposition? "Is only ever a larp," "So anyone who behaves otherwise"
+First paragraph to second paragraph. Flow could be better.
 `}
 
-Hair metal combined glam's gender-bending look with metal's aggression— but Gen X dismissed it as the mere *semblance* of a youth movement, cobbled from the previous generation's ideals. Well, the same can be said of indie rock by the '00s— yet Millennials embraced it! Lacking any courage to start a revolution, they simply [role-played](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larped," the idea of doing so.
+Combining glam's gender-bending style with metal's aggression, hair metal was the ideal youth movement— for a previous generation. But as for Gen X… they saw it as a tired rehash. Well, indie rock by the '00s was no less played out— yet Millennials embraced it as their own! Lacking the courage to start a revolution, they simply [role-played](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larped," the idea of doing so. Why?
 
-Indie rock requires artists to divert effort toward the hustle. But this means that doubling down to make art *instead*… now marks you as a revolutionary! Well, who *wouldn't* jump on this twofer? *I* did— and as an Xennial, what did *I* know of courage? It's just obviously the one rule of our times that *isn't* a mere larp to break. Yet Millennials are too loyal to the indie way to see this… Why?
+Here's what I mean: The indie gatekeepers tell you to hustle, right? Or else you'll remain ignored. But this means it's the one rule of our times that *isn't* a mere larp to break. So doubling down to make art *instead*… also makes *you* a revolutionary! Who wouldn't jump on this twofer? *I* did— and as an Xennial, what did *I* know of courage? Yet Millennials still chose to larp…
 
-Here's my theory: Back when information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all others. This taught Gen X to stand for their side— knowing that [tribalism is silly](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, who were allowed to be eclectic, it's now the other way around: Taking an artistic stand is *only* a larp— so any opposition *must* be a real threat.
+So here's my theory: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all others. This taught Gen X to stand for their side— knowing that [tribalism is silly](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, who were free to be eclectic, it's now the other way around: Taking a stand is *just* a larp— while any resistance to this thinking *must* be a genuine threat.
 
-On top of this, Millennials faced information scarcity only long enough to fear it. They were then given structured ways to crush it, which won their loyalty forever— just like Boomers [stayed loyal](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) to the fast food that crushed *food* scarcity. But all these ways impose notions of how it's "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" be— leading Millennials to insist that *structural* rules can't be broken.
+On top of this, Millennials faced information scarcity only long enough to fear it. They were then given structured means to defeat it, which won their loyalty forever— just like Boomers [stayed loyal](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) to the fast food that defeated *food* scarcity. But these means all come with ideas of how it's "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" be— leading Millennials to believe that *structural* rules can't be broken.
 
-Yet there's good news: Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— along with the artistic courage this inspires. And just in time… to try an Xennial's solution! With BYCombo, you can double down on making art, by spending long stretches *away* from the world's firehose of information— like Gen X used to do.
+Yet there's good news: Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— along with the courage this inspires. And just in time… to try an Xennial's solution! With BYCombo, you can now aim for the canon, in the one way left that *isn't* a mere larp: by doubling down to make art for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -237,6 +220,20 @@ The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-
 Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can one day become, the past proves that rock can be interdependent once again!
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until business partners finally reciprocate the courage to team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
+
+### ${++sectionCounter}. Democratization causes noise pollution
+
+${'  ' || `
+// TODO: Review.
+`}
+
+To "democratize" Twitter, Elon Musk made the blue checkmark available to any paid account; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who *else* thought this way: the indie camp! They wanted *every* artist to be heard, not just those "verified" by a label— and so they democratized music by promoting the use of online tools.
+
+But… this creates its own problems, doesn't it? Once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. So now, like Twitter, music is "polluted" by dishonest signaling from the *least* worthy— who alone can fully invest in the signal itself, rather than in the worth being verified!
+
+To complicate matters, pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest— which means it *must* be solved with top-down planning. But the indie camp's thinking is bottom up; under their watch, change can *only* happen at the grassroots. And so they'll never clean up this mess they've created…
+
+Fortunately, if you aspire to be *most* worthy, you can once again verify your worth from the top down— with BYCombo! Because what's a more honest signal, than to sacrifice a serious chunk of lifetime?
 
 ### ${++sectionCounter}. Modern audiences leave quietly
 
