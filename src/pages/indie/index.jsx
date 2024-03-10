@@ -217,10 +217,6 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To "democratize" Twitter, Elon Musk made the blue checkmark available to *any* paid account; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that *anyone* can pour effort into.
 
 But… this creates its own problems, doesn't it? Once "verification" is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. So now, like Twitter, music is "polluted" by dishonest signaling from the *least* worthy— who alone can fully invest in the signal itself, rather than in the worth being verified!
@@ -337,10 +333,6 @@ In short, today's data-driven industry is what the [*indie* camp wanted](https:/
 
 ### ${++sectionCounter}. Scarcity inspires generational courage
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Hair metal combined glam's gender-bending look with metal's aggression. It was the ideal youth movement— for a previous generation. As for Gen X… they saw it as a tired rehash. But in forcing artists to hustle, indie rock by the '00s was no less played out— yet Millennials embraced it as their own! Why were they content to just [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
 
 Here's what I mean: If you don't hustle, the indie camp will reject you. But… you should *want* to double down on making art, thereby breaking their rule— and the de facto punishment marks it as a revolutionary act. So this is *one* way not to larp… *and* it's a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
@@ -357,17 +349,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-What counts as a larp? Here's a test: "Could this have been a fictional movie *instead*?" A fictional Stephen Sondheim, let's say… How do you commission the soundtrack?! "Well, in *that* case," the indie camp might retort, "stories of online success are never larps *either*, since the technology is always too new." Okay, that's fair. But then, who are the *real* heroes: the artists— or the *apps*?
+What counts as a larp? Here's a test: "Could this have been a fictional movie *instead*?" A fictional Stephen Sondheim, let's say… How do you commission the soundtrack?! "Then online success stories can't be larps *either*," the indie camp might retort. "The technology is always too new for moviegoers to get." Okay, that's fair. But who are the *real* heroes there: the artists— or the *apps*?
 
-It's often mentioned that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's rarely mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians find technology interesting *only* when it advances the art form— *not* the supply chain.
+It's often mentioned that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's rarely mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians find technology interesting only when it advances the *art form*— not the *supply chain*.
 
 Unlike what the indie camp seems to believe, then, history *won't* care how the Internet allowed artists to market and distribute their own works. But it *might* care how BYCombo allowed them to form bands with unprecedented lineups. So come explore *another* remaining frontier— by having a dancer, puppeteer, or even manager as your bandmate!
 
 ### ${++sectionCounter}. A renaissance of elders awaits
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this still isn't the case with rock bands— which means there's yet *another* frontier left to explore! Unfortunately… indie rock isn't cut out for this one either: Hustling requires a youthful spirit, so every indie artist is destined to burn out.
 
