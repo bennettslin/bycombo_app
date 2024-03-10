@@ -51,7 +51,11 @@ To aim for the canon, a band must develop exceptional strengths. But this isn't 
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own go-to example. Yes, anyone today can self-release their works— but this is a *curse*, not a *blessing*. Past artists put out *demos*, and to compete with them means doing likewise.
+${'  ' || `
+// TODO: Review.
+`}
+
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to envision what they can't fully realize on their own; it awakens the very thought to even try. Yes, anyone today can self-release their works— but this is a *curse*, not a *blessing*. Past artists put out *demos*, and to compete with them means doing likewise.
 
 **Why a public registry?**
 
@@ -152,7 +156,9 @@ The sane choice, then, is obvious. Still, what happens if a band tries to make t
 ${'  ' || `
 // TODO: Update?
 
-Move doublespeaker rhyme here? In its place in the decentralization section, talk about technological constraints?
+Move mention of doublespeaker rhyme here. "with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own go-to example."
+
+Also through "creative risk" somewhere? Since it was removed from decentralization section.
 `}
 
 Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from creative insights that can't be summoned at will.
