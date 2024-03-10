@@ -364,7 +364,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-The best composers got *better* with age— Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case with rock bands— which means there's still *another* frontier to explore! Unfortunately, indie rock isn't cut out for this one either: Hustling requires a youthful spirit, so every indie artist is destined to burn out.
+Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this isn't yet the case with rock bands— which means there's still *another* frontier left to explore! Unfortunately… indie rock isn't cut out for this one either: Hustling requires a youthful spirit, so every indie artist is destined to burn out.
 
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
 
