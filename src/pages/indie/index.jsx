@@ -353,9 +353,15 @@ Yet there's good news: Now that Gen Z has only ever faced an *abundance* of info
 
 ### ${++sectionCounter}. Progress means aesthetics, not logistics
 
-It's often mentioned that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's rarely mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians find technology interesting only when it advances the *art form*— not the *supply chain*.
+${'  ' || `
+// TODO: Review.
+`}
 
-Unlike what the indie camp seems to believe, then, history *won't* care how the Internet allowed artists to market and distribute their own works. But it *might* care how BYCombo allowed them to form bands with unprecedented lineups. So come explore one of rock's final frontiers— by having a dancer, puppeteer, or even manager as your bandmate!
+What counts as a larp? Here's a test: "Could this have been a fictional movie *instead*?" A fictional Stephen Sondheim, let's say… How do you commission the soundtrack?! "Well, in *that* case," the indie camp might retort, "stories of online success are never larps *either*, since the technology is always too new." Okay, that's fair. But then, who are the *real* heroes: the artists— or the *apps*?
+
+It's often mentioned that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's rarely mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians find technology interesting *only* when it advances the art form— *not* the supply chain.
+
+Unlike what the indie camp seems to believe, then, history *won't* care how the Internet allowed artists to market and distribute their own works. But it *might* care how BYCombo allowed them to form bands with unprecedented lineups. So come explore *another* remaining frontier— by having a dancer, puppeteer, or even manager as your bandmate!
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
