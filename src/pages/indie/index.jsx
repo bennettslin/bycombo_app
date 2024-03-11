@@ -329,7 +329,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Hair metal combined glam's gender-bending look with metal's aggression. It was the ideal youth movement— for a previous generation. But as for Gen X… they saw it as a tired rehash. Well, in forcing artists to hustle, indie rock by the '00s was no less a relic— yet Millennials embraced it as their own! Why were they content to merely [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
+Hair metal combined glam's gender-bending look with metal's aggression. It was the perfect youth movement— for a previous generation. As for Gen X… they saw it as a tired rehash. But in forcing artists to hustle, indie rock by the '00s was no less a relic— yet Millennials embraced it as their own! Why were they content to merely [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
 
 Here's what I mean: If you don't hustle, the indie camp will reject you. But… you should *want* to double down on making art, thereby breaking their rule— and the de facto punishment marks it as a revolutionary act. So this is *one* way not to larp… *and* it's a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet Millennials chose the larp… Why?
 
@@ -345,9 +345,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-What's a larp? Here's my test: Could it have been a fictional movie— *instead*? Let's say, a fictional Queen… Who would have composed the soundtrack?! So, Queen: *no* larp. "Well, in *that* case, isn't it *also* not a larp… when indie artists succeed using an app that changed the paradigm too soon to make sense in a movie?" Okay, sure. But then, isn't the *real* hero there… the *app*?
+What's a "larp"? Here's my test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… Who would have composed the soundtrack?! So, Queen: *no* larp. "Well, in *that* case, isn't an artist who hustles *also* not larping, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, that's fair. But then, isn't the *real* hero there… the *app*?
 
-In music history class, we're taught that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). It's rarely mentioned, however, that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians care about technology when it advances the *art form*— not the *supply chain*.
+In music history class, we're taught that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). It's hardly mentioned, however, that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians care about technology when it advances the *art form*— not the *supply chain*.
 
 Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to market and distribute their own works. But it *might* care how BYCombo allowed them to form bands with unprecedented lineups. So come explore *another* remaining frontier— by having a dancer, puppeteer, or even manager as your bandmate!
 
