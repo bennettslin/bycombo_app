@@ -51,11 +51,7 @@ To aim for the canon, a band must develop exceptional strengths. But this isn't 
 
 **Why demos?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to pursue visions they can't fully realize on their own; it awakens the very thought to even try. Yes, anyone today can self-release their works— but this is a *curse*, not a *blessing*. Past artists put out *demos*, and to compete with them means doing likewise.
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own go-to example. Yes, anyone today can self-release their works— but this is a *curse*, not a *blessing*. Past artists put out *demos*, and to compete with them means doing likewise.
 
 **Why a public registry?**
 
@@ -152,14 +148,6 @@ They can hustle to build a fanbase on their own— which yields *compound* retur
 The sane choice, then, is obvious. Still, what happens if a band tries to make the best art *anyway*? Add up their gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for going above and beyond to bring it back.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
-
-${'  ' || `
-// TODO: Update?
-
-Move mention of doublespeaker rhyme here. "with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own go-to example."
-
-Also through "creative risk" somewhere? Since it was removed from decentralization section.
-`}
 
 Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from creative insights that can't be summoned at will.
 
@@ -333,7 +321,11 @@ In short, today's data-driven industry is what the [*indie* camp wanted](https:/
 
 ### ${++sectionCounter}. Scarcity inspires generational courage
 
-Hair metal combined glam's gender-bending look with metal's aggression. It was the ideal youth movement— for a previous generation. As for Gen X… they saw it as a tired rehash. But in forcing artists to hustle, indie rock by the '00s was no less played out— yet Millennials embraced it as their own! Why were they content to just [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
+${'  ' || `
+// TODO: Review.
+`}
+
+Hair metal combined glam's gender-bending look with metal's aggression. It was the ideal youth movement— for a previous generation. As for Gen X… they saw it as a tired rehash. Well, in forcing artists to hustle, indie rock by the '00s was no less played out— yet Millennials embraced it as their own! Why were they content to just [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
 
 Here's what I mean: If you don't hustle, the indie camp will reject you. But… you should *want* to double down on making art, thereby breaking their rule— and the de facto punishment marks it as a revolutionary act. So this is *one* way not to larp… *and* it's a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
