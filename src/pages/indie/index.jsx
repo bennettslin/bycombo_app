@@ -327,7 +327,7 @@ ${'  ' || `
 
 Hair metal combined glam's gender-bending look with metal's aggression. It was the ideal youth movement— for a previous generation. But as for Gen X… they saw it as a tired rehash. Well, in forcing artists to hustle, indie rock by the '00s was no less a relic— yet Millennials embraced it as their own! Why were they content to just [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
 
-This is what I mean: If you don't hustle, the indie camp will reject you. But… you should *want* to double down on making art, thereby breaking their rule— and the de facto punishment marks it as a revolutionary act. So this is *one* way not to larp… *and* it's a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet Millennials chose the larp… Why?
+Here's what I mean: If you don't hustle, the indie camp will reject you. But… you should *want* to double down on making art, thereby breaking their rule— and the de facto punishment marks it as a revolutionary act. So this is *one* way not to larp… *and* it's a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet Millennials chose the larp… Why?
 
 Here's my guess: Courage is inspired by scarcity— but Millennials only faced information scarcity long enough to fear it. They were then given structured means to defeat it, which won their loyalty forever— just like Boomers stayed loyal to the [fast food](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) that defeated *food* scarcity. And so Millennials became sticklers for *structural* rules that dictate how it's "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" work.
 
@@ -341,9 +341,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-What counts as a larp? Here's a test: "Could this have been a fictional movie *instead*?" A fictional Queen, let's say… How would you commission the soundtrack?! So: *not* a larp. Yet in *that* case— isn't it *also* not a larp… when indie artists get heard using an app that changed the paradigm too soon to make sense in a movie? Okay, sure. But then, isn't the *real* hero… the *app*?
+What's a larp? Here's a test: "Could this have been a fictional movie *instead*?" Let's say, a fictional Queen… Who would have composed the soundtrack?! So, Queen: *not* a larp. "Yet in *that* case, isn't it *also* not a larp… when indie artists get heard using an app that changed the paradigm too soon to make sense in a movie?" Okay, sure. But then, isn't the *real* hero there… the *app*?
 
-The thing is this: It's *often* mentioned that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). But it's *rarely* mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians find technology interesting only when it advances the *art form*— not the *supply chain*.
+In music history class, you're taught that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). It's rarely mentioned, however, that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians care about technology when it advances the *art form*— not the *supply chain*.
 
 Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to market and distribute their own works. But it *might* care how BYCombo allowed them to form bands with unprecedented lineups. So come explore *another* remaining frontier— by having a dancer, puppeteer, or even manager as your bandmate!
 
