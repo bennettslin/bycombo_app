@@ -329,7 +329,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Hair metal combined glam's gender-bending look with metal's aggression. It was the ideal youth movement— for a previous generation. But as for Gen X… they saw it as a tired rehash. Well, in forcing artists to hustle, indie rock by the '00s was no less a relic— yet Millennials embraced it as their own! Why were they content to just [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
+Hair metal combined glam's gender-bending look with metal's aggression. It was the ideal youth movement— for a previous generation. But as for Gen X… they saw it as a tired rehash. Well, in forcing artists to hustle, indie rock by the '00s was no less a relic— yet Millennials embraced it as their own! Why were they content to merely [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
 
 Here's what I mean: If you don't hustle, the indie camp will reject you. But… you should *want* to double down on making art, thereby breaking their rule— and the de facto punishment marks it as a revolutionary act. So this is *one* way not to larp… *and* it's a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet Millennials chose the larp… Why?
 
