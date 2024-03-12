@@ -81,11 +81,7 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
-${'  ' || `
-// TODO: Review.
-`}
-
-In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we truly *supported* were amateurs, recluses, the mentally ill… Yet today's fans use the term "support" to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with high-minded endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
+In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we *truly* supported were amateurs, recluses, the mentally ill… Yet today's fans use the word "support" to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with high-minded endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a supreme advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
 
@@ -209,13 +205,9 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To "democratize" Twitter, Elon Musk made the blue checkmark available to *any* paid account; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that *anyone* can pour effort into.
 
-But doesn't this create its own problems? Once [a signal](https://en.wikipedia.org/wiki/Signaling_game) used for verification becomes easy to attain, it ceases to be honest; we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy— who can just invest in the signal itself, rather than in the worth being verified!
+But doesn't this create its own problems? Once [a signal](https://en.wikipedia.org/wiki/Signaling_game) used for verification becomes easy to attain, it ceases to be honest; we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy— who alone can fully invest in the signal itself, rather than in the worth being verified!
 
 To complicate matters, pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest— which means it *must* be solved with top-down planning. But the indie camp's thinking is bottom up; under their watch, change can *only* happen at the grassroots. And so they'll never clean up this mess they've created…
 
@@ -225,7 +217,7 @@ Fortunately, if you aspire to be *most* worthy, you can once again verify your w
 
 Hey, here's a thought: "Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except… you don't even get a living wage, while the top 1% earn millions. That's not fair! So let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete." Who'd object?
 
-I'm being silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd leave— and mostly without a fuss. There are too many other ways to be entertained these days. We all get this, right? Okay. Well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
+I'm being silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd leave— and likely without a fuss. There are too many other ways to be entertained these days. We all get this, right? Okay. Well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. So today's pro-*artist* slant might just be a Millennial fluke— and *not* the future of music.
 
@@ -255,11 +247,15 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Every indie gatekeeper who's met with me has drawn the same conclusion: "Sure, your [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but you're just a hobbyist." Over time I came to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
-So don't be fooled by indie rock's recent embrace of diversity! It doesn't sum up to any further diversity in *thought*. But BYCombo lets you find business partners who think differently… and who'll value *you* for doing the same.
+So don't be fooled by indie rock's recent embrace of diversity! It doesn't sum up to any further diversity in *thought*. But BYCombo lets you find bandmates and business partners who think differently… and who'll value *you* for doing the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
@@ -297,7 +293,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Rappers love to bash the "[wack MC](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you refuse to pay your dues and hustle— a plain assessment of what you *do*.
+Rappers love to bash the "[wack MC](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't pay your dues by hustling.
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
@@ -319,9 +315,9 @@ Ignore the superficial differences in sound: Indie rock and poptimism are both u
 
 In a world where outsiders try much harder, to be much better, both indie rock and poptimism protect the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
 
-This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
+This… *can't* be a viable way to make history. Because what historical figures from our past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-Yet underdog movements will never go away, because to be seen as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as you're hungry enough to try much harder, to be much better… then BYCombo can offer a lasting *counter*-movement— the new rockism, maybe?
+Yet underdog movements will never go away, because to be seen as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as you're hungry enough to try much harder, to be much better… BYCombo can offer a lasting *counter*-movement— the new rockism, maybe?
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
@@ -337,10 +333,6 @@ In short, today's data-driven industry is what the [*indie* camp wanted](https:/
 
 ### ${++sectionCounter}. Scarcity inspires generational courage
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Hair metal combined glam's gender-bending look with metal's aggression. It was the perfect youth movement— for a previous generation. As for Gen X… they saw it as a tired rehash. But in forcing artists to hustle, indie rock was no less a relic by the '00s— yet Millennials embraced it as their own! Why were they content to merely [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But… you should *want* to double down on making art, thereby breaking their rule— and the de facto punishment marks it as a revolutionary act. So this is *one* way not to larp… *and* it's a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet Millennials chose the larp… Why?
@@ -352,10 +344,6 @@ There's more: When information was scarce, joining a scene— punk, rave— took
 Yet there's good news: Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— along with the courage this inspires. And just in time… to try an Xennial's solution! With BYCombo, you can aim for the canon once more, in perhaps the only way left that *isn't* a larp: by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Progress means aesthetics, not logistics
-
-${'  ' || `
-// TODO: Review.
-`}
 
 What's a "larp"? Here's my test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… Who would have composed the soundtrack?! So, Queen: no larp. "Well then, isn't an indie artist who hustles *also* not larping, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, that's fair. But in that case, isn't the *real* hero… the *app*?
 
