@@ -215,7 +215,7 @@ ${'  ' || `
 
 To "democratize" Twitter, Elon Musk made the blue checkmark available to *any* paid account; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that *anyone* can pour effort into.
 
-But doesn't this create its own problems? Once [a signal](https://en.wikipedia.org/wiki/Signaling_game) used for verification becomes easy to attain, it ceases to be honest; we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by dishonest signaling from the *least* worthy— who alone can fully invest in the signal itself, rather than in the worth being verified!
+But doesn't this create its own problems? Once [a signal](https://en.wikipedia.org/wiki/Signaling_game) used for verification becomes easy to attain, it ceases to be honest; we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy— who can just invest in the signal itself, rather than in the worth being verified!
 
 To complicate matters, pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest— which means it *must* be solved with top-down planning. But the indie camp's thinking is bottom up; under their watch, change can *only* happen at the grassroots. And so they'll never clean up this mess they've created…
 
@@ -345,11 +345,11 @@ Hair metal combined glam's gender-bending look with metal's aggression. It was t
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But… you should *want* to double down on making art, thereby breaking their rule— and the de facto punishment marks it as a revolutionary act. So this is *one* way not to larp… *and* it's a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet Millennials chose the larp… Why?
 
-Here's my guess: Courage is inspired by scarcity— but Millennials only faced information scarcity long enough to fear it. They were then given structured means to defeat it, which won their loyalty forever— just like Boomers stayed loyal to the [fast food](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) that defeated *food* scarcity. And so Millennials became sticklers for *structural* rules that dictate how it's "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" work.
+Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured means to defeat it, which won their loyalty forever— just like Boomers stayed loyal to the [fast food](https://media.newyorker.com/photos/5c3e10b2f92c694343cc71b9/master) that defeated *food* scarcity. And so Millennials became sticklers for *structural* rules that dictate how it's "[supposed to](https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Damn%2C%20maybe%20this,supposed%20to%20work!)" work.
 
 There's more: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all the rest. This taught Gen X to stand fiercely for their side— knowing that [tribalism is dumb](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, who were free to be eclectic, it's now the other way around: Taking a stand is *just* a larp— while those who break the rules are an *actual* threat.
 
-Yet there's good news: Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— along with the courage this inspires. And just in time… to try an Xennial's solution! With BYCombo, you can choose *not* to larp, in perhaps the only way left: by shutting off the firehose of information, and doubling down to make art.
+Yet there's good news: Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— along with the courage this inspires. And just in time… to try an Xennial's solution! With BYCombo, you can aim for the canon once more, in perhaps the only way left that *isn't* a larp: by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Progress means aesthetics, not logistics
 
@@ -357,7 +357,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-What's a "larp"? Here's my test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… Who would have composed the soundtrack?! So, Queen: no larp. "Well then, isn't any indie artist who hustles *also* not larping, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, that's fair. But in that case, isn't the *real* hero… the *app*?
+What's a "larp"? Here's my test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… Who would have composed the soundtrack?! So, Queen: no larp. "Well then, isn't an indie artist who hustles *also* not larping, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, that's fair. But in that case, isn't the *real* hero… the *app*?
 
 In music history class, we're taught that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians care about technology when it advances the *art form*— not the *supply chain*.
 
