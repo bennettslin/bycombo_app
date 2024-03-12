@@ -354,10 +354,10 @@ Yet there's good news: Now that Gen Z has only ever faced an *abundance* of info
 ### ${++sectionCounter}. Progress means aesthetics, not logistics
 
 ${'  ' || `
-// TODO: Revise. Put part about too soon for a movie back in the quote.
+// TODO: Review.
 `}
 
-What's a "larp"? Here's my test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… Who would have composed the soundtrack?! So, Queen: *no* larp. "Well, then… isn't it *also* no larp when an artist hustles using an app that's *still* changing the paradigm?" Okay, that's fair— it's too soon for a movie to make sense. But in that case, isn't the *real* hero… the *app*?
+What's a "larp"? Here's my test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… Who would have composed the soundtrack?! So, Queen: no larp. "Well then, isn't any indie artist who hustles *also* not larping, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, that's fair. But in that case, isn't the *real* hero… the *app*?
 
 In music history class, we're taught that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians care about technology when it advances the *art form*— not the *supply chain*.
 
