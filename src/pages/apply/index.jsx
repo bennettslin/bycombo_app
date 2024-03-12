@@ -21,11 +21,7 @@ Furthermore, the only measure of empowerment is the size of an artist's fanbase.
 
 ### Who we're looking for
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Are you eager to make history by advancing the art form? Are you ready to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project— which likely means quitting [social media](/indie#scarcity-inspires-generational-courage)?
+Are you eager to make history by advancing the art form? Are you ready to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project?
 
 Most importantly, are you willing to defy indie rock's gatekeepers— its labels, curators, and pundits — even as they have the power to shut you out forever? That is to say, do you understand that, after sacrificing a serious chunk of your lifetime, you may be left with nothing to show but the work you've done, the talents you've built, and the friends you've made?
 
