@@ -338,7 +338,7 @@ In short, today's data-driven industry is what the [*indie* camp wanted](https:/
 ### ${++sectionCounter}. Scarcity inspires generational courage
 
 ${'  ' || `
-// TODO: Revise. Make last paragraph about revolution. Or, at the very least, better.
+// TODO: Review.
 `}
 
 Hair metal combined glam's gender-bending look with metal's aggression. It was the perfect youth movement— for a previous generation. As for Gen X… they saw it as a tired rehash. But in forcing artists to hustle, indie rock was no less a relic by the '00s— yet Millennials embraced it as their own! Why were they content to merely [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
@@ -349,7 +349,7 @@ Here's my guess: Courage is inspired by scarcity— but Millennials only faced i
 
 There's more: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all the rest. This taught Gen X to stand fiercely for their side— knowing that [tribalism is dumb](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, who were free to be eclectic, it's now the other way around: Taking a stand is *just* a larp— while those who break the rules are an *actual* threat.
 
-Yet there's good news: Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— along with the courage this inspires. And just in time… to try an Xennial's solution! With BYCombo, you can shut off the firehose of information, and double down to make art— perhaps the one way left *not* to larp.
+Yet there's good news: Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— along with the courage this inspires. And just in time… to try an Xennial's solution! With BYCombo, you can choose *not* to larp, in perhaps the only way left: by shutting off the firehose of information, and doubling down to make art.
 
 ### ${++sectionCounter}. Progress means aesthetics, not logistics
 
