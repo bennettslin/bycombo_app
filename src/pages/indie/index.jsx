@@ -205,10 +205,6 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
 
 But this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone can fully invest in the signal itself— rather than in the worth being verified!
@@ -299,7 +295,7 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
 
-Well, can't *today's* indies learn to sign the *next* On a Friday? No, because once status has to come from hustling, then hustlers become the ones with status, and vice versa. That is to say, a culture's status hierarchy is self-reinforcing; it can't be upended from *within*. So the losers have but one recourse: to start a *counter*-culture that just might allow them to be [*tomorrow's* winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
+Well, can't *today's* indies learn to sign the *next* On a Friday? No. When status *has* to come from hustling, then *hustlers* become the ones with status— and vice versa. That is to say, a culture's status hierarchy is self-reinforcing; it *can't* be upended from within. So the losers have but one recourse: to start a *counter*-culture… which just might let them be [*tomorrow's* winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)!
 
 Yet no counterculture has arisen to offer shelter from indie rock, because… well: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
@@ -341,7 +337,7 @@ Combining glam's gender-bending look with metal's aggression, hair metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art, thus breaking their rule— and the punishment means that history will see your act as courageous. So this is one way *not* to larp… *and* it's a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
-Here's my guess: Courage is just working around scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty forever. So now the *only* rules left in our times that still take courage to break— are the structural ones, like indie rock's, that *they* themselves enforce!
+Here's my guess: Courage is just working around scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty forever. So now the *only* rules left that take any courage to break— are the structural ones, like indie rock's, that *they* themselves enforce!
 
 There's more: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all the rest. This taught Gen X to stand fiercely for their side— knowing that [tribalism is dumb](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, who were free to be eclectic, it's now the other way around: Taking a stand is *just* a larp— while anyone who breaks the rules is an *actual* threat.
 
