@@ -209,9 +209,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To "democratize" Twitter, Elon Musk made the blue checkmark available to *any* paid account; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that *anyone* can pour effort into.
+To "democratize" Twitter, Elon Musk made the blue checkmark available to *any* paid account; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be "verified," not just those signed to a label— and so they encourage the use of online tools that *anyone* can pour effort into.
 
-But doesn't this create its own problems? Once [a signal](https://en.wikipedia.org/wiki/Signaling_game) used for verification becomes easy to attain, it ceases to be honest; we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone can fully invest in the signal itself— rather than in the worth being verified!
+But doesn't this create its own problems? Verification is [a signal](https://en.wikipedia.org/wiki/Signaling_game), and once that signal becomes easy to attain, it ceases to be honest; we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone can fully invest in the signal itself— rather than in the worth being verified!
 
 To complicate matters, pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individual parties acting in their own self-interest— which means it *must* be solved with top-down planning. But the indie camp's thinking is bottom up; under their watch, change can *only* happen at the grassroots. And so they'll never clean up this mess they've created…
 
@@ -251,15 +251,11 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Every indie gatekeeper who's met with me has drawn the same conclusion: "Sure, your [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but you're just a hobbyist." Over time I came to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
-So don't be fooled by indie rock's recent embrace of women and minorities: It doesn't sum up to any further diversity in *thought*. But BYCombo lets you find bandmates and business partners who think differently… and who'll value *you* for doing the same.
+So don't be fooled by indie rock's recent embrace of women and minorities! It doesn't add up to any further diversity in *thought*. But BYCombo lets you find bandmates and business partners who think differently… and who'll value *you* for doing the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
@@ -271,15 +267,11 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 ### ${++sectionCounter}. Organized camaraderie is cronyism
 
-${'  ' || `
-// TODO: Review.
-`}
-
 While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *just* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male gatekeepers can only try to be more inclusive in whom they accept as their own.
 
-Yet their belated push for diversity strictly helps women, not minorities— not *male* minorities, anyway. Because while all minorities struggle with stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model), women struggle solely with stereotypes of low *competence*. And social justice only fixes misperceptions of competence; a circle of friends has every right to feel more warmly of their own.
+Yet their belated push for diversity strictly helps women, not minorities— not *male* minorities, anyway. Because while all minorities struggle with stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model), women struggle solely with stereotypes of low *competence*. And social justice only fixes misperceptions of competence; a circle of friends has every right to feel more warmly toward their own.
 
 Which is why we minorities *don't* begrudge business partners their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
 
@@ -301,7 +293,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Rappers love to bash the "[wack MC](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't pay your dues by hustling.
+Rappers love to bash the "[wack MC](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain assessment of whether you paid your dues.
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
@@ -313,10 +305,6 @@ Yet no counterculture has arisen to offer shelter from indie rock, because… we
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Perhaps my arguments against indie rock seem moot now. After all, didn't [poptimism defeat rockism](https://en.wikipedia.org/wiki/Rockism_and_poptimism) a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's East European immigrants.
@@ -325,7 +313,7 @@ In a world where outsiders try much harder, to be much better, both indie rock a
 
 This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-Yet underdog movements will never go away, because to be seen as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as you're hungry enough to try much harder, to be much better, BYCombo is here to offer a lasting *counter*-movement— the new "rockism," maybe?
+Yet underdog movements will never go away, because to be seen as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as you're hungry enough to try much harder, to be much better, BYCombo can offer a lasting *counter*-movement— the new "rockism," maybe?
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
