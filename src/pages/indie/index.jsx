@@ -205,7 +205,11 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
-To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
+${'  ' || `
+// TODO: Review.
+`}
+
+To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way? The indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
 
 But this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone can fully invest in the signal itself— rather than in the worth being verified!
 
@@ -327,25 +331,21 @@ In short, today's data-driven industry is what the [*indie* camp wanted](https:/
 
 ${'  ' || `
 // TODO: Review.
-
-Third paragraph, order of last part is still weird? "Fail to see" should come before the rest?
-
-Should last paragraph make it more clear, that Millennials didn't understood that the rules broken by the next revolution are fundamentally different from the ones broken from the previous one? Maybe not, don't need to keep piling on them…
 `}
 
-Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement for a previous generation— but Gen X saw it as a tired rehash. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle— yet Millennials embraced it as their own! Why were they content to just [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
+Combining glam's gender-bending look with metal's aggression, hair metal was seen by Gen X as the ideal youth movement— for a *previous* generation. Well, guess what was just as outdated by the '00s? Indie rock's rule for artists to hustle… Yet Millennials embraced it as their own! Why were they content to merely [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art, thus breaking their rule— and the punishment means that history will see your act as courageous. So this is one way *not* to larp… *and* it's a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
-Here's my guess: Courage is just working around scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty forever. So now the *only* rules left that take any courage to break— are the structural ones, like indie rock's, that *they* themselves enforce!
+Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty for good. And so they never figured out that the *only* rules left that take real courage to break… are the structural ones, like indie rock's— that *they* themselves enforce!
 
-There's more: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all the rest. This taught Gen X to stand fiercely for their side— knowing that [tribalism is dumb](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, who were free to be eclectic, it's now the other way around: Taking a stand is *just* a larp— while anyone who breaks the rules is an *actual* threat.
+There's more: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all the rest. This taught Gen X to stand fiercely for their side— knowing that [tribalism is dumb](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, who were free to be eclectic, it's now the other way around: Taking a stand is *just* a larp— while anyone who thinks differently is an *actual* threat.
 
-Yet there's good news: Now that Gen Z has only ever faced an *abundance* of information, they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*— along with the courage this inspires. And just in time… to try an Xennial's solution! With BYCombo, you can now aim for the canon, in perhaps the only way left that *isn't* a larp: by doubling down to make art, for a serious chunk of lifetime.
+So Millennials only broke rules that Gen X *already* broke— and then called *that* their revolution! Luckily, Gen Z has only ever known an *abundance* of information, and now they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Progress means aesthetics, not logistics
 
-What's a "larp"? Here's my test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… Who would have composed the soundtrack?! So, Queen: no larp. "Well then, isn't an indie artist who hustles *also* not larping, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, that's fair. But in that case, isn't the *real* hero… the *app*?
+What's a "larp"? Here's my test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… Who would have composed the soundtrack?! So, Queen: no larp. "Well then, isn't an indie artist who hustles *also* not larping, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, that's fair. But in that case, isn't the real hero… the *app*?
 
 In music history class, we're taught that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians care about technology when it advances the *art form*— not the *supply chain*.
 
