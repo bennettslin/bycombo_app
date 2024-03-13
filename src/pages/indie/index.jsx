@@ -209,7 +209,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To "democratize" Twitter, Elon Musk made the blue checkmark available to *all* paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer *all* the same benefits.
+To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
 
 But this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone can fully invest in the signal itself— rather than in the worth being verified!
 
@@ -331,13 +331,17 @@ In short, today's data-driven industry is what the [*indie* camp wanted](https:/
 
 ${'  ' || `
 // TODO: Review.
+
+Third paragraph, order of last part is still weird? "Fail to see" should come before the rest?
+
+Should last paragraph make it more clear, that Millennials didn't understood that the rules broken by the next revolution are fundamentally different from the ones broken from the previous one? Maybe not, don't need to keep piling on them…
 `}
 
-Hair metal combined glam's gender-bending look with metal's aggression. It was the perfect youth movement— for a previous generation. As for Gen X… they saw it as a tired rehash. But by the '00s, indie rock's rule for artists to hustle was no less a relic— yet Millennials embraced it as their own! And so they merely [role-played](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larped," the *idea* of revolution.
+Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement for a previous generation— but Gen X saw it as a tired rehash. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle— yet Millennials embraced it as their own! Why were they content to just [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art, thus breaking their rule— and the punishment means that history will see your act as courageous. So this is one way *not* to larp… *and* it's a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
-Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty for good. So now… the *only* rules left in our times that still take *any* courage to break— are the structural ones, like indie rock's, that they *themselves* enforce! Yet they fail to see this…
+Here's my guess: Courage is just working around scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty forever. So now the *only* rules left in our times that still take courage to break— are the structural ones, like indie rock's, that *they* themselves enforce!
 
 There's more: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all the rest. This taught Gen X to stand fiercely for their side— knowing that [tribalism is dumb](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, who were free to be eclectic, it's now the other way around: Taking a stand is *just* a larp— while anyone who breaks the rules is an *actual* threat.
 
