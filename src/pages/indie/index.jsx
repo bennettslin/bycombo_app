@@ -259,7 +259,7 @@ Every indie gatekeeper who's met with me has drawn the same conclusion: "Sure, y
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in opposite ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
-So don't be fooled by indie rock's recent embrace of women and minorities! It doesn't sum up to any further diversity in *thought*. But BYCombo lets you find bandmates and business partners who think differently… and who'll value *you* for doing the same.
+So don't be fooled by indie rock's recent embrace of women and minorities: It doesn't sum up to any further diversity in *thought*. But BYCombo lets you find bandmates and business partners who think differently… and who'll value *you* for doing the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
@@ -325,7 +325,7 @@ In a world where outsiders try much harder, to be much better, both indie rock a
 
 This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-Yet underdog movements will never go away, because to be seen as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as you're hungry enough to try much harder, to be much better, BYCombo can offer a lasting *counter*-movement— the new "rockism," maybe?
+Yet underdog movements will never go away, because to be seen as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as you're hungry enough to try much harder, to be much better, BYCombo is here to offer a lasting *counter*-movement— the new "rockism," maybe?
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
