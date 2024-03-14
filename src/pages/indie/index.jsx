@@ -179,7 +179,7 @@ To help artists cut out the middleman, indie rock provides them with tools to do
 
 And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a dream of the *middling* artist, who'd otherwise *be* a middleman!
 
-Let's be clear, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We [learned all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
+Let's get this out of the way: The best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We [learned all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
 
 Sadly, young people never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, and so I've *only* ever dreamt of having one job as an artist— seeing that it's the only way to make the best art! Now with BYCombo, this dream can be yours as well.
 
@@ -205,10 +205,6 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way? The indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
 
 But this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone can fully invest in the signal itself— rather than in the worth being verified!
@@ -218,10 +214,6 @@ To complicate matters, pollution is a [tragedy of the commons](https://en.wikipe
 Fortunately, if you aspire to be *most* worthy, you can once again verify your worth from the top down— with BYCombo! Because what's a more honest signal, than to sacrifice a serious chunk of lifetime?
 
 ### ${++sectionCounter}. Modern audiences leave quietly
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Hey, here's a thought: "Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except… you don't even get a living wage, while the top 1% earn millions. That's not fair! So let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete." Who'd object?
 
@@ -293,10 +285,6 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Rappers love to bash the "[wack MC](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
@@ -339,11 +327,11 @@ ${'  ' || `
 
 Combining glam's gender-bending look with metal's aggression, hair metal was seen by Gen X as the ideal youth movement— for a *previous* generation. Well, guess what was just as outdated by the '00s? Indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they content to merely [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
 
-Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead, and to be punished for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
+Here's what I mean: If you don't hustle, the indie camp will reject you. But not only should you *want* to double down on making art instead, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
-Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty for good. And so they never figured out that the only rules left that still take courage to break… are the *structural* ones, like indie rock's, that *they* themselves enforce!
+Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty for good. And so they never figured out that the only rules left that still take courage to break… are the *structural* ones, like indie rock's, that they *themselves* enforce!
 
-There's more: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all the rest. This taught Gen X to stand fiercely for their side— knowing that [tribalism is dumb](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, who were free to be eclectic, it's now the other way around: Taking a stand is *just* a larp— while anyone who thinks differently is an *actual* threat.
+There's more: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all the rest. This taught Gen X to stand fiercely for their side— knowing that [tribalism is dumb](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, who were free to be eclectic, it's now the other way around: Taking a stand is *just* a larp— while anyone who thinks otherwise is an *actual* threat.
 
 So Millennials merely broke the rules that Gen X *already* broke… and then called *that* a revolution! Luckily, Gen Z has only ever known an *abundance* of information, and now they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its *scarcity*. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
