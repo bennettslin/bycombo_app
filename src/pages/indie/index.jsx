@@ -67,6 +67,69 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Unenlightened romanticism is tyranny
+
+${'  ' || `
+// TODO: Keep working on.
+
+* Continues the idea of what's wrong with a proposed solution
+* Following your heart leads you astray
+* It's pointless to abandon online algorithms
+    * While returning to the old ways
+        * Because the old ways involve mental algorithms
+            * Models
+            * The problem is with the algorithms
+    * Memes
+        * https://www.ian-leslie.com/p/how-to-be-influenced
+* In other words, algorithms took over
+    * Because there was no material difference with indie curators who deny the science
+    * It's not so much that recommendation algorithms are the new word of mouth
+        * Word of mouth was always an algorithm
+        * The tech platforms just gave us the digital version
+* Unlike Moneyball
+    * Algorithms don't cut through bias
+        * They amplify them
+* Repeat, the solution is to return to the glory days of Gen X
+    * Not the Millennials
+        * Having Romantic ideals is how the Millennials got suckered by the tech platforms' sweet talk to begin with!
+    * A new Enlightenment, not a new Romanticism
+        * Romanticism is about integrity? Is that a point?
+        * Romanticism is tyranny without enlightenment
+        * The way to fight the algorithms isn't to embrace Romantic ideals, which will only lead us back into the arms of the tech platforms
+            * It's to embrace the science that tells us that we're the algorithms
+`}
+
+### ${++sectionCounter}. Recording adds another dimension
+
+${'  ' || `
+// TODO: Keep working on.
+
+* Demo
+* Frees a band to pursue visions they can't fully realize on their own
+* Beatles and Pet Sounds
+* Indie rock is critic-driven
+* And critics have no incentive to be proven right in *time*
+    * They don't get paid if their predictions are correct
+    * Their incentive is to draw attention by making the most outrageous claims
+        * So includes defending the disposable
+        * Which explains why critics found it so easy to switch from indie rock to pop
+* Segues from idea of what's wrong with the present situation
+* To idea of what's wrong with a proposed solution
+* It's pointless to abandon digital content
+* While returning to the old ways
+    * Because the old ways involve analog content
+        * And the problem is with content, not with any platform
+* In other words, digital content took over
+* Because there was no material difference with analog content
+* Indie rock's instinct to boost the ephemeral is precisely why we succumbed to a world of digital content
+* The solution is not to return to the glory days of the Millennials
+* But to the glory days of Gen X
+* Must also redo next two sections
+* In this one, say there's a final frontier
+* Second, say "another frontier"
+* Third, say "yet another"
+`}
+
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
