@@ -99,6 +99,14 @@ ${'  ' || `
             * It's to embrace the science that tells us that we're the algorithms
 `}
 
+Are we headed for a new Romanticism? Industry has been "moneyballed" with digital algorithms. There will be a revolt. Return to old ways. Yet sabermetrics famously cut through human bias, while recommendation algorithms amplify them. In other words, the problem isn't with the algorithms, it's with our biases as humans!
+
+Science tell us that we humans dislike creativity, and that we're insecure status seekers, which means we'll never embrace creative ideas from low-status groups, hobbyists like Radiohead. Thus, top-down intermediation is needed. But indie camp made us embrace the recommendation algorithms that would help us defy the science by proving that *everything* can simply come from the bottom up.
+
+In other words, we don't need a new Romanticism, because the past two decades were already a romanticist movement. It's how we got suckered by the tech platforms, who won us over with sweet talk about the will of the people and the individuality of the human spirit. A renewed appeal to romantic ideals would only tempt us back into their arms, over and over.
+
+What's needed instead is something that the arts has never had in this Age of the Internet: a sober understanding of what science tells us about our human biases: that *we're* the algorithms. In other words, a new Enlightenment. BYCombo is here to start a new counterculture that *saves* us from the biases of those around us, as well as ourselves.
+
 ### ${++sectionCounter}. Recording adds another dimension
 
 ${'  ' || `
