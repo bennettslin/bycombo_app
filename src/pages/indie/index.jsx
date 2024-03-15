@@ -245,25 +245,21 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 
 Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
 
-### ${++sectionCounter}. Capitalism offers freedom from cronyism
+### ${++sectionCounter}. Capitalism is a haven from cronyism
 
 ${'  ' || `
-// TODO: Review. But keep considering title. Maybe redo interdependence title as well.
+// TODO: Review.
 `}
 
 While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *just* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male gatekeepers just have to be more inclusive in whom they accept as their own.
 
-But so far, their efforts have only helped women, not minorities— not *male* minorities, anyway. Why? Because our struggles *aren't* the same. Minorities face stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model); and women, of low *competence*. Yet social justice, when self-enforced, *only* fixes misjudgments of competence; people have every right to feel more warmly toward some than others.
+But so far, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* the same. Minorities face stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model); and women, of low *competence*. Yet social justice, when self-enforced, *only* fixes misjudgments of competence; a circle of friends has every right to feel more warmly toward their own.
 
 You'll notice, then, that we minorities *aren't* ones to begrudge a business partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/198594) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture; it's just that, being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
 
@@ -288,10 +284,6 @@ Well, can't *today's* indies learn to sign the *next* On a Friday? No. When stat
 Yet no counterculture has arisen to offer shelter from indie rock, because… well: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
-
-${'  ' || `
-// TODO: Review flow of sections.
-`}
 
 Every indie gatekeeper who's met with me has drawn the same conclusion: "Sure, your [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but you're just a hobbyist." Over time I came to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
 
@@ -341,7 +333,7 @@ Combining glam's gender-bending look with metal's aggression, hair metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
-Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty. And thus, they failed to see what this Xennial so easily saw: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
+Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty. And thus, they never saw what this Xennial could easily see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
 
 There's more: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all the rest. This taught Gen X to stand fiercely for their side— knowing that [tribalism is dumb](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, who were free to be eclectic, it's now the other way around: Taking a stand is *just* a larp— while those who think otherwise are a *genuine* threat.
 
