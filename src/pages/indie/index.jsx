@@ -247,11 +247,15 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 ### ${++sectionCounter}. Organized camaraderie is cronyism
 
+${'  ' || `
+// TODO: Review.
+`}
+
 While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *just* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male gatekeepers can only try to be more inclusive in whom they accept as their own.
 
-Yet their belated push for diversity strictly helps women, not minorities— not *male* minorities, anyway. Because while all minorities struggle with stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model), women struggle solely with stereotypes of low *competence*. And social justice only fixes misperceptions of competence; a circle of friends has every right to feel more warmly toward their own.
+Unfortunately, their efforts strictly benefit women, not minorities— not *male* minorities, anyway. Because while all minorities struggle with stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model), women struggle solely with stereotypes of low *competence*. And social justice only fixes misperceptions of competence; a circle of friends has every right to feel more warmly toward their own.
 
 Which is why we minorities *don't* begrudge business partners their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
 
@@ -293,7 +297,7 @@ Every indie gatekeeper who's met with me has drawn the same conclusion: "Sure, y
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in different ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them to converge on a single way of thinking.
 
-So don't be fooled by indie rock's recent embrace of women and minorities! It doesn't add up to any further diversity in *thought*. But BYCombo lets you find bandmates and business partners who think differently… and who'll value *you* for doing the same.
+So don't be fooled by indie rock's belated embrace of women and minorities! It doesn't add up to any further diversity in *thought*. But BYCombo lets you find bandmates and business partners who think differently… and who'll value *you* for doing the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
@@ -335,7 +339,7 @@ ${'  ' || `
 
 Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! And yet, Millennials embraced it as their own. Why were they content to merely [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
 
-Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— while the punishment for breaking this rule means that history will see your act as courageous. So it's *one* way not to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
+Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
 Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty. And thus, they couldn't see what was so clear to an Xennial: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that *they* help to enforce!
 
