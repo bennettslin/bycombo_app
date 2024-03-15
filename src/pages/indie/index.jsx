@@ -245,7 +245,7 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 
 Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
 
-### ${++sectionCounter}. Organized camaraderie is cronyism
+### ${++sectionCounter}. Insiders see cronyism as camaraderie
 
 ${'  ' || `
 // TODO: Review.
@@ -253,11 +253,11 @@ ${'  ' || `
 
 While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love? Well…
 
-The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *just* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male gatekeepers can only try to be more inclusive in whom they accept as their own.
+The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *just* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male gatekeepers just have to be more inclusive in whom they accept as their own.
 
-Unfortunately, their efforts strictly benefit women, not minorities— not *male* minorities, anyway. Because while all minorities struggle with stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model), women struggle solely with stereotypes of low *competence*. And social justice only fixes misperceptions of competence; a circle of friends has every right to feel more warmly toward their own.
+Yet so far, their efforts have only helped women, not minorities— not *male* minorities, anyway. Because while women struggle with stereotypes of low *competence*, minorities struggle with stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model). And when social justice is self-enforced, it *only* fixes misperceptions of competence; people have every right to feel more warmly toward some than others.
 
-Which is why we minorities *don't* begrudge business partners their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
+You'll notice, then, that we minorities *aren't* ones to begrudge a business partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
