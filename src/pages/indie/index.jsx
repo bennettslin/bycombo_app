@@ -278,13 +278,17 @@ Fortunately, if you aspire to be *most* worthy, you can once again verify your w
 
 ### ${++sectionCounter}. Modern audiences leave quietly
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Hey, here's a thought: "Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except… you don't even get a living wage, while the top 1% earn millions. That's not fair! So let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete." Who'd object?
 
 I'm being silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd leave— and likely without a fuss. There are too many other ways to be entertained these days. We all get this, right? Okay. Well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. So today's pro-*artist* slant might just be a generational fluke— and *not* the future of music.
 
-Still, how does rock become pro-*audience* once more? Why, by taking cues from… hip hop! Because why *else* do rappers strive to [be the best](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah), if not out of empathy for the audience? Now with BYCombo, you can strive to be the best *band* alive— even if your lyrics never say so.
+Still, how does rock become pro-*audience* once more? Why, by taking cues from… hip hop! Because why *else* do rappers strive to [be the best](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah), if not out of empathy for their audience? Now with BYCombo, you can strive to give your audience the best *band* alive— even if your lyrics never say so.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -318,7 +322,7 @@ While indie labels do care about the bottom line, it isn't to *make* money; it's
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *just* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male gatekeepers just have to be more inclusive in whom they accept as their own.
 
-But so far, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* the same. Minorities face stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model); and women, of low *competence*. Yet social justice, when self-enforced, *only* fixes misjudgments of competence; a circle of friends has every right to feel more warmly toward their own.
+But so far, their efforts have only helped women, not us minorities— us *male* minorities, anyway. Why? Because our struggles *aren't* the same. Minorities face stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model); and women, of low *competence*. Yet social justice, when self-enforced, *only* fixes misjudgments of competence; a circle of friends has every right to feel more warmly toward their own.
 
 You'll notice, then, that we minorities *aren't* ones to begrudge a business partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
 
