@@ -77,7 +77,7 @@ ${'  ' || `
 
 Are we headed for a new Romanticism? Industry has been "moneyballed" with digital algorithms. There will be a revolt. Return to old ways. Yet sabermetrics famously cut through human bias, while recommendation algorithms amplify them. In other words, the problem isn't with the algorithms, it's with our biases as humans!
 
-Science tell us that we humans dislike creativity, and that we're insecure status seekers, which means we'll never embrace creative ideas from low-status groups, hobbyists like Radiohead. Thus, top-down intermediation is needed. But indie camp's loyalty to made us embrace the recommendation algorithms that would help us defy the science by proving that *everything* can simply come from the bottom up.
+Science tell us that we humans dislike creativity, and that we're insecure status seekers, which means we'll never embrace creative ideas from low-status groups, hobbyists like Radiohead. Thus, top-down intermediation is needed. But indie camp's loyalty to word of mouth made us embrace the recommendation algorithms that would help us defy the science by proving that *everything* can simply come from the bottom up.
 
 In other words, we don't need a new Romanticism, because the past two decades were already a romanticist movement. It's how we got suckered by the tech platforms, who won us over with sweet talk about the will of the people, and following your heart, and the individuality of the human spirit. A renewed appeal to romantic ideals would only tempt us back into their arms, over and over.
 
@@ -262,17 +262,13 @@ Fortunately, if you aspire to be *most* worthy, you can once again verify your w
 
 ### ${++sectionCounter}. Modern audiences leave quietly
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Hey, here's a thought: "Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except… you don't even get a living wage, while the top 1% earn millions. That's not fair! So let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete." Who'd object?
 
 I'm being silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd leave— and likely without a fuss. There are too many other ways to be entertained these days. We all get this, right? Okay. Well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. So today's pro-*artist* slant might just be a generational fluke— and *not* the future of music.
 
-Still, how does rock become pro-*audience* once more? Why, by taking cues from… hip hop! Because why *else* do rappers strive to [be the best](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah), if not out of empathy for their audience? Now with BYCombo, you can strive to give your audience the best *band* alive— even if your lyrics never say so.
+Still, how does rock become pro-*audience* once more? Why, by taking cues from… hip hop! Because why *else* do rappers strive to [be the best](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah), if not out of empathy for the audience? Now with BYCombo, you can strive to be the best *band* alive— even if your lyrics never say so.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -297,10 +293,6 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
 
 ### ${++sectionCounter}. Capitalism is a haven from cronyism
-
-${'  ' || `
-// TODO: Review.
-`}
 
 While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love? Well…
 
@@ -376,17 +368,13 @@ In short, today's data-driven industry is what the [*indie* camp wanted](https:/
 
 ### ${++sectionCounter}. Scarcity inspires generational courage
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! And yet, Millennials embraced it as their own. Why were they content to merely [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
-Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty. And thus, they never saw what this Xennial could easily see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
+Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty. And thus, they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
 
-There's more: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all the rest. This taught Gen X to stand fiercely for their side— knowing that [tribalism is dumb](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, who were free to be eclectic, it's now the other way around: Taking a stand is *just* a larp— while those who think otherwise are a *genuine* threat.
+There's more: When information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting all the rest. This taught Gen X to stand fiercely for their side— knowing that [tribalism is silly](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, who were free to be eclectic, it's now the other way around: Taking a stand is *just* a larp— while those who think otherwise are a *genuine* threat.
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of information, and now they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
