@@ -72,38 +72,14 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: Keep working on.
 
-* Continues the idea of what's wrong with a proposed solution
-* Following your heart leads you astray
-* It's pointless to abandon online algorithms
-    * While returning to the old ways
-        * Because the old ways involve mental algorithms
-            * Models
-            * The problem is with the algorithms
-    * Memes
-        * https://www.ian-leslie.com/p/how-to-be-influenced
-* In other words, algorithms took over
-    * Because there was no material difference with indie curators who deny the science
-    * It's not so much that recommendation algorithms are the new word of mouth
-        * Word of mouth was always an algorithm
-        * The tech platforms just gave us the digital version
-* Unlike Moneyball
-    * Algorithms don't cut through bias
-        * They amplify them
-* Repeat, the solution is to return to the glory days of Gen X
-    * Not the Millennials
-        * Having Romantic ideals is how the Millennials got suckered by the tech platforms' sweet talk to begin with!
-    * A new Enlightenment, not a new Romanticism
-        * Romanticism is about integrity? Is that a point?
-        * Romanticism is tyranny without enlightenment
-        * The way to fight the algorithms isn't to embrace Romantic ideals, which will only lead us back into the arms of the tech platforms
-            * It's to embrace the science that tells us that we're the algorithms
+* https://www.ian-leslie.com/p/how-to-be-influenced
 `}
 
 Are we headed for a new Romanticism? Industry has been "moneyballed" with digital algorithms. There will be a revolt. Return to old ways. Yet sabermetrics famously cut through human bias, while recommendation algorithms amplify them. In other words, the problem isn't with the algorithms, it's with our biases as humans!
 
-Science tell us that we humans dislike creativity, and that we're insecure status seekers, which means we'll never embrace creative ideas from low-status groups, hobbyists like Radiohead. Thus, top-down intermediation is needed. But indie camp made us embrace the recommendation algorithms that would help us defy the science by proving that *everything* can simply come from the bottom up.
+Science tell us that we humans dislike creativity, and that we're insecure status seekers, which means we'll never embrace creative ideas from low-status groups, hobbyists like Radiohead. Thus, top-down intermediation is needed. But indie camp's loyalty to made us embrace the recommendation algorithms that would help us defy the science by proving that *everything* can simply come from the bottom up.
 
-In other words, we don't need a new Romanticism, because the past two decades were already a romanticist movement. It's how we got suckered by the tech platforms, who won us over with sweet talk about the will of the people and the individuality of the human spirit. A renewed appeal to romantic ideals would only tempt us back into their arms, over and over.
+In other words, we don't need a new Romanticism, because the past two decades were already a romanticist movement. It's how we got suckered by the tech platforms, who won us over with sweet talk about the will of the people, and following your heart, and the individuality of the human spirit. A renewed appeal to romantic ideals would only tempt us back into their arms, over and over.
 
 What's needed instead is something that the arts has never had in this Age of the Internet: a sober understanding of what science tells us about our human biases: that *we're* the algorithms. In other words, a new Enlightenment. BYCombo is here to start a new counterculture that *saves* us from the biases of those around us, as well as ourselves.
 
