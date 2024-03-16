@@ -294,10 +294,6 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 ### ${++sectionCounter}. Insiders see cronyism as camaraderie
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *just* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male gatekeepers just have to be more inclusive in whom they accept as their own.
@@ -371,10 +367,6 @@ So when the tech platforms came along, their focus on numbers made them good guy
 In short, today's data-driven industry is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Scarcity inspires generational courage
-
-${'  ' || `
-// TODO: Review omission of paragraph.
-`}
 
 Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! And yet, Millennials embraced it as their own. Why were they content to merely [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
 
