@@ -72,6 +72,8 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: Keep working on.
 
+* After fair practices or scarcity section?
+
 * https://www.ian-leslie.com/p/how-to-be-influenced
 `}
 
@@ -88,31 +90,16 @@ What's needed instead is something that the arts has never had in this Age of th
 ${'  ' || `
 // TODO: Keep working on.
 
-* Demo
-* Frees a band to pursue visions they can't fully realize on their own
-* Beatles and Pet Sounds
-* Indie rock is critic-driven
-* And critics have no incentive to be proven right in *time*
-    * They don't get paid if their predictions are correct
-    * Their incentive is to draw attention by making the most outrageous claims
-        * So includes defending the disposable
-        * Which explains why critics found it so easy to switch from indie rock to pop
-* Segues from idea of what's wrong with the present situation
-* To idea of what's wrong with a proposed solution
-* It's pointless to abandon digital content
-* While returning to the old ways
-    * Because the old ways involve analog content
-        * And the problem is with content, not with any platform
-* In other words, digital content took over
-* Because there was no material difference with analog content
-* Indie rock's instinct to boost the ephemeral is precisely why we succumbed to a world of digital content
-* The solution is not to return to the glory days of the Millennials
-* But to the glory days of Gen X
-* Must also redo next two sections
-* In this one, say there's a final frontier
-* Second, say "another frontier"
-* Third, say "yet another"
+* Before logistics section.
 `}
+
+New Romantics want to be rebel against digital content. Return to the days of local singer songwriters in coffee shops. Yet isn't a local performance just as forgettable, and replaceable with the next? In other words, a local performance is just analog content! Why is this the go-to solution for those who hope to rebel against digital content?
+
+Because here's the thing: Beatles' later albums, starting with Revolver, and Beach Boys' Pet Sounds, were all experiments in what is possible with studio recording without consideration for how they'd be recreated in live performance. As home recording became more affordable in the early '00s, I thought there would be a demo renaissance, as artists pursued visions they weren't able to fully realize on their own, and went to work on *Yearling's Bobtail*, where I performed all the instruments.
+
+We caught the attention of an indie label founder, who was now doing A&R for a major label. Upon seeing a cobbled together live performance, he left and ignored all future emails. On his blog, he made a disparaging comment about "bedroom recordings." It was then that I learned how much the indie camp believes that only live music is real music, because real artists build their fanbase on live shows, perhaps because major label music is about getting big on the radio.
+
+Yet the Beatles are the best band of all time, for an obvious reason: What's possible through recording will always surpass what can be recreated in live performance. Which means recording offers a permanent frontier to explore. Now with BYCombo, artists can now explore this frontier.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -228,7 +215,7 @@ And here's more absurdity: Whereas artists are loved for doing what we all dream
 
 Let's get this out of the way: The best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We [learned all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
 
-Sadly, young people never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, and so I've *only* ever dreamt of having one job as an artist— seeing that it's the only way to make the best art! Now with BYCombo, this dream can be yours as well.
+Sadly, young people never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, and so I've only *ever* dreamt of having one job as an artist— seeing that it's the only way to make the best art! Now with BYCombo, this dream can be yours as well.
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
@@ -315,6 +302,10 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands like yours surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
+
+${'  ' || `
+// TODO: Review.
+`}
 
 Rappers love to bash the "[wack MC](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
 
