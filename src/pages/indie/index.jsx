@@ -67,6 +67,22 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Scarcity inspires generational courage
+
+${'  ' || `
+// TODO: Review.
+`}
+
+Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they content to merely [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
+
+Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
+
+Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty. And thus, they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
+
+Also, back when information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting the rest. This taught Gen X to stand fiercely for one side— knowing deep down that [tribalism is silly](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But Millennials now see it the other way around: Taking a stand is *just* a larp— while those who'd commit a lifetime to do so arouse *genuine* suspicion.
+
+So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of information, and now they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
+
 ### ${++sectionCounter}. Unenlightened romanticism is tyranny
 
 ${'  ' || `
@@ -74,16 +90,18 @@ ${'  ' || `
 
 * After fair practices or scarcity section?
 
+We are where we are because the indie labels promised to be nothing more than human algorithms, and as the "good guys," this meant the algorithms were good guys as well.
+
 * https://www.ian-leslie.com/p/how-to-be-influenced
 `}
 
 Are we headed for a new Romanticism? Industry has been "moneyballed" with digital algorithms. There will be a revolt. Return to old ways. Yet sabermetrics famously cut through human bias, while recommendation algorithms amplify them. In other words, the problem isn't with the algorithms, it's with our biases as humans!
 
-Science tell us that we humans dislike creativity, and that we're insecure status seekers, which means we'll never embrace creative ideas from low-status groups, hobbyists like Radiohead. Thus, top-down intermediation is needed. But indie camp's loyalty to word of mouth made us embrace the recommendation algorithms that would help us defy the science by proving that *everything* can simply come from the bottom up.
+History tells us that creative ideas in the arts come from the low status, while science tells us that we humans are insecure status seekers who distance ourselves from the low status. Thus, top-down intermediation is needed. But indie camp's loyalty to word of mouth made us embrace the recommendation algorithms that would help us defy the science by proving that *everything* can simply come from the bottom up.
 
 In other words, we don't need a new Romanticism, because the past two decades were already a romanticist movement. It's how we got suckered by the tech platforms, who won us over with sweet talk about the will of the people, and following your heart, and the individuality of the human spirit. A renewed appeal to romantic ideals would only tempt us back into their arms, over and over.
 
-What's needed instead is something that the arts has never had in this Age of the Internet: a sober understanding of what science tells us about our human biases: that *we're* the algorithms. In other words, a new Enlightenment. BYCombo is here to start a new counterculture that *saves* us from the biases of those around us, as well as ourselves.
+The mistake wasn't to introduce algorithms to music, then, but to do so in service to indie rock's ideals. So what's needed instead is something that the arts has never had in this Age of the Internet: a sober understanding of what science tells us about our human biases: that *we're* the algorithms. In other words, a new Enlightenment. BYCombo is here to start a new counterculture that *saves* us from the biases of those around us, as well as ourselves.
 
 ### ${++sectionCounter}. Recording adds another dimension
 
@@ -361,15 +379,7 @@ So when the tech platforms came along, their focus on numbers made them good guy
 
 In short, today's data-driven industry is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
-### ${++sectionCounter}. Scarcity inspires generational courage
 
-Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they content to merely [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
-
-Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
-
-Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty. And thus, they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
-
-So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of information, and now they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Progress means aesthetics, not logistics
 
