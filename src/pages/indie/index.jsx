@@ -253,10 +253,6 @@ Fortunately, if you aspire to be *most* worthy, you can once again verify your w
 
 ### ${++sectionCounter}. Modern audiences leave quietly
 
-${'  ' || `
-// TODO: Review.
-`}
-
 "Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except… you don't even get a living wage, while the top 1% earn millions! How is that fair? So let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete. Who'd object?"
 
 This is silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd leave— and likely without a fuss. There are too many other ways to be entertained these days. We all get this, right? Okay. Well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
@@ -311,17 +307,13 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Rappers love to bash the "[wack MC](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
 
-Well, can't *today's* indies learn to sign the *next* On a Friday? No… Once status comes from hustling, then hustlers become high status— and vice versa. In other words, a status hierarchy is self-reinforcing; it *can't* be upended from within. So indie rock will *always* be an "indieocracy," as its name implies— a system ruled by hustlers, who work to get themselves known.
+Well, can't *today's* indies learn to sign the *next* On a Friday? No… Once status comes from hustling, then hustlers become high status— and vice versa. In other words, a status hierarchy is self-reinforcing; it can't be upended from *within*. So indie rock will always be an "indieocracy," as its name implies— a system ruled by hustlers, who work to get themselves known.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)! Yet none has arisen, because: "Why counter the good guys?"Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
@@ -375,9 +367,9 @@ Combining glam's gender-bending look with metal's aggression, hair metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
-Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty. And thus, they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
+Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won their loyalty. Thus, they could never see what this Xennial saw: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
 
-Also, back when information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [weren't so different](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, it's now the other way around: Taking a stand is only *ever* a larp— while those who'd commit their lives to doing so are a genuine threat.
+And also, when information was scarce, joining a scene— punk, rave— took commitment; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [weren't so different](https://web.archive.org/web/20120321043412/http://www.mitchclem.com/nothingnice/196). But for Millennials, it's now the other way around: Taking a stand is only *ever* a larp— while those who'd commit their lives to doing so are a genuine threat.
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of information, and now they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
