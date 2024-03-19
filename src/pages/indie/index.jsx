@@ -129,10 +129,6 @@ And yet, this obviously can't end well. We don't support artists of the *past*�
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
-${'  ' || `
-// TODO: Review.
-`}
-
 We all respect those ['80s underground bands](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? After all, they were chosen by the people, *not* by the elite. Yet there's also a less spoken reason: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who merely lucked out and won the virtual lottery.
 
 In those days, lottery players would sign unfair contracts with major labels, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
@@ -373,11 +369,15 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 
 ### ${++sectionCounter}. Progress means aesthetics, not logistics
 
+${'  ' || `
+// TODO: Review.
+`}
+
 What's a "larp"? Here's my test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… Who would have composed the soundtrack?! So, Queen: no larp. "Well then, isn't an indie artist who hustles *also* not larping, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, that's fair. But in that case, isn't the real hero… the *app*?
 
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians care about technology when it advances the *art form*— not the *supply chain*.
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to market and distribute their own works. But it *might* care how BYCombo allowed them to form bands with unprecedented lineups. So come explore *another* remaining frontier— by having a dancer, puppeteer, or even manager as your bandmate!
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to market and distribute their own works. But it *might* care how BYCombo allowed them to form bands with unprecedented lineups. So come explore *another* of rock's frontiers— by having a dancer, puppeteer, or even manager as your bandmate!
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
@@ -385,11 +385,11 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this still isn't the case with rock bands— which means there's yet *another* frontier left to explore! So if you're a Millennial, don't fret: You now have a lifetime to give future generations the renaissance that indie rock denied to yours.
+Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this still isn't the case with rock bands— which means there's yet *another* frontier left to explore! So if you're a Millennial, don't fret: You now have a lifetime to give *future* generations the renaissance that was denied to *yours* by indie rock.
 
-In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean M. Twenge notes that Millennials are reaching key milestones later in life because society in *general* is now more complex; thus, more time is needed to realize your potential. But this must also be true for the arts in *particular*! Sadly, hustling requires a youthful spirit… so indie artists will always burn out long before realizing theirs.
+In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean M. Twenge notes that Millennials are reaching key milestones later in life because society in *general* is now more complex; thus, more time is needed to realize your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling slowly burns you out.
 
-By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
+By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So if you're burned out by the hustle, BYCombo can get you back on track— by helping you stay in love with your craft.
 
 ### ${++sectionCounter}. Happiness flows from the act of creation
 
