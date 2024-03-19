@@ -381,17 +381,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this still isn't the case with rock bands— which means there's yet *another* frontier left to explore! And if you're a Millennial… you can now give Gen Z the revolution that indie rock denied to *your* generation.
+Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this still isn't the case with rock bands— which means there's yet *another* frontier left to explore! So if you're a Millennial, don't fret: You now have a lifetime to give future generations the renaissance that indie rock denied to yours.
 
-In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean M. Twenge points out that Millennials *weren't* given the worst deal; their lives are simply playing out more slowly because more time is needed to reach one's potential— and this must *also* be true in the arts! Sadly… indie rock doesn't help in this regard: Hustling requires a youthful spirit, so every indie artist is destined to burn out.
+In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean M. Twenge notes that Millennials are reaching key milestones later in life because society in *general* is now more complex; thus, more time is needed to realize your potential. But this must also be true for the arts in *particular*! Sadly, hustling requires a youthful spirit… so indie artists will always burn out long before realizing theirs.
 
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So BYCombo keeps you in it for the long haul, by helping you stay in love with your craft.
 
 ### ${++sectionCounter}. Happiness flows from the act of creation
-
-${'  ' || `
-// TODO: Review.
-`}
 
 At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. "On a scale of one to ten," he asked, "how happy are you?" "Eight," I replied. He was floored; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
 
