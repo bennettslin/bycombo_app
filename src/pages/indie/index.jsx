@@ -118,7 +118,7 @@ In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a 
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
-For example, even after Goatse proved that the Internet caters to the lowest common denominator… indie rock concluded that bands who go viral *aren't* just the new one-hit wonders?! And when former major-label artist Amanda Palmer crowdfunded her way to a million dollars… this was taken as proof that artists [*don't* benefit](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=Palmer%20has%20managed%20to%20raise,Universal%27s%20Roadrunner%20imprint) from being on a major label?!
+For example, even after Goatse proved that the Internet caters to the lowest common denominator… indie rock concluded that bands who go viral *aren't* just the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars… this was seen as proof that artists [*don't* benefit](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=Palmer%20has%20managed%20to%20raise,Universal%27s%20Roadrunner%20imprint) from being on a major label?!
 
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to "own" the major labels, they downplayed this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public just assumes their music is bad!
 
@@ -145,10 +145,6 @@ Yet according to the indie camp… this is as it should be! Because ultimately, 
 It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a *meritocratic* domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to a new elite!
 
 ### ${++sectionCounter}. Talent wants a path to stardom
-
-${'  ' || `
-// TODO: Review.
-`}
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
@@ -204,9 +200,9 @@ ${'  ' || `
 
 Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from creative insights that can't be summoned at will.
 
-Could Dolly Parton reliably compose one "Jolene" after another? Of course not. And as for me, how did I come up with doublespeaker rhyme? I have my guesses, but I can't [say for sure](https://www.yearlingsbobtail.com/6-ash-wednesday/?annotation=36). All of which makes perfect sense: We're each far more alike than different, so if *not* for such insights, how *else* could a few of us ever outshine the rest, as history expects?
+For example, could Dolly Parton *reliably* compose one "Jolene" after another? Of course not. And as for me, how did I come up with doublespeaker rhyme? I have [my guesses](https://www.yearlingsbobtail.com/6-ash-wednesday/?annotation=36), but I can't say for sure. All of which makes perfect sense: We're each far more alike than different— so if *not* for such insights, how *else* could a few of us ever surpass the rest, as history expects?
 
-Okay. And how do these insights emerge? From the unconscious mind— as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always [context switching](https://en.wikipedia.org/wiki/Human_multitasking)! So keep your artist hat on, and have a business partner wear the others. Because *you* want your art to be better than you— and so does BYCombo.
+But these insights can only emerge from the unconscious mind— as your thoughts drift in the shower, or when you daydream out of boredom… and this won't happen if you're always [context switching](https://en.wikipedia.org/wiki/Human_multitasking)! So keep your artist hat on, and have a business partner wear the others. Because *you* want your art to be better than you— and so does BYCombo.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
@@ -400,7 +396,7 @@ ${'  ' || `
 
 Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this still isn't the case with rock bands— which means there's yet *another* frontier left to explore! So if you're a Millennial, don't fret: You now have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
 
-In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young people are reaching key milestones *later* in life because society in *general* is now more complex; thus, more time is needed to realize your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling makes you burn out *sooner*.
+In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young people are reaching key milestones *later* in life, because society in *general* is now more complex; thus, more time is needed to realize your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling makes you burn out *sooner*.
 
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So if you're burned out by the hustle, BYCombo can get you back on track— by helping you stay in love with your craft.
 
