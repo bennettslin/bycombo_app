@@ -195,7 +195,7 @@ The sane choice, then, is obvious. Still, what happens if a band tries to make t
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Maybe find less insulting way to phrase Dolly Parton point.
 `}
 
 Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from creative insights that can't be summoned at will.
