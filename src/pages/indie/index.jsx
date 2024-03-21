@@ -110,10 +110,6 @@ Yet the Beatles are the best band of all time, for an obvious reason: What's pos
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
@@ -195,12 +191,12 @@ The sane choice, then, is obvious. Still, what happens if a band tries to make t
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
 ${'  ' || `
-// TODO: Revise. Maybe find less insulting way to phrase Dolly Parton point.
+// TODO: Review.
 `}
 
 Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from creative insights that can't be summoned at will.
 
-For example, could Dolly Parton *reliably* compose one "Jolene" after another? Of course not. And as for me, how did I come up with doublespeaker rhyme? I have [my guesses](https://www.yearlingsbobtail.com/6-ash-wednesday/?annotation=36), but I can't say for sure. All of which makes perfect sense: We're each far more alike than different— so if *not* for such insights, how *else* could a few of us ever surpass the rest, as history expects?
+For example, could the Beatles *reliably* craft one "Yesterday" after another? Of course not. And as for me, how did I come up with doublespeaker rhyme? I have [my guesses](https://www.yearlingsbobtail.com/6-ash-wednesday/?annotation=36), but I can't say for sure. All of which makes perfect sense: We're each far more alike than different— so if *not* for such insights, how *else* could a few of us ever surpass the rest, as history expects?
 
 But these insights can only emerge from the unconscious mind— as your thoughts drift in the shower, or when you daydream out of boredom… and this won't happen if you're always [context switching](https://en.wikipedia.org/wiki/Human_multitasking)! So keep your artist hat on, and have a business partner wear the others. Because *you* want your art to be better than you— and so does BYCombo.
 
@@ -389,10 +385,6 @@ In music history courses, we learn that the evolution of the piano allowed Beeth
 Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to market and distribute their own works. But it *might* care how BYCombo allowed them to form bands with unprecedented lineups. So come explore *another* of rock's frontiers— by having a dancer, puppeteer, or even manager as your bandmate!
 
 ### ${++sectionCounter}. A renaissance of elders awaits
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this still isn't the case with rock bands— which means there's yet *another* frontier left to explore! So if you're a Millennial, don't fret: You now have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
 
