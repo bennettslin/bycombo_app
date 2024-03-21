@@ -196,7 +196,7 @@ ${'  ' || `
 
 Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from creative insights that can't be summoned at will.
 
-For example, could the Beatles *reliably* craft one "Yesterday" after another? Of course not. And as for me, how did I come up with doublespeaker rhyme? I have [my guesses](https://www.yearlingsbobtail.com/6-ash-wednesday/?annotation=36), but I can't say for sure. All of which makes perfect sense: We're each far more alike than different— so if *not* for such insights, how *else* could a few of us ever surpass the rest, as history expects?
+For example, could the Beatles *reliably* craft one "Yesterday" after another? Of course not. And as for me, how did I come up with doublespeaker rhyme? I have [my guesses](https://www.yearlingsbobtail.com/6-ash-wednesday/?annotation=36), but I can't say for sure. All of which makes perfect sense: We're each far more alike than different— so if *not* for unexpected insights, how *else* could a few of us ever surpass the rest, as history expects?
 
 But these insights can only emerge from the unconscious mind— as your thoughts drift in the shower, or when you daydream out of boredom… and this won't happen if you're always [context switching](https://en.wikipedia.org/wiki/Human_multitasking)! So keep your artist hat on, and have a business partner wear the others. Because *you* want your art to be better than you— and so does BYCombo.
 
@@ -232,9 +232,13 @@ Sadly, young people never question today's auto-Bizarro world, since it's all th
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
-Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys the same goodwill. Now, this *would* be fitting— if indie artists only made music for their *own* fulfillment.
+Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting— if indie artists only made music for their *own* fulfillment.
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
