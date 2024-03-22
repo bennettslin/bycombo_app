@@ -15,7 +15,7 @@ const Component = ({ sectionCounter = 0 }) => (
 
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a superstar to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
 There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -47,7 +47,7 @@ With so many ways left to innovate in this space, there most certainly *are* can
 
 **Why interdependent partnerships?**
 
-To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to need a business partner.
+To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they need to *need* a business partner.
 
 **Why demos?**
 
@@ -142,13 +142,17 @@ It's just that now, little but chance separates the few who make it from the man
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
+${'  ' || `
+// TODO: Review emphasis.
+`}
+
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
 It's because stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* need to hear the best; we just want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts can snowball into winning advantages— and *this* is how unworthy artists end up as superstars.
 
 But stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward: The majors *didn't* exploit the local scenes. They merely saw the indie labels as farm teams— as did those '90s alternative bands, who signed with the indies for this very reason!
 
-By blocking all access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to build a new path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspires to be most worthy— get *your* chance to be one?
+By blocking all access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to build a *new* path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspires to be most worthy— get *your* chance to be one?
 
 ### ${++sectionCounter}. History is made through peer review
 
@@ -202,13 +206,17 @@ But these insights can only emerge from the unconscious mind— as your thoughts
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
+${'  ' || `
+// TODO: Review link.
+`}
+
 In the past, the indie gatekeepers stayed close to the local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case… this is precisely what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
 
 What confused me is that I'd explicitly set out to make a work of art whose creativity [*can't* be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4). Only later did it hit me: If a gatekeeper is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we'd* want. Our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.); we just don't realize this, because whatever it is we *do* like… we simply call *that* the thing [that's creative](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-It's no surprise, then, that history's pioneering works were often backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their respective genres— who *didn't* know what the people wanted, and thus *weren't* led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
+It's no surprise, then, that history's pioneering works were often backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their [respective genres](https://jalopnik.com/dune-was-originally-published-by-a-car-repair-manual-co-1847940372)— who *didn't* know what the people wanted, and thus *weren't* led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
@@ -404,9 +412,13 @@ So yes, BYCombo tells you to focus on your craft, and to join a community of oth
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
+${'  ' || `
+// TODO: Review.
+`}
+
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became circles. This was a much simpler explanation— so by Occam's razor, it became accepted as the correct one.
 
-Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to foster the most daring art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* do things the indie way… yet this *hasn't* given us the next Nirvana or Radiohead?!
+Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to nurture the best art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* do things the indie way, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
 But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this much simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) of music?
 
