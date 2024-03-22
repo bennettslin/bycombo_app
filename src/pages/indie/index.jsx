@@ -196,7 +196,7 @@ ${'  ' || `
 
 Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from creative insights that can't be summoned at will.
 
-For example, could the Beatles *reliably* craft one "Yesterday" after another? Of course not. And as for me, how did I come up with doublespeaker rhyme? I have [my guesses](https://www.yearlingsbobtail.com/6-ash-wednesday/?annotation=36), but I can't say for sure. All of which makes perfect sense: We're each far more alike than different— so if *not* for unexpected insights, how *else* could a few of us ever surpass the rest, as history expects?
+For example, could the Beatles *reliably* craft one "Yesterday" after another? Of course not. And as for me, how did I come up with doublespeaker rhyme? I have [my guesses](https://www.yearlingsbobtail.com/6-ash-wednesday/?annotation=36), but I can't say for sure. All of which makes perfect sense: We're each far more alike than different— so if *not* for unexpected insights, how *else* could a few of us surpass the rest, as history expects?
 
 But these insights can only emerge from the unconscious mind— as your thoughts drift in the shower, or when you daydream out of boredom… and this won't happen if you're always [context switching](https://en.wikipedia.org/wiki/Human_multitasking)! So keep your artist hat on, and have a business partner wear the others. Because *you* want your art to be better than you— and so does BYCombo.
 
@@ -376,7 +376,7 @@ Here's my guess: Courage is inspired by scarcity— but Millennials only knew in
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of information, and now they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
-### ${++sectionCounter}. Progress means aesthetics, not logistics
+### ${++sectionCounter}. Progress tracks aesthetics, not logistics
 
 ${'  ' || `
 // TODO: Review.
