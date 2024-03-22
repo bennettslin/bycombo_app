@@ -232,10 +232,6 @@ Sadly, young people never question today's auto-Bizarro world, since it's all th
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
 Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting— if indie artists only made music for their *own* fulfillment.
@@ -382,7 +378,11 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 
 ### ${++sectionCounter}. Progress means aesthetics, not logistics
 
-What's a "larp"? Here's my test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… Who would have composed the soundtrack?! So, Queen: no larp. "Well then, isn't an indie artist who hustles *also* not larping, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, that's fair. But in that case, isn't the real hero… the *app*?
+${'  ' || `
+// TODO: Review.
+`}
+
+What's a "larp"? Here's my test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, that's fair. But in that case, isn't the real hero… the *app*?
 
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians care about technology when it advances the *art form*— not the *supply chain*.
 
