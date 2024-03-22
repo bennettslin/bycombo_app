@@ -81,11 +81,11 @@ We are where we are because the indie labels promised to be nothing more than hu
 
 Are we headed for a new Romanticism? Industry has been "moneyballed" with digital algorithms. There will be a revolt. Return to old ways. Yet sabermetrics famously cut through human bias, while recommendation algorithms amplify them. In other words, the problem isn't with the algorithms, it's with our biases as humans!
 
-History tells us that creative ideas in the arts come from the low status, while science tells us that we humans are insecure status seekers who distance ourselves from the low status. Thus, top-down intermediation is needed. But indie camp's loyalty to word of mouth made us embrace the recommendation algorithms that would help us defy the science by proving that *everything* can simply come from the bottom up.
+Science tells us that, as status seekers, we humans distance ourselves from the low status— even as they're the source of all subversive ideas in the arts! So for *any* revolution to begin, the elites *must* intervene and spread these ideas from the top down. Yet Millennials embraced indie rock's romantic notion that the next revolution will emerge bottom up from the grassroots.
 
-In other words, we don't need a new Romanticism, because the past two decades were already a romanticist movement. It's how we got suckered by the tech platforms, who won us over with sweet talk about the will of the people, and following your heart, and the individuality of the human spirit. A renewed appeal to romantic ideals would only tempt us back into their arms, over and over.
+In other words, we've *already* been pursuing romantic ideals— while defying the science— this entire time! It's how we got suckered by the tech platforms to begin with… How *else* could they have won us over to their algorithms, if not with their romantic talk about the will of the people and the triumph of the human spirit? It *wasn't* by appealing to our reason.
 
-The mistake wasn't to introduce algorithms to music, then, but to do so in service to indie rock's ideals. So what's needed instead is something that the arts has never had in this Age of the Internet: a sober understanding of what science tells us about our human biases: that *we're* the algorithms. In other words, a new Enlightenment. BYCombo is here to start a new counterculture that *saves* us from the biases of those around us, as well as ourselves.
+So what's needed now is something that the arts has never had in this Age of the Internet: a sober understanding of what science tells us about our human biases: that *we're* the algorithms. In other words, a new Enlightenment. BYCombo is here to start a new counterculture that *saves* us from the biases of those around us, as well as ourselves.
 
 ### ${++sectionCounter}. Recording adds another dimension
 
