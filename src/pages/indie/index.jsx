@@ -162,7 +162,7 @@ Um… all of us other artists who *weren't* picked, that's who! To be clear, we'
 
 Because we're invested in the creative process ourselves, we commit fewer false positives: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists come closest to seeing *today*.
 
-So ignore the critics! To make history without achieving stardom, you must inspire the envy of fellow *artists*— with your courage, originality, and talents. This is why BYCombo includes you in a community of peers who'll keep your standards high.
+So ignore the critics! To make history without first achieving stardom, you must inspire the envy of fellow *artists*— with your courage, originality, and talents. This is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -193,10 +193,6 @@ They can hustle to build a fanbase on their own— which yields *compound* retur
 The sane choice, then, is obvious. Still, what happens if a band tries to make the best art *anyway*? Add up their gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for going above and beyond to bring it back.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from creative insights that can't be summoned at will.
 
@@ -381,10 +377,6 @@ Here's my guess: Courage is inspired by scarcity— but Millennials only knew in
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of information, and now they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Progress tracks aesthetics, not logistics
-
-${'  ' || `
-// TODO: Review.
-`}
 
 What's a "larp"? Here's my test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, that's fair. But in that case, isn't the real hero… the *app*?
 
