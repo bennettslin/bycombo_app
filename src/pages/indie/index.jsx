@@ -155,7 +155,7 @@ ${'  ' || `
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
-For starters, the indie camp is mistaken: Stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* need to hear the best; we *just* want to like what others like— and they feel the same! As such, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts snowball into winning advantages— and *this* is how unworthy artists end up as superstars.
+For starters, stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* need to hear the best; we *just* want to like what others like— and they feel the same! As such, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts snowball into winning advantages— and *this* is how unworthy artists end up as superstars.
 
 But stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They merely saw the indie labels as farm teams— as did those '90s alternative bands, who signed with the indies for this very reason!
 
@@ -336,14 +336,12 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 ### ${++sectionCounter}. Independence breeds homogeneity
 
 ${'  ' || `
-// TODO: Review a few more times.
-
-You'll obey, even after realizing that the status hierarchy isn't what you thought it was.
+// TODO: Review.
 `}
 
-Many Republicans thought they'd resist when their party descended into "indieocracy" a decade ago; instead, most ended up embracing the hustlers— perhaps to their own surprise. Likewise, every indie gatekeeper I've ever met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— yet many seemed genuinely surprised by their own decision.
+As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to embrace the hustlers who'd now taken over— perhaps to their own surprise. Likewise, every indie gatekeeper I've ever met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— yet some seemed genuinely surprised by their own decision.
 
-And thus I came to understand the power of a culture's status hierarchy: You *can't* disobey. You can only *leave*. Still, indieocracy is so bleak that over time I had to wonder: Shouldn't I have met an indie gatekeeper by now who'd rather do just *that*, as I have? Then one day it clicked: I *haven't* met with a hundred of them. I've simply met with the same one— a hundred times over!
+Which tells us: Those loyal to a culture *will* obey its status hierarchy— even once it proves not to be what they thought it was. Yet indieocracy is so bleak, I still had to wonder: Shouldn't I have met an indie gatekeeper by now who'd rather just leave, as I have? Then one day it clicked: I *haven't* met a hundred of them. I've only met with the same one— a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in different ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them all to converge on a single way of thinking.
 
