@@ -331,6 +331,10 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
+${'  ' || `
+// TODO: Put "culture's" status hierarchy back.
+`}
+
 Rappers love to bash the "[wack MC](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
@@ -346,9 +350,10 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 ${'  ' || `
 // TODO: Revise. Move indieocracy to first paragraph here, talk about Republicans being surprised.
 
-For the past decade, Republicans have realized that their movement has become an indieocracy.
+How powerful is a status hierarchy? For the past decade, Republicans have watched in horror as their movement devolved into an "indieocracy"— that is, a system ruled by hustlers, who work hardest to get themselves known. But then… one by one, almost every one of them learned to embrace the hustlers— perhaps even to their own surprise.
 
 But, of course, the original indieocracy.
+And yet, their own reaction surprises even them.
 `}
 
 Every indie gatekeeper who's met with me has drawn the same conclusion: "Sure, your [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but you're just a hobbyist." Over time I came to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
