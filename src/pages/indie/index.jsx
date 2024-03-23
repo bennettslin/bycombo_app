@@ -150,7 +150,7 @@ It's just that now, little but chance separates the few who make it from the man
 ### ${++sectionCounter}. Talent wants a path to stardom
 
 ${'  ' || `
-// TODO: Review emphasis.
+// TODO: Review.
 `}
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
@@ -159,7 +159,7 @@ It's because stardom *isn't* caused by corporate greed, but by our own social na
 
 But stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward: The majors *didn't* exploit the local scenes. They merely saw the indie labels as farm teams— as did those '90s alternative bands, who signed with the indies for this very reason!
 
-By blocking all access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to *flee*! So BYCombo is here to build a *new* path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspires to be most worthy— get *your* chance to be one?
+By blocking all access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! So BYCombo is here to build a *new* path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspire to be most worthy— get *your* chance to be one?
 
 ### ${++sectionCounter}. History is made through peer review
 
@@ -173,7 +173,7 @@ Um… all of us other artists who *weren't* picked, that's who! To be clear, we'
 
 Because we're invested in the creative process ourselves, we commit fewer false positives: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists come closest to seeing *today*.
 
-So ignore the critics! To make history without first achieving stardom, you must inspire the envy of fellow *artists*— with your courage, originality, and talents. This is why BYCombo includes you in a community of peers who'll keep your standards high.
+So to make history without achieving stardom, ignore the critics! Instead, your courage, originality, and talents must inspire the envy of fellow *artists*. This is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -213,17 +213,13 @@ But these insights can only emerge from the unconscious mind— as your thoughts
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 In the past, the indie gatekeepers stayed close to the local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case… this is precisely what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
 
 What confused me is that I'd explicitly set out to make a work of art whose creativity [*can't* be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4). Only later did it hit me: If a gatekeeper is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we'd* want. Our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.); we just don't realize this, because whatever it is we *do* like… we simply call *that* the thing [that's creative](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-It's no surprise, then, that history's pioneering works were often backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their [respective genres](https://jalopnik.com/dune-was-originally-published-by-a-car-repair-manual-co-1847940372)— who *didn't* know what the people wanted, and thus *weren't* led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
+It's no surprise, then, that history's pioneering works were often backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their respective genres— who *didn't* know what the people wanted, and thus *weren't* led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
@@ -332,7 +328,7 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
 ${'  ' || `
-// TODO: Put "culture's" status hierarchy back.
+// TODO: Review.
 `}
 
 Rappers love to bash the "[wack MC](https://genius.com/Rundmc-sucker-mcs-krush-groove-1-lyrics#:~:text=Go%20Uptown%20and,of%20Calvin%20Kleins)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
@@ -422,10 +418,6 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 So yes, BYCombo tells you to focus on your craft, and to join a community of others doing the same. But this isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became circles. This was a much simpler explanation— so by Occam's razor, it became accepted as the correct one.
 
