@@ -76,14 +76,21 @@ ${'  ' || `
 
 We are where we are because the indie labels promised to be nothing more than human algorithms, and as the "good guys," this meant the algorithms were good guys as well.
 
+First paragraph, talk about us tiring of obeying science and reason.
+cabins.
+
 * https://www.ian-leslie.com/p/how-to-be-influenced
 `}
 
-Are we headed for a new Romanticism? Industry has been "moneyballed" with digital algorithms. There will be a revolt. Return to old ways. Yet sabermetrics famously cut through human bias, while recommendation algorithms amplify them. In other words, the problem isn't with the algorithms, it's with our biases as humans!
+Are we headed for a new Romanticism? With music getting "moneyballed" by social media and streaming algorithms, many long for a return to the old ways. And yet, as explained in the movie *Moneyball*, sabermetrics *eliminate* human bias— while social media and streaming platforms *amplify* it. Which means the problem *isn't* with the algorithms; it's with us *humans*!
 
-Science tells us that, as status seekers, we humans distance ourselves from the low status— even as they're the source of all subversive ideas in the arts! So for *any* revolution to begin, the elites *must* intervene and spread these ideas from the top down. Yet Millennials embraced indie rock's romantic notion that the next revolution will emerge bottom up from the grassroots.
+Science tells us that we humans are biased not just against creativity, but also against the low status— who generate almost every creative idea in the arts! So for *any* revolution to begin, the elite *must* be allowed to spread these ideas from the top down. Instead, indie rock told us to trust that any good idea is *guaranteed* to spread, bottom up, from the grassroots.
 
-In other words, we've *already* been pursuing romantic ideals— while defying the science— this entire time! It's how we got suckered by the tech platforms to begin with… How *else* could they have won us over to their algorithms, if not with their romantic talk about the will of the people and the triumph of the human spirit? It *wasn't* by appealing to our reason.
+In other words… we've been defying science— in the name of romanticism— this entire *time*! It's how we got suckered by the tech platforms to begin with. They didn't appeal to our reason; they spoke grandiosely about the "will of the people" and the "triumph of the human spirit." And so they won— *not* because they listen to science and reason— but because we in the arts *don't*.
+
+Let's face it, artists are romantics by *default*; what's needed now is a new *Enlightenment*.
+
+
 
 So what's needed now is something that the arts has never had in this Age of the Internet: a sober understanding of what science tells us about our human biases: that *we're* the algorithms. In other words, a new Enlightenment. BYCombo is here to start a new counterculture that *saves* us from the biases of those around us, as well as ourselves.
 
@@ -335,6 +342,14 @@ Well, can't *today's* indies learn to sign the *next* On a Friday? No… Once st
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)! Yet none has arisen, because: "Why counter the good guys?"Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
+
+${'  ' || `
+// TODO: Revise. Move indieocracy to first paragraph here, talk about Republicans being surprised.
+
+For the past decade, Republicans have realized that their movement has become an indieocracy.
+
+But, of course, the original indieocracy.
+`}
 
 Every indie gatekeeper who's met with me has drawn the same conclusion: "Sure, your [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but you're just a hobbyist." Over time I came to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
 
