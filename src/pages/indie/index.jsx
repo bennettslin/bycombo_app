@@ -341,20 +341,11 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday#:~:text=After%20a%20chance,song%20%22Radio%20Head%22.) from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
 
-Well, can't *today's* indies learn to sign the *next* On a Friday? No… Once status comes from hustling, then hustlers become high status— and vice versa. In other words, a status hierarchy is self-reinforcing; it can't be upended from *within*. So indie rock will always be an "indieocracy," as its name implies— a system ruled by hustlers, who work to get themselves known.
+Well, can't *today's* indies learn to sign the *next* On a Friday? No— a culture's status hierarchy is self-reinforcing; it can't be upended from *within*. Once status comes from hustling, then hustlers become high status— and vice versa. So indie rock will always be an "indieocracy," as its name implies— a system ruled by hustlers, who work hardest to get themselves known.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)! Yet none has arisen, because: "Why counter the good guys?"Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
-
-${'  ' || `
-// TODO: Revise. Move indieocracy to first paragraph here, talk about Republicans being surprised.
-
-How powerful is a status hierarchy? For the past decade, Republicans have watched in horror as their movement devolved into an "indieocracy"— that is, a system ruled by hustlers, who work hardest to get themselves known. But then… one by one, almost every one of them learned to embrace the hustlers— perhaps even to their own surprise.
-
-But, of course, the original indieocracy.
-And yet, their own reaction surprises even them.
-`}
 
 Every indie gatekeeper who's met with me has drawn the same conclusion: "Sure, your [projects are impressive](https://digital.lib.washington.edu/researchworks/handle/1773/23566)— but you're just a hobbyist." Over time I came to wonder: Shouldn't I have met one by now who *doesn't* misjudge me? Then one day it clicked: I *haven't* been rejected by a hundred gatekeepers. I've been rejected by the same one— a hundred times over!
 
