@@ -275,9 +275,13 @@ Still, how does rock become pro-*audience* once more? Why, by taking cues from�
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they merely judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers actively work to get themselves known. As a result, the notion is now vulgar that anyone could ever be *made* known, simply by deserving it.
+In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle— to focus their efforts on *getting* the job, rather than merely *deserving* it. As a result, the notion is now vulgar that anyone could ever be *made* known… simply by deserving it.
 
 Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Sure, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists [milking free labor](https://exiledfan.substack.com/p/the-big-business-of-stan-culture) out of parasocial exchanges?
 
@@ -337,7 +341,7 @@ ${'  ' || `
 
 As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to embrace the hustlers who'd now taken over— perhaps to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— yet some seemed genuinely surprised by their own decision.
 
-Which tells us: No indieocracy ever *feels* right. Whom it chooses to win— and who must lose— will always *seem* off. Still, to get along… you'll go along. But then I had to wonder: Shouldn't I have met an indie gatekeeper by now who'd rather just *leave*, as I did? Then one day it clicked: I *haven't* met a hundred of them. I've only met with the same one— a hundred times over!
+In other words, no indieocracy ever *feels* right; whom it chooses to win— and who must lose— will always *seem* off. Still, to get along… you'll go along. But then I had to wonder: Shouldn't I have met an indie gatekeeper by now who'd rather just *leave*, as I did? Then one day it clicked: I *haven't* met a hundred of them. I've only met with the same one— a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in different ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them all to converge on a single way of thinking.
 
