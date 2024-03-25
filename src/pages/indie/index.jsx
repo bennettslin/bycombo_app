@@ -13,11 +13,19 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 # ${TITLE}
 
+${'  ' || `
+// TODO: Keep working on.
+
+Second paragraph: Make all these points, but in a grammatically coherent and logical way.
+`}
+
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a superstar to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Young people have grown disillusioned, and some now agree with me. It turns out, they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Gen Z has grown disillusioned, and doesn't get defensive like Millennials do. It turns out, they'd *love* to have a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
-There's just one problem. Rebelling against centralized institutions is simple: Break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is vastly more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
+But there's an awareness problem. Indie rock enjoys such goodwill, and the arts have been degrading for so long, that Gen Z can't see all this for what it is: "indiefication." They'll gripe that the majors no longer nurture talent nor take risks, unaware that the *indie* camp forced this change— as it's how the indies have *always* worked! So hopefully, I can set the record straight here.
+
+There's also an action problem. To rebel against centralized institutions, we just break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically canonical demos, which they'll show in a public registry to find business partners from a counterculture of interdependence.**
 
