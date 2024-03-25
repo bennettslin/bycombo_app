@@ -187,11 +187,11 @@ ${'  ' || `
 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). They weren't interested, though… and in time I figured out why: Indie rock has no conception of music as a *craft*, by which further study and practice can make your melodies more enjoyable— and thus more enviable!
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). They weren't interested, though… and in time I figured out why: Indie rock has no conception of music as a *craft*— by which further study and practice will make your chords and melodies more memorable.
 
 Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— or these days, online fans— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted [musical hook](https://youtu.be/HWMsWO0vPa8).
 
-Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artists— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your melodies must hook in the listener on their *own*. So BYCombo gives you all the time you need to practice the craft.
+Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artists— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to practice the craft.
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
@@ -287,7 +287,7 @@ ${'  ' || `
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they merely judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers work hard to *get* the job— whether or not they also *deserve* it. As a result, the notion is now vulgar that anyone could ever be made known… *just* by deserving it.
+In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers work hard to *get* the job— whether or not they also *deserve* it. As a result, the notion is now vulgar that anyone could ever be *made* known… simply by deserving it.
 
 Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Sure, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists [milking free labor](https://exiledfan.substack.com/p/the-big-business-of-stan-culture) out of parasocial exchanges?
 
@@ -341,10 +341,6 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
-${'  ' || `
-// TODO: Review.
-`}
-
 As their party devolved into "indieocracy," many Republicans swore they'd resist; instead, most learned to embrace the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— even as some looked surprised by their own decision.
 
 Which tells us: Indieocracy can never *feel* right. Its rules for who gets to win, and who must lose, will always *seem* off. But to get along… you must go along. Still, I had to wonder: Shouldn't I have met an indie gatekeeper by now who'd rather just *leave*, as I did? Then one day it clicked: I *haven't* met a hundred of them. I've only met with the same one— a hundred times over!
@@ -383,7 +379,7 @@ Perhaps my arguments against indie rock seem misplaced. After all, aren't the te
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
 
-By contrast, the indie labels follow the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and then all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is simply to trust the numbers! And for this, the indies get praised as the "good guys."
+By contrast, the indie labels follow the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, then *everyone* does— and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is simply to trust the numbers! And for this, the indies get praised as the "good guys."
 
 So when the tech platforms came along, their focus on numbers made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
 
