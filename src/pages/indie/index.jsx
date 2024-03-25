@@ -23,9 +23,9 @@ By the '90s, the major labels were the clear "bad guys": They'd simply sign a hu
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail. But in recent years, something amazing has happened: Gen Z has grown disillusioned, and doesn't get defensive like Millennials do. It turns out, they'd *love* to have a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
-But there's an awareness problem. Indie rock enjoys such goodwill, and the arts have been degrading for so long, that Gen Z can't see all this for what it is: "indiefication." They'll gripe that the majors no longer nurture talent nor take risks, unaware that the *indie* camp forced this change— as it's how the indies have *always* worked! So hopefully, I can set the record straight here.
+Yet there's an awareness problem: Indie rock enjoys such goodwill, and the arts have been degraded for so long, that Gen Z doesn't see all this for what it is— "indiefication." They'll gripe that the majors no longer nurture talent nor take risks, unaware that this is what the *indie* camp wanted— as it's how the indie labels have *always* worked! So hopefully, I can set the record straight.
 
-There's also an action problem. To rebel against centralized institutions, we just break all that we hate! But to rebel against a *de*-centralized system like indie rock, we must *build*— which is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
+There's also an action problem: To rebel against centralized institutions, we just break all that we hate, right? But to rebel against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically canonical demos, which they'll show in a public registry to find business partners from a counterculture of interdependence.**
 
@@ -195,7 +195,7 @@ ${'  ' || `
 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). They weren't interested, though… and in time I figured out why: Indie rock has no conception of music as a *craft*— by which further study and practice will make your chords and melodies more memorable.
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). They weren't interested, though… and in time I figured out why: Indie rock has no conception of music as a *craft*, by which further study and practice will make your chords and melodies more memorable.
 
 Because the indie labels always lost those radio-friendly bands to the majors, they learned to bypass radio by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— or these days, online fans— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted [musical hook](https://youtu.be/HWMsWO0vPa8).
 
