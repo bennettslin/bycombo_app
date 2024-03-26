@@ -19,9 +19,9 @@ ${'  ' || `
 
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials just didn't want to hear it. But now Gen Z is coming of age, and they're proving to be different. Not only do they dislike the status quo, they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials just didn't want to hear it. But now Gen Z is coming of age, and not only are they disillusioned with the status quo… they'd *love* a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
-Yet there's an *awareness* problem: Because indie rock enjoys such goodwill, few see the decline of the arts for what it is— "indiefication." For example, people will gripe that the majors no longer nurture talent, no longer take risks— unaware that this is how the indies have *always* worked! Hopefully then, I can set the record straight here.
+Yet there's an *awareness* problem: Because indie rock enjoys such goodwill, few see the decline of the arts for what it is— "indiefication." For example, people will gripe that the majors no longer nurture talent, nor take risks— unaware that this is how the indies have *always* worked! Hopefully then, I can set the record straight here.
 
 There's also an *action* problem: To rebel against centralized institutions, we just break all that we hate, right? But to rebel against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
