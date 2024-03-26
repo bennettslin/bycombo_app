@@ -19,7 +19,7 @@ ${'  ' || `
 
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials didn't want to hear it. But now Gen Z is coming of age, and they're proving to be different. Not only do they dislike the status quo, they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials just didn't want to hear it. But now Gen Z is coming of age, and they're proving to be different. Not only do they dislike the status quo, they'd *love* a Nirvana and Radiohead of their own. So the interdependence revolution can finally begin!
 
 Yet there's an *awareness* problem: Because indie rock enjoys such goodwill, few see the decline of the arts for what it is— "indiefication." For example, people will gripe that the majors no longer nurture talent, no longer take risks— unaware that this is how the indies have *always* worked! Hopefully then, I can set the record straight here.
 
@@ -257,9 +257,13 @@ The problem, then, is that indie rock's cultural libertarianism is a *partisan* 
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
+${'  ' || `
+// TODO: Review.
+`}
+
 In game theory, the [stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) is a game in which you and another player, each on your own, must decide whether to hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
 
-The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=the%20difference%20between,and%20poor%20ones.) build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The converse is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
+The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=the%20difference%20between,and%20poor%20ones.) build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The reverse is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
 Indie artists work hard *not* to need a label, and will do so even [when signed](https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me#:~:text=I've%20built%20up,functioning%20independently%20anyway.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can one day become, the past proves that rock can be interdependent once again!
 
