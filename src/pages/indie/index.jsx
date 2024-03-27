@@ -21,7 +21,7 @@ By the '90s, the major labels were the clear "bad guys": They'd simply sign a hu
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials just *didn't* want to hear it. But now Gen Z is coming of age, and not only are they disillusioned with the status quo… they'd *love* a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
-There are just two problems. One is *awareness*: Because indie rock enjoys such goodwill, few see the [decline of the arts](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following) for what it is— "indiefication." People will gripe that the majors no longer nurture talent, nor take risks… not knowing that this is what the *indie* camp wanted— as it's how the indies have *always* behaved! So hopefully, I can set the record straight here.
+There are just two problems. One is *awareness*: Because indie rock enjoys such goodwill, few see the [decline of the arts](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following) for what it is— "indiefication." People will gripe that the majors no longer nurture talent, nor take risks… not knowing that this is what the *indie* camp wanted— as it's how the indies have *always* worked! So hopefully, I can set the record straight here.
 
 And then there's an *action* problem: To rebel against a centralized authority, we just… smash it to smithereens! But against a *de*-centralized system like indie rock, we must *build*— which is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -309,9 +309,13 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 ### ${++sectionCounter}. Insiders see cronyism as camaraderie
 
+${'  ' || `
+// TODO: Review.
+`}
+
 While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love? Well…
 
-The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *just* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male gatekeepers just have to be more inclusive in whom they accept as their own.
+The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *just* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male gatekeepers simply have to be more inclusive in whom they accept as their own.
 
 But so far, their efforts have only helped women, not us minorities— us *male* minorities, anyway. Why? Because our struggles *aren't* the same. Minorities face stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model); and women, of low *competence*. Yet social justice, when self-enforced, *only* fixes misjudgments of competence; a circle of friends has every right to feel more warmly toward their own.
 
