@@ -21,9 +21,9 @@ By the '90s, the major labels were the clear "bad guys": They'd simply sign a hu
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials just *didn't* want to hear it. But now Gen Z is coming of age, and not only are they disillusioned with the status quo… they'd *love* a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
-First, we have to solve an *awareness* problem: Because indie rock enjoys such goodwill, few see the [decline of the arts](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following) for what it is— "indiefication." People will grumble that the majors no longer nurture talent, no longer take risks… unaware that this is what the *indie* camp wanted— as it's how the indies have *always* worked! So hopefully, I can set the record straight here.
+We just need to solve an *awareness* problem: Because indie rock enjoys such goodwill, few see the [decline of the arts](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following) for what it is— "indiefication." People will grumble that the majors no longer nurture talent, no longer take risks… unaware that this is what the *indie* camp wanted— as it's how the indies have *always* worked! So hopefully, I can set the record straight here.
 
-And then it's an *action* problem: To rebel against a centralized institution, we just smash it to smithereens, right? But against a *de*-centralized system like indie rock, we must *build*— which is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
+Then there's an *action* problem: To rebel against centralized institutions, we just smash them to smithereens, right? But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically canonical demos, which they'll show in a public registry to find business partners from a counterculture of interdependence.**
 
@@ -88,6 +88,8 @@ cabins.
 If techies laid waste to the arts, then, it's *not* because they obey science and reason; it's because we in the arts *don't*.
 
 * https://www.ian-leslie.com/p/how-to-be-influenced
+
+Understanding human nature is flawed.
 `}
 
 Are we headed for a new Romanticism? With music getting "moneyballed" by social media and streaming algorithms, many long for a return to the old ways. And yet, as explained in the movie *Moneyball*, sabermetrics *eliminate* human bias— while social media and streaming platforms *amplify* it. Which means the problem *isn't* with the algorithms; it's with us *humans*!
@@ -155,7 +157,7 @@ We all respect those '80s indie bands who came up from the [local scenes](https:
 
 In those days, lottery players would sign unfair contracts with major labels, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
-Yet according to the indie camp… this is as it should be! After all, their sole concern is for artists to emerge from the bottom up, *not* the top down— in which case, what are recommendation algorithms, if not the new word of mouth? Having moved online, the grassroots is still a *populist* domain.
+Yet according to the indie camp… this is as it should be! After all, their sole concern is for artists to emerge from the bottom up, *not* the top down— in which case, what are recommendation algorithms, if not the new word of mouth? Even online, then, the grassroots is still a *populist* domain.
 
 It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a *meritocratic* domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to a new elite!
 
@@ -197,7 +199,7 @@ ${'  ' || `
 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But they weren't interested— and in time I figured out why: Indie rock has no conception that study and practice can lead to better chords and melodies… because it doesn't value music as a craft to *begin* with!
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But they weren't interested— and in time I figured out why: Indie rock has no conception that artists can learn to craft better chords and melodies through study and practice… because it doesn't value music as a *craft* to begin with!
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted [musical hook](https://youtu.be/HWMsWO0vPa8).
 
@@ -312,10 +314,6 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
 
 ### ${++sectionCounter}. Insiders see cronyism as camaraderie
-
-${'  ' || `
-// TODO: Review.
-`}
 
 While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love? Well…
 
