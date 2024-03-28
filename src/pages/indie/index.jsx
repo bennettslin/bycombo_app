@@ -23,7 +23,7 @@ Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I'v
 
 We just need to solve an *awareness* problem: Because indie rock enjoys such goodwill, few see the [decline of the arts](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following) for what it is— "indiefication." People will grumble that the majors no longer nurture talent, no longer take risks… unaware that this is what the *indie* camp wanted— as it's how the indies have *always* worked! So hopefully, I can set the record straight here.
 
-Then there's an *action* problem: To rebel against centralized institutions, we just smash them to smithereens, right? But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
+Then there's an *action* problem: To rebel against centralized institutions, we just smash them to pieces, right? But against a *de*-centralized system like indie rock, we must *build*— which is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically canonical demos, which they'll show in a public registry to find business partners from a counterculture of interdependence.**
 
@@ -153,11 +153,11 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-We all respect those '80s indie bands who came up from the [local scenes](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? Because they were chosen by the people, *not* the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work every day for untold years— unlike a one-hit wonder, who merely lucked out and won the virtual lottery.
+We all respect those '80s indie bands who came up from the [local scenes](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? After all, they were chosen by the people, *not* the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work every day for untold years— unlike a one-hit wonder, who merely lucked out and won the virtual lottery.
 
 In those days, lottery players would sign unfair contracts with major labels, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
-Yet according to the indie camp… this is as it should be! After all, their sole concern is for artists to emerge from the bottom up, *not* the top down— in which case, what are recommendation algorithms, if not the new word of mouth? Even online, then, the grassroots is still a *populist* domain.
+Yet according to the indie camp… this is as it should be! Because, above all, their concern is for artists to emerge from the bottom up, *not* the top down— and what are recommendation algorithms, if not the new word of mouth? "Unlike those major labels, the tech platforms let *us*— the *people*— decide!" Even online, then, the grassroots is still very much a *populist* domain.
 
 It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a *meritocratic* domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to a new elite!
 
