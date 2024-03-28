@@ -147,11 +147,15 @@ And yet, this obviously can't end well. We don't support artists of the *past*�
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
-We all respect those '80s indie bands who came up from the [local scenes](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who merely lucked out and won the virtual lottery.
+${'  ' || `
+// TODO: Review.
+`}
+
+We all respect those '80s indie bands who came up from the [local scenes](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? Because they were chosen by the people, *not* the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work every day for untold years— unlike a one-hit wonder, who merely lucked out and won the virtual lottery.
 
 In those days, lottery players would sign unfair contracts with major labels, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
-Yet according to the indie camp… this is as it should be! Because ultimately, their main concern is for artists to be chosen by the people, *not* by the elite— and what are recommendation algorithms, if not the new word of mouth? The grassroots, in essence, is still very much a *populist* domain.
+Yet according to the indie camp… this is as it should be! After all, their sole concern is for artists to emerge from the bottom up, *not* the top down— in which case, what are recommendation algorithms, if not the new word of mouth? Having moved online, the grassroots is still a *populist* domain.
 
 It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a *meritocratic* domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to a new elite!
 
