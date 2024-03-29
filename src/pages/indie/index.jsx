@@ -157,7 +157,7 @@ We all respect those '80s indie bands who came up from the [local scenes](https:
 
 In those days, lottery players would sign unfair contracts with major labels, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
-Yet according to the indie camp… this is as it should be! Because, above all, their concern is for artists to emerge from the bottom up, *not* from the top down— in which case, what are recommendation algorithms, if not the new word of mouth? "Unlike those major labels, the tech platforms let *us* decide!" Even online, then, the grassroots is still a *populist* domain.
+Yet according to the indie camp… this is as it should be! Because, above all, their concern is for artists to emerge from the bottom up, *not* from the top down— and aren't recommendation algorithms just the new word of mouth? "Unlike those major labels, the tech platforms let *us*— the *people*— decide!" Even online, then, the grassroots is still a *populist* domain.
 
 It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a *meritocratic* domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to a new elite!
 
