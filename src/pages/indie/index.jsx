@@ -14,16 +14,16 @@ const Component = ({ sectionCounter = 0 }) => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a superstar to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials just *didn't* want to hear it. But now Gen Z is coming of age, and not only are they disillusioned with the status quo… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
-The first step is to raise *awareness*: Because indie rock enjoys such goodwill, few see the [decline of the arts](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following) for what it is— "indiefication." People will gripe that the majors no longer nurture talent, no longer take risks… unaware that this is what the *indie* camp wanted, as it's how the *indies* work— by design! So if you just keep reading, hopefully I can set the record straight here.
+The first step is to raise *awareness*: Because indie rock enjoys such goodwill, few see the [decline of the arts](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following) for what it is— "indiefication." People will gripe that the majors no longer nurture talent, no longer take risks… unaware that this is what the *indie* camp wanted, as it's how the *indies* work— by design! So if you just keep reading, hopefully I can set the record straight.
 
-And then it's an *action* problem: Rebelling against centralized institutions is easy, right? We simply… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
+From there, it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically canonical demos, which they'll show in a public registry to find business partners from a counterculture of interdependence.**
 
@@ -159,7 +159,7 @@ We all respect those '80s indie bands who came up from the [local scenes](https:
 
 In those days, lottery players would sign unfair contracts with major labels, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
-Yet according to the indie camp… this is as it should be! Because, above all, their concern is for artists to emerge from the bottom up, *not* from the top down— and aren't recommendation algorithms just the new word of mouth? "Unlike those major labels, the tech platforms let *us*— the *people*— decide!" Even online, then, the grassroots is still a *populist* domain.
+Yet according to the indie camp… this is as it should be! Because, above all, their concern is for artists to emerge from the bottom up, *not* from the top down— in which case, aren't recommendation algorithms just the new word of mouth? "Unlike those major labels, the tech platforms let *us*— the *people*— decide!" Even online, then, the grassroots is still a *populist* domain.
 
 It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a *meritocratic* domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to a new elite!
 
@@ -350,10 +350,6 @@ But can't *today's* indies learn to sign the *next* On a Friday? No… A culture
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)! Yet none has arisen, because: "Why counter the good guys?"Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
-
-${'  ' || `
-// TODO: Review.
-`}
 
 As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to embrace the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— even as some looked surprised by their own decision.
 
