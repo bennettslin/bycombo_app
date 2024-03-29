@@ -21,9 +21,9 @@ By the '90s, the major labels were the clear "bad guys": They'd simply sign a hu
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials just *didn't* want to hear it. But now Gen Z is coming of age, and not only are they disillusioned with the status quo… they'd *love* a Nirvana or Radiohead of their own. So the interdependence revolution can finally begin!
 
-We just need to solve an *awareness* problem: Because indie rock enjoys such goodwill, few see the [decline of the arts](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following) for what it is— "indiefication." People will grumble that the majors no longer nurture talent, no longer take risks… unaware that this is what the *indie* camp wanted— as it's how the indies have *always* worked! So hopefully, I can set the record straight here.
+Our first step is to raise *awareness*: Because indie rock enjoys such goodwill, few see the [decline of the arts](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following) for what it is— "indiefication." People will gripe that the majors no longer nurture talent, no longer take risks… unaware that this is what the indie camp *wanted*— as it's how the indies work by *design*! So hopefully, I can set the record straight here.
 
-Then there's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— which is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
+From there, it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically canonical demos, which they'll show in a public registry to find business partners from a counterculture of interdependence.**
 
@@ -85,7 +85,7 @@ We are where we are because the indie labels promised to be nothing more than hu
 First paragraph, talk about us tiring of obeying science and reason.
 cabins.
 
-If techies laid waste to the arts, then, it's *not* because they obey science and reason; it's because we in the arts *don't*.
+If techies degraded the arts, then, it's *not* because they obey science and reason; it's because we in the arts *don't*.
 
 * https://www.ian-leslie.com/p/how-to-be-influenced
 
@@ -94,7 +94,7 @@ Understanding human nature is flawed.
 
 Are we headed for a new Romanticism? With music getting "moneyballed" by social media and streaming algorithms, many long for a return to the old ways. And yet, as explained in the movie *Moneyball*, sabermetrics *eliminate* human bias— while social media and streaming platforms *amplify* it. Which means the problem *isn't* with the algorithms; it's with us *humans*!
 
-Science tells us that we humans are biased not just against creativity, but also against the low status— who generate almost every creative idea in the arts! So for *any* revolution to begin, the elite *must* be allowed to spread these ideas from the top down. Instead, indie rock told us to trust that any good idea is *guaranteed* to spread, bottom up, from the grassroots.
+Science tells us that we humans are biased not just against creativity, but also against the low status— who generate almost every creative idea in the arts! So for *any* revolution to begin, the elite *must* be allowed to spread these ideas from the top down. Yet indie rock told us to trust that any good idea is *guaranteed* to spread, bottom up, from the grassroots.
 
 In other words… we've been defying science— in the name of romanticism— this entire *time*! It's how we got suckered by the tech platforms to begin with. They didn't appeal to our reason; they spoke grandiosely about the "will of the people" and the "triumph of the human spirit." And so they won— *not* because they listen to science and reason— but because we in the arts *don't*.
 
@@ -153,7 +153,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-We all respect those '80s indie bands who came up from the [local scenes](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work every day for untold years— unlike a one-hit wonder, who merely lucked out and won the virtual lottery.
+We all respect those '80s indie bands who came up from the [local scenes](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who merely lucked out and won the virtual lottery.
 
 In those days, lottery players would sign unfair contracts with major labels, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
