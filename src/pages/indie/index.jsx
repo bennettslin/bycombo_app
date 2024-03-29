@@ -21,9 +21,9 @@ By the '90s, the major labels were the clear "bad guys": They'd simply sign a hu
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials just *didn't* want to hear it. But now Gen Z is coming of age, and not only are they disillusioned with the status quo… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
-Our first step is to raise *awareness*: Because indie rock enjoys such goodwill, few see the [decline of the arts](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following) for what it is— "indiefication." People will gripe that the majors no longer nurture talent, no longer take risks… unaware that this is what the indie camp *wanted*— as it's how the indies work by *design*! So hopefully, I can set the record straight here.
+The first step is to raise *awareness*: Because indie rock enjoys such goodwill, few see the [decline of the arts](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following) for what it is— "indiefication." People will gripe that the majors no longer nurture talent, no longer take risks… unaware that this is what the *indie* camp wanted, as it's how the *indies* work— by design! So if you just keep reading, hopefully I can set the record straight here.
 
-And then it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— which is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
+And then it's an *action* problem: Rebelling against centralized institutions is easy, right? We simply… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically canonical demos, which they'll show in a public registry to find business partners from a counterculture of interdependence.**
 
@@ -86,6 +86,8 @@ First paragraph, talk about us tiring of obeying science and reason.
 cabins.
 
 If techies degraded the arts, then, it's *not* because they obey science and reason; it's because we in the arts *don't*.
+
+Indie rock is based on a flawed understanding of human nature, informed by blind faith and wishful thinking rather than science and reason. We've yet to know ourselves in the online age.
 
 * https://www.ian-leslie.com/p/how-to-be-influenced
 
