@@ -82,7 +82,7 @@ We are where we are because the indie labels promised to be nothing more than hu
 
 `}
 
-Are we headed for a [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Many see a rebellion to come against science and reason, as the arts get "moneyballed" the way [baseball has](https://en.wikipedia.org/wiki/Sabermetrics). Yet this analogy doesn't fit: In baseball, algorithms *remove* human bias— while in the arts, they *amplify* it. Which means our problem *isn't* with the algorithms; it's with ourselves— as *humans*!
+Are we headed for a [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Many see a rebellion to come against science and reason, as the arts get "moneyballed" the way [baseball has](https://en.wikipedia.org/wiki/Sabermetrics). Yet the analogy doesn't fit: In baseball, algorithms *remove* human bias— while in the arts, they *amplify* it. This suggests our problem *isn't* with the algorithms, but with ourselves— as *humans*!
 
 Science tells us that we humans aren't just biased against creativity, but also against low-status groups— who generate almost every creative idea in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality)… who have all the same biases we do. So for *any* revolution to begin, the elites *must* advocate for the low status by spreading their creative ideas from the top down.
 
