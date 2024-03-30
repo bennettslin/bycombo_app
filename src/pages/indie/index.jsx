@@ -79,16 +79,15 @@ ${'  ' || `
 We are where we are because the indie labels promised to be nothing more than human algorithms, and as the "good guys," this meant the algorithms were good guys as well.
 
 * https://www.ian-leslie.com/p/how-to-be-influenced
-
 `}
 
-Are we headed for a [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Many see a rebellion to come against science and reason, as the arts get "moneyballed" the way [baseball has](https://en.wikipedia.org/wiki/Sabermetrics). Yet the analogy doesn't fit: In baseball, algorithms *remove* human bias— while in the arts, they *amplify* it. This suggests our problem *isn't* with the algorithms, but with ourselves— as *humans*!
+Are we headed for the [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Some think a rebellion is brewing against science, as the arts get "moneyballed" by cold, hard reason, the way [baseball has](https://en.wikipedia.org/wiki/Sabermetrics). But the analogy doesn't quite fit: In baseball, algorithms *remove* human bias— while in the arts, they *amplify* it. Which suggests our problem *isn't* with the algorithms; it's with ourselves— as *humans*!
 
-Science tells us that we humans aren't just biased against creativity, but also against low-status groups— who generate almost every creative idea in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality)… who have all the same biases we do. So for *any* revolution to begin, the elites *must* advocate for the low status by spreading their creative ideas from the top down.
+According to science, we humans aren't just biased against creativity, but against the low status as well— who generate almost every creative idea in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality)… who have all the same biases that we do. For *any* revolution to succeed, then, the elites *must* help to spread the creative ideas of low-status groups from the top down.
 
-Yet indie rock taught us to dispute that the elites are good for *anything*: "If an idea is any good, it *will* spread from the bottom up— by *us*." In other words… we've been romantics, thumbing our noses at science, this entire *time*! After all, why *else* did we allow the tech platforms to take over, with their lofty talk about the "will of the people" and the "triumph of the human spirit"?
+Yet indie rock told us to do away with the elites altogether: "If an idea is any good, it *will* spread from the bottom up— by *us*." In other words… we've been new Romantics, thumbing our noses at science, all *along*! It's how the tech platforms took over: They just had to mention the "will of the people" and the "triumph of the human spirit," and then we'd fall for it— every *time*.
 
-So the arts have been degraded, *not* because the tech platforms obey science and reason, but because we in the arts *don't*. Luckily, with BYCombo, you can now help to bring about a new *Enlightenment*— where, to save the arts, we finally abandon the indie camp's wishful thinking and truly understand our human nature… for the first time this century.
+So if the arts have declined, it's *not* because the tech platforms obey science and reason, but because we in the arts *don't*. What we're waiting for, then, is the new *Enlightenment*. Now with BYCombo, you can help us abandon our blind faith in the indie camp's wishful thinking— and instead, to understand, and work with, our human nature… for the first time this century.
 
 ### ${++sectionCounter}. Recording adds another dimension
 
