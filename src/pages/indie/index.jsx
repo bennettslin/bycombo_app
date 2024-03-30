@@ -69,7 +69,7 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Unenlightened romanticism is tyranny
+### ${++sectionCounter}. Unenlightened romanticism is medieval
 
 ${'  ' || `
 // TODO: Keep working on.
@@ -78,21 +78,17 @@ ${'  ' || `
 
 We are where we are because the indie labels promised to be nothing more than human algorithms, and as the "good guys," this meant the algorithms were good guys as well.
 
-First paragraph, talk about us tiring of obeying science and reason.
-cabins.
-
 * https://www.ian-leslie.com/p/how-to-be-influenced
 
-Understanding human nature is flawed.
 `}
 
-Are we headed for a new Romanticism? With music getting "moneyballed" by algorithms, many long for a rebellion against science and reason, and a return to the old ways. And yet, as explained in the movie *Moneyball*, sabermetrics *eliminate* human bias— while streaming platforms *amplify* it. Which means the problem *isn't* with the algorithms; it's with us *humans*!
+Are we headed for a [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Many see a rebellion to come against science and reason, as the arts get "moneyballed" the way [baseball has](https://en.wikipedia.org/wiki/Sabermetrics). Yet this analogy doesn't fit: In baseball, algorithms *remove* human bias— while in the arts, they *amplify* it. Which means our problem *isn't* with the algorithms; it's with ourselves— as *humans*!
 
-Science tells us that we humans are biased not just against creativity, but also against the low status— who generate almost every creative idea in the arts! So for *any* revolution to begin, the elite *must* be allowed to spread these ideas from the top down.
+Science tells us that we humans aren't just biased against creativity, but also against low-status groups— who generate almost every creative idea in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality)… who have all the same biases we do. So for *any* revolution to begin, the elites *must* advocate for the low status by spreading their creative ideas from the top down.
 
-Yet indie rock told us to defy the science, by trusting that any good idea is *guaranteed* to spread, bottom up, from the grassroots. In other words… we've been romantics this entire *time*! How else could the tech platforms win us over so easily, if not with all their grandiose talk about the "will of the people" and the "triumph of the human spirit"?
+Yet indie rock taught us to dispute that the elites are good for *anything*: "If an idea is any good, it *will* spread from the bottom up— by *us*." In other words… we've been romantics, thumbing our noses at science, this entire *time*! After all, why *else* did we allow the tech platforms to take over, with their lofty talk about the "will of the people" and the "triumph of the human spirit"?
 
-So if the tech platforms degraded the arts, it's *not* because they obey science and reason; it's because we in the arts *don't*. But now with BYCombo, you can join a movement that's here to bring about a new *Enlightenment*— where we in the arts finally abandon blind faith and wishful thinking, in order to truly understand our human nature… for the first time this century.
+So the arts have been degraded, *not* because the tech platforms obey science and reason, but because we in the arts *don't*. Luckily, with BYCombo, you can now help to bring about a new *Enlightenment*— where, to save the arts, we finally abandon the indie camp's wishful thinking and truly understand our human nature… for the first time this century.
 
 ### ${++sectionCounter}. Recording adds another dimension
 
@@ -139,13 +135,17 @@ And yet, this obviously can't end well. We don't support artists of the *past*�
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
-We all respect those '80s indie bands who came up from the [local scenes](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who merely lucked out and won the virtual lottery.
+${'  ' || `
+// TODO: Review.
+`}
+
+We all respect those '80s indie bands who came up from the [local scenes](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? After all, they were chosen by the people, *not* by the elites. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who merely lucked out and won the virtual lottery.
 
 In those days, lottery players would sign unfair contracts with major labels, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
 Yet according to the indie camp… this is as it should be! Because, above all, their concern is for artists to emerge from the bottom up, *not* from the top down— in which case, aren't recommendation algorithms just the new word of mouth? "Unlike those major labels, the tech platforms let *us*— the *people*— decide!" Even online, then, the grassroots is still a *populist* domain.
 
-It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a *meritocratic* domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to a new elite!
+It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a *meritocratic* domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the new elites!
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
