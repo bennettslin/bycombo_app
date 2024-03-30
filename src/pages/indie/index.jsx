@@ -13,10 +13,6 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 # ${TITLE}
 
-${'  ' || `
-// TODO: Review.
-`}
-
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a superstar to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials just *didn't* want to hear it. But now Gen Z is coming of age, and not only are they disillusioned with the status quo… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
@@ -151,10 +147,6 @@ And yet, this obviously can't end well. We don't support artists of the *past*�
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
-${'  ' || `
-// TODO: Review.
-`}
-
 We all respect those '80s indie bands who came up from the [local scenes](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? After all, they were chosen by the people, *not* by the elite. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who merely lucked out and won the virtual lottery.
 
 In those days, lottery players would sign unfair contracts with major labels, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
@@ -201,7 +193,7 @@ ${'  ' || `
 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). But they weren't interested— even once I pointed out that study and practice are needed to craft good chords and melodies. Then I figured out why: It's not that they *doubted* my point. They just don't value music as a craft, *period*!
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). "Study and practice are needed to craft good chords and melodies," I pointed out— but still, they weren't interested. In time, I figured out why: It's not that they *doubted* my point. They just don't value music as a craft to *begin* with!
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted [musical hook](https://youtu.be/HWMsWO0vPa8).
 
