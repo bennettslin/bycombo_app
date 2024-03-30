@@ -81,26 +81,18 @@ We are where we are because the indie labels promised to be nothing more than hu
 First paragraph, talk about us tiring of obeying science and reason.
 cabins.
 
-If techies degraded the arts, then, it's *not* because they obey science and reason; it's because we in the arts *don't*.
-
-Indie rock is based on a flawed understanding of human nature, informed by blind faith and wishful thinking rather than science and reason. We've yet to know ourselves in the online age.
-
 * https://www.ian-leslie.com/p/how-to-be-influenced
 
 Understanding human nature is flawed.
 `}
 
-Are we headed for a new Romanticism? With music getting "moneyballed" by social media and streaming algorithms, many long for a return to the old ways. And yet, as explained in the movie *Moneyball*, sabermetrics *eliminate* human bias— while social media and streaming platforms *amplify* it. Which means the problem *isn't* with the algorithms; it's with us *humans*!
+Are we headed for a new Romanticism? With music getting "moneyballed" by algorithms, many long for a rebellion against science and reason, and a return to the old ways. And yet, as explained in the movie *Moneyball*, sabermetrics *eliminate* human bias— while streaming platforms *amplify* it. Which means the problem *isn't* with the algorithms; it's with us *humans*!
 
-Science tells us that we humans are biased not just against creativity, but also against the low status— who generate almost every creative idea in the arts! So for *any* revolution to begin, the elite *must* be allowed to spread these ideas from the top down. Yet indie rock told us to trust that any good idea is *guaranteed* to spread, bottom up, from the grassroots.
+Science tells us that we humans are biased not just against creativity, but also against the low status— who generate almost every creative idea in the arts! So for *any* revolution to begin, the elite *must* be allowed to spread these ideas from the top down.
 
-In other words… we've been defying science— in the name of romanticism— this entire *time*! It's how we got suckered by the tech platforms to begin with. They didn't appeal to our reason; they spoke grandiosely about the "will of the people" and the "triumph of the human spirit." And so they won— *not* because they listen to science and reason— but because we in the arts *don't*.
+Yet indie rock told us to defy the science, by trusting that any good idea is *guaranteed* to spread, bottom up, from the grassroots. In other words… we've been romantics this entire *time*! How else could the tech platforms win us over so easily, if not with all their grandiose talk about the "will of the people" and the "triumph of the human spirit"?
 
-Let's face it, artists are romantics by *default*; what's needed now is a new *Enlightenment*.
-
-
-
-So what's needed now is something that the arts has never had in this Age of the Internet: a sober understanding of what science tells us about our human biases: that *we're* the algorithms. In other words, a new Enlightenment. BYCombo is here to start a new counterculture that *saves* us from the biases of those around us, as well as ourselves.
+So if the tech platforms degraded the arts, it's *not* because they obey science and reason; it's because we in the arts *don't*. But now with BYCombo, you can join a movement that's here to bring about a new *Enlightenment*— where we in the arts finally abandon blind faith and wishful thinking, in order to truly understand our human nature… for the first time this century.
 
 ### ${++sectionCounter}. Recording adds another dimension
 
