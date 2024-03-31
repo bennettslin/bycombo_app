@@ -74,6 +74,8 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: Keep working on.
 
+First paragraph, say "moneyball."
+
 Third paragraph, mention algorithms again.
 
 For the tech platform to take over with their algorithms: They just had to speak of freeing the human spirit.
@@ -262,6 +264,14 @@ Fortunately, if you aspire to be *most* worthy, you can once again verify your w
 
 ### ${++sectionCounter}. Modern audiences leave quietly
 
+${'  ' || `
+// TODO: Revise.
+
+Second paragraph. Say they want the best, they don't want to work to find them, they don't want to defend their priorities. They'd watch reruns, but look elsewhere to be entertained by modern things.
+
+Fourth paragraph. In the same way that audiences want the best artists, the best artists are pro-audience.
+`}
+
 "Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except… you don't even get a living wage, while the top 1% earn millions! How is that fair? So let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete. Who'd object?"
 
 This is silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd leave— and likely without a fuss. There are too many other ways to be entertained these days. We all get this, right? Okay. Well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
@@ -366,7 +376,7 @@ Perhaps my arguments against indie rock seem misplaced. After all, aren't the te
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
 
-By contrast, the indie labels obey the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is to trust the numbers! And for this, the indies get praised as the "good guys."
+By contrast, the indie labels obey the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is to trust the numbers! And for this, the indies get praised as "good guys."
 
 So when the tech platforms came along, their focus on numbers made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
 
