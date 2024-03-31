@@ -69,25 +69,23 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Unenlightened romanticism is medieval
+### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
 ${'  ' || `
 // TODO: Keep working on.
 
 * After fair practices or scarcity section?
 
-We are where we are because the indie labels promised to be nothing more than human algorithms, and as the "good guys," this meant the algorithms were good guys as well.
-
-* https://www.ian-leslie.com/p/how-to-be-influenced
+Fourth paragraph still needs work.
 `}
 
-Are we headed for the [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Some think a rebellion is brewing against science, as the arts get "moneyballed" by cold, hard reason, the way [baseball has](https://en.wikipedia.org/wiki/Sabermetrics). But the analogy doesn't quite fit: In baseball, algorithms *remove* human bias— while in the arts, they *amplify* it. Which suggests our problem *isn't* with the algorithms; it's with ourselves— as *humans*!
+Are we headed for a [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Some foresee a rebellion against science, as algorithms take over the arts like they [did baseball](https://en.wikipedia.org/wiki/Sabermetrics). And yet… this analogy doesn't quite fit: In baseball, algorithms *remove* human bias— while in the arts, they *amplify* it. So maybe our problem *isn't* with the algorithms. What if it's with *us*— as *humans*?
 
-According to science, we humans aren't just biased against creativity, but against the low status as well— who generate almost every creative idea in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality)… who have all the same biases that we do. For *any* revolution to succeed, then, the elites *must* help to spread the creative ideas of low-status groups from the top down.
+According to science, we humans aren't just biased against creativity, but against the low status as well, who generate practically every creative idea in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality), who have all the same biases that we do. For revolutions to succeed, then, the elites *must* get involved— by spreading the creative ideas of low-status groups from the top down.
 
-Yet indie rock told us to do away with the elites altogether: "If an idea is any good, it *will* spread from the bottom up— by *us*." In other words… we've been new Romantics, thumbing our noses at science, all *along*! It's how the tech platforms took over: They just had to mention the "will of the people" and the "triumph of the human spirit," and then we'd fall for it— every *time*.
+Yet indie rock taught us to do *away* with elites: "If an idea is any good, it's *sure* to spread from the bottom up— by *us*." In other words, we've been living as romantics— while scoffing at science— all *along*! It's how the tech platforms took over to begin with: They'd drop a "triumph of the heart" or a "will of the people" into their product descriptions, and we'd fall for it… every time.
 
-So if the arts have declined, it's *not* because the tech platforms obey science and reason, but because we in the arts *don't*. What we're waiting for, then, is the new *Enlightenment*. Now with BYCombo, you can help us abandon our blind faith in the indie camp's wishful thinking— and instead, to understand, and work with, our human nature… for the first time this century.
+So yes, the arts have declined— but it's *not* because tech platforms obey the science. It's because we in the arts *don't*! But now with BYCombo, you can help to usher in a new Enlightenment. What we need now is to understand our human nature as it actually is, not as we wish it to be— for the first time this century.
 
 ### ${++sectionCounter}. Recording adds another dimension
 
