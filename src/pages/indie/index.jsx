@@ -74,6 +74,12 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: Keep working on.
 
+Third paragraph, mention algorithms again.
+
+For the tech platform to take over with their algorithms: They just had to speak of freeing the human spirit.
+
+Use "obey the people's will" below?
+
 * After fair practices or scarcity section?
 `}
 
@@ -170,11 +176,7 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
-${'  ' || `
-// TODO: Review, and review new location.
-`}
-
-Thanks to indie rock, other countries no longer look up to our rock canon, just as we've always cared little of theirs— which stands to reason, since indie artists never go above and beyond to make the *best* art. But… why *don't* they? Well, let's examine their options.
+Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs— which stands to reason, since indie artists never go above and beyond to make the *best* art. But… why *don't* they? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
