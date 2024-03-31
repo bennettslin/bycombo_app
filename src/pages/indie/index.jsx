@@ -72,26 +72,18 @@ Here's an incomplete list of ways…
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
 ${'  ' || `
-// TODO: Keep working on.
-
-First paragraph, say "moneyball."
-
-Third paragraph, mention algorithms again.
-
-For the tech platform to take over with their algorithms: They just had to speak of freeing the human spirit.
-
-Use "obey the people's will" below?
+// TODO: Review a few more times.
 
 * After fair practices or scarcity section?
 `}
 
-Are we headed for a [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Some speak of a rebellion brewing against science, as algorithms take over the arts— like they [did baseball](https://en.wikipedia.org/wiki/Sabermetrics). And yet… does the analogy fit? In baseball, algorithms *remove* human bias… while in the arts, they *amplify* it. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the *humans*!
+Are we headed for a [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Some speak of a rebellion brewing against science, as the arts get "moneyballed," or taken over by algorithms, like [baseball has](https://en.wikipedia.org/wiki/Sabermetrics). Yet does the analogy fit? In baseball, algorithms *remove* human bias… while in the arts, they *amplify* it. So maybe our problem *isn't* with the algorithms. Maybe it's with *us*— as *humans*!
 
-According to science, we humans aren't just biased against creativity, but against the low status as well, who generate practically every creative idea in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality), who have all the same biases that we do. For revolutions to succeed, then, the elites *must* get involved, by spreading the creative ideas of low-status groups— from the top down.
+According to science, we humans aren't just biased against creativity, but against low-status groups as well— who generate almost every creative idea in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality), who have the same biases that we do. For revolutions to succeed, then, the research is clear: The elites *must* get involved, by spreading these creative ideas from the top down.
 
-Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to  spread from the bottom up— by *us*." In other words, we've been living as romantics— while scoffing at science— all *along*! In fact, this is what made it so *easy* for the tech platforms to take over: Their product descriptions just had to speak of freeing the human spirit… and we'd fall for them every time.
+Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to  spread from the bottom up— by *us*." In other words, we've been living as romantics, while scoffing at science, all along! In fact, this is what made it so easy for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will"… and we'd fall for it every time.
 
-So yes, the arts have declined— but it's *not* because tech platforms obey the science; it's because we in the arts *don't*. Let's face it, we've *never* worked with our human nature as it truly is, rather than as we wish it to be. Until we do, the arts *won't* advance any further— which means we're headed for a new Enlightenment! And if you join BYCombo… you can help usher it in.
+So yes, the arts have declined— but *not* because the tech platforms listen to science. It's because the indie camp *doesn't*! They've only ever understood human nature as they wish it to be, rather than as the research says it is. Well, now their wishful thinking hurts everyone. Our only hope, then… is a new Enlightenment! And if you join BYCombo, you can help to usher it in.
 
 ### ${++sectionCounter}. Recording adds another dimension
 
@@ -384,7 +376,11 @@ In short, today's data-driven industry is what the [*indie* camp wanted](https:/
 
 ### ${++sectionCounter}. Scarcity inspires generational courage
 
-Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they content to merely [role-play](https://en.wikipedia.org/wiki/Live_action_role-playing_game), or "larp," the *idea* of revolution?
+${'  ' || `
+// TODO: Review.
+`}
+
+Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they content to merely "larp," or role-play, the [*idea* of revolution](https://en.wikipedia.org/wiki/Live_action_role-playing_game)?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
