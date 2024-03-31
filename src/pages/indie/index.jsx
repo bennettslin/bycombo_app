@@ -75,17 +75,15 @@ ${'  ' || `
 // TODO: Keep working on.
 
 * After fair practices or scarcity section?
-
-Fourth paragraph still needs work.
 `}
 
-Are we headed for a [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Some foresee a rebellion against science, as algorithms take over the arts like they [did baseball](https://en.wikipedia.org/wiki/Sabermetrics). And yet… this analogy doesn't quite fit: In baseball, algorithms *remove* human bias— while in the arts, they *amplify* it. So maybe our problem *isn't* with the algorithms. What if it's with *us*— as *humans*?
+Are we headed for a [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Some speak of a rebellion brewing against science, as algorithms take over the arts— like they [did baseball](https://en.wikipedia.org/wiki/Sabermetrics). And yet… does the analogy fit? In baseball, algorithms *remove* human bias… while in the arts, they *amplify* it. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the *humans*!
 
-According to science, we humans aren't just biased against creativity, but against the low status as well, who generate practically every creative idea in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality), who have all the same biases that we do. For revolutions to succeed, then, the elites *must* get involved— by spreading the creative ideas of low-status groups from the top down.
+According to science, we humans aren't just biased against creativity, but against the low status as well, who generate practically every creative idea in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality), who have all the same biases that we do. For revolutions to succeed, then, the elites *must* get involved— by spreading the creative ideas of low-status groups, from the top down.
 
-Yet indie rock taught us to do *away* with elites: "If an idea is any good, it's *sure* to spread from the bottom up— by *us*." In other words, we've been living as romantics— while scoffing at science— all *along*! It's how the tech platforms took over to begin with: They'd drop a "triumph of the heart" or a "will of the people" into their product descriptions, and we'd fall for it… every time.
+Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to  spread from the bottom up— by *us*." In other words, we've been living as romantics— while scoffing at science— all *along*! In fact, this is what made it so *easy* for the tech platforms to take over: Their product descriptions just had to speak of freeing the human spirit… and we'd fall for them every time.
 
-So yes, the arts have declined— but it's *not* because tech platforms obey the science. It's because we in the arts *don't*! But now with BYCombo, you can help to usher in a new Enlightenment. What we need now is to understand our human nature as it actually is, not as we wish it to be— for the first time this century.
+So yes, the arts have declined— but it's *not* because tech platforms obey the science; it's because we in the arts *don't*. Let's face it, we've yet to work with our human nature as it truly is, rather than as we wish it to be. But until this happens, the arts *won't* advance any further— which means we're headed for a new Enlightenment! And if you join BYCombo… you can help usher it in.
 
 ### ${++sectionCounter}. Recording adds another dimension
 
