@@ -85,11 +85,11 @@ Use "obey the people's will" below?
 
 Are we headed for a [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Some speak of a rebellion brewing against science, as algorithms take over the arts— like they [did baseball](https://en.wikipedia.org/wiki/Sabermetrics). And yet… does the analogy fit? In baseball, algorithms *remove* human bias… while in the arts, they *amplify* it. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the *humans*!
 
-According to science, we humans aren't just biased against creativity, but against the low status as well, who generate practically every creative idea in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality), who have all the same biases that we do. For revolutions to succeed, then, the elites *must* get involved— by spreading the creative ideas of low-status groups, from the top down.
+According to science, we humans aren't just biased against creativity, but against the low status as well, who generate practically every creative idea in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality), who have all the same biases that we do. For revolutions to succeed, then, the elites *must* get involved, by spreading the creative ideas of low-status groups— from the top down.
 
 Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to  spread from the bottom up— by *us*." In other words, we've been living as romantics— while scoffing at science— all *along*! In fact, this is what made it so *easy* for the tech platforms to take over: Their product descriptions just had to speak of freeing the human spirit… and we'd fall for them every time.
 
-So yes, the arts have declined— but it's *not* because tech platforms obey the science; it's because we in the arts *don't*. Let's face it, we've yet to work with our human nature as it truly is, rather than as we wish it to be. But until this happens, the arts *won't* advance any further— which means we're headed for a new Enlightenment! And if you join BYCombo… you can help usher it in.
+So yes, the arts have declined— but it's *not* because tech platforms obey the science; it's because we in the arts *don't*. Let's face it, we've *never* worked with our human nature as it truly is, rather than as we wish it to be. Until we do, the arts *won't* advance any further— which means we're headed for a new Enlightenment! And if you join BYCombo… you can help usher it in.
 
 ### ${++sectionCounter}. Recording adds another dimension
 
@@ -358,11 +358,15 @@ Yet underdog movements will never go away, because to be seen as an underdog is 
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
 
-By contrast, the indie labels follow the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, then *everyone* does— and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is simply to trust the numbers! And for this, the indies get praised as the "good guys."
+By contrast, the indie labels obey the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is to trust the numbers! And for this, the indies get praised as the "good guys."
 
 So when the tech platforms came along, their focus on numbers made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
 
