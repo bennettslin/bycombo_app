@@ -77,13 +77,13 @@ ${'  ' || `
 * After fair practices or scarcity section?
 `}
 
-Are we headed for a [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Some speak of a rebellion brewing against science, as the arts get "moneyballed," or taken over by algorithms, like [baseball has](https://en.wikipedia.org/wiki/Sabermetrics). Yet does the analogy fit? In baseball, algorithms *remove* human bias… while in the arts, they *amplify* it. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— as *humans*!
+Are we headed for a [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Some speak of a rebellion brewing against science, as the arts get "moneyballed," or taken over by algorithms, like [baseball has](https://en.wikipedia.org/wiki/Sabermetrics). Yet does the analogy fit? In baseball, algorithms *remove* human bias… while in the arts, they *amplify* it. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— as humans!
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups— who generate most creative ideas in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality)— yet they have the same biases that we do. For revolutions to succeed, then, the research is clear: The elites *must* get involved, by spreading these creative ideas from the top down.
 
-Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to  spread from the bottom up— by *us*." In other words, we've been living as romantics, while scoffing at science, all along! In fact, this is what made it so easy for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will"… and we'd fall for it every time.
+Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to  spread from the bottom up… by *us*." In other words, we've been living as romantics— while scoffing at science— all along! In fact, this is what made it so easy for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
-So yes, the arts have declined— but *not* because the tech platforms listen to science; it's because the indie camp *doesn't*. They've only ever understood human nature as they wish it to be, rather than as the research says it is— and now their wishful thinking hurts us all. Our only hope, then… is a new Enlightenment! Which you can help to usher in… by joining BYCombo.
+So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*. They only understand human nature as they wish it to be, not as the research says it is— and this wishful thinking now hurts *all* of us. Our only hope, then… is a new Enlightenment! Which you can help to usher in, by joining BYCombo.
 
 ### ${++sectionCounter}. Recording adds another dimension
 
@@ -180,7 +180,7 @@ The sane choice, then, is obvious. Still, what happens if a band tries to make t
 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). "Study and practice are needed to craft good chords and melodies," I pointed out— but still, they weren't interested. Then I figured out why: It's not that they *doubted* my point. They just don't value music as a craft to *begin* with!
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). "Study and practice are needed to craft good chords and melodies," I pointed out— but still, they weren't interested. Then I figured out why: It's not that they doubted my point. They just don't value music as a craft to *begin* with!
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted [musical hook](https://youtu.be/HWMsWO0vPa8).
 
