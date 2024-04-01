@@ -77,13 +77,13 @@ ${'  ' || `
 * After fair practices or scarcity section?
 `}
 
-Are we headed for a [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Some speak of a rebellion brewing against science, as the arts get "moneyballed," or taken over by algorithms, like [baseball has](https://en.wikipedia.org/wiki/Sabermetrics). Yet does the analogy fit? In baseball, algorithms *remove* human bias… while in the arts, they *amplify* it. So maybe our problem *isn't* the algorithms. What if it's *us*— the humans?!
+Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as the arts get "moneyballed," or taken over by algorithms, like [baseball has](https://en.wikipedia.org/wiki/Sabermetrics). Yet does the analogy fit? In baseball, algorithms *remove* human bias… while in the arts, they *amplify* it. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the humans!
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups— who generate most creative ideas in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality)— yet they have the same biases that we do. For revolutions to succeed, then, the research is clear: The elites *must* get involved, by spreading these creative ideas from the top down.
 
-Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to  spread from the bottom up… by *us*." In other words, we've been living as romantics— while scoffing at science— all along! In fact, this is what made it so easy for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
+Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to  spread from the bottom up… by *us*." In other words, we've been living as romantics— while scoffing at science— all along! In fact, this is why it was so easy for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
-So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*. They only understand human nature as they wish it to be, not as the research says it is— and this wishful thinking now hurts *all* of us. Our only hope, then… is a new Enlightenment! Which you can help to usher in, by joining BYCombo.
+So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*. The only way forward, then, is a new Enlightenment, by which we finally understand our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help to usher it in.
 
 ### ${++sectionCounter}. Recording adds another dimension
 
