@@ -257,20 +257,16 @@ Fortunately, if you aspire to be *most* worthy, you can once again verify your w
 ### ${++sectionCounter}. Modern audiences leave quietly
 
 ${'  ' || `
-// TODO: Revise.
-
-Second paragraph. Say they want the best, they don't want to work to find them, they don't want to defend their priorities. They'd watch reruns, but look elsewhere to be entertained by modern things.
-
-Fourth paragraph. In the same way that audiences want the best artists, the best artists are pro-audience.
+// TODO: Review a few more times.
 `}
 
 "Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except… you don't even get a living wage, while the top 1% earn millions! How is that fair? So let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete. Who'd object?"
 
-This is silly, of course: The *audience* would object! They only care to watch the *best*. If "indie sports" took over as a movement, then, they'd leave— and likely without a fuss. There are too many other ways to be entertained these days. We all get this, right? Okay. Well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
+This is silly, of course: The *audience* would object! They only want the *best*— and they *won't* tire themselves to look for it. If "indie sports" took over, then, they'd turn to television and video games, and come back only for "classic sports" reruns. We all get this, right? Okay. Well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been an audience *themselves*. So today's pro-*artist* slant might just be a generational fluke— and *not* the future of music.
 
-Still, how does rock become pro-*audience* once more? Why, by taking cues from… hip hop! Because why *else* do rappers strive to [be the best](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah), if not out of empathy for the audience? Now with BYCombo, you can strive to be the best *band* alive— even if your lyrics never say so.
+Let's face it, if audiences want the best, it's *because* the best empathize with the audience— and vice versa. So how does rock become pro-*audience* once more? Why, by taking cues from… hip hop! After all, the best rappers have [*never* stopped](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) trying to impress the audience. Now with BYCombo, you can strive to be the best *band* alive— even if your own lyrics never say so.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
