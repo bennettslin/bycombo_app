@@ -77,7 +77,7 @@ ${'  ' || `
 * After fair practices or scarcity section?
 `}
 
-Are we headed for a [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Some speak of a rebellion brewing against science, as the arts get "moneyballed," or taken over by algorithms, like [baseball has](https://en.wikipedia.org/wiki/Sabermetrics). Yet does the analogy fit? In baseball, algorithms *remove* human bias… while in the arts, they *amplify* it. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— as humans!
+Are we headed for a [new Romanticism](https://www.honest-broker.com/p/notes-toward-a-new-romanticism)? Some speak of a rebellion brewing against science, as the arts get "moneyballed," or taken over by algorithms, like [baseball has](https://en.wikipedia.org/wiki/Sabermetrics). Yet does the analogy fit? In baseball, algorithms *remove* human bias… while in the arts, they *amplify* it. So maybe our problem *isn't* the algorithms. What if it's *us*— the humans?!
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups— who generate most creative ideas in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality)— yet they have the same biases that we do. For revolutions to succeed, then, the research is clear: The elites *must* get involved, by spreading these creative ideas from the top down.
 
@@ -140,9 +140,15 @@ It's just that now, little but chance separates the few who make it from the man
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
+${'  ' || `
+// TODO: Revise.
+
+Reconcile with audiences section, which says we *do* want the best.
+`}
+
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
-For starters, stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* need to hear the best; we *just* want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts snowball into winning advantages— and *this* is how unworthy artists end up as superstars.
+For starters, stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* need to hear the best; we *just* want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts snowball into winning advantages— and *this* is how less worthy artists end up as superstars.
 
 But stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They merely saw the indie labels as farm teams— as did those '90s alternative bands, who signed with the indies for this very reason!
 
@@ -258,6 +264,8 @@ Fortunately, if you aspire to be *most* worthy, you can once again verify your w
 
 ${'  ' || `
 // TODO: Revise.
+
+Reconcile with stardom section, which says we *don't* want the best.
 
 Second paragraph. Say they want the best, they don't want to work to find them, they don't want to defend their priorities. They'd watch reruns, but look elsewhere to be entertained by modern things.
 
