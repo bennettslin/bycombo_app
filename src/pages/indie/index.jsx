@@ -83,7 +83,7 @@ According to science, we humans aren't just biased against creativity, but also 
 
 Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to  spread from the bottom up… by *us*." In other words, we've been living as romantics— while scoffing at science— all along! In fact, this is why it was so easy for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
-So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*. The only way forward, then, is a new Enlightenment, by which we finally understand our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help to usher it in.
+So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new Enlightenment, by which we finally understand our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help to usher it in.
 
 ### ${++sectionCounter}. Recording adds another dimension
 
@@ -141,14 +141,12 @@ It's just that now, little but chance separates the few who make it from the man
 ### ${++sectionCounter}. Talent wants a path to stardom
 
 ${'  ' || `
-// TODO: Revise.
-
-Reconcile with audiences section, which says we *do* want the best.
+// TODO: Review.
 `}
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
-For starters, stardom *isn't* caused by corporate greed, but by our own social nature. We *don't* need to hear the best; we *just* want to like what others like— and they feel the same! As a result, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where random boosts snowball into winning advantages— and *this* is how less worthy artists end up as superstars.
+For starters, stardom *isn't* caused by corporate greed, but by our own social nature. Since it's hard to say which songs are best, we end up just liking what others like— and they do the same! As such, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where any random boost can snowball into a winning advantage— and *this* is how less worthy artists end up as superstars.
 
 But stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They merely saw the indie labels as farm teams— as did those '90s alternative bands, who signed with the indies for this very reason!
 
@@ -264,8 +262,6 @@ Fortunately, if you aspire to be *most* worthy, you can once again verify your w
 
 ${'  ' || `
 // TODO: Revise.
-
-Reconcile with stardom section, which says we *don't* want the best.
 
 Second paragraph. Say they want the best, they don't want to work to find them, they don't want to defend their priorities. They'd watch reruns, but look elsewhere to be entertained by modern things.
 
