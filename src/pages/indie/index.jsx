@@ -13,11 +13,22 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 # ${TITLE}
 
+${'  ' || `
+// TODO: Revise. Make it clear somewhere that indie rock requires us to believe that the better artists will have an easier time of the hustle.
+`}
+
+Second paragraph: They thought the system was perfect: The better an artist, the easier a time they'll have of the hustle. Require *every* artist to hustle, then, and the best will naturally rise to the top.
+
+Third paragraph: 
+Donald Trump as President.
+
+Fourth paragraph: Historic goodwill. Talk about "indie" being code for "good guys."
+
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a superstar to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials just *didn't* want to hear it. But now Gen Z is coming of age, and not only are they disillusioned with the status quo… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
-The first step is to raise *awareness*: Because indie rock enjoys such goodwill, few see the [decline of the arts](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following) for what it is— "indiefication." People will gripe that the majors no longer nurture talent, no longer take risks… unaware that this is what the *indie* camp wanted, as it's how the *indies* work— by design! So if you just keep reading, hopefully I can set the record straight.
+First, we need to raise *awareness*: Because indie rock enjoys such goodwill, few see the [decline of the arts](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following) for what it is— "indiefication." People will gripe that the majors no longer nurture talent, no longer take risks… unaware that this is what the *indie* camp wanted, as it's how the *indies* work— by design! So if you just keep reading, hopefully I can set the record straight.
 
 From there, it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -91,10 +102,6 @@ We caught the attention of an indie label founder, who was now doing A&R for a m
 Yet the Beatles are the best band of all time, for an obvious reason: What's possible through recording will always surpass what can be recreated in live performance. Which means recording offers a permanent frontier to explore. Now with BYCombo, artists can now explore this frontier.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
-
-${'  ' || `
-// TODO: Revise. Make it clear somewhere that indie rock requires us to believe that the better artists will have an easier time of the hustle.
-`}
 
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
