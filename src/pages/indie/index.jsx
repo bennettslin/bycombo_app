@@ -380,7 +380,7 @@ According to science, we humans aren't just biased against creativity, but also 
 
 Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to  spread from the bottom up… by *us*." In other words, we've been living as romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
-So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*. The only way forward, then, is a new Enlightenment, by which we finally understand our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help to usher it in!
+So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new Enlightenment, by which we finally work with our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help to usher it in.
 
 ### ${++sectionCounter}. Progress tracks aesthetics, not logistics
 
