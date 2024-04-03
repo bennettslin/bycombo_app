@@ -14,21 +14,18 @@ const Component = ({ sectionCounter = 0 }) => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Keep thinking about. Make it clear somewhere that indie rock requires us to believe that the better artists will have an easier time of the hustle.
+// TODO: Revise.
 
-Second paragraph: They thought the system was perfect: The better an artist, the easier a time they'll have of the hustle. Require *every* artist to hustle, then, and the best will naturally rise to the top.
-
-Third paragraph: 
-Donald Trump as President.
-
-Fourth paragraph: Historic goodwill. Talk about "indie" being code for "good guys."
+Third paragraph, sentence is awkward. Maybe need to reverse order to make it logical.
 `}
 
-By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a superstar to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
+By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials just *didn't* want to hear it. But now Gen Z is coming of age, and not only are they disillusioned with the status quo… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials *wouldn't* listen. As they saw it: "The better your works, the easier it is to hustle. By making *every* artist hustle, then, the indies ensure that the best get ahead. So if you hate it, well… what does that say about your works?"
 
-The first step is to raise *awareness*: Because indie rock enjoys such goodwill, few see the [decline of the arts](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following) for what it is— "indiefication." People will gripe that the majors no longer nurture talent, no longer take risks… unaware that this is what the *indie* camp wanted, as it's how the *indies* work— by design! So if you just keep reading, hopefully I can set the record straight.
+But Gen Z is coming of age, and they're now struggling in a world that *didn't* [speak out](https://encyclopedia.ushmm.org/content/en/article/martin-niemoeller-first-they-came-for-the-socialists#:~:text=Then%20they%20came%20for%20the%20Jews,speak%20for%20me.) against indie rock, back when I faced the same struggles. As such, they seem ready to listen. And, of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
+
+First, we raise *awareness*: Given the lasting notion that "indie" means "good," few see the [decline of the arts](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following) for what it is— "indiefication." Instead, they'll gripe that the majors no longer nurture talent, nor take risks… unaware that this is what the *indie* camp wanted, as it's how the *indies* work— by design! So if you just keep reading, hopefully I can set the record straight.
 
 From there, it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -334,6 +331,10 @@ To be interdependent, you need partners who are strong where you're weak, and vi
 So don't be fooled by indie rock's belated embrace of women and minorities! It doesn't add up to any further diversity in *thought*. But BYCombo lets you find bandmates and business partners who think differently… and who'll value *you* for doing the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
+
+${'  ' || `
+// TODO: Revise. Talk about grassroots being a level playing field.
+`}
 
 Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce: "Artists, your success now rests solely upon building a fanbase on your own. A business partner can no longer help you!"
 
