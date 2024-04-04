@@ -250,6 +250,8 @@ Fortunately, if you aspire to be *most* worthy, you can once again verify your w
 
 ${'  ' || `
 // TODO: Revise. It still needs work, I think.
+
+They want trusted gatekeepers to give them the best.
 `}
 
 "Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except… you don't even get a living wage, while the top 1% earn millions! How is that fair? So let's do away with overpaid scouts, and empower each of us in the 99% to be an indie athlete. Who'd object?"
@@ -329,10 +331,10 @@ So don't be fooled by indie rock's belated embrace of women and minorities! It d
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
 ${'  ' || `
-// TODO: Revise. Talk about grassroots being a level playing field.
+// TODO: Review.
 `}
 
-Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce: "Artists, your success now rests solely upon building a fanbase on your own. A business partner can no longer help you!"
+Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce: "Artists, as your own best advocate, each of you will be judged by the size of the fanbase you build on your *own*, without a business partner. The playing field is now level!"
 
 Every Black artist would stare glumly at us. Why? Because back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
