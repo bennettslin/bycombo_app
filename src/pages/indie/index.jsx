@@ -334,7 +334,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce: "Artists, as your own best advocate, each of you will be judged by the size of the fanbase you build on your *own*, without a business partner. The playing field is now level!"
+Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce: "Artists, as your own best advocate, you'll now be judged by how far you get on your *own*, without the help of a business partner. The playing field is finally level!"
 
 Every Black artist would stare glumly at us. Why? Because back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
