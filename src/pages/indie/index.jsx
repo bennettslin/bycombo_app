@@ -77,28 +77,6 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Modern audiences leave quietly
-
-${'  ' || `
-// TODO: Revise. It still needs work, I think.
-
-They want trusted gatekeepers to give them the best.
-
-Let's face it, if audiences want the best, it's *because* the best empathize with the audience— and vice versa. 
-`}
-
-"Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except… you don't even get a living wage, while the top 1% earn millions! How is that fair? So let's do away with overpaid talent scouts, and empower each of us in the 99% to be an indie athlete. Who'd object?"
-
-Um… the *audience* would object! They only want the best— and it *isn't* their dream to do the talent scout's job. If "indie sports" took over, then, they'd turn to serialized dramas or video games— maybe coming back to watch "classic sports" reruns. We all get this, right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
-
-But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been one themselves. So today's pro-*artist* slant might just be a generational fluke… and *not* the future of music.
-
-Still, how does rock become pro-*audience* once more? Why, by taking cues from… hip hop! After all, why *else* do rappers 
-
-After all, rappers have always known that if audiences want the best, it's *because* the best empathize with the audience— and vice versa.
-
-where rappers have [*never* stopped](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) trying to be the best! Now with BYCombo, you can strive to be the best *band* alive— even if your own lyrics never say so.
-
 ### ${++sectionCounter}. Recording adds another dimension
 
 ${'  ' || `
@@ -272,7 +250,19 @@ To complicate matters, pollution is a [tragedy of the commons](https://en.wikipe
 
 Fortunately, if you aspire to be *most* worthy, you can once again verify your worth from the top down— with BYCombo! Because what's a more honest signal, than to sacrifice a serious chunk of lifetime?
 
+### ${++sectionCounter}. Modern audiences leave quietly
 
+${'  ' || `
+// TODO: Review.
+`}
+
+"Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except… you don't even get a living wage, while the top 1% earn millions! How is that fair? So let's do away with overpaid talent scouts, and empower each of us in the 99% to be an indie athlete. Who'd object?"
+
+Um… the *audience* would object! They only want the best— and it *isn't* their dream to do the talent scout's job. If "indie sports" took over, then, they'd turn to serialized dramas or video games— maybe coming back to watch "classic sports" reruns. We all get this, right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
+
+But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been one themselves. So today's pro-*artist* slant might just be a generational fluke… and *not* the future of music.
+
+Still, how does rock become pro-*audience* once more? Why, by taking cues from… hip hop! After all, if the best rappers have [*never* stopped](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) empathizing with the audience… it's because the audience has *only* ever wanted the best rappers— and vice versa. This is why BYCombo lets you strive to be the best *band* alive— even if your own lyrics probably shouldn't say so!
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
