@@ -67,9 +67,17 @@ If we can't resist, though— let's revolt! How? We… wait. See, indie rock has
 
 Sure enough, Gen Z now sees what the older generations see: Indie rock is their hair metal— making the *next* revolution their grunge! Which is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that an entrepreneur will try to disrupt the rock market.
 
+${'  ' || `
+// TODO: Revise. Phrasing is off.
+`}
+
 This "Dr. Dre of rock" would love to partner with bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for a counterculture that *raises* its barriers to emerge. And here's where BYCombo comes in!
 
 **Interdependent bands can now earn a business partner's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
+
+${'  ' || `
+// TODO: Revise. Phrasing is off.
+`}
 
 So picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the canonical works of our times. This is the *final* step to reviving interdependence— the next revolution in rock history!
             `,
