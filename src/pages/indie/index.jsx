@@ -142,10 +142,6 @@ By blocking all access to the majors, then, indie rock *didn't* help the most wo
 
 ### ${++sectionCounter}. History is made through peer review
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
@@ -260,9 +256,9 @@ ${'  ' || `
 
 Um… the *audience* would object! They only want the best— and it *isn't* their dream to do the talent scout's job. If "indie sports" took over, then, they'd turn to serialized dramas or video games— maybe coming back to watch "classic sports" reruns. We all get this, right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
-But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists relate foremost to the *audience*— having first been one themselves. So today's pro-*artist* slant might just be a generational fluke… and *not* the future of music.
+But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. So today's pro-*artist* slant might be a generational fluke… and *not* the future of music.
 
-Still, how does rock become pro-*audience* once more? Why, by taking cues from… hip hop! After all, if the best rappers have [*never* stopped](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) empathizing with the audience… it's because the audience has *only* ever wanted the best rappers— and vice versa. This is why BYCombo lets you strive to be the best *band* alive— even if your own lyrics probably shouldn't say so!
+Still, how does rock become pro-*audience* once more? Why, by taking cues from… hip hop! After all, the best rappers have [*never* stopped](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) relating to the audience. Why is this? It's because the audience has *only* ever wanted the best rappers. So BYCombo lets you strive to be the best *band* alive— even if your own lyrics never say so!
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -331,10 +327,6 @@ To be interdependent, you need partners who are strong where you're weak, and vi
 So don't be fooled by indie rock's belated embrace of women and minorities! It doesn't add up to any further diversity in *thought*. But BYCombo lets you find bandmates and business partners who think differently… and who'll value *you* for doing the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce: "Artists, as your own best advocate, you'll now be judged by how far you get on your *own*, without the help of a business partner. The playing field is finally level!"
 
