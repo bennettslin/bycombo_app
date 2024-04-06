@@ -174,7 +174,7 @@ ${'  ' || `
 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but still, they weren't interested. Then I figured out why: It's not that they doubted my point. They just don't value music as a craft to *begin* with!
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but they weren't interested. Then I figured out why: It's not that they doubted my point. They just don't value music as a craft to *begin* with!
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted [musical hook](https://youtu.be/HWMsWO0vPa8).
 
