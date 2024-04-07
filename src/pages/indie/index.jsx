@@ -251,7 +251,7 @@ Fortunately, if you aspire to be *most* worthy, you can once again verify your w
 ### ${++sectionCounter}. Modern audiences leave quietly
 
 ${'  ' || `
-// TODO: Revise. Two "why"s in a row in last paragraph.
+// TODO: Review.
 `}
 
 "Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except… you don't even get a living wage, while the top 1% earn millions! How is that fair? So let's do away with overpaid talent scouts, and empower each of us in the 99% to be an indie athlete. Who'd object?"
@@ -260,7 +260,7 @@ Um… the *audience* would object! They only want the best— and it *isn't* the
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. So today's pro-*artist* slant might be a generational fluke… and *not* the future of music.
 
-Still, how does rock become pro-*audience* once more? Why, by taking cues from… hip hop! After all, the best rappers have [*never* stopped](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) relating to the audience. Why? Because the audience has only *ever* wanted the best rappers. So BYCombo lets you strive to be the best *band* alive— even if your own lyrics never say so!
+Still, how does rock become pro-*audience* once more? By taking cues from hip hop, of course! After all, the best rappers have [*never* stopped](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) relating to the audience. And why is this? It's because the audience has only *ever* wanted the best rappers. So BYCombo lets you strive to be the best *band* alive— even if your own lyrics never say so!
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
