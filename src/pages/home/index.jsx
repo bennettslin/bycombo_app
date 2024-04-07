@@ -75,11 +75,7 @@ This "Dr. Dre of rock" would love to partner with bands who promise to make the 
 
 **Interdependent bands can now earn a business partner's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
-${'  ' || `
-// TODO: Revise. Phrasing is off.
-`}
-
-So picture a hundred BYCombo bands, all of them breaking indie rock's rules to make the canonical works of our times. This is the *final* step to reviving interdependence— the next revolution in rock history!
+So picture a hundred BYCombo bands, all of them breaking indie rock's rules as needed, to make the canonical works of our times. This is the *final* step to reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
