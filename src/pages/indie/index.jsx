@@ -140,11 +140,15 @@ By blocking all access to the majors, then, indie rock *didn't* help the most wo
 
 ### ${++sectionCounter}. History is made through peer review
 
+${'  ' || `
+// TODO: Review link.
+`}
+
 Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
-Because we're invested in the creative process ourselves, we commit fewer false positives: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists come closest to seeing *today*.
+Because we're invested in the creative process ourselves, we commit fewer false positives: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… [other artists](https://knowledge.wharton.upenn.edu/article/how-non-conformists-move-the-world/#:~:text=The%20group%20that,is%20really%20bad.%E2%80%9D) come closest to seeing *today*.
 
 So to make history without achieving stardom, ignore the critics! Instead, your talents must inspire the envy of fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
@@ -316,9 +320,13 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
+${'  ' || `
+// TODO: Review link.
+`}
+
 As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to embrace the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— even as some looked surprised by their own decision.
 
-Which tells us: Indieocracy can never *feel* right. Its rules for who gets to win, and who must lose, will always *seem* off. But to get along… you must go along. Still, I had to wonder: Shouldn't I have met an indie gatekeeper by now who'd rather just *leave*, as I did? Then one day it clicked: I *haven't* met a hundred of them. I've only met with the same one— a hundred times over!
+Which tells us: Indieocracy can never *feel* right. Its rules for who gets to win, and who must lose, will always *seem* off. But to get along… you must [go along](https://culture.ghost.io/why-do-we-provide-status-to-others/#:~:text=the%20most%20basic,into%20pure%20dominance.). Still, I had to wonder: Shouldn't I have met an indie gatekeeper by now who'd rather just *leave*, as I did? Then one day it clicked: I *haven't* met a hundred of them. I've only met with the same one— a hundred times over!
 
 To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in different ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them all to converge on a single way of thinking.
 
