@@ -120,7 +120,7 @@ We all respect those '80s indie bands who came up from the [local scenes](https:
 
 In those days, lottery players would sign unfair contracts with major labels, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
 
-Yet according to the indie camp… this is as it should be! Because, above all, their concern is for artists to emerge from the bottom up, *not* from the top down— in which case, aren't recommendation algorithms just the new word of mouth? "Unlike those major labels, the tech platforms let *us*— the *people*— decide!" Even online, then, the grassroots is still a *populist* domain.
+Yet according to the indie camp… this is as it should be! Because, above all, their concern is for artists to emerge from the bottom up, *not* from the top down— in which case, aren't recommendation algorithms just the new word of mouth? "Unlike those major labels, the tech platforms let *us*— the people— decide!" Even online, then, the grassroots is still a *populist* domain.
 
 It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a *meritocratic* domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the new elites!
 
@@ -243,16 +243,16 @@ Fortunately, if you aspire to be *most* worthy, you can once again verify your w
 ### ${++sectionCounter}. Modern audiences leave quietly
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Fourth paragraph.
 `}
 
-"Playing sports doesn't just benefit *you*, but also those who *watch* you. This means it's noble to aim for an audience— which then makes you an athlete. Except… you don't even get a living wage, while the top 1% earn millions! How is that fair? So let's do away with overpaid talent scouts, and empower each of us in the 99% to be an indie athlete. Who'd object?"
+"It doesn't just benefit *me* when I play sports; it also benefits *you*— to watch me. Yet I don't even make minimum wage… while superstars earn millions! How is that fair? So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who'd object?"
 
-Um… the *audience* would object! They only want the best— and it *isn't* their dream to do the talent scout's job. If "indie sports" took over, then, they'd turn to serial dramas or video games— and maybe come back to watch "classic sports" reruns. We all get this, right? Okay. Well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
+Um… *we* would— the audience! We want the *best* athletes— and it's the talent scout's job to find them, not ours. If "indie sports" took over, then, we'd turn to serial dramas or video games— and only come back for reruns of "classic sports." Everyone gets this, right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
-But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. So today's pro-*artist* slant might be a generational fluke… and *not* the future of music.
+But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. So today's pro-*artist* way of thinking might just be a generational fluke… and *not* the future of music.
 
-Still, how does rock become pro-*audience* once more? By taking cues from hip hop, of course! After all, the best rappers have [*never* stopped](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) relating to the audience. And why is this? It's because the audience has only *ever* wanted the best rappers. Now with BYCombo, you can strive to be the best *band* alive.
+Still, how does rock become pro-*audience* once more? Why, by taking cues from hip hop! After all, the best rappers have [*always*](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) related to the audience. And why is this? It's because the audience has only ever wanted the *best* rappers. Now with BYCombo, you can strive to be the best *band* alive.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
