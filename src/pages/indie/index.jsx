@@ -79,9 +79,11 @@ ${'  ' || `
 Content doesn't become canon.
 
 Make points from here:
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to pursue visions they can't fully realize on their own; it awakens the very thought to even try. Yes, anyone today can self-release their works— but this is a *curse*, not a *blessing*. Past artists put out *demos*, and to compete with them means doing likewise.
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to pursue visions they can't fully realize on their own; it awakens the very thought to even try.
 
 * Before logistics section.
+
+Indie, in people's mind, is a catchall term for underground art that can afford to take risks. When, in reality, it formed in opposition to the mainstream culture that gate the world Nirvana and Radiohead. And as such, it has its own idiosyncratic values, favoring performances over recordings. Is there something superior about performances over recordings that's universally understood by discerning listeners? No, the indies favor performances because that's what their business model is based on, whether the majors' business model, at least historically, was based on recordings.
 `}
 
 New Romantics want to be rebel against digital content. Return to the days of local singer songwriters in coffee shops. Yet isn't a local performance just as forgettable, and replaceable with the next? In other words, a local performance is just analog content! Why is this the go-to solution for those who hope to rebel against digital content?
@@ -246,13 +248,13 @@ ${'  ' || `
 // TODO: Revise. Fourth paragraph.
 `}
 
-"It doesn't just benefit *me* when I play sports; it also benefits *you*— to watch me. Yet I don't even make minimum wage… while superstars earn millions! How is that fair? So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who'd object?"
+"When I play sports, it doesn't just benefit *me*; it also benefits *you*— to watch me. Yet I don't even make minimum wage… while superstars earn millions! How is that fair? So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who'd object?"
 
 Um… *we* would— the audience! We want the *best* athletes— and it's the talent scout's job to find them, not ours. If "indie sports" took over, then, we'd turn to serial dramas or video games— and only come back for reruns of "classic sports." Everyone gets this, right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. So today's pro-*artist* way of thinking might just be a generational fluke… and *not* the future of music.
 
-Still, how does rock become pro-*audience* once more? Why, by taking cues from hip hop! After all, the best rappers have [*always*](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) related to the audience. And why is this? It's because the audience has only ever wanted the *best* rappers. Now with BYCombo, you can strive to be the best *band* alive.
+Still, how does rock become pro-*audience* once more? Why, by taking cues from hip hop! After all, the best rappers have [*always*](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) related to the audience… and it's because the audience has only ever wanted the *best* rappers. Now with BYCombo, you can strive to be the best *band* alive.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
