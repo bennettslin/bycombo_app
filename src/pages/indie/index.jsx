@@ -264,7 +264,7 @@ Um… *we* would— the audience! We only want the *best* athletes— and it's t
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. So today's pro-*artist* way of thinking might just be a generational fluke… and *not* the future of music.
 
-To become pro-*audience* once more, we must first admit that audiences only want the *best* artists. Which is why BYCombo tells you to make the best art— namely, art that *you'd* most want to hear as a listener who *isn't* you, knowing everything that's out there and having the freedom to choose anything else.
+Still, how do we become pro-*audience* once more? It's simple: We admit that audiences only want the *best* artists! This is why BYCombo tells you to make the best art— namely, art that *you'd* most want to hear, if you *weren't* you and were thus free to choose anything else.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
