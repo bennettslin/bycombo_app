@@ -17,9 +17,9 @@ By the '90s, the major labels were the clear "bad guys": They'd simply sign a hu
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the more you get from hustling. By having *every* artist hustle, then, the indies ensure that the best get ahead. So if you hate it, well… what does that say about your works?"
 
-As such, I was left to struggle in a world that *wouldn't* [speak out](https://encyclopedia.ushmm.org/content/en/article/martin-niemoeller-first-they-came-for-the-socialists#:~:text=Then%20they%20came%20for%20the%20Jews,speak%20for%20me.) against indie rock. But now Gen Z is coming of age and facing the *exact* same struggles— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
+As such, I was left to struggle in a world that *wouldn't* [speak out](https://encyclopedia.ushmm.org/content/en/article/martin-niemoeller-first-they-came-for-the-socialists#:~:text=Then%20they%20came%20for%20the%20Jews,speak%20for%20me.) against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
-First, we raise *awareness*: Because "indie" means "good" to so many, few see the [decline of the arts](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following) for what it is— "indiefication." Instead, they'll grumble that the majors no longer nurture talent, no longer take risks… unaware that this is what the *indie* camp wanted, as it's how the *indies* work— by design! So if you just keep reading, hopefully I can set the record straight.
+First, we raise *awareness*: Because "indie" means "good" to so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— "indiefication." Instead, they'll grumble that the majors no longer nurture talent, no longer take risks… unaware that this is what the *indie* camp wanted, as it's how the *indies* work— by design! So if you just keep reading, hopefully I can set the record straight.
 
 From there, it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -118,9 +118,15 @@ And yet, this obviously can't end well. We don't support artists of the *past*�
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
-We all respect those '80s indie bands who came up from the [local scenes](https://www.littlebrown.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? After all, they were chosen by the people, *not* by the elites. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who merely lucked out and won the virtual lottery.
+${'  ' || `
+// TODO: Revise. Include more talk of difference between underground and indie. Consider moving after grievances section. Review link.
 
-In those days, lottery players would sign unfair contracts with major labels, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in good faith! So now they're drowning the world in their music— *and* getting respect for it.
+https://books.google.com/ngrams/graph?content=%22alternative+rock%22%2C%22indie+rock%22%2C%22underground+rock%22&year_start=1980&year_end=2000&corpus=en-2019&smoothing=3
+`}
+
+We all respect those '80s indie bands who came up from the [local scenes](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? After all, they were chosen by the people, *not* by the elites. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who merely lucked out and won the virtual lottery.
+
+In those days, lottery players would sign unfair contracts with major labels, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in [good faith](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)! So now they're drowning the world in their music— *and* getting respect for it.
 
 Yet according to the indie camp… this is as it should be! Because, above all, their concern is for artists to emerge from the bottom up, *not* from the top down— in which case, aren't recommendation algorithms just the new word of mouth? "Unlike those major labels, the tech platforms let *us*— the people— decide!" Even online, then, the grassroots is still a *populist* domain.
 
@@ -168,7 +174,7 @@ The sane choice, then, is obvious. Still, what happens if a band tries to make t
 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but they weren't interested. Then I figured out why: It's not that they doubted my point. They just don't value music as a craft to *begin* with!
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://www.bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but they weren't interested. Then I figured out why: It's not that they doubted my point. They just don't value music as a *craft* to begin with!
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted [musical hook](https://youtu.be/HWMsWO0vPa8).
 
@@ -245,16 +251,16 @@ Fortunately, if you aspire to be *most* worthy, you can once again verify your w
 ### ${++sectionCounter}. Modern audiences leave quietly
 
 ${'  ' || `
-// TODO: Revise. Fourth paragraph.
+// TODO: Revise. Keep thinking about best generations.
 `}
 
 "When I play sports, it doesn't just benefit *me*; it also benefits *you*— to watch me. Yet I don't even make minimum wage… while superstars earn millions! How is that fair? So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who'd object?"
 
-Um… *we* would— the audience! We want the *best* athletes— and it's the talent scout's job to find them, not ours. If "indie sports" took over, then, we'd turn to serial dramas or video games— and only come back for reruns of "classic sports." Everyone gets this, right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
+Um… *we* would— the audience! We only want the *best* athletes— and it's the talent scout's job to find them, not ours. If "indie sports" took over, then, we'd turn to serial dramas or video games, and only come back for "classic sports" reruns. Everyone gets this, right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. So today's pro-*artist* way of thinking might just be a generational fluke… and *not* the future of music.
 
-Still, how does rock become pro-*audience* once more? Why, by taking cues from hip hop! After all, the best rappers have [*always*](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) related to the audience… and it's because the audience has only ever wanted the *best* rappers. Now with BYCombo, you can strive to be the best *band* alive.
+Let's face it, the best artists are pro-*audience*; after all, audiences only want the *best* artists. And hip hop has *always* known this, which is why the best rappers have [*never* stopped](https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics#:~:text=Because%2C%20um%2C%20I%27ve,the%20best%2C%20yeah) relating to the audience. Now with BYCombo, you can strive to be the best *band* alive.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
