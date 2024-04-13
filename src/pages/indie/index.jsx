@@ -109,7 +109,7 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Revise. Include more talk of difference between underground and indie. Review move after grievances section. Review link.
+// TODO: Revise. Include more talk of difference between underground and indie. Review move after grievances section.
 
 https://books.google.com/ngrams/graph?content=%22alternative+rock%22%2C%22indie+rock%22%2C%22underground+rock%22&year_start=1980&year_end=2000&corpus=en-2019&smoothing=3
 `}
@@ -260,7 +260,7 @@ Um… *we* would— the audience! We only want the *best* athletes— and it's t
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. So today's pro-*artist* way of thinking might just be a generational fluke… and *not* the future of music.
 
-Still, how do we become pro-*audience* once more? It's simple: We admit that audiences only want the *best* artists! This is why BYCombo tells you to make the best *art*— namely, what *you'd* most want to hear if you were anyone else, choosing from all that's come before and all else that's out there.
+Still, how do we become pro-*audience* once more? It's simple: We admit that audiences only want the *best* artists! This is why BYCombo tells you to make the best art— namely, what *you'd* most want to hear if you were anyone else, choosing from all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
