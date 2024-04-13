@@ -144,10 +144,6 @@ By blocking all access to the majors, then, indie rock *didn't* help the most wo
 
 ### ${++sectionCounter}. History is made through peer review
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
@@ -264,7 +260,7 @@ Um… *we* would— the audience! We only want the *best* athletes— and it's t
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. So today's pro-*artist* way of thinking might just be a generational fluke… and *not* the future of music.
 
-Still, how do we become pro-*audience* once more? It's simple: We admit that audiences only want the *best* artists! This is why BYCombo tells you to make the best art— namely, art that *you'd* most want to hear, if you *weren't* you and were thus free to choose anything else.
+Still, how do we become pro-*audience* once more? It's simple: We admit that audiences only want the *best* artists! This is why BYCombo tells you to make the best *art*— namely, what *you'd* most want to hear if you were anyone else, choosing from all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
