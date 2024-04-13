@@ -109,7 +109,7 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Revise. Include more talk of difference between underground and indie. Review move after grievances section.
+// TODO: Revise. Separate into two sections, "The underground no longer exists." Review move after grievances section.
 
 https://books.google.com/ngrams/graph?content=%22alternative+rock%22%2C%22indie+rock%22%2C%22underground+rock%22&year_start=1980&year_end=2000&corpus=en-2019&smoothing=3
 `}
@@ -249,10 +249,6 @@ To complicate matters, pollution is a [tragedy of the commons](https://en.wikipe
 Fortunately, if you aspire to be *most* worthy, you can once again verify your worth from the top down— with BYCombo! Because what's a more honest signal, than to sacrifice a serious chunk of lifetime?
 
 ### ${++sectionCounter}. Modern audiences leave quietly
-
-${'  ' || `
-// TODO: Review.
-`}
 
 "When I play sports, it doesn't just benefit *me*; it also benefits *you*— to watch me. Yet I don't even make minimum wage… while superstars earn millions! How is that fair? So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who'd object?"
 
