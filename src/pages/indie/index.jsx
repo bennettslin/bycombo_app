@@ -121,7 +121,7 @@ For starters, stardom *isn't* caused by corporate greed, but by our own social n
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as farm teams— as did those '90s alternative bands, who signed with the indies for this very reason!
 
-By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Luckily, BYCombo is here to build a *new* path to stardom. Because, let's face it— after going above and beyond to make the best art, you *won't* settle for a [thousand true fans](https://kk.org/thetechnium/1000-true-fans). So if superstars are inevitable… then why can't *you* get a chance to be one?
+By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Luckily, BYCombo is here to build a *new* path to stardom. Because, let's face it— after going above and beyond to make the best art, you *won't* settle for a [thousand true fans](https://kk.org/thetechnium/1000-true-fans). And if superstars are inevitable… then why can't you get *your* chance to be one?
 
 ### ${++sectionCounter}. History is made through peer review
 
@@ -398,15 +398,11 @@ By contrast, a deep love of the craft can motivate you for a lifetime. After all
 
 ### ${++sectionCounter}. Happiness flows from the act of creation
 
-${'  ' || `
-// TODO: Review.
-`}
-
 At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. "On a scale of one to ten," he asked, "how happy are you?" "Eight," I replied. He was floored; he'd expected a three. And so I cleared up the matter: The very reason I chose this path was to *guarantee* my happiness.
 
 In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszentmihalyi), Mihaly Csikszentmihalyi points out that when you have a clear goal; feel adequately challenged; and get immediate feedback from the task at hand, you become fully immersed in the act of creation— which leads to long-term fulfillment. This explains how my years of sacrifice were some of my happiest; I *wasn't* slowly killing myself, as my friend had feared.
 
-Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained from years and years of hustling might just as well be won by chance, or bought through privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
+Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained from years of hustling might just as well be won by chance, or bought through privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
 Yes, the struggle can be a gift— but *only* when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of others doing the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
