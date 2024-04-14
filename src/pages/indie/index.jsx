@@ -111,13 +111,19 @@ It's just that now, little but chance separates the few who make it from the man
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
+${'  ' || `
+// TODO: Revise. Keep working on final paragraph. Revisit "who aspire" again.
+
+https://davekarpf.substack.com/p/the-hollow-core-of-kevin-kellys-thousand
+`}
+
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
 For starters, stardom *isn't* caused by corporate greed, but by our own social nature. Since it's hard to say which songs are best, we end up just liking what others like— and they do the same! As such, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where any random boost can snowball into a winning advantage— and *this* is how less worthy artists end up as superstars.
 
 But stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They merely saw the indie labels as farm teams— as did those '90s alternative bands, who signed with the indies for this very reason!
 
-By blocking all access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! So BYCombo is here to build a *new* path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspire to be most worthy— get *your* chance to be one?
+Let's face it, the most worthy artists *don't* want just a [thousand true fans](https://davekarpf.substack.com/p/the-hollow-core-of-kevin-kellys-thousand). By blocking all access to the majors, then, indie rock *didn't* help them flourish; it caused them to flee! So BYCombo is here to build a *new* path to rock stardom. Because if superstars are inevitable, then why can't *you*— who aspire to be most worthy— get *your* chance to be one?
 
 ### ${++sectionCounter}. History is made through peer review
 
@@ -404,7 +410,7 @@ In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszen
 
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained from years and years of hustling might just as well be won by chance, or bought through privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
-Yes, the struggle can be a gift— but *only* when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of others doing the same. It isn't *just* to make your art better! It's also for your happiness— and the good of your soul.
+Yes, the struggle can be a gift— but *only* when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of others doing the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
