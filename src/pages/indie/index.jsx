@@ -121,7 +121,7 @@ For starters, stardom *isn't* caused by corporate greed, but by our own social n
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as farm teams— as did those '90s alternative bands, who signed with the indies for this very reason!
 
-By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! But rest assured, BYCombo is here to build a *new* path to stardom. Because once you go above and beyond to make the best art, you *won't* settle for a [thousand true fans](https://kk.org/thetechnium/1000-true-fans). And if superstars are inevitable… then why can't *you* get a chance to be one?
+By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Luckily, BYCombo is here to build a *new* path to stardom. Because, let's face it— once you go above and beyond to make the best art, you *won't* settle for a [thousand true fans](https://kk.org/thetechnium/1000-true-fans). And if superstars are inevitable… then why can't *you* get a chance to be one?
 
 ### ${++sectionCounter}. History is made through peer review
 
