@@ -217,13 +217,17 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
+${'  ' || `
+// TODO: Review.
+`}
+
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
 
 But this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an [honest signal](https://en.wikipedia.org/wiki/Signaling_game); we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone can fully invest in the signal itself— rather than in the worth being verified!
 
-To complicate matters, pollution is a [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): It's caused by individuals acting in their own interest— which means it *must* be solved with top-down planning. But the indie camp's thinking is bottom up; under their watch, change can *only* happen independently, at the grassroots. And so they'll never clean up this mess they've created…
+To complicate matters, pollution is a [collective action problem](https://en.wikipedia.org/wiki/Collective_action_problem): It's caused by individuals acting in their own interest— so the solution *has* to come from the top down, through centralized planning. But the indie camp's thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
-Fortunately, if you aspire to be *most* worthy, you can once again verify your worth from the top down— with BYCombo! Because what's a more honest signal, than to sacrifice a serious chunk of lifetime?
+What happens now, then, if you aspire to be *most* worthy? Why, you can join BYCombo— a collective that verifies your worth from the top down! Because what's a more honest signal, than to sacrifice a serious chunk of lifetime?
 
 ### ${++sectionCounter}. Modern audiences leave quietly
 
@@ -289,7 +293,7 @@ And this should concern us, since Radiohead… were the ultimate hobbyists! They
 
 But can't *today's* indies learn to sign the *next* On a Friday? No… A culture's status hierarchy is self-reinforcing and can't be upended from *within*. Think about it: Once status has to come from hustling, then hustlers become high status— and vice versa. So indie rock will always be an "indieocracy," as its name implies— a system ruled by hustlers, who get *themselves* known.
 
-Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)! Yet none has arisen, because: "Why counter the good guys?"Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
+Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](https://genius.com/Bob-dylan-the-times-they-are-a-changin-lyrics#:~:text=And%20don%27t%20speak,they%20are%20a%2Dchangin%27)! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
@@ -394,13 +398,17 @@ By contrast, a deep love of the craft can motivate you for a lifetime. After all
 
 ### ${++sectionCounter}. Happiness flows from the act of creation
 
+${'  ' || `
+// TODO: Review.
+`}
+
 At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. "On a scale of one to ten," he asked, "how happy are you?" "Eight," I replied. He was floored; he'd expected a three. And so I cleared up the matter: The very reason I chose this unusual path was to *guarantee* my happiness.
 
 In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszentmihalyi), Mihaly Csikszentmihalyi points out that when you have a clear goal; feel adequately challenged; and get immediate feedback from the task at hand, you become fully immersed in the act of creation— which leads to long-term fulfillment. This explains how my years of sacrifice were some of my happiest; I *wasn't* slowly killing myself, as my friend had feared.
 
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained from years of hustling might just as well be won by chance, or bought through privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
-Yes, the struggle is a gift— if you face it on your own terms. But when you're forced to use the same tools as everyone else… it can only be a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of others doing the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
+Yes, the struggle is a gift— if you face it on your own terms. But when you're forced to use the same tools as everyone else… it can only be a *grind*. Which is why BYCombo tells you to focus on your craft, and to join a community of others doing the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
