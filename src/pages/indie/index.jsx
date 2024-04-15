@@ -241,15 +241,11 @@ Still, how do we become pro-*audience* once more? It's simple: We admit that aud
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they merely judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
 In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers work to *get* known— whether or not they *deserve* to be. As a result, the notion is now vulgar that anyone could ever be *made* known… simply by deserving to be.
 
-Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Sure, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists [milking free labor](https://exiledfan.substack.com/p/verified-superfandom) out of parasocial exchanges?
+Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a [pickup artist](https://en.wikipedia.org/wiki/Pickup_artist) would. Sure, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists milking free labor out of parasocial exchanges?
 
 So instead, you strive to be what a future audience— or romantic partner!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
