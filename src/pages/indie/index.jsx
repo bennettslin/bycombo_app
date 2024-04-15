@@ -111,10 +111,6 @@ It's just that now, little but chance separates the few who make it from the man
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
-${'  ' || `
-// TODO: Review.
-`}
-
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
 For starters, stardom *isn't* caused by corporate greed, but by our own social nature. Since it's hard to say which songs are best, we end up just liking what others like— and they do the same! As such, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where any random boost can snowball into a winning advantage— and *this* is how unworthy artists end up as superstars.
@@ -398,17 +394,13 @@ By contrast, a deep love of the craft can motivate you for a lifetime. After all
 
 ### ${++sectionCounter}. Happiness flows from the act of creation
 
-${'  ' || `
-// TODO: Review.
-`}
-
 At the peak of my years working eighty-hour weeks— forty to earn a living, and forty on my own projects— a friend staged an intervention. "On a scale of one to ten," he asked, "how happy are you?" "Eight," I replied. He was floored; he'd expected a three. And so I cleared up the matter: The very reason I chose this unusual path was to *guarantee* my happiness.
 
 In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszentmihalyi), Mihaly Csikszentmihalyi points out that when you have a clear goal; feel adequately challenged; and get immediate feedback from the task at hand, you become fully immersed in the act of creation— which leads to long-term fulfillment. This explains how my years of sacrifice were some of my happiest; I *wasn't* slowly killing myself, as my friend had feared.
 
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained from years of hustling might just as well be won by chance, or bought through privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
-Yes, the struggle is a *gift*— if you face it on your own terms. But when you're forced to use the same tools as everyone else… it can only be a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of others doing the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
+Yes, the struggle is a gift— if you face it on your own terms. But when you're forced to use the same tools as everyone else… it can only be a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of others doing the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
