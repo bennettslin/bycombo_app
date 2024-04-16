@@ -93,21 +93,27 @@ So indie rock set off a chain reaction, forcing the next tier of artists to beg 
 
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
-### ${++sectionCounter}. The grassroots is now a lottery
+### ${++sectionCounter}. The underground no longer exists
 
 ${'  ' || `
-// TODO: Revise. Separate into two sections, "The underground no longer exists."
+// TODO: Keep working on.
 
 https://books.google.com/ngrams/graph?content=%22alternative+rock%22%2C%22indie+rock%22%2C%22underground+rock%22&year_start=1980&year_end=2000&corpus=en-2019&smoothing=3
 `}
 
-We all respect those '80s indie bands who came up from the [local scenes](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? After all, they were chosen by the people, *not* by the elites. Yet there's a less spoken reason as well: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who merely lucked out and won the virtual lottery.
+We all respect those '80s underground bands who came up from the [local scenes](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we?  After all, they were chosen by discerning listeners like us— *not* by the mainstream elites. 
 
-In those days, lottery players would sign unfair contracts with major labels, all for a single chance at exposure. But the Internet has since empowered them to reach the public directly, giving them unlimited chances— while making them indie artists in [good faith](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)! So now they're drowning the world in their music— *and* getting respect for it.
+### ${++sectionCounter}. The grassroots is now a lottery
 
-Yet according to the indie camp… this is as it should be! Because, above all, their concern is for artists to emerge from the bottom up, *not* from the top down— in which case, aren't recommendation algorithms just the new word of mouth? "Unlike those major labels, the tech platforms let *us*— the people— decide!" Even online, then, the grassroots is still a *populist* domain.
+${'  ' || `
+// TODO: Keep working on.
+`}
 
-It's just that now, little but chance separates the few who make it from the many who don't, because the grassroots is no longer a *meritocratic* domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the new elites!
+There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who signed an unfair contract with a major label just for a single chance at exposure— and then lucked out and won the virtual lottery.
+
+Of course, the Internet has now empowered lottery players to reach the public directly, giving them unlimited chances— while making them indie artists in [good faith](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.). Yet according to the indie camp… this is as it should be! Because their sole concern is to see artists chosen by the people, *not* by the elites— and aren't recommendation algorithms just the new word of mouth?
+
+So even online, the grassroots remains a *populist* domain. It's just that now, little but chance separates the few who make it from the many who don't, because it's no longer a *meritocratic* domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the new elites!
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
