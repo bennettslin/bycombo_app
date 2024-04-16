@@ -13,9 +13,13 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 # ${TITLE}
 
+${'  ' || `
+// TODO: Review.
+`}
+
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the more you get from hustling. By having *every* artist hustle, then, the indies ensure that the best get ahead. So if you hate it, well… what does that say about your works?"
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the further you get by hustling. By having *every* artist hustle, then, the indies ensure that the best get ahead. So if you hate it, well… what does that say about your works?"
 
 As such, I was left to struggle in a world that *wouldn't* [speak out](https://encyclopedia.ushmm.org/content/en/article/martin-niemoeller-first-they-came-for-the-socialists#:~:text=Then%20they%20came%20for%20the%20Jews,speak%20for%20me.) against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
@@ -93,7 +97,7 @@ https://books.google.com/ngrams/graph?content=%22alternative+rock%22%2C%22indie+
 https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.
 `}
 
-We all respect those '80s underground bands who came up from the [local scenes](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we?  After all, they were chosen by discerning listeners like us— *not* by the mainstream elites. 
+We all respect those underground bands who came up from the [local scenes](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) in the '80s, don't we?  After all, they were chosen by discerning listeners like us— *not* by the mainstream elites. 
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
