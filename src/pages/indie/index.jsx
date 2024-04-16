@@ -78,18 +78,18 @@ Here's an incomplete list of ways…
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 ${'  ' || `
-// TODO: Revise. Recommendation algorithms, then, are simply the new word of mouth.
+// TODO: Review.
 `}
 
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
-For example, even after Goatse proved that the Internet caters to the lowest common denominator… indie rock concluded that bands who go viral *aren't* just the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars… this was seen as proof that artists [*don't* benefit](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=Palmer%20has%20managed%20to%20raise,Universal%27s%20Roadrunner%20imprint) from being on a major label?!
+For example, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that virality is the new word-of-mouth success?! And when Amanda Palmer crowdfunded her way to a million dollars after leaving a major label… this was taken as proof that artists [*don't* benefit](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=Palmer%20has%20managed%20to%20raise,Universal%27s%20Roadrunner%20imprint) from a label deal?!
 
-In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to "own" the major labels, they downplayed this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public just assumes their music is bad!
+In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to "own" the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume their music is bad!
 
-As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the major labels did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it nurses no grievances.
+As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it nurses no grievances.
 
 ### ${++sectionCounter}. The underground no longer exists
 
