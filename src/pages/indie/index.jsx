@@ -99,6 +99,8 @@ ${'  ' || `
 // TODO: Keep working on.
 
 https://books.google.com/ngrams/graph?content=%22alternative+rock%22%2C%22indie+rock%22%2C%22underground+rock%22&year_start=1980&year_end=2000&corpus=en-2019&smoothing=3
+
+https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.
 `}
 
 We all respect those '80s underground bands who came up from the [local scenes](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we?  After all, they were chosen by discerning listeners like us— *not* by the mainstream elites. 
@@ -106,14 +108,14 @@ We all respect those '80s underground bands who came up from the [local scenes](
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Keep working on.
+// TODO: Revise. Just needs to flow and be coherent.
 `}
 
-There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who signed an unfair contract with a major label just for a single chance at exposure— and then lucked out and won the virtual lottery.
+There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed an unfair contract with a major label, just for a single chance at exposure… and then lucked out and won the virtual lottery.
 
-Of course, the Internet has now empowered lottery players to reach the public directly, giving them unlimited chances— while making them indie artists in [good faith](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.). Yet according to the indie camp… this is as it should be! Because their sole concern is to see artists chosen by the people, *not* by the elites— and aren't recommendation algorithms just the new word of mouth?
+Of course, the Internet has since empowered lottery players to reach the public directly, giving them unlimited chances. Does this make them indie artists in good faith, though? According to indie rock… yes! Because its sole concern is to see artists chosen by the people, *not* by the elites— and aren't recommendation algorithms just the new word of mouth?
 
-So even online, the grassroots remains a *populist* domain. It's just that now, little but chance separates the few who make it from the many who don't, because it's no longer a *meritocratic* domain. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the new elites!
+So the grassroots remains a *populist* domain, even after moving online. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years, and let BYCombo expose you to the new elites!
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
