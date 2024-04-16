@@ -77,6 +77,10 @@ Here's an incomplete list of ways…
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
+${'  ' || `
+// TODO: Revise. Recommendation algorithms, then, are simply the new word of mouth.
+`}
+
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
@@ -93,23 +97,25 @@ ${'  ' || `
 // TODO: Keep working on.
 
 https://books.google.com/ngrams/graph?content=%22alternative+rock%22%2C%22indie+rock%22%2C%22underground+rock%22&year_start=1980&year_end=2000&corpus=en-2019&smoothing=3
-
-https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.
 `}
 
-We all respect those underground bands who came up from the [local scenes](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) in the '80s, don't we?  After all, they were chosen by discerning listeners like us— *not* by the mainstream elites. 
+We all respect those underground bands who came up from the [local scenes](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) in the '80s, don't we?  After all, they were chosen by discerning listeners like us— *not* by the mainstream elites.
+
+[link](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Revise. Just needs to flow and be coherent. May need to revise second paragraph in light of underground section. May not need question form.
+// TODO: Keep working on. Just needs to flow and be coherent.
+
+May need to revise in light of underground section.
 `}
 
-There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed an unfair contract with a major label, just for a single chance at exposure… and then lucked out and won the virtual lottery.
+There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed an unfair contract with a major label, all for a single chance at exposure… and then lucked out and won the virtual lottery.
 
-Of course, the Internet has since empowered lottery players to reach the public directly, giving them unlimited chances. Does this make them indie artists in good faith, though? According to indie rock… yes! Because its sole concern is to see artists chosen by the people, *not* by the elites— and aren't recommendation algorithms just the new word of mouth?
+Of course, thanks to the Internet, lottery players now get unlimited chances. But on top of that… they've been made indie artists in good faith! After all, they're chosen by the people, not the elites. So while in the past, they would have been scorned for conspiring with the majors… today, they're respected for working with the tech platforms.
 
-So the grassroots remains a *populist* domain, even after moving online. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years, and let BYCombo expose you to the new elites!
+Even online, then, the grassroots is still a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the new elites!
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
@@ -424,7 +430,7 @@ In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszen
 
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained from years of hustling might just as well be won by chance, or bought through privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
-Yes, the struggle is a gift— if you face it on your own terms. But when you're forced to use the same tools as everyone else… it can only be a *grind*. Which is why BYCombo tells you to focus on your craft, and to join a community of others doing the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
+Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of others doing the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
