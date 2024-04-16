@@ -111,9 +111,9 @@ ${'  ' || `
 May need to revise in light of underground section.
 `}
 
-There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed an unfair contract with a major label, all for a single chance at exposure… and then lucked out and won the virtual lottery.
+There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who readily accepted a major label's unfair terms, just for a single chance at exposure… and then lucked out and won the virtual lottery.
 
-Of course, thanks to the Internet, lottery players now get unlimited chances. But on top of that… they've been made indie artists in good faith! After all, they're chosen by the people, not the elites. So while in the past, they would have been scorned for conspiring with the majors… today, they're respected for working with the tech platforms.
+Of course, thanks to the Internet, lottery players now get unlimited chances. But on top of that… they've also been made indie artists in good faith! After all, they're chosen by the people, not the elites. So while in the past, they would have been scorned for conspiring with the majors… today, they're respected for using the tech platforms.
 
 Even online, then, the grassroots is still a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the new elites!
 
@@ -127,20 +127,10 @@ Yet stardom is also the rightful outcome for the *most* worthy artists, who natu
 
 By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Luckily, BYCombo is here to build a *new* path to stardom. Because, let's face it— once you go above and beyond to make the best art, you *won't* settle for a [thousand true fans](https://kk.org/thetechnium/1000-true-fans). And if superstars are inevitable… then why can't *you* get a chance to be one?
 
-### ${++sectionCounter}. History is made through peer review
-
-Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
-
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
-
-Because we're invested in the creative process ourselves, we commit fewer false positives: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… [other artists](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=%E2%80%9CWhen%20we%20generate,to%20convergent%20thinking.%E2%80%9D) come closest to seeing *today*.
-
-So to make history without achieving stardom, ignore the critics! Instead, your talents must inspire the envy of fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
-
 ### ${++sectionCounter}. Charitable support starts an arms race
 
 ${'  ' || `
-// TODO: Review new location. Related to history.
+// TODO: Review new location. Segues from indie artists to making history.
 `}
 
 In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we *truly* supported were amateurs, recluses, the mentally ill… Yet today's fans use the word "support" to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with high-minded endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
@@ -150,6 +140,16 @@ Unlike an arts foundation, though, phlans *don't* need to hold strict standards 
 So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the *least* helpless!
 
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
+
+### ${++sectionCounter}. History is made through peer review
+
+Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
+
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
+
+Because we're invested in the creative process ourselves, we commit fewer false positives: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… [other artists](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=%E2%80%9CWhen%20we%20generate,to%20convergent%20thinking.%E2%80%9D) come closest to seeing *today*.
+
+So to make history without achieving stardom, ignore the critics! Instead, your talents must inspire the envy of fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
