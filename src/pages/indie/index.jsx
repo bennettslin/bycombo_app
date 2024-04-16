@@ -83,16 +83,6 @@ In every early example of online success, chance or privilege played a clear rol
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the major labels did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it nurses no grievances.
 
-### ${++sectionCounter}. Charitable support starts an arms race
-
-In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we *truly* supported were amateurs, recluses, the mentally ill… Yet today's fans use the word "support" to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with high-minded endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
-
-Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a supreme advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
-
-So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the *least* helpless!
-
-And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
-
 ### ${++sectionCounter}. The underground no longer exists
 
 ${'  ' || `
@@ -108,7 +98,7 @@ We all respect those '80s underground bands who came up from the [local scenes](
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Revise. Just needs to flow and be coherent.
+// TODO: Revise. Just needs to flow and be coherent. May need to revise second paragraph in light of underground section. May not need question form.
 `}
 
 There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed an unfair contract with a major label, just for a single chance at exposure… and then lucked out and won the virtual lottery.
@@ -136,6 +126,20 @@ Um… all of us other artists who *weren't* picked, that's who! To be clear, we'
 Because we're invested in the creative process ourselves, we commit fewer false positives: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… [other artists](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=%E2%80%9CWhen%20we%20generate,to%20convergent%20thinking.%E2%80%9D) come closest to seeing *today*.
 
 So to make history without achieving stardom, ignore the critics! Instead, your talents must inspire the envy of fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
+
+### ${++sectionCounter}. Charitable support starts an arms race
+
+${'  ' || `
+// TODO: Review new location. Related to history.
+`}
+
+In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we *truly* supported were amateurs, recluses, the mentally ill… Yet today's fans use the word "support" to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with high-minded endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
+
+Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a supreme advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
+
+So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the *least* helpless!
+
+And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
