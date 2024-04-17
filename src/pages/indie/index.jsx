@@ -88,7 +88,7 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 ${'  ' || `
 // TODO: Keep working on.
 
-https://books.google.com/ngrams/graph?content=%22alternative+rock%22%2C%22indie+rock%22%2C%22underground+rock%22&year_start=1980&year_end=2000&corpus=en-2019&smoothing=3
+https://books.google.com/ngrams/graph?content=%22alternative+rock%22%2C%22indie+rock%22%2C%22underground+rock%22&year_start=1980&year_end=2000
 `}
 
 We all respect those underground bands who came up from the [local scenes](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) in the '80s, don't we?  After all, they were chosen by discerning listeners like us— *not* by the mainstream elites.
@@ -98,18 +98,14 @@ We all respect those underground bands who came up from the [local scenes](https
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Keep working on. Just needs to flow and be coherent.
-
-Second paragraph: Drowning the world in their music. Being at the forefront of helping the tech platforms obey the people's will.
-
-May need to revise in light of underground section.
+// TODO: Review a few more times.
 `}
 
-There's another reason we respect those '80s underground bands, of course: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then lucked out as if they'd won the lottery.
+There's another reason we respect those '80s underground bands, right? It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— rather than signing to a major label for a single chance at exposure. Because, sure… you could "win the lottery." But at what cost? Loss of royalties, along with lifelong ridicule as a one-hit wonder?
 
-But thanks to the Internet, lottery players now get unlimited chances. Not only that, they're bypassing the majors— which makes them indie artists in good faith! So while they were scorned in the past for conspiring with the elites, today they're respected for using the tech platforms.
+Thanks to the Internet, though, "lottery players" now get unlimited chances. And not only that, they can forgo the majors completely— making them indie artists in good faith! So while they were once scorned for conspiring with the elites to get on the radio… today they're respected for engaging directly with fans, as their underground forebears did.
 
-Even online, then, the grassroots is still a *populist* domain; it's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the new elites!
+According to the indie camp, then, all is as it should be: The grassroots is still a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the new elites!
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
