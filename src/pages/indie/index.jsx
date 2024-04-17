@@ -107,7 +107,7 @@ May need to revise in light of underground section.
 
 There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who signed to a major label for a single chance at exposure… then lucked out and won the virtual lottery.
 
-Thanks to the Internet, though, today's lottery players get unlimited chances. On top of that, they can bypass the majors— which means they're now indie artists in good faith! After all, they're chosen by the people, not the elites. So while in the past, they would have been scorned for conspiring with the elites, they're respected for using the tech platforms.
+Thanks to the Internet, though, today's lottery players get unlimited chances. But not only that, they can bypass the majors— making them indie artists in good faith! After all, they're chosen by the people, not the elites. So while in the past, they would have been scorned for conspiring with the elites, they're now respected for using the tech platforms.
 
 Even online, then, the grassroots is still a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. But… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the new elites!
 
