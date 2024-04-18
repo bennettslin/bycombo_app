@@ -122,6 +122,8 @@ And because being indie is a universal ideal, this prevents the emergence of an 
 
 ${'  ' || `
 // TODO: Review a few more times.
+
+Second paragraph, last sentence should be more directly related to populism.
 `}
 
 There's yet *another* reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— rather than sign to a major label for a single chance at exposure. Because, sure… you could "win the lottery," so to speak. But at what cost? Loss of royalties, along with lifelong ridicule as a one-hit wonder?
@@ -151,12 +153,6 @@ So indie rock set off a chain reaction, forcing the next tier of artists to beg 
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
 ### ${++sectionCounter}. History is made through peer review
-
-${'  ' || `
-// TODO: Review.
-
-Second paragraph, last sentence should be more directly related to populism.
-`}
 
 Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
