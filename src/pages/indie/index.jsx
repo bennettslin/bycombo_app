@@ -152,9 +152,15 @@ And yet, this obviously can't end well. We don't support artists of the *past*�
 
 ### ${++sectionCounter}. History is made through peer review
 
+${'  ' || `
+// TODO: Review.
+
+Second paragraph, last sentence should be more directly related to populism.
+`}
+
 Here's the thing: Most artists in the historical canon were superstars in their own day. But indie rock's bet is on the long tail— so how is *any* indie artist expected to make history? The critics have a plan: Pick one who typifies the underdog of our times, then rally around them. After all, who wouldn't root for an underdog to win?
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a lottery winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
 Because we're invested in the creative process ourselves, we commit fewer false positives: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… [other artists](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=%E2%80%9CWhen%20we%20generate,to%20convergent%20thinking.%E2%80%9D) come closest to seeing *today*.
 
