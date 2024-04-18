@@ -96,11 +96,15 @@ Yet the Beatles are the best band of all time, for an obvious reason: What's pos
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
+${'  ' || `
+// TODO: Review.
+`}
+
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
-For example, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that virality is the new word-of-mouth success?! And when Amanda Palmer crowdfunded her way to a million dollars after leaving a major label… this was taken as proof that artists [*don't* benefit](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=Palmer%20has%20managed%20to%20raise,Universal%27s%20Roadrunner%20imprint) from a label deal?!
+For example, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that artists who go viral *aren't* the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was taken as proof that artists [*don't* need](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=Palmer%20has%20managed%20to%20raise,Universal%27s%20Roadrunner%20imprint) a label deal?!
 
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to "own" the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume their music is bad!
 
@@ -128,7 +132,7 @@ Second paragraph, last sentence should be more directly related to populism.
 
 There's yet *another* reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— rather than sign to a major label for a single chance at exposure. Because, sure… you could "win the lottery," so to speak. But at what cost? Loss of royalties, along with lifelong ridicule as a one-hit wonder?
 
-Thanks to the Internet, though, "lottery players" now get unlimited chances. And not only that, they can forgo the majors completely— making them indie artists in good faith! So while they were once scorned for conspiring with the elites to get on the radio… today they're respected for engaging directly with their fans, as our underground forebears did.
+Yet thanks to the Internet, today's "lottery players" get unlimited chances. On top of that, rather than conspire with the majors to get on the radio, they now engage with fans on social media and work to get picked up by recommendation algorithms— making them indie artists in good faith! After all, they're chosen by the people, *not* by the elites… just like their underground forebears.
 
 According to the indie camp, then, all is as it should be: The grassroots is still a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the new elites!
 
