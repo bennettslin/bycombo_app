@@ -125,14 +125,12 @@ And because being indie is a universal ideal, this prevents the emergence of an 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Revise.
-
-First paragraph. Need to work on last sentence.
+// TODO: Review a few more times.
 `}
 
-There's yet *another* reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— rather than sign to a major label for a single chance at exposure. Because, sure… you *could* "win the lottery," so to speak. But at what cost? Loss of royalties, along with lifelong ridicule as a one-hit wonder?
+There's yet *another* reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
-Yet thanks to the Internet, today's "lottery players" get unlimited chances. On top of that, instead of conspiring with the majors to get a radio hit, they now work on their own to get picked up by algorithms— the new word of mouth. Which means they're chosen by the people, *not* by the elites— making them indie artists in good faith… just like their underground forebears!
+But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to get a radio hit, they can work on their own to get picked up by algorithms— the new word of mouth. Which means they're now chosen by the people, *not* by the elites— making them indie artists in good faith… just like their underground forebears!
 
 According to the indie camp, then, all is as it should be: The grassroots is still a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the new elites!
 
