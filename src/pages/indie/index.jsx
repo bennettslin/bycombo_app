@@ -114,13 +114,17 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ${'  ' || `
 // TODO: Keep working on.
+
+Second paragraph. Say "any" artist, instead of "every." Talk about using tech platforms.
+
+Third paragraph. Finish BYCombo sentence, obviously.
 `}
 
-We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? After all, they were chosen by the people— *not* by the elites. But there's another reason that gets left unsaid today: They were defying the mainstream at the time. After all, the word "underground" implies artistic subversion.
+We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? After all, they were chosen by the people— *not* by the elites. Yet there's another reason as well: They went against the mainstream tastes of their times. After all, the word "underground" implies subversion.
 
-Beginning in the '90s, though, we [began to refer](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22%2C%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to this culture as "indie"— in other words, independent of major labels. And unlike being underground, being indie *can* be a universal ideal… so according to the indie camp, it *should* be! As a result, being respected as an indie artist is now the default for *anyone* who's unknown— even those with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Macro%20tastemakers%20don%E2%80%99t,taste%20Micro%20group.). And now they're drowning everyone out, as they're the majority, by definition.
+In the '90s, though, we [began referring](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22%2C%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to this culture as "indie" instead— in other words, independent of the major labels. But unlike being underground, being indie *can* be a universal ideal. So once the Internet made this possible, the indie camp jumped on it. Now *every* artist starts out indie— and thus respected— by default… even those with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
 
-And because being indie is a universal ideal, this prevents the emergence of an opposing counterculture. But… what if *your* respect for the underground always had to do with the *aesthetics* of subverting mainstream tastes, rather than the *logistics* of defying the majors and their middlemen? Then come join BYCombo.
+Still… what if *your* respect for the underground always had to do with the *aesthetics* of subverting mainstream tastes, rather than the *logistics* of defying the majors and their middlemen? Then come join BYCombo.
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -132,7 +136,7 @@ There's yet *another* reason we respect those '80s underground bands: It feels l
 
 But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to get a radio hit, they can work on their own to get picked up by algorithms— the new word of mouth. Which means they're now chosen by the people, *not* by the elites— making them indie artists in good faith… just like their underground forebears!
 
-According to the indie camp, then, all is as it should be: The grassroots is still a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the new elites!
+As far as the indie camp is concerned, then, all is well: The grassroots is still a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the new elites!
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
