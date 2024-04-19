@@ -115,12 +115,12 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 ${'  ' || `
 // TODO: Keep working on.
 
-Third paragraph. Continue point about this preventing counterculture, or leading to monoculture. Avoid saying "mainstream tastes" so soon. Finish BYCombo sentence, obviously.
+Third paragraph. Continue point about overwhelming mainstream preventing counterculture, or leading to monoculture. Avoid saying "mainstream tastes" so soon. Finish BYCombo sentence, obviously.
 `}
 
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? Because they were chosen by the people— *not* by the elites. But there's another reason as well: Their works went against the mainstream of their times. After all, the word "underground" implies subversion.
 
-In the '90s, though, we [began referring](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22%2C%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to this culture as "indie" instead— in other words, independent of the major labels. Yet unlike being underground, being indie *can* be a universal ideal… so once the Internet made this possible, the indie camp jumped on it. As a result, *anyone* who follows the rules is now an indie artist— even those with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
+In the '90s, though, we [began referring](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22%2C%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to this culture as "indie" instead— in other words, independent of the major labels. Yet unlike being underground, being indie *can* be a universal ideal… so once the Internet made this possible, the indie camp jumped on it. As a result, *any* artist who uses online tools to build a fanbase is now indie— even one with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
 
 Still… what if *your* respect for the old underground always had to do with the *aesthetics* of subverting the mainstream, rather than the *logistics* of defying the majors and their middlemen? Then come join BYCombo.
 
