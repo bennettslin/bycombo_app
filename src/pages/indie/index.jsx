@@ -104,7 +104,7 @@ In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a 
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
-For example, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that artists who go viral *aren't* the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was taken as proof that artists [*don't* need](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=Palmer%20has%20managed%20to%20raise,Universal%27s%20Roadrunner%20imprint) a label deal?!
+For example, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that artists who go viral *aren't* the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving her major label… this was taken as proof that artists [*don't* need](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=Palmer%20has%20managed%20to%20raise,Universal%27s%20Roadrunner%20imprint) a label deal?!
 
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to "own" the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume their music is bad!
 
@@ -125,14 +125,14 @@ And because being indie is a universal ideal, this prevents the emergence of an 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise.
 
-Second paragraph, last sentence should be more directly related to populism.
+First paragraph. Need to work on last sentence.
 `}
 
-There's yet *another* reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— rather than sign to a major label for a single chance at exposure. Because, sure… you could "win the lottery," so to speak. But at what cost? Loss of royalties, along with lifelong ridicule as a one-hit wonder?
+There's yet *another* reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— rather than sign to a major label for a single chance at exposure. Because, sure… you *could* "win the lottery," so to speak. But at what cost? Loss of royalties, along with lifelong ridicule as a one-hit wonder?
 
-Yet thanks to the Internet, today's "lottery players" get unlimited chances. On top of that, rather than conspire with the majors to get on the radio, they now engage with fans on social media and work to get picked up by recommendation algorithms— making them indie artists in good faith! After all, they're chosen by the people, *not* by the elites… just like their underground forebears.
+Yet thanks to the Internet, today's "lottery players" get unlimited chances. On top of that, instead of conspiring with the majors to get a radio hit, they now work on their own to get picked up by algorithms— the new word of mouth. Which means they're chosen by the people, *not* by the elites— making them indie artists in good faith… just like their underground forebears!
 
 According to the indie camp, then, all is as it should be: The grassroots is still a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the new elites!
 
@@ -177,6 +177,10 @@ Yet… this indie camp will then complain that the Rock and Roll Hall of Fame do
 Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
+
+${'  ' || `
+// TODO: Revise. Point out limited time and energy.
+`}
 
 Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs— which stands to reason, since indie artists never go above and beyond to make the *best* art. But… why *don't* they? Well, let's examine their options.
 
