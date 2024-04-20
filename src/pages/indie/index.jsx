@@ -119,23 +119,23 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 ${'  ' || `
 // TODO: Keep working on.
 
-Second paragraph. Last sentence should be better.
+First paragraph: Reconcile how we went from being exclusive to being populist. Move it to grassroots section. Make it instead about how it's easy to forget that it was based on exclusivity.
 
-Third paragraph. Finish BYCombo sentence, obviously. Elites— the *only* source for subversion in an online world.
+Third paragraph. Finish BYCombo sentence, obviously. Make it about business partners.
 `}
 
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? After all, they were chosen by the people— *not* by the elites. But there's also another reason: Their works went against the mainstream of their times— hence the word "underground," which implies subversion.
 
 In the '90s, though, we [began referring](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to this culture as "indie" instead— in other words, independent of the major labels. Yet unlike being underground, being indie *can* be a universal ideal… so once the Internet made this possible, the indie camp jumped on it. Now today, *every* artist who uses online tools to forgo the majors is respected as indie— even those with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
 
-But… by definition, *most* people belong to the mainstream— so artists who cater to such tastes hold a winning advantage in building a fanbase on their own. Which means they're the ones who get picked by the indie gatekeepers! And since indie rock's ideals are presumed to be universal, the indie camp embraces this new reality as inevitable.
+But… by definition, *most* people belong to the mainstream— so artists who cater to such tastes hold a winning advantage in building a fanbase on their own. Which means they're the ones who get picked by the indie gatekeepers! And since indie rock's ideals are presumed to be universal, the indie camp simply embraces this new reality as inevitable.
 
 So what happens now, if *your* respect for the old underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Why, BYCombo can expose you to the next elites— the *only* ones who'll back artistic subversion in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise. Make it that the mainstreaming of indie rock means we respect the '80s underground bands for being chosen by the people, not the elites.
 `}
 
 There's yet *another* reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
@@ -249,6 +249,12 @@ Let's get this out of the way: The best artists *respect* the middleman. After a
 Sadly, young people never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, and so I've only *ever* dreamt of having one job as an artist— seeing that it's the only way to make the best art! Now with BYCombo, this dream can be yours as well.
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
+
+${'  ' || `
+// TODO: Revise.
+
+Make new fourth paragraph, how absurd it would be if an entire generation believed that the least privileged want what the most privileged want: to be socioeconomically indie-pendent.
+`}
 
 Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
