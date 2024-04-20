@@ -19,7 +19,11 @@ As you know, *indie*-pendence is the dominant thinking in rock today. So why is 
 
 ### Tools… are *rules*
 
-Indie rock roots for the underdog, and so it seeks to lower the barriers to entry for artists. As such, it provides them with tools of empowerment— social media, streaming services, crowdfunding platforms, and so forth— allowing them to forgo the labels and build a fanbase on their own.
+${'  ' || `
+// TODO: Review.
+`}
+
+Indie rock roots for the underdog, and so it seeks to lower the barriers to entry for artists. As such, it provides them with tools of empowerment— social media, streaming services, crowdfunding platforms, and so forth— allowing them to forgo the major labels and build a fanbase on their own.
 
 Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their main purpose is to punish any holdouts. But wait… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 

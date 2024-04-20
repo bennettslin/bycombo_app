@@ -110,19 +110,23 @@ In every early example of online success, chance or privilege played a clear rol
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it nurses no grievances.
 
-### ${++sectionCounter}. The underground no longer exists
+### ${++sectionCounter}. The underground was willfully supplanted
 
 ${'  ' || `
 // TODO: Keep working on.
 
-Third paragraph. Continue point about overwhelming mainstream preventing counterculture, or leading to monoculture. Avoid saying "mainstream tastes" so soon. Finish BYCombo sentence, obviously.
+Second paragraph. Last sentence should be better.
+
+Third paragraph. Finish BYCombo sentence, obviously.
 `}
 
-We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? Because they were chosen by the people— *not* by the elites. But there's another reason as well: Their works went against the mainstream of their times. After all, the word "underground" implies subversion.
+We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? After all, they were chosen by the people— *not* by the elites. But there's also another reason: Their works went against the mainstream of their times— hence the word "underground," which implies subversion.
 
-In the '90s, though, we [began referring](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22%2C%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to this culture as "indie" instead— in other words, independent of the major labels. Yet unlike being underground, being indie *can* be a universal ideal… so once the Internet made this possible, the indie camp jumped on it. As a result, *any* artist who uses online tools to build a fanbase is now indie— even one with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
+In the '90s, though, we [began referring](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22%2C%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to this culture as "indie" instead— in other words, independent of the major labels. Yet unlike being underground, being indie *can* be a universal ideal… so once the Internet made this possible, the indie camp jumped on it. Now today, *every* artist who uses online tools to forgo the majors is respected as indie— even those with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
 
-Still… what if *your* respect for the old underground always had to do with the *aesthetics* of subverting the mainstream, rather than the *logistics* of defying the majors and their middlemen? Then come join BYCombo.
+And since *most* people belong to the mainstream, artists who cater to such tastes hold the winning advantage in building a fanbase on their own. But… this means they'll always be the ones selected by the indie gatekeepers! To make matters worse, indie rock's ideals are presumed to be universal, which means a new underground can never arise…
+
+So what happens now, if *your* respect for the old underground was always rooted in the *aesthetics* of subverting mainstream tastes, rather than in the *logistics* of forgoing the majors and their middlemen? Why, you can join BYCombo.
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -134,7 +138,7 @@ There's yet *another* reason we respect those '80s underground bands: It feels l
 
 But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to get a radio hit, they can work on their own to get picked up by algorithms— the new word of mouth. Which means they're now chosen by the people, *not* by the elites— making them indie artists in good faith… just like their underground forebears!
 
-As far as the indie camp is concerned, then, all is well: The grassroots is still a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the new elites!
+As far as the indie camp is concerned, then, all is well: The grassroots is still a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the next elites!
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
@@ -148,9 +152,13 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
+${'  ' || `
+// TODO: Review.
+`}
+
 In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we *truly* supported were amateurs, recluses, the mentally ill… Yet today's fans use the word "support" to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with high-minded endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
-Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a supreme advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
+Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
 
 So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the *least* helpless!
 
