@@ -13,9 +13,13 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 # ${TITLE}
 
+${'  ' || `
+// TODO: Review.
+`}
+
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the further you get by hustling. By having *every* artist hustle, then, the indies ensure that the best get ahead. So if you hate it, well… what does that say about your works?"
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the further you get by hustling. By having *every* artist hustle, then, the indies ensure that we hear the best. So if you hate it, well… what does that say about your works?"
 
 As such, I was left to struggle in a world that *wouldn't* [speak out](https://encyclopedia.ushmm.org/content/en/article/martin-niemoeller-first-they-came-for-the-socialists#:~:text=Then%20they%20came%20for%20the%20Jews,speak%20for%20me.) against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
@@ -122,9 +126,9 @@ Third paragraph. Finish BYCombo sentence, obviously.
 
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? After all, they were chosen by the people— *not* by the elites. But there's also another reason: Their works went against the mainstream of their times— hence the word "underground," which implies subversion.
 
-In the '90s, though, we [began referring](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22%2C%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to this culture as "indie" instead— in other words, independent of the major labels. Yet unlike being underground, being indie *can* be a universal ideal… so once the Internet made this possible, the indie camp jumped on it. Now today, *every* artist who uses online tools to forgo the majors is respected as indie— even those with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
+In the '90s, though, we [began referring](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22%2C%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to this culture as "indie" instead— in other words, independent of any major label. And unlike being underground, being indie *can* be a universal ideal… so once the Internet made this possible, the indie camp jumped on it. Now today, *every* artist who uses online tools to forgo the majors is respected as indie— even those with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
 
-And since *most* people belong to the mainstream, artists who cater to such tastes hold the winning advantage in building a fanbase on their own. But… this means they'll always be the ones selected by the indie gatekeepers! To make matters worse, indie rock's ideals are presumed to be universal, which means a new underground can never arise…
+But *most* people belong to the mainstream— so artists who cater to such tastes hold a winning advantage in building a fanbase on their own. Which means they'll always be the ones selected by the indie gatekeepers! And since indie rock's ideals are presumed to be universal, which means a new underground can never arise…
 
 So what happens now, if *your* respect for the old underground was always rooted in the *aesthetics* of subverting mainstream tastes, rather than in the *logistics* of forgoing the majors and their middlemen? Why, you can join BYCombo.
 
