@@ -13,10 +13,6 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 # ${TITLE}
 
-${'  ' || `
-// TODO: Review.
-`}
-
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the further you get by hustling. By having *every* artist hustle, then, the indies ensure that we hear the best. So if you hate it, well… what does that say about your works?"
@@ -100,15 +96,11 @@ Yet the Beatles are the best band of all time, for an obvious reason: What's pos
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
-For example, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that artists who go viral *aren't* the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving her major label… this was taken as proof that artists [*don't* need](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=Palmer%20has%20managed%20to%20raise,Universal%27s%20Roadrunner%20imprint) a label deal?!
+For example, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that artists who go viral *aren't* the new one-hit wonders?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving her major label… this was taken as proof that artists [*don't* benefit](https://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#:~:text=Palmer%20has%20managed%20to%20raise,Universal%27s%20Roadrunner%20imprint) from a label deal?!
 
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to "own" the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume their music is bad!
 
@@ -155,10 +147,6 @@ Yet stardom is also the rightful outcome for the *most* worthy artists, who natu
 By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Luckily, BYCombo is here to build a *new* path to stardom. Because, let's face it— once you go above and beyond to make the best art, you *won't* settle for a [thousand true fans](https://kk.org/thetechnium/1000-true-fans). And if superstars are inevitable… then why can't *you* get a chance to be one?
 
 ### ${++sectionCounter}. Charitable support starts an arms race
-
-${'  ' || `
-// TODO: Review.
-`}
 
 In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we *truly* supported were amateurs, recluses, the mentally ill… Yet today's fans use the word "support" to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with high-minded endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
