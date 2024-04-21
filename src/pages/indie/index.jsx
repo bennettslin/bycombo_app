@@ -15,7 +15,7 @@ const Component = ({ sectionCounter = 0 }) => (
 
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the further you get by hustling. By having *every* artist hustle, then, the indies ensure that we hear the best. So if you hate it, well… what does that say about your works?"
+Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the further you get by hustling. By making *every* artist hustle, then, the indies ensure that we hear the *best*. So if you hate it, well… what does that say about your works?"
 
 As such, I was left to struggle in a world that *wouldn't* [speak out](https://encyclopedia.ushmm.org/content/en/article/martin-niemoeller-first-they-came-for-the-socialists#:~:text=Then%20they%20came%20for%20the%20Jews,speak%20for%20me.) against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
@@ -123,14 +123,12 @@ So what happens now, if *your* respect for the old underground was always rooted
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Revise.
-
-Second paragraph: More room now to expand on indie camp establishing that algorithms are the new word of mouth.
+// TODO: Review.
 `}
 
 There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
-But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to get a radio hit, they work on their own to get picked up by recommendation algorithms— which the indie camp has embraced as the new word of mouth. So now they're chosen by the people, *not* by the elites— making them indie artists in good faith!
+But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to get a radio hit, they can work on their own to get picked up by recommendation algorithms— the new word of mouth, according to indie rock. So now they're chosen by the people, *not* by the elites— making them indie artists in good faith!
 
 As far as the indie camp is concerned, then, all is well: The grassroots is still a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo help you partner with the new elites!
 
