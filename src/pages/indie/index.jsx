@@ -13,17 +13,13 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 # ${TITLE}
 
-${'  ' || `
-// TODO: Review.
-`}
-
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://www.bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the further you get by hustling. By making *every* artist hustle, then, the indies ensure that we hear the *best*. So if you hate it, well… what does that say about your works?"
 
 As such, I was left to struggle in a world that *wouldn't* [speak out](https://encyclopedia.ushmm.org/content/en/article/martin-niemoeller-first-they-came-for-the-socialists#:~:text=Then%20they%20came%20for%20the%20Jews,speak%20for%20me.) against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
-First, we raise *awareness*: Because "indie" implies "good" to so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— "indiefication." Instead, they'll grumble that the majors no longer nurture talent, no longer take risks… unaware that this is what the *indie* camp wanted, as it's how the *indies* work— by design! So if you just keep reading, hopefully I can set the record straight.
+First, we raise *awareness*: Because "indie" means "good" to so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— "indiefication." Instead, they'll grumble that the majors no longer nurture talent, no longer take risks… unaware that this is what the *indie* camp wanted, as it's how the *indies* work— by design! So if you just keep reading, hopefully I can set the record straight.
 
 From there, it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -113,16 +109,16 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 ### ${++sectionCounter}. The underground was willfully supplanted
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise. Leave out synonym sentence. Make it more, mainstream is now bottom up. Which means the underground can only come from the top down. Split this between third and fourth paragraphs.
 `}
 
-We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the people— *not* by the elites." Well, actually… this is revisionist thinking: Back then, the people and the elites were understood to be on the same side, the mainstream— while the underground was a refuge for those who *subverted* the people's will.
+We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the people— *not* by the elites." Well, actually… this is revisionist thinking: Back then, the people and the elites were understood to be on the same side— the mainstream— while the underground was a refuge for those who *subverted* the people's will.
 
 In the '90s, though, we [started referring](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to such bands as "indie"— to affirm their independence from the major labels. Yet unlike being underground, being indie *can* be a universal ideal… so once the Internet made this possible, the indie camp jumped on it. Now today, *any* artist who uses online tools to forgo the majors is respected as indie— even one with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
 
 But… *most* people belong to the mainstream, by definition— so artists who cater to such tastes hold a winning advantage in building a fanbase on their own. Which means they're the ones who get picked by the indie gatekeepers! And since indie rock's ideals are presumed to be universal, the indie camp celebrates this new reality as the way it was *meant* to turn out.
 
-So what happens now, if *your* respect for the old underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Why, BYCombo can expose you to the new elites— the *only* ones who'll back artistic subversion in an online world!
+So while "underground" and "indie" were once synonyms, they're now antonyms. But… what if *your* respect for the old underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Then let BYCombo expose you to the new elites— the *only* ones who'll back subversion in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -177,10 +173,6 @@ Yet… this indie camp will then complain that the Rock and Roll Hall of Fame do
 Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Timeless works have standalone appeal
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
@@ -243,6 +235,12 @@ Let's get this out of the way: The best artists *respect* the middleman. After a
 Sadly, young people never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, and so I've only *ever* dreamt of having one job as an artist— seeing that it's the only way to make the best art! Now with BYCombo, this dream can be yours as well.
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
+
+${'  ' || `
+// TODO: Revise.
+
+Imagine if the beneficiaries of an economically interdependent past, rather than pay it forward, convinced the next generation to vote for an "indie" future— saying it's what the *least* privileged want. What hypocrites, right? Yet former major label artists did exactly that. Now every other artist who makes it is a trust fund baby— and Millennials can't seem to figure out why!
+`}
 
 Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
