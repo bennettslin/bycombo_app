@@ -116,9 +116,9 @@ We all respect those '80s [underground bands](https://www.hachettebookgroup.com/
 
 In the '90s, though, we [started referring](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to such bands as "indie"— to affirm their independence from the major labels. Yet unlike being underground, being indie *can* be a universal ideal… so once the Internet made this possible, the indie camp jumped on it. Now today, *any* artist who uses online tools to forgo the majors is respected as indie— even one with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
 
-But… *most* people belong to the mainstream— so artists who cater to such tastes hold a winning advantage in building a fanbase on their own. Which means they're the ones who get picked by the indie gatekeepers! And since they can easily resemble subversive artists of the *past*— while we just never see what subversion would mean *today*… all is assumed to be as it should.
+But… *most* people belong to the mainstream— so artists who cater to such tastes hold a winning advantage in building a fanbase on their own. Which means they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the *past*— while we're never shown what subversion would mean *today*… all is assumed to be as it should.
 
-So what happens now, if *your* respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Why, BYCombo can expose you to business partners— the *only* chance left for subversive art in an online world!
+So what happens now, if *your* respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Why, BYCombo can expose you to business partners— the *only* way left to put out subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
