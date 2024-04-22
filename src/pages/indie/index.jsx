@@ -106,19 +106,19 @@ In every early example of online success, chance or privilege played a clear rol
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it nurses no grievances.
 
-### ${++sectionCounter}. The underground was willfully supplanted
+### ${++sectionCounter}. Populism tramples the underground
 
 ${'  ' || `
-// TODO: Revise. Leave out synonym sentence. Make it more, mainstream is now bottom up. Which means the underground can only come from the top down. Split this between third and fourth paragraphs.
+// TODO: Review a few more times.
 `}
 
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the people— *not* by the elites." Well, actually… this is revisionist thinking: Back then, the people and the elites were understood to be on the same side— the mainstream— while the underground was a refuge for those who *subverted* the people's will.
 
 In the '90s, though, we [started referring](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to such bands as "indie"— to affirm their independence from the major labels. Yet unlike being underground, being indie *can* be a universal ideal… so once the Internet made this possible, the indie camp jumped on it. Now today, *any* artist who uses online tools to forgo the majors is respected as indie— even one with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
 
-But… *most* people belong to the mainstream, by definition— so artists who cater to such tastes hold a winning advantage in building a fanbase on their own. Which means they're the ones who get picked by the indie gatekeepers! And since indie rock's ideals are presumed to be universal, the indie camp celebrates this new reality as the way it was *meant* to turn out.
+But… *most* people belong to the mainstream— so artists who cater to such tastes hold a winning advantage in building a fanbase on their own. Which means they're the ones who get picked by the indie gatekeepers! And since they can easily resemble subversive artists of the *past*— while we just never see what subversion would mean *today*… all is assumed to be as it should.
 
-So while "underground" and "indie" were once synonyms, they're now antonyms. But… what if *your* respect for the old underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Then let BYCombo expose you to the new elites— the *only* ones who'll back subversion in an online world!
+So what happens now, if *your* respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Why, BYCombo can expose you to business partners— the *only* chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -130,7 +130,7 @@ There's another reason we respect those '80s underground bands: It feels like th
 
 But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to get a radio hit, they can work on their own to get picked up by recommendation algorithms— the new word of mouth, according to indie rock. So now they're chosen by the people, *not* by the elites— making them indie artists in good faith!
 
-As far as the indie camp is concerned, then, all is well: The grassroots is still a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo help you partner with the new elites!
+All is well, then, as far as the indie camp is concerned: The grassroots is still a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo help you partner with the new elites!
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
