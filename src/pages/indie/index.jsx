@@ -106,19 +106,19 @@ In every early example of online success, chance or privilege played a clear rol
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it nurses no grievances.
 
-### ${++sectionCounter}. Populism tramples the underground
+### ${++sectionCounter}. Populism trampled the underground
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the people— *not* by the elites." Well… actually, this is revisionist thinking: Back then, the people and the elites were understood to be on the same side— the mainstream— while the underground was a refuge for those who *subverted* the people's will.
+We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the people— *not* by the elites." But actually… this is a revisionist explanation. Back then, the people and the elites were understood to be on the same side— the mainstream— while the underground sheltered those who *subverted* the people's will.
 
-In the '90s, though, we [started referring](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to such bands as "indie"— to affirm their independence from the major labels. Yet unlike being underground, being indie *should* be a universal ideal, given its claim to moral superiority— and now with the Internet, it *can* be. So any artist today who uses online tools to forgo the majors is respected as indie… even one with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
+In the '90s, though, we [started referring](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to such bands as "indie"— to affirm their independence from the major labels. Yet unlike being underground, being indie *can* be a universal ideal— which means it *should* be, to those who claim its moral superiority. So now, any artist who uses online tools to forgo the majors is respected as indie… even one with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
 
-But since *most* people belong to the mainstream, artists who cater to such tastes hold a winning advantage in building a fanbase on their own. As a result, they're the ones who get picked by the indie gatekeepers! And some do resemble subversive artists of the *past*— while we're never shown what subversion would look like *otherwise*… so all is assumed to be as it should.
+But given that *most* people belong to the mainstream, artists who cater to such tastes hold a winning advantage in building a fanbase on their own. As a result, they're the ones who get picked by the indie gatekeepers! And since some *do* resemble subversive artists of the past— while we're never shown what subversion would *otherwise* entail— all is assumed to be as it should.
 
-Still… what if *your* respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Then let BYCombo help you find business partners— the *only* way left to put out subversive art in an online world!
+So what happens now, if *your* respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Why, BYCombo can help you find business partners— the *only* way left to put out subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
