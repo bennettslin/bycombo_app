@@ -109,7 +109,7 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 ### ${++sectionCounter}. Populism trampled the underground
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the people— *not* by the elites." Well, actually… this is a revisionist explanation. Back then, the people and the elites were understood to be on the same side— the mainstream— while the underground sheltered those who *subverted* the people's will.
@@ -123,7 +123,7 @@ So what happens now, if *your* respect for the underground was always rooted in 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
@@ -184,11 +184,15 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
-Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs— which stands to reason, since indie artists never go above and beyond to make the *best* art. But… why *don't* they? Well, let's examine their options.
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs— which makes sense, since indie artists *never* try to exceed the audience's expectations— and Millennials are the easiest audience to please. But… why not do so just the *same*? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-The sane choice, then, is obvious. Still, what happens if a band tries to make the best art *anyway*? Add up their gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'll end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for going above and beyond to bring it back.
+Still, it's now obvious why music was better in the time of radio: Back then, the *only* option was to make the best art. So what if a band today were to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'd end up the biggest losers. No wonder we lost the canon! But with BYCombo, you can now be discovered for bringing it back.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
