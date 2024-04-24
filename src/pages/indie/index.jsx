@@ -237,18 +237,18 @@ Sadly, young people never question today's auto-Bizarro world, since it's all th
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
 ${'  ' || `
-// TODO: Revise.
-
-Imagine if the beneficiaries of an economically interdependent past, rather than pay it forward, convinced the next generation to vote for an "indie" future— saying it's what the *least* privileged want. What hypocrites, right? Yet former major label artists did exactly that. Now every other artist who makes it is a trust fund baby— and Millennials can't seem to figure out why!
+// TODO: Review a few more times.
 `}
 
 Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
 Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting— if indie artists only made music for their *own* fulfillment.
 
-But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
+But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians— the "indie camp" of economics— they want "doing it yourself" to be how you survive at *all*… and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
-The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to suck it up and try harder. But with BYCombo, there's now an opposition party that upholds the interdependence you want— out of respect for your craft.
+Think of those who benefited from an economically interdependent *past*. Imagine if they refused to pay it forward, instead telling the next generation that we should all want an "indie" *future*— even the less privileged among us. Well, some former major label artists did [exactly that](https://www.ted.com/talks/amanda_palmer_the_art_of_asking). Now every other artist who makes it is a trust fund baby— yet Millennials can't explain why?!
+
+The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as universal. It doesn't speak to *all* artists, only to the *privileged*— whose outsized sway makes their urges *seem* universal. But now with BYCombo, an opposition party exists to uphold the interdependence *you* want— out of a shared love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
