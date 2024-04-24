@@ -31,7 +31,11 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why a counterculture?**
 
-A counterculture protects dangerous ideas, yet we haven't had one for some time. Meanwhile, despite indie rock's good intentions, music is now worse. But what if music is worse… *because* of these good intentions? What if all this charitable support for *artists*… is actually bad for the *arts*? It's a dangerous idea, yet it might be rock's only hope— so let's protect it.
+${'  ' || `
+// TODO: Review.
+`}
+
+A counterculture protects dangerous ideas, yet we haven't had one for some time. Meanwhile, despite indie rock's good intentions, music is now worse. But what if music is worse… *because* of these good intentions?! What if all this charitable support for *artists*… is actually bad for the *arts*?! These are dangerous ideas, yet they might be rock's only hope— so let's protect them.
 
 **Why the historical canon?**
 
@@ -55,7 +59,11 @@ To aim for the canon, a band must develop exceptional strengths. But this isn't 
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own go-to example. Yes, anyone today can self-release their works— but this is a *curse*, not a *blessing*. Past artists put out *demos*, and to compete with them means doing likewise.
+${'  ' || `
+// TODO: Review.
+`}
+
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this is a *curse*, not a *blessing*! Past artists put out *demos*— and to rival them means doing likewise.
 
 **Why a public registry?**
 
@@ -188,11 +196,11 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs— which makes sense, since indie artists *never* try to exceed the audience's expectations— and Millennials are the easiest audience to please. But… why not do so just the *same*? Well, let's examine their options.
+Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs. Which makes sense, since indie artists *never* exceed the audience's expectations— and Millennials are an easy audience to please. Still, why not do so to rival *past* artists? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-Still, it's now obvious why music was better in the time of radio: Back then, the *only* option was to make the best art. So what if a band today were to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'd end up the biggest losers. No wonder we lost the canon! But with BYCombo, you can now be discovered for bringing it back.
+So now it's obvious why music was better in the time of radio: Back then, the *only* option was to make the best art. Still, what if a band today tried to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'd end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for bringing it back.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
