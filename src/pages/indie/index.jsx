@@ -237,7 +237,7 @@ Sadly, young people never question today's auto-Bizarro world, since it's all th
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise. Fourth paragraph, second sentence, make it more like, "We'd all get that they're refusing to pay it forward"?
 `}
 
 Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
@@ -248,7 +248,7 @@ But being indie means gaining the *public's* attention, and this is a zero-sum g
 
 Think of those who benefited from an economically interdependent *past*. Imagine if they refused to pay it forward, instead telling the next generation that we should all want an "indie" *future*— even the less privileged among us. Well, some former major label artists did [exactly that](https://www.ted.com/talks/amanda_palmer_the_art_of_asking). Now every other artist who makes it is a trust fund baby— yet Millennials can't explain why?!
 
-The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as universal. It doesn't speak to *all* artists, only to the *privileged*— whose outsized sway makes their urges *seem* universal. But now with BYCombo, an opposition party exists to uphold the interdependence *you* want— out of a shared love for the craft.
+The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as universal. It doesn't speak to *all* artists, only to the *privileged*— whose outsized sway makes their urges *seem* universal. But with BYCombo, an opposition party now exists to uphold the interdependence *you* want— out of a shared love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
