@@ -200,7 +200,7 @@ Thanks to indie rock, other countries now care little about our rock canon, just
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-So now it's obvious why music was better in the time of radio: Back then, the *only* option was to make the best art. Still, what if a band today tried to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'd end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for bringing it back.
+So now it's obvious why music was better in the time of radio: Back then, the *only* option was to make the best art. Still, what if a band *today* tried to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'd end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for bringing it back.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -462,7 +462,7 @@ It's because we only pine for past artists who self-sacrificed to advance the ar
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.theguardian.com/music/2019/feb/14/the-ryan-adams-allegations-are-the-tip-of-an-indie-music-iceberg), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, no revolution can ever *begin*, because the means to fair compensation only get settled at the *end*.
 
-To save rock, then, we *need* to stop punishing bands who self-sacrifice to advance the art form. Even if they *do* endanger themselves and others by enabling those who'd exploit them all— does it matter? What's left to protect at this point? After Empowerment, then… comes the Age of Martyrdom.
+To save rock, then, we *need* to stop punishing bands who self-sacrifice to advance the art form. Even if they *do* endanger themselves and others by enabling those who'd exploit them all— does it matter at this point? What's left to protect? After Empowerment, then… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give this generation a Nirvana of their own!
 `,
