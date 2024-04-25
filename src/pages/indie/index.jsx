@@ -108,6 +108,12 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ### ${++sectionCounter}. Populism trampled the underground
 
+${'  ' || `
+// TODO: Revise.
+
+Last paragraph, remove "always."
+`}
+
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the people— *not* by the elites." Well, actually… this is a revisionist explanation. Back then, the people and the elites were understood to be on the same side— the mainstream— while the underground sheltered those who *subverted* the people's will.
 
 In the '90s, though, we [started referring](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to such bands as "indie," to affirm their independence from the major labels. Yet unlike being underground, being indie *can* be a universal ideal, which means it *should* be— to those who claim its moral superiority. So now, *any* artist who uses online tools to forgo the majors is respected as indie… even one with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
@@ -180,11 +186,11 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs. Which makes sense, since indie artists *never* exceed the audience's expectations— and Millennials are an easy audience to please. But… why don't they do so anyway, to rival *past* artists? Well, let's examine their options.
+Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs. Which makes sense: Millennials are an easy audience to please, so indie artists never need to make the *best* art. But why not do so *anyway*, to rival past artists who met the high expectations of *previous* generations? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-It's obvious, then, why music was better in the time of radio: Back then, the *only* option was to make the best art. So… what if a band *today* tried to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'd end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for bringing it back.
+It's now clear why music was better in the time of radio: Back then, the *only* option was to make the best art. Well… what if a band *today* tried to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math tells us: They'd end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for bringing it back.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -207,9 +213,7 @@ It's no surprise, then, that history's pioneering works were often backed by tho
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 ${'  ' || `
-// TODO: Revise.
-
-Remove all talk of revolutions? The point is already made enough in creativity and romanticism sections. Make point of Goldilocks instead.
+// TODO: Update? Remove all talk of revolutions? The point is already made enough in creativity and romanticism sections. Make point of Goldilocks instead.
 `}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
@@ -252,7 +256,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In game theory, the [stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) is a game in which you and another player must each decide on your own whether to hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
+In game theory, the [stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) is a game in which you and another player must each decide, on your own, whether to hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
 
 The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=the%20difference%20between,and%20poor%20ones.) build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The reverse is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
@@ -411,7 +415,7 @@ Unlike what the indie camp believes, then, music history *won't* care how the In
 ### ${++sectionCounter}. A renaissance of elders awaits
 
 ${'  ' || `
-// TODO: Revise? Make point about lottery?
+// TODO: Update? Make point about lottery?
 `}
 
 Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this still isn't the case with rock bands— which means there's yet *another* frontier left to explore! So if you're a Millennial, don't fret: You now have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
