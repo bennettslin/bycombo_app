@@ -114,19 +114,23 @@ ${'  ' || `
 
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the *people*— not by the *elites*." Well, actually… this is a revisionist explanation. Back then, the people and the elites were understood to be on the same side— the mainstream— while the underground sheltered those who *subverted* the people's will.
 
-In the '90s, though, we [started referring](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to such bands as "indie," to affirm that they *didn't* sell out to the major labels. Yet unlike being underground, being indie *can* be a universal ideal— which means it *should* be, for those who claim its moral superiority. So now, *any* artist who uses online tools to forgo the majors is respected as indie… even one with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
+In the '90s, though, we [started referring](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to such bands as "indie," to affirm that they *didn't* sell out to the major labels. Yet unlike being underground, being indie *can* be a universal ideal— which means it *should* be, for those who claim its moral superiority. So now *any* artist who uses online tools to forgo the majors is respected as indie… even one with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
 
 But… given that *most* people belong to the mainstream, artists who cater to such tastes hold a winning advantage in building a fanbase on their own. As a result, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the *past*— while we're never shown what true subversion *today* would entail— all is assumed to be as it should.
 
-So what happens now, if *your* respect for the underground was rooted in the *aesthetics* of subverting mainstream tastes, rather than in the *logistics* of forgoing the majors? Why, BYCombo can help you find business partners— the *only* way left to put out subversive art in an online world!
+So what happens now, if *your* respect for the underground is rooted in the *aesthetics* of subverting mainstream tastes, rather than in the *logistics* of forgoing the majors? Why, BYCombo can help you find business partners— the *only* way left to put out subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
+${'  ' || `
+// TODO: Review.
+`}
+
 There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
-But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to get on the radio, they can work on their own to get picked up by recommendation algorithms— which indie rock calls the new word of mouth. In other words, they're now chosen by the people, *not* by the elites— making them indie artists in good faith!
+But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to get on the radio, they can work on their own to get picked up by recommendation algorithms— which indie rock declares to be the new word of mouth. So now they're chosen by the people, *not* by the elites— making them indie artists in good faith!
 
-So all is well, as far as the indie camp is concerned: The grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo help you partner with the new elites!
+All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo help you partner with the new elites!
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
