@@ -249,7 +249,7 @@ Sadly, young people never question today's auto-Bizarro world, since it's all th
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
 ${'  ' || `
-// TODO: Revise. Fourth paragraph, second sentence, make it more like, "We'd all get that they're refusing to pay it forward"?
+// TODO: Review a few more times.
 `}
 
 Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
@@ -258,9 +258,9 @@ Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians— the "indie camp" of economics— they want "doing it yourself" to be how you survive at *all*… and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
-Think of those who benefited from an economically interdependent *past*. Imagine if they refused to pay it forward, instead telling the next generation that we should all want an "indie" *future*— even the less privileged among us. Well, some former major label artists did [exactly that](https://www.ted.com/talks/amanda_palmer_the_art_of_asking). Now every other artist who makes it is a trust fund baby— yet Millennials can't explain why?!
+Or think of those who benefited from economic interdependence in the *past*. Imagine if they told the next generation to vote for an "indie" *future* instead. We'd all get that they're just trying to weasel out of paying it forward, right? Yet some former major label artists did [just that](https://www.ted.com/talks/amanda_palmer_the_art_of_asking)— and Millennials bought it! Now every other artist who makes it is a trust fund baby…
 
-The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as universal. It doesn't speak to *all* artists, only to the *privileged*— whose outsized sway makes their urges *seem* universal. But with BYCombo, an opposition party now exists to uphold the interdependence *you* want— out of a shared love for the craft.
+So the problem is that indie rock's ideals are *partisan*, but get mistaken for universal. They don't speak to *all* artists, only to the *privileged*— who have the clout to make their urges *seem* universal. But now with BYCombo, there's an opposition party to uphold the interdependence *you* want— out of a shared love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -447,6 +447,10 @@ Well, music today requires a similarly convoluted explanation, doesn't it? After
 But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this much simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
+
+${'  ' || `
+// TODO: Revise. Danger to themselves and others.
+`}
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
 
