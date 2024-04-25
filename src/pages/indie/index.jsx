@@ -31,10 +31,6 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why a counterculture?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 A counterculture shelters dangerous ideas, yet we haven't had one for some time. Meanwhile, despite indie rock's good intentions, music is now worse. But what if music is worse… *because* of these good intentions?! What if all this charitable support for *artists*… is bad for the *arts*?! These are dangerous ideas, yet they might be rock's only hope— so let's give them shelter.
 
 **Why the historical canon?**
@@ -58,10 +54,6 @@ With so many ways left to innovate in this space, there most certainly *are* can
 To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they need to *need* a business partner.
 
 **Why demos?**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this is a *curse*, not a *blessing*! Past artists put out *demos*— and to rival them means doing likewise.
 
@@ -96,7 +88,7 @@ Indie, in people's mind, is a catchall term for underground art that can afford 
 
 New Romantics want to be rebel against digital content. Return to the days of local singer songwriters in coffee shops. Yet isn't a local performance just as forgettable, and replaceable with the next? In other words, a local performance is just analog content! Why is this the go-to solution for those who hope to rebel against digital content?
 
-Because here's the thing: Beatles' later albums, starting with Revolver, and Beach Boys' Pet Sounds, were all experiments in what is possible with studio recording without consideration for how they'd be recreated in live performance. As home recording became more affordable in the early '00s, I thought there would be a demo renaissance, as artists pursued visions they weren't able to fully realize on their own, and went to work on *Yearling's Bobtail*, where I performed all the instruments.
+Because, here's the thing: Beatles' later albums, starting with Revolver, and Beach Boys' Pet Sounds, were all experiments in what is possible with studio recording without consideration for how they'd be recreated in live performance. As home recording became more affordable in the early '00s, I thought there would be a demo renaissance, as artists pursued visions they weren't able to fully realize on their own, and went to work on *Yearling's Bobtail*, where I performed all the instruments.
 
 We caught the attention of an indie label founder, who was now doing A&R for a major label. Upon seeing a cobbled together live performance, he left and ignored all future emails. On his blog, he made a disparaging comment about "bedroom recordings." It was then that I learned how much the indie camp believes that only live music is real music, because real artists build their fanbase on live shows, perhaps because major label music is about getting big on the radio.
 
@@ -116,10 +108,6 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ### ${++sectionCounter}. Populism trampled the underground
 
-${'  ' || `
-// TODO: Review.
-`}
-
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the people— *not* by the elites." Well, actually… this is a revisionist explanation. Back then, the people and the elites were understood to be on the same side— the mainstream— while the underground sheltered those who *subverted* the people's will.
 
 In the '90s, though, we [started referring](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to such bands as "indie," to affirm their independence from the major labels. Yet unlike being underground, being indie *can* be a universal ideal, which means it *should* be— to those who claim its moral superiority. So now, *any* artist who uses online tools to forgo the majors is respected as indie… even one with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
@@ -129,10 +117,6 @@ But… given that *most* people belong to the mainstream, artists who cater to s
 So what happens now, if *your* respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Why, BYCombo can help you find business partners— the *only* way left to put out subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
-
-${'  ' || `
-// TODO: Review.
-`}
 
 There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
@@ -193,14 +177,14 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs. Which makes sense, since indie artists *never* exceed the audience's expectations— and Millennials are an easy audience to please. But… why don't they do so to rival *past* artists? Well, let's examine their options.
+Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs. Which makes sense, since indie artists *never* exceed the audience's expectations— and Millennials are an easy audience to please. But… why don't they do so anyway, to rival *past* artists? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-So now it's obvious why music was better in the time of radio: Back then, the *only* option was to make the best art. Still, what if a band *today* tried to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'd end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for bringing it back.
+It's obvious, then, why music was better in the time of radio: Back then, the *only* option was to make the best art. So… what if a band *today* tried to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'd end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for bringing it back.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -268,7 +252,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In game theory, the [stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) is a game in which you and another player— each on your own— must decide whether to hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
+In game theory, the [stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) is a game in which you and another player must each decide on your own whether to hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
 
 The [richest nations](https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=the%20difference%20between,and%20poor%20ones.) build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The reverse is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
@@ -312,7 +296,7 @@ But why would Gen Z— and beyond— side with past gatekeepers who *didn't* car
 
 Who foresaw indie rock's final stage as a trust fund playground? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
-Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because after two decades of being no better than a foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So women and minorities are being nudged onto a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff)…
+Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of being no better than a foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So women and minorities are being nudged onto a [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff)…
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
@@ -366,9 +350,9 @@ So don't be fooled by indie rock's belated embrace of women and minorities! It d
 
 Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce: "Artists, as your own best advocate, you'll now be judged by how far you get on your *own*, without the help of a business partner. The playing field is finally level!"
 
-Every Black artist would stare glumly at us. Why? Because back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
+Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic [poll tax](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States), shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
-It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because if *you* see interdependence as the great equalizer… who is anyone else to argue?
+It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because, if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
@@ -455,10 +439,6 @@ Well, music today requires a similarly convoluted explanation, doesn't it? After
 But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this much simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
-
-${'  ' || `
-// TODO: Review.
-`}
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
 
