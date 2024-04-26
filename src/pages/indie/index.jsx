@@ -184,11 +184,11 @@ ${'  ' || `
 // TODO: Review. Also review new location.
 `}
 
-Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs. Which makes sense: Millennials are an easy audience to please, so indie artists never need to make the *best* art. But still… why don't they try *anyway*, to rival past artists who met the high standards of *previous* generations? Well, let's examine their options.
+Thanks to indie rock, other countries now care little about our rock canon, just as we've always ignored theirs. Which makes sense: Millennials are an easy audience to please, so indie artists never need to make the *best* art. But can't they try *anyway*, to rival past artists who met the high expectations of *previous* generations? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-So now it's clear why music was better in the time of radio: Back then, the *only* option was to make the best art. Well… what if a band *today* tried to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math tells us: They'd end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for bringing it back.
+It's obvious, then, why music was better in the time of radio: Back then, the *only* option was to make the best art. So… what if a band *today* tried to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'd end up the biggest losers. No wonder we lost the historical canon! But now with BYCombo, you can be discovered for bringing it back.
 
 ### ${++sectionCounter}. Timeless works have standalone appeal
 
@@ -417,7 +417,7 @@ Unlike what the indie camp believes, then, music history *won't* care how the In
 ### ${++sectionCounter}. A renaissance of late bloomers awaits
 
 ${'  ' || `
-// TODO: Review title. Update? Make point about lottery?
+// TODO: Update? Make point about lottery?
 `}
 
 Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this still isn't the case with rock bands— which means there's yet *another* frontier left to explore! So if you're a Millennial, don't fret: You now have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
@@ -452,11 +452,11 @@ ${'  ' || `
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
 
-It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a sign of being exploited.
+It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*— since to do so is a sign of being exploited.
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.theguardian.com/music/2019/feb/14/the-ryan-adams-allegations-are-the-tip-of-an-indie-music-iceberg), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, no revolution can ever *begin*, because the means to fair compensation only get settled at the *end*.
 
-To save rock, then, we need to stop punishing bands who self-sacrifice to advance the art form. Because, even if it's *true* that they endanger others by enabling those who'd exploit them all— how does this matter, once the art form stagnates? What's left to protect? In other words, after Empowerment… comes the Age of Martyrdom.
+To save rock, then, we need to stop punishing bands who self-sacrifice to advance the art form. Because, even if it's *true* that they endanger others by enabling those who'd exploit them all— why should this matter, once the art form stagnates? What's left to protect? In other words, after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give this generation a Nirvana of their own!
 `,
