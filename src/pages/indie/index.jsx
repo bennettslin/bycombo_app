@@ -246,11 +246,9 @@ Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/231
 
 Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting— if indie artists only made music for their *own* fulfillment.
 
-But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians— the "indie camp" of economics— they want "doing it yourself" to be how you survive at *all*… and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
+But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
-Or think of those who benefited from economic interdependence in the *past*. Imagine if they told the next generation to vote for an "indie" *future* instead. We'd all get that they're just trying to weasel out of paying it forward, right? Yet some former major label artists did [just that](https://www.ted.com/talks/amanda_palmer_the_art_of_asking)— and Millennials bought it! Now every other artist who makes it is a trust fund baby…
-
-So the problem is that indie rock's ideals are *partisan*, but get mistaken for universal. They don't speak to *all* artists, only to the *privileged*— who have the clout to make their urges *seem* universal. But now with BYCombo, there's an opposition party to uphold the interdependence *you* want— out of a shared love for the craft.
+In other words, indie rock is a *partisan* movement that serves the privileged, who have the power and resources to convince the aggrieved to vote against their own interests— creating the impression that indie rock's concerns are *universal*. But now with BYCombo, an opposition party exists to uphold the interdependence *you* want— out of a shared love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -414,10 +412,10 @@ In music history courses, we learn that the evolution of the piano allowed Beeth
 
 Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to market and distribute their own works. But it *might* care how BYCombo allowed them to form bands with unprecedented lineups. So come explore one of rock's final frontiers— by having a dancer, puppeteer, or even manager as your bandmate!
 
-### ${++sectionCounter}. A renaissance of elders awaits
+### ${++sectionCounter}. A renaissance of late bloomers awaits
 
 ${'  ' || `
-// TODO: Update? Make point about lottery?
+// TODO: Review title. Update? Make point about lottery?
 `}
 
 Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this still isn't the case with rock bands— which means there's yet *another* frontier left to explore! So if you're a Millennial, don't fret: You now have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
