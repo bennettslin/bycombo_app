@@ -76,19 +76,21 @@ Here's an incomplete list of ways…
 ${'  ' || `
 // TODO: Keep working on.
 
+Put between romanticism and scarcity?
+
+Remember to review other frontier sections.
+
 Content doesn't become canon.
 
 Make points from here:
 A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to pursue visions they can't fully realize on their own; it awakens the very thought to even try.
-
-* Before logistics section.
 
 Indie, in people's mind, is a catchall term for underground art that can afford to take risks. When, in reality, it formed in opposition to the mainstream culture that gate the world Nirvana and Radiohead. And as such, it has its own idiosyncratic values, favoring performances over recordings. Is there something superior about performances over recordings that's universally understood by discerning listeners? No, the indies favor performances because that's what their business model is based on, whether the majors' business model, at least historically, was based on recordings.
 `}
 
 New Romantics want to be rebel against digital content. Return to the days of local singer songwriters in coffee shops. Yet isn't a local performance just as forgettable, and replaceable with the next? In other words, a local performance is just analog content! Why is this the go-to solution for those who hope to rebel against digital content?
 
-Because, here's the thing: Beatles' later albums, starting with Revolver, and Beach Boys' Pet Sounds, were all experiments in what is possible with studio recording without consideration for how they'd be recreated in live performance. As home recording became more affordable in the early '00s, I thought there would be a demo renaissance, as artists pursued visions they weren't able to fully realize on their own, and went to work on *Yearling's Bobtail*, where I performed all the instruments.
+After all, the Beatles stopped touring after Rubber Soul, and the Beach Boys never performed Pet Sounds in its own time, freeing both bands to experiment with what is possible with studio recording without consideration for how they'd be recreated in live performance. As home recording became more affordable in the early '00s, I thought there would be a demo renaissance, as artists pursued visions they weren't able to fully realize on their own, and went to work on *Yearling's Bobtail*, where I performed all the instruments.
 
 We caught the attention of an indie label founder, who was now doing A&R for a major label. Upon seeing a cobbled together live performance, he left and ignored all future emails. On his blog, he made a disparaging comment about "bedroom recordings." It was then that I learned how much the indie camp believes that only live music is real music, because real artists build their fanbase on live shows, perhaps because major label music is about getting big on the radio.
 
