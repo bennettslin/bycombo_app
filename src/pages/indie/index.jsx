@@ -178,6 +178,18 @@ Yet… this indie camp will then complain that the Rock and Roll Hall of Fame do
 
 Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
+### ${++sectionCounter}. Excellence has a steep opportunity cost
+
+${'  ' || `
+// TODO: Review. Also review new location.
+`}
+
+Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs. Which makes sense: Millennials are an easy audience to please, so indie artists never need to make the *best* art. But still… why don't they try *anyway*, to rival past artists who met the high standards of *previous* generations? Well, let's examine their options.
+
+They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
+
+So now it's clear why music was better in the time of radio: Back then, the *only* option was to make the best art. Well… what if a band *today* tried to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math tells us: They'd end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for bringing it back.
+
 ### ${++sectionCounter}. Timeless works have standalone appeal
 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
@@ -187,18 +199,6 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted [musical hook](https://youtu.be/HWMsWO0vPa8).
 
 Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artists— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to practice the craft.
-
-### ${++sectionCounter}. Excellence has a steep opportunity cost
-
-${'  ' || `
-// TODO: Review.
-`}
-
-Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs. Which makes sense: Millennials are an easy audience to please, so indie artists never need to make the *best* art. But still… why don't they try *anyway*, to rival past artists who met the high standards of *previous* generations? Well, let's examine their options.
-
-They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
-
-So now it's clear why music was better in the time of radio: Back then, the *only* option was to make the best art. Well… what if a band *today* tried to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math tells us: They'd end up the biggest losers. No wonder we lost the historical canon! But with BYCombo, you can now be discovered for bringing it back.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
