@@ -116,9 +116,9 @@ ${'  ' || `
 
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the *people*— not by the *elites*." Well, actually… this is a revisionist explanation. Back then, the people and the elites were understood to be on the same side— the mainstream— while the underground sheltered those who *subverted* the people's will.
 
-In the '90s, though, we [started referring](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to such bands as "indie," to affirm that they *didn't* sign to a major label. Yet unlike being underground, being indie *can* be a universal ideal— which means it *should* be, for those who claim its moral superiority. So now *any* artist who uses online tools to forgo the majors is respected as indie… even one with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
+But in the '90s, we [started referring](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) to such bands as "indie," to affirm that they *didn't* sign to a major label. Yet unlike being underground, being indie *can* be a universal ideal— so once this was made possible by the Internet, the indie camp declared that it *should* be. Now *any* artist who uses online tools to forgo the majors is considered indie… even one with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
 
-But… given that *most* people belong to the mainstream, artists who cater to such tastes hold a winning advantage in building a fanbase on their own. As a result, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the *past*— while we're never shown what true subversion *today* would entail— all is assumed to be as it should.
+But… given that *most* people belong to the mainstream, artists who cater to such tastes hold a winning advantage in building a fanbase on their own. As a result, they're the ones who get picked by the indie gatekeepers! And since some *do* resemble subversive artists of the past— while we're never shown what subversion *would* look like otherwise— all is presumed to be well.
 
 So what happens now, if *your* respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Why, BYCombo can help you find business partners— the *only* way left to put out subversive art in an online world!
 
@@ -130,7 +130,7 @@ ${'  ' || `
 
 There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
-But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to get on the radio, they can work on their own to get picked up by recommendation algorithms— which indie rock deems to be the new word of mouth. So now they're chosen by the people, *not* by the elites— making them indie artists in good faith!
+But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to get on the radio, they can work on their own to get picked up by recommendation algorithms— which indie rock has decided is the new word of mouth. So now they're chosen by the people, *not* by the elites— making them indie artists in good faith!
 
 All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo help you partner with the new elites!
 
@@ -190,7 +190,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs. Which makes sense: Millennials are an easy audience to please, so indie artists never need to make the *best* art. But why not do so *anyway*, to rival past artists who met the high expectations of *previous* generations? Well, let's examine their options.
+Thanks to indie rock, other countries now care little about our rock canon, just as we've always cared little of theirs. Which makes sense: Millennials are an easy audience to please, so indie artists never need to make the *best* art. But still… why don't they try *anyway*, to rival past artists who met the high standards of *previous* generations? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
@@ -250,7 +250,7 @@ Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
-In other words, indie rock is a *partisan* movement that serves the privileged, who have the power and resources to convince the aggrieved to vote against their own interests— creating the impression that indie rock's concerns are *universal*. But now with BYCombo, an opposition party exists to uphold the interdependence *you* want— out of a shared love for the craft.
+In other words, indie rock is a *partisan* movement that serves the privileged, who have the power and resources to convince the aggrieved to vote against their own interests— leading the public to believe that its partisan ideals are *universal*. But now with BYCombo, an opposition party exists to uphold the interdependence *you* want— out of a shared love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -442,13 +442,17 @@ But let's swap "Sun" and "Earth" in this model: What if the indie way… actuall
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
+${'  ' || `
+// TODO: Review.
+`}
+
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
 
 It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a sign of being exploited.
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.theguardian.com/music/2019/feb/14/the-ryan-adams-allegations-are-the-tip-of-an-indie-music-iceberg), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, no revolution can ever *begin*, because the means to fair compensation only get settled at the *end*.
 
-To save rock, then, we *need* to stop punishing bands who self-sacrifice to advance the art form. Because, even if it's *true* that they endanger others by enabling those who'd exploit them all— does it matter anymore? What's left to protect? So after Empowerment… comes the Age of Martyrdom.
+To save rock, then, we need to stop punishing bands who self-sacrifice to advance the art form. Because, even if it's *true* that they endanger others by enabling those who'd exploit them all— how does that matter, once the art form stagnates? What's left to protect? In other words, after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give this generation a Nirvana of their own!
 `,
