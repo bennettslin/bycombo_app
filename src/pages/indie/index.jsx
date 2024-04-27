@@ -119,7 +119,7 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 ### ${++sectionCounter}. Populism trampled the underground
 
 ${'  ' || `
-// TODO: Revise. Last paragraph, mention elites instead of partners. In the next one, say expose.
+// TODO: Revise. Last paragraph, last sentence should be better. Reconsider last sentence of grassroots section as well.
 `}
 
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the *people*— not by the *elites*." Well, actually… this is a revisionist explanation. Back then, the people and the elites were understood to be on the same side— the mainstream— while the underground sheltered those who *subverted* the people's will.
