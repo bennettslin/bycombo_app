@@ -59,10 +59,6 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 It takes time to review an ambitious demo— but the indie gatekeepers won't put in this effort, since *any* artist they pick will be charitably supported just the same. A canonical band's best bet, then, is to win over *elitist* gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
@@ -102,10 +98,6 @@ Yet the Beatles are the best band of all time, for an obvious reason: What's pos
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
@@ -119,7 +111,7 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 ### ${++sectionCounter}. Populism trampled the underground
 
 ${'  ' || `
-// TODO: Revise. Last paragraph, last sentence should be better. Reconsider last sentence of grassroots section as well.
+// TODO: Review.
 `}
 
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the *people*— not by the *elites*." Well, actually… this is a revisionist explanation. Back then, the people and the elites were understood to be on the same side— the mainstream— while the underground sheltered those who *subverted* the people's will.
@@ -128,7 +120,7 @@ In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?
 
 But… given that *most* people belong to the mainstream, artists who cater to such tastes hold a winning advantage in building a fanbase on their own. As a result, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the *past*— while we're never shown what subversion would look like *otherwise*— all is assumed to be well.
 
-So what happens now, if *your* respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Why, BYCombo can expose you to *elitist* gatekeepers— the *only* ones left to put out subversive art in an online world!
+So what happens now, if *your* respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Why, BYCombo can expose you to *elitist* gatekeepers— the *only* way left to put out subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -140,7 +132,7 @@ There's another reason we respect those '80s underground bands: It feels like th
 
 But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to make a radio hit, they can work on their own to get recommended by the algorithms, which reward the most popular works. So now they're chosen by the people, *not* by the elites— making them indie artists in good faith!
 
-All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo help you partner with the new elites!
+All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo help you partner with the next elites!
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
@@ -185,14 +177,14 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
 ${'  ' || `
-// TODO: Review. Also review new location.
+// TODO: Review.
 `}
 
 Thanks to indie rock, other countries now care little about our rock canon, just as we've always ignored theirs. Which makes sense: Millennials are an easy audience to please, so indie artists never need to make the *best* art. But can't they try *anyway*, to rival past artists who met the high expectations of *previous* generations? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-It's obvious, then, why music was better before the Internet: The *only* option was to make the best art. So… what if a band *today* tried to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'd end up the biggest losers. No wonder we lost the historical canon! But now with BYCombo, you can be discovered for bringing it back.
+It's obvious, then, why music was better in the past: Before the Internet, the *only* option was to make the best art. So… what if a band *today* tried to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'd end up the biggest losers. No wonder we lost the historical canon! But now with BYCombo, you can be discovered for bringing it back.
 
 ### ${++sectionCounter}. Timeless works have standalone appeal
 
@@ -252,13 +244,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock "privatizes" access to business deals that would otherwise be "public," thus benefiting the well-connected and well-off— despite its claims to serve the underdog! How did this happen?
+Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, all indie rock has done is "privatize" access to business deals that were once "public," to the benefit of the well-connected and well-off— despite its claim to help the underdog! How did this happen?
 
 Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
-Which solves our mystery: Indie rock was meant all *along* to serve the privileged, who have the power to convince the aggrieved to vote *against* their own interests— and this united front then leads us to believe that its ideals are *universal*. But now with BYCombo, an opposition party exists to uphold the interdependence *you* want… out of a shared love for the craft.
+So now we see the bigger picture: Indie rock serves the privileged, who have the power to *convince* the aggrieved to vote against their own interests— and this united front of self-described underdogs, in turn, leads us to *believe* that its ideals are universal. But now with BYCombo, an opposition party is here to uphold the interdependence *you* want… out of a shared love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
