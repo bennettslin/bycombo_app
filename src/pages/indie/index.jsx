@@ -132,7 +132,7 @@ There's another reason we respect those '80s underground bands: It feels like th
 
 But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to make a radio hit, they can work on their own to get recommended by the algorithms, which reward the most popular works. So now they're chosen by the people, *not* by the elites— making them indie artists in good faith!
 
-All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo help you partner with the next elites!
+All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo help you partner with the elites!
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
@@ -246,7 +246,7 @@ Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
-So now we see the bigger picture: Indie rock serves the privileged, who have the power to *convince* the aggrieved to vote against their own interests— and this united front of self-described underdogs, in turn, leads us to *believe* that its ideals are universal. But now with BYCombo, an opposition party is here to uphold the interdependence *you* want… out of a shared love for the craft.
+So now we see the bigger picture! Indie rock serves the privileged, who have the power to *convince* the aggrieved to vote against their own interests— and this united front of self-declared underdogs, in turn, leads us to *believe* that its ideals are universal. But now with BYCombo, an opposition party exists to uphold the interdependence *you* want… out of a shared love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
