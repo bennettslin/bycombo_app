@@ -110,10 +110,6 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ### ${++sectionCounter}. Populism trampled the underground
 
-${'  ' || `
-// TODO: Review.
-`}
-
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the *people*— not by the *elites*." Well, actually… this is a revisionist explanation. Back then, the people and the elites were understood to be on the same side— the mainstream— while the underground sheltered those who *subverted* the people's will.
 
 In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they *didn't* sign to a major label. Yet unlike being underground, being indie *can* be a universal ideal— so once this was made possible by the Internet, the indie camp declared that it *should* be. Now anyone who uses online tools to forgo the majors is called an indie artist… even those with [mainstream tastes](https://culture.ghost.io/links-on-status-and-culture-january-2024/#:~:text=Now%20with%20the,crowd%2Dpleasing%20mainstream%20tastes.)!
@@ -130,7 +126,7 @@ ${'  ' || `
 
 There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
-But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to make a radio hit, they can work on their own to get recommended by the algorithms, which reward the most popular works. So now they're chosen by the people, *not* by the elites— making them indie artists in good faith!
+But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to make a radio hit, they can work on their own to get picked up by the algorithms— which reward the most popular works. So now they're chosen by the people, *not* by the elites… making them indie artists in good faith!
 
 All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo help you partner with the elites!
 
@@ -176,11 +172,7 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Thanks to indie rock, other countries now care little about our rock canon, just as we've always ignored theirs. Which makes sense: Millennials are an easy audience to please, so indie artists never need to make the *best* art. But can't they try *anyway*, to rival past artists who met the high expectations of *previous* generations? Well, let's examine their options.
+Thanks to indie rock, other countries now care little about our rock canon, just as we've always ignored theirs. Which makes sense: Millennials are an easy audience to please, so indie artists never need to make the *best* art. But can't they try anyway, to rival *past* artists who met the high expectations of *previous* generations? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
@@ -276,7 +268,7 @@ Um… *we* would— the audience! We only want the *best* athletes— and it's t
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. So today's pro-*artist* way of thinking might just be a generational fluke… and *not* the future of music.
 
-Still, how do we become pro-*audience* once more? It's simple: We admit that audiences only want the *best* artists! This is why BYCombo tells you to make the best art— namely, what *you'd* most want to hear if you were anyone else, choosing from all that's come before and all else that's out there.
+Still, how do we become pro-*audience* once more? It's simple: We admit that audiences only want the *best* artists! This is why BYCombo tells you to make the best *art*— namely, what *you'd* most want to hear if you were anyone else, choosing from all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -377,10 +369,6 @@ So when the tech platforms arrived, their skills with numbers made them good guy
 In short, today's data-driven industry is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as the arts get "moneyballed," or taken over by algorithms, like [baseball has](https://en.wikipedia.org/wiki/Sabermetrics). Yet does the analogy fit? In baseball, algorithms *remove* human bias… while in the arts, they *amplify* it. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the humans!
 
