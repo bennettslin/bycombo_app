@@ -71,6 +71,38 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
+### ${++sectionCounter}. Competitive self-reliance favors privilege
+
+${'  ' || `
+// TODO: Revise.
+
+What I want to say is that the privileged have the connections and the wealth to bypass the majors.
+`}
+
+Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, all indie rock has done is "privatize" access to business deals that were once "public," to the benefit of the privileged— despite claiming to serve the underdog! How did this happen?
+
+Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
+
+But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
+
+Well, now we see the bigger picture! Indie rock is a *partisan* movement that serves the well-connected and well-off, attract those aggrieved against the elites— and this united front then leads us to believe their ideals are *universal*. But with BYCombo, you can join an opposition party that upholds the interdependence *you* want… out of a shared love for the craft.
+
+### ${++sectionCounter}. Art needs the passion of martyrs
+
+${'  ' || `
+// TODO: Revise. In hindsight, talking about elitist gatekeepers seems out of place here.
+`}
+
+"Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
+
+It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*— since to do so is a sign of being exploited.
+
+Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.theguardian.com/music/2019/feb/14/the-ryan-adams-allegations-are-the-tip-of-an-indie-music-iceberg), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, no revolution can ever *begin*, because the means to fair compensation only get settled at the *end*.
+
+So to save rock, we *need* to stop silencing bands who self-sacrifice to advance the art form. Yes, their need to work with a business partner leaves them open to exploitation. But if the art form stagnates, what's left to protect? After Empowerment, then… comes the Age of Martyrdom.
+
+Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give this generation a Nirvana of their own!
+
 ### ${++sectionCounter}. Recording adds another dimension
 
 ${'  ' || `
@@ -132,7 +164,7 @@ All is well, then, according to the indie camp: Online, the grassroots remains a
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
-By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://en.wikipedia.org/wiki/Long_tail) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
+By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://www.honest-broker.com/p/where-did-the-long-tail-go) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
 For starters, stardom *isn't* caused by corporate greed, but by our own social nature. Since it's hard to say which songs are best, we end up just liking what others like— and they do the same! As such, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where any random boost can snowball into a winning advantage— and *this* is how unworthy artists end up as superstars.
 
@@ -226,19 +258,7 @@ Let's get this out of the way: The best artists *respect* the middleman. After a
 
 Sadly, young people never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, and so I've only *ever* dreamt of having one job as an artist— seeing that it's the only way to make the best art! Now with BYCombo, this dream can be yours as well.
 
-### ${++sectionCounter}. Competitive self-reliance favors privilege
 
-${'  ' || `
-// TODO: Review a few more times.
-`}
-
-Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, all indie rock has done is "privatize" access to business deals that were once "public," to the benefit of the well-connected and well-off— despite its claim to help the underdog! How did this happen?
-
-Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
-
-But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
-
-So now we see the bigger picture! Indie rock serves the privileged, who have the power to *convince* the aggrieved to vote against their own interests— and this united front of self-declared underdogs, in turn, leads us to *believe* that its ideals are universal. But now with BYCombo, an opposition party exists to uphold the interdependence *you* want… out of a shared love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -424,21 +444,7 @@ Well, music today requires a similarly convoluted explanation, doesn't it? After
 
 But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this much simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) of music?
 
-### ${++sectionCounter}. Art needs the passion of martyrs
 
-${'  ' || `
-// TODO: Revise. In hindsight, talking about elitist gatekeepers seems out of place here.
-`}
-
-"Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
-
-It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*— since to do so is a sign of being exploited.
-
-Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.theguardian.com/music/2019/feb/14/the-ryan-adams-allegations-are-the-tip-of-an-indie-music-iceberg), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, no revolution can ever *begin*, because the means to fair compensation only get settled at the *end*.
-
-So to save rock, we *need* to stop silencing bands who self-sacrifice to advance the art form. Yes, their need to work with a business partner leaves them open to exploitation. But if the art form stagnates, what's left to protect? After Empowerment, then… comes the Age of Martyrdom.
-
-Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give this generation a Nirvana of their own!
 `,
         }}
     />
