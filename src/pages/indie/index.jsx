@@ -448,7 +448,7 @@ It's because we only pine for past artists who self-sacrificed to advance the ar
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.theguardian.com/music/2019/feb/14/the-ryan-adams-allegations-are-the-tip-of-an-indie-music-iceberg), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, no revolution can ever *begin*, because the means to fair compensation only get settled at the *end*.
 
-So to save rock, we *need* to stop silencing bands who self-sacrifice to advance the art form. Yes, doing so will bring back the elitist gatekeepers who subvert the people's will. But does it matter? Once the art form stagnates, what's left to protect? After Empowerment, then… comes the Age of Martyrdom.
+So to save rock, we *need* to stop silencing bands who self-sacrifice to advance the art form. Yes, their need to work with a business partner leaves them open to exploitation. But if the art form stagnates, what's left to protect? After Empowerment, then… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give this generation a Nirvana of their own!
 `,
