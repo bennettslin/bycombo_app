@@ -152,10 +152,6 @@ So what happens now, if *your* respect for the underground was always rooted in 
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
-${'  ' || `
-// TODO: Review.
-`}
-
 There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
 But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to make a radio hit, they can work on their own to get picked up by the algorithms— which reward the most popular works. So now they're chosen by the people, *not* by the elites… making them indie artists in good faith!
@@ -221,10 +217,6 @@ They can hustle to build a fanbase on their own— which yields *compound* retur
 It's obvious, then, why music was better in the past: Before the Internet, the *only* option was to make the best art. So… what if a band *today* tried to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'd end up the biggest losers. No wonder we lost the historical canon! But now with BYCombo, you can be discovered for bringing it back.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from creative insights that can't be summoned at will.
 
