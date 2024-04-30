@@ -186,6 +186,10 @@ It's obvious, then, why music was better in the past: Before the Internet, the *
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
+${'  ' || `
+// TODO: Revise. Revisit saying "workhorse" versus "windfall."
+`}
+
 Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from creative insights that can't be summoned at will.
 
 For instance, could Dolly Parton *reliably* compose one "Jolene" after another? Of course not. And as for me, how did I come up with doublespeaker rhyme? I have [my guesses](https://www.yearlingsbobtail.com/6-ash-wednesday/?annotation=36), but I can't say for sure. All of which makes perfect sense: We're each far more alike than different— so if *not* for unexpected insights, how *else* would a few of us surpass the rest, as history expects?
@@ -214,10 +218,6 @@ Revolutions may *start* with artists, but they're *spread* by business partners,
 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the Bizarro way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
 And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a dream of the *middling* artist, who'd otherwise *be* a middleman!
@@ -228,11 +228,7 @@ Sadly, young people never question today's auto-Bizarro world, since it's all th
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, all indie rock has done is "privatize" access to business deals that were once "public," to the benefit of the privileged— despite claiming to serve the underdog! How did this happen?
+Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
 Simply put, indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
@@ -432,11 +428,11 @@ ${'  ' || `
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
 
-It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*— since to do so is a sign of being exploited.
+It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As such, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a sign of being exploited.
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.theguardian.com/music/2019/feb/14/the-ryan-adams-allegations-are-the-tip-of-an-indie-music-iceberg), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, no revolution can ever *begin*, because the means to fair compensation only get settled at the *end*.
 
-To save rock, then, we *need* to stop shutting out bands who self-sacrifice to advance the art form. Yes, their reliance on business partners leaves them open to exploitation. But if the art form stagnates, what's left to protect? In other words, after Empowerment… comes the Age of Martyrdom.
+To save rock, then, we *need* to stop shutting out bands who self-sacrifice to advance the art form. Yes, their reliance on business partners leaves them open to exploitation. But once the art form stagnates, what's left to protect? In other words, after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give this generation a Nirvana of their own!
 `,
