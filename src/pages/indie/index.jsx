@@ -187,16 +187,18 @@ It's obvious, then, why music was better in the past: Before the Internet, the *
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
 ${'  ' || `
-// TODO: Future work.
+// TODO: Keep working on.
 
-Consider revisiting idea of "workhorse" versus "windfall." Probably will require a wholesale change to the paragraph structure.
+First paragraph, remove part about time frame.
 `}
 
-Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from creative insights that can't be summoned at will.
+Still unconvinced that today's music is worse? Name today's best artists, and then ask yourself: Within the time frame in which they made their best work, could they make another one just as good? I think you'd almost always bet on the answer to be yes. Pretty much all music today is what I call "workhorse art"— namely, art that matches the talents of the artists who made them.
 
-For instance, could Dolly Parton *reliably* compose one "Jolene" after another? Of course not. And as for me, how did I come up with doublespeaker rhyme? I have [my guesses](https://www.yearlingsbobtail.com/6-ash-wednesday/?annotation=36), but I can't say for sure. All of which makes perfect sense: We're each far more alike than different— so if *not* for unexpected insights, how *else* would a few of us surpass the rest, as history expects?
+By contrast, could Dolly Parton *reliably* compose one "Jolene" after another? Or Stephen Sondheim, "[Someone in a Tree](https://youtu.be/JpoKuNyVNhQ)"? Of course not. These works are what I call "windfall art"— namely, art that's even *better* than those who make them. They're the kind that fellow artists most envy, because they seem to transcend what's humanly achievable.
 
-But these insights can only emerge from the unconscious mind— as your thoughts drift in the shower, or when you daydream out of boredom… and this won't happen if you're always [context switching](https://en.wikipedia.org/wiki/Human_multitasking)! So keep your artist hat on, and have a business partner wear the others. Because *you* want your art to be better than you— and so does BYCombo.
+Yet the best artists *are* human— so what makes such works possible? It's simple: They don't just benefit from talents, but from creative insights that can't be summoned at will. And these insights emerge from the unconscious mind— as your thoughts drift in the shower, or when you daydream out of boredom. But this can't happen if you're always [context switching](https://en.wikipedia.org/wiki/Human_multitasking)!
+
+Which explains why "indiefication" has made the arts worse: Indie artists must constantly switch between multiple hats: the promoter hat, the publicist hat… No wonder they can't rival artists of the past! So keep your artist hat on, and have a business partner wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
