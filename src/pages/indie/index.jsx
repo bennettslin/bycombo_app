@@ -187,7 +187,9 @@ It's obvious, then, why music was better in the past: Before the Internet, the *
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
 ${'  ' || `
-// TODO: Revise. Revisit saying "workhorse" versus "windfall."
+// TODO: Future work.
+
+Consider revisiting idea of "workhorse" versus "windfall." Probably will require a wholesale change to the paragraph structure.
 `}
 
 Indie artists need to wear several hats: the promoter hat, the publicist hat… Of course, the best among them don't skimp on wearing the artist hat; they want their art to stay on par with their talents. Yet the best works are even *better* than the artists who make them. Why? Because they *also* benefit from creative insights that can't be summoned at will.
