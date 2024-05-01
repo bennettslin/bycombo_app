@@ -196,7 +196,7 @@ By contrast, could Dolly Parton *reliably* compose one "Jolene" after another? O
 
 Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your thoughts drift in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
-But this can't happen if you're always [context switching](https://en.wikipedia.org/wiki/Human_multitasking)— which explains why indie rock has made music worse: Indie artists *constantly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have a business partner wear the others. Because *you* want your works to be better than you— and so does BYCombo.
+But this can't happen if you're always [context switching](https://en.wikipedia.org/wiki/Human_multitasking)— which explains why "indiefication" makes music worse: Indie artists *constantly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have a business partner wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
@@ -416,11 +416,15 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
+${'  ' || `
+// TODO: Review.
+`}
+
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted [system of epicycles](https://en.wikipedia.org/wiki/Deferent_and_epicycle). But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became circles. This was a much simpler explanation— so by Occam's razor, it became accepted as the correct one.
 
-Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely understood to nurture the best art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* do things the indie way, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
+Well, music today requires a similarly convoluted explanation, doesn't it? After all, "indiefication" is widely understood to nurture the best art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
-But let's swap "Sun" and "Earth" in this model: What if the indie way… actually makes art… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this much simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) of music?
+But let's swap "Sun" and "Earth" in this model: What if indiefication… actually makes art… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this much simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and [be a Galileo](https://en.wikipedia.org/wiki/Galileo_affair) of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
