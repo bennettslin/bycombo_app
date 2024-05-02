@@ -128,6 +128,12 @@ All is well, then, according to the indie camp: Online, the grassroots remains a
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
+${'  ' || `
+// TODO: Revise. And the reverse is true. More to the point…
+
+Actually, move this after charitable support and before peer review. Then talk about reverse point.
+`}
+
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://www.honest-broker.com/p/where-did-the-long-tail-go) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
 For starters, stardom *isn't* caused by corporate greed, but by our own social nature. Since it's hard to say which songs are best, we end up just liking what others like— and they do the same! As such, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where any random boost can snowball into a winning advantage— and *this* is how unworthy artists end up as superstars.
