@@ -128,10 +128,6 @@ All is well, then, according to the indie camp: Online, the grassroots remains a
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
-${'  ' || `
-// TODO: Review. Also review location.
-`}
-
 In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we *truly* supported were amateurs, recluses, the mentally ill… Yet today's fans use the word "support" to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
@@ -141,10 +137,6 @@ So indie rock set off a chain reaction, forcing the next tier of artists to beg 
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
 ### ${++sectionCounter}. Talent wants a path to stardom
-
-${'  ' || `
-// TODO: Review.
-`}
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://www.honest-broker.com/p/where-did-the-long-tail-go) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
@@ -160,7 +152,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-The reverse is also true: Those who'd settle for a thousand true fans *won't* go above and beyond to make the best art. Yet indie rock wants an endless long tail of such artists— so how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. "After all, who wouldn't root for an underdog to win?"
+Of course, the reverse is also true: Those who settle for a thousand true fans *won't* bother to make the best art. Yet indie rock wants an *endless* long tail of such artists— so how are *any* of them expected to make history? The critics have a plan: Pick a few to typify the underdogs of our times, then rally around them. "After all, who wouldn't root for an underdog to win?"
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
@@ -202,7 +194,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Are you unconvinced that music is now worse? Then pick any of the latest artists, and ask: Whatever their best work might be, could they *guarantee* us another one just as good? I suspect we'll agree: The answer is yes. That is to say, even the best works today are what I call "workhorse art"— namely, art that simply *matches* the talents of those who make them.
+Are you unconvinced that music is now worse? Then ask this about any of the latest artists: Whatever their best work might be, could they *guarantee* us another one just as good? I suspect we'll agree: The answer is yes. That is to say, even the best works today are what I call "workhorse art"— namely, art that simply *matches* the talents of those who make them.
 
 By contrast, could Dolly Parton *reliably* compose one "Jolene" after another? Or [Stephen Sondheim](https://www.bobtailyearlings.com/docs/Sondheim_paper.pdf), "[Someone in a Tree](https://youtu.be/JpoKuNyVNhQ)"? It's doubtful. These works are what I call "windfall art"— namely, art that's even *better* than those who make them. In fact, they may surpass what seems to be humanly achievable at *all*— and for this reason, they're the kind that fellow artists envy most.
 
