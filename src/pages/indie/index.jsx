@@ -152,7 +152,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Of course, the reverse is also true: Those who settle for a thousand true fans *won't* bother to make the best art. Yet indie rock wants an *endless* long tail of such artists— so how are *any* of them expected to make history? The critics have a plan: Pick a few to typify the underdogs of our times, then rally around them. "After all, who wouldn't root for an underdog to win?"
+Of course, the reverse is also true: Those who settle for a thousand true fans *won't* bother to make the best art. Yet indie rock wants an *endless* long tail of such artists— so how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. "After all, who wouldn't root for an underdog to win?"
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
@@ -189,10 +189,6 @@ They can hustle to build a fanbase on their own— which yields *compound* retur
 It's obvious, then, why music was better in the past: Before the Internet, the *only* option was to make the best art. So… what if a band *today* tried to do just that? Add up the gains, subtract the [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost), and the math is clear: They'd end up the biggest losers. No wonder we lost the historical canon! But now with BYCombo, you can be discovered for bringing it back.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Are you unconvinced that music is now worse? Then ask this about any of the latest artists: Whatever their best work might be, could they *guarantee* us another one just as good? I suspect we'll agree: The answer is yes. That is to say, even the best works today are what I call "workhorse art"— namely, art that simply *matches* the talents of those who make them.
 
@@ -372,13 +368,19 @@ In short, today's data-driven industry is what the [*indie* camp wanted](https:/
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
-Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as the arts get "moneyballed," or taken over by algorithms, like [baseball has](https://en.wikipedia.org/wiki/Sabermetrics). Yet does the analogy fit? In baseball, algorithms *remove* human bias… while in the arts, they *amplify* it. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the humans!
+${'  ' || `
+// TODO: Review.
+`}
+
+Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as the arts get taken over by algorithms. And yet, algorithms simply deliver what the people want; it's why the indie camp embraced them in the first place. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the people!
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups— who generate most creative ideas in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality)— yet they have the same biases that we do. For revolutions to succeed, then, the research is clear: The elites *must* get involved, by spreading these creative ideas from the top down.
 
 Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as Romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
 So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new Enlightenment, by which we finally work with our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help to usher it in.
+
+
 
 ### ${++sectionCounter}. Scarcity inspires generational courage
 
@@ -389,8 +391,6 @@ Here's what I mean: If you *don't* hustle, the indie camp will reject you. But y
 Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won [their loyalty](https://xkcd.com/1601). And thus, they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of information, and now they [long for a return](https://writingball.blogspot.com/2022/12/logan-lane-and-luddite-club.html) to its scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
-
-
 
 ### ${++sectionCounter}. Progress tracks aesthetics, not logistics
 
