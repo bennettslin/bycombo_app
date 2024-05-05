@@ -92,6 +92,8 @@ First paragraph: Is it clear that live shows mean hearing less music?
 
 Fifth paragraph:
 But the crazier part is this: recording will *always* be able to capture what can't yet be recreated live. Unlike with other artistic mediums, then, music is *guaranteed* to offer new possibilities for invention. So are we we really going to refrain from exploring this endless frontier forever, just because the indie pundits say so? Of course not! Talk about demos and possibilities
+
+Repeat mention of content.
 `}
 
 In a world flooded with content, the new Romantics long for a return to local performances. Yet simply hearing less music doesn't make it any better. And across hundreds of locales, discovering the best artists would now be harder, allowing even fewer to make history. In other words, live shows *can't* lead the way… so why is it every Romantic's go-to solution?
@@ -100,7 +102,7 @@ To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once c
 
 As such, I set to work on mine— and five years later, *Yearling's Bobtail* caught the attention of an indie label founder. So I cobbled together a band, and we put on a live performance for him that was… admittedly sloppy. He left in a huff and ignored all further emails, later making a snide remark in his blog about "headphone albums."
 
-Of course, indie rock's *founding* belief is that live shows are the truth, while recording is a lie— and I knew this. What surprised me is that, with the rise of the Internet, no one saw fit to update it.
+Of course, indie rock's *founding* belief is that live shows tell the truth, while recordings are a lie— and I knew this. What surprised me is that, with the rise of the Internet, no one saw fit to update it.
 
 What's possible through recording will always surpass what can be recreated in live performance. Which means recording offers a permanent frontier to explore. Now with BYCombo, artists can now explore this frontier.
 
@@ -157,14 +159,14 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 ### ${++sectionCounter}. History is made through peer review
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review. Also review link.
 `}
 
 Of course, the reverse is also true: Those who settle for a thousand true fans *won't* bother to make the best art. Yet indie rock wants an *endless* long tail of such artists— so how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. "After all, who wouldn't root for an underdog to win?"
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
-Because we're invested in the creative process ourselves, we commit fewer false positives: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… [other artists](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=%E2%80%9CWhen%20we%20generate,to%20convergent%20thinking.%E2%80%9D) come closest to seeing *today*.
+Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… [other artists](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) come closest to seeing *today*.
 
 So to make history without achieving stardom, ignore the critics! Instead, your talents must inspire the envy of fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
@@ -364,13 +366,17 @@ Yet underdog movements will never go away, because to be seen as an underdog is 
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
 
 By contrast, the indie labels obey the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is to trust the numbers! And for this, the indies get praised as "good guys."
 
-So when the tech platforms arrived, their skills with numbers made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just publicity!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
+So when the tech platforms arrived, their skills with numbers made them good guys as well. As such, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just for publicity!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
 
 In short, today's data-driven industry is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
@@ -380,7 +386,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as the arts get taken over by algorithms. And yet, algorithms simply deliver what the people want; it's why the indie camp embraced them in the first place. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the people!
+Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reward what the people want— in other words, they're the final stage of what indie rock has *always* promised to deliver. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the people!
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups— who generate most creative ideas in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality)— yet they have the same biases that we do. For revolutions to succeed, then, the research is clear: The elites *must* get involved, by spreading these creative ideas from the top down.
 
