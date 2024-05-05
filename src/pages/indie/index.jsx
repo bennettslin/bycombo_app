@@ -1,5 +1,5 @@
-import React from 'react'
 import PropTypes from 'prop-types'
+import React from 'react'
 import Page from '../../containers/Page'
 
 const TITLE = `The problem with indie rock`
@@ -71,7 +71,7 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Recording adds another dimension
+### ${++sectionCounter}. Music recording is an endless frontier
 
 ${'  ' || `
 // TODO: Keep working on.
@@ -80,21 +80,29 @@ Put between romanticism and scarcity?
 
 Remember to review other frontier sections.
 
-Content doesn't become canon.
+Need better segue from first to second paragraphs.
 
-Make points from here:
+Fourth paragraph: Be more clear about why being a stickler for live shows put rock at a disadvantage in the time of the Internet. Right now, the explanation is a bit muddled. Maybe it can be more about:
+
+After all, if artists aren't allowed to record a demo showing the full band they *could* become with a partner's help, then they'll always lose out to the solo artist who simply does everything on a laptop.
+
 A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to pursue visions they can't fully realize on their own; it awakens the very thought to even try.
 
-Indie, in people's mind, is a catchall term for underground art that can afford to take risks. When, in reality, it formed in opposition to the mainstream culture that gate the world Nirvana and Radiohead. And as such, it has its own idiosyncratic values, favoring performances over recordings. Is there something superior about performances over recordings that's universally understood by discerning listeners? No, the indies favor performances because that's what their business model is based on, whether the majors' business model, at least historically, was based on recordings.
+First paragraph: Is it clear that live shows mean hearing less music?
+
+Fifth paragraph:
+But the crazier part is this: recording will *always* be able to capture what can't yet be recreated live. Unlike with other artistic mediums, then, music is *guaranteed* to offer new possibilities for invention. So are we we really going to refrain from exploring this endless frontier forever, just because the indie pundits say so? Of course not! Talk about demos and possibilities
 `}
 
-New Romantics want to be rebel against digital content. Return to the days of local singer songwriters in coffee shops. Yet isn't a local performance just as forgettable, and replaceable with the next? In other words, a local performance is just analog content! Why is this the go-to solution for those who hope to rebel against digital content?
+In a world flooded with content, the new Romantics long for a return to local performances. Yet simply hearing less music doesn't make it any better. And across hundreds of locales, discovering the best artists would now be harder, allowing even fewer to make history. In other words, live shows *can't* lead the way… so why is it every Romantic's go-to solution?
 
-After all, the Beatles stopped touring after Rubber Soul, and the Beach Boys never performed Pet Sounds in its own time, freeing both bands to experiment with what is possible with studio recording without consideration for how they'd be recreated in live performance. As home recording became more affordable in the early '00s, I thought there would be a demo renaissance, as artists pursued visions they weren't able to fully realize on their own, and went to work on *Yearling's Bobtail*, where I performed all the instruments.
+To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album seen as his masterpiece might be recreated live. As home recording became affordable in the '00s, then, I foresaw a revival in which hundreds of aspiring artists, freed from paying for studio time, would painstakingly craft their demos to match the brilliance of *Pet Sounds*.
 
-We caught the attention of an indie label founder, who was now doing A&R for a major label. Upon seeing a cobbled together live performance, he left and ignored all future emails. On his blog, he made a disparaging comment about "headphone recordings." It was then that I learned how much the indie camp believes that only live music is real music, because real artists build their fanbase on live shows, perhaps because major label music is about getting big on the radio.
+As such, I set to work on mine— and five years later, *Yearling's Bobtail* caught the attention of an indie label founder. So I cobbled together a band, and we put on a live performance for him that was… admittedly sloppy. He left in a huff and ignored all further emails, later making a snide remark in his blog about "headphone albums."
 
-Yet the Beatles are the best band of all time, for an obvious reason: What's possible through recording will always surpass what can be recreated in live performance. Which means recording offers a permanent frontier to explore. Now with BYCombo, artists can now explore this frontier.
+Of course, indie rock's *founding* belief is that live shows are the truth, while recording is a lie— and I knew this. What surprised me is that, with the rise of the Internet, no one saw fit to update it.
+
+What's possible through recording will always surpass what can be recreated in live performance. Which means recording offers a permanent frontier to explore. Now with BYCombo, artists can now explore this frontier.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
