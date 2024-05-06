@@ -158,10 +158,6 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 
 ### ${++sectionCounter}. History is made through peer review
 
-${'  ' || `
-// TODO: Review. Also review link.
-`}
-
 Of course, the reverse is also true: Those who settle for a thousand true fans *won't* bother to make the best art. Yet indie rock wants an *endless* long tail of such artists— so how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. "After all, who wouldn't root for an underdog to win?"
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
@@ -366,10 +362,6 @@ Yet underdog movements will never go away, because to be seen as an underdog is 
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
@@ -386,7 +378,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reward what the people want— in other words, they're the final stage of what indie rock has *always* promised to deliver. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the people!
+Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reward what the people want— which means they're the latest stage of what indie rock has *always* promised to deliver. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the people!
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups— who generate most creative ideas in the arts. And when in doubt, we [imitate others](https://en.wikipedia.org/wiki/Herd_mentality)— yet they have the same biases that we do. For revolutions to succeed, then, the research is clear: The elites *must* get involved, by spreading these creative ideas from the top down.
 
