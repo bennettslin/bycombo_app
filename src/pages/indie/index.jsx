@@ -88,7 +88,7 @@ After all, if artists aren't allowed to record a demo showing the full band they
 
 A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to pursue visions they can't fully realize on their own; it awakens the very thought to even try.
 
-First paragraph: Is it clear that live shows mean hearing less music?
+First paragraph: Articulate better.
 
 Fifth paragraph:
 But the crazier part is this: recording will *always* be able to capture what can't yet be recreated live. Unlike with other artistic mediums, then, music is *guaranteed* to offer new possibilities for invention. So are we we really going to refrain from exploring this endless frontier forever, just because the indie pundits say so? Of course not! Talk about demos and possibilities
@@ -96,9 +96,9 @@ But the crazier part is this: recording will *always* be able to capture what ca
 Repeat mention of content.
 `}
 
-In a world flooded with content, the new Romantics long for a return to local performances. Yet simply hearing less music doesn't make it any better. And across hundreds of locales, discovering the best artists would now be harder, allowing even fewer to make history. In other words, live shows *can't* lead the way… so why is it every Romantic's go-to solution?
+In a world flooded with content, the new Romantics long for a return to local performances. Yet by isolating each artist to a single locale out of hundreds— with no talent scouts around— we'd make it all but impossible to discover the *best* artists. Which means live shows *can't* deliver the best *art*. Why, then, is this every Romantic's go-to solution?
 
-To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album seen as his masterpiece might be recreated live. As home recording became affordable in the '00s, then, I foresaw a revival in which hundreds of aspiring artists, freed from paying for studio time, would painstakingly craft their demos to match the brilliance of *Pet Sounds*.
+To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. So as home recording grew affordable in the '00s, I foresaw a revival in which hundreds of aspiring artists, freed from paying for studio time, would try to match the brilliance of *Pet Sounds* in their demos.
 
 As such, I set to work on mine— and five years later, *Yearling's Bobtail* caught the attention of an indie label founder. So I cobbled together a band, and we put on a live performance for him that was… admittedly sloppy. He left in a huff and ignored all further emails, later making a snide remark in his blog about "headphone albums."
 
