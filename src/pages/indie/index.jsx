@@ -86,7 +86,11 @@ Fourth paragraph: Be more clear about why being a stickler for live shows put ro
 
 A demo shows what a work can be in the *future*, with a partner's help. ; it awakens the very thought to even try.
 
-Fourth paragraph: Most pressing vision. Mention content.
+First paragraph: Say how this is similar to content to begin with?
+
+Third paragraph. Avoid saying "So" again. Be more detailed about cobbling together a band.
+
+Fourth paragraph: Most pressing vision. Mention content again, if not in first paragraph.
 
 Fifth paragraph: Articulate well.
 `}
@@ -97,7 +101,7 @@ To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once c
 
 Five years later, *Yearling's Bobtail* caught the attention of an indie label. So I cobbled together a band, and we put on a live performance for the owner that was… admittedly sloppy. He left in a huff and ignored all further emails, later sneering at "headphone albums" on his blog.
 
-Thus, I came to learn a founding belief of indie rock: Only live shows tell the truth. Yet a demo allows artists to pursue visions that they can't fully realize on their own. And today, I'd argue that one of those visions is… being able to form a band at all! Because, now that critics *prefer* content churned out on a laptop, why deal with the struggle of lugging instruments and coordinating with bandmates?
+Thus, I came to learn a founding belief of indie rock: Only live shows tell the truth. Yet a demo allows artists to pursue visions that they can't fully realize on their own. And today, I'd argue that the biggest such vision is… being able to form a band at all! Because, now that critics *prefer* content made on a laptop, why deal with the hassle of lugging instruments and coordinating with bandmates?
 
 But even crazier is this: Recordings can capture what can't yet be recreated live. This additional dimension of music *guarantees* new possibilities for invention. Are we really going to refrain from exploring this endless frontier, just because the indie pundits say so? Of course not! Talk about demos and possibilities
 
@@ -129,7 +133,7 @@ There's another reason we respect those '80s underground bands: It feels like th
 
 But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to make a radio hit, they can work on their own to get picked up by the algorithms— which reward the most popular works. So now they're chosen by the people, *not* by the elites… making them indie artists in good faith!
 
-All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo help you partner with the elites!
+All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo help you partner with the new elites!
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
@@ -293,7 +297,11 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 ### ${++sectionCounter}. Insiders see cronyism as camaraderie
 
-While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and that's how they still see themselves at heart. What's not to love? Well…
+${'  ' || `
+// TODO: Review.
+`}
+
+While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure that they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male gatekeepers just have to be more inclusive in whom they accept as their own.
 
@@ -368,10 +376,6 @@ So when the tech platforms arrived, their skills with numbers made them good guy
 In short, today's data-driven industry is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reward what the people want— which means they're the latest stage of what indie rock has *always* promised to deliver. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the people!
 
