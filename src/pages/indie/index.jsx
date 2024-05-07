@@ -84,27 +84,22 @@ Need better segue from first to second paragraphs.
 
 Fourth paragraph: Be more clear about why being a stickler for live shows put rock at a disadvantage in the time of the Internet. Right now, the explanation is a bit muddled. Maybe it can be more about:
 
-After all, if artists aren't allowed to record a demo showing the full band they *could* become with a partner's help, then they'll always lose out to the solo artist who simply does everything on a laptop.
+A demo shows what a work can be in the *future*, with a partner's help. ; it awakens the very thought to even try.
 
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to pursue visions they can't fully realize on their own; it awakens the very thought to even try.
+Fourth paragraph: Most pressing vision. Mention content.
 
-First paragraph: Articulate better.
-
-Fifth paragraph:
-But the crazier part is this: recording will *always* be able to capture what can't yet be recreated live. Unlike with other artistic mediums, then, music is *guaranteed* to offer new possibilities for invention. So are we we really going to refrain from exploring this endless frontier forever, just because the indie pundits say so? Of course not! Talk about demos and possibilities
-
-Repeat mention of content.
+Fifth paragraph: Articulate well.
 `}
 
-In a world flooded with content, the new Romantics long for a return to local performances. Yet by isolating each artist to a single locale out of hundreds— with no talent scouts around— we'd make it all but impossible to discover the *best* artists. Which means live shows *can't* deliver the best *art*. Why, then, is this every Romantic's go-to solution?
+In a world flooded with content, the new Romantics long for a return to local performances. Yet by isolating each artist to a single locale out of hundreds— while *not* bringing back the talent scouts— we'd make it all but impossible to discover the *best* artists. So why is this every Romantic's go-to solution?
 
-To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. So as home recording grew affordable in the '00s, I foresaw a revival in which hundreds of aspiring artists, freed from paying for studio time, would try to match the brilliance of *Pet Sounds* in their demos.
+To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home recording grew affordable in the '00s, then, I foresaw a revival in which hundreds of aspiring artists would try to match the brilliance of *Pet Sounds* in their demos— and so I set to work on mine.
 
-As such, I set to work on mine— and five years later, *Yearling's Bobtail* caught the attention of an indie label founder. So I cobbled together a band, and we put on a live performance for him that was… admittedly sloppy. He left in a huff and ignored all further emails, later making a snide remark in his blog about "headphone albums."
+Five years later, *Yearling's Bobtail* caught the attention of an indie label. So I cobbled together a band, and we put on a live performance for the owner that was… admittedly sloppy. He left in a huff and ignored all further emails, later sneering at "headphone albums" on his blog.
 
-Of course, indie rock's *founding* belief is that live shows tell the truth, while recordings are a lie— and I knew this. What surprised me is that, with the rise of the Internet, no one saw fit to update it.
+Thus, I came to learn a founding belief of indie rock: Only live shows tell the truth. Yet a demo allows artists to pursue visions that they can't fully realize on their own. And today, I'd argue that one of those visions is… being able to form a band at all! Because, now that critics *prefer* content churned out on a laptop, why deal with the struggle of lugging instruments and coordinating with bandmates?
 
-What's possible through recording will always surpass what can be recreated in live performance. Which means recording offers a permanent frontier to explore. Now with BYCombo, artists can now explore this frontier.
+But even crazier is this: Recordings can capture what can't yet be recreated live. This additional dimension of music *guarantees* new possibilities for invention. Are we really going to refrain from exploring this endless frontier, just because the indie pundits say so? Of course not! Talk about demos and possibilities
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
