@@ -82,28 +82,24 @@ Remember to review other frontier sections.
 
 Need better segue from first to second paragraphs.
 
-Fourth paragraph: Be more clear about why being a stickler for live shows put rock at a disadvantage in the time of the Internet. Right now, the explanation is a bit muddled. Maybe it can be more about:
+First paragraph: Mention talent scouts again?
 
-A demo shows what a work can be in the *future*, with a partner's help. ; it awakens the very thought to even try.
+Third paragraph. Avoid saying "So."
 
-First paragraph: Say how this is similar to content to begin with?
-
-Third paragraph. Avoid saying "So" again. Be more detailed about cobbling together a band.
-
-Fourth paragraph: Most pressing vision. Mention content again, if not in first paragraph.
+Fourth paragraph: In fact, one such vision that I don't think most people realizes is…
 
 Fifth paragraph: Articulate well.
 `}
 
-In a world flooded with content, the new Romantics long for a return to local performances. Yet by isolating each artist to a single locale out of hundreds— while *not* bringing back the talent scouts— we'd make it all but impossible to discover the *best* artists. So why is this every Romantic's go-to solution?
+In a world flooded with content, the new Romantics long for a return to local performances. Yet it's no loss to miss any particular show; there are *always* more to come… just like a day of content! And with each artist isolated to one locale out of hundreds— in a world without talent scouts— it would become *harder* to discover the best. So why is this every Romantic's go-to solution?
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home recording grew affordable in the '00s, then, I foresaw a revival in which hundreds of aspiring artists would try to match the brilliance of *Pet Sounds* in their demos— and so I set to work on mine.
 
-Five years later, *Yearling's Bobtail* caught the attention of an indie label. So I cobbled together a band, and we put on a live performance for the owner that was… admittedly sloppy. He left in a huff and ignored all further emails, later sneering at "headphone albums" on his blog.
+Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I cobbled together a band, and we put on a show for one of the label founders that was… admittedly sloppy. He left in a huff and ignored all further emails, later sneering at "headphone albums" on his blog.
 
-Thus, I came to learn a founding belief of indie rock: Only live shows tell the truth. Yet a demo allows artists to pursue visions that they can't fully realize on their own. And today, I'd argue that the biggest such vision is… being able to form a band at all! Because, now that critics *prefer* content made on a laptop, why deal with the hassle of lugging instruments and coordinating with bandmates?
+Thus, I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* fully realize on their own. And today, I'd argue the vision most in need of a partner's help is… being a band at all! Because, with all the advantages of being a lone content creator, in a world that favors pop over rock… who'd want to lug instruments?
 
-But even crazier is this: Recordings can capture what can't yet be recreated live. This additional dimension of music *guarantees* new possibilities for invention. Are we really going to refrain from exploring this endless frontier, just because the indie pundits say so? Of course not! Talk about demos and possibilities
+But even crazier is this: What can't yet be recreated live might now be captured by recordings. This additional dimension of music *guarantees* new possibilities for invention. Are we really going to refrain from exploring this endless frontier, just because the indie pundits say so? Of course not! Talk about demos and possibilities
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -157,7 +153,11 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 
 ### ${++sectionCounter}. History is made through peer review
 
-Of course, the reverse is also true: Those who settle for a thousand true fans *won't* bother to make the best art. Yet indie rock wants an *endless* long tail of such artists— so how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. "After all, who wouldn't root for an underdog to win?"
+${'  ' || `
+// TODO: Review.
+`}
+
+Of course, the reverse is also true: Those who settle for a thousand true fans *won't* bother to make the best art. Yet indie rock wants an *endless* long tail of such artists— so how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not [crabs in a bucket](https://en.wikipedia.org/wiki/Crab_mentality). But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
@@ -297,11 +297,7 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 ### ${++sectionCounter}. Insiders see cronyism as camaraderie
 
-${'  ' || `
-// TODO: Review.
-`}
-
-While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure that they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
+While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male gatekeepers just have to be more inclusive in whom they accept as their own.
 
