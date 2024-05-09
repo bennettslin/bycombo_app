@@ -71,35 +71,29 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Music recording is an endless frontier
+### ${++sectionCounter}. Music recording is a distinct medium
 
 ${'  ' || `
 // TODO: Keep working on.
 
 Put between romanticism and scarcity?
 
-Remember to review other frontier sections.
+Fourth paragraph: Last sentence could be better.
 
-Need better segue from first to second paragraphs.
-
-First paragraph: Mention talent scouts again?
-
-Third paragraph. Avoid saying "So."
-
-Fourth paragraph: In fact, one such vision that I don't think most people realizes is…
-
-Fifth paragraph: Articulate well.
+Fifth paragraph: Articulate well. Mention revival again.
 `}
 
-In a world flooded with content, the new Romantics long for a return to local performances. Yet it's no loss to miss any particular show; there are *always* more to come… just like a day of content! And with each artist isolated to one locale out of hundreds— in a world without talent scouts— it would become *harder* to discover the best. So why is this every Romantic's go-to solution?
+In a world awash in content, the new Romantics long for a return to local performances. Yet it's no loss to miss any particular show; there will always be more to come… just like a day of content! And with each artist isolated to one locale out of hundreds— in a world without talent scouts— it would be *harder* to discover the best. So why is this the go-to solution of so many?
 
-To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home recording grew affordable in the '00s, then, I foresaw a revival in which hundreds of aspiring artists would try to match the brilliance of *Pet Sounds* in their demos— and so I set to work on mine.
+To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home recording grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would try to match the brilliance of *Pet Sounds* in their demos— and so I set to work on mine.
 
-Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I cobbled together a band, and we put on a show for one of the label founders that was… admittedly sloppy. He left in a huff and ignored all further emails, later sneering at "headphone albums" on his blog.
+Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I cobbled together a band, and we put on a show for one of them that was… a bit sloppy, given what little time my new bandmates had to learn the parts. The label owner left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
-Thus, I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* fully realize on their own. And today, I'd argue the vision most in need of a partner's help is… being a band at all! Because, with all the advantages of being a lone content creator, in a world that favors pop over rock… who'd want to lug instruments?
+Thus, I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a band at all! Because, with all the perks of being a lone content creator, who'd opt to split their earnings with the rest of an unknown band for years and years?
 
-But even crazier is this: What can't yet be recreated live might now be captured by recordings. This additional dimension of music *guarantees* new possibilities for invention. Are we really going to refrain from exploring this endless frontier, just because the indie pundits say so? Of course not! Talk about demos and possibilities
+But what makes the indie camp even *more* short-sighted is this: Recordings capture what can't yet be recreated live. In other words, music is really *two* distinct mediums— much like cinema and theater! And no one insists that a "real" actor masters one before the other— so why treat musicians differently?
+
+But now with BYCombo, you can xxx a musical revival— by recording a demo.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
