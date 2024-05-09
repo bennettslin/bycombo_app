@@ -78,20 +78,24 @@ ${'  ' || `
 
 Put between romanticism and scarcity?
 
+First paragraph: Another way to end the paragraph?
+
 Fourth paragraph: Last sentence could be better.
 
 Fifth paragraph: Articulate well. Mention revival again.
 `}
 
-In a world awash in content, the new Romantics long for a return to local performances. Yet it's no loss to miss any particular show; there will always be more to come… just like a day of content! And with each artist isolated to one locale out of hundreds— in a world without talent scouts— it would be *harder* to discover the best. So why is this the go-to solution of so many?
+In a world flooded with content, the new Romantics long for a return to live shows. Yet, just like a day of content, it's no loss to miss any particular show; more will always follow. And with each artist now isolated to a single locale out of hundreds— in a world without talent scouts— it would be even *harder* to discover the best. So why is this every Romantic's go-to solution?
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home recording grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would try to match the brilliance of *Pet Sounds* in their demos— and so I set to work on mine.
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I cobbled together a band, and we put on a show for one of them that was… a bit sloppy, given what little time my new bandmates had to learn the parts. The label owner left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
-Thus, I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a band at all! Because, with all the perks of being a lone content creator, who'd opt to split their earnings with the rest of an unknown band for years and years?
+Thus, I came to learn indie rock's founding belief: "Live shows tell the truth." Yet a demo allows artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a band at all! Because, with all the perks of being a lone content creator, who'd opt to share the earnings of an unknown band for years and years?
 
-But what makes the indie camp even *more* short-sighted is this: Recordings capture what can't yet be recreated live. In other words, music is really *two* distinct mediums— much like cinema and theater! And no one insists that a "real" actor masters one before the other— so why treat musicians differently?
+But what makes the indie camp even *more* short-sighted is this: Recordings capture what can't yet be recreated live. In other words, music is really *two* distinct mediums— much like cinema versus theater! So why let a pundit hold back one who clearly favors the other? Now with BYCombo, you can 
+
+And no one insists that a "real" actor masters one before the other— so why treat musicians differently?
 
 But now with BYCombo, you can xxx a musical revival— by recording a demo.
 
@@ -393,7 +397,11 @@ Unlike what the indie camp believes, then, music history *won't* care how the In
 
 ### ${++sectionCounter}. A renaissance of late bloomers awaits
 
-Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this still isn't the case with rock bands— which means there's yet *another* frontier left to explore! So if you're a Millennial, don't fret: You now have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
+${'  ' || `
+// TODO: Review.
+`}
+
+Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this isn't the case yet with rock bands— which means there's still *another* frontier left to explore! So if you're a Millennial, don't fret: You now have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
 
 In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young people are reaching key milestones *later* in life, because society in *general* is now more complex; thus, more time is needed to realize your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling makes you burn out *sooner*.
 
