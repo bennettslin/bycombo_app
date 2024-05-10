@@ -13,7 +13,7 @@ export default {
     body: `
 **How does this advance the art form?**
 
-Our hope was to do for music what James Joyce's *Ulysses* did for literature. Lyrical experiments include [stream of consciousness](https://www.yearlingsbobtail.com/8-good-night-sita/?annotation=2), [neologistic puns](https://www.yearlingsbobtail.com/10-constellations/?annotation=9), and a literary device we invented called [doublespeaker rhyme](https://www.yearlingsbobtail.com/4-odin/?annotation=7).
+Our hope was to do for music what James Joyce's *Ulysses* did for literature. Lyrical experiments include [stream of consciousness](https://yearlingsbobtail.com/8-good-night-sita/?annotation=2), [neologistic puns](https://yearlingsbobtail.com/10-constellations/?annotation=9), and a literary device we invented called [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?annotation=7).
 
 Musical experiments include [Tuvan throat singing](https://yearlingsbobtail.com/5-pchelkas-starry-journey/?annotation=4), [Arabic quarter tones](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17), and [Shepard tones](https://yearlingsbobtail.com/16-cremated/?annotation=4).
 
@@ -39,7 +39,7 @@ ${'  ' || `
 // TODO: Revise in light of changes to partners page. Then review entire page.
 `}
 
-We're looking for someone to join our band in a full-time [admin position](https://www.bobtailyearlings.com/writings/ongoing/our-mission-principles-and-terms/#roles), as an [equally paid](https://www.bobtailyearlings.com/writings/ongoing/our-mission-principles-and-terms/#compensation) member. You would handle our administrative work, take on a leadership role at BYCombo, and oversee development of Bobtail Method and Bobtail Dominoes.
+We're looking for someone to join our band in a full-time [admin position](https://bobtailyearlings.com/writings/ongoing/our-mission-principles-and-terms/#roles), as an [equally paid](https://bobtailyearlings.com/writings/ongoing/our-mission-principles-and-terms/#compensation) member. You would handle our administrative work, take on a leadership role at BYCombo, and oversee development of Bobtail Method and Bobtail Dominoes.
 
 We also hope to hear from those who'd like to work with our band in any way: managers, publicists, and labels!
     `,
