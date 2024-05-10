@@ -71,7 +71,7 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Recorded music is a distinct medium
+### ${++sectionCounter}. Music recording is its own medium
 
 ${'  ' || `
 // TODO: Keep working on.
@@ -85,13 +85,13 @@ Fifth paragraph: Need better segue from fourth paragraph.
 
 In a world flooded with content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist now isolated to a single locale out of hundreds— in a world without talent scouts— it becomes even *harder* to discover the best. So why is this every Romantic's go-to solution?
 
-To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home recording grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would try to match the brilliance of *Pet Sounds* in their demos— and so I set to work on mine.
+To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home recording grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would confound our understanding of what a demo can be— and so I [set to work](https://www.yearlingsbobtail.com/6-ash-wednesday/?annotation=17) on [making mine](https://www.yearlingsbobtail.com/16-cremated/?annotation=4).
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I cobbled together a band, and we put on a show for one of them that was… a bit sloppy, given what little time my new bandmates had to learn the parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
 Thus, I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a band at all! Because, with all the perks of being a lone content creator, in a world where critics now prefer pop, who'd opt to be *anyone's* bandmate, let alone *yours*?
 
-But what makes the indie camp even *more* short-sighted is this: Recordings can capture what can't yet be recreated live. So music is really *two* distinct mediums— much like theater and cinema. Which means an entire medium was held back for a generation! Now with BYCombo, you can help to usher in a revival of recorded music… just like the one I foresaw two decades ago.
+But what makes the indie camp *especially* short-sighted is this: Recordings capture what can't be recreated live. Which means music is really *two* distinct mediums— much like theater and cinema. So an entire medium was held back for a generation! Now with BYCombo, you can help to usher in a revival of recorded music… just like the one I foresaw two decades ago.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -135,7 +135,11 @@ And yet, this obviously can't end well. We don't support artists of the *past*�
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
-By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://www.honest-broker.com/p/where-did-the-long-tail-go) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
+${'  ' || `
+// TODO: Review link.
+`}
+
+By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://archive.ph/OuxGP) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
 For starters, stardom *isn't* caused by corporate greed, but by our own social nature. Since it's hard to say which songs are best, we end up just liking what others like— and they do the same! As such, popularity is a [complex system](https://en.wikipedia.org/wiki/Complex_system) ruled by [power laws](https://en.wikipedia.org/wiki/Power_law), where any random boost can snowball into a winning advantage— and *this* is how unworthy artists end up as superstars.
 
@@ -193,9 +197,13 @@ But this can't happen if you're always [context switching](https://en.wikipedia.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
+${'  ' || `
+// TODO: Review links.
+`}
+
 In the past, the indie gatekeepers stayed close to the local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case… this is precisely what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
 
-What confused me is that I'd explicitly set out to make a work of art whose creativity [*can't* be disputed](https://www.yearlingsbobtail.com/16-cremated/?annotation=4). Only later did it hit me: If a gatekeeper is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we'd* want. Our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.); we just don't realize this, because whatever it is we *do* like… we simply call *that* the thing [that's creative](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.)!
+What confused me is that I'd explicitly set out to make a [work of art](https://www.yearlingsbobtail.com/8-good-night-sita/?annotation=40) whose creativity [*can't* be disputed](https://www.yearlingsbobtail.com/10-constellations/?annotation=9). Only later did it hit me: If a gatekeeper is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we'd* want. Our human nature is to [*dis*-like creativity](https://slate.com/technology/2013/12/creativity-is-rejected-teachers-and-bosses-dont-value-out-of-the-box-thinking.html#:~:text=It%E2%80%99s%20all%20a,their%20insistence%20otherwise.); we just don't realize this, because whatever it is we *do* like… we simply call *that* the thing [that's creative](https://marginalrevolution.com/marginalrevolution/2011/12/teachers-dont-like-creative-students.html#:~:text=What%20the%20paper,are%20actually%20like.)!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
