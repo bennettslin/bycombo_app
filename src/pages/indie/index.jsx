@@ -78,18 +78,18 @@ ${'  ' || `
 
 Put between romanticism and scarcity?
 
-Second paragraph: Talk about going full force instead?
+Second paragraph: Still not getting the right idea down.
 
 Fifth paragraph: Need better segue from fourth paragraph.
 `}
 
 In a world flooded with content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist now isolated to a single locale out of hundreds— in a world without talent scouts— it becomes even *harder* to discover the best. So why is this every Romantic's go-to solution?
 
-To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home recording grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would confound our understanding of what a demo can be— and so I [set to work](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17) on [making mine](https://yearlingsbobtail.com/16-cremated/?annotation=4).
+To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home recording grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would advance the art form simply by [recording a demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I cobbled together a band, and we put on a show for one of them that was… a bit sloppy, given what little time my new bandmates had to learn the parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
-Thus, I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a band at all! Because, with all the perks of being a lone content creator, in a world where critics now prefer pop, who'd opt to be *anyone's* bandmate, let alone *yours*?
+Thus, I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a band at all! Because, with all the perks of being a lone content creator, in a world where critics now prefer pop— who'd opt to be *anyone's* bandmate, let alone *yours*?
 
 But what makes the indie camp *especially* short-sighted is this: Recordings capture what can't be recreated live. Which means music is really *two* distinct mediums— much like theater and cinema. So an entire medium was held back for a generation! Now with BYCombo, you can help to usher in a revival of recorded music… just like the one I foresaw two decades ago.
 
@@ -134,10 +134,6 @@ So indie rock set off a chain reaction, forcing the next tier of artists to beg 
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
 ### ${++sectionCounter}. Talent wants a path to stardom
-
-${'  ' || `
-// TODO: Review link.
-`}
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://archive.ph/JCAiL) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
@@ -319,7 +315,7 @@ Rappers love to bash the "[wack MC](https://archive.ph/GMtkQ#selection-505.0-517
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
-And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://archive.ph/aBRId#selection-1881.0-1893.1) from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
+And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday) from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
 
 But can't *today's* indies learn to sign the *next* On a Friday? No… A culture's status hierarchy is self-reinforcing and can't be upended from *within*. Think about it: Once status has to come from hustling, then hustlers become high status— and vice versa. So indie rock will always be an "indieocracy," as its name implies— a system ruled by hustlers, who get *themselves* known.
 
