@@ -285,7 +285,7 @@ Yet despite the poor fit, indie rock sure is eager of late to hand us the reins!
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a [Pulitzer Prize](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives you the same chances— as a band.
+Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a Pulitzer Prize! Now BYCombo gives you the same chances— as a band.
 
 ### ${++sectionCounter}. Insiders see cronyism as camaraderie
 
@@ -311,15 +311,15 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
-Rappers love to bash the "[wack MC](https://archive.ph/GMtkQ#selection-505.0-517.52)"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
+Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
-And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to [change their name](https://radiohead.fandom.com/wiki/On_a_Friday) from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
+And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
 
 But can't *today's* indies learn to sign the *next* On a Friday? No… A culture's status hierarchy is self-reinforcing and can't be upended from *within*. Think about it: Once status has to come from hustling, then hustlers become high status— and vice versa. So indie rock will always be an "indieocracy," as its name implies— a system ruled by hustlers, who get *themselves* known.
 
-Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](https://archive.ph/Tipta#selection-503.0-533.34)! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
+Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
