@@ -78,7 +78,7 @@ ${'  ' || `
 
 Put between romanticism and scarcity?
 
-Second paragraph: Still not getting the right idea down.
+Second paragraph: Still not getting the right idea down. Home studios, take the art of music recording to new heights with their demos
 
 Fifth paragraph: Need better segue from fourth paragraph.
 `}
@@ -183,6 +183,10 @@ It's obvious, then, why music was better in the past: Before the Internet, the *
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
+${'  ' || `
+// TODO: Revise. "Make them" grammar might be wrong.
+`}
+
 Are you unconvinced that music is now worse? Then ask this about any of the latest artists: Whatever their best work might be, could they *guarantee* us another one just as good? I suspect we'll agree: The answer is yes. That is to say, even the best works today are what I call "workhorse art"— namely, art that simply *matches* the talents of those who make them.
 
 By contrast, could Dolly Parton *reliably* compose one "Jolene" after another? Or [Stephen Sondheim](https://bobtailyearlings.com/docs/Sondheim_paper.pdf), "[Someone in a Tree](https://youtu.be/JpoKuNyVNhQ)"? It's doubtful. These works are what I call "windfall art"— namely, art that's even *better* than those who make them. In fact, they may surpass what seems to be humanly achievable at *all*— and for this reason, they're the kind that fellow artists envy most.
@@ -192,10 +196,6 @@ Of course, the best artists *are* human— so how are such works possible? It's 
 But this can't happen if you're always [context switching](https://en.wikipedia.org/wiki/Human_multitasking)— which explains why "indiefication" has made music worse. Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have a business partner wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
-
-${'  ' || `
-// TODO: Review links.
-`}
 
 In the past, the indie gatekeepers stayed close to the local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case… this is precisely what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
 
