@@ -81,7 +81,7 @@ Put between romanticism and scarcity?
 Fifth paragraph: Need better segue from fourth paragraph.
 `}
 
-In a world flooded with content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist now isolated to a single locale out of hundreds— in a world without talent scouts— it becomes even *harder* to discover the best. So why is this every Romantic's go-to solution?
+In a world flooded with content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist now isolated to one local scene out of hundreds— in a world still lacking in talent scouts— it becomes even *harder* to discover the best. So why is this every Romantic's go-to solution?
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights with [their demos](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
@@ -181,9 +181,13 @@ It's obvious, then, why music was better in the past: Before the Internet, the *
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Are you unconvinced that music is now worse? Then ask this about any of the latest artists: Whatever their best work might be, could they *guarantee* us another one just as good? I suspect we'll agree: The answer is yes. That is to say, even the best works today simply *match* the talents of those who make them; they're what I call "workhorse art."
 
-By contrast, could Dolly Parton *reliably* compose one "Jolene" after another? Or [Stephen Sondheim](https://bobtailyearlings.com/docs/Sondheim_paper.pdf), "[Someone in a Tree](https://youtu.be/JpoKuNyVNhQ)"? It's doubtful. These are what I call "windfall art"— namely, works that are *better* than those who make them. In fact, some of them even surpass what seems to be humanly achievable at *all*— and for this reason, they're the kind that fellow artists envy most.
+By contrast, could Dolly Parton *reliably* compose one "Jolene" after another? Or [Stephen Sondheim](https://bobtailyearlings.com/docs/Sondheim_paper.pdf), "[Someone in a Tree](https://youtu.be/JpoKuNyVNhQ)"? It's doubtful. These are what I call "windfall art"— namely, works that are even *better* than those who make them. In fact, some of them surpass what seems to be humanly possible at *all*— and for this reason, they're the kind that fellow artists envy most.
 
 Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your thoughts drift in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
