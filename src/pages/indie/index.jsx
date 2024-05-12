@@ -87,9 +87,9 @@ To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once c
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I cobbled together a band, and we put on a show for one of them that was… a bit sloppy, given what little time my new bandmates had to learn the parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
-Thus, I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a band at all! Because, with all the perks of being a lone content creator, in a world where critics now prefer pop— who'd opt to be *anyone's* bandmate, let alone *yours*?
+Thus, I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a band at all! Because, with all the perks of being a lone content creator, in a world where critics now favor pop— who'd opt to be *anyone's* bandmate, let alone *yours*?
 
-But what makes the indie camp *especially* short-sighted is this: Recordings capture what performances can't— both now and ever. Which means music is really *two* distinct mediums— much like theater and cinema. So an entire medium was held back for a generation! Now with BYCombo, you can help to usher in a revival of recorded music… just like the one I foresaw two decades ago.
+But what makes the indie camp *especially* short-sighted is this: Recordings capture what performances can't. Which means music is really *two* distinct mediums— much like theater and cinema. Now with BYCombo, you can help to usher in a revival of recorded music… just like the one I foresaw two decades ago.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
