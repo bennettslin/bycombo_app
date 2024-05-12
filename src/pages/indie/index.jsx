@@ -78,20 +78,18 @@ ${'  ' || `
 
 Put between romanticism and scarcity?
 
-Second paragraph: Still not getting the right idea down. Home studios, take the art of music recording to new heights with their demos
-
 Fifth paragraph: Need better segue from fourth paragraph.
 `}
 
 In a world flooded with content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist now isolated to a single locale out of hundreds— in a world without talent scouts— it becomes even *harder* to discover the best. So why is this every Romantic's go-to solution?
 
-To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home recording grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would advance the art form simply by [recording a demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
+To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights with [their demos](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I cobbled together a band, and we put on a show for one of them that was… a bit sloppy, given what little time my new bandmates had to learn the parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
 Thus, I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a band at all! Because, with all the perks of being a lone content creator, in a world where critics now prefer pop— who'd opt to be *anyone's* bandmate, let alone *yours*?
 
-But what makes the indie camp *especially* short-sighted is this: Recordings capture what can't be recreated live. Which means music is really *two* distinct mediums— much like theater and cinema. So an entire medium was held back for a generation! Now with BYCombo, you can help to usher in a revival of recorded music… just like the one I foresaw two decades ago.
+But what makes the indie camp *especially* short-sighted is this: Recordings capture what performances can't— both now and ever. Which means music is really *two* distinct mediums— much like theater and cinema. So an entire medium was held back for a generation! Now with BYCombo, you can help to usher in a revival of recorded music… just like the one I foresaw two decades ago.
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -182,10 +180,6 @@ They can hustle to build a fanbase on their own— which yields *compound* retur
 It's obvious, then, why music was better in the past: Before the Internet, the *only* option was to make the best art. So… what if a band *today* tried to do just that? Add up the gains, subtract the opportunity costs, and the math is clear: They'd end up the biggest losers. No wonder we lost the historical canon! But now with BYCombo, you can be discovered for bringing it back.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Are you unconvinced that music is now worse? Then ask this about any of the latest artists: Whatever their best work might be, could they *guarantee* us another one just as good? I suspect we'll agree: The answer is yes. That is to say, even the best works today simply *match* the talents of those who make them; they're what I call "workhorse art."
 
