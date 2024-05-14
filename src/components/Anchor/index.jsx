@@ -3,7 +3,7 @@ import cx from 'classnames'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import { getInternalLinkForPath } from '../../utils/pages/path'
-import { getInternalLink } from './helper'
+import { getFinalHref, getInternalLink } from './helper'
 
 const Anchor = ({
     noVisited,
@@ -20,6 +20,7 @@ const Anchor = ({
             href,
             pagePath,
         }),
+        finalHref = getFinalHref(href),
         Tag = internalLink ? Link : 'a'
 
     const onClick = () => {
@@ -44,10 +45,10 @@ const Anchor = ({
                 ...internalLink && {
                     to: getInternalLinkForPath(internalLink),
                 },
-                ...!internalLink && href && {
-                    href,
+                ...!internalLink && finalHref && {
+                    href: finalHref,
                     // Open in new tab only if it's not an internal page link.
-                    ...href[0] !== '#' && {
+                    ...finalHref[0] !== '#' && {
                         target: '_blank',
                     },
                 },
