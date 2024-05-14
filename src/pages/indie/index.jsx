@@ -233,7 +233,7 @@ Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/231
 
 Simply put, indie rock is widely seen as a do-it-yourself movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
-But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://archive.today/yGIVj#selection-5383.0-5383.209) of this belief.
+But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.pewresearch.org/short-reads/2014/08/25/in-search-of-libertarians/) of this belief.
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to suck it up and try harder. But with BYCombo, there's now an opposition party that upholds the interdependence you want— out of a shared love for the craft.
 
