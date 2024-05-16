@@ -71,26 +71,6 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Music recording is its own medium
-
-${'  ' || `
-// TODO: Keep working on.
-
-Put between romanticism and scarcity?
-
-Fifth paragraph: Need better segue from fourth paragraph.
-`}
-
-In a world flooded with content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist now isolated to one local scene out of hundreds— in a world still lacking in talent scouts— it becomes even *harder* to discover the best. So why is this every Romantic's go-to solution?
-
-To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights with [their demos](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
-
-Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I cobbled together a band, and we put on a show for one of them that was… a bit sloppy, given what little time my new bandmates had to learn the parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
-
-Thus, I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a band at all! Because, with all the perks of being a lone content creator, in a world where critics now prefer pop— who'd opt to be *anyone's* bandmate, let alone *yours*?
-
-But what makes the indie camp *especially* short-sighted is this: Recordings capture what performances can't. In other words, music is really *two* distinct mediums— much like cinema and theater! So why hold back one, to please those who prefer the other? With BYCombo, you can help to usher in a revival of recorded music… just like the one I foresaw two decades ago.
-
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -273,6 +253,10 @@ But why would Gen Z— and beyond— side with past gatekeepers who *didn't* car
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
+${'  ' || `
+// TODO: Revise. Say more about competition.
+`}
+
 Who foresaw indie rock's final stage as a trust fund playground? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://archive.today/ywtEA#selection-547.0-579.35). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of being no better than a foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
@@ -367,7 +351,21 @@ Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to spr
 
 So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new Enlightenment, by which we finally work with our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help to usher it in.
 
+### ${++sectionCounter}. Music recording is its own medium
 
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+In a world flooded with content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist now isolated to one local scene out of hundreds— in a world still lacking in talent scouts— it becomes even *harder* to discover the best. So why is this every Romantic's go-to solution?!
+
+To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights with [their demos](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
+
+Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I cobbled together a band, and we put on a show for one of them that was… a bit sloppy, given what little time my new bandmates had to learn the parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
+
+Thus, I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a band at all! Because, with all the perks of being a lone content creator, in a world where critics now prefer pop— who'd opt to be *anyone's* bandmate, let alone *yours*?
+
+But what makes the indie camp *especially* short-sighted is this: A recording can capture what a show can't. In other words, music is really *two* distinct mediums— much like cinema and theater! So ignore indie rock's claim that "real" artists start out by playing live. With BYCombo, you can help to usher in a revival of recorded music… just like the one I foresaw two decades ago.
 
 ### ${++sectionCounter}. Scarcity inspires generational courage
 
