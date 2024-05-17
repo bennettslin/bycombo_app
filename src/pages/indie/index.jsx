@@ -414,7 +414,7 @@ But let's swap "Sun" and "Earth" in this model: What if indiefication… actuall
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
 ${'  ' || `
-// TODO: Revise. Mention elitist gatekeepers and cost of entry. Do this *instead* of business partners?
+// TODO: Review.
 `}
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
@@ -423,7 +423,7 @@ It's because we only pine for past artists who self-sacrificed to advance the ar
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.theguardian.com/music/2019/feb/14/the-ryan-adams-allegations-are-the-tip-of-an-indie-music-iceberg), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, no revolution can ever *begin*, because the means to fair compensation only get settled at the *end*.
 
-To save rock, then, we *need* to stop shutting out bands who self-sacrifice to advance the art form. Yes, their reliance on business partners leaves them open to exploitation. But once the art form stagnates, what's left to protect? In other words, after Empowerment… comes the Age of Martyrdom.
+To save rock, then, we *need* to stop shutting out bands who self-sacrifice to advance the art form. Yes, by relying on business partners, they endanger *themselves*— and by working to bring back the elitist gatekeepers, they pose a danger to *others*. But once the art form stagnates, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give this generation a Nirvana of their own!
 `,
