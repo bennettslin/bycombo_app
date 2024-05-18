@@ -12,18 +12,21 @@ const Component = () => (
             body: `
 # ${TITLE}
 
+${'  ' || `
+// TODO: Revise.
+`}
+
 **As a nonprofit, BYCombo is here to bring forth this century's historically canonical rock bands! To do so, we'll assemble each band ourselves and then expose them to interdependent-minded business partners.**
 
-Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)!
-As you know, *indie*-pendence is the dominant thinking in rock today. So why is *inter*-dependence needed as an alternative? Let me explain…
+Of course, *indie*-pendence is the dominant thinking in rock today. So why is *inter*-dependence needed as an alternative? Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! Let me explain…
 
 ### Tools… are *rules*
 
 ${'  ' || `
-// TODO: Review in context of page.
+// TODO: Review.
 `}
 
-To lower the barriers to entry for artists, indie rock provides them with tools to forgo the major labels and build a fanbase on their own— social media, streaming services, crowdfunding platforms, and so forth.
+Indie rock seeks to lower the barriers to entry for artists, and so it provides them with tools to forgo the major labels and build a fanbase on their own: social media, streaming services, crowdfunding platforms, and so forth.
 
 Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their main purpose is to punish any holdouts. But wait… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
@@ -43,10 +46,6 @@ By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my 
 
 ### Return of the rock martyrs
 
-${'  ' || `
-// TODO: Review.
-`}
-
 And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, all art is now *subjective*; talent predicts nothing. Which means an indie label's only trusted measure is the *objective* size of an artist's fanbase. Good grief… Can we fix this mess?
 
 Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the rest. It picks "serious" artists over "casual" ones— in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will force us to dismiss *all* our best artists as hobbyists! Here's how it works:
@@ -56,10 +55,6 @@ Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the 
 But who would sign up to be the first of these new martyrs? Why, a hungry outsider, that's who! Which is why I spent 25,000 hours— twelve full-time years!— on [*Yearling's Bobtail*](https://yearlingsbobtail.com). And of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
 
 ### Who gatekeeps the gatekeepers?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Well… not so fast. The indie camp assumes that every artist faces the same hurdles— in which case, clearing the way for an underdog should still help the rest. Except… your hurdles as an outsider *aren't* the same. To compensate for *not* being the one they're rooting for, you need to try much harder, to be much better. But then… this makes *you* the underdog's biggest hurdle!
 
@@ -79,7 +74,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging an artist by the size of their fanbase, its gatekeepers end up favoring *content*— namely, art that's optimized to gain fans here and now, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
+If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging artists by the size of their fanbase, its gatekeepers end up favoring *content*— namely, art that's optimized to gain fans here and now, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
 
 Sure enough, Gen Z now sees what the older generations see: Indie rock is their hair metal— making the *next* revolution their grunge! Which is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that an entrepreneur will try to disrupt the rock market.
 
