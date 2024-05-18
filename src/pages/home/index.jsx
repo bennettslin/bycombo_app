@@ -13,12 +13,12 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Revise.
+// TODO: Review.
 `}
 
 **As a nonprofit, BYCombo is here to bring forth this century's historically canonical rock bands! To do so, we'll assemble each band ourselves and then expose them to interdependent-minded business partners.**
 
-Of course, *indie*-pendence is the dominant thinking in rock today. So why is *inter*-dependence needed as an alternative? Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! Let me explain…
+Of course, *indie*-pendence is the dominant thinking in rock today. So why is *inter*-dependence needed at all? Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! Let me explain…
 
 ### Tools… are *rules*
 
@@ -78,7 +78,7 @@ If we can't resist, though— let's revolt! How? We… wait. See, indie rock has
 
 Sure enough, Gen Z now sees what the older generations see: Indie rock is their hair metal— making the *next* revolution their grunge! Which is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that an entrepreneur will try to disrupt the rock market.
 
-This "Dr. Dre of rock" would love to partner with bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for a counterculture to welcome back *elitist* gatekeepers— basically, the kind that rock *used* to have, and that hip hop *still* has today. Well, here's where BYCombo comes in!
+This "Dr. Dre of rock" would love to partner with bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for a counterculture to welcome back the *elitist* gatekeepers— which is to say, the kind that rock *used* to have. And here's where BYCombo comes in!
 
 **Interdependent bands can now earn a business partner's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
