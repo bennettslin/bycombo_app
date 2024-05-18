@@ -343,7 +343,7 @@ In short, today's data-driven industry is what the [*indie* camp wanted](https:/
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
-Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reward what the people want— which means they're the latest stage of what indie rock has *always* promised to deliver. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the people!
+Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.honest-broker.com/p/notes-toward-a-new-romanticism) against science, as algorithms take over the arts. And yet, algorithms simply reward what the people want— which means they're the latest stage of what indie rock has *always* promised to deliver. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the people!
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups— who generate most creative ideas in the arts. And when in doubt, we imitate others— yet they have the same biases that we do. For revolutions to succeed, then, the research is clear: The elites *must* get involved, by spreading these creative ideas from the top down.
 
@@ -385,7 +385,11 @@ In music history courses, we learn that the evolution of the piano allowed Beeth
 
 Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to market and distribute their own works. But it *might* care how BYCombo allowed them to form bands with unprecedented lineups. So come explore one of rock's final frontiers— by having a dancer, puppeteer, or even manager as your bandmate!
 
-### ${++sectionCounter}. A renaissance of late bloomers awaits
+### ${++sectionCounter}. A renaissance of elders awaits
+
+${'  ' || `
+// TODO: Review title.
+`}
 
 Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this isn't yet the case with rock bands— which means there's still *another* frontier left to explore! So if you're a Millennial, don't fret: You now have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
 
