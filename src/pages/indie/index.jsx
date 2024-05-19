@@ -123,7 +123,11 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 
 ### ${++sectionCounter}. History is made through peer review
 
-Of course, the reverse is also true: Those who settle for a thousand true fans *won't* bother to make the best art. Yet indie rock wants an *endless* long tail of such artists— so how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
+${'  ' || `
+// TODO: Review.
+`}
+
+Of course, the reverse is also true: Those who settle for a thousand true fans *won't* try to make the best art. Yet indie rock wants a long tail of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not crabs in a bucket. But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
@@ -143,10 +147,6 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 
 ### ${++sectionCounter}. Timeless works have standalone appeal
 
-${'  ' || `
-// TODO: Review new location.
-`}
-
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point. They just don't value music as a *craft* to begin with!
@@ -158,14 +158,14 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review. 
 `}
 
-As the first generation to love all the same genres as [their elders](https://pitchfork.com/reviews/albums/184-i-get-wet), Millennials rebelled in the [only way possible](https://pitchfork.com/reviews/albums/16836-i-get-wet): by embracing the most *middling* works. For this reason, today's artists *don't* need to be the best. But can't one try anyway, to rival *past* artists who met the high expectations of *previous* generations? Well, let's examine their options.
+As the first generation to love all the same genres as [their elders](https://pitchfork.com/reviews/albums/184-i-get-wet), Millennials rebelled in the [only way possible](https://pitchfork.com/reviews/albums/16836-i-get-wet): by admiring the most *middling* works. As a result, today's artists *don't* need to be the best. But… can't they try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-It's obvious, then, why art was better in the past: Before the Internet, the *only* option was to try and be the best. Well… what if *you* went ahead and did just that? Add up the gains, subtract the costs, and the math is clear: You'd end up the biggest loser. Luckily, the only way now for *Gen Z* to rebel… is to embrace the most *excellent* works! And with BYCombo, they'll know of yours.
+It's obvious, then, why art was better in the past: Before the Internet, the *only* option was to try and be the best. Well… what if *you* went ahead and did just that? Add up the gains, subtract the costs, and the math is clear: You'd end up the biggest loser! Luckily, the only way now for *Gen Z* to rebel… is by admiring the most *excellent* works. And with BYCombo, they'll know of yours.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -261,10 +261,6 @@ But why would Gen Z— and beyond— side with past gatekeepers who *didn't* car
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Who foresaw indie rock's final stage as a trust fund playground? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](https://archive.today/ywtEA#selection-547.0-579.35). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of being no better than a foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
@@ -308,10 +304,6 @@ But can't *today's* indies learn to sign the *next* On a Friday? No… A culture
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
-
-${'  ' || `
-// TODO: Review link removal.
-`}
 
 As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to embrace the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— even as some looked surprised by their own decision.
 
