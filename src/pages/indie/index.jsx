@@ -158,14 +158,14 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
 ${'  ' || `
-// TODO: Revise. Change why Millennials are easy to please.
+// TODO: Review.
 `}
 
-Thanks to indie rock, other countries now care little about our rock canon, just as we've always ignored theirs. Which makes sense: Millennials are an easy audience to please, so indie artists never need to make the *best* art. But can't they try anyway, to rival *past* artists who met the high expectations of *previous* generations? Well, let's examine their options.
+As the first generation to love all the same genres as [their elders](https://pitchfork.com/reviews/albums/184-i-get-wet), Millennials rebelled in the [only way possible](https://pitchfork.com/reviews/albums/16836-i-get-wet): by embracing the *middling* works of those genres. For this reason, no indie artist today *needs* to be the best. But… can't they try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-It's obvious, then, why music was better in the past: Before the Internet, the *only* option was to make the best art. So… what if a band *today* tried to do just that? Add up the gains, subtract the opportunity costs, and the math is clear: They'd end up the biggest losers. No wonder we lost the historical canon! But now with BYCombo, you can be discovered for bringing it back.
+It's obvious, then, why art was better in the past: Before the Internet, the *only* option was to try and be the best. So… what if you went ahead and did just that? Add up the gains, subtract the opportunity costs, and the math is clear: You'd end up the biggest loser! But now with BYCombo, you can help Gen Z to rebel against *their* elders— by letting them embrace the best art.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -422,7 +422,7 @@ But let's swap "Sun" and "Earth" in this model: What if indiefication… actuall
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Don't make it so drastic. Use "might"?
 `}
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
@@ -431,7 +431,7 @@ It's because we only pine for past artists who self-sacrificed to advance the ar
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.theguardian.com/music/2019/feb/14/the-ryan-adams-allegations-are-the-tip-of-an-indie-music-iceberg), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, no revolution can ever *begin*, because the means to fair compensation only get settled at the *end*.
 
-To save rock, then, we *need* to stop shutting out bands who self-sacrifice to advance the art form. Yes, by relying on business partners, they endanger *themselves*— and by longing to bring back elitist gatekeepers, they pose a danger to *others*. But once the art form stagnates, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
+To save rock, then, we *need* to stop shutting out bands who self-sacrifice to advance the art form. Yes, by relying on business partners, they endanger *themselves*— and by longing to bring back the elitist gatekeepers, they pose a danger to *others*. But once the art form stagnates, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
 `,
