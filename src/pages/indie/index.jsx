@@ -161,11 +161,11 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-As the first generation to love all the same genres as [their elders](https://pitchfork.com/reviews/albums/184-i-get-wet), Millennials rebelled in the [only way possible](https://pitchfork.com/reviews/albums/16836-i-get-wet): by embracing the *middling* works of those genres. For this reason, no indie artist today *needs* to be the best. But… can't they try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
+As the first generation to love all the same genres as [their elders](https://pitchfork.com/reviews/albums/184-i-get-wet), Millennials rebelled in the [only way possible](https://pitchfork.com/reviews/albums/16836-i-get-wet): by embracing the most *middling* works. For this reason, today's artists *don't* need to be the best. But can't one try anyway, to rival *past* artists who met the high expectations of *previous* generations? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-It's obvious, then, why art was better in the past: Before the Internet, the *only* option was to try and be the best. So… what if you went ahead and did just that? Add up the gains, subtract the opportunity costs, and the math is clear: You'd end up the biggest loser! But now with BYCombo, you can help Gen Z to rebel against *their* elders— by letting them embrace the best art.
+It's obvious, then, why art was better in the past: Before the Internet, the *only* option was to try and be the best. Well… what if *you* went ahead and did just that? Add up the gains, subtract the costs, and the math is clear: You'd end up the biggest loser. Luckily, the only way now for *Gen Z* to rebel… is to embrace the most *excellent* works! And with BYCombo, they'll know of yours.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
