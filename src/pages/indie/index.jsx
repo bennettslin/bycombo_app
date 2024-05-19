@@ -239,13 +239,17 @@ What happens now, then, if you aspire to be *most* worthy? Why, you can join BYC
 
 ### ${++sectionCounter}. Modern audiences leave quietly
 
-"When I play sports, it doesn't just benefit *me*; it also benefits *you*— to watch me. Yet I don't even make minimum wage… while superstars earn millions! How is that fair? So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who would object?"
+${'  ' || `
+// TODO: Review.
+`}
+
+Imagine if you heard an argument this absurd: "When I play sports, it doesn't just benefit *me*; it also benefits *you*— to watch me. And yet, I don't even make minimum wage… while superstars earn millions! How is that fair? So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who would object?"
 
 Um… *we* would— the audience! We only want the *best* athletes— and it's the talent scout's job to find them, not ours. If "indie sports" took over, then, we'd turn to serial dramas or video games, and only come back for "classic sports" reruns. Everyone gets this, right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
-But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. So today's pro-*artist* way of thinking might just be a generational fluke… and *not* the future of music.
+But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. Which means today's pro-*artist* way of thinking might just be a generational fluke… and *not* the future of music.
 
-Still, how do we become pro-*audience* once more? It's simple: We admit that audiences only want the *best* artists! This is why BYCombo tells you to make the best *art*— namely, what *you'd* most want to hear if you were anyone else, choosing from all that's come before and all else that's out there.
+Still, how do we become pro-*audience* once more? It's simple: We admit that audiences only want the *best* artists! And so BYCombo tells you to make the best *art*— namely, what *you'd* care to study or enjoy most if you were anyone else, choosing from all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
