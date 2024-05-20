@@ -265,7 +265,11 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 
 Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a Pulitzer Prize! Now BYCombo gives your band the same chances.
 
-### ${++sectionCounter}. Insiders see cronyism as camaraderie
+### ${++sectionCounter}. Capitalism is the only cure for cronyism
+
+${'  ' || `
+// TODO: Review new title.
+`}
 
 While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
