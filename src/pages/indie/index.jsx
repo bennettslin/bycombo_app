@@ -157,11 +157,11 @@ ${'  ' || `
 // TODO: Review. 
 `}
 
-As the first generation to love all the same genres as [their elders](https://pitchfork.com/reviews/albums/184-i-get-wet), Millennials rebelled in the [only way possible](https://pitchfork.com/reviews/albums/16836-i-get-wet): by admiring the most *middling* works. As a result, today's artists *don't* need to be the best. But… can't they try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
+As the first generation [whose elders](https://pitchfork.com/reviews/albums/184-i-get-wet) loved all the same genres, Millennials rebelled in the only way possible: by admiring the most [*middling* works](https://pitchfork.com/reviews/albums/16836-i-get-wet). As a result, today's artists *don't* need to be the best. But… can't they try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-It's obvious, then, why art was better in the past: Before the Internet, the *only* option was to try and be the best. Well… what if *you* went ahead and did just that? Add up the gains, subtract the costs, and the math is clear: You'd end up the biggest loser. Luckily, the only way now for *Gen Z* to rebel… is by admiring the most *excellent* works! And with BYCombo, they'll know of yours.
+It's obvious, then, why art was better in the past: Before the Internet, the *only* option was to try and be the best. Well… what if *you* went ahead and did just that? Add up the gains, subtract the costs, and the math is clear: You'd end up the biggest loser. Luckily, the only way now for *Gen Z* to rebel… is by admiring the most *excellent* works! And with BYCombo, they can know of yours.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -234,10 +234,6 @@ To complicate matters, pollution is a collective action problem: It's caused by 
 What happens now, then, if you aspire to be *most* worthy? Why, you can join BYCombo— a collective that verifies your worth from the top down! Because what's a more honest signal, than to sacrifice a serious chunk of lifetime?
 
 ### ${++sectionCounter}. Modern audiences leave quietly
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Imagine hearing this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you*— to watch me. And yet, I don't even make minimum wage… while superstars earn millions. That's not fair! So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who'd object?"
 
