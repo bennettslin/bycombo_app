@@ -56,7 +56,7 @@ Suffice it to say, then… the indie labels rejected my demo. They also ignored 
 
 **A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock will *never* sympathize with a hungry outsider's need for interdependence— because it *means* to shut them out!**
 
-Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now defend at all costs. So anyone who questions their gatekeepers is a bad guy as well— especially anyone from an [older generation](https://youtu.be/tODG4Xt45bU)! And this gets at the heart of the problem:
+Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers is a bad guy as well— especially anyone from an [older generation](https://youtu.be/tODG4Xt45bU)! And this gets at the heart of the problem:
 
 **As the first rock movement to believe its ideals to be universal, indie rock is also the first to lock down its rules for good. As such, there's no historical precedent to show us how to resist— or even to assure us that we *can*.**
 
@@ -67,12 +67,14 @@ If we can't resist, though— let's revolt! How? We… wait. See, indie rock has
 Sure enough, Gen Z now sees what the older generations see: Indie rock is their hair metal— making the *next* revolution their grunge! Which is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that an entrepreneur will try to disrupt the rock market.
 
 ${'  ' || `
-// TODO: Revise. Establish "the" or not.
+// TODO: Revise.
+
+Mention business partners, discerning listeners, and future historians in bold text.
 `}
 
-This "Dr. Dre of rock" would love to partner with bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for a counterculture to welcome back *elitist* gatekeepers— in other words, the kind that rock *used* to have. And here's where BYCombo comes in!
+This "Dr. Dre of rock" would love to partner with bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for *elitist* gatekeepers to enforce a steep *cost* of entry. And here's where BYCombo comes in!
 
-**Interdependent bands can now earn a business partner's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
+**To have their demo shown in BYCombo's registry, a band must sacrifice a serious chunk of lifetime to advance the art form.**
 
 So picture a hundred BYCombo bands, all of them committed to making the historically canonical works of our times. This is the *final* step to reviving interdependence— the next revolution in rock history!
             `,

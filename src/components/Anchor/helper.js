@@ -15,7 +15,7 @@ export const getInternalLink = ({ href = '', pagePath }) => {
     return null
 }
 
-export const getFinalHref = href => {
+export const getFinalHref = (href = '') => {
     // In runtime builds, use localhost for links to my own projects.
     if (IS_RUNTIME) {
 
