@@ -265,7 +265,7 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 
 Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a Pulitzer Prize! Now BYCombo gives your band the same chances.
 
-### ${++sectionCounter}. Capitalism is the only cure for cronyism
+### ${++sectionCounter}. Capitalism is the cure for cronyism
 
 ${'  ' || `
 // TODO: Review new title.
