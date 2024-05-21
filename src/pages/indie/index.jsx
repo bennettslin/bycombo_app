@@ -153,10 +153,6 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
-${'  ' || `
-// TODO: Review. 
-`}
-
 As the first generation [whose elders](https://pitchfork.com/reviews/albums/184-i-get-wet) loved all the same genres, Millennials rebelled in the only way possible: by admiring the most [*middling* works](https://pitchfork.com/reviews/albums/16836-i-get-wet). As a result, today's artists *don't* need to be the best. But… can't they try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
@@ -235,13 +231,17 @@ What happens now, then, if you aspire to be *most* worthy? Why, you can join BYC
 
 ### ${++sectionCounter}. Modern audiences leave quietly
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Imagine hearing this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you*— to watch me. And yet, I don't even make minimum wage… while superstars earn millions. That's not fair! So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who'd object?"
 
 Um… *we* would— the audience! We only want the *best* athletes— and it's the talent scout's job to find them, not ours. If "indie sports" took over, then, we'd turn to serial dramas or video games, and only come back for "classic sports" reruns. Everyone gets this, right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. Which means today's pro-*artist* way of thinking might just be a generational fluke… and *not* the future of music.
 
-Still, how do we become pro-*audience* once more? It's simple: We admit that audiences only want the *best* artists! And so BYCombo tells you to make the best *art*— namely, what *you'd* care to study or enjoy most if you were anyone else, choosing from all that's come before and all else that's out there.
+Still, how do we become pro-*audience* once more? It's simple: We admit that audiences only want the *best* artists! And so BYCombo tells you to make the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, given all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -266,10 +266,6 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a Pulitzer Prize! Now BYCombo gives your band the same chances.
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
-
-${'  ' || `
-// TODO: Review new title.
-`}
 
 While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
