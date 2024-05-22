@@ -67,16 +67,14 @@ If we can't resist, though— let's revolt! How? We… wait. See, indie rock has
 Sure enough, Gen Z now sees what the older generations see: Indie rock is their hair metal— making the *next* revolution their grunge! Which is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that an entrepreneur will try to disrupt the rock market.
 
 ${'  ' || `
-// TODO: Revise.
-
-Mention business partners, discerning listeners, and future historians in bold text.
+// TODO: Review.
 `}
 
-This "Dr. Dre of rock" would love to partner with bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for a counterculture to bring back the *elitist* gatekeepers to enforce a steep *cost* of entry. And here's where BYCombo comes in!
+This "Dr. Dre of rock" would love to partner with bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for a counterculture to enforce a steep *cost* of entry. And here's where BYCombo comes in!
 
-**To have their demo shown in BYCombo's registry, a band must sacrifice a serious chunk of lifetime to advance the art form.**
+**To have their demo shown in BYCombo's registry, a band must sacrifice a serious chunk of lifetime. In doing so, they'll earn the trust of business partners, discerning listeners, and future historians alike.**
 
-So picture a hundred BYCombo bands, all of them committed to making the historically canonical works of our times. This is the *final* step to reviving interdependence— the next revolution in rock history!
+So picture a *hundred* BYCombo bands, all of them committed to making the historically canonical works of our times. This is the *final* step to reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
