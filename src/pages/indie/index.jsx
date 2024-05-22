@@ -81,7 +81,11 @@ For instance, even after Goatse proved that the Internet caters to the lowest co
 
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to "own" the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume their music is bad!
 
-As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because it nurses no grievances.
+${'  ' || `
+// TODO: Review.
+`}
+
+As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can now join a movement that's willing to ask— because we nurse no grievances.
 
 ### ${++sectionCounter}. Populism trampled the underground
 
@@ -413,7 +417,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.theguardian.com/music/2019/feb/14/the-ryan-adams-allegations-are-the-tip-of-an-indie-music-iceberg), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, no revolution can ever again *begin*, because the means to fair compensation only get settled at the *end*.
+Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.theguardian.com/music/2019/feb/14/the-ryan-adams-allegations-are-the-tip-of-an-indie-music-iceberg), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it guarantees that structural rules, which promise fair compensation, can *never* be broken.
 
 If rock is to be saved, then, bands *must* be allowed to self-sacrifice for the art form once again. Yes, by relying on business partners, they leave themselves open to exploitation— and by defending the need for *elitist* gatekeepers, they pose a danger to *other* artists. But once the art form stagnates, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
 
