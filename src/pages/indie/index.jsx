@@ -231,17 +231,17 @@ What happens now, then, if you aspire to be *most* worthy? Why, you can join BYC
 
 ### ${++sectionCounter}. Modern audiences leave quietly
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Imagine hearing this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you*— to watch me. And yet, I don't even make minimum wage… while superstars earn millions. That's not fair! So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who'd object?"
 
 Um… *we* would— the audience! We only want the *best* athletes— and it's the talent scout's job to find them, not ours. If "indie sports" took over, then, we'd turn to serial dramas or video games, and only come back for "classic sports" reruns. Everyone gets this, right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. Which means today's pro-*artist* way of thinking might just be a generational fluke… and *not* the future of music.
 
-Still, how do we become pro-*audience* once more? It's simple: We admit that audiences only want the *best* artists! And so BYCombo tells you to make the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, given all that's come before and all else that's out there.
+${'  ' || `
+// TODO: Review.
+`}
+
+Still, how do we become pro-*audience* once more? It's simple: We admit that audiences only want the *best* artists! And so BYCombo tells you to make the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -415,7 +415,11 @@ It's because we only pine for past artists who self-sacrificed to advance the ar
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.theguardian.com/music/2019/feb/14/the-ryan-adams-allegations-are-the-tip-of-an-indie-music-iceberg), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, no revolution can ever *begin*, because the means to fair compensation only get settled at the *end*.
 
-So to save rock, we *have* to stop silencing bands who self-sacrifice to advance the art form. Yes, by working with business partners, they leave themselves open to exploitation— and by defending the need for elitist gatekeepers, they pose a danger to *other* artists. But once the art form stagnates, what's left to protect? After Empowerment, then… comes the Age of Martyrdom.
+${'  ' || `
+// TODO: Review.
+`}
+
+So to save rock, we must stop punishing bands who self-sacrifice to advance the art form. Yes, by working with business partners, they leave themselves open to exploitation— and by defending the need for *elitist* gatekeepers, they pose a danger to *other* artists. But once the art form stagnates, what's left to protect? After Empowerment, then… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
 `,

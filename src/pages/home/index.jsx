@@ -72,7 +72,7 @@ ${'  ' || `
 Mention business partners, discerning listeners, and future historians in bold text.
 `}
 
-This "Dr. Dre of rock" would love to partner with bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for *elitist* gatekeepers to enforce a steep *cost* of entry. And here's where BYCombo comes in!
+This "Dr. Dre of rock" would love to partner with bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for a counterculture to bring back the *elitist* gatekeepers to enforce a steep *cost* of entry. And here's where BYCombo comes in!
 
 **To have their demo shown in BYCombo's registry, a band must sacrifice a serious chunk of lifetime to advance the art form.**
 
