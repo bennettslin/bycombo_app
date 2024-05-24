@@ -81,10 +81,6 @@ For instance, even after Goatse proved that the Internet caters to the lowest co
 
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to "own" the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume their music is bad!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
 
 ### ${++sectionCounter}. Populism trampled the underground
