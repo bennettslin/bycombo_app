@@ -16,58 +16,28 @@ const Component = () => (
 # ${TITLE}
 
 ${'  ' || `
-// TODO: Keep on working on.
-Talk more about trust in second paragraph, so that last paragraph can simply restate it.
+// TODO: Keep working on.
 
-The *only* people who can undo the damage caused by indie rock are interdependent artists.
+Have one final paragraph that mentions choice of newsletter, or just visiting registry of demos directly. State that they can contact artist directly, and there are no fees.
 `}
 
 As an entrepreneur, would you love to partner with today's artists— if only they didn't waste so much effort on the *hustle*? After all, the Beatles relied on managers from [day one](https://en.wikipedia.org/wiki/Allan_Williams), allowing them to focus entirely on the *craft*. And if history's greatest rock band was a paragon of *inter*-dependence… then how good can any *indie*-pendent artist ever be?
 
-Well, there's good news! The artists trying to make the best art today *don't* wish to be indie; they *do* want others to handle the business side of things. They just haven't had a way to make themselves known… until now, that is. Because BYCombo's mission is to let entrepreneurs like you partner with history-making bands once more! Here's how:
+Well, there's good news! The artists trying to make the best art today *don't* want to be indie; they *do* want others to handle the business side of things. They just haven't had a way to make themselves known to you… until now. Because BYCombo's mission is to let entrepreneurs like you partner with history-making bands once more! Here's how:
 
 **Every BYCombo band promises to spend *all* their time and energy making the best art, for a serious chunk of lifetime— while remaining dependent on business partners to get heard by the public.**
 
-Next paragraph:
-Trust, with link to [mutual reliance](/indie#mutual-reliance-creates-wealth).
-Demo. Mention newsletter, or just visiting registry directly. State that they can contact artist directly, and there are no fees.
+To hear about the latest BYCombo bands, you can sign up for our newsletter or visit our public registry directly. And remember, you're free to contact them directly; there are no fees.
+
+### The Pareto principle of interdependence
+
+${'  ' || `
+// TODO: Keep working on.
+`}
                 `,
                 (
                     <MailingList isWide />
                 ),
-                `
-### Band managers as bandmates
-
-${'  ' || `
-// TODO: Keep working on this.
-
-Make clear that it's a proposal.
-
-I'm trying to attract influencers, so make it less about business acumen and more about… whatever they're proud of. People skills?
-
-Scraps:
-If indie artists are never the best, then why are there *any*? Here's a theory: Perhaps the ones who most love to be their own manager… are those who, in the past, would have been resigned to managing *others*. So indie rock *doesn't* help the next Beatles retain their earnings; it lets today's Brian Epsteins enjoy respect— and the spotlight— as artists *themselves*!
-
-Read the Brian Epstein book!
-
-But… will you also get to enjoy the spotlight? Yes! With BYCombo, you can be a full-fledged member of the band. 
-`}
-
-Perhaps a moment in the spotlight yourself would be nice— but indie rock only sees artists as the heroes, while all others who share in the earnings are villains. So what's an entrepreneur to do? Become an [artist yourself](/indie#disintermediation-is-a-middlemans-dream)?! Why, you can be valued for your business acumen— as a full-fledged member of the band you manage!
-
-(Explain that this is an experimental proposal). As such, you'll be given equal credit and royalties. And while there's no expectation for you to contribute artistically, any time you spend doing so will count toward your band's 25,000 hours.
-
-${'  ' || `
-// TODO: Describe plan.
-
-Also revise BY terms in light of the plan.
-
-Scraps:
-If you'd like to work for BYCombo in a paid administrative role, let us know what you have in mind. We're happy to get all the help we can!
-
-Feel free to ask any questions, and we'll answer them in a future FAQ page. We'd also love to hear suggestions for how we can improve. Thanks!
-`}
-                `,
             ],
         }}
     />
