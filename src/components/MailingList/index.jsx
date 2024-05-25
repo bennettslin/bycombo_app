@@ -25,7 +25,7 @@ const MailingList = ({ isWide }) => (
         <MailingListInputs />
         <div {...{ className: cx('font__finePrint') }}>
             {getFormattedText(
-                `We'll send out one email per month at most.`,
+                `We'll send out one newsletter per month at most.`,
             )}
         </div>
     </form>
