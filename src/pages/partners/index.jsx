@@ -25,7 +25,7 @@ Well, there's good news! The artists trying to make the best art today *don't* w
 
 **Each BYCombo band promises to sacrifice *all* their time and energy, for a serious chunk of lifetime, on a demo that advances the art form— while remaining dependent on business partners to get heard by the public.**
 
-To hear about the latest demos, you can sign up for our newsletter or visit our public registry. And remember, you're free to contact any of our bands directly; there are no fees whatsoever!
+To hear about our latest demos, you can sign up for the newsletter or visit our public registry. And remember, you're free to contact any of our bands directly; there are no fees whatsoever!
 
 ### The Pareto principle of interdependence
 
