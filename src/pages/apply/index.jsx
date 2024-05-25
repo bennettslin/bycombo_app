@@ -27,10 +27,6 @@ Most importantly, are you willing to defy indie rock's gatekeepers— its labels
 
 If so, then come be part of the interdependence revolution! We're looking for those who are reasonably skilled in one or more of the following roles:
 
-${'  ' || `
-// TODO: Review.
-`}
-
 * A rock musician: singer, guitarist, drummer…
 * A musician of any other stripe: composer, tabla player…
 * An artist of some other medium: cartoonist, web developer…
