@@ -8,11 +8,10 @@ const Component = () => (
     <Page
         {...{
             showContactEmail: true,
+            title: TITLE,
             metaTitle: TITLE,
             metaDescription: DESCRIPTION,
             body: `
-# ${TITLE}
-
 As an artist, do you sense that the indie camp has it all *backward*? Why do they force you to waste so much time and energy using online tools meant to empower you? Back when rock was interdependent, self-empowerment just came for free, once you'd built up enough talents.
 
 Furthermore, the only measure of empowerment is the size of an artist's fanbase. But the easiest way to gain fans here and now is to create *content*— which has no lasting value for *future* audiences. So if *you* plan to make art that lasts… you'll end up the biggest loser. Fortunately, with BYCombo, you can aim for the historical canon once more! Here's how:

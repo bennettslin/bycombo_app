@@ -9,12 +9,11 @@ const DESCRIPTION = `A public registry of interdependent rock bands.`
 const Component = () => (
     <Page
         {...{
+            title: TITLE,
             metaTitle: TITLE,
             metaDescription: DESCRIPTION,
             body: [
                 `
-# ${TITLE}
-
 Business partners, discerning listeners, and future historians:
 
 **To earn your trust, each band in BYCombo's public registry sacrificed a serious chunk of lifetime— at least 25,000 hours, or twelve full-time years!— on a demo that advances the art form.**

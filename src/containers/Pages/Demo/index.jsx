@@ -14,8 +14,8 @@ const DemoPage = ({
 }) => (
     <Page
         {...{
-            title: `${project} | ${band}`,
-            description: removeMarkdown(
+            metaTitle: `${project} | ${band}`,
+            metaDescription: removeMarkdown(
                 getFormattedText(description),
             ),
             body: [
