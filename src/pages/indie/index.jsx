@@ -85,13 +85,9 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 ### ${++sectionCounter}. Populism trampled the underground
 
-${'  ' || `
-// TODO: Review.
-`}
-
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the *people*— not by the *elites*." Well, actually… this is a revisionist explanation. Back then, the people and the elites were understood to be on the same side— the mainstream— while the underground sheltered those who *subverted* the people's will.
 
-In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they *didn't* sign to a major label. Yet unlike being underground, being indie *can* be a universal ideal, and so the indie camp declared that it *should* be— once this was made possible by the Internet. Now *any* artist who uses online tools to forgo the majors is considered indie… even one with mainstream tastes!
+In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they *didn't* sign to a major label. Yet unlike being underground, being indie *can* be a universal ideal— and so the indie camp declared that it *should* be, once this was made possible by the Internet. Now *any* artist who uses online tools to forgo the majors is considered indie… even one with mainstream tastes!
 
 But… given that *most* people belong to the mainstream, artists who cater to such tastes hold a winning advantage in building a fanbase on their own. As a result, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the *past*— while we're never shown what actual subversion would look like *today*— all is assumed to be well.
 
