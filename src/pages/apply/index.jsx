@@ -50,10 +50,6 @@ Of course, we're just getting started, so to thank you for your patience during 
 
 **Women, minorities, and other disadvantaged groups:**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 As a rock movement started by [a minority](/indie#hungry-outsiders-aim-for-the-canon), BYCombo was *conceived* to give you the interdependence you crave and [thrive on](/indie#interdependence-guards-against-prejudice)! We'll also aim for an equitable gender ratio in every band we assemble.
 
 **Artists of other mediums:**
