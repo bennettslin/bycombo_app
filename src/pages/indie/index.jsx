@@ -165,7 +165,11 @@ As the first generation [whose elders](https://pitchfork.com/reviews/albums/184-
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-It's obvious, then, why art was better in the past: Before the Internet, the *only* option was to try and be the best. Well… what if *you* went ahead and did just that? Add up the gains, subtract the costs, and the math is clear: You'd end up the biggest loser. Luckily, the only way now for *Gen Z* to rebel… is by admiring the most *excellent* works! And with BYCombo, they can know of yours.
+${'  ' || `
+// TODO: Review.
+`}
+
+It's obvious, then, why art was better in the past: Before the Internet, the *only* option was to try and be the best. Well… what if *you* went ahead and did just that? Add up the gains, subtract the costs, and the math is clear: You'd end up the biggest loser. Luckily, the only way for *Gen Z* to rebel… is by admiring the most *excellent* works! And now with BYCombo, they can know of yours.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -361,7 +365,11 @@ So yes, the arts have declined— but it *isn't* because the tech platforms list
 
 ### ${++sectionCounter}. Music recording is its own medium
 
-In a world flooded with content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— it would be *harder* to discover the best. So why is this every Romantic's go-to solution?!
+${'  ' || `
+// TODO: Review.
+`}
+
+In a world flooded with content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every Romantic's go-to solution?!
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by [making a demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
