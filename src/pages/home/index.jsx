@@ -61,7 +61,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-**As the first rock movement to believe its ideals to be universal, indie rock is also the first to lock down its rules for good. And thus, there's no historical precedent to show us how to resist— or even to assure us that we *can*.**
+**As the first rock movement to believe its ideals to be universal, indie rock is also the first to lock its rules in place. Which means there's no historical precedent to show us how to resist— or even to assure us that we *can*.**
 
 ### A hundred *Yearling's Bobtail*s
 

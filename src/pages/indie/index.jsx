@@ -17,10 +17,6 @@ By the '90s, the major labels were the clear "bad guys": They'd simply sign a hu
 
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the further you get by hustling. By making *every* artist hustle, then, the indies ensure that we hear the *best*. So if you hate it, well… what does that say about your works?"
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Thus, I was left to struggle in a world that *wouldn't* [speak out](https://archive.ph/zi0bL#selection-1415.0-1433.64) against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
 First, we raise *awareness*: Because "indie" means "good" to so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— the final stage of "indiefication." For instance, people will grumble that the majors no longer nurture talent, no longer take risks… unaware that this is how the indies have *always* worked! So if you just keep reading, hopefully I can set the record straight.
@@ -119,10 +115,6 @@ And yet, this obviously can't end well. We don't support artists of the *past*�
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](https://archive.today/JCAiL) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 For starters, stardom *isn't* caused by corporate greed, but by our own social nature. Since it's hard to say which songs are best, we end up just liking what others like— and they do the same! This makes popularity a complex system ruled by power laws, where any random boost can snowball into a winning advantage— which is how unworthy artists end up as superstars.
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as farm teams— as did those '90s alternative bands, who signed with the indies for this very reason!
@@ -161,13 +153,13 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
+${'  ' || `
+// TODO: Revise. Talk about elders trying to gatekeep these genres.
+`}
+
 As the first generation [whose elders](https://pitchfork.com/reviews/albums/184-i-get-wet) loved all the same genres, Millennials rebelled in the only way possible: by admiring the most [*middling* works](https://pitchfork.com/reviews/albums/16836-i-get-wet). As a result, today's artists don't *need* to be the best. But… can't they try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 It's obvious, then, why art was better in the past: Before the Internet, the *only* option was to try and be the best. Well… what if *you* went ahead and did just that? Add up the gains, subtract the costs, and the math is clear: You'd end up the biggest loser. Luckily, the only way for *Gen Z* to rebel… is by admiring the most *excellent* works! And now with BYCombo, they can know of yours.
 
@@ -349,7 +341,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So when the tech platforms arrived, their skills with numbers made them good guys as well. For this reason, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just for publicity!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
+So when the tech platforms arrived, their skills with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just for publicity!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
 
 In short, today's data-driven industry is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](https://archive.today/Ac46C#selection-865.0-873.93) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
@@ -364,10 +356,6 @@ Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to spr
 So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new Enlightenment, by which we finally work with our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help to usher it in.
 
 ### ${++sectionCounter}. Music recording is its own medium
-
-${'  ' || `
-// TODO: Review.
-`}
 
 In a world flooded with content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every Romantic's go-to solution?!
 
@@ -426,10 +414,6 @@ But let's swap "Sun" and "Earth" in this model: What if indiefication… actuall
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
 "Where's *our* Nirvana?" It's a question asked by today's young people. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As a result, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a sign of being exploited.
 
