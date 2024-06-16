@@ -154,10 +154,10 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
 ${'  ' || `
-// TODO: Revise. Talk about elders trying to gatekeep these genres.
+// TODO: Review.
 `}
 
-As the first generation [whose elders](https://pitchfork.com/reviews/albums/184-i-get-wet) loved all the same genres, Millennials rebelled in the only way possible: by admiring the most [*middling* works](https://pitchfork.com/reviews/albums/16836-i-get-wet). As a result, today's artists don't *need* to be the best. But… can't they try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
+As the first generation [whose elders](https://pitchfork.com/reviews/albums/184-i-get-wet) loved all the same genres, Millennials rebelled in the only way possible: by celebrating the most [*middling* works](https://pitchfork.com/reviews/albums/16836-i-get-wet). As a result, today's artists don't *need* to be the best. But… can't they try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
