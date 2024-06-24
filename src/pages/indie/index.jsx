@@ -127,7 +127,7 @@ Of course, the reverse is also true: Those who settle for a thousand true fans *
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not crabs in a bucket. But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
-Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… [other artists](https://archive.today/dKRD2#selection-925.36-925.486) come closest to seeing *today*.
+Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… [other artists](https://archive.ph/dKRD2#selection-927.36-927.486) come closest to seeing *today*.
 
 So to make history without achieving stardom, ignore the critics! Instead, your talents must inspire the envy of fellow *artists*. Which is why BYCombo includes you in a community of peers who'll keep your standards high.
 
@@ -410,6 +410,10 @@ But let's swap "Sun" and "Earth" in this model: What if indiefication… actuall
 It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As a result, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a sign of being exploited.
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.theguardian.com/music/2019/feb/14/the-ryan-adams-allegations-are-the-tip-of-an-indie-music-iceberg), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it guarantees that structural rules, which promise fair compensation, will *never* be broken.
+
+${'  ' || `
+// TODO: Revise. Doesn't really connect. Make it about outsiders.
+`}
 
 If rock is to be saved, then, bands *must* be allowed to self-sacrifice for the art form once again. Yes, by relying on business partners, they leave themselves open to exploitation— and by defending the need for *elitist* gatekeepers, they incur the wrath of *other* artists. But once the art form stagnates, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
 
