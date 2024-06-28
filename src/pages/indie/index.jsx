@@ -139,6 +139,10 @@ So I've long understood that, to belong in the canon next to the Beatles, my ban
 
 Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! So they're *not* helping to justify calling ours *the* rock canon… in which case, why would they belong in *the* Rock Hall?
 
+${'  ' || `
+// TODO: Revise. Mention that indie rock is now just another foreign canon.
+`}
+
 Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Timeless works have standalone appeal
@@ -201,9 +205,17 @@ Sadly, young people never question today's auto-Bizarro world, since it's all th
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
+${'  ' || `
+// TODO: Revise. Include section, don't be fooled…
+`}
+
 Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
 Simply put, indie rock is widely seen as a do-it-yourself movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
+
+${'  ' || `
+// TODO: Review. Reconsider libertarian link.
+`}
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.pewresearch.org/short-reads/2014/08/25/in-search-of-libertarians/) of this belief.
 
@@ -314,6 +326,10 @@ Every Black artist would stare glumly at us. Why? Because, back then, they *need
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because, if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
+
+${'  ' || `
+// TODO: Revise. Make more about, who we root for determines what we value.
+`}
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't poptimism defeat rockism a decade ago? Well, no. It was the *indie* camp who killed rock as a genre. Then, believing the death to be natural, many in this camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
