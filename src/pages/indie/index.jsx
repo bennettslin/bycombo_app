@@ -157,10 +157,6 @@ As the first generation [whose elders](https://pitchfork.com/reviews/albums/184-
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 It's obvious, then, why art was better in the past: Before the Internet, the *only* option was to try and be the best. Well… what if *you* went ahead and did just that? Add up the gains, subtract the costs, and the math is clear: You'd end up the biggest loser. Luckily, the way to rebel now for *Gen Z*… is to embrace the most *excellent* works! And with BYCombo, they can know of yours.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
