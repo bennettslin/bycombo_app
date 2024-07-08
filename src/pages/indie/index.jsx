@@ -35,7 +35,11 @@ A counterculture shelters dangerous ideas, yet we haven't had one for some time.
 
 **Why the historical canon?**
 
-When fans charitably support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must consciously *aim* to do so— because without this intent, they'll naturally settle for being content creators instead.
+${'  ' || `
+// TODO: Review.
+`}
+
+When fans charitably support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must consciously *aim* to do so— because without this serious intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
@@ -153,10 +157,6 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
-${'  ' || `
-// TODO: Review.
-`}
-
 As the first generation [whose elders](https://pitchfork.com/reviews/albums/184-i-get-wet) loved all the same genres, Millennials rebelled in the only way possible: by embracing the most [*middling* works](https://pitchfork.com/reviews/albums/16836-i-get-wet). As a result, today's artists don't *need* to be the best. But… can't they try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
@@ -165,7 +165,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-It's obvious, then, why art was better in the past: Before the Internet, the *only* option was to try and be the best. Well… what if *you* went ahead and did just that? Add up the gains, subtract the costs, and the math is clear: You'd end up the biggest loser. Luckily, the only way for *Gen Z* to rebel… is by embracing the most *excellent* works! And now with BYCombo, they can know of yours.
+It's obvious, then, why art was better in the past: Before the Internet, the *only* option was to try and be the best. Well… what if *you* went ahead and did just that? Add up the gains, subtract the costs, and the math is clear: You'd end up the biggest loser. Luckily, the only way for *Gen Z* to rebel now… is to embrace the most *excellent* works! And with BYCombo, they can know of yours.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -424,10 +424,10 @@ It's because we only pine for past artists who self-sacrificed to advance the ar
 Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](https://www.theguardian.com/music/2019/feb/14/the-ryan-adams-allegations-are-the-tip-of-an-indie-music-iceberg), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it guarantees that structural rules, which promise fair compensation, will *never* be broken.
 
 ${'  ' || `
-// TODO: Revise. Maybe do make it about hungry outsiders.
+// TODO: Review.
 `}
 
-If rock is to be saved, then, we *must* allow bands who self-sacrifice for the art form to be heard. Yes, by relying on business partners, they leave themselves open to exploitation— and by defending the need for *elitist* gatekeepers, they incur the wrath of *other* artists. But once the art form stagnates, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
+If rock is to be saved, then, we must *stop* silencing bands who self-sacrifice for the art form. Yes, by needing business partners, they leave themselves open to exploitation— and by defending *elitist* gatekeepers, they incur the wrath of *other* artists. But once the art form stagnates, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
 `,
