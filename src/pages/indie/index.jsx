@@ -153,7 +153,11 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
-As the first generation [whose elders](https://pitchfork.com/reviews/albums/184-i-get-wet) loved all the same genres, Millennials rebelled in the only way possible: by embracing the most [*middling* works](https://pitchfork.com/reviews/albums/16836-i-get-wet). As a result, today's artists don't *need* to be the best. But… can't they try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
+${'  ' || `
+// TODO: Review.
+`}
+
+Millennials were the first generation [whose elders](https://pitchfork.com/reviews/albums/184-i-get-wet) accepted every genre— and as such, they rebelled in the only way possible: by embracing with irony the most [*middling* works](https://pitchfork.com/reviews/albums/16836-i-get-wet). As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine the options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
@@ -161,7 +165,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-It's obvious, then, why art was better in the past: Before the Internet, the *only* option was to try and be the best. Well… what if *you* went ahead and did just that? Add up the gains, subtract the costs, and the math is clear: You'd end up the biggest loser. Luckily, the only way for *Gen Z* to rebel now… is to embrace the most *excellent* works! And with BYCombo, they can know of yours.
+It's obvious, then, why art was better before the Internet: The *only* option was to try and be the best. Still… what if *you* went ahead and did just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. Luckily, the only way for *Gen Z* to rebel now… is to embrace with sincerity the most *excellent* works! And with BYCombo, they can know of yours.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -364,10 +368,10 @@ To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once c
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I cobbled together a band, and we put on a show for one of them that was… a bit sloppy, given what little time my new bandmates had to learn the parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
 ${'  ' || `
-// TODO: Revise. Last sentence, meaning is more clear right away if order is reversed.
+// TODO: Review.
 `}
 
-Thus I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a rock band at all! Because, given the perks of being a lone content creator, in a world that now prefers pop— who would opt to be *anyone's* bandmate, let alone *yours*?
+Thus I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a rock band at all! Because who would opt to be *anyone's* bandmate, let alone *yours*— with all the perks of being a lone content creator, in a world that now favors pop?
 
 But what makes the indie camp *especially* short-sighted is this: Recordings capture what shows can't. In other words, they're two distinct mediums— much like cinema and theater! So ignore those who insist that "real" artists start out by playing live. With BYCombo, you can help to usher in a revival of recorded music… just like the one I foresaw two decades ago.
 
@@ -421,17 +425,13 @@ But let's swap "Sun" and "Earth" in this model: What if indiefication… actuall
 
 It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As a result, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a sign of being exploited.
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](http://archive.today/20240709/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it guarantees that structural rules, which promise fair compensation, will *never* be broken.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-If rock is to be saved, then, we must *stop* silencing bands who self-sacrifice for the art form. Yes, by needing business partners, they leave themselves open to exploitation— and by defending *elitist* gatekeepers, they incur the wrath of *other* artists. But once the art form stagnates, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
+If rock is to be saved, then, we must stop silencing bands who self-sacrifice for the art form. Yes, by needing business partners, they leave themselves open to exploitation— and by preferring a world of *elitist* gatekeepers, they incur the wrath of *middling* artists. But once the art form stagnates, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
 `,
