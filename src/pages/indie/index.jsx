@@ -209,15 +209,17 @@ Sadly, young people never question today's auto-Bizarro world, since it's all th
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
-${'  ' || `
-// TODO: Revise. Include section, don't be fooled…
-`}
-
 Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
 Simply put, indie rock is widely seen as a do-it-yourself movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](http://archive.today/20240511/https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#selection-5383.0-5383.209) of this belief.
+
+${'  ' || `
+// TODO: Review.
+`}
+
+By the way, don't be fooled by those who insist that getting heard isn't a competition. They still want to compete— just on terms more favorable to them and less obvious to others: being skilled at social media, having insider connections, benefiting from legacy institutions in the past… and so forth.
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to suck it up and try harder. But with BYCombo, there's now an opposition party that upholds the interdependence you want— out of a shared love for the craft.
 
