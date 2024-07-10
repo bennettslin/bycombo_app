@@ -157,7 +157,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Millennials were the first generation [whose elders](https://pitchfork.com/reviews/albums/184-i-get-wet) accepted every genre— and as such, they rebelled in the only way possible: by embracing with irony the most [*middling* works](https://pitchfork.com/reviews/albums/16836-i-get-wet). As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine the options.
+Millennials were the first generation [whose elders](https://pitchfork.com/reviews/albums/184-i-get-wet) listened to every genre— and as such, they rebelled in the only way possible: by ironically embracing the most [*middling* works](https://pitchfork.com/reviews/albums/16836-i-get-wet). As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine the options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
@@ -165,7 +165,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-It's obvious, then, why art was better before the Internet: The *only* option was to try and be the best. Still… what if *you* went ahead and did just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. Luckily, the only way for *Gen Z* to rebel now… is to embrace with sincerity the most *excellent* works! And with BYCombo, they can know of yours.
+It's obvious, then, why art was better before the Internet: The *only* option was to try and be the best. So… what if *you* went ahead and did just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. Luckily, the only way for *Gen Z* to rebel… is by sincerely embracing the most *excellent* works! And now with BYCombo, they can know of yours.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -219,7 +219,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-By the way, don't be fooled by those who insist that getting heard isn't a competition. They still want to compete— just on terms more favorable to them and less obvious to others: being skilled at social media, having insider connections, benefiting from legacy institutions in the past… and so forth.
+By the way, don't be fooled by anyone who insists that getting heard isn't a competition. They still want to compete— just on terms more favorable to them and less obvious to others: being skilled at social media, having insider connections, benefiting from legacy institutions in the past… and so forth.
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to suck it up and try harder. But with BYCombo, there's now an opposition party that upholds the interdependence you want— out of a shared love for the craft.
 
@@ -333,6 +333,10 @@ Perhaps my arguments against indie rock seem moot now. After all, didn't poptimi
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's East European immigrants.
 
+${'  ' || `
+// TODO: Revise. Make point about who you root for determining what you value?
+`}
+
 In a world where outsiders try much harder, to be much better, both indie rock and poptimism protect the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
@@ -433,7 +437,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-If rock is to be saved, then, we must stop silencing bands who self-sacrifice for the art form. Yes, by needing business partners, they leave themselves open to exploitation— and by preferring a world of *elitist* gatekeepers, they incur the wrath of *middling* artists. But once the art form stagnates, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
+If rock is to be saved, then, we *have* to stop silencing bands who self-sacrifice for art's sake. Yes, by needing business partners, they leave themselves open to exploitation— and by calling for a world of *elitist* gatekeepers, they incur the wrath of *middling* artists. But once the art form stagnates, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
 `,
