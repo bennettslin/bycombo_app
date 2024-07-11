@@ -153,17 +153,9 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 
 ### ${++sectionCounter}. Excellence has a steep opportunity cost
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Millennials were the first generation [whose elders](https://pitchfork.com/reviews/albums/184-i-get-wet) embraced every genre— and as such, they rebelled in the only way possible: by ironically celebrating the most [*middling* works](https://pitchfork.com/reviews/albums/16836-i-get-wet). As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine the options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 It's obvious, then, why art was better before the Internet: The *only* option was to try and be the best. Still… what if *you* went ahead and did just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. Luckily, the only way now for *Gen Z* to rebel… is by sincerely celebrating the most *excellent* works! And with BYCombo, they can know of yours.
 
@@ -219,7 +211,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-By the way, don't be fooled by those who insist that getting heard isn't a competition. They still want to compete— just on terms more favorable to them and less obvious to others: having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth.
+(By the way, don't be fooled by those who insist that getting heard isn't a competition. They still want to compete— just on terms more favorable to them and less obvious to others: having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth.)
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to suck it up and try harder. But with BYCombo, there's now an opposition party that upholds the interdependence you want— out of a shared love for the craft.
 
@@ -432,10 +424,6 @@ But let's swap "Sun" and "Earth" in this model: What if indiefication… actuall
 It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As a result, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a sign of being exploited.
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](http://archive.today/20240709/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it guarantees that structural rules, which promise fair compensation, will *never* be broken.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 If rock is to be saved, then, we *have* to stop silencing bands who self-sacrifice for art's sake. Yes, by needing business partners, they leave themselves open to exploitation— and by siding with *elitist* gatekeepers, they incur the wrath of *middling* artists. But once the art form stagnates, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
 
