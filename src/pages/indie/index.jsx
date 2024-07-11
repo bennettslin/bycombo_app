@@ -291,7 +291,11 @@ But… suddenly indie rock's lack of helpers made perfect sense! If paid dues ar
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So the only newcomers they'll welcome are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717) of brokenness.
 
-Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands like yours surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
+${'  ' || `
+// TODO: Review.
+`}
+
+Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
