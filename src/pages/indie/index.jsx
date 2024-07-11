@@ -238,20 +238,20 @@ What happens now, then, if you aspire to be *most* worthy? Why, you can join BYC
 ### ${++sectionCounter}. Modern audiences leave quietly
 
 ${'  ' || `
-// TODO: Review. Make sure this updated version makes sense logically.
+// TODO: Review all of it. Make sure it all makes sense logically.
 `}
 
-Imagine hearing this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you*— to watch me. And yet, I don't even make minimum wage… while superstars earn millions. That's not fair! So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who would object?" Um… *we* would— the audience!
+Imagine hearing this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you*— to watch me. And yet, I don't even make minimum wage… while superstars earn millions. That's not fair! So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who would object?" Um, *we* would— the audience!
 
-The silent majority of us, anyway. We only want the *best* athletes— and it's the talent scout's job to find them, not ours. If "indie sports" took over, then, we'd turn to serial dramas or video games, and only come back for "classic sports" reruns. Everyone gets this, right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
+Well… the silent majority of us, anyway. We only want the *best* athletes— and it's the *talent scout's* job to find them. If "indie sports" took over, then, we'd turn to serial dramas or video games, and only come back for "classic sports" reruns. Everyone gets this, right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. Which means today's pro-*artist* way of thinking might just be a generational fluke… and *not* the future of music.
 
 ${'  ' || `
-// TODO: Revise. Make clear that it's not their job to know what the best means.
+// TODO: Review. This is the paragraph that was updated the most.
 `}
 
-Still, how do we become pro-*audience* once more? It's simple: We admit that the silent majority only wants the *best* artists! And so BYCombo tells you to make the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+Still, how do we become pro-*audience* once more? It's simple: We admit that the silent majority only wants the *best* artists— and *not* the job of finding them. So BYCombo can bring back the elitist gatekeepers, if *you'll* go back to making the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
