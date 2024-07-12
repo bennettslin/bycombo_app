@@ -259,13 +259,17 @@ ${'  ' || `
 // TODO: Review. This is the paragraph that was updated the most.
 `}
 
-Still, how do we become pro-*audience* once more? We admit that the silent majority only wants the *best* artists— and *not* the job of finding them. So BYCombo promises to bring back the elitist gatekeepers, if *you* can go back to making the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+Still, how do we become pro-*audience* once more? We admit that the silent majority only wants the *best* artists— and *not* the job of finding them. So BYCombo promises to bring back the elitist gatekeepers, if *you'll* go back to making the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they merely judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers work to *get* known— whether or not they *deserve* to be. As a result, the notion is now vulgar that anyone could ever be *made* known… simply by deserving to be.
+${'  ' || `
+// TODO: Review.
+`}
+
+In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a demo— even one with no fanbase, like Nick Drake. But indie rock taught Millennials to hustle, and hustlers work to get known— whether or not they *deserve* to be. As a result, the notion is now vulgar that anyone could ever be *made* known… simply by deserving to be.
 
 Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a pickup artist would. Sure, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists milking free labor out of [parasocial exchanges](https://exiledfan.substack.com/about)?
 
