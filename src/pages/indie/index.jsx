@@ -133,11 +133,19 @@ So to make history without achieving stardom, ignore the critics! Instead, your 
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
-Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://visualkei.fandom.com/wiki/Visual_Kei). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours *the* rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
+${'  ' || `
+// TODO: Review.
+`}
+
+Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://visualkei.fandom.com/wiki/Visual_Kei). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
-Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! So they're *not* helping to justify calling ours *the* rock canon… in which case, why would they belong in *the* Rock Hall?
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! So they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
 Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
@@ -211,7 +219,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-(By the way, don't be fooled by those who insist that getting heard isn't a competition. They still want to compete— just on terms more favorable to them and less obvious to others: having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth.)
+By the way, don't be fooled by those who insist that getting heard isn't a competition. They still want to compete— just on terms more favorable to them and less obvious to others: having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth.
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to suck it up and try harder. But with BYCombo, there's now an opposition party that upholds the interdependence you want— out of a shared love for the craft.
 
@@ -251,7 +259,7 @@ ${'  ' || `
 // TODO: Review. This is the paragraph that was updated the most.
 `}
 
-Still, how do we become pro-*audience* once more? It's simple: We admit that the silent majority only wants the *best* artists— and *not* the job of finding them. So BYCombo can bring back the elitist gatekeepers, if *you'll* go back to making the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+Still, how do we become pro-*audience* once more? We admit that the silent majority only wants the *best* artists— and *not* the job of finding them. So BYCombo promises to bring back the elitist gatekeepers, if *you* can go back to making the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
