@@ -239,7 +239,7 @@ ${'  ' || `
 
 Imagine hearing this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you*— to watch me. And yet, I don't even make minimum wage… while superstars earn millions. That's not fair! So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who would object?"
 
-Um, *we* would— the audience! The majority of us only want the *best* athletes, and it's the *talent scout's* job to find them. If "indie sports" took over, then, we'd turn to serial dramas or video games, and only come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music is [quietly leaving](https://youtu.be/Ag4iFa6E_yY)?!
+Um, *we* would— the audience! The majority of us only want the *best* athletes, and it's the *talent scout's* job to find them, not ours. If "indie sports" took over, then, we'd turn to serial dramas, video games… and maybe "classic sports" reruns. Everyone gets this, right? Okay. Well, indie rock *did* take over. So how come no one can figure out why the audience for music is [quietly leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. Which means today's pro-*artist* way of thinking might just be a generational fluke… and *not* the future of music.
 
@@ -247,7 +247,7 @@ ${'  ' || `
 // TODO: Review. This is the paragraph that was updated the most.
 `}
 
-Still, how do we become pro-*audience* once more? We admit that the silent majority only want the *best* artists, and it *isn't* their job to find them. So BYCombo promises to bring back the elitist gatekeepers, if *you'll* go back to making the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+Still, how do we become pro-*audience* once more? Why, we admit that the silent majority only want the *best* artists, and *not* the job of finding them! So BYCombo can bring back the elitist gatekeepers, if you'll make the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
