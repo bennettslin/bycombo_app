@@ -201,7 +201,11 @@ Sadly, young people never question today's auto-Bizarro world, since it's all th
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
-Want even more absurdity? A [wealthy artist](https://knowyourmeme.com/photos/2316349) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
+${'  ' || `
+// TODO: Review.
+`}
+
+Want even more absurdity? Any [rich artist](https://knowyourmeme.com/photos/2316349) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
 Simply put, indie rock is widely seen as a do-it-yourself movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
@@ -294,6 +298,10 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture; it's just that, being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
 
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except now it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
+
+${'  ' || `
+// TODO: Revise. Ironically, of hating the hustle?
+`}
 
 But… suddenly indie rock's lack of helpers made perfect sense! If paid dues are worthless outside the one culture that honors them, then of *course* those who've paid them will vote to keep the culture as it is— in all its brokenness.
 
