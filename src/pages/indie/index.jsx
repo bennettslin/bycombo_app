@@ -231,23 +231,19 @@ To complicate matters, pollution is a collective action problem: It's caused by 
 
 What happens now, then, if you aspire to be *most* worthy? Why, you can join BYCombo— a collective that verifies your worth from the top down! Because what's a more honest signal, than to sacrifice a serious chunk of lifetime?
 
-### ${++sectionCounter}. Modern audiences leave quietly
+### ${++sectionCounter}. The silent majority leaves quietly
 
 ${'  ' || `
-// TODO: Review all of it. Make sure it all makes sense logically.
+// TODO: Review all of it, including title.
 `}
 
 Imagine hearing this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you*— to watch me. And yet, I don't even make minimum wage… while superstars earn millions. That's not fair! So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who would object?"
 
-Um, *we* would— the audience! The majority of us only want the *best* athletes, and it's the *talent scout's* job to find them. If "indie sports" took over, then, we'd turn to serial dramas or video games, and only come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music is [quietly leaving](https://youtu.be/Ag4iFa6E_yY)?!
+Um, *we* would— the audience! The majority of us only want the *best* athletes, and it's the *talent scout's* job to find them. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
-But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. Which means today's pro-*artist* way of thinking might just be a generational fluke… and *not* the future of music.
+But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. Which means the pro-*artist* stance of today's loud minority might just be a generational fluke… and *not* the future of music.
 
-${'  ' || `
-// TODO: Review. This is the paragraph that was updated the most.
-`}
-
-Still, how do we become pro-*audience* once more? Why, we admit that the silent majority only want the *best* artists, and *not* the job of finding them! So BYCombo will bring back the elitist gatekeepers, if you'll make the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+Still, how do we become pro-*audience* once more? Why, we admit that the silent majority only wants the *best* artists— and *not* the job of finding them! So BYCombo will bring back the elitist gatekeepers, if you can make the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -286,6 +282,10 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture; it's just that, being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
 
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except now it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
+
+${'  ' || `
+// TODO: Revise. Consider hustle statement?
+`}
 
 But… suddenly indie rock's lack of helpers made perfect sense! If paid dues are worthless outside the one culture that honors them, then of *course* those who've paid them will vote to keep the culture as it is— in all its brokenness.
 
