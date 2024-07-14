@@ -227,9 +227,17 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
+${'  ' || `
+// TODO: Review. Consider again whether I want to talk about the prisoner's dilemma.
+
+To complicate matters, pollution puts us in a prisoner's dilemma. Self-interest in business partners versus in artists.
+
+Unfortunately, the indie camp's thinking is bottom up; under their watch, change can *only* take place at the grassroots. What happens now, then, if you aspire to be *most* worthy? Why, BYCombo can verify your worth from the top down! After all, what's a more honest signal, than that you sacrificed a serious chunk of lifetime?
+`}
+
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
 
-But this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone can fully invest in the signal itself— rather than in the worth being verified!
+But this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *less* worthy, who naturally invest more in the signal itself— rather than in the worth being verified!
 
 To complicate matters, pollution is a collective action problem: It's caused by individuals acting in their own interest— so the solution *has* to come from the top down, through centralized planning. But the indie camp's thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
