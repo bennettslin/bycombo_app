@@ -14,6 +14,14 @@ const Component = () => (
             metaDescription: DESCRIPTION,
             body: [
                 `
+${'  ' || `
+// TODO: Keep working on.
+`}
+
+To squeal or not? This is the classic prisoner's dilemma. Well, thanks to indie rock, today's artists face a similar decision: To hustle or not? We're all better off if *no* one hustles, of course— just like how it was in the past. But once *any* artist hustles, they'll hog up all the attention. Knowing this, then, *every* artist ends up hustling— to the detriment of the arts as a whole.
+
+BYCombo believes that solving this "artist's dilemma" is the key to ending the cultural stagnation of our times. In this respect
+
 Business partners, discerning listeners, and future historians:
 
 **To earn your trust, each band in BYCombo's public registry sacrificed a serious chunk of lifetime— at least 25,000 hours, or twelve full-time years!— on a demo that advances the art form.**
