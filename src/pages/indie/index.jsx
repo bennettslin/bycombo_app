@@ -233,10 +233,6 @@ What happens now, then, if you aspire to be *most* worthy? Why, you can join BYC
 
 ### ${++sectionCounter}. The silent majority leaves quietly
 
-${'  ' || `
-// TODO: Review all of it, including title.
-`}
-
 Imagine hearing this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you*— to watch me. And yet, I don't even make minimum wage… while superstars earn millions. That's not fair! So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who would object?"
 
 Um, *we* would— the audience! The majority of us only want the *best* athletes, and it's the *talent scout's* job to find them, not ours. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
@@ -402,10 +398,6 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of others doing the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became circles. This was a much simpler explanation— so over time, it became accepted as the correct one.
 
