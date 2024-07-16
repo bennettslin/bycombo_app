@@ -26,7 +26,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Most importantly, are you willing to defy the indie gatekeepers, along with their allies, the [poptimists](/indie#underdogs-are-supremacists-in-effect) and [tech platforms](/indie#fair-practices-follow-the-numbers)— even as they have the power to shut you out forever? Do you understand that, after sacrificing a serious chunk of your lifetime, you may be left with nothing but the work you've done, the talents you've built, and the friends you've made?
+Most importantly, are you willing to defy the indie gatekeepers and their allies, the [poptimists](/indie#underdogs-are-supremacists-in-effect) and [tech platforms](/indie#fair-practices-follow-the-numbers)— even as they have the power to shut you out forever? That is to say, do you understand that, after sacrificing a serious chunk of lifetime, you may be left with nothing but the work you've done, the talents you've built, and the friendships you've made?
 
 If so, then come be part of the interdependence revolution! We're looking for those who are reasonably skilled in one or more of the following roles:
 

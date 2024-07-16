@@ -101,7 +101,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to put out a radio hit, they can work on their own to go viral on the tech platforms— which reward the most popular works. So now they're chosen by the people, *not* by the elites… making them indie artists in good faith!
+But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to make a radio hit, they can work on their own to go viral on the tech platforms. So now they're chosen by the people, *not* by the elites… making them indie artists in good faith!
 
 All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo help you partner with the new elites!
 
@@ -344,10 +344,6 @@ So when the tech platforms arrived, their skills with numbers made them good guy
 In short, today's data-driven industry is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](http://archive.today/20240511/https://www.honest-broker.com/p/record-labels-dig-their-own-grave#selection-865.0-873.93) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want— which means they're the latest stage of what indie rock has *always* promised to deliver. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the people!
 
