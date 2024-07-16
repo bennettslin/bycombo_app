@@ -97,7 +97,11 @@ So what happens now, if *your* respect for the underground was always rooted in 
 
 There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
-But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to make a radio hit, they can work on their own to get picked up by the algorithms— which reward the most popular works. So now they're chosen by the people, *not* by the elites… making them indie artists in good faith!
+${'  ' || `
+// TODO: Review.
+`}
+
+But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to put out a radio hit, they can work on their own to go viral on the tech platforms— which reward the most popular works. So now they're chosen by the people, *not* by the elites… making them indie artists in good faith!
 
 All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo help you partner with the new elites!
 
@@ -341,7 +345,11 @@ In short, today's data-driven industry is what the [*indie* camp wanted](https:/
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
-Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.honest-broker.com/p/notes-toward-a-new-romanticism) against science, as algorithms take over the arts. And yet, algorithms simply reward what the people want— which means they're the latest stage of what indie rock has *always* promised to deliver. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the people!
+${'  ' || `
+// TODO: Review.
+`}
+
+Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want— which means they're the latest stage of what indie rock has *always* promised to deliver. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the people!
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups— who generate most creative ideas in the arts. And when in doubt, we imitate others— yet they have the same biases that we do. For revolutions to succeed, then, the research is clear: The elites *must* get involved, by spreading these creative ideas from the top down.
 
