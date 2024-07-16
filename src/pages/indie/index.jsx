@@ -385,6 +385,12 @@ Here's what I mean: If you *don't* hustle, the indie camp will reject you. But y
 
 Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won [their loyalty](https://xkcd.com/1601). And thus, they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
 
+${'  ' || `
+// TODO: Review.
+`}
+
+Plus, back when information was scarce, joining a scene— goth, punk— took commitment; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that enable such larping are to be *genuinely* opposed.
+
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of information, and now they [long for a return](http://archive.today/20240510/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Progress tracks aesthetics, not logistics
