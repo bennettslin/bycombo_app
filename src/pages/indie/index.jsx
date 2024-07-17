@@ -294,12 +294,10 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label on the strength of a demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
 
 ${'  ' || `
-// TODO: Revise? Give it some thought. It may be too much trouble, actually. Kind of leaning no, now.
-
-No, because every status hierarchy manifests in genuine respect for those at the top. In other words, "indieocracy" doesn't just describe a system of rule by those who get themselves known; it's a culture that instills genuine respect for the traits that got them there.
+// TODO: Review.
 `}
 
-But can't *today's* indies learn to sign the *next* On a Friday? No… A culture's status hierarchy is self-reinforcing and can't be upended from *within*. Think about it: Once status has to come from hustling, then hustlers become high status— and vice versa. So indie rock will always be an "indieocracy," as its name implies— a system ruled by those who get themselves known.
+But can't *today's* indies learn to sign the *next* On a Friday? No. Keep in mind, status speaks to us unconsciously. So the arts are likely to remain under "indieocracy"— or, rule by those who get themselves known— *not* because we cynically agree to conspire with those who win by its rules, but because we genuinely admire the traits that enable them to do so.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
