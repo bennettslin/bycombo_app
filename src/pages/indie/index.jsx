@@ -297,7 +297,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But can't *today's* indies learn to sign the *next* On a Friday? No. Keep in mind, status speaks to us unconsciously. So the arts will likely remain under "indieocracy"— or, rule by those who get themselves known— *not* because we cynically agree to conspire with those who win by its rules, but because we genuinely admire the traits that enable them to do so.
+But can't *today's* indies learn to sign the *next* On a Friday? No. Keep in mind that status speaks to us unconsciously. In other words, if the arts must now live under "indieocracy"— or, rule by those who get themselves known— it's *not* because we cynically agree to conspire with those who win by its rules; it's because we genuinely admire the traits that enable them to do so.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
