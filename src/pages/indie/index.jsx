@@ -115,10 +115,6 @@ And yet, this obviously can't end well. We don't support artists of the *past*�
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant [long tail](http://archive.today/20240709/https://www.wired.com/2004/10/tail/) decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our social nature. Since it's hard to say whose works are best, we often just like what others like— and they do the same! As a result, any [random boost](https://archive.today/20240719/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#selection-4593.0-4593.934) can snowball into a winning advantage— and *this* is how the unworthy end up as superstars.
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as farm teams— as did those '90s alternative bands, who signed with the indies for this very reason!
@@ -234,10 +230,10 @@ But this creates its own problems, doesn't it? Once a mark of verification is ea
 To complicate matters, pollution is a collective action problem: It's caused by individuals acting in their own interest— so the solution *has* to come from the top down, through centralized planning. But the indie camp's thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
 ${'  ' || `
-// TODO: Revise.
+// TODO: Review a few more times.
 `}
 
-Let's face it, you can't democratize a system whose "winners take all" simply by our social nature, rather than by design. Instead, all our efforts will lead to "indieocracy"— or, rule by those who get themselves known. So now what, if *you* were hoping to honestly signal your worth? Why, you can join BYCombo… and sacrifice a serious chunk of lifetime!
+Let's face it, a system can never be democratized if its "winners take all" due to our social nature rather than by design; any attempt to do so will only lead to "*indie*-ocracy"— or, rule by those who get themselves known. So what now, if *you* were planning to signal your worth to the elitist gatekeepers? Why, you can join BYCombo… and sacrifice a serious chunk of lifetime!
 
 ### ${++sectionCounter}. The silent majority leaves quietly
 
@@ -293,6 +289,7 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
+
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
 Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
@@ -308,6 +305,7 @@ ${'  ' || `
 But can't *today's* indies learn to sign the *next* On a Friday? No. Keep in mind, status plays out unconsciously. In other words, no one is conspiring to keep hobbyists down. Rather, it's simply in our nature to admire whichever traits enable whomever to win, by whatever the given rules are— and by indie rock's rules, the winning trait is an ability to hustle.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
+
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
@@ -381,10 +379,6 @@ Here's what I mean: If you *don't* hustle, the indie camp will reject you. But y
 
 Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won [their loyalty](https://xkcd.com/1601). And thus, they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Moreover, when information was scarce, joining a scene— goth, punk— took commitment; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of information, and now they [long for a return](http://archive.today/20240510/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
@@ -429,7 +423,7 @@ But let's swap "Sun" and "Earth" in this model: What if indiefication… actuall
 
 It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As a result, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a sign of being exploited.
 
-Yet self-empowerment comes with its own set of problems. For one, it's just [self-serving](http://archive.today/20240709/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [power-seeking](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it ensures that indie rock's structural rules, which promise fair compensation, can *never* be broken.
+Yet self-empowerment comes with its own set of problems. For one, it's just [power-seeking](http://archive.today/20240709/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [self-serving](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it ensures that indie rock's structural rules, which promise fair compensation, can *never* be broken.
 
 If rock is to be saved, then, we must *stop* silencing bands who self-sacrifice for art's sake. Yes, by needing business partners, they leave themselves open to exploitation— and by siding with *elitist* gatekeepers, they incur the wrath of *middling* artists. But once the art form stagnates, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
 
