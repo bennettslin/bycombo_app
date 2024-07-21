@@ -155,10 +155,6 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 
 Millennials were the first generation [whose elders](https://pitchfork.com/reviews/albums/184-i-get-wet) embraced every genre— and as such, they rebelled in the only way possible: by ironically celebrating the most [*middling* works](https://pitchfork.com/reviews/albums/16836-i-get-wet). As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. Or— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
 It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. Still… what if *you* were to do just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. Luckily, the only way now for *Gen Z* to rebel… is by sincerely celebrating the most *excellent* works! And with BYCombo, they can know of yours.
@@ -237,7 +233,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Let's face it, it's only possible to democratize a system if its "winners take all" by *design*— which excludes the arts. So what we're left with *isn't* democracy, but "*indie*-ocracy"— or, rule by those who get themselves known. Still… what if *your* dream, like mine, was to be *made* known? Then come join BYCombo and verify your worth… by sacrificing a serious chunk of lifetime!
+Let's face it, a system *can't* be made into a democracy if its "winners take all" simply due to our social nature, rather than by design. And so the arts have descended into "*indie*-ocracy"— or, rule by those who get themselves known. Still… what if *your* dream all along was to be *made* known? Then get ready to sacrifice a serious chunk of lifetime— and let BYCombo verify your worth!
 
 ### ${++sectionCounter}. The silent majority leaves quietly
 
@@ -314,10 +310,10 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label on the strength of a demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Not sure next two sentences logically follow from first two.
 `}
 
-But can't *today's* indies learn to sign the *next* On a Friday? No— keep in mind, status appeals to us unconsciously. That is to say, no one conspires to keep hustlers up, hobbyists down. Rather, our nature is to admire whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
+But can't *today's* indies learn to sign the *next* On a Friday? No— keep in mind, status appeals to us unconsciously. That is to say, no one conspires to keep hustlers up, hobbyists down. Our nature is simply to admire whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
