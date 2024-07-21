@@ -91,7 +91,11 @@ In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?
 
 But… given that *most* people belong to the mainstream, artists who cater to such tastes hold a winning advantage in building a fanbase on their own. As a result, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the *past*— while we're never shown what true subversion would look like *today*— all is assumed to be well.
 
-So what happens now, if *your* respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Why, BYCombo can expose you to *elitist* gatekeepers— the *only* chance left for subversive art in an online world!
+${'  ' || `
+// TODO: Review.
+`}
+
+So what happens now, if your respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Why, BYCombo can expose you to *elitist* gatekeepers— the *only* chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -223,17 +227,17 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
+${'  ' || `
+// TODO: Review.
+`}    
+
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
 
 But this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone can fully invest in the signal itself— rather than in the worth being verified!
 
 To complicate matters, pollution is a collective action problem: It's caused by individuals acting in their own interest— so the solution *has* to come from the top down, through centralized planning. But the indie camp's thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Let's face it, a system *can't* be democratized if its "winners take all" simply due to our social nature, rather than by design. Instead, any such effort will lead to "*indie*-ocracy"— or, rule by those who get themselves known. So now what, if *you* were hoping to be *made* known, by the elites? Then verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
+Let's face it, a system *can't* be democratized if its "winners take all" simply due to our social nature, rather than by design. Instead, any such effort will give us "*indie*-ocracy"— or, rule by those who get themselves known. So now what, if you were hoping to be *made* known, by the elites? Then verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
 
 ### ${++sectionCounter}. The silent majority leaves quietly
 
@@ -247,25 +251,17 @@ Still, how do we become pro-*audience* once more? Why, we admit that the silent 
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they merely judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-${'  ' || `
-// TODO: Review.
-`}
+In the past, the major labels did just that: Their talent scouts would sign any artist based on a demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they *deserve* to be. As a result, the notion is now vulgar that anyone who avoids the hustle could simply be *made* known… by deserving to be.
 
-In the past, the major labels did just that: Their talent scouts would sign any artist based on a demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get *themselves* known— whether or not they *deserve* to be. As a result, the notion is now vulgar that anyone who avoids the hustle could still be *made* known… simply by deserving to be.
-
-${'  ' || `
-// TODO: Review.
-`}
-
-Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle; you tried a few times, and it made you feel awful— like being a pickup artist would. Sure, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists milking free labor out of [parasocial engagement](https://exiledfan.substack.com/about)?
+Let's imagine, though, that you *refuse* to hustle. You've tried it several times already, and it felt awful— like being a pickup artist would. Because, sure, such approaches can work… but we shouldn't *want* them to! And if women have learned to guard against negging, then why wouldn't fans do the same against artists milking free labor out of [parasocial attachments](https://exiledfan.substack.com/about)?
 
 So instead, you aim to be what a future audience— or romantic partner!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 But why would the next generation side with past gatekeepers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 
