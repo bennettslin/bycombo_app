@@ -230,10 +230,10 @@ But this creates its own problems, doesn't it? Once a mark of verification is ea
 To complicate matters, pollution is a collective action problem: It's caused by individuals acting in their own interest— so the solution *has* to come from the top down, through centralized planning. But the indie camp's thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Let's face it, a system can never be democratized if its "winners take all" due to our social nature rather than by design; any attempt to do so will only lead to "*indie*-ocracy"— or, rule by those who get themselves known. So what now, if *you* were planning to signal your worth to the elitist gatekeepers? Why, you can join BYCombo… and sacrifice a serious chunk of lifetime!
+So what we're left with in the arts *isn't* democracy, but "*indie*-ocracy"— or, rule by those who get themselves known. Still… what if *your* dream all along was to be *made* known? Then come join BYCombo, and verify your worth to the elitist gatekeepers… by sacrificing a serious chunk of lifetime!
 
 ### ${++sectionCounter}. The silent majority leaves quietly
 
@@ -249,9 +249,17 @@ Still, how do we become pro-*audience* once more? Why, we admit that the silent 
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they merely judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-In the past, the major labels did just that: Their talent scouts would sign any artist based on a demo— even one with no fanbase, like Nick Drake. But indie rock told Millennials to hustle, and hustlers work to get themselves known— whether or not they *deserve* to be. As a result, the notion is now vulgar that anyone could ever be *made* known… simply by deserving to be.
+${'  ' || `
+// TODO: Review. Make sure it's consistent with other changes.
+`}
 
-Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle. The thought makes you feel awful, like being a pickup artist would. Sure, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists milking free labor out of [parasocial engagement](https://exiledfan.substack.com/about)?
+In the past, the major labels did just that: Their talent scouts would sign any artist based on a demo— even one with no fanbase, like Nick Drake. But indie rock told Millennials to get themselves known— whether or not they *deserve* to be. As a result, the notion is now vulgar that anyone who avoids the hustle could still be *made* known… simply by deserving to be.
+
+${'  ' || `
+// TODO: Review.
+`}
+
+Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle; you tried a few times, and it made you feel awful, like being a pickup artist would. Sure, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists milking free labor out of [parasocial engagement](https://exiledfan.substack.com/about)?
 
 So instead, you aim to be what a future audience— or romantic partner!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
@@ -289,7 +297,6 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never paid indie rock's dues myself.
 
-
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
 Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
@@ -299,13 +306,12 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label on the strength of a demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
 
 ${'  ' || `
-// TODO: Revise. This can be written better, in a way that flows logically and coherently. Mention that it doesn't go against anyone's values?
+// TODO: Review.
 `}
 
-But can't *today's* indies learn to sign the *next* On a Friday? No. Keep in mind, status plays out unconsciously. In other words, no one is conspiring to keep hobbyists down. Rather, it's simply in our nature to admire whichever traits enable whomever to win, by whatever the given rules are— and by indie rock's rules, the winning trait is an ability to hustle.
+But can't *today's* indies learn to sign the *next* On a Friday? No. Keep in mind, status plays out unconsciously. In other words, no one *actively* conspires to keep the arts under "indieocracy." Rather, our nature is to *genuinely* admire whichever traits enable whomever to win, by whatever the rules are— and if the rule is to get yourself known, then the winning trait is an ability to hustle.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
-
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
