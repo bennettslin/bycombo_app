@@ -155,7 +155,11 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 
 Millennials were the first generation [whose elders](https://pitchfork.com/reviews/albums/184-i-get-wet) embraced every genre— and as such, they rebelled in the only way possible: by ironically celebrating the most [*middling* works](https://pitchfork.com/reviews/albums/16836-i-get-wet). As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
 
-They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. *Or*— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
+${'  ' || `
+// TODO: Review.
+`}
+
+They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. Or— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
 It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. Still… what if *you* were to do just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. Luckily, the only way now for *Gen Z* to rebel… is by sincerely celebrating the most *excellent* works! And with BYCombo, they can know of yours.
 
@@ -230,10 +234,10 @@ But this creates its own problems, doesn't it? Once a mark of verification is ea
 To complicate matters, pollution is a collective action problem: It's caused by individuals acting in their own interest— so the solution *has* to come from the top down, through centralized planning. But the indie camp's thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Maybe put back the statement about "winner take all"?
 `}
 
-So what we're left with in the arts *isn't* democracy, but "*indie*-ocracy"— or, rule by those who get themselves known. Still… what if *your* dream all along was to be *made* known? Then come join BYCombo, and verify your worth to the elitist gatekeepers… by sacrificing a serious chunk of lifetime!
+So what we're left with in the arts *isn't* democracy, but "*indie*-ocracy"— or, rule by those who get themselves known. Still… what if *your* dream, like mine, was to be *made* known? Then come join BYCombo and verify your worth… by sacrificing a serious chunk of lifetime!
 
 ### ${++sectionCounter}. The silent majority leaves quietly
 
@@ -250,20 +254,24 @@ Still, how do we become pro-*audience* once more? Why, we admit that the silent 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they merely judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
 ${'  ' || `
-// TODO: Review. Make sure it's consistent with other changes.
+// TODO: Review.
 `}
 
-In the past, the major labels did just that: Their talent scouts would sign any artist based on a demo— even one with no fanbase, like Nick Drake. But indie rock told Millennials to get themselves known— whether or not they *deserve* to be. As a result, the notion is now vulgar that anyone who avoids the hustle could still be *made* known… simply by deserving to be.
+In the past, the major labels did just that: Their talent scouts would sign any artist based on a demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get *themselves* known— whether or not they *deserve* to be. As a result, the notion is now vulgar that anyone who avoids the hustle could still be *made* known… simply by deserving to be.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle; you tried a few times, and it made you feel awful, like being a pickup artist would. Sure, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists milking free labor out of [parasocial engagement](https://exiledfan.substack.com/about)?
+Let's imagine, though, that as a musician devoted to your craft, you *refuse* to hustle; you tried a few times, and it made you feel awful— like being a pickup artist would. Sure, this approach can work… but *should* it? And if women have learned to guard against negging, then why wouldn't fans do the same against artists milking free labor out of [parasocial engagement](https://exiledfan.substack.com/about)?
 
 So instead, you aim to be what a future audience— or romantic partner!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
-But why would Gen Z— and beyond— side with past gatekeepers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
+${'  ' || `
+// TODO: Review.
+`}
+
+But why would the next generation side with past gatekeepers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
@@ -309,7 +317,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But can't *today's* indies learn to sign the *next* On a Friday? No. Keep in mind, status plays out unconsciously. In other words, no one *actively* conspires to keep the arts under "indieocracy." Rather, our nature is to *genuinely* admire whichever traits enable whomever to win, by whatever the rules are— and if the rule is to get yourself known, then the winning trait is an ability to hustle.
+But can't *today's* indies learn to sign the *next* On a Friday? No— keep in mind, status appeals to us unconsciously. That is to say, no one conspires to keep hustlers up, hobbyists down. Rather, our nature is to admire whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 

@@ -23,7 +23,11 @@ Except… here's the problem: These tools only offer an advantage over other art
 
 And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if you're a band trying to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet in my experience, few others sympathize. Well, how about a truce?
 
-***Yes*— since rules are made to be followed, bands who refuse to empower themselves can't complain about being punished. *But*— breaking the rules is how rock history gets made! So let's not shut them out either.**
+${'  ' || `
+// TODO: Review.
+`}
+
+**Yes— since rules are made to be followed, bands who refuse to empower themselves can't complain about being punished. But— breaking the rules is how rock history gets made! So let's not shut them out either.**
 
 ### The outsider's dilemma
 
