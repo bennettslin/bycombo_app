@@ -234,10 +234,10 @@ But this creates its own problems, doesn't it? Once a mark of verification is ea
 To complicate matters, pollution is a collective action problem: It's caused by individuals acting in their own interest— so the solution *has* to come from the top down, through centralized planning. But the indie camp's thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
 ${'  ' || `
-// TODO: Revise. Maybe put back the statement about "winner take all"?
+// TODO: Review.
 `}
 
-So what we're left with in the arts *isn't* democracy, but "*indie*-ocracy"— or, rule by those who get themselves known. Still… what if *your* dream, like mine, was to be *made* known? Then come join BYCombo and verify your worth… by sacrificing a serious chunk of lifetime!
+Let's face it, it's only possible to democratize a system if its "winners take all" by *design*— which excludes the arts. So what we're left with *isn't* democracy, but "*indie*-ocracy"— or, rule by those who get themselves known. Still… what if *your* dream, like mine, was to be *made* known? Then come join BYCombo and verify your worth… by sacrificing a serious chunk of lifetime!
 
 ### ${++sectionCounter}. The silent majority leaves quietly
 
