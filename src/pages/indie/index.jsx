@@ -233,7 +233,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Let's face it, a system *can't* be made into a democracy if its "winners take all" simply due to our social nature, rather than by design. And so the arts have descended into "*indie*-ocracy"— or, rule by those who get themselves known. Still… what if *your* dream all along was to be *made* known? Then get ready to sacrifice a serious chunk of lifetime— and let BYCombo verify your worth!
+Let's face it, a system *can't* be democratized if its "winners take all" simply due to our social nature, rather than by design. Instead, any such effort will lead to "*indie*-ocracy"— or, rule by those who get themselves known. So now what, if *you* were hoping to be *made* known, by the elites? Then verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
 
 ### ${++sectionCounter}. The silent majority leaves quietly
 
