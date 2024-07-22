@@ -233,7 +233,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Instead of democracy, then, they gave us "indieocracy"— or, rule by those who hustle to get themselves known. So what now, if your plan all along was to be *made* known, by the elites? Why, you can verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
+So instead of democracy, they gave us "indieocracy"— or, rule by those who hustle to get themselves known. What now, then, if your hope all along was to be *made* known, by the elites? Why, you can verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
 
 ### ${++sectionCounter}. The silent majority leaves quietly
 
