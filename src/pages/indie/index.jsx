@@ -127,7 +127,11 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 
 ### ${++sectionCounter}. History is made through peer review
 
-Of course, the reverse is also true: Those who settle for a thousand true fans *won't* try to make the best art. Yet indie rock wants a long tail of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
+${'  ' || `
+// TODO: Review.
+`}
+
+Of course, the reverse is also true: Those who happily settle for a thousand true fans *won't* try to make the best art. Yet indie rock wants a long tail of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not crabs in a bucket. But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
