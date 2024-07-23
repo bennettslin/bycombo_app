@@ -237,7 +237,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So instead of democracy, we're now living under "indieocracy"— or, rule by those who hustle to get themselves known. What now, then, if your hope all along was to be *made* known, by the elites? Why, you can still verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
+So now, instead of democracy, we're all living under "indieocracy"— or, rule by those who hustle to get themselves known. But what if your hope all along was to be *made* known, by the elites? Then come verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
 
 ### ${++sectionCounter}. The silent majority leaves quietly
 
