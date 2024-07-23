@@ -141,6 +141,10 @@ ${'  ' || `
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… [other artists](http://archive.today/20240723/https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#selection-15615.0-15623.490) come closest to seeing *today*.
 
+${'  ' || `
+// TODO: Revise. Include Galant.
+`}
+
 So ignore the critics! The truest measure of whether you're likely to make history is if your talents and works inspire the envy of fellow *artists*. This is why BYCombo surrounds you with peers who'll keep your standards high.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
