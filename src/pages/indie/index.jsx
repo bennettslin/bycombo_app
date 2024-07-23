@@ -19,10 +19,6 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've sp
 
 Thus I was left to struggle in a world that *wouldn't* [speak out](https://archive.today/2023/https://encyclopedia.ushmm.org/content/en/article/martin-niemoeller-first-they-came-for-the-socialists#selection-1415.0-1433.64) against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 First, we raise *awareness*: Because "indie" means "better" to so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— the final stage of "indiefication." For instance, people will grumble that the majors no longer nurture talent, no longer take risks… unaware that this is how the indies have *always* worked! So if you just keep reading, hopefully I can set the record straight.
 
 From there, it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
@@ -131,11 +127,11 @@ Of course, the reverse is also true: Those who settle for a thousand true fans *
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not crabs in a bucket. But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
-Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… [other artists](http://archive.today/20240510/https://www.theatlantic.com/business/archive/2016/06/adam-grant-aspen/489056/#selection-925.0-925.486) come closest to seeing *today*.
-
 ${'  ' || `
-// TODO: Review.
+// TODO: Review link.
 `}
+
+Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… [other artists](http://archive.today/20240723/https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#selection-15615.0-15623.490) come closest to seeing *today*.
 
 So ignore the critics! The truest measure of whether you're likely to make history is if your talents and works inspire the envy of fellow *artists*. This is why BYCombo surrounds you with peers who'll keep your standards high.
 
@@ -263,11 +259,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Let's imagine, though, that you *refuse* to hustle. You've tried before, and it felt awful— like being a pickup artist would. Because, sure, this kind of approach works… but do we *want* it to? After all, now that it's understood what negging involves, pretty much everyone hates it. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
-
-${'  ' || `
-// TODO: Review.
-`}
+Let's imagine, though, that you *refuse* to hustle. You've tried before, and it felt awful— like being a pickup artist would. Because, sure, this kind of approach *can* work… but *should* it? After all, now that we all know what negging means, most of us hate the idea. In which case, why wouldn't society come to feel the same way about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
 
 So instead, you build yourself up into what a future audience— or dating prospect!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
@@ -427,7 +419,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Well, music today requires a similarly convoluted explanation, doesn't it? After all, "indiefication" is widely understood to foster better art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
+Well, music today requires a similarly convoluted explanation, doesn't it? After all, "indiefication" is widely understood to bring about the best art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
 But let's swap "Sun" and "Earth" in this model: What if indiefication… actually makes art… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this much simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
