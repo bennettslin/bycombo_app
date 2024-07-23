@@ -199,7 +199,11 @@ To help artists cut out the middleman, indie rock provides them with tools to do
 
 And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a dream of the *middling* artist, who'd otherwise *be* a middleman!
 
-Let's get this out of the way: The best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We [learned all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
+${'  ' || `
+// TODO: Review.
+`}
+
+Let's be clear, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We [learned all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
 
 Sadly, young people never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
 
