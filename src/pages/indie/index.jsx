@@ -91,7 +91,7 @@ In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?
 
 But… given that *most* people belong to the mainstream, artists who cater to such tastes hold a winning advantage in building a fanbase on their own. As a result, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the *past*— while we're never shown what true subversion would look like *today*— all is assumed to be well.
 
-So what happens now, if your respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Why, BYCombo can expose you to *elitist* gatekeepers— the *only* chance left for subversive art in an online world!
+So what happens now, if your respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Why, BYCombo can expose you to *elitist* gatekeepers— the one chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -127,7 +127,7 @@ Of course, the reverse is also true: Those who'd happily settle for a thousand t
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not crabs in a bucket. But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
-Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… [other artists](http://archive.today/20240723/https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#selection-15615.0-15623.490) come closest to seeing *today*.
+Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists [come closest](http://archive.today/20240723/https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#selection-15615.0-15623.490) to seeing *today*.
 
 ${'  ' || `
 // TODO: Keep working on, but can hold off indefinitely. Add paragraph about Bach and the Galant, and maybe include a link to my Schenkerian analysis.
@@ -237,10 +237,6 @@ But this creates its own problems, doesn't it? Once a mark of verification is ea
 
 To complicate matters, pollution is a collective action problem: It's caused by individuals acting in their own interest— so the solution *has* to come from the top down, through centralized planning. But the indie camp's thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 So now, instead of democracy, we're all living under "indieocracy"— or, rule by those who hustle to get themselves known. But what if your hope all along was to be *made* known, by the elites? Then come verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
 
 ### ${++sectionCounter}. The silent majority leaves quietly
@@ -263,7 +259,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Let's imagine, though, that you *refuse* to hustle. You've tried before, and it felt awful— like being a pickup artist would. Because, sure, this kind of approach *can* work… but *should* it? After all, now that we all know what negging means, most of us hate the idea. In which case, why wouldn't society come to feel the same way about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
+Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it felt awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging, and pretty much everyone hates it. In which case, why wouldn't society come to feel the same way about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
 
 So instead, you build yourself up into what a future audience— or dating prospect!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
