@@ -123,6 +123,10 @@ For starters, the winner-take-all aspect of stardom *isn't* caused by corporate 
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as farm teams— as did those '90s alternative bands, who signed with the indies for this very reason!
 
+${'  ' || `
+// TODO: Review.
+`}
+
 By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Luckily, BYCombo is here to build a *new* path to stardom. Because once you go above and beyond to make the best art, you *won't* just settle for a [thousand true fans](https://kk.org/thetechnium/1000-true-fans). And if superstars are inevitable… then why can't *you* get a chance to be one?
 
 ### ${++sectionCounter}. History is made through peer review
@@ -131,7 +135,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Of course, the reverse is also true: Those who happily settle for a thousand true fans *won't* try to make the best art. Yet indie rock wants a long tail of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
+Of course, the reverse is also true: Those who'd happily settle for a thousand true fans *won't* try to make the best art. Yet indie rock wants a long tail of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not crabs in a bucket. But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
@@ -142,10 +146,14 @@ ${'  ' || `
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… [other artists](http://archive.today/20240723/https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#selection-15615.0-15623.490) come closest to seeing *today*.
 
 ${'  ' || `
-// TODO: Revise. Include Galant.
+// TODO: Keep working on, but can hold off indefinitely. Add paragraph about Bach and the Galant, and maybe include a link to my Schenkerian analysis.
 `}
 
-So ignore the critics! The truest measure of whether you're likely to make history is if your talents and works inspire the envy of fellow *artists*. This is why BYCombo surrounds you with peers who'll keep your standards high.
+${'  ' || `
+// TODO: Revise. Last sentence still needs work.
+`}
+
+So ignore the critics, and all others who think history-making is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of fellow *artists*… relative to your current fame. Which is why BYCombo surrounds you with peers who'll keep your standards high.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
