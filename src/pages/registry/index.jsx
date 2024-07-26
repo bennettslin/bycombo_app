@@ -15,10 +15,12 @@ const Component = () => (
             body: [
                 `
 ${'  ' || `
-// TODO: Keep working on.
+// TODO: Keep working on. Make last sentence so it's more about *needing* to divert time and energy. Which means the sentence can't really begin, "Knowing this…"
 `}
 
-To squeal or not? This is the classic prisoner's dilemma. Well, thanks to indie rock, today's artists face a similar decision: To hustle or not? We're all better off if *no* one hustles, of course— just like how it was in the past. But once *any* artist hustles, they'll hog up all the attention. Knowing this, then, *every* artist hustles— to the detriment of the arts as a whole.
+To squeal or not? This is the prisoner's dilemma. Well, thanks to indie rock, today's artists face a similar decision: To hustle or not? We're all better off if *no* one hustles, of course— just like in the past. But once *any* artist hustles, they'll hog up all the attention. Which means *every* artist must now divert time and energy toward the hustle— to the detriment of the arts.
+
+
 
 BYCombo believes that solving this "artist's dilemma" is the key to ending the cultural stagnation of our times.
 

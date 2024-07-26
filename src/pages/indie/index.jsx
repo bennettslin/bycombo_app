@@ -133,9 +133,9 @@ Um… all of us other artists who *weren't* picked, that's who! To be clear, we'
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists [come closest](http://archive.today/20240723/https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#selection-15615.0-15623.490) to seeing *today*.
 
-For example, during the Galant era, which favored simplicity, Bach's music fell out of fashion and was forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, you'd study [his works](https://bobtailyearlings.com/docs/Bach_analysis.jpg). Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is the Galant.
+For example, Bach's music fell out of fashion during the Galant— an era that favored simplicity— and was thus forgotten by the public. Yet his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](https://bobtailyearlings.com/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've never met *anyone* whose favorite style is Galant.
 
-In other words, ignore the critics, or any others who think history-making is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of fellow *artists*, relative to your fame. So come join BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out our own Galant era today.
+In other words, ignore the critics, or any others who think history-making is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of fellow *artists*, relative to your fame. So come join BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out rock's own Galant era.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
