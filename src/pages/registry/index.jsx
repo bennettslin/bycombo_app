@@ -20,8 +20,6 @@ ${'  ' || `
 
 To squeal or not? This is the prisoner's dilemma. Well, thanks to indie rock, today's artists face a similar decision: To hustle or not? We're all better off if *no* one hustles, of course— just like in the past. But once *any* artist hustles, they'll hog up all the attention. Which means *every* artist must now divert time and energy toward the hustle— to the detriment of the arts.
 
-
-
 BYCombo believes that solving this "artist's dilemma" is the key to ending the cultural stagnation of our times.
 
 Business partners, discerning listeners, and future historians:
