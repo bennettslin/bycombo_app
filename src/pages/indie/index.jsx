@@ -119,17 +119,9 @@ For starters, the winner-take-all aspect of stardom *isn't* caused by corporate 
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as farm teams— as did those '90s alternative bands, who signed with the indies for this very reason!
 
-${'  ' || `
-// TODO: Review.
-`}
-
-By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Luckily, BYCombo is here to build a *new* path to stardom. Because once you go above and beyond to make the best art, you *won't* settle for just a [thousand true fans](https://kk.org/thetechnium/1000-true-fans). And if superstars are inevitable… then why can't *you* get a chance to be one?
+By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Luckily, BYCombo is here to build a *new* path to stardom. Because once you go above and beyond to make the best art, you *won't* just settle for a [thousand true fans](https://kk.org/thetechnium/1000-true-fans). And if superstars are inevitable… then why can't *you* get a chance to be one?
 
 ### ${++sectionCounter}. History is made through peer review
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Of course, the reverse is also true: Those who'd happily settle for a thousand true fans *won't* try to make the best art. Yet indie rock wants a long tail of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
 
