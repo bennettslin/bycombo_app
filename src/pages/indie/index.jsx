@@ -79,10 +79,6 @@ Simply put, indie rock doesn't know what it stands *for*, only whom it stands *a
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/20240512/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#selection-757.0-757.691) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists [*don't* benefit](http://archive.today/2015/http://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#selection-2315.0-2315.371) from a label deal?!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to "own" the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
@@ -133,11 +129,7 @@ Um… all of us other artists who *weren't* picked, that's who! To be clear, we'
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists [come closest](http://archive.today/20240723/https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#selection-15615.0-15623.490) to seeing *today*.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-For example, during the Galant, an era that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](https://bobtailyearlings.com/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
+For example, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](https://bobtailyearlings.com/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
 
 In other words, ignore the critics, or any others who think history-making is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of fellow *artists*, relative to your fame. So come join BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out rock's own Galant era.
 
