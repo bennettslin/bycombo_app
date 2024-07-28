@@ -20,7 +20,7 @@ ${'  ' || `
 
 To squeal or not? This is the prisoner's dilemma. Well, thanks to indie rock, today's artists face a similar decision: To hustle or not? We're all better off if *no* one hustles, of course— just like in the past. But once *any* artist hustles, they'll hog up all the attention. Which means *every* artist must now divert time and energy toward the hustle— to the detriment of the arts.
 
-At BYCombo, we believe this "artist's dilemma" is the reason for the cultural stagnation of our times. And to solve it? A generation of artists must now martyr themselves by doubling down to make art, for untold years of their lifetime, until you— whether as a business partner, discerning listener, or future historian— finally give them a chance. Here's how:
+At BYCombo, we believe this "artist's dilemma" is the reason for the cultural stagnation of our times. And to solve it? A generation of artists must now martyr themselves by doubling down to make art, for untold years of their lifetime, until you— as a business partner, discerning listener, or future historian— finally give them a chance. Here's how:
 
 **To earn your trust, every BYCombo band promises *not* to hustle. Instead, they'll sacrifice a serious chunk of lifetime— at least 25,000 hours, or twelve full-time years— on a demo that advances the art form.**
 
