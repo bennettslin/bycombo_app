@@ -15,7 +15,7 @@ const Component = () => (
             body: [
                 `
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Need to make clear I'm talking to "you" in the second paragraph, otherwise it comes out of nowhere in the third.
 `}
 
 To squeal or not? This is the prisoner's dilemma. Well, thanks to indie rock, today's artists face a similar decision: To hustle or not? We're all better off if *no* one hustles, of course— just like in the past. But once *any* artist hustles, they'll hog up all the attention. Which means *every* artist must now divert time and energy toward the hustle— to the detriment of the arts.
