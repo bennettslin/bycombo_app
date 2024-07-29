@@ -43,7 +43,11 @@ Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the 
 
 **To revive interdependence, bands must sacrifice *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
-But who would sign up to be the first of these new martyrs? Why, a hungry outsider, that's who! Which is why I spent 25,000 hours— twelve full-time years!— on [*Yearling's Bobtail*](https://yearlingsbobtail.com). And of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indie labels love it when a creative work *needs* to break the rules!
+${'  ' || `
+// TODO: Review.
+`}
+
+But who would sign up to be the first of these new martyrs? Why, a hungry outsider, that's who! Which is why I spent 25,000 hours— twelve full-time years!— on [*Yearling's Bobtail*](https://yearlingsbobtail.com). And of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indies love it when a work *needs* to break the rules!
 
 ### Who gatekeeps the gatekeepers?
 
@@ -55,13 +59,21 @@ Suffice it to say, then… the indie labels rejected my demo. They also ignored 
 
 **A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock will *never* sympathize with a hungry outsider's need for interdependence— because it *means* to shut them out!**
 
-Worst of all, if the major labels are "bad guys," then the indie labels are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers is a bad guy as well— especially anyone from an [older generation](https://youtu.be/tODG4Xt45bU)! And this gets at the heart of the problem:
+${'  ' || `
+// TODO: Review.
+`}
+
+Worst of all, if the major labels are "bad guys," then the indies are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers is a bad guy as well— especially anyone from an [older generation](https://youtu.be/tODG4Xt45bU)! And this gets at the heart of the problem:
 
 **As the first rock movement to hold its ideals to be universal, indie rock is also the first to lock its rules in place. Which means there's no historical precedent to show us how to resist— or even to assure us that we *can*.**
 
 ### A hundred *Yearling's Bobtail*s
 
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging artists by the size of their fanbase, its gatekeepers end up favoring *content*— namely, art that's optimized to gain fans here and now, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
+
+${'  ' || `
+// TODO: Revise. Now that I've made the hair metal point elsewhere, don't need to make it here?
+`}
 
 Sure enough, Gen Z now sees what the older generations see: Indie rock is their hair metal— making the *next* revolution their grunge! Which is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that an entrepreneur will try to disrupt the rock market.
 
