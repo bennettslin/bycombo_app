@@ -333,7 +333,7 @@ Yet underdog movements will never go away, because to be seen as an underdog is 
 
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
 
-In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept [unfair terms](https://thebaffler.com/salvos/the-problem-with-music)— leading many to resent the majors as "bad guys."
+In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept unfair terms— leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
 By contrast, the indie labels obey the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is to trust the numbers! And for this, the indies get praised as "good guys."
 
