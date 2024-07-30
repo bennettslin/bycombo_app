@@ -72,10 +72,10 @@ Worst of all, if the major labels are "bad guys," then the indies are "good guys
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging artists by the size of their fanbase, its gatekeepers end up favoring *content*— namely, art that's optimized to gain fans here and now, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
 
 ${'  ' || `
-// TODO: Revise. Now that I've made the hair metal point elsewhere, don't need to make it here?
+// TODO: Revise. Make it more about my personal experience talking to Gen Z.
 `}
 
-Sure enough, Gen Z now sees what the older generations see: Indie rock is their hair metal— making the *next* revolution their grunge! Which is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that an entrepreneur will try to disrupt the rock market.
+Sure enough, after two decades, Gen Z is [less attached](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data) to the music of their times than Boomers and Gen X were to theirs. Which is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that a budding entrepreneur will try to disrupt the rock market.
 
 This "Dr. Dre of rock" would love to partner with bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for a counterculture to *raise* its barriers. And here's where BYCombo comes in!
 
