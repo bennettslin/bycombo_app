@@ -72,7 +72,7 @@ Worst of all, if the major labels are "bad guys," then the indies are "good guys
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging artists by the size of their fanbase, its gatekeepers end up favoring *content*— namely, art that's optimized to gain fans here and now, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
 
 ${'  ' || `
-// TODO: Revise. Make it more about my personal experience talking to Gen Z.
+// TODO: Keep working on. I think I'll keep going with this generation direction after all.
 `}
 
 Sure enough, after two decades, Gen Z is [less attached](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data) to the music of their times than Boomers and Gen X were to theirs. Which is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that a budding entrepreneur will try to disrupt the rock market.
