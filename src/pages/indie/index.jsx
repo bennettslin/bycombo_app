@@ -47,10 +47,6 @@ Has rock explored all the ways a band can come together? It might seem so— ass
 
 What if artists hoping to form history-making bands could flock to a single hub from across the world? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized nonprofit like BYCombo to help them come together.
 
 **Why interdependence?**
@@ -66,10 +62,6 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 It takes time to review an ambitious demo— but the indie gatekeepers won't put in this effort, since *any* artist they pick will be charitably supported just the same. A canonical band's best bet, then, is to win over *elitist* gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature. To save rock, then, a centralized nonprofit like BYCombo must now step up to enforce a steep *cost* of entry.
 
@@ -161,17 +153,17 @@ After losing too many radio-friendly bands to the major labels, the indies learn
 
 Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artists— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to practice the craft.
 
-### ${++sectionCounter}. Excellence has a steep opportunity cost
-
-${'  ' || `
-// TODO: Revise. Excellence may not be the best word?
-`}
+### ${++sectionCounter}. Eminence has a steep opportunity cost
 
 Millennials were the first generation [whose elders](https://pitchfork.com/reviews/albums/184-i-get-wet) embraced every genre— and as such, they rebelled in the only way possible: by ironically celebrating the most [*middling* works](https://pitchfork.com/reviews/albums/16836-i-get-wet). As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. Or— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. Still… what if *you* were to do just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. Luckily, the only way now for *Gen Z* to rebel… is by sincerely celebrating the most *excellent* works! And with BYCombo, they can know of yours.
+${'  ' || `
+// TODO: Review. Also review title.
+`}
+
+It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. Still… what if *you* were to do just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. Luckily, the only way now for *Gen Z* to rebel… is by sincerely celebrating the most *eminent* works! And with BYCombo, they can know of yours.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -289,7 +281,11 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture; it's just that, being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
+${'  ' || `
+// TODO: Review.
+`}
+
+Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture; it's just that, being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one helps the outsider.
 
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except now it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
