@@ -67,7 +67,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Sure enough, the last two decades of rock have made [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data)— and even Gen Z seems to agree. Which is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that entrepreneurs will try to disrupt the rock market.
+Sure enough, these last two decades of rock have made [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! Which is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that entrepreneurs will try to disrupt the rock market.
 
 These "Dr. Dres of rock" would love to partner with bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for a counterculture to *raise* its barriers. And here's where BYCombo comes in!
 
