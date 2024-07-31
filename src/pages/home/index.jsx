@@ -63,10 +63,6 @@ Worst of all, if the major labels are "bad guys," then the indies are "good guys
 
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging artists by the size of their fanbase, its gatekeepers end up favoring *content*— namely, art that's optimized to gain fans here and now, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! And this is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that entrepreneurs will try to disrupt the rock market.
 
 These "Dr. Dres of rock" would love to partner with bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for a counterculture to *raise* its barriers. And here's where BYCombo comes in!

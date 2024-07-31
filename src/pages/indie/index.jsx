@@ -159,10 +159,6 @@ Millennials were the first generation [whose elders](https://pitchfork.com/revie
 
 They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. Or— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-${'  ' || `
-// TODO: Review. Also review title.
-`}
-
 It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. Still… what if *you* were to do just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. Luckily, the only way now for *Gen Z* to rebel… is by sincerely celebrating the most *eminent* works! And with BYCombo, they can know of yours.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
@@ -306,18 +302,16 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 ### ${++sectionCounter}. Independence breeds homogeneity
 
 ${'  ' || `
-// TODO: Revise? Don't need to repeat interdependence points. Instead, talk about indiefication leads to a single strategy for getting heard, which is to create workhorse art, which in turn, leads to one kind of artist…
-
-Diversity in thought is the only kind that builds up resilience and robustness in system. Read Klaas.
+// TODO: Keep working on. Last sentence of last paragraph is still kind of off?
 `}
 
 As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to embrace the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— even as some looked surprised by their own decision.
 
-Which tells us: Indieocracy can never *feel* right. Its rules for who gets to win, and who must lose, will always *seem* off. But to get along… you must go along. Still, I had to wonder: Shouldn't I have met an indie gatekeeper by now who'd rather just *leave*, as I did? Then one day it clicked: I *haven't* met a hundred of them. I've only ever met with the same one— a hundred times over!
+Still, I had to wonder: Shouldn't I have met one by now who sees what I see? Then it clicked: I *haven't* met a hundred indie gatekeepers. I've only met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no strengths— so everyone in indie rock converges on the same well-rounded way of thinking.
 
-To be interdependent, you need partners who are strong where you're weak, and vice versa— which means you value others who are as lopsided as you, but in different ways. Those who want independence, however, can have no real weaknesses, and thus no real strengths. They need to be well-rounded— and this leads them all to converge on a single way of thinking.
+Furthermore, just like each person gets one vote in a democracy, each work gets one chance in an indieocracy— which means artists who put them out on a steady and frequent basis have the winning advantage. And this, in turn, leads to the same *kind* of work— namely, "workhorse art." Yet few complain, since everyone left in the audience is the same type of listener…
 
-So don't be fooled by indie rock's belated embrace of women and minorities! It doesn't add up to any further diversity in *thought*. But BYCombo lets you find bandmates and business partners who think differently… and who'll value *you* for doing the same.
+So indie rock has given us a smaller variety of works, *and* its belated embrace of diversity doesn't include diversity in thought! But BYCombo lets you find bandmates who think differently, as well as business partners who'll value the works you'll make by being strong where they're weak… and weak where they're strong.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
