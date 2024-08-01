@@ -281,7 +281,11 @@ Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12
 
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except now it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
-But… suddenly indie rock's lack of helpers made perfect sense! If paid dues are worthless outside the one culture that honors them, then of *course* those who've paid them will vote to keep the culture as it is— in all its brokenness.
+${'  ' || `
+// TODO: Review.
+`}
+
+But… suddenly indie rock's lack of helpers made perfect sense! If paid dues are worthless outside the one culture that honors them, then of *course* those who've paid them will now keep the culture as it is— in all its brokenness.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So the only newcomers they'll welcome are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717) of brokenness.
 
@@ -302,16 +306,16 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 ### ${++sectionCounter}. Independence breeds homogeneity
 
 ${'  ' || `
-// TODO: Keep working on. Last sentence of last paragraph is still kind of off?
+// TODO: Review a few more times.
 `}
 
 As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to embrace the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— even as some looked surprised by their own decision.
 
-Still, I had to wonder: Shouldn't I have met one by now who sees what I see? Then it clicked: I *haven't* met a hundred indie gatekeepers. I've only met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no strengths— so everyone in indie rock converges on the same well-rounded way of thinking.
+Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met with a hundred indie gatekeepers. I've only met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths— so everyone in the indie camp converges on the same way of thinking.
 
-Furthermore, just like each person gets one vote in a democracy, each work gets one chance in an indieocracy— which means artists who put them out on a steady and frequent basis have the winning advantage. And this, in turn, leads to the same *kind* of work— namely, "workhorse art." Yet few complain, since everyone left in the audience is the same type of listener…
+Furthermore, just like each person gets one vote in a democracy, each work gets one chance in an indieocracy— which means artists who put them out frequently hold the winning advantage. And this, in turn, leads to the same *kind* of work— namely, "workhorse art." Yet few complain, since everyone in the loud minority is the same type of listener…
 
-So indie rock has given us a smaller variety of works, *and* its belated embrace of diversity doesn't include diversity in thought! But BYCombo lets you find bandmates who think differently, as well as business partners who'll value the works you'll make by being strong where they're weak… and weak where they're strong.
+So indie rock has given us a smaller variety of works, *and* its belated embrace of diversity doesn't include diversity in thought! But BYCombo lets you find bandmates and business partners who think differently— and who'll value *you* for being strong where they're weak… and weak where they're strong.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
