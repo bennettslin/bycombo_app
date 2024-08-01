@@ -265,6 +265,32 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 
 Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a Pulitzer Prize! Now BYCombo gives your band the same chances.
 
+### ${++sectionCounter}. Independence breeds homogeneity
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to embrace the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— even as some looked surprised by their own decision.
+
+Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met with a hundred indie gatekeepers. I've only met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths— so everyone in the indie camp converges on the same way of thinking.
+
+Furthermore, just like each person gets one vote in a democracy, each work gets one chance in an indieocracy— which means artists who put them out frequently hold the winning advantage. And this, in turn, leads to the same *kind* of work— namely, "workhorse art." Yet few complain, since everyone in the loud minority is the same type of listener…
+
+So indie rock has given us a smaller variety of works, *and* its belated embrace of diversity doesn't include diversity in thought! But BYCombo lets you find bandmates and business partners who think differently— and who'll value *you* for being strong where they're weak… and weak where they're strong.
+
+### ${++sectionCounter}. Interdependence guards against prejudice
+
+${'  ' || `
+// TODO: Review new location.
+`}
+
+Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce: "Artists, as your own best advocate, you'll now be judged by how far you get on your *own*, without the help of a business partner. The playing field is finally level!"
+
+Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
+
+It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because, if *you* see interdependence as the great equalizer… who is anyone else to argue?
+
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
 While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
@@ -302,28 +328,6 @@ And this should concern us, since Radiohead… were the ultimate hobbyists! They
 But can't *today's* indies learn to sign the *next* On a Friday? No, because status plays out unconsciously; no one conspires to enforce its hierarchy— so there are no minds to change. Our human nature is simply to admire whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
-
-### ${++sectionCounter}. Independence breeds homogeneity
-
-${'  ' || `
-// TODO: Review a few more times.
-`}
-
-As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to embrace the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— even as some looked surprised by their own decision.
-
-Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met with a hundred indie gatekeepers. I've only met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths— so everyone in the indie camp converges on the same way of thinking.
-
-Furthermore, just like each person gets one vote in a democracy, each work gets one chance in an indieocracy— which means artists who put them out frequently hold the winning advantage. And this, in turn, leads to the same *kind* of work— namely, "workhorse art." Yet few complain, since everyone in the loud minority is the same type of listener…
-
-So indie rock has given us a smaller variety of works, *and* its belated embrace of diversity doesn't include diversity in thought! But BYCombo lets you find bandmates and business partners who think differently— and who'll value *you* for being strong where they're weak… and weak where they're strong.
-
-### ${++sectionCounter}. Interdependence guards against prejudice
-
-Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce: "Artists, as your own best advocate, you'll now be judged by how far you get on your *own*, without the help of a business partner. The playing field is finally level!"
-
-Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
-
-It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because, if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
