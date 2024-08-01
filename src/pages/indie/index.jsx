@@ -277,11 +277,11 @@ ${'  ' || `
 
 As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to embrace the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— even as some looked surprised by their own decision.
 
-Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met with a hundred indie gatekeepers. I've only met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths— so everyone in the indie camp converges on a single way of thinking.
+Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met with a hundred indie gatekeepers. I've only met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths— so everyone in indie rock converges on the same well-rounded way of thinking.
 
-Furthermore, just like each person gets one vote in a democracy, each work is given just one chance in an indieocracy— which means any artist who puts them out on a frequent basis holds the winning advantage. And this, in turn, leads *every* artist to make a single *kind* of work— namely, "workhorse art."
+Furthermore, just like each person gets one vote in a democracy, each work is given just one chance in an indieocracy. As a result, every artist converges on the same strategy of putting out many on a steady basis. And this, in turn, leads them all to make the same kind of work— namely, "workhorse art."
 
-So indie rock has given us a smaller variety of works, *and* its belated embrace of diversity doesn't include diversity in thought— the kind that's needed to recognize this very downside! But BYCombo lets you find business partners who think differently— and who'll value *you* for doing the same.
+So indie rock doesn't give us greater artistic variety, *and* its belated embrace of diversity doesn't include diversity in thought— the very kind that's needed to acknowledge this downside! But BYCombo lets you find business partners who think differently— and who'll value *you* for doing the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
