@@ -20,7 +20,11 @@ At BYCombo, we believe this "artist's dilemma" is the reason for the cultural st
 
 **To earn your trust, every BYCombo band promises *not* to hustle. Instead, they'll sacrifice a serious chunk of lifetime— at least 25,000 hours, or twelve full-time years— on a demo that advances the art form.**
 
-But remember, the [indie gatekeepers](/indie#hustlers-lack-a-theory-of-future-minds), [poptimists](/indie#underdogs-are-supremacists-in-effect), and [tech platforms](/indie#fair-practices-follow-the-numbers) *want* to keep the artist's dilemma in place— each for their own reasons. So if the arts are to be saved, we need *others* to step up. Can one of these saviors be you? Please contact any of our bands directly if you have an offer or opportunity for them to consider!
+${'  ' || `
+// TODO: Review.
+`}
+
+But remember, the [indie gatekeepers](/indie#hustlers-lack-a-theory-of-future-minds), [poptimists](/indie#underdogs-are-supremacists-in-effect), and [tech platforms](/indie#fair-practices-follow-the-numbers) each have their reasons to keep the artist's dilemma in place. So if the arts are to be saved, we need *others* to step up. Can one of these saviors be you? Please contact any of our bands directly if you have an offer or opportunity for them to consider!
                 `,
                 (
                     <DemoLink {...bobtailYearlings} />

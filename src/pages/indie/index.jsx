@@ -79,7 +79,11 @@ Simply put, indie rock doesn't know what it stands *for*, only whom it stands *a
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/20240512/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#selection-757.0-757.691) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists [*don't* benefit](http://archive.today/2015/http://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#selection-2315.0-2315.371) from a label deal?!
 
-In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to "own" the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
+${'  ' || `
+// TODO: Review.
+`}
+
+In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to snub the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
 
@@ -273,11 +277,11 @@ ${'  ' || `
 
 As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to embrace the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— even as some looked surprised by their own decision.
 
-Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met with a hundred indie gatekeepers. I've only met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths— so everyone in the indie camp converges on the same way of thinking.
+Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met with a hundred indie gatekeepers. I've only met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths— so everyone in the indie camp converges on a single way of thinking.
 
-Furthermore, just like each person gets one vote in a democracy, each work gets one chance in an indieocracy— which means artists who put them out frequently hold the winning advantage. And this, in turn, leads to the same *kind* of work— namely, "workhorse art." Yet few complain, since everyone in the loud minority is the same type of listener…
+Furthermore, just like each person gets one vote in a democracy, each work is given just one chance in an indieocracy— which means any artist who puts them out on a frequent basis holds the winning advantage. And this, in turn, leads *every* artist to make a single *kind* of work— namely, "workhorse art."
 
-So indie rock has given us a smaller variety of works, *and* its belated embrace of diversity doesn't include diversity in thought! But BYCombo lets you find bandmates and business partners who think differently— and who'll value *you* for being strong where they're weak… and weak where they're strong.
+So indie rock has given us a smaller variety of works, *and* its belated embrace of diversity doesn't include diversity in thought— the kind that's needed to recognize this very downside! But BYCombo lets you find business partners who think differently— and who'll value *you* for doing the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
