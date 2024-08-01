@@ -279,9 +279,9 @@ As their party devolved into "indieocracy," many Republicans thought they'd resi
 
 Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met with a hundred indie gatekeepers. I've only met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths— so everyone in indie rock converges on the same well-rounded way of thinking.
 
-Furthermore, just like each person gets one vote in a democracy, each work is given just one chance in an indieocracy. As a result, every artist converges on the same strategy of putting out many on a steady basis. And this, in turn, leads them all to make the same kind of work— namely, "workhorse art."
+Furthermore, just like each person gets one vote in a democracy, each work is given one chance in an indieocracy. As a result, every artist converges on the same strategy of putting out many on a steady basis. And this, in turn, leads them all to make the same kind of work— namely, "workhorse art." Yet few complain, since every critic now has the same tastes…
 
-So indie rock doesn't give us greater artistic variety, *and* its belated embrace of diversity doesn't include diversity in thought— the very kind that's needed to acknowledge this downside! But BYCombo lets you find business partners who think differently— and who'll value *you* for doing the same.
+So don't be misled by indie rock's belated embrace of women and minorities! It doesn't add up to further diversity in *thought*. But BYCombo lets you find business partners who think differently— and who'll value the "windfall art" that *you* can only make by doing the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
