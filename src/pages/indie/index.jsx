@@ -79,10 +79,6 @@ Simply put, indie rock doesn't know what it stands *for*, only whom it stands *a
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/20240512/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#selection-757.0-757.691) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists [*don't* benefit](http://archive.today/2015/http://www.theguardian.com/media/2012/sep/26/amanda-palmer-future-of-music#selection-2315.0-2315.371) from a label deal?!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to snub the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
 
 As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
@@ -94,6 +90,10 @@ We all respect those '80s [underground bands](https://www.hachettebookgroup.com/
 In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they *didn't* sign to a major label. Yet unlike being underground, being indie *can* be a universal ideal— and so the indie camp declared that it *should* be, once this was made possible by the Internet. Now *any* artist who uses online tools to forgo the majors is considered indie… even one with mainstream tastes!
 
 But… given that *most* people belong to the mainstream, artists who cater to such tastes hold a winning advantage in building a fanbase on their own. As a result, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the *past*— while we're never shown what true subversion would look like *today*— all is assumed to be well.
+
+${'  ' || `
+// TODO: Revise. Make point that indie rock and hustle culture are the same? And then remove mention of hustle in intro.
+`}
 
 So what happens now, if your respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than in the *logistics* of forgoing the majors? Why, BYCombo can expose you to *elitist* gatekeepers— the one chance left for subversive art in an online world!
 
@@ -272,7 +272,7 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 ### ${++sectionCounter}. Independence breeds homogeneity
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise. Talk about lopsided in last paragraph?
 `}
 
 As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to embrace the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— even as some looked surprised by their own decision.
@@ -284,10 +284,6 @@ Furthermore, just like each person gets one vote in a democracy, each work is gi
 So don't be misled by indie rock's belated embrace of women and minorities: It doesn't add up to further diversity in *thought*! But BYCombo lets you find business partners who think differently— and who'll thus appreciate *you* for doing the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
-
-${'  ' || `
-// TODO: Review new location.
-`}
 
 Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce: "Artists, as your own best advocate, you'll now be judged by how far you get on your *own*, without the help of a business partner. The playing field is finally level!"
 
@@ -310,10 +306,6 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture; it's just that, being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one *helps*.
 
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except now it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 But… suddenly indie rock's lack of helpers made perfect sense! If paid dues are worthless outside the one culture that honors them, then of *course* those who've paid them will now keep the culture as it is— in all its brokenness.
 
