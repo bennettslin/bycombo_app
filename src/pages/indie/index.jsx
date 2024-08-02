@@ -281,7 +281,7 @@ Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it c
 
 Furthermore, just like each person gets one vote in a democracy, each work is given one chance in an indieocracy. As a result, every artist converges on the same strategy of putting out many on a steady basis. And this, in turn, leads them all to make the same kind of work— namely, "workhorse art." Yet few complain, since every critic now has the same tastes…
 
-So don't be misled by indie rock's belated embrace of women and minorities! It doesn't add up to further diversity in *thought*. But BYCombo lets you find business partners who think differently— and who'll value the "windfall art" that *you* can only make by doing the same.
+So don't be misled by indie rock's belated embrace of women and minorities: It doesn't add up to further diversity in *thought*! But BYCombo lets you find business partners who think differently— and who'll thus appreciate *you* for doing the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
