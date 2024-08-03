@@ -87,15 +87,19 @@ As with MAGA, then, indie rock's tolerance for confusion ends up hurting its own
 
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the *people*— not by the *elites*." Well, actually… this is a revisionist explanation. Back then, the people and the elites were understood to be on the same side— the mainstream— while the underground sheltered those who *subverted* the people's will.
 
-In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they *didn't* sign to a major label. Yet unlike being underground, being indie *can* be a universal ideal— and so the indie camp declared that it *should* be, once this was made possible by the Internet. Now *any* artist who uses online tools to forgo the majors is considered indie… even one with mainstream tastes!
-
-But… given that *most* people belong to the mainstream, artists who cater to such tastes hold a winning advantage in building a fanbase on their own. As a result, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the *past*— while we're never shown what true subversion would look like *today*— all is assumed to be well.
-
 ${'  ' || `
 // TODO: Review.
 `}
 
-By expecting *every* artist to get themselves known, then, indie rock became just another hustle culture beloved by Millennials. Still, what if *your* respect for the underground was always about subverting the mainstream, and *not* forgoing the majors? Then let BYCombo expose you to *elitist* gatekeepers— the one chance left for subversive art in an online world!
+In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they *didn't* sign to a major label. Yet unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who uses online tools to forgo the majors is considered indie… even one with mainstream tastes!
+
+But… given that *most* people belong to the mainstream, artists who cater to such tastes hold a winning advantage in building a fanbase on their own. As a result, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the *past*— while we're never shown what true subversion would look like *today*— all is assumed to be well.
+
+${'  ' || `
+// TODO: Revise. Make point more clear that with indie rock's transition to mainstream tastes, along with its expectation for *every* artist get heard on their own, then it became just another hustle culture.
+`}
+
+So indie rock has become just another hustle culture beloved by Millennials. Still, what if *your* respect for the underground always had to do with the *aesthetics* of subverting the mainstream, rather than the *logistics* of forgoing the majors? Then let BYCombo expose you to *elitist* gatekeepers— the one chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -281,7 +285,7 @@ ${'  ' || `
 
 Furthermore, just like each person gets one vote in a democracy, each work is given one chance in an indieocracy. As a result, every artist converges on the same strategy of putting out many on a steady basis. And this, in turn, leads them all to make the same kind of work— namely, "workhorse art." Yet few complain, since every critic has the same tastes…
 
-So don't be misled by indie rock's belated embrace of women and minorities: It doesn't add up to further diversity— of thought, *or* in works! But BYCombo lets you find business partners who think differently— and who'll thus value the "windfall art" that *you* make by doing the same.
+So don't be misled by indie rock's belated embrace of women and minorities: It doesn't add up to any further diversity of *thought*— or variety in *works*! But BYCombo lets you find business partners who think differently— and who'll thus value the "windfall art" that *you* can only make by doing the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
@@ -345,7 +349,7 @@ In the past, a major label would bet on visions that other labels *didn't* see�
 
 By contrast, the indie labels obey the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is to trust the numbers! And for this, the indies get praised as "good guys."
 
-So when the tech platforms arrived, their skills with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just for publicity!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
+So when the tech platforms arrived, their focus on numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just for publicity!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
 
 In short, today's data-driven industry is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](http://archive.today/20240511/https://www.honest-broker.com/p/record-labels-dig-their-own-grave#selection-829.0-871.93) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
