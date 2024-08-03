@@ -293,7 +293,7 @@ ${'  ' || `
 
 Furthermore, just like each person gets one vote in a democracy, each work is given one chance in an indieocracy. As a result, every artist converges on the same strategy of putting out many on a steady basis. And this, in turn, leads them all to make the same *kind* of work— namely, "workhorse art." Yet few complain, since every critic has the same tastes…
 
-So don't be misled by indie rock's belated embrace of women and minorities: It doesn't add up to any further diversity in *thought*— or variety in *works*! But BYCombo lets you find business partners who think differently— and who'll thus appreciate *you* for doing the same.
+So don't be misled by indie rock's belated embrace of women and minorities: It doesn't add up to any further diversity in *thought*— or variety in *works*! But BYCombo lets you find business partners who think differently— and who'll appreciate the "windfall art" that *you* make by doing the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
