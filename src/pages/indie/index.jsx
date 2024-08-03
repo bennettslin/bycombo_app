@@ -91,21 +91,29 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they *didn't* sign to a major label. Yet unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who uses online tools to forgo the majors is considered indie… even one with mainstream tastes!
-
-But… given that *most* people belong to the mainstream, artists who cater to such tastes hold a winning advantage in building a fanbase on their own. As a result, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the *past*— while we're never shown what true subversion would look like *today*— all is assumed to be well.
+In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they *didn't* sign to a major label. Yet unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase on their own is considered indie… even one with mainstream tastes!
 
 ${'  ' || `
-// TODO: Revise. Make point more clear that with indie rock's transition to mainstream tastes, along with its expectation for *every* artist get heard on their own, then it became just another hustle culture.
+// TODO: Review.
 `}
 
-So indie rock has become just another hustle culture beloved by Millennials. Still, what if *your* respect for the underground always had to do with the *aesthetics* of subverting the mainstream, rather than the *logistics* of forgoing the majors? Then let BYCombo expose you to *elitist* gatekeepers— the one chance left for subversive art in an online world!
+But given that *most* people belong to the mainstream, artists who cater to such tastes end up with the most fans. Consequently, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the past— while we're never shown what subversion today would *otherwise* entail— all is assumed to be well.
+
+${'  ' || `
+// TODO: Review. 
+`}
+
+By enabling *every* artist to get themselves known, then, indie rock became just another hustle culture beloved by Millennials. Still, what if *your* respect for the underground was based on subverting the mainstream, rather than forgoing the majors? Then let BYCombo expose you to *elitist* gatekeepers— the one chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
-But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to make a radio hit, they can work on their own to go viral on the tech platforms. So now they're chosen by the people, *not* by the elites… making them indie artists in good faith!
+${'  ' || `
+// TODO: Review.
+`}
+
+But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to spread their works from the top down, they can use online tools to go viral from the bottom up. So now they're chosen by the people, *not* by the elites… making them indie artists in good faith!
 
 All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
 
@@ -283,9 +291,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Furthermore, just like each person gets one vote in a democracy, each work is given one chance in an indieocracy. As a result, every artist converges on the same strategy of putting out many on a steady basis. And this, in turn, leads them all to make the same kind of work— namely, "workhorse art." Yet few complain, since every critic has the same tastes…
+Furthermore, just like each person gets one vote in a democracy, each work is given one chance in an indieocracy. As a result, every artist converges on the same strategy of putting out many on a steady basis. And this, in turn, leads them all to make the same *kind* of work— namely, "workhorse art." Yet few complain, since every critic has the same tastes…
 
-So don't be misled by indie rock's belated embrace of women and minorities: It doesn't add up to any further diversity of *thought*— or variety in *works*! But BYCombo lets you find business partners who think differently— and who'll thus value the "windfall art" that *you* can only make by doing the same.
+So don't be misled by indie rock's belated embrace of women and minorities: It doesn't add up to any further diversity in *thought*— or variety in *works*! But BYCombo lets you find business partners who think differently— and who'll thus appreciate *you* for doing the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
