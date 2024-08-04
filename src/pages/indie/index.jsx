@@ -97,7 +97,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But given that *most* people belong to the mainstream, artists who cater to such tastes end up with the most fans. Consequently, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the past— while we're never shown what subversion today would *otherwise* entail— all is assumed to be well.
+But given that *most* people belong to the mainstream, artists who cater to such tastes attract the most fans. Consequently, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the past— while we're never shown what subversion today would *otherwise* entail— all is assumed to be well.
 
 ${'  ' || `
 // TODO: Review. 
