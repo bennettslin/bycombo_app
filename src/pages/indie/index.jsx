@@ -91,13 +91,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they *didn't* sign to a major label. Yet unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase on their own is considered indie… even one with mainstream tastes!
+In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they *didn't* sign to a major label. Yet unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is considered indie… even one with mainstream tastes!
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-But given that *most* people belong to the mainstream, artists who cater to such tastes attract the most fans. Consequently, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the past— while we're never shown what subversion today would *otherwise* entail— all is assumed to be well.
+But given that *most* people belong to the mainstream, artists who cater to such tastes end up attracting the most fans. As a result, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the past— while we're never shown what subversion today would *otherwise* entail— all is assumed to be well.
 
 ${'  ' || `
 // TODO: Review. Specify Millennials who follow rules?
@@ -108,10 +108,6 @@ By enabling *every* artist to get themselves known, then, indie rock became just
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to spread their works from the top down, they can use online tools to go viral from the bottom up. So now they're chosen by the people, *not* by the elites… making them indie artists in good faith!
 
@@ -173,7 +169,7 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 
 Millennials were the first generation [whose elders](https://pitchfork.com/reviews/albums/184-i-get-wet) embraced every genre— and as such, they rebelled in the only way possible: by ironically celebrating the most [*middling* works](https://pitchfork.com/reviews/albums/16836-i-get-wet). As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
 
-They can hustle to build a fanbase on their own— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. Or— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
+They can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. Or— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
 It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. Still… what if *you* were to do just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. Luckily, the only way now for *Gen Z* to rebel… is by sincerely celebrating the most *eminent* works! And with BYCombo, they can know of yours.
 
@@ -287,11 +283,11 @@ As their party devolved into "indieocracy," many Republicans thought they'd resi
 
 Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met with a hundred indie gatekeepers. I've only met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths— so everyone in indie rock converges on the same well-rounded way of thinking.
 
+Furthermore, just like each person gets one vote in a democracy, each work is given one chance in an indieocracy. As a result, every artist converges on the same strategy of putting out many on a steady basis. And this, in turn, leads them all to make the same *kind* of work— namely, "workhorse art." Yet few complain, since every critic has the same tastes…
+
 ${'  ' || `
 // TODO: Review.
 `}
-
-Furthermore, just like each person gets one vote in a democracy, each work is given one chance in an indieocracy. As a result, every artist converges on the same strategy of putting out many on a steady basis. And this, in turn, leads them all to make the same *kind* of work— namely, "workhorse art." Yet few complain, since every critic has the same tastes…
 
 So don't be misled by indie rock's belated embrace of women and minorities: It doesn't add up to any further diversity in *thought*— or variety in *works*! But BYCombo lets you find business partners who think differently— and who'll appreciate the "windfall art" that *you* make by doing the same.
 
@@ -400,10 +396,6 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 What's a "larp"? Here's my test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the real hero… the *app*?
 
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Unlike what the indie camp believes, then, music history *won't* care how the Internet enabled artists to get themselves known. But it just *might* care how BYCombo allowed them to combine mediums in unprecedented ways. So come explore one of rock's final frontiers— by having a dancer, illustrator, or puppeteer for a bandmate!
 

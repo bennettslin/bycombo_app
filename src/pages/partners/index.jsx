@@ -24,7 +24,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-**Every BYCombo band will sacrifice *all* their time and energy, for a serious chunk of lifetime, on a demo that advances the art form— while remaining dependent on business partners to be made known to the public.**
+**Each BYCombo band will sacrifice *all* their time and energy, for a serious chunk of lifetime, on a demo that advances the art form— while remaining dependent on business partners to be made known to the public.**
 
 To hear about our latest demos, you can sign up for the newsletter or visit our public registry. And remember, you're free to contact any of our bands directly; there are no fees whatsoever!
             `,
