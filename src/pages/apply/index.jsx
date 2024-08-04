@@ -32,10 +32,6 @@ If so, then come be part of the interdependence revolution! We're looking for th
 
 ### How you'll form a band
 
-${'  ' || `
-// TODO: Review.
-`}
-
 We'll select each applicant based on their talents and creative ideas. If we accept you, we'll set you up with three or four prospective bandmates who match your artistic tastes and skill levels. Upon reviewing each other's links and videos, you'll meet online.
 
 Once everyone agrees to form a band, those who can relocate to the same city will do so. For our pilot cohort, this will be Los Angeles, as we'd like to meet with you in person. Upon settling in, each of you will then put in enough time on your band project for the sum total to be 25,000 hours.
@@ -61,10 +57,6 @@ As a rock movement started by [a minority](/indie#hungry-outsiders-aim-for-the-c
 One final frontier in the arts is for bands to explore [new combinations](/indie#progress-tracks-aesthetics-not-logistics) of different mediums. Which means you play a crucial role in bringing forth this century's canonical works!
 
 **International artists:**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To revive the historical canon, we need you to [*join* us](/indie#cultural-chauvinism-can-only-be-justified)! In the future, we hope to sponsor you for a U.S. visa; for now, we'll try our best to help with any issues you might face.
 

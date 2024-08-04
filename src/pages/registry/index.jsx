@@ -18,7 +18,11 @@ To squeal or not? This is the prisoner's dilemma. Well, thanks to indie rock, to
 
 At BYCombo, we believe this "artist's dilemma" is the reason for the cultural stagnation of our times. And to solve it? A generation of artists must now martyr themselves by doubling down to make art for untold years, until you— as a business partner, discerning listener, or future historian— feel confident to give them a chance. Here's how:
 
-**To earn your trust, every BYCombo band promises *not* to hustle. Instead, they'll sacrifice a serious chunk of lifetime— at least 25,000 hours, or twelve full-time years— on a demo that advances the art form.**
+${'  ' || `
+// TODO: Review.
+`}
+
+**To earn your trust, every BYCombo band promises *not* to get themselves known. Instead, they'll sacrifice a serious chunk of lifetime— 25,000 hours, or twelve full-time years— on a demo that advances the art form.**
 
 But remember, the [indie gatekeepers](/indie#hustlers-lack-a-theory-of-future-minds), [poptimists](/indie#underdogs-are-supremacists-in-effect), and [tech platforms](/indie#fair-practices-follow-the-numbers) each have their reasons to keep the artist's dilemma in place. So if the arts are to be saved, we need *others* to step up. Can one of these saviors be you? Please contact any of our bands directly if you have an offer or opportunity for them to consider!
                 `,
