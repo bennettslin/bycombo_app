@@ -66,7 +66,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To revive the historical canon, we need you to [*join* us](/indie#cultural-chauvinism-can-only-be-justified)! In the future, we hope to sponsor you for a U.S. visa in the future; for now, we'll try our best to help with any issues you might face.
+To revive the historical canon, we need you to [*join* us](/indie#cultural-chauvinism-can-only-be-justified)! In the future, we hope to sponsor you for a U.S. visa; for now, we'll try our best to help with any issues you might face.
 
 ### How to apply
 
