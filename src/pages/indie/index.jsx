@@ -19,7 +19,11 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've sp
 
 Thus I was left to struggle in a world that *wouldn't* [speak out](https://archive.today/2023/https://encyclopedia.ushmm.org/content/en/article/martin-niemoeller-first-they-came-for-the-socialists#selection-1415.0-1433.64) against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
-First, we raise *awareness*: Because "indie" means "better" to so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— the final stage of "indiefication." For instance, people will grumble that the majors no longer nurture talent, no longer take risks… unaware that this is how the indies have *always* worked! So if you just keep reading, hopefully I can set the record straight.
+${'  ' || `
+// TODO: Review.
+`}
+
+First, we raise *awareness*: Because "indie" has become a synonym for "good," few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— the final stage of "indiefication." For instance, people will gripe that the majors no longer nurture talent, no longer take risks… unaware that this is how the indies have *always* worked! So if you just keep reading, hopefully I can set the record straight.
 
 From there, it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -97,7 +101,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But given that *most* people belong to the mainstream, artists who cater to such tastes end up attracting the most fans. As a result, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the past— while we're never shown what subversion today would *otherwise* entail— all is assumed to be well.
+But given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans. As a result, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the past— while we're never shown what subversion today would *otherwise* entail— all is assumed to be well.
 
 ${'  ' || `
 // TODO: Review. Specify Millennials who follow rules?
@@ -286,10 +290,10 @@ Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it c
 Furthermore, just like each person gets one vote in a democracy, each work is given one chance in an indieocracy. As a result, every artist converges on the same strategy of putting out many on a steady basis. And this, in turn, leads them all to make the same *kind* of work— namely, "workhorse art." Yet few complain, since every critic has the same tastes…
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise.
 `}
 
-So don't be misled by indie rock's belated embrace of women and minorities: It doesn't add up to any further diversity in *thought*— or variety in *works*! But BYCombo lets you find business partners who think differently— and who'll appreciate the "windfall art" that *you* make by doing the same.
+So don't be misled by indie rock's belated embrace of women and minorities: It doesn't add up to any further diversity of *thought*— or variety in *works*! But BYCombo lets you find business partners who think differently— and thus appreciate that making "windfall art" requires *you* to do the same.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
