@@ -101,13 +101,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans. As a result, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the past— while we're never shown what subversion today would *otherwise* entail— all is assumed to be well.
+But given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans. As a result, they're the ones who get picked by the indie gatekeepers! And since some do resemble subversive artists of the past— while we're never shown what subversion in our own times would otherwise involve— all is assumed to be well.
 
 ${'  ' || `
-// TODO: Review. Specify Millennials who follow rules?
+// TODO: Review. If not, rest.
 `}
 
-By enabling *every* artist to get themselves known, then, indie rock became just another hustle culture beloved by Millennials. Still, what if *your* respect for the underground was based on subverting the mainstream, rather than forgoing the majors? Then let BYCombo expose you to *elitist* gatekeepers— the one chance left for subversive art in an online world!
+So indie rock is now just one more hustle culture— yet Millennials defend it as such, having never known it to be anything else. Still, what if *your* respect for the underground was all about subverting the mainstream, rather than forgoing the majors? Then let BYCombo expose you to *elitist* gatekeepers— the one chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -115,7 +115,11 @@ There's another reason we respect those '80s underground bands: It feels like th
 
 But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to spread their works from the top down, they can use online tools to go viral from the bottom up. So now they're chosen by the people, *not* by the elites… making them indie artists in good faith!
 
-All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still… what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
+${'  ' || `
+// TODO: Review.
+`}
+
+All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still, what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
@@ -175,7 +179,11 @@ Millennials were the first generation [whose elders](https://pitchfork.com/revie
 
 They can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. Or— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. Still… what if *you* were to do just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. Luckily, the only way now for *Gen Z* to rebel… is by sincerely celebrating the most *eminent* works! And with BYCombo, they can know of yours.
+${'  ' || `
+// TODO: Review.
+`}
+
+It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. So… what if *you* were to do just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. Luckily, the only way now for *Gen Z* to rebel… is by sincerely celebrating the most *eminent* works! And with BYCombo, they can know of yours.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -290,7 +298,7 @@ Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it c
 Furthermore, just like each person gets one vote in a democracy, each work is given one chance in an indieocracy. As a result, every artist converges on the same strategy of putting out many on a steady basis. And this, in turn, leads them all to make the same *kind* of work— namely, "workhorse art." Yet few complain, since every critic now has the same tastes…
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Include "windfall art" after all. Then rest after that.
 `}
 
 So don't be misled by indie rock's belated embrace of women and minorities: It doesn't add up to any further diversity of *thought*— or variety in *works*! But BYCombo lets you find business partners who think differently— and who'll value *you* for doing the same.
