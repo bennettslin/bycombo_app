@@ -107,7 +107,7 @@ ${'  ' || `
 // TODO: Review. If not, rest.
 `}
 
-So indie rock is now just one more hustle culture— yet Millennials defend it as such, having never known it to be anything else. Still, what if *your* respect for the underground was all about subverting the mainstream, rather than forgoing the majors? Then let BYCombo expose you to *elitist* gatekeepers— the one chance left for subversive art in an online world!
+So indie rock is now just another hustle culture— yet Millennials embrace it as such, having never known it to be anything else. Still, what if *your* respect for the underground was all about subverting the mainstream, rather than forgoing the majors? Then let BYCombo expose you to *elitist* gatekeepers— the one chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
