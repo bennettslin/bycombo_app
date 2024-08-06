@@ -93,7 +93,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans. As a result, they're the ones who get picked by the indie gatekeepers! By the '00s, then, indie rock was just another hustle culture, with no countercultural impulses— yet Millennials defended it all the same, having never known it to be anything else.
+But given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans. As a result, they're the ones who get picked by the indie gatekeepers! By the '00s, then, indie rock had lost its subversive edge and become just another hustle culture— yet Millennials defended it all the same, having never known it to be otherwise.
 
 ${'  ' || `
 // TODO: Review. If not, rest.
@@ -193,7 +193,15 @@ It's no surprise, then, that history's pioneering works were often backed by tho
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
+${'  ' || `
+// TODO: Revise. Talk about long time away from following trends.
+`}
+
 In the past, artists lacked all means to engage with the public on their own, freeing them to explore at will. But today, indie artists build a fanbase from day one, leaving them reluctant to experiment for fear of losing their fans.
+
+${'  ' || `
+// TODO: Revise. Don't need to make the point that they have just enough standing to lose? Make more about single bet versus multiple bets. No outliers.
+`}
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this creates an echo chamber! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
