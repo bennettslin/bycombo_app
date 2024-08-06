@@ -309,9 +309,9 @@ As their party devolved into "indieocracy," many Republicans thought they'd resi
 
 Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met with a hundred indie gatekeepers. I've only met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths— which is why every indie label converges on the same well-rounded way of thinking.
 
-And just like each of us gets one vote in a democracy, each work is given one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; they only sign one artist at a time, and the safest bet is to pick a well-rounded one *every* time…
+And just like each of us gets one vote in a democracy, each work is given one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; they only sign one artist at a time, and a well-rounded one is the safest bet *every* time…
 
-In other words, don't be misled by indie rock's belated embrace of women and minorities: It doesn't add up to further diversity of *thought*— or variety in *works*! But BYCombo lets you find partners who think differently, who'll thus value the "windfall art" that *you* can make only by being exceptionally strong in the ways of art… and hopelessly weak in the ways of business.
+In other words, don't be misled by indie rock's belated embrace of women and minorities: It doesn't add up to further diversity of *thought*— or variety in *works*! But BYCombo lets you find partners who think differently, who'll thus value the "windfall art" that *you* can only make by being exceptionally strong in the ways of art… and hopelessly weak in the ways of business.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
