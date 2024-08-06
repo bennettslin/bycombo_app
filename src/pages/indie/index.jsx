@@ -89,15 +89,7 @@ We all respect those '80s [underground bands](https://www.hachettebookgroup.com/
 
 In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they *didn't* sign to a major label. Yet unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is considered indie… even one with mainstream tastes!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans. As a result, they're the ones who get picked by the indie gatekeepers! By the '00s, then, indie rock had lost its subversive edge and become just another hustle culture— yet Millennials defended it all the same, having never known it to be otherwise.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So what happens now, if *your* respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than the *logistics* of forgoing the majors? Why, BYCombo can expose you to *elitist* gatekeepers— the one chance left for subversive art in an online world!
 
@@ -309,17 +301,17 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
-As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to embrace the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— even as some looked surprised by their own decision.
-
-Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met with a hundred indie gatekeepers. I've only met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths— so everyone in indie rock converges on the same well-rounded way of thinking.
-
-Furthermore, just like each person gets one vote in a democracy, each work is given one chance in an indieocracy. As a result, every artist converges on the same strategy of putting out many on a steady basis. And this, in turn, leads them all to make the same *kind* of work— namely, "workhorse art." Yet few complain, since every critic now has the same tastes…
-
 ${'  ' || `
-// TODO: Review. If not, rest.
+// TODO: Review whole section.
 `}
 
-So don't be misled by indie rock's belated embrace of women and minorities: It doesn't add up to further diversity of *thought*— or variety in *works*! But BYCombo lets you find business partners who think differently, and who'll value the "windfall art" that *you* make by doing the same.
+As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to embrace the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— even as some looked surprised by their own decision.
+
+Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met with a hundred indie gatekeepers. I've only met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths— which is why every indie label converges on the same well-rounded way of thinking.
+
+And just like each of us gets one vote in a democracy, each work is given one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; they only sign one artist at a time, and the safest bet is to pick a well-rounded one *every* time…
+
+In other words, don't be misled by indie rock's belated embrace of women and minorities: It doesn't add up to further diversity of *thought*— or variety in *works*! But BYCombo lets you find partners who think differently, who'll thus value the "windfall art" that *you* can make only by being exceptionally strong in the ways of art… and hopelessly weak in the ways of business.
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
