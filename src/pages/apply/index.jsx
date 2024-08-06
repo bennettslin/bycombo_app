@@ -67,7 +67,7 @@ To revive the historical canon, we need you to [*join* us](/indie#cultural-chauv
 ### How to apply
 
 ${'  ' || `
-// TODO: This will be in a Google Form instead.
+// TODO: Keep working on.
 
 Anyone of legal age is welcome to apply.
 
