@@ -89,10 +89,6 @@ We all respect those '80s [underground bands](https://www.hachettebookgroup.com/
 
 In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they *didn't* sign to a major label. Yet unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is considered indie… even one with mainstream tastes!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans— and thus, they're the ones who get picked by the indie gatekeepers! Sometime in the '00s, then, indie rock lost its countercultural edge and became just another hustle culture. Yet Millennials still defend it, having never known it to be otherwise…
 
 So what happens now, if *your* respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than the *logistics* of forgoing the majors? Why, BYCombo can expose you to *elitist* gatekeepers— the one chance left for subversive art in an online world!
@@ -311,15 +307,11 @@ ${'  ' || `
 
 As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to embrace the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— even as some looked surprised by their own decision.
 
-Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met a hundred indie gatekeepers. I've only ever met with the same one— a hundred times over! After all, being *indie*-pendent means having no weaknesses, and thus no real strengths. As a result, everyone in the indie camp converges on the same well-rounded way of thinking…
+Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met a hundred indie gatekeepers. I've only ever met with the same one— a hundred times over! After all, being *indie*-pendent means having no weaknesses, and thus no real strengths. As a result, every indie label converges on the same well-rounded way of thinking…
 
-And just like each of us gets one vote in a democracy, each work is given one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they only sign one artist at a time, a well-rounded one is the safest bet *every* time…
+Moreover, just like each person gets one vote in a democracy, every work is given one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, which leads them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; since they sign just one artist at a time, a well-rounded one is the safest bet *every* time…
 
-${'  ' || `
-// TODO: Review.
-`}
-
-All of which is to say, indie rock's belated embrace of women and minorities doesn't add up to further diversity of *thought*— or variety in *works*! But what if *your* hope is to make "windfall art"— which *requires* you to be exceptionally strong in matters of art, and thus hopelessly weak in matters of business? Then let BYCombo help you find *inter*-dependent-minded partners!
+All of which is to say, indie rock's belated embrace of women and minorities doesn't add up to further diversity of *thought*— or variety in *works*! But what if *your* hope is to make "windfall art"— which *requires* you to be exceptionally strong in matters of art, and thus hopelessly weak in matters of business? Then let BYCombo help you find *inter*-dependent partners!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
