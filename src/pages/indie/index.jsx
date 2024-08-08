@@ -295,7 +295,11 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label on the strength of a demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
 
-But can't *today's* indies learn to sign the *next* On a Friday? No, because status plays out unconsciously; no one conspires to enforce its hierarchy— so there are no minds to change. Our human nature is simply to admire whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
+${'  ' || `
+// TODO: Review.
+`}
+
+But can't *today's* indies learn to sign the *next* On a Friday? No, because status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
@@ -305,13 +309,13 @@ ${'  ' || `
 // TODO: Review whole section.
 `}
 
-As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to embrace the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— even as some looked surprised by their own decision.
+As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to admire the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— even as some looked surprised by their own decision.
 
 Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met a hundred indie gatekeepers. I've only ever met with the same one— a hundred times over! After all, being *indie*-pendent means having no weaknesses, and thus no real strengths. As a result, every indie label converges on the same well-rounded way of thinking…
 
-Moreover, just like each person gets one vote in a democracy, every work is given one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, which leads them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; since they sign just one artist at a time, a well-rounded one is the safest bet *every* time…
+Moreover, just like a democracy gives each person one vote, each work gets just one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, which leads them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; since they sign just one artist at a time, a well-rounded one is the safest bet *every* time…
 
-All of which is to say, indie rock's belated embrace of women and minorities doesn't add up to further diversity of *thought*— or variety in *works*! But what if *your* hope is to make "windfall art"— which *requires* you to be exceptionally strong in matters of art, and thus hopelessly weak in matters of business? Then let BYCombo help you find *inter*-dependent partners!
+All of which is to say, indie rock's belated embrace of women and minorities doesn't add up to further diversity of *thought*— or variety in *works*! But what if *your* hope is to make "windfall art"— which *requires* you to be strong in the ways of art, and thus weak in the ways of business? Then let BYCombo help you find *inter*-dependent partners!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
