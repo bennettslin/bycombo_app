@@ -231,7 +231,11 @@ But this creates its own problems, doesn't it? Once a mark of verification is ea
 
 To complicate matters, pollution is a collective action problem: It's caused by individuals acting in their own interest— so the solution *has* to come from the top down, through centralized planning. But the indie camp's thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
-So now, instead of democracy, we're all living under "indieocracy"— or, rule by those who hustle to get themselves known. But what if your hope all along was to be *made* known, by the elites? Then come verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
+${'  ' || `
+// TODO: Review.
+`}
+
+So now, instead of democracy, we're all living under "indieocracy"— or, rule by those who hustle to get themselves known. But what if *your* hope all along was to be *made* known, by the elites? Then come verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
 
 ### ${++sectionCounter}. The silent majority leaves quietly
 
@@ -315,7 +319,7 @@ Still, I had to wonder: Shouldn't *one* by now have given me a chance? Then it c
 
 Moreover, just like a democracy gives each person one vote, each work gets just one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, which leads them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; since they sign just one artist at a time, a well-rounded one is the safest bet *every* time…
 
-All of which is to say, indie rock's belated embrace of women and minorities doesn't add up to further diversity of *thought*— or variety in *works*! But what if *your* hope is to make "windfall art"— which *requires* you to be strong in the ways of art, and thus weak in the ways of business? Then let BYCombo help you find *inter*-dependent partners!
+All of which is to say, indie rock's belated embrace of women and minorities doesn't add up to further diversity of *thought*— or variety in *works*! But what if *your* hope is to make "windfall art"— which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in the ways of business? Then let BYCombo help you find *inter*-dependent partners!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
