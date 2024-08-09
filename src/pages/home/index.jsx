@@ -51,11 +51,19 @@ Well… not so fast. The indie camp assumes that every artist faces the same hur
 
 So even as you build up *objective* strengths to win over a skeptical public, the indie gatekeepers assure victory for the underdog by keeping their criteria *subjective*. Which is why they favor music that *lacks* [enviable hooks](/indie#time-is-kind-to-craft-not-context), and why they refuse to acknowledge our human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
-Suffice it to say, then… the indie labels rejected my demo. They also ignored later projects of mine that promised to *help* their underdogs: [*Bobtail Method*](https://bobtailmethod.com), my songwriting book, and [*Bobtail Dominoes*](https://bobtaildominoes.com), my musical tile game. So even *altruism* is a losing strategy for the outsider! And now I finally understood:
+${'  ' || `
+// TODO: Review.
+`}
+
+Suffice it to say, then… the indie labels rejected my demo. They also ignored later projects of mine that promised to *help* their underdogs: my songwriting book [*Bobtail Method*](https://bobtailmethod.com), and my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). So even *altruism* is a losing strategy for the outsider! And now I finally understood:
 
 **A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock will *never* sympathize with a hungry outsider's need for interdependence— because it *means* to shut them out!**
 
-Worst of all, if the major labels are "bad guys," then the indies are "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers is a bad guy as well— especially anyone from an [older generation](https://youtu.be/tODG4Xt45bU). And this gets at the heart of the problem:
+${'  ' || `
+// TODO: Review.
+`}
+
+Worst of all, if the major labels are "bad guys," then this makes the indies "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers is a bad guy as well— especially anyone from an [older generation](https://youtu.be/tODG4Xt45bU). And this gets at the heart of the problem:
 
 **As the first rock movement to hold its ideals to be universal, indie rock is also the first to lock its rules in place. Which means there's no historical precedent to show us how to resist— or even to assure us that we *can*.**
 
