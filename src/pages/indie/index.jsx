@@ -135,10 +135,6 @@ In other words, ignore the critics, or any others who think history-making is a 
 
 ### ${++sectionCounter}. Time is kind to craft, not context
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point. They just don't value music as a *craft* to begin with!
@@ -192,10 +188,6 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 In the past, artists lacked all means to engage with the public on their own, freeing them to explore at will. But today, indie artists build a fanbase from day one, leaving them reluctant to experiment for fear of losing their fans.
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this creates an echo chamber! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Revolutions may *start* at the bottom with artists, but they're *spread* from the top by business partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
 
