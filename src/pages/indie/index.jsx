@@ -11,7 +11,7 @@ const Component = ({ sectionCounter = 0 }) => (
             title: TITLE,
             metaTitle: TITLE,
             metaDescription: DESCRIPTION,
-            date: { year: 2024, month: 7, updated: true },
+            date: { year: 2024, month: 8, updated: true },
             body: `
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
@@ -133,17 +133,17 @@ For example, during the Galant, a time that favored simplicity, Bach's music was
 
 In other words, ignore the critics, or any others who think history-making is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of fellow *artists*, relative to your fame. So come join BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out rock's own Galant era.
 
-### ${++sectionCounter}. Time cares about craft, not identity
+### ${++sectionCounter}. Time is kind to craft, not context
 
 ${'  ' || `
-// TODO: Review title and new location.
+// TODO: Review title.
 `}
 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point. They just don't value music as a *craft* to begin with!
 
-After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted [musical hook](https://youtu.be/HWMsWO0vPa8).
+After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a [well-crafted hook](https://youtu.be/HWMsWO0vPa8).
 
 Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artists— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to practice the craft.
 
@@ -193,7 +193,11 @@ In the past, artists lacked all means to engage with the public on their own, fr
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this creates an echo chamber! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
-Revolutions may *start* with artists, but they're *spread* by business partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
+${'  ' || `
+// TODO: Review.
+`}
+
+Revolutions may *start* at the bottom with artists, but they're *spread* from the top by business partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
@@ -301,7 +305,7 @@ And this should concern us, since Radiohead… were the ultimate hobbyists! They
 
 But can't *today's* indies learn to sign the *next* On a Friday? No, because status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
-Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
+Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead— by betting it all on the craft.
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
@@ -382,10 +386,6 @@ Here's my guess: Courage is inspired by scarcity— but Millennials only knew in
 Moreover, when information was scarce, joining a scene— goth, punk— took commitment; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of information, and now they [long for a return](http://archive.today/20240510/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
-
-${'  ' || `
-// TODO: Review title.
-`}
 
 ### ${++sectionCounter}. Progress values aesthetics, not logistics
 
