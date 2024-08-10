@@ -185,7 +185,15 @@ It's no surprise, then, that history's pioneering works were often backed by tho
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
+${'  ' || `
+// TODO: Revise. Talk about deviating and being an outlier, versus knowing all the trends.
+`}
+
 In the past, artists lacked all means to engage with the public on their own, freeing them to explore at will. But today, indie artists build a fanbase from day one, leaving them reluctant to experiment for fear of losing their fans.
+
+${'  ' || `
+// TODO: Revise. Talk more about only have the budget to sign one artist at a time, and thus never taking a chance on outliers.
+`}
 
 Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this creates an echo chamber! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
@@ -346,6 +354,10 @@ So when the tech platforms arrived, their focus on numbers made them good guys a
 In short, today's data-driven industry is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](http://archive.today/20240511/https://www.honest-broker.com/p/record-labels-dig-their-own-grave#selection-829.0-871.93) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
+
+${'  ' || `
+// TODO: Revise? Maybe make it clear that algorithms are the new word of mouth.
+`}
 
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want— which means they're the latest stage of what indie rock has *always* promised to deliver. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the people!
 
