@@ -185,17 +185,13 @@ It's no surprise, then, that history's pioneering works were often backed by tho
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
-${'  ' || `
-// TODO: Revise. Talk about deviating and being an outlier, versus knowing all the trends.
-`}
-
 In the past, artists lacked all means to engage with the public on their own, freeing them to explore at will. But today, indie artists build a fanbase from day one, leaving them reluctant to experiment for fear of losing their fans.
 
 ${'  ' || `
-// TODO: Revise. Talk more about only have the budget to sign one artist at a time, and thus never taking a chance on outliers.
+// TODO: Review.
 `}
 
-Meanwhile, because the indie labels have just enough standing to lose, they only make safe bets— and the *safest* bet is to deliver what the people already want. But… this creates an echo chamber! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
+Meanwhile, because indie labels can only budget for one new artist at a time, they go for the safe bet *every* time— and the *safest* bet is to deliver what the people already want. But… this creates an echo chamber! Even worse, every revolution gets nipped in the bud, because the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they can't envision on their own.
 
 Revolutions may *start* at the bottom with artists, but they're *spread* from the top by business partners, whose know-how is needed to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
 
@@ -308,10 +304,6 @@ But can't *today's* indies learn to sign the *next* On a Friday? No, because sta
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead— by betting it all on the craft.
 
 ### ${++sectionCounter}. Independence breeds homogeneity
-
-${'  ' || `
-// TODO: Review.
-`}
 
 As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to admire the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— and yet, some looked surprised by their own decision.
 
