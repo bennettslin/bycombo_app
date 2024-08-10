@@ -356,10 +356,10 @@ In short, today's data-driven industry is what the [*indie* camp wanted](https:/
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
 ${'  ' || `
-// TODO: Revise? Maybe make it clear that algorithms are the new word of mouth.
+// TODO: Review.
 `}
 
-Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want— which means they're the latest stage of what indie rock has *always* promised to deliver. So maybe our problem *isn't* with the algorithms; maybe it's with *us*— the people!
+Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're the new word of mouth— which indie rock has *always* held in high esteem. So maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups— who generate most creative ideas in the arts. And when in doubt, we imitate others— yet they have the same biases that we do. For revolutions to succeed, then, the research is clear: The elites *must* get involved, by spreading these creative ideas from the top down.
 
