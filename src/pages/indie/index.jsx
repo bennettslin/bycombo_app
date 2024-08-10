@@ -311,7 +311,7 @@ So I had to wonder: Shouldn't *one* by now have given me a chance? Then it click
 
 Moreover, just like each person gets one vote in a democracy, each work gets just one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, which leads them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; since they sign just one artist at a time, a well-rounded one is the safest bet *every* time…
 
-Still, what if *your* dream is to make "windfall art," which requires you to be *lopsided*— that is to say, exceptionally strong in the ways of art, and thus hopelessly weak in the ways of business? Then let BYCombo help you meet partners who are just as lopsided, but in the opposite way— because they value interdependence as much as you do!
+Still, what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in matters of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
