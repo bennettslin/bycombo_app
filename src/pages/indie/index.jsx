@@ -184,12 +184,12 @@ It's no surprise, then, that history's pioneering works were often backed by tho
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 ${'  ' || `
-// TODO: Keep working on. Is it okay to lose the mention of echo chamber?
+// TODO: Keep working on. Is it okay to lose the mention of echo chamber? Batch.
 `}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
-In the past, artists lacked all means to engage with the public on their own, freeing them to explore at will— and sometimes leading to unexpected discoveries. But today, indie artists follow every trick to gain fans from day one, leaving them reluctant to experiment for fear of losing those fans.
+In the past, artists lacked all means to engage with the public on their own, freeing them to explore at will— and sometimes leading to unexpected ideas. But today, indie artists follow every trick to gain fans from day one, which then leaves them reluctant to experiment— for fear of losing those fans.
 
 Meanwhile, the major labels in the past would cast a wide net, allowing them to include a few unexpected outliers. But the indie labels sign just one artist at a time, so they go for the safe bet *every* time… which is to give the people what they already want! And since the people [can't ask](https://www.goodreads.com/quotes/988332) for what they don't expect, this means every revolution now gets nipped in the bud…
 
@@ -309,10 +309,6 @@ As their party devolved into "indieocracy," many Republicans thought they'd resi
 
 So I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met a hundred indie gatekeepers. I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, every indie label converges on the same well-rounded way of thinking…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Moreover, just like each person gets one vote in a democracy, each work gets just one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, which leads them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time…
 
 Still, what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in matters of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
@@ -350,10 +346,6 @@ So when the tech platforms arrived, their focus on numbers made them good guys a
 In short, today's data-driven industry is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](http://archive.today/20240511/https://www.honest-broker.com/p/record-labels-dig-their-own-grave#selection-829.0-871.93) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're the new word of mouth— which indie rock has *always* held in high esteem. So maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
