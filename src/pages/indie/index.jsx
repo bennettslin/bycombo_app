@@ -191,7 +191,7 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 
 In the past, artists lacked all means to engage with the public on their own, freeing them to explore at will— and sometimes leading to unexpected ideas. But today, indie artists follow all the tricks to gain fans from day one— which then leaves them reluctant to experiment, for fear of losing those fans.
 
-Meanwhile, the major labels in the past would cast a wide net, allowing them to save some slots for unexpected outliers. But the indie labels sign just one artist at a time, so they go for the safe bet *every* time… and the *safest* bet is to give the people what they already want! Which means every revolution gets nipped in the bud, since the people [*never* ask](https://www.goodreads.com/quotes/988332) for what they don't expect…
+Meanwhile, the major labels in the past would cast a wide net, allowing them to save a few slots for unexpected outliers. But the indie labels sign just one artist at a time, so they go for the safe bet *every* time… and the *safest* bet is to give the people what they already want! Which means every revolution gets nipped in the bud, since the people [*never* ask](https://www.goodreads.com/quotes/988332) for what they don't expect…
 
 Keep in mind, revolutions may *start* at the bottom with artists, but they're *spread* from the top by the elites, whose know-how is crucial to win over the public. Which is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
 
