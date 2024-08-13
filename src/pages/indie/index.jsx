@@ -189,11 +189,11 @@ ${'  ' || `
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
-In the past, artists lacked all means to engage with the public on their own, freeing them to explore at will— and sometimes leading to unexpected ideas. But today, indie artists follow all the tricks to gain fans from day one— which then leaves them reluctant to experiment, for fear of losing those fans.
+In the past, artists lacked all means to engage with the public on their own, freeing them to explore at will— and sometimes leading to unexpected ideas. But today, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
 
-Meanwhile, the major labels in the past would cast a wide net, allowing them to save a few slots for unexpected outliers. But the indie labels sign just one artist at a time, so they go for the safe bet *every* time… and the *safest* bet is to give the people what they already want! Which means every revolution gets nipped in the bud, since the people [*never* ask](https://www.goodreads.com/quotes/988332) for what they don't expect…
+Meanwhile, the major labels in the past would cast a wide net, allowing them to save a few slots for unexpected outliers. But the indie labels sign just one artist at a time, so they go for the safe bet *every* time— and the *safest* bet is to give the people what they already want! Which means every revolution gets nipped in the bud, since the [people *never* ask](https://www.goodreads.com/quotes/988332) for what they don't expect…
 
-Keep in mind, revolutions may *start* at the bottom with artists, but they're *spread* from the top by the elites, whose know-how is crucial to win over the public. Which is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
+Remember, revolutions *start* at the bottom with artists, but they're *spread* from the top by the elites, whose know-how is crucial to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
@@ -275,7 +275,7 @@ While indie labels do care about the bottom line, it isn't to *make* money; it's
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](http://archive.today/20240512/https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#selection-1913.0-1913.339)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male gatekeepers just have to be more inclusive in whom they accept as their own.
 
-But so far, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* the same. Minorities face stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model); and women, of low *competence*. Yet social justice, when self-enforced, *only* fixes misjudgments of competence; a circle of friends has every right to feel more warmly toward their own.
+But so far, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* the same. Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*; and women, of low *competence*. Yet social justice, when self-enforced, *only* fixes misjudgments of competence; a circle of friends has every right to feel more warmly toward their own.
 
 You'll notice, then, that we minorities *aren't* ones to begrudge a business partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](http://archive.today/20240511/https://genius.com/Eminem-white-america-lyrics#selection-1035.0-1055.50). Now with BYCombo, this ticket can be yours once again.
 
