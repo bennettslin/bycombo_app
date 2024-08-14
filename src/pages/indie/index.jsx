@@ -184,16 +184,23 @@ It's no surprise, then, that history's pioneering works were often backed by tho
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Keep working on.
+Don't describe Pareto principle, but just link to it. State in simple terms how this explains the benefit of casting a wide net. Superstars can bankroll prestige acts, and sometimes they prove to be one and the same. Diverse portfolio.
+
+By contrast, indie labels only have budget to sign one artist at a time. Bring up echo chamber again.
 `}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
 In the past, artists lacked all means to engage with the public on their own, freeing them to explore— and sometimes this led to unexpected discoveries. But today, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
 
-Meanwhile, the major labels in the past would cast a wide net, allowing them to take chances on unexpected outliers. But the indie labels sign just one artist at a time, so they go for the safe bet *every* time— and the *safest* bet is to give the people what they already want! Which means every revolution gets nipped in the bud, since the [people can't ask](https://www.goodreads.com/quotes/988332) for what they don't expect…
+Meanwhile, the major labels in the past would cast a wide net, allowing them to take chances on unexpected outliers.
 
-Remember, revolutions *start* at the bottom with artists, but they're *spread* from the top by the elites, whose know-how is crucial to win over the public. This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
+But the indie labels sign just one artist at a time, so they go for the safe bet *every* time— and the *safest* bet is to give the people what they already want! This then nips every revolution in the bud, since the [people can't ask](https://www.goodreads.com/quotes/988332) for what they don't expect… Which is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
+
+${'  ' || `
+// TODO: New section. Capacity to scale is decided upfront.
+`}
 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
@@ -309,7 +316,7 @@ As their party devolved into "indieocracy," many Republicans thought they'd resi
 
 So I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met a hundred indie gatekeepers. I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, every indie label converges on the same well-rounded way of thinking…
 
-Moreover, just like each person gets one vote in a democracy, each work gets just one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, which leads them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; since they sign just one artist at a time, a well-rounded one is the safest bet *every* time…
+Moreover, just like each person gets one vote in a democracy, each work gets just one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; since they sign just one artist at a time, a well-rounded one is the safest bet *every* time…
 
 Still, what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in matters of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
 
@@ -366,6 +373,10 @@ Upon completion five years later, *Yearling's Bobtail* caught the attention of a
 Thus I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a rock band at all! Because who would opt to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop?
 
 But what makes the indie camp *especially* short-sighted is this: Recordings capture what shows can't. In other words, they're two distinct mediums— much like cinema and theater! So ignore those who insist that "real" artists start out by playing live. With BYCombo, you can help to usher in a revival of recorded music… just like the one I foresaw two decades ago.
+
+${'  ' || `
+// TODO: New section. Redundancy allows for robustness. Begin with difference between algorithms and AI. Judiciary. End with thinking in systems. Mention Donella Meadows. Seems like a lot, so prepare to winnow it down to a basic point.
+`}
 
 ### ${++sectionCounter}. Scarcity inspires generational courage
 
