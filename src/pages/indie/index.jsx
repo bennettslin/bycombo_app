@@ -59,10 +59,6 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 It takes effort to review an ambitious demo— but the indie gatekeepers won't bother, since *any* artist they pick will be treated as an underdog deserving of charitable support. A canonical band's best bet, then, is to win over *elitist* gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
@@ -115,7 +111,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even billionaire superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the indisputable *winners*!
+So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even billionaire superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the surefire *winners*!
 
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
@@ -182,18 +178,18 @@ But this can't happen if you're always context switching— which explains why "
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 ${'  ' || `
-// TODO: Review a few more times. Also review location.
+// TODO: Review a few more times. Also review location. Reconsider whether some parts can be moved to creativity section, allowing for this to be four paragraphs instead of five.
 `}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
 Historically, artists lacked all means to engage with the public on their own, freeing them to explore at will— and this sometimes led to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
 
-Meanwhile, the major labels in the past would cast a wide net— which is the wisest *business* strategy for sure, since the [greatest risks](https://www.investopedia.com/terms/r/riskreturntradeoff.asp) yield the greatest rewards, and a [diverse roster](https://www.investopedia.com/investing/importance-diversification) lessens any risk. But it's also the wisest *artistic* strategy, since a lone superstar can bankroll multiple prestige acts— or even prove to be one of them.
+Meanwhile, the major labels in the past would cast a wide net— which is the wisest *business* strategy for sure, since the [greatest risks](https://www.investopedia.com/terms/r/riskreturntradeoff.asp) yield the greatest rewards, and a [diverse roster](https://www.investopedia.com/investing/importance-diversification) lessens any risk. But it's also the wisest *artistic* strategy, since a lone superstar can bankroll multiple prestige acts, if they're not one themselves.
 
 By contrast, the indie labels sign just one artist at a time, so they go for the safe bet *every* time— and the *safest* bet is simply to deliver what the people already want! But not only does this create an echo chamber, it nips every revolution in the bud, since the people [can't ask for](https://www.goodreads.com/quotes/988332) what they don't expect…
 
-Thankfully, BYCombo lets you explore and experiment, while you have no fans to lose. It makes you the *smartest* bet— for those perched high enough to see it.
+Which is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
@@ -227,10 +223,6 @@ Simply put, indie rock is widely seen as a do-it-yourself movement— the kind t
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](http://archive.today/20240511/https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#selection-5381.0-5381.209) of this belief.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 (By the way, don't be fooled by those who insist that getting heard isn't a competition. They still want to compete— just on terms more favorable to them and less obvious to others: having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth.)
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to suck it up and try harder. But with BYCombo, there's now an opposition party that upholds the interdependence you want— out of a shared love for the craft.
@@ -250,10 +242,6 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
 
 But this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone can fully invest in the signal itself— rather than in the worth being verified!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To complicate matters, pollution is a tragedy of the commons: It's caused by individuals acting in their own interest— so the solution *has* to come from the top down, through centralized planning. But the indie camp's thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
@@ -346,20 +334,16 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Make it more about looking for a new genre.
 `}
 
-Perhaps my arguments against indie rock seem moot now. After all, didn't poptimism defeat rockism a decade ago? Well, no. It was "indiefication" that killed rock as a genre. Then, believing the death to have been natural, many in the indie camp switched to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
+Perhaps my arguments against indie rock seem moot now. After all, didn't poptimism defeat rockism a decade ago? Well, no. It was "indiefication" that killed rock as a genre. Then, believing the death to be natural, many in the indie camp became open to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
 In a world where outsiders try much harder, to be much better, both indie rock and poptimism protect the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as you're hungry enough to try much harder, to be much better, BYCombo can offer an alternative— the new "rockism," maybe?
 
