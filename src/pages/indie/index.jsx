@@ -107,10 +107,6 @@ In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even billionaire superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the surefire *winners*!
 
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
@@ -178,18 +174,16 @@ But this can't happen if you're always context switching— which explains why "
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 ${'  ' || `
-// TODO: Review a few more times. Also review location. Reconsider whether some parts can be moved to creativity section, allowing for this to be four paragraphs instead of five.
+// TODO: Review. Also review location.
 `}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
 Historically, artists lacked all means to engage with the public on their own, freeing them to explore at will— and this sometimes led to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
 
-Meanwhile, the major labels in the past would cast a wide net— which is the wisest *business* strategy for sure, since the [greatest risks](https://www.investopedia.com/terms/r/riskreturntradeoff.asp) yield the greatest rewards, and a [diverse roster](https://www.investopedia.com/investing/importance-diversification) lessens any risk. But it's also the wisest *artistic* strategy, since a lone superstar can bankroll multiple prestige acts, if they're not one themselves.
+Meanwhile, the major labels in the past would cast a wide net— which is the wisest *business* strategy for sure, since having a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take on greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But it's also the wisest *artistic* strategy, since the [outsized earnings](https://www.investopedia.com/terms/p/paretoprinciple.asp) of a few can bankroll the rest, allowing them to take chances on unexpected ideas.
 
-By contrast, the indie labels sign just one artist at a time, so they go for the safe bet *every* time— and the *safest* bet is simply to deliver what the people already want! But not only does this create an echo chamber, it nips every revolution in the bud, since the people [can't ask for](https://www.goodreads.com/quotes/988332) what they don't expect…
-
-Which is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
+By contrast, the indie labels sign just one artist at a time, which then compels them to take the safe bet of delivering what the [people want](https://www.goodreads.com/quotes/988332). But people only want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet— for those perched high enough to see it.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
