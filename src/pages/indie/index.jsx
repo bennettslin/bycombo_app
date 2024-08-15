@@ -75,23 +75,6 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here's an incomplete list of ways…
 
-### ${++sectionCounter}. Modest standing leads to risk aversion
-
-${'  ' || `
-// TODO: Keep working on.
-Don't describe Pareto principle, but just link to it. State in simple terms how this explains the benefit of casting a wide net. Superstars can bankroll prestige acts, and sometimes they prove to be one and the same. Diverse portfolio.
-
-By contrast, indie labels only have budget to sign one artist at a time. Bring up echo chamber again.
-`}
-
-In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
-
-In the past, artists lacked all means to engage with the public on their own, freeing them to explore— and sometimes this led to unexpected discoveries. But today, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
-
-Meanwhile, the major labels in the past would cast a wide net, allowing them to take chances on unexpected outliers.
-
-But the indie labels sign just one artist at a time, so they go for the safe bet *every* time— and the *safest* bet is to give the people what they already want! This then nips every revolution in the bud, since the [people can't ask](https://www.goodreads.com/quotes/988332) for what they don't expect… Which is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smartest* bet— for those perched high enough to see it.
-
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
@@ -196,6 +179,22 @@ Of course, the best artists *are* human— so how are such works possible? It's 
 
 But this can't happen if you're always context switching— which explains why "indiefication" has made music worse. Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have a business partner wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
+### ${++sectionCounter}. Modest standing leads to risk aversion
+
+${'  ' || `
+// TODO: Review a few more times. Also review location.
+`}
+
+In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
+
+Historically, artists lacked all means to engage with the public on their own, freeing them to explore at will— and this sometimes led to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
+
+Meanwhile, the major labels in the past would cast a wide net— which is the wisest *business* strategy for sure, since the [greatest risks](https://www.investopedia.com/terms/r/riskreturntradeoff.asp) yield the greatest rewards, and a [diverse roster](https://www.investopedia.com/investing/importance-diversification) lessens any risk. But it's also the wisest *artistic* strategy, since a lone superstar can bankroll multiple prestige acts— or even prove to be one of them.
+
+By contrast, the indie labels sign just one artist at a time, so they go for the safe bet *every* time— and the *safest* bet is simply to deliver what the people already want! But not only does this create an echo chamber, it nips every revolution in the bud, since the people [can't ask for](https://www.goodreads.com/quotes/988332) what they don't expect…
+
+Thankfully, BYCombo lets you explore and experiment, while you have no fans to lose. It makes you the *smartest* bet— for those perched high enough to see it.
+
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
 In the past, the indie gatekeepers stayed close to the local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case… this is precisely what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
@@ -205,8 +204,6 @@ What confused me is that I'd explicitly set out to make a [work of art](https://
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
 It's no surprise, then, that history's pioneering works were often backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their respective genres— who *didn't* know what the people wanted, and thus *weren't* led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
-
-
 
 ${'  ' || `
 // TODO: New section. Capacity to scale is decided upfront.
@@ -254,7 +251,11 @@ To "democratize" Twitter, Elon Musk made the blue checkmark available to all pai
 
 But this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone can fully invest in the signal itself— rather than in the worth being verified!
 
-To complicate matters, pollution is a collective action problem: It's caused by individuals acting in their own interest— so the solution *has* to come from the top down, through centralized planning. But the indie camp's thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
+${'  ' || `
+// TODO: Review.
+`}
+
+To complicate matters, pollution is a tragedy of the commons: It's caused by individuals acting in their own interest— so the solution *has* to come from the top down, through centralized planning. But the indie camp's thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
 So now, instead of democracy, we're all living under "indieocracy"— or, rule by those who hustle to get themselves known. But what if *your* hope all along was to be *made* known, by the elites? Then come verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
 
