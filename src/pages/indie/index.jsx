@@ -174,16 +174,20 @@ But this can't happen if you're always context switching— which explains why "
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 ${'  ' || `
-// TODO: Review. Also review location.
+// TODO: Revise. Also review location.
+
+Third paragraph, improve outsized earnings sentence.
+
+Fourth paragraph, make first sentence more clear.
 `}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
 Historically, artists lacked all means to engage with the public on their own, freeing them to explore at will— and this sometimes led to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
 
-Meanwhile, the major labels in the past would cast a wide net— which is the wisest *business* strategy for sure, since having a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take on greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But it's also the wisest *artistic* strategy, since the [outsized earnings](https://www.investopedia.com/terms/p/paretoprinciple.asp) of a few can bankroll the rest, allowing them to take chances on unexpected ideas.
+Meanwhile, the major labels in the past would cast a wide net— which is the wisest *business* strategy for sure, given that a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take on greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But it's also the wisest *artistic* strategy, since the [outsized earnings](https://www.investopedia.com/terms/p/paretoprinciple.asp) of a few can bankroll the rest, allowing them to take chances on unexpected ideas.
 
-By contrast, the indie labels sign just one artist at a time, which then compels them to take the safe bet of delivering what the [people want](https://www.goodreads.com/quotes/988332). But people only want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet— for those perched high enough to see it.
+By contrast, the indie labels can only sign one artist at a time, so they always go with the safe bet of whoever the [people want](https://www.goodreads.com/quotes/988332). But people can only want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet— for those perched high enough to see it.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
