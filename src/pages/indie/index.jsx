@@ -176,7 +176,7 @@ But this can't happen if you're always context switching— which explains why "
 ${'  ' || `
 // TODO: Revise. Also review location.
 
-Third paragraph, improve outsized earnings sentence.
+Third paragraph, remove outsized earnings sentence. Will do in Pareto section.
 
 Fourth paragraph, make first sentence more clear.
 `}
@@ -185,9 +185,9 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 
 Historically, artists lacked all means to engage with the public on their own, freeing them to explore at will— and this sometimes led to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
 
-Meanwhile, the major labels in the past would cast a wide net— which is the wisest *business* strategy for sure, given that a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take on greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But it's also the wisest *artistic* strategy, since the [outsized earnings](https://www.investopedia.com/terms/p/paretoprinciple.asp) of a few can bankroll the rest, allowing them to take chances on unexpected ideas.
+Meanwhile, the major labels in the past would cast a wide net— which is the wisest *business* strategy for sure, given that a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take on greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But it's also the wisest *artistic* strategy, since the [outsized earnings](https://www.investopedia.com/terms/p/paretoprinciple.asp) of a few can then bankroll the rest, allowing them to take chances on unexpected ideas.
 
-By contrast, the indie labels can only sign one artist at a time, so they always go with the safe bet of whoever the [people want](https://www.goodreads.com/quotes/988332). But people can only want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet— for those perched high enough to see it.
+By contrast, the indie labels can only sign one artist at a time, so they always go with the safe bet of whoever the [people want](https://www.goodreads.com/quotes/988332). But people only ever want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet— for those perched high enough to see it.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
@@ -332,10 +332,10 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
 ${'  ' || `
-// TODO: Revise. Make it more about looking for a new genre.
+// TODO: Review.
 `}
 
-Perhaps my arguments against indie rock seem moot now. After all, didn't poptimism defeat rockism a decade ago? Well, no. It was "indiefication" that killed rock as a genre. Then, believing the death to be natural, many in the indie camp became open to pop. So poptimism… is just indie rock's good intentions brought over to the pop genre!
+Perhaps my arguments against indie rock seem moot now. After all, didn't poptimism defeat rockism a decade ago? Well, no. It was "indiefication" that killed rock as a genre. Then, believing the death to be natural, many in the indie camp sought to do good elsewhere. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
@@ -367,6 +367,18 @@ Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to spr
 
 So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help to usher it in.
 
+${'  ' || `
+// TODO: New section. Salvation comes from thinking in systems
+
+First paragraph, why people hate government.
+
+Second paragraph, why people hate major labels. Bring up [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp) here, where the outsized earnings of a few bankroll the rest.
+
+Third paragraph, observe that most people aren't political libertarians. While most people talk the talk of wanting small government, few walk the walk. What if most artists *aren't* cultural libertarians— that is to say, they don't *actively* wish to be indie?
+
+Fourth paragraph, indie rock's logical conclusion gives us AI. Opportunity to understand systems thinking once and for all. Mention Donella Meadows. Interdependence. If there's one book I could get everyone in the arts to read…
+`}
+
 ### ${++sectionCounter}. Music recording is its own medium
 
 In a world flooded with content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every Romantic's go-to solution?!
@@ -378,10 +390,6 @@ Upon completion five years later, *Yearling's Bobtail* caught the attention of a
 Thus I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a rock band at all! Because who would opt to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop?
 
 But what makes the indie camp *especially* short-sighted is this: Recordings capture what shows can't. In other words, they're two distinct mediums— much like cinema and theater! So ignore those who insist that "real" artists start out by playing live. With BYCombo, you can help to usher in a revival of recorded music… just like the one I foresaw two decades ago.
-
-${'  ' || `
-// TODO: New section. Redundancy allows for robustness. Begin with difference between algorithms and AI. Judiciary. End with thinking in systems. Mention Donella Meadows. Seems like a lot, so prepare to winnow it down to a basic point.
-`}
 
 ### ${++sectionCounter}. Scarcity inspires generational courage
 
