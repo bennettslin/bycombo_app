@@ -55,7 +55,7 @@ To aim for the canon, a band must develop exceptional strengths. But this isn't 
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this is a *curse*, not a *blessing*! Past artists put out *demos*— and to rival them means doing likewise.
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to do so— with [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this isn't a *blessing*; it's a *curse*! Past artists put out *demos*— and to rival them means doing likewise.
 
 **Why a public registry?**
 
@@ -389,10 +389,6 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 
 ### ${++sectionCounter}. Music recording is its own medium
 
-${'  ' || `
-// TODO: Review new location.
-`}
-
 In a world flooded with content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every Romantic's go-to solution?!
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by [making a demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
@@ -400,10 +396,6 @@ To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once c
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I cobbled together a band, and we put on a show for one of them that was… a bit sloppy, given what little time my new bandmates had to learn the parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
 Thus I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a rock band at all! Because who would opt to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yes, recordings capture what shows can't… but this is an *asset*, not a *liability*! Like cinema and theater, they're two distinct mediums— and the former will *always* be a frontier of the latter. So ignore those who insist that "real" artists start out by playing live. With BYCombo, you can help to usher in a revival of recorded music… just like the one I foresaw two decades ago.
 
