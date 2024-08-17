@@ -397,7 +397,11 @@ Upon completion five years later, *Yearling's Bobtail* caught the attention of a
 
 Thus I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a rock band at all! Because who would opt to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop?
 
-Yes, recordings capture what shows can't… but this is an *asset*, not a *liability*! Like cinema and theater, they're two distinct mediums— and the former will *always* be a frontier of the latter. So ignore those who insist that "real" artists start out by playing live. With BYCombo, you can help to usher in a revival of recorded music… just like the one I foresaw two decades ago.
+${'  ' || `
+// TODO: Review.
+`}
+
+Yes, recordings capture what shows can't… but this is an *asset*, not a *liability*! Like cinema and theater, they're two distinct mediums— and the former will *always* be a frontier of the latter. So ignore those who insist that "real" artists start out by playing live. With BYCombo, you can help to usher in a revival of recorded music… by exploring one of music's last frontiers.
 
 ### ${++sectionCounter}. Progress values aesthetics, not logistics
 
@@ -405,11 +409,19 @@ When is it a "larp"? Here's a test: Could it have been a fictional movie *instea
 
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet enabled artists to get themselves known. But it just *might* care how BYCombo allowed them to combine mediums in unprecedented ways. So come explore *another* of music's frontiers— by having a dancer, illustrator, or puppeteer for a bandmate!
+${'  ' || `
+// TODO: Review.
+`}
+
+Unlike what the indie camp believes, then, music history *won't* care how the Internet enabled artists to get themselves known. But it just *might* care how BYCombo allowed them to combine mediums in unprecedented ways. So come explore another last frontier in music— by having a dancer, illustrator, or puppeteer for a bandmate!
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
-Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this isn't yet the case with rock bands— which means there's still *another* frontier left to explore! So if you're a Millennial, don't fret: You now have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
+${'  ' || `
+// TODO: Review.
+`}
+
+Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this isn't yet the case with rock bands— which means there's still *another* last frontier left to explore! So if you're a Millennial, don't fret: You now have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
 
 In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young people are reaching key milestones *later* in life, because society in *general* is now more complex; thus more time is needed to realize your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling makes you burn out *sooner*.
 
