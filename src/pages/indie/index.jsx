@@ -378,18 +378,18 @@ Fourth paragraph, indie rock's logical conclusion gives us AI. Opportunity to un
 ### ${++sectionCounter}. Scarcity inspires generational courage
 
 ${'  ' || `
-// TODO: Revise. Consider changing information to content?
+// TODO: Review.
 `}
 
 Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they content to merely "larp," or role-play, the *idea* of revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
-Here's my guess: Courage is inspired by scarcity— but Millennials only knew information scarcity long enough to fear it. They were then given structured ways to defeat it, which won [their loyalty](https://xkcd.com/1601). And thus, they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
+Here's my guess: Courage is inspired by scarcity— but Millennials only knew scarcity of content long enough to fear it. They were then given structured ways to defeat it, which won [their loyalty](https://xkcd.com/1601). And thus, they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
 
-Moreover, when information was scarce, joining a scene— goth, punk— took commitment; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
+Moreover, when content was scarce, joining a scene— goth, punk— took commitment; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
-So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of information, and now they [long for a return](http://archive.today/20240510/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
+So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](http://archive.today/20240510/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
