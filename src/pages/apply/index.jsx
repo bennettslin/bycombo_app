@@ -54,10 +54,6 @@ As a rock movement started by [a minority](/indie#hungry-outsiders-aim-for-the-c
 
 **Artists of other mediums:**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 One last frontier in the arts is for bands to explore [new combinations](/indie#progress-values-aesthetics-not-logistics) of different mediums. Which means you play a crucial role in bringing forth this century's canonical works!
 
 **International artists:**
