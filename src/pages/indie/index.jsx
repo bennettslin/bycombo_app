@@ -63,7 +63,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To find a stellar demo, one needs to sift through hundreds— so the indie gatekeepers rarely bother, since *any* artist they pick will be treated as an underdog deserving of charitable support. A canonical band's best bet, then, is to win over *elitist* gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
+To find that one stellar demo, a gatekeeper has to sift through hundreds— so the indie labels rarely bother, since *any* artist they pick will be treated as an underdog deserving of charitable support. A canonical band's best bet, then, is to win over *elitist* gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
 
@@ -405,7 +405,7 @@ Here's my guess: Courage is inspired by scarcity— but Millennials only faced a
 
 Moreover, back when content was scarce, joining a scene— goth, punk— took commitment; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
-So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for its scarcity](http://archive.today/20240510/https://www.nytimes.com/2022/12/15/style/teens-social-media.html). Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
+So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](http://archive.today/20240510/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
@@ -425,7 +425,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yes, recordings capture what shows can't… but this is an *asset*, not a *liability*! Like cinema and theater, they're distinct mediums— with the former being a frontier of the latter. So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can explore one of music's last frontiers by making a stellar demo… with no concern for how you'll recreate it live.
+Yes, recordings capture what shows can't… but this is an *asset*, not a *liability*! Like cinema and theater, they're distinct mediums— with the former being a frontier of the latter. So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can explore one of music's last frontiers, by making a stellar demo… with no concern for how you'll recreate it live.
 
 ### ${++sectionCounter}. Progress values aesthetics, not logistics
 
