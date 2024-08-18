@@ -63,7 +63,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-It takes effort to review a stellar demo— but the indie gatekeepers won't ever bother, since *any* artist they pick will be treated as an underdog deserving of charitable support. A canonical band's best bet, then, is to win over *elitist* gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
+To find a stellar demo, one needs to sift through hundreds— so the indie gatekeepers rarely bother, since *any* artist they pick will be treated as an underdog deserving of charitable support. A canonical band's best bet, then, is to win over *elitist* gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
 
@@ -251,13 +251,17 @@ So now, instead of democracy, we're all living under "indieocracy"— or, rule b
 
 ### ${++sectionCounter}. The silent majority leaves quietly
 
+${'  ' || `
+// TODO: Review whole section.
+`}
+
 Imagine hearing this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you*— to watch me. And yet, I don't even make minimum wage… while superstars earn millions. That's not fair! So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who would object?"
 
-Um, *we* would— the audience! The majority of us only want the *best* athletes, and it's the *talent scout's* job to know how to find them. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
+Um, *we* would— the audience! The majority of us only want the *best* athletes, and it's the *talent scout's* job to know what that entails. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. Which means the pro-*artist* stance of today's loud minority might just be a generational fluke… and *not* the future of music.
 
-Still, how do we become pro-*audience* once more? We admit that the silent majority only wants the *best* artists— and *not* the job of knowing how to find them! So BYCombo will bring back the elitist gatekeepers, if you can make the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+Still, how do we become pro-*audience* once more? We admit that the silent majority only wants the *best* artists— and *not* the job of knowing what that entails! So BYCombo will bring back the elitist gatekeepers, if you can make the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -397,11 +401,11 @@ Combining glam's gender-bending look with metal's aggression, hair metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
-Here's my guess: Courage is inspired by scarcity— but Millennials only faced a scarcity of content long enough to fear it. They were then given structured ways to defeat it, which won [their loyalty](https://xkcd.com/1601). And thus, they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
+Here's my guess: Courage is inspired by scarcity— but Millennials only faced a shortage of content long enough to fear it. They were then given structured ways to conquer it, winning [their loyalty](https://xkcd.com/1601). And thus, they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
 
 Moreover, back when content was scarce, joining a scene— goth, punk— took commitment; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
-So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](http://archive.today/20240510/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
+So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for its scarcity](http://archive.today/20240510/https://www.nytimes.com/2022/12/15/style/teens-social-media.html). Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
