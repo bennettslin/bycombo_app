@@ -247,19 +247,23 @@ So now, instead of democracy, we're all living under "indieocracy"— or, rule b
 
 ### ${++sectionCounter}. The silent majority leaves quietly
 
-${'  ' || `
-// TODO: Review whole section.
-`}
-
 Imagine hearing this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you*— to watch me. And yet, I don't even make minimum wage… while superstars earn millions. That's not fair! So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who would object?"
 
 Um, *we* would— the audience! The majority of us only want the *best* athletes, and it's the *talent scout's* job to know what that entails. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
-But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. Which means the pro-*artist* stance of today's loud minority might just be a generational fluke… and *not* the future of music.
+${'  ' || `
+// TODO: Review.
+`}
+
+But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means the pro-*artist* stance of today's loudest fans might just be a generational fluke… and *not* the future of music.
 
 Still, how do we become pro-*audience* once more? We admit that the silent majority only wants the *best* artists— and *not* the job of knowing what that entails! So BYCombo will bring back the elitist gatekeepers, if you can make the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
+
+${'  ' || `
+// TODO: Revise. Make point about difference between fanbase and audience?
+`}
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they merely judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
