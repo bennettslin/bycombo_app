@@ -255,7 +255,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means the pro-*artist* stance of today's loudest fans might just be a generational fluke… and *not* the future of music.
+But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. Like Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means the pro-*artist* stance of today's loudest fans might just be a generational fluke… and *not* the future of music.
 
 Still, how do we become pro-*audience* once more? We admit that the silent majority only wants the *best* artists— and *not* the job of knowing what that entails! So BYCombo will bring back the elitist gatekeepers, if you can make the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
@@ -383,15 +383,19 @@ Third paragraph, observe that most people aren't political libertarians. While m
 Fourth paragraph, indie rock's logical conclusion gives us AI. Opportunity to understand systems thinking once and for all. Mention Donella Meadows. Interdependence. If there's one book I could get everyone in the arts to read…
 `}
 
-### ${++sectionCounter}. Scarcity inspires generational courage
-
 ${'  ' || `
-// TODO: Review whole section.
+// TODO: Review title.
 `}
+
+### ${++sectionCounter}. Scarcity builds up generational courage
 
 Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they content to merely "larp," or role-play, the *idea* of revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
+
+${'  ' || `
+// TODO: Revise. Clarify that courage is resilience built up against scarcity.
+`}
 
 Here's my guess: Courage is inspired by scarcity— but Millennials only faced a shortage of content long enough to fear it. They were then given structured ways to conquer it, winning [their loyalty](https://xkcd.com/1601). And thus, they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
 
