@@ -285,16 +285,6 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 
 Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a Pulitzer Prize! Now BYCombo gives your band the same chances.
 
-${'  ' || `
-// TODO: New section. Ignorance leads to poor instincts. Use different word than "leads." Is this the best location? Make sure I don't repeat things too much elsewhere.
-
-First paragraph, rappers bash Gen X understood rapper is underprivileged, indie artists want community and mutual support. Move paragraph from self-reliance section here.
-
-Second paragraph, Millennials call rockism and poptimism. Why? Dunning-Kruger effect. If, like the indie artist, you refuse to believe that getting heard is a de facto competition, then you'll also lack the means to understand that it's the underprivileged who want competition and elitism.
-
-Fourth paragraph. Conclusion.
-`}
-
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
 While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
@@ -331,7 +321,11 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
-As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most learned to admire the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— and yet, some looked surprised by their own decision.
+${'  ' || `
+// TODO: Review link.
+`}
+
+As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most [learned to admire](https://www.vice.com/en/article/jd-vance-trump-messages) the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— and yet, some looked surprised by their own decision.
 
 So I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met a hundred indie gatekeepers. I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, every indie label converges on the same well-rounded way of thinking…
 
@@ -347,9 +341,19 @@ Every Black artist would stare glumly at us. Why? Because, back then, they *need
 
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because, if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
+${'  ' || `
+// TODO: New section. Ignorance leads to poor instincts. Use different word than "leads." Is this the best location? Make sure I don't repeat things too much elsewhere. Make sure it goes well with underdogs section, regarding mention of rockism and poptimism.
+
+First paragraph, rappers bash Gen X understood rapper is underprivileged, indie artists want community and mutual support. Move paragraph from self-reliance section here.
+
+Second paragraph, Millennials call rockism and poptimism. Why? Dunning-Kruger effect. If, like the indie artist, you refuse to believe that getting heard is a de facto competition, then you'll also lack the means to understand that it's the underprivileged who want competition and elitism.
+
+Fourth paragraph. Conclusion.
+`}
+
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
-Perhaps my arguments against indie rock seem moot now. After all, didn't poptimism defeat rockism a decade ago? Well, no. It was "indiefication" that killed rock as a genre. Then, thinking the death was natural, many in the indie camp sought to be of use elsewhere. So poptimism… is just indie rock's good intentions brought over to the pop genre!
+Perhaps my arguments against indie rock seem moot now. After all, didn't "poptimism" defeat "rockism" a decade ago? Well, no. It was "indiefication" that killed rock as a genre. Then, thinking the death was natural, many in the indie camp sought to be of use elsewhere. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
@@ -357,7 +361,7 @@ In a world where outsiders try much harder, to be much better, both indie rock a
 
 This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as you're hungry enough to try much harder, to be much better, BYCombo can offer an alternative— the new "rockism," maybe?
+Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as you're hungry enough to try much harder, to be much better, BYCombo can offer an alternative— the new rockism, maybe?
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
@@ -403,9 +407,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Here's my guess: Millennials faced scarcity of content just long enough to fear it. Then, before they could build resilience, they were given structured ways to defeat it— winning their [loyalty forever](https://xkcd.com/1601). And so they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
+Here's my theory: Millennials faced scarcity of content just long enough to hate it. Then, before they could learn resilience, they were given structured ways to defeat it— which [won their loyalty](https://xkcd.com/1601). And so they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
 
-Moreover, back when content was scarce, joining a scene— goth, punk— took commitment; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
+${'  ' || `
+// TODO: Review.
+`}
+
+Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](http://archive.today/20240510/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
