@@ -285,6 +285,16 @@ No thanks! Remember, rock and roll was founded by poor Blacks and queers, then t
 
 Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a Pulitzer Prize! Now BYCombo gives your band the same chances.
 
+${'  ' || `
+// TODO: New section. Ignorance leads to poor instincts. Use different word than "leads." Is this the best location? Make sure I don't repeat things too much elsewhere.
+
+First paragraph, rappers bash Gen X understood rapper is underprivileged, indie artists want community and mutual support. Move paragraph from self-reliance section here.
+
+Second paragraph, Millennials call rockism and poptimism. Why? Dunning-Kruger effect. If, like the indie artist, you refuse to believe that getting heard is a de facto competition, then you'll also lack the means to understand that it's the underprivileged who want competition and elitism.
+
+Fourth paragraph. Conclusion.
+`}
+
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
 While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
@@ -393,7 +403,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Here's my guess: Millennials faced scarcity of content only long enough to fear it. Then, before they could build resilience, they were given structured ways to defeat it— winning their [loyalty forever](https://xkcd.com/1601). And so they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
+Here's my guess: Millennials faced scarcity of content just long enough to fear it. Then, before they could build resilience, they were given structured ways to defeat it— winning their [loyalty forever](https://xkcd.com/1601). And so they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
 
 Moreover, back when content was scarce, joining a scene— goth, punk— took commitment; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
