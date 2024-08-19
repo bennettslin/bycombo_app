@@ -395,15 +395,7 @@ Combining glam's gender-bending look with metal's aggression, hair metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Here's my theory: Millennials faced scarcity of content just long enough to hate it. Then, before they could learn resilience, they were given structured ways to defeat it— which [won their loyalty](https://xkcd.com/1601). And so they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
