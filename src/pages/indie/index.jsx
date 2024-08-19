@@ -393,7 +393,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Here's my guess: Millennials faced scarcity of content only long enough to fear it. Then, before they could build resilience, they were given structured ways to defeat it— [winning their loyalty](https://xkcd.com/1601) forever. And so they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
+Here's my guess: Millennials faced scarcity of content only long enough to fear it. Then, before they could build resilience, they were given structured ways to defeat it— winning their [loyalty forever](https://xkcd.com/1601). And so they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
 
 Moreover, back when content was scarce, joining a scene— goth, punk— took commitment; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
