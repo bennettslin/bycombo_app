@@ -174,20 +174,16 @@ But this can't happen if you're always context switching— which explains why "
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 ${'  ' || `
-// TODO: Revise. Also review location.
-
-Third paragraph, remove outsized earnings sentence. Will do in Pareto section.
-
-Fourth paragraph, make first sentence more clear.
+// TODO: Review. Also review location.
 `}
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
 Historically, artists lacked all means to engage with the public on their own, freeing them to explore at will— and this sometimes led to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
 
-Meanwhile, the major labels in the past had the budget to cast a wide net— which is the smartest business model for sure, since a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Yet it *also* leads to the best art, since, since no single artist needs to be everything to everyone, allowing them to take chances on unexpected ideas.
+Meanwhile, the major labels in the past had the budget to cast a wide net— which is the smartest *business model* for sure, since a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enabled them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). And yet… it *also* led them to put out the best art— by freeing them to sign unproven artists with unexpected ideas.
 
-By contrast, the indie labels only sign one artist at a time, so they always go with the safe bet of whoever the [people want](https://www.goodreads.com/quotes/988332). But people only ever want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet— for those perched high enough to see it.
+By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of choosing what the [people want](https://www.goodreads.com/quotes/988332). But people only ever want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet— for those perched high enough to see it.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
@@ -436,7 +432,7 @@ ${'  ' || `
 
 First paragraph, why people hate government.
 
-Second paragraph, why people hate major labels. Bring up [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp) here, where the outsized earnings of a few bankroll the rest.
+Second paragraph, why people hate major labels. Bring up [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp) here. Their business model, in which the outsized earnings of a few serve to bankroll the rest, pleases no one.
 
 Third paragraph, observe that most people aren't political libertarians. While most people talk the talk of wanting small government, few walk the walk. What if most artists *aren't* cultural libertarians— that is to say, they don't *actively* wish to be indie?
 
