@@ -107,15 +107,11 @@ In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
 
-So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even billionaire superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the surefire *winners*!
+So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to where we are today, with even superstars angling to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the surefire *winners*!
 
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
-
-${'  ' || `
-// TODO: Review new location.
-`}
 
 Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://visualkei.fandom.com/wiki/Visual_Kei). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
@@ -262,10 +258,10 @@ Still, how do we become pro-*audience* once more? Why, we admit that the silent 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
 ${'  ' || `
-// TODO: Revise. Make point about difference between fanbase and audience?
+// TODO: Review.
 `}
 
-Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they merely judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
+Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need him to hustle? To engage with them directly? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that stand a chance to be *re*-discovered, just [think like](https://en.wikipedia.org/wiki/Theory_of_mind) an audience in the future… and *not* like a fanbase in the present.
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone could ever be *made* known… simply by deserving to be.
 
@@ -274,32 +270,6 @@ Let's imagine, though, that you *refuse* to hustle; you've tried it before, and 
 So instead, you build yourself up into what a future audience— or dating prospect!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie gatekeepers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
 But why would the next generation side with past gatekeepers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
-
-### ${++sectionCounter}. Independence breeds homogeneity
-
-${'  ' || `
-// TODO: Review new location.
-`}
-
-As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most [learned to admire](https://www.vice.com/en/article/jd-vance-trump-messages) the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— and yet, some looked surprised by their own decision.
-
-So I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met a hundred indie gatekeepers. I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, every indie label converges on the same well-rounded way of thinking…
-
-Moreover, just like each person gets one vote in a democracy, each work gets just one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; since they sign just one artist at a time, a well-rounded one is the safest bet *every* time…
-
-Still, what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in matters of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
-
-### ${++sectionCounter}. Interdependence guards against prejudice
-
-${'  ' || `
-// TODO: Review new location.
-`}
-
-Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce: "Artists, as your own best advocate, you'll now be judged by how far you get on your *own*, without the help of a business partner. The playing field is finally level!"
-
-Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
-
-It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because, if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
@@ -310,6 +280,16 @@ Yet despite the poor fit, indie rock sure is eager of late to hand us the reins!
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
 Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar won a Pulitzer Prize! Now BYCombo gives your band the same chances.
+
+${'  ' || `
+// TODO: New section. Elitism is the great equalizer. Review location. Make sure I don't repeat things too much elsewhere. Get rid of "great equalizer" in interdependence section. Make sure it goes well with mention of rockism and poptimism in underdogs section. Okay, but, where did poptimism come from?
+
+First paragraph, rappers bash Gen X understood rapper is underprivileged, indie artists want community and mutual support. Move paragraph from self-reliance section here. Move talk of bashing wack MC here.
+
+Second paragraph, Millennials call rockism and poptimism. Why? Dunning-Kruger effect. If, like the indie artist, you refuse to believe that getting heard is a de facto competition, then you'll also lack the means to understand that it's the underprivileged who want competition and elitism.
+
+Fourth paragraph. Conclusion.
+`}    
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
@@ -333,16 +313,6 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never hustled to pay indie rock's dues myself.
 
-${'  ' || `
-// TODO: New section. Elitism is the great equalizer. Review location. Make sure I don't repeat things too much elsewhere. Get rid of "great equalizer" in interdependence section. Make sure it goes well with mention of rockism and poptimism in underdogs section. Okay, but, where did poptimism come from?
-
-First paragraph, rappers bash Gen X understood rapper is underprivileged, indie artists want community and mutual support. Move paragraph from self-reliance section here. Move talk of bashing wack MC here.
-
-Second paragraph, Millennials call rockism and poptimism. Why? Dunning-Kruger effect. If, like the indie artist, you refuse to believe that getting heard is a de facto competition, then you'll also lack the means to understand that it's the underprivileged who want competition and elitism.
-
-Fourth paragraph. Conclusion.
-`}
-
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
 Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
@@ -354,6 +324,24 @@ And this should concern us, since Radiohead… were the ultimate hobbyists! They
 But can't *today's* indies learn to sign the *next* On a Friday? No, because status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead— by betting it all on the craft.
+
+### ${++sectionCounter}. Independence breeds homogeneity
+
+As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most [learned to admire](https://www.vice.com/en/article/jd-vance-trump-messages) the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— and yet, some looked surprised by their own decision.
+
+So I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met a hundred indie gatekeepers. I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, every indie label converges on the same well-rounded way of thinking…
+
+Moreover, just like each person gets one vote in a democracy, each work gets just one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; since they sign just one artist at a time, a well-rounded one is the safest bet *every* time…
+
+Still, what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in matters of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
+
+### ${++sectionCounter}. Interdependence guards against prejudice
+
+Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce: "Artists, as your own best advocate, you'll now be judged by how far you get on your *own*, without the help of a business partner. The playing field is finally level!"
+
+Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
+
+It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because, if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
@@ -375,7 +363,11 @@ In the past, a major label would bet on visions that other labels *didn't* see�
 
 By contrast, the indie labels obey the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is to trust the numbers! And for this, the indies get praised as "good guys."
 
-So when the tech platforms arrived, their focus on numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just for publicity!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
+${'  ' || `
+// TODO: Review.
+`}
+
+So when the tech platforms arrived, their focus on numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just for publicity!" And social media: "*Real* artists engage directly with their fans, and now they can at *any* time— not just after a show!"
 
 In short, today's data-driven industry is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](http://archive.today/20240511/https://www.honest-broker.com/p/record-labels-dig-their-own-grave#selection-829.0-871.93) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
