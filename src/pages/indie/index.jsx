@@ -185,9 +185,9 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 
 Historically, artists lacked all means to engage with the public on their own, freeing them to explore at will— and this sometimes led to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
 
-Meanwhile, the major labels in the past would cast a wide net— which is the wisest *business* strategy for sure, given that a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take on greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But it's also the wisest *artistic* strategy, since the [outsized earnings](https://www.investopedia.com/terms/p/paretoprinciple.asp) of a few can then bankroll the rest, allowing them to take chances on unexpected ideas.
+Meanwhile, the major labels in the past had the budget to cast a wide net— which is the smartest business model for sure, since a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Yet it *also* leads to the best art, since, since no single artist needs to be everything to everyone, allowing them to take chances on unexpected ideas.
 
-By contrast, the indie labels can only sign one artist at a time, so they always go with the safe bet of whoever the [people want](https://www.goodreads.com/quotes/988332). But people only ever want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet— for those perched high enough to see it.
+By contrast, the indie labels only sign one artist at a time, so they always go with the safe bet of whoever the [people want](https://www.goodreads.com/quotes/988332). But people only ever want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet— for those perched high enough to see it.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
@@ -251,13 +251,9 @@ Imagine hearing this argument: "When I play sports, it doesn't just benefit *me*
 
 Um, *we* would— the audience! The majority of us only want the *best* athletes, and it's the *talent scout's* job to know what that entails. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. Like Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means the pro-*artist* stance of today's loudest fans might just be a generational fluke… and *not* the future of music.
 
-Still, how do we become pro-*audience* once more? We admit that the silent majority only wants the *best* artists— and *not* the job of knowing what that entails! So BYCombo will bring back the elitist gatekeepers, if you can make the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+Still, how do we become pro-*audience* once more? Why, we admit that the silent majority only wants the *best* artists— and *not* the job of knowing what that entails! So BYCombo will bring back the elitist gatekeepers, if you can make the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -321,10 +317,6 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most [learned to admire](https://www.vice.com/en/article/jd-vance-trump-messages) the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— and yet, some looked surprised by their own decision.
 
 So I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met a hundred indie gatekeepers. I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, every indie label converges on the same well-rounded way of thinking…
@@ -342,7 +334,7 @@ Every Black artist would stare glumly at us. Why? Because, back then, they *need
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf. Because, if *you* see interdependence as the great equalizer… who is anyone else to argue?
 
 ${'  ' || `
-// TODO: New section. Ignorance leads to poor instincts. Use different word than "leads." Is this the best location? Make sure I don't repeat things too much elsewhere. Make sure it goes well with underdogs section, regarding mention of rockism and poptimism.
+// TODO: New section. Elitism is the great equalizer. Review location. Make sure I don't repeat things too much elsewhere. Get rid of "great equalizer" in interdependence section. Make sure it goes well with mention of rockism and poptimism in underdogs section.
 
 First paragraph, rappers bash Gen X understood rapper is underprivileged, indie artists want community and mutual support. Move paragraph from self-reliance section here.
 
@@ -353,7 +345,11 @@ Fourth paragraph. Conclusion.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
-Perhaps my arguments against indie rock seem moot now. After all, didn't "poptimism" defeat "rockism" a decade ago? Well, no. It was "indiefication" that killed rock as a genre. Then, thinking the death was natural, many in the indie camp sought to be of use elsewhere. So poptimism… is just indie rock's good intentions brought over to the pop genre!
+${'  ' || `
+// TODO: Review.
+`}
+
+Perhaps my arguments against indie rock seem moot now. After all, didn't "poptimism" defeat "rockism" a decade ago? Well, no. It was "indiefication" that killed rock as a genre. Then, thinking the death was natural, many in the indie camp sought to be useful elsewhere. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
@@ -384,18 +380,6 @@ According to science, we humans aren't just biased against creativity, but also 
 Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as Romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
 So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help to usher it in.
-
-${'  ' || `
-// TODO: New section. Salvation comes from thinking in systems
-
-First paragraph, why people hate government.
-
-Second paragraph, why people hate major labels. Bring up [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp) here, where the outsized earnings of a few bankroll the rest.
-
-Third paragraph, observe that most people aren't political libertarians. While most people talk the talk of wanting small government, few walk the walk. What if most artists *aren't* cultural libertarians— that is to say, they don't *actively* wish to be indie?
-
-Fourth paragraph, indie rock's logical conclusion gives us AI. Opportunity to understand systems thinking once and for all. Mention Donella Meadows. Interdependence. If there's one book I could get everyone in the arts to read…
-`}
 
 ### ${++sectionCounter}. Scarcity builds generational courage
 
@@ -454,6 +438,20 @@ In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszen
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained from years of hustling might just as well be won by chance, or bought through privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of others doing the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
+
+${'  ' || `
+// TODO: New section. Salvation comes from thinking in systems
+
+First paragraph, why people hate government.
+
+Second paragraph, why people hate major labels. Bring up [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp) here, where the outsized earnings of a few bankroll the rest.
+
+Third paragraph, observe that most people aren't political libertarians. While most people talk the talk of wanting small government, few walk the walk. What if most artists *aren't* cultural libertarians— that is to say, they don't *actively* wish to be indie?
+
+Redundancy keeps system robust against any single point of failure.
+
+Fourth paragraph, indie rock's logical conclusion gives us AI. Opportunity to understand systems thinking once and for all. Mention Donella Meadows. Interdependence. If there's one book I could get everyone in the arts to read…
+`}
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
