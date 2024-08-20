@@ -217,8 +217,6 @@ Simply put, indie rock is widely seen as a do-it-yourself movement— the kind t
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](http://archive.today/20240511/https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#selection-5381.0-5381.209) of this belief.
 
-(By the way, don't be fooled by those who insist that getting heard isn't a competition. They still want to compete— just on terms more favorable to them and less obvious to others: having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth.)
-
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to suck it up and try harder. But with BYCombo, there's now an opposition party that upholds the interdependence you want— out of a shared love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
@@ -303,10 +301,14 @@ But so far, their efforts have only helped women, not us minorities— or *male*
 
 You'll notice, then, that we minorities *aren't* ones to begrudge a business partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](http://archive.today/20240511/https://genius.com/Eminem-white-america-lyrics#selection-1035.0-1055.50). Now with BYCombo, this ticket can be yours once again.
 
-${'  ' || `
-// TODO: New section. Elitism is the great equalizer. Review location. Make sure I don't repeat things too much elsewhere. Get rid of "great equalizer" in interdependence section. Make sure it goes well with mention of rockism and poptimism in underdogs section. Okay, but, where did poptimism come from?
+### ${++sectionCounter}. Elitism is the great equalizer
 
-First paragraph, rappers bash Gen X understood rapper is underprivileged, indie artists want community and mutual support. Move paragraph from self-reliance section here. Rappers love to bash the "wack MC."
+${'  ' || `
+// TODO: New section. Review location. Make sure I don't repeat things too much elsewhere. Make sure it goes well with mention of rockism and poptimism in underdogs section. Okay, but, where did poptimism come from?
+
+First paragraph, rappers bash Gen X understood rapper is underprivileged, indie artists want community and mutual support. Rappers love to bash the "wack MC."
+
+By the way, don't be fooled by those who insist that getting heard isn't a competition. They still want to compete— just on terms more favorable to them and less obvious to others: having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth.
 
 Second paragraph, Millennials call rockism and poptimism. Why? Dunning-Kruger effect. If, like the indie artist, you refuse to believe that getting heard is a de facto competition, then you'll also lack the means to understand that it's the underprivileged who want competition and elitism.
 
@@ -365,7 +367,7 @@ Yet underdog movements will never go away, because to be treated as an underdog 
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
-Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie* camp. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
+Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie camp*. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept unfair terms— leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
@@ -377,7 +379,7 @@ ${'  ' || `
 
 So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just for publicity!" And social media: "*Real* artists engage directly with their fans, and now they can at *any* time— not just after a show!"
 
-In short, today's data-driven industry is what the [*indie* camp wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](http://archive.today/20240511/https://www.honest-broker.com/p/record-labels-dig-their-own-grave#selection-829.0-871.93) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
+In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](http://archive.today/20240511/https://www.honest-broker.com/p/record-labels-dig-their-own-grave#selection-829.0-871.93) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
