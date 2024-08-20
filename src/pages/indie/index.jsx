@@ -173,10 +173,6 @@ But this can't happen if you're always context switching— which explains why "
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no* one takes any risks!
 
 Historically, artists lacked all means to engage with the public on their own, freeing them to explore at will— and this sometimes led to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
@@ -257,7 +253,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need him to hustle? To engage with them directly? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that stand a chance to be *re*-discovered, just [think like](https://en.wikipedia.org/wiki/Theory_of_mind) an audience in the future… and *not* like a fanbase in the present.
+Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need him to hustle? To engage with them directly? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that stand a chance of being *re*-discovered, just [think like](https://en.wikipedia.org/wiki/Theory_of_mind) an audience in the future… and *not* like a fanbase in the present.
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone could ever be *made* known… simply by deserving to be.
 
@@ -315,7 +311,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Rappers know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being "wack"— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
+So kindness to the audience means cruelty to worse artists… but unlike rappers, the indie gatekeepers *can't* be cruel; they're "good guys"! Rather than weed you out for being "wack," then— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
@@ -444,10 +440,6 @@ Fourth paragraph, indie rock's logical conclusion gives us AI. Opportunity to un
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became circles. This was a much [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Well, music today requires a similarly convoluted explanation, doesn't it? After all, "indiefication" is widely understood to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
