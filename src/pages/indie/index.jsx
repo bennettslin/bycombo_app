@@ -181,7 +181,7 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 
 Historically, artists lacked all means to engage with the public on their own, freeing them to explore at will— and this sometimes led to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
 
-Meanwhile, the major labels in the past had the budget to cast a wide net— which is, of course, the smart *business* move, since a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Yet it also leads them to deliver the boldest *art*— by freeing them to sign unproven artists with unexpected ideas.
+Meanwhile, the major labels in the past had the budget to cast a wide net— which is, of course, the smart *business model*, since a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Yet it also allows them to deliver the boldest *art*— by freeing them to sign unproven artists with unexpected ideas.
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the [people want](https://www.goodreads.com/quotes/988332). But people only want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet— for those perched high enough to see it.
 
@@ -280,7 +280,7 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 ${'  ' || `
 // TODO: New section. Elitism is the great equalizer. Review location. Make sure I don't repeat things too much elsewhere. Get rid of "great equalizer" in interdependence section. Make sure it goes well with mention of rockism and poptimism in underdogs section. Okay, but, where did poptimism come from?
 
-First paragraph, rappers bash Gen X understood rapper is underprivileged, indie artists want community and mutual support. Move paragraph from self-reliance section here. Move talk of bashing wack MC here.
+First paragraph, rappers bash Gen X understood rapper is underprivileged, indie artists want community and mutual support. Move paragraph from self-reliance section here. Rappers love to bash the "wack MC."
 
 Second paragraph, Millennials call rockism and poptimism. Why? Dunning-Kruger effect. If, like the indie artist, you refuse to believe that getting heard is a de facto competition, then you'll also lack the means to understand that it's the underprivileged who want competition and elitism.
 
@@ -311,7 +311,11 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
-Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
+${'  ' || `
+// TODO: Review.
+`}
+
+Rappers know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being "wack"— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
@@ -358,10 +362,6 @@ Perhaps my arguments against indie rock seem misplaced. After all, aren't the te
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left artists powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept unfair terms— leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
 By contrast, the indie labels obey the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is to trust the numbers! And for this, the indies get praised as "good guys."
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So when the tech platforms arrived, their focus on numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just for publicity!" And social media: "*Real* artists engage directly with their fans, and now they can at *any* time— not just after a show!"
 
