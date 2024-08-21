@@ -248,12 +248,12 @@ Still, how do we become pro-*audience* once more? Why, we admit that the silent 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review two paragraphs.
 `}
 
-Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need him to hustle? To engage with them directly? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that stand a chance of being *re*-discovered, just [think like](https://en.wikipedia.org/wiki/Theory_of_mind) an audience in the future… and *not* like a fanbase in the present.
+Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need him to hustle, or to engage with his fans? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that stand a chance of being *re*-discovered, just [think like](https://en.wikipedia.org/wiki/Theory_of_mind) an audience in the future… and *not* like a fanbase in the present.
 
-In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone could ever be *made* known… simply by deserving to be.
+In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could ever be *made* known… simply by deserving to be.
 
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it felt awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
 
@@ -262,10 +262,6 @@ So instead, you build yourself up into what a future audience— or dating prosp
 But why would the next generation side with past gatekeepers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
-
-${'  ' || `
-// TODO: Review new location.
-`}
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture; it's just that, being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one would *help*.
 
@@ -314,7 +310,7 @@ Fourth paragraph. Conclusion.
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review after elitism section?
 `}
 
 So kindness to the audience means cruelty to worse artists… but unlike rappers, the indie gatekeepers *can't* be cruel; they're "good guys"! Rather than weed you out for being "wack," then— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
@@ -343,10 +339,6 @@ Indie rock is an ideology more than anything else— and ideologies transcend ti
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
@@ -369,11 +361,7 @@ In the past, a major label would bet on visions that other labels *didn't* see�
 
 By contrast, the indie labels obey the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is to trust the numbers! And for this, the indies get praised as "good guys."
 
-${'  ' || `
-// TODO: Review.
-`}
-
-So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just for publicity!" And social media: "*Real* artists engage directly with their fans, and now they can at *any* time— not just after a show!"
+So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just for publicity!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
 
 In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](http://archive.today/20240511/https://www.honest-broker.com/p/record-labels-dig-their-own-grave#selection-829.0-871.93) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
