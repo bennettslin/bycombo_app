@@ -59,7 +59,11 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-To find that one stellar demo, a gatekeeper has to sift through hundreds— so the indie labels rarely bother, since *any* artist they pick will be treated as an underdog deserving of charitable support. A canonical band's best bet, then, is to win over *elitist* gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
+${'  ' || `
+// TODO: Review.
+`}
+
+To find that one stellar demo, a gatekeeper has to sift through hundreds— so the indie labels rarely bother, since *any* artist they pick will be treated as an underdog deserving of charitable support. A history-making band's best bet, then, is to win over *elitist* gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
 
@@ -186,12 +190,12 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 Historically, artists lacked all means to engage with the public on their own, freeing them to explore at will— and this sometimes led to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
 
 ${'  ' || `
-// TODO: Review two paragraphs.
+// TODO: Review.
 `}
 
-Meanwhile, the major labels in the past had the budget to cast a wide net— which is, of course, the smartest *business model*, given that a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But also, by freeing them to sign unproven artists with unexpected ideas… it allows them to deliver the boldest *art*!
+Meanwhile, the major labels in the past had the budget to cast a wide net— which is, of course, the smarter business model, given that a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Yet funny enough, it *also* allows them to deliver the boldest art… by freeing them to sign unknown artists with unexpected ideas!
 
-By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the [people want](https://www.goodreads.com/quotes/988332). Yet people only want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet— for those perched high enough to see it.
+By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the [people want](https://www.goodreads.com/quotes/988332). But people only want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet— for those perched high enough to see it.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
@@ -256,10 +260,10 @@ Still, how do we become pro-*audience* once more? Why, we admit that the silent 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
 ${'  ' || `
-// TODO: Review two paragraphs.
+// TODO: Review.
 `}
 
-Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need him to hustle, or to engage with his fans? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that stand a chance of being *re*-discovered, just [think like](https://en.wikipedia.org/wiki/Theory_of_mind) an audience in the future… and *not* like a fanbase in the present.
+Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle, or engage with his fans? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists who stand a chance of being *re*-discovered, just [think like](https://en.wikipedia.org/wiki/Theory_of_mind) an audience in the future… and *not* like a fanbase in the present.
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could simply be *made* known… by deserving to be.
 
@@ -339,10 +343,6 @@ So I had to wonder: Shouldn't *one* by now have given me a chance? Then it click
 
 Moreover, just like each person gets one vote in a democracy, each work gets just one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; since they sign just one artist at a time, a well-rounded one is the safest bet *every* time…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Still, what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
@@ -402,10 +402,6 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 ### ${++sectionCounter}. Music recording is its own medium
 
 In a world now awash in content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every Romantic's go-to solution?!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
