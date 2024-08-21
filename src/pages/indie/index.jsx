@@ -171,6 +171,14 @@ Of course, the best artists *are* human— so how are such works possible? It's 
 
 But this can't happen if you're always context switching— which explains why "indiefication" has made music worse. Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have a business partner wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
+${'  ' || `
+// TODO: New section. Means to scale is decided upfront
+
+Make sure the points made are different enough from above serendipity section.
+
+Mention difference between top down and bottom up approach. Winning over elites, and having them spread from top down. Versus winning over masses, through fan engagement. And, of course, windfall versus workhorse art. Which explains why today's artists, who are forced to spread from the bottom down, only ever make workhorse art, even after they've made it.
+`}
+
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
@@ -190,10 +198,6 @@ What confused me is that I'd explicitly set out to make a [work of art](https://
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
 It's no surprise, then, that history's pioneering works were often backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their respective genres— who *didn't* know what the people wanted, and thus *weren't* led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
-
-${'  ' || `
-// TODO: New section. Capacity to scale is decided upfront.
-`}
 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
@@ -253,7 +257,7 @@ ${'  ' || `
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need him to hustle, or to engage with his fans? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that stand a chance of being *re*-discovered, just [think like](https://en.wikipedia.org/wiki/Theory_of_mind) an audience in the future… and *not* like a fanbase in the present.
 
-In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could ever be *made* known… simply by deserving to be.
+In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could simply be *made* known… by deserving to be.
 
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it felt awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
 
@@ -331,7 +335,11 @@ So I had to wonder: Shouldn't *one* by now have given me a chance? Then it click
 
 Moreover, just like each person gets one vote in a democracy, each work gets just one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; since they sign just one artist at a time, a well-rounded one is the safest bet *every* time…
 
-Still, what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in matters of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
+${'  ' || `
+// TODO: Review.
+`}
+
+Still, what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
@@ -391,7 +399,11 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 
 In a world now awash in content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every Romantic's go-to solution?!
 
-To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by [making a demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
+${'  ' || `
+// TODO: Review.
+`}
+
+To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I cobbled together a band, and we put on a show for one of them that was… a bit sloppy, given what little time my new bandmates had to learn the parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
