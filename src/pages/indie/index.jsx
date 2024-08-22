@@ -186,10 +186,10 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 Historically, artists lacked all means to engage with the public on their own, freeing them to explore at will— and this sometimes led to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
 
 ${'  ' || `
-// TODO: Revise. Wide net and diverse roster are redundant.
+// TODO: Review.
 `}
 
-Meanwhile, the major labels in the past had the budget to cast a wide net— which, of course, makes sense as a business model, since a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Yet funny enough, it *also* allows them to deliver the boldest art… by freeing them to sign unknown artists with unexpected ideas!
+Meanwhile, the major labels in the past had the budget to cast a [wide net](https://www.investopedia.com/investing/importance-diversification) for talent— which made sense business-wise, since this enabled them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Funny enough, though, it *also* allowed them to deliver the boldest art… by freeing them to sign unknown artists with unexpected ideas!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the [people want](https://www.goodreads.com/quotes/988332). But people only want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet… for those perched high enough to see it.
 
@@ -346,7 +346,11 @@ As their party devolved into "indieocracy," many Republicans thought they'd resi
 
 So I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met a hundred indie gatekeepers. I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, every indie label converges on the same well-rounded way of thinking…
 
-Moreover, just like each person gets one vote in a democracy, each work gets just one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; since they sign just one artist at a time, a well-rounded one is the safest bet *every* time…
+${'  ' || `
+// TODO: Review.
+`}
+
+Moreover, just like each person gets one vote in a democracy, each work gets just one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time…
 
 Still, what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
 
