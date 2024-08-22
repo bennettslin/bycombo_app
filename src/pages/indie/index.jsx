@@ -103,6 +103,10 @@ All is well, then, according to the indie camp: Online, the grassroots remains a
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
+${'  ' || `
+// TODO: Consider moving before underdogs to make point clear that poptimism is logical endgame of indie rock.
+`}
+
 In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we *truly* supported were amateurs, recluses, the mentally ill… Yet today's fans use the word "support" to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
@@ -302,15 +306,18 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 ${'  ' || `
 // TODO: New section. Review location.
 
+After cronyism. Mention of circle of friends and support.
+Before countercultures. Mention of wack MC.
+
 Who foresaw indie rock's final stage as a trust fund playground? We did— 
 https://knowyourmeme.com/photos/2316349
 
 Fourth paragraph. Conclusion.
 `}
 
-While indie artists speak of friendship and mutual support, rappers love to bash the "wack MC." Yet despite the rapper's elitism, Gen X saw them as the true face of disadvantage. How so? Because when millions want what few can have, getting known is a *de facto* competition. And the disadvantaged will always want to make this point clear, to prevent hidden advantages from playing a role.
+While indie artists speak of solidarity, rappers revel in snobbery— yet for Gen X, it's the latter who represents the true face of disadvantage! Why is this? Because when millions hope to make it, but only a few get to do so, then it's a *de facto* competition. And to prevent hidden advantages from playing a role, the disadvantaged will always make this point clear.
 
-Unfortunately, much like [being unskilled](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) robs someone of the ability to understand that another's skills are superior to their own, the indie camp fails to see that the arts are a competition, which warped their understanding of how a truly disadvantaged artist would behave differently.
+Unfortunately, much like [being unskilled](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) robs someone of the ability to understand that another's skills are superior to their own, Millennials fail to see that the arts are a competition, which warped their understanding of how a truly disadvantaged artist would behave differently.
 
 And so they decry the rapper's elitism as "rockist"— to imply that it's the original sin of rock and roll itself, and also no better than racism.
 
@@ -322,7 +329,7 @@ ${'  ' || `
 // TODO: Revise after elitism section.
 `}
 
-So kindness to the audience means cruelty to worse artists… but unlike rappers, the indie gatekeepers *can't* be cruel; they're "good guys"! Rather than weed you out for being "wack," then— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
+Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
@@ -353,7 +360,7 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
 ${'  ' || `
-// TODO: Revise after elitism section. Make sure talk of poptimism and rockism still makes sense. Maybe: "Okay, but, where did poptimism come from?"
+// TODO: Revise after elitism section. Make sure talk of poptimism and rockism still makes sense. Maybe: "Okay, but, where did poptimism come from?" After all, with the rise of "poptimism," it sure seems like pop has thoroughly defeated rock, right?
 `}
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't "poptimism" defeat "rockism" a decade ago? Well, no. It was "indiefication" that killed rock as a genre. Then, thinking the death was natural, many in the indie camp sought to be useful elsewhere. So poptimism… is just indie rock's good intentions brought over to the pop genre!
