@@ -59,10 +59,6 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To find that one stellar demo, a gatekeeper has to sift through hundreds— so the indie labels rarely bother, since *any* artist they pick will be treated as an underdog deserving of charitable support. A history-making band's best bet, then, is to win over *elitist* gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
@@ -193,9 +189,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Meanwhile, the major labels in the past had the budget to cast a wide net— which is, of course, the smarter business model, given that a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Yet funny enough, it *also* allows them to deliver the boldest art… by freeing them to sign unknown artists with unexpected ideas!
+Meanwhile, the major labels in the past had the budget to cast a wide net— which is, of course, the smartest business model, given that a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Yet funny enough, it *also* allows them to deliver the boldest art… by freeing them to sign unknown artists with unexpected ideas!
 
-By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the [people want](https://www.goodreads.com/quotes/988332). But people only want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet— for those perched high enough to see it.
+By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the [people want](https://www.goodreads.com/quotes/988332). But people only want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet… for those perched high enough to see it.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
@@ -287,6 +283,10 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
+${'  ' || `
+// TODO: Revise. Can mention the trust fund thing in elitism section. Move meme link there as well. Point out that indie rock was White and male for so long.
+`}
+
 Who foresaw indie rock's final stage as a trust fund playground? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](http://archive.today/20240511/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#selection-547.0-579.35). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of being no better than a foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
@@ -308,16 +308,20 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 ### ${++sectionCounter}. Elitism is the great equalizer
 
 ${'  ' || `
-// TODO: New section. Review location. Make sure I don't repeat things too much elsewhere. Make sure it goes well with mention of rockism and poptimism in underdogs section. Okay, but, where did poptimism come from?
+// TODO: New section. Review location.
 
-First paragraph, rappers bash Gen X understood rapper is underprivileged, indie artists want community and mutual support. Rappers love to bash the "wack MC."
-
-By the way, don't be fooled by those who insist that getting heard isn't a competition. They still want to compete— just on terms more favorable to them and less obvious to others: having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth.
-
-Second paragraph, Millennials call rockism and poptimism. Why? Dunning-Kruger effect. If, like the indie artist, you refuse to believe that getting heard is a de facto competition, then you'll also lack the means to understand that it's the underprivileged who want competition and elitism.
+Make sure I don't repeat things too much elsewhere. Make sure it goes well with mention of rockism and poptimism in underdogs section. Okay, but, where did poptimism come from?
 
 Fourth paragraph. Conclusion.
 `}
+
+While indie artists speak of friendship and mutual support, rappers love to bash the "wack MC." Yet despite the rapper's elitism, Gen X saw them as the true face of disadvantage. How so? Because when millions want what few can have, getting known is a *de facto* competition. And the disadvantaged will always want to make this point clear, to prevent hidden advantages from playing a role.
+
+Unfortunately, much like [being unskilled](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) robs someone of the ability to understand that another's skills are superior to their own, the indie camp fails to see that the arts are a competition, which warped their understanding of how a truly disadvantaged artist would behave differently.
+
+And so they decry the rapper's elitism as "rockist"— to imply that it's the original sin of rock and roll itself, and also no better than racism.
+
+Otherwise, hidden advantages will play out instead: having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
@@ -354,6 +358,10 @@ Every Black artist would stare glumly at us. Why? Because, back then, they *need
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
+
+${'  ' || `
+// TODO: Revise after elitism section. Make sure talk of poptimism and rockism makes sense.
+`}
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't "poptimism" defeat "rockism" a decade ago? Well, no. It was "indiefication" that killed rock as a genre. Then, thinking the death was natural, many in the indie camp sought to be useful elsewhere. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
