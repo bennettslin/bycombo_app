@@ -186,10 +186,10 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 Historically, artists lacked all means to engage with the public on their own, freeing them to explore at will— and this sometimes led to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Wide net and diverse roster are redundant.
 `}
 
-Meanwhile, the major labels in the past had the budget to cast a wide net— which is, of course, the smartest business model, given that a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Yet funny enough, it *also* allows them to deliver the boldest art… by freeing them to sign unknown artists with unexpected ideas!
+Meanwhile, the major labels in the past had the budget to cast a wide net— which, of course, makes sense as a business model, since a [diverse roster](https://www.investopedia.com/investing/importance-diversification) enables them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Yet funny enough, it *also* allows them to deliver the boldest art… by freeing them to sign unknown artists with unexpected ideas!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the [people want](https://www.goodreads.com/quotes/988332). But people only want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet… for those perched high enough to see it.
 
@@ -215,7 +215,7 @@ Sadly, young people never question today's auto-Bizarro world, since it's all th
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
-Want even more absurdity? Any [rich artist](https://knowyourmeme.com/photos/2316349) can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
+Want even more absurdity? Any rich artist can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
 Simply put, indie rock is widely seen as a do-it-yourself movement— the kind that fosters *cooperative* self-reliance by [instilling love](https://en.wikipedia.org/wiki/Maker_Faire) for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
@@ -284,10 +284,10 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
 ${'  ' || `
-// TODO: Revise. Can mention the trust fund thing in elitism section. Move meme link there as well. Point out that indie rock was White and male for so long.
+// TODO: Revise after elitism section.
 `}
 
-Who foresaw indie rock's final stage as a trust fund playground? We did— women and minorities— which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers *proudly* rely on [labels and producers](http://archive.today/20240511/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#selection-547.0-579.35). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
+Ever notice that we women and minorities have *never* started a movement to compete on self-reliance? And hip hop is no exception; rappers *proudly* rely on [labels and producers](http://archive.today/20240511/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#selection-547.0-579.35). When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance means *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of being no better than a foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
@@ -310,7 +310,8 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 ${'  ' || `
 // TODO: New section. Review location.
 
-Make sure I don't repeat things too much elsewhere. Make sure it goes well with mention of rockism and poptimism in underdogs section. Okay, but, where did poptimism come from?
+Who foresaw indie rock's final stage as a trust fund playground? We did— 
+https://knowyourmeme.com/photos/2316349
 
 Fourth paragraph. Conclusion.
 `}
@@ -326,7 +327,7 @@ Otherwise, hidden advantages will play out instead: having insider connections o
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
 ${'  ' || `
-// TODO: Review after elitism section?
+// TODO: Revise after elitism section.
 `}
 
 So kindness to the audience means cruelty to worse artists… but unlike rappers, the indie gatekeepers *can't* be cruel; they're "good guys"! Rather than weed you out for being "wack," then— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
@@ -360,7 +361,7 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
 ${'  ' || `
-// TODO: Revise after elitism section. Make sure talk of poptimism and rockism makes sense.
+// TODO: Revise after elitism section. Make sure talk of poptimism and rockism still makes sense. Maybe: "Okay, but, where did poptimism come from?"
 `}
 
 Perhaps my arguments against indie rock seem moot now. After all, didn't "poptimism" defeat "rockism" a decade ago? Well, no. It was "indiefication" that killed rock as a genre. Then, thinking the death was natural, many in the indie camp sought to be useful elsewhere. So poptimism… is just indie rock's good intentions brought over to the pop genre!
