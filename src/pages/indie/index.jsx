@@ -95,11 +95,15 @@ So what happens now, if *your* respect for the underground was always rooted in 
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
-There's another reason we respect those '80s underground bands: It feels like their success was *ensured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
+${'  ' || `
+// TODO: Review first and third paragraphs.
+`}
+
+There's another reason we respect those '80s underground bands: It feels like their legacy was *assured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
 But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to spread their works from the top down, they can use online tools to go viral from the bottom up. So now they're chosen by the people, *not* by the elites… making them indie artists in good faith!
 
-All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still, what if *you* were hoping to ensure your success? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
+All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still, what if *you* were hoping to assure your legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
@@ -185,10 +189,6 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 
 Historically, artists lacked all means to engage with the public on their own, freeing them to explore at will— and this sometimes led to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Meanwhile, the major labels in the past had the budget to cast a [wide net](https://www.investopedia.com/investing/importance-diversification) for talent— which made sense business-wise, since this enabled them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Funny enough, though, it *also* allowed them to deliver the boldest art… by freeing them to sign unknown artists with unexpected ideas!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the [people want](https://www.goodreads.com/quotes/988332). But people only want what they know to expect— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet… for those perched high enough to see it.
@@ -255,13 +255,9 @@ Still, how do we become pro-*audience* once more? Why, we admit that the silent 
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle, or engage with his fans? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists who stand a chance of being *re*-discovered, just [think like](https://en.wikipedia.org/wiki/Theory_of_mind) an audience in the future… and *not* like a fanbase in the present.
 
-In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could simply be *made* known… by deserving to be.
+In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone who didn't hustle could simply be *made* known… by deserving to be.
 
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it felt awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
 
@@ -345,10 +341,6 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most [learned to admire](https://www.vice.com/en/article/jd-vance-trump-messages) the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— and yet, some looked surprised by their own decision.
 
 So I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met a hundred indie gatekeepers. I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, every indie label converges on the same well-rounded way of thinking…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Moreover, just like each person gets one vote in a democracy, each work gets just one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indies don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time…
 
