@@ -159,7 +159,11 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 
 ### ${++sectionCounter}. Eminence has a steep opportunity cost
 
-Millennials were the first generation [whose elders](https://pitchfork.com/reviews/albums/184-i-get-wet) embraced every genre— and as such, they rebelled in the only way possible: by ironically celebrating the most [*middling* works](https://pitchfork.com/reviews/albums/16836-i-get-wet). As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
+${'  ' || `
+// TODO: Review new link.
+`}
+
+Millennials were the first generation whose elders embraced every genre— and as such, they rebelled in the only way possible: by [ironically celebrating](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) the most *middling* works. As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
 
 They can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. Or— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
@@ -304,7 +308,7 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 ### ${++sectionCounter}. Elitism is the great equalizer
 
 ${'  ' || `
-// TODO: New section. Review location.
+// TODO: New section. Review location. Bring in part from BY terms.
 
 After cronyism. Mention of circle of friends and support.
 Before countercultures. Mention of wack MC.
@@ -315,11 +319,11 @@ https://knowyourmeme.com/photos/2316349
 Fourth paragraph. Conclusion.
 `}
 
-While indie artists speak of solidarity, rappers revel in snobbery— yet for Gen X, it's the latter who represents the true face of disadvantage! Why is this? Because when millions hope to make it, but only a few get to do so, then it's a *de facto* competition. And to prevent hidden advantages from playing a role, the disadvantaged will always make this point clear.
+While indie artists speak of solidarity, rappers revel in snobbery— yet Gen X sees the latter as the true face of disadvantage! Why is this? Because when millions hope to make it, but only a few get to do so, then it's a *de facto* competition. And to prevent hidden advantages from playing a role, the disadvantaged will always make this point clear.
 
-Unfortunately, much like [being unskilled](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) robs someone of the ability to understand that another's skills are superior to their own, Millennials fail to see that the arts are a competition, which warped their understanding of how a truly disadvantaged artist would behave differently.
+Unfortunately, much like [being unskilled](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) robs one of the ability to get how another's skills are superior to their own, failing to see the arts as a de facto competition robs one of the ability to get why those with fewer advantages should respond differently to competition.
 
-And so they decry the rapper's elitism as "rockist"— to imply that it's the original sin of rock and roll itself, and also no better than racism.
+And so Millennials decry the rapper's elitism as "rockist"— to imply that it's the original sin of rock and roll itself, and also tantamount to being racist.
 
 Otherwise, hidden advantages will play out instead: having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth.
 
