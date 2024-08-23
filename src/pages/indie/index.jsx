@@ -326,7 +326,7 @@ Otherwise, hidden advantages will play out instead: having insider connections o
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
 ${'  ' || `
-// TODO: Revise after elitism section.
+// TODO: Review after elitism section.
 `}
 
 Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
@@ -360,12 +360,10 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
 ${'  ' || `
-// TODO: Revise after elitism section. Make sure talk of poptimism and rockism still makes sense. Maybe: "Okay, but, where did poptimism come from?" After all, with the rise of "poptimism," it sure seems like pop has thoroughly defeated rock, right?
-
-Doesn't "poptimism" represent the triumph of pop over rock?
+// TODO: Review after elitism section. Make sure talk of poptimism and rockism still makes sense.
 `}
 
-Perhaps my arguments against indie rock seem moot now. After all, doesn't "poptimism" suggest that pop defeated rock? Well, no. It was "indiefication" that killed rock as a genre. Then, thinking the death was natural, many in the indie camp sought to be of use elsewhere. So poptimism… is just indie rock's good intentions brought over to the pop genre!
+Perhaps my arguments against indie rock seem moot now. After all, doesn't "poptimism" prove that pop defeated rock? Well, no. It was "indiefication" that killed rock as a genre. Then, thinking the death was natural, many in the indie camp sought to be of use elsewhere. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
