@@ -107,10 +107,6 @@ In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to our [present moment](https://freddiedeboer.substack.com/p/i-keep-writing-the-same-poptimism) known as "poptimism," when even superstars angle to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
@@ -158,10 +154,6 @@ After losing too many radio-friendly bands to the major labels, the indies learn
 Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artists— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to practice the craft.
 
 ### ${++sectionCounter}. Eminence has a steep opportunity cost
-
-${'  ' || `
-// TODO: Review new link.
-`}
 
 Millennials were the first generation whose elders embraced every genre— and as such, they rebelled in the only way possible: by [ironically celebrating](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) the most *middling* works. As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
 
@@ -282,10 +274,6 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never hustled to pay indie rock's dues myself.
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Who could've foreseen the downsides of "indiefication"? Us women and minorities, that's who! Which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers [*proudly* rely](http://archive.today/20240511/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#selection-547.0-579.35) on labels and producers. When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance counts for *nothing*.
 
