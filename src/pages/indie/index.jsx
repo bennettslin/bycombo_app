@@ -123,7 +123,7 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
-By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant "long tail" decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
+By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant long tail decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
 For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our social nature. Since it's hard to say whose works are best, we often just like what others like— and they do the same! As a result, any [random boost](https://archive.today/20240719/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#selection-4593.0-4593.934) can snowball into a winning advantage— and *this* is how the unworthy end up as superstars.
 
