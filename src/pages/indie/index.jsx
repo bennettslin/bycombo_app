@@ -211,6 +211,10 @@ Sadly, young people never question today's auto-Bizarro world, since it's all th
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
+${'  ' || `
+// TODO: Revise. Is there another way to frame this in another way than competition?
+`}
+
 Want even more absurdity? Any rich artist can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
 Simply put, indie rock is widely seen as a do-it-yourself movement— the kind that fosters *cooperative* self-reliance by [instilling love](https://en.wikipedia.org/wiki/Maker_Faire) for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
@@ -296,28 +300,18 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 ### ${++sectionCounter}. Elitism is the great equalizer
 
 ${'  ' || `
-// TODO: New section. Review location. Bring in part from BY terms.
-
-After cronyism. Mention of circle of friends and support.
-Before countercultures. Mention of wack MC.
-
-Who foresaw indie rock's final stage as a trust fund playground? We did— 
-https://knowyourmeme.com/photos/2316349
-
-Fourth paragraph. Conclusion.
+// TODO: Review a few more times. Review location.
 `}
 
-While indie artists speak of solidarity, rappers revel in snobbery— and yet, Gen X saw the *rapper* as the true face of disadvantage! Why is this? Because when millions want what very few get to have, competition *has* to happen one way or another. And the more disadvantages you face, the more you'll insist on this competition to happen in plain view.
+While indie artists speak of solidarity, rappers revel in their elitism— yet for Gen X, it's the *rapper* who represents the true face of disadvantage! How so? It's simple: When millions want what very few get to have, competition *must* happen, one way or another— and insofar as that's the case, those with fewer advantages will prefer it to happen in plain sight.
 
-Unfortunately, much like [being unskilled](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) robs one of the ability to recognize those with greater skills, failing to see the arts as a competition robbed Millennials of the ability to understand how those with fewer advantages will behave. And so they decried the rapper's elitism as "rockist"— implying that it's the original sin of rock and roll itself, and also akin to racism.
+Because Millennials grew up with so many advantages, however, they fail to understand how the truly disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skills in others. And thus, when they see the rapper's elitism in rock, they decry it as "rockism"— implying that it's akin to racism.
 
-Otherwise, hidden advantages will play out instead: having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth.
+But once competition happens *away* from public view, the disadvantaged have *nothing* to foil the hidden advantages of others: being born wealthy, having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth. So ironically, rock without rockism— namely, indie rock— is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349) for the privileged!
+
+Which is why every movement started by minorities is *proudly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that making it in the arts is a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more… just like rappers do.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
-
-${'  ' || `
-// TODO: Review after elitism section.
-`}
 
 Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie gatekeepers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
 
