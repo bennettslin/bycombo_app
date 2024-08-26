@@ -211,10 +211,6 @@ Sadly, young people never question today's auto-Bizarro world, since it's all th
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
-${'  ' || `
-// TODO: Revise. Is there another way to frame this in another way than competition?
-`}
-
 Want even more absurdity? Any rich artist can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
 
 Simply put, indie rock is widely seen as a do-it-yourself movement— the kind that fosters *cooperative* self-reliance by [instilling love](https://en.wikipedia.org/wiki/Maker_Faire) for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
@@ -300,16 +296,16 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 ### ${++sectionCounter}. Elitism is the great equalizer
 
 ${'  ' || `
-// TODO: Review a few more times. Review location.
+// TODO: Review a few more times.
 `}
 
-While indie artists speak of solidarity, rappers revel in their elitism— yet for Gen X, it's the *rapper* who represents the true face of disadvantage! How so? It's simple: When millions want what very few get to have, competition *must* happen, one way or another— and insofar as that's the case, those with fewer advantages will prefer it to happen in plain sight.
+While indie artists speak of solidarity, rappers revel in elitism. Yet for Gen X, it's the *rapper* who represents the true face of disadvantage! How so? It's simple: When millions want what few can have, competition *has* to happen, one way or another— and insofar as it does, those with fewer advantages would prefer it to happen in plain sight.
 
-Because Millennials grew up with so many advantages, however, they fail to understand how the truly disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skills in others. And thus, when they see the rapper's elitism in rock, they decry it as "rockism"— implying that it's akin to racism.
+Because Millennials grew up with so many advantages, however, they fail to understand how the truly disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they encounter the rapper's attitude in rock, they decry it as "rockism"— implying that such elitism is no better than racism.
 
-But once competition happens *away* from public view, the disadvantaged have *nothing* to foil the hidden advantages of others: being born wealthy, having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth. So ironically, rock without rockism— namely, indie rock— is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349) for the privileged!
+But once competition happens *away* from public view— as is the case with self-reliance— the disadvantaged have *nothing* to foil the hidden advantages of others: being wealthy, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349) for the privileged!
 
-Which is why every movement started by minorities is *proudly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that making it in the arts is a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more… just like rappers do.
+Which is why every movement started by minorities is *proudly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more… just like rappers do.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
