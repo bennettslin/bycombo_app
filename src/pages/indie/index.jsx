@@ -307,11 +307,9 @@ https://knowyourmeme.com/photos/2316349
 Fourth paragraph. Conclusion.
 `}
 
-While indie artists speak of solidarity, rappers revel in snobbery— yet Gen X sees the latter as the true face of disadvantage! Why is this? Because when millions hope to make it, but only a few get to do so, then it's a *de facto* competition. And to prevent hidden advantages from playing a role, the disadvantaged will always make this point clear.
+While indie artists speak of solidarity, rappers revel in snobbery— and yet, Gen X saw the *rapper* as the true face of disadvantage! Why is this? Because when millions want what very few get to have, competition *has* to happen one way or another. And the more disadvantages you face, the more you'll insist on this competition to happen in plain view.
 
-Unfortunately, much like [being unskilled](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) robs one of the ability to get how another's skills are superior to their own, failing to see the arts as a de facto competition robs one of the ability to get why those with fewer advantages should respond differently to competition.
-
-And so Millennials decry the rapper's elitism as "rockist"— to imply that it's the original sin of rock and roll itself, and also tantamount to being racist.
+Unfortunately, much like [being unskilled](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) robs one of the ability to recognize those with greater skills, failing to see the arts as a competition robbed Millennials of the ability to understand how those with fewer advantages will behave. And so they decried the rapper's elitism as "rockist"— implying that it's the original sin of rock and roll itself, and also akin to racism.
 
 Otherwise, hidden advantages will play out instead: having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth.
 
