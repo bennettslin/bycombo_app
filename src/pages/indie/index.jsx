@@ -171,14 +171,6 @@ Of course, the best artists *are* human— so how are such works possible? It's 
 
 But this can't happen if you're always context switching— which explains why "indiefication" has made music worse. Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have a business partner wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
-${'  ' || `
-// TODO: New section. Means to scale is decided upfront
-
-Make sure the points made are different enough from above serendipity section.
-
-Mention difference between top down and bottom up approach. Winning over elites, and having them spread from top down. Versus winning over masses, through fan engagement. And, of course, windfall versus workhorse art. Which explains why today's artists, who are forced to spread from the bottom down, only ever make workhorse art, even after they've made it.
-`}
-
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
@@ -299,11 +291,11 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-While indie artists speak of solidarity, rappers revel in elitism. Yet for Gen X, it's the *rapper* who represents the true face of disadvantage! How so? It's simple: When millions want what few can have, competition *must* happen, one way or another— and insofar as it will, those with fewer advantages would prefer it to happen in plain sight.
+While indie artists speak of solidarity, rappers revel in elitism. Yet for Gen X, it's the *rapper* who represents the true face of disadvantage! How so? It's simple: When millions want what few can have, competition *will* happen, one way or another— and insofar as it does, those with fewer advantages would prefer it to happen in plain sight.
 
 Because Millennials grew up with so many advantages, however, they fail to understand how the truly disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they encounter the rapper's attitude in rock, they decry it as "rockism"— implying that such elitism is no better than racism.
 
-But once competition happens *away* from public view— as is the case with self-reliance— the disadvantaged have *nothing* to foil the hidden advantages of others: being wealthy, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
+But once competition happens *away* from public view, as with self-reliance, the disadvantaged become *helpless* to foil the hidden advantages of others: being wealthy, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
 Which is why every movement started by minorities is *proudly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more… just like rappers do.
 
@@ -339,10 +331,6 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
-${'  ' || `
-// TODO: Review after elitism section. Make sure talk of poptimism and rockism still makes sense.
-`}
-
 Perhaps my arguments against indie rock seem moot now. After all, doesn't "poptimism" prove that pop defeated rock? Well, no. It was "indiefication" that killed rock as a genre. Then, thinking the death was natural, many in the indie camp sought to be of use elsewhere. So poptimism… is just indie rock's good intentions brought over to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
@@ -351,7 +339,11 @@ In a world where outsiders try much harder, to be much better, both indie rock a
 
 This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as you're hungry enough to try much harder, to be much better, BYCombo can offer an alternative— the new "rockism," maybe?
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as you're hungry enough to try much harder, to be much better, BYCombo can offer the "rockist" alternative you long for.
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
@@ -364,6 +356,24 @@ By contrast, the indie labels obey the people's will, as measured by the size of
 So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just for publicity!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
 
 In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](http://archive.today/20240511/https://www.honest-broker.com/p/record-labels-dig-their-own-grave#selection-831.0-873.93) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
+
+### ${++sectionCounter}. Means to scale is decided upfront
+
+${'  ' || `
+// TODO: Keep working on. Review location. Since it mentions tech, this should probably be after I mention the coding bootcamp.
+
+Mention difference between top down and bottom up approach. Winning over elites, and having them spread from top down. Versus winning over masses, through fan engagement. And, of course, windfall versus workhorse art. Which explains why today's artists, who are forced to spread from the bottom up, only ever make workhorse art, even after they've made it.
+`}
+
+How did I expect my "*Ulysses* of rock albums" to gain a *million* fans, when no one was willing to be its *first*? "Had James Joyce been unknown, it's likely that the original *Ulysses* would have faced the same dilemma." For so long, I didn't have a better answer— until I immersed myself in tech.
+
+In his essay "[Startup = Growth](https://paulgraham.com/growth.html)," Paul Graham argues that startups are their own type of business. Whereas a store profits first, *then* scales into a chain, a startup is designed to scale first, *then* profit— thanks to network effects and economies of scale. In this way, the same startup that loses money with only one user could prove to be successful with a million users. (Make this point better.)
+
+Third paragraph, explain my situation.
+
+There's one further point. Because they're different types of business, a store can't pivot to behaving like a startup, and vice versa. This might explain why, after finding success through their "workhorse art," indie artists fail to pivot to making "windfall art." Bring up fan engagement and bottom up.
+
+What if the only way to get windfall art is to take a chance on those artists trying to make it from the very beginning. What if it's precisely the nature of windfall art that no one's willing to be their first fan, even as millions would happily be their millionth?
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
