@@ -245,10 +245,6 @@ Still, how do we become pro-*audience* once more? Why, we admit that the silent 
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle, or engage with his fans? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists who stand a chance of being *re*-discovered, just [think like](https://en.wikipedia.org/wiki/Theory_of_mind) an audience in the future… and *not* like a fanbase in the present.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could simply be *made* known… by deserving to be.
 
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it felt awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
@@ -299,7 +295,7 @@ While indie artists speak of solidarity, rappers revel in elitism. Yet for Gen X
 
 Because Millennials grew up with so many advantages, however, they fail to understand how the *truly* disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they encounter the rapper's attitude in rock, they decry it as "rockism"— implying that such elitism is no better than racism.
 
-But once competition happens *away* from public view— as is the case with self-reliance— the disadvantaged become *helpless* to counter the hidden advantages of others: being wealthy, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ideal* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
+But once competition happens *away* from public view— as is the case with self-reliance— the disadvantaged become *helpless* to counter the hidden advantages of others: being wealthy, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now a playground [for the *privileged*](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia)!
 
 Which is why every movement started by minorities is *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more… just like rappers do.
 
@@ -342,10 +338,6 @@ Ignore the superficial differences in sound: Indie rock and poptimism are both u
 In a world where outsiders try much harder, to be much better, both indie rock and poptimism protect the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
-
-${'  ' || `
-// TODO: Revise. Talk about reclaiming rockism?
-`}
 
 Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as you're hungry enough to try much harder, to be much better, BYCombo can offer the "rockist" alternative you long for.
 
