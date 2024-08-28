@@ -270,10 +270,10 @@ Second, we admit that the silent majority of them only want the *best* artists�
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
 ${'  ' || `
-// TODO: Revise in light of revisions to previous section. Probably don't need to mention fanbase in first paragraph. But in last paragraph, make point that in the future, there are *only* audiences, no fanbases or followings.
+// TODO: Review.
 `}
 
-Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle, or engage with his fans? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists who stand a chance of being *re*-discovered, just [think like](https://en.wikipedia.org/wiki/Theory_of_mind) an audience in the future… and *not* like a fanbase in the present.
+Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle and engage with his fans? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover the artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could simply be *made* known… by deserving to be.
 
