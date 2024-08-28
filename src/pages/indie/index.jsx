@@ -260,12 +260,18 @@ Um, *we* would— the audience! The majority of us only want the *best* athletes
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. Like Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means the pro-*artist* stance of today's loudest fans might just be a generational fluke… and *not* the future of music.
 
 ${'  ' || `
-// TODO: Revise. Make this into two paragraphs. "First" and "second."
+// TODO: Review next two paragraphs.
 `}
 
-Still, how do we become pro-*audience* once more? Why, we admit that the silent majority only wants the *best* artists— and *not* the job of knowing what that entails! So BYCombo will bring back the elitist gatekeepers, if you can make the best *art*— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+Still, how do we become pro-*audience* once more? First, we remind ourselves that "audience" is a figure of speech that, in recent years, has strayed too far from its literal meaning of "those who attend the performance of a work." An audience *isn't* a fanbase; they're *not* a following.
+
+Second, we admit that the silent majority of them only want the *best* artists— and *not* the job of knowing what that entails! So BYCombo promises to bring back the elitist gatekeepers, if *you'll* promise to make the best art— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
+
+${'  ' || `
+// TODO: Revise in light of revisions to previous section. Probably don't need to mention fanbase in first paragraph. But in last paragraph, make point that in the future, there are *only* audiences, no fanbases or followings.
+`}
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle, or engage with his fans? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists who stand a chance of being *re*-discovered, just [think like](https://en.wikipedia.org/wiki/Theory_of_mind) an audience in the future… and *not* like a fanbase in the present.
 
