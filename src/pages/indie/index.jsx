@@ -260,10 +260,14 @@ Um, *we* would— the audience! The majority of us only want the *best* athletes
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. Like Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means the pro-*artist* stance of today's loudest fans might just be a generational fluke… and *not* the future of music.
 
 ${'  ' || `
-// TODO: Review next two paragraphs.
+// TODO: Revise. Make it more like, "audience" literally refers to those who attend the performance of a work; and when we use it as a figure of speech, we shouldn't stray from that. There's little to no real-time engagement; otherwise, "fanbase" or "following" is likely more applicable.
 `}
 
-Still, how do we become pro-*audience* once more? First, we remind ourselves that "audience" is a figure of speech that, in recent years, has strayed too far from its literal meaning of "those who attend the performance of a work." An audience *isn't* a fanbase; they're *not* a following.
+Still, how do we become pro-*audience* once more? First, we remind ourselves that "audience" is a figure of speech— one that, in recent years, has strayed far from its literal meaning of "those who attend the performance of a work." An audience *isn't* a fanbase; they're *not* a following.
+
+${'  ' || `
+// TODO: Review.
+`}
 
 Second, we admit that the silent majority of them only want the *best* artists— and *not* the job of knowing what that entails! So BYCombo promises to bring back the elitist gatekeepers, if *you'll* promise to make the best art— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
