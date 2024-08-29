@@ -89,10 +89,6 @@ We all respect those '80s [underground bands](https://www.hachettebookgroup.com/
 
 In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they *didn't* sign to a major label. Yet unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is considered indie… even one with mainstream tastes!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But… given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans— and thus, they're the ones who get picked by the indie gatekeepers! Sometime in the '00s, then, indie rock lost its countercultural edge and devolved into just another hustle culture. Yet Millennials still defend it, having never known it to be otherwise…
 
 So what happens now, if *your* respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than the *logistics* of forgoing the majors? Why, BYCombo can expose you to *elitist* gatekeepers— the one chance left for subversive art in an online world!
@@ -157,11 +153,7 @@ After losing too many radio-friendly bands to the major labels, the indies learn
 
 Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artists— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to practice the craft.
 
-### ${++sectionCounter}. Mastery has a steep opportunity cost
-
-${'  ' || `
-// TODO: Review title and section.
-`}
+### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
 Millennials were the first generation whose elders embraced every genre— and as such, they rebelled in the only way possible: by [ironically celebrating](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) the most *middling* works. As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
 
@@ -187,13 +179,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Historically, artists lacked all means to get themselves known to the public, freeing them to explore at will— and this sometimes led to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
+Historically, artists lacked all means to get themselves known to the public, freeing them to explore at will— and sometimes leading to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— thus leaving them reluctant to experiment, for fear of losing those fans.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Meanwhile, the major labels in the past had the budget to cast a [wide net](https://www.investopedia.com/investing/importance-diversification) for talent— which made sense business-wise, since this enabled them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Funny enough, though, it *also* allowed them to deliver the boldest art… by freeing them to take chances on unknown artists with unexpected ideas!
+Meanwhile, the major labels in the past had the budget to cast a [wide net](https://www.investopedia.com/investing/importance-diversification) for talent— which made sense business-wise, since this enabled them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Funny enough, though, it *also* allowed them to deliver the boldest art… by freeing them to pick unknown artists with unexpected ideas!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet… for those perched high enough to see it.
 
@@ -209,17 +201,17 @@ It's no surprise, then, that history's pioneering works were often backed by tho
 
 ### ${++sectionCounter}. Disintermediation is a middleman's dream
 
-To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the Bizarro way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
+${'  ' || `
+// TODO: Review.
+`}
+
+To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
 And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a dream of the *middling* artist, who'd otherwise *be* a middleman!
 
 Let's be clear, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We learned [all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Sadly, young people never question today's "auto-Bizarro world," since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
+Sadly, young people never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
@@ -253,6 +245,10 @@ So now, instead of democracy, we're all living under "indieocracy"— or, rule b
 
 ### ${++sectionCounter}. The silent majority leaves quietly
 
+${'  ' || `
+// TODO: Revise. Make it more about knowing where to look?
+`}
+
 Imagine hearing this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you*— to watch me. And yet, I don't even make minimum wage… while superstars earn millions. That's not fair! So let's get rid of these overpaid talent scouts, and empower indie athletes like me to do what we love for a living. Who would object?"
 
 Um, *we* would— the audience! The majority of us only want the *best* athletes, and it's the *talent scout's* job to know what that entails. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
@@ -265,19 +261,11 @@ ${'  ' || `
 
 Still, how do we become pro-*audience* once more? First, we remind ourselves that "audience" is a figure of speech— one that, in recent years, has strayed far from its literal meaning of "those who attend the performance of a work." An audience *isn't* a fanbase; they're *not* a following.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Second, we admit that the silent majority of them only want the *best* artists— and *not* the job of knowing what that entails! So BYCombo promises to bring back the elitist gatekeepers, if *you'll* promise to make the best art— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle and engage with his fans? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover the artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
+Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could simply be *made* known… by deserving to be.
 
@@ -301,7 +289,11 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
-Who could've foreseen the downsides of "indiefication"? Us women and minorities, that's who! Which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers [*proudly* rely](http://archive.today/20240511/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#selection-547.0-579.35) on labels and producers. When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance counts for *nothing*.
+${'  ' || `
+// TODO: Review.
+`}
+
+Who could've foreseen all the downsides of "indiefication"? Um… us women and minorities, that's who! Which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers [*proudly* rely](http://archive.today/20240511/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#selection-547.0-579.35) on labels and producers. When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance counts for *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of being no better than a foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
