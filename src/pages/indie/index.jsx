@@ -151,7 +151,11 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a [well-crafted hook](https://youtu.be/HWMsWO0vPa8).
 
-Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artists— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to practice the craft.
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artists— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master the craft.
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
@@ -241,13 +245,13 @@ ${'  ' || `
 // TODO: Review whole section.
 `}
 
-Imagine this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's get rid of overpaid talent scouts, and empower indie athletes like me to get ourselves known. Yes, everything will now be harder to find… but you just have to put in the work. Who'd object?"
+Imagine this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's get rid of overpaid talent scouts, and empower indie athletes like me to get ourselves known. Yes, this will crowd the field, making everything hard to find… but you just have to put in the work. Who'd object?"
 
 Um, *we* would— the audience! The majority of us only want the *best* athletes, and it's the talent scout's job to find them, *not* ours. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
-But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. Like Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means the pro-*artist* stance of today's loudest fans might just be a generational fluke… and *not* the future of music.
+But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. Like Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means the pro-*artist* stance taken by so many today might just be a generational fluke… and *not* the future of music.
 
-Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend the performance of a work." So let's use it once more as Shakespeare would have: An audience *isn't* a fanbase or a following.
+Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend the performance of a work." So let's use it in a way that Bach— who made music for God— would understand: An audience *isn't* a fanbase or a following.
 
 Second, we admit that the silent majority of them only want the *best* artists— and *not* the job of knowing where to look! This is why BYCombo promises to bring back the elitist gatekeepers, if *you* can promise to make the best art— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
