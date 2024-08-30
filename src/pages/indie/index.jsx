@@ -125,7 +125,11 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant long tail decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
-For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our social nature. Since it's hard to say whose works are best, we often just like what others like— and they do the same! As a result, any [random boost](https://archive.today/20240719/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#selection-4593.0-4593.934) can snowball into a winning advantage— and *this* is how the unworthy end up as superstars.
+${'  ' || `
+// TODO: Review.
+`}
+
+For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our human nature. Since it's hard to say whose works are best, we often just like what others like— and they do the same! As a result, any [random boost](https://archive.today/20240719/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#selection-4593.0-4593.934) can snowball into a winning advantage— and *this* is how the unworthy end up as superstars.
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as farm teams— as did those '90s alternative bands, who signed with the indies for this very reason!
 
@@ -278,8 +282,10 @@ But… suddenly indie rock's lack of helpers made perfect sense! If paid dues ar
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So the only newcomers they'll welcome are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
 ${'  ' || `
-// TODO: Revise by adding a new paragraph. In an "indiefied" world where hustling equates to paid dues, whereas in the past, an artist who doubles down to make art, but can't get anywhere because they didn't hustle, would have been met with noblesse oblige, today they're met with schadenfreude. They'll remain an outsider in a movement that prides itself on solidarity.
+// TODO: Revise by adding a new paragraph.
 `}
+
+In an "indiefied" world where hustling equates to paid dues, whereas in the past, an artist who doubles down to make art, but can't get anywhere because they didn't hustle, would have been met with noblesse oblige, today they're met with schadenfreude. They'll remain an outsider in a movement that prides itself on solidarity.
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never hustled to pay indie rock's dues myself.
 
