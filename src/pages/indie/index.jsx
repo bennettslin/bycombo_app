@@ -203,7 +203,11 @@ Sadly, young people never question today's auto-Bizarro world, since it's all th
 
 ### ${++sectionCounter}. Competitive self-reliance favors privilege
 
-Want even more absurdity? Any rich artist can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once "public"— to the benefit of the privileged. How did this happen?
+${'  ' || `
+// TODO: Review.
+`}
+
+Want even more absurdity? Any rich artist can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— to the benefit of the privileged. How did this happen?
 
 Simply put, indie rock is widely seen as a do-it-yourself movement— the kind that fosters *cooperative* self-reliance by [instilling love](https://en.wikipedia.org/wiki/Maker_Faire) for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
@@ -277,6 +281,10 @@ But… suddenly indie rock's lack of helpers made perfect sense! If paid dues ar
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So the only newcomers they'll welcome are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
+${'  ' || `
+// TODO: Revise by adding a new paragraph. In an "indiefied" world where hustling equates to paid dues, whereas in the past, an artist who doubles down to make art, but can't get anywhere because they didn't hustle, would have been met with noblesse oblige, today they're met with schadenfreude. They'll remain an outsider in a movement that prides itself on solidarity.
+`}
+
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never hustled to pay indie rock's dues myself.
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
@@ -300,10 +308,6 @@ But so far, their efforts have only helped women, not us minorities— or *male*
 You'll notice, then, that we minorities *aren't* ones to begrudge a business partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](http://archive.today/20240511/https://genius.com/Eminem-white-america-lyrics#selection-1035.0-1055.50). Now with BYCombo, this ticket can be yours once again.
 
 ### ${++sectionCounter}. Elitism is the great equalizer
-
-${'  ' || `
-// TODO: Review.
-`}
 
 While indie artists speak of solidarity, rappers revel in elitism. Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? It's simple: When millions want what few can have, competition *must* happen, one way or another— and with that being the case, those with no advantages would prefer it to happen in plain sight.
 
