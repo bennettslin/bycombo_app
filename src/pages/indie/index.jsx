@@ -302,10 +302,10 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 ### ${++sectionCounter}. Elitism is the great equalizer
 
 ${'  ' || `
-// TODO: Revise. "With that being the case."
+// TODO: Review.
 `}
 
-While indie artists speak of solidarity, rappers revel in elitism. Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? It's simple: When millions want what few can have, competition *will* happen, one way or another— and as long as it does, those with fewer advantages would prefer it to happen in plain sight.
+While indie artists speak of solidarity, rappers revel in elitism. Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? It's simple: When millions want what few can have, competition *must* happen, one way or another— and with that being the case, those with no advantages would prefer it to happen in plain sight.
 
 Because Millennials grew up with so many advantages, however, they fail to understand how the *truly* disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they encounter the rapper's attitude in rock, they decry it as "rockism"— implying that such elitism is no better than racism.
 
