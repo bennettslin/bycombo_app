@@ -238,26 +238,18 @@ So now, instead of democracy, we're all living under "indieocracy"— or, rule b
 ### ${++sectionCounter}. The silent majority leaves quietly
 
 ${'  ' || `
-// TODO: Keep working on.
+// TODO: Review whole section.
 `}
 
-Imagine this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's get rid of overpaid talent scouts, and empower indie athletes like me to get ourselves known. Yes, it'll now be harder to find what you want… but you just have to put in the work. Who'd object?"
+Imagine this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's get rid of overpaid talent scouts, and empower indie athletes like me to get ourselves known. Yes, everything will now be harder to find… but you just have to put in the work. Who'd object?"
 
-Um, *we* would— the audience! The majority of us only want the *best* athletes, and it's the *talent scout's* job to know where to look. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
-
-${'  ' || `
-// TODO: Make it the indie camp.
-`}
+Um, *we* would— the audience! The majority of us only want the *best* athletes, and it's the talent scout's job to find them, *not* ours. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. Like Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means the pro-*artist* stance of today's loudest fans might just be a generational fluke… and *not* the future of music.
 
-${'  ' || `
-// TODO: Revise. Make it more like, "audience" literally refers to those who attend the performance of a work; and when we use it as a figure of speech, we shouldn't stray from that. There's little to no real-time engagement; otherwise, "fanbase" or "following" is likely more applicable.
-`}
+Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend the performance of a work." So let's use it once more as Shakespeare would have: An audience *isn't* a fanbase or a following.
 
-Still, how do we become pro-*audience* once more? First, we remind ourselves that "audience" is a figure of speech— one that, in recent years, has strayed far from its literal meaning of "those who attend the performance of a work." An audience *isn't* a fanbase or a following;
-
-Second, we admit that the silent majority of them only want the *best* artists— and *not* the job of knowing where to look! So BYCombo promises to bring back the elitist gatekeepers, if *you'll* promise to make the best art— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+Second, we admit that the silent majority of them only want the *best* artists— and *not* the job of knowing where to look! This is why BYCombo promises to bring back the elitist gatekeepers, if *you* can promise to make the best art— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -313,7 +305,11 @@ While indie artists speak of solidarity, rappers revel in elitism. Yet for Gen X
 
 Because Millennials grew up with so many advantages, however, they fail to understand how the *truly* disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they encounter the rapper's attitude in rock, they decry it as "rockism"— implying that such elitism is no better than racism.
 
-But once competition happens *away* from public view— as is the case with self-reliance— the disadvantaged become *helpless* to counter the hidden advantages of others: being wealthy, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now a playground [for the *privileged*](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia)!
+${'  ' || `
+// TODO: Review.
+`}
+
+But once competition happens *away* from public view— as is the case with self-reliance— the disadvantaged become *helpless* to counter the hidden advantages of others: being wealthy, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ideal* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
 Which is why every movement started by minorities is *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more… just like rappers do.
 
