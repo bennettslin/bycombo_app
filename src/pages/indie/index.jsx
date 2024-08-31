@@ -277,7 +277,7 @@ In an "indiefied" world where hustling equates to paid dues, whereas in the past
 Having come of age before "indiefication," I assumed that by making myself vulnerable by doubling down on making art would be met with noblesse oblige. Instead, they were met with schadenfreude— because all the while, I *hadn't* been hustling to pay my dues.
 `}
 
-But… suddenly indie rock's lack of helpers made perfect sense! If paid dues are worthless outside the one culture that honors them, then of *course* those who've paid them will now keep the culture as it is— in all its brokenness.
+But… suddenly I understood! If paid dues are worthless outside the one culture that honors them, then of *course* those who've paid them will keep the culture as it is— in all its brokenness.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So the only newcomers they'll welcome are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 

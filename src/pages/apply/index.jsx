@@ -13,7 +13,7 @@ const Component = () => (
             metaDescription: DESCRIPTION,
             body: `
 ${'  ' || `
-// TODO: Revise. Maybe links just aren't necessary.
+// TODO: Review lack of links.
 `}
 
 As an artist, do you sense that the indie camp has it *backward*? Why do they force you to waste so much effort on hustling to get yourself known— all in the name of self-empowerment? Back when rock was interdependent, being empowered just came for free, once you'd built up enough talents.
@@ -24,7 +24,7 @@ Furthermore, the only measure of empowerment is the size of an artist's fanbase.
 
 ### Who we're looking for
 
-Are you eager to make history by advancing the art form? Are you ready to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project— which likely means [quitting social media](/indie#scarcity-inspires-generational-courage)?
+Are you eager to make history by advancing the art form? Are you ready to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project— which likely means quitting social media?
 
 Most importantly, are you willing to defy indie rock's gatekeepers— its labels, pundits, and critics— even as they have the power to shut you out forever? That is to say, do you understand that, after sacrificing a serious chunk of lifetime, you may be left with nothing but the work you've done, the talents you've built, and the friendships you've made?
 
@@ -54,15 +54,15 @@ Of course, we're just getting started, so to thank you for your patience during 
 
 **Women, minorities, and other disadvantaged groups:**
 
-As a rock movement started by [a minority](/indie#hungry-outsiders-aim-for-the-canon), BYCombo was *conceived* to give you the interdependence you crave and [thrive on](/indie#interdependence-guards-against-prejudice)! We'll also aim for an equitable gender ratio in every band we assemble.
+As a rock movement started by a minority, BYCombo was *conceived* to give you the interdependence you crave and thrive on! We'll also aim for an equitable gender ratio in every band we assemble.
 
 **Artists of other mediums:**
 
-One last frontier in the arts is for bands to explore [new combinations](/indie#progress-values-aesthetics-not-logistics) of different mediums. Which means you play a crucial role in bringing forth this century's canonical works!
+One last frontier in the arts is for bands to explore new combinations of different mediums. Which means you play a crucial role in bringing forth this century's canonical works!
 
 **International artists:**
 
-To revive the historical canon, we need you to [*join* us](/indie#cultural-chauvinism-can-only-be-justified)! In the future, we hope to sponsor you for a U.S. visa; for now, we'll try our best to help with any issues you might face.
+To revive the historical canon, we need you to *join* us! In the future, we hope to sponsor you for a U.S. visa; for now, we'll try our best to help with any issues you might face.
 
 ### How to apply
 

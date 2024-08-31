@@ -71,7 +71,7 @@ ${'  ' || `
 
 These "Dr. Dres of rock" would love to partner with bands who promise to make the best art— but how? Indie rock's low barriers to entry have led to a hopelessly crowded field. The next step, then, is for a counterculture to arise in which [*elitist* gatekeepers](/indie#elitism-is-the-great-equalizer) enforce a steep *cost* of entry. And here's where BYCombo comes in!
 
-**To have their demo shown in our public registry, BYCombo bands promise *not* to empower themselves. Instead, they'll earn a business partner's trust by sacrificing a serious chunk of lifetime to advance the art form.**
+**To have a demo shown in our public registry, each BYCombo band promises *not* to empower themselves. Instead, they'll earn a business partner's trust by sacrificing a serious chunk of lifetime to advance the art form.**
 
 So picture a *hundred* BYCombo bands, all of them committed to making the historically canonical works of our times. This is the *final* step to reviving interdependence— the next revolution in rock history!
             `,
