@@ -66,16 +66,12 @@ If we can't resist, though— let's revolt! How? We… wait. See, indie rock has
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! And this is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that entrepreneurs will try to disrupt the rock market.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review next two paragraphs.
 `}
 
-These "Dr. Dres of rock" would love to partner with bands who promise to make the best art— but how? Indie rock's low barriers to entry have led to a hopelessly crowded field. The next step, then, is for a counterculture to rise up and enforce a steep *cost* of entry. And here's where BYCombo comes in!
+These "Dr. Dres of rock" would love to partner with bands who promise to make the best art— but how? Indie rock's low barriers to entry have led to a hopelessly crowded field. The next step, then, is for a counterculture to arise in which [*elitist* gatekeepers](/indie#elitism-is-the-great-equalizer) enforce a steep *cost* of entry. And here's where BYCombo comes in!
 
-${'  ' || `
-// TODO: Revise. Make bold paragraph more like in registry, apply, and partners pages.
-`}
-
-**Interdependent bands can now earn a business partner's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
+**To have their demo shown in our public registry, BYCombo bands promise *not* to empower themselves. Instead, they'll earn a business partner's trust by sacrificing a serious chunk of lifetime to advance the art form.**
 
 So picture a *hundred* BYCombo bands, all of them committed to making the historically canonical works of our times. This is the *final* step to reviving interdependence— the next revolution in rock history!
             `,
