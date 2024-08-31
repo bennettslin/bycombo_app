@@ -207,7 +207,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Want even *more* absurdity? Any rich artist can just pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— to the benefit of the privileged. How did this happen?
+Want even *more* absurdity? Any rich artist can simply pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— to the benefit of the privileged. How did this happen?
 
 Simply put, indie rock is widely seen as a do-it-yourself movement— the kind that fosters *cooperative* self-reliance by [instilling love](https://en.wikipedia.org/wiki/Maker_Faire) for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
@@ -241,13 +241,13 @@ ${'  ' || `
 // TODO: Review whole section.
 `}
 
-Imagine this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's get rid of overpaid talent scouts, and empower indie athletes like me to get ourselves known. Yes, this will crowd the field, making everything hard to find… but you just have to put in the work. Who'd object?"
+Imagine this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's get rid of overpaid talent scouts, and empower indie athletes like me to get ourselves known. Yes, this will crowd the field, making everything hard to find… but you just have to put in the work." Who'd object?
 
-Um, *we* would— the audience! The majority of us only want the *best* athletes, and it's the talent scout's job to find them, *not* ours. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
+Uh… *we* would— the audience! The majority of us only want the *best* athletes, and it's the talent scout's job to find them, *not* ours. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
-But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. Like Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means the pro-*artist* stance taken by so many today might just be a generational fluke… and *not* the future of music.
+But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. Like Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means the pro-*artist* stance of today's loudest voices might just be a generational fluke… and *not* the future of music.
 
-Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend the performance of a work." So let's use it in a way that Bach— who made music for God— would understand. An audience *isn't* a fanbase; they're *not* a following.
+Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend the performance of a work." So let's use it in a way that Bach— who made music for God— would understand: An audience *isn't* a fanbase or a following.
 
 Second, we admit that the silent majority of them only want the *best* artists— and *not* the job of knowing where to look! This is why BYCombo promises to bring back the elitist gatekeepers, if *you* can promise to make the best art— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
