@@ -65,7 +65,11 @@ If we can't resist, though— let's revolt! How? We… wait. See, indie rock has
 
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! And this is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that entrepreneurs will try to disrupt the rock market.
 
-These "Dr. Dres of rock" would love to partner with bands who promise to make the best art— but how? Too many artists are coming in through indie rock's low barriers to entry. The next step, then, is for a counterculture to *raise* its barriers. And here's where BYCombo comes in!
+${'  ' || `
+// TODO: Revise. Reconsider putting "steep cost of entry" in Dre paragraph, and then make bold paragraph more like in registry, apply, and partners pages.
+`}
+
+These "Dr. Dres of rock" would love to partner with bands who promise to make the best art— but how? Indie rock's low barriers to entry have led to a hopelessly crowded field. The next step, then, is for a counterculture to *raise* its barriers. And here's where BYCombo comes in!
 
 **Interdependent bands can now earn a business partner's trust by paying a steep *cost* of entry: To have their demo shown in BYCombo's registry, each band must sacrifice a serious chunk of lifetime to advance the art form.**
 
