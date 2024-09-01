@@ -31,9 +31,13 @@ Here's the curious part: Ever notice that the best rappers *don't* worry about s
 
 It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's *inter*-dependent way of thinking. I'd rather be an "Eminem of rock" and have a *partner* advocate for my band— while having this partner, in turn, depend on *us* to make the best art.
 
-By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charitable-support-starts-an-arms-race), no other artist can hope to compete. Which means the *labels* can only compete by partnering with indie artists… who work hard *not* to need them. What a mess! And yet, the future is clear:
+${'  ' || `
+// TODO: Review next two paragraphs.
+`}
 
-**As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to partnering with interdependent bands, who *do* need them… as it's the only way to make the best art!**
+By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charitable-support-starts-an-arms-race), no other artist can hope to compete. So then the *labels* can only compete by signing indie artists… who work hard *not* to need them. What a mess! And yet, the future is clear:
+
+**As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… as it's the only way to make the best art!**
 
 ### Return of the rock martyrs
 
@@ -42,10 +46,6 @@ And that's the funny part: Rock *was* interdependent once! Well then, can't a ba
 Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the rest. It picks "serious" artists over "casual" ones— in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will force us to dismiss *all* our best artists as hobbyists! Here's how it works:
 
 **To revive interdependence, bands must sacrifice *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 But who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! Which is why I spent 25,000 hours— twelve full-time years!— on [*Yearling's Bobtail*](https://yearlingsbobtail.com). And of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indies love it when a creative work *needs* to break the rules!
 
@@ -65,11 +65,7 @@ Worst of all, if the major labels are "bad guys," then this makes the indies "go
 
 ### A hundred *Yearling's Bobtail*s
 
-${'  ' || `
-// TODO: Review.
-`}
-
-If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging artists by the size of their fanbase, its gatekeepers end up favoring *content*— namely, art that's optimized to gain fans in the *present*, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
+If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging an artist by the size of their fanbase, its gatekeepers end up favoring *content*— namely, art that's optimized to gain fans in the *present*, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
 
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! And this is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that entrepreneurs will try to disrupt the rock market.
 

@@ -12,10 +12,6 @@ const Component = () => (
             metaTitle: TITLE,
             metaDescription: DESCRIPTION,
             body: `
-${'  ' || `
-// TODO: Review lack of links.
-`}
-
 As an artist, do you sense that the indie camp has it *backward*? Why do they force you to waste so much effort on hustling to get yourself known— all in the name of self-empowerment? Back when rock was interdependent, being empowered just came for free, once you'd built up enough talents.
 
 Furthermore, the only measure of empowerment is the size of an artist's fanbase. But the easiest way to gain fans here and now is to create *content*— which has no lasting value for *future* audiences. So if *you* double down to make art that lasts… you'll end up the biggest loser. Fortunately, BYCombo lets you aim for the historical canon once more! Here's how:
