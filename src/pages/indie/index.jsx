@@ -171,6 +171,12 @@ Of course, the best artists *are* human— so how are such works possible? It's 
 
 But this can't happen if you're always context switching— which explains why "indiefication" has made music worse. Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have a business partner wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
+### ${++sectionCounter}. Prisoner's dilemma
+
+To squeal or not? This is the prisoner's dilemma. Well, thanks to indie rock, today's artists face a similar decision: To hustle or not? We're all better off if *no one* hustles, of course— just like in the past. But once *any* artist hustles, they'll hog up all the attention. Which means *every* artist must now waste time and energy on the hustle— to the detriment of the arts.
+
+At BYCombo, we believe this "artist's dilemma" is the reason for the cultural stagnation of our times. And to solve it? A generation of artists must now martyr themselves by doubling down to make art for untold years, until you— as a business partner, discerning listener, or future historian— feel confident to give them a chance. Here's how:
+
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so unoriginal: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
