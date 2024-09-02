@@ -266,14 +266,10 @@ Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except now it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
 ${'  ' || `
-// TODO: Revise.
-
-In an "indiefied" world where hustling equates to paid dues, whereas in the past, an artist who doubles down to make art, but can't get anywhere because they didn't hustle, would have been met with noblesse oblige, today they're met with schadenfreude. They'll remain an outsider in a movement that prides itself on solidarity.
-
-Having come of age before "indiefication," I assumed that by making myself vulnerable by doubling down on making art would be met with noblesse oblige. Instead, they were met with schadenfreude— because all the while, I *hadn't* been hustling to pay my dues.
+// TODO: Keep working on.
 `}
 
-But… suddenly I understood! If paid dues are worthless outside the one culture that honors them, then of *course* those who've paid them will keep the culture as it is— in all its brokenness.
+But suddenly I understood: Paid dues are worthless outside the one culture that honors them. So *of course* an indie artist who's already put in the hustle will want indie rock to stay as it is— in all its brokenness! After all, hustling only *got* them known; to anyone outside the indie camp, it says nothing of whether they *deserve* to be.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So the only newcomers they'll welcome are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
