@@ -261,19 +261,25 @@ But why would the next generation side with past gatekeepers who *didn't* care w
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
+${'  ' || `
+// TODO: Review whole section.
+`}
+
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture; it's just that, being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one would *help*.
 
-So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except now it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
+So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except this time it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
 ${'  ' || `
 // TODO: Keep working on.
+
+ After all, hustling only *got* them known; to anyone outside the indie camp, it says nothing of whether they *deserve* to be.
 `}
 
-But suddenly I understood: Paid dues are worthless outside the one culture that honors them. So *of course* an indie artist who's already put in the hustle will want indie rock to stay as it is— in all its brokenness! After all, hustling only *got* them known; to anyone outside the indie camp, it says nothing of whether they *deserve* to be.
+But… suddenly I understood! If paid dues are worthless outside the one culture that honors them, then *of course* those artists who've put in the hustle will now want to keep indie rock as it is— in all its brokenness.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So the only newcomers they'll welcome are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
-Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just the first one who's secure enough to *want* it— having never hustled to pay indie rock's dues myself.
+Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never hustled to pay indie rock's dues myself.
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
