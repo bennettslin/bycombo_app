@@ -213,10 +213,6 @@ The problem, then, is that indie rock's cultural libertarianism is a *partisan* 
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In game theory, the "stag hunt" is a game in which you and another player must decide, each on your own, whether to hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
 
 The [richest nations](http://archive.today/20240511/https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#selection-1439.0-1439.363) build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The reverse is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
@@ -241,7 +237,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Imagine this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's get rid of overpaid talent scouts, and empower indie athletes like me to get ourselves known. Of course, this will crowd the field— but you'll just have to put in the work to find what you want." Who'd object?
+Imagine this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's get rid of overpaid talent scouts, and empower indie athletes like me to get ourselves known. Yes, this will crowd the field— but you'll just have to put in the work to find what you want." Who'd object?
 
 Uh… *we* would— the audience! The majority of us only want the *best* athletes, and it's the *talent scout's* job to find them, not *ours*. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
@@ -271,9 +267,9 @@ ${'  ' || `
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture; it's just that, being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one would *help*.
 
-So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except this time it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
+So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except now it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
-But… suddenly I understood! If paid dues are worthless outside the one culture that honors them, then *of course* any artist who's put in the hustle will now keep indie rock as it is— in all its brokenness.
+But… suddenly I understood! If paid dues are worthless outside the one culture that honors them, then *of course* any artist who's put in the hustle will want to keep indie rock as it is— in all its brokenness.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
@@ -363,7 +359,7 @@ So when the tech platforms arrived, their savvy with numbers made them good guys
 
 In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](http://archive.today/20240511/https://www.honest-broker.com/p/record-labels-dig-their-own-grave#selection-831.0-873.93) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
-### ${++sectionCounter}. Means to scale is decided upfront
+### ${++sectionCounter}. Capacity to scale is decided upfront
 
 ${'  ' || `
 // TODO: Keep working on. Review location. Since it mentions tech, this should probably be after I mention the coding bootcamp.
@@ -371,12 +367,14 @@ ${'  ' || `
 After fair practices.
 Before unenlightened romanticism.
 
+Or maybe after romanticism?
+
 Mention difference between top down and bottom up approach. Winning over elites, and having them spread from top down. Versus winning over masses, through fan engagement. And, of course, windfall versus workhorse art. Which explains why today's artists, who are forced to spread from the bottom up, only ever make workhorse art, even after they've made it.
 `}
 
-How could I expect my "*Ulysses* of rock albums" to gain a *million* fans, when no one was willing to be its *first*? "Well… had James Joyce been unknown, it's likely his *Ulysses* would've faced the same dilemma." For so long, that was my best answer— until I immersed myself in tech.
+Why did I think my "*Ulysses* of rock albums" could gain a *million* fans, when no one was willing to be its *first*? "Well," I'd stammer, "if James Joyce had been unknown, his *Ulysses* would've likely faced the same dilemma." For so long, that was my best answer… until I immersed myself in tech.
 
-In his essay "[Startup = Growth](https://paulgraham.com/growth.html)," Paul Graham argues that startups are their own type of business. Whereas a store profits first, *then* scales into a chain, a startup is designed to scale first, *then* profit— thanks to network effects and economies of scale. In this way, the same startup that loses money with only one user could prove to be successful with a million users. (Make this point better.)
+In [his essays](https://paulgraham.com/articles.html), Paul Graham argues that startups are their own type of business. Whereas a store profits first, *then* scales into a chain, a startup is designed to scale first, *then* profit— thanks to network effects and economies of scale. In this way, the same startup that loses money with only one user could prove to be successful with a million users. (Make this point better.)
 
 Third paragraph, explain my situation.
 
