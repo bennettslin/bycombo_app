@@ -355,7 +355,7 @@ So when the tech platforms arrived, their savvy with numbers made them good guys
 
 In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](http://archive.today/20240511/https://www.honest-broker.com/p/record-labels-dig-their-own-grave#selection-831.0-873.93) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
-### ${++sectionCounter}. Capacity to scale is decided upfront
+### ${++sectionCounter}. Startups offer lessons on growth
 
 ${'  ' || `
 // TODO: Keep working on. Review location. Since it mentions tech, this should probably be after I mention the coding bootcamp.
@@ -364,19 +364,17 @@ After fair practices.
 Before unenlightened romanticism.
 
 Or maybe after romanticism?
-
-Mention difference between top down and bottom up approach. Winning over elites, and having them spread from top down. Versus winning over masses, through fan engagement. And, of course, windfall versus workhorse art. Which explains why today's artists, who are forced to spread from the bottom up, only ever make workhorse art, even after they've made it.
 `}
 
-Why did I think my "*Ulysses* of rock albums" could gain a *million* fans, when no one was willing to be its *first*? "Well," I'd stammer, "if James Joyce had been unknown, his *Ulysses* would've likely faced the same dilemma." For so long, that was my best answer… until I immersed myself in tech.
+In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect your '*Ulysses* of rock albums' to gain a *million* fans, when no one's willing to be its *first*?" "Well, if James Joyce hadn't been known," I'd stammer, "surely *Ulysses* would've met the same fate?" For so long, this was my best answer… until I entered the world of tech.
 
-In [his essays](https://paulgraham.com/articles.html), Paul Graham argues that startups are their own type of business. Whereas a store profits first, *then* scales into a chain, a startup is designed to scale first, *then* profit— thanks to network effects and economies of scale. In this way, the same startup that loses money with only one user could prove to be successful with a million users. (Make this point better.)
+In [his essays](https://paulgraham.com/articles.html), Paul Graham points out that startups are unique. Whereas a store that's unprofitable has no business scaling into a chain, a startup can lose money with only a few users, yet still hope to turn a profit with millions of them— thanks to network effects and economies of scale.
 
-Third paragraph, explain my situation.
+And now I had a better answer! …
 
-There's one further point. Because they're different types of business, a store can't pivot to behaving like a startup, and vice versa. This might explain why, after finding success through their "workhorse art," indie artists fail to pivot to making "windfall art." Bring up fan engagement and bottom up.
+Furthermore, a retail chain is locked into its way of doing business; having opened one store at a time for years, it can't simply pivot to operating like a startup. Which raises a possibility: Perhaps certain works can *never* be made by indie artists— who are locked into gaining one fan at a time— but *only* by the type who hope to gain millions of them, all at once, from the top down!
 
-What if the only way to get windfall art is to take a chance on those artists trying to make it from the very beginning. What if it's precisely the nature of windfall art that no one's willing to be their first fan, even as millions would happily be their millionth?
+This would explain why the arts have stagnated in our times, as well as why the tech platforms have so thoroughly dominated: While investors *readily* bankroll startups that lose money, the indie gatekeepers *refuse* to believe in artists with no fanbase. Thankfully, BYCombo lets you ask: "What's possible for me to make, if I can count on network effects and economies of scale?"
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
