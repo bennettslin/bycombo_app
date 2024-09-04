@@ -263,10 +263,6 @@ So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/
 
 But… now I understood! If paid dues are worthless outside the one culture that honors them, then *of course* any artist who's already put in the hustle will want to keep indie rock as it is— in all its brokenness.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never hustled to pay indie rock's dues myself.
@@ -297,7 +293,7 @@ While indie artists speak of solidarity, rappers revel in elitism. Yet for Gen X
 
 Because Millennials grew up with so many advantages, however, they fail to understand how the *truly* disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they encounter the rapper's attitude in rock, they decry it as "rockism"— implying that such elitism is no better than racism.
 
-But once competition happens *away* from public view— as is the case with self-reliance— the disadvantaged become *helpless* to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ideal* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
+But once competition happens *away* from public view— as is the case with self-reliance— the disadvantaged become *helpless* to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
 Which is why every movement started by minorities is *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more… just like rappers do.
 
@@ -369,27 +365,21 @@ So yes, the arts have declined— but it *isn't* because the tech platforms list
 
 ${'  ' || `
 // TODO: Review section a few more times. Review location.
-
-Fourth paragraph. Make it more like indie artists are locked into a way of thinking?
-
-Hard to make it about "workhorse versus windfall," I think, because plenty of artists who built a fanbase from the bottom up *did* end making windfall art.
-
-Furthermore, a retail chain is locked into its way of doing business; having scaled by opening one store at a time, it *can't* pivot to operating like a startup. Well, what if indie artists, having gained one fan at a time, are now locked into making "workhorse art"? So "windfall art" can *only* be made by those whose plan all along was to gain a million at once, from the top down!
 `}
 
-In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one's willing to be its *first*?" "Well, it's my *Ulysses*," I'd explain. "Had James Joyce been unknown, surely his *Ulysses* would've met the same fate?" For so long, I had no better answer… until I entered the world of tech.
+In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one's willing to be its *first*?" "Well, it's my *Ulysses*," I'd explain. "Had James Joyce been unknown, surely his *Ulysses* would've met the same fate?" For so long, that was my best answer… until I entered the world of tech.
 
-In [his essays](https://paulgraham.com/articles.html), Paul Graham points out that startups are a different kind of business. For example, unlike a retail store, which can't possibly scale into a chain if it isn't profitable, a startup can lose money with only a *few* users— yet still hope to turn a profit with *millions* of them! How? Through network effects and economies of scale.
+In [his essays](https://paulgraham.com/articles.html), Paul Graham points out that startups are unique. Unlike a retail store, which couldn't possibly scale into a chain if it were unprofitable, a startup with only a *few* users can lose money, yet still hope to turn a profit with *millions* of them— thanks to network effects and economies of scale.
 
 ${'  ' || `
 // TODO: Keep working on.
 `}
 
-But… now I had a better answer! …
+And… now I had a better answer! Until a community of listeners could confirm that parsing my dense lyrics is worth the effort, no one would bother to do so. Network effects! 
 
-Furthermore, a retail chain is locked into its way of doing business; having scaled by opening one store at a time, it *can't* pivot to operating like a startup. Perhaps it's also true, then, that certain works *can't* be made by indie artists— who, having gained one fan at a time, are locked into their way of thinking— but *only* by those whose plan all along was to gain a million at once, from the top down!
+Furthermore, a retail chain is locked into its way of doing business; having scaled by opening one store at a time, it *can't* pivot to operating like a startup. Perhaps it's also true, then, that certain works *can't* be made by artists whose ways have now been locked into gaining one fan at a time— but *only* by those whose plan all along was to gain a million at once, from the top down!
 
-This would explain why the arts have grown stagnant, while tech platforms have been able to dominate: Even as investors *readily* bankroll startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists with no fanbase! But BYCombo lets you ask once more: "What's possible to make, if I can count on network effects and economies of scale?"
+This would explain why the tech platforms continue to dominate, even as the arts have declined: While investors *readily* bankroll startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists with no fanbase! Thankfully, BYCombo lets you ask once more: "What's possible to make, if I can count on network effects and economies of scale?"
 
 ### ${++sectionCounter}. Scarcity builds generational courage
 
