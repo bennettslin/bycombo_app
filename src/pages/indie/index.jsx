@@ -355,29 +355,6 @@ So when the tech platforms arrived, their savvy with numbers made them good guys
 
 In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](http://archive.today/20240511/https://www.honest-broker.com/p/record-labels-dig-their-own-grave#selection-831.0-873.93) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
-### ${++sectionCounter}. Startups offer lessons on scalability
-
-${'  ' || `
-// TODO: Keep working on. Review location. Since it mentions tech, this should probably be after I mention the coding bootcamp.
-
-After fair practices.
-Before unenlightened romanticism.
-
-Or maybe after romanticism?
-
-This explains why it was hard to find bandmates in music recording section.
-`}
-
-In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect your '*Ulysses* of rock albums' to gain a *million* fans, when no one's willing to be its *first*?" "Well," I'd stammer, "had James Joyce been unknown, surely *Ulysses* would've met the same fate?" For so long, this was my best answer… until I entered the world of tech.
-
-In [his essays](https://paulgraham.com/articles.html), Paul Graham points out that startups are unique: Whereas a store that's unprofitable has no business scaling into a chain, a startup can lose money with only a few users, yet still hope to turn a profit with millions of them— thanks to network effects and economies of scale.
-
-And now I had a better answer! …
-
-Furthermore, a retail chain is locked into its way of doing business; having opened one store at a time for years, it can't pivot to operating like a startup. Which raises a possibility: Perhaps certain works can *never* be made by indie artists— who are locked into gaining one fan at a time— but *only* by artists who dream of gaining millions of them, all at once, from the top down!
-
-This would explain why the arts have stagnated in our times, as well as why the tech platforms have so thoroughly dominated: While investors *readily* bankroll startups that lose money, the indie gatekeepers *refuse* to believe in artists with no fanbase. But BYCombo lets you ask: "What's possible for me to make, if I can count on network effects and economies of scale?"
-
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're the new word of mouth— which indie rock has *always* held in high esteem. So maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
@@ -387,6 +364,26 @@ According to science, we humans aren't just biased against creativity, but also 
 Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as Romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
 So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help to usher it in.
+
+### ${++sectionCounter}. Startups offer lessons on scalability
+
+${'  ' || `
+// TODO: Review section a few more times. Review location.
+`}
+
+In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect your '*Ulysses* of rock albums' to gain a *million* fans, when no one's willing to be its *first*?" "Well," I'd stammer, "had James Joyce been unknown, surely *Ulysses* would've met the same fate?" For so long, this was my best answer… until I entered the world of tech.
+
+In [his essays](https://paulgraham.com/articles.html), Paul Graham points out that startups are unique: Whereas a store that's unprofitable has no business scaling into a chain, a startup can lose money with only a few users, yet still hope to turn a profit with millions of them— thanks to network effects and economies of scale.
+
+${'  ' || `
+// TODO: Keep working on.
+`}
+
+And now I had a better answer! …
+
+Furthermore, a retail chain is locked into its way of doing business; having opened one store at a time for years, it can't pivot to operating like a startup. Which raises a possibility: Perhaps certain works can *never* be made by indie artists— who are locked into gaining one fan at a time— but *only* by artists who hope to gain millions of them, all at once, from the top down!
+
+This would explain why the arts have stagnated in our times, as well as why the tech platforms have so thoroughly dominated: While investors *readily* bankroll startups that lose money, the indie gatekeepers *refuse* to believe in artists with no fanbase. But BYCombo lets you ask: "What's possible for me to make, if I can count on network effects and economies of scale?"
 
 ### ${++sectionCounter}. Scarcity builds generational courage
 
