@@ -369,21 +369,23 @@ So yes, the arts have declined— but it *isn't* because the tech platforms list
 
 ${'  ' || `
 // TODO: Review section a few more times. Review location.
+
+Fourth paragraph. Make it more like indie artists are locked into a way of thinking? Do make it about "workhorse art" and "windfall art" after all?
 `}
 
 In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one's willing to be its *first*?" "Well, it's my *Ulysses*," I'd explain. "Had James Joyce been unknown, surely his *Ulysses* would've met the same fate?" For so long, I had no better answer… until I entered the world of tech.
 
-In [his essays](https://paulgraham.com/articles.html), Paul Graham points out that startups are unique: Whereas a store that's unprofitable has no business scaling into a chain, a startup can lose money with only a *few* users— yet still hope to turn a profit with *millions* of them! How? Through network effects and economies of scale.
+In [his essays](https://paulgraham.com/articles.html), Paul Graham points out that startups are a different kind of business. For example, unlike a retail store, which can't possibly scale into a chain if it isn't profitable, a startup can lose money with only a *few* users— yet still hope to turn a profit with *millions* of them! How? Through network effects and economies of scale.
 
 ${'  ' || `
 // TODO: Keep working on.
 `}
 
-And… now I have a better answer! …
+But… now I had a better answer! …
 
 Furthermore, a retail chain is locked into its way of doing business; having scaled by opening one store at a time, it *can't* pivot to operating like a startup. Perhaps it's also true, then, that certain works *can't* be made by indie artists, who are now locked into gaining one fan at a time— but *only* by those whose plan all along was to gain a million at once, from the top down!
 
-This would explain why the arts grew stagnant while the tech platforms grew dominant: Even as investors *readily* bankroll startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists with no fanbase! But BYCombo lets you ask once more: "What's possible to make, if I can count on network effects and economies of scale?"
+This would explain why the arts have grown stagnant while the tech platforms have grown dominant: Even as investors *readily* bankroll startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists with no fanbase! But BYCombo lets you ask once more: "What's possible to make, if I can count on network effects and economies of scale?"
 
 ### ${++sectionCounter}. Scarcity builds generational courage
 
