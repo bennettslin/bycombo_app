@@ -375,21 +375,21 @@ ${'  ' || `
 // TODO: Review section a few more times. Review location.
 
 Review promo page.
+
+Links for middle paragraph.
+
+Make last sentence clear about having faith in bands with no fanbase.
 `}
 
-In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one's willing to be its *first*?" "Well, it's my *Ulysses*," I'd explain. "Had James Joyce been unknown, surely he would've gotten stuck as well?" For so long, that was my best answer… until I entered the world of tech.
+In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one's willing to be its *first*?" "Well, it's my *Ulysses*," I'd explain. "Surely James Joyce would've gotten stuck as well, had he been unknown?" That was my best answer for so long… until I entered the world of tech.
 
 In [his essays](https://paulgraham.com/articles.html), Paul Graham observes that startups are unique: Unlike a retail store, which can't hope to scale into a chain if it's unprofitable, a startup that loses money with only a few users… might *still* turn a profit with millions of them! How? Through network effects and economies of scale.
 
-${'  ' || `
-// TODO: Keep working on.
-`}
+And… now I had a better answer! When your lyrics are difficult to parse, a listener will try only once others appreciate them… Network effects! And when your music is difficult to perform, a musician will join your band and learn their parts only once an audience is guaranteed… Economies of scale!
 
-And… now I had a better answer! Until a community of listeners could confirm that parsing my dense lyrics is worth the effort, no one would bother to do so… Network effects! 
+Furthermore, a retail chain is locked into its way of doing business; having scaled by opening one store at a time, it *can't* pivot to behaving like a startup. But… what if gaining one fan at a time locks indie artists into their ways as well? Such that certain works will *never* be made by them— but *only* by those whose plan all *along* was to gain a million at *once*, from the top down?
 
-Furthermore, a retail chain is locked into its way of doing business; having scaled by opening one store at a time, it *can't* pivot to operating like a startup. But… what if gaining one fan at a time locks indie artists into their ways as well? Such that certain works can *never* be made by them— but *only* by those whose dream all along was to gain a million at *once*, from the top down?
-
-If so, then this would explain why the tech platforms now dominate while the arts have declined! Even as investors *readily* fund startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists with no fanbase. Thankfully, BYCombo lets you ask once more: "What's possible to make, if I'm allowed to count on network effects and economies of scale?"
+If so, then this would explain why the tech platforms now dominate while the arts have declined: Even as investors *readily* fund startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists with no fanbase! Thankfully, BYCombo lets you ask once more: "What's possible to make, if I'm allowed to count on network effects and economies of scale?"
 
 ### ${++sectionCounter}. Scarcity builds generational courage
 
