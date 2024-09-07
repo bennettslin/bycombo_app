@@ -364,26 +364,18 @@ So yes, the arts have declined— but it *isn't* because the tech platforms list
 ### ${++sectionCounter}. Startups offer lessons in scalability
 
 ${'  ' || `
-// TODO: Review section a few more times. Review location.
-
-Review promo page.
-
-Links for middle paragraph. Should also restate startups.
-
-Make segue better between third and fourth paragraphs.
-
-Make last sentence clear about having faith in bands with no fanbase.
+// TODO: Review section a few more times. Also review location.
 `}
 
-In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one's willing to be its *first*?" "Well, it's my *Ulysses*," I'd explain. "Surely James Joyce would've gotten stuck as well, had he been unknown?" That was my best answer for so long… until I entered the world of tech.
+In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one's willing to be its *first*?" "Well, it's my *Ulysses*," I'd explain. "Surely James Joyce would've faced the same dilemma, had he been unknown?" For so long, that was my best answer… until I entered the world of tech.
 
-In [his essays](https://paulgraham.com/articles.html), Paul Graham observes that startups are unique: Unlike a retail store, which can't hope to scale into a chain if it's unprofitable, a startup that loses money with only a few users… might *still* turn a profit with millions of them! How? Why, through network effects and economies of scale.
+In [his essays](https://paulgraham.com/articles.html), Paul Graham observes that startups are unique: Unlike a retail store, which can't hope to scale into a chain if it's unprofitable, a startup can lose money with only a few users— yet *still* hope to turn a profit with millions of them! How? Through network effects and economies of scale.
 
-And… now I had a better answer! When your lyrics are difficult to parse, a listener will bother to do so only once others appreciate them… Network effects! And when your music is difficult to perform, a musician will care to join your band and learn the parts only once an audience is guaranteed… Economies of scale!
+Well… now I had a better answer! When your lyrics are [difficult to parse](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will bother to do so only once others appreciate them… Network effects! And when your music is [difficult to perform](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), musicians will care to join your band, and learn the parts, only once an audience is guaranteed… Economies of scale!
 
-Furthermore, a retail chain is locked into its way of doing business; having scaled by opening one store at a time, it *can't* pivot to behaving like a startup. But… what if gaining one fan at a time locks indie artists into their ways as well? Such that certain works will *never* be made by them— but *only* by those whose plan all *along* was to gain a million at *once*, from the top down?
+But here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist *can't* pivot from making "workhorse art"? Such that "windfall art"— if it's to be made today at all— can *only* be made by those whose plan all *along* was to gain a million fans at *once*, from the top down?
 
-If so, then this would explain why the tech platforms now dominate while the arts have declined: Even as investors *readily* fund startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists with no fanbase! Thankfully, BYCombo lets you ask once more: "What's possible to make, if I'm allowed to count on network effects and economies of scale?"
+If so, this would explain why the tech platforms now dominate while the arts have declined: Even as investors *readily* fund startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists with no fanbase! Let's face it, to hold our own against the tech platforms, we must *learn* from them. Now with BYCombo, you can find a business partner who agrees.
 
 ### ${++sectionCounter}. Scarcity builds generational courage
 
