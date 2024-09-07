@@ -191,17 +191,9 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corpora
 
 It's no surprise, then, that history's pioneering works were often backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their respective genres— who *didn't* know what the people wanted, and thus *weren't* led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 And here's more absurdity: Whereas artists are loved for doing what we all dream to do, middlemen are hated for doing work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a wish of the *middling* artist, who'd otherwise *be* a middleman!
 
@@ -376,16 +368,18 @@ ${'  ' || `
 
 Review promo page.
 
-Links for middle paragraph.
+Links for middle paragraph. Should also restate startups.
+
+Make segue better between third and fourth paragraphs.
 
 Make last sentence clear about having faith in bands with no fanbase.
 `}
 
 In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one's willing to be its *first*?" "Well, it's my *Ulysses*," I'd explain. "Surely James Joyce would've gotten stuck as well, had he been unknown?" That was my best answer for so long… until I entered the world of tech.
 
-In [his essays](https://paulgraham.com/articles.html), Paul Graham observes that startups are unique: Unlike a retail store, which can't hope to scale into a chain if it's unprofitable, a startup that loses money with only a few users… might *still* turn a profit with millions of them! How? Through network effects and economies of scale.
+In [his essays](https://paulgraham.com/articles.html), Paul Graham observes that startups are unique: Unlike a retail store, which can't hope to scale into a chain if it's unprofitable, a startup that loses money with only a few users… might *still* turn a profit with millions of them! How? Why, through network effects and economies of scale.
 
-And… now I had a better answer! When your lyrics are difficult to parse, a listener will try only once others appreciate them… Network effects! And when your music is difficult to perform, a musician will join your band and learn their parts only once an audience is guaranteed… Economies of scale!
+And… now I had a better answer! When your lyrics are difficult to parse, a listener will bother to do so only once others appreciate them… Network effects! And when your music is difficult to perform, a musician will care to join your band and learn the parts only once an audience is guaranteed… Economies of scale!
 
 Furthermore, a retail chain is locked into its way of doing business; having scaled by opening one store at a time, it *can't* pivot to behaving like a startup. But… what if gaining one fan at a time locks indie artists into their ways as well? Such that certain works will *never* be made by them— but *only* by those whose plan all *along* was to gain a million at *once*, from the top down?
 
