@@ -199,7 +199,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-And here's more absurdity: Whereas artists are loved for doing what we'd all much rather do, middlemen are hated for doing work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is a wish of the *middling* artist, who'd otherwise *be* a middleman!
+And here's more absurdity: Whereas artists are loved for doing what we'd all much rather do, middlemen are hated for doing work that few of us enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is the wish of a *middling* artist, who previously would've *been* a middleman!
 
 Let's be clear, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We learned [all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
 
@@ -368,7 +368,9 @@ So yes, the arts have declined— but it *isn't* because the tech platforms list
 ### ${++sectionCounter}. Startups offer lessons in scalability
 
 ${'  ' || `
-// TODO: Revise last paragraph. Not really liking the idea of learning from the tech platforms.
+// TODO: Revise last paragraph. Not really liking the idea of learning from the tech platforms. Rewrite to make clear that artist who can't gain first fan can be worthy of a million fans. Business partner who loses money betting on an artist with no fanbase, knowing they can help them gain a million.
+
+Should this be after fair practices and before romanticism?
 `}
 
 In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one's willing to be its *first*?" "Well, it's my *Ulysses*," I'd explain. "Surely James Joyce would've faced the same dilemma, had he been unknown?" For so long, that was my best answer… until I dove into the world of tech.
