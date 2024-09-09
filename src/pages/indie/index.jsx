@@ -251,11 +251,7 @@ From there, we admit that the silent majority only want the *best* artists— an
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one without a fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could simply be *made* known… by deserving to be.
+In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could simply be *made* known… by deserving to be.
 
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it felt awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
 
@@ -372,7 +368,7 @@ So yes, the arts have declined— but it *isn't* because the tech platforms list
 ### ${++sectionCounter}. Startups offer lessons in scalability
 
 ${'  ' || `
-// TODO: Revise last paragraph. Not really liking the idea of learning from the tech platforms. Rewrite to make clear that artist who can't gain first fan can be worthy of a million fans. Business partner who loses money betting on an artist without a fanbase, knowing they can help them gain a million.
+// TODO: Revise last paragraph. Not really liking the idea of learning from the tech platforms. Let you scale the way startups do. "Unique type of business."
 
 Should this be after fair practices and before romanticism?
 `}
@@ -381,11 +377,11 @@ In indie rock, a fanbase is built from the bottom up, one fan at a time. So I wa
 
 In [his essays](https://paulgraham.com/articles.html), Paul Graham observes that startups are unique: Unlike a retail store, which can't hope to scale into a chain if it's unprofitable, a startup with only a few users can lose money— yet *still* hope to turn a profit with millions of them! How? Through network effects and economies of scale.
 
-Well, now I had a better answer for how an artist like me, with no fans, could *still* hope to gain a million! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will try to parse them only if others have done the same… Network effects! And when your music is [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), musicians will care to join your band only once an audience is guaranteed… Economies of scale!
+Which explains how an artist like me— who struggles to gain even *one* fan— can still hope to gain a *million*! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will try to parse them only if others have done the same… Network effects! And when your music is [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), musicians will care to join your band only once an audience is guaranteed… Economies of scale!
 
-Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist *can't* pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all *along* was to gain a million fans at *once*, from the top down?
+Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all *along* was to gain a million fans at *once*, from the top down?
 
-If so, this would explain why the tech platforms now dominate while the arts have declined: Even as investors *readily* fund startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists without a fanbase! Let's face it, to hold our own against the tech platforms, we must *learn* from them. Now with BYCombo, you can find a business partner who agrees.
+If so, then this would explain why the tech platforms now dominate while the arts have declined: Even as investors *readily* fund startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists with no fanbase! Thankfully, BYCombo lets you find business partners who understand that some artists are unique— and thus need to scale the way startups do.
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
