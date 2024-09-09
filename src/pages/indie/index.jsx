@@ -199,7 +199,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-And here's more absurdity: Whereas artists are loved for doing what we'd all much rather do, middlemen are hated for doing work that few of us enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is the wish of a *middling* artist, who previously would've *been* a middleman!
+And here's more absurdity: Whereas artists are loved for doing what we'd all much rather do, middlemen are hated for doing work that few of us enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is the wish of a *middling* artist, who'd otherwise *be* just a middleman!
 
 Let's be clear, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We learned [all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
 
@@ -251,7 +251,11 @@ From there, we admit that the silent majority only want the *best* artists— an
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all gatekeepers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could simply be *made* known… by deserving to be.
+${'  ' || `
+// TODO: Review.
+`}
+
+In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one without a fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could simply be *made* known… by deserving to be.
 
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it felt awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
 
@@ -368,20 +372,20 @@ So yes, the arts have declined— but it *isn't* because the tech platforms list
 ### ${++sectionCounter}. Startups offer lessons in scalability
 
 ${'  ' || `
-// TODO: Revise last paragraph. Not really liking the idea of learning from the tech platforms. Rewrite to make clear that artist who can't gain first fan can be worthy of a million fans. Business partner who loses money betting on an artist with no fanbase, knowing they can help them gain a million.
+// TODO: Revise last paragraph. Not really liking the idea of learning from the tech platforms. Rewrite to make clear that artist who can't gain first fan can be worthy of a million fans. Business partner who loses money betting on an artist without a fanbase, knowing they can help them gain a million.
 
 Should this be after fair practices and before romanticism?
 `}
 
-In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one's willing to be its *first*?" "Well, it's my *Ulysses*," I'd explain. "Surely James Joyce would've faced the same dilemma, had he been unknown?" For so long, that was my best answer… until I dove into the world of tech.
+In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one's willing to be its *first*?" "Well, it's my *Ulysses*," I'd explain. "Surely James Joyce would've faced the same dilemma, had he been unknown?" That was my best answer… until my coding years exposed me to startup culture.
 
-In [his essays](https://paulgraham.com/articles.html), Paul Graham observes that startups are unique: Unlike a retail store, which can't hope to scale into a chain if it's unprofitable, a startup can lose money with only a few users— yet *still* hope to turn a profit with millions of them! How? Through network effects and economies of scale.
+In [his essays](https://paulgraham.com/articles.html), Paul Graham observes that startups are unique: Unlike a retail store, which can't hope to scale into a chain if it's unprofitable, a startup with only a few users can lose money— yet *still* hope to turn a profit with millions of them! How? Through network effects and economies of scale.
 
-Well… now I had a better answer! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will try to parse them only if others have done the same… Network effects! And when your music is [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), musicians will care to join your band, and learn the parts, only once an audience is guaranteed… Economies of scale!
+Well, now I had a better answer for how an artist like me, with no fans, could *still* hope to gain a million! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will try to parse them only if others have done the same… Network effects! And when your music is [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), musicians will care to join your band only once an audience is guaranteed… Economies of scale!
 
-But here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist *can't* pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all *along* was to gain a million fans at *once*, from the top down?
+Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist *can't* pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all *along* was to gain a million fans at *once*, from the top down?
 
-If so, this would explain why the tech platforms now dominate while the arts have declined: Even as investors *readily* fund startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists with no fanbase! Let's face it, to hold our own against the tech platforms, we must *learn* from them. Now with BYCombo, you can find a business partner who agrees.
+If so, this would explain why the tech platforms now dominate while the arts have declined: Even as investors *readily* fund startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists without a fanbase! Let's face it, to hold our own against the tech platforms, we must *learn* from them. Now with BYCombo, you can find a business partner who agrees.
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
@@ -455,7 +459,11 @@ Fourth paragraph, indie rock's logical conclusion gives us AI. Opportunity to un
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became circles. This was a much [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
-Well, music today requires a similarly convoluted explanation, doesn't it? After all, "indiefication" is widely understood to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
+${'  ' || `
+// TODO: Review.
+`}
+
+Well, music today requires a similarly convoluted explanation, doesn't it? After all, "indiefication" is widely thought to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
 But let's swap "Sun" and "Earth" in this model: What if indiefication… actually makes art… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this much simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
