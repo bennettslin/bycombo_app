@@ -95,6 +95,10 @@ So what happens now, if *your* respect for the underground was always rooted in 
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
+${'  ' || `
+// TODO: Revise. Mention industry plant.
+`}
+
 There's another reason we respect those '80s underground bands: It feels like their legacy was *assured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
 But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to spread their works from the top down, they can use online tools to go viral from the bottom up. So now they're chosen by the people, *not* by the elites… making them indie artists in good faith!
@@ -239,7 +243,11 @@ Uh… *we* would— the audience! The majority of us only want the *best* athlet
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. Like Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means today's pro-*artist* thinking might just be a generational fluke… and *not* the future of music.
 
-Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend the performance of a work." So let's use it in a way that Bach— who made music for God!— would understand: An audience *isn't* a fanbase. Nor are they a following.
+${'  ' || `
+// TODO: Revise.
+`}
+
+Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend the performance of a work." So let's use it in a way that Bach— who wrote music for God!— would've understood: An audience *isn't* a fanbase. Nor are they a following.
 
 From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing what that entails! This is why BYCombo promises to bring back the elitist gatekeepers, if *you* can promise to make the best art— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
@@ -371,9 +379,13 @@ In indie rock, a fanbase is built from the bottom up, one fan at a time. So I wa
 
 In [his essays](https://paulgraham.com/articles.html), Paul Graham observes that startups are unique: Unlike a retail store, which can't hope to scale into a chain if it's unprofitable, a startup can lose money with only a few users— yet *still* hope to turn a profit with millions of them! How? Through network effects and economies of scale.
 
-Well, this *also* explains how an artist like me— who can't even gain one fan— might still hope to gain a million! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will try to parse them only once others have done the same: network effects! And when your music is [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), musicians will rush to join your band only once an audience is guaranteed: economies of scale!
+But… this *also* explains how an artist like me— who can't even gain one fan— might still hope to gain a million! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will try to parse them only once others have done the same: network effects! And when your music is [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), musicians will rush to join your band only once an audience is guaranteed: economies of scale!
 
 Now here's a further point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all *along* was to gain a million at *once*, from the top down?
+
+${'  ' || `
+// TODO: Revise. Reiterate industry plant here, or in previous section?
+`}
 
 If so, this would explain why the tech platforms now dominate while the arts have declined: Even as investors *readily* fund startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists with no fanbase! Thankfully, BYCombo lets you find business partners who understand that some such artists are unique… and might just scale the way startups do.
 
