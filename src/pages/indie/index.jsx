@@ -195,10 +195,6 @@ It's no surprise, then, that history's pioneering works were often backed by tho
 
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 And here's more absurdity: Whereas artists are loved for doing what we'd all much rather do, middlemen are hated for doing work that few of us enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is the wish of a *middling* artist, who'd otherwise *be* just a middleman!
 
 Let's be clear, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We learned [all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
@@ -454,10 +450,6 @@ Fourth paragraph, indie rock's logical conclusion gives us AI. Opportunity to un
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became circles. This was a much [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Well, music today requires a similarly convoluted explanation, doesn't it? After all, "indiefication" is widely thought to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
