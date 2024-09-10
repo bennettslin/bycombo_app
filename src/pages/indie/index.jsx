@@ -368,7 +368,7 @@ So yes, the arts have declined— but it *isn't* because the tech platforms list
 ### ${++sectionCounter}. Startups offer lessons in scalability
 
 ${'  ' || `
-// TODO: Revise last paragraph. Not really liking the idea of learning from the tech platforms. Let you scale the way startups do. "Unique type of business."
+// TODO: Revise last paragraph. Not really liking the idea of learning from the tech platforms. Let you scale the way startups do.
 
 Should this be after fair practices and before romanticism?
 `}
@@ -381,7 +381,7 @@ Which explains how an artist like me— who struggles to gain even *one* fan— 
 
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all *along* was to gain a million fans at *once*, from the top down?
 
-If so, then this would explain why the tech platforms now dominate while the arts have declined: Even as investors *readily* fund startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists with no fanbase! Thankfully, BYCombo lets you find business partners who understand that some artists are unique— and thus need to scale the way startups do.
+If so, then this would explain why the tech platforms now dominate while the arts have declined: Even as investors *readily* fund startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists with no fanbase! Thankfully, BYCombo lets you find a business partner who understands that some such artists… might just scale the way startups do.
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
