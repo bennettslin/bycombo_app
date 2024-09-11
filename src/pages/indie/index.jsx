@@ -373,7 +373,7 @@ ${'  ' || `
 
 In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one wants to be its *first*?" "Well, it's my *Ulysses*," I'd reply. "Surely an unknown James Joyce would've faced the same dilemma?" I just didn't have a better answer… until my years as a coder exposed me to startup culture.
 
-In [his essays](https://paulgraham.com/articles.html), Paul Graham observes that startups are unique: Unlike a retail store, which can't hope to scale into a chain if it's unprofitable, a startup can lose money with only a few users— yet *still* hope to turn a profit with millions of them! How? Through network effects and economies of scale.
+In [his essays](https://paulgraham.com/articles.html), Paul Graham observes that startups are unique: Unlike a retail store, which could never scale into a chain if it's unprofitable, a startup can lose money with only a few users— yet *still* hope to turn a profit with millions of them! How? Through network effects and economies of scale.
 
 But… this *also* explains how an artist like me— who can't even gain *one* fan— might still hope to have a *million*! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will parse them only if others have done the same: network effects! And when your music is [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), the right bandmates will join you only once an audience is guaranteed: economies of scale!
 
