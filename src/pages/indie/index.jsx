@@ -107,7 +107,7 @@ In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
 
-So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to our [present moment](https://freddiedeboer.substack.com/p/i-keep-writing-the-same-poptimism) known as "poptimism," when even superstars angle to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
+So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to our present moment known as "poptimism," when even superstars angle to be seen as underdogs. Which explains why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
@@ -239,10 +239,6 @@ Uh… *we* would— the audience! The majority of us only want the *best* athlet
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. Like Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means today's pro-*artist* thinking might just be a generational fluke… and *not* the future of music.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend the performance of a work." So let's use it once more in a way that Bach— who made music for God!— would've understood: An audience *isn't* a fanbase. Nor are they a following.
 
 From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing what that entails! This is why BYCombo promises to bring back the elitist gatekeepers, if *you* can promise to make the best art— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
@@ -368,18 +364,18 @@ So yes, the arts have declined— but it *isn't* because the tech platforms list
 ### ${++sectionCounter}. Startups offer lessons in scalability
 
 ${'  ' || `
-// TODO: Revise. Work on last sentence of last paragraph just a little more. Talk about the kind of work, rather than mention business partners?
+// TODO: Review a few more times.
 `}
 
-In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one wants to be its *first*?" "Well, it's my *Ulysses*," I'd reply. "Surely an unknown James Joyce would've faced the same dilemma?" I just didn't have a good answer… until my years as a coder exposed me to startup culture.
+In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one wants to be its *first*?" "Well, it's my *Ulysses*," I'd reply. "Surely an unknown James Joyce would've faced the same dilemma?" I just didn't have a better answer… until my years as a coder exposed me to startup culture.
 
-In [his essays](https://paulgraham.com/articles.html), Paul Graham observes that startups are unique: Unlike a retail store, which could never scale into a chain if it's unprofitable, a startup can lose money with only a few users— yet *still* hope to turn a profit with millions of them! How? Through network effects and economies of scale.
+In [his essays](https://paulgraham.com/articles.html), Paul Graham observes that startups are unique: Unlike a retail store, which can never scale into a chain if it's unprofitable, a startup might lose money with only a few users— yet *still* hope to turn a profit with millions of them! How? Through network effects and economies of scale.
 
 Well, this *also* explains how an artist like me— who can't even gain *one* fan— might still hope to have a *million*! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will parse them only if others have done the same: network effects! And when your music is [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), the right bandmates will join you only once an audience is guaranteed: economies of scale!
 
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all *along* was to gain a million at *once*, from the top down?
 
-If so, this would explain why tech platforms now dominate the arts: While investors *readily* fund startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to have faith in artists with no fanbase! Thankfully, BYCombo lets you find business partners who can believe that millions would be your *millionth* fan— even if no one is willing to be your *first*.
+If so, then this explains why the tech platforms now dominate while the arts have declined: Even as investors *readily* fund startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists with no fanbase! Thankfully, BYCombo lets you dream that millions would gladly be your *millionth* fan— even as none today are willing to be your *first*.
 
 ### ${++sectionCounter}. Strivers don't know they're not dreamers
 
