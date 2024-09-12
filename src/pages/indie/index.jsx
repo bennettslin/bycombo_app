@@ -294,10 +294,10 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 ### ${++sectionCounter}. Elitism is the great equalizer
 
 ${'  ' || `
-// TODO: Revise. Put Gen X on one line. Maybe "snobs" is better?
+// TODO: Review.
 `}
 
-While indie artists speak of solidarity, rappers [revel in snobbery](https://youtu.be/78SV9tguyVM). Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? It's simple: When millions want what few can have, competition *must* happen, one way or another— and with that being the case, those with no advantages would prefer it to happen in plain sight.
+While indie artists value solidarity, rappers [revel in snobbery](https://youtu.be/78SV9tguyVM). Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? It's simple: When millions want what few can have, competition *must* happen, one way or another— and with that being the case, those with no advantages would prefer it to happen in plain sight.
 
 ${'  ' || `
 // TODO: Review.
