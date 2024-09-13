@@ -363,10 +363,6 @@ So yes, the arts have declined— but it *isn't* because the tech platforms list
 
 ### ${++sectionCounter}. Startups offer lessons in scalability
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one wants to be its *first*?" "Well, it's my *Ulysses*," I'd reply. "Surely an unknown James Joyce would've faced the same dilemma?" I just didn't have a better answer… until my years as a coder exposed me to startup culture.
 
 In [his essays](https://paulgraham.com/articles.html), Paul Graham observes that startups are unique: Unlike a retail store, which can never scale into a chain if it's unprofitable, a startup might lose money with only a few users— yet *still* hope to turn a profit with millions of them! How? Through network effects and economies of scale.
@@ -375,7 +371,7 @@ Well, this *also* explains how an artist like me— who can't even gain *one* fa
 
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all *along* was to gain a million at *once*, from the top down?
 
-If so, then this explains why the tech platforms now dominate while the arts have declined: Even as investors *readily* fund startups that [lose money](http://archive.today/2023.12.04-210029/https://www.wired.com/story/spotify-layoffs-music-streaming-future/), the indie gatekeepers *refuse* to believe in artists with no fanbase! But now with BYCombo, you can dream that millions would gladly be your *millionth* fan— even as none are willing to be your *first*.
+If so, then this explains why the tech platforms now dominate while the arts have declined: Even as investors *readily* fund startups that [lose money](https://reddit.com/r/Infographics/comments/17eimpw/spotify_still_cant_make_money), the indie gatekeepers *refuse* to believe in artists with no fanbase! But now with BYCombo, you can dream that millions would gladly be your *millionth* fan— even as none are willing to be your *first*.
 
 ### ${++sectionCounter}. Strivers don't know they're not dreamers
 
