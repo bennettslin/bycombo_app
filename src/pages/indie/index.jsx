@@ -77,10 +77,6 @@ In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a 
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/20240512/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#selection-757.0-757.691) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
 
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to snub the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
@@ -293,15 +289,7 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
-${'  ' || `
-// TODO: Review.
-`}
-
 While indie artists value solidarity, rappers [revel in snobbery](https://youtu.be/78SV9tguyVM). Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? It's simple: When millions want what few can have, competition *must* happen, one way or another— and with that being the case, those with no advantages would prefer it to happen in plain sight.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Because Millennials grew up with so many advantages, however, they fail to understand how the *truly* disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they encounter the rapper's snobbery in rock, they decry it as "rockism"— implying that such elitism is no better than racism.
 
@@ -317,21 +305,13 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But can't *today's* indies learn to sign the *next* On a Friday? No, because status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. We humans simply come to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead— by betting it all on the craft.
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
-${'  ' || `
-// TODO: Review.
-`}
-
-As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most [came to admire](https://www.vice.com/en/article/jd-vance-trump-messages) the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— and yet, some looked surprised by their own decision.
+As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most [learned to admire](https://www.vice.com/en/article/jd-vance-trump-messages) the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— and yet, some looked surprised by their own decision.
 
 So I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met a hundred indie gatekeepers. I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
 
