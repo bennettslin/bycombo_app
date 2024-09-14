@@ -305,21 +305,25 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
 
-But can't *today's* indies learn to sign the *next* On a Friday? No, because status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. We humans simply come to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
+But can't *today's* indies learn to sign the *next* On a Friday? No, because status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
-Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead— by betting it all on the craft.
+${'  ' || `
+// TODO: Review.
+`}
+
+Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
-As their party devolved into "indieocracy," many Republicans thought they'd resist; instead, most [learned to admire](https://www.vice.com/en/article/jd-vance-trump-messages) the hustlers who'd now taken over— sometimes to their own surprise. Likewise, every indie gatekeeper I've met with, despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), ended up dismissing me as a hobbyist— and yet, some looked surprised by their own decision.
-
 ${'  ' || `
-// TODO: Add new paragraph. Of course I understood. I'm unexpected, and no one has a plan for dealing with the unexpected, by its very nature. But still, you'd expect different people to react in different ways. And all I needed was one to give me a chance. So after a while, I had to wonder: Shouldn't this have happened by now?
+// TODO: Review.
 `}
 
-So I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met a hundred indie gatekeepers. I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
+Despite finding [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566) impressive, every indie gatekeeper I've met with ended up dismissing me as a hobbyist. Which makes sense: What I'm doing isn't what anyone expects, and no one has a plan for responding wisely to the unexpected. Still, different people will respond in different ways— so I had to wonder: Shouldn't *one* by now have given me a chance?
 
-Moreover, just like each person gets one vote in a democracy, each work gets one chance in an indieocracy. So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time…
+Then one day it clicked: I *haven't* met with a hundred indie gatekeepers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
+
+Moreover, just like each person gets one vote in a democracy, each work gets one chance in an "indieocracy." So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time…
 
 Still, what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
 
@@ -379,7 +383,7 @@ Well, this *also* explains how an artist like me— who can't even gain *one* fa
 
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all *along* was to gain a million at *once*, from the top down?
 
-If so, then this explains why the tech platforms now dominate while the arts have declined: Even as investors fund startups that lose money, the indie gatekeepers *refuse* to believe in artists with no fanbase! But BYCombo puts you in a unique position to innovate, by letting you dream that millions will gladly be your *millionth* fan— even as none want to be your *first*.
+If so, then this explains why the tech platforms now dominate while the arts have declined: Even as investors fund startups that lose money, the indie gatekeepers *refuse* to believe in artists with no fanbase! But BYCombo puts you in a unique position to innovate, by allowing you to dream that millions would gladly be your *millionth* fan— even as none want to be your *first*.
 
 ### ${++sectionCounter}. Strivers don't know they're not dreamers
 
