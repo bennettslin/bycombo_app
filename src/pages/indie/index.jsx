@@ -307,10 +307,6 @@ And this should concern us, since Radiohead… were the ultimate hobbyists! They
 
 But can't *today's* indies learn to sign the *next* On a Friday? No, because status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Luckily, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
@@ -319,7 +315,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Despite finding [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566) impressive, every indie gatekeeper I've met with ended up dismissing me as a hobbyist. Which makes sense: What I'm doing isn't what anyone expects, and no one has a plan for responding wisely to the unexpected. Still, different people will respond in different ways— so I had to wonder: Shouldn't *one* by now have given me a chance?
+Despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), every indie gatekeeper I've met with ended up dismissing me as a hobbyist. Which makes sense: I'm not doing what anyone expects, and no one has a plan for responding wisely to the unexpected. Still, different people will respond in different ways— so I had to wonder: Shouldn't *one* by now have given me a chance?
 
 Then one day it clicked: I *haven't* met with a hundred indie gatekeepers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
 
@@ -370,10 +366,6 @@ Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to spr
 So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help to usher it in.
 
 ### ${++sectionCounter}. Startups offer lessons in scalability
-
-${'  ' || `
-// TODO: Review.
-`}
 
 In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked: "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one wants to be its *first*?" "Well, it's my *Ulysses*," I'd reply. "Surely an unknown James Joyce would've faced the same dilemma?" I just didn't have a better answer… until my years as a coder exposed me to startup culture.
 
