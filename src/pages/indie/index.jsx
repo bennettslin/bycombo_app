@@ -311,10 +311,6 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), every indie gatekeeper I've met with ended up dismissing me as a hobbyist. Which makes sense: I'm not doing what anyone expects, and no one has a plan for responding wisely to the unexpected. Still, different people will respond in different ways— so I had to wonder: Shouldn't *one* by now have given me a chance?
 
 Then one day it clicked: I *haven't* met with a hundred indie gatekeepers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
