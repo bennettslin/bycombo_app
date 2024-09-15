@@ -381,6 +381,8 @@ If so, then this explains why the tech platforms now dominate while the arts hav
 
 ${'  ' || `
 // TODO: New section.
+
+After startups. Before scarcity.
 `}
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
