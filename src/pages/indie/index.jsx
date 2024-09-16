@@ -371,11 +371,7 @@ Well, this *also* explains how an artist like me— who can't even gain *one* fa
 
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all *along* was to gain a million at *once*, from the top down?
 
-${'  ' || `
-// TODO: Revise. Don't repeat "even as."
-`}
-
-If so, then this explains why the tech platforms now dominate while the arts have declined: Even as investors fund startups that lose money, the indie gatekeepers *refuse* to believe in artists with no fanbase! But BYCombo puts you in a unique position to innovate, by allowing you to dream that millions would gladly be your *millionth* fan— even as none want to be your *first*.
+If so, then this explains why the tech platforms now dominate while the arts have declined: Whereas investors fund startups that lose money, the indie gatekeepers *refuse* to believe in artists with no fanbase! But BYCombo puts you in a unique position to innovate, by allowing you to dream that millions would gladly be your *millionth* fan— even as none want to be your *first*.
 
 ### ${++sectionCounter}. Strivers don't know they're not dreamers
 
