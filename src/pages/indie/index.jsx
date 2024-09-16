@@ -379,7 +379,38 @@ ${'  ' || `
 // TODO: New section.
 
 After startups. Before scarcity.
+
+* Strivers don't know they're not dreamers
+    * Location
+        * Should this be after mastery section?
+        * Or after startups, before scarcity?
+            * If so, define larp in this section
+            * Mention being an Xennial
+    * Dreamers vs strivers
+        * Make it about Millennials again
+    * I assumed I'd get points for trying
+    * They would know, as I do, that in a world of dreamers
+        * There would have been a hundred others
+            * With visions just as lofty as making the "*Ulysses* of rock albums"
+        * "Larping" a golden age of music
+    * Ineffectual
+        * Who depend on business partners
+    * Make point that strivers are at their best when being your business partner
+    * Make point
+        * And since some do resemble subversive artists of the *past*— while we're never shown what subversion in our times would *otherwise* involve— all is assumed to be well.
 `}
+
+Whenever I'd grumble about having been rejected by the indie gatekeepers, a friend would gently ask, "Well then, why didn't you *seriously* hustle?" It took me a while to realize the answer: As an Xennial, I grew up when music was a world of dreamers. But thanks to indie rock, after I came of age, it became a world of strivers. And dreamers… don't know they're not strivers.
+
+Here's what I mean: Dreamers are unrealistic, which means they're awful at fulfilling visions on their own. So indie rock sought to fix this by empowering artists to get themselves known. But I wasn't prepared for this change, so when I was told to hustle, I thought I'd get points just for trying. It just didn't seem possible for *any* artist to be that good at it.
+
+Yet it's *because* dreamers are unrealistic that their visions, once fulfilled, make a genuine impact. But strivers don't understand how much innovation happened in the past because dreamers were allowed to be unrealistic. As a result, they assume you get points for simply trying to innovate. As crazy as it sounds, they don't realize that the expectation to innovate is serious.
+
+This is why music today is so bad. Millennials judge innovation with the standards of strivers, and not dreamers. They don't know what the standards would be had the world of dreamers continued.
+
+Golden age of music. Larping. And since some artists today resemble innovative artists of the past, while we're never shown what true innovation would otherwise involve— all is assumed to be as it should.
+
+But there's good news: Just like Silents were beatniks, Boomers were hippies, and Gen X were slackers, the striver is a *Millennial* archetype. Which means Gen Z is due for a new generational archetype! Now with BYCombo…
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
