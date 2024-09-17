@@ -406,7 +406,7 @@ After startups. Before scarcity.
 
 Whenever I'd grumble about having been rejected by the indie gatekeepers, a friend would gently ask, "Then why didn't you *seriously* hustle?" It took me a while to realize the answer: As an Xennial, I grew up when music was a world of dreamers. But thanks to indie rock, after I came of age, it became a world of strivers. And dreamers… don't know they're not strivers.
 
-Here's what I mean: Dreamers are unrealistic, which means they're awful at fulfilling visions on their own. So indie rock sought to fix this by empowering artists to get themselves known. But I wasn't prepared for this change, so when I was told to hustle, I thought I'd get points just for trying. It just didn't seem possible for *any* artist to be that good at it.
+Here's what I mean: Dreamers are unrealistic, which means they're awful at fulfilling visions on their own. So indie rock sought to fix this problem by empowering artists to get themselves known. But I wasn't prepared for this change, so when I was told to hustle, I thought I'd get points just for trying. It just didn't seem possible for *any* artist to be that good at it.
 
 Yet it's *because* dreamers are unrealistic that their visions, once fulfilled, make a genuine impact. But strivers don't understand how much innovation happened in the past because dreamers were allowed to be unrealistic. As a result, they assume you get points for simply trying to innovate. As crazy as it sounds, they don't realize that the expectation to innovate is serious.
 
