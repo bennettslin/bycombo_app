@@ -326,6 +326,9 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 ${'  ' || `
 // TODO: New section?
 
+After countercultures.
+Before interdependence.
+
 First paragraph.
 Steve Martin, "Be so good they can't ignore you." I thought I'd done that, given that every indie gatekeeper I met with could agree that my projects were pretty impressive. Yet they still dismissed me as a hobbyist. Why?
 
@@ -333,13 +336,14 @@ Second paragraph.
 Before the Internet, underground artists were the *only* ones winning over one fan at a time from the bottom up. Indie labels thus developed an instinct to respect and reward fan engagement. Like insects that evolved to navigate by moonlight. They're also overworked and underpaid. So also like insects, they learned not to expend energy on thinking beyond their instincts.
 
 Third paragraph.
+But the world has evolved, causing insects to burn themselves in flames. Indie labels are just as misguided, in a world where tech platforms have made fan engagement the default behavior. Ignoring the unexpected.
 `}
 
-Despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), every indie gatekeeper I've met with ended up dismissing me as a hobbyist. Which makes sense: I'm not doing what anyone expects, and no one has a plan for responding wisely to the unexpected. Still, different people will respond in different ways— so I had to wonder: Shouldn't *one* by now have given me a chance?
+Despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), every indie gatekeeper I've met with ended up dismissing me as a hobbyist. Which makes sense: I'm not doing what anyone expects, and no one has a plan for responding wisely to the unexpected.
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
-Then one day it clicked: I *haven't* met with a hundred indie gatekeepers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
+Still, different people will respond in different ways— so I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met with a hundred indie gatekeepers. I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
 
 Moreover, just like each person gets one vote in a democracy, each work gets one chance in an "indieocracy." So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time…
 
