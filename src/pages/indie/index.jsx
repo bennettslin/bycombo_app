@@ -159,10 +159,6 @@ Millennials were the first generation whose elders embraced every genre— and a
 
 They can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. Or— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. So… what if *you* were to do just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. Fortunately, the only way now for *Gen Z* to rebel… is by sincerely celebrating the most *masterly* works! And with BYCombo, they can know of yours.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
@@ -236,16 +232,20 @@ To complicate matters, pollution is a tragedy of the commons: It's caused by ind
 So now, instead of democracy, we're all living under "indieocracy"— or, rule by those who hustle to get themselves known. But what if *your* hope all along was to be *made* known, by the elites? Then come verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
 
 ${'  ' || `
-// TODO: Revise title. Make it more about discovery.
+// TODO: Review title.
 `}
 
-### ${++sectionCounter}. The silent majority leaves quietly
+### ${++sectionCounter}. An audience put to labor simply leaves
 
 Imagine this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's get rid of overpaid talent scouts, and empower indie athletes like me to get ourselves known. Yes, this will crowd the field— but you'll just have to put in the work to find what you want. Who'd object?"
 
 Uh… *we* would— the audience! The majority of us only want the *best* athletes, and it's the *talent scout's* job to find them, not *ours*. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
-But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. Like Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means today's pro-*artist* thinking might just be a generational fluke… and *not* the future of music.
+${'  ' || `
+// TODO: Review.
+`}
+
+But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Gen X, then, Gen Z's artists empathize foremost with the *audience*— having first been one themselves. Which means today's pro-*artist* thinking might just be a generational fluke… and *not* the future of music.
 
 Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend the performance of a work." So let's use it once more in a way that Bach— who made music for God!— would've understood: An audience *isn't* a fanbase. Nor are they a following.
 
@@ -297,7 +297,11 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
-While indie artists value solidarity, rappers [revel in snobbery](https://youtu.be/78SV9tguyVM). Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? It's simple: When millions want what few can have, competition *must* happen, one way or another— and with that being the case, those with no advantages would prefer it to happen in plain sight.
+${'  ' || `
+// TODO: Review.
+`}
+
+While indie artists value solidarity, rappers [revel in snobbery](https://youtu.be/78SV9tguyVM). Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? It's simple: When millions want what few can have, competition *must* happen, one way or another— and with that being the case, those with no advantages will insist that it happen in plain sight.
 
 Because Millennials grew up with so many advantages, however, they fail to understand how the *truly* disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they encounter the rapper's snobbery in rock, they decry it as "rockism"— implying that such elitism is no better than racism.
 
@@ -314,10 +318,6 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
 
 But can't *today's* indies learn to sign the *next* On a Friday? No, because status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
@@ -426,11 +426,11 @@ After startups. Before scarcity.
         * And since some do resemble subversive artists of the *past*— while we're never shown what subversion in our times would *otherwise* involve— all is assumed to be well.
 `}
 
-Whenever I'd grumble about having been rejected by the indie gatekeepers, a friend would gently ask, "Then why didn't you *seriously* hustle?" It took me a while to realize the answer: As an Xennial, I grew up when music was a world of dreamers. But thanks to indie rock, after I came of age, it became a world of strivers. And dreamers… don't know they're not strivers.
+Whenever I'd grumble about having been rejected by the indie gatekeepers, a friend would gently ask, "Then why didn't you *seriously* hustle?" It took me a while to realize the answer: Because I'm an Xennial. When I was growing up, making music was for dreamers; thanks to indie rock, however, it became a world of strivers. And dreamers… don't know they're not strivers.
 
-Here's what I mean: Dreamers are unrealistic, which means they're awful at fulfilling visions on their own. So indie rock sought to fix this problem by empowering artists to get themselves known. But I wasn't prepared for this change, so when I was told to hustle, I thought I'd get points just for trying. It just didn't seem possible for *any* artist to be that good at it.
+Here's what I mean: Dreamers are unrealistic, which means they're awful at fulfilling visions on their own. So the indie camp sought to fix this problem by empowering artists to get themselves known. But… I wasn't prepared for this change, so when they told me to hustle, I thought I'd get points just for trying. It just didn't seem possible for *any* artist to be good at it. I didn't know there'd been a change in values.
 
-Yet it's *because* dreamers are unrealistic that their visions, once fulfilled, make a genuine impact. But strivers don't understand how much innovation happened in the past because dreamers were allowed to be unrealistic. As a result, they assume you get points for simply trying to innovate. As crazy as it sounds, they don't realize that the expectation to innovate is serious.
+Yet it's *because* dreamers are unrealistic that their visions— if ever fulfilled— genuinely change the world. Put point here about not knowing what true innovation would look like today. But strivers don't understand how much innovation happened in the past because dreamers were allowed to be unrealistic. As a result, they assume you get points for simply trying to innovate. As crazy as it sounds, they don't realize that the expectation to innovate is serious.
 
 This is why music today is so bad. Millennials judge innovation with the standards of strivers, and not dreamers. They don't know what the standards would be had the world of dreamers continued.
 
@@ -440,7 +440,7 @@ But there's good news: Just like Silents were beatniks, Boomers were hippies, an
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
-Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they content to merely "larp," or role-play, the *idea* of revolution?
+Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they content to merely "larp," or role-play, the *idea* of revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
