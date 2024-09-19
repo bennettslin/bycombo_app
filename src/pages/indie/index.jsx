@@ -320,10 +320,10 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 ### ${++sectionCounter}. Independence breeds homogeneity
 
 ${'  ' || `
-// TODO: Revise. First paragraph isn't necessarily clear that "no one" refers to gatekeepers, not artists.
+// TODO: Review.
 `}
 
-Despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), every indie gatekeeper I've met with ended up dismissing me as a hobbyist. Which makes sense: I'm not doing what anyone expects, and no one has a plan for responding wisely to the unexpected. Still, different people will respond in different ways— so I had to wonder: Shouldn't *one* by now have given me a chance?
+"Be so good they can't ignore you," Steve Martin advises. Well, I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie gatekeeper I've met with has dismissed me as a hobbyist— even as some were clearly impressed. Shouldn't *one* have given me a chance by now?
 
 Then one day it clicked: I *haven't* met with a hundred indie gatekeepers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
 
@@ -373,8 +373,6 @@ Move tech platforms paragraph here?
 Make point about being unexpected
 
 First paragraph.
-https://digital.lib.washington.edu/researchworks/handle/1773/23566
-Steve Martin, "Be so good they can't ignore you." I thought I'd done that, with all my projects, including amnesticism. I thought I'd succeeded, given that having met with a hundred indie gatekeepers, all of whom seemed to agree that my projects were pretty impressive. Yet they still dismissed me as a hobbyist. Why? To get the answer, I had to step in their shoes.
 
 Second paragraph.
 Before the Internet, underground bands were the *only* ones winning over one fan at a time from the bottom up. Indie labels thus developed an instinct to respect and reward fan engagement. Like moths that evolved to navigate by moonlight. They're also overworked and underpaid. So also like moths, they learned not to expend energy on thinking beyond their instincts.
