@@ -75,6 +75,10 @@ Here's an incomplete list of ways…
 
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
 
+${'  ' || `
+// TODO: Revise. Make clear this isn't my position?
+`}
+
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](https://web.archive.org/web/20090318/http://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
@@ -231,11 +235,7 @@ To complicate matters, pollution is a tragedy of the commons: It's caused by ind
 
 So now, instead of democracy, we're all living under "indieocracy"— or, rule by those who hustle to get themselves known. But what if *your* hope all along was to be *made* known, by the elites? Then come verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
 
-${'  ' || `
-// TODO: Review title.
-`}
-
-### ${++sectionCounter}. Audiences put to labor simply leave
+### ${++sectionCounter}. An audience put to labor simply leaves
 
 Imagine this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's get rid of overpaid talent scouts, and empower indie athletes like me to get ourselves known. Yes, this will crowd the field— but you'll just have to put in the work to find what you want. Who'd object?"
 
@@ -313,29 +313,11 @@ But can't *today's* indies learn to sign the *next* On a Friday? No, because sta
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
-### ${++sectionCounter}. Lean operations stick to the procedure
-
-${'  ' || `
-// TODO: New section?
-
-After countercultures.
-Before interdependence.
-
-First paragraph.
-Steve Martin, "Be so good they can't ignore you." I thought I'd done that, given that every indie gatekeeper I met with could agree that my projects were pretty impressive. Yet they still dismissed me as a hobbyist. Why?
-
-Second paragraph.
-Before the Internet, underground artists were the *only* ones winning over one fan at a time from the bottom up. Indie labels thus developed an instinct to respect and reward fan engagement. Like insects that evolved to navigate by moonlight. They're also overworked and underpaid. So also like insects, they learned not to expend energy on thinking beyond their instincts.
-
-Third paragraph.
-But the world has evolved, causing insects to burn themselves in flames. Indie labels are just as misguided, in a world where tech platforms have made fan engagement the default behavior. Ignoring the unexpected.
-`}
-
-Despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), every indie gatekeeper I've met with ended up dismissing me as a hobbyist. Which makes sense: I'm not doing what anyone expects, and no one has a plan for responding wisely to the unexpected.
-
 ### ${++sectionCounter}. Independence breeds homogeneity
 
-Still, different people will respond in different ways— so I had to wonder: Shouldn't *one* by now have given me a chance? Then it clicked: I *haven't* met with a hundred indie gatekeepers. I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
+Despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), every indie gatekeeper I've met with ended up dismissing me as a hobbyist. Which makes sense: I'm not doing what anyone expects, and no one has a plan for responding wisely to the unexpected. Still, different people will respond in different ways— so I had to wonder: Shouldn't *one* by now have given me a chance?
+
+Then one day it clicked: I *haven't* met with a hundred indie gatekeepers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
 
 Moreover, just like each person gets one vote in a democracy, each work gets one chance in an "indieocracy." So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time…
 
@@ -372,6 +354,24 @@ By contrast, the indie labels obey the people's will, as measured by the size of
 So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just for publicity!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
 
 In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
+
+### ${++sectionCounter}. Lean operations are suckers for automation
+
+${'  ' || `
+// TODO: New section?
+
+Move tech platforms paragraph here?
+
+First paragraph.
+https://digital.lib.washington.edu/researchworks/handle/1773/23566
+Steve Martin, "Be so good they can't ignore you." I thought I'd done that, with all my projects, including amnesticism. I thought I'd succeeded, given that having met with a hundred indie gatekeepers, all of whom seemed to agree that my projects were pretty impressive. Yet they still dismissed me as a hobbyist. Why? To get the answer, I had to step in their shoes.
+
+Second paragraph.
+Before the Internet, underground bands were the *only* ones winning over one fan at a time from the bottom up. Indie labels thus developed an instinct to respect and reward fan engagement. Like moths that evolved to navigate by moonlight. They're also overworked and underpaid. So also like moths, they learned not to expend energy on thinking beyond their instincts.
+
+Third paragraph.
+But the world has evolved, causing moths to burn themselves in flames. Indie labels are just as misguided, in a world where tech platforms have made fan engagement the default behavior, the indies will always dismiss the unexpected. Thankfully, BYCombo helps 
+`}
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
