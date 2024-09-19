@@ -73,13 +73,17 @@ Here's an incomplete list of ways…
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
-In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To the younger generations, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in the wrong places. How did we get confused?
-
 ${'  ' || `
-// TODO: Revise. Make clear this isn't my position?
+// TODO: Review.
 `}
 
-Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all, who cares if those on your side are confused in their beliefs, when this is what fires them up to attack your common enemy?
+In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To Millennials, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in all the wrong places. How did we get confused?
+
+${'  ' || `
+// TODO: Review.
+`}
+
+Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same tolerance for confusion. After all: "Who cares if those on our side are confused in their beliefs, when this is what fires them up to attack our common enemy?"
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](https://web.archive.org/web/20090318/http://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
 
@@ -315,6 +319,10 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
+${'  ' || `
+// TODO: Revise. First paragraph isn't necessarily clear that "no one" refers to gatekeepers, not artists.
+`}
+
 Despite being impressed by [my projects](https://digital.lib.washington.edu/researchworks/handle/1773/23566), every indie gatekeeper I've met with ended up dismissing me as a hobbyist. Which makes sense: I'm not doing what anyone expects, and no one has a plan for responding wisely to the unexpected. Still, different people will respond in different ways— so I had to wonder: Shouldn't *one* by now have given me a chance?
 
 Then one day it clicked: I *haven't* met with a hundred indie gatekeepers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
@@ -355,12 +363,14 @@ So when the tech platforms arrived, their savvy with numbers made them good guys
 
 In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
-### ${++sectionCounter}. Lean operations are suckers for automation
+### ${++sectionCounter}. Lean operations are driven to automate
 
 ${'  ' || `
 // TODO: New section?
 
 Move tech platforms paragraph here?
+
+Make point about being unexpected
 
 First paragraph.
 https://digital.lib.washington.edu/researchworks/handle/1773/23566
