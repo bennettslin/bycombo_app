@@ -315,7 +315,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-"Be so good they can't ignore you," Steve Martin advises. Well… I thought I'd done that, given the scope of my projects— such as [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie gatekeeper I've met with has dismissed me as a hobbyist— even as a few *seemed* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
+"Be so good they can't ignore you," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie gatekeeper I've met with has dismissed me as a hobbyist— despite *seeming* impressed. And so I used to wonder: Shouldn't *one* have given me a chance by now?
 
 Then one day it clicked: I *haven't* met with a hundred indie gatekeepers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
 
