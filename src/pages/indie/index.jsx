@@ -271,17 +271,9 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 Who could've foreseen all the downsides of "indiefication"? Um… us women and minorities, that's who! Which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers [*proudly* rely](https://web.archive.org/web/20141122/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothing%20but,that%20pays%20me) on labels and producers. When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance counts for *nothing*.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of effectively being just another foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar just won a Pulitzer Prize! Now BYCombo gives your band the same chances.
 
@@ -323,7 +315,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-"Be so good they can't ignore you," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie gatekeeper I've met with has dismissed me as a hobbyist— despite *seeming* impressed. And so I had to wonder: Shouldn't *one* have given me a chance by now?
+"Be so good they can't ignore you," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie gatekeeper I've met with has dismissed me as a hobbyist— despite *seeming* impressed. So I always wondered: Shouldn't *one* have given me a chance by now?
 
 Then one day it clicked: I *haven't* met with a hundred indie gatekeepers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
 
@@ -359,10 +351,6 @@ In the past, a major label would bet on visions that other labels *didn't* see�
 
 By contrast, the indie labels obey the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is to trust the numbers! And for this, the indies get praised as "good guys."
 
-${'  ' || `
-// TODO: Review.
-`}
-
 So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "Recordings are just for publicity anyway. *Real* artists earn a living by going on tour!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
 
 In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
@@ -386,10 +374,6 @@ Within the past half-century, we've come to learn that startups are uniquely pos
 Well, this *also* explains how an artist like me— who can't even gain *one* fan— might still hope to gain a *million*! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will parse them only if others have done the same: network effects! And when your music is [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), the right bandmates will join you only once an audience is guaranteed: economies of scale!
 
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all *along* was to gain a million at *once*, from the top down?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 If so, this explains why those in tech now dominate the arts: While investors *readily* fund startups that lose money, the indie gatekeepers *refuse* to believe in artists with no fanbase! Luckily, BYCombo puts you in a unique position to innovate, by letting you dream that millions would gladly be your *millionth* fan— even as none want to be your *first*.
 
@@ -466,7 +450,7 @@ Unlike what the indie camp believes, then, music history *won't* care how the In
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
-Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this isn't yet the case with rock bands— which means there's still *another* frontier left to explore! So if you're a Millennial, don't fret: You now have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
+Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this isn't yet the case with rock bands— which means there's still *another* frontier left to explore! So if you're a Millennial, don't fret: You still have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
 
 In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young people are reaching key milestones *later* in life, because society in *general* is now more complex; thus more time is needed to realize your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling makes you burn out *sooner*.
 
