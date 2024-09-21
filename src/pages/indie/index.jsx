@@ -351,29 +351,13 @@ In the past, a major label would bet on visions that other labels *didn't* see�
 
 By contrast, the indie labels obey the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is to trust the numbers! And for this, the indies get praised as "good guys."
 
-So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "*Real* artists earn a living by going on tour; recordings are just for publicity!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
+${'  ' || `
+// TODO: Review.
+`}
+
+So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "Recordings are just for publicity anyway. *Real* artists earn a living by going on tour!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
 
 In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
-
-### ${++sectionCounter}. Lean operations lean on shortcuts
-
-${'  ' || `
-// TODO: New section?
-
-Move tech platforms paragraph here?
-
-Single point of failure.
-
-Make point about being unexpected
-
-First paragraph.
-
-Second paragraph.
-Before the Internet, underground bands were the *only* ones winning over one fan at a time from the bottom up. Indie labels thus developed an instinct to respect and reward fan engagement. Like moths that evolved to navigate by moonlight. They're also overworked and underpaid. So also like moths, they learned not to expend energy on thinking beyond their instincts.
-
-Third paragraph.
-But the world has evolved, causing moths to burn themselves in flames. Indie labels are just as misguided, in a world where tech platforms have made fan engagement the default behavior, the indies will always dismiss the unexpected. Thankfully, BYCombo helps 
-`}
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
@@ -485,22 +469,6 @@ In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszen
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained from years of hustling might just as well be won by chance, or bought through privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of others doing the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
-
-### ${++sectionCounter}. Salvation comes from thinking in systems
-
-${'  ' || `
-// TODO: New section.
-
-First paragraph, why people hate government.
-
-Second paragraph, why people hate major labels. Bring up [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp) here. Their business model, in which the outsized earnings of a few serve to bankroll the rest, pleases no one.
-
-Third paragraph, observe that most people aren't political libertarians. While most people talk the talk of wanting small government, few walk the walk. What if most artists *aren't* cultural libertarians— that is to say, they don't *actively* wish to be indie?
-
-Redundancy keeps system robust against any single point of failure.
-
-Fourth paragraph, indie rock's logical conclusion gives us AI. Opportunity to understand systems thinking once and for all. Mention Donella Meadows. Interdependence. If there's one book I could get everyone in the arts to read…
-`}
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 

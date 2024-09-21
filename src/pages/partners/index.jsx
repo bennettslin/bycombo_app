@@ -19,10 +19,6 @@ Well, there's good news! The artists trying to make the best art today *don't* w
 **Each BYCombo band promises to put *all* their efforts into advancing the art form, for a serious chunk of lifetime— while remaining dependent on *you*, their business partner, to be made known to the public.**
 
 To hear the latest demos from our bands, you can sign up for the newsletter or visit our public registry. And remember, you're free to contact any one of them directly; there are no fees whatsoever!
-
-${'  ' || `
-// TODO: New section. Eventually add Pareto promise here.
-`}
             `,
         }}
     />
