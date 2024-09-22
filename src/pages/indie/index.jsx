@@ -404,11 +404,14 @@ After startups. Before scarcity.
         * And since some do resemble subversive artists of the *past*— while we're never shown what subversion in our times would *otherwise* involve— all is assumed to be well.
 `}
 
-Whenever I'd grumble about having been rejected by the indie gatekeepers, a friend would gently ask, "Then why didn't you *seriously* hustle?" It took me a while to realize the answer: Because I'm an Xennial. When I was growing up, making music was for dreamers; thanks to indie rock, however, it became a world of strivers. And dreamers… don't know they're not strivers.
+Whenever I'd grumble after getting rejected by another indie gatekeeper, a friend would gently ask, "Then why don't you *seriously* hustle?" Years later, I finally realize the answer: It's because, for me as an Xennial, being an artist has always been a vision you *dream* about. Thanks to indie rock, however, it's now a goal you *strive* for. And dreamers… don't know they're not strivers.
 
-Here's what I mean: Dreamers are unrealistic, which means they're awful at fulfilling visions on their own. So the indie camp sought to fix this problem by empowering artists to get themselves known. But… I wasn't prepared for this change, so when they told me to hustle, I thought I'd get points just for trying. It just didn't seem possible for *any* artist to be good at it. I didn't know there'd been a change in values.
+Here's what I mean: Dreamers are unrealistic, which means they're awful at fulfilling visions on their own. To fix this problem, the indie camp provided artists with tools of empowerment. But… I wasn't prepared for what this entailed; I didn't realize the next generation would raise the standard for hustling to new levels. So I naively thought I'd get points just for trying.
 
-Yet it's *because* dreamers are unrealistic that their visions— if ever fulfilled— genuinely change the world. Put point here about not knowing what true innovation would look like today. But strivers don't understand how much innovation happened in the past because dreamers were allowed to be unrealistic. As a result, they assume you get points for simply trying to innovate. As crazy as it sounds, they don't realize that the expectation to innovate is serious.
+Yet it's *because* dreamers are unrealistic that their visions— if ever fulfilled— genuinely change the world.
+
+
+Put point here about not knowing what true innovation would look like today. But strivers don't understand how much innovation happened in the past because dreamers were allowed to be unrealistic. As a result, they assume you get points for simply trying to innovate. As crazy as it sounds, they don't realize that the expectation to innovate is serious.
 
 This is why music today is so bad. Millennials judge innovation with the standards of strivers, and not dreamers. They don't know what the standards would be had the world of dreamers continued.
 
