@@ -383,11 +383,11 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Whenever I used to grumble after getting rejected by an indie gatekeeper, a friend would ask, "So why don't you *seriously* hustle?" Years later, I've figured out the answer: For an Xennial like myself, being an artist has always been a vision to *dream* about. Thanks to indie rock, however, it's now a goal to *strive* for. And as a dreamer… you don't know you're not a striver.
+Whenever I used to grumble after getting rejected by an indie gatekeeper, a friend would ask, "Then why don't you *seriously* hustle?" Yeah… why *didn't* I? Years later, I can guess: It's because, for Xennials like myself, being an artist was a vision you *dreamt* about. Thanks to "indiefication," however, it's now a goal to *strive* for. And as a dreamer… I didn't know I wasn't a striver.
 
-Here's what I mean: Dreamers are unrealistic, which makes them awful at fulfilling visions on their own. To fix this problem, the indie camp provided artists with tools to get themselves known. But I wasn't prepared for what this entailed; I didn't know a new generation of strivers was about to raise the bar for hustling. So, like a child, I thought I'd get points just for trying.
+Us dreamers, you see, we're not realistic— which makes us awful at fulfilling visions on our own. This is why, to help us, the indie camp provided *all* artists with tools of self-empowerment. But I wasn't prepared for what this entailed; I didn't foresee that a new generation of strivers would soon raise the bar for hustling. And so, like a child, I thought I'd get points just for trying.
 
-Yet… it's *because* a dreamer is unrealistic that their vision, if ever fulfilled, can change the world in ways that a striver's goal never will. Unfortunately, Millennials don't see this, being strivers themselves— which means they *also* fail to see how high the bar for innovation was set by previous generations of dreamers. Such that, now, they think they'll get points just for trying!
+Yet… it's *because* a dreamer is unrealistic that their vision, if ever fulfilled, can change the world in ways that a striver's goal never will. Millennials don't realize this, however, being strivers themselves— which means they *also* fail to see how previous generations of dreamers raised the bar for innovation. Such that, now, they think they'll get points just for trying!
 
 And since today's artists *do* resemble the innovative artists of yesteryear… all is assumed to be well. But what if *you're* here to truly innovate— and not just to "larp," or role-play, the *idea* of doing so? Then keep dreaming like a child, and let BYCombo help you find the perfect business partner— a striver!
 
