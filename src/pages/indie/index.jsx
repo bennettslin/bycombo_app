@@ -393,11 +393,11 @@ ${'  ' || `
 
 Whenever I used to grumble about getting rejected by the indie gatekeepers, a friend would gently ask, "Then why don't you *seriously* hustle?" Years later, I've figured out the answer: It's because, for me as an Xennial, being an artist has always been a vision you *dream* about. Thanks to indie rock, however, it's now a goal to *strive* for. And dreamers… don't know they're not strivers.
 
-Here's what I mean: Dreamers are unrealistic, which makes them awful at fulfilling visions on their own. To fix this problem, the indie camp provided artists with tools of self-empowerment. But… I wasn't prepared for what this entailed; I didn't know a new generation of strivers was about to raise the bar for hustling. And so, like a child, I thought I'd get points just for trying…
+Here's what I mean: Dreamers are unrealistic, which makes them awful at fulfilling visions on their own. To fix this problem, the indie camp provided artists with tools of self-empowerment. But… I wasn't prepared for what this entailed; I didn't know a new generation of strivers was about to raise the bar for hustling. And so, like a child, I thought I'd get points just for trying.
 
-Yet it's *because* a dreamer is unrealistic that their vision, if ever fulfilled, can change the world, in ways that a striver's goal never will. Millennials don't see this, however, as strivers themselves— which means they *also* fail to see how high the bar for innovation was set by a previous generation of dreamers. Such that, now, they think they'll get points just for trying…
+Yet it's *because* a dreamer is unrealistic that their vision, if ever fulfilled, can change the world in ways that a striver's goal never will. Millennials don't see this, however, being strivers themselves— which means they *also* fail to see how the bar for innovation was raised by previous generations of dreamers. Such that, now, they think they'll get points just for trying…
 
-But all is assumed to be well, since today's artists do resemble the innovative artists of yesteryear. Still… what if *you're* here to innovate— and not just to "larp," or role-play, the *idea* of doing so? Then keep dreaming like a child, and let BYCombo help you find the perfect business partner— a striver!
+But all is assumed to be well, since today's artists do resemble the innovative artists of yesteryear. Still… what if *you're* here to truly innovate— and not just to "larp," or role-play, the *idea* of doing so? Then keep dreaming like a child, and let BYCombo help you find the perfect business partner— a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
@@ -405,7 +405,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they content to merely "larp" the *idea* of revolution?
+Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they content to merely "larp" the idea of revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
