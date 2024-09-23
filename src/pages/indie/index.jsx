@@ -241,10 +241,6 @@ But there's hope: While Millennials were active creators from day one, Gen Z rev
 
 Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend the performance of a work." So let's use it once more in a way that Bach— who made music for God!— would've understood: An audience *isn't* a fanbase. Nor are they a following.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing what this entails! Which is why BYCombo promises to bring back the elitist gatekeepers, if *you* can promise to make the best art— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
@@ -275,11 +271,7 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 Who could've foreseen all the downsides of "indiefication"? Um… us women and minorities, that's who! Which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers [*proudly* rely](https://web.archive.org/web/20141122/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothing%20but,that%20pays%20me) on labels and producers. When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance counts for *nothing*.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of effectively being just another foreign canon, it's in *decline*— and desperate to restore its cultural relevance. So women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
+Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of effectively being just another foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
 No thanks! Remember, rock and roll was founded by poor Blacks and queers, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
@@ -323,7 +315,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-"Be so good they can't ignore you," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie gatekeeper I've met with has dismissed me as a hobbyist— despite *seeming* impressed. So I always had to wonder: Shouldn't *one* have given me a chance by now?
+"Be so good they can't ignore you," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie gatekeeper I've met with has dismissed me as a hobbyist— despite *seeming* impressed. So I always wondered: Shouldn't *one* have given me a chance by now?
 
 Then one day it clicked: I *haven't* met with a hundred indie gatekeepers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
 
@@ -401,10 +393,6 @@ But all is assumed to be well, since today's artists do resemble the innovative 
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they content to merely "larp" the idea of revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
@@ -423,10 +411,6 @@ To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once c
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I cobbled together a band, and we put on a show for one of them that was… a bit sloppy, given what little time my new bandmates had to learn the parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Thus I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* fulfill on their own. And today, one vision much in need of a partner's help is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop?
 
 Yes, recordings capture what shows can't… but this is an *asset*, not a *liability*! Like cinema and theater, they're distinct mediums— with the former being a frontier of the latter. So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can explore one of music's last frontiers, by making a stellar demo… with no concern for how you'll recreate it live.
@@ -442,10 +426,6 @@ Unlike what the indie camp believes, then, music history *won't* care how the In
 ### ${++sectionCounter}. A renaissance of elders awaits
 
 Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this isn't yet the case with rock bands— which means there's still *another* frontier left to explore! So if you're a Millennial, don't fret: You still have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young people are reaching key milestones *later* in life, because society in *general* is now more complex; thus more time is needed to fulfill your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling makes you burn out *sooner*.
 
