@@ -395,7 +395,7 @@ Whenever I used to grumble about getting rejected by the indie gatekeepers, a fr
 
 Here's what I mean: Dreamers are unrealistic, which makes them awful at fulfilling visions on their own. To fix this problem, the indie camp provided artists with tools of self-empowerment. But… I wasn't prepared for what this entailed; I didn't know a new generation of strivers was about to raise the bar for hustling. And so, like a child, I thought I'd get points just for trying.
 
-Yet it's *because* a dreamer is unrealistic that their vision, if ever fulfilled, can change the world in ways that a striver's goal never will. Millennials don't see this, however, being strivers themselves— which means they *also* fail to see how the bar for innovation was raised by previous generations of dreamers. Such that, now, they think they'll get points just for trying…
+Yet it's *because* a dreamer is unrealistic that their vision, if ever fulfilled, can change the world in ways that a striver's goal never will. Millennials don't see this, however, being strivers themselves— which means they *also* fail to see how the bar for innovation was raised by a previous generation of dreamers. Such that, now, they think they'll get points just for trying…
 
 But all is assumed to be well, since today's artists do resemble the innovative artists of yesteryear. Still… what if *you're* here to truly innovate— and not just to "larp," or role-play, the *idea* of doing so? Then keep dreaming like a child, and let BYCombo help you find the perfect business partner— a striver!
 
