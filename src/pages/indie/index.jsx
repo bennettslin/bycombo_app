@@ -315,7 +315,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-"Be so good they can't ignore you," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie gatekeeper I've met with has dismissed me as a hobbyist— despite *seeming* impressed. So I always wondered: Shouldn't *one* have given me a chance by now?
+"Be so good they can't ignore you," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie gatekeeper I've met with has dismissed me as a hobbyist— despite *seeming* impressed. So I always had to wonder: Shouldn't *one* have given me a chance by now?
 
 Then one day it clicked: I *haven't* met with a hundred indie gatekeepers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
 
@@ -380,48 +380,24 @@ If so, this explains why those in tech now dominate the arts: While investors *r
 ### ${++sectionCounter}. Strivers don't know they're not dreamers
 
 ${'  ' || `
-// TODO: New section.
-
-After startups. Before scarcity.
-
-* Strivers don't know they're not dreamers
-    * Location
-        * Should this be after mastery section?
-        * Or after startups, before scarcity?
-            * If so, define larp in this section
-            * Mention being an Xennial
-    * Dreamers vs strivers
-        * Make it about Millennials again
-    * I assumed I'd get points for trying
-    * They would know, as I do, that in a world of dreamers
-        * There would have been a hundred others
-            * With visions just as lofty as making the "*Ulysses* of rock albums"
-        * "Larping" a golden age of music
-    * Ineffectual
-        * Who depend on business partners
-    * Make point that strivers are at their best when being your business partner
-    * Make point
-        * And since some do resemble subversive artists of the *past*— while we're never shown what subversion in our times would *otherwise* involve— all is assumed to be well.
+// TODO: Keep working on. Between startups and scarcity.
 `}
 
-Whenever I'd grumble after getting rejected by another indie gatekeeper, a friend would gently ask, "Then why don't you *seriously* hustle?" Years later, I finally realize the answer: It's because, for me as an Xennial, being an artist has always been a vision you *dream* about. Thanks to indie rock, however, it's now a goal you *strive* for. And dreamers… don't know they're not strivers.
+Whenever I used to grumble about getting rejected by the indie gatekeepers, a friend would gently ask, "Then why don't you *seriously* hustle?" Years later, I've figured out the answer: It's because, for me as an Xennial, being an artist has always been a vision you *dream* about. Thanks to indie rock, however, it's now a goal to *strive* for. And dreamers… don't know they're not strivers.
 
-Here's what I mean: Dreamers are unrealistic, which means they're awful at fulfilling visions on their own. To fix this problem, the indie camp provided artists with tools of empowerment. But… I wasn't prepared for what this entailed; I didn't realize the next generation would raise the standard for hustling to new levels. So I naively thought I'd get points just for trying.
+Here's what I mean: Dreamers are unrealistic, which makes them awful at fulfilling visions on their own. To fix this problem, the indie camp provided artists with tools of self-empowerment. But… I wasn't prepared for what this entailed; I didn't know a new generation of strivers was about to raise the bar for hustling. Like a child, then, I thought I'd get points just for trying.
 
-Yet it's *because* dreamers are unrealistic that their visions— if ever fulfilled— genuinely change the world.
+Yet it's *because* a dreamer is unrealistic that their vision, if ever fulfilled, can change the world— in ways that a striver's goal never will. And this is how past generations of dreamers raised the bar for innovation. But Millennials fail to see this, being strivers themselves. As a result, they think they'll get points just for trying…
 
-
-Put point here about not knowing what true innovation would look like today. But strivers don't understand how much innovation happened in the past because dreamers were allowed to be unrealistic. As a result, they assume you get points for simply trying to innovate. As crazy as it sounds, they don't realize that the expectation to innovate is serious.
-
-This is why music today is so bad. Millennials judge innovation with the standards of strivers, and not dreamers. They don't know what the standards would be had the world of dreamers continued.
-
-Golden age of music. Larping. And since some artists today resemble innovative artists of the past, while we're never shown what true innovation would otherwise involve— all is assumed to be as it should.
-
-But there's good news: Just like Silents were beatniks, Boomers were hippies, and Gen X were slackers, the striver is a *Millennial* archetype. Which means Gen Z is due for a new generational archetype! Now with BYCombo…
+And since today's artists easily sound like yesteryear's innovative artists— while we're never shown what *true* innovation would otherwise entail— all is assumed to be well. But… what if you're here to *truly* innovate— and not just to "larp," or role-play, the *idea* of doing so? Then keep dreaming to make art, like a child, and let BYCombo help you find the perfect partner— a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
-Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they content to merely "larp," or role-play, the *idea* of revolution?
+${'  ' || `
+// TODO: Review.
+`}
+
+Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they content to merely "larp" the *idea* of revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
@@ -439,7 +415,11 @@ To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once c
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I cobbled together a band, and we put on a show for one of them that was… a bit sloppy, given what little time my new bandmates had to learn the parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
-Thus I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* realize on their own. And today, one vision much in need of a partner's help is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop?
+${'  ' || `
+// TODO: Review.
+`}
+
+Thus I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* fulfill on their own. And today, one vision much in need of a partner's help is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop?
 
 Yes, recordings capture what shows can't… but this is an *asset*, not a *liability*! Like cinema and theater, they're distinct mediums— with the former being a frontier of the latter. So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can explore one of music's last frontiers, by making a stellar demo… with no concern for how you'll recreate it live.
 
@@ -455,7 +435,11 @@ Unlike what the indie camp believes, then, music history *won't* care how the In
 
 Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this isn't yet the case with rock bands— which means there's still *another* frontier left to explore! So if you're a Millennial, don't fret: You still have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
 
-In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young people are reaching key milestones *later* in life, because society in *general* is now more complex; thus more time is needed to realize your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling makes you burn out *sooner*.
+${'  ' || `
+// TODO: Review.
+`}
+
+In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young people are reaching key milestones *later* in life, because society in *general* is now more complex; thus more time is needed to fulfill your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling makes you burn out *sooner*.
 
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So if you're burned out by the hustle, BYCombo can get you back on track— by helping you stay in love with your craft.
 
