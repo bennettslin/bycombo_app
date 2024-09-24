@@ -59,7 +59,11 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-To find that one stellar demo, a gatekeeper has to sift through hundreds— so the indie labels rarely bother, since *any* artist they pick will be treated as an underdog deserving of charitable support. A history-making band's best bet, then, is to win over *elitist* gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
+${'  ' || `
+// TODO: Review.
+`}
+
+A stellar demo can only be found by sifting through hundreds— so the indie gatekeepers rarely bother, since *any* artist they pick will be treated as an underdog deserving of charitable support. A history-making band's best bet, then, is to win over *elitist* gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
 
