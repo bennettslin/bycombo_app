@@ -295,7 +295,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry this attitude as "rockism"— implying that it's akin to racism.
+Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry it as "rockism"— implying that such an attitude is akin to racism.
 
 But once competition happens *away* from public view— as is the case with self-reliance— the disadvantaged become *helpless* to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
@@ -319,7 +319,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-"Be so good they can't ignore you," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie gatekeeper I've met with has dismissed me as a hobbyist— despite *seeming* impressed. So I always wondered: Shouldn't *one* have given me a chance by now?
+"Be so good they can't ignore you," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie gatekeeper I've met with has dismissed me as a hobbyist— despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
 Then one day it clicked: I *haven't* met with a hundred indie gatekeepers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
 
