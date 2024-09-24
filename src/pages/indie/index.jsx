@@ -384,16 +384,20 @@ If so, this explains why those in tech now dominate the arts: While investors *r
 ### ${++sectionCounter}. Strivers don't know they're not dreamers
 
 ${'  ' || `
-// TODO: Review a few more times. Good point?
+// TODO: Review a few more times.
+
+Second paragraph. Get rid of two "this"s in a row. You could argue that we're the prime beneficiaries of indiefication. Or: So you might think we'd benefit the most from being given tools of self-empowerment.
+
+Third paragraph. Phrase first sentence better.
 `}
 
-Whenever I used to grumble after getting rejected by an indie gatekeeper, a friend would ask, "Then why don't you *seriously* hustle?" Yeah… why *didn't* I? Years later, I can guess: It's because, for Xennials like myself, being an artist was a vision you *dreamt* about. Thanks to "indiefication," however, it's now a goal to *strive* for. And as a dreamer… I didn't know I wasn't a striver.
+Whenever I used to grumble after getting rejected by the indie gatekeepers, a friend would ask, "Then why don't you *seriously* hustle?" Good point. Why *didn't* I? Years later, I can guess: It's because, for Xennials like myself, being an artist was a vision you *dreamt* about. Thanks to indie rock, however, it's now a goal to *strive* for. And as a dreamer… I didn't know I wasn't a striver.
 
-Us dreamers, you see, we're not realistic— which makes us awful at fulfilling visions on our own. This is why, to help us, the indie camp provided *all* artists with tools of self-empowerment. But I wasn't prepared for what this entailed; I didn't foresee that a new generation of strivers would soon raise the bar for hustling. And so, like a child, I thought I'd get points just for trying.
+See, dreamers aren't grounded in reality— which makes us bad at fulfilling visions on our own. Of course, the indie camp provided artists with tools of self-empowerment for this very reason. But… I wasn't prepared for what this entailed; I didn't foresee that a new generation of strivers would raise the bar for hustling. And so, like a child, I thought I'd get points just for trying.
 
 Yet… it's *because* a dreamer is unrealistic that their vision, if ever fulfilled, can change the world in ways that a striver's goal never will. Millennials don't realize this, however, being strivers themselves— which means they *also* fail to see how previous generations of dreamers raised the bar for innovation. Such that, now, they think they'll get points just for trying!
 
-And since today's artists *do* resemble the innovative artists of yesteryear… all is assumed to be well. But what if *you're* here to truly innovate— and not just to "larp," or role-play, the *idea* of doing so? Then keep dreaming like a child, and let BYCombo help you find the perfect business partner— a striver!
+And since today's artists *do* resemble the innovative artists of yesteryear… all is assumed to be well. But what if *you're* here to truly innovate— and not just to "larp," or role-play, the *idea* of doing so? Then keep dreaming like a child, and let BYCombo help you find the perfect business partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
