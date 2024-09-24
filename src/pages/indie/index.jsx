@@ -59,10 +59,6 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 A stellar demo can only be found by sifting through hundreds— so the indie gatekeepers rarely bother, since *any* artist they pick will be treated as an underdog deserving of charitable support. A history-making band's best bet, then, is to win over *elitist* gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
@@ -293,7 +289,11 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
-While indie artists value solidarity, rappers [revel in snobbery](https://youtu.be/78SV9tguyVM). Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? It's simple: When millions want what few can have, competition *must* happen, one way or another— and with that being the case, those with no advantages will insist that it happen in plain sight.
+${'  ' || `
+// TODO: Review.
+`}
+
+While indie artists value solidarity, rappers [revel in snobbery](https://youtu.be/78SV9tguyVM). Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? It's simple: When millions want what few can have, competition *must* happen, one way or another— and with that being the case, those with no advantages would prefer that it happen in plain sight.
 
 ${'  ' || `
 // TODO: Review.
@@ -318,10 +318,6 @@ But can't *today's* indies learn to sign the *next* On a Friday? No, because sta
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
-
-${'  ' || `
-// TODO: Review.
-`}
 
 "Be so good they can't ignore you," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie gatekeeper I've met with has dismissed me as a hobbyist— despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
@@ -395,7 +391,7 @@ Whenever I used to grumble about getting rejected by the indie gatekeepers, a fr
 
 See, dreamers aren't grounded in reality— which makes us bad at fulfilling visions on our own. Naturally, then, the indie camp thought we'd benefit the most from their offer of self-empowerment. But… I wasn't prepared for what this entailed; I didn't realize a new generation of strivers would raise the bar for hustling. And so, like a child, I thought I'd get points for trying.
 
-Yet… it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, can change the world in ways the striver's goal never will. Millennials fail to see this, however, being strivers themselves— which means they *also* don't see how past generations of dreamers raised the bar for innovation. Such that, now, they think they'll get points for trying!
+Yet… it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, can change the world in ways a striver's goal never will. Millennials fail to see this, however, being strivers themselves— which means they *also* don't see how past generations of dreamers raised the bar for innovation. Such that, now, they think they'll get points for trying!
 
 And since today's artists *do* resemble the innovative artists of yesteryear… all is assumed to be well. But what if you're here to *truly* innovate— and not just to "larp," or role-play, the *idea* of doing so? Then keep dreaming like a child, and let BYCombo help you find the perfect business partner: a striver!
 
