@@ -291,7 +291,11 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 
 While indie artists value solidarity, rappers [revel in snobbery](https://youtu.be/78SV9tguyVM). Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? It's simple: When millions want what few can have, competition *must* happen, one way or another— and with that being the case, those with no advantages will insist that it happen in plain sight.
 
-Because Millennials grew up with so many advantages, however, they fail to understand how the *truly* disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they encounter the rapper's snobbery in rock, they decry it as "rockism"— implying that such elitism is no better than racism.
+${'  ' || `
+// TODO: Review.
+`}
+
+Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry this attitude as "rockism"— implying that it's akin to racism.
 
 But once competition happens *away* from public view— as is the case with self-reliance— the disadvantaged become *helpless* to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
@@ -380,7 +384,7 @@ If so, this explains why those in tech now dominate the arts: While investors *r
 ### ${++sectionCounter}. Strivers don't know they're not dreamers
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review a few more times. Good point?
 `}
 
 Whenever I used to grumble after getting rejected by an indie gatekeeper, a friend would ask, "Then why don't you *seriously* hustle?" Yeah… why *didn't* I? Years later, I can guess: It's because, for Xennials like myself, being an artist was a vision you *dreamt* about. Thanks to "indiefication," however, it's now a goal to *strive* for. And as a dreamer… I didn't know I wasn't a striver.
