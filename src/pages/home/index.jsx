@@ -45,27 +45,27 @@ Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the 
 
 But who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! Which is why I spent 25,000 hours— twelve full-time years!— on [*Yearling's Bobtail*](https://yearlingsbobtail.com). And of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indies love it when a creative work *needs* to break the rules!
 
-### Who gatekeeps the gatekeepers?
+### Who makes the tastemakers?
 
 Well… not so fast. The indie camp assumes that every artist faces the same hurdles— in which case, clearing the way for an underdog should still help the rest. Except… your hurdles as an outsider *aren't* the same. To compensate for *not* being the one they're rooting for, you need to try much harder, to be much better. But then… this makes *you* the underdog's biggest hurdle!
 
-So even as you build up *objective* strengths to win over a skeptical public, the indie gatekeepers assure victory for the underdog by keeping their criteria *subjective*. Which is why they favor music that *lacks* [enviable hooks](/indie#time-is-kind-to-craft-not-context), and why they refuse to acknowledge our human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+So even as you build up *objective* strengths to win over a skeptical public, the indie tastemakers assure victory for the underdog by keeping their criteria *subjective*. Which is why they favor music that *lacks* [enviable hooks](/indie#time-is-kind-to-craft-not-context), and why they refuse to acknowledge our human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
 Suffice it to say, then… the indie labels rejected my demo. They also ignored later projects of mine that promised to *help* their underdogs: my songwriting book [*Bobtail Method*](https://bobtailmethod.com), and my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). So even *altruism* is a losing strategy for the outsider! And now I finally understood:
 
 **A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock will *never* sympathize with a hungry outsider's need for interdependence— because it *means* to shut them out!**
 
-Worst of all, if the major labels are "bad guys," then this makes the indies "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their gatekeepers is a bad guy as well— especially anyone from an [older generation](https://youtu.be/tODG4Xt45bU). And this gets at the heart of the problem:
+Worst of all, if the major labels are "bad guys," then this makes the indies "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their tastemakers is a bad guy as well— especially anyone from an [older generation](https://youtu.be/tODG4Xt45bU). And this gets at the heart of the problem:
 
 **As the first rock movement to hold its ideals to be universal, indie rock is also the first to lock its rules in place. Which means there's no historical precedent to show us how to resist— or even to assure us that we *can*.**
 
 ### A hundred *Yearling's Bobtail*s
 
-If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging an artist by the size of their fanbase, its gatekeepers end up favoring *content*— namely, art that's optimized to gain fans in the *present*, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
+If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging an artist by the size of their fanbase, its tastemakers end up favoring *content*— namely, art that's optimized to gain fans in the *present*, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
 
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! And this is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that entrepreneurs will try to disrupt the rock market.
 
-These "Dr. Dres of rock" would love to partner with bands who promise to make the best art— but how? Indie rock's low barriers to entry have led to a hopelessly crowded field. The next step, then, is for a counterculture to arise in which [*elitist* gatekeepers](/indie#elitism-is-the-great-equalizer) enforce a steep *cost* of entry. And here's where BYCombo comes in!
+These "Dr. Dres of rock" would love to partner with bands who promise to make the best art— but how? Indie rock's low barriers to entry have led to a hopelessly crowded field. The next step, then, is for a counterculture to arise in which [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) enforce a steep *cost* of entry. And here's where BYCombo comes in!
 
 **To have a demo shown in our public registry, each BYCombo band promises *not* to empower themselves. Instead, they'll earn a business partner's trust by sacrificing a serious chunk of lifetime to advance the art form.**
 
