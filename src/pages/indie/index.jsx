@@ -353,6 +353,10 @@ By contrast, the indie labels obey the people's will, as measured by the size of
 
 So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "Recordings are just for publicity anyway. *Real* artists earn a living by going on tour!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
 
+${'  ' || `
+// TODO: Revise. Make point about hating middlemen, enemy of enemy. Move point about majors to simplest explanation, including link.
+`}
+
 In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now [force artists](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
@@ -383,7 +387,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Whenever I used to grumble about getting rejected by the indie tastemakers, a friend would ask, "So why don't you *seriously* hustle?" Fair point! Why *didn't* I? I suspect it's because, for Xennials like myself, being an artist was a vision you'd *dream* about. Once indie rock took over, however, it became a goal to *strive* for. And as a dreamer… I didn't know I wasn't a striver.
+Whenever I used to grumble about getting rejected by the indie tastemakers, a friend would ask, "So why don't you *seriously* hustle?" Fair point! Why *didn't* I? Looking back, I think it's because being an artist, for Xennials like myself, was a vision to *dream* about. Once indie rock took over, however, it became a goal to *strive* for. And as a dreamer… I didn't know I wasn't a striver.
 
 See, dreamers aren't grounded in reality— which makes us bad at fulfilling visions on our own. Naturally, then, the indie camp thought we'd benefit the most from their offer of self-empowerment. But… I wasn't prepared for what this entailed; I didn't realize a new generation of strivers was about to raise the bar for hustling. So, like a child, I thought I'd get points for trying.
 
