@@ -383,9 +383,9 @@ Whenever I used to grumble about getting rejected by the indie tastemakers, a fr
 
 See, dreamers aren't grounded in reality— which makes us bad at fulfilling visions on our own. Naturally, then, the indie camp thought we'd benefit the most from their offer of self-empowerment. But… I wasn't prepared for what this would entail; I didn't realize a new generation of strivers was about to raise the bar for hustling. So, like a child, I thought I'd get points for trying.
 
-Yet… it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, can change the world in ways a striver's goal never will. And this is what *Millennials* don't realize— being strivers themselves! Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points for trying!
+Yet… it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, can change the world in ways a striver's goal never will. And this is what *Millennials* don't realize— being strivers themselves! Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points for trying.
 
-But all is assumed to be well, since today's artists do resemble the innovative artists of yesteryear… while we're never shown what *true* innovation today should actually entail. Still, what if you're here to *truly* innovate— not just to "larp," or role-play, the *idea* of doing so? Then keep dreaming like a child, and let BYCombo help you find the perfect business partner: a striver!
+But all is assumed to be well, since today's artists *do* resemble the innovative artists of yesteryear… while we're never shown what *true* innovation today should actually entail. Still, what if you're here to *truly* innovate— not just to "larp," or role-play, the *idea* of doing so? Then keep dreaming like a child, and let BYCombo help you find the perfect business partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
