@@ -385,6 +385,10 @@ If so, this explains why those in tech now dominate the arts: While investors *r
 
 ${'  ' || `
 // TODO: Review a few more times.
+
+First paragraph, connect sentences more logically? "Here's my guess" applies to "I didn't know I wasn't a striver."
+
+Fourth paragraph, flow from third sentence better?
 `}
 
 Whenever I used to grumble about getting rejected by the indie tastemakers, a friend would ask, "So why don't you *seriously* hustle?" Fair point! Why *didn't* I? Here's my guess: It's because, for Xennials like myself, being an artist was a vision to *dream* about. Once indie rock took over, however, it became a goal to *strive* for. And as a dreamer… I didn't know I wasn't a striver.
