@@ -273,10 +273,6 @@ Who could've foreseen all the downsides of "indiefication"? Um… us women and m
 
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of effectively being just another foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 No thanks! Remember, rock and roll was founded by poor and queer Blacks, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
 Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar just won a Pulitzer Prize! Now BYCombo gives your band the same chances.
@@ -384,7 +380,7 @@ If so, this explains why those in tech now dominate the arts: While investors *r
 ### ${++sectionCounter}. Strivers don't know they're not dreamers
 
 ${'  ' || `
-// TODO: Revise a few more times.
+// TODO: Review.
 `}
 
 Whenever I used to grumble about getting rejected by the indie tastemakers, a friend would ask, "So why don't you *seriously* hustle?" Fair point! Why *didn't* I? I suspect it's because, for Xennials like myself, being an artist was a vision to *dream* about. Once indie rock took over, however, it became a goal to *strive* for. And as a dreamer… I didn't know I wasn't a striver.
@@ -393,7 +389,7 @@ See, dreamers aren't grounded in reality— which makes us bad at fulfilling vis
 
 Yet… it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— as strivers themselves! Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying.
 
-But all is assumed to be well, since today's artists *do* resemble the innovative artists of yesteryear… while we're never shown what true innovation today *actually* entails. Still, what if you're here to *truly* innovate— not just to "larp," or role-play, the *idea* of doing so? Then keep dreaming like a child, and let BYCombo help you find the perfect business partner: a striver!
+But all is assumed to be well, since today's artists *do* resemble the innovative artists of yesteryear… while we're never shown what true innovation today should *actually* entail. Still, what if you're here to *truly* innovate— not just to "larp," or role-play, the *idea* of doing so? Then keep dreaming like a child, and let BYCombo help you find the perfect business partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
