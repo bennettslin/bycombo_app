@@ -347,13 +347,13 @@ In the past, a major label would bet on visions that other labels *didn't* see�
 
 By contrast, the indie labels obey the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is to trust the numbers! And for this, the indies get praised as "good guys."
 
-So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "Recordings are just for publicity anyway. *Real* artists earn a living by going on tour!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
+So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "Recordings mainly benefit the labels. *Real* artists earn a living by going on tour!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
 
 ${'  ' || `
-// TODO: Revise. Make point about hating middlemen, enemy of enemy. Remove point about majors to simplest explanation.
+// TODO: Review.
 `}
 
-In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now force artists to build a fanbase first. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
+In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); it was *their* grudge against the majors that allowed the tech platforms to take over as our new middlemen! The only way to revolt, then, is to reject indie rock *itself*. Which is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
