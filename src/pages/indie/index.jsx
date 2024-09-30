@@ -357,7 +357,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); it was *their* grudge against the majors that allowed the tech platforms to take over as our new middlemen! The only way to revolt, then, is to reject indie rock *itself*. Which is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
+In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to their grudge against the majors, the tech platforms have become our new middlemen! The only way to revolt, then, is to reject indie rock *itself*. Which is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
