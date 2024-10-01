@@ -153,7 +153,11 @@ After losing too many radio-friendly bands to the major labels, the indies learn
 
 Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artists— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master the craft.
 
-### ${++sectionCounter}. Mastery carries a steep opportunity cost
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Mastery carries steep opportunity costs
 
 Millennials were the first generation whose elders embraced every genre— and as such, they rebelled in the only way they thought possible: by ironically celebrating the [most *middling*](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) works. As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
 
@@ -231,7 +235,11 @@ To complicate matters, pollution is a tragedy of the commons: It's caused by ind
 
 So now, instead of democracy, we're all living under "indieocracy"— or, rule by those who hustle to get themselves known. But what if *your* hope all along was to be *made* known, by the elites? Then come verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
 
-### ${++sectionCounter}. An audience put to labor simply leaves
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Audiences put to labor simply leave
 
 Imagine this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's get rid of overpaid talent scouts, and empower indie athletes like me to get ourselves known. Yes, this will crowd the field— but you'll just have to put in the work to find what you want. Who'd object?"
 
@@ -248,10 +256,6 @@ From there, we admit that the silent majority only want the *best* artists— an
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all tastemakers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
 In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could simply be *made* known… by deserving to be.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
 
@@ -347,10 +351,6 @@ Yet underdog movements will never go away, because to be treated as an underdog 
 
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie camp*. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left bands powerless to negotiate; they couldn't pit one label against another, and a vision by itself is worth nothing. As a result, they often had to accept unfair terms— leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
 By contrast, the indie labels obey the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is to trust the numbers! And for this, the indies get praised as "good guys."
@@ -359,9 +359,9 @@ ${'  ' || `
 // TODO: Review two paragraphs.
 `}
 
-So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "*Real* artists treat recordings as publicity; actual earnings are made by going on tour!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
+So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "Recordings *should* be free; they're for publicity. Real earnings are made by going on tour!" And social media: "Real artists engage with their fans, and now they can at *any* time— not just after a show!"
 
-In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); it was *their* grudge against the majors that cleared the way for tech platforms to take over as our new middlemen! The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
+In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); it was they, with their grudges against the majors, who invited those in tech to take over as our new middlemen! The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
@@ -386,10 +386,6 @@ Now here's another point: Having scaled by opening one store at a time, a retail
 If so, this explains why those in tech now dominate the arts: While investors *readily* fund startups that lose money, the indie tastemakers *refuse* to believe in artists with no fanbase! Luckily, BYCombo puts you in a unique position to innovate, by letting you dream that millions would gladly be your *millionth* fan— even as none want to be your *first*.
 
 ### ${++sectionCounter}. Strivers don't know they're not dreamers
-
-${'  ' || `
-// TODO: Review section.
-`}
 
 Whenever I used to grumble about getting rejected by the indie tastemakers, a friend would ask, "So why don't you *seriously* hustle?" Fair point! Why *didn't* I? I suspect it's because, for Xennials like myself, being an artist was a vision to *dream* about. Once indie rock took over, however, it became a goal to *strive* for. And as a dreamer… I didn't know I wasn't a striver.
 
