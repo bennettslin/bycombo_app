@@ -101,6 +101,24 @@ But thanks to the Internet, today's "lottery players" get unlimited chances. Mor
 
 All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still, what if *you* were hoping to assure your legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
 
+### ${++sectionCounter}. Lean operations fail to evolve
+
+${'  ' || `
+// TODO: New section. Much earlier. Maybe between lottery and support? End by talking about support? Or between creativity and disintermediation?
+
+Talk about redundancy of middlemen, but efficiency, getting rid of redundancy leads to single points of failure.
+
+Don't mention tech at all, that's covered later.
+`}
+
+In contrast to the lumbering majors, redundant middlemen, indies promise to be lean operations. Of course, inmany ways, they have to be.
+
+Indie tastemakers do what they do as a labor of love. They're overworked and underpaid, and are thus lean operations by nature.
+
+Before the Internet, underground bands were the *only* ones winning over one fan at a time from the bottom up. Indie labels thus developed an instinct to respect and reward fan engagement. Like moths that evolved to navigate by moonlight. They're also overworked and underpaid. So also like moths, they learned not to expend energy on thinking beyond their instincts.
+
+But lean operations also have single point of failure. Can't adapt to changes. But the world has evolved, causing moths to burn themselves in flames. Indie labels are just as misguided, in a world where tech platforms have made fan engagement the default behavior, the indies will always dismiss the unexpected. Thankfully, BYCombo helps
+
 ### ${++sectionCounter}. Charitable support starts an arms race
 
 In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we *truly* supported were amateurs, recluses, the mentally ill… Yet today's fans use the word "support" to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
@@ -355,13 +373,13 @@ In the past, a major label would bet on visions that other labels *didn't* see�
 
 By contrast, the indie labels obey the people's will, as measured by the size of an artist's fanbase. So once *anyone* sees a safe bet, *everyone* does— and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists… is to trust the numbers! And for this, the indies get praised as "good guys."
 
-${'  ' || `
-// TODO: Review two paragraphs.
-`}
-
 So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "Recordings *should* be free; they're for publicity. Real earnings are made by going on tour!" And social media: "Real artists engage with their fans, and now they can at *any* time— not just after a show!"
 
-In short, today's data-driven industry is what the [*indie camp* wanted](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); it was they, with their grudges against the majors, who invited those in tech to take over as our new middlemen! The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
+${'  ' || `
+// TODO: Review.
+`}
+
+In short, it was the indie camp, led by their grudges against the majors, who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music)! The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
