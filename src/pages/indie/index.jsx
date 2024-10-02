@@ -171,11 +171,7 @@ After losing too many radio-friendly bands to the major labels, the indies learn
 
 Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artists— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master the craft.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
-### ${++sectionCounter}. Mastery carries steep opportunity costs
+### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
 Millennials were the first generation whose elders embraced every genre— and as such, they rebelled in the only way they thought possible: by ironically celebrating the [most *middling*](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) works. As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high standards of *previous* generations? Well, let's examine their options.
 
@@ -252,10 +248,6 @@ But this creates its own problems, doesn't it? Once a mark of verification is ea
 To complicate matters, pollution is a tragedy of the commons: It's caused by individuals acting in their own interest— so the solution *has* to come from the top down, through centralized planning. But the indie camp's thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
 So now, instead of democracy, we're all living under "indieocracy"— or, rule by those who hustle to get themselves known. But what if *your* hope all along was to be *made* known, by the elites? Then come verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
-
-${'  ' || `
-// TODO: Review title.
-`}
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
@@ -379,7 +371,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In short, it was the indie camp, led by their grudges against the majors, who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music)! The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
+In short, it was the *indie camp*, led by their grudges against the majors, who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music)! The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
