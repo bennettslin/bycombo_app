@@ -345,6 +345,28 @@ Every Black artist would stare glumly at us. Why? Because, back then, they *need
 
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf.
 
+### ${++sectionCounter}. Social progress introduces a paradox
+
+${'  ' || `
+// TODO: Consider new section?
+
+Revise underdogs section as a result?
+
+Link from home page?
+
+Do mention Gen X and Eminem after all. No need to mention working or trying in first paragraph.
+
+Make point that an entire generation denied itself the work ethic and determination of the hungry outsider?
+`}
+
+The Silent generation weren't rooting for a Black crooner, but when Sammy Davis Jr. came along, they embraced him. Similarly, Gen X didn't want a White rapper, yet they embraced Eminem. Why? In both cases, it's because they recognized this to be a timeless approach of the hungry outsider— namely, the one who tries much harder, to be much better, to compensate for *not* being whom the public is rooting for.
+
+Yet when I came along, no indie tastemaker recognized me as the latest incarnation of the hungry outsider. And because they didn't recognize my approach, they also couldn't sympathize with it or respect it. But why?
+
+Here's what I think: Millennials were the first generation to believe they'd achieved full tolerance. But this then puts them off to the hungry outsider, whose intuitive approach necessarily behaves as if they hadn't. Paradoxically, then, they'll punish this outsider in ways a less tolerant generation wouldn't!
+
+Let's face it, there will always be hungry outsiders. Even a perfectly colorblind society will find a way to root for some over others, based on class, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173), and so forth. So if you're here to compensate for *not* being the one the public roots for, BYCombo is here to help society recognize this timeless archetype once more.
+
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
 Perhaps my arguments against indie rock seem moot now. After all, doesn't "poptimism" prove that pop defeated rock? Well, no. It was "indiefication" that killed rock as a genre. Then, thinking the death was natural, many in the indie camp sought to be of use elsewhere. So poptimism… is just indie rock's good intentions brought over to the pop genre!
