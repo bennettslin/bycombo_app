@@ -269,7 +269,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the past, the major labels did that: Their talent scouts would sign any artist on the strength of a stellar demo— even one like Nick, with no fanbase. But indie rock told artists to get themselves known, whether or not they deserve to be. Because of this, the notion is now vulgar that those who don't hustle could simply be *made* known… by deserving to be.
+In the past, the major labels did that: Their talent scouts would sign any artist on the strength of a stellar demo— even one like Nick, with no fanbase. But indie rock told artists to get themselves known, whether or not they deserve to be. Because of this, the notion is now vulgar that those who don't hustle might simply be *made* known… by deserving to be.
 
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
 
@@ -289,10 +289,12 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never hustled to pay indie rock's dues myself.
 
-### ${++sectionCounter}. Social progress hides a strange intolerance
+### ${++sectionCounter}. Social progress hides a single intolerance
 
 ${'  ' || `
 // TODO: New section.
+
+Make title more like, social progress neutralizes tolerance?
 
 Between paid dues and hungry outsiders.
 
@@ -307,14 +309,15 @@ Make point that "indiefication" necessarily kills off the hungry outsider?
 Make point that *this* explains the long span when indie rock was overwhelmingly White and male.
 
 But this explains why Millennial music is worse. If they rejected the Bobtail Yearlings, they probably rejected *all* the hungry outsiders of their times.
+
+What if openness to hungry outsider is directly related to lack of social progress? Such that a socially progressive society must then retrain itself to be open to hungry outsider?
 `}
 
 The Silents weren't rooting for a Black crooner, but once Sammy Davis Jr. came along— having worked much harder, to be much better than others of his time— they embraced him. They understood that the outsider has only one recourse: to be much better than everyone else. Similarly, though Gen X wasn't interested in a White rapper, they embraced Eminem.
 
-Yet no indie tastemaker recognized me as the latest incarnation of this timeless archetype of the hungry outsider.
+Combine these next two paragraphs.
 
-
-. And because they didn't recognize my approach was in compensation for *not* being the one they were rooting for. they also couldn't sympathize with it or respect it. But why?
+Yet no indie tastemaker recognized me as the latest incarnation of this timeless archetype of the hungry outsider. And because they didn't recognize my approach was in compensation for *not* being the one they were rooting for. they also couldn't sympathize with it or respect it. But why?
 
 Here's my theory: Millennials were the first generation to believe they'd achieved perfect tolerance. But this then put them off to the hungry outsider, whose intuitive approach necessarily behaves as if they hadn't. Paradoxically, then, they'll punish this outsider in ways a less tolerant generation wouldn't!
 
@@ -421,10 +424,6 @@ In indie rock, a fanbase is built from the bottom up, one fan at a time. So I wa
 
 Within the past half-century, we've come to learn that startups are uniquely positioned to innovate because of how they scale: Unlike a retail store, which can't scale into a chain if it's unprofitable, a startup with few users might lose money on each user— yet *still* hope to turn a profit upon gaining millions of them! How? Through network effects and economies of scale.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Well, this *also* explains how an artist like me— who can't even gain *one* fan— might still hope to gain a *million*! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will parse them only if others have done the same: network effects! And when your parts are [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), your bandmates will commit to learning them only once an audience is guaranteed: economies of scale!
 
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all *along* was to gain a million at *once*, from the top down?
@@ -458,10 +457,6 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 In a world now awash in content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every Romantic's go-to solution?!
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I put together a band, and we played a show for one of them. It was… admittedly sloppy, given that my new bandmates were still learning their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
