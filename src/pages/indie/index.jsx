@@ -265,7 +265,11 @@ From there, we admit that the silent majority only want the *best* artists— an
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all tastemakers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-In the past, the major labels did just that: Their talent scouts would sign any artist based on a stellar demo— even one with no fanbase, like Nick Drake. But indie rock told artists to get themselves known— whether or not they deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could simply be *made* known… by deserving to be.
+${'  ' || `
+// TODO: Review.
+`}
+
+In the past, the major labels did that: Their talent scouts would sign any artist on the strength of a stellar demo— even one like Nick, with no fanbase. But indie rock told artists to get themselves known, whether or not they deserve to be. Because of this, the notion is now vulgar that those who don't hustle could simply be *made* known… by deserving to be.
 
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
 
@@ -285,6 +289,38 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never hustled to pay indie rock's dues myself.
 
+### ${++sectionCounter}. Social progress hides a strange intolerance
+
+${'  ' || `
+// TODO: New section.
+
+Between paid dues and hungry outsiders.
+
+Link from home page?
+
+Do mention Gen X and Eminem after all. No need to mention working or trying in first paragraph.
+
+Make point that an entire generation denied itself the work ethic and determination of the hungry outsider?
+
+Make point that "indiefication" necessarily kills off the hungry outsider?
+
+Make point that *this* explains the long span when indie rock was overwhelmingly White and male.
+
+But this explains why Millennial music is worse. If they rejected the Bobtail Yearlings, they probably rejected *all* the hungry outsiders of their times.
+`}
+
+The Silents weren't rooting for a Black crooner, but once Sammy Davis Jr. came along— having worked much harder, to be much better than others of his time— they embraced him. They understood that the outsider has only one recourse: to be much better than everyone else. Similarly, though Gen X wasn't interested in a White rapper, they embraced Eminem.
+
+Yet no indie tastemaker recognized me as the latest incarnation of this timeless archetype of the hungry outsider.
+
+
+. And because they didn't recognize my approach was in compensation for *not* being the one they were rooting for. they also couldn't sympathize with it or respect it. But why?
+
+Here's my theory: Millennials were the first generation to believe they'd achieved perfect tolerance. But this then put them off to the hungry outsider, whose intuitive approach necessarily behaves as if they hadn't. Paradoxically, then, they'll punish this outsider in ways a less tolerant generation wouldn't!
+
+
+Let's face it, there will always be hungry outsiders. Even a perfectly colorblind society will find a way to root for some over others, based on class, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173), and so forth. So if you're here to compensate for *not* being the one the public roots for, BYCombo is here to help society recognize this timeless archetype once more.
+
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
 Who could've foreseen all the downsides of "indiefication"? Um… us women and minorities, that's who! Which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers [*proudly* rely](https://web.archive.org/web/20141122/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothing%20but,that%20pays%20me) on labels and producers. When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance counts for *nothing*.
@@ -297,7 +333,7 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
-While indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
+Though indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them began as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
@@ -345,28 +381,6 @@ Every Black artist would stare glumly at us. Why? Because, back then, they *need
 
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf.
 
-### ${++sectionCounter}. Social progress introduces a paradox
-
-${'  ' || `
-// TODO: Consider new section?
-
-Revise underdogs section as a result?
-
-Link from home page?
-
-Do mention Gen X and Eminem after all. No need to mention working or trying in first paragraph.
-
-Make point that an entire generation denied itself the work ethic and determination of the hungry outsider?
-`}
-
-The Silent generation weren't rooting for a Black crooner, but when Sammy Davis Jr. came along, they embraced him. Similarly, Gen X didn't want a White rapper, yet they embraced Eminem. Why? In both cases, it's because they recognized this to be a timeless approach of the hungry outsider— namely, the one who tries much harder, to be much better, to compensate for *not* being whom the public is rooting for.
-
-Yet when I came along, no indie tastemaker recognized me as the latest incarnation of the hungry outsider. And because they didn't recognize my approach, they also couldn't sympathize with it or respect it. But why?
-
-Here's what I think: Millennials were the first generation to believe they'd achieved full tolerance. But this then puts them off to the hungry outsider, whose intuitive approach necessarily behaves as if they hadn't. Paradoxically, then, they'll punish this outsider in ways a less tolerant generation wouldn't!
-
-Let's face it, there will always be hungry outsiders. Even a perfectly colorblind society will find a way to root for some over others, based on class, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173), and so forth. So if you're here to compensate for *not* being the one the public roots for, BYCombo is here to help society recognize this timeless archetype once more.
-
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
 Perhaps my arguments against indie rock seem moot now. After all, doesn't "poptimism" prove that pop defeated rock? Well, no. It was "indiefication" that killed rock as a genre. Then, thinking the death was natural, many in the indie camp sought to be of use elsewhere. So poptimism… is just indie rock's good intentions brought over to the pop genre!
@@ -389,10 +403,6 @@ By contrast, the indie labels obey the people's will, as measured by the size of
 
 So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "Recordings *should* be free; they're for publicity. Real earnings are made by going on tour!" And social media: "Real artists engage with their fans, and now they can at *any* time— not just after a show!"
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To sum up, it was the *indie camp*, with their grudges against the majors, who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music)! The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
@@ -411,7 +421,11 @@ In indie rock, a fanbase is built from the bottom up, one fan at a time. So I wa
 
 Within the past half-century, we've come to learn that startups are uniquely positioned to innovate because of how they scale: Unlike a retail store, which can't scale into a chain if it's unprofitable, a startup with few users might lose money on each user— yet *still* hope to turn a profit upon gaining millions of them! How? Through network effects and economies of scale.
 
-Well, this *also* explains how an artist like me— who can't even gain *one* fan— might still hope to gain a *million*! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will parse them only if others have done the same: network effects! And when your music is [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), the right bandmates will join you only once an audience is guaranteed: economies of scale!
+${'  ' || `
+// TODO: Review.
+`}
+
+Well, this *also* explains how an artist like me— who can't even gain *one* fan— might still hope to gain a *million*! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will parse them only if others have done the same: network effects! And when your parts are [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), your bandmates will commit to learning them only once an audience is guaranteed: economies of scale!
 
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all *along* was to gain a million at *once*, from the top down?
 
@@ -445,7 +459,11 @@ In a world now awash in content, the new Romantics long for a return to live sho
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
-Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I cobbled together a band, and we put on a show for one of them that was… a bit sloppy, given what little time my new bandmates had to learn the parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
+${'  ' || `
+// TODO: Review.
+`}
+
+Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I put together a band, and we played a show for one of them. It was… admittedly sloppy, given that my new bandmates were still learning their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
 Thus I came to learn indie rock's founding belief: "Live shows tell the truth." Yet demos allow artists to pursue visions they *can't* fulfill on their own. And today, one vision much in need of a partner's help is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop?
 
