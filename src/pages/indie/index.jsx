@@ -365,13 +365,13 @@ Link from home page? Review and consider. Maybe not.
 Revise supremacists section's last paragraph in light of this section? No need to repeat "try much harder, to be much better"? Make it about not being the ones being rooted for?
 `}
 
-Though Silents *weren't* rooting for a Black crooner… this is exactly *why* they embraced Sammy Davis Jr.! They understood that he had only one recourse, like every hungry outsider before him: to try much harder, to be much better than all the rest. He did just that— and so they kept their end of the bargain. Similarly, Gen X didn't want a White rapper, but they embraced Eminem.
+Though Silents weren't rooting for a Black crooner… this is *exactly* why they embraced Sammy Davis Jr.! They understood that he had only one recourse, like every hungry outsider before him: to try much harder, to be much better than all the rest. He did just that— and so they kept their end of the bargain. Similarly, Gen X didn't want a White rapper, but they embraced Eminem.
 
 Yet when I came along— trying much harder, to be much better— no indie tastemaker sympathized with or respected my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that society's age-old bargain with the hungry outsider was, henceforth, to be null and void.
 
-So I had *no* recourse— and then, as it turns out, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! But even in a *perfectly* tolerant future, we'll *still* root for some over others, based on class, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we must give *some* recourse to those we don't root for.
+So I had *no* recourse— and then, as it turns out, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on class, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we must give *some* recourse to those we don't root for.
 
-There's also a selfish reason to do so: Once we reject the hungry outsiders of our time, we can never defend ourselves against claims that music got worse under our watch— claims that history will surely make against Millennials! But if you're hungry enough to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain with you once more.
+There's also a selfish reason to do so: Once we shut out the hungry outsiders of our time, we can never defend against claims that music got worse under our watch— claims that history will surely make against Millennials! But if you're hungry enough to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain with you once more.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
