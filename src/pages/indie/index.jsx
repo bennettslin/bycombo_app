@@ -289,41 +289,6 @@ Moreover, once someone has wasted their best years building up symbolic credenti
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never hustled to pay indie rock's dues myself.
 
-### ${++sectionCounter}. Social progress hides a single intolerance
-
-${'  ' || `
-// TODO: New section.
-
-Make title more like, social progress neutralizes tolerance?
-
-Between paid dues and hungry outsiders.
-
-Link from home page?
-
-Do mention Gen X and Eminem after all. No need to mention working or trying in first paragraph.
-
-Make point that an entire generation denied itself the work ethic and determination of the hungry outsider?
-
-Make point that "indiefication" necessarily kills off the hungry outsider?
-
-Make point that *this* explains the long span when indie rock was overwhelmingly White and male.
-
-But this explains why Millennial music is worse. If they rejected the Bobtail Yearlings, they probably rejected *all* the hungry outsiders of their times.
-
-What if openness to hungry outsider is directly related to lack of social progress? Such that a socially progressive society must then retrain itself to be open to hungry outsider?
-`}
-
-The Silents weren't rooting for a Black crooner, but once Sammy Davis Jr. came along— having worked much harder, to be much better than others of his time— they embraced him. They understood that the outsider has only one recourse: to be much better than everyone else. Similarly, though Gen X wasn't interested in a White rapper, they embraced Eminem.
-
-Combine these next two paragraphs.
-
-Yet no indie tastemaker recognized me as the latest incarnation of this timeless archetype of the hungry outsider. And because they didn't recognize my approach was in compensation for *not* being the one they were rooting for. they also couldn't sympathize with it or respect it. But why?
-
-Here's my theory: Millennials were the first generation to believe they'd achieved perfect tolerance. But this then put them off to the hungry outsider, whose intuitive approach necessarily behaves as if they hadn't. Paradoxically, then, they'll punish this outsider in ways a less tolerant generation wouldn't!
-
-
-Let's face it, there will always be hungry outsiders. Even a perfectly colorblind society will find a way to root for some over others, based on class, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173), and so forth. So if you're here to compensate for *not* being the one the public roots for, BYCombo is here to help society recognize this timeless archetype once more.
-
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
 Who could've foreseen all the downsides of "indiefication"? Um… us women and minorities, that's who! Which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers [*proudly* rely](https://web.archive.org/web/20141122/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothing%20but,that%20pays%20me) on labels and producers. When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance counts for *nothing*.
@@ -383,6 +348,28 @@ Indie rock is an ideology more than anything else— and ideologies transcend ti
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf.
+
+### ${++sectionCounter}. Penultimate tolerance hides a pitfall
+
+${'  ' || `
+// TODO: Keep working on.
+
+Review location between prejudice and supremacists. Earlier was considering between paid dues and hungry outsiders.
+
+Link from home page? Review and consider. Maybe not.
+
+Fourth paragraph: Make all those ideas more cohesive.
+
+Revise supremacists section's last paragraph in light of this section?
+`}
+
+The Silents weren't rooting for a Black crooner… but this is exactly why they embraced Sammy Davis Jr.! They understood that he had only one recourse, like every hungry outsider before him: to try much harder, to be much better than all the rest. He did just that— and so they kept their end of the bargain. Similarly, Gen X didn't want a White rapper, but they embraced Eminem.
+
+Yet when I came along— trying much harder, to be much better— no indie tastemaker sympathized with or respected my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that society's age-old bargain with the hungry outsider was, henceforth, to be null and void.
+
+So now the hungry outsider had *no* recourse— but as it turns out, Millennials *weren't* perfectly tolerant. Which explains why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on class, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we must offer those others *some* recourse.
+
+There's also a selfish reason to do so: Having rejected the Bobtail Yearlings, Millennials can't defend against accusations that they made music worse— and any future generation who rejects *their* hungry outsiders will suffer the same fate! Luckily, if you're willing to try much harder, to be much better… BYCombo can help Gen Z honor the bargain with you once again.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
