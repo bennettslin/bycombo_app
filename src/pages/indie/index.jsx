@@ -317,7 +317,11 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 
 But once competition happens *away* from public view— as is the case with self-reliance— the disadvantaged become *helpless* to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
-Which is why every movement started by minorities is *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more… just like rappers do.
+${'  ' || `
+// TODO: Review.
+`}
+
+Which is why every movement started by minorities is *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
@@ -358,18 +362,16 @@ Review location between prejudice and supremacists. Earlier was considering betw
 
 Link from home page? Review and consider. Maybe not.
 
-Fourth paragraph: Make all those ideas more cohesive.
-
-Revise supremacists section's last paragraph in light of this section?
+Revise supremacists section's last paragraph in light of this section? No need to repeat "try much harder, to be much better"? Make it about not being the ones being rooted for?
 `}
 
-The Silents weren't rooting for a Black crooner… but this is exactly why they embraced Sammy Davis Jr.! They understood that he had only one recourse, like every hungry outsider before him: to try much harder, to be much better than all the rest. He did just that— and so they kept their end of the bargain. Similarly, Gen X didn't want a White rapper, but they embraced Eminem.
+Though Silents *weren't* rooting for a Black crooner… this is exactly *why* they embraced Sammy Davis Jr.! They understood that he had only one recourse, like every hungry outsider before him: to try much harder, to be much better than all the rest. He did just that— and so they kept their end of the bargain. Similarly, Gen X didn't want a White rapper, but they embraced Eminem.
 
 Yet when I came along— trying much harder, to be much better— no indie tastemaker sympathized with or respected my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that society's age-old bargain with the hungry outsider was, henceforth, to be null and void.
 
-So now the hungry outsider had *no* recourse— but as it turns out, Millennials *weren't* perfectly tolerant. Which explains why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on class, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we must offer those others *some* recourse.
+So I had *no* recourse— and then, as it turns out, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! But even in a *perfectly* tolerant future, we'll *still* root for some over others, based on class, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we must give *some* recourse to those we don't root for.
 
-There's also a selfish reason to do so: Having rejected the Bobtail Yearlings, Millennials can't defend against accusations that they made music worse— and any future generation who rejects *their* hungry outsiders will suffer the same fate! Luckily, if you're willing to try much harder, to be much better… BYCombo can help Gen Z honor the bargain with you once again.
+There's also a selfish reason to do so: Once we reject the hungry outsiders of our time, we can never defend ourselves against claims that music got worse under our watch— claims that history will surely make against Millennials! But if you're hungry enough to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain with you once more.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
@@ -428,6 +430,10 @@ Whenever I used to grumble about getting rejected by the indie tastemakers, a fr
 See, us dreamers, we're not grounded in reality— which makes us awful at fulfilling visions on our own. Naturally, then, the indie camp thought we'd gain the most from their offer of self-empowerment. But… I wasn't prepared for what this entailed; I didn't realize a new generation of strivers would soon raise the bar for hustling. So, like a child, I thought I'd get points for trying.
 
 Yet… it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— as strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
+
+${'  ' || `
+// TODO: Revise. Avoid saying "today" twice.
+`}
 
 But all is assumed to be well, since today's artists *do* resemble the innovative artists of yesteryear… while we're never shown what true innovation today would *actually* entail. Still, what if *you're* here to truly innovate— not just to "larp," or role-play, the *idea* of doing so? Then keep dreaming like a child, and let BYCombo help you find the perfect business partner: a striver!
 
