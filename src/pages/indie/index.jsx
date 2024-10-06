@@ -108,6 +108,10 @@ ${'  ' || `
 
 Talk about redundancy of middlemen, but efficiency, getting rid of redundancy leads to single points of failure.
 
+Establish the idea of "obeying the people's will."
+
+Mention supporting artists, to segue into charitable support section.
+
 Don't mention tech at all, that's covered later.
 `}
 
@@ -343,6 +347,10 @@ Indie rock is an ideology more than anything else— and ideologies transcend ti
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
+${'  ' || `
+// TODO: Revise. Flesh this out. Make this about centralized institutions, unelected judiciaries, subverting the people's will. Shelter from populism.
+`}
+
 It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf.
 
 ### ${++sectionCounter}. Penultimate tolerance hides a pitfall
@@ -357,13 +365,13 @@ Link from home page? Review and consider. Maybe not.
 Revise supremacists section's last paragraph in light of this section? No need to repeat "try much harder, to be much better"? Make it about not being the ones being rooted for?
 `}
 
-Though Silents weren't rooting for a Black crooner… this is *exactly* why they embraced Sammy Davis Jr.! They understood that he had only one recourse, like every hungry outsider before him: to try much harder, to be much better than all the rest. He did just that— and so they kept their end of the bargain. Similarly, Gen X didn't want a White rapper, but they embraced Eminem.
+Though Silents *weren't* rooting for a Black crooner… this is exactly *why* they embraced Sammy Davis Jr.! They understood that he had only one recourse, like every hungry outsider before him: to try much harder, to be much better than all the rest. He did just that— and so they kept their end of the bargain. Similarly, Gen X didn't want a White rapper, but they embraced Eminem.
 
-Yet when I came along— trying much harder, to be much better— no indie tastemaker sympathized with or respected my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that society's age-old bargain with the hungry outsider was, henceforth, to be null and void.
+Yet when I came along— trying much harder, to be much better— no indie tastemaker sympathized with or respected my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was to be null and void.
 
 So I had *no* recourse— and then, as it turns out, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on class, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we must give *some* recourse to those we don't root for.
 
-There's also a selfish reason to do so: Once we shut out the hungry outsiders of our time, we can never defend against claims that music got worse under our watch— claims that history will surely make against Millennials! But if you're willing to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain with you once more.
+There's also a selfish reason to do so: Once we shut out the hungry outsiders of our time, we can never argue against claims that music got worse under our watch— claims that history will surely make against Millennials! But if you're willing to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain with you once more.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
