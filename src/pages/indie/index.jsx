@@ -265,10 +265,6 @@ From there, we admit that the silent majority only want the *best* artists— an
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all tastemakers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the past, the major labels did that: Their talent scouts would sign any artist on the strength of a stellar demo— even one like Nick, with no fanbase. But indie rock told artists to get themselves known, whether or not they deserve to be. Because of this, the notion is now vulgar that those who don't hustle might simply be *made* known… by deserving to be.
 
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
@@ -317,10 +313,6 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 
 But once competition happens *away* from public view— as is the case with self-reliance— the disadvantaged become *helpless* to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Which is why every movement started by minorities is *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
@@ -337,7 +329,7 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
-"Be so good they [can't ignore you](https://youtu.be/jTdXqsrs4oI)," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie tastemaker I've met with has dismissed me as a hobbyist— despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
+"Be so good they can't ignore you," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie tastemaker I've met with has dismissed me as a hobbyist— despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
 Then one day it clicked: I *haven't* met with a hundred indie tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
 
@@ -371,7 +363,7 @@ Yet when I came along— trying much harder, to be much better— no indie taste
 
 So I had *no* recourse— and then, as it turns out, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on class, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we must give *some* recourse to those we don't root for.
 
-There's also a selfish reason to do so: Once we shut out the hungry outsiders of our time, we can never defend against claims that music got worse under our watch— claims that history will surely make against Millennials! But if you're hungry enough to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain with you once more.
+There's also a selfish reason to do so: Once we shut out the hungry outsiders of our time, we can never defend against claims that music got worse under our watch— claims that history will surely make against Millennials! But if you're willing to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain with you once more.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
