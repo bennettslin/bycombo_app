@@ -361,13 +361,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-No, Silents weren't rooting for a Black crooner… but this is exactly *why* they embraced Sammy Davis Jr.! They knew he had only one recourse, like every hungry outsider before him: to try much harder, to be much better than all the rest. He did just that— and so they kept their end of the bargain. Similarly, though Gen X didn't want a White rapper, they embraced Eminem.
+No, Silents weren't rooting for a Black crooner… but this is exactly *why* they embraced Sammy Davis Jr.! They knew he had only one recourse, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— and so they kept their end of the bargain. Similarly, though Gen X didn't want a White rapper, they embraced Eminem.
 
 Yet when I came along— trying much harder, to be much better— no indie tastemaker sympathized with or respected my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was null and void.
 
 So I had *no* recourse— and then, as it turns out, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on class, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we must give *some* recourse to those we don't root for.
 
-There's also a selfish reason to do so: Once we shut out the hungry outsiders of our times, we have no defense against claims that music got worse under our watch— claims that history will surely make against Millennials! Luckily, if you're willing to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain with you once more.
+There's also a selfish reason to do so: Once we shut out the hungry outsiders of our times, we'll have no way to defend against claims that music got worse under our watch— claims that history will surely make against Millennials! Luckily, if you're willing to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain with you once more.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
@@ -382,7 +382,7 @@ This… *can't* be a viable way to make history. Because, what historical figure
 ${'  ' || `
 // TODO: Revise. Make different from previous section. Talk about compensating for not being an underdog.
 
-"There's also a selfish reason to do so: Once we shut out the hungry outsiders of our times, we have no defense against claims that music got worse under our watch— claims that history will surely make against Millennials! Luckily, if you're willing to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain with you once more."
+"There's also a selfish reason to do so: Once we shut out the hungry outsiders of our times, we'll have no way to defend against claims that music got worse under our watch— claims that history will surely make against Millennials! Luckily, if you're willing to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain with you once more."
 `}
 
 Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as you're hungry enough to try much harder, to be much better, BYCombo can offer the "rockist" alternative you long for.
@@ -415,17 +415,9 @@ In indie rock, a fanbase is built from the bottom up, one fan at a time. So I wa
 
 Within the past half-century, we've come to learn that startups are uniquely positioned to innovate because of how they scale: Unlike a retail store, which can't scale into a chain if it's unprofitable, a startup with few users might lose money on each user— yet *still* hope to turn a profit upon gaining millions of them! How? Through network effects and economies of scale.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Well, this *also* explains how an artist like me— who can't even gain *one* fan— might still hope to gain a *million*! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will parse them only if others have done the same: network effects! And when your parts are [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), your bandmates won't commit to fully learning them until an audience is guaranteed: economies of scale!
 
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all *along* was to gain a million at *once*, from the top down?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 If so, this explains why those in tech now dominate the arts: While investors *readily* fund startups that lose money, the indie tastemakers *refuse* to believe in artists with no fanbase! But now, BYCombo puts you in a unique position to innovate, by letting you dream that millions would gladly be your *millionth* fan— even as none want to be your *first*.
 
@@ -436,10 +428,6 @@ Whenever I used to grumble about getting rejected by the indie tastemakers, a fr
 See, us dreamers, we're not grounded in reality— which makes us awful at fulfilling visions on our own. Naturally, then, the indie camp thought we'd gain the most from their offer of self-empowerment. But… I wasn't prepared for what this entailed; I didn't realize a new generation of strivers would soon raise the bar for hustling. So, like a child, I thought I'd get points for trying.
 
 Yet… it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— as strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 But all is assumed to be well, since today's artists *do* resemble the innovative artists of yesteryear… while we're never shown what true innovation in our times should *actually* entail. Still, what if *you're* here to truly innovate— not just to "larp," or role-play, the *idea* of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the ideal business partner: a striver!
 
