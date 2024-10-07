@@ -137,7 +137,7 @@ And yet, this obviously can't end well. We don't support artists of the *past*�
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
-Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://visualkei.fandom.com/wiki/Visual_Kei). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
+Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://youtu.be/AffEkIRKmTc). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
@@ -358,16 +358,16 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 ### ${++sectionCounter}. Penultimate tolerance hides a pitfall
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review a few more times. But maybe come up with a better title.
 `}
 
 No, Silents weren't rooting for a Black crooner… but this is exactly *why* they embraced Sammy Davis Jr.! They knew he had only one recourse, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— and so they kept their end of the bargain. Similarly, though Gen X didn't want a White rapper, they embraced Eminem.
 
-Yet when I came along— trying much harder, to be much better— no indie tastemaker sympathized with or respected my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was null and void.
+Yet when I came along— trying much harder, to be much better— no indie tastemaker sympathized with or respected my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was to be null and void.
 
-So I had *no* recourse— and then, as it turns out, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on class, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we must give *some* recourse to those we don't root for.
+So I had *no* recourse— and then, as it turns out, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we must give *some* recourse to those we don't root for.
 
-There's also a selfish reason to do so: Once we shut out the hungry outsiders of our times, we'll have no way to defend against claims that music got worse under our watch— claims that history will surely make against Millennials! Luckily, if you're willing to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain with you once more.
+There's also a selfish reason to do so: Once we shut out the hungry outsiders of our times, we can never deflect any claim that music got worse under our watch— a claim that history will surely make against Millennials! Luckily, if you're just not whom the public wants to root for, BYCombo can help Gen Z honor that age-old bargain with you once more.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
@@ -378,12 +378,6 @@ Ignore the superficial differences in sound: Indie rock and poptimism are both u
 In a world where outsiders try much harder, to be much better, both indie rock and poptimism protect the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future historians will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
-
-${'  ' || `
-// TODO: Revise. Make different from previous section. Talk about compensating for not being an underdog.
-
-"There's also a selfish reason to do so: Once we shut out the hungry outsiders of our times, we'll have no way to defend against claims that music got worse under our watch— claims that history will surely make against Millennials! Luckily, if you're willing to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain with you once more."
-`}
 
 Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as you're hungry enough to try much harder, to be much better, BYCombo can offer the "rockist" alternative you long for.
 
