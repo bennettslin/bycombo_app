@@ -381,6 +381,8 @@ This… *can't* be a viable way to make history. Because, what historical figure
 
 ${'  ' || `
 // TODO: Revise. Make different from previous section. Talk about compensating for not being an underdog.
+
+"There's also a selfish reason to do so: Once we shut out the hungry outsiders of our times, we have no defense against claims that music got worse under our watch— claims that history will surely make against Millennials! Luckily, if you're willing to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain with you once more."
 `}
 
 Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as you're hungry enough to try much harder, to be much better, BYCombo can offer the "rockist" alternative you long for.
@@ -417,7 +419,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Well, this *also* explains how an artist like me— who can't even gain *one* fan— might still hope to gain a *million*! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will parse them only if others have done the same: network effects! And when your parts are [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), your bandmates won't commit to learning them in full until an audience is guaranteed: economies of scale!
+Well, this *also* explains how an artist like me— who can't even gain *one* fan— might still hope to gain a *million*! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will parse them only if others have done the same: network effects! And when your parts are [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), your bandmates won't commit to fully learning them until an audience is guaranteed: economies of scale!
 
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all *along* was to gain a million at *once*, from the top down?
 
