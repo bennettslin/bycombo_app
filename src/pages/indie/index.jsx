@@ -179,6 +179,16 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
+${'  ' || `
+// TODO: Revise. Maybe move the Andrew W.K. talk to the anxiety of influence section. Make this more about Millennials thinking you can have it all. Nothing takes away from anything else. So take heart that the ones who get the job are also most definitely the ones who deserve it. Re-read to look for something to link to:
+
+https://emptyrailroadgulch.substack.com/p/internet-people
+
+"Generations" bookmarks
+
+Things that don't age well.
+`}
+
 Millennials were the first generation whose elders embraced every genre— and as such, they rebelled in the only way they thought possible: by ironically celebrating the [most *middling*](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) works. As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high expectations of *previous* generations? Well, let's examine their options.
 
 They can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. Or— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
@@ -295,7 +305,11 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 Who could've foreseen all the downsides of "indiefication"? Um… us women and minorities, that's who! Which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers [*proudly* rely](https://web.archive.org/web/20141122/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothing%20but,that%20pays%20me) on labels and producers. When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance counts for *nothing*.
 
-Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of effectively being just another foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of effectively being just another foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
 No thanks! Remember, rock and roll was founded by poor and queer Blacks, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
@@ -360,10 +374,10 @@ Which is why BYCombo lets you find partners to advocate on your behalf.
 ### ${++sectionCounter}. Tolerance prematurely severs a lifeline
 
 ${'  ' || `
-// TODO: Review a few more times, including title.
+// TODO: Review.
 `}
 
-No, Silents weren't rooting for a Black crooner… but this is exactly *why* they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than any other. He did just that— and so they kept their end of the bargain. Similarly, though Gen X didn't want a White rapper, they embraced Eminem.
+No, Silents weren't rooting for a Black crooner… but this is exactly *why* they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— and so they kept their end of the bargain. Similarly, though Gen X didn't want a White rapper, they embraced Eminem.
 
 Yet when I came along— trying much harder, to be much better— no indie tastemaker sympathized with or respected my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was null and void.
 
@@ -382,14 +396,10 @@ In a world where outsiders try much harder, to be much better, both indie rock a
 This… *can't* be a viable way to make history. Because, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
 ${'  ' || `
-// TODO: Revise. Maybe begin by repeating "to sum up"? Avoid "luckily." Maybe keep the original? Include "lifeline" again.
-
-Happily, many today *do* recognize the folly of poptimism. Unfortunately, some will then turn around to praise indie rock, not realizing the two movements are one and the same!
-
-. The only way to rebel, then, is to reject the entire premise that something millions want, that few can have, should ever go to the plucky underdog.
+// TODO: Review.
 `}
 
-Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. So if you're just not whom the public wants to root for, BYCombo is here to offer you a "rockist" alternative.
+Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. Don't fret, however, if you're *not* whom the public is rooting for: BYCombo is here to throw you a lifeline— by bringing back the "rockism" of [Sister Rosetta](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
