@@ -123,7 +123,7 @@ Indie tastemakers do what they do as a labor of love. They're overworked and und
 
 Before the Internet, underground bands were the *only* ones winning over one fan at a time from the bottom up. Indie labels thus developed an instinct to respect and reward fan engagement. Like moths that evolved to navigate by moonlight. They're also overworked and underpaid. So also like moths, they learned not to expend energy on thinking beyond their instincts.
 
-But lean operations also have single point of failure. Can't adapt to changes. But the world has evolved, causing moths to burn themselves in flames. Indie labels are just as misguided, in a world where tech platforms have made fan engagement the default behavior, the indies will always dismiss the unexpected. Thankfully, BYCombo helps
+But lean operations also have single point of failure. Can't adapt to changes. But the world has evolved, causing moths to burn themselves in flames. Indie labels are just as misguided, in a world where tech platforms have made fan engagement the default behavior, the indies will always dismiss the unexpected. Happily, BYCombo helps
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
@@ -357,21 +357,19 @@ It's simple: Given its decentralized nature, indie rock can't guard against the 
 
 Which is why BYCombo lets you find partners to advocate on your behalf.
 
-### ${++sectionCounter}. Penultimate tolerance hides one last pitfall
+### ${++sectionCounter}. Tolerance prematurely severs a lifeline
 
 ${'  ' || `
-// TODO: Review a few more times. But maybe come up with a better title.
-
-Fourth paragraph might still need work… Maybe do switch the last paragraphs of this section and the next after all.
+// TODO: Review a few more times, including title.
 `}
 
-No, Silents weren't rooting for a Black crooner… but this is exactly *why* they embraced Sammy Davis Jr.! They knew he had only one recourse, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— and so they kept their end of the bargain. Similarly, though Gen X didn't want a White rapper, they embraced Eminem.
+No, Silents weren't rooting for a Black crooner… but this is exactly *why* they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than any other. He did just that— and so they kept their end of the bargain. Similarly, though Gen X didn't want a White rapper, they embraced Eminem.
 
-Yet when I came along— trying much harder, to be much better— no indie tastemaker sympathized with or respected my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was to be null and void.
+Yet when I came along— trying much harder, to be much better— no indie tastemaker sympathized with or respected my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was null and void.
 
-So I had *no* recourse— and then, as it turns out, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we must give *some* recourse to those we don't root for.
+Thus I had *no* lifeline— and then, as it turns out, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we *must* extend a lifeline to those we don't root for.
 
-There's also a selfish reason to do so: Once we shut out the hungry outsiders of our times, we can no longer deflect any claim that music got worse under our watch— a claim that history will surely make against Millennials! Luckily, if you're just not whom the indie camp is rooting for, BYCombo can help Gen Z honor that age-old bargain with you once more.
+There's also a selfish reason to do so: Once we shut out the outsiders of our times, we can no longer deflect any claim that music got worse under our watch— a claim that history will surely make against Millennials! Luckily, if you're hungry enough to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain with you once more.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
@@ -383,7 +381,15 @@ In a world where outsiders try much harder, to be much better, both indie rock a
 
 This… *can't* be a viable way to make history. Because, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. But as long as you're hungry enough to try much harder, to be much better, BYCombo can offer the "rockist" alternative you long for.
+${'  ' || `
+// TODO: Revise. Maybe begin by repeating "to sum up"? Avoid "luckily." Maybe keep the original? Include "lifeline" again.
+
+Happily, many today *do* recognize the folly of poptimism. Unfortunately, some will then turn around to praise indie rock, not realizing the two movements are one and the same!
+
+. The only way to rebel, then, is to reject the entire premise that something millions want, that few can have, should ever go to the plucky underdog.
+`}
+
+Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*— and the privileged will always find ways to benefit themselves. So if you're just not whom the public wants to root for, BYCombo is here to offer you a "rockist" alternative.
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
