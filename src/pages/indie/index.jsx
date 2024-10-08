@@ -353,12 +353,16 @@ ${'  ' || `
 // TODO: Revise. Flesh this out. Make this about centralized institutions, unelected judiciaries, subverting the people's will. Shelter from populism.
 `}
 
-It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not— which is why BYCombo lets you find partners to advocate on your behalf.
+It's simple: Given its decentralized nature, indie rock can't guard against the prejudices of its times. It can only *reflect* them— and the '50s were openly racist! Well, is society free of prejudice today? Of course not.
 
-### ${++sectionCounter}. Penultimate tolerance hides a pitfall
+Which is why BYCombo lets you find partners to advocate on your behalf.
+
+### ${++sectionCounter}. Penultimate tolerance hides one last pitfall
 
 ${'  ' || `
 // TODO: Review a few more times. But maybe come up with a better title.
+
+Fourth paragraph might still need work… Maybe do switch the last paragraphs of this section and the next after all.
 `}
 
 No, Silents weren't rooting for a Black crooner… but this is exactly *why* they embraced Sammy Davis Jr.! They knew he had only one recourse, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— and so they kept their end of the bargain. Similarly, though Gen X didn't want a White rapper, they embraced Eminem.
@@ -367,7 +371,7 @@ Yet when I came along— trying much harder, to be much better— no indie taste
 
 So I had *no* recourse— and then, as it turns out, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we must give *some* recourse to those we don't root for.
 
-There's also a selfish reason to do so: Once we shut out the hungry outsiders of our times, we can never deflect any claim that music got worse under our watch— a claim that history will surely make against Millennials! Luckily, if you're just not whom the public wants to root for, BYCombo can help Gen Z honor that age-old bargain with you once more.
+There's also a selfish reason to do so: Once we shut out the hungry outsiders of our times, we can no longer deflect any claim that music got worse under our watch— a claim that history will surely make against Millennials! Luckily, if you're just not whom the indie camp is rooting for, BYCombo can help Gen Z honor that age-old bargain with you once more.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
