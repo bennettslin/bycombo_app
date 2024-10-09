@@ -313,10 +313,6 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 Who could've foreseen all the downsides of "indiefication"? Um… us women and minorities, that's who! Which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers [*proudly* rely](https://web.archive.org/web/20141122/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothing%20but,that%20pays%20me) on labels and producers. When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance counts for *nothing*.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of effectively being just another foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
 No thanks! Remember, rock and roll was founded by poor and queer Blacks, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
@@ -399,10 +395,6 @@ Perhaps my arguments against indie rock seem moot now. After all, doesn't "popti
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In a world where outsiders try much harder, to be much better, both indie rock and poptimism protect the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future audiences will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
@@ -411,7 +403,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. So now what, if *you're* not whom the public wants to root for? Don't fret! BYCombo can toss you a lifeline— by bringing back the "rockism" of [Sister Rosetta](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is).
+Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. So now what, if *you're* not whom the public wants to root for? Why, BYCombo can toss you a lifeline— by bringing back the "rockism" of [Sister Rosetta](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is).
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
