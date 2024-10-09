@@ -411,7 +411,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. So now what, if *you're* just not whom the public is rooting for? Don't fret! BYCombo can toss you a lifeline— by bringing back the "rockism" of [Sister Rosetta](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is).
+Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. So now what, if *you're* not whom the public wants to root for? Don't fret! BYCombo can toss you a lifeline— by bringing back the "rockism" of [Sister Rosetta](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is).
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
