@@ -73,15 +73,19 @@ Here's an incomplete list of ways…
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
+${'  ' || `
+// TODO: Review.
+`}
+
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To Millennials, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in all the wrong places. How did we get confused?
 
-Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs, when this is what fires them up to attack our common enemy?"
+Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the major labels and their middlemen. Like MAGA, it's a culture of anti-elitist grievance— and so it shares the same fondness for confusion. After all: "Who cares if those on our side are confused in their beliefs, when this is what fires them up to attack our common enemy?"
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](https://web.archive.org/web/20090318/http://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
 
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to snub the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
 
-As with MAGA, then, indie rock's weakness for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
+As with MAGA, then, indie rock's fondness for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
 
 ### ${++sectionCounter}. Populism trampled the underground
 
@@ -392,7 +396,7 @@ In a world where outsiders try much harder, to be much better, both indie rock a
 This… *can't* be a viable way to make history. Because, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review. Mention rockism in first paragraph?
 `}
 
 Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you're just *not* whom the public wants to root for? Then let BYCombo throw you a lifeline— by bringing back the "rockism" of [Sister Rosetta](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is).
