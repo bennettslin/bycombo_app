@@ -11,7 +11,7 @@ const Component = ({ sectionCounter = 0 }) => (
             title: TITLE,
             metaTitle: TITLE,
             metaDescription: DESCRIPTION,
-            date: { year: 2024, month: 9, updated: true },
+            date: { year: 2024, month: 10, updated: true },
             body: `
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
@@ -21,11 +21,7 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 
 First, we raise *awareness*: Because "indie" has become a synonym for "good," few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— the final stage of "indiefication." For instance, people will gripe that the majors no longer nurture talent, no longer take risks… unaware that this is how the indies have *always* worked! So if you just keep reading, hopefully I can set the record straight.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-From there, it's an *action* problem: Rebelling against centralized authorities is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
+From there, it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will sacrifice serious chunks of lifetime to make historically canonical demos, which they'll show in a public registry to find business partners from a counterculture of interdependence.**
 
@@ -39,11 +35,7 @@ A counterculture shelters dangerous ideas, yet we haven't had one for some time.
 
 **Why the historical canon?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
-When fans charitably support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must consciously *aim* to do so— because, without this intent, they'll naturally settle for being content creators instead.
+When fans charitably support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must consciously *aim* to do so— because without this intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
@@ -215,10 +207,6 @@ But this can't happen if you're always context switching— which explains why "
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
 Historically, artists lacked all means to get themselves known to the public, freeing them to explore at will— and sometimes leading to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— leaving them reluctant to experiment, for fear of losing those fans.
@@ -379,9 +367,9 @@ ${'  ' || `
 // TODO: Review next two paragraphs.
 `}
 
-It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the time of civil rights, for example, it was the federal government that forced the Southern states to end segregation. But indie rock promises to be a *de*-centralized system that *obeys* the people's will— which means it must *reflect* the prejudices of its times.
+It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the time of civil rights, for example, it was the federal government that forced the Southern states to end segregation. But indie rock promises to be a *de*-centralized system that *obeys* the people's will— and as such, it can only uphold the prejudices of its times.
 
-Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… And so I started BYCombo, to let you find business partners who'll advocate on your behalf. Because, if *your* life experiences have shown that you just *aren't* your own best advocate… well then— good Lord!— who is anyone else to argue?
+Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have repeatedly shown that you *aren't* your own best advocate? Why, BYCombo can help you find business partners to advocate on your behalf— as we usher in a new civil rights movement for artists!
 
 ### ${++sectionCounter}. Tolerance prematurely severs a lifeline
 
