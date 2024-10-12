@@ -91,7 +91,11 @@ In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?
 
 But… given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans— and thus, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock lost its countercultural edge and devolved into just another hustle culture. Yet Millennials still defend it, having never known it to be otherwise…
 
-So what happens now, if *your* respect for the underground was always rooted in the *aesthetics* of subverting the mainstream, rather than the *logistics* of forgoing the majors? Why, BYCombo can expose you to elitist gatekeepers— the one chance left for subversive art in an online world!
+${'  ' || `
+// TODO: Review.
+`}
+
+So now indie rock *obeys* the people's will… while no counterculture remains to *subvert* it. But what if *your* respect for the underground was always rooted in the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the majors? Then let BYCombo expose you to elitist gatekeepers— the one chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -107,8 +111,6 @@ ${'  ' || `
 // TODO: New section. Much earlier. Maybe between lottery and support? End by talking about support? Or between creativity and disintermediation?
 
 Talk about redundancy of middlemen, but efficiency, getting rid of redundancy leads to single points of failure.
-
-Reiterate to fully establish the idea of "obeying the people's will" as the mainstream. Or do this in the populism section? Contrast with "subverting the people's will."
 
 Mention supporting artists, to segue into charitable support section.
 
