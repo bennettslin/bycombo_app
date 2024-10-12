@@ -39,7 +39,11 @@ A counterculture shelters dangerous ideas, yet we haven't had one for some time.
 
 **Why the historical canon?**
 
-When fans charitably support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must consciously *aim* to do so— because without this intent, they'll naturally settle for being content creators instead.
+${'  ' || `
+// TODO: Review.
+`}
+
+When fans charitably support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must consciously *aim* to do so— because, without this intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
@@ -375,9 +379,9 @@ ${'  ' || `
 // TODO: Review next two paragraphs.
 `}
 
-It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the civil rights movement, for example, the federal government had to *force* the Southern states to end segregation. But indie rock promises to be a *de*-centralized system that *obeys* the people's will— and as such, it can only ever reflect the prejudices of its times.
+It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the time of civil rights, for example, it was the federal government that forced the Southern states to end segregation. But indie rock promises to be a *de*-centralized system that *obeys* the people's will— which means it must *reflect* the prejudices of its times.
 
-Well, is society free of prejudice today? Of course not. And yet, no one noticed me staring glumly when indie rock took over… So what happens now, if *your* experiences in life have shown, time after time, that you're *not* your own best advocate? Why, BYCombo can help you find business partners to advocate on your behalf… as we usher in a new time of civil rights for artists!
+Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… And so I started BYCombo, to let you find business partners who'll advocate on your behalf. Because, if *your* life experiences have shown that you just *aren't* your own best advocate… well then— good Lord!— who is anyone else to argue?
 
 ### ${++sectionCounter}. Tolerance prematurely severs a lifeline
 
