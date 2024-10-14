@@ -91,10 +91,6 @@ In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?
 
 But… given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans— and thus, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock lost its countercultural edge and devolved into just another hustle culture. Yet Millennials still defend it, having never known it to be otherwise…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 So now indie rock *obeys* the people's will… while no counterculture remains to *subvert* it. But what if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the majors? Then let BYCombo expose you to elitist gatekeepers— the one chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
@@ -363,9 +359,9 @@ It's simple: Historically, victims of prejudice relied on centralized authoritie
 
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have repeatedly shown that you *aren't* your own best advocate? Why, BYCombo can help you find business partners to advocate on your behalf— as we usher in a new time of civil rights for artists!
 
-### ${++sectionCounter}. Tolerance prematurely severs a lifeline
+### ${++sectionCounter}. Penultimate tolerance severs a lifeline
 
-No, Silents weren't rooting for a Black crooner… but this is exactly *why* they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— and so they kept their end of the bargain. Similarly, though Gen X didn't want a White rapper, they embraced Eminem.
+No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— and so they kept their end of the bargain. Similarly, though Gen X didn't want a White rapper, they embraced Eminem.
 
 Yet when I came along— trying much harder, to be much better— no indie tastemaker sympathized with or respected my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was to be null and void.
 
@@ -379,7 +375,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Perhaps my arguments against indie rock seem moot now. After all, didn't "poptimism" defeat "rockism"? Well, sure. But whose side did the indie camp take? They sided with the *poptimists*. And for good reason: Poptimism… is all about bringing indie rock's good intentions to the pop genre!
+Perhaps my arguments against indie rock seem moot now. After all, didn't "poptimism" defeat "rockism"? Well, sure. But not everyone who's into rock is a rockist. Case in point: Whose side did the indie camp take? They sided with the *poptimists*. And for good reason: Poptimism… is all about bringing indie rock's good intentions to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
