@@ -95,7 +95,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So now indie rock *obeys* the people's will… while no counterculture remains to *subvert* it. But what if *your* respect for the underground was always rooted in the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the majors? Then let BYCombo expose you to elitist gatekeepers— the one chance left for subversive art in an online world!
+So now indie rock *obeys* the people's will… while no counterculture remains to *subvert* it. But what if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the majors? Then let BYCombo expose you to elitist gatekeepers— the one chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -323,10 +323,6 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
-${'  ' || `
-// TODO: Review.
-`}
-
 While indie artists value solidarity, rappers [revel in snobbery](https://youtu.be/78SV9tguyVM). Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
 
 Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry it as "rockism"— implying that such snobbery is akin to racism.
@@ -363,10 +359,6 @@ Indie rock is an ideology more than anything else— and ideologies transcend ti
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to end segregation. But indie rock promises to be a *de*-centralized system that *obeys* the people's will— and as such, it can only ever uphold the prejudices of its times.
 
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have repeatedly shown that you *aren't* your own best advocate? Why, BYCombo can help you find business partners to advocate on your behalf— as we usher in a new time of civil rights for artists!
@@ -387,17 +379,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Perhaps my arguments against indie rock seem moot now. After all, didn't "poptimism" defeat "rockism"? Well, sure. But whose side did the indie camp take? They sided with the *poptimists*. And for good reason: Poptimism… is ultimately about bringing indie rock's good intentions to the pop genre!
+Perhaps my arguments against indie rock seem moot now. After all, didn't "poptimism" defeat "rockism"? Well, sure. But whose side did the indie camp take? They sided with the *poptimists*. And for good reason: Poptimism… is all about bringing indie rock's good intentions to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
 In a world where outsiders try much harder, to be much better, both indie rock and poptimism protect the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future audiences will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you just *aren't* whom the public wants to root for? Then let BYCombo throw you a lifeline— by bringing back the rockism of [Sister Rosetta](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
 
