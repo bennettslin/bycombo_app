@@ -375,7 +375,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Perhaps my arguments against indie rock seem moot now. After all, didn't "poptimism" defeat "rockism"? Well, sure. But not everyone who's into rock is a rockist. Case in point: Whose side did the indie camp take? They sided with the *poptimists*. And for good reason: Poptimism… is all about bringing indie rock's good intentions to the pop genre!
+Perhaps my arguments against indie rock seem moot, now that "poptimism" has defeated "rockism." After all, doesn't this mean pop killed rock? Well, no; the *real* killer was "indiefication." Assuming the death was natural, however, many in the indie camp sought to be of service elsewhere. So poptimism… is really just indie rock's good intentions brought to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
