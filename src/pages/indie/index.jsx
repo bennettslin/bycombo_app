@@ -19,10 +19,6 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've sp
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 First, we raise *awareness*: Because "indie" equates to "good" for so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— the end result of "indiefication," by which artists need to put more and more effort into *getting* the job, rather than *deserving* it. If you keep reading, though, I'll set the record straight.
 
 From there, it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
@@ -178,10 +174,6 @@ But this can't happen if you're always context switching— which explains why "
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Historically, artists lacked all means to get themselves known to the public, freeing them to explore at will— and sometimes leading them to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— leaving them reluctant to experiment, for fear of losing those fans.
 
@@ -349,10 +341,6 @@ There's also a selfish reason to do so: Once we shut out the outsiders of our ti
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Perhaps my arguments against indie rock seem moot, now that "poptimism" has defeated "rockism." After all, doesn't this mean that pop killed rock? Well, no; the *real* killer was "indiefication." Unaware of their complicity, however, many in the indie camp then sought to be of use elsewhere. So poptimism… is really just indie rock's good intentions brought to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
@@ -409,11 +397,7 @@ But all is assumed to be well, since today's artists *do* resemble the innovativ
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they pleased to merely "larp" the idea of revolution?
+Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they content to merely "larp" the idea of revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
