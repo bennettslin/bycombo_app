@@ -23,7 +23,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-First, we raise *awareness*: Because "indie" has become a synonym for "good," few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— the final stage of "indiefication," whereby artists need to put more and more effort into *getting* the job, rather than *deserving* it. If you just keep reading, though, I'll set the record straight.
+First, we raise *awareness*: Because "indie" equates to "good" for so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— the end result of "indiefication," by which artists need to put more and more effort into *getting* the job, rather than *deserving* it. If you keep reading, though, I'll set the record straight.
 
 From there, it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -179,7 +179,11 @@ But this can't happen if you're always context switching— which explains why "
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
-Historically, artists lacked all means to get themselves known to the public, freeing them to explore at will— and sometimes leading to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— leaving them reluctant to experiment, for fear of losing those fans.
+${'  ' || `
+// TODO: Review.
+`}
+
+Historically, artists lacked all means to get themselves known to the public, freeing them to explore at will— and sometimes leading them to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— leaving them reluctant to experiment, for fear of losing those fans.
 
 Meanwhile, the major labels in the past had the budget to cast a wide net for talent— which made sense business-wise, since this enabled them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Funny enough, though, it *also* allowed them to deliver the boldest art… by freeing them to pick unknown artists with unexpected ideas!
 
@@ -349,7 +353,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Perhaps my arguments against indie rock seem moot, now that "poptimism" has defeated "rockism." After all, doesn't this mean pop killed rock? Well, no; the *real* killer was "indiefication." Assuming the death was natural, however, many in the indie camp sought to be of service elsewhere. So poptimism… is really just indie rock's good intentions brought to the pop genre!
+Perhaps my arguments against indie rock seem moot, now that "poptimism" has defeated "rockism." After all, doesn't this mean that pop killed rock? Well, no; the *real* killer was "indiefication." Unaware of their complicity, however, many in the indie camp then sought to be of use elsewhere. So poptimism… is really just indie rock's good intentions brought to the pop genre!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
@@ -405,7 +409,11 @@ But all is assumed to be well, since today's artists *do* resemble the innovativ
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
-Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they content to merely "larp" the idea of revolution?
+${'  ' || `
+// TODO: Review.
+`}
+
+Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet… Millennials embraced it as their own. Why were they pleased to merely "larp" the idea of revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
@@ -427,17 +435,24 @@ To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once c
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I put together a band, and we played a show for one of them. It was… admittedly sloppy, given that my new bandmates were still learning their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
-Thus I came to learn indie rock's founding belief: "Live shows tell the truth." And yet, if recordings capture what shows can't… then this is an *asset*, not a *liability*! Like cinema and theater, they're distinct mediums. So ignore those who insist that "real" artists start out by playing shows; with BYCombo, you can make a stellar demo— with no concern for how you'll recreate it live.
+Thus I came to learn indie rock's founding belief: "Live shows tell the truth." Yet if recordings capture what shows can't… how is this a *liability*, rather than an *asset*? Like cinema and theater, they're distinct mediums! So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can make a stellar demo— with no concern for how you'll recreate it live.
 
-### ${++sectionCounter}. Modern collaboration requires coordination
+### ${++sectionCounter}. Modern collaboration calls for assembly
 
 ${'  ' || `
-// TODO: New section. Specifically about centralization needed to form a rock band.
+// TODO: New section. Make clear why this only recently became a problem.
 
-Mention frontier.
+Mention frontier in last paragraph.
 `}
 
-Yet demos allow artists to pursue visions they *can't* fulfill on their own. And today, one vision much in need of a partner's help is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop?
+Demos allow artists to pursue visions they *can't* fulfill on their own, right? Well, one vision in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop?
+
+Many have puzzled over the [demise of bands](https://www.honest-broker.com/p/the-bands-are-never-coming-back) over the years, but the reason is simple: Forming a band on your own is now a "larp." That is to say, in the same way that being indie is horribly inefficient, forming a band on one's own is also horribly inefficient, that you would only ever do so to fulfill some romantic fantasy in your head.
+
+Cutting through the noise to find serious bandmates is no different from cutting through the noise to get your music heard.
+That one of the perks of being signed to a label can't be the leverage it provides to help you form a band is a monumental waste of that label's leverage.
+
+Luckily, BYCombo is here to do what the indie labels won't!
 
 ### ${++sectionCounter}. Progress values aesthetics, not logistics
 
