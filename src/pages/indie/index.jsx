@@ -409,32 +409,31 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 
 ### ${++sectionCounter}. Music recording is its own medium
 
-${'  ' || `
-// TODO: Review whole section.
-`}
-
 In a world now awash in content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every Romantic's go-to solution?!
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I put together a band, and we played a show for one of them. It was… admittedly sloppy, given that my new bandmates were still learning their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
-Thus I came to learn indie rock's founding belief: "Live shows tell the truth." Yet if recordings capture what shows can't… how is this a *liability*, rather than an *asset*? Like cinema and theater, they're distinct mediums! So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can make a stellar demo— with no concern for how you'll recreate it live.
+${'  ' || `
+// TODO: Review.
+`}
 
-### ${++sectionCounter}. Modern collaboration calls for assembly
+Thus I came to learn indie rock's founding belief: "Live shows tell the truth." And yet, if recordings capture what shows can't… then this is an *asset*, not a *liability*! Like cinema and theater, they're distinct mediums. So ignore those who insist that "real" artists start by playing shows! With BYCombo, you can make a stellar demo— with no concern for how you'll recreate it live.
+
+### ${++sectionCounter}. Modern collaboration requires assembly
 
 ${'  ' || `
-// TODO: New section. Make clear why this only recently became a problem.
+// TODO: New section.
+
+Second paragraph, not confident in the current sentence to connect ideas.
 
 Mention frontier in last paragraph.
 `}
 
-Demos allow artists to pursue visions they *can't* fulfill on their own, right? Well, one vision in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop?
+Demos allow artists to pursue visions they *can't* fulfill on their own, and one vision much in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop? Some ask why bands have [declined in popularity](https://www.honest-broker.com/p/the-bands-are-never-coming-back)… but it's really no mystery.
 
-Many have puzzled over the [demise of bands](https://www.honest-broker.com/p/the-bands-are-never-coming-back) over the years, but the reason is simple: Forming a band on your own is now a "larp." That is to say, in the same way that being indie is horribly inefficient, forming a band on one's own is also horribly inefficient, that you would only ever do so to fulfill some romantic fantasy in your head.
-
-Cutting through the noise to find serious bandmates is no different from cutting through the noise to get your music heard.
-That one of the perks of being signed to a label can't be the leverage it provides to help you form a band is a monumental waste of that label's leverage.
+For instance, suppose an indie label had the imagination to sign my band under a conditional agreement. With the assurance that we're more or less signed, I could convince dedicated musicians to join me, right? By rethinking who could, or would, form a band, then… we'd see a resurgence of them! Yet the indies can only "larp" the idea of having imagination…
 
 Luckily, BYCombo is here to do what the indie labels won't!
 
