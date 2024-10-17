@@ -55,7 +55,11 @@ To aim for the canon, a band must develop exceptional strengths. But this isn't 
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this isn't a *blessing*; it's a *curse*! Past artists put out *demos*— and to rival them means doing likewise.
+${'  ' || `
+// TODO: Review.
+`}
+
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this is a *curse*, not a *blessing*! Past artists put out *demos*— and to rival them means doing likewise.
 
 **Why a public registry?**
 
@@ -413,27 +417,25 @@ In a world now awash in content, the new Romantics long for a return to live sho
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
-Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I put together a band, and we played a show for one of them. It was… admittedly sloppy, given that my new bandmates were still learning their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
-
 ${'  ' || `
-// TODO: Review.
+// TODO: Review next two paragraphs.
 `}
 
-Thus I came to learn indie rock's founding belief: "Live shows tell the truth." And yet, if recordings capture what shows can't… then this is an *asset*, not a *liability*! Like cinema and theater, they're distinct mediums. So ignore those who insist that "real" artists start by playing shows! With BYCombo, you can make a stellar demo— with no concern for how you'll recreate it live.
+Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Victory! I put together a band, and we played a show for one of them. It was… admittedly sloppy, given that my new bandmates still hadn't fully learned their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
+
+Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if recordings capture what shows can't… then they're distinct mediums, like cinema and theater! So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can explore one of music's last frontiers, by making a stellar demo… with no concern for how you'll recreate it live.
 
 ### ${++sectionCounter}. Modern collaboration requires assembly
 
 ${'  ' || `
 // TODO: New section.
 
-Second paragraph, not confident in the current sentence to connect ideas.
-
-Mention frontier in last paragraph.
+Finish last paragraph, mention frontier.
 `}
 
-Demos allow artists to pursue visions they *can't* fulfill on their own, and one vision much in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop? Some ask why bands have [declined in popularity](https://www.honest-broker.com/p/the-bands-are-never-coming-back)… but it's really no mystery.
+Demos allow artists to pursue visions they *can't* fulfill on their own, and one vision much in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop? Some ask why bands have [declined in popularity](https://www.honest-broker.com/p/the-bands-are-never-coming-back), but it's really no mystery.
 
-For instance, suppose an indie label had the imagination to sign my band under a conditional agreement. With the assurance that we're more or less signed, I could convince dedicated musicians to join me, right? By rethinking who could, or would, form a band, then… we'd see a resurgence of them! Yet the indies can only "larp" the idea of having imagination…
+Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indies can't rethink anything…
 
 Luckily, BYCombo is here to do what the indie labels won't!
 
@@ -443,7 +445,11 @@ When is it a "larp"? Here's a test: Could it have been a fictional movie *instea
 
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet enabled artists to get themselves known. But it just *might* care how BYCombo allowed them to combine mediums in unprecedented ways. So come explore another last frontier in music— by having a dancer, illustrator, or puppeteer for a bandmate!
+${'  ' || `
+// TODO: Revise. Accommodate that this is the same last frontier mentioned in the previous section.
+`}
+
+Unlike what the indie camp believes, then, music history *won't* care how the Internet enabled artists to get themselves known. But it just *might* care how BYCombo allowed them to combine mediums in unprecedented ways. So come explore another last frontier in music— by having a dancer, illustrator, or puppeteer join your band!
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
