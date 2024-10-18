@@ -19,17 +19,9 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've sp
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 First, we raise *awareness*: Because "indie" equates to "good" for so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— the end result of "indiefication," by which artists put greater and greater effort into *getting* the job, rather than *deserving* it. If you keep reading, though, I'll set the record straight.
 
 From there, it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
-
-${'  ' || `
-// TODO: Review.
-`}
 
 **BYCombo's assembled bands will sacrifice serious chunks of lifetime to make demos worthy of the historical canon, which they'll show in a public registry to find partners from a counterculture of interdependence.**
 
@@ -62,10 +54,6 @@ With so many ways left to innovate in this space, there most certainly *are* can
 To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they need to *need* a business partner.
 
 **Why demos?**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this is a *curse*, not a *blessing*! Past artists put out *demos*— and to rival them means doing likewise.
 
@@ -424,10 +412,6 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 In a world now awash in content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every Romantic's go-to solution?!
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
-
-${'  ' || `
-// TODO: Review next two paragraphs.
-`}
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Victory! I put together a band, and we played a show for one of them. It was… admittedly sloppy, given that my new bandmates still hadn't fully learned their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
