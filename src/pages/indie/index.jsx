@@ -19,7 +19,11 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've sp
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
-First, we raise *awareness*: Because "indie" equates to "good" for so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— the end result of "indiefication," by which artists need to put more and more effort into *getting* the job, rather than *deserving* it. If you keep reading, though, I'll set the record straight.
+${'  ' || `
+// TODO: Review.
+`}
+
+First, we raise *awareness*: Because "indie" equates to "good" for so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— the end result of "indiefication," by which artists put greater and greater effort into *getting* the job, rather than *deserving* it. If you keep reading, though, I'll set the record straight.
 
 From there, it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -439,7 +443,7 @@ Finish last paragraph, mention frontier.
 
 Demos allow artists to pursue visions they *can't* fulfill on their own, and one vision much in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop? Some ask why bands have [declined in popularity](https://www.honest-broker.com/p/the-bands-are-never-coming-back), but it's really no mystery.
 
-Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indies can't rethink anything…
+Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indies can't rethink *anything*…
 
 Luckily, BYCombo is here to do what the indie labels won't!
 
