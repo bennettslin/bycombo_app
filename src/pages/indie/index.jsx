@@ -43,11 +43,13 @@ Indie rock encourages artists to retain their earnings— which, today, means ha
 
 **Why *assembled* bands?**
 
-Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own, in a decentralized free-for-all. But if we ditch this notion? Then rock has barely scratched the surface.
+${'  ' || `
+// TODO: Review.
+`}
 
-What if artists hoping to form history-making bands could flock to a single hub from across the world? What if a cartoonist could also join— and bands, in turn, could think to look for one? Or suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias?
+Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own. Ditch this notion, however… and we've barely scratched the surface! What if artists hoping to make history could flock to a single hub from across the world? What if a cartoonist could also join— and bands, in turn, could think to look for one?
 
-With so many ways left to innovate in this space, there most certainly *are* canonical bands still to come. All that's needed is a centralized nonprofit like BYCombo to help them come together.
+Or… suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized nonprofit like BYCombo to help them come together.
 
 **Why interdependence?**
 
@@ -429,7 +431,7 @@ Demos allow artists to pursue visions they *can't* fulfill on their own, and one
 
 Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indies can't rethink *anything*…
 
-Luckily, BYCombo is here to do what the indie labels won't!
+Still,
 
 ### ${++sectionCounter}. Progress values aesthetics, not logistics
 
