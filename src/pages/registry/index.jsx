@@ -14,10 +14,6 @@ const Component = () => (
             metaDescription: DESCRIPTION,
             body: [
                 `
-${'  ' || `
-// TODO: Review.
-`}
-
 To squeal or not? This is the well-known "prisoner's dilemma." Well, thanks to indie rock, today's artists face a similar decision: To hustle or not? We're all better off if *no one* hustles to get themselves known, of course. But once *any* artist hustles, they'll hog up all the attention. Which means *every* artist must now waste time and energy on the hustle— to the detriment of the arts.
 
 At BYCombo, we believe this "artist's dilemma" is the reason for the cultural stagnation of our times. And to solve it? A generation of artists must now martyr themselves by doubling down to make art for untold years, until you— as a business partner, discerning listener, or future historian— feel confident to give them a chance. Here's how:
