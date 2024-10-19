@@ -49,7 +49,7 @@ ${'  ' || `
 
 Has rock explored all the ways a band can come together? It might seem so— assuming they'll always form on their own. Ditch this notion, however… and we've barely scratched the surface! What if artists hoping to make history could flock to a single hub from across the world? What if a cartoonist could also join— and bands, in turn, could think to look for one?
 
-Or… suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized nonprofit like BYCombo to help them come together.
+Or— suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized nonprofit like BYCombo to help them come together.
 
 **Why interdependence?**
 
@@ -267,7 +267,11 @@ But… now I understood! If paid dues are worthless outside the one culture that
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
-Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never hustled to pay indie rock's dues myself.
+${'  ' || `
+// TODO: Review.
+`}
+
+Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands like yours surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never hustled to pay indie rock's dues myself.
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
@@ -427,11 +431,9 @@ ${'  ' || `
 Finish last paragraph, mention frontier.
 `}
 
-Demos allow artists to pursue visions they *can't* fulfill on their own, and one vision much in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop? Some ask why bands have [declined in popularity](https://www.honest-broker.com/p/the-bands-are-never-coming-back), but it's really no mystery.
+Demos allow artists to pursue visions they *can't* fulfill on their own, and one vision much in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop? Some ask why bands have [declined in popularity](https://www.honest-broker.com/p/the-bands-are-never-coming-back), but it's really no mystery!
 
 Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indies can't rethink *anything*…
-
-Still,
 
 ### ${++sectionCounter}. Progress values aesthetics, not logistics
 
