@@ -47,7 +47,11 @@ Has rock explored all the ways a band can come together? It sure seems so— ass
 
 Or— suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized nonprofit like BYCombo to help them come together.
 
-**Why interdependence?**
+${'  ' || `
+// TODO: Review.
+`}
+
+**Why interdependent partners?**
 
 To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they need to *need* a business partner.
 
@@ -417,31 +421,39 @@ To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once c
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Victory! I put together a band, and we played a show for one of them. It was… admittedly sloppy, given that my new bandmates still hadn't fully learned their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
-Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if recordings capture what shows can't… then they're distinct mediums, like cinema and theater! So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can explore one of music's last frontiers, by making a stellar demo… with no concern for how you'll recreate it live.
+${'  ' || `
+// TODO: Review.
+`}
+
+Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if recordings capture what shows can't… then they're distinct mediums, like cinema and theater! So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can explore one of music's next frontiers, by making a stellar demo… with no concern for how you'll recreate it live.
 
 ### ${++sectionCounter}. Modern collaboration requires assembly
 
 ${'  ' || `
-// TODO: New section.
-
-Finish last paragraph, mention frontier.
+// TODO: Review a few more times.
 `}
 
 Demos allow artists to pursue visions they *can't* fulfill on their own, and one vision much in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop? Some ask why bands have [declined in popularity](https://www.honest-broker.com/p/the-bands-are-never-coming-back), but it's really no mystery.
 
-Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indies can't rethink *anything*…
+Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. This wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them. Clearly, then, there's *another* frontier left to explore!
 
-### ${++sectionCounter}. Progress values aesthetics, not logistics
+Yet… the indies can't rethink *anything*. Fortunately, having spent half my life struggling to attract bandmates, I anticipated this modern need for bands to be assembled by others. So relax, and put all your effort into *deserving* the best bandmates… knowing that BYCombo will help you find them.
+
+### ${++sectionCounter}. Progress tracks aesthetics, not logistics
+
+${'  ' || `
+// TODO: Review title.
+`}
 
 When is it a "larp"? Here's a test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the real hero… the *app*?
 
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
 
 ${'  ' || `
-// TODO: Revise. Accommodate that this is the same last frontier mentioned in the previous section.
+// TODO: Review.
 `}
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet enabled artists to get themselves known. But it just *might* care how BYCombo allowed them to combine mediums in unprecedented ways. So come explore another last frontier in music— by having a dancer, illustrator, or puppeteer join your band!
+Unlike what the indie camp believes, then, music history *won't* care how the Internet enabled artists to get themselves known. But it just *might* care how band assembly allowed them to combine mediums in unprecedented ways. So come join BYCombo, and explore this next frontier by having a dancer, illustrator, or puppeteer for a bandmate!
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
