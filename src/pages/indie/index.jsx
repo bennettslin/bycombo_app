@@ -15,7 +15,11 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the further you get by hustling. By enabling *every* artist to hustle, then, the indies ensure that we hear the *best*. So if you hate it, well… what does that say about your works?"
+${'  ' || `
+// TODO: Review.
+`}
+
+Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the further you get by hustling. By encouraging *every* artist to hustle, then, the indies ensure that we hear the *best*. So if you hate it, well… what does that say about your works?"
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
@@ -218,6 +222,10 @@ The problem, then, is that indie rock's cultural libertarianism is a *partisan* 
 In game theory, the "stag hunt" is a game in which you and another player must decide, each on your own, whether to hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
 
 The [richest nations](https://web.archive.org/web/20210508/https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=Human%20society%20is,they%20trust%20me.) build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The reverse is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
+
+${'  ' || `
+// TODO: Revise.
+`}
 
 Indie artists work hard *not* to need a label, and will do so even [when signed](https://web.archive.org/web/20120706/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows what North Korea can one day become, the past proves that rock can be interdependent once again!
 
@@ -446,9 +454,9 @@ ${'  ' || `
 
 Demos allow artists to pursue visions they *can't* fulfill on their own, and one vision much in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop? Some ask why bands have [declined in popularity](https://www.honest-broker.com/p/the-bands-are-never-coming-back), but it's really no mystery.
 
-Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. This wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them. Clearly, then, there's *another* frontier left to explore!
+Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could now convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indies can't rethink *anything*…
 
-Yet… the indies can't rethink *anything*. Fortunately, having spent half my life struggling to attract bandmates, I anticipated this modern need for bands to be assembled by others. So relax, and put all your effort into *deserving* the best bandmates… knowing that BYCombo will help you find them.
+Luckily, having struggled to attract bandmates for half my life, I anticipated that the best artists would gradually prefer to be *assembled* into bands— and that this, in turn, could open up *another* frontier to explore! So relax, and put all your effort into *deserving* the best bandmates… knowing that BYCombo will then help you find them.
 
 ### ${++sectionCounter}. Progress tracks aesthetics, not logistics
 
@@ -457,10 +465,10 @@ When is it a "larp"? Here's a test: Could it have been a fictional movie *instea
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
 
 ${'  ' || `
-// TODO: Revise. "Band assembly" is weird. Be clear: "being assembled into bands," or something like that.
+// TODO: Review.
 `}
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet enabled artists to get themselves known. But it just *might* care how band assembly allowed them to combine mediums in unprecedented ways. So come join BYCombo, and explore this next frontier by having a dancer, illustrator, or puppeteer for a bandmate!
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to get themselves known. But it *might* care how BYCombo's practice of band assembly allowed them to combine mediums in unprecedented ways. So come explore this next frontier in music— by having a dancer, illustrator, or puppeteer join your band!
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
