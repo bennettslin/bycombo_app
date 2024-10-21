@@ -261,6 +261,25 @@ So instead, you build yourself up into what a future audience— or dating prosp
 
 But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 
+### ${++sectionCounter}. Welfare gets scrapped by past beneficiaries
+
+${'  ' || `
+// TODO: New section. Welfare.
+
+Research: Who's more conservative, Boomers or Gen X?
+
+After democratization? (Mention of indieocracy.) But before elitism? (Mention of legacy institutions.)
+
+Imagine if Boomers, who benefited from an expanded welfare state, decided they wouldn't pay it forward after all, and instead they'd tear it all down… and Gen X cheered.
+
+Yet Gen X artists, who benefited from legacy institutions of major labels, decided they wouldn't pay it forward after all, and instead they'd tear it all down… well, Millennials cheered.
+
+Why people hate paying it forward. Bring up [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp) here. Major labels, like governments, bet on the outsized earnings of a few to subsidize the rest. But everyone resents this. The successful assume they could've succeeded without help. The less successful resent not being given more help.
+https://usafacts.org/articles/who-pays-the-most-income-tax
+
+This is a different point, I think: Explain indieocracy? History is a top down affair. Be clear that decentralization and bottom up isn't about distribution, but decision-making. Use scraps from homogeneity, as well as salvation sections.
+`}
+
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture; it's just that, being a nobody, I needed others to help *me* first. Yet while everyone in indie rock is nice enough… no one would *help*.
