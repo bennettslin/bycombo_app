@@ -19,7 +19,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the further you get by hustling. By encouraging *every* artist to hustle, then, the indies ensure that we hear the *best*. So if you hate it, well… what does that say about your works?"
+Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the further you get by hustling. By empowering *every* artist to hustle, then, the indies ensure that we hear the *best*. So if you hate it, well… what does that say about your works?"
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
@@ -265,14 +265,14 @@ So instead, you build yourself up into what a future audience— or dating prosp
 
 But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 
-### ${++sectionCounter}. Welfare gets scrapped by past beneficiaries
+### ${++sectionCounter}. Welfare is resented by past beneficiaries
 
 ${'  ' || `
 // TODO: New section. Welfare.
 
-Research: Who's more conservative, Boomers or Gen X?
+After democratization? (Mention of indieocracy.) Before paid dues? (Theme of widening vicious circle.) But before elitism? (Mention of legacy institutions.)
 
-After democratization? (Mention of indieocracy.) But before elitism? (Mention of legacy institutions.)
+Research: Who's more conservative, Boomers or Gen X?
 
 Imagine if Boomers, who benefited from an expanded welfare state, decided they wouldn't pay it forward after all, and instead they'd tear it all down… and Gen X cheered.
 
@@ -454,9 +454,9 @@ ${'  ' || `
 
 Demos allow artists to pursue visions they *can't* fulfill on their own, and one vision much in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop? Some ask why bands have [declined in popularity](https://www.honest-broker.com/p/the-bands-are-never-coming-back), but it's really no mystery.
 
-Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could now convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indies can't rethink *anything*…
+Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indie camp can't rethink *anything*…
 
-Luckily, having struggled for half my life to attract bandmates, I anticipated that the best artists would gradually prefer to be *assembled* into bands— and that this, in turn, could open up *another* frontier to explore! So relax, and put all your effort into *deserving* the most dedicated bandmates… knowing that BYCombo will then help you find them.
+Luckily, having struggled for half my life to attract bandmates, I anticipated that the best artists would gradually prefer to be *assembled* into bands— and that this, in turn, could open up *another* frontier to explore! So relax, and put all your effort into *deserving* the most dedicated bandmates… knowing that BYCombo is here to help you find them.
 
 ### ${++sectionCounter}. Progress tracks aesthetics, not logistics
 
