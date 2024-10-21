@@ -192,10 +192,10 @@ What confused me is that I'd explicitly set out to make a [work of art](https://
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
 ${'  ' || `
-// TODO: Revise. Maybe switch order.
+// TODO: Review.
 `}
 
-Which explains why so many canonical works were backed by those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in their respective genres: They *didn't* know what the public wanted, and thus *weren't* led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
+As a result, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in an adjacent genre who end up backing its most canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
