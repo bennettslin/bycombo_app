@@ -457,10 +457,10 @@ When is it a "larp"? Here's a test: Could it have been a fictional movie *instea
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Keep working on.
 `}
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to get themselves known. But it *might* care how BYCombo's practice of band assembly allowed them to combine mediums in unprecedented ways. So come explore this next frontier in music— by having a dancer, illustrator, or puppeteer for a bandmate!
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But it *might* care that being assembled into bands allowed them to combine mediums in unprecedented ways. So come join BYCombo, and explore this next frontier in music— by having a dancer, illustrator, or puppeteer for a bandmate!
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
