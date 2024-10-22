@@ -19,7 +19,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the further you get by hustling. By encouraging *every* artist to hustle, then, the indies ensure that we hear the *best*. So if you hate it, well… what does that say about your works?"
+Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the further you get by hustling. By expecting *every* artist to hustle, then, the indies ensure that we hear the *best*. So if you hate it, well… what does that say about your works?"
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
@@ -195,7 +195,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-As a result, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in an adjacent genre who end up backing its most canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
+Which is why it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its most canonical works: They *don't* know what the people want, and thus *can't* be led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -227,7 +227,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Indie artists work hard *not* to need a label, and will do so even [when signed](https://web.archive.org/web/20120706/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might still flourish, the past proves that rock can be interdependent once again!
+Indie artists work hard *not* to need a label, and will do so even [when signed](https://web.archive.org/web/20120706/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day flourish, the past proves that rock can be interdependent once again!
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until business partners finally reciprocate the courage to team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
@@ -468,7 +468,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to get themselves known. But it *might* care how BYCombo's practice of band assembly allowed them to combine mediums in unprecedented ways. So come explore this next frontier in music— by having a dancer, illustrator, or puppeteer join your band!
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to get themselves known. But it *might* care how BYCombo's practice of band assembly allowed them to combine mediums in unprecedented ways. So come explore this next frontier in music— by having a dancer, illustrator, or puppeteer for a bandmate!
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
