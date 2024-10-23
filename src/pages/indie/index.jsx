@@ -262,7 +262,7 @@ But why would the next generation side with past tastemakers who *didn't* care w
 ${'  ' || `
 // TODO: New section. Welfare.
 
-After democratization? (Mention of indieocracy.) Before paid dues? (Theme of widening vicious circle.) But before elitism? (Mention of legacy institutions.)
+After democratization? (Mention of indieocracy.) But before elitism? (Mention of legacy institutions.) Right before paid dues? (Theme of widening vicious circle.)
 
 Research: Who's more conservative, Boomers or Gen X?
 
