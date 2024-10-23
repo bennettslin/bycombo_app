@@ -19,7 +19,11 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've sp
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
-First, we raise *awareness*: Because "indie" equates to "good" for so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— the end result of "indiefication," by which artists put greater and greater effort into *getting* the job, rather than *deserving* it. If you keep reading, though, I'll set the record straight.
+${'  ' || `
+// TODO: Review.
+`}
+
+First, we raise *awareness*: Because "indie" equates to "good" for so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— the end result of "indiefication," by which artists put greater and greater effort into *getting* the job, rather than simply *deserving* it. If you keep reading, though, I'll set the record straight.
 
 From there, it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -57,7 +61,11 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a public registry?**
 
-A stellar demo can only be found by sifting through hundreds— so the indie tastemakers rarely bother, since *any* artist they pick will be treated as an underdog deserving of charitable support. A history-making band's best bet, then, is to win over elitist gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
+${'  ' || `
+// TODO: Review.
+`}
+
+A stellar demo can only be found by sifting through hundreds— so the indie tastemakers rarely bother, since *any* artist they pick will be treated as an underdog entitled to charitable support. A history-making band's best bet, then, is to win over elitist gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
 
@@ -249,7 +257,11 @@ From there, we admit that the silent majority only want the *best* artists— an
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all tastemakers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-In the past, the major labels did that: Their talent scouts would sign any artist on the strength of a stellar demo— even one like Nick, with no fanbase. But indie rock told artists to get themselves known, whether or not they deserve to be. Because of this, the notion is now vulgar that those who don't hustle might simply be *made* known… by deserving to be.
+${'  ' || `
+// TODO: Review.
+`}
+
+In the past, the major labels did that: Their talent scouts would sign any artist on the strength of a stellar demo— even one like Nick, with no fanbase. But indie rock told artists to get themselves known, whether or not they deserve to be. Because of this, the notion is now vulgar that those who don't hustle could ever be *made* known… simply by deserving to be.
 
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
 
@@ -444,7 +456,11 @@ Demos allow artists to pursue visions they *can't* fulfill on their own, and one
 
 Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indies can't rethink *anything*…
 
-Luckily, having struggled for half my life to attract bandmates, I anticipated that the best artists would gradually prefer to be *assembled* into bands— and that this, in turn, could open up *another* frontier to explore! So relax, and put all your effort into *deserving* the most dedicated bandmates… knowing that BYCombo is here to help you find them.
+${'  ' || `
+// TODO: Review.
+`}
+
+Luckily, having struggled for half my life to attract bandmates, I anticipated that the best artists would gradually prefer to be *assembled* into bands— and that this, in turn, could open up *another* frontier to explore! So relax, and put all your effort into simply *deserving* the most dedicated bandmates… safe in the knowledge that BYCombo will then help you find them.
 
 ### ${++sectionCounter}. Progress tracks aesthetics, not logistics
 
