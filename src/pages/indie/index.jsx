@@ -19,13 +19,13 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've sp
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 First, we raise *awareness*: Because "indie" equates to "good" for so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is— the end result of "indiefication," by which artists put greater and greater effort into *getting* the job, rather than simply *deserving* it. If you keep reading, though, I'll set the record straight.
 
 From there, it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
+
+${'  ' || `
+// TODO: Revise. Amnesty program.
+`}
 
 **BYCombo's assembled bands will sacrifice serious chunks of lifetime to make demos worthy of the historical canon, which they'll show in a public registry to find partners from a counterculture of interdependence.**
 
@@ -59,13 +59,13 @@ To aim for the canon, a band must develop exceptional strengths. But this isn't 
 
 A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this is a *curse*, not a *blessing*! Past artists put out *demos*— and to rival them means doing likewise.
 
-**Why a public registry?**
-
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Amnesty program.
 `}
 
-A stellar demo can only be found by sifting through hundreds— so the indie tastemakers rarely bother, since *any* artist they pick will be treated as an underdog entitled to charitable support. A history-making band's best bet, then, is to win over elitist gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
+**Why a public registry?**
+
+A stellar demo can only be found by sifting through hundreds— so the indie tastemakers rarely bother, since *any* artist they pick will be treated as an underdog deserving of charitable support. A history-making band's best bet, then, is to win over elitist gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
 
@@ -195,10 +195,6 @@ What confused me is that I'd explicitly set out to make a [work of art](https://
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
@@ -262,10 +258,6 @@ From there, we admit that the silent majority only want the *best* artists— an
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all tastemakers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 In the past, the major labels did that: Their talent scouts would sign any artist on the strength of a stellar demo— even one like Nick, with no fanbase. But indie rock told artists to get themselves known, whether or not they deserve to be. Because of this, the notion is now vulgar that those who don't hustle could ever be *made* known… simply by deserving to be.
 
@@ -462,10 +454,6 @@ Demos allow artists to pursue visions they *can't* fulfill on their own, and one
 
 Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indies can't rethink *anything*…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Luckily, having struggled for half my life to attract bandmates, I anticipated that the best artists would gradually prefer to be *assembled* into bands— and that this, in turn, could open up *another* frontier to explore! So relax, and put all your effort into simply *deserving* the most dedicated bandmates… safe in the knowledge that BYCombo will then help you find them.
 
 ### ${++sectionCounter}. Progress tracks aesthetics, not logistics
@@ -504,6 +492,12 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 
 Well, music today requires a similarly convoluted explanation, doesn't it? After all, "indiefication" is widely thought to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
+${'  ' || `
+// TODO: Add new paragraph.
+
+The "indiefication" of the arts has created both a "[prisoner's dilemma](/indie#democratization-causes-noise-pollution)" and a [vicious circle](/indie#paid-dues-shrivel-the-noblest-spirits). A prisoner's dilemma— in that any artist who redirects 5% of their efforts toward *getting* the job, rather than simply *deserving* it, will then force others to do the same. And, a vicious circle— in that any artist who now redirects *10%* of their efforts… well, you get the picture.
+`}
+
 But let's swap "Sun" and "Earth" in this model: What if indiefication… actually makes art… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this much simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
@@ -515,10 +509,10 @@ It's because we only pine for past artists who self-sacrificed to advance the ar
 Yet self-empowerment comes with its own set of problems. For one, it's just [power-seeking](https://web.archive.org/web/20200127/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [self-serving](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it ensures that indie rock's structural rules, which promise fair compensation, can *never* be broken.
 
 ${'  ' || `
-// TODO: Revise. Mention amnesty here. "We *must* give amnesty to those who self-sacrifice…"
+// TODO: Review.
 `}
 
-If rock is to be saved, then, we must *stop* silencing bands who self-sacrifice for art's sake. Yes, by needing business partners, they leave themselves open to exploitation— and by siding with elitist gatekeepers, they incur the wrath of *middling* artists. But once the art form stagnates, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
+If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they leave themselves open to exploitation— and by siding with elitist gatekeepers, they incur the wrath of *middling* artists. But once the art form stagnates, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
 `,

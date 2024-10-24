@@ -12,6 +12,10 @@ const Component = () => (
             metaTitle: TITLE,
             metaDescription: DESCRIPTION,
             body: `
+${'  ' || `
+// TODO: Revise. Amnesty program.
+`}
+
 As an entrepreneur, would you love to partner with today's artists— if only they didn't waste so much time and energy on the *hustle*? The Beatles relied on managers from [day one](https://en.wikipedia.org/wiki/Allan_Williams), allowing them to focus entirely on the *craft*. And if history's greatest rock band was a paragon of *inter*-dependence… then how good can any *indie*-pendent artist ever be?
 
 Well, there's good news! The artists trying to make the best art today *don't* wish to be indie; they *do* [want others](/indie#disintermediation-is-a-middlemans-dream) to handle the business side of things. They just haven't had a way to earn your confidence… until now. Because BYCombo lets entrepreneurs like you partner with history-making bands once more! Here's how:

@@ -11,6 +11,10 @@ const Component = () => (
             metaTitle: TITLE,
             metaDescription: DESCRIPTION,
             body: `
+${'  ' || `
+// TODO: Revise. Amnesty program.
+`}
+
 **As a nonprofit, BYCombo is here to bring forth this century's historically canonical rock bands! To do so, we'll assemble each band ourselves, and then expose them to interdependent partners.**
 
 Of course, *indie*-pendence is the dominant thinking in rock today. So why is *inter*-dependence needed at all? Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! Let me explain…
