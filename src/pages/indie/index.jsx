@@ -241,9 +241,9 @@ To "democratize" Twitter, Elon Musk made the blue checkmark available to all pai
 
 But this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone can fully invest in the signal itself— rather than in the worth being verified!
 
-You see, pollution is an example of the more famous "prisoner's dilemma" in game theory, where each player must decide: To squeal or not? Well, thanks to indie rock, today's artists face a similar decision: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up the attention. So now, *every* artist must waste time and energy on the hustle!
+You see, pollution is an example of the well-known "prisoner's dilemma," in which each player must decide: To squeal or not? Well, thanks to indie rock, today's artists face a similar decision: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up the attention. So now, *every* artist must waste time and energy on the hustle!
 
-To complicate matters, the prisoner's dilemma is a collective action problem: Since it's caused by individuals acting in their own interest, the solution *has* to come from the top down, through centralized efforts. But under the indie camp's watch, change can *only* take place from the bottom up— which means they'll never clean up this mess they've created…
+To complicate matters, the prisoner's dilemma is a collective action problem: Since it's caused by individuals acting in their own interest, the solution *has* to come from the top down, through centralized efforts. But under the indie camp's watch, change can *only* take place from the bottom up. Which means they'll never clean up this mess they've created…
 
 So now, instead of democracy, we're all living under "indieocracy"— or, rule by those who hustle to get themselves known. But what if *your* hope all along was to be *made* known, by the elites? Then come verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
 

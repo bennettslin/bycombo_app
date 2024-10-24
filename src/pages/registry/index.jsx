@@ -18,7 +18,11 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-The "indiefication" of the arts has created both a "[prisoner's dilemma](/indie#democratization-causes-noise-pollution)" and a [vicious circle](/indie#paid-dues-shrivel-the-noblest-spirits)— a prisoner's dilemma, in that any artist who redirects 5% of their effort toward *getting* the job, away from simply *deserving* it, will then force all others to do the same— and a vicious circle, in that any artist who now redirects *10%*… well, you get the picture.
+The "indiefication" of the arts has created both a "[prisoner's dilemma](/indie#democratization-causes-noise-pollution)" and a [vicious circle](/indie#paid-dues-shrivel-the-noblest-spirits). A prisoner's dilemma— in that any artist who redirects 5% of their effort toward *getting* the job, away from simply *deserving* it, will then force all others to do the same. And, a vicious circle— in that any artist who now redirects *10%* of their effort… well, you get the picture.
+
+${'  ' || `
+// TODO: Revise. Mention accepting obscurity and granting amnesty.
+`}
 
 At BYCombo, we believe that indiefication is the reason for the cultural stagnation of our times. And to solve it? A generation of artists must now martyr themselves by doubling down to make art for untold years, until you— as a business partner, discerning listener, or future historian— feel confident enough to give them a chance. Here's how:
 
