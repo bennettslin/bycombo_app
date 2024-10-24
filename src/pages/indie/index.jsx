@@ -230,16 +230,16 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 ### ${++sectionCounter}. Democratization causes noise pollution
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review a few more times. In third paragraph, democratization or indiefication?
 `}
 
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that lower the barriers to entry.
 
-But this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone can fully invest in the signal itself— rather than in the worth being verified!
+But… this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone can fully invest in the signal itself— rather than in the worth being verified!
 
-You see, pollution is a good example of the famous "prisoner's dilemma," in which each player must decide: To squeal or not? Well, thanks to indie rock, today's artists face a similar decision: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up the attention. So now, *every* artist must waste time and energy on the hustle!
+You see, pollution is an example of the well-known "prisoner's dilemma," in which each player must decide: To squeal or not? Similarly, democratization requires each of us to decide: To hustle or not? We're all better off if *none* of us hustle, of course. But once *anyone* does, they'll hog up all the attention. So now, *everyone* must waste time and energy on the hustle!
 
-To complicate matters, the prisoner's dilemma is a collective action problem: Since it's caused by individuals acting in their own interest, the solution *has* to come from the top down, through centralized efforts. But under the indie camp's watch, change can *only* take place from the bottom up. Which means they'll never clean up this mess they've created…
+To complicate matters, the prisoner's dilemma is a collective action problem: Since it's caused by each of us acting in our own interest, the solution *has* to come from the top down, through centralized coordination. But under the indie camp's watch, change can *only* take place from the bottom up. Which means they'll never clean up this mess they've created…
 
 So now, instead of democracy, we're all living under "indieocracy"— or, rule by those who hustle to get themselves known. But what if *your* hope all along was to be *made* known, by the elites? Then come verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
 
@@ -266,25 +266,6 @@ Let's imagine, though, that you *refuse* to hustle; you've tried it before, and 
 So instead, you build yourself up into what a future audience— or dating prospect!— *would* want you to be, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet in my experience… the indie tastemakers can't sympathize. They're loyal to the hustlers— having hustled to get where they are themselves!
 
 But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
-
-### ${++sectionCounter}. Welfare is resented by past beneficiaries
-
-${'  ' || `
-// TODO: New section. Welfare.
-
-After democratization? (Mention of indieocracy.) But before elitism? (Mention of legacy institutions.) Right before paid dues? (Theme of widening vicious circle.)
-
-Research: Who's more conservative, Boomers or Gen X?
-
-Imagine if Boomers, who benefited from an expanded welfare state, decided they wouldn't pay it forward after all, and instead they'd tear it all down… and Gen X cheered.
-
-Yet Gen X artists, who benefited from legacy institutions of major labels, decided they wouldn't pay it forward after all, and instead they'd tear it all down… well, Millennials cheered.
-
-Why people hate paying it forward. Bring up [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp) here. Major labels, like governments, bet on the outsized earnings of a few to subsidize the rest. But everyone resents this. The successful assume they could've succeeded without help. The less successful resent not being given more help.
-https://usafacts.org/articles/who-pays-the-most-income-tax
-
-This is a different point, I think: Explain indieocracy? History is a top down affair. Be clear that decentralization and bottom up isn't about distribution, but decision-making. Use scraps from homogeneity, as well as salvation sections.
-`}
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
@@ -466,7 +447,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But it just *might* care how BYCombo allowed them to combine mediums in unprecedented ways, by assembling them into bands. So come explore this next frontier in music— by having a dancer, illustrator, or puppeteer for a bandmate!
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if BYCombo assembles them into bands, allowing them to combine mediums in unprecedented ways? In that case… it just *might* care! So come explore this next frontier in music— by having a dancer, illustrator, or puppeteer for a bandmate!
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
@@ -490,7 +471,11 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became circles. This was a much [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
-Well, music today requires a similarly convoluted explanation, doesn't it? After all, "indiefication" is widely thought to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
+${'  ' || `
+// TODO: Revise. Needs to be about the assumption that "indie" equates to "good."
+`}
+
+Well, music today requires a similarly convoluted explanation, doesn't it? After all, indie artists are widely thought to make the boldest art… yet *none* can rival the alternative bands signed by major labels in the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
 ${'  ' || `
 // TODO: Add new paragraph.
