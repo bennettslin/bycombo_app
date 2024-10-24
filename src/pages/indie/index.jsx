@@ -237,15 +237,15 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
+To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that lower the barriers to entry.
 
 But this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone can fully invest in the signal itself— rather than in the worth being verified!
 
-You see, pollution is an example of the well-known "prisoner's dilemma," in which each player must decide: To squeal or not? Well, thanks to indie rock, today's artists face a similar decision: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up the attention. So now, *every* artist must waste time and energy on the hustle!
+You see, pollution is a good example of the famous "prisoner's dilemma," in which each player must decide: To squeal or not? Well, thanks to indie rock, today's artists face a similar decision: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up the attention. So now, *every* artist must waste time and energy on the hustle!
 
 To complicate matters, the prisoner's dilemma is a collective action problem: Since it's caused by individuals acting in their own interest, the solution *has* to come from the top down, through centralized efforts. But under the indie camp's watch, change can *only* take place from the bottom up. Which means they'll never clean up this mess they've created…
 
-So now, instead of democracy, we're all living under "indieocracy"— or, rule by those who hustle to get themselves known. But what if *your* hope all along was to be *made* known, by the elites? Then come verify your worth through BYCombo— by sacrificing a serious chunk of lifetime!
+So now, instead of democracy, we're all living under "indieocracy"— or, rule by those who hustle to get themselves known. But what if *your* hope all along was to be *made* known, by the elites? Then come verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
@@ -513,6 +513,10 @@ But let's swap "Sun" and "Earth" in this model: What if indiefication… actuall
 It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As a result, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a sign of being exploited.
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [power-seeking](https://web.archive.org/web/20200127/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [self-serving](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it ensures that indie rock's structural rules, which promise fair compensation, can *never* be broken.
+
+${'  ' || `
+// TODO: Revise. Mention amnesty here. "We *must* give amnesty to those who self-sacrifice…"
+`}
 
 If rock is to be saved, then, we must *stop* silencing bands who self-sacrifice for art's sake. Yes, by needing business partners, they leave themselves open to exploitation— and by siding with elitist gatekeepers, they incur the wrath of *middling* artists. But once the art form stagnates, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
 
