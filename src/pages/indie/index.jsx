@@ -478,7 +478,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But it *might* care that being assembled into bands allowed them to combine mediums in unprecedented ways. So come join BYCombo, and explore this next frontier in music— by having a dancer, illustrator, or puppeteer for a bandmate!
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But it just *might* care how BYCombo allowed them to combine mediums in unprecedented ways, by assembling them into bands. So come explore this next frontier in music— by having a dancer, illustrator, or puppeteer for a bandmate!
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
