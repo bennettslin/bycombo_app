@@ -237,7 +237,7 @@ To "democratize" Twitter, Elon Musk made the blue checkmark available to all pai
 
 But… this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Worse, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone can fully invest in the signal itself— rather than in the worth being verified!
 
-You see, pollution is an example of the well-known "prisoner's dilemma," in which each player must decide: To squeal or not? Similarly, democratization requires each of us to decide: To hustle or not? We're all better off if *none* of us hustle, of course. But once *anyone* does, they'll hog up all the attention. So now, *everyone* must waste time and energy on the hustle!
+You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each of us to decide: To hustle or not? We're all better off if *none* of us hustle, of course. But once *anyone* does, they'll hog up all the attention. So now, *everyone* must waste time and energy on the hustle!
 
 To complicate matters, the prisoner's dilemma is a collective action problem: Since it's caused by each of us acting in our own interest, the solution *has* to come from the top down, through centralized coordination. But under the indie camp's watch, change can *only* take place from the bottom up. Which means they'll never clean up this mess they've created…
 
@@ -469,21 +469,17 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
-To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But once Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became circles. This was a much [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
-
 ${'  ' || `
-// TODO: Revise. Needs to be about the assumption that "indie" equates to "good."
+// TODO: Review a few more times.
 `}
 
-Well, music today requires a similarly convoluted explanation, doesn't it? After all, indie artists are widely thought to make the boldest art… yet *none* can rival the alternative bands signed by major labels in the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
+To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But after Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became circles. This was a much [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
-${'  ' || `
-// TODO: Add new paragraph.
+Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely thought to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
-The "indiefication" of the arts has created both a "[prisoner's dilemma](/indie#democratization-causes-noise-pollution)" and a [vicious circle](/indie#paid-dues-shrivel-the-noblest-spirits). A prisoner's dilemma— in that any artist who redirects 5% of their efforts toward *getting* the job, rather than simply *deserving* it, will then force others to do the same. And, a vicious circle— in that any artist who now redirects *10%* of their efforts… well, you get the picture.
-`}
+So let's ditch old assumptions, and draw from reason. First, "indiefication" creates a "prisoner's dilemma," right? Once an artist redirects 5% of their efforts toward *getting* the job, rather than simply *deserving* it, all others are forced to do the same. This then causes a race to the bottom, as any artist who now redirects *10%* of their efforts… and then *15%*… you get the picture.
 
-But let's swap "Sun" and "Earth" in this model: What if indiefication… actually makes art… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this much simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
+All of which is to say, shouldn't we expect indiefication to make art… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this much simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
