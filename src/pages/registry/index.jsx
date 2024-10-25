@@ -15,7 +15,7 @@ const Component = () => (
             body: [
                 `
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise. Make further mention of amnesty program.
 `}
 
 At BYCombo, we believe that "[indiefication](/indie#the-simplest-explanation-is-likely-correct)" has caused the arts to decline. And to solve it? The best artists must now martyr themselves by doubling down to make art for untold years, all the while remaining unknown, until you— as a business partner, discerning listener, or future historian— feel confident to give them amnesty. Here's how:

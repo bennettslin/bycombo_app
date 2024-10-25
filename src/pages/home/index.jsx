@@ -12,7 +12,7 @@ const Component = () => (
             metaDescription: DESCRIPTION,
             body: `
 ${'  ' || `
-// TODO: Revise. Amnesty program.
+// TODO: Revise. Statement of amnesty program.
 `}
 
 **As a nonprofit, BYCombo is here to bring forth this century's historically canonical rock bands! To do so, we'll assemble each band ourselves, and then expose them to interdependent partners.**
@@ -68,6 +68,10 @@ Worst of all, if the major labels are "bad guys," then this makes the indies "go
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging an artist by the size of their fanbase, its tastemakers end up favoring *content*— namely, art that's optimized to gain fans in the *present*, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
 
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! And this is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that entrepreneurs will try to disrupt the rock market.
+
+${'  ' || `
+// TODO: Revise. Explain amnesty program.
+`}
 
 These "Dr. Dres of rock" would love to partner with bands who promise to make the best art— but how? Indie rock's low barriers to entry have led to a hopelessly crowded field. The next step, then, is for a counterculture to arise in which [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) enforce a steep *cost* of entry. And here's where BYCombo comes in!
 

@@ -24,7 +24,7 @@ First, we raise *awareness*: Because "indie" equates to "good" for so many, few 
 From there, it's an *action* problem: Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 ${'  ' || `
-// TODO: Revise. Amnesty program.
+// TODO: Revise. Statement of amnesty program.
 `}
 
 **BYCombo's assembled bands will sacrifice serious chunks of lifetime to make demos worthy of the historical canon, which they'll show in a public registry to find partners from a counterculture of interdependence.**
@@ -32,6 +32,10 @@ ${'  ' || `
 Okay, that's a mouthful! Let's break it down…
 
 ### The revolution will *not* be decentralized
+
+${'  ' || `
+// TODO: Replace with need for amnesty.
+`}
 
 **Why a counterculture?**
 
