@@ -459,7 +459,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But let's say BYCombo assembles them into bands, allowing them to combine mediums in unprecedented ways. In that case? It just *might* care. So come explore this next frontier in music— by having a dancer, illustrator, or puppeteer for a bandmate!
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if BYCombo assembles them into bands, allowing them to combine mediums in unprecedented ways? In that case, it just *might* care. So come explore this next frontier in music— by having a dancer, illustrator, or puppeteer for a bandmate!
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
@@ -482,16 +482,16 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But after Copernicus proposed that the planets actually revolve around the *Sun*, these orbits became circles. This was a much [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
+To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these orbits into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
-Well, music today requires a similarly convoluted explanation, doesn't it? After all, the indie way is widely thought to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
+Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is widely thought to deliver the best art… yet *no* indie artist can rival what the major labels gave us into the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
-So let's ditch old assumptions, and draw from reason. First, "indiefication" creates a "prisoner's dilemma," right? Once an artist redirects 5% of their efforts toward *getting* the job, rather than simply *deserving* it, all others are forced to do the same. This then causes a race to the bottom, as any artist who now redirects *10%* of their efforts… and then *15%*… you get the picture.
+So let's ditch old assumptions, and draw from reason. First, "indiefication" creates a "prisoner's dilemma," right? Once any artist redirects 5% of their efforts toward *getting* the job, rather than simply *deserving* it, all others are forced to do the same. But this causes a race to the bottom, as anyone else can now redirect *10%* of their efforts… and, well, you get the picture.
 
-All of which is to say, shouldn't we expect indiefication to make art… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this much simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
+With this being the case, shouldn't we expect indiefication to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
