@@ -67,7 +67,11 @@ Worst of all, if the major labels are "bad guys," then this makes the indies "go
 
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging an artist by the size of their fanbase, its tastemakers end up favoring *content*— namely, art that's optimized to gain fans in the *present*, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
 
-Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! And this is the first step to reviving interdependence on our own, since it's only once the *youth* are discontent that entrepreneurs will try to disrupt the rock market.
+${'  ' || `
+// TODO: Review.
+`}
+
+Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z mostly agrees! Which is the first step to reviving interdependence ourselves, since it's only once the *youth* are discontent that budding entrepreneurs and discerning curators will try to disrupt the rock market.
 
 ${'  ' || `
 // TODO: Revise. Explain amnesty program.

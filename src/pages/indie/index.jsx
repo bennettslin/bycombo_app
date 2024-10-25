@@ -79,7 +79,11 @@ A stellar demo can only be found by sifting through hundreds— so the indie tas
 
 Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature. To save rock, then, a centralized nonprofit like BYCombo must now step up to enforce a steep *cost* of entry.
 
-This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you truly have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice that can earn the trust of business partners, discerning listeners, and future historians alike.
+${'  ' || `
+// TODO: Review.
+`}
+
+This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you truly have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to earn the trust of budding entrepreneurs, discerning curators, and future historians alike.
 
 **And finally… how has indie rock made music worse?**
 
@@ -373,7 +377,11 @@ In a world where outsiders try much harder, to be much better, both indie rock a
 
 This… *can't* be a viable way to make history. Because, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you just *aren't* whom the public wants to root for? Then let BYCombo throw you a lifeline— by bringing back the rockism of [Sister Rosetta](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you just *aren't* whom the people want to root for? Then let BYCombo throw you a lifeline— by bringing back the rockism of [Sister Rosetta](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
