@@ -18,7 +18,7 @@ ${'  ' || `
 // TODO: Review whole page.
 `}
 
-At BYCombo, we believe that "[indiefication](/indie#the-simplest-explanation-is-likely-correct)" has caused the arts to decline. And to solve it? The best artists must now martyr themselves by doubling down to make art for untold years, all the while remaining unknown to the public, until you— as a budding entrepreneur, discerning curator, or future historian— feel confident to give them amnesty. Here's how:
+At BYCombo, we believe that "[indiefication](/indie#the-simplest-explanation-is-likely-correct)" has caused the arts to decline. And to solve it? The best artists must now martyr themselves by doubling down to make art for untold years, all the while remaining unknown to the public, until you— as a budding entrepreneur, discerning curator, or future historian— feel confident to grant them amnesty. Here's how:
 
 **Every band in our public registry has pledged *not* to get themselves known. Instead, they've each sacrificed a serious chunk of lifetime— 25,000 hours, or twelve full-time years— to make a demo that advances the art form.**
 

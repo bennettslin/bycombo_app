@@ -15,18 +15,22 @@ const Component = () => (
 As an artist, do you sense that the indie camp has it *backward*? Why do they force you to waste so much effort on hustling to get yourself known— all in the name of self-empowerment? Back when rock was interdependent, being empowered just came for free, once you'd built up enough talents.
 
 ${'  ' || `
-// TODO: Revise. Explain amnesty program.
+// TODO: Review next two paragraphs.
 `}
 
-Furthermore, the only measure of empowerment is the size of an artist's fanbase. But the easiest way to gain fans here and now is to create *content*— which has no lasting value for *future* audiences. So if *you* double down to make art that lasts… you'll end up the biggest loser. Fortunately, BYCombo lets you aim for the historical canon once more! Here's how:
+Furthermore, the only measure of empowerment is the size of an artist's fanbase. But the easiest way to gain fans here and now is to create *content*— which has no lasting value for *future* audiences. So instead, you double down to make art that lasts… only to end up the biggest loser. Thankfully, BYCombo lets you aim for the historical canon once more! Here's how:
 
-**To join BYCombo as an artist, you must pledge *not* to get yourself known. Instead, your band will be *made* known by business partners, whose trust you'll earn by sacrificing a serious chunk of lifetime.**
+**To join BYCombo as an artist, you must pledge *not* to get yourself known. Instead, your band will be *made* known by partners, whose trust you'll earn by sacrificing a serious chunk of lifetime to advance the art form.**
 
 ### Who we're looking for
 
 Are you eager to make history by advancing the art form? Are you ready to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project— which likely means quitting social media?
 
-Most importantly, are you willing to defy indie rock's tastemakers— its labels, pundits, and critics— even as they have the power to shut you out forever? That is to say, do you understand that, after sacrificing a serious chunk of lifetime, you may be left with nothing but the work you've done, the talents you've built, and the friendships you've made?
+${'  ' || `
+// TODO: Review.
+`}
+
+Most importantly, are you willing to defy indie rock's tastemakers— its labels, pundits, and critics— even as they have the power to shut you out forever? That is to say, do you understand that, even after sacrificing a serious chunk of lifetime, you might *still* be denied amnesty— leaving you with nothing but the work you've done, the talents you've built, and the friends you've made?
 
 If so, then come be part of the interdependence revolution! We're looking for those who are reasonably skilled in one or more of the following roles:
 
@@ -42,7 +46,11 @@ Once everyone agrees to form a band, those who can relocate to the same city wil
 
 ### A lifetime of band projects
 
-BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. Once your demo is complete, we'll expose you to business partners by adding it to our public registry and including it in our latest newsletter. As an alum, you'll also have a chance to pay it forward and work with the next cohort.
+${'  ' || `
+// TODO: Review.
+`}
+
+BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. Once your demo is complete, we'll expose you to potential partners by adding it to our public registry and including it in our latest newsletter. As an alum, you'll also have a chance to pay it forward and work with the next cohort.
 
 And for your next band project, we want you to set the bar even higher! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another BYCombo band if that's a better fit for you. Remember, cross-pollination benefits everyone, and every BYCombo band is family!
 
