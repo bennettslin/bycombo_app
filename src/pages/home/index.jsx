@@ -15,7 +15,7 @@ ${'  ' || `
 // TODO: Review next two paragraphs.
 `}
 
-**BYCombo is a nonprofit amnesty program for artists who take our pledge to advance the art form. Our approach is to assemble them into rock bands, and then expose them to interdependent-minded partners.**
+**BYCombo is a nonprofit amnesty program for artists who follow our pledge to advance the art form. Our approach is to assemble these artists into rock bands, and then expose them to interdependent-minded partners.**
 
 "Wait, amnesty is for those who break the rules. And isn't every artist's ideal to be *indie*-pendent? So why is *inter*-dependence needed?" Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! Let me explain…
 
@@ -77,7 +77,11 @@ ${'  ' || `
 
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z mostly agrees! Which is the first step to reviving interdependence ourselves, since it's only once the *youth* are discontent that budding entrepreneurs and discerning curators will try to disrupt the market.
 
-These "Dr. Dres of rock" would love to offer amnesty to bands who promise to make the best art— but how? Indie rock's low barriers to entry have led to a hopelessly crowded field. The next step, then, is for an [elitist gatekeeper](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. And this is our approach:
+${'  ' || `
+// TODO: Revise. Be clear about amnesty for what.
+`}
+
+These "Dr. Dres of rock" would love to give amnesty to bands who promise to make the best art— but how? Indie rock's low barriers to entry have led to a hopelessly crowded field. The next step, then, is for an [elitist gatekeeper](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. And this is our approach:
 
 **To have a demo shown in our registry, each BYCombo band promises *not* to empower themselves. Instead, they'll earn a partner's trust by sacrificing a serious chunk of lifetime to advance the art form.**
 
