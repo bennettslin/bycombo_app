@@ -75,7 +75,7 @@ ${'  ' || `
 // TODO: Revise for amnesty. Then review next three paragraphs.
 `}
 
-Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z mostly agrees! Which is the first step to reviving interdependence ourselves, since it's only once the *youth* are discontent that budding entrepreneurs and discerning curators will try to disrupt the rock market.
+Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z mostly agrees! Which is the first step to reviving interdependence ourselves, since it's only once the *youth* are discontent that budding entrepreneurs and discerning curators will try to disrupt the market.
 
 These "Dr. Dres of rock" would love to partner with bands who promise to make the best art— but how? Indie rock's low barriers to entry have led to a hopelessly crowded field. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) to enforce a steep *cost* of entry. And here's where BYCombo comes in!
 

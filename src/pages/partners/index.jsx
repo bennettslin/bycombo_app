@@ -22,10 +22,6 @@ Well, there's good news! The artists trying to make the best art today *don't* w
 
 **Every BYCombo band promises to put *all* their effort into advancing the art form, for a serious chunk of lifetime— while relying solely on *partners* to make them known to the public.**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To hear the latest demos from our bands, you can sign up for the newsletter, or simply visit our demo registry. And remember, you're free to contact any BYCombo band directly; there are no fees whatsoever!
             `,
         }}
