@@ -17,7 +17,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! You might be wondering why an amnesty program is needed in the arts— or why we favor *inter*-dependence, when *indie*-pendence is the dominant thinking today. Let me explain…
+Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! You might be wondering why an amnesty program is needed in the arts— or why we favor interdependence, when *indie*-pendence is the dominant thinking today. Let me explain…
 
 ### Tools… are *rules*
 
@@ -43,13 +43,13 @@ By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my 
 
 And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, all art is now *subjective*; talent predicts nothing. Which means an indie label's only trusted measure is the *objective* size of an artist's fanbase. Good grief… Can we fix this mess?
 
-Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the rest. It picks "serious" artists over "casual" ones— in the faith that this amounts to the same thing. To revive interdependence, then, we need to show that indie rock's rules, taken to their logical extreme, would force us to dismiss the *very* best artists as hobbyists? Here's one way to do it:
-
-**To revive interdependence, bands must sacrifice *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
-
 ${'  ' || `
-// TODO: Review. Does the combination of past and present tense in this section make sense?
+// TODO: Review next three paragraphs.
 `}
+
+Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the rest. It picks "serious" artists over "casual" ones— in the faith that this amounts to the same thing. To revive interdependence, then, we just need to show that indie rock's rules, taken to their logical extreme, would force us to dismiss *all* our best artists as hobbyists! Here's how:
+
+**To aspire to be the best, a band must sacrifice *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
 But who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! As such, I spent 25,000 hours, or twelve full-time years, making [*Yearling's Bobtail*](https://yearlingsbobtail.com)— which includes coding and illustrating the audio webcomic. And of course, it was *only* by breaking indie rock's rules that I was able to do so. Surely, then, *someone* would grant me amnesty!
 
@@ -71,13 +71,13 @@ Worst of all, if the major labels are "bad guys," then this makes the indies "go
 
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging an artist by the size of their fanbase, its tastemakers end up favoring *content*— namely, art that's optimized to gain fans in the *present*, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
 
-${'  ' || `
-// TODO: Review next four paragraphs.
-`}
-
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z mostly agrees! Which is the first step to reviving interdependence ourselves, since it's only once the *youth* are discontent that budding entrepreneurs and discerning curators will try to disrupt the market.
 
-These "Dr. Dres of rock" would love to give amnesty to those who break indie rock's rules and thus remain unknown. But how, if they're… unknown? Low barriers to entry have led to a hopelessly crowded field. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. Here's our approach:
+${'  ' || `
+// TODO: Review.
+`}
+
+These "Dr. Dres of rock" would love to give amnesty to those who break indie rock's rules and thus remain unknown. But how, if they're… unknown? Low barriers to entry have led to a hopelessly crowded field. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. And here's our approach:
 
 **To have a demo shown in our registry, each BYCombo band promises *not* to empower themselves. Instead, they'll earn a partner's trust by sacrificing a serious chunk of lifetime to advance the art form.**
 
