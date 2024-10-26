@@ -17,7 +17,7 @@ ${'  ' || `
 
 **BYCombo is a nonprofit amnesty program for artists who follow our pledge to advance the art form. Our approach is to assemble these artists into rock bands, and then expose them to interdependent-minded partners.**
 
-"Wait, amnesty is for those who break the rules. And isn't every artist's ideal to be *indie*-pendent? So why is *inter*-dependence needed?" Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! Let me explain…
+"Huh? Amnesty is for those who break the rules. And isn't every artist's wish to be *indie*-pendent? So why is *inter*-dependence needed?" Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! Let me explain…
 
 ### Tools… are *rules*
 
@@ -72,20 +72,16 @@ Worst of all, if the major labels are "bad guys," then this makes the indies "go
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging an artist by the size of their fanbase, its tastemakers end up favoring *content*— namely, art that's optimized to gain fans in the *present*, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
 
 ${'  ' || `
-// TODO: Review next three paragraphs.
+// TODO: Review next four paragraphs.
 `}
 
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z mostly agrees! Which is the first step to reviving interdependence ourselves, since it's only once the *youth* are discontent that budding entrepreneurs and discerning curators will try to disrupt the market.
 
-${'  ' || `
-// TODO: Revise. Be clear about amnesty for what.
-`}
-
-These "Dr. Dres of rock" would love to give amnesty to bands who promise to make the best art— but how? Indie rock's low barriers to entry have led to a hopelessly crowded field. The next step, then, is for an [elitist gatekeeper](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. And this is our approach:
+These "Dr. Dres of rock" would love to give amnesty to those who remain unknown after trying to make the best art. But how, if they're… unknown? Indie rock's low barriers to entry have led to a hopelessly crowded field. The next step, then, is for an [elitist gatekeeper](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. And here's our approach:
 
 **To have a demo shown in our registry, each BYCombo band promises *not* to empower themselves. Instead, they'll earn a partner's trust by sacrificing a serious chunk of lifetime to advance the art form.**
 
-So picture a *hundred* BYCombo bands, all of them committed to making the historically canonical works of our times. This is the *final* step to reviving interdependence— the next revolution in rock history!
+So picture a *hundred* BYCombo bands, all of them committed to making the historically consequential works of our times. This is the *final* step to reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
