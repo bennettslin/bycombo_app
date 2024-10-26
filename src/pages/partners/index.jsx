@@ -19,10 +19,12 @@ ${'  ' || `
 As a budding entrepreneur or discerning curator, would you love to partner with today's artists— if only they didn't waste so much time and energy on the *hustle*? The Beatles relied on managers from [day one](https://en.wikipedia.org/wiki/Allan_Williams), allowing them to focus entirely on the *craft*. And if history's greatest rock band was a paragon of *inter*-dependence… then how good can any *indie*-pendent artist be?
 
 ${'  ' || `
-// TODO: Revise. Structure it more like the home page paragraph. And for this reason, they remain unknown and do need partners to grant them amnesty.
+// TODO: Keep working on. Reasoning just needs to flow smoothly.
 `}
 
-Well, there's good news! The artists trying to make the best art today *don't* want to be indie— and thus, they *do* [need others](/indie#disintermediation-is-a-middlemans-dream) to handle the business side of things. But how to find them, when this very reason is why they remain unknown to you? Or rather, it *did*… until now! Because here's what BYCombo offers:
+Well, there's good news! The artists trying to make the best art today *don't* wish to be indie. For this reason, they remain unknown to the public, which means they'd *love* for a partner like you to grant them amnesty. But how, given that they also remain unknown to *you*?
+
+Because here's what BYCombo offers:
 
 **Every band of ours promises to put *all* their effort into advancing the art form, for a serious chunk of lifetime— while relying solely on partners like you to make them known to the public.**
 
