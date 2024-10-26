@@ -11,16 +11,13 @@ const Component = () => (
             metaTitle: TITLE,
             metaDescription: DESCRIPTION,
             body: `
-${'  ' || `
-// TODO: Review next two paragraphs.
-
-Save for scraps if unused:
-**BYCombo is a nonprofit amnesty program for artists who follow our pledge to advance the art form. Our approach is to assemble them into rock bands ourselves, and then expose them to interdependent-minded partners.**
-`}
-
 **As a nonprofit, BYCombo offers amnesty to artists who pledge to advance the art form. Our approach is to assemble them into rock bands ourselves, and then expose them to interdependent-minded partners.**
 
-Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com). You might be wondering why an amnesty program is needed in the arts! Let me explain…
+${'  ' || `
+// TODO: Review.
+`}
+
+Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! You might be wondering why an amnesty program is needed in the arts— or why we favor *inter*-dependence, when *indie*-pendence is the dominant thinking today. Let me explain…
 
 ### Tools… are *rules*
 
@@ -36,7 +33,7 @@ And these tools *aren't* free; they cost time and energy that could be spent mak
 
 Here's the curious part: Ever notice that the best rappers *don't* worry about self-empowerment? It comes to them for free— if they just build up enough talents. For example, Eminem *didn't* have a fanbase when he was discovered by Dr. Dre; his self-released EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
 
-It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's interdependent way of thinking. I'd rather be an "Eminem of rock" and have *partners* advocate for my band— while having these partners, in turn, depend on *us* to make the best art.
+It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's *inter*-dependent way of thinking. I'd rather be an "Eminem of rock" and have *partners* advocate for my band— while having these partners, in turn, depend on *us* to make the best art.
 
 By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charitable-support-starts-an-arms-race), no other artist can hope to compete. Which means a *label* can only compete by signing indie artists… who work hard *not* to need them. What a mess! And yet, the future is clear:
 
@@ -46,7 +43,7 @@ By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my 
 
 And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, all art is now *subjective*; talent predicts nothing. Which means an indie label's only trusted measure is the *objective* size of an artist's fanbase. Good grief… Can we fix this mess?
 
-Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the rest. It picks "serious" artists over "casual" ones— in the faith that this amounts to the same thing. My solution, then, is to show that indie rock's rules, taken to their logical extreme, will force us to dismiss *all* our best artists as hobbyists! Here's how it works:
+Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the rest. It picks "serious" artists over "casual" ones— in the faith that this amounts to the same thing. To revive interdependence, then, we need to show that indie rock's rules, taken to their logical extreme, would force us to dismiss the *very* best artists as hobbyists? Here's one way to do it:
 
 **To revive interdependence, bands must sacrifice *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
@@ -54,7 +51,7 @@ ${'  ' || `
 // TODO: Review. Does the combination of past and present tense in this section make sense?
 `}
 
-But who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! As such, I spent 25,000 hours, or twelve full-time years, making [*Yearling's Bobtail*](https://yearlingsbobtail.com)— which includes coding and illustrating the audio webcomic. And of course, I could do so *only* by breaking indie rock's rules. Surely, then, some indie label would grant me amnesty!
+But who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! As such, I spent 25,000 hours, or twelve full-time years, making [*Yearling's Bobtail*](https://yearlingsbobtail.com)— which includes coding and illustrating the audio webcomic. And of course, it was *only* by breaking indie rock's rules that I was able to do so. Surely, then, *someone* would grant me amnesty!
 
 ### Who makes the tastemakers?
 
