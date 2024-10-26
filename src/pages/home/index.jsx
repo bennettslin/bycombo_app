@@ -12,12 +12,12 @@ const Component = () => (
             metaDescription: DESCRIPTION,
             body: `
 ${'  ' || `
-// TODO: Revise. Statement of amnesty program.
+// TODO: Review next two paragraphs.
 `}
 
-**As a nonprofit, BYCombo is here to bring forth this century's historically canonical rock bands! To do so, we'll assemble each band ourselves, and then expose them to interdependent partners.**
+**BYCombo is a nonprofit amnesty program for artists who take our pledge to advance the art form. Our approach is to assemble them into rock bands, and then expose them to interdependent-minded partners.**
 
-Of course, *indie*-pendence is the dominant thinking in rock today. So why is *inter*-dependence needed at all? Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! Let me explain…
+"Wait, isn't amnesty for those who break the rules? And *indie*-pendence is a universal ideal in the arts, right? So why is *inter*-dependence needed at all?" Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! Let me explain…
 
 ### Tools… are *rules*
 
@@ -33,7 +33,11 @@ And these tools *aren't* free; they cost time and energy that could be spent mak
 
 Here's the curious part: Ever notice that the best rappers *don't* worry about self-empowerment? It comes to them for free— if they just build up enough talents. For example, Eminem *didn't* have a fanbase when he was discovered by Dr. Dre; his self-released EP sold [all of 250 copies](https://en.wikipedia.org/wiki/Slim_Shady_EP). Why does hip hop work so differently from indie rock?
 
-It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's *inter*-dependent way of thinking. I'd rather be an "Eminem of rock" and have a *partner* advocate for my band— while having this partner, in turn, depend on *us* to make the best art.
+${'  ' || `
+// TODO: Review.
+`}
+
+It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's *inter*-dependent way of thinking. I'd rather be an "Eminem of rock" and have *partners* advocate for my band— while having these partners, in turn, depend on *us* to make the best art.
 
 By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charitable-support-starts-an-arms-race), no other artist can hope to compete. Which means a *label* can only compete by signing indie artists… who work hard *not* to need them. What a mess! And yet, the future is clear:
 
@@ -68,18 +72,14 @@ Worst of all, if the major labels are "bad guys," then this makes the indies "go
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging an artist by the size of their fanbase, its tastemakers end up favoring *content*— namely, art that's optimized to gain fans in the *present*, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise for amnesty. Then review next three paragraphs.
 `}
 
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z mostly agrees! Which is the first step to reviving interdependence ourselves, since it's only once the *youth* are discontent that budding entrepreneurs and discerning curators will try to disrupt the rock market.
 
-${'  ' || `
-// TODO: Revise. Explain amnesty program.
-`}
+These "Dr. Dres of rock" would love to partner with bands who promise to make the best art— but how? Indie rock's low barriers to entry have led to a hopelessly crowded field. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) to enforce a steep *cost* of entry. And here's where BYCombo comes in!
 
-These "Dr. Dres of rock" would love to partner with bands who promise to make the best art— but how? Indie rock's low barriers to entry have led to a hopelessly crowded field. The next step, then, is for a counterculture to arise in which [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) enforce a steep *cost* of entry. And here's where BYCombo comes in!
-
-**To have a demo shown in our public registry, each BYCombo band promises *not* to empower themselves. Instead, they'll earn a business partner's trust by sacrificing a serious chunk of lifetime to advance the art form.**
+**To have a demo shown in our registry, each BYCombo band promises *not* to empower themselves. Instead, they'll earn a partner's trust by sacrificing a serious chunk of lifetime to advance the art form.**
 
 So picture a *hundred* BYCombo bands, all of them committed to making the historically canonical works of our times. This is the *final* step to reviving interdependence— the next revolution in rock history!
             `,

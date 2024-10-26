@@ -31,7 +31,7 @@ ${'  ' || `
 // TODO: Revise. Statement of amnesty program.
 `}
 
-**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make demos worthy of the historical canon, which they'll show in a public registry to find partners from a counterculture of interdependence.**
+**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make demos worthy of the historical canon, which they'll show in our demo registry to find partners from a counterculture of interdependence.**
 
 Okay, that's a mouthful! Let's break it down…
 
@@ -71,9 +71,9 @@ ${'  ' || `
 // TODO: Revise. Amnesty program.
 `}
 
-**Why a public registry?**
+**Why a demo registry?**
 
-A stellar demo can only be found by sifting through hundreds— so the indie tastemakers rarely bother, since *any* artist they pick will be treated as an underdog deserving of charitable support. A history-making band's best bet, then, is to win over elitist gatekeepers who recognize the *folly* of indie rock's good intentions— and a public registry is where they'll find each other.
+A stellar demo can only be found by sifting through hundreds— so the indie tastemakers rarely bother, since *any* artist they pick will be treated as an underdog deserving of charitable support. A history-making band's best bet, then, is to win over elitist gatekeepers who recognize the *folly* of indie rock's good intentions— and our demo registry is where they'll find each other.
 
 **Why serious chunks of lifetime?**
 
