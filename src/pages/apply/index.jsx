@@ -15,7 +15,7 @@ const Component = () => (
 As an artist, do you sense that the indie camp has it *backward*? Why do they force you to waste so much effort on hustling to get yourself known— all in the name of self-empowerment? Back when rock was interdependent, being empowered just came for free, once you'd built up enough talents.
 
 ${'  ' || `
-// TODO: Review next two paragraphs.
+// TODO: Review.
 `}
 
 Furthermore, the only measure of empowerment is the size of an artist's fanbase. But the easiest way to gain fans here and now is to create *content*— which has no lasting value for *future* audiences. So instead, you double down to make art that lasts… only to end up the biggest loser. Thankfully, BYCombo lets you aim for the historical canon once more! Here's how:
@@ -25,10 +25,6 @@ Furthermore, the only measure of empowerment is the size of an artist's fanbase.
 ### Who we're looking for
 
 Are you eager to make history by advancing the art form? Are you ready to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project— which likely means quitting social media?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Most importantly, are you willing to defy indie rock's tastemakers— its labels, pundits, and critics— even as they have the power to shut you out forever? That is to say, do you understand that, even after sacrificing a serious chunk of lifetime, you might *still* be denied amnesty— leaving you with nothing but the work you've done, the talents you've built, and the friends you've made?
 
@@ -45,10 +41,6 @@ We'll select each applicant based on their talents and creative ideas. If we acc
 Once everyone agrees to form a band, those who can relocate to the same city will do so. For our pilot cohort, this will be Los Angeles, as we'd like to meet with you in person. Upon settling in, each of you will then put in enough time on your band project for the sum total to be 25,000 hours.
 
 ### A lifetime of band projects
-
-${'  ' || `
-// TODO: Review.
-`}
 
 BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. Once your demo is complete, we'll expose you to potential partners by adding it to our demo registry and including it in our latest newsletter. As an alum, you'll also have a chance to pay it forward and work with the next cohort.
 
