@@ -1,7 +1,7 @@
 import React from 'react'
 import DemoLink from '../../components/DemoLink'
 import Page from '../../containers/Page'
-import bobtailYearlings from '../../content/registry/2023/bobtail-yearlings/yearlings-bobtail'
+import bobtailYearlings from '../../content/demos/2023/bobtail-yearlings/yearlings-bobtail'
 
 const TITLE = `Return of the rock martyrs… and *saviors*`
 const DESCRIPTION = `A registry of demos made by interdependent rock bands.`

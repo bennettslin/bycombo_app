@@ -1,6 +1,6 @@
 import qs from 'qs'
 import slugify from 'slugify'
-import { DOMAIN_NAME, HOME_PAGE, ID_LINK_KEY, REGISTRY_PAGE, TABBED_PAGES_SET } from '../../../constants/pages'
+import { DOMAIN_NAME, HOME_PAGE, ID_LINK_KEY, DEMOS_PAGE, TABBED_PAGES_SET } from '../../../constants/pages'
 
 export const getTopLevelPageFromPath = (path = '') => (
     path.split('/')[0]
@@ -61,7 +61,7 @@ export const getDemoLinkPath = ({
     band,
     project,
 }) => [
-    REGISTRY_PAGE,
+    DEMOS_PAGE,
     year,
     slugify(
         band,

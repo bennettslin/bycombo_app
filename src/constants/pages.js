@@ -5,7 +5,7 @@ export const DOMAIN_NAME = `https://www.${DOMAIN}.com`
 export const HOME_PAGE = 'home'
 export const NOT_FOUND_PAGE = '404'
 
-export const REGISTRY_PAGE = 'registry'
+export const DEMOS_PAGE = 'demos'
 export const APPLY_PAGE = 'apply'
 export const PARTNERS_PAGE = 'partners'
 export const INDIE_PAGE = 'indie'

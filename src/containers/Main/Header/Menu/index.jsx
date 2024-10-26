@@ -2,7 +2,7 @@ import React from 'react'
 import cx from 'classnames'
 import HeaderButton from '../HeaderButton'
 import {
-    REGISTRY_PAGE,
+    DEMOS_PAGE,
     APPLY_PAGE,
     PARTNERS_PAGE,
     INDIE_PAGE,
@@ -17,8 +17,8 @@ const Menu = () => (
             ),
         }}
     >
-        <HeaderButton {...{ pagePath: REGISTRY_PAGE }}>
-            Registry
+        <HeaderButton {...{ pagePath: DEMOS_PAGE }}>
+            Demos
         </HeaderButton>
         <HeaderButton {...{ pagePath: APPLY_PAGE }}>
             Apply
