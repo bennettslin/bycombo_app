@@ -13,11 +13,13 @@ const Component = () => (
             body: `
 ${'  ' || `
 // TODO: Review next two paragraphs.
+
+**BYCombo is a nonprofit amnesty program for artists who follow our pledge to advance the art form. Our approach is to assemble them into rock bands ourselves, and then expose them to interdependent-minded partners.**
 `}
 
-**BYCombo is a nonprofit amnesty program for artists who follow our pledge to advance the art form. Our approach is to assemble these artists into rock bands, and then expose them to interdependent-minded partners.**
+**As a nonprofit, BYCombo offers amnesty to artists who pledge to advance the art form. Our approach is to assemble them into rock bands ourselves, and then expose them to interdependent-minded partners.**
 
-"Huh? Amnesty is for those who break the rules. And isn't every artist's wish to be *indie*-pendent? So why is *inter*-dependence needed?" Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! Let me explain…
+Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com). You might be confused why an amnesty program is needed in the arts! Let me explain…
 
 ### Tools… are *rules*
 
@@ -37,7 +39,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's *inter*-dependent way of thinking. I'd rather be an "Eminem of rock" and have *partners* advocate for my band— while having these partners, in turn, depend on *us* to make the best art.
+It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's interdependent way of thinking. I'd rather be an "Eminem of rock" and have *partners* advocate for my band— while having these partners, in turn, depend on *us* to make the best art.
 
 By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charitable-support-starts-an-arms-race), no other artist can hope to compete. Which means a *label* can only compete by signing indie artists… who work hard *not* to need them. What a mess! And yet, the future is clear:
 
@@ -51,7 +53,11 @@ Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the 
 
 **To revive interdependence, bands must sacrifice *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
-But who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! Which is why I spent 25,000 hours— twelve full-time years!— on [*Yearling's Bobtail*](https://yearlingsbobtail.com). And of course, it was by *not* building a fanbase that I was free to code and illustrate the audio webcomic. Because surely even the indies love it when a creative work *needs* to break the rules!
+${'  ' || `
+// TODO: Review. Does the combination of past and present tense in this section make sense?
+`}
+
+But who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! As such, I spent 25,000 hours, or twelve full-time years, making [*Yearling's Bobtail*](https://yearlingsbobtail.com)— which includes coding and illustrating the audio webcomic. And of course, it was *only* by breaking indie rock's rules that I was able to do so. Surely, then, *some* indie label would grant me amnesty!
 
 ### Who makes the tastemakers?
 
@@ -77,7 +83,7 @@ ${'  ' || `
 
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z mostly agrees! Which is the first step to reviving interdependence ourselves, since it's only once the *youth* are discontent that budding entrepreneurs and discerning curators will try to disrupt the market.
 
-These "Dr. Dres of rock" would love to give amnesty to those who remain unknown after trying to make the best art. But how, if they're… unknown? Indie rock's low barriers to entry have led to a hopelessly crowded field. The next step, then, is for an [elitist gatekeeper](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. And here's our approach:
+These "Dr. Dres of rock" would love to give amnesty to those who break indie rock's rules and thus remain unknown. But how, when they're… unknown? Low barriers to entry have led to a hopelessly crowded field. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. Here's our approach:
 
 **To have a demo shown in our registry, each BYCombo band promises *not* to empower themselves. Instead, they'll earn a partner's trust by sacrificing a serious chunk of lifetime to advance the art form.**
 
