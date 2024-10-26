@@ -38,7 +38,7 @@ Okay, that's a mouthful! Let's break it down…
 ### The revolution will *not* be decentralized
 
 ${'  ' || `
-// TODO: Replace with need for amnesty.
+// TODO: Revise. Replace with need for amnesty.
 `}
 
 **Why a counterculture?**
@@ -243,7 +243,7 @@ ${'  ' || `
 
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that lower the barriers to entry for all the same benefits.
 
-But… this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who actually *prefer* to hustle— rather than focus on their craft! And it's even worse than it seems…
+But… this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who actually *prefer* to hustle— rather than focus on their craft! Which is even worse than it seems…
 
 You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now, *every* artist must waste time and energy on the hustle!
 
@@ -455,7 +455,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if BYCombo assembles them into bands, allowing them to combine mediums in unprecedented ways? In that case, it just *might* care. So come explore this next frontier in music— by having a dancer, illustrator, or puppeteer for a bandmate!
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if they were assembled into bands, allowing them to combine mediums in unprecedented ways? In that case, it just *might* care. So come join BYCombo, and explore this next frontier in music— by having a dancer, illustrator, or puppeteer as your bandmate!
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
