@@ -23,11 +23,7 @@ Except… here's the problem: These tools only offer an advantage over other art
 
 And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if you're a band trying to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet in my experience, few others sympathize. Well, how about a truce?
 
-${'  ' || `
-// TODO: Review.
-`}
-
-**Yes— since rules are made to be followed, bands who refuse to empower themselves can't complain about being punished. But— breaking the rules is how history gets made! So let's not rule out amnesty.**
+**Yes— since rules are made to be followed, bands who refuse to empower themselves can't complain about being punished. But— breaking the rules is how history gets made! So let's not shut them out either.**
 
 ### The outsider's dilemma
 
@@ -47,9 +43,9 @@ ${'  ' || `
 // TODO: Review next three paragraphs.
 `}
 
-Yes! You see, indie rock has a glaring weakness: It doesn't *actually* select for the best artists. It simply picks "serious" artists over "casual" ones— in the faith that this amounts to the same thing. Yet, taken to its logical extreme, this means some of our *best* artists would get dismissed as hobbyists! So here's how we'll prove it:
+Yes! You see, indie rock has a glaring weakness: It doesn't *actually* select for the best artists. It picks "serious" artists over "casual" ones— in the faith that this amounts to the same thing. Yet, taken to its logical extreme, this would result in some of our *best* artists being classified as hobbyists! And here's how we'll prove it:
 
-**To revive interdependence, bands must sacrifice *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
+**Interdependent bands must sacrifice *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
 But who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! As such, I spent 25,000 hours, or twelve full-time years, making [*Yearling's Bobtail*](https://yearlingsbobtail.com)— which includes coding and illustrating the audio webcomic. And of course, it was *only* by breaking indie rock's rules that I was able to do so. Surely, then, *some* indie label would grant me amnesty!
 
