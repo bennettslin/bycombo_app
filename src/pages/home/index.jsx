@@ -47,9 +47,9 @@ ${'  ' || `
 // TODO: Review next three paragraphs.
 `}
 
-Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the rest. It picks "serious" artists over "casual" ones— in the faith that this amounts to the same thing. To revive interdependence, then, we just need to show that indie rock's rules, taken to their logical extreme, would force us to dismiss *all* our best artists as hobbyists! Here's how:
+Yes! See, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the rest. It picks "serious" artists over "casual" ones— in the faith that this amounts to the same thing. To revive interdependence, then, we just need to show that indie rock's rules, taken to their logical extreme, would force us to dismiss our best artists as hobbyists! Here's how:
 
-**To aspire to be the best, a band must sacrifice *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
+**Interdependent bands must sacrifice *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
 But who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! As such, I spent 25,000 hours, or twelve full-time years, making [*Yearling's Bobtail*](https://yearlingsbobtail.com)— which includes coding and illustrating the audio webcomic. And of course, it was *only* by breaking indie rock's rules that I was able to do so. Surely, then, *someone* would grant me amnesty!
 
