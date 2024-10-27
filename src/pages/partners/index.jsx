@@ -19,7 +19,7 @@ ${'  ' || `
 As a budding entrepreneur or discerning curator, would you love to partner with today's artists— if only they didn't waste so much time and energy on the *hustle*? The Beatles relied on managers from [day one](https://en.wikipedia.org/wiki/Allan_Williams), allowing them to focus entirely on the *craft*. And if history's greatest rock band was a paragon of *inter*-dependence… then how good can any *indie*-pendent artist be?
 
 ${'  ' || `
-// TODO: Keep working on. Reasoning just needs to flow smoothly.
+// TODO: Revise. Reasoning just needs to flow smoothly.
 `}
 
 Well, there's good news! The artists trying to make the best art today *don't* wish to be indie. For this reason, they remain unknown to the public, which means they'd *love* for a partner like you to grant them amnesty. But how, given that they also remain unknown to *you*?

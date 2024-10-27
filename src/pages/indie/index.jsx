@@ -241,11 +241,15 @@ ${'  ' || `
 // TODO: Review whole section.
 `}
 
-To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that lower the barriers to entry for all the same benefits.
+To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
 
-But… this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who actually *prefer* to hustle— rather than focus on their craft! Which is even worse than it seems…
+But… this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who actually *prefer* to hustle— rather than focus on the craft! And now it gets even worse…
 
 You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now, *every* artist must waste time and energy on the hustle!
+
+${'  ' || `
+// TODO: Revise. Mention barriers to entry here.
+`}
 
 To complicate matters, the prisoner's dilemma is a collective action problem: Since it's caused by individuals acting in their own interest, the solution *has* to come from the top down, through centralized efforts. But under the indie camp's watch, change can *only* take place from the bottom up. Which means they'll never clean up this mess they've created…
 
@@ -485,7 +489,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So let's ditch old assumptions, and draw from reason. First, "indiefication" creates a "prisoner's dilemma," right? Once any artist redirects 5% of their efforts toward *getting* the job, rather than simply *deserving* it, all others will be forced to do the same. But this causes a race to the bottom, as someone can now redirect *10%* of their efforts… then *15%*… and you get the picture.
+So let's ditch old assumptions, and draw from reason. First, "indiefication" creates a "prisoner's dilemma," right? Once any artist redirects 5% of their efforts toward *getting* the job, rather than simply *deserving* it, all others will be forced to do the same. But this causes a "race to the bottom," as someone can now redirect *10%* of their efforts… then *15%*… and you get the picture.
 
 With this being the case, shouldn't we expect indiefication to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 

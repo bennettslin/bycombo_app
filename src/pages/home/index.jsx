@@ -71,13 +71,13 @@ Worst of all, if the major labels are "bad guys," then this makes the indies "go
 
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging an artist by the size of their fanbase, its tastemakers end up favoring *content*— namely, art that's optimized to gain fans in the *present*, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
 
-Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z mostly agrees! Which is the first step to reviving interdependence ourselves, since it's only once the *youth* are discontent that budding entrepreneurs and discerning curators will try to disrupt the market.
-
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise next two paragraphs. Move idea of some artists being punished for having broken indie rock's rules to first paragraph, making it easier for second paragraph to begin with "Dr. Dres of rock."
 `}
 
-These "Dr. Dres of rock" would love to give amnesty to those who break indie rock's rules and thus remain unknown. But how, if they're… unknown? Low barriers to entry have led to a hopelessly crowded field. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. And here's our approach:
+Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z mostly agrees! Which is the first step to reviving interdependence ourselves, since it's only once the *youth* are discontent that budding entrepreneurs and discerning curators will try to disrupt the market.
+
+These "Dr. Dres of rock" would love to give amnesty to those who remain unknown, as punishment for having broken indie rock's rules. But how, if they're unknown? Low barriers to entry have led to a hopelessly crowded field. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. And here's our approach:
 
 **To have a demo shown in our registry, each BYCombo band promises *not* to empower themselves. Instead, they'll earn a partner's trust by sacrificing a serious chunk of lifetime to advance the art form.**
 

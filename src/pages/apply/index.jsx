@@ -18,7 +18,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Furthermore, the only measure of empowerment is the size of an artist's fanbase. But the easiest way to gain fans here and now is to create *content*— which has no lasting value for *future* audiences. Fortunately, BYCombo lets you aim for the historical canon once more! Here's how:
+Furthermore, the only measure they trust is the size of an artist's fanbase. But the surest way to gain fans here and now is to create *content*— which has no lasting value for *future* audiences. Fortunately, BYCombo lets you aim for the historical canon once more! Here's how:
 
 **To join BYCombo as an artist, you must pledge *not* to get yourself known. Instead, your band will be *made* known by partners, whose trust you'll earn by sacrificing a serious chunk of lifetime to advance the art form.**
 
@@ -54,11 +54,7 @@ Of course, we're just getting started, so to thank you for your patience during 
 
 **Women, minorities, and other disadvantaged groups:**
 
-${'  ' || `
-// TODO: Review.
-`}
-
-As a rock movement started by a minority, BYCombo was *conceived* to give you the interdependence you crave and thrive on! We'll also aspire for an equitable gender ratio in every band we assemble.
+As a rock movement started by a minority, BYCombo was *conceived* to give you the interdependence you crave and thrive on! We'll also aim for an equitable gender ratio in every band we assemble.
 
 **Artists of other mediums:**
 
