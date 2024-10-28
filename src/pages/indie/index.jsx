@@ -253,7 +253,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-And so, instead of democracy, we're now living under "indieocracy"— or, rule by those who hustle to get themselves known. But what if *your* hope all along was to be *made* known, by the elites? Then come verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
+And so, instead of democracy, we're now living under "indieocracy"— or rule by those who hustle to get themselves known. But what if *your* hope all along was to be *made* known, by the elites? Then come verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
@@ -459,7 +459,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But if they were assembled into bands? Then this would allow them to combine mediums in unprecedented ways! So come join BYCombo, and explore this next frontier in music— by having a dancer, illustrator, or puppeteer as one of your bandmates.
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But if they were assembled into bands? Then this would allow them to combine mediums in unprecedented ways! So come join BYCombo, and explore the next frontiers in music— by having a dancer, illustrator, or puppeteer as one of your bandmates.
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 

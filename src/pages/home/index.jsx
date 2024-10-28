@@ -23,7 +23,11 @@ Except… here's the problem: These tools only offer an advantage over other art
 
 And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if you're a band trying to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet in my experience, few others sympathize. Well, how about a truce?
 
-**Yes— since rules are made to be followed, bands who refuse to empower themselves can't complain about being punished. But— breaking the rules is how history gets made! So let's not shut them out either.**
+${'  ' || `
+// TODO: Review.
+`}
+
+**Yes— since rules are made to be followed, bands who refuse to empower themselves can't complain about remaining unknown. But— breaking the rules is how history gets made! So let's not rule out amnesty either.**
 
 ### The outsider's dilemma
 
@@ -47,7 +51,7 @@ Yes! You see, indie rock has a glaring weakness: It doesn't *actually* select fo
 
 **Interdependent bands must sacrifice *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
-But who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! As such, I spent 25,000 hours, or twelve full-time years, making [*Yearling's Bobtail*](https://yearlingsbobtail.com)— which includes coding and illustrating the audio webcomic. And of course, it was *only* by breaking indie rock's rules that I was able to do so. Surely, then, *some* indie label would grant me amnesty!
+But who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! As such, I spent 25,000 hours, or twelve full-time years, making [*Yearling's Bobtail*](https://yearlingsbobtail.com)— which includes coding and illustrating the audio webcomic. And of course, it was *only* by breaking indie rock's rules that I was able to do so. Surely, then, *someone* would grant me amnesty!
 
 ### Who makes the tastemakers?
 
@@ -76,10 +80,6 @@ ${'  ' || `
 `}
 
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z mostly agrees! Which is the first step to reviving interdependence ourselves, since it's only once the *youth* are discontent that budding entrepreneurs and discerning curators will try to disrupt the market.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To those who've had to remain unknown for having broken indie rock's rules, these "Dr. Dres of rock" would love to give amnesty. But how, if they're unknown? Low barriers to entry have led to a hopelessly crowded field. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. And here's our approach:
 

@@ -14,10 +14,6 @@ const Component = () => (
             body: `
 As an artist, do you sense that the indie camp has it *backward*? Why do they force you to waste so much effort on hustling to get yourself known— all in the name of self-empowerment? Back when rock was interdependent, being empowered just came for free, once you'd built up enough talents.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Furthermore, the only measure they trust is the size of your fanbase. But the surest way to gain more fans, here and now, is to create *content*— which has no lasting value for *future* audiences. Fortunately, BYCombo lets you aim for the historical canon once more! Here's how:
 
 **To join BYCombo as an artist, you must pledge *not* to get yourself known. Instead, your band will be *made* known by partners, whose trust you'll earn by sacrificing a serious chunk of lifetime to advance the art form.**
