@@ -23,10 +23,6 @@ Except… here's the problem: These tools only offer an advantage over other art
 
 And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if you're a band trying to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet in my experience, few others sympathize. Well, how about a truce?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 **Yes— since rules are made to be followed, bands who refuse to empower themselves can't complain about remaining unknown. But— breaking the rules is how history gets made! So let's not rule out amnesty either.**
 
 ### The outsider's dilemma
@@ -49,10 +45,6 @@ ${'  ' || `
 
 Yes! You see, indie rock has a glaring weakness: It doesn't *actually* select for the best. It simply separates "serious artists" from "casual hobbyists"— in the faith that this amounts to the same thing. But… there's an obvious way to prove that it doesn't:
 
-${'  ' || `
-// TODO: Review next two paragraphs.
-`}
-
 **Interdependent bands must sacrifice *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
 But who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! As such, I spent 25,000 hours, or twelve full-time years, making [*Yearling's Bobtail*](https://yearlingsbobtail.com)— which includes coding and illustrating the audio webcomic. And of course, it was *only* by breaking indie rock's rules that I was able to do so. Surely, then, I'd be given amnesty!
@@ -65,10 +57,6 @@ So even as you build up *objective* strengths to win over a skeptical public, th
 
 Suffice it to say, then… the indie labels rejected my demo. They also ignored later projects of mine that promised to *help* their underdogs: my songwriting book [*Bobtail Method*](https://bobtailmethod.com), and my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). So even *altruism* is a losing strategy for the outsider! And now I finally understood:
 
-${'  ' || `
-// TODO: Review.
-`}
-
 **A movement that's kind to the underdog *must* be cruel to the outsider. In other words, indie rock will *never* give amnesty to interdependent bands— because it *means* to shut them out!**
 
 Worst of all, if the major labels are "bad guys," then this makes the indies "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their tastemakers is a bad guy as well— especially anyone from an [older generation](https://youtu.be/tODG4Xt45bU). And this gets at the heart of the problem:
@@ -76,10 +64,6 @@ Worst of all, if the major labels are "bad guys," then this makes the indies "go
 **As the first rock movement to hold its ideals to be universal, indie rock is also the first to lock its rules in place. Which means there's no historical precedent to show us how to resist— or even to assure us that we *can*.**
 
 ### A hundred *Yearling's Bobtail*s
-
-${'  ' || `
-// TODO: Review.
-`}
 
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging artists by the size of their fanbase, its tastemakers end up favoring *content*— namely, art that's optimized to gain fans in the *present*, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
 
@@ -90,14 +74,14 @@ ${'  ' || `
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! Which is the first step to reviving interdependence, since it's only once the *youth* are discontent that budding entrepreneurs will try to disrupt the market— and discerning curators, to reform the system.
 
 ${'  ' || `
-// TODO: Review next three paragraphs.
+// TODO: Review next two paragraphs.
 `}
 
 These "Dr. Dres of rock" would love to give amnesty to interdependent bands who've broken indie rock's rules, I'm sure! But how? Any such band currently remains unknown for having done so, and today's field is more crowded than ever. The next step, then, is for an [elitist gatekeeper](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. In our case, it works like so:
 
 **Every BYCombo band must promise *not* to empower themselves. Instead, they'll earn a partner's trust by sacrificing a serious chunk of lifetime to make a demo that advances the art form.**
 
-So picture a *hundred* BYCombo bands, if you will, all of them set on making the historically consequential works of our times. This will be the *final* step to reviving interdependence— the next revolution in rock history!
+So picture a *hundred* BYCombo bands, all of them committed to making the historically consequential works of our times. This will be the *final* step to reviving interdependence— the next revolution in rock history!
             `,
         }}
     />

@@ -16,10 +16,6 @@ As an artist, do you sense that the indie camp has it *backward*? Why do they fo
 
 Furthermore, the only measure they trust is the size of your fanbase. But the surest way to gain more fans, here and now, is to create *content*— which has no lasting value for *future* audiences. Fortunately, BYCombo lets you aim for the historical canon once more! Here's how:
 
-${'  ' || `
-// TODO: Review.
-`}
-
 **To join BYCombo as an artist, you must pledge *not* to get yourself known. Instead, your band will be *made* known, by partners, whose trust you'll earn by sacrificing a serious chunk of lifetime to advance the art form.**
 
 ### Who we're looking for
