@@ -417,7 +417,11 @@ See, us dreamers, we're not grounded in reality— which makes us awful at fulfi
 
 Yet… it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— as strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
 
-But all is assumed to be well, since today's artists *do* resemble the innovative artists of yesteryear… while we're never shown what true innovation in our times should *actually* entail. Still, what if *you're* here to truly innovate— not just to "larp," or role-play, the *idea* of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the ideal business partner: a striver!
+${'  ' || `
+// TODO: Review.
+`}
+
+But all is assumed to be well, since today's artists *do* resemble the innovative artists of yesteryear… while we're never shown what true innovation in our times should *actually* entail. Still, what if *you're* here to truly innovate— not just to "larp," or role-play, the *idea* of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
