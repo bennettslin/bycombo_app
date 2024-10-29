@@ -437,7 +437,7 @@ In a world now awash in content, the new Romantics long for a return to live sho
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
-Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Victory! I put together a band, and we played a show for one of them. It was… admittedly sloppy, given that my new bandmates still hadn't fully learned their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
+Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I put together a band, and we played a show for one of them. It was… admittedly sloppy, given that my new bandmates still hadn't fully learned their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
 Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if recordings capture what shows can't… then they're distinct mediums, like cinema and theater! So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can explore one of music's next frontiers, by making a stellar demo… with no concern for how you'll recreate it live.
 
@@ -456,10 +456,10 @@ When is it a "larp"? Here's a test: Could it have been a fictional movie *instea
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
 
 ${'  ' || `
-// TODO: Revise. Needs to be better.
+// TODO: Review.
 `}
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But if they were assembled into bands? Then this would allow them to combine mediums in unprecedented ways! So come join BYCombo, and explore the next frontiers in music— by having a dancer, illustrator, or puppeteer as one of your bandmates.
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if they were assembled into bands, allowing them to combine mediums in unprecedented ways? Well, now they'd be the *real* heroes! So come join BYCombo, and explore this next frontier— by having a dancer, illustrator, or puppeteer as your bandmate.
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
