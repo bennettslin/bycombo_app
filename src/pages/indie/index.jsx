@@ -57,7 +57,11 @@ Or— suppose the next Kurt Cobain is a minority woman who's struggling to attra
 
 **Why interdependent partners?**
 
-To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they need to *need* a business partner.
+${'  ' || `
+// TODO: Review.
+`}
+
+To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they need to *need* partners.
 
 **Why demos?**
 
@@ -179,7 +183,11 @@ By contrast, could Dolly Parton *reliably* compose one "Jolene" after another? O
 
 Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your thoughts drift in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
-But this can't happen if you're always context switching— which explains why "indiefication" has made music worse. Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have a business partner wear the others. Because *you* want your works to be better than you— and so does BYCombo.
+${'  ' || `
+// TODO: Review.
+`}
+
+But this can't happen if you're always context switching— which explains why "indiefication" has made music worse. Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
@@ -229,7 +237,11 @@ The [richest nations](https://web.archive.org/web/20210508/https://slate.com/cul
 
 Indie artists work hard *not* to need a label, and will do so even [when signed](https://web.archive.org/web/20120706/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day flourish, the past proves that rock can be interdependent once again!
 
-BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until business partners finally reciprocate the courage to team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
+${'  ' || `
+// TODO: Review.
+`}
+
+BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until potential partners finally reciprocate the courage to team up with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
@@ -309,7 +321,11 @@ The issue is that these labels are run by society's most privileged groups— an
 
 But so far, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* the same. Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*; and women, of low *competence*. Yet social justice, when self-enforced, *only* fixes misjudgments of competence; a circle of friends has every right to feel more warmly toward their own.
 
-You'll notice, then, that we minorities *aren't* ones to begrudge a business partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://web.archive.org/web/20141122/https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
+${'  ' || `
+// TODO: Review.
+`}
+
+You'll notice, then, that we minorities *aren't* ones to begrudge a potential partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://web.archive.org/web/20141122/https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
