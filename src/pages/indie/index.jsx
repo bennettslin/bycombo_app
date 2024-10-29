@@ -69,7 +69,7 @@ ${'  ' || `
 
 **Why a demo registry?**
 
-A stellar demo can only be found by sifting through hundreds— so the indie tastemakers rarely bother, since *any* artist they pick will be treated as an underdog deserving of charitable support. A history-making band's best bet, then, is to win over elitist gatekeepers who recognize the *folly* of indie rock's good intentions— and our demo registry is where they'll find each other.
+A stellar demo can only be found by sifting through hundreds— so the indie tastemakers rarely bother, since *all* their artists get charitably supported. A history-making band's best bet, then, is to win over elitist gatekeepers like BYCombo, who recognize the *folly* of indie rock's good intentions— and our demo registry is where they'll find partners.
 
 **Why serious chunks of lifetime?**
 
@@ -239,7 +239,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But… this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone would rather hustle to *get* the job, than work to *deserve* it! And it gets even worse…
+But… this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone would rather hustle to *get* the job, than work to *deserve* it! And now it gets even worse…
 
 You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now, *every* artist must waste time and energy on the hustle!
 
@@ -261,7 +261,11 @@ But there's hope: While Millennials were active creators from day one, Gen Z rev
 
 Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend the performance of a work." So let's use it once more in a way that Bach— who made music for God!— would've understood: An audience *isn't* a fanbase. Nor are they a following.
 
-From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing what this entails! Which is why BYCombo promises to bring back the elitist gatekeepers, if *you* can promise to make the best art— namely, what *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+${'  ' || `
+// TODO: Review.
+`}
+
+From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing what this entails! Which is why BYCombo promises to serve as an elitist gatekeeper, if *you'll* pledge to make the best art— namely, what *you'd* consider most worthy to study or enjoy, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
