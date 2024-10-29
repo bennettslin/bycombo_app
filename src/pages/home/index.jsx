@@ -17,6 +17,10 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! You 
 
 ### Tools… are *rules*
 
+${'  ' || `
+// TODO: Revise. Specify getting themselves known. "Rather than a label to say they deserve to be."
+`}
+
 Indie rock seeks to lower the barriers to entry for artists, and so it provides them with tools to forgo the major labels and build a fanbase on their own: social media, streaming services, crowdfunding platforms, and so forth.
 
 Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their main purpose is to punish any holdouts. But wait… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
@@ -40,10 +44,10 @@ By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my 
 And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, all art is now *subjective*; talent predicts nothing. Which means an indie label's only trusted measure is the *objective* size of an artist's fanbase. Good grief… Can we fix this mess?
 
 ${'  ' || `
-// TODO: Review next three paragraphs.
+// TODO: Review.
 `}
 
-Yes! You see, indie rock has a glaring weakness: It doesn't *actually* select for the best. It simply separates "serious" artists from "casual" ones— assuming this amounts to the same thing. But there's an obvious way to *disprove* this assumption; the only hard part is seeing it through! Here's how:
+Yes! You see, indie rock has a glaring weakness: It doesn't *actually* select for the best. It simply separates "serious" artists from "casual" ones— assuming this amounts to the same thing. But there's an obvious way to *disprove* this assumption; it's only a matter of seeing it through! Here's how:
 
 **Interdependent bands must spend *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
@@ -57,10 +61,6 @@ So even as you build up *objective* strengths to win over a skeptical public, th
 
 Suffice it to say, then… the indie labels rejected my demo. They also ignored later projects of mine that promised to *help* their underdogs: my songwriting book [*Bobtail Method*](https://bobtailmethod.com), and my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). So even *altruism* is a losing strategy for the outsider! And now I finally understood:
 
-${'  ' || `
-// TODO: Review.
-`}
-
 **Indie rock will *never* give amnesty to interdependent bands, because *being* interdependent is what brands them as outsiders— and a movement that's kind to the underdog *must* be cruel to the outsider!**
 
 Worst of all, if the major labels are "bad guys," then this makes the indies "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their tastemakers is a bad guy as well— especially anyone from an [older generation](https://youtu.be/tODG4Xt45bU). And this gets at the heart of the problem:
@@ -70,10 +70,6 @@ Worst of all, if the major labels are "bad guys," then this makes the indies "go
 ### A hundred *Yearling's Bobtail*s
 
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging artists by the size of their fanbase, its tastemakers end up favoring *content*— namely, art that's optimized to gain fans in the *present*, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
-
-${'  ' || `
-// TODO: Review next three paragraphs.
-`}
 
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! Which is the first step to reviving interdependence, since it's only once the *youth* are discontent that budding entrepreneurs will think to disrupt the market; discerning curators will hope to redeem the arts; and future historians will know to teach the mistakes of our past.
 
