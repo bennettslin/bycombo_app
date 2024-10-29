@@ -43,7 +43,7 @@ ${'  ' || `
 // TODO: Review next three paragraphs.
 `}
 
-Yes! You see, indie rock has a glaring weakness: It doesn't *actually* select for the best. It simply separates "serious" artists from "casual" ones— assuming this amounts to the same thing. But there's an obvious way to *disprove* this assumption; it's just a matter of seeing it through! Here's how:
+Yes! You see, indie rock has a glaring weakness: It doesn't *actually* select for the best. It simply separates "serious" artists from "casual" ones— assuming this amounts to the same thing. But there's an obvious way to *disprove* this assumption; the only hard part is seeing it through! Here's how:
 
 **Interdependent bands must spend *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
@@ -75,7 +75,7 @@ ${'  ' || `
 // TODO: Review next three paragraphs.
 `}
 
-Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! Which is the first step to reviving interdependence, since it's only once the *youth* are discontent that budding entrepreneurs will hope to disrupt the market; discerning curators will try to reform the arts; and future historians will know to question the tastemakers of our times.
+Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! Which is the first step to reviving interdependence, since it's only once the *youth* are discontent that budding entrepreneurs will think to disrupt the market; discerning curators will hope to redeem the arts; and future historians will know to teach the mistakes of our past.
 
 These "Dr. Dres of rock" would love to give amnesty to interdependent bands who've broken indie rock's rules… but how? Any such band currently remains unknown for having done so, and the field today is more crowded than ever. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. Here's the general idea:
 

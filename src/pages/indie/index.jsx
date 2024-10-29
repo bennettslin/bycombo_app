@@ -239,15 +239,15 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But… this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone would rather hustle to *get* the job, than work to *deserve* it! And now it gets even worse…
+But… this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone would rather hustle to *get* the job, than work to *deserve* it! Which makes things even worse…
 
 You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now, *every* artist must waste time and energy on the hustle!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Needs to be better.
 `}
 
-To complicate matters, the prisoner's dilemma is a collective action problem: Since it's due to individuals acting in their own interest, the solution *has* to come from the top down, through centralized efforts. But… the indie camp's thinking is bottom up! Under their watch, then, any downside caused by low barriers to entry can only be accommodated, not fixed…
+To complicate matters, the prisoner's dilemma is a collective action problem: Since it's due to individuals acting in their own interest, the solution *has* to come from the top down, through centralized efforts. But… the indie camp's thinking is bottom up! Which means any downsides caused by low barriers to entry, as far as they're concerned, can only be accommodated, not fixed…
 
 And so, instead of democracy, we're now living under "indieocracy"— or rule by those who hustle to get themselves known. But what if *your* hope all along was to be *made* known, by the elites? Then come verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
 
@@ -265,7 +265,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing what this entails! Which is why BYCombo promises to serve as an elitist gatekeeper, if *you'll* pledge to make the best art— namely, what *you'd* consider most worthy to study or enjoy, if you were anyone else, out of all that's come before and all else that's out there.
+From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing what this entails! Fortunately, BYCombo promises to be an effective gatekeeper, if you can pledge to make the best art— namely, the works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -456,7 +456,7 @@ When is it a "larp"? Here's a test: Could it have been a fictional movie *instea
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Needs to be better.
 `}
 
 Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But if they were assembled into bands? Then this would allow them to combine mediums in unprecedented ways! So come join BYCombo, and explore the next frontiers in music— by having a dancer, illustrator, or puppeteer as one of your bandmates.
