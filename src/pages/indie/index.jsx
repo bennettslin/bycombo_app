@@ -247,15 +247,15 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But… this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who alone would rather hustle to *get* the job, than work to *deserve* it. And now it *really* gets worse…
+But… this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who'd rather hustle to *get* the job— than work to *deserve* it. Seems bad, right? But it's even worse…
 
 You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now, *every* artist must waste time and energy on the hustle!
 
-${'  ' || `
-// TODO: Review next two paragraphs.
-`}
-
 To complicate matters, the prisoner's dilemma is a collective action problem: Since it's due to individuals acting in their own interest, the solution *has* to come from the top down, through centralized efforts. Yet… the indie camp's thinking is bottom up! And so they *can't* clean up this mess they've created…
+
+${'  ' || `
+// TODO: Review.
+`}
 
 The lesson here, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— or rule by those who hustle to get themselves known. Still, what if *your* hope all along was to be *made* known, by the elites? Then come verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
 
@@ -273,7 +273,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing what this entails! Fortunately, BYCombo promises to be an effective gatekeeper, if *you'll* pledge to make the best art— namely, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing what this entails! Fortunately, BYCombo promises to bring back elitist gatekeeping, if you'll pledge to make the best art— namely, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
