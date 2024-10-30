@@ -44,7 +44,7 @@ By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my 
 And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, all art is now *subjective*; talent predicts nothing. Which means an indie label's only trusted measure is the *objective* size of an artist's fanbase. Good grief… Can we fix this mess?
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise? Obvious to those who genuinely aspire to make the best art.
 `}
 
 Yes! You see, indie rock has a glaring weakness: It doesn't *actually* select for the best. It simply separates "serious" artists from "casual" ones— assuming this amounts to the same thing. But there's an obvious way to *disprove* this assumption; it's only a matter of seeing it through! Here's how:
