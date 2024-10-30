@@ -7,7 +7,6 @@ export const NOT_FOUND_PAGE = '404'
 
 export const DEMOS_PAGE = 'demos'
 export const APPLY_PAGE = 'apply'
-export const PARTNERS_PAGE = 'partners'
 export const INDIE_PAGE = 'indie'
 
 export const ID_LINK_KEY = 'idLink'
