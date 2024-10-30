@@ -101,7 +101,11 @@ In the '90s, though, we [started calling](https://books.google.com/ngrams/graph?
 
 But… given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans— and thus, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock lost its countercultural edge and devolved into just another hustle culture. Yet Millennials still defend it, having never known it to be otherwise…
 
-So now indie rock *obeys* the people's will… while no counterculture remains to *subvert* it. But what if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the majors? Then let BYCombo expose you to elitist gatekeepers— the one chance left for subversive art in an online world!
+${'  ' || `
+// TODO: Review.
+`}
+
+So now indie rock *obeys* the people's will… while no counterculture remains to *subvert* it. But what if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the majors? Then rest assured: BYCombo is here to bring back elitist gatekeeping— the one chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -307,7 +311,11 @@ Yet despite the poor fit, indie rock sure is eager of late to hand us the reins!
 
 No thanks! Remember, rock and roll was founded by poor and queer Blacks, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on business partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar just won a Pulitzer Prize! Now BYCombo gives your band the same chances.
+${'  ' || `
+// TODO: Review.
+`}
+
+Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar just won a Pulitzer Prize! Now BYCombo gives your band the same chances.
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
@@ -357,13 +365,21 @@ Still, what if *your* dream is to make "windfall art," which *requires* you to b
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
-Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce, "Artists, as your own best advocate, you'll now be judged by how far you get on your *own*, without the help of a business partner. The playing field is finally level!"
+${'  ' || `
+// TODO: Review.
+`}
+
+Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce, "Artists, as your own best advocate, you'll now be judged by how far you get on your *own*, without the help of any partners. The playing field is finally level!"
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
 It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to end segregation. But indie rock promises to be a *de*-centralized system that *obeys* the people's will— and as such, it can only ever uphold the prejudices of its times.
 
-Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have repeatedly shown that you *aren't* your own best advocate? Why, BYCombo can help you find business partners to advocate on your behalf— as we usher in a new time of civil rights for artists!
+${'  ' || `
+// TODO: Review.
+`}
+
+Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have repeatedly shown that you *aren't* your own best advocate? Why, BYCombo can help you find partners who'll advocate on your behalf— as we usher in a new time of civil rights for artists!
 
 ### ${++sectionCounter}. Penultimate tolerance severs a lifeline
 
