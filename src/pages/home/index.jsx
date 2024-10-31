@@ -18,7 +18,7 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! You 
 ### Tools… are *rules*
 
 ${'  ' || `
-// TODO: Revise. Specify getting themselves known. "Rather than a label to say they deserve to be."
+// TODO: Revise. Specify being empowered by hustling to get themselves known. "Rather than a label to say they deserve to be."
 `}
 
 Indie rock seeks to lower the barriers to entry for artists, and so it provides them with tools to forgo the major labels and build a fanbase on their own: social media, streaming services, crowdfunding platforms, and so forth.
@@ -44,10 +44,10 @@ By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my 
 And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, all art is now *subjective*; talent predicts nothing. Which means an indie label's only trusted measure is the *objective* size of an artist's fanbase. Good grief… Can we fix this mess?
 
 ${'  ' || `
-// TODO: Revise? Obvious to those who genuinely aspire to make the best art.
+// TODO: Review.
 `}
 
-Yes! You see, indie rock has a glaring weakness: It doesn't *actually* select for the best. It simply separates "serious" artists from "casual" ones— assuming this amounts to the same thing. But there's an obvious way to *disprove* this assumption; it's only a matter of seeing it through! Here's how:
+Yes! See, indie rock has a glaring weakness: It doesn't *actually* select for the best. It merely separates the "serious" artists who hustle from the "casual" ones who don't— assuming that this amounts to the same thing. So the best artists can *disprove* this assumption… simply by *not* hustling! Here's how:
 
 **Interdependent bands must spend *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
