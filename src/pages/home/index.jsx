@@ -29,7 +29,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if your band is hoping to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet in my experience, few others sympathize. Well, how about a truce?
+And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if your band hopes to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet in my experience, few others sympathize. Well, how about a truce?
 
 **Yes— since rules are made to be followed, bands who refuse to empower themselves can't complain about remaining unknown. But— breaking the rules is how history gets made! So let's not rule out amnesty either.**
 
@@ -48,7 +48,7 @@ By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my 
 And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, all art is now *subjective*; talent predicts nothing. Which means an indie label's only trusted measure is the *objective* size of an artist's fanbase. Good grief… Can we fix this mess?
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Make it more about demo. Make a stellar demo proving that with a partner, we could be making the best art.
 `}
 
 Yes! You see, indie rock has a glaring weakness: It doesn't *actually* select for the best. It merely separates "serious" artists, who hustle, from "hobbyists," who don't— assuming that this amounts to the same thing. So to *refute* this assumption, those of us who'd prefer to rely on partners… just need to make the best art on our own! Here's the plan:
