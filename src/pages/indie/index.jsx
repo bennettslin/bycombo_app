@@ -34,7 +34,7 @@ Okay, that's a mouthful! Let's break it down…
 ### The revolution will *not* be decentralized
 
 ${'  ' || `
-// TODO: Revise. Replace with need for amnesty.
+// TODO: Revise. Replace with need for amnesty. Good guys enforce rules.
 `}
 
 **Why a counterculture?**

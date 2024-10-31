@@ -18,7 +18,7 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! You 
 ### Tools… are *rules*
 
 ${'  ' || `
-// TODO: Revise. Specify being empowered by hustling to get themselves known. "Rather than a label to say they deserve to be."
+// TODO: Revise. Mention being empowered, by hustling, to get themselves known. "Rather than a label to say they deserve to be." "For this reason, it provides them with tools…"
 `}
 
 Indie rock seeks to lower the barriers to entry for artists, and so it provides them with tools to forgo the major labels and build a fanbase on their own: social media, streaming services, crowdfunding platforms, and so forth.
