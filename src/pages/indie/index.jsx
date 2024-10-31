@@ -343,7 +343,11 @@ Which is why every movement started by minorities is *defiantly* elitist. Let's 
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
-Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie tastemakers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
+${'  ' || `
+// TODO: Review.
+`}
+
+Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie tastemakers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely write you off as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
