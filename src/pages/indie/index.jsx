@@ -219,7 +219,20 @@ Simply put, indie rock is widely seen as a "do it yourself" movement— the kind
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
+${'  ' || `
+// TODO: Review.
+`}
+
+The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus there's never been an "opposition party." So… how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*, a novel popular with libertarians, the business world's "indie camp" protests against socialism by selfishly refusing to do *any* work.
+
+${'  ' || `
+// TODO: Add new paragraph. The "reverse *Atlas Shrugged*"?
+
+For scraps:
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to suck it up and try harder. But with BYCombo, there's now an opposition party that upholds the interdependence you want— out of a shared love for the craft.
+`}
+
+To protest against indie rock, then, the music world's "socialists" should do the opposite— by selflessly making the *best* works!
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -239,14 +252,14 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But… this creates its own problems: Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who'd rather hustle to *get* the job— than work to *deserve* it. Which is even worse than it seems…
+But this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who'd rather hustle to *get* the job— than work to *deserve* it. Which is even worse…
 
 You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now, *every* artist must waste time and energy on the hustle!
 
 To complicate matters, the prisoner's dilemma is a collective action problem: Since it's due to individuals acting in their own interest, the solution *has* to come from the top down, through centralized efforts. Yet… the indie camp's thinking is bottom up! And so they *can't* clean up this mess they've created…
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise.
 `}
 
 The lesson here, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— or rule by those who hustle to get themselves known. Still, what if *your* hope all along was to be *made* known, by the elites? Then come verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
