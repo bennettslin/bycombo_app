@@ -220,16 +220,12 @@ Simply put, indie rock is widely seen as a "do it yourself" movement— the kind
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review next two paragraphs.
 `}
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel beloved by libertarians— the business world's "indie camp" goes on strike against a progressive regime by selfishly refusing to do *any* work.
 
-${'  ' || `
-// TODO: Revise. Which is what I've been doing all along, of course, and why I started BYCombo— to help others do the same.
-`}
-
-To protest against indie rock, then, the music world's "progressives" can do the opposite— and selflessly make the *best* works! Which, of course, is why I started BYCombo. So ignore those who insist that being indie is *every* artist's wish. You can now join the opposition, which upholds the interdependence you want— out of a shared love for the craft.
+To protest against indie rock, then, the music world's "progressives" can do the opposite— and selflessly make the *best* works! Which, of course, is why I started BYCombo. So ignore those who insist that being indie is *every* artist's wish. There's now an opposition party that upholds the interdependence you want— out of a shared love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
