@@ -226,7 +226,7 @@ ${'  ' || `
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus there's never been an "opposition party." So… how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*, a novel popular with libertarians, the business world's "indie camp" protests against socialism by selfishly refusing to do *any* work.
 
 ${'  ' || `
-// TODO: Add new paragraph. The "reverse *Atlas Shrugged*"?
+// TODO: Keep working on. Reconsider whether I want to say "selfish" and "selfless," depending on how the fifth paragraph fleshes out.
 
 For scraps:
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*. So when a band struggles to hustle because it's a poor fit for their circumstances, they're told to suck it up and try harder. But with BYCombo, there's now an opposition party that upholds the interdependence you want— out of a shared love for the craft.
