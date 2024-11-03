@@ -495,7 +495,11 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is widely thought to deliver the best art… yet *no* indie artist can rival what the major labels gave us into the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
-So let's ditch old assumptions, and draw from reason. First, "indiefication" creates a "prisoner's dilemma," right? Once any artist redirects 5% of their efforts toward *getting* the job, rather than simply *deserving* it, all others will be forced to do the same. But this causes a "race to the bottom," as someone can now redirect *10%* of their efforts… then *15%*… and you get the picture.
+${'  ' || `
+// TODO: Review.
+`}
+
+So let's ditch old assumptions, and draw from reason. First, "indiefication" creates a "prisoner's dilemma," right? Once any artist redirects 5% of their efforts toward *getting* the job— rather than simply *deserving* it— all others will need to do the same. But this causes a "race to the bottom," as someone can now redirect *10%* of their efforts… then *15%*… and you get the picture.
 
 With this being the case, shouldn't we expect indiefication to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
