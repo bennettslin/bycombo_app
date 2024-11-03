@@ -18,10 +18,10 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! You 
 ### Tools… are *rules*
 
 ${'  ' || `
-// TODO: Revise. Mention being empowered, by hustling, to get themselves known. "Rather than a label to say they deserve to be." "For this reason, it provides them with tools…"
+// TODO: Review a few more times.
 `}
 
-Indie rock seeks to lower the barriers to entry for artists, and so it provides them with tools to forgo the major labels and build a fanbase on their own: social media, streaming services, crowdfunding platforms, and so forth.
+Indie rock seeks to lower the barriers to entry by empowering artists to get themselves known— rather than having to be *made* known by some record label. For this reason, it provides them with online tools that allow them to hustle and build a fanbase on their own: social media, streaming services, crowdfunding platforms, and so forth.
 
 Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their main purpose is to punish any holdouts. But wait… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
