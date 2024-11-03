@@ -18,10 +18,10 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! You 
 ### Tools… are *rules*
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise. Still needs work.
 `}
 
-Indie rock seeks to lower the barriers to entry by empowering artists to get themselves known— rather than having to be *made* known by some record label. For this reason, it provides them with online tools that allow them to hustle and build a fanbase on their own: social media, streaming services, crowdfunding platforms, and so forth.
+Indie rock seeks to lower the barriers to entry by empowering artists to get themselves known— where once they had to be *made* known, by a record label. For this reason, it provides them with online tools that allow them to hustle and build a fanbase on their own: social media, streaming services, crowdfunding platforms, and so forth.
 
 Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their main purpose is to punish any holdouts. But wait… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
@@ -44,12 +44,12 @@ By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my 
 And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, all art is now *subjective*; talent predicts nothing. Which means an indie label's only trusted measure is the *objective* size of an artist's fanbase. Good grief… Can we fix this mess?
 
 ${'  ' || `
-// TODO: Review next two paragraphs.
+// TODO: Review.
 `}
 
 Yes! You see, indie rock has a glaring weakness: It doesn't *actually* select for the best. It merely separates "serious" artists who hustle from "hobbyists" who don't— assuming that this amounts to the same thing. So to *refute* this assumption, we just need to make the best art… by *not* hustling! Here's how:
 
-**Interdependent bands must spend *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which *couldn't* have been made with *any* less effort.**
+**Interdependent bands must spend *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
 The downside is clear… So who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! As such, I spent 25,000 hours, or twelve full-time years, making [*Yearling's Bobtail*](https://yearlingsbobtail.com)— which includes coding and illustrating the audio webcomic. And of course, it was *only* by breaking indie rock's rules that I could do so. Surely, then, I'd be given amnesty!
 
