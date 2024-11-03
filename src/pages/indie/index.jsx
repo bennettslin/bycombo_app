@@ -223,9 +223,9 @@ ${'  ' || `
 // TODO: Review next two paragraphs.
 `}
 
-The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel beloved by libertarians— the business world's "indie camp" goes on strike against a progressive regime by selfishly refusing to do *any* work.
+The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So… how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*, a novel popular with libertarians, the business world's "indie camp" goes on strike against a progressive regime— by selfishly refusing to do *any* work.
 
-To protest against indie rock, then, the music world's "progressives" can do the opposite— and selflessly make the *best* works! Which, of course, is why I started BYCombo. So ignore those who insist that being indie is *every* artist's wish. There's now an opposition party that upholds the interdependence you want— out of a shared love for the craft.
+To protest against indie rock, then, the music world's "progressives" must do the opposite— and selflessly make the *best* works! Which, of course, is why I started BYCombo. So ignore those who insist that being indie is *every* artist's wish. There's now an opposition party that upholds the interdependence *you* want… out of a shared love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
