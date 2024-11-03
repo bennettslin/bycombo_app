@@ -215,7 +215,11 @@ Sadly, young people never question today's auto-Bizarro world, since it's all th
 
 Want even *more* absurdity? Any rich artist can simply pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— to the benefit of the privileged. How did this happen?
 
-Simply put, indie rock is widely seen as a "do it yourself" movement— the kind that fosters *cooperative* self-reliance by instilling love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
+${'  ' || `
+// TODO: Review.
+`}
+
+Simply put, indie rock is widely seen as a "do it yourself" movement— the kind that fosters *cooperative* self-reliance by sharing a love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
@@ -225,7 +229,7 @@ ${'  ' || `
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So… how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*, a novel popular with libertarians, the business world's "indie camp" goes on strike against a progressive regime— by selfishly refusing to do *any* work.
 
-To protest against indie rock, then, the music world's "progressives" must do the opposite— and selflessly make the *best* works! Which, of course, is why I started BYCombo. So ignore those who insist that being indie is *every* artist's wish. There's now an opposition party that upholds the interdependence *you* want… out of a shared love for the craft.
+To protest against indie rock, then, the music world's "progressives" should do the opposite— and selflessly make the *best* works! Of course, this is why I started BYCombo. So ignore those who insist that being indie is *every* artist's wish. There's now an opposition party that upholds the interdependence *you* prefer… out of a shared love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
