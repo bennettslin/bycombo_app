@@ -215,17 +215,9 @@ Sadly, young people never question today's auto-Bizarro world, since it's all th
 
 Want even *more* absurdity? Any rich artist can simply pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— to the benefit of the privileged. How did this happen?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Simply put, indie rock is widely seen as a "do it yourself" movement— the kind that fosters *cooperative* self-reliance by sharing a love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
-
-${'  ' || `
-// TODO: Review next two paragraphs.
-`}
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So… how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*, a novel popular with libertarians, the business world's "indie camp" goes on strike against a progressive regime— by selfishly refusing to do *any* work.
 
@@ -253,11 +245,15 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But this creates its own problems, doesn't it? Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who'd rather hustle to *get* the job— than work to *deserve* it. Which is even worse than it seems…
+Here's the problem, though: Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who'd rather hustle to *get* the job— than work to *deserve* it. Seems bad, right? Yet it's even worse…
 
 You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now, *every* artist must waste time and energy on the hustle!
 
-To complicate matters, the prisoner's dilemma is a collective action problem: Since it's due to individuals acting in their own interest, the solution *has* to come from the top down, through centralized efforts. Yet… the indie camp's thinking is bottom up! And so they *can't* clean up this mess they've created…
+${'  ' || `
+// TODO: Review.
+`}
+
+To complicate matters, the prisoner's dilemma is a collective action problem: Since it's caused by individuals acting in their own interest, the solution *has* to come from the top down, through centralized efforts. Yet the indie camp's thinking is bottom up! And so they *can't* clean up this mess they've created…
 
 ${'  ' || `
 // TODO: Review.
@@ -279,7 +275,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing what this entails! Fortunately, BYCombo promises to be an elitist gatekeeper, if you'll pledge to make the best art— namely, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing what this entails! Fortunately, BYCombo promises to be an effective gatekeeper, if you'll pledge to make the best art— namely, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -330,10 +326,6 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a potential pa
 While indie artists value solidarity, rappers [revel in snobbery](https://youtu.be/78SV9tguyVM). Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
 
 Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry it as "rockism"— implying that such snobbery is akin to racism.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 But once competition happens *away* from public view— as with self-reliance, for example— the disadvantaged have no way to foil the hidden advantages of others: being born rich, having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
@@ -498,10 +490,6 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these orbits into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is widely thought to deliver the best art… yet *no* indie artist can rival what the major labels gave us into the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So let's ditch old assumptions, and draw from reason. First, "indiefication" creates a "prisoner's dilemma," right? Once any artist redirects 5% of their efforts toward *getting* the job— rather than simply *deserving* it— all others will need to do the same. But this causes a "race to the bottom," as someone can now redirect *10%* of their efforts… then *15%*… and you get the picture.
 
