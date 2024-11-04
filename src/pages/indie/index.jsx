@@ -219,13 +219,13 @@ Simply put, indie rock is widely seen as a "do it yourself" movement— the kind
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
-The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So… how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*, a novel popular with libertarians, the business world's "indie camp" goes on strike against a progressive regime— by selfishly refusing to do *any* work.
-
 ${'  ' || `
-// TODO: Review.
+// TODO: Review next two paragraphs.
 `}
 
-To protest against indie rock, then, the music world's "progressives" should do the opposite— and selflessly make the *best* works! So ignore those who insist that you need to hustle, saying it's the only way. With BYCombo, there's now an opposition movement that upholds the interdependence *you* want… out of a shared love for the craft.
+The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So… how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*, a novel popular with libertarians, the business world's "indie camp" goes on strike against a progressive regime by *refusing* to help society advance.
+
+To protest against indie rock, then, the music world's "progressives" should do the opposite, and *readily* advance the art form— even with no promise of compensation! So ignore those who insist that *some* effort must be diverted away from making art, saying there's just no other way. There is now— with BYCombo, an opposition party that shares your love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -245,19 +245,15 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Here's the problem, though: Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who'd rather hustle to *get* the job— than work to *deserve* it. Seems bad, right? Yet it's even worse…
+Here's the problem, though: Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who'd rather hustle to *get* the job, than work to *deserve* it. Seems bad, right? Yet it's even worse…
 
 You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now, *every* artist must waste time and energy on the hustle!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review next two paragraphs.
 `}
 
 To complicate matters, the prisoner's dilemma is a collective action problem: Since it's caused by individuals acting in their own interest, the solution *has* to come from the top down, through centralized efforts. Yet the indie camp's thinking is bottom up! And so they *can't* clean up this mess they've created…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 The lesson here, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— or rule by those who hustle to get themselves known. So now what, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
 
@@ -491,7 +487,11 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is widely thought to deliver the best art… yet *no* indie artist can rival what the major labels gave us into the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
-So let's ditch old assumptions, and draw from reason. First, "indiefication" creates a "prisoner's dilemma," right? Once any artist redirects 5% of their efforts toward *getting* the job— rather than simply *deserving* it— all others will need to do the same. But this causes a "race to the bottom," as someone can now redirect *10%* of their efforts… then *15%*… and you get the picture.
+${'  ' || `
+// TODO: Review.
+`}
+
+So let's ditch old assumptions, and draw from reason. First, "indiefication" creates a "prisoner's dilemma," right? Once any artist redirects 5% of their efforts toward *getting* the job— rather than simply *deserving* it— all others will need to do the same. But this causes a "race to the bottom," as another artist can now redirect 10% of their efforts… then 15%… 20%…
 
 With this being the case, shouldn't we expect indiefication to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
