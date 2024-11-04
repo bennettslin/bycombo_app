@@ -225,7 +225,7 @@ ${'  ' || `
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So… how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*, a novel popular with libertarians, the business world's "indie camp" goes on strike against a progressive regime by *refusing* to help society advance.
 
-To protest against indie rock, then, the music world's "progressives" should do the opposite, and *readily* advance the art form— even with no promise of compensation! So ignore those who insist that *some* effort must be diverted away from making art, saying there's just no other way. There is now— with BYCombo, an opposition party that shares your love for the craft.
+To protest against indie rock, then, the music world's "progressives" can do the opposite by *readily* advancing the art form— even with no compensation! So ignore those indie pundits who insist that *some* effort must be diverted toward building a fanbase, saying there's no other path. There is one *now*— with BYCombo, an opposition party that shares your love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -491,7 +491,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So let's ditch old assumptions, and draw from reason. First, "indiefication" creates a "prisoner's dilemma," right? Once any artist redirects 5% of their efforts toward *getting* the job— rather than simply *deserving* it— all others will need to do the same. But this causes a "race to the bottom," as another artist can now redirect 10% of their efforts… then 15%… 20%…
+So let's ditch old assumptions, and draw from reason. First, "indiefication" creates a "prisoner's dilemma," right? Once an artist redirects 5% of their efforts toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this causes a "race to the bottom," as any other artist can now redirect *10%* of their efforts… then *15%*… *20%*…
 
 With this being the case, shouldn't we expect indiefication to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
