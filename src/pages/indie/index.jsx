@@ -225,7 +225,11 @@ ${'  ' || `
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So… how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*, a novel popular with libertarians, the business world's "indie camp" goes on strike against a progressive regime by *refusing* to help society advance.
 
-To protest against indie rock, then, the music world's "progressives" can do the opposite by *readily* advancing the art form— even with no compensation! So ignore those indie pundits who insist that *some* effort must be diverted toward building a fanbase, saying there's no other path. There is one *now*— with BYCombo, an opposition party that shares your love for the craft.
+${'  ' || `
+// TODO: Revise. Still not sure this gets at what I'm trying to say. What exactly is the thing for which there's no other path?
+`}
+
+To protest against indie rock, then, the music world's "progressives" can do the opposite by *readily* advancing the art form— even with no compensation! So ignore those who insist that *some* effort must be diverted toward being self-reliant, saying there's no other path. There is one *now*— with BYCombo, an opposition party that shares your love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
