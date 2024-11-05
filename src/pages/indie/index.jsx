@@ -101,7 +101,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the '90s, though, we [began to call](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they'd *only* ever signed to an indie label. Yet unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp decided that it *should* be. Now *any* artist who hustles to build a fanbase is considered indie… even one with mainstream tastes!
+In the '90s, though, we [began to call](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they'd only *ever* signed to an indie label. Yet unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp decided that it *should* be. Now *any* artist who hustles to build a fanbase is considered indie… even one with mainstream tastes!
 
 But… given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans— and thus, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock lost its countercultural edge and devolved into just another hustle culture. Yet Millennials still defend it, having never known it to be otherwise…
 
@@ -230,10 +230,10 @@ But being indie means gaining the *public's* attention, and this is a zero-sum g
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So… how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*, a novel popular with libertarians, the business world's "indie camp" goes on strike against a progressive regime by *refusing* to help society advance.
 
 ${'  ' || `
-// TODO: Revise. Still not sure this gets at what I'm trying to say. What exactly is the thing for which there's no other path?
+// TODO: Review.
 `}
 
-To protest against indie rock, then, the music world's "progressives" can do the opposite by *readily* advancing the art form— even with no compensation! So ignore those who insist that *some* effort must be diverted toward being self-reliant, saying there's no other path. There is one *now*— with BYCombo, an opposition party that shares your love for the craft.
+To protest against indie rock, then, the music world's "progressives" should do the opposite, and *readily* advance the art form… rather than their own prospects as indie artists! So ignore those telling you to divert *some* effort toward being self-reliant, saying there's no other path. There is one *now*, with BYCombo— an opposition party that shares your love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
