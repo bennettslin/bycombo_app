@@ -101,13 +101,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they'd only *ever* signed to an indie label. Yet unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp decided that it *should* be. Now *any* artist who hustles to build a fanbase is considered indie… even one with mainstream tastes!
+In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they'd only *ever* signed to an indie label, if they were signed at all. Yet unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is indie… even one with mainstream tastes!
 
 But… given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans— and thus, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock lost its countercultural edge and devolved into just another hustle culture. Yet Millennials still defend it, having never known it to be otherwise…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So now indie rock *obeys* the people's will… while no counterculture remains to *subvert* it. But what if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the major labels? Then rest assured, BYCombo is here to bring back elitist gatekeeping— the one chance left for subversive art in our times!
 
@@ -486,10 +482,6 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these orbits into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is widely thought to deliver the best art… yet *no* indie artist can rival what the major labels gave us into the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So let's ditch old assumptions, and draw from reason. First, "indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their efforts toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since anyone else can now redirect *10%* of their efforts… then *15%*… *20%*…
 
