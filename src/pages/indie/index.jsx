@@ -101,17 +101,17 @@ In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?co
 
 But… given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans— and thus, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock lost its countercultural edge and devolved into just another hustle culture. Yet Millennials still defend it, having never known it to be otherwise…
 
-So now indie rock *obeys* the people's will… while no counterculture remains to *subvert* it. But what if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the major labels? Then rest assured, BYCombo is here to bring back elitist gatekeeping— the one chance left for subversive art in our times!
+${'  ' || `
+// TODO: Review.
+`}
+
+So now indie rock *obeys* the people's will… while no counterculture remains to *subvert* it. But what if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the major labels? Then rest assured, BYCombo is here to bring back the elites— the one chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 There's another reason we respect those '80s underground bands: It feels like their legacy was *assured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
 But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to spread their works from the top down, they can use online tools to go viral from the bottom up. So now they're chosen by the people, *not* by the elites… making them indie artists in good faith!
-
-${'  ' || `
-// TODO: Revise. Elites.
-`}
 
 All is well, then, according to the indie camp: Online, the grassroots remains a *populist* domain. It's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the many who don't. Still, what if *you* were hoping to assure your legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
 
@@ -247,7 +247,11 @@ You see, pollution is an example of the famous "prisoner's dilemma," where each 
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from the top down, through centralized efforts. Yet the indie camp's thinking is bottom up! Which means they *can't* fix this mess they've created…
 
-The lesson here, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— or rule by those who hustle to get themselves known. So now what, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
+${'  ' || `
+// TODO: Review.
+`}
+
+The lesson here, then, is that by lowering the barriers to entry, we *don't* end up with democracy, but rather "indieocracy"— or rule by those who hustle to get themselves known. So now what, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
@@ -387,7 +391,11 @@ Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https:/
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups— who generate most creative ideas in the arts. And when in doubt, we imitate others— yet they have the same biases that we do. For revolutions to succeed, then, the research is clear: The elites *must* get involved, by spreading these creative ideas from the top down.
 
-Yet indie rock told us to do *away* with elites: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as Romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as Romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
 So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help to usher it in.
 
