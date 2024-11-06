@@ -97,10 +97,6 @@ As with MAGA, then, indie rock's weakness for confusion ends up hurting its own.
 
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the *people*— not by the *elites*." Well, actually… this is a revisionist explanation. Back then, the people and the elites were understood to be on the same side— the mainstream— while the underground sheltered those who *subverted* the people's will.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) such bands "indie," to affirm that they'd only *ever* signed to an indie label, if they were signed at all. Yet unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is indie… even one with mainstream tastes!
 
 But… given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans— and thus, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock lost its countercultural edge and devolved into just another hustle culture. Yet Millennials still defend it, having never known it to be otherwise…
@@ -229,7 +225,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To protest against indie rock, then, the music world's "progressives" should do the opposite, and *readily* advance the art form… rather than their own prospects as indie artists! So ignore those telling you to divert *some* effort toward being self-reliant, saying there's no other path. There is one *now*, with BYCombo— an opposition party that shares your love for the craft.
+To protest against indie rock, then, the music world's "progressives" can do the opposite, and *readily* advance the art form… even if this hurts their own prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the opposition party that shares your love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
