@@ -101,10 +101,6 @@ In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?co
 
 But… given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans— and thus, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock lost its countercultural edge and devolved into just another hustle culture. Yet Millennials still defend it, having never known it to be otherwise…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 So now indie rock *obeys* the people's will… while no counterculture remains to *subvert* it. But what if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the major labels? Then rest assured, BYCombo is here to bring back the elites— the one chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
@@ -251,7 +247,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-The lesson here, then, is that by lowering the barriers to entry, we *don't* end up with democracy, but rather "indieocracy"— or rule by those who hustle to get themselves known. So now what, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
+The lesson here, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— or rule by those who hustle to get themselves known. So now what, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
@@ -390,10 +386,6 @@ To sum up, it was the *indie camp*, with their grudges against the majors, who g
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're the new word of mouth— which indie rock has *always* held in high esteem. So maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups— who generate most creative ideas in the arts. And when in doubt, we imitate others— yet they have the same biases that we do. For revolutions to succeed, then, the research is clear: The elites *must* get involved, by spreading these creative ideas from the top down.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as Romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
