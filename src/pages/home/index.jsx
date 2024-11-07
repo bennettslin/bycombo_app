@@ -44,10 +44,10 @@ By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my 
 And that's the funny part: Rock *was* interdependent once! Well then, can't a band simply promise to make the best art, as before? Sadly, no. In a world of charitable support, all art is now *subjective*; talent predicts nothing. Which means an indie label's only trusted measure is the *objective* size of an artist's fanbase. Good grief… Can we fix this mess?
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Keep working on.
 `}
 
-Yes! You see, indie rock has a glaring weakness: It doesn't *actually* select for the best. It merely separates "serious" artists, who hustle, from "hobbyists," who don't— assuming that this amounts to the same thing. So to *refute* this assumption, we need to prove that it doesn't eliminate *just* the worst art… but *also* the best! Here's how:
+Yes! You see, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the rest. It merely picks "serious" ones, who hustle, over "hobbyists," who don't— assuming that this amounts to the same thing. So to *refute* this assumption, we just need to prove that it's the ones who *don't* hustle… who have any chance of making the best art! Here's how:
 
 **Interdependent bands must spend *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
