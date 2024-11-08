@@ -443,10 +443,6 @@ Here's my point: Suppose an indie label were willing to sign me *before* my band
 
 Luckily, having struggled for half my life to attract bandmates, I anticipated that the best artists would gradually prefer to be *assembled* into bands— and that this, in turn, could open up *another* frontier to explore! So relax, and put all your effort into simply *deserving* the most dedicated bandmates… safe in the knowledge that BYCombo will then help you find them.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. History tracks aesthetics, not logistics
 
 When is it a "larp"? Here's a test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the real hero… the *app*?
