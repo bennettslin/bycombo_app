@@ -47,7 +47,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yes! You see, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the rest. It merely picks the "serious" ones, who hustle, over the "hobbyists," who don't— in the faith that this amounts to the same thing. So let's *refute* this assumption! Here's how:
+Yes! You see, indie rock has a glaring weakness: It doesn't *actually* separate the best artists from the rest. It merely picks the "serious" ones, who hustle, over the "hobbyists," who don't— in the faith that this amounts to the same thing. Well, we can *refute* this assumption! Here's how:
 
 **Interdependent bands must spend *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
