@@ -18,16 +18,20 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! You 
 ### Tools… are *rules*
 
 ${'  ' || `
-// TODO: Revise. Still needs work.
+// TODO: Review.
 `}
 
-Indie rock seeks to empower artists by lowering the barriers to entry to get themselves known— where once they had to be *made* known, by a record label. For this reason, it provides them with online tools that allow them to hustle and build a fanbase on their own: social media, streaming services, crowdfunding platforms, and so forth.
+In the past, artists were powerless to get themselves known, and could only hope to be *made* known, by a record label. But now, indie rock provides them with online tools that allow them to hustle and build a fanbase on their own: social media, streaming services, crowdfunding platforms… and so forth.
 
 Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their main purpose is to punish any holdouts. But wait… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
 And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if your band hopes to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet in my experience, few others sympathize. Well, how about a truce?
 
-**Yes— since rules are made to be followed, bands who refuse to empower themselves can't complain about remaining unknown. But— breaking the rules is how history gets made! So let's not rule out amnesty either.**
+${'  ' || `
+// TODO: Review.
+`}
+
+**Yes— since rules are made to be followed, bands who refuse to hustle can't complain about remaining unknown. But— breaking the rules is *also* how history gets made! So let's not rule out giving them amnesty either.**
 
 ### The outsider's dilemma
 
@@ -35,7 +39,11 @@ Here's the curious part: Ever notice that the best rappers *don't* worry about s
 
 It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's *inter*-dependent way of thinking. I'd rather be an "Eminem of rock" and have *partners* advocate for my band— while having these partners, in turn, depend on *us* to make the best art.
 
-By *not* empowering myself, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charitable-support-starts-an-arms-race), no other artist can hope to compete. Which means a *label* can only compete by signing indie artists… who work hard *not* to need them. What a mess! And yet, the future is clear:
+${'  ' || `
+// TODO: Review.
+`}
+
+By *not* hustling, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charitable-support-starts-an-arms-race), no other artist can hope to compete. Which means a *label* can only compete by signing indie artists… who work hard *not* to need them. What a mess! And yet, the future is clear:
 
 **As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… as it's the only way to make the best art!**
 
@@ -73,9 +81,13 @@ If we can't resist, though— let's revolt! How? We… wait. See, indie rock has
 
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! Which is the first step to reviving interdependence, since it's only once the *youth* are discontent that budding entrepreneurs will think to disrupt the market; discerning curators will hasten to redeem the arts; and future historians will know to teach the mistakes of our past.
 
-These "Dr. Dres of rock" would love to give amnesty to interdependent bands who've broken indie rock's rules… but how? Any such band currently remains unknown for having done so, and the field today is more crowded than ever. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. Here's the general idea:
+${'  ' || `
+// TODO: Review next two paragraphs.
+`}
 
-**Each BYCombo band promises *not* to empower themselves. Instead, they'll earn a partner's trust by sacrificing a serious chunk of lifetime to make a demo that advances the art form.**
+These "Dr. Dres of rock" would love to give amnesty to interdependent bands who've broken indie rock's rules… but how? Any such band currently remains unknown for having done so, and with today's low barriers to entry, the field is more crowded than ever. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. Here's the general idea:
+
+**Each BYCombo band promises *not* to get themselves known. Instead, they'll earn a partner's trust by sacrificing a serious chunk of lifetime to make a demo that advances the art form.**
 
 So picture a *hundred* BYCombo bands, all of them committed to making the historically consequential works of our times. This will be the *final* step to reviving interdependence— the next revolution in rock history!
             `,
