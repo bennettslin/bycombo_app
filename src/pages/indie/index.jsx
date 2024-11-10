@@ -27,7 +27,7 @@ ${'  ' || `
 // TODO: Revise. Statement of amnesty program.
 `}
 
-**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make demos worthy of the historical canon, which they'll show in our demo registry to find partners from a counterculture of interdependence.**
+**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make demos worthy of the historical canon, which they'll then show in our registry to plead for interdependent-minded partners to grant them amnesty.**
 
 Okay, that's a mouthful! Let's break it down…
 
@@ -35,13 +35,20 @@ Okay, that's a mouthful! Let's break it down…
 
 ${'  ' || `
 // TODO: Revise. Replace with need for amnesty. Good guys enforce rules.
+
+For scraps:
+A counterculture shelters dangerous ideas, yet we haven't had one for some time. Meanwhile, despite indie rock's good intentions, music is now worse. But what if music is worse… *because* of these good intentions?! What if all this charitable support for *artists*… is bad for the *arts*?! These are dangerous ideas, yet they might be rock's only hope— so let's give them shelter.
 `}
 
-**Why a counterculture?**
+**Why an amnesty program?**
 
-A counterculture shelters dangerous ideas, yet we haven't had one for some time. Meanwhile, despite indie rock's good intentions, music is now worse. But what if music is worse… *because* of these good intentions?! What if all this charitable support for *artists*… is bad for the *arts*?! These are dangerous ideas, yet they might be rock's only hope— so let's give them shelter.
+Thanks to Millennials, "good guys" with only the best of intentions are now the ones in charge. Yet even so, music has gotten worse. Well, what if music is now worse… *because* of these good intentions?! What if all this charitable support for *artists*… is bad for the *arts*?!
 
-**Why the historical canon?**
+${'  ' || `
+// TODO: Review title.
+`}
+
+**Why historical consequence?**
 
 When fans charitably support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must consciously *aim* to do so— because without this intent, they'll naturally settle for being content creators instead.
 
@@ -55,7 +62,11 @@ Has rock explored all the ways a band can come together? It sure seems so— ass
 
 Or— suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized nonprofit like BYCombo to help them come together.
 
-**Why interdependent partners?**
+${'  ' || `
+// TODO: Review title.
+`}
+
+**Why interdependence?**
 
 To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they need to *need* partners.
 
@@ -63,13 +74,13 @@ To aim for the canon, a band must develop exceptional strengths. But this isn't 
 
 A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this is a *curse*, not a *blessing*! Past artists put out *demos*— and to rival them means doing likewise.
 
+**Why a demo *registry*?**
+
 ${'  ' || `
-// TODO: Revise. Amnesty program.
+// TODO: Revise.
 `}
 
-**Why a demo registry?**
-
-A stellar demo can only be found by sifting through hundreds— so the indie tastemakers rarely bother, since *all* their artists get charitably supported. A history-making band's best bet, then, is to win over elitist gatekeepers like BYCombo, who recognize the *folly* of indie rock's good intentions— and our demo registry is where they'll find partners.
+A stellar demo can only be found by sifting through hundreds— so the indie tastemakers rarely bother, since *all* their artists get charitably supported. A history-making band's best bet, then, is to side with elitist gatekeepers like BYCombo, who recognize the *folly* of indie rock's good intentions— and our demo registry is where they'll find partners.
 
 **Why serious chunks of lifetime?**
 

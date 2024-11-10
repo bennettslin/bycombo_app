@@ -23,7 +23,7 @@ Except… here's the problem: These tools only offer an advantage over other art
 
 And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if your band hopes to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet in my experience, few others sympathize. Well, how about a truce?
 
-**Yes— since rules are made to be followed, bands who refuse to hustle can't complain about remaining unknown. But— breaking the rules is *also* how history gets made! So let's not rule out giving them amnesty either.**
+**Yes— since rules are made to be followed, bands who refuse to hustle can't complain about remaining unknown. But— breaking the rules is *also* how history gets made! So let's not rule out amnesty either.**
 
 ### The outsider's dilemma
 
@@ -67,9 +67,13 @@ Sure enough, the last two decades of rock have had [little impact](https://today
 
 These "Dr. Dres of rock" would love to give amnesty to interdependent bands who've broken indie rock's rules… but how? Any such band currently remains unknown for having done so, and with today's low barriers to entry, the field is more crowded than ever. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. Here's the general idea:
 
-**Each BYCombo band promises *not* to get themselves known. Instead, they'll earn a partner's trust by sacrificing a serious chunk of lifetime to make a demo that advances the art form.**
+${'  ' || `
+// TODO: Review next two paragraphs.
+`}
 
-So picture a *hundred* BYCombo bands, all of them committed to making the historically consequential works of our times. This will be the *final* step to reviving interdependence— the next revolution in rock history!
+**To build a case for partners to grant them amnesty, each BYCombo band will sacrifice a serious chunk of lifetime to make a demo that advances the art form, which we'll then show in our demo registry.**
+
+So picture a *hundred* such bands, each of them committed to giving us the historically consequential works of our times. This will be the *final* step to reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
