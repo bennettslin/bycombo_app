@@ -24,33 +24,33 @@ First, we raise *awareness*. Because "indie" equates to "good" for so many, few 
 From there, it's an *action* problem. Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 ${'  ' || `
-// TODO: Revise. Statement of amnesty program.
+// TODO: Review.
 `}
 
-**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make demos worthy of the historical canon, which they'll then show in our registry to plead for interdependent partners to grant them amnesty.**
+**Interdependent bands, assembled by BYCombo, will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which will then be shown in our registry to find partners who'll grant them amnesty.**
 
 Okay, that's a mouthful! Let's break it down…
 
 ### The revolution will *not* be decentralized
 
 ${'  ' || `
-// TODO: Revise. Replace with need for amnesty. Good guys enforce rules.
+// TODO: Revise. Replace with need for amnesty. Good guys enforce rules. Specify amnesty program.
 
 For scraps:
-A counterculture shelters dangerous ideas, yet we haven't had one for some time. Meanwhile, despite indie rock's good intentions, music is now worse. But what if music is worse… *because* of these good intentions?! What if all this charitable support for *artists*… is bad for the *arts*?! These are dangerous ideas, yet they might be rock's only hope— so let's give them shelter.
+
 `}
 
-**Why an amnesty program?**
+**Why amnesty?**
 
 Thanks to Millennials, "good guys" with only the best of intentions are now the ones in charge. Yet even so, music has gotten worse. Well, what if music is now worse… *because* of these good intentions?! What if all this charitable support for *artists*… is bad for the *arts*?!
 
+**Why the historical canon?**
+
 ${'  ' || `
-// TODO: Review title.
+// TODO: Review.
 `}
 
-**Why historical consequence?**
-
-When fans charitably support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must consciously *aim* to do so— because without this intent, they'll naturally settle for being content creators instead.
+When fans charitably support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must consciously *aim* to do so— because without this explicit intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
@@ -66,9 +66,13 @@ ${'  ' || `
 // TODO: Review title.
 `}
 
-**Why interdependence?**
+**Why interdependence? Why partners?**
 
-To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they need to *need* partners.
+${'  ' || `
+// TODO: Review.
+`}
+
+To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to need partners.
 
 **Why demos?**
 
