@@ -27,7 +27,7 @@ ${'  ' || `
 // TODO: Revise. Statement of amnesty program.
 `}
 
-**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make demos worthy of the historical canon, which they'll then show in our registry to plead for interdependent-minded partners to grant them amnesty.**
+**BYCombo's assembled bands will sacrifice serious chunks of lifetime to make demos worthy of the historical canon, which they'll then show in our registry to plead for interdependent partners to grant them amnesty.**
 
 Okay, that's a mouthful! Let's break it down…
 

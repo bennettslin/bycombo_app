@@ -71,9 +71,9 @@ ${'  ' || `
 // TODO: Review next two paragraphs.
 `}
 
-**To build a case for partners to grant them amnesty, each BYCombo band will sacrifice a serious chunk of lifetime to make a demo that advances the art form, which we'll then show in our demo registry.**
+**Each BYCombo band will sacrifice a serious chunk of lifetime to make a demo that advances the art form, which they'll then show in our demo registry to build a case for partners to grant them amnesty.**
 
-So picture a *hundred* such bands, each of them committed to giving us the historically consequential works of our times. This will be the *final* step to reviving interdependence— the next revolution in rock history!
+So picture a *hundred* such bands, all of them committed to giving us the historically consequential works of our times. This will be the *final* step to reviving interdependence— the next revolution in rock history!
             `,
         }}
     />
