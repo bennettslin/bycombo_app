@@ -46,10 +46,6 @@ Thanks to Millennials, "good guys" with only the best of intentions are now the 
 
 **Why the historical canon?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 When fans charitably support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must consciously *aim* to do so— because without this explicit intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
@@ -62,15 +58,7 @@ Has rock explored all the ways a band can come together? It sure seems so— ass
 
 Or— suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized nonprofit like BYCombo to help them come together.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 **Why interdependence? Why partners?**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to need partners.
 
