@@ -11,7 +11,7 @@ const Component = ({ sectionCounter = 0 }) => (
             title: TITLE,
             metaTitle: TITLE,
             metaDescription: DESCRIPTION,
-            date: { year: 2024, month: 10, updated: true },
+            date: { year: 2024, month: 11, updated: true },
             body: `
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
@@ -73,17 +73,21 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a demo *registry*?**
 
-A stellar demo can only be found by sifting through hundreds— so the indie tastemakers rarely bother, since *anyone* they sign gets charitably supported all the same. A history-making band's best bet, then, is to partner with elites who see the *folly* of indie rock's good intentions— and our demo registry is where each can find the other.
+${'  ' || `
+// TODO: Review.
+`}
+
+A stellar demo can only be found by sifting through hundreds— so the indie tastemakers rarely bother, since *anyone* they sign gets charitably supported all the same. A history-making band's best bet, then, is to partner with elites who see the *folly* of indie rock's good intentions— and our registry is where these elites will know to find their demo.
 
 **Why serious chunks of lifetime?**
 
 ${'  ' || `
-// TODO: Keep working on. Make sure gatekeeper and amnesty are mentioned.
+// TODO: Review next two paragraphs.
 `}
 
-Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature. To save rock, then, a centralized nonprofit like BYCombo must now step up and serve as an elitist gatekeeper, by enforcing a steep *cost* of entry.
+Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature. To save rock, then, a centralized nonprofit like BYCombo must now step up and serve as a gatekeeper for the elites, by enforcing a steep *cost* of entry.
 
-This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you truly have; once that chunk is gone, it's *gone*! Which means there's nothing more precious that a band can sacrifice to make a case for amnesty to budding entrepreneurs, discerning curators, and future historians alike.
+This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in asking for amnesty from budding entrepreneurs, discerning curators, and future historians alike.
 
 **And finally… how has indie rock made music worse?**
 
