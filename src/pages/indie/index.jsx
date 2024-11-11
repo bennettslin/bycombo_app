@@ -74,10 +74,12 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 **Why a demo *registry*?**
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review next two paragraphs.
 `}
 
-A stellar demo can only be found by sifting through hundreds— so the indie tastemakers rarely bother, since *anyone* they sign gets charitably supported all the same. A history-making band's best bet, then, is to partner with elites who see the *folly* of indie rock's good intentions— and our registry is where these elites will know to find their demo.
+Since a stellar demo can only be found by sifting through thousands, most labels no longer bother. Not so much because it's hard work; rather, it leaves them open to getting sued, if an artist of theirs later sounds too similar to a demo they once rejected.
+
+But indie labels in *particular* have no incentive to discover such potential, given that *any* artist they sign will be charitably supported just the same. A history-making band's best bet, then, is to partner with elites who see the *folly* of indie rock's good intentions— and a demo registry is where these elites will know to find them, safe from the threat of lawsuits.
 
 **Why serious chunks of lifetime?**
 
@@ -311,7 +313,7 @@ The issue is that these labels are run by society's most privileged groups— an
 
 But so far, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* the same. Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*; and women, of low *competence*. Yet social justice, when self-enforced, *only* fixes misjudgments of competence; a circle of friends has every right to feel more warmly toward their own.
 
-You'll notice, then, that we minorities *aren't* ones to begrudge a potential partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://web.archive.org/web/20141122/https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
+You'll notice, then, that we minorities *aren't* ones to begrudge a business partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://web.archive.org/web/20141122/https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
