@@ -23,10 +23,6 @@ First, we raise *awareness*. Because "indie" equates to "good" for so many, few 
 
 From there, it's an *action* problem. Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
-${'  ' || `
-// TODO: Review.
-`}
-
 **Interdependent bands, assembled by BYCombo, will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which we'll then show in our registry to find partners who'll grant them amnesty.**
 
 Okay, that's a mouthful! Let's break it down…
@@ -51,11 +47,19 @@ When fans charitably support an artist, they want *content*— namely, art that 
 
 **Why bands?**
 
-Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, if any. But what competitive edge could a solo artist possibly have nowadays, to put them among the best for all *time*? From now until forever, if artists want to aim for the canon, they'll need to be greater than the sum of their parts— and in rock, this happens by forming *bands*.
+${'  ' || `
+// TODO: Review.
+`}
+
+Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, if any. But what competitive edge could a solo artist possibly have nowadays, to put them among the best for all *time*? From now until forever, if artists want to make history, they'll need to be greater than the sum of their parts— and in rock, this happens by forming *bands*.
 
 **Why *assembled* bands?**
 
-Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always form on their own. Ditch this notion, however… and we've barely scratched the surface! What if artists hoping to make history could flock to a single hub from across the world? What if a cartoonist could also join— and bands, in turn, could think to look for one?
+${'  ' || `
+// TODO: Review.
+`}
+
+Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always form on their own, in a decentralized free-for-all. But let's ditch this notion for a moment. What if any artist hoping to make history could flock to a single hub from across the world? What if a dancer could also join— and bands, in turn, could think to look for one?
 
 Or— suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized nonprofit like BYCombo to help them come together.
 
@@ -68,10 +72,6 @@ To aim for the canon, a band must develop exceptional strengths. But this isn't 
 A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this is a *curse*, not a *blessing*! Past artists put out *demos*— and to rival them means doing likewise.
 
 **Why a demo *registry*?**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 A stellar demo can only be found by sifting through hundreds— so the indie tastemakers rarely bother, since *anyone* they sign gets charitably supported all the same. A history-making band's best bet, then, is to partner with elites who see the *folly* of indie rock's good intentions— and our demo registry is where each can find the other.
 
@@ -229,7 +229,7 @@ But being indie means gaining the *public's* attention, and this is a zero-sum g
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So… how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*, a novel popular with libertarians, the business world's "indie camp" goes on strike against a progressive regime by *refusing* to help society advance.
 
-To protest against indie rock, then, the music world's "progressives" can do the opposite, and *readily* advance the art form… even if this hurts their own prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the opposition party that shares your love for the craft.
+To protest against indie rock, then, the music world's "progressives" can do the opposite, and *readily* advance the art form… even if this hurts their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the opposition party that shares your love of the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -478,10 +478,6 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these orbits into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is widely thought to deliver the best art… yet *no* indie artist can rival what the major labels gave us into the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So let's ditch old assumptions, and think in systems. First, "indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their efforts toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since anyone else can now redirect *10%* of their efforts… then *15%*… *20%*…
 
