@@ -74,12 +74,12 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 **Why a demo *registry*?**
 
 ${'  ' || `
-// TODO: Review next two paragraphs.
+// TODO: Keep working on. Ideas are all laid down, but not worded well.
 `}
 
-Since a stellar demo can only be found by sifting through thousands, most labels no longer bother. Not so much because it's hard work; rather, it leaves them open to getting sued, if an artist of theirs later sounds too similar to a demo they once rejected.
+A stellar demo can only be found by sifting through thousands, and so the indie labels rarely bother. Not only is it hard work, they have no incentive to discover such potential, since *any* artist they sign will be charitably supported just the same. A history-making band's best bet, then, is to partner with elites who see the *folly* of indie rock's good intentions.
 
-But indie labels in *particular* have no incentive to discover such potential, given that *any* artist they sign will be charitably supported just the same. A history-making band's best bet, then, is to partner with elites who see the *folly* of indie rock's good intentions— and a demo registry is where these elites will know to find them, safe from the threat of lawsuits.
+Unfortunately, the elites are wary of sifting through demos for a different reason: If one of their artists later sounds too similar to a demo they once rejected, then this puts them at risk of getting sued. The solution, then, is a demo registry, which allows them to safely… without the threat of lawsuits.
 
 **Why serious chunks of lifetime?**
 
@@ -483,7 +483,11 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these orbits into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
-Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is widely thought to deliver the best art… yet *no* indie artist can rival what the major labels gave us into the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
+${'  ' || `
+// TODO: Review.
+`}
+
+Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is understood by many to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
 So let's ditch old assumptions, and think in systems. First, "indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their efforts toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since anyone else can now redirect *10%* of their efforts… then *15%*… *20%*…
 
