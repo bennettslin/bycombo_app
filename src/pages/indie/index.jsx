@@ -29,6 +29,8 @@ Okay, that's a mouthful! Let's break it down…
 
 ### The revolution will *not* be decentralized
 
+**Why amnesty?**
+
 ${'  ' || `
 // TODO: Revise. Replace with need for amnesty. Good guys enforce rules.
 
@@ -37,9 +39,11 @@ Mention charitable support.
 Specify amnesty program.
 `}
 
-**Why amnesty?**
-
 Thanks to indie rock, "good guys" with only the best of intentions are now the ones in charge. Yet even so, music has gotten worse. Well, what if music is now worse… *because* of these good intentions?! What if all this charitable support for *artists*… is bad for the *arts*?!
+
+Once the "good guys" are finally put in charge, their rules are never again questioned. Millennials now insist that artists must follow the rules and get themselves known. But an artist trying to make the best art will want to break indie rock's rules.
+
+Unlike Boomers and Gen X, Millennials 
 
 **Why the historical canon?**
 
@@ -66,12 +70,12 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 **Why a demo *registry*?**
 
 ${'  ' || `
-// TODO: Keep working on. Ideas are all laid down, but not worded well.
+// TODO: Review next two paragraphs.
 `}
 
-A stellar demo can only be found by sifting through thousands, and so the indie labels rarely bother. Not only is it hard work, they have no incentive to discover such potential, since *any* artist they sign will be charitably supported just the same. A history-making band's best bet, then, is to partner with elites who see the *folly* of indie rock's good intentions.
+Since a stellar demo can only be found by sifting through *thousands*, the indie labels rarely bother. After all, *any* artist they sign will be charitably supported by the public, leaving them with little incentive to discover rare talent. A history-making band's best bet, then, is to partner with elites who see the *folly* of indie rock's good intentions.
 
-But the elites are also wary of sifting through demos, for a different reason: If one of their artists later sounds too similar to a demo they once rejected, then this puts them at risk of getting sued. The solution, then, is a demo registry, which allows them to safely… without the threat of lawsuits.
+The elites are just as wary of sorting through demos, however, for a different reason: If an artist of theirs later sounds too similar to a demo they're known to have heard, then this puts them at risk of getting sued. So the solution is a demo registry that anyone can safely browse, to no one else's knowledge.
 
 **Why serious chunks of lifetime?**
 
@@ -474,10 +478,6 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these orbits into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is understood by many to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
