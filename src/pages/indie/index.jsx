@@ -47,17 +47,9 @@ When fans charitably support an artist, they want *content*— namely, art that 
 
 **Why bands?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, if any. But what competitive edge could a solo artist possibly have nowadays, to put them among the best for all *time*? From now until forever, if artists want to make history, they'll need to be greater than the sum of their parts— and in rock, this happens by forming *bands*.
 
 **Why *assembled* bands?**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always form on their own, in a decentralized free-for-all. But let's ditch this notion for a moment. What if any artist hoping to make history could flock to a single hub from across the world? What if a dancer could also join— and bands, in turn, could think to look for one?
 
@@ -83,11 +75,11 @@ But the elites are also wary of sifting through demos, for a different reason: I
 
 **Why serious chunks of lifetime?**
 
-${'  ' || `
-// TODO: Review next two paragraphs.
-`}
-
 Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature. To save rock, then, a centralized nonprofit like BYCombo must now step up and serve as a gatekeeper for the elites, by enforcing a steep *cost* of entry.
+
+${'  ' || `
+// TODO: Review.
+`}
 
 This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in asking for amnesty from budding entrepreneurs, discerning curators, and future historians alike.
 
