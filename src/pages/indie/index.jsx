@@ -73,9 +73,9 @@ ${'  ' || `
 // TODO: Review next two paragraphs.
 `}
 
-Since a stellar demo can only be found by sifting through *thousands*, the indie labels rarely bother. After all, *any* artist they sign will be charitably supported by the public, leaving them with little incentive to discover rare talent. A history-making band's best bet, then, is to partner with elites who see the *folly* of indie rock's good intentions.
+Since a stellar demo can only be found by sifting through *thousands*, the indie labels rarely bother. After all, *any* artist they sign will be charitably supported by the public, thus giving them little incentive to discover rare talent. A history-making band's best bet, then, is to partner with elites who see the *folly* of indie rock's good intentions.
 
-The elites are just as wary of sorting through demos, however, for a different reason: If an artist of theirs later sounds too similar to a demo they're known to have heard, then this puts them at risk of getting sued. So the solution is a demo registry that anyone can safely browse, to no one else's knowledge.
+The elites are also wary of sorting through demos, however, but for another reason: If an artist of theirs later sounds too similar to a demo they're known to have heard, then this puts them at risk of getting sued. So the solution is a demo registry that anyone can safely browse, to no one else's knowledge.
 
 **Why serious chunks of lifetime?**
 
