@@ -34,7 +34,7 @@ Okay, that's a mouthful! Let's break it down…
 ${'  ' || `
 // TODO: Revise. Replace with need for amnesty. Good guys enforce rules.
 
-Mention charitable support.
+Mention charitable support by the public.
 
 Specify amnesty program.
 `}
@@ -70,12 +70,12 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 **Why a demo *registry*?**
 
 ${'  ' || `
-// TODO: Review next two paragraphs.
+// TODO: Revise. Wording is still just a little too off in both paragraphs.
 `}
 
-Since a stellar demo can only be found by sifting through *thousands*, the indie labels rarely bother. After all, *any* artist they sign will be charitably supported by the public, thus giving them little incentive to discover rare talent. A history-making band's best bet, then, is to partner with elites who see the *folly* of indie rock's good intentions.
+Stellar demos signifying exceptional talent can only be found by sorting through hundreds— and so the indie labels rarely bother, since *every* artist they sign gets charitably supported just the same. An interdependent band's best bet, then, is to partner with elites who recognize the *folly* of indie rock's good intentions.
 
-The elites are also wary of sorting through demos, however, but for another reason: If an artist of theirs later sounds too similar to a demo they're known to have heard, then this puts them at risk of getting sued. So the solution is a demo registry that anyone can safely browse, to no one else's knowledge.
+But the elites have their own reason to be wary of sifting through demos: If an artist of theirs later sounds too similar to a demo they're known to have heard, then this puts them at risk of getting sued. So the solution is to have for there to be a registry where all may discreetly browse.
 
 **Why serious chunks of lifetime?**
 
@@ -85,7 +85,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in asking for amnesty from budding entrepreneurs, discerning curators, and future historians alike.
+This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice in making their case for amnesty.
 
 **And finally… how has indie rock made music worse?**
 
@@ -228,6 +228,10 @@ Want even *more* absurdity? Any rich artist can simply pay *others* to do the mi
 Simply put, indie rock is widely seen as a "do it yourself" movement— the kind that fosters *cooperative* self-reliance by sharing a love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
+
+${'  ' || `
+// TODO: Revise. Make point that indie rock is an eternal strike?
+`}
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So… how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*, a novel popular with libertarians, the business world's "indie camp" goes on strike against a progressive regime by *refusing* to help society advance.
 
