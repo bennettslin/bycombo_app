@@ -73,17 +73,17 @@ ${'  ' || `
 // TODO: Revise. Ideas are there, wording is still off.
 `}
 
-While a stellar demo signifies exceptional talent, finding one requires sifting through hundreds. And so the indie labels rarely bother, since *every* artist they sign gets charitably supported just the same. An interdependent band's best bet, then, is to partner with elites who recognize the *folly* of indie rock's good intentions.
+A stellar demo signifies exceptional talent— but finding one means sifting through *hundreds*. And so the indie labels rarely bother, since *any* artist they sign will be charitably supported all the same. To win interdependence, then, bands must partner with elites who see the *folly* of today's good intentions.
 
-But the elites have their own reason to be wary: If a later work by an artist of theirs is too similar to a demo they once rejected, then this puts them at risk of getting sued. So the solution is for there to be a publicly known registry where anyone can discreetly browse.
+But the elites have their own reason to hesitate: If a later work by an artist of theirs is too similar to a demo they once rejected, then this opens them up to lawsuits. So the solution is for there to be a publicly known registry where anyone can discreetly browse.
 
 **Why serious chunks of lifetime?**
 
 ${'  ' || `
-// TODO: Review next two paragraphs.
+// TODO: Review.
 `}
 
-Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature. To save rock, then, a centralized nonprofit like BYCombo must now step up and serve as a gatekeeper for the elites— by enforcing a steep *cost* of entry.
+Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature. Our only hope, then, is for a centralized nonprofit like BYCombo to step up and serve as a gatekeeper for the elites— by enforcing a steep *cost* of entry.
 
 This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice in making their case for amnesty.
 
@@ -229,10 +229,6 @@ Simply put, indie rock is widely seen as a "do it yourself" movement— the kind
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
-${'  ' || `
-// TODO: Revise. Make point that indie rock is an eternal strike?
-`}
-
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So… how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*, a novel popular with libertarians, the business world's "indie camp" goes on strike against a progressive regime by *refusing* to help society advance.
 
 To protest against indie rock, then, the music world's "progressives" can do the opposite, and *readily* advance the art form… even if this hurts their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the opposition party that shares your love of the craft.
@@ -243,7 +239,11 @@ In game theory, the "stag hunt" is a game in which you and another player must d
 
 The [richest nations](https://web.archive.org/web/20210508/https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=Human%20society%20is,they%20trust%20me.) build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The reverse is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
-Indie artists work hard *not* to need a label, and will do so even [when signed](https://web.archive.org/web/20120706/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day flourish, the past proves that rock can be interdependent once again!
+${'  ' || `
+// TODO: Review.
+`}
+
+Indie artists work hard *not* to need a label, and will do so even [when signed](https://web.archive.org/web/20120706/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day flourish, the past proves that rock can win back its interdependence!
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others finally reciprocate the courage to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
