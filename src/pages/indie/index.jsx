@@ -55,7 +55,11 @@ Indie rock encourages artists to retain their earnings— which, today, means ha
 
 **Why *assembled* bands?**
 
-Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always form on their own, in a decentralized free-for-all. But let's ditch this notion for a moment. What if any artist hoping to make history could flock to a single hub from across the world? What if a dancer could also join— and bands, in turn, could think to look for one?
+${'  ' || `
+// TODO: Review.
+`}
+
+Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always form on their own, in a decentralized free-for-all. But let's ditch this notion for a moment. What if any musician hoping to make history could flock to a single hub from across the world? What if a cartoonist could also join— and bands, in turn, could think to look for one?
 
 Or— suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized nonprofit like BYCombo to help them come together.
 
@@ -70,12 +74,12 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 **Why a demo *registry*?**
 
 ${'  ' || `
-// TODO: Revise. Ideas are there, wording is still off.
+// TODO: Review next two paragraphs.
 `}
 
-A stellar demo signifies exceptional talent— but finding one means sifting through *hundreds*. And so the indie labels rarely bother, since *any* artist they sign will be charitably supported all the same. To win interdependence, then, bands must partner with elites who see the *folly* of today's good intentions.
+Stellar demos signify exceptional talent— but finding one means having to sift through *hundreds*. As a result, the indie labels rarely bother, since *every* artist they sign gets charitably supported just the same. An interdependent band's best bet, then, is to partner with elites who see the *folly* of indie rock's good intentions.
 
-But the elites have their own reason to hesitate: If a later work by an artist of theirs is too similar to a demo they once rejected, then this opens them up to lawsuits. So the solution is for there to be a publicly known registry where anyone can discreetly browse.
+The elites have their own reason to hesitate, though: If a later work by one of their artists is too similar to a demo they once rejected, this opens them up to lawsuits. So what we need is a demo registry— namely, an online location, known to the public, where anyone can discreetly browse the latest demos made by bands who hope to make history.
 
 **Why serious chunks of lifetime?**
 

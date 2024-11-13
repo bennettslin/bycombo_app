@@ -1,7 +1,7 @@
 import React from 'react'
 import Page from '../../containers/Page'
 
-const TITLE = `Be a martyr for interdependence!`
+const TITLE = `Join the interdependence revolution!`
 const DESCRIPTION = `Sacrifice a serious chunk of lifetime to advance the art form.`
 
 const Component = () => (
