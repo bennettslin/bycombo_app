@@ -77,9 +77,9 @@ ${'  ' || `
 // TODO: Review next two paragraphs.
 `}
 
-A stellar demo signifies exceptional talent— but finding one requires sifting through *thousands*. Unsurprisingly, then, the indie labels rarely bother, since *every* artist they sign gets charitably supported just the same. So a canonical band's best bet is to partner with elites who recognize the *folly* of indie rock's good intentions.
+A stellar demo signifies exceptional talent— but finding one requires sifting through *thousands*. For this reason, the indie labels rarely bother, since *every* artist they sign gets charitably supported just the same. An interdependent band's best bet, then, is to partner with elites who recognize the *folly* of indie rock's good intentions.
 
-The elites have their own reason to hesitate, though: If a later work by an artist of theirs is too similar to a demo they once rejected, this opens them up to lawsuits. What's needed, then, is a demo registry— namely, an online location that's known to the public, where anyone can discreetly browse the latest demos from interdependent bands.
+But the elites have their own reason to hesitate: If a later work by an artist of theirs sounds too much like a demo they once rejected, this opens them up to a lawsuit. So what we need is a demo registry— namely, an online location where anyone can discreetly hear the latest bands trying to make history.
 
 **Why serious chunks of lifetime?**
 
@@ -87,7 +87,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature. So a centralized nonprofit like BYCombo must now step up and serve as a gatekeeper for the elites— by enforcing a steep *cost* of entry.
+Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To save the arts, then, a centralized nonprofit like BYCombo must step up and serve as a gatekeeper for the elites— by enforcing a steep *cost* of entry.
 
 This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice in making their case for amnesty.
 
@@ -243,11 +243,7 @@ In game theory, the "stag hunt" is a game in which you and another player must d
 
 The [richest nations](https://web.archive.org/web/20210508/https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=Human%20society%20is,they%20trust%20me.) build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The reverse is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Indie artists work hard *not* to need a label, and will do so even [when signed](https://web.archive.org/web/20120706/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day flourish, the past proves that rock can win back its interdependence!
+Indie artists work hard *not* to need a label, and will do so even [when signed](https://web.archive.org/web/20120706/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day flourish, the past proves that rock can be interdependent once again!
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others finally reciprocate the courage to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
