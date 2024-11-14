@@ -77,9 +77,9 @@ ${'  ' || `
 // TODO: Review next two paragraphs.
 `}
 
-A stellar demo signifies exceptional talent— but finding one requires sifting through *thousands*. Unsurprisingly, then, the indie labels rarely bother, since *every* artist they sign gets charitably supported just the same. Which means an interdependent band's best bet is to partner with elites who see the *folly* of indie rock's good intentions.
+A stellar demo signifies exceptional talent— but finding one requires sifting through *thousands*. Unsurprisingly, then, the indie labels rarely bother, since *every* artist they sign gets charitably supported just the same. So a canonical band's best bet is to partner with elites who recognize the *folly* of indie rock's good intentions.
 
-The elites have their own reason to hesitate, though: If a later work by one of their artists is too similar to a demo they once rejected, this opens them up to lawsuits. So what we need is a demo registry— namely, an online location, known to the public, where anyone can discreetly browse the latest demos from bands who hope to make history.
+The elites have their own reason to hesitate, though: If a later work by an artist of theirs is too similar to a demo they once rejected, this opens them up to lawsuits. What's needed, then, is a demo registry— namely, an online location that's known to the public, where anyone can discreetly browse the latest demos from interdependent bands.
 
 **Why serious chunks of lifetime?**
 
@@ -87,7 +87,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature. Our only hope, then, is for a centralized nonprofit like BYCombo to step up and serve as a gatekeeper for the elites— by enforcing a steep *cost* of entry.
+Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock has no way to reverse this damage, given its decentralized nature. So a centralized nonprofit like BYCombo must now step up and serve as a gatekeeper for the elites— by enforcing a steep *cost* of entry.
 
 This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice in making their case for amnesty.
 
