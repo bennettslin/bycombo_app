@@ -77,9 +77,9 @@ ${'  ' || `
 // TODO: Review next two paragraphs.
 `}
 
-Stellar demos signify exceptional talent— but finding one means having to sift through *hundreds*. As a result, the indie labels rarely bother, since *every* artist they sign gets charitably supported just the same. An interdependent band's best bet, then, is to partner with elites who see the *folly* of indie rock's good intentions.
+A stellar demo signifies exceptional talent— but finding one requires sifting through *thousands*. Unsurprisingly, then, the indie labels rarely bother, since *every* artist they sign gets charitably supported just the same. Which means an interdependent band's best bet is to partner with elites who see the *folly* of indie rock's good intentions.
 
-The elites have their own reason to hesitate, though: If a later work by one of their artists is too similar to a demo they once rejected, this opens them up to lawsuits. So what we need is a demo registry— namely, an online location, known to the public, where anyone can discreetly browse the latest demos made by bands who hope to make history.
+The elites have their own reason to hesitate, though: If a later work by one of their artists is too similar to a demo they once rejected, this opens them up to lawsuits. So what we need is a demo registry— namely, an online location, known to the public, where anyone can discreetly browse the latest demos from bands who hope to make history.
 
 **Why serious chunks of lifetime?**
 
