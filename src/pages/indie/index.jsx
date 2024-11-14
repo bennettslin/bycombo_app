@@ -55,10 +55,6 @@ Indie rock encourages artists to retain their earnings— which, today, means ha
 
 **Why *assembled* bands?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always form on their own, in a decentralized free-for-all. But let's ditch this notion for a moment. What if any musician hoping to make history could flock to a single hub from across the world? What if a cartoonist could also join— and bands, in turn, could think to look for one?
 
 Or— suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized nonprofit like BYCombo to help them come together.
@@ -83,11 +79,7 @@ But the elites have their own reason to hesitate: If a later work by an artist o
 
 **Why serious chunks of lifetime?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To save the arts, then, a centralized nonprofit like BYCombo must step up and serve as a gatekeeper for the elites— by enforcing a steep *cost* of entry.
+Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To save the arts, then, a centralized nonprofit like BYCombo must now step up and serve as a gatekeeper for the elites— by enforcing a steep *cost* of entry.
 
 This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice in making their case for amnesty.
 
@@ -115,7 +107,11 @@ In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?co
 
 But… given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans— and thus, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock lost its countercultural edge and devolved into just another hustle culture. Yet Millennials still defend it, having never known it to be otherwise…
 
-So now indie rock *obeys* the people's will… while no counterculture remains to *subvert* it. But what if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the major labels? Then rest assured, BYCombo is here to bring back the elites— the one chance left for subversive art in an online world!
+${'  ' || `
+// TODO: Review.
+`}
+
+So now indie rock *obeys* the people's will… while no counterculture remains to *subvert* it. But what if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the major labels? Then rest assured, BYCombo is here to bring back elitism— the one chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -322,6 +318,12 @@ While indie artists value solidarity, rappers [revel in snobbery](https://youtu.
 Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry it as "rockism"— implying that such snobbery is akin to racism.
 
 But once competition happens *away* from public view— as with self-reliance, for example— the disadvantaged have no way to foil the hidden advantages of others: being born rich, having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
+
+${'  ' || `
+// TODO: Add paragraph. Which helps to explain why music has gotten worse: While the indie tastemakers are in the position to be elites, they shirk their duty to behave as such, and instead, obey the people's will— even as the people are instinctively drawn to the privileged! The disadvantaged side with elitism, then, because they fundamentally depend on the noblesse oblige that only elites can provide.
+
+https://www.nytimes.com/2024/06/06/opinion/elites-progressives-universities.html
+`}
 
 Which is why every movement started by minorities is *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more.
 
