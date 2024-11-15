@@ -65,13 +65,13 @@ To aim for the canon, a band must develop exceptional strengths. But this isn't 
 
 **Why demos?**
 
+${'  ' || `
+// TODO: Revise. Get rid of "yes" phrasing, since I do it again in the next paragraph.
+`}
+
 A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this is a *curse*, not a *blessing*! Past artists put out *demos*— and to rival them means doing likewise.
 
 **Why a demo *registry*?**
-
-${'  ' || `
-// TODO: Review next two paragraphs.
-`}
 
 Yes, a stellar demo signifies exceptional talent— but finding one requires sifting through *hundreds*. So the indie labels rarely bother, since *any* artist they sign will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with elites who see the *folly* of indie rock's good intentions.
 
@@ -132,10 +132,6 @@ And yet, this obviously can't end well. We don't support artists of the *past*�
 Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://youtu.be/AffEkIRKmTc). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign contemporaries— who have *no* chance to get in! So they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
@@ -320,7 +316,9 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 But once competition happens *away* from public view— as with self-reliance, for example— the disadvantaged have no way to foil the hidden advantages of others: being born rich, having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
 ${'  ' || `
-// TODO: Add paragraph. Which helps to explain why music has gotten worse: While the indie tastemakers are *positioned* to be elites, they shirk their duty to *behave* as such, and instead, obey the people's will— even though it's the people who are *most* taken in by the charms of the privileged! The disadvantaged will always side with elitism, then, because they fundamentally need the noblesse oblige that *only* the elites can provide.
+// TODO: Add paragraph. Which helps to explain why music has gotten worse: While the indie tastemakers are *positioned* to be elites, they shirk their duty to *behave* as such, and instead, obey the will of the people— who then favor the privileged! By contrast, the disadvantaged fundamentally need the noblesse oblige that *only* the elites can provide.
+
+Consider moving paragraph before?
 
 https://www.nytimes.com/2024/06/06/opinion/elites-progressives-universities.html
 `}
