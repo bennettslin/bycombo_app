@@ -73,9 +73,9 @@ ${'  ' || `
 // TODO: Review next two paragraphs.
 `}
 
-Yes, stellar demos signify exceptional talent— but finding one means having to sift through *hundreds*. So the indie labels rarely bother, since *every* artist they sign gets charitably supported just the same. An interdependent band's best bet, then, is to partner with elites who recognize the *folly* of indie rock's good intentions.
+Yes, a stellar demo signifies exceptional talent— but finding one requires sifting through *hundreds*. So the indie labels rarely bother, since *any* artist they sign will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with elites who see the *folly* of indie rock's good intentions.
 
-But the elites have their own reason to hesitate: Anytime they release a work that sounds like a demo they once rejected, this opens them up to a lawsuit. So what the arts need is a demo registry— namely, an online location where anyone can discreetly check out the latest bands trying to make history.
+But the elites have their own reason to hesitate: Anytime they release a work that sounds like a demo they once rejected, this opens them up to a lawsuit. So what we need now is a demo registry— namely, an online location where anyone can *discreetly* check out the latest bands trying to make history.
 
 **Why serious chunks of lifetime?**
 
@@ -107,10 +107,6 @@ In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?co
 
 But… given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans— and thus, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock lost its countercultural edge and devolved into just another hustle culture. Yet Millennials still defend it, having never known it to be otherwise…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 So now indie rock *obeys* the people's will… while no counterculture remains to *subvert* it. But what if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the major labels? Then rest assured, BYCombo is here to bring back elitism— the one chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
@@ -137,7 +133,11 @@ Growing up as a second-generation immigrant, I knew early on that other countrie
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
-Yet… this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign counterparts— who have *no* chance! So they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign contemporaries— who have *no* chance to get in! So they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
 Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
@@ -320,7 +320,7 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 But once competition happens *away* from public view— as with self-reliance, for example— the disadvantaged have no way to foil the hidden advantages of others: being born rich, having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
 ${'  ' || `
-// TODO: Add paragraph. Which helps to explain why music has gotten worse: While the indie tastemakers are in the position to be elites, they shirk their duty to behave as such, and instead obey the people's will. But the people are most easily won over by the charms of the privileged! The disadvantaged side with elitism, then, because they fundamentally depend on the noblesse oblige that *only* the elites can provide.
+// TODO: Add paragraph. Which helps to explain why music has gotten worse: While the indie tastemakers are *positioned* to be elites, they shirk their duty to *behave* as such, and instead, obey the people's will— even though it's the people who are *most* taken in by the charms of the privileged! The disadvantaged will always side with elitism, then, because they fundamentally need the noblesse oblige that *only* the elites can provide.
 
 https://www.nytimes.com/2024/06/06/opinion/elites-progressives-universities.html
 `}
