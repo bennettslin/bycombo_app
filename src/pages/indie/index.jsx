@@ -73,9 +73,9 @@ ${'  ' || `
 // TODO: Review next two paragraphs.
 `}
 
-A stellar demo signifies exceptional talent— but finding one requires sifting through *thousands*. For this reason, the indie labels rarely bother, since *every* artist they sign gets charitably supported just the same. An interdependent band's best bet, then, is to partner with elites who recognize the *folly* of indie rock's good intentions.
+Yes, stellar demos signify exceptional talent— but finding one means having to sift through *hundreds*. So the indie labels rarely bother, since *every* artist they sign gets charitably supported just the same. An interdependent band's best bet, then, is to partner with elites who recognize the *folly* of indie rock's good intentions.
 
-But the elites have their own reason to hesitate: If a later work by an artist of theirs sounds too much like a demo they once rejected, this opens them up to a lawsuit. So what we need is a demo registry— namely, an online location where anyone can discreetly hear the latest bands trying to make history.
+But the elites have their own reason to hesitate: Anytime they release a work that sounds like a demo they once rejected, this opens them up to a lawsuit. So what the arts need is a demo registry— namely, an online location where anyone can discreetly check out the latest bands trying to make history.
 
 **Why serious chunks of lifetime?**
 
@@ -320,7 +320,7 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 But once competition happens *away* from public view— as with self-reliance, for example— the disadvantaged have no way to foil the hidden advantages of others: being born rich, having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
 ${'  ' || `
-// TODO: Add paragraph. Which helps to explain why music has gotten worse: While the indie tastemakers are in the position to be elites, they shirk their duty to behave as such, and instead, obey the people's will— even as the people are instinctively drawn to the privileged! The disadvantaged side with elitism, then, because they fundamentally depend on the noblesse oblige that only elites can provide.
+// TODO: Add paragraph. Which helps to explain why music has gotten worse: While the indie tastemakers are in the position to be elites, they shirk their duty to behave as such, and instead obey the people's will. But the people are most easily won over by the charms of the privileged! The disadvantaged side with elitism, then, because they fundamentally depend on the noblesse oblige that *only* the elites can provide.
 
 https://www.nytimes.com/2024/06/06/opinion/elites-progressives-universities.html
 `}
