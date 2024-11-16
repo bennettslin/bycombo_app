@@ -67,17 +67,9 @@ To aim for the canon, a band must develop exceptional strengths. But this isn't 
 
 **Why demos?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this is a *curse*, not a *blessing*! Past artists put out *demos*, and to rival them means doing likewise.
 
 **Why a demo *registry*?**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 A stellar demo signifies exceptional talent— and yet, finding one requires sifting through *hundreds*. So the indie labels rarely bother, since *any* artist they sign will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with elites who see the *folly* of indie rock's good intentions.
 
@@ -86,10 +78,6 @@ But the elites have their own reason to hesitate: Anytime they release a work th
 **Why serious chunks of lifetime?**
 
 Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To save the arts, then, a centralized nonprofit like BYCombo must now step up and serve as a gatekeeper for the elites— by enforcing a steep *cost* of entry.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in making their case for amnesty.
 
@@ -346,10 +334,6 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in the local scene. There wasn't any recourse: The indie labels didn't want them!
 
 But can't *today's* indies learn to sign the *next* On a Friday? No, because status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope for amnesty, after betting it all on the craft— your "hobby."
 
