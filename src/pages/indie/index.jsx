@@ -328,7 +328,7 @@ But once competition happens *away* from public view— as with self-reliance, f
 ${'  ' || `
 // TODO: Add paragraph. But work on this in conjunction with progressives section.
 
-Which helps to explain why music has gotten worse: While the indie tastemakers are *positioned* to be elites, they shirk their duty to *behave* as such, and instead, obey the will of the people— who then favor the privileged! By contrast, the disadvantaged fundamentally need the noblesse oblige that *only* the elites can provide.
+Let's face it, the disadvantaged fundamentally need the noblesse oblige that *only* the elites can provide. But while the indie tastemakers are *positioned* to be elites, they shirk their duty to *behave* as such, and instead, obey the will of the people— who then favor the privileged!
 
 Consider moving paragraph before?
 
