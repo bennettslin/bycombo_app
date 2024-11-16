@@ -39,9 +39,11 @@ Mention charitable support by the public.
 Specify amnesty program.
 `}
 
-Thanks to indie rock, "good guys" with only the best of intentions are now the ones in charge. Yet even so, music has gotten worse. Well, what if music is now worse… *because* of these good intentions?! What if all this charitable support for *artists*… is bad for the *arts*?!
+Millennials put the indie tastemakers, the "good guys," in charge. Yet even so, music has gotten worse. Well, what if music is now worse… *because* of these good intentions?! What if all this charitable support for *artists*… is bad for the *arts*?!
 
 Once the "good guys" are finally put in charge, their rules are never again questioned. Millennials now insist that artists must follow the rules and get themselves known. But an artist trying to make the best art will want to break indie rock's rules.
+
+In a world where the good guys are now in charge, an amnesty program is needed in the arts to remind future generations
 
 Unlike Boomers and Gen X, Millennials 
 
@@ -66,14 +68,18 @@ To aim for the canon, a band must develop exceptional strengths. But this isn't 
 **Why demos?**
 
 ${'  ' || `
-// TODO: Revise. Get rid of "yes" phrasing, since I do it again in the next paragraph.
+// TODO: Review.
 `}
 
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this is a *curse*, not a *blessing*! Past artists put out *demos*— and to rival them means doing likewise.
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this is a *curse*, not a *blessing*! Past artists put out *demos*, and to rival them means doing likewise.
 
 **Why a demo *registry*?**
 
-Yes, a stellar demo signifies exceptional talent— but finding one requires sifting through *hundreds*. So the indie labels rarely bother, since *any* artist they sign will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with elites who see the *folly* of indie rock's good intentions.
+${'  ' || `
+// TODO: Review.
+`}
+
+A stellar demo signifies exceptional talent— and yet, finding one requires sifting through *hundreds*. So the indie labels rarely bother, since *any* artist they sign will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with elites who see the *folly* of indie rock's good intentions.
 
 But the elites have their own reason to hesitate: Anytime they release a work that sounds like a demo they once rejected, this opens them up to a lawsuit. So what we need now is a demo registry— namely, an online location where anyone can *discreetly* check out the latest bands trying to make history.
 
@@ -81,7 +87,11 @@ But the elites have their own reason to hesitate: Anytime they release a work th
 
 Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading people to grow wary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To save the arts, then, a centralized nonprofit like BYCombo must now step up and serve as a gatekeeper for the elites— by enforcing a steep *cost* of entry.
 
-This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice in making their case for amnesty.
+${'  ' || `
+// TODO: Review.
+`}
+
+This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in making their case for amnesty.
 
 **And finally… how has indie rock made music worse?**
 
@@ -316,7 +326,9 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 But once competition happens *away* from public view— as with self-reliance, for example— the disadvantaged have no way to foil the hidden advantages of others: being born rich, having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
 ${'  ' || `
-// TODO: Add paragraph. Which helps to explain why music has gotten worse: While the indie tastemakers are *positioned* to be elites, they shirk their duty to *behave* as such, and instead, obey the will of the people— who then favor the privileged! By contrast, the disadvantaged fundamentally need the noblesse oblige that *only* the elites can provide.
+// TODO: Add paragraph. But work on this in conjunction with progressives section.
+
+Which helps to explain why music has gotten worse: While the indie tastemakers are *positioned* to be elites, they shirk their duty to *behave* as such, and instead, obey the will of the people— who then favor the privileged! By contrast, the disadvantaged fundamentally need the noblesse oblige that *only* the elites can provide.
 
 Consider moving paragraph before?
 
@@ -335,7 +347,11 @@ And this should concern us, since Radiohead… were the ultimate hobbyists! They
 
 But can't *today's* indies learn to sign the *next* On a Friday? No, because status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
-Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope to be the next Radiohead, by betting it all on the craft— your "hobby."
+${'  ' || `
+// TODO: Review.
+`}
+
+Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope for amnesty, after betting it all on the craft— your "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
