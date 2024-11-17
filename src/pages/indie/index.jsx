@@ -41,7 +41,7 @@ Specify amnesty program.
 
 Millennials put the indie tastemakers, the "good guys," in charge. Yet even so, music has gotten worse. Well, what if music is now worse… *because* of these good intentions?! What if all this charitable support for *artists*… is bad for the *arts*?!
 
-Once the "good guys" are finally put in charge, their rules are never again questioned. Millennials now insist that artists must follow the rules and get themselves known. But an artist trying to make the best art will want to break indie rock's rules.
+Let's face it, once the "good guys" are finally put in charge, their rules come to be seen as structural— in other words, not the kind it takes courage to break. Millennials now insist that artists must follow the rules and get themselves known. But an artist trying to make the best art will want to break indie rock's rules.
 
 In a world where the good guys are now in charge, an amnesty program is needed in the arts to remind future generations
 
@@ -316,7 +316,7 @@ But once competition happens *away* from public view— as with self-reliance, f
 ${'  ' || `
 // TODO: Add paragraph. But work on this in conjunction with progressives section.
 
-Let's face it, the disadvantaged fundamentally need the noblesse oblige that *only* the elites can provide. But while the indie tastemakers are *positioned* to be elites, they shirk their duty to *behave* as such, and instead, obey the will of the people— who then favor the privileged!
+In other words, the disadvantaged fundamentally depend on a noblesse oblige that *only* the elites can provide. But while the indie tastemakers are *positioned* to be elites, they shirk their duty to *behave* as such, and instead, obey the will of the people— who then favor the privileged!
 
 Consider moving paragraph before?
 
@@ -481,7 +481,11 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
-To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these orbits into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
+${'  ' || `
+// TODO: Review.
+`}
+
+To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is understood by many to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
