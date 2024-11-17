@@ -71,6 +71,10 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a demo *registry*?**
 
+${'  ' || `
+// TODO: Revise? Consider including noblesse oblige?
+`}
+
 A stellar demo signifies exceptional talent— and yet, finding one requires sifting through *hundreds*. So the indie labels rarely bother, since *any* artist they sign will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with elites who see the *folly* of indie rock's good intentions.
 
 But the elites have their own reason to hesitate: Anytime they release a work that sounds like a demo they once rejected, this opens them up to a lawsuit. So what we need now is a demo registry— namely, an online location where anyone can *discreetly* check out the latest bands trying to make history.
@@ -314,14 +318,12 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 But once competition happens *away* from public view— as with self-reliance, for example— the disadvantaged have no way to foil the hidden advantages of others: being born rich, having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
 ${'  ' || `
-// TODO: Add paragraph. But work on this in conjunction with progressives section.
-
-In other words, the disadvantaged fundamentally depend on a noblesse oblige that *only* the elites can provide. But while the indie tastemakers are *positioned* to be elites, they shirk their duty to *behave* as such, and instead, obey the will of the people— who then favor the privileged!
-
-Consider moving paragraph before?
+// TODO: Keep working on.
 
 https://www.nytimes.com/2024/06/06/opinion/elites-progressives-universities.html
 `}
+
+Let's face it, the disadvantaged fundamentally depend on noblesse oblige, which *only* the elites can provide. But while the indie tastemakers are positioned to behave like elites, they shirk any duty to do so, and instead, obey the will of the people— who then favor the privileged!
 
 Which is why every movement started by minorities is *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more.
 
@@ -394,6 +396,10 @@ To sum up, it was the *indie camp*, with their grudges against the majors, who g
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're the new word of mouth— which indie rock has *always* held in high esteem. So maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
+
+${'  ' || `
+// TODO: Revise? Consider including noblesse oblige?
+`}
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups— who generate most creative ideas in the arts. And when in doubt, we imitate others— yet they have the same biases that we do. For revolutions to succeed, then, the research is clear: The elites *must* get involved, by spreading these creative ideas from the top down.
 
