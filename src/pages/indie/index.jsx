@@ -71,10 +71,6 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a demo *registry*?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 A stellar demo signifies exceptional talent— and yet, finding one requires sifting through *hundreds*. So the indie labels rarely bother, since *any* artist they sign will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with the *elites*— who alone feel a "noblesse oblige" to help those being *hurt* by the public's good intentions.
 
 But the elites have their own reason to hesitate: Anytime they release a work that sounds like a demo they once rejected, this opens them up to a lawsuit. So what we need now is a demo registry— namely, an online location where anyone can *discreetly* check out the latest bands trying to make history.
@@ -124,10 +120,6 @@ But… given that *most* people belong to the mainstream, artists who cater to s
 So what happens now, if *your* respect for the '80s underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the major labels? Why, you can rest assured: BYCombo is here to bring back elitism— the one chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
-
-${'  ' || `
-// TODO: Review.
-`}
 
 There's another reason we respect those '80s underground bands who came up from the local scenes: It feels like their legacy was *assured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
@@ -407,13 +399,13 @@ To sum up, it was the *indie camp*, with their grudges against the majors, who g
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
-${'  ' || `
-// TODO: Review next two paragraphs.
-`}
-
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're the new word of mouth… which indie rock has *always* held in high esteem. In which case, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
-According to science, we humans aren't just biased against creativity, but also against low-status groups… who generate the most creative ideas! And when in doubt, we imitate others… yet they share our biases! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by the people's will.
+${'  ' || `
+// TODO: Review.
+`}
+
+According to science, we humans aren't just biased against creativity, but also against low-status groups… who generate the *most* creative ideas! And when in doubt, we imitate others… yet they *share* our biases! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by the people's will.
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as Romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
