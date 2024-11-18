@@ -75,7 +75,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-A stellar demo signifies exceptional talent— and yet, finding one requires sifting through *hundreds*. So the indie labels rarely bother, since *any* artist they sign will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with the *elites*, who alone feel a "noblesse oblige" to help those being *hurt* by the public's good intentions.
+A stellar demo signifies exceptional talent— and yet, finding one requires sifting through *hundreds*. So the indie labels rarely bother, since *any* artist they sign will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with the *elites*— who alone feel a "noblesse oblige" to help those being *hurt* by the public's good intentions.
 
 But the elites have their own reason to hesitate: Anytime they release a work that sounds like a demo they once rejected, this opens them up to a lawsuit. So what we need now is a demo registry— namely, an online location where anyone can *discreetly* check out the latest bands trying to make history.
 
@@ -317,14 +317,6 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 
 But once competition happens *away* from public view— as with self-reliance, for example— the disadvantaged have no way to foil the hidden advantages of others: being born rich, having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
-${'  ' || `
-// TODO: Keep working on.
-
-https://www.nytimes.com/2024/06/06/opinion/elites-progressives-universities.html
-`}
-
-Let's face it, the disadvantaged fundamentally depend on noblesse oblige, which *only* the elites can provide. But while the indie tastemakers are positioned to behave like elites, they shirk any duty to do so, and instead, obey the will of the people— who then favor the privileged!
-
 Which is why every movement started by minorities is *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
@@ -399,9 +391,9 @@ ${'  ' || `
 // TODO: Review next two paragraphs.
 `}
 
-Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're the new word of mouth— which indie rock has *always* held in high esteem. In which case, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
+Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're the new word of mouth… which indie rock has *always* held in high esteem. In which case, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
-According to science, we humans aren't just biased against creativity, but also against low-status groups… who generate creative ideas the most. And when in doubt, we imitate others… yet they share our biases. So the research is clear: Creative ideas *must* be spread from the top down, by the elites, who alone feel a "noblesse oblige" to help those being *hurt* by the people's will.
+According to science, we humans aren't just biased against creativity, but also against low-status groups… who generate the most creative ideas! And when in doubt, we imitate others… yet they share our biases! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by the people's will.
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as Romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
