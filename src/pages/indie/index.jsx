@@ -107,7 +107,7 @@ We all respect those '80s [underground bands](https://www.hachettebookgroup.com/
 
 In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000&smoothing=1) underground bands "indie," to affirm that they'd only *ever* signed to an indie label. Yet unlike being underground, being indie *can* be a universal ideal— and so the indie camp decided that it *should* be, once online tools made this possible. Now *any* artist who hustles to build a fanbase is indie… even one with mainstream tastes!
 
-But… given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans— and thus, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a populist movement, allowing those who now favored popular appeal to continue seeing themselves as champions of the underdog.
+But… given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans— and thus, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a populist movement, allowing those who now favored popular appeal to keep seeing themselves as champions of the underdog.
 
 So what happens now, if *your* respect for the '80s underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the major labels? Why, you can rest assured: BYCombo is here to bring back elitism— the one chance left for subversive art in an online world!
 
@@ -119,11 +119,7 @@ ${'  ' || `
 
 There's another reason we respect those '80s underground bands who came up from the local scenes: It feels like their legacy was *assured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
-${'  ' || `
-// TODO: Revise. Logic still doesn't follow.
-`}
-
-But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to spread their works from the top down, they can go viral from the bottom up. Which explains why we don't hear about one-hit wonders anymore: These days, they're chosen by the *people*, not by the *elites*… making them indie artists in good faith!
+But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to spread their works from the top down, they now win the people's support from the bottom up. Which explains why we've stopped hearing about one-hit wonders: These days, they emerge from the grassroots… making them indie artists in good faith!
 
 So the grassroots has been successfully recast as a *populist* realm; it's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the countless many who don't. Still, what if *you* were hoping to assure your legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
 
