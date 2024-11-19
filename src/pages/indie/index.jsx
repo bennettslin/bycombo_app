@@ -117,7 +117,7 @@ In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?co
 
 But given that *most* people belong to the mainstream, artists who share such tastes easily gain the most fans. So naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a populist movement, thus allowing its camp— who now *favored* popular appeal!— to keep seeing themselves as defenders of rock's underclass.
 
-So what happens now, if *your* respect for the '80s underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the major labels? Why, you can rest assured: BYCombo is here to bring back elitism— the one chance left for subversive art in an online world!
+So what happens now, if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the major labels? Why, you can rest assured: BYCombo is here to bring back elitism— the one chance left for subversive art in an online world!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -125,9 +125,9 @@ ${'  ' || `
 // TODO: Review whole section.
 `}
 
-There's another reason we respect those '80s underground bands who came up from their local scenes— or the grassroots, if you will: They showed up to work each day for untold years, assuring their own legacies— unlike, let's say, a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
+There's another reason we respect those '80s underground bands who came up from their local scenes— or the grassroots, if you will. By showing up to work each day for untold years, they assured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
-But thanks to online tools, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to spread their works from the top down, they can win the people's support from the bottom up— the new grassroots, surely. Which explains why we've stopped hearing about one-hit wonders: They've become indie artists in good faith!
+But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, rather than conspire with the majors to spread their works from the top down, they can win the people's support from the bottom up— the new grassroots, by definition. Which explains why we've stopped hearing about one-hit wonders: They've become indie artists in good faith!
 
 So the grassroots has been successfully recast as a *populist* realm; it's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the countless many who don't. Still, what if *you* were hoping to assure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
 
@@ -261,7 +261,11 @@ Here's the problem, though: Once a mark of verification is easy to attain, it ce
 
 You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now, *every* artist must waste time and energy on the hustle!
 
-To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from the top down, through centralized efforts. Yet the indie camp's thinking is bottom up! Which means they *can't* fix this mess they've created…
+${'  ' || `
+// TODO: Review.
+`}
+
+To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from the top down, through centralized efforts. Yet the indie camp's thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
 The lesson here, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— or rule by those who hustle to get themselves known. So what happens now, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
 
