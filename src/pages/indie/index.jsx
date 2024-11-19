@@ -107,7 +107,7 @@ We all respect those '80s [underground bands](https://www.hachettebookgroup.com/
 
 In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000&smoothing=1) underground bands "indie," to affirm that they'd only *ever* signed to an indie label. Yet unlike being underground, being indie *can* be a universal ideal— and so the indie camp decided that it *should* be, once online tools made this possible. Now *any* artist who hustles to build a fanbase is indie… even one with mainstream tastes!
 
-But… given that *most* people belong to the mainstream, artists who cater to such tastes end up gaining the most fans— and thus, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a populist movement, allowing those who now favored popular appeal to keep seeing themselves as champions of the underdog.
+But given that *most* people belong to the mainstream, artists who share such tastes easily gain the most fans. So naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a populist movement, allowing its camp— who now *obeyed* the people's will— to keep seeing themselves as champions of the underdog.
 
 So what happens now, if *your* respect for the '80s underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the major labels? Why, you can rest assured: BYCombo is here to bring back elitism— the one chance left for subversive art in an online world!
 
@@ -143,7 +143,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet this indie camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! And so they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
+Yet this same camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! And so they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
 Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
