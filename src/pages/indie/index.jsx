@@ -103,21 +103,15 @@ As with MAGA, then, indie rock's weakness for confusion ends up hurting its own.
 
 ${'  ' || `
 // TODO: Review whole section.
-
-We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184) who came up from the local scenes, don't we? "Of course! They were chosen by the *people*— not by the *elites*." Well, actually… this is a revisionist explanation. Back then, the people and the elites were understood to be on the same side— the mainstream— while the underground sheltered those who *subverted* the people's will.
 `}
 
-${'  ' || `
-// TODO: Revise. Everything is mentioned, just needs to be phrased better.
-`}
-
-We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? "Of course! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground lacked popular appeal; it was a shelter for rock's underclass, who *subverted*, rather than *obeyed*, the people's will— as well as for the elitist snobs who defended them.
+We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? "Of course! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground *lacked* popular appeal. To the contrary, it was a shelter, both for rock's underclass— who *subverted* the people's will— and for the elitist snobs who defended them.
 
 In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000&smoothing=1) underground bands "indie," to affirm that they'd only *ever* signed to an indie label, if to any at all. Yet, unlike being underground, being indie *can* be a universal ideal— and so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is indie… even one with mainstream tastes!
 
-But given that *most* people belong to the mainstream, artists who share such tastes easily gain the most fans. So naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a populist movement, thus allowing its camp— who now *favored* popular appeal!— to keep seeing themselves as defenders of rock's underclass.
+But given that *most* people belong to the mainstream, artists who share such tastes easily gain the most fans. So naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a populist movement, thus allowing its camp— who now *favored* popular appeal!— to still see themselves as defenders of an underclass.
 
-So what happens now, if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the major labels? Why, you can rest assured: BYCombo is here to bring back elitism— the one chance left for subversive art in an online world!
+So what happens now, if *your* respect for the underground always had to do with the *aesthetics* of subverting mainstream tastes, rather than the *logistics* of forgoing the major labels? Why, you can rest assured: BYCombo is here to bring back elitism— the historical line of defense for subversive art!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -125,7 +119,7 @@ ${'  ' || `
 // TODO: Review whole section.
 `}
 
-There's another reason we respect those '80s underground bands who came up from their local scenes— or the grassroots, if you will. By showing up to work each day for untold years, they assured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
+There's another reason we respect those underground bands who came up from the local scenes— or the grassroots, if you will— in the '80s, isn't there? After showing up to work each day for untold years, they assured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
 But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, rather than conspire with the majors to spread their works from the top down, they can win the people's support from the bottom up— the new grassroots, by definition. Which explains why we've stopped hearing about one-hit wonders: They've become indie artists in good faith!
 
@@ -139,7 +133,11 @@ Unlike an arts foundation, though, phlans *don't* need to hold strict standards 
 
 So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to our present moment known as "poptimism," when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
-And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
+${'  ' || `
+// TODO: Review.
+`}
+
+And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can aim for the historical canon the *right* way— by needing no defense to begin with.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
