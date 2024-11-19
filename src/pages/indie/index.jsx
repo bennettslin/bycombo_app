@@ -103,11 +103,11 @@ ${'  ' || `
 // TODO: Review whole section.
 `}
 
-We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? "Of course! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground was a shelter for elitist snobs who *subverted* the people's will. Meanwhile, all those who *obeyed* it— populists, by definition— followed the mainstream instead.
+We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? "Of course! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground lacked popular appeal; it was a shelter for elitist snobs who *subverted* the people's will. Meanwhile, all those who *obeyed* it— populists, by definition— followed the mainstream.
 
 In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000&smoothing=1) underground bands "indie," to affirm that they'd only *ever* signed to an indie label. Yet unlike being underground, being indie *can* be a universal ideal— and so the indie camp decided that it *should* be, once online tools made this possible. Now *any* artist who hustles to build a fanbase is indie… even one with mainstream tastes!
 
-But given that *most* people belong to the mainstream, artists who share such tastes easily gain the most fans. So naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a populist movement, allowing its camp— who now *obeyed* the people's will— to keep seeing themselves as champions of the underdog.
+But given that *most* people belong to the mainstream, artists who share such tastes easily gain the most fans. So naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a populist movement, thus allowing its camp— who now *favored* popular appeal— to keep seeing themselves as champions of the underdog.
 
 So what happens now, if *your* respect for the '80s underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the major labels? Why, you can rest assured: BYCombo is here to bring back elitism— the one chance left for subversive art in an online world!
 
