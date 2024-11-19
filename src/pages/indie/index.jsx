@@ -119,7 +119,7 @@ ${'  ' || `
 
 There's another reason we respect those '80s underground bands who came up from their local scenes: It feels like their legacy was *assured*. That is to say, they showed up to work each day for untold years— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
-But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to spread their works from the top down, they can win the people's support from the bottom up. Which explains why we've stopped hearing about one-hit wonders: These days, they emerge from the grassroots… making them indie artists in good faith!
+But thanks to the Internet, today's "lottery players" get unlimited chances. Moreover, rather than conspire with the majors to spread their works from the top down, they can win the people's support from the bottom up. Which is why we've stopped hearing about one-hit wonders: These days, they come from the grassroots… making them indie artists in good faith!
 
 So the grassroots has been successfully recast as a *populist* realm; it's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the countless many who don't. Still, what if *you* were hoping to assure your legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
 
