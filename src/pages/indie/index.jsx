@@ -102,21 +102,21 @@ As with MAGA, then, indie rock's weakness for confusion ends up hurting its own.
 ### ${++sectionCounter}. Populism trampled the underground
 
 ${'  ' || `
-// TODO: Review whole section.
+// TODO: Review whole section a few times.
 `}
 
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? "Of course! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground *lacked* popular appeal. To the contrary, it was a shelter both for rock's underclass— who *subverted* the people's will— and for the elitist snobs who defended them.
 
 In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000&smoothing=1) underground bands "indie," to affirm that they'd only *ever* signed to an indie label, if to any at all. Yet, unlike being underground, being indie *can* be a universal ideal— and so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is indie… even one with mainstream tastes!
 
-But given that *most* people belong to the mainstream, artists who share such tastes easily gain the most fans. So naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a populist movement, thus allowing its camp— who now *favored* popular appeal!— to still see themselves as defenders of the underdog.
+But given that *most* people belong to the mainstream, artists who share such tastes easily gain the most fans. So naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a populist movement, thus allowing its camp— who now *favored* popular appeal!— to still see themselves as defenders of an underdog class.
 
 So what happens now, if *your* respect for the underground always had to do with the *aesthetics* of subverting mainstream tastes, rather than the *logistics* of forgoing the major labels? Why, you can rest assured: BYCombo is here to bring back elitism— the historical line of defense for subversive art!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Review whole section.
+// TODO: Review whole section a few times.
 `}
 
 There's another reason we respect those '80s underground bands, right? To come up from the local scenes— or the grassroots, if you will— they had to put in the work each day for untold years. In other words, they assured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
