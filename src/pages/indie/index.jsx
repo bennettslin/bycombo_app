@@ -34,20 +34,14 @@ Okay, that's a mouthful! Let's break it down…
 ${'  ' || `
 // TODO: Revise. Replace with need for amnesty. Good guys enforce rules.
 
-Mention charitable support by the public. Mention underdog. Mention structural rules.
-
-Revisit "good intentions" in demo registry paragraph.
+Mention charitable support by the public. Mention structural rules?
 
 Specify amnesty program.
 `}
 
-Millennials put the indie tastemakers, the "good guys," in charge. Yet even so, music has gotten worse. Well, what if music is now worse… *because* of these good intentions?! What if all this charitable support for *artists*… is bad for the *arts*?!
+Thanks to Millennials, the indie tastemakers are now the ones in charge. Charitable support and good intentions. Yet even so, music has gotten worse. Well, what if music is now worse… *because* of these good intentions?! What if all this charitable support for *artists*… is bad for the *arts*?! It stands to reason that the best artists will naturally want to break these structural rules.
 
-Let's face it, once the "good guys" are finally put in charge, their rules come to be seen as structural— in other words, not the kind it takes courage to break. Millennials now insist that artists must follow the rules and get themselves known. But an artist trying to make the best art will want to break indie rock's rules.
-
-In a world where the good guys are now in charge, an amnesty program is needed in the arts to remind future generations
-
-Unlike Boomers and Gen X, Millennials 
+Given that the indie tastemakers are "good guys," however, Millennials, unlike Boomers and Gen X, have no desire to see the rules get broken. Yet breaking the rules is how the art form advances! To ensure the art form continues to advance, even as future generations become sticklers to the rules, it's necessary for there to be an amnesty program.
 
 **Why the historical canon?**
 
@@ -119,7 +113,7 @@ ${'  ' || `
 // TODO: Review whole section.
 `}
 
-Of course, there's another reason we respect those '80s underground bands: To come up from the local scenes— or the grassroots, if you will— they had to put in the work each day for untold years. In other words, they assured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
+Of course, there's another reason we respect those '80s underground bands: To come up from their local scenes— or the grassroots, if you will— they put in the work each day for untold years. In other words, they assured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
 But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, rather than conspire with the majors to spread their works from the top down, they can win the people's support from the bottom up— the new grassroots, by definition. Which explains why we've stopped hearing about one-hit wonders: They've become indie artists in good faith!
 
