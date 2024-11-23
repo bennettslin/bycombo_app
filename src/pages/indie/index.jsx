@@ -109,7 +109,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, instead of conspiring with the majors to spread their works from the top down, they can win the people's support from the bottom up— the new grassroots, by definition. Which explains why we've stopped hearing about one-hit wonders: They've become indie artists in good faith!
+But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, rather than conspire with the majors to spread their works from the top down, they can win the people's support from the bottom up— the new grassroots, by definition. Which explains why we've stopped hearing about one-hit wonders: They've become indie artists in good faith!
 
 So the grassroots has been successfully recast as a *populist* field; it's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the countless many who don't. Still, what if *you* were hoping to assure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites once again!
 
@@ -215,7 +215,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Sadly, young people never question today's "auto-Bizarro world," since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
+Sadly, young people never question today's "auto-Bizarro" world, since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
 
 ### ${++sectionCounter}. Self-reliance is a partisan ideal
 
@@ -231,7 +231,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To protest against indie rock, then, the music world's "progressives" can do the opposite, and *readily* advance the art form… even if this hurts their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the culturally progressive opposition party that shares your love of the craft.
+To protest against indie rock, then, the music world's "progressives" can do the opposite, and *readily* advance the art form… even if this hurts their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the culturally progressive opposition that shares your love of the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
