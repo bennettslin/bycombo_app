@@ -32,14 +32,12 @@ Okay, that's a mouthful! Let's break it down…
 **Why amnesty?**
 
 ${'  ' || `
-// TODO: Revise. Replace with need for amnesty. Good guys enforce rules.
+// TODO: Keep working on. Good guys enforce rules.
 
-Mention charitable support by the public. Mention structural rules?
-
-Specify amnesty program.
+Mention charitable support by the public. Mention structural rules? Specify the "program" part of amnesty program.
 `}
 
-Thanks to Millennials, the indie tastemakers are now the ones in charge. Charitable support and good intentions. Yet even so, music has gotten worse. Well, what if music is now worse… *because* of these good intentions?! What if all this charitable support for *artists*… is bad for the *arts*?! It stands to reason that the best artists will naturally want to break these structural rules.
+Thanks to Millennials, the indie tastemakers are now the ones in charge. Charitable support and good intentions. Yet even so, music has gotten worse. Well, what if music is now worse… *because* of all this charitable support these good intentions?! What if all this charitable support for *artists*… is bad for the *arts*?! It stands to reason that the best artists will naturally want to break these structural rules.
 
 Given that the indie tastemakers are "good guys," however, Millennials, unlike Boomers and Gen X, have no desire to see the rules get broken. Yet breaking the rules is how the art form advances! To ensure the art form continues to advance, even as future generations become sticklers to the rules, it's necessary for there to be an amnesty program.
 
@@ -213,7 +211,11 @@ And here's more absurdity: Whereas artists are loved for doing what we'd all muc
 
 Let's be clear, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We learned [all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
 
-Sadly, young people never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
+${'  ' || `
+// TODO: Review.
+`}
+
+Sadly, young people never question today's "auto-Bizarro world," since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
 
 ### ${++sectionCounter}. Self-reliance is a partisan ideal
 
@@ -225,7 +227,11 @@ But being indie means gaining the *public's* attention, and this is a zero-sum g
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So… how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*, a novel popular with libertarians, the business world's "indie camp" goes on strike against a progressive regime by *refusing* to help society advance.
 
-To protest against indie rock, then, the music world's "progressives" can do the opposite, and *readily* advance the art form… even if this hurts their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the opposition party that shares your love of the craft.
+${'  ' || `
+// TODO: Review.
+`}
+
+To protest against indie rock, then, the music world's "progressives" can do the opposite, and *readily* advance the art form… even if this hurts their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the culturally progressive opposition party that shares your love of the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -314,7 +320,9 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 But once competition happens *away* from public view— as with self-reliance, for example— the disadvantaged have no way to foil the hidden advantages of others: being born rich, having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
 ${'  ' || `
-// TODO: Add new paragraph. Majority vs minority understanding of populism. Underclass? Revisit how it's used in populism section. Sideways horseshoe.
+// TODO: Add new paragraph. Majority vs minority understanding of populism. Underclass? Revisit how it's used in populism section. Coin "sideways horseshoe."
+
+I've yet to see a good term to describe this phenomenon, so let me coin one: the "sideways horseshoe," where those at the top, and those at the bottom, have aligned interests, and thus ally against the majority in the middle.
 `}
 
 Which is why every movement started by minorities is *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more.
