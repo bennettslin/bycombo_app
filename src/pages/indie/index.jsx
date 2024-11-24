@@ -103,13 +103,13 @@ So what happens now, if *your* respect for the underground always had to do with
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
-Of course, there's another reason we respect those '80s underground bands: To come up from their local scenes— or the grassroots, if you will— they had to put in the work each day for untold years. Which means they assured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
-
 ${'  ' || `
-// TODO: Review.
+// TODO: Review next two paragraphs.
 `}
 
-But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, instead of conspiring with the majors to spread their works from the top down, they can win the people's support from the bottom up— the new grassroots, by definition. Which explains why we've stopped hearing about one-hit wonders: They've become indie artists in good faith!
+Of course, there's another reason we respect those '80s underground bands: To come up from their local scenes— or the grassroots, if you will— they had to put in the work each day for untold years. Which means they assured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then won the "lottery," so to speak.
+
+But thanks to online tools, today's lottery players get *unlimited* chances. Plus, rather than have the majors spread their works from the top down, they can now win the people's support from the bottom up— the new grassroots, you might say. Which explains why we don't hear about one-hit wonders these days: They've become indie artists in good faith!
 
 So the grassroots has been successfully recast as a *populist* field; it's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the countless many who don't. Still, what if *you* were hoping to assure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites once again!
 
