@@ -37,9 +37,9 @@ ${'  ' || `
 Mention charitable support by the public. Mention structural rules? Specify the "program" part of amnesty program.
 `}
 
-Thanks to Millennials, the indie tastemakers are now the ones in charge. Charitable support and good intentions. Yet even so, music has gotten worse. Well, what if music is now worse… *because* of all this charitable support these good intentions?! What if all this charitable support for *artists*… is bad for the *arts*?! It stands to reason that the best artists will naturally want to break these structural rules.
+With the indie tastemakers— the "good guys"— now the ones in charge, the public expected a renaissance, and charitably supported their artists. Yet despite their good intentions, music has gotten worse. Well, what if music is now worse… *because* of all this charitable support, and these good intentions?! It stands to reason, then, that the best artists will want to break indie rock's rules to hustle.
 
-Given that the indie tastemakers are "good guys," however, Millennials, unlike Boomers and Gen X, have no desire to see the rules get broken. Yet breaking the rules is how the art form advances! To ensure the art form continues to advance, even as future generations become sticklers to the rules, it's necessary for there to be an amnesty program.
+The problem with good guys, however, is that they see their rules as structural, which can't be broken. Yet breaking rules that those in charge insist mustn't be broken is exactly how the art form advances! To ensure the art form continues to advance, it's necessary for there to be an amnesty program.
 
 **Why the historical canon?**
 
