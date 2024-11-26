@@ -3,7 +3,10 @@
 # Tomorrow
 * Epoxy stuff
 * Final reviews
+* AWS CLI setup
 * Finish amnesty paragraphs
+* Visit Dad
+* Groceries
 
 # Remaining November work
 * Contact Vanessa Ogle
@@ -146,6 +149,8 @@ An entire generation of progressives who would have sided with an alliance of th
 This inability to understand the sideways horseshoe made Millennials ineffective in the arts.
 
 Talk about Republican party, New Deal. A true progressive can certainly ally with populists, but can never fully be one, because true populists *must* abandon the underclass.
+
+Every populist movement in the past abandoned the underclass. The modern-day assumption is that those were less tolerant times, and that this should no longer happen in our tolerant present. But it could simply be that it's the timeless nature of populism to abandon the underclass, because it's the timeless nature of the very top and very bottom to have opposition to the middle in common, just like it's the timeless nature of the far left and far right to have opposition to the center in common.
 
 Past populists intuitively understood the sideways horseshoe, even if they didn't have a term for it. When they vilified the carpetbagger, for example, they knew full well that the Black neighbors didn't feel the same.
 

@@ -103,10 +103,6 @@ So what happens now, if *your* respect for the underground always had to do with
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
-${'  ' || `
-// TODO: Review next two paragraphs.
-`}
-
 Of course, there's another reason we respect those '80s underground bands: To come up from their local scenes— or the grassroots, if you will— they had to put in the work each day for untold years. Which means they assured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then won the "lottery," so to speak.
 
 But thanks to online tools, today's lottery players now get *unlimited* chances. Moreover, instead of having to go through the majors to spread their works from the top down, they can win the people's support from the bottom up— the new grassroots, you might say. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
@@ -146,10 +142,6 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 ### ${++sectionCounter}. Posterity is awarded by peer review
 
 The reverse is also true, of course: Those who'd settle for a "thousand true fans" *won't* try to make the best art. Yet indie rock wants a long tail of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not crabs in a bucket. But if a critical darling strikes us as a "lottery" winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
@@ -355,7 +347,11 @@ It's simple: Historically, victims of prejudice relied on centralized authoritie
 
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have repeatedly shown that you *aren't* your own best advocate? Why, BYCombo can help you find partners who'll advocate on your behalf— as we usher in a new time of civil rights for artists!
 
-### ${++sectionCounter}. Penultimate tolerance severs a lifeline
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Penultimate tolerance has its pitfalls
 
 No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— and so they kept their end of the bargain. Similarly, though Gen X didn't want a White rapper, they embraced Eminem.
 
