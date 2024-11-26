@@ -1,7 +1,6 @@
 # TODO
 
 # Tomorrow
-* Go to Sunrise
 * Epoxy stuff
 * Final reviews
 * Finish amnesty paragraphs
@@ -79,7 +78,7 @@ https://www.ian-leslie.com/p/how-to-be-influenced
             * By virtue of not aging well, they aren't done, and hence aren't common, and hence it comes across as subversion to do it
     * Call it artistic pessimism, artistic anxiety, or declinism
 
-Mention hair metal era, how Millennials didn't see that an entire generation's worth of music was rendered obsolete in an instant.
+Mention hair metal era, how Millennials didn't see that an entire generation's worth of music was rendered irrelevant and obsolete in an instant.
 
 Maybe move the Andrew W.K. talk in mastery section to the anxiety of influence section? Make this more about Millennials thinking you can have it all. Nothing takes away from anything else. So take heart that the ones who get the job are also most definitely the ones who deserve it. Re-read to look for something to link to:
 
