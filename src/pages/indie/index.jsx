@@ -32,14 +32,14 @@ Okay, that's a mouthful! Let's break it down…
 **Why amnesty?**
 
 ${'  ' || `
-// TODO: Keep working on. Good guys enforce rules.
-
-Mention charitable support by the public. Mention structural rules? Specify the "program" part of amnesty program.
+// TODO: Keep working on. Specify the "program" part of amnesty program.
 `}
 
-With the indie tastemakers— the "good guys"— now the ones in charge, the public expected a renaissance, and charitably supported their artists. Yet despite their good intentions, music has gotten worse. Well, what if music is now worse… *because* of all this charitable support, and these good intentions?! It stands to reason, then, that the best artists will want to break indie rock's rules to hustle.
+Thanks to Millennials, the indie tastemakers are now in charge— and being "good guys," they can count on the public's charitable support for *any* artist they pick. Yet despite everyone's good intentions, music has gotten *worse*. Well, what if music is now worse… *because* of all these good intentions?!
 
-The problem with good guys, however, is that they see their rules as structural, which can't be broken. Yet breaking rules that those in charge insist mustn't be broken is exactly how the art form advances! To ensure the art form continues to advance, it's necessary for there to be an amnesty program.
+The best of such intentions, of course, is for artists to be so self-empowered that they *don't* need a label— which necessarily requires *all* of them to hustle and get themselves known; those who won't will only fall behind. It stands to reason, then, that any artist hoping to make music *better* should break this rule. Besides, breaking the rules is how you make history— so it's a twofer!
+
+Unfortunately, those in charge will insist that *their* rules are different; *theirs* are foundational to the structure— and if they're good guys, the generation who put them there will agree. Furthermore, we *aren't* returning to a world of "bad guys"!
 
 **Why the historical canon?**
 
@@ -103,9 +103,9 @@ So what happens now, if *your* respect for the underground always had to do with
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
-Of course, there's another reason we respect those '80s underground bands: To come up from their local scenes— or the grassroots, if you will— they had to put in the work each day for untold years. Which means they assured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then won the "lottery," so to speak.
+Of course, there's another reason we respect those '80s underground bands: To come up from their local scenes— or the grassroots, if you will— they had to put in the work each day for untold years. Which means they assured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
-But thanks to online tools, today's lottery players now get *unlimited* chances. Moreover, instead of having to go through the majors to spread their works from the top down, they can win the people's support from the bottom up— the new grassroots, you might say. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
+But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, instead of having to go through the majors to spread their works from the top down, they can win the people's support from the bottom up— the new grassroots, you might say. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
 
 So the grassroots has been successfully recast as a *populist* field; it's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the countless many who don't. Still, what if *you* were hoping to assure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites once again!
 
@@ -143,7 +143,7 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 
 The reverse is also true, of course: Those who'd settle for a "thousand true fans" *won't* try to make the best art. Yet indie rock wants a long tail of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not crabs in a bucket. But if a critical darling strikes us as a "lottery" winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not crabs in a bucket. But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
 
@@ -239,7 +239,11 @@ Here's the problem, though: Once a mark of verification is easy to attain, it ce
 
 You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now, *every* artist must waste time and energy on the hustle!
 
-To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from the top down, through centralized efforts. Yet the indie camp's thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
+${'  ' || `
+// TODO: Review.
+`}
+
+To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
 The lesson here, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— or rule by those who hustle to get themselves known. So what happens now, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
 
@@ -321,7 +325,11 @@ Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates a status hierarchy of its own. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
-And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. There wasn't any recourse: The indie labels didn't want them!
+${'  ' || `
+// TODO: Review.
+`}
+
+And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
 
 But can't *today's* indies learn to sign the *next* On a Friday? No, because status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
