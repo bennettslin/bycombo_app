@@ -35,11 +35,11 @@ ${'  ' || `
 // TODO: Keep working on. Specify the "program" part of amnesty program.
 `}
 
-Thanks to Millennials, the indie tastemakers are now in charge— and being "good guys," they can count on the public's charitable support for *any* artist they pick. Yet despite everyone's good intentions, music has gotten *worse*. Well, what if music is now worse… *because* of such good intentions?!
+Thanks to Millennials, the indie tastemakers are now in charge— and being "good guys," they can count on the public's charitable support for *any* artist they pick. Yet despite all these good intentions, music has gotten *worse*. Well, what if music is now worse… *because* of such good intentions?!
 
-The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires *all* of them to hustle and get themselves known; those who don't will fall behind. It then stands to reason that if an artist hopes to make music *better*, they should want to *break* this rule. Besides, breaking the rules is how you make history— so it's a twofer!
+The best of these intentions, of course, is to have artists be self-empowered enough *not* to need a label. But this requires *all* of them to hustle and get themselves known; those who don't will fall behind. It then stands to reason that if an artist hopes to make music *better*, they should *break* this rule. Besides, breaking the rules is how you make history— so it's a twofer!
 
-Unfortunately, those in charge will insist that *their* rules are different; *theirs* are foundational to the structure— and if they're good guys, the generation who put them there will agree. Furthermore, we *aren't* returning to a world of "bad guys"!
+Unfortunately, those in charge will insist that *their* rules are different; *theirs* are foundational to the structure… and the generation who put them there will agree. Furthermore, we *aren't* returning to a world of "bad guys"!
 
 **Why the historical canon?**
 
@@ -61,7 +61,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* a label, or some other business partner.
+To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* a label— or some other business partner.
 
 **Why demos?**
 
