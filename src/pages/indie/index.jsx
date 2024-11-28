@@ -35,11 +35,11 @@ ${'  ' || `
 // TODO: Keep working on. Specify the "program" part of amnesty program.
 `}
 
-Thanks to Millennials, the indie tastemakers are now in charge— and being "good guys," they can count on the public's charitable support for *any* artist they pick. Yet despite all these good intentions, music has gotten *worse*. Well, what if music is now worse… *because* of such good intentions?!
+Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the public charitably supports *any* artist they pick. Yet despite everyone's good intentions, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
-The best of these intentions, of course, is to have artists be self-empowered enough *not* to need a label. But this requires *all* of them to hustle and get themselves known; those who don't will fall behind. It then stands to reason that if an artist hopes to make music *better*, they should *break* this rule. Besides, breaking the rules is how you make history— so it's a twofer!
+One of these good intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires *all* of them to divert efforts away from the craft, toward the hustle— since those who *don't* will fall behind. Yet no artist should *want* to follow this rule… and if breaking it can help to revive the arts… then it's a twofer! So who wouldn't try?
 
-Unfortunately, those in charge will insist that *their* rules are different; *theirs* are foundational to the structure… and the generation who put them there will agree. Furthermore, we *aren't* returning to a world of "bad guys"!
+Unfortunately, those in charge will always insist that *their* rules are different; *theirs* are foundational to the structure… and the generation who put them there will agree. Let's face it, when the only rules left are the ones enforced by good guys, the public loses its appetite for revolution.
 
 **Why the historical canon?**
 
@@ -57,7 +57,11 @@ Or— suppose the next Kurt Cobain is a minority woman who's struggling to attra
 
 **Why interdependence? Why partners?**
 
-To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where a *partner* can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* a label— or some other business partner.
+${'  ' || `
+// TODO: Review.
+`}
+
+To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where others are more efficient. So history-making bands need to be *inter*-dependent, not *indie*-pendent; they need to *need* a label— or some other business partner.
 
 **Why demos?**
 
@@ -351,7 +355,11 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 
 No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— and so they kept their end of the bargain. Similarly, though Gen X didn't want a White rapper, they embraced Eminem.
 
-Yet when I came along— trying much harder, to be much better— no indie tastemaker sympathized with or respected my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was to be null and void.
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet when I came along— trying much harder, to be much better— no indie tastemaker respected or sympathized with my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was to be null and void.
 
 Thus I had *no* lifeline— and then, as it turns out, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we *must* throw a lifeline to those we don't root for.
 
