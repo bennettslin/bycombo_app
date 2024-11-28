@@ -63,7 +63,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they're allowed to stay weak in matters of business like marketing and distribution, where others are more efficient. So history-making bands need to be *inter*-dependent, not *indie*-pendent; they need to *need* a label— or some other business partner.
+To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they also stay weak in matters of business like marketing and distribution, where a partner can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they need to *need* a label— or some other business partner.
 
 **Why demos?**
 
@@ -356,10 +356,6 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 ### ${++sectionCounter}. Penultimate tolerance has its pitfalls
 
 No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— and so they kept their end of the bargain. Similarly, though Gen X didn't want a White rapper, they embraced Eminem.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet when I came along— trying much harder, to be much better— no indie tastemaker respected or sympathized with my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was to be null and void.
 
