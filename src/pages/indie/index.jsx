@@ -33,6 +33,8 @@ Okay, that's a mouthful! Let's break it down…
 
 ${'  ' || `
 // TODO: Keep working on. Specify the "program" part of amnesty program.
+
+Specify this is a rule of indie rock.
 `}
 
 Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the public charitably supports *any* artist they pick. Yet despite everyone's good intentions, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
