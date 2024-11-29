@@ -32,16 +32,14 @@ Okay, that's a mouthful! Let's break it down…
 **Why amnesty?**
 
 ${'  ' || `
-// TODO: Keep working on. Specify the "program" part of amnesty program.
-
-Specify this is a rule of indie rock.
+// TODO: Keep working on. Make sure first to third paragraphs flow in logic and coherence.
 `}
 
-Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the public charitably supports *any* artist they pick. Yet despite everyone's good intentions, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
+Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the public charitably supports *any* artist they pick. Yet despite the good intentions of everyone involved, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
-One of these good intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires *all* of them to divert efforts away from the craft, toward the hustle— since those who *don't* will fall behind. Yet no artist should *want* to follow this rule… and if breaking it can help to revive the arts… then it's a twofer! So who wouldn't try?
+The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since those who *don't* will fall behind. Yet no artist should *want* to hustle— so if breaking this rule can revive the arts, then it's a twofer! In which case, why not try?
 
-Unfortunately, those in charge will always insist that *their* rules are different; *theirs* are foundational to the structure… and the generation who put them there will agree. Let's face it, when the only rules left are the ones enforced by good guys, the public loses its appetite for revolution.
+Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure… and the generation who put them in charge will agree. But it's *precisely* such rules that need to be broken if the arts are ever to be revived! What we need, then, is an amnesty program to normalize the practice of "forgiving" artists who dare to break them.
 
 **Why the historical canon?**
 
