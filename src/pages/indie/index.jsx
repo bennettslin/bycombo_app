@@ -57,10 +57,6 @@ Or— suppose the next Kurt Cobain is a minority woman who's struggling to attra
 
 **Why interdependence? Why partners?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they also stay weak in matters of business like marketing and distribution, where a partner can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they need to *need* a label— or some other business partner.
 
 **Why demos?**
@@ -135,10 +131,6 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 
 ### ${++sectionCounter}. Talent wants a path to stardom
 
-${'  ' || `
-// TODO: Review.
-`}
-
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant "long tail" decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
 For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our human nature. Since it's hard to say whose works are best, we often just like what others like— and they do the same! As a result, any [random boost](https://web.archive.org/web/20110828/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#:~:text=The%20reason%20is,in%20her%20place.) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
@@ -148,10 +140,6 @@ Yet stardom is also the rightful outcome for the *most* worthy artists, who natu
 By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Luckily, BYCombo is here to build a *new* path to stardom. Because, once you go above and beyond to make the best art, you *won't* just settle for a "thousand true fans." And if superstars are inevitable… then why can't *you* get a chance to be one?
 
 ### ${++sectionCounter}. Posterity is awarded by peer review
-
-${'  ' || `
-// TODO: Review.
-`}
 
 The reverse is also true, of course: Those who'd settle for a "thousand true fans" *won't* try to make the best art. Yet indie rock wants a "long tail" of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
 
@@ -168,10 +156,6 @@ In other words, ignore the critics, or any others who think history-making is a 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point. They just don't value music as a *craft* to begin with!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's persona than to a [well-crafted hook](https://youtu.be/HWMsWO0vPa8).
 
