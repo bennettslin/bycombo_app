@@ -37,9 +37,12 @@ ${'  ' || `
 
 Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the public charitably supports *any* artist they pick. Yet despite the good intentions of everyone involved, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
-The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since those who *don't* will fall behind. Yet no artist should *want* to hustle— so if breaking this rule can revive the arts, then it's a twofer! In which case, why not try?
+The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert effort away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*. Yet no artist should *want* to hustle— so if breaking this rule can revive the arts, then it's a twofer! In which case, why not try?
 
-Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure… and the generation who put them in charge will agree. But it's *precisely* such rules that need to be broken if the arts are ever to be revived! What we need, then, is an amnesty program to normalize the practice of "forgiving" artists who dare to break them.
+Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure… and the generation who put them in charge will agree. In a world of good intentions
+
+
+hen, what we need is an amnesty program to codify the practice of "forgiving" artists who dare to break them.
 
 **Why the historical canon?**
 
@@ -191,7 +194,11 @@ By contrast, the indie labels sign just one artist at a time, so they go with th
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
-In the past, the indie tastemakers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case… this is precisely what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
+${'  ' || `
+// TODO: Review.
+`}
+
+In the past, the indie tastemakers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case, this is precisely what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
 
 What confused me is that I'd explicitly set out to make a [work of art](https://yearlingsbobtail.com/8-good-night-sita/?verse=61&annotation=40) whose creativity [*can't* be disputed](https://yearlingsbobtail.com/10-constellations/?verse=1&annotation=9). Only later did it hit me: If a tastemaker is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we* want. Our human nature is to [*dis*-like creativity](https://web.archive.org/web/20220416/https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html); we just don't realize this, because whatever it is we *do* like… we simply call *that* the thing that's creative!
 
@@ -309,6 +316,8 @@ But once competition happens *away* from public view— as with self-reliance, f
 
 ${'  ' || `
 // TODO: Add new paragraph. Majority vs minority understanding of populism. Underclass? Revisit how it's used in populism section. Coin "sideways horseshoe."
+
+Make it clear that people and privileged are on one side, elites and underclass on the other.
 
 I've yet to see a good term to describe this phenomenon, so let me coin one: the "sideways horseshoe," where those at the top, and those at the bottom, have aligned interests, and thus ally against the majority in the middle.
 `}
