@@ -40,10 +40,10 @@ ${'  ' || `
 // TODO: Keep working on. Make sure first to third paragraphs flow in logic and coherence.
 
 Make point that majors have adopted indie rock's fair practices.
-https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.
+
 `}
 
-Thanks to the Internet, today's major labels have no choice but to behave like indie labels— which means *everyone* in charge is a "good guy" now! And with this being the case, the public will support *any* artist who gets picked. Yet despite the good intentions of everyone involved, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
+Thanks to the Internet, today's major labels have have been forced to adopt indie rock's [fair practices](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.)— which means *everyone* in charge is a "good guy" now! And with this being the case, the public will support *any* artist who gets picked. Yet despite the good intentions of everyone involved, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert effort away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*. Yet no artist should *want* to hustle— so if breaking this rule can revive the arts… then it's a twofer! In which case, why not try?
 
