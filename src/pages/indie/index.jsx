@@ -42,11 +42,13 @@ Make point that majors have adopted indie rock's fair practices.
 
 `}
 
-After their implosion in the '00s, the major labels [came to adopt](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices as well. And with this being the case, the public will support *any* artist who gets picked. Yet despite the good intentions of everyone involved, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
+After their implosion in the '00s, the major labels [came to adopt](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices— turning them into "good guys" as well! And so the public now supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite everyone's good intentions, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert effort away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*. Yet no artist should *want* to hustle— so if breaking this rule can revive the arts… then it's a twofer! In which case, why not try?
 
-Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure itself. But for the art form to advance, it's precisely such rules that need to be broken! What we need, then, is an amnesty program to codify the practice of "forgiving" artists who dare to break them.
+Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure itself.
+
+But for the art form to advance, it's precisely such rules that need to be broken! What we need, then, is an amnesty program to codify the practice of "forgiving" artists who dare to break them.
 
 **Why the historical canon?**
 
@@ -122,7 +124,11 @@ In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
 
-So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to our present moment known as "poptimism," when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
+${'  ' || `
+// TODO: Review.
+`}
+
+So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading up to our present moment of "poptimism," when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
