@@ -25,6 +25,7 @@
 
 * BYC
     * Changed decentralized system to not say system?
+    * Make sure elites are never equated with privileged
     * Amnesty program for artists who advance the art form
         * Review each section, determine if amnesty can be mentioned
         * And what of…
@@ -165,6 +166,8 @@ Progressives can't be populists, because a true populist abandons the underclass
 
 Takeaway:
 A true outsider doesn't wish to *remain* an outsider. They want a pathway to joining those at the top.
+
+https://macleans.ca/society/senakw-vancouver
 
 The problem with progressivism is the same problem with the arts: For the past two decades, there's been an absence of a culturally progressive identity to counter indie rock's culturally libertarian identity. This is a problem because the cultural libertarian believes there are only two classes, the elites and the people. Only the cultural progressive understands there's a third class, the disadvantaged, who *want* the elites to *protect* them from the people. As a result, people who otherwise would have been elites refuse to behave like elites. They refuse the privileges of the elites, which means they also shirk the duties of the elites.
 

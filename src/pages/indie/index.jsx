@@ -13,9 +13,14 @@ const Component = ({ sectionCounter = 0 }) => (
             metaDescription: DESCRIPTION,
             date: { year: 2024, month: 11, updated: true },
             body: `
+
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've spent half my life arguing that indie rock has made music *worse*, to no avail; Millennials refused to listen. The way they saw it: "The better your works, the further you get by hustling. By expecting *every* artist to hustle, then, the indies ensure that we hear the *best*. So if you hate it, well… what does that say about your works?"
+${'  ' || `
+// TODO: Review.
+`}
+
+Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've spent half my life arguing that indie rock's fair practices have made music *worse*, to no avail; Millennials refused to listen. As they saw it: "Thanks to the Internet, you can hustle to build a fanbase on your own. And the better your works, the easier a time you'll have. So if you hate it, well… what does that say about your works?"
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
@@ -33,16 +38,16 @@ Okay, that's a mouthful! Let's break it down…
 
 ${'  ' || `
 // TODO: Keep working on. Make sure first to third paragraphs flow in logic and coherence.
+
+Make point that majors have adopted indie rock's fair practices.
+https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.
 `}
 
-Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the public charitably supports *any* artist they pick. Yet despite the good intentions of everyone involved, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
+Thanks to the Internet, today's major labels have no choice but to behave like indie labels— which means *everyone* in charge is a "good guy" now! And with this being the case, the public will support *any* artist who gets picked. Yet despite the good intentions of everyone involved, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
-The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert effort away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*. Yet no artist should *want* to hustle— so if breaking this rule can revive the arts, then it's a twofer! In which case, why not try?
+The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert effort away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*. Yet no artist should *want* to hustle— so if breaking this rule can revive the arts… then it's a twofer! In which case, why not try?
 
-Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure… and the generation who put them in charge will agree. In a world of good intentions
-
-
-hen, what we need is an amnesty program to codify the practice of "forgiving" artists who dare to break them.
+Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure itself. But for the art form to advance, it's precisely such rules that need to be broken! What we need, then, is an amnesty program to codify the practice of "forgiving" artists who dare to break them.
 
 **Why the historical canon?**
 
@@ -193,10 +198,6 @@ Meanwhile, the major labels in the past had the budget to cast a wide net for ta
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet… for those perched high enough to see it.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
-
-${'  ' || `
-// TODO: Review.
-`}
 
 In the past, the indie tastemakers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case, this is precisely what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
 
@@ -482,7 +483,7 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
-Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally understood to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
+Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally understood to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
 So let's ditch old assumptions, and think in systems. First, "indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their efforts toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since anyone else can now redirect *10%* of their efforts… then *15%*… *20%*…
 
