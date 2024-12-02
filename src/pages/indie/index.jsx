@@ -43,7 +43,7 @@ ${'  ' || `
 // TODO: Keep working on. Make sure first to third paragraphs flow in logic and coherence.
 `}
 
-After their implosion in the '00s, the major labels [came to adopt](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices— and thus became "good guys" as well! In turn, the public now supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite the good intentions of everyone involved, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
+After their implosion in the '00s, the major labels [came to adopt](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices— thus becoming "good guys" as well! In turn, the public now supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite the good intentions of everyone involved, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert effort away from the craft, toward the hustle; those who *don't* will remain unknown— making it a de facto *rule*. Yet no artist should *want* to hustle— so if breaking this rule can revive the arts… then it's a twofer! In which case, why not try?
 
