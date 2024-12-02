@@ -381,12 +381,9 @@ Ignore the superficial differences in sound: Indie rock and poptimism are both u
 
 ${'  ' || `
 // TODO: Review.
-
-Original:
-In a world where outsiders try much harder, to be much better, both indie rock and poptimism protect the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future audiences will know of every advantage they were given that was denied to the outsider!
 `}
 
-Both movements protect the underdog by never questioning whether one was wrongly picked over an outsider— even when the outsider tried much harder, to be much better. But if an underdog *isn't* the best of our times, then they'll also need to be *remembered* as an underdog. Yet future audiences will know of every advantage they were given that was denied to the outsider!
+Both movements protect the chosen underdog by refusing to ask: "Would a rejected outsider who tries much harder, to be much better, be doing more in their stead?" But if this underdog *isn't* the best of our times, then they'll also need to be *remembered* as an underdog. Yet future audiences will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
