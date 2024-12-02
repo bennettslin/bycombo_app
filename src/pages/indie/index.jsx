@@ -41,12 +41,9 @@ Okay, that's a mouthful! Let's break it down…
 
 ${'  ' || `
 // TODO: Keep working on. Make sure first to third paragraphs flow in logic and coherence.
-
-Make point that majors have adopted indie rock's fair practices.
-
 `}
 
-After their implosion in the '00s, the major labels [came to adopt](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices— and thus became "good guys" as well! So now the public supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite everyone's good intentions, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
+After their implosion in the '00s, the major labels [came to adopt](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices— and thus became "good guys" as well! In turn, the public now supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite the good intentions of everyone involved, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert effort away from the craft, toward the hustle; those who *don't* will remain unknown— making it a de facto *rule*. Yet no artist should *want* to hustle— so if breaking this rule can revive the arts… then it's a twofer! In which case, why not try?
 
@@ -220,7 +217,11 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
-And here's more absurdity: Whereas artists are loved for doing what we'd all much rather do, middlemen are hated for doing work that few of us enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is the wish of a *middling* artist, who'd otherwise *be* just a middleman!
+${'  ' || `
+// TODO: Review.
+`}
+
+And here's more absurdity: Whereas artists are loved for doing what we'd all much rather do, middlemen are hated for doing work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is the wish of a *middling* artist, who'd otherwise *be* just a middleman!
 
 Let's be clear, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We learned [all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
 
