@@ -15,7 +15,11 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've spent half my life arguing that indie rock's fair practices have made music *worse*, to no avail; Millennials refused to listen. As they saw it: "Thanks to the Internet, you can hustle to build a fanbase on your own. And the better your works, the easier a time you'll have. So if you hate it, well… what does that say about your works?"
+${'  ' || `
+// TODO: Review.
+`}
+
+Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've spent half my life arguing that indie rock's fair practices have made music *worse*, to no avail; Millennials refused to listen. As they saw it: "Thanks to the Internet, it's easier than ever to build a fanbase on your own. And the better your works, the further you'll get. So if you hate it, well… what does that say about your works?"
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
@@ -117,11 +121,7 @@ In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading up to this present moment of "poptimism," when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
+So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to our present moment known as "poptimism," when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
