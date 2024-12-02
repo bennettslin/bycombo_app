@@ -25,7 +25,11 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 
 First, we raise *awareness*. Because "indie" equates to "good" for so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is: the end result of "indiefication," by which artists put greater and greater effort into *getting* the job— or hustling, as they say— rather than simply *deserving* it. If you keep reading, though, I'll set the record straight.
 
-From there, it's an *action* problem. Rebelling against centralized institutions is easy, right? We just… break them up! But against a *de*-centralized system like indie rock, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
+${'  ' || `
+// TODO: Review.
+`}
+
+From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against a *de*-centralized system such as indie rock, we must *build*— which is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **Interdependent bands, assembled by BYCombo, will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which we'll then show in our registry to find partners who'll grant them amnesty.**
 
@@ -42,9 +46,9 @@ Make point that majors have adopted indie rock's fair practices.
 
 `}
 
-After their implosion in the '00s, the major labels [came to adopt](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices— turning them into "good guys" as well! And so the public now supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite everyone's good intentions, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
+After their implosion in the '00s, the major labels [came to adopt](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices— and thus became "good guys" as well! So now the public supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite everyone's good intentions, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
-The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert effort away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*. Yet no artist should *want* to hustle— so if breaking this rule can revive the arts… then it's a twofer! In which case, why not try?
+The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert effort away from the craft, toward the hustle; those who *don't* will remain unknown— making it a de facto *rule*. Yet no artist should *want* to hustle— so if breaking this rule can revive the arts… then it's a twofer! In which case, why not try?
 
 Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure itself.
 
