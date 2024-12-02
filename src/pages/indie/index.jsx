@@ -213,7 +213,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-And here's more absurdity: Whereas artists are loved for doing what we'd all much rather do, middlemen are hated for doing work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So a world without middlemen… is the wish of a *middling* artist, who'd otherwise settle for *being* a middleman!
+And here's more absurdity: Whereas artists are loved for doing what we'd all much rather do, middlemen are hated for doing work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So "indiefication" is really the wish of a *middling* artist, who'd otherwise have to settle for *being* a middleman!
 
 Let's be clear, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We learned [all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
 
@@ -375,7 +375,14 @@ Perhaps my arguments against indie rock seem moot, now that "poptimism" has defe
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
+${'  ' || `
+// TODO: Review.
+
+Original:
 In a world where outsiders try much harder, to be much better, both indie rock and poptimism protect the underdog by stifling the public's interest in the competition. But if the underdog *isn't* the best of their times… then they'll also need to be *remembered* as an underdog. Yet future audiences will know of every advantage they were given that was denied to the outsider!
+`}
+
+Both movements protect the underdog by never questioning whether one was wrongly picked over an outsider— even when the outsider tried much harder, to be much better. But if an underdog *isn't* the best of our times, then they'll also need to be *remembered* as an underdog. Yet future audiences will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
