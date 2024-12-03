@@ -43,7 +43,7 @@ After their implosion in the '00s, the major labels [came to adopt](https://www.
 
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert effort away from the craft, toward the hustle; those who *don't* will remain unknown— making it a de facto *rule*. Yet no artist should *want* to hustle— so if breaking this rule can revive the arts… then it's a twofer! In which case, why not try?
 
-Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure itself.
+Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure itself— and the public will always agree.
 
 But for the art form to advance, it's precisely such rules that need to be broken! What we need, then, is an amnesty program to codify the practice of "forgiving" artists who dare to break them.
 
@@ -383,7 +383,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Both movements protect the chosen underdog by refusing to ask: "Would a rejected outsider who tries much harder, to be much better, be doing more in their stead?" But if this underdog *isn't* the best of our times, then they'll also need to be *remembered* as an underdog. Yet future audiences will know of every advantage they were given that was denied to the outsider!
+Both movements protect the chosen underdog by refusing to ask: "Would a rejected outsider who tries much harder, to be much better, do more for us in their stead?" But if this underdog *isn't* the best of our times… then they'll also need to be *remembered* as an underdog. Yet future audiences will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
