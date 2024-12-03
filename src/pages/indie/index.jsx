@@ -15,10 +15,6 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've spent half my life arguing that indie rock's fair practices have made music *worse*, to no avail; Millennials refused to listen. As they saw it: "Thanks to the Internet, it's easier than ever to build a fanbase on your own. And the better your works, the further you'll get. So if you hate it, well… what does that say about your works?"
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
@@ -39,7 +35,7 @@ ${'  ' || `
 // TODO: Keep working on. Make sure first to third paragraphs flow in logic and coherence.
 `}
 
-After their implosion in the '00s, the major labels [came to adopt](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices— thus becoming "good guys" as well! In turn, the public now supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite the good intentions of everyone involved, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
+After their implosion in the '00s, the major labels [came to adopt](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices— thus behaving like "good guys"! As a result, the public now supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite the good intentions of everyone involved, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert effort away from the craft, toward the hustle; those who *don't* will remain unknown— making it a de facto *rule*. Yet no artist should *want* to hustle— so if breaking this rule can revive the arts… then it's a twofer! In which case, why not try?
 
@@ -125,7 +121,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading up to this present moment of "poptimism," when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
+So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of "poptimism," when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
@@ -193,7 +189,11 @@ But this can't happen if you're always context switching— which explains why "
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
-Historically, artists lacked all means to get themselves known to the public, freeing them to explore at will— and sometimes leading them to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— leaving them reluctant to experiment, for fear of losing those fans.
+${'  ' || `
+// TODO: Review.
+`}
+
+Historically, artists lacked all means to get themselves known to the public, freeing them to explore at will— and sometimes leading to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— leaving them reluctant to experiment, for fear of losing those fans.
 
 Meanwhile, the major labels in the past had the budget to cast a wide net for talent— which made sense business-wise, since this enabled them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Funny enough, though, it *also* allowed them to deliver the boldest art… by freeing them to pick unknown artists with unexpected ideas!
 
@@ -217,7 +217,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-And here's more absurdity: Whereas artists are loved for doing what we'd all much rather do, middlemen are hated for doing work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman— but a middleman *gets* to be their own artist. So "indiefication" is really the wish of a *middling* artist, who'd otherwise have to settle for *being* a middleman!
+And here's more absurdity: Whereas artists are loved for doing what we'd all much rather do, middlemen are hated for doing work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman… but a middleman *gets* to be their own artist. So "indiefication" is really the wish of a *middling* artist— who'd otherwise have to settle for *being* a middleman!
 
 Let's be clear, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We learned [all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
 
@@ -383,7 +383,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Both movements protect the chosen underdog by refusing to ask: "Would a rejected outsider who tries much harder, to be much better, do more for us in their stead?" But if this underdog *isn't* the best of our times… then they'll also need to be *remembered* as an underdog. Yet future audiences will know of every advantage they were given that was denied to the outsider!
+Both movements protect the chosen underdog by refusing to ask: "Wouldn't the rejected outsider who tries much harder, to be much better, actually do *more* for us?" But if an underdog *isn't* the best of our times… then they'll also need to be *remembered* as the underdog. Yet future audiences will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
