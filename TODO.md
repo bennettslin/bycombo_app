@@ -5,8 +5,7 @@
 * Final reviews
 * AWS CLI setup
 * Finish amnesty paragraphs
-* Visit Dad
-* Groceries
+* Add em-dash util to Bobtail Method project
 
 # Remaining November work
 * Contact Vanessa Ogle
