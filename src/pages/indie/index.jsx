@@ -385,7 +385,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Both movements protect the chosen underdog by refusing to ask, "Wouldn't the rejected outsider— who tries much harder, to be much better— take us *farther*?" But… if this underdog *isn't* the best of our times, then we'll also need to portray them as an underdog to *future* generations— who'll know of every advantage they were given that was denied to the outsider!
+Both movements protect the chosen underdog by refusing to ask, "Wouldn't the rejected outsider— who tries much harder, to be much better— take us *farther*?" But if this underdog *isn't* the best of our times… then we'll still need to present them as an underdog to *future* generations— who'll know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
