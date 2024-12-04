@@ -35,9 +35,9 @@ ${'  ' || `
 // TODO: Keep working on. Make sure first to third paragraphs flow in logic and coherence.
 `}
 
-After their implosion in the '00s, the major labels [came to adopt](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices— making *everyone* in charge a "good guy"! So now the public supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
+After imploding in the '00s, the major labels [came to adopt](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) fair practices as well— so now *everyone* in charge behaves like a "good guy"! As a result, the public readily supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
-The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle; those who *don't* will remain unknown— making it a de facto *rule*! Yet no artist should *want* to hustle… So if breaking this rule might *also* revive the arts, then why not try?
+The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*! Yet no artist should *want* to hustle… so if breaking this rule can *also* revive the arts, then why not try?
 
 Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure itself— and then the rule breakers they dismiss get seen as hobbyists instead of troublemakers, inviting no backlash.
 
@@ -377,7 +377,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Both movements protect the chosen underdog by refusing to ask, "Wouldn't the rejected outsider— who tries much harder, to be much better— take us *farther*?" But… if this underdog *isn't* the best of our times… then they'll also need to be seen as an underdog by *future* generations— who'll know of every advantage they were given that was denied to the outsider!
+Both movements protect the chosen underdog by refusing to ask: "What if the rejected outsider— who tries much harder, to be much better— would've taken us *farther*?" But since this underdog *isn't* the best of our times… they'll also need to be seen as an underdog by *future* generations— who'll know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
