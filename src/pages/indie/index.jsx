@@ -35,7 +35,7 @@ ${'  ' || `
 // TODO: Keep working on. Make sure first to third paragraphs flow in logic and coherence.
 `}
 
-After imploding in the '00s, the major labels [came to adopt](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) fair practices as well— so now *everyone* in charge behaves like a "good guy"! As a result, the public readily supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
+After imploding in the '00s, the major labels came to adopt fair practices as well— so now *everyone* in charge behaves like a "good guy"! As a result, the public readily supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*! Yet no artist should *want* to hustle… so if breaking this rule can *also* revive the arts, then why not try?
 
@@ -119,7 +119,7 @@ In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
 
-So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of "poptimism," when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
+So indie rock set off a chain reaction, forcing the next tier of artists to beg for support as well, and then the next… leading to our present moment known as "poptimism," when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
@@ -143,7 +143,11 @@ Yet stardom is also the rightful outcome for the *most* worthy artists, who natu
 
 By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Luckily, BYCombo is here to build a *new* path to stardom. Because, once you go above and beyond to make the best art, you *won't* just settle for a "thousand true fans." And if superstars are inevitable… then why can't *you* get a chance to be one?
 
-### ${++sectionCounter}. Posterity is awarded by peer review
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Posterity is ensured by peer review
 
 The reverse is also true, of course: Those who'd settle for a "thousand true fans" *won't* try to make the best art. Yet indie rock wants a "long tail" of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
 
@@ -377,7 +381,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Both movements protect the chosen underdog by refusing to ask: "What if the rejected outsider— who tries much harder, to be much better— would've taken us *farther*?" But since this underdog *isn't* the best of our times… they'll also need to be seen as an underdog by *future* generations— who'll know of every advantage they were given that was denied to the outsider!
+Both movements protect the chosen underdog by refusing to ask: "Wouldn't the rejected outsider— who tries much harder, to be much better— take us *farther*?" But if this underdog *isn't* the best of our times, then they'll always need future generations to *remember* them as an underdog— despite every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
@@ -393,7 +397,11 @@ By contrast, the indie labels obey the people's will, as measured by the size of
 
 So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "Recordings *should* be free; they're for publicity. Real earnings are made by going on tour!" And social media: "Real artists engage with their fans, and now they can at *any* time— not just after a show!"
 
-To sum up, it was the *indie camp*, with their grudges against the majors, who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music)! The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
+${'  ' || `
+// TODO: Review.
+`}
+
+To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, [even the *majors*](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) now stick with self-empowered artists who *don't* need a label. The only way to revolt, then, is to reject indie rock *itself*— which is why BYCombo tells you *not* to boost your numbers, but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 

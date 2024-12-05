@@ -2,11 +2,13 @@
 
 # Tomorrow
 * Final reviews
-* AWS CLI setup
-* Finish amnesty paragraphs
-* Add em-dash util to Bobtail Method project
+* Amnesty work
+    * Get rid of major labels and poptimism in amnesty paragraphs
+        * 
 
-# Remaining November work
+# Remaining December work
+* Add em-dash util to Bobtail Method project
+* AWS CLI setup
 * Contact Vanessa Ogle
 * Set up laptop
 * Add elitism paragraph, with mention of "sideways horseshoe"
