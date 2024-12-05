@@ -1,7 +1,6 @@
 # TODO
 
 # Tomorrow
-* Epoxy stuff
 * Final reviews
 * AWS CLI setup
 * Finish amnesty paragraphs
@@ -24,7 +23,6 @@
 
 * BYC
     * Changed decentralized system to not say system?
-    * Make sure elites are never equated with privileged
     * Amnesty program for artists who advance the art form
         * Review each section, determine if amnesty can be mentioned
         * And what of…

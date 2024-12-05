@@ -39,9 +39,9 @@ After imploding in the '00s, the major labels [came to adopt](https://www.honest
 
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*! Yet no artist should *want* to hustle… so if breaking this rule can *also* revive the arts, then why not try?
 
-Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure itself— and then the rule breakers they dismiss get seen as hobbyists instead of troublemakers, inviting no backlash.
+Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure itself— making those who break their rules the "bad guys." Yet many of history's good guys were bad guys in their own times, and vice versa. Can we be so sure we've got it figured out this time? Luckily, we won't have to; with an amnesty program, today's bad guys can be given the bare minimum to stay alive.
 
-
+and then the rule breakers they dismiss get seen as hobbyists instead of troublemakers, inviting no backlash.
 
 What we need, then, is an amnesty program to codify the practice of "forgiving" artists who dare to break them.
 
