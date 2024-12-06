@@ -373,9 +373,9 @@ ${'  ' || `
 // TODO: Review next two paragraphs.
 `}
 
-Both movements protect the chosen underdog by refusing to ask: "Wouldn't the rejected outsider— who tries much harder, to be much better— take us *farther*?" But if this underdog *isn't* the best of our times, then they'll also need to be presented as an underdog to *future* generations— who'll know of every advantage they were given that was denied to the outsider!
+Both movements protect the chosen underdog by refusing to ask: "Wouldn't the rejected outsider— who tries much harder, to be much better— take us *farther*?" But if this underdog *isn't* the best of our times, then they'll also need history to *remember* them as an underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
-This… *can't* be a viable way to make history. Because, what historical figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
+This… *can't* be a viable way to make history. Because, which notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
 Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you just *aren't* whom the people want to root for? Then let BYCombo throw you a lifeline— by bringing back the rockism of [Sister Rosetta](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
 
@@ -393,7 +393,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the [*majors* now look](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) for self-empowered artists who *don't* need a label. The only way to revolt, then, is to reject indie rock *itself*— which is why BYCombo tells you *not* to boost your numbers, but to pursue a vision that few others see.
+To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the [*majors* now favor](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) self-empowered artists who *don't* need a label. The only way to revolt, then, is to reject indie rock *itself*— which is why BYCombo tells you *not* to boost your numbers, but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 

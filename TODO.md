@@ -24,6 +24,7 @@
     * Change interactivated verse?
 
 * BYC
+    * Distinguish between previous and next elites?
     * Changed decentralized system to not say system?
     * Amnesty program for artists who advance the art form
         * Review each section, determine if amnesty can be mentioned
