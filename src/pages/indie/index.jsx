@@ -34,10 +34,10 @@ Okay, that's a mouthful! Let's break it down…
 ${'  ' || `
 // TODO: Keep working on. Make sure first to third paragraphs flow in logic and coherence.
 
-After imploding in the '00s, the major labels came to adopt fair practices as well— so now *everyone* in charge behaves like a "good guy"! As a result, the public readily supports *any* artist who gets picked— a tendency known as "poptimism." 
+Change poptimism in charitable support section. Review major labels in unfair practices section.
 `}
 
-Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the public readily supports *any* artist they pick. Yet despite everyone's good intentions, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
+After imploding in the '00s, the major labels adopted fair practices as well— so now *everyone* in charge behaves like an indie tastemaker! Because of this, the public readily supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite everyone's good intentions, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*! Yet no artist should *want* to hustle… so if breaking this rule can *also* revive the arts, then why not try?
 
