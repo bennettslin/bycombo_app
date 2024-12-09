@@ -35,11 +35,11 @@ ${'  ' || `
 // TODO: Keep working on. Make sure first to third paragraphs flow in logic and coherence.
 `}
 
-After imploding in the '00s, the major labels [adopted fair practices](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) as well— just like the indie tastemakers! So now *everyone* in charge is a "good guy," thus impelling the public to support *any* artist who gets picked— a tendency known as "poptimism." Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of good intentions?!
+After their implosion in the '00s, the [major labels adopted](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices as well— so now *everyone* in charge is a "good guy"! As a result, the public charitably supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
-The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*! Yet no artist should *want* to hustle… so if breaking this rule can *also* revive the arts, then why not try?
+The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle; those who *don't* will remain unknown— making it a de facto *rule*! Yet no artist should *want* to hustle… so if breaking this rule can *also* revive the arts, then why not let them try?
 
-Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure itself— and thus should *never* be broken.
+Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure itself, and thus *can't* be broken.
 
 making those who break their rules the "bad guys." Yet many of history's good guys were bad guys in their own times, and vice versa. Can we be so sure we've got it figured out this time? Luckily, we won't have to; with an amnesty program, today's bad guys can be given the bare minimum to stay alive.
 

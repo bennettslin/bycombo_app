@@ -1,10 +1,7 @@
 # TODO
 
 # Tomorrow
-* Final reviews
-* Amnesty work
-    * Get rid of major labels and poptimism in amnesty paragraphs
-        * 
+* Amnesty paragraphs
 
 # Remaining December work
 * Add em-dash util to Bobtail Method project
