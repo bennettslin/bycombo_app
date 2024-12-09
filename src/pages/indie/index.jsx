@@ -39,11 +39,11 @@ ${'  ' || `
 // TODO: Keep working on. Make sure first to third paragraphs flow in logic and coherence.
 `}
 
-After their implosion in the '00s, the [major labels adopted](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices as well— making *everyone* in charge a "good guy"! For this reason, the public now supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
+After their implosion in the '00s, the [major labels adopted](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices as well— making *everyone* in charge a "good guy"! For this reason, the people now support *any* artist who gets picked— a tendency known as "poptimism." Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle; those who *don't* will remain unknown— making it a de facto *rule*! Yet no artist should *want* to hustle… so if breaking this rule can *also* revive the arts, then why not let them try?
 
-Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure itself, and thus *can't* be broken.
+Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure itself— and since they're good guys, the public won't argue. Which means there can never again be 
 
 making those who break their rules the "bad guys." Yet many of history's good guys were bad guys in their own times, and vice versa. Can we be so sure we've got it figured out this time? Luckily, we won't have to; with an amnesty program, today's bad guys can be given the bare minimum to stay alive.
 
@@ -377,7 +377,11 @@ There's also a selfish reason to do so: Once we shut out the outsiders of our ti
 
 Perhaps my arguments against indie rock seem moot, now that "poptimism" has defeated "rockism." After all, doesn't this mean that pop killed rock? Well, no; the *real* killer was "indiefication." Unaware of their complicity, however, many in the indie camp then sought to be of use elsewhere. So poptimism… is really just indie rock's good intentions brought to the pop genre!
 
-Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traced to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
+${'  ' || `
+// TODO: Review.
+`}
+
+Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traces to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
 Both movements protect the chosen underdog by refusing to ask: "Wouldn't the rejected outsider— who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times, then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
