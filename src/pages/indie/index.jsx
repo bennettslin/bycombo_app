@@ -27,7 +27,7 @@ ${'  ' || `
 // TODO: Review. Compare to paragraph on home page.
 `}
 
-**Interdependent bands assembled by BYCombo… will aim for the historical canon by sacrificing serious chunks of lifetime to make demos… that they'll then show in our registry to find partners who'll grant them amnesty.**
+**BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to request amnesty from interdependent-minded partners.**
 
 Okay, that's a mouthful! Let's break it down…
 
