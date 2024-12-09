@@ -23,7 +23,11 @@ First, we raise *awareness*. Because "indie" equates to "good" for so many, few 
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against a *de*-centralized system such as indie rock, we must *build*— which is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
-**Interdependent bands, assembled by BYCombo, will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which we'll then show in our registry to find partners who'll grant them amnesty.**
+${'  ' || `
+// TODO: Review. Compare to paragraph on home page.
+`}
+
+**Interdependent bands assembled by BYCombo… will aim for the historical canon by sacrificing serious chunks of lifetime to make demos… that they'll then show in our registry to find partners who'll grant them amnesty.**
 
 Okay, that's a mouthful! Let's break it down…
 
@@ -35,7 +39,7 @@ ${'  ' || `
 // TODO: Keep working on. Make sure first to third paragraphs flow in logic and coherence.
 `}
 
-After their implosion in the '00s, the [major labels adopted](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices as well— so now *everyone* in charge is a "good guy"! As a result, the public charitably supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
+After their implosion in the '00s, the [major labels adopted](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices as well— making *everyone* in charge a "good guy"! For this reason, the public now supports *any* artist who gets picked— a tendency known as "poptimism." Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle; those who *don't* will remain unknown— making it a de facto *rule*! Yet no artist should *want* to hustle… so if breaking this rule can *also* revive the arts, then why not let them try?
 
@@ -427,7 +431,11 @@ Combining glam's gender-bending look with metal's aggression, glam metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
-Here's my theory: Millennials faced scarcity of content just long enough to hate it. Then, before they could learn resilience, they were given structured ways to defeat it— which [won their loyalty](https://xkcd.com/1601). And so they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
+${'  ' || `
+// TODO: Review.
+`}
+
+Here's my theory: Millennials faced scarcity of content just long enough to hate it. Then, before they could learn resilience, they were given structured ways to defeat it— which [won their loyalty](https://xkcd.com/1601). And so they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* help to enforce!
 
 Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a stand is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 

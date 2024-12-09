@@ -67,7 +67,11 @@ Sure enough, the last two decades of rock have had [little impact](https://today
 
 These "Dr. Dres of rock" would love to give amnesty to interdependent bands who've broken indie rock's rules… but how? Any such band currently remains unknown for having done so, and with today's low barriers to entry, the field is more crowded than ever. The next step, then, is for [elitist gatekeepers](/indie#elitism-is-the-great-equalizer) like BYCombo to enforce a steep *cost* of entry. Here's the general idea:
 
-**Each BYCombo band will sacrifice a serious chunk of lifetime to make a demo that advances the art form, which they'll then show in our demo registry to build a case for partners to grant them amnesty.**
+${'  ' || `
+// TODO: Review. Compare to paragraph on indie page.
+`}
+
+**Each BYCombo band will sacrifice a serious chunk of lifetime to make a demo that advances the art form, which they'll then show in our demo registry to find a partner who'll grant them amnesty.**
 
 So picture a *hundred* such bands, all of them committed to giving us the historically consequential works of our times. This will be the *final* step to winning back our interdependence— the next revolution in rock history!
             `,

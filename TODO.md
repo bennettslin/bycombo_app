@@ -21,6 +21,7 @@
     * Change interactivated verse?
 
 * BYC
+    * Meet Me in the Bathroom link to privilege?
     * Distinguish between previous and next elites?
     * Changed decentralized system to not say system?
     * Amnesty program for artists who advance the art form
