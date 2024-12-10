@@ -65,6 +65,8 @@ But lean operations also have single point of failure. Can't adapt to changes. B
 Without a critical mass of people willing to say the art of our times sucks, we'll never get over the inertia of our dislike for innovation.
 
 https://www.ian-leslie.com/p/how-to-be-influenced
+https://nevermindgenx.substack.com/p/the-ainguish-of-influence
+https://www.nybooks.com/articles/2000/02/10/the-panic-of-influence/?lp_txn_id=1595126
 
 * Before, or after, mastery?
     * Ultimately depends on how I write it, I think
