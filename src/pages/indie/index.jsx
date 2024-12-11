@@ -11,7 +11,7 @@ const Component = ({ sectionCounter = 0 }) => (
             title: TITLE,
             metaTitle: TITLE,
             metaDescription: DESCRIPTION,
-            date: { year: 2024, month: 11, updated: true },
+            date: { year: 2024, month: 12, updated: true },
             body: `
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
@@ -32,14 +32,14 @@ Okay, that's a mouthful! Let's break it down…
 **Why amnesty?**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 After their implosion in the '00s, the [major labels adopted](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices as well— making *everyone* in charge a "good guy"! For this reason, the people now support *any* artist who gets picked— a tendency known as "poptimism." Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle; those who *don't* will remain unknown— making it a de facto *rule*! Yet artists shouldn't *want* to hustle… so if breaking this rule can *also* revive the arts, then why not let them try?
 
-Unfortunately, good guys will insist that *their* rules are different; *theirs* are foundational to the structure itself. Under their watch, then, there can never be another revolution— much less one like ours— *unless* we institutionalize the practice of "forgiving" those who break their rules! And the simplest way to make this happen is by starting an amnesty program.
+Unfortunately, good guys will insist that *their* rules are different; theirs are foundational to the structure itself. Under their watch, then, there can *never* be another revolution, much less one like ours— *unless* we institutionalize the practice of "forgiving" those who break the good guys' rules! And to make this happen, the simplest way is by starting an amnesty program.
 
 **Why the historical canon?**
 
@@ -450,6 +450,10 @@ Luckily, having struggled for half my life to attract bandmates, I anticipated t
 When is it a "larp"? Here's a test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the real hero… the *app*?
 
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
+
+${'  ' || `
+// TODO: Revise. Use "at last."
+`}
 
 Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if they were assembled into bands, allowing them to combine mediums in unprecedented ways? Well, *now* they'd be the real heroes! So come join BYCombo, and explore this next frontier— by having a dancer, illustrator, or puppeteer as your bandmate.
 
