@@ -37,9 +37,9 @@ ${'  ' || `
 
 After their implosion in the '00s, the [major labels adopted](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices as well— thus making *everyone* in charge a "good guy"! As a result, the people now support *any* artist who gets picked— a tendency known as "poptimism." Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
-The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert time and energy away from the craft, toward the hustle; any who *don't* will remain unknown— which means it's a de facto *rule*! Yet artists should *want* to break the rules… so if breaking *this* one can *also* revive the arts, then why not let them try?
+The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert time and energy away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*! Yet artists should *want* to break the rules… and if doing so can *also* revive the arts, then why not let them try?
 
-Unfortunately, good guys will insist that *their* rules are different; theirs are foundational to the structure itself. With them in charge, then, there can't ever be another revolution, much less one like ours— *unless* we normalize the practice of "forgiving" those who break their rules! And the way to make this happen is by starting an amnesty program.
+Unfortunately, good guys will insist that *their* rules are different; theirs are foundational to the structure itself. Which means there can't ever be another revolution, much less one like ours— *unless* we institutionalize the practice of "forgiving" those who break their rules! And the simplest way to make this happen is by starting an amnesty program.
 
 **Why the historical canon?**
 
