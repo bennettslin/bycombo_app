@@ -21,7 +21,11 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 
 First, we raise *awareness*. Because "indie" equates to "good" for so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is: the end result of "indiefication," by which artists put greater and greater effort into *getting* the job— or hustling, as they say— rather than simply *deserving* it. If you keep reading, though, I'll set the record straight.
 
-From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against a *de*-centralized system such as indie rock, we must *build*— which is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
+${'  ' || `
+// TODO: Review.
+`}
+
+From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against a *de*-centralized structure like indie rock, we must *build*— which is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to request amnesty from interdependent-minded partners.**
 
@@ -357,7 +361,11 @@ Indie rock is an ideology more than anything else— and ideologies transcend ti
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
-It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to end segregation. But indie rock promises to be a *de*-centralized system that *obeys* the people's will— and as such, it can only ever uphold the prejudices of its times.
+${'  ' || `
+// TODO: Review.
+`}
+
+It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to end segregation. But indie rock is a *de*-centralized structure whose vow is to *obey* the people's will— and as such, it can only uphold the prejudices of its times.
 
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have repeatedly shown that you *aren't* your own best advocate? Why, BYCombo can help you find partners who'll advocate on your behalf— as we usher in a new time of civil rights for artists!
 
@@ -463,7 +471,11 @@ Luckily, having struggled for half my life to attract bandmates, I anticipated t
 
 ### ${++sectionCounter}. History tracks aesthetics, not logistics
 
-When is it a "larp"? Here's a test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the real hero… the *app*?
+${'  ' || `
+// TODO: Review.
+`}
+
+When is it a "larp"? Here's a test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the *real* hero… the app?
 
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
 
@@ -471,7 +483,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if they were assembled into bands, allowing them to combine mediums in unprecedented ways? At long last, they'd be the real heroes! So come join BYCombo, and explore this next frontier— by having a dancer, illustrator, or puppeteer as your bandmate.
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if they were assembled into bands, allowing them to combine mediums in unprecedented ways? At long last, they'd be the *real* heroes! So come join BYCombo, and explore this next frontier— by having a dancer, illustrator, or puppeteer as your bandmate.
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
@@ -493,7 +505,11 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
-To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
+${'  ' || `
+// TODO: Review.
+`}
+
+To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally understood to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
