@@ -97,7 +97,11 @@ We all respect those '80s [underground bands](https://www.hachettebookgroup.com/
 
 In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000&smoothing=1) underground bands "indie," to affirm that they'd only *ever* signed to an indie label, if to any at all. Yet, unlike being underground, being indie *can* be a universal ideal— and so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is indie… even one with mainstream tastes!
 
-But given that *most* people belong to the mainstream, artists who share such tastes easily gain the most fans. So naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a populist movement, thus allowing its camp— who now *favored* popular appeal— to keep seeing themselves as champions of an underdog class.
+${'  ' || `
+// TODO: Review.
+`}
+
+But given that *most* people belong to the mainstream, artists who share such tastes easily gain the most fans. So naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a populist movement, thus allowing its camp— who now *favored* popular appeal— to still see themselves as champions of an underdog class.
 
 So what happens now, if *your* respect for the underground always had to do with the *aesthetics* of subverting mainstream tastes, rather than the *logistics* of forgoing the major labels? Why, you can rest assured: BYCombo is here to bring back elitism— the historical line of defense for subversive art!
 
@@ -277,7 +281,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But now the indie camp's total lack of "noblesse oblige" made perfect sense! If paid dues are worthless outside the one culture that agrees to honor them, then *of course* any artist who's already put in the hustle will choose to keep indie rock as it is— in all its brokenness.
+But suddenly the indie camp's lack of "noblesse oblige" made perfect sense! If paid dues are worthless outside the one culture that agrees to honor them, then *of course* any artist who's already put in the hustle will choose to keep indie rock as it is— in all its brokenness.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
@@ -443,7 +447,11 @@ Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if
 
 ### ${++sectionCounter}. Modern collaboration requires assembly
 
-Demos allow artists to pursue visions they *can't* fulfill on their own, and one vision much in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop? Some ask why bands have [declined in popularity](https://www.honest-broker.com/p/the-bands-are-never-coming-back), but it's really no mystery.
+${'  ' || `
+// TODO: Review.
+`}
+
+Demos allow artists to pursue visions they *can't* fulfill on their own, and one vision much in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop? Some ask why bands [are disappearing](https://www.honest-broker.com/p/the-bands-are-never-coming-back), but it's really no mystery.
 
 Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indies can't rethink *anything*…
 
@@ -456,10 +464,10 @@ When is it a "larp"? Here's a test: Could it have been a fictional movie *instea
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
 
 ${'  ' || `
-// TODO: Revise. Use "at last."
+// TODO: Review.
 `}
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if they were assembled into bands, allowing them to combine mediums in unprecedented ways? Well, *now* they'd be the real heroes! So come join BYCombo, and explore this next frontier— by having a dancer, illustrator, or puppeteer as your bandmate.
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if they were assembled into bands, allowing them to combine mediums in unprecedented ways? They'd be the real heroes at long last! So come join BYCombo, and explore this next frontier— by having a dancer, illustrator, or puppeteer as your bandmate.
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
