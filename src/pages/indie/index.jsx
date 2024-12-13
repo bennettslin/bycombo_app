@@ -65,7 +65,11 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a demo *registry*?**
 
-A stellar demo signifies exceptional talent— and yet, finding one requires sifting through *hundreds*. So the indie labels rarely bother, since *any* artist they sign will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with the *elites*— who alone have a "noblesse oblige" to help those being *hurt* by the public's good intentions.
+${'  ' || `
+// TODO: Review.
+`}
+
+A stellar demo signifies exceptional talent— and yet, finding one requires sifting through *hundreds*. So the indie labels rarely bother, since *any* artist they sign will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with *elites*— who alone have a "noblesse oblige" to help those being *hurt* by the public's good intentions.
 
 But the elites have their own reason to hesitate: Anytime they release a work that sounds like a demo they once rejected, this opens them up to a lawsuit. So what we need now is a demo registry— namely, an online location where anyone can *discreetly* check out the latest bands trying to make history.
 
@@ -107,7 +111,11 @@ Of course, there's another reason we respect those '80s underground bands: To co
 
 But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, instead of having to go through the majors to spread their works from the top down, they can win the people's support from the bottom up— the new grassroots, you might say. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
 
-So the grassroots has been successfully recast as a *populist* field; it's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the countless many who don't. Still, what if *you* were hoping to assure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites once again!
+${'  ' || `
+// TODO: Review.
+`}
+
+So the grassroots has been successfully recast as a *populist* field; it's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the countless many who don't. Still, what if *you* were hoping to assure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to a new generation of elites!
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
