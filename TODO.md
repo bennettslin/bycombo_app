@@ -35,6 +35,7 @@
     * Consider doing screen widths smartly
     * Consider smart quote in Wikipedia link update
     * Revise apply page
+        * https://www.matthewstrother.org/applications
 
 * Distro
     * Make everything (demo version)

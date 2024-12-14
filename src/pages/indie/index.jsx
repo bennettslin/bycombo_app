@@ -25,7 +25,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against a *de*-centralized structure like indie rock, we must *build*— which is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
+From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to request amnesty from interdependent-minded partners.**
 
@@ -357,7 +357,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to end segregation. But indie rock is a *de*-centralized structure whose vow is to *obey* the people's will— and as such, it can only uphold the prejudices of its times.
+It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to end segregation. But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it can only uphold the prejudices of its times.
 
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have repeatedly shown that you *aren't* your own best advocate? Why, BYCombo can help you find partners who'll advocate on your behalf— as we usher in a new time of civil rights for artists!
 
@@ -485,11 +485,7 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
-${'  ' || `
-// TODO: Review.
-`}
-
-To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
+To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally understood to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
