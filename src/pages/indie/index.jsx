@@ -36,12 +36,12 @@ Okay, that's a mouthful! Let's break it down…
 **Why amnesty?**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise. Don't need to mention reviving the arts twice.
 `}
 
 After their implosion in the '00s, the [major labels adopted](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) indie rock's fair practices as well— thus making *everyone* in charge a "good guy"! As a result, the people now support *any* artist who gets picked— a tendency known as "poptimism." Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
-The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert time and energy away from the craft, toward the hustle; any who *don't* will remain unknown— which means it's a de facto *rule*! Luckily, some artists *live* to break the rules… so if breaking *this* one can reverse our decline, then why not let them?
+The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert time and energy away from the craft, toward the hustle; any who *don't* will remain unknown— which means it's a de facto *rule*! Luckily, some artists *live* to break the rules… so if breaking *this* one can revive the arts, then why not let them?
 
 Unfortunately, good guys will insist that *their* rules are different; theirs are foundational to the structure itself. If the arts are to be revived, then, we *must* normalize the practice of "forgiving" the rule breakers of our times! And the way to make this happen is through an amnesty program.
 
