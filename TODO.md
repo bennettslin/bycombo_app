@@ -26,12 +26,6 @@
     * Meet Me in the Bathroom link to privilege in elitism section?
         * https://www.harpercollins.com/products/meet-me-in-the-bathroom-lizzy-goodman
     * Amnesty program for artists who advance the art form
-        * Review each section, determine if amnesty can be mentioned
-        * And what of…
-            * Make sure it's clearly stated somewhere
-                * Millennials didn't share the reverence felt by previous generations for those who break the rules
-                * We can no longer assume that any future generation will feel this reverence
-                * An amnesty program ensures it will always be safe to break the rules
     * Consider doing screen widths smartly
     * Consider smart quote in Wikipedia link update
     * Revise apply page
