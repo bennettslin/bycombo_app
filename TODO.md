@@ -21,7 +21,10 @@
     * Change interactivated verse?
 
 * BYC
-    * Meet Me in the Bathroom link to privilege?
+    * Against Empathy link in underdogs section?
+        * https://www.harpercollins.com/products/against-empathy-paul-bloom
+    * Meet Me in the Bathroom link to privilege in elitism section?
+        * https://www.harpercollins.com/products/meet-me-in-the-bathroom-lizzy-goodman
     * Amnesty program for artists who advance the art form
         * Review each section, determine if amnesty can be mentioned
         * And what of…
