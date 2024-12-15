@@ -21,15 +21,7 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 
 First, we raise *awareness*. Because "indie" equates to "good" for so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is: the end result of "indiefication," by which artists put greater and greater effort into *getting* the job— or hustling, as they say— rather than simply *deserving* it. If you keep reading, though, I'll set the record straight.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
-
-${'  ' || `
-// TODO: Review.
-`}
 
 **BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to seek amnesty from interdependent-minded partners.**
 
@@ -73,19 +65,11 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a demo *registry*?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 A stellar demo signifies exceptional talent— and yet, finding one requires sifting through *hundreds*. So the indie labels rarely bother, since *any* artist they sign will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with *elites*— who alone have a "noblesse oblige" to help those being *hurt* by the people's good intentions.
 
 But the elites have their own reason to hesitate: Anytime they release a work that sounds like a demo they once rejected, this opens them up to a lawsuit. So what we need now is a demo registry— namely, an online location where anyone can *discreetly* check out the latest bands trying to make history.
 
 **Why serious chunks of lifetime?**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading the public to grow wary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To save the arts, then, a centralized nonprofit like BYCombo must now step up and serve as a gatekeeper for the elites— by enforcing a steep *cost* of entry.
 
@@ -123,13 +107,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Of course, there's another reason we respect those '80s underground bands: To come up from the local scenes— also known as the grassroots— they had to put in the work each day for untold years. And so they ensured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
+Of course, there's another reason we respect those '80s underground bands: To come up from the local scenes— also known as the grassroots— they had to put in the work each day for untold years. In doing so, they ensured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
 But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, instead of having to go through the majors to spread their works from the top down, they can win the people's support from the bottom up— the new grassroots, you might say. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So the grassroots has been successfully recast as a *populist* field; it's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the countless many who don't. Still, what if *you* were hoping to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to a new generation of elites!
 
@@ -361,10 +341,6 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But can't *today's* indies learn to sign the *next* Radiohead? No, because status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope for amnesty, after betting it all on the craft— your "hobby."
@@ -384,10 +360,6 @@ Still, what if *your* dream is to make "windfall art," which *requires* you to b
 Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce, "Artists, as your own best advocate, you'll now be judged by how far you get on your *own*, without the help of a partner. The playing field is finally level!"
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to end segregation. But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it can only uphold the prejudices of its times.
 
@@ -425,19 +397,11 @@ By contrast, the indie labels obey the people's will, as measured by the size of
 
 So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "Recordings *should* be free; they're for publicity. Real earnings are made by going on tour!" And social media: "Real artists engage with their fans, and now they can at *any* time— not just after a show!"
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* [now favor](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) self-empowered artists who *don't* need a label. The only way to revolt, then, is to reject indie rock *itself*— which is why BYCombo tells you *not* to boost your numbers, but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're the new word of mouth… which indie rock has *always* held in high esteem. In which case, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups… who generate the *most* creative ideas! And when in doubt, we imitate others… yet they *share* our biases! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
 
