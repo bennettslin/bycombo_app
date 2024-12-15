@@ -41,9 +41,9 @@ ${'  ' || `
 
 Thanks to Millennials, the indie tastemakers are now in charge! And since they're "good guys," the people charitably support *every* artist they pick. Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
-The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert time and energy away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*. Luckily, some artists live to break the rules! And if breaking *this* one can revive the arts… then why not let them?
+The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert time and energy away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*. Luckily… some artists *live* to break the rules! And if breaking *this* one can revive the arts, then why not let them?
 
-Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are foundational to the structure itself— and the generation who put them in charge will agree. But… what if *no* generation ever again "forgives" their rule breakers, as was done in the past?! What we need, then, is to institutionalize the practice of doing so— an amnesty program for the arts, if you will.
+Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are foundational to the structure itself— and the generation who put them in charge will agree. But… what if *no* generation ever again "forgives" their rule breakers, as was done in the past?! What we need, then, is to *institutionalize* the practice of doing so— an amnesty program for the arts, if you will.
 
 **Why the historical canon?**
 
