@@ -27,7 +27,11 @@ ${'  ' || `
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
-**BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to request amnesty from interdependent-minded partners.**
+${'  ' || `
+// TODO: Review.
+`}
+
+**BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to seek amnesty from interdependent-minded partners.**
 
 Okay, that's a mouthful! Let's break it down…
 
@@ -43,7 +47,7 @@ Thanks to Millennials, the indie tastemakers are now in charge! And since they'r
 
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert time and energy away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*. Luckily… some artists *live* to break the rules! And if breaking *this* one can revive the arts, then why not let them?
 
-Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are foundational to the structure itself— and the generation who put them in charge will agree. But… what if *no* generation ever again "forgives" their rule breakers, as was done in the past?! What we need, then, is to *institutionalize* the practice of doing so— an amnesty program for the arts, if you will.
+Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But what if *no* generation ever again "forgives" their rule breakers, as was done in the past? What's needed, then, is an institution to *formalize* the custom of doing so— an amnesty program for the arts, if you will.
 
 **Why the historical canon?**
 
@@ -119,11 +123,15 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Of course, there's another reason we respect those '80s underground bands: To come up from the local scenes— also known as the grassroots— they had to put in the work each day for untold years. Which means they assured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
+Of course, there's another reason we respect those '80s underground bands: To come up from the local scenes— also known as the grassroots— they had to put in the work each day for untold years. And so they ensured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
 But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, instead of having to go through the majors to spread their works from the top down, they can win the people's support from the bottom up— the new grassroots, you might say. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
 
-So the grassroots has been successfully recast as a *populist* field; it's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the countless many who don't. Still, what if *you* were hoping to assure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to a new generation of elites!
+${'  ' || `
+// TODO: Review.
+`}
+
+So the grassroots has been successfully recast as a *populist* field; it's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the countless many who don't. Still, what if *you* were hoping to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to a new generation of elites!
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
@@ -353,7 +361,11 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
 
-But can't *today's* indies learn to sign the *next* On a Friday? No, because status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
+${'  ' || `
+// TODO: Review.
+`}
+
+But can't *today's* indies learn to sign the *next* Radiohead? No, because status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one! Now with BYCombo, you too can hope for amnesty, after betting it all on the craft— your "hobby."
 
@@ -423,7 +435,11 @@ To sum up, it was the *indie camp* who gave us today's [data-driven industry](ht
 
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're the new word of mouth… which indie rock has *always* held in high esteem. In which case, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
-According to science, we humans aren't just biased against creativity, but also against low-status groups… who generate the *most* creative ideas! And when in doubt, we imitate others… yet they *share* our biases! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone have a "noblesse oblige" to help those being *hurt* by our human nature.
+${'  ' || `
+// TODO: Review.
+`}
+
+According to science, we humans aren't just biased against creativity, but also against low-status groups… who generate the *most* creative ideas! And when in doubt, we imitate others… yet they *share* our biases! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as Romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
