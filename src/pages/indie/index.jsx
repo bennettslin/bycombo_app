@@ -43,7 +43,7 @@ Thanks to Millennials, the indie tastemakers are now in charge! And since they'r
 
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert time and energy away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*. Luckily, some artists live to break the rules! And if breaking *this* one can revive the arts… then why not let them?
 
-Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are foundational to the structure itself— and the generation who put them in charge will agree. But… what if *no* generation ever again "forgives" their rule breakers, as was done in the past?! What we need, then, is to *institutionalize* the practice of doing so— an amnesty program for the arts, if you will.
+Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are foundational to the structure itself— and the generation who put them in charge will agree. But… what if *no* generation ever again "forgives" their rule breakers, as was done in the past?! What we need, then, is to institutionalize the practice of doing so— an amnesty program for the arts, if you will.
 
 **Why the historical canon?**
 
@@ -128,14 +128,14 @@ So the grassroots has been successfully recast as a *populist* field; it's just 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
 ${'  ' || `
-// TODO: Revise. Define poptimism here.
+// TODO: Review.
 `}
 
-In the past, the [only artists](https://en.wikipedia.org/wiki/Outsider_music) we *truly* supported were amateurs, recluses, the mentally ill… Yet today's fans use the word "support" to show loyalty to *any* artist— even a superstar! How did this happen? It began when indie rock conflated personal taste with endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
+In the past, the only artists we "supported" were [charity cases](https://en.wikipedia.org/wiki/Outsider_music): amateurs, recluses, the mentally ill… Yet today's fans will charitably support *any* artist, even a superstar— a tendency known as "poptimism." How did this happen? It began when indie rock conflated personal taste with endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
 
-So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of "poptimism," when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
+So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
