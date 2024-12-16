@@ -32,12 +32,12 @@ Okay, that's a mouthful! Let's break it down…
 **Why amnesty?**
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review whole section.
 `}
 
 Thanks to Millennials, the indie tastemakers are now in charge! And since they're "good guys," the people charitably support *every* artist they pick. Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
-The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*. Luckily, some artists *live* to break the rules! So if breaking *this* one can revive the arts… why not let them?
+The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*… Luckily, some artists *live* to break the rules! So if breaking *this* one can revive the arts, then why not let them?
 
 Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But what if no generation *ever* again "forgives" their rule breakers, as those in the past did?! What's needed, then, is an institution to *formalize* the custom of doing so— an amnesty program for the arts, if you will.
 
@@ -104,12 +104,12 @@ So what happens now, if *your* respect for the underground always had to do with
 ### ${++sectionCounter}. The grassroots is now a lottery
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review next two paragraphs.
 `}
 
 Of course, there's another reason we respect those '80s underground bands: To come up from their local scenes— also known as the grassroots— they put in the work each day for untold years. In other words, they ensured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
-But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, instead of having to go through the majors to spread their works from the top down, they can win the people's support from the bottom up— the new grassroots, you might say. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
+But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, instead of going through the majors to spread their works from the top down, they win the people's support from the bottom up— making the Internet our new grassroots. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
 
 So the grassroots has been successfully recast as a *populist* field; it's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the countless many who don't. Still, what if *you* were hoping to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to a new generation of elites!
 
@@ -119,7 +119,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the past, the only artists we "supported" were [charity cases](https://en.wikipedia.org/wiki/Outsider_music): amateurs, recluses, the mentally ill… Yet today's fans will charitably support *any* artist, even a superstar— a tendency known as "poptimism." How did this happen? It began when indie rock conflated personal taste with endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
+In the past, we didn't "support" artists— [apart from](https://en.wikipedia.org/wiki/Outsider_music) amateurs, recluses, the mentally ill… you know, charity cases. Yet today's fans will charitably support *any* artist, even superstars— a tendency known as "poptimism." How did this happen? It began when indie rock conflated personal taste with endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
 
