@@ -149,7 +149,7 @@ Talk about Republican party, New Deal. A true progressive can certainly ally wit
 
 Every populist movement in the past abandoned the underclass. The modern-day assumption is that those were less tolerant times, and that this should no longer happen in our tolerant present. But it could simply be that it's the timeless nature of populism to abandon the underclass, because it's the timeless nature of the very top and very bottom to have opposition to the middle in common, just like it's the timeless nature of the far left and far right to have opposition to the center in common.
 
-Past populists intuitively understood the sideways horseshoe, even if they didn't have a term for it. When they vilified the carpetbagger, for example, they knew full well that the Black neighbors didn't feel the same.
+Past populists didn't have a term for the sideways horseshoe, of course— but they intuitively understood it. When they vilified the carpetbagger, for example, they knew their Black neighbors weren't onboard to do the same.
 
 In our increasingly tolerant society, however…
 By contrast, today's populists *don't* intuitively understand the sideways horseshoe. As such, they don't understand that when they vilify the middleman, minorities like myself don't feel the same.
