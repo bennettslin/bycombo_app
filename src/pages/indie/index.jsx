@@ -107,7 +107,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Of course, there's another reason we respect those '80s underground bands: To come up from the local scenes— also known as the grassroots— they had to put in the work each day for untold years. In doing so, they ensured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
+Of course, there's another reason we respect those '80s underground bands: To come up from their local scenes— also known as the grassroots— they put in the work each day for untold years. In other words, they ensured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at exposure… and then "won the lottery," so to speak.
 
 But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, instead of having to go through the majors to spread their works from the top down, they can win the people's support from the bottom up— the new grassroots, you might say. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
 
