@@ -294,10 +294,10 @@ Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except this time it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Make connection clear why lack of noblesse oblige made perfect sense.
 `}
 
-But… now the indie camp's lack of noblesse oblige made perfect sense! If paid dues are worthless outside the one culture that agrees to honor them, then *of course* anyone who's already put in the hustle will want to keep indie rock as it is— with all its unreasonable demands for self-reliance.
+But… now the indie camp's lack of noblesse oblige made perfect sense! If paid dues are worthless outside the one culture that agrees to honor them, then *of course* anyone who's already put in the hustle will want to keep indie rock as it is— with its increasingly outdated insistence on self-reliance.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
@@ -463,7 +463,11 @@ Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if
 
 ### ${++sectionCounter}. Modern collaboration requires assembly
 
-Demos allow artists to pursue visions they *can't* fulfill on their own, and one vision much in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop? Some ask why bands [are disappearing](https://www.honest-broker.com/p/the-bands-are-never-coming-back), but it's really no mystery.
+${'  ' || `
+// TODO: Review.
+`}
+
+Demos allow artists to pursue visions they *can't* fulfill on their own, and one vision much in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop? Some ask why bands have [largely disappeared](https://www.honest-broker.com/p/the-bands-are-never-coming-back), but it's really no mystery.
 
 Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indies can't rethink *anything*…
 
