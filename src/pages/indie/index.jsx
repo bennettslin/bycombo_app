@@ -259,10 +259,6 @@ From there, we admit that the silent majority only want the *best* artists— an
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all tastemakers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a stellar demo— even one with no fanbase, like Nick. But indie rock's rule is for artists to get themselves known, whether or not they deserve to be. Because of this, the notion is now vulgar that those who don't hustle could ever be *made* known… simply by deserving to be.
 
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
@@ -271,7 +267,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So instead, you build yourself up into what a future audience— or dating prospect!— *would* want you to be, based on theories that you revise and refine over time. Which is also more fun and rewarding for *you*, right? Yet in my experience… the indie tastemakers won't "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
+So instead, you build yourself up to be what a future audience— or dating prospect!— *would* want, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet from what I've seen… the indie tastemakers won't "forgive" your disobedience. They're loyal to the hustlers— having hustled to get where they are themselves!
 
 But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 
@@ -285,7 +281,7 @@ ${'  ' || `
 // TODO: Revise. Make connection clear why lack of noblesse oblige made perfect sense. Make clear that insistence on self-reliance is broken.
 `}
 
-But… now the indie camp's lack of noblesse oblige made perfect sense! If paid dues are worthless outside the one culture that agrees to honor them, then *of course* anyone who's already put in the hustle will want to keep indie rock as it is— with its increasingly outdated insistence on self-reliance.
+But… now the indie camp's lack of noblesse oblige made perfect sense! If paid dues are worthless outside the one culture that agrees to honor them, then *of course* anyone who's already put in the hustle will want to keep indie rock as it is— even as its calls for self-reliance grow further untenable.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
@@ -394,7 +390,7 @@ By contrast, the indie labels obey the people's will, as measured by the size of
 So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "Recordings *should* be free; they're for publicity. Real earnings are made by going on tour!" And social media: "Real artists engage with their fans, and now they can at *any* time— not just after a show!"
 
 ${'  ' || `
-// TODO: Revise. Second sentence should be more of an example of data-driven industry.
+// TODO: Revise. Second sentence should be more of an example of data-driven industry. Even the majors now expect artists to build a fanbase using online tools, thereby empowering themselves not to need a label.
 `}
 
 To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* [now prefer](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) to sign self-empowered artists who *don't* need a label. The only way to revolt, then, is to reject indie rock *itself*— which is why BYCombo tells you *not* to boost your numbers, but to pursue a vision that few others see.
