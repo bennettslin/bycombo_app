@@ -128,6 +128,8 @@ Before or after countercultures? Probably best between elitism and countercultur
 Make this one continuation of "sideways horseshoe." Just mention cultural progressivism, not cultural libertarianism. Cultural libertarianism will be in welfare and system sections.
 Do mention populism, as opposed to elitism, here.
 
+I'm not defending *this* elite, *this* establishment. I'm defending the idea of joining it so that *you* can effect the change that you feel is needed.
+
 First paragraph:
 In high school, a friend referred to carpetbaggers as history's "bad guys"— for exploiting the defeated South. This surprised me, since I saw them as "good guys"— for protecting Blacks. Clearly, he was a populist who sided with the people, while I sided with the elites and the underclass. In other words, the "sideways horseshoe" doesn't just happen in culture, but in politics as well!
 
