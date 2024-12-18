@@ -31,10 +31,6 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why amnesty?**
 
-${'  ' || `
-// TODO: Review whole section.
-`}
-
 Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the people charitably support *every* artist they pick. Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
 
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*. Luckily… some artists *live* to break the rules! So if breaking *this* one can revive the arts, then why not let them?
@@ -207,10 +203,6 @@ And here's more absurdity: Whereas artists are loved for doing what we'd all rat
 
 Let's be clear, the best artists *respect* the middleman. After all, being the best at your job makes it an awful waste to do anyone else's— and knowing that your own job is much harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We learned [all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Sadly, young folks never question today's "auto-Bizarro" world, since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
 
 ### ${++sectionCounter}. Self-reliance is a partisan ideal
@@ -266,10 +258,6 @@ Nick Drake was ignored in his own time— yet the next generation made him known
 In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a stellar demo— even one with no fanbase, like Nick. But indie rock's rule is for artists to get themselves known, whether or not they deserve to be. Because of this, the notion is now vulgar that those who don't hustle could ever be *made* known… simply by deserving to be.
 
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So instead, you build yourself up to be what a future audience— or dating prospect!— *would* want, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet from what I've seen… the indie tastemakers won't "forgive" your disobedience. They're loyal to the hustlers— having hustled to get where they are themselves!
 
@@ -473,10 +461,6 @@ Unlike what the indie camp believes, then, music history *won't* care how the In
 
 Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this isn't yet the case with rock bands— which means there's still *another* frontier left to explore! So if you're a Millennial, don't fret: You still have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young folks are reaching key milestones *later* in life, because society in *general* is now more complex; thus more time is needed to fulfill your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock told them to hustle… and hustling makes you burn out *sooner*.
 
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So if you're burned out by the hustle, BYCombo can get you back on track— by helping you stay in love with your craft.
@@ -502,10 +486,6 @@ So let's ditch old assumptions, and think in systems. First, "indiefication" lea
 With this being the case, shouldn't we expect indiefication to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
-
-${'  ' || `
-// TODO: Review.
-`}
 
 "Where's *our* Nirvana?" It's a question asked by today's young folks. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today: "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
 
