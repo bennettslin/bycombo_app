@@ -265,15 +265,15 @@ But why would the next generation side with past tastemakers who *didn't* care w
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture. It's just that "noblesse oblige" has to come from a somebody; as a nobody, then, I needed others to help *me* first. Yet no one would help…
+${'  ' || `
+// TODO: Review.
+`}
+
+Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Well, times are bad in rock now… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture. It's just that "noblesse oblige" has to come from a somebody; being a nobody, I needed others to help *me* first. Yet no one would help…
 
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except this time it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
-${'  ' || `
-// TODO: Revise. Make connection clear why lack of noblesse oblige made perfect sense. Make clear that insistence on self-reliance is broken.
-`}
-
-But… now the indie camp's lack of noblesse oblige made perfect sense! If paid dues are worthless outside the one culture that agrees to honor them, then *of course* anyone who's already put in the hustle will want to keep indie rock as it is— even as its calls for self-reliance grow further untenable.
+But… now I understood! If paid dues are worthless outside the one culture that honors them, then *of course* any artist who's already put in the hustle will want to keep indie rock as it is— in all its brokenness.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
@@ -422,16 +422,12 @@ If so, this explains why those in tech now dominate the arts: While investors *r
 Whenever I used to grumble about getting rejected by the indie tastemakers, a friend would ask, "So why don't you *seriously* hustle?" Fair point! Why *didn't* I? I suspect it's because, for Xennials like myself, being an artist was a vision to *dream* about. Once indie rock took over, however, it became a goal to *strive* for. And as a dreamer… I didn't know I wasn't a striver.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review next three paragraphs.
 `}
 
-See, us dreamers, we're not grounded in reality— which makes us awful at fulfilling visions on our own. Naturally, then, the indie camp assumed we'd gain the most from their online tools. But… I wasn't prepared for what would follow; I didn't realize a new generation of strivers was about to set a new bar for hustling. So, like a child, I thought I'd get points just for trying.
+See, us dreamers, we're not grounded in reality— which makes us awful at fulfilling visions on our own. Naturally, then, the indie camp assumed we'd gain the most from their online tools. But… I wasn't prepared for what would follow; I didn't realize a new generation of strivers was about to raise the bar for hustling. So, like a child, I thought I'd get points just for trying.
 
-Yet… it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— as strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
-
-${'  ' || `
-// TODO: Review.
-`}
+Yet… it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— being strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
 
 But all is assumed to be well, since today's artists *do* resemble the innovative artists of yesteryear… while we're never shown what true innovation in our times should *actually* entail. Still, what if *you're* here to truly innovate— not just to "larp," or role-play, the *idea* of doing so? Then keep on dreaming like a child, and let BYCombo help you find the perfect partner: a striver!
 
