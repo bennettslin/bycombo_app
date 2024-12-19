@@ -1,20 +1,20 @@
 # TODO
 
 # Tomorrow
-* Amnesty paragraphs
+* Add elitism paragraph, with mention of "sideways horseshoe"
 
 # Remaining December work
-* Add em-dash util to Bobtail Method project
-* AWS CLI setup
-* Contact Vanessa Ogle
-* Set up laptop
-* Add elitism paragraph, with mention of "sideways horseshoe"
 * Make apply page good enough to publish
 * Publish
 * Archive indie page
 
 # December work
 * Welfare, progressives, and systems sections!
+
+# Nice to do
+* Add em-dash util to Bobtail Method project
+* AWS CLI setup
+* Contact Vanessa Ogle
 
 * YB
     * Finish annotations
