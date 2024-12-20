@@ -17,6 +17,10 @@ By the '90s, the major labels were the clear "bad guys": They'd simply sign a hu
 
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! I've spent half my life arguing that indie rock's fair practices have made music *worse*, to no avail; Millennials refused to listen. As they saw it: "Thanks to the Internet, it's easier than ever to build a fanbase on your own. And the better your works, the further you'll get. So if you hate it, well… what does that say about your works?"
 
+${'  ' || `
+// TODO: Revise. Maybe include Xennial here?
+`}
+
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
 ${'  ' || `
@@ -99,7 +103,11 @@ As with MAGA, then, indie rock's weakness for confusion ends up hurting its own.
 
 We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? "Of course! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground *lacked* popular appeal. To the contrary, it was a shelter both for rock's underclass— who *subverted* the people's will— and for the elitist snobs who championed their works.
 
-In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000&smoothing=1) underground bands "indie," to affirm that they'd only *ever* signed to an indie label, if to any at all. Yet, unlike being underground, being indie *can* be a universal ideal— and so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is indie… even one with mainstream tastes!
+${'  ' || `
+// TODO: Review.
+`}
+
+In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000&smoothing=1) underground bands "indie," to affirm that they'd only *ever* signed to an indie label, if to any at all. Yet, unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is indie… even one with mainstream tastes!
 
 But given that *most* people belong to the mainstream, artists who share such tastes easily gain the most fans. So naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a populist movement, thus allowing its camp— who now *favored* popular appeal— to still see themselves as champions of an underdog class.
 
