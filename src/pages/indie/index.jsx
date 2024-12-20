@@ -19,19 +19,19 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an Xennial, I've spent half my life arguing that indie rock's fair practices have made music *worse*— to no avail; Millennials refused to listen. The way they saw it: "Thanks to the Internet, it's easier than ever to build a fanbase on your own. And the better your works, the further you'll get. So if you hate it… what does that say about your works?"
+Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an Xennial, I've spent half my life arguing that indie rock's fair practices have made music *worse*— to no avail; Millennials refused to listen. The way they saw it: "Thanks to the Internet, it's easier than ever to build a fanbase on your own. And the better your works, the farther you'll go. So if you hate it… what does that say about your works?"
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
 ${'  ' || `
 // TODO: Revise. Split into two paragraphs.
 
-First paragraph: In the first, mention that indiefication is just spreading the values of indie rock in the '90s: democratizing the means to distribute art, trusting the grassroots over elitist gatekeepers to pick artists, rewarding fan engagement… and so forth.
+First paragraph: In the first, mention that indiefication is just spreading the values of indie rock in the '90s: democratizing the means for artists to distribute their works, bypassing elitist gatekeepers, rewarding direct fan engagement… and so forth.
 
 Second paragraph: Taken to their logical conclusion in the online era, indie rock's values lead to artists putting greater and greater effort. Some blame the tech platforms themselves, but as long as we hold these values, they will always have these effects.
 `}
 
-First, we raise *awareness*. Because "indie" means "good" to so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is: the end result of "indiefication," by which artists put greater and greater effort into *getting* the job— or hustling, as they say— rather than simply *deserving* it. If you keep reading, though, I'll set the record straight.
+First, we raise *awareness*. Because "indie" means "good" to so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is: the knock-on effects of "indiefication," by which artists put greater and greater effort into *getting* the job— or hustling, as they say— rather than simply *deserving* it. If you keep reading, though, I'll set the record straight.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
