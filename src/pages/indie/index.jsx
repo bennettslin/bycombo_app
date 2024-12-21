@@ -20,14 +20,12 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an X
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
 ${'  ' || `
-// TODO: Revise. Split into two paragraphs.
-
-First paragraph: In the first, mention that indiefication is just spreading the values of indie rock in the '90s: democratizing the means for artists to distribute their works, bypassing elitist gatekeepers, rewarding direct fan engagement… and so forth.
-
-Second paragraph: Taken to their logical conclusion in the online era, indie rock's values lead to artists putting greater and greater effort. Some blame the tech platforms themselves, but as long as we hold these values, they will always have these effects.
+// TODO: Review next two paragraphs a few more times.
 `}
 
-First, we raise *awareness*. Because "indie" means "good" to so many, few see the [decline of the arts](https://billderesiewicz.com/books/the-death-of-the-artist) for what it is: the knock-on effects of "indiefication," by which artists put greater and greater effort into *getting* the job— or hustling, as they say— rather than simply *deserving* it. If you keep reading, though, I'll set the record straight.
+First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— or, the propagation of indie rock's founding ideals. These ideals include: democratizing the means to get heard; favoring the grassroots over elitist gatekeepers; respecting direct fan engagement, which once only took place at local shows… and so forth.
+
+Taken to its logical conclusion in the online era, indiefication forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— rather than simply *deserving* it. Now, some might blame those in tech… but the tech platforms were built to help us fulfill our ideals! The problem, then, is our *ideals*— and if you just keep reading, I'll set the record straight.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -39,7 +37,11 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why amnesty?**
 
-Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the people charitably support *every* artist they pick. Yet despite good intentions all around, the arts are in *decline*. Well, what if the arts have declined… *because* of such good intentions?!
+${'  ' || `
+// TODO: Review link.
+`}
+
+Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the people charitably support *every* artist they pick. Yet despite good intentions all around, the [arts are in *decline*](https://billderesiewicz.com/books/the-death-of-the-artist). Well, what if the arts have declined… *because* of such good intentions?!
 
 ${'  ' || `
 // TODO: Review.
@@ -253,7 +255,11 @@ You see, pollution is an example of the famous "prisoner's dilemma," where each 
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
-The lesson here, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— or rule by those who hustle to get themselves known. So what happens now, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
+${'  ' || `
+// TODO: Review.
+`}
+
+The lesson here, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— or, rule by those who hustle to get themselves known. So what happens now, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
