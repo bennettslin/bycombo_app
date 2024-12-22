@@ -23,9 +23,9 @@ ${'  ' || `
 // TODO: Review next two paragraphs a few more times.
 `}
 
-First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— or, the propagation of indie rock's founding ideals. These ideals include: democratizing the means to get heard; favoring the grassroots over elitist gatekeepers; respecting direct fan engagement, which once only took place at local shows… and so forth.
+First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— or, the propagation of indie rock's founding ideals. These ideals include democratizing the means to be heard; favoring the grassroots over elitist gatekeepers; respecting direct fan engagement, which once only took place at local shows… and so forth.
 
-Taken to its logical conclusion in the online era, indiefication forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— rather than simply *deserving* it. Now, some might blame those in tech… but the tech platforms were built to help us fulfill our ideals! The problem, then, is our *ideals*— and if you just keep reading, I'll set the record straight.
+Taken to its logical conclusion in the online era, indiefication forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— rather than simply *deserving* it. Now, some might blame the tech platforms… but they took over only by fulfilling our ideals! The problem, then, is with our *ideals*— and if you just keep reading, I'll set the record straight.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
