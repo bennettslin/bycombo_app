@@ -20,12 +20,16 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an X
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
 ${'  ' || `
-// TODO: Review next two paragraphs a few more times.
+// TODO: Revise. Second sentence still needs to be phrased more like, "few see the decline of the arts for what it is:
 `}
 
-First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— or, the propagation of indie rock's founding ideals. These ideals include democratizing the means to be heard; favoring the grassroots over elitist gatekeepers; respecting direct fan engagement, which once only took place at local shows… and so forth.
+First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— or, the propagation of indie rock's founding ideals across *all* the *arts*. These ideals include bypassing the middleman; favoring word of mouth; respecting direct fan engagement— which once took place only at local shows… and so on.
 
-Taken to its logical conclusion in the online era, indiefication forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— rather than simply *deserving* it. Now, some might blame the tech platforms… but they took over only by fulfilling our ideals! The problem, then, is with our *ideals*— and if you just keep reading, I'll set the record straight.
+${'  ' || `
+// TODO: Review.
+`}
+
+Taken to its logical conclusion in the online era, indiefication forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— rather than simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by meeting our ideals! The problem, then, is with our *ideals*— and if you just keep reading, I'll set the record straight.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
