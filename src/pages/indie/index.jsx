@@ -315,6 +315,8 @@ ${'  ' || `
 Make it clear that people and privileged are on one side, elites and underclass on the other.
 
 I've yet to see a good term to describe this phenomenon, so let me coin one: the "sideways horseshoe," where those at the top, and those at the bottom, have aligned interests, and thus ally against the majority in the middle.
+
+Let's face it, the disadvantaged fundamentally depend on noblesse oblige, which *only* the elites can provide. But while the indie tastemakers are positioned to behave like elites, they shirk any duty to do so, and instead, obey the will of the people— who then favor the privileged!
 `}
 
 Which is why every movement started by minorities is *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more.

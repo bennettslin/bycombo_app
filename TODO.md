@@ -21,11 +21,8 @@
     * Change interactivated verse?
 
 * BYC
-    * Against Empathy link in underdogs section?
-        * https://www.harpercollins.com/products/against-empathy-paul-bloom
     * Meet Me in the Bathroom link to privilege in elitism section?
         * https://www.harpercollins.com/products/meet-me-in-the-bathroom-lizzy-goodman
-    * Amnesty program for artists who advance the art form
     * Consider doing screen widths smartly
     * Consider smart quote in Wikipedia link update
     * Revise apply page
@@ -160,7 +157,7 @@ This is the reason both culture and politics have gotten worse: In both cases, w
 
 Because the sideways horseshoe is timeless, populism can't be effective unless it opposes both the very top and very bottom, just like true centrism is only effective if it opposes both the far left and far right.
 
-Progressives can't be populists, because a true populist abandons the underclass. In other words, a true progressive allows the underclass to join the establishment— and in doing so, ends up joining themselves.
+Progressives can't be populists, because a true populist abandons the underclass. In other words, a true progressive allows the underclass to join the establishment— and in doing so, understands the value of joining themselves.
 
 Takeaway:
 A true outsider doesn't wish to *remain* an outsider. They want a pathway to joining those at the top.
@@ -181,8 +178,6 @@ Because progressive Millennials were inexplicably libertarian in their *cultural
 People who should have defended institutions instead were bent on destroying them. Millennials gave us the indieocracy of Donald Trump. They might not have wanted him particularly, but they wanted "indie" candidates— and Trump is the most indie candidate.
 
 To be indie is, by definition, to find coalitions distasteful. Joining coalitions require working with people who think differently from you.
-
-Let's face it, the disadvantaged fundamentally depend on noblesse oblige, which *only* the elites can provide. But while the indie tastemakers are positioned to behave like elites, they shirk any duty to do so, and instead, obey the will of the people— who then favor the privileged!
 
 https://www.nytimes.com/2024/06/06/opinion/elites-progressives-universities.html
 
