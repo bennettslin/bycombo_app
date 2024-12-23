@@ -389,10 +389,6 @@ To sum up, it was the *indie camp* who gave us today's [data-driven industry](ht
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're like word of mouth… which is why indie rock embraced them for as long as it did. In this light, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups… who generate the *most* creative ideas! And when in doubt, we imitate others… yet they *share* our biases! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
