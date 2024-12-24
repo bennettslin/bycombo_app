@@ -39,6 +39,10 @@ Okay, that's a mouthful! Let's break it down…
 
 Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the people charitably support *every* artist they pick. Yet despite good intentions all around, the [arts are in *decline*](https://billderesiewicz.com/books/the-death-of-the-artist). Well, what if the arts have declined… *because* of such good intentions?!
 
+${'  ' || `
+// TODO: Revise. Make it more about: … and some artists really struggle under rules.
+`}
+
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*. Luckily… some artists *live* to break the rules! So if breaking *this* one can revive the arts… then why not let them?
 
 Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But what if *no* generation *ever* again "forgives" their rule breakers, as was done in the past? What's needed, then, is an institution to *formalize* the practice of doing so— an amnesty program for the arts, if you will.
@@ -388,6 +392,10 @@ So when the tech platforms arrived, their savvy with numbers made them good guys
 To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* [now expect](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) artists to empower themselves using online tools. The only way to revolt, then, is to reject indie rock *itself*— which is why BYCombo tells you *not* to boost your numbers, but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
+
+${'  ' || `
+// TODO: Revise. Use word like "popularize" instead of "reflect."
+`}
 
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're like word of mouth… which is why indie rock embraced them for as long as it did. In this light, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
