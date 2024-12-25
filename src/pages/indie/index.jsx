@@ -20,10 +20,10 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an X
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
 ${'  ' || `
-// TODO: Review next two paragraphs.
+// TODO: Review.
 `}
 
-First, we raise *awareness*. Since "indie" means "good" to so many, few see the adverse effects of what I call "indiefication"— namely, our drive to propagate indie rock's founding ideals across *all* the arts. You know the ones: bypassing the middleman; favoring word of mouth; respecting direct fan engagement, which once took place mainly at local shows… and so forth.
+First, we raise *awareness*. Since "indie" means "good" to so many, few see the adverse effects of what I call "indiefication"— namely, our drive to propagate indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, favoring word of mouth, rewarding direct fan engagement… and so forth.
 
 Indiefication, seen to its logical conclusion in the online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— rather than simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by meeting *our* ideals! The problem, then, is with these *ideals*— and if you keep reading, I'll set this record straight.
 
@@ -40,12 +40,12 @@ Okay, that's a mouthful! Let's break it down…
 Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the people charitably support *every* artist they pick. Yet despite good intentions all around, the [arts are in *decline*](https://billderesiewicz.com/books/the-death-of-the-artist). Well, what if the arts have declined… *because* of such good intentions?!
 
 ${'  ' || `
-// TODO: Revise. Make it more about: … and some artists really struggle under rules.
+// TODO: Review next two paragraphs.
 `}
 
-The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this requires them to divert efforts away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*. Luckily… some artists *live* to break the rules! So if breaking *this* one can revive the arts… then why not let them?
+The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle; any who *don't* will remain unknown— making it a de facto *rule*. To revive the arts, then, an artist must break this rule… only to suffer the punishment! So why not "forgive" those who try?
 
-Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But what if *no* generation *ever* again "forgives" their rule breakers, as was done in the past? What's needed, then, is an institution to *formalize* the practice of doing so— an amnesty program for the arts, if you will.
+Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But what if no generation *ever* again forgives their rule breakers, as was done in the past? What's needed, then, is an institution to *formalize* the practice of doing so— an amnesty program for the arts, if you will.
 
 **Why the historical canon?**
 
@@ -57,7 +57,11 @@ Indie rock encourages artists to retain their earnings— which, today, means ha
 
 **Why *assembled* bands?**
 
-Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always form on their own, in a decentralized free-for-all. But let's ditch this notion for a moment. What if any musician hoping to make history could flock to a single hub from across the world? What if a cartoonist could also join— and bands, in turn, could think to look for one?
+${'  ' || `
+// TODO: Review.
+`}
+
+Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always form on their own, in a decentralized free-for-all. But let's ditch this notion. What if musicians keen to join a history-making band could flock to a single hub from across the world? What if a cartoonist could also join— and bands, in turn, could think to look for one?
 
 Or— suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized nonprofit like BYCombo to help them come together.
 
@@ -392,10 +396,6 @@ So when the tech platforms arrived, their savvy with numbers made them good guys
 To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* [now expect](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) artists to empower themselves using online tools. The only way to revolt, then, is to reject indie rock *itself*— which is why BYCombo tells you *not* to boost your numbers, but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
-
-${'  ' || `
-// TODO: Revise. Use word like "popularize" instead of "reflect."
-`}
 
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're like word of mouth… which is why indie rock embraced them for as long as it did. In this light, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
