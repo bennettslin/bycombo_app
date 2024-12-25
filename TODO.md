@@ -41,7 +41,7 @@ Talk about redundancy of middlemen, and indie labels getting rid of them. Redund
 
 Mention supporting artists, to segue into charitable support section.
 
-Word of mouth, fan engagement. Make clear that indie rock respects direct fan engagement because it once took place mainly at local shows. (I removed this point from the introductory paragraphs.)
+Word of mouth, fan engagement. Make clear that indie rock respects direct fan engagement because it once took place mainly at local shows, which indie rock has always held in high esteem, as it's bottom up. (I removed this point from the introductory paragraphs.) As opposed to radio, which is top down.
 
 Don't mention tech at all, that's covered later.
 
