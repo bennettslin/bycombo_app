@@ -33,7 +33,11 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why amnesty?**
 
-Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the people charitably support *every* artist they pick. Yet despite good intentions all around, the [arts are in *decline*](https://billderesiewicz.com/books/the-death-of-the-artist). Well, what if the arts have declined… *because* of such good intentions?!
+${'  ' || `
+// TODO: Review.
+`}
+
+Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the people charitably support *every* artist they pick. Yet despite good intentions all around, the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist). Well, what if the arts are in decline… *because* of such good intentions?!
 
 ${'  ' || `
 // TODO: Review.
@@ -57,7 +61,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always form on their own, in a decentralized free-for-all. But let's ditch this notion. What if any musician keen to join a history-making band could flock to a single hub from across the world? What if a cartoonist could also join— and bands, in turn, could think to look for one?
+Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always do so on their own, in a decentralized free-for-all. But let's ditch this notion. What if musicians hoping to form history-making bands could flock to a single hub from across the world? What if a cartoonist could also join— and bands, in turn, could think to look for one?
 
 Or— suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized nonprofit like BYCombo to help them come together.
 
