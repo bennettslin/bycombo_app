@@ -313,9 +313,78 @@ Make it clear that people and privileged are on one side, elites and underclass 
 I've yet to see a good term to describe this phenomenon, so let me coin one: the "sideways horseshoe," where those at the top, and those at the bottom, have aligned interests, and thus ally against the majority in the middle.
 
 Let's face it, the disadvantaged fundamentally depend on noblesse oblige, which *only* the elites can provide. But while the indie tastemakers are positioned to behave like elites, they shirk any duty to do so, and instead, obey the will of the people— who then favor the privileged!
+
+The problem with progressivism is the same problem with the arts: For the past two decades, there's been an absence of a culturally progressive identity to counter indie rock's culturally libertarian identity. This is a problem because the cultural libertarian believes there are only two classes, the elites and the people. Only the cultural progressive understands there's a third class, the disadvantaged, who *want* the elites to *protect* them from the people. As a result, people who otherwise would have been elites refuse to behave like elites. They refuse the privileges of the elites, which means they also shirk the duties of the elites.
 `}
 
 Which is why every movement started by minorities is *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more.
+
+### ${++sectionCounter}. True progressives join the establishment
+
+${'  ' || `
+// TODO: Keep working on.
+
+Before or after countercultures? Probably best between elitism and countercultures. But it also makes a point related to prejudice and penultimate tolerance? So maybe best between penultimate and underdogs. May need to determine only once it's been fleshed out.
+
+Make this one continuation of "sideways horseshoe." Just mention cultural progressivism, not cultural libertarianism. Cultural libertarianism will be in welfare and system sections.
+Do mention populism, as opposed to elitism, here.
+
+I'm not defending *this* elite, *this* establishment. I'm defending the idea of joining it so that *you* can effect the change that you feel is needed.
+
+This inability to understand the sideways horseshoe made Millennials ineffective in the arts.
+
+Talk about Republican party, New Deal. A true progressive can certainly ally with populists, but can never fully be one, because true populists *must* abandon the underclass.
+
+Every populist movement in the past abandoned the underclass. The modern-day assumption is that those were less tolerant times, and that this should no longer happen in our tolerant present. But it could simply be that it's the timeless nature of populism to abandon the underclass, because it's the timeless nature of the very top and very bottom to have opposition to the middle in common, just like it's the timeless nature of the far left and far right to have opposition to the center in common.
+
+Past populists didn't have a term for the sideways horseshoe, of course— but they intuitively understood it. When they vilified the carpetbagger, for example, they knew their Black neighbors weren't onboard to do the same.
+
+In our increasingly tolerant society, however…
+By contrast, today's populists *don't* intuitively understand the sideways horseshoe. As such, they don't understand that when they vilify the middleman, minorities like myself don't feel the same.
+
+This is the reason both culture and politics have gotten worse: In both cases, we've mistaken populism for progressivism. As such, progressivism has slowly been replaced by populism.
+
+Because the sideways horseshoe is timeless, populism can't be effective unless it opposes both the very top and very bottom, just like true centrism is only effective if it opposes both the far left and far right.
+
+Progressives can't be populists, because a true populist abandons the underclass. In other words, a true progressive allows the underclass to join the establishment— and in doing so, understands the value of joining themselves.
+
+Takeaway:
+A true outsider doesn't wish to *remain* an outsider. They want a pathway to joining those at the top.
+
+https://macleans.ca/society/senakw-vancouver
+
+Indie rock taught an entire generation of political progressives to be cultural libertarians. Anti-elitist elites.
+
+Third paragraph:
+(Describe what candidate you should want as a progressive, and how this requires an interdependent mindset. Being anti-establishment is a poor fit for progressives.)
+But I'll go a step further, and argue that indie rock's anti-elitist elites also made Millennials ineffective as *political* progressives. After all, to promote social welfare, you need an administrative state. Which means you want candidates who…
+
+Fourth paragraph:
+(Describe the indie archetype of an anti-establishment candidate, and how this fits more with libertarian principles.)
+Because progressive Millennials were inexplicably libertarian in their *cultural* outlook, however, they idealized candidates
+People who should have defended institutions instead were bent on destroying them. Millennials gave us the indieocracy of Donald Trump. They might not have wanted him particularly, but they wanted "indie" candidates— and Trump is the most indie candidate.
+
+To be indie is, by definition, to find coalitions distasteful. Joining coalitions require working with people who think differently from you.
+
+https://www.nytimes.com/2024/06/06/opinion/elites-progressives-universities.html
+
+True progressives effect change. They don't worry about maintaining an identity.
+
+Obama and wokeism:
+https://youtu.be/qaHLd8de6nM
+`}
+
+A classmate once referred to carpetbaggers as history's "bad guys"— for exploiting the defeated South. This surprised me, since I saw them as "good guys"— for protecting Blacks. Clearly, he was a populist who sided with the people, while I sided with the elites and the underclass. So the "sideways horseshoe" doesn't just happen in culture, but in politics as well!
+
+Talk about today's political progressivism. Mention establishment?
+In the past, populists intuitively understood that populism was like centrism. New Deal. But today, Millennials have been trying to steer the world towards a kind of populism that can't and doesn't exist: one that *doesn't* abandon the underclass. Unfortunately, this dooms them, making their politics ineffective. They hate the major parties.
+
+Talk about today's cultural progressivism. Mention establishment here as well?
+Culture. Today's carpetbaggers are the major labels and middlemen.
+
+Make my "startling conclusion" in the next two paragraphs.
+
+An entire generation of progressives who would have sided with an alliance of the elites and the underclass— had the concept of the sideways horseshoe been better understood at the time— instead chose to side with the people while opposing the elites— and thereby ended up opposing the underclass as well. As a result, the causes of both cultural and political progressivism were held back for two decades.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
@@ -470,6 +539,52 @@ In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszen
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why is this? It's because any exposure gained from years of hustling might just as well be won by chance, or bought through privilege, in an instant. Every indie artist knows this, yet they play the losing game anyway… and it eats at their soul.
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of others doing the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
+
+### ${++sectionCounter}. Salvation comes from thinking in systems
+
+${'  ' || `
+// TODO: Keep working on.
+
+Definitely put after happiness, which talks about the soul. And before explanation, which mentions systems thinking.
+
+However, revisit after elitism section is revised, and progressives section is finalized.
+
+https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary
+
+A cultural libertarian today is a leading candidate to become a political libertarian tomorrow. This is because, if your personal identity is so tied to this romantic notion of lashing out against centralized institutions, then why *wouldn't* you eventually lash out against the biggest one of them all— the government? And if you're young, educated, White, and/or male, then why *wouldn't* your personal fortunes change for the better, enough to suddenly make political libertarianism attractive?
+
+Criticizing the idea that solutions are simple:
+https://davekarpf.substack.com/p/what-the-future-looks-like-from-here
+https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison
+https://maxread.substack.com/p/the-tiktok-electorate
+
+So the lack of an interdependent counterculture meant interdependence was never seen by Millennials as a viable alternative. And cultural progressivism was never seen as a viable alternative to cultural libertarianism. The only way to be a political progressive is to be a cultural libertarian— to abhor morally compromised coalitions.
+
+In the same way that indie rock convinced Millennials that being indie is the only respectable way to be an artist, it also convinced them that being anti-establishment is the only respectable way to be a progressive. Despite all the evidence that women and minority artists actually prefer to be interdependent with the cultural elites, and women and minority voters actually prefer to work with the political establishment.
+
+Here's my belief: Since I was helpless to start a counterculture of interdependence on my own, for the past two decades, "interdependent" couldn't stand against "indie" as its own identity. So there was romance associated with destroying coalitions, while none associated with building them.
+
+Indie rock prepared Millennials for indieocracy— rule by those who hustle to get the job.
+
+We need a competing interdependence counterculture that's equally romantic.
+`}
+
+First paragraph— compress these three into a single cohesive statement:
+
+Don't get me wrong, I'm grateful to the White men of Gen X for having made so much of the art I love. But indie rock, the culturally libertarian movement they founded, is a poor fit for me. As an Asian male— the least favored combination of race and gender— I *need* a cultural "safety net"; I need the elites to intervene if they see my potential, even when the people don't.
+
+When the torch finally passed to Millennials, then, I expected them to defend the interdependence I craved, given our shared desire to see more female and minority artists. Instead… they *cheered* as indie rock took over?! So they chose the path of cultural *libertarianism*… to achieve the goals of cultural *progressivism*! No wonder the culture they gave us was so lacking…
+
+Why are both progressivism and the arts in such rough shape after the last two decades? I suspect it's because indie rock's cultural libertarianism taught us that siding with the underdog means taking down "the system." So we lash out against those we see as shadowy forces— the political establishment, the cultural elites— thinking we do so in solidarity with the less privileged.
+
+Yet the *least* privileged groups want to *join* the establishment! "Why *fight* the power, if we're being invited to *share* in it?" Similarly, the *least* privileged artists hope to *partner* with the elites. So the guiding principles that indie rock instilled in us… are flat-out *wrong*! Hopefully, my fellow progressives get this, and will now course correct in their politics.
+
+In the arts, however, we face an additional problem: Past artists could rail against the system while still benefiting from it, as they had no other choice. But today's self-empowered artists *can't* pretend this is still the case. The only way to benefit from the system now is to openly declare the intent to work with it. But there's only romance in fighting the system, not in working with it.
+
+So how do we win over the new Romantics? I believe the answer is to appreciate systems in all their complexity and fragility. Once we do, we'll stop blaming shadowy forces for our problems, because we'll finally know to examine them well enough to find constructive solutions instead. Only then will we proudly self-identify as interdependent, setting an example for others to do the same.
+
+Reiterate cultural progressivism in fifth paragraph.
+If I could get everyone in the arts to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It helped lead to so many of the ideas that went into structuring how BYCombo will work, my solution for fixing the arts. And hopefully, it can lead you to some of your own ideas as well.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
