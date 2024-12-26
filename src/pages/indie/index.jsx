@@ -33,15 +33,7 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why amnesty?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the people charitably support *every* artist they pick. Yet despite good intentions all around, the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist). Well, what if the arts are in decline… *because* of such good intentions?!
-
-${'  ' || `
-// TODO: Review.
-`}    
 
 The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
@@ -56,10 +48,6 @@ When fans charitably support an artist, they want *content*— namely, art that 
 Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, if any. But what competitive edge could a solo artist possibly have nowadays, to put them among the best for all *time*? From now until forever, if artists want to make history, they'll need to be greater than the sum of their parts— and in rock, this happens by forming *bands*.
 
 **Why *assembled* bands?**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always do so on their own, in a decentralized free-for-all. But let's ditch this notion. What if musicians hoping to form history-making bands could flock to a single hub from across the world? What if a cartoonist could also join— and bands, in turn, could think to look for one?
 
@@ -229,7 +217,7 @@ But being indie means gaining the *public's* attention, and this is a zero-sum g
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the business world's "indie camp" goes on strike against a progressive regime by *refusing* to help society advance.
 
-To protest against indie rock, then, the music world's "progressives" can do the opposite, and *readily* advance the art form… even if this hurts their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the culturally progressive opposition that shares your love of the craft.
+To protest against indie rock, then, the music world's "progressives" can do the opposite, and *readily* advance the art form… even if this hurts their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the culturally progressive movement that shares your love of the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
