@@ -1,6 +1,8 @@
 # TODO
 
 # Tomorrow
+* Reviews
+* Go through summaries of sections on this page
 * Add elitism paragraph, with mention of "sideways horseshoe"
 
 # Remaining December work
