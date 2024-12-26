@@ -335,64 +335,19 @@ ${'  ' || `
 Before or after countercultures? Probably best between elitism and countercultures. But it also makes a point related to prejudice and penultimate tolerance? So maybe best between penultimate and underdogs. May need to determine only once it's been fleshed out.
 
 Make this one continuation of "sideways horseshoe." Just mention cultural progressivism, not cultural libertarianism. Cultural libertarianism will be in welfare and system sections.
-Do mention populism, as opposed to elitism, here.
 
-I'm not defending *this* elite, *this* establishment. I'm defending the idea of joining it so that *you* can effect the change that you feel is needed.
-
-This inability to understand the sideways horseshoe made Millennials ineffective in the arts.
-
-Talk about Republican party, New Deal. A true progressive can certainly ally with populists, but can never fully be one, because true populists *must* abandon the underclass.
-
-Every populist movement in the past abandoned the underclass. The modern-day assumption is that those were less tolerant times, and that this should no longer happen in our tolerant present. But it could simply be that it's the timeless nature of populism to abandon the underclass, because it's the timeless nature of the very top and very bottom to have opposition to the middle in common, just like it's the timeless nature of the far left and far right to have opposition to the center in common.
-
-Past populists didn't have a term for the sideways horseshoe, of course— but they intuitively understood it. When they vilified the carpetbagger, for example, they knew their Black neighbors weren't onboard to do the same.
-
-In our increasingly tolerant society, however…
-By contrast, today's populists *don't* intuitively understand the sideways horseshoe. As such, they don't understand that when they vilify the middleman, minorities like myself don't feel the same.
-
-This is the reason both culture and politics have gotten worse: In both cases, we've mistaken populism for progressivism. As such, progressivism has slowly been replaced by populism.
-
-Because the sideways horseshoe is timeless, populism can't be effective unless it opposes both the very top and very bottom, just like true centrism is only effective if it opposes both the far left and far right.
-
-Progressives can't be populists, because a true populist abandons the underclass. In other words, a true progressive allows the underclass to join the establishment— and in doing so, understands the value of joining themselves.
-
-Takeaway:
-A true outsider doesn't wish to *remain* an outsider. They want a pathway to joining those at the top.
-
-https://macleans.ca/society/senakw-vancouver
-
-Indie rock taught an entire generation of political progressives to be cultural libertarians. Anti-elitist elites.
-
-Third paragraph:
-(Describe what candidate you should want as a progressive, and how this requires an interdependent mindset. Being anti-establishment is a poor fit for progressives.)
-But I'll go a step further, and argue that indie rock's anti-elitist elites also made Millennials ineffective as *political* progressives. After all, to promote social welfare, you need an administrative state. Which means you want candidates who…
-
-Fourth paragraph:
-(Describe the indie archetype of an anti-establishment candidate, and how this fits more with libertarian principles.)
-Because progressive Millennials were inexplicably libertarian in their *cultural* outlook, however, they idealized candidates
-People who should have defended institutions instead were bent on destroying them. Millennials gave us the indieocracy of Donald Trump. They might not have wanted him particularly, but they wanted "indie" candidates— and Trump is the most indie candidate.
-
-To be indie is, by definition, to find coalitions distasteful. Joining coalitions require working with people who think differently from you.
-
-https://www.nytimes.com/2024/06/06/opinion/elites-progressives-universities.html
-
-True progressives effect change. They don't worry about maintaining an identity.
-
-Obama and wokeism:
-https://youtu.be/qaHLd8de6nM
+Review links to determine they're the best possible.
 `}
 
-A classmate once referred to carpetbaggers as history's "bad guys"— for exploiting the defeated South. This surprised me, since I saw them as "good guys"— for protecting Blacks. Clearly, he was a populist who sided with the people, while I sided with the elites and the underclass. So the "sideways horseshoe" doesn't just happen in culture, but in politics as well!
+A high school classmate once referred to carpetbaggers as "bad guys"— for exploiting the defeated South. This surprised me, since I saw them as "good guys"— for protecting vulnerable Blacks. Clearly, he was a populist who sided with the people, while I sided with the elites and underclass. So this model of a "sideways horseshoe" shows up not just in culture… but in politics as well!
 
-Talk about today's political progressivism. Mention establishment?
-In the past, populists intuitively understood that populism was like centrism. New Deal. But today, Millennials have been trying to steer the world towards a kind of populism that can't and doesn't exist: one that *doesn't* abandon the underclass. Unfortunately, this dooms them, making their politics ineffective. They hate the major parties.
+Unfortunately, past generations never coined a term to explain the people's [instinct to abandon](https://www.rockefellerfoundation.org/insights/perspective/the-new-deal-made-americas-racial-inequality-worse-we-cant-make-the-same-mistake-with-covid-19-economic-crisis/#:~:text=It%E2%80%99s%20true%20that,Democrats%20in%20Congress.) the underclass; and now, in more tolerant times, this notion is poorly understood. As a result, progressive Millennials keep trying to unite *all* groups against the elites— [only to see](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631) the most disadvantaged of them side with the establishment instead.
 
-Talk about today's cultural progressivism. Mention establishment here as well?
-Culture. Today's carpetbaggers are the major labels and middlemen.
+Of course, it isn't *just* in politics, but *also* in culture, where this confusion has led Millennials to be so ineffective as a generation. Gatekeepers are carpetbaggers.
 
-Make my "startling conclusion" in the next two paragraphs.
+Which explains why both culture and politics have gotten worse in our times: In each case, we've mistaken populism for progressivism— but progressives *can't* be populists, because a true populist *abandons* the underclass, while a true progressive *sympathizes* with the need for disadvantaged groups to join the establishment— and thus understands the value of joining themselves.
 
-An entire generation of progressives who would have sided with an alliance of the elites and the underclass— had the concept of the sideways horseshoe been better understood at the time— instead chose to side with the people while opposing the elites— and thereby ended up opposing the underclass as well. As a result, the causes of both cultural and political progressivism were held back for two decades.
+In light of the sideways horseshoe, BYCombo is a culturally progressive movement. (Mention countermovement of some kind, in preparation for counterculture section.)
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
@@ -573,6 +528,8 @@ In the same way that indie rock convinced Millennials that being indie is the on
 Here's my belief: Since I was helpless to start a counterculture of interdependence on my own, for the past two decades, "interdependent" couldn't stand against "indie" as its own identity. So there was romance associated with destroying coalitions, while none associated with building them.
 
 Indie rock prepared Millennials for indieocracy— rule by those who hustle to get the job.
+
+To be indie is, by definition, to find coalitions distasteful. Joining coalitions require working with people who think differently from you.
 
 We need a competing interdependence counterculture that's equally romantic.
 `}
