@@ -314,7 +314,7 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 But once competition happens *away* from public view— as with self-reliance, for example— the disadvantaged have no way to foil the hidden advantages of others: being born rich, having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
 ${'  ' || `
-// TODO: Add new paragraph. Majority vs minority understanding of populism. Underclass? Revisit how it's used in populism section. Coin "sideways horseshoe."
+// TODO: Add new paragraph. Majority vs minority understanding of populism. Underclass? Revisit how it's used in populism section. Coin "sideways horseshoe." Point out that it's a model.
 
 Make it clear that people and privileged are on one side, elites and underclass on the other.
 
@@ -332,20 +332,18 @@ Which is why every movement started by minorities is *defiantly* elitist. Let's 
 ${'  ' || `
 // TODO: Keep working on.
 
-Before or after countercultures? Probably best between elitism and countercultures. But it also makes a point related to prejudice and penultimate tolerance? So maybe best between penultimate and underdogs. May need to determine only once it's been fleshed out.
-
-Make this one continuation of "sideways horseshoe." Just mention cultural progressivism, not cultural libertarianism. Cultural libertarianism will be in welfare and system sections.
+Before or after countercultures? Probably best between elitism and countercultures.
 
 Review links to determine they're the best possible.
 `}
 
-A high school classmate once referred to carpetbaggers as "bad guys"— for exploiting the defeated South. This surprised me, since I saw them as "good guys"— for protecting vulnerable Blacks. Clearly, he was a populist who sided with the people, while I sided with the elites and underclass. So this model of a "sideways horseshoe" shows up not just in culture… but in politics as well!
+A high school classmate once referred to carpetbaggers as "bad guys"— for having exploited the defeated South. This surprised me, since I saw them as "good guys"— for having defended vulnerable Blacks. Clearly, he sided with the people, while I sided with the elites and the underclass. So this "sideways horseshoe" shows up not just in culture… but in politics as well!
 
-Unfortunately, past generations never coined a term to explain the people's [instinct to abandon](https://www.rockefellerfoundation.org/insights/perspective/the-new-deal-made-americas-racial-inequality-worse-we-cant-make-the-same-mistake-with-covid-19-economic-crisis/#:~:text=It%E2%80%99s%20true%20that,Democrats%20in%20Congress.) the underclass; and now, in more tolerant times, this notion is poorly understood. As a result, progressive Millennials keep trying to unite *all* groups against the elites— [only to see](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631) the most disadvantaged of them side with the establishment instead.
+Of course, past generations [intuitively grasped](https://www.rockefellerfoundation.org/insights/perspective/the-new-deal-made-americas-racial-inequality-worse-we-cant-make-the-same-mistake-with-covid-19-economic-crisis/#:~:text=It%E2%80%99s%20true%20that,Democrats%20in%20Congress.) why populism opposes the underclass, such that they never coined a term to explain it— and now we've lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the elites— only to watch in confusion as the most disadvantaged groups [keep siding](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631) with the establishment instead.
 
-Of course, it isn't *just* in politics, but *also* in culture, where this confusion has led Millennials to be so ineffective as a generation. Gatekeepers are carpetbaggers.
+Of course, it isn't *just* in politics, but *also* in culture, where this confusion has led Millennials to be so ineffectual. For instance, I've long understood that, as a minority, I'm more likely to win over a few gatekeepers at the top, than the countless masses at the bottom. Yet the indie camp— their good guys— insist that I'm voting against my own interests when I side with the elites…
 
-Which explains why both culture and politics have gotten worse in our times: In each case, we've mistaken populism for progressivism— but progressives *can't* be populists, because a true populist *abandons* the underclass, while a true progressive *sympathizes* with the need for disadvantaged groups to join the establishment— and thus understands the value of joining themselves.
+Which explains why culture and politics have both gotten worse in our times: In each case, Millennials have mistaken populism for progressivism. Yet the difference is clear! A populist *criticizes* disadvantaged groups for joining the establishment, while a progressive *sympathizes*— and thus sees the wisdom of joining it themselves.
 
 In light of the sideways horseshoe, BYCombo is a culturally progressive movement. (Mention countermovement of some kind, in preparation for counterculture section.)
 
