@@ -1,6 +1,9 @@
 # TODO
 
 # Tomorrow
+* Health stuff
+    * Allergy forms
+    * Look into insurance
 * Reviews
 * Go through summaries of sections on this page
 * Add elitism paragraph, with mention of "sideways horseshoe"
