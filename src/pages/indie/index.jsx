@@ -339,13 +339,13 @@ Third paragraph: Make better. Fourth paragraph: Say "abandons" instead? Fifth pa
 Review links to determine they're the best possible. Change New Deal link to point out that Black leaders criticized New Deal.
 `}
 
-A high school classmate once referred to the carpetbaggers as "bad guys"— for having exploited the defeated South. This surprised me, since I saw them as "good guys"— for having defended vulnerable Blacks. Obviously, he sided with the people, while I sided with both the elites and the underclass. So the "sideways horseshoe" shows up not just in culture… but in politics as well!
+In high school, a classmate referred to the carpetbaggers as "bad guys"— for having exploited the defeated South. This surprised me, since I saw them as "good guys"— for having defended vulnerable Blacks. Clearly, he sided with the people, while I sided with the elites and the underclass. So the "sideways horseshoe" shows up not just in culture… but in politics as well!
 
 Now, past generations didn't need to coin this term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://www.rockefellerfoundation.org/insights/perspective/the-new-deal-made-americas-racial-inequality-worse-we-cant-make-the-same-mistake-with-covid-19-economic-crisis/#:~:text=It%E2%80%99s%20true%20that,Democrats%20in%20Congress.), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the establishment… only to watch in confusion as the most disadvantaged among us side with the [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
 
 Of course, it isn't *just* in politics, but *also* in culture, where this confusion has led Millennials to be so ineffectual. As a minority, I've long understood that I'm more likely to win over a few gatekeepers at the top, than the countless masses at the bottom. Yet the indie camp— their good guys— insist that I'm voting against my own interests when I side with the elites…
 
-Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials have mistaken populism for progressivism— when the difference is quite substantial! A populist *patronizes* the disadvantaged for wanting to join the establishment, while a progressive *sympathizes*— and thus sees the wisdom of joining it themselves.
+Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials have mistaken populism for progressivism— when there's a pretty clear difference! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*— and thus sees wisdom in joining it themselves.
 
 In light of the sideways horseshoe, BYCombo is a culturally progressive movement. (Mention countermovement of some kind, in preparation for counterculture section.)
 
