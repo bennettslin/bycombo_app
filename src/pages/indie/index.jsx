@@ -335,9 +335,9 @@ In high school, a classmate referred to the carpetbaggers as "bad guys"— for h
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://www.rockefellerfoundation.org/insights/perspective/the-new-deal-made-americas-racial-inequality-worse-we-cant-make-the-same-mistake-with-covid-19-economic-crisis/#:~:text=It%E2%80%99s%20true%20that,Democrats%20in%20Congress.), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the most disadvantaged among us side with the [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
 
-Of course, it isn't just in politics, but also in culture, where this confusion has made Millennials so ineffectual. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of many at the grassroots. Yet the indie camp— their generation's good guys— simply won't hear it, insisting that I'm "voting against my own interests."
+Of course, it isn't just in politics, but also in culture, where this confusion has made Millennials so ineffectual. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of many at the grassroots. Yet the indie camp— their generation's good guys— simply won't hear it. It's like they think I'm voting against my own interests…
 
-Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials have mistaken populism for progressivism— when there's a pretty clear difference! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*— and thus sees wisdom in joining as well.
+Which explains why both culture *and* politics are getting worse in our times: In each case, Millennials have mistaken populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*— and thus sees wisdom in joining as well.
 
 In light of the sideways horseshoe, BYCombo is a culturally progressive movement.
 
