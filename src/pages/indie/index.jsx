@@ -528,11 +528,11 @@ We need a competing interdependence counterculture that's equally romantic.
 
 First paragraph— compress these three into a single cohesive statement:
 
-Don't get me wrong, I'm grateful to the White men of Gen X for having made so much of the art I love. But indie rock, the culturally libertarian movement they founded, is a poor fit for me. As an Asian male— the least favored combination of race and gender— I *need* a cultural "safety net"; I need the elites to intervene if they see my potential, even when the people don't.
+Don't get me wrong, I'm grateful to the White men of Gen X for having made so much of the art I love. But indie rock, the culturally libertarian movement they founded, was always a poor fit for me. As a minority, I *need* a cultural "safety net"; I need the elites to intervene if they see my potential, even when the people don't.
 
 When the torch finally passed to Millennials, then, I expected them to defend the interdependence I craved, given our shared desire to see more female and minority artists. Instead… they *cheered* as indie rock took over?! So they chose the path of cultural *libertarianism*… to achieve the goals of cultural *progressivism*! No wonder the culture they gave us was so lacking…
 
-Why are both progressivism and the arts in such rough shape after the last two decades? I suspect it's because indie rock's cultural libertarianism taught us that siding with the underdog means taking down "the system." So we lash out against those we see as shadowy forces— the political establishment, the cultural elites— thinking we do so in solidarity with the less privileged.
+Why are both progressivism and the arts in such rough shape after the last two decades? It's because indie rock's cultural libertarianism taught us to lash out against those at the top— the political establishment, the cultural elites— thinking we do so in solidarity with the most disadvantaged… who then prove 
 
 Yet the *least* privileged groups want to *join* the establishment! "Why *fight* the power, if we're being invited to *share* in it?" Similarly, the *least* privileged artists hope to *partner* with the elites. So the guiding principles that indie rock instilled in us… are flat-out *wrong*! Hopefully, my fellow progressives get this, and will now course correct in their politics.
 
