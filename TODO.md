@@ -32,6 +32,12 @@
     * Consider smart quote in Wikipedia link update
     * Revise apply page
         * https://www.matthewstrother.org/applications
+    * Consider final section
+        * The future is five times better
+        * Being indie is such an advantage that it can only ever choke off interdependence
+        * For interdependence to exist at all, it has only one advantage left: it can promise better works
+        * The final stage of indiefication is interdependence promising to be better
+            * How much better?
 
 * Distro
     * Make everything (demo version)

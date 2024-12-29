@@ -315,9 +315,13 @@ I've yet to see a good term to describe this phenomenon, so let me coin one: the
 Let's face it, the disadvantaged fundamentally depend on noblesse oblige, which *only* the elites can provide. But while the indie tastemakers are positioned to behave like elites, they shirk any duty to do so, and instead, obey the will of the people— who then favor the privileged!
 
 The problem with progressivism is the same problem with the arts: For the past two decades, there's been an absence of a culturally progressive identity to counter indie rock's culturally libertarian identity. This is a problem because the cultural libertarian believes there are only two classes, the elites and the people. Only the cultural progressive understands there's a third class, the disadvantaged, who *want* the elites to *protect* them from the people. As a result, people who otherwise would have been elites refuse to behave like elites. They refuse the privileges of the elites, which means they also shirk the duties of the elites.
+
+https://www.honest-broker.com/p/an-open-letter-to-taylor-swift
 `}
 
-Which is why every movement started by minorities is *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more.
+And this explains why the disadvantaged are often put off by populism: After the elites are toppled, the most privileged of the people simply promise that their fortunes will somehow trickle down to us. As a result, we sometimes get a "sideways horseshoe," in which the underclass at the bottom and the elites at the top join forces against the people in the middle.
+
+It shouldn't surprise us, then, that so many movements started by minorities are *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
