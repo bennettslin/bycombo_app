@@ -34,10 +34,17 @@
         * https://www.matthewstrother.org/applications
     * Consider final section
         * The future is five times better
-        * Being indie is such an advantage that it can only ever choke off interdependence
+            * Come up with better title
+                * The end is the beginning
+        * If you think about it, being indie is such an advantage that once indiefication begins, its natural momentum will allow it to completely take over
+            * While the interdependent artist doubles down on making art, the indie artist invests in getting themselves ahead
+            * Why wouldn't any label choose the indie artist who can do their job for them?
+            * Why wouldn't any critic favor the indie artist who creates context to be discussed?
+            * Why wouldn't any fan favor the indie artist who takes the time to build a parasocial relationship?
         * For interdependence to exist at all, it has only one advantage left: it can promise better works
-        * The final stage of indiefication is interdependence promising to be better
             * How much better?
+        * This, then, is the final stage of indiefication
+            * To paraphrase an old Soviet joke, indiefication is the most longest and most painful journey from interdependence to interdependence.
 
 * Distro
     * Make everything (demo version)
