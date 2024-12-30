@@ -306,22 +306,20 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 But once competition happens *away* from public view— as with self-reliance, for example— the disadvantaged have no way to foil the hidden advantages of others: being born rich, having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
 ${'  ' || `
-// TODO: Add new paragraph. Majority vs minority understanding of populism. Underclass? Revisit how it's used in populism section. Coin "sideways horseshoe." Point out that it's a model.
-
-Make it clear that people and privileged are on one side, elites and underclass on the other. Mention populism.
-
-I've yet to see a good term to describe this phenomenon, so let me coin one: the "sideways horseshoe," where those at the top, and those at the bottom, have aligned interests, and thus ally against the majority in the middle.
+// TODO: Keep working on. 
 
 Let's face it, the disadvantaged fundamentally depend on noblesse oblige, which *only* the elites can provide. But while the indie tastemakers are positioned to behave like elites, they shirk any duty to do so, and instead, obey the will of the people— who then favor the privileged!
 
 The problem with progressivism is the same problem with the arts: For the past two decades, there's been an absence of a culturally progressive identity to counter indie rock's culturally libertarian identity. This is a problem because the cultural libertarian believes there are only two classes, the elites and the people. Only the cultural progressive understands there's a third class, the disadvantaged, who *want* the elites to *protect* them from the people. As a result, people who otherwise would have been elites refuse to behave like elites. They refuse the privileges of the elites, which means they also shirk the duties of the elites.
-
-https://www.honest-broker.com/p/an-open-letter-to-taylor-swift
 `}
 
-And this explains why the disadvantaged are often put off by populism: After the elites are toppled, the most privileged of the people simply promise that their fortunes will somehow trickle down to us. As a result, we sometimes get a "sideways horseshoe," in which the underclass at the bottom and the elites at the top join forces against the people in the middle.
+This explains why the disadvantaged often distrust populism: It topples the elites who offer meritocratic advancement, while [preserving the power](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=You%20have%20also,and%20have%20won!) of the most privileged people relative to the least. As a result, we end up with a "sideways horseshoe," in which the underclass at the bottom prefers to side with the elites at the top, rather than with the people in the middle.
 
-It shouldn't surprise us, then, that so many movements started by minorities are *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more.
+${'  ' || `
+// TODO: Keep working on in light of previous paragraph.
+`}
+
+It's no wonder, then, that so many movements started by us minorities are *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
