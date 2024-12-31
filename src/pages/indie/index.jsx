@@ -303,32 +303,28 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
-While indie artists value solidarity, rappers [revel in snobbery](https://youtu.be/78SV9tguyVM). Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
+While indie artists value populist solidarity, rappers revel in [elitist snobbery](https://youtu.be/78SV9tguyVM). Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
+
+${'  ' || `
+// TODO: Review next three paragraphs a few more times.
+`}
+
+After all, once competition happens *away* from public view— as indie rock's populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is now "the" [genre for the privileged](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia)!
+
+Which explains why the disadvantaged are often *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=You%20have%20also,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often see a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top… than to the people in the middle.
 
 Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry it as "rockism"— implying that such snobbery is akin to racism.
 
-But once competition happens *away* from public view— as with self-reliance, for example— the disadvantaged have no way to foil the hidden advantages of others: being born rich, having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
-
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Keep working on.
 `}
 
-This explains why the disadvantaged are actually *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=You%20have%20also,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often see a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top than to those in the middle.
-
-${'  ' || `
-// TODO: Keep working on in light of previous paragraph.
-`}
-
-No wonder, then, that most movements started by minorities are *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the reality is that the arts *force* us to compete against each other, as they *should*. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more.
+Thankfully, as an Xennial and a minority, I've long understood why cultural movements started by minorities tend to be *defiantly* elitist. It's why I started BYCombo— to let your band join forces with the elites once more, just like rappers do.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
 ${'  ' || `
-// TODO: Keep working on.
-
-Probably best between elitism and counterculture sections.
-
-Fifth paragraph: Keep working on, obviously. Mention countermovement of some kind, in preparation for counterculture section.
+// TODO: Review a few more times.
 
 Review links to determine they're the best possible. Change New Deal link to point out that Black leaders criticized New Deal.
 `}
@@ -341,7 +337,11 @@ Of course, it isn't just in politics, but also in culture, where this confusion 
 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*— and thus sees wisdom in joining as well.
 
-To counter indie rock's cultural libertarianism, then, a culturally progressive movement *must* be based on the sideways horseshoe.
+${'  ' || `
+// TODO: Keep working on.
+`}
+
+I'll leave it to others to reform progressivism in politics. To counter indie rock's populism, then, a culturally progressive opposition *must* be based on the sideways horseshoe.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
