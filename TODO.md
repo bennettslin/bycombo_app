@@ -36,6 +36,7 @@
         * The future is five times better
             * Come up with better title
                 * The end is the beginning
+        * It shouldn't surprise anyone why indie rock's takeover of the arts has been so complete and irreversible
         * If you think about it, being indie is such an advantage that once indiefication begins, its natural momentum will allow it to completely take over
             * While the interdependent artist doubles down on making art, the indie artist invests in getting themselves ahead
             * Why wouldn't any label choose the indie artist who can do their job for them?
@@ -44,7 +45,7 @@
         * For interdependence to exist at all, it has only one advantage left: it can promise better works
             * How much better?
         * This, then, is the final stage of indiefication
-            * To paraphrase an old Soviet joke, indiefication is the most longest and most painful journey from interdependence to interdependence.
+            * Or, to paraphrase an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence to interdependence."
 
 * Distro
     * Make everything (demo version)
