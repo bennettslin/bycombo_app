@@ -299,13 +299,13 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
-While indie artists value populist solidarity, rappers revel in [elitist snobbery](https://youtu.be/78SV9tguyVM). Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
-
 ${'  ' || `
-// TODO: Review next three paragraphs a few more times.
+// TODO: Review whole section.
 `}
 
-After all, once competition happens *away* from public view— as indie rock's populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is now "the" [genre for the privileged](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia)!
+While indie artists value populist solidarity, rappers revel in [elitist snobbery](https://youtu.be/78SV9tguyVM). Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
+
+After all, once competition happens *away* from public view— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is now "the" [genre for the privileged](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia)!
 
 Which explains why the disadvantaged are often *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=You%20have%20also,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often see a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top… than to the people in the middle.
 
