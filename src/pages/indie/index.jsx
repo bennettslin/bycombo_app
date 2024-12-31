@@ -333,7 +333,7 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-I'll leave it to others to reform progressivism in politics. To counter indie rock's populism, then, a culturally progressive opposition *must* be based on the sideways horseshoe.
+I'll leave it to others to reform progressive politics. To counter indie rock's populism, then, a culturally progressive opposition *must* be based on the sideways horseshoe.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
