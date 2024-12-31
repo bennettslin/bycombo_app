@@ -217,7 +217,7 @@ But being indie means gaining the *public's* attention, and this is a zero-sum g
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the business world's "indie camp" goes on strike against a progressive regime by *refusing* to help society advance.
 
-To protest against indie rock, then, the music world's "progressives" can do the opposite, and *readily* advance the art form… even if this hurts their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the culturally progressive movement that shares your love of the craft.
+To protest against indie rock, then, the music world's "progressives" can do the opposite, and *readily* advance the art form… even if this hurts their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the culturally progressive opposition that shares your love of the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -306,20 +306,16 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 But once competition happens *away* from public view— as with self-reliance, for example— the disadvantaged have no way to foil the hidden advantages of others: being born rich, having insider connections or industry know-how, benefiting from legacy institutions in the past… and so forth. Ironically, then, indie rock is now the [*ultimate* playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
 ${'  ' || `
-// TODO: Keep working on. 
-
-Let's face it, the disadvantaged fundamentally depend on noblesse oblige, which *only* the elites can provide. But while the indie tastemakers are positioned to behave like elites, they shirk any duty to do so, and instead, obey the will of the people— who then favor the privileged!
-
-The problem with progressivism is the same problem with the arts: For the past two decades, there's been an absence of a culturally progressive identity to counter indie rock's culturally libertarian identity. This is a problem because the cultural libertarian believes there are only two classes, the elites and the people. Only the cultural progressive understands there's a third class, the disadvantaged, who *want* the elites to *protect* them from the people. As a result, people who otherwise would have been elites refuse to behave like elites. They refuse the privileges of the elites, which means they also shirk the duties of the elites.
+// TODO: Review a few more times.
 `}
 
-This explains why the disadvantaged often distrust populism: It topples the elites who offer meritocratic advancement, while [preserving the power](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=You%20have%20also,and%20have%20won!) of the most privileged people relative to the least. As a result, we end up with a "sideways horseshoe," in which the underclass at the bottom prefers to side with the elites at the top, rather than with the people in the middle.
+This explains why the disadvantaged are actually *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=You%20have%20also,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often see a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top than to those in the middle.
 
 ${'  ' || `
 // TODO: Keep working on in light of previous paragraph.
 `}
 
-It's no wonder, then, that so many movements started by us minorities are *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the harsh reality is that the arts are a *de facto* competition. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more.
+No wonder, then, that most movements started by minorities are *defiantly* elitist. Let's face it, disadvantage forces you to deal with reality, not some cozy fantasy in your head— and the reality is that the arts *force* us to compete against each other, as they *should*. Thankfully, as a minority myself, I started BYCombo to let you compete in plain sight once more.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
@@ -337,11 +333,11 @@ In high school, a classmate referred to the carpetbaggers as "bad guys"— for h
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://www.rockefellerfoundation.org/insights/perspective/the-new-deal-made-americas-racial-inequality-worse-we-cant-make-the-same-mistake-with-covid-19-economic-crisis/#:~:text=It%E2%80%99s%20true%20that,Democrats%20in%20Congress.), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the most disadvantaged among us side with the [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
 
-Of course, it isn't just in politics, but also in culture, where this confusion has made Millennials so ineffectual. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of many at the grassroots. Yet the indie camp— their generation's good guys— won't hear of it. It's like they think I'm voting against my own interests!
+Of course, it isn't just in politics, but also in culture, where this confusion has made Millennials so ineffectual. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the majority. Yet the indie camp— their generation's good guys— won't hear of it. It's like they think I'm voting against my own interests!
 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*— and thus sees wisdom in joining as well.
 
-In light of the sideways horseshoe, BYCombo is a culturally progressive movement.
+To counter indie rock's cultural libertarianism, then, a culturally progressive movement *must* be based on the sideways horseshoe.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
@@ -526,6 +522,10 @@ Indie rock prepared Millennials for indieocracy— rule by those who hustle to g
 To be indie is, by definition, to find coalitions distasteful. Joining coalitions require working with people who think differently from you.
 
 We need a competing interdependence counterculture that's equally romantic.
+
+Let's face it, the disadvantaged fundamentally depend on noblesse oblige, which *only* the elites can provide. But while the indie tastemakers are positioned to behave like elites, they shirk any duty to do so, and instead, obey the will of the people— who then favor the privileged!
+
+The problem with progressivism is the same problem with the arts: For the past two decades, there's been an absence of a culturally progressive identity to counter indie rock's culturally libertarian identity. This is a problem because the cultural libertarian believes there are only two classes, the elites and the people. Only the cultural progressive understands there's a third class, the disadvantaged, who *want* the elites to *protect* them from the people. As a result, people who otherwise would have been elites refuse to behave like elites. They refuse the privileges of the elites, which means they also shirk the duties of the elites.
 `}
 
 First paragraph— compress these three into a single cohesive statement:
