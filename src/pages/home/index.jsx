@@ -49,6 +49,10 @@ The downside is clear… So who'd sign up to be the first of these new rock mart
 
 Well… not so fast. The indie camp assumes that every artist faces the same hurdles— in which case, clearing the way for an underdog should still help the rest. Except… your hurdles as an outsider *aren't* the same. To compensate for *not* being the one they're rooting for, you need to try much harder, to be much better. But then… this makes *you* the underdog's biggest hurdle!
 
+${'  ' || `
+// TODO: Revise. Change "assure victory" to a different expression.
+`}
+
 So even as you build up *objective* strengths to win over a skeptical public, the indie tastemakers assure victory for the underdog by keeping their criteria *subjective*. Which is why they favor music that *lacks* [enviable hooks](/indie#time-is-kind-to-craft-not-context), and why they refuse to acknowledge our human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
 Suffice it to say, then… the indie labels rejected my demo. They also ignored later projects of mine that promised to *help* their underdogs: my songwriting book [*Bobtail Method*](https://bobtailmethod.com), and my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). So even *altruism* is a losing strategy for the outsider! And now I finally understood:

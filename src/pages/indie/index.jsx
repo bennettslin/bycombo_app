@@ -300,7 +300,7 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 ### ${++sectionCounter}. Elitism is the great equalizer
 
 ${'  ' || `
-// TODO: Review whole section.
+// TODO: Review whole section a few more times.
 `}
 
 While indie artists value populist solidarity, rappers revel in [elitist snobbery](https://youtu.be/78SV9tguyVM). Yet for Gen X, it's the rapper who represents the *true* face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
@@ -311,12 +311,16 @@ Which explains why the disadvantaged are often *put off* by populism: It asks th
 
 Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry it as "rockism"— implying that such snobbery is akin to racism.
 
-Thankfully, as both an Xennial and a minority, I've long understood why the cultural movements started by disadvantaged groups tend to be elitist, and *defiantly* so. And so I started BYCombo— to let your band partner with elitist snobs once more, just like rappers do.
+${'  ' || `
+// TODO: Revise. Could be better.
+`}
+
+Thankfully, as both an Xennial and a minority, I've long understood why the most disadvantaged are oftentimes the most elitist— and even *defiantly* so. And so I started BYCombo— to let your band partner with elitist snobs once more, just like rappers do.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review whole section a few more times.
 
 Review links to determine they're the best possible. Change New Deal link to point out that Black leaders criticized New Deal.
 `}
