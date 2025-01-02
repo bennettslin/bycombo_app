@@ -309,25 +309,19 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 
 But once competition takes place *away* from the public eye— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is now "the" [genre for the privileged](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia)!
 
-Which explains why the disadvantaged are often *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often see a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top, than to the people in the middle.
+Which explains why the disadvantaged tend to be *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top, than to the people in the middle.
 
-${'  ' || `
-// TODO: Review a few more times.
-`}
-
-No wonder, then, that every cultural movement started by minorities is *defiantly* elitist! Thankfully, as both an Xennial and a minority myself, I've long understood this. And so I started BYCombo, to let your band partner with the elites once more… just like rappers do.
+Thankfully, as both an Xennial and a minority, I've *never* taken to indie rock's ideal of populist solidarity; I've *always* preferred hip hop's penchant for elitist snobbery— "rappism," maybe? Now with BYCombo, your band can dream of partnering with elites once more… just like rappers always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
 ${'  ' || `
-// TODO: Review whole section.
-
-Review links to determine they're the best possible. Change New Deal link to point out that Black leaders criticized New Deal.
+// TODO: Review whole section, including links.
 `}
 
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for having exploited the defeated South. This surprised me, since I saw them as "good guys"— for having defended vulnerable Blacks. Clearly, he sided with the people, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in culture… but in politics as well!
 
-Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://www.rockefellerfoundation.org/insights/perspective/the-new-deal-made-americas-racial-inequality-worse-we-cant-make-the-same-mistake-with-covid-19-economic-crisis/#:~:text=It%E2%80%99s%20true%20that,Democrats%20in%20Congress.), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the most disadvantaged among us side with the [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
+Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the most disadvantaged among us side with the [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
 
 Of course, it isn't just in politics, but also in culture, where this confusion has made Millennials so ineffectual. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the majority. Yet the indie camp— their generation's good guys— won't hear of it. It's like they think I'm voting against my own interests!
 
@@ -337,7 +331,7 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-I'll leave it to others to reform progressive politics. To counter indie rock's populism, then, a culturally progressive opposition *must* be based on the sideways horseshoe.
+I'll leave it to others to reform progressivism in politics. To counter indie rock's populism, then, a culturally progressive opposition *must* be based on the sideways horseshoe.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
@@ -403,7 +397,14 @@ By contrast, the indie labels simply pick what the people want, going by the siz
 
 So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "Recordings *should* be free; they're for publicity. Real earnings are made by going on tour!" And social media: "Real artists engage with their fans, and now they can at *any* time— not just after a show!"
 
-To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* [now expect](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.) artists to empower themselves using online tools. The only way to revolt, then, is to reject indie rock *itself*— which is why BYCombo tells you *not* to boost your numbers, but to pursue a vision that few others see.
+${'  ' || `
+// TODO: Review link.
+
+Original link:
+https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.
+`}
+
+To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* [now expect](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) artists to empower themselves using online tools. The only way to revolt, then, is to reject indie rock *itself*— which is why BYCombo tells you *not* to boost your numbers, but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
@@ -504,6 +505,14 @@ However, revisit after elitism section is revised, and progressives section is f
 
 https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary
 
+First paragraph— compress these three into a single cohesive statement:
+
+Don't get me wrong, I'm grateful to the White men of Gen X for having made so much of the art I love. But indie rock, the culturally libertarian movement they founded, was always a poor fit for me. As a minority in the arts, I *need* a cultural "safety net"; I need the elites to intervene if they see my potential, even when the people don't.
+
+When the torch finally passed to Millennials, then, I expected them to defend the interdependence I craved, given our shared desire to see more female and minority artists. Instead… they *cheered* as indie rock took over?! So they chose the path of cultural *libertarianism*… to achieve the goals of cultural *progressivism*! No wonder the culture they gave us was so lacking…
+
+Yet the *least* privileged groups want to *join* the establishment! "Why *fight* the power, if we're being invited to *share* in it?" Similarly, the *least* privileged artists hope to *partner* with the elites. So the guiding principles that indie rock instilled in us… are flat-out *wrong*! Hopefully, my fellow progressives get this, and will now course correct in their politics.
+
 A cultural libertarian today is a leading candidate to become a political libertarian tomorrow. This is because, if your personal identity is so tied to this romantic notion of lashing out against centralized institutions, then why *wouldn't* you eventually lash out against the biggest one of them all— the government? And if you're young, educated, White, and/or male, then why *wouldn't* your personal fortunes change for the better, enough to suddenly make political libertarianism attractive?
 
 Criticizing the idea that solutions are simple:
@@ -526,19 +535,17 @@ We need a competing interdependence counterculture that's equally romantic.
 Let's face it, the disadvantaged fundamentally depend on noblesse oblige, which *only* the elites can provide. But while the indie tastemakers are positioned to behave like elites, they shirk any duty to do so, and instead, obey the will of the people— who then favor the privileged!
 
 The problem with progressivism is the same problem with the arts: For the past two decades, there's been an absence of a culturally progressive identity to counter indie rock's culturally libertarian identity. This is a problem because the cultural libertarian believes there are only two classes, the elites and the people. Only the cultural progressive understands there's a third class, the disadvantaged, who *want* the elites to *protect* them from the people. As a result, people who otherwise would have been elites refuse to behave like elites. They refuse the privileges of the elites, which means they also shirk the duties of the elites.
-`}
 
-First paragraph— compress these three into a single cohesive statement:
-
-Don't get me wrong, I'm grateful to the White men of Gen X for having made so much of the art I love. But indie rock, the culturally libertarian movement they founded, was always a poor fit for me. As a minority in the arts, I *need* a cultural "safety net"; I need the elites to intervene if they see my potential, even when the people don't.
-
-When the torch finally passed to Millennials, then, I expected them to defend the interdependence I craved, given our shared desire to see more female and minority artists. Instead… they *cheered* as indie rock took over?! So they chose the path of cultural *libertarianism*… to achieve the goals of cultural *progressivism*! No wonder the culture they gave us was so lacking…
-
-Why are both progressivism and the arts in such rough shape after the last two decades? It's because indie rock's cultural libertarianism taught us to lash out against those at the top— the political establishment, the cultural elites— thinking we do so in solidarity with the most disadvantaged… who then prove 
-
-Yet the *least* privileged groups want to *join* the establishment! "Why *fight* the power, if we're being invited to *share* in it?" Similarly, the *least* privileged artists hope to *partner* with the elites. So the guiding principles that indie rock instilled in us… are flat-out *wrong*! Hopefully, my fellow progressives get this, and will now course correct in their politics.
 
 In the arts, however, we face an additional problem: Past artists could rail against the system while still benefiting from it, as they had no other choice. But today's self-empowered artists *can't* pretend this is still the case. The only way to benefit from the system now is to openly declare the intent to work with it. But there's only romance in fighting the system, not in working with it.
+`}
+
+Why is progressivism, in both culture and politics, so badly beaten in the last two decades? Here's my theory: It's because indie rock sold its cultural libertarianism to Millennials as a universal ideal, and they bought it— even the progressive ones! Thus, they tried to shoehorn its anti-establishment stance into their progressive beliefs.
+
+Second paragraph:
+But while toppling systems works perfectly for libertarians, who want to replace them with nothing else, progressives need centralized coordination to enact their ambitious policies. So they try to replace bad systems with good ones— only for the good ones to prove just as flawed. It becomes an endless purity test that mere human beings, in all their [flawed nature](https://youtu.be/qaHLd8de6nM), can never pass. (Obama link.)
+
+The solution, then, in both politics and culture, is for progressives to accept that their mission isn't to topple systems, but to reform them. But how to convince the new Romantics, when there's only romance in toppling systems, not reforming them? The answer, I believe, is to help Gen Z recognize there's just as much excitement to be had in ushering in the new Enlightenment.
 
 So how do we win over the new Romantics? I believe the answer is to appreciate systems in all their complexity and fragility. Once we do, we'll stop blaming shadowy forces for our problems, because we'll finally know to examine them well enough to find constructive solutions instead. Only then will we proudly self-identify as interdependent, setting an example for others to do the same.
 

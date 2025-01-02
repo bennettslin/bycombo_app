@@ -71,6 +71,8 @@ The indie labels are overworked and underpaid; they do what they do as a labor o
 
 Before the Internet, underground bands were the *only* ones winning over one fan at a time from the bottom up. Thus, Indie labels developed an instinct to respect and reward fan engagement. Like moths that evolved to navigate by moonlight, and then conserve their brainpower to never do differently.
 
+https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=Despite%20the%20rich%20history%20of,light%20to%20escape%20imminent%20danger.
+
 But lean operations also have single point of failure. Can't adapt to changes. But the world has evolved, causing moths to burn themselves in flames. Indie labels are just as misguided, in a world where tech platforms have made fan engagement the default behavior, the indies will always dismiss the unexpected. Happily, BYCombo helps
 
 ### ${++sectionCounter}. Anxiety of influence is a needed scare
@@ -115,7 +117,7 @@ Millennials don't know they're Millennials. They don't know that their need to s
 
 Major labels are the social welfare of music.
 
-After democratization? (Mention of indieocracy.) But before elitism? (Mention of legacy institutions.) Between hustlers and paid dues? (Theme of not caring about the future, followed by theme of widening vicious circle.)
+After democratization? (Mention of indieocracy.) But before elitism? (Mention of legacy institutions.) Between hustlers and paid dues? (Theme of not caring about the future, followed by theme of widening vicious circle.) Or between modest standing and creativity? (Naturally leads to talk of Pareto distribution.)
 
 Explicitly mention cultural libertarianism and cultural progressivism.
 
