@@ -531,6 +531,8 @@ The problem with progressivism is the same problem with the arts: For the past t
 
 
 In the arts, however, we face an additional problem: Past artists could rail against the system while still benefiting from it, as they had no other choice. But today's self-empowered artists *can't* pretend this is still the case. The only way to benefit from the system now is to openly declare the intent to work with it. But there's only romance in fighting the system, not in working with it.
+
+Building and reforming systems to make them more robust is hard, while tearing them down and starting over is easy.
 `}
 
 Why is progressivism, in both culture and politics, so badly beaten in the last two decades? Here's my theory: It's because indie rock sold its cultural libertarianism to Millennials as a universal ideal, and they bought it— even the progressive ones! Thus, they tried to shoehorn its anti-establishment stance into their progressive beliefs.
@@ -573,9 +575,9 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-Once indie rock's ideals take root, they end up taking over completely. After all, why *wouldn't* a label prefer to sign the artist who already does their job for them? Why *wouldn't* a critic prefer to discuss the artist whose persona actively provides so much context? And why *wouldn't* a fan prefer to support the artist who directly engages with them in a parasocial relationship?
+Once indie rock's ideals take root *somewhere*, they'll take over *everywhere*. After all, why *wouldn't* a label prefer to sign the artist who already does their job for them? Why *wouldn't* a critic prefer to discuss the artist whose persona provides so much surrounding context? And why *wouldn't* a fan prefer to support the artist who directly engages with them in a parasocial relationship?
 
-By doubling down to make art rather than to hustle, an interdependent band simply can't compete on those terms. All they can offer is the potential for their art to be better— but this promise is so abstract, it lacks any convincing weight. After all, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle once again for guidance.
+By contrast, an interdependent band simply can't compete on those terms. In doubling down to make art rather than hustle, all they can offer is the potential for their art to be better— but this promise is so abstract, it lacks any convincing weight. After all, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle once again for guidance.
 
 While an indie artist can only get 100% results from 100% efforts, an interdependent band…
 
