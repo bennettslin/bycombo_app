@@ -397,13 +397,6 @@ By contrast, the indie labels simply pick what the people want, going by the siz
 
 So when the tech platforms arrived, their savvy with numbers made them good guys as well. Because of this, the indie pundits rushed to defend file sharing: "Recordings *should* be free; they're for publicity. Real earnings are made by going on tour!" And social media: "Real artists engage with their fans, and now they can at *any* time— not just after a show!"
 
-${'  ' || `
-// TODO: Review link.
-
-Original link:
-https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=So%20they%20demand,record%20labels%20anymore.
-`}
-
 To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* [now expect](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) artists to empower themselves using online tools. The only way to revolt, then, is to reject indie rock *itself*— which is why BYCombo tells you *not* to boost your numbers, but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
@@ -580,9 +573,15 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-It shouldn't be a surprise that, once indie rock's ideals take root, they end up taking over. After all, as a label, wouldn't you rather sign the artist who can do your job as well as you? As a critic, wouldn't you rather discuss the artist who provides you with surrounding context to discuss? And as a fan, wouldn't you rather support the artist who engages with you in a parasocial relationship?
+Once indie rock's ideals take root, they end up taking over completely. After all, why *wouldn't* a label prefer to sign the artist who already does their job for them? Why *wouldn't* a critic prefer to discuss the artist whose persona actively provides so much context? And why *wouldn't* a fan prefer to support the artist who directly engages with them in a parasocial relationship?
 
+By doubling down to make art rather than to hustle, an interdependent band simply can't compete on those terms. All they can offer is the potential for their art to be better— but this promise is so abstract, it lacks any convincing weight. After all, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle once again for guidance.
 
+While an indie artist can only get 100% results from 100% efforts, an interdependent band…
+
+The 5x law, then, states that you can expect interdependent bands to be five times better than indie artists. At first glance, this seems quite provocative— but it's actually a pretty safe bet! After all, the *very* best interdependent band is the Beatles— and it's almost *certainly* the case that they're at least five times better than whoever the very best *indie* artist might be.
+
+So why *wouldn't* we give amnesty to the band who promises to be five times better? Which means the final stage of "indiefication" is to ultimately be defeated by the very ones it hoped to displace. Or to paraphrase an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence." Victory is assured!
 `,
         }}
     />

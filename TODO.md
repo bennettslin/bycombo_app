@@ -8,6 +8,9 @@
 * Go through summaries of sections on this page
 * Add elitism paragraph, with mention of "sideways horseshoe"
 
+# YB
+* Change to 5x law of interdependence
+
 # Remaining December work
 * Make apply page good enough to publish
 * Publish
