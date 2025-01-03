@@ -62,7 +62,7 @@
 
 Much earlier. Maybe between lottery and support? End by talking about support? Or between creativity and disintermediation?
 
-Talk about redundancy of middlemen, and indie labels getting rid of them. Redundancy keeps system robust against any single point of failure.
+Talk about redundancy of middlemen, and indie labels promise to get rid of them. Redundancy keeps system robust against any single point of failure.
 
 Mention supporting artists, to segue into charitable support section.
 
