@@ -65,6 +65,10 @@ Worst of all, if the major labels are "bad guys," then this makes the indies "go
 
 ### A hundred *Yearling's Bobtail*s
 
+${'  ' || `
+// TODO: Revise. Make clear content also includes surrounding context.
+`}
+
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging artists by the size of their fanbase, its tastemakers end up favoring *content*— namely, art that's optimized to gain fans in the *present*, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
 
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! Which is the first step to winning back our interdependence, since it's only once the *youth* are discontent that budding entrepreneurs will think to disrupt the market; discerning curators will push to redeem the arts; and future historians will know to teach the mistakes of our past.
