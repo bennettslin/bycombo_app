@@ -50,10 +50,10 @@ The downside is clear… So who'd sign up to be the first of these new rock mart
 Well… not so fast. The indie camp assumes that every artist faces the same hurdles— in which case, clearing the way for an underdog should still help the rest. Except… your hurdles as an outsider *aren't* the same. To compensate for *not* being the one they're rooting for, you need to try much harder, to be much better. But then… this makes *you* the underdog's biggest hurdle!
 
 ${'  ' || `
-// TODO: Revise. Change "assure victory" to a different expression.
+// TODO: Review.
 `}
 
-So even as you build up *objective* strengths to win over a skeptical public, the indie tastemakers assure victory for the underdog by keeping their criteria *subjective*. Which is why they favor music that *lacks* [enviable hooks](/indie#time-is-kind-to-craft-not-context), and why they refuse to acknowledge our human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
+So even as you build up *objective* strengths to win over a skeptical public, the indie tastemakers tip the scale toward the underdog by keeping their criteria *subjective*. Which is why they favor music that *lacks* [enviable hooks](/indie#time-is-kind-to-craft-not-context), and why they refuse to acknowledge our human bias *against* [creative invention](/indie#creativity-gets-its-chance-from-the-clueless).
 
 Suffice it to say, then… the indie labels rejected my demo. They also ignored later projects of mine that promised to *help* their underdogs: my songwriting book [*Bobtail Method*](https://bobtailmethod.com), and my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). So even *altruism* is a losing strategy for the outsider! And now I finally understood:
 
@@ -66,10 +66,10 @@ Worst of all, if the major labels are "bad guys," then this makes the indies "go
 ### A hundred *Yearling's Bobtail*s
 
 ${'  ' || `
-// TODO: Revise. Make clear content also includes surrounding context.
+// TODO: Review.
 `}
 
-If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging artists by the size of their fanbase, its tastemakers end up favoring *content*— namely, art that's optimized to gain fans in the *present*, at the cost of having none in the *future*. But content has little chance to make history… and to prove this, we just need time to pass.
+If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging artists by the size of their fanbase, its tastemakers end up favoring *content*— namely, art that's optimized to gain fans in the *present*, along with any surrounding context. But content has no *future* chances… and to prove this, we just need time to pass.
 
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! Which is the first step to winning back our interdependence, since it's only once the *youth* are discontent that budding entrepreneurs will think to disrupt the market; discerning curators will push to redeem the arts; and future historians will know to teach the mistakes of our past.
 

@@ -6,7 +6,6 @@
     * Look into insurance
 * Reviews
 * Go through summaries of sections on this page
-* Add elitism paragraph, with mention of "sideways horseshoe"
 
 # YB
 * Change to 5x law of interdependence

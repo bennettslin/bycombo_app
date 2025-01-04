@@ -45,7 +45,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-When fans charitably support an artist, they want *content*— namely, art and surrounding context that engages with them directly. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* to do so— because without a conscious intent, they'll naturally settle for being content creators instead.
+When fans support an artist, they want *content*— namely, art that engages with them directly, along with all the surrounding context. But while content has an advantage over *past* art, it loses once it's in the past *itself*. So to belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), today's artists must *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
