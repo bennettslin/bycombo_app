@@ -542,9 +542,9 @@ In the arts, however, we face an additional problem: Past artists could rail aga
 Building and reforming systems to make them more robust is hard, while tearing them down and starting over is easy.
 `}
 
-Why is progressivism, in both culture and politics, so badly beaten in the last two decades? Here's my theory: It's because indie rock taught Millennials to take down the system. But while this works well for libertarianism— either indie rock's cultural variety, or the political variety of indie rock's White male Gen X founders— it works poorly for progressives.
+Why is progressivism, in both culture and politics, so badly beaten in the last two decades? Here's my theory: It's because indie rock taught Millennials to take down the system. But while this works well for libertarianism— either indie rock's cultural kind, or the political kind that indie rock's White male Gen X founders proved to be— it works poorly for progressives.
 
-sold its cultural libertarianism to Millennials as a universal ideal, and they bought it— even the progressive ones! Thus, they tried to shoehorn its anti-establishment stance into their progressive beliefs.
+sold its cultural libertarianism to Millennials as a universal ideal, and they bought it— even the progressive ones! Thus, they tried to shoehorn its anti-establishment stance into their progressive beliefs. An anti-establishment progressive can only ever function as a "useful idiot" for libertarians.
 
 Second paragraph:
 But while toppling systems works perfectly for libertarians, who want to replace them with nothing else, progressives need centralized coordination to enact their ambitious policies. So they try to replace bad systems with good ones— only for the good ones to prove just as flawed. It becomes an endless purity test that mere human beings, in all their [flawed nature](https://youtu.be/qaHLd8de6nM), can never pass. (Obama link.)
