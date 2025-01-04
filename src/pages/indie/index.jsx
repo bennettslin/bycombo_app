@@ -537,13 +537,14 @@ Let's face it, the disadvantaged fundamentally depend on noblesse oblige, which 
 
 The problem with progressivism is the same problem with the arts: For the past two decades, there's been an absence of a culturally progressive identity to counter indie rock's culturally libertarian identity. This is a problem because the cultural libertarian believes there are only two classes, the elites and the people. Only the cultural progressive understands there's a third class, the disadvantaged, who *want* the elites to *protect* them from the people. As a result, people who otherwise would have been elites refuse to behave like elites. They refuse the privileges of the elites, which means they also shirk the duties of the elites.
 
-
 In the arts, however, we face an additional problem: Past artists could rail against the system while still benefiting from it, as they had no other choice. But today's self-empowered artists *can't* pretend this is still the case. The only way to benefit from the system now is to openly declare the intent to work with it. But there's only romance in fighting the system, not in working with it.
 
 Building and reforming systems to make them more robust is hard, while tearing them down and starting over is easy.
 `}
 
-Why is progressivism, in both culture and politics, so badly beaten in the last two decades? Here's my theory: It's because indie rock sold its cultural libertarianism to Millennials as a universal ideal, and they bought it— even the progressive ones! Thus, they tried to shoehorn its anti-establishment stance into their progressive beliefs.
+Why is progressivism, in both culture and politics, so badly beaten in the last two decades? Here's my theory: It's because indie rock taught Millennials to take down the system. But while this works well for libertarianism— either indie rock's cultural variety, or the political variety of indie rock's White male Gen X founders— it works poorly for progressives.
+
+sold its cultural libertarianism to Millennials as a universal ideal, and they bought it— even the progressive ones! Thus, they tried to shoehorn its anti-establishment stance into their progressive beliefs.
 
 Second paragraph:
 But while toppling systems works perfectly for libertarians, who want to replace them with nothing else, progressives need centralized coordination to enact their ambitious policies. So they try to replace bad systems with good ones— only for the good ones to prove just as flawed. It becomes an endless purity test that mere human beings, in all their [flawed nature](https://youtu.be/qaHLd8de6nM), can never pass. (Obama link.)

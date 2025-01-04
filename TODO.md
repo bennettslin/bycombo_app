@@ -62,7 +62,7 @@
 Much earlier. Maybe between lottery and support? End by talking about support? Or between creativity and disintermediation?
 
 First paragraph:
-List why it was once understandable that indie rock respected what it respects. Building a fanbase on one's own took initiative. Engaging directly with fans was something you could only do at a live show.
+List why it was once understandable that indie rock respected what it respects. Building a fanbase on one's own took initiative. Engaging directly with fans was something you could only do at a live show. Nonchalance of Pavement.
 
 Second paragraph:
 Point out that these things no longer signify what they once did. Yet indie rock carries on as if the world hadn't changed. Why?
