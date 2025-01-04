@@ -61,6 +61,17 @@
 
 Much earlier. Maybe between lottery and support? End by talking about support? Or between creativity and disintermediation?
 
+First paragraph:
+List why it was once understandable that indie rock respected what it respects. Building a fanbase on one's own took initiative. Engaging directly with fans was something you could only do at a live show.
+
+Second paragraph:
+Point out that these things no longer signify what they once did. Yet indie rock carries on as if the world hadn't changed. Why?
+
+Third paragraph:
+Every indie tastemaker is overworked and underpaid; they do what they do as a labor of love. Like moth…
+
+Fourth paragraph:
+
 Talk about redundancy of middlemen, and indie labels promise to get rid of them. Redundancy keeps system robust against any single point of failure.
 
 Mention supporting artists, to segue into charitable support section.
