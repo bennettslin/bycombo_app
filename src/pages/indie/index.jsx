@@ -41,10 +41,6 @@ Unfortunately, good guys will insist that *their* rules mustn't be broken; their
 
 **Why the historical canon?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 When fans support an artist, they want *content*— namely, art that engages with them directly, along with all the surrounding context. But while content has an advantage over *past* art, it loses once it's in the past *itself*. So to belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), today's artists must *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
@@ -158,10 +154,6 @@ In other words, ignore the critics, or any others who think history-making is a 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point. They just don't value music as a *craft* to begin with!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's persona than to a [well-crafted hook](https://youtu.be/HWMsWO0vPa8).
 
@@ -287,7 +279,11 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
-Who could've foreseen all the downsides of "indiefication"? Um… us women and minorities, that's who! Which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers [*proudly* rely](https://web.archive.org/web/20141122/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothing%20but,that%20pays%20me) on labels and producers. When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance counts for *nothing*.
+${'  ' || `
+// TODO: Review.
+`}
+
+Who could've foreseen all the drawbacks of "indiefication"? Um… us women and minorities, that's who! Which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers [*proudly* rely](https://web.archive.org/web/20141122/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothing%20but,that%20pays%20me) on labels and producers. When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance counts for *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of effectively being just another foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a [glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)…
 
@@ -542,9 +538,16 @@ In the arts, however, we face an additional problem: Past artists could rail aga
 Building and reforming systems to make them more robust is hard, while tearing them down and starting over is easy.
 `}
 
-Why is progressivism, in both culture and politics, so badly beaten in the last two decades? Here's my theory: It's because indie rock taught Millennials to take down the system. But while this works well for libertarianism— either indie rock's cultural kind, or the political kind that indie rock's White male Gen X founders proved to be— it works poorly for progressives.
+Why is progressivism, in both culture and politics, so badly beaten in the last two decades? Here's my theory: It's because indie rock taught Millennials to take down the system. But this only works well for libertarians— either indie rock's cultural kind, or the political kind that indie rock's White male Gen X founders proved to be— since they don't wish to replace the system with anything else.
 
-sold its cultural libertarianism to Millennials as a universal ideal, and they bought it— even the progressive ones! Thus, they tried to shoehorn its anti-establishment stance into their progressive beliefs. An anti-establishment progressive can only ever function as a "useful idiot" for libertarians.
+Second paragraph.
+But progressives need systems.
+
+So while progressives help libertarians tear down systems, libertarians don't help progressives build them up.
+
+And second, the newly built system has to be morally perfect, otherwise it gets torn down again. But the humans who run these systems are naturally flawed, so of course it isn't. It becomes an endless purity test.
+
+sold its cultural libertarianism to Millennials as a universal ideal, and they bought it— even the progressive ones! Thus, they tried to shoehorn its anti-establishment stance into their progressive beliefs. An anti-establishment progressive can only ever function as a "useful idiot" for libertarians. (Maybe too cruel.)
 
 Second paragraph:
 But while toppling systems works perfectly for libertarians, who want to replace them with nothing else, progressives need centralized coordination to enact their ambitious policies. So they try to replace bad systems with good ones— only for the good ones to prove just as flawed. It becomes an endless purity test that mere human beings, in all their [flawed nature](https://youtu.be/qaHLd8de6nM), can never pass. (Obama link.)
