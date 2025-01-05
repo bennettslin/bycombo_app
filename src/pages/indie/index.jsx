@@ -307,9 +307,9 @@ While indie artists seek populist solidarity, rappers revel in [elitist snobbery
 
 After all, once competition happens *away* from public view— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is now a [playground for the privileged](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia)!
 
-Which explains why the disadvantaged tend to be *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top, than to the people in the middle.
+Which explains why the disadvantaged tend to be *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top, than to the rest in the middle.
 
-Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like being unskilled robs one of the [ability to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry it as "rockism"— implying that such snobbery is akin to racism.
+Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like how the unskilled lack any [means to recognize](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) greater skill in others. So when they see bands call for elitist gatekeeping as rappers do, they decry it as "rockism"— implying that such snobbery is akin to racism.
 
 Thankfully, as both an Xennial and a minority, I've *never* taken to indie rock's ideal of populist solidarity; I've *always* preferred hip hop's penchant for elitist snobbery— "rappism," maybe? Now with BYCombo, your band can dream of partnering with elites once more… just like rappers always have.
 
@@ -491,69 +491,17 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 ${'  ' || `
 // TODO: Keep working on.
-
-Definitely put after happiness, which talks about the soul. And before explanation, which mentions systems thinking.
-
-However, revisit after elitism section is revised, and progressives section is finalized.
-
-https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary
-
-First paragraph— compress these three into a single cohesive statement:
-
-Don't get me wrong, I'm grateful to the White men of Gen X for having made so much of the art I love. But indie rock, the culturally libertarian movement they founded, was always a poor fit for me. As a minority in the arts, I *need* a cultural "safety net"; I need the elites to intervene if they see my potential, even when the people don't.
-
-When the torch finally passed to Millennials, then, I expected them to defend the interdependence I craved, given our shared desire to see more female and minority artists. Instead… they *cheered* as indie rock took over?! So they chose the path of cultural *libertarianism*… to achieve the goals of cultural *progressivism*! No wonder the culture they gave us was so lacking…
-
-Yet the *least* privileged groups want to *join* the establishment! "Why *fight* the power, if we're being invited to *share* in it?" Similarly, the *least* privileged artists hope to *partner* with the elites. So the guiding principles that indie rock instilled in us… are flat-out *wrong*! Hopefully, my fellow progressives get this, and will now course correct in their politics.
-
-A cultural libertarian today is a leading candidate to become a political libertarian tomorrow. This is because, if your personal identity is so tied to this romantic notion of lashing out against centralized institutions, then why *wouldn't* you eventually lash out against the biggest one of them all— the government? And if you're young, educated, White, and/or male, then why *wouldn't* your personal fortunes change for the better, enough to suddenly make political libertarianism attractive?
-
-Criticizing the idea that solutions are simple:
-https://davekarpf.substack.com/p/what-the-future-looks-like-from-here
-https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison
-https://maxread.substack.com/p/the-tiktok-electorate
-
-So the lack of an interdependent counterculture meant interdependence was never seen by Millennials as a viable alternative. And cultural progressivism was never seen as a viable alternative to cultural libertarianism. The only way to be a political progressive is to be a cultural libertarian— to abhor morally compromised coalitions.
-
-In the same way that indie rock convinced Millennials that being indie is the only respectable way to be an artist, it also convinced them that being anti-establishment is the only respectable way to be a progressive. Despite all the evidence that women and minority artists actually prefer to be interdependent with the cultural elites, and women and minority voters actually prefer to work with the political establishment.
-
-Here's my belief: Since I was helpless to start a counterculture of interdependence on my own, for the past two decades, "interdependent" couldn't stand against "indie" as its own identity. So there was romance associated with destroying coalitions, while none associated with building them.
-
-Indie rock prepared Millennials for indieocracy— rule by those who hustle to get the job.
-
-To be indie is, by definition, to find coalitions distasteful. Joining coalitions require working with people who think differently from you.
-
-We need a competing interdependence counterculture that's equally romantic.
-
-Let's face it, the disadvantaged fundamentally depend on noblesse oblige, which *only* the elites can provide. But while the indie tastemakers are positioned to behave like elites, they shirk any duty to do so, and instead, obey the will of the people— who then favor the privileged!
-
-The problem with progressivism is the same problem with the arts: For the past two decades, there's been an absence of a culturally progressive identity to counter indie rock's culturally libertarian identity. This is a problem because the cultural libertarian believes there are only two classes, the elites and the people. Only the cultural progressive understands there's a third class, the disadvantaged, who *want* the elites to *protect* them from the people. As a result, people who otherwise would have been elites refuse to behave like elites. They refuse the privileges of the elites, which means they also shirk the duties of the elites.
-
-In the arts, however, we face an additional problem: Past artists could rail against the system while still benefiting from it, as they had no other choice. But today's self-empowered artists *can't* pretend this is still the case. The only way to benefit from the system now is to openly declare the intent to work with it. But there's only romance in fighting the system, not in working with it.
-
-Building and reforming systems to make them more robust is hard, while tearing them down and starting over is easy.
 `}
 
-Why is progressivism, in both culture and politics, so badly beaten in the last two decades? Here's my theory: It's because indie rock taught Millennials to take down the system. But this only works well for libertarians— either indie rock's cultural kind, or the political kind that indie rock's White male Gen X founders proved to be— since they don't wish to replace the system with anything else.
+Why is both cultural and political progressivism so badly beaten in the last two decades? It's because indie rock taught us to take down any system headed by elites, which really only works for libertarians— both indie rock's cultural kind, and the political kind that indie rock's [Gen X founders](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary) proved to be. After all, they don't want to replace the system with anything else.
 
-Second paragraph.
-But progressives need systems.
+Progressives need centralized coordination to enact their ambitious policies, however. And so the anti-elitists among them join with libertarians to tear down systems, only for those libertarians to leave them on their own to build them up. As a result, there are far more of us tearing down systems than building them up.
 
-So while progressives help libertarians tear down systems, libertarians don't help progressives build them up.
+Furthermore, the new system must now be morally perfect to even survive. But— surprise!— its builders always prove [no less flawed](https://youtu.be/qaHLd8de6nM) than those who built the previous one. And so it gets torn down as well, to be replaced by another that's just as flawed… cycling through an endless test of moral purity. In hindsight, then, anti-elitist progressives are nothing more than "useful idiots" for libertarians.
 
-And second, the newly built system has to be morally perfect, otherwise it gets torn down again. But the humans who run these systems are naturally flawed, so of course it isn't. It becomes an endless purity test.
+So how do progressives learn to reform systems, rather than tear them down? I believe the answer is to appreciate systems in all their complexity. Once we do, we'll stop blaming shadowy forces for our problems, because we'll finally know to examine them well enough to find constructive solutions instead.
 
-sold its cultural libertarianism to Millennials as a universal ideal, and they bought it— even the progressive ones! Thus, they tried to shoehorn its anti-establishment stance into their progressive beliefs. An anti-establishment progressive can only ever function as a "useful idiot" for libertarians. (Maybe too cruel.)
-
-Second paragraph:
-But while toppling systems works perfectly for libertarians, who want to replace them with nothing else, progressives need centralized coordination to enact their ambitious policies. So they try to replace bad systems with good ones— only for the good ones to prove just as flawed. It becomes an endless purity test that mere human beings, in all their [flawed nature](https://youtu.be/qaHLd8de6nM), can never pass. (Obama link.)
-
-The solution, then, in both politics and culture, is for progressives to accept that their mission isn't to topple systems, but to reform them. But how to convince the new Romantics, when there's only romance in toppling systems, not reforming them? The answer, I believe, is to help Gen Z recognize there's just as much excitement to be had in ushering in the new Enlightenment.
-
-So how do we win over the new Romantics? I believe the answer is to appreciate systems in all their complexity and fragility. Once we do, we'll stop blaming shadowy forces for our problems, because we'll finally know to examine them well enough to find constructive solutions instead. Only then will we proudly self-identify as interdependent, setting an example for others to do the same.
-
-Reiterate cultural progressivism in fifth paragraph.
-If I could get everyone in the arts to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It helped lead to so many of the ideas that went into structuring how BYCombo will work, my solution for fixing the arts. And hopefully, it can lead you to some of your own ideas as well.
+If I could get every progressive in the arts to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It helped lead to so many of the ideas that went into structuring how BYCombo will work, my solution for fixing the arts. And hopefully, it can lead you to some of your own ideas as well.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
@@ -581,13 +529,11 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 ${'  ' || `
 // TODO: Keep working on.
-
-Mention surrounding context.
 `}
 
-Once indie rock's ideals take root *somewhere*, they'll take over *everywhere*. After all, why *wouldn't* a label prefer to sign the artist who already does their job for them? Why *wouldn't* a critic prefer to discuss the artist whose persona provides so much surrounding context? And why *wouldn't* a fan prefer to support the artist who directly engages with them in a parasocial relationship?
+Once indie rock's ideals take root *somewhere*, they'll take over *everywhere*. After all, why *wouldn't* a label sign the artist who already does their job for them? Why *wouldn't* a critic discuss the artist whose well-crafted persona provides so much surrounding context? And why *wouldn't* a fan support the artist who directly engages with them in a parasocial relationship?
 
-By contrast, an interdependent band simply can't compete on those terms. In doubling down to make art rather than hustle, all they can offer is the potential for their art to be better— but this promise is so abstract, it lacks any convincing weight. After all, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle once again for guidance.
+By contrast, an interdependent band can't compete on any of those terms. In doubling down to make art rather than hustle, all they can offer is the potential for their art to be better— but this promise is so abstract, it lacks any convincing weight. After all, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle once again for guidance.
 
 While an indie artist can only get 100% results from 100% efforts, an interdependent band…
 
