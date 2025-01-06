@@ -491,15 +491,17 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 ${'  ' || `
 // TODO: Keep working on.
+
+https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.
 `}
 
-Why is both cultural and political progressivism so badly beaten in the last two decades? It's because indie rock taught us to take down any system headed by elites, which really only works for libertarians— both indie rock's cultural kind, and the political kind that indie rock's [Gen X founders](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary) proved to be. After all, they don't want to replace the system with anything else.
+Why is both cultural and political progressivism so badly beaten in the last two decades? It's because indie rock taught us to take down any system headed by elites, which really only works for libertarians— both the cultural kind, and the political kind that indie rock's [Gen X founders](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary) have proven to be. After all, they don't need to replace the system with anything else.
 
-Progressives need centralized coordination to enact their ambitious policies, however. And so the anti-elitists among them join with libertarians to tear down systems, only for those libertarians to leave them on their own to build them up. As a result, there are far more of us tearing down systems than building them up.
+But progressives need centralized coordination to enact their ambitious policies. And so the anti-elitists among them join with libertarians to tear down the old system… only for those libertarians to abandon them as they attempt to build a better one. As a result, at any given time, there are far more of us tearing systems down than trying to build them up.
 
-Furthermore, the new system must now be morally perfect to even survive. But— surprise!— its builders always prove [no less flawed](https://youtu.be/qaHLd8de6nM) than those who built the previous one. And so it gets torn down as well, to be replaced by another that's just as flawed… cycling through an endless test of moral purity. In hindsight, then, anti-elitist progressives are nothing more than "useful idiots" for libertarians.
+Furthermore, any new system must now be morally perfect to even survive. But— surprise!— its builders will prove to be no less flawed as those who built the previous one. And so it gets torn down, to be replaced by another… as we cycle through an endless test of [moral purity](https://youtu.be/qaHLd8de6nM). In hindsight, then, anti-elitist progressives are just "useful idiots" who serve to benefit libertarians.
 
-So how do progressives learn to reform systems, rather than tear them down? I believe the answer is to appreciate systems in all their complexity. Once we do, we'll stop blaming shadowy forces for our problems, because we'll finally know to examine them well enough to find constructive solutions instead.
+So how do progressives learn to reform systems, rather than tear them down? I believe the answer is to appreciate systems in all their complexity. Once we do, we'll stop blaming shadowy forces for our problems, because we'll finally know to examine them well enough to find constructive solutions instead. (Stop looking for simple solutions to complex problems.)
 
 If I could get every progressive in the arts to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It helped lead to so many of the ideas that went into structuring how BYCombo will work, my solution for fixing the arts. And hopefully, it can lead you to some of your own ideas as well.
 
