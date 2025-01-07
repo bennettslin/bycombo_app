@@ -55,7 +55,7 @@
 * Distro
     * Make everything (demo version)
 
-### ${++sectionCounter}. Lean operations fail to adapt
+### ${++sectionCounter}. Automation fails to adapt
 
 // TODO: New section. Lean operations.
 
