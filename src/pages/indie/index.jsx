@@ -335,7 +335,7 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-I'll leave it to others to reform progressivism in politics. But as an Xennial who's long understood the sideways horseshoe, I'm well positioned to start a culturally progressive opposition.
+I suspect progressivism is gradually returning to the sideways horseshoe of the 19th century— but others are more qualified to lead this charge. As an Xennial who's long understood the sideways horseshoe, I'm well positioned to start a culturally progressive opposition.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
