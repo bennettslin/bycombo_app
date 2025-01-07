@@ -332,7 +332,7 @@ Of course, it isn't just in politics, but also in culture, where this confusion 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*— and thus sees wisdom in joining as well.
 
 ${'  ' || `
-// TODO: Keep working on.
+// TODO: Keep working on. Make point of returning to days of the underground.
 `}
 
 I suspect progressivism is gradually returning to the sideways horseshoe of the 19th century— but others are more qualified to lead this charge. As an Xennial who's long understood the sideways horseshoe, I'm well positioned to start a culturally progressive opposition.
