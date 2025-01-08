@@ -68,7 +68,7 @@ Second paragraph:
 Point out that these things no longer signify what they once did. Yet indie rock carries on as if the world hadn't changed. Why?
 
 Third paragraph:
-Every indie tastemaker is overworked and underpaid; they do what they do as a labor of love. Like moth, it evolved to minimize mental overhead.
+Every indie tastemaker is overworked and underpaid; they do what they do as a labor of love. Like moth, it evolved to minimize mental overhead. Path of least resistance.
 
 Fourth paragraph:
 

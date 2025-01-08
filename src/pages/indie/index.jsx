@@ -465,7 +465,7 @@ Unlike what the indie camp believes, then, music history *won't* care how the In
 
 Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this isn't yet the case with rock bands— which means there's still *another* frontier left to explore! So if you're a Millennial, don't fret: You still have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
 
-In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young folks are reaching key milestones *later* in life, because society in *general* is now more complex; thus more time is needed to fulfill your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock told them to hustle… and hustling makes you burn out *sooner*.
+In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young folks are reaching key milestones *later* in life, because society in *general* is now more complex; thus more time is needed to fulfill your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling makes you burn out *sooner*.
 
 By contrast, a deep love of the craft can motivate you for a lifetime. After all, to take on greater challenges, you must build your talents further— and to build your talents further, you must take on greater challenges… onward and upward, in a virtuous circle. So if you're burned out by the hustle, BYCombo can get you back on track— by helping you stay in love with your craft.
 
@@ -487,15 +487,15 @@ ${'  ' || `
 https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.
 `}
 
-Why is both cultural and political progressivism so badly beaten in the last two decades? It's because indie rock taught us to take down any system headed by elites, which really only works for libertarians— both the cultural kind, and the political kind that indie rock's [Gen X founders](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary) have proven to be. After all, they don't need to replace the system with anything else.
+Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down "the system" and its elites, which only works out for libertarians— both the cultural kind, and the political kind that indie rock's [Gen X founders](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary) have since become. After all, decentralization is their end goal; they're not looking to replace the system with anything else.
 
-But progressives need centralized coordination to enact their ambitious policies. And so the anti-elitists among them join with libertarians to tear down the old system… only for those libertarians to abandon them as they attempt to build a better one. As a result, at any given time, there are far more of us tearing systems down than trying to build them up.
+To enact a progressive agenda, however, we *need* centralized coordination. So anti-elitist progressives join forces with libertarians to tear down the old system… only for those libertarians to then turn around and oppose them as they try to build a new one.
 
-Furthermore, any new system must now be morally perfect to even survive. But— surprise!— its builders will prove to be no less flawed as those who built the previous one. And so it gets torn down, to be replaced by another… as we cycle through an endless test of [moral purity](https://youtu.be/qaHLd8de6nM). In hindsight, then, anti-elitist progressives are just "useful idiots" who serve to benefit libertarians.
+Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those who came before. So they get taken down as well, to be replaced by others… in a never-ending test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can ever pass. In the end, then, an anti-elitist progressive is just a "useful idiot" who serves to benefit libertarianism!
 
-So how do progressives learn to reform systems, rather than tear them down? I believe the answer is to appreciate systems in all their complexity. Once we do, we'll stop blaming shadowy forces for our problems, because we'll finally know to examine them well enough to find constructive solutions instead. (Stop looking for simple solutions to complex problems.)
+How do we teach the next generation of progressives to be reformists? The answer, I think, is for us to appreciate systems in all their complexity. Once we do, we'll stop blaming shadowy forces for our problems, because we'll finally know to examine them well enough to find constructive solutions instead. (Stop looking for simple solutions to complex problems.)
 
-If I could get every progressive in the arts to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It helped lead to so many of the ideas that went into structuring how BYCombo will work, my solution for fixing the arts. And hopefully, it can lead you to some of your own ideas as well.
+If I could get every progressive in the arts to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It's led to so many of the ideas that eventually went into structuring how BYCombo will work, my solution for fixing the arts. And hopefully, it can lead you to some of your own ideas as well.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
