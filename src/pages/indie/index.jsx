@@ -320,10 +320,10 @@ Of course, it isn't just in politics, but also in culture, where this confusion 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*— and thus sees wisdom in joining as well.
 
 ${'  ' || `
-// TODO: Keep working on. Make point of returning to days of the underground.
+// TODO: Revise. Is underground consistent with establishment?
 `}
 
-So will Democrats become the party of the sideways horseshoe, much like Republicans were in the 19th century? That's not for me to say. However, I'm fully qualified to make *this* prediction: The alliance between elitist snobs and rock's underclass will be revived.
+So will Democrats become the party of the sideways horseshoe, much like Republicans were in the 19th century? I don't know enough to say. However, I'm *fully* qualified to predict a revival of the sideways horseshoe… in *rock*. So if you miss those days of the underground, BYCombo is here to unite rock's underclass with a new generation of elitist snobs!
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
