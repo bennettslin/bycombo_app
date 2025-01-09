@@ -323,7 +323,7 @@ ${'  ' || `
 // TODO: Revise. Is underground consistent with establishment?
 `}
 
-So will Democrats become the party of the sideways horseshoe, much like Republicans were in the 19th century? I don't know enough to say. However, I'm *fully* qualified to predict a revival of the sideways horseshoe… in *rock*. So if you miss those days of the underground, BYCombo is here to unite rock's underclass with a new generation of elitist snobs!
+So will Democrats become the party of the sideways horseshoe, much like Republicans were in the 19th century? I don't know enough to say. However, I'm *fully* qualified to predict a revival of the sideways horseshoe… in *rock*. So if you belong to rock's underclass, BYCombo can unite you with a new generation of elites!
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
