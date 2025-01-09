@@ -487,11 +487,11 @@ ${'  ' || `
 https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.
 `}
 
-Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down "the system" and its elites, which only works out for libertarians— both the cultural kind, and the political kind that indie rock's [Gen X founders](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary) have since become. After all, decentralization is their end goal; they're not looking to replace the system with anything else.
+Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down "the system"… which only works out well for libertarians— both the cultural kind, and the political kind that indie rock's [Gen X founders](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary) have since become. After all, decentralization is their end goal; they're not looking to replace the system with anything else.
 
-To enact a progressive agenda, however, we *need* centralized coordination. So anti-elitist progressives join forces with libertarians to tear down the old system… only for those libertarians to then turn around and oppose them as they try to build a new one.
+A progressive agenda, on the other hand, *needs* to be enacted through centralized coordination. Yet after the anti-establishment progressives join forces with libertarians to tear down the old system… those same libertarians will then turn around and oppose them as they try to build a new one.
 
-Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those who came before. So they get taken down as well, to be replaced by others… in a never-ending test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can ever pass. In the end, then, an anti-elitist progressive is just a "useful idiot" who serves to benefit libertarianism!
+Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those who came before. So they'll get taken down as well, to be replaced by others… in a never-ending test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can ever pass. In the end, then, an anti-establishment progressive is just a "useful idiot" who serves to benefit libertarianism!
 
 How do we teach the next generation of progressives to be reformists? The answer, I think, is for us to appreciate systems in all their complexity. Once we do, we'll stop blaming shadowy forces for our problems, because we'll finally know to examine them well enough to find constructive solutions instead. (Stop looking for simple solutions to complex problems.)
 
