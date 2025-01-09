@@ -527,7 +527,7 @@ ${'  ' || `
 
 Once indie rock's ideals take root *somewhere*, they'll take over *everywhere*. After all, why *wouldn't* a label sign the artist who already does their job for them? Why *wouldn't* a critic discuss the artist whose well-crafted persona provides so much surrounding context? And why *wouldn't* a fan support the artist who directly engages with them in a parasocial relationship?
 
-By contrast, an interdependent band can't compete on any of those terms. In doubling down to make art rather than hustle, all they can offer is the potential for their art to be better— but this promise is so abstract, it lacks any convincing weight. After all, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle once again for guidance.
+By contrast, an interdependent band can't compete on any of those terms. In doubling down to make art rather than hustle, all they can offer is the potential for their art to be better— but this promise is so abstract, it lacks any convincing weight. After all, how *much* better are we talking about? Luckily, we can once again turn to the Pareto principle for guidance.
 
 While an indie artist can only get 100% results from 100% efforts, an interdependent band…
 
