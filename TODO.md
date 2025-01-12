@@ -132,7 +132,7 @@ Major labels are the social welfare of music.
 
 After democratization? (Mention of indieocracy.) But before elitism? (Mention of legacy institutions.) Between hustlers and paid dues? (Theme of not caring about the future, followed by theme of widening vicious circle.) Or between modest standing and creativity? (Naturally leads to talk of Pareto distribution.)
 
-Explicitly mention cultural libertarianism and cultural progressivism.
+Explicitly mention cultural libertarianism and cultural progressivism. Call it cultural welfare.
 
 Research: Who's more conservative, Boomers or Gen X?
 
