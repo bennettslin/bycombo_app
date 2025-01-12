@@ -134,26 +134,31 @@ After democratization? (Mention of indieocracy.) But before elitism? (Mention of
 
 Explicitly mention cultural libertarianism and cultural progressivism. Call it cultural welfare.
 
-Research: Who's more conservative, Boomers or Gen X?
+First paragraph:
+Talk about Pareto principle.
 
-Imagine if Boomers, who benefited from an expanded welfare state, decided they wouldn't pay it forward after all, and instead they'd tear it all down… and Gen X cheered.
+Second paragraph:
+Define welfare as paying it forward. Apply to political welfare.
+
+Third paragraph:
+Apply to cultural welfare.
+
+Fourth paragraph:
+Explain why people hate paying it forward. Nobody who gains from strong centralized systems loves them, while those who have to pay in hate them.
+
+Fifth paragraph:
+BYCombo.
 
 Yet Gen X artists, who benefited from legacy institutions of major labels, decided they wouldn't pay it forward after all, and instead they'd tear it all down… well, Millennials cheered.
 
 Why people hate paying it forward. Bring up [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp) here. Major labels, like governments, bet on the outsized earnings of a few to subsidize the rest. But everyone resents this. The successful assume they could've succeeded without help. The less successful resent not being given more help.
 https://usafacts.org/articles/who-pays-the-most-income-tax
 
-Nobody who gains from strong centralized systems loves them, while those who have to pay in hate them.
-
 This is a different point, I think: Explain indieocracy? History is a top down affair. Be clear that decentralization and bottom up isn't about distribution, but decision-making. Use scraps from homogeneity, as well as salvation sections.
 
 Faith in institutions.
 
 Indiefication begins with those who benefited from legacy institutions. They go indie, and then lend a veneer of credibility to the indie culture, understating how much the indie culture can actually nurture talent. Such that, when people hear that a work is "indie," they automatically assume it's better. I saw this happen with indie rock. A generation later, it's happening with writers on Substack.
-
-Mention "enshittification"?
-
-You should expect the best art to come out of "pay it forward" programs. Indiefication
 
 ### Our 5x promise
 

@@ -497,7 +497,7 @@ Furthermore, any new system must now be morally perfect to survive. But— surpr
 
 How, then, do we progressives learn to be reformists, not romantics— to fix the system, rather than tear it down? I believe the answer is to appreciate systems in all their complexity. Once we do, we can [stop blaming](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) shadowy forces for our problems, because we'll finally know enough to analyze the situation and find constructive solutions instead.
 
-If I could get every progressive in the arts to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It's led me to so many of the ideas that eventually went into shaping BYCombo's mission. And hopefully, it can lead you to some ideas of your own!
+If I could get every progressive in the arts to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It helped me form so many of the ideas that went into shaping BYCombo's mission. And hopefully, it can lead you to some ideas of your own!
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
@@ -521,15 +521,16 @@ If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
 
+
 ### ${++sectionCounter}. Victory is assured
 
 ${'  ' || `
 // TODO: Keep working on.
 `}
 
-Once indie rock's ideals take root *somewhere*, they'll take over *everywhere*. After all, why *wouldn't* a label sign the artist who already does their job for them? Why *wouldn't* a critic discuss the artist whose well-crafted persona provides so much surrounding context? And why *wouldn't* a fan support the artist who directly engages with them in a parasocial relationship?
+Once indie rock's ideals take root *any*-where, they'll take over *every*-where. After all, why *wouldn't* a label favor the artist who already does their job for them? Why *wouldn't* a critic favor the artist whose well-crafted persona provides so much surrounding context? And why *wouldn't* a fan favor the artist who directly engages with them in a parasocial relationship?
 
-By contrast, an interdependent band can't compete on any of those terms. In doubling down to make art rather than hustle, all they can offer is the potential for their art to be better— but this promise is so abstract, it lacks any convincing weight. After all, how *much* better are we talking about? Luckily, we can once again turn to the Pareto principle for guidance.
+By contrast, an interdependent band can't compete on any of those terms. In doubling down to make art rather than hustle, all they can offer is the potential for their art to be better— but this promise is so abstract, it lacks any convincing weight. After all, how *much* better are we talking about? Luckily, we can turn to the Pareto principle for guidance.
 
 While an indie artist can only get 100% results from 100% efforts, an interdependent band…
 
