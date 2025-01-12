@@ -489,7 +489,7 @@ https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=Th
 
 Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down the "system" and its elites, which only works out for libertarians— both indie rock's cultural kind, and the political kind that its [Gen X founders](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary) have since become. After all, decentralization is their end goal; they're not looking to replace the system with anything else.
 
-By contrast, progressives *need* centralized systems to promote the welfare they desire. And yet, every time the anti-elitists among them join forces with libertarians to tear down the old system… those same libertarians then turn around and oppose them when they try to build a new one.
+But progressives *need* centralized institutions to promote the welfare they long for. And yet, every time the anti-elitists among them join forces with libertarians to tear down the old system… those same libertarians then turn around and oppose them when they try to build a new one.
 
 Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. Which means they'll get taken down as well, to be replaced by others— in a never-ending test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one ever passes. So an anti-elitist progressive… is just a "useful idiot" who serves to benefit libertarianism!
 
