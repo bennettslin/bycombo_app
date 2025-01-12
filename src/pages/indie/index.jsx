@@ -307,7 +307,11 @@ But once competition takes place *away* from the public eye— as populism deman
 
 Which explains why the disadvantaged tend to be *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top, than to all others in the middle.
 
-Thankfully, as both an Xennial and a minority, I've *never* taken to indie rock's ideal of populist solidarity; I've *always* preferred hip hop's penchant for elitist snobbery— "rappism," maybe? Now with BYCombo, your band can dream of partnering with the elites once more… just like rappers always have.
+${'  ' || `
+// TODO: Review.
+`}
+
+Thankfully, as both an Xennial and a minority, I've *never* taken to indie rock's ideal of populist solidarity; I've *always* preferred hip hop's penchant for elitist snobbery— "rappism," maybe? Now with BYCombo, your band can dream of partnering with elites once more… just like rappers always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
@@ -323,7 +327,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So will Democrats become the party of the sideways horseshoe, much like Republicans were in the 19th century? I don't know enough to say. However, I'm *fully* qualified to predict a revival of the sideways horseshoe in *rock*— as BYCombo lets your band join forces with a new generation of elites!
+Will Democrats become a party of the sideways horseshoe, then, much like Republicans were in the 19th century? I don't know enough to say. However, I'm *fully* qualified to predict a return of the sideways horseshoe in *rock*— as BYCombo lets you partner with a new generation of elites!
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
@@ -487,13 +491,13 @@ ${'  ' || `
 https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.
 `}
 
-Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down "the system"… which only works out well for libertarians— both the cultural kind, and the political kind that indie rock's [Gen X founders](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary) have since become. After all, decentralization is their end goal; they're not looking to replace the system with anything else.
+Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down "the system" and its elites, which only works out for libertarians— both the cultural kind, and the political kind that indie rock's [Gen X founders](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary) have since become. After all, decentralization is their end goal; they're not looking to replace the system with anything else.
 
-A progressive agenda, on the other hand, *needs* to be enacted through centralized coordination. Yet after the anti-establishment progressives join forces with libertarians to tear down the old system… those same libertarians will then turn around and oppose them as they try to build a new one.
+By contrast, progressives *require* centralized coordination to enact their agenda. And yet, every time the anti-elitists among them join forces with libertarians to tear down the old system… those same libertarians will then turn around and oppose them once they try to build a new one.
 
-Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those who came before. So they'll get taken down as well, to be replaced by others… in a never-ending test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can ever pass. In the end, then, an anti-establishment progressive is just a "useful idiot" who serves to benefit libertarianism!
+Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than their predecessors. Which means they'll get taken down as well, to be replaced by others— in a never-ending test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one ever passes. So an anti-elitist progressive… is just a "useful idiot" who serves to benefit libertarianism!
 
-How do we teach the next generation of progressives to be reformists? The answer, I think, is for us to appreciate systems in all their complexity. Once we do, we'll stop blaming shadowy forces for our problems, because we'll finally know to examine them well enough to find constructive solutions instead. (Stop looking for simple solutions to complex problems.)
+How, then, do we teach the next generation of progressives to be reformists instead? The answer, I think, is for us to appreciate systems in all their complexity. Once we do, we'll stop blaming shadowy forces for our problems, because we'll finally know to examine them well enough to find constructive solutions instead. (Stop looking for simple solutions to complex problems.)
 
 If I could get every progressive in the arts to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It's led to so many of the ideas that eventually went into structuring how BYCombo will work, my solution for fixing the arts. And hopefully, it can lead you to some of your own ideas as well.
 
