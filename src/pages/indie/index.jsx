@@ -319,10 +319,6 @@ Of course, it isn't just in politics, but also in culture, where this confusion 
 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*— and thus sees wisdom in joining as well.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Will Democrats become a party of the sideways horseshoe, then, much like Republicans were in the 19th century? I don't know enough to say. However, I'm *fully* qualified to predict a return of the sideways horseshoe in *rock*— as BYCombo helps you partner with a new generation of elites!
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
@@ -397,7 +393,11 @@ Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https:/
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups… who generate the *most* creative ideas! And when in doubt, we imitate others… yet they *share* our biases! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
 
-Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as Romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
 So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help to usher it in.
 
@@ -437,7 +437,11 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 
 ### ${++sectionCounter}. Music recording is its own medium
 
-In a world now awash in content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every Romantic's go-to solution?!
+${'  ' || `
+// TODO: Review.
+`}
+
+In a world now awash in content, the new romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every romantic's go-to solution?!
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
@@ -482,9 +486,7 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 ### ${++sectionCounter}. Salvation comes from thinking in systems
 
 ${'  ' || `
-// TODO: Keep working on.
-
-https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.
+// TODO: Review a few more times.
 `}
 
 Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down the "system" and its elites, which only works out for libertarians— both indie rock's cultural kind, and the political kind that its [Gen X founders](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary) have since become. After all, decentralization is their end goal; they're not looking to replace the system with anything else.
@@ -493,9 +495,9 @@ But progressives *need* centralized institutions to promote the welfare they lon
 
 Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. Which means they'll get taken down as well, to be replaced by others— in a never-ending test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one ever passes. So an anti-elitist progressive… is just a "useful idiot" who serves to benefit libertarianism!
 
-How, then, do we teach the next generation of progressives to be reformists instead? I think the answer is for us to appreciate systems in all their complexity. Once we do, we'll stop blaming shadowy forces for our problems, because we'll finally know to examine them well enough to find constructive solutions instead. (Stop looking for simple solutions to complex problems.)
+How, then, do we progressives learn to be reformists, not romantics— to fix the system, rather than tear it down? I believe the answer is to appreciate systems in all their complexity. Once we do, we can [stop blaming](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) shadowy forces for our problems, because we'll finally know enough to analyze the situation and find constructive solutions instead.
 
-If I could get every progressive in the arts to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It's led to so many of the ideas that eventually went into structuring how BYCombo will work, my solution for fixing the arts. And hopefully, it can lead you to some of your own ideas as well.
+If I could get every progressive in the arts to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It's led me to so many of the ideas that eventually went into shaping BYCombo's mission. And hopefully, it can lead you to some ideas of your own!
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
