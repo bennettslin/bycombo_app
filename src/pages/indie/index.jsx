@@ -307,11 +307,7 @@ But once competition takes place *away* from the public eye— as populism deman
 
 Which explains why the disadvantaged tend to be *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top, than to all others in the middle.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Thankfully, as both an Xennial and a minority, I've *never* taken to indie rock's ideal of populist solidarity; I've *always* preferred hip hop's penchant for elitist snobbery— "rappism," maybe? Now with BYCombo, your band can dream of partnering with elites once more… just like rappers always have.
+Thankfully, as both an Xennial and a minority, I've *never* taken to indie rock's ideal of populist solidarity; I've *always* preferred hip hop's penchant for elitist snobbery— "rappism," maybe? Now with BYCombo, your band can dream of partnering with the elites once more… just like rappers always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
@@ -327,7 +323,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Will Democrats become a party of the sideways horseshoe, then, much like Republicans were in the 19th century? I don't know enough to say. However, I'm *fully* qualified to predict a return of the sideways horseshoe in *rock*— as BYCombo lets you partner with a new generation of elites!
+Will Democrats become a party of the sideways horseshoe, then, much like Republicans were in the 19th century? I don't know enough to say. However, I'm *fully* qualified to predict a return of the sideways horseshoe in *rock*— as BYCombo helps you partner with a new generation of elites!
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
