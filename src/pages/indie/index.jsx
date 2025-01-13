@@ -493,7 +493,7 @@ Furthermore, any new system must now be morally perfect to survive. But— surpr
 
 How, then, do we progressives learn to be reformists, not romantics? To *fix* the system, rather than to destroy it? I believe the answer is to appreciate systems in all their complexity. Once we do, we can [stop blaming](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) shadowy forces for our problems, because we'll finally know enough to analyze the situation and find constructive solutions instead.
 
-If I could get every progressive in the arts to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It helped me form so many of the ideas that went into shaping BYCombo's mission. And hopefully, it can lead you to some ideas of your own!
+If I could get every progressive in the arts to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It's what helped me to form so many of the ideas that went into shaping BYCombo's mission. And hopefully, it can lead you to some ideas of your own!
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
