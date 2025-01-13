@@ -211,6 +211,10 @@ Sadly, young folks never question today's "auto-Bizarro" world, since it's all t
 
 Want even *more* absurdity? Any rich artist can simply pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— to the benefit of the privileged. How did this happen?
 
+${'  ' || `
+// TODO: Revise. Link to Maker Faire?
+`}
+
 Simply put, indie rock is widely seen as a "do it yourself" movement— the kind that fosters *cooperative* self-reliance by sharing a love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
 But being indie means gaining the *public's* attention, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
@@ -318,6 +322,10 @@ Now, our forebears didn't need to coin such a term; they intuitively grasped why
 Of course, it isn't just in politics, but also in culture, where this confusion has made Millennials so ineffectual. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the majority. Yet the indie camp— their generation's good guys— won't hear of it. It's like they think I'm voting against my own interests!
 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*— and thus sees wisdom in joining as well.
+
+${'  ' || `
+// TODO: Revise. Make it about a direct path between underground and establishment. Bring up Nirvana.
+`}
 
 Will Democrats become a party of the sideways horseshoe, then, much like Republicans were in the 19th century? I don't know enough to say. However, I'm *fully* qualified to predict a return of the sideways horseshoe in *rock*— as BYCombo helps you partner with a new generation of elites!
 
@@ -495,7 +503,7 @@ But progressives *need* centralized institutions to promote the welfare they lon
 
 Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. Which means they'll get taken down as well, to be replaced by others— in a never-ending test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one ever passes. So an anti-elitist progressive… is just a "useful idiot" who serves to benefit libertarianism!
 
-How, then, do we progressives learn to be reformists, not romantics— to fix the system, rather than tear it down? I believe the answer is to appreciate systems in all their complexity. Once we do, we can [stop blaming](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) shadowy forces for our problems, because we'll finally know enough to analyze the situation and find constructive solutions instead.
+How, then, do we progressives learn to be reformists, not romantics? To *fix* the system, rather than to destroy it? I believe the answer is to appreciate systems in all their complexity. Once we do, we can [stop blaming](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) shadowy forces for our problems, because we'll finally know enough to analyze the situation and find constructive solutions instead.
 
 If I could get every progressive in the arts to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It helped me form so many of the ideas that went into shaping BYCombo's mission. And hopefully, it can lead you to some ideas of your own!
 
