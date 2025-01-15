@@ -323,7 +323,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Will Democrats become a party of the sideways horseshoe, then, much like Republicans were in the 19th century? I don't know enough to say. However, I'm *fully* qualified to predict a return of the sideways horseshoe in *rock*… as BYCombo lets those of you in the underground join the establishment once again— even if, like Kurt Cobain, you'd never admit to this dream.
+Will Democrats become a party of the sideways horseshoe, then, much like Republicans were in the 19th century? I don't know enough to say. However, I'm *fully* qualified to predict a return of the sideways horseshoe in *rock*, now that BYCombo lets those of you in the underground join the establishment once again— even if, like Kurt Cobain, you'd never admit to this dream.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
@@ -363,7 +363,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— and so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
+No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… and then we embraced Eminem.
 
 Yet when I came along— trying much harder, to be much better— no indie tastemaker respected or sympathized with my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was to be null and void.
 
