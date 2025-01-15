@@ -360,12 +360,12 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 ### ${++sectionCounter}. Penultimate tolerance has its pitfalls
 
 ${'  ' || `
-// TODO: Review next two paragraphs.
+// TODO: Review.
 `}
 
-No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— and so they kept their end of the bargain. Similarly, my fellow Xennials didn't want a White rapper, yet we embraced Eminem.
+No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— and so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
 
-But when I came along— trying much harder, to be much better— no indie tastemaker respected or sympathized with my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was to be null and void.
+Yet when I came along— trying much harder, to be much better— no indie tastemaker respected or sympathized with my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was to be null and void.
 
 Thus I had *no* lifeline— and then, as it turns out, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we *must* throw a lifeline to those we don't root for.
 
