@@ -505,7 +505,11 @@ So if I could get every progressive, in both culture and politics, to read just 
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
-To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted system of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
+${'  ' || `
+// TODO: Review.
+`}
+
+To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally understood to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
@@ -525,14 +529,13 @@ If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
 
-
 ### ${++sectionCounter}. Victory is assured
 
 ${'  ' || `
 // TODO: Keep working on.
 `}
 
-Once indie rock's ideals take root *any*-where, they'll take over *every*-where. After all, why *wouldn't* a label favor the artist who already does their job for them? Why *wouldn't* a critic favor the artist whose well-crafted persona provides so much surrounding context? And why *wouldn't* a fan favor the artist who directly engages with them in a parasocial relationship?
+Once indie rock's ideals take root *any*-where, they'll take over *every*-where. After all, why *wouldn't* a label prefer the artist who already does their job for them? Why *wouldn't* a critic favor the artist whose well-crafted persona provides so much surrounding context? And why *wouldn't* a fan choose the artist who directly engages with them in a parasocial relationship?
 
 By contrast, an interdependent band can't compete on any of those terms. In doubling down to make art rather than hustle, all they can offer is the potential for their art to be better— but this promise is so abstract, it lacks any convincing weight. After all, how *much* better are we talking about? Luckily, we can turn to the Pareto principle for guidance.
 
