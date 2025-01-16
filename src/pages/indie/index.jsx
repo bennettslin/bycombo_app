@@ -95,7 +95,11 @@ We all respect those '80s [underground bands](https://www.hachettebookgroup.com/
 
 In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000&smoothing=1) underground bands "indie," to affirm that they'd only *ever* signed to an indie label, if to any at all. Yet, unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is indie… even one with mainstream tastes!
 
-But given that *most* people belong to the mainstream, artists who share such tastes easily gain the most fans. So naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a populist movement, thus allowing its camp— who now *favored* popular appeal— to still see themselves as champions of an underdog class.
+${'  ' || `
+// TODO: Review link.
+`}
+
+But given that *most* people belong to the mainstream, artists who share such tastes easily gain the most fans. So naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a [populist movement](https://web.archive.org/web/2020/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.), thus allowing its camp— who now *favored* popular appeal— to still see themselves as champions of an underdog class.
 
 So what happens now, if *your* respect for the underground always had to do with the *aesthetics* of subverting mainstream tastes, rather than the *logistics* of forgoing the major labels? Why, you can rest assured: BYCombo is here to bring back elitism— the historical line of defense for subversive art!
 
@@ -495,9 +499,9 @@ But progressives *need* centralized institutions to promote the welfare they lon
 
 Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. Which means they'll get taken down as well, to be replaced by others— in a never-ending test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one ever passes. So an anti-elitist progressive… is just a "useful idiot" who serves to benefit libertarianism!
 
-How, then, do we progressives stop "larping" as revolutionaries, and [learn to be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their complexity. Once we do, we'll stop blaming shadowy forces for our problems, because we'll finally have the skills to analyze our situation and find constructive solutions instead.
+How, then, do we progressives stop "larping" as revolutionaries, and learn to be [effectual reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their complexity. Once we do, we'll stop blaming shadowy forces for our problems— because we'll finally have the skills to analyze our situation and find constructive solutions instead.
 
-So if I could get every progressive in the arts to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It's what helped me to form so many of the ideas that went into shaping BYCombo's mission. And hopefully, it can lead you to some ideas of your own!
+So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
