@@ -155,7 +155,11 @@ To get radio airplay in the '90s, alternative bands had to win over listeners wh
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point. They just don't value music as a *craft* to begin with!
 
-After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's persona than to a [well-crafted hook](https://youtu.be/HWMsWO0vPa8).
+${'  ' || `
+// TODO: Review.
+`}
+
+After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a [well-crafted hook](https://youtu.be/HWMsWO0vPa8).
 
 Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artists— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master the craft.
 
@@ -367,7 +371,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… and then we embraced Eminem.
+No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
 
 Yet when I came along— trying much harder, to be much better— no indie tastemaker respected or sympathized with my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was to be null and void.
 
@@ -437,6 +441,10 @@ Combining glam's gender-bending look with metal's aggression, glam metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
+${'  ' || `
+// TODO: Revise? Not clear what defeating "it" refers to?
+`}
+
 Here's my theory: Millennials faced scarcity of content just long enough to hate it. Then, before they could learn resilience, they were given structured ways to defeat it— which [won their loyalty](https://xkcd.com/1601). And so they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
 
 Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a stand is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
@@ -505,10 +513,6 @@ So if I could get every progressive, in both culture and politics, to read just 
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally understood to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
@@ -535,7 +539,9 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-Once indie rock's ideals take root *any*-where, they'll take over *every*-where. After all, why *wouldn't* a label prefer the artist who already does their job for them? Why *wouldn't* a critic favor the artist whose well-crafted persona provides so much surrounding context? And why *wouldn't* a fan choose the artist who directly engages with them in a parasocial relationship?
+Who's enticed by indiefication?
+
+Once indie rock's ideals take root *any*-where, they'll take over *every*-where. After all, why *wouldn't* a label prefer the artist who already does their job for them? Why *wouldn't* a critic favor the artist whose well-crafted identity provides so much surrounding context? And why *wouldn't* a fan choose the artist who directly engages with them in a parasocial relationship?
 
 By contrast, an interdependent band can't compete on any of those terms. In doubling down to make art rather than hustle, all they can offer is the potential for their art to be better— but this promise is so abstract, it lacks any convincing weight. After all, how *much* better are we talking about? Luckily, we can turn to the Pareto principle for guidance.
 

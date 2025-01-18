@@ -22,7 +22,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Remember, the [indie tastemakers](/indie#hustlers-lack-a-theory-of-future-minds) and their allies— the "[poptimists](/indie#underdogs-are-supremacists-in-effect)" and [tech platforms](/indie#fair-practices-follow-the-numbers)— each have their reasons to keep indiefication in place. To save the arts, then, we need *others* to step up. Can one of these saviors be you? Please contact any of our bands directly if you have an opportunity or offer for them to consider!
+Remember, the [indie tastemakers](/indie#hustlers-lack-a-theory-of-future-minds) and their allies— the "[poptimists](/indie#underdogs-are-supremacists-in-effect)" and [tech platforms](/indie#fair-practices-follow-the-numbers)— each have their reasons to keep indiefication in place. To save the arts, then, we need *others* to step up. Can one of these saviors… be you? Please contact any of our bands directly if you have an opportunity or offer for them to consider!
                 `,
                 (
                     <DemoLink {...bobtailYearlings} />
