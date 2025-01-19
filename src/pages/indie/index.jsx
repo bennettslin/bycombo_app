@@ -493,7 +493,7 @@ ${'  ' || `
 
 How, then, do we progressives stop "larping" as revolutionaries, and learn to be [effectual reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their complexity. Once we do, we'll stop blaming shadowy forces for our problems— because we'll finally have the skills to analyze our situation and find constructive solutions instead.
 
-So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
+So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It's what led me to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
