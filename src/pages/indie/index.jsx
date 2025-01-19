@@ -521,19 +521,19 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 ${'  ' || `
 // TODO: Keep working on.
+
+Check for efforts plural?
 `}
 
-Who's enticed by indiefication?
+Once indie rock's ideals take root, they end up taking over. After all, why *wouldn't* a label prefer the artist who can already do their job for them? Or a critic, the artist whose well-crafted identity provides so much surrounding context to write about? Or a fan, the artist who directly engages with them in a parasocial relationship?
 
-Once indie rock's ideals take root *any*-where, they'll take over *every*-where. After all, why *wouldn't* a label prefer the artist who already does their job for them? Why *wouldn't* a critic favor the artist whose well-crafted identity provides so much surrounding context? And why *wouldn't* a fan choose the artist who directly engages with them in a parasocial relationship?
+An interdependent band, by doubling down to make art rather than hustle, can't compete on any of those terms. All they can offer is the potential for their art to be better— a promise so abstract that it lacks any convincing weight. After all, how *much* better are we talking about? Luckily, we can turn to the Pareto principle once again for guidance.
 
-By contrast, an interdependent band can't compete on any of those terms. In doubling down to make art rather than hustle, all they can offer is the potential for their art to be better— but this promise is so abstract, it lacks any convincing weight. After all, how *much* better are we talking about? Luckily, we can turn to the Pareto principle for guidance.
+80% of the results come from 20% of your effort— but since indie artists do it all themselves, they must devote a further 80% in effort to get the final 20% in results. Interdependent bands rely on partners to cover their weaknesses, however, letting them play to their strengths. As a result, they get 80% results for 20% effort, over and over… or, *500%* results for *100%* effort!
 
-While an indie artist can only get 100% results from 100% efforts, an interdependent band…
+Let's call this the "5x law of interdependence": In general, you can expect an interdependent band to be five times better than their indie counterpart. This isn't as provocative as it sounds: After all, the greatest interdependent band of all time, the Beatles, are certainly five times better— at *least*— than the greatest offered by indie rock!
 
-The 5x law, then, states that you can expect interdependent bands to be five times better than indie artists. At first glance, this seems quite provocative— but it's actually a pretty safe bet! After all, the *very* best interdependent band is the Beatles— and it's almost *certainly* the case that they're at least five times better than whoever the very best *indie* artist might be.
-
-So why *wouldn't* we give amnesty to the band who promises to be five times better? Which means the final stage of "indiefication" is to ultimately be defeated by the very ones it hoped to displace. Or to paraphrase an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence." Victory is assured!
+In which case… why *wouldn't* budding entrepreneurs, discerning curators, and future historians prefer the band who promises to be five times better? Victory for our revolution is assured! Or to paraphrase an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
 `,
         }}
     />
