@@ -271,10 +271,6 @@ Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12
 
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except this time it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But… now the indie camp's lack of noblesse oblige made perfect sense! If paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already put in the hustle will want to keep indie rock as it is— in all its brokenness.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
@@ -309,7 +305,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like [being unskilled](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) keeps you from recognizing greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry it as "rockism"— implying that such snobbery is akin to racism.
+Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like [being unskilled](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) keeps you from noticing greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry it as "rockism"— implying that such snobbery is akin to racism.
 
 But once competition takes place *away* from the public eye— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is [now a playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
@@ -331,7 +327,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Will Democrats become a party of the sideways horseshoe, then, much like Republicans were in the 19th century? I don't know enough to say. However, I'm *fully* qualified to predict a return of the sideways horseshoe in *rock*, now that BYCombo lets those of you in the underground join the establishment once again— even if, like Kurt Cobain, you'd never admit to this dream.
+Will Democrats become a party of the sideways horseshoe, then, much like those early Republicans? I don't know enough to say. But I'm *fully* qualified to predict a return of the sideways horseshoe… in *rock*! Because BYCombo lets those of you in the underground join the establishment once again— even if, like Kurt Cobain, you'd never admit to this dream.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
