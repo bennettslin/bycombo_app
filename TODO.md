@@ -156,12 +156,6 @@ Faith in institutions.
 
 Indiefication begins with those who benefited from legacy institutions. They go indie, and then lend a veneer of credibility to the indie culture, understating how much the indie culture can actually nurture talent. Such that, when people hear that a work is "indie," they automatically assume it's better. I saw this happen with indie rock. A generation later, it's happening with writers on Substack.
 
-### Our 5x promise
-
-${'  ' || `
-// TODO: New section. Partners page.
-`}
-
 # Sections with no connection in between?
 * Serendipity to modest standing
 * Modest standing to creativity
