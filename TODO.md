@@ -1,11 +1,7 @@
 # TODO
 
 # Tomorrow
-* Health stuff
-    * Allergy forms
-    * Look into insurance
 * Reviews
-* Go through summaries of sections on this page
 
 # YB
 * Change to 5x law of interdependence

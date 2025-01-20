@@ -305,7 +305,11 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 
 But once competition takes place *away* from the public eye— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is [now a playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
-Which explains why the disadvantaged tend to be *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top, than to all others in the middle.
+${'  ' || `
+// TODO: Review.
+`}
+
+Which explains why the disadvantaged tend to be *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top, than to everyone else in the middle.
 
 Thankfully, as both an Xennial and a minority, I've *never* taken to indie rock's ideal of populist solidarity; I've *always* preferred hip hop's penchant for elitist snobbery— "rappism," maybe? Now with BYCombo, your band can dream of partnering with the elites once more… just like rappers always have.
 
@@ -429,7 +433,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Here's my theory: Millennials faced scarcity of content only long enough to hate it. They were then given structured ways to relieve their boredom— for which they now remain [forever grateful](https://xkcd.com/1601). And thus they never saw what we Xennials could easily see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
+Here's my theory: Millennials faced scarcity of content only long enough to hate it. They were then given structured ways to relieve their boredom— for which they remain [forever grateful](https://xkcd.com/1601). And so they never saw what we Xennials could see: The only rules left that still take courage to break… are *structural* ones, like indie rock's— that they *themselves* enforce!
 
 Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a stand is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
@@ -485,15 +489,15 @@ Why is progressivism so badly beaten in both culture and politics today? It's be
 
 But progressives *need* centralized institutions to promote the welfare they long for. And yet, every time the anti-elitists among them join forces with libertarians to tear down the old system… those same libertarians then turn around and oppose them when they try to build a new one.
 
-Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. Which means they'll get taken down as well, to be replaced by others— in a never-ending test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one ever passes. So an anti-elitist progressive… is just a "useful idiot" who serves to benefit libertarianism!
-
 ${'  ' || `
-// TODO: Review next two paragraphs a few more times.
+// TODO: Review next three paragraphs a few more times.
 `}
 
-How, then, do we progressives stop "larping" as revolutionaries, and learn to be [effectual reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their complexity. Once we do, we'll stop blaming shadowy forces for our problems— because we'll finally have the skills to analyze our situation and find constructive solutions instead.
+Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get taken down as well, to be replaced by others— in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass. This is why I suspect that many anti-elitist progressives… are just libertarians who've yet to embrace their privilege!
 
-So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows. It's what led me to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
+How, then, do we progressives stop "larping" as revolutionaries, and find the courage to be [effectual reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead? I believe the answer is for us to appreciate systems in all their interconnected complexity. Once we do, we'll stop blaming shadowy forces for our problems— because we'll finally have the skills to examine our situation and seek out constructive solutions.
+
+So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 

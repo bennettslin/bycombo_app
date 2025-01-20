@@ -20,10 +20,6 @@ Furthermore, the only measure they trust is the size of your fanbase. But the su
 
 ### Who we're looking for
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Are you eager to make history by advancing the art form? Are you ready to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project?
 
 Most importantly, are you willing to defy indie rock's tastemakers— its labels, pundits, and critics— even as they have the power to shut you out forever? That is to say, do you understand that, even after sacrificing a serious chunk of lifetime, you might *still* be denied amnesty— leaving you with nothing but the work you've done, the talents you've built, and the friends you've made?
