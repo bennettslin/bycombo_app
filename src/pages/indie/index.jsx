@@ -411,7 +411,7 @@ If so, this explains why those in tech now dominate the arts: While investors *r
 
 ### ${++sectionCounter}. Strivers don't know they're not dreamers
 
-Whenever I used to grumble about getting rejected by the indie tastemakers, a friend would ask, "So why don't you *seriously* hustle?" Fair point! Why *didn't* I? I suspect it's because, for Xennials like myself, being an artist was a vision to *dream* about. Once indie rock took over, however, it became a goal to *strive* for. And as a dreamer… I didn't know I wasn't a striver.
+Whenever I used to grumble about getting rejected by the indie tastemakers, friends would ask, "So why don't you *seriously* hustle?" Fair point! Why *didn't* I? I suspect it's because, for Xennials like myself, being an artist was a vision to *dream* about. Once indie rock took over, however, it became a goal to *strive* for. And as a dreamer… I didn't know I wasn't a striver.
 
 See, us dreamers, we're not grounded in reality— which makes us awful at fulfilling visions on our own. Naturally, then, the indie camp assumed we'd gain the most from their online tools. But… I wasn't prepared for what would follow; I didn't realize a new generation of strivers was about to raise the bar for hustling. So, like a child, I thought I'd get points just for trying.
 
@@ -426,12 +426,12 @@ Combining glam's gender-bending look with metal's aggression, glam metal was the
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review next two paragraphs.
 `}
 
-Here's my theory: Millennials faced scarcity of content only long enough to hate it. They were then given structured ways to relieve their boredom— for which they [remain grateful](https://xkcd.com/1601). And so they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
+Here's my theory: Millennials faced scarcity of content only long enough to hate it. They were then given structured ways to be delivered steady content, which won their [lifelong gratitude](https://xkcd.com/1601). And so they never saw what this Xennial could see: The only rules left that take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
 
-Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a stand is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
+Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](https://web.archive.org/web/20221215/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
@@ -486,12 +486,12 @@ Why is progressivism so badly beaten in both culture and politics today? It's be
 But progressives *need* centralized institutions to promote the welfare they long for. And yet, every time the anti-elitists among them join forces with libertarians to tear down the old system… those same libertarians then turn around and oppose them when they try to build a new one.
 
 ${'  ' || `
-// TODO: Review next three paragraphs a few more times.
+// TODO: Review next three paragraphs.
 `}
 
 Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get taken down as well, to be replaced by others— in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass. This is why I suspect that many anti-elitist progressives… are just libertarians who've yet to embrace their privilege!
 
-How, then, do we progressives stop "larping" as revolutionaries, and find the  [courage to be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead? I believe the answer is for us to appreciate systems in all their complexity. Once we do, we can stop blaming shadowy forces for our problems, because we'll finally have the skills to analyze our situation and work out constructive solutions.
+How, then, do we progressives stop "larping" as revolutionaries, and find the  [courage to be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their complexity. Once we do, we can stop blaming shadowy forces for our problems, because we'll finally have the skills to examine our situation, and then work out constructive solutions instead.
 
 So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
