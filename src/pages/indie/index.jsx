@@ -429,7 +429,7 @@ ${'  ' || `
 // TODO: Review next two paragraphs.
 `}
 
-Here's my theory: Millennials faced scarcity of content only long enough to hate it. They were then given structured ways to be delivered steady content, which won their [lifelong gratitude](https://xkcd.com/1601). And so they never saw what this Xennial could see: The only rules left that take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
+Here's my theory: Millennials faced scarcity of content just long enough to hate it. They were then given structured ways to have content delivered in steady streams, which won their [lifelong gratitude](https://xkcd.com/1601). And so they never saw what this Xennial could see: The only rules left that take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
 
 Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
@@ -491,9 +491,9 @@ ${'  ' || `
 
 Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get taken down as well, to be replaced by others— in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass. This is why I suspect that many anti-elitist progressives… are just libertarians who've yet to embrace their privilege!
 
-How, then, do we progressives stop "larping" as revolutionaries, and find the  [courage to be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their complexity. Once we do, we can stop blaming shadowy forces for our problems, because we'll finally have the skills to examine our situation, and then work out constructive solutions instead.
+How, then, do we progressives stop "larping" as revolutionaries, and find the  courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their complexity. Once we do, we can stop blaming shadowy forces for our problems, because we'll finally have the skills to examine our situation, and seek out constructive solutions instead.
 
-So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
+So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, which shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
