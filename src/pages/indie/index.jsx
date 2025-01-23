@@ -35,7 +35,11 @@ Okay, that's a mouthful! Let's break it down…
 
 Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the people charitably support *every* artist they pick. Yet despite good intentions all around, the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist). Well, what if the arts are in decline… *because* of such good intentions?!
 
-The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
+${'  ' || `
+// TODO: Review.
+`}
+
+The best of these intentions, of course, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert effort away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
 Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But what if no generation *ever* again "forgives" their rule breakers, as was done in the past? What's needed, then, is an institution to *formalize* the practice of doing so— an amnesty program for the arts, if you will.
 
@@ -325,10 +329,6 @@ Will Democrats become a party of the sideways horseshoe, then, much like those e
 
 Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie tastemakers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates its own status hierarchy. Which means the one created by indie rock *isn't* the same as, let's say, that of the '90s alternative culture from which Radiohead emerged— even if they overlap. There are new winners, but also new losers— such as "hobbyists," who now sit at the bottom.
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
@@ -429,10 +429,6 @@ Combining glam's gender-bending look with metal's aggression, glam metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
-${'  ' || `
-// TODO: Review next two paragraphs.
-`}
-
 Here's my theory: Millennials faced scarcity of content just long enough to hate it. They were then given structured ways to receive content in a steady stream, which won their [lifelong gratitude](https://xkcd.com/1601). And so they never saw what this Xennial could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that they *themselves* enforce!
 
 Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
@@ -441,7 +437,7 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 
 ### ${++sectionCounter}. Music recording is its own medium
 
-In a world now awash in content, the new romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every romantic's go-to solution?!
+In a world now awash in content, the new Romantics long for a return to live shows. Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every romantic's go-to solution?!
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
@@ -488,16 +484,20 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down the "system" and its elites, which only works out for libertarians— both indie rock's cultural kind, and the political kind that its [Gen X founders](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary) have since become. After all, decentralization is their end goal; they're not looking to replace the system with anything else.
 
 ${'  ' || `
-// TODO: Review next four paragraphs.
+// TODO: Review next two paragraphs.
 `}
 
-But we progressives *need* centralized institutions to promote the welfare they long for. And yet, every time the anti-elitists among us join forces with libertarians to tear down the old system… those same libertarians then turn around and oppose them when they try to build a new one.
+But we progressives *need* centralized institutions to promote the welfare we long for. Yet every time the anti-elitists among us join with libertarians to tear down the old system… those same libertarians then turn around and oppose them when they try to build a new one.
 
-Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get taken down as well, to be replaced by others— in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass. This is why I suspect that many anti-elitist progressives are really *libertarians*… who've yet to embrace their privilege!
+Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get taken down as well, to be replaced by others— in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass. This is why I suspect that many anti-elitist progressives are actually *libertarians*… who've yet to embrace their privilege!
 
 How, then, do we progressives stop "larping" as revolutionaries, and find the  courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their complexity. Once we do, we can stop blaming shadowy forces for our problems, because we'll finally have the skills to examine our situation, and seek out constructive solutions instead.
 
-So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, which shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
+${'  ' || `
+// TODO: Review.
+`}
+
+So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
@@ -505,7 +505,11 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally understood to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
-So let's ditch old assumptions, and think in systems. First, "indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their efforts toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since anyone else can now redirect *10%* of their efforts… then *15%*… *20%*…
+${'  ' || `
+// TODO: Review.
+`}
+
+So let's ditch old assumptions, and think in systems. First, "indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since anyone else can now redirect *10%* of their effort… then *15%*… *20%*…
 
 With this being the case, shouldn't we expect indiefication to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
@@ -524,20 +528,18 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 ### ${++sectionCounter}. Victory is assured
 
 ${'  ' || `
-// TODO: Keep working on.
-
-Check for efforts plural?
+// TODO: Review a few more times.
 `}
 
-Once indie rock's ideals take root, they'll end up taking over. After all, what label *wouldn't* prefer the artist who already does their job for them? Or what critic, the artist whose well-crafted identity provides so much surrounding context to write about? Or what fan, the artist who directly engages with them in a parasocial relationship?
+Wherever indie rock's ideals take root, they'll end up taking over. After all, what label *wouldn't* prefer the artist who already does the middleman's job? Or what critic, the artist whose well-crafted identity provides surrounding context to discuss? Or what fan, the artist who directly engages with them in a parasocial relationship?
 
-By contrast, an interdependent band can't compete on any of those terms. By doubling down to make art rather than hustle, all they can offer is the potential for their art to be better— a promise so vague, it carries little weight. After all, how *much* better are we talking about? Luckily, we can turn to the Pareto principle once again for guidance.
+By contrast, an interdependent band can't compete on any of those terms. In doubling down to make art instead of hustling, all they can do is promise to be better… but this alone convinces no one. After all, how *much* better are we talking about? Luckily, we can turn to the Pareto principle once more— which states that 20% of the effort yields 80% of the results.
 
-80% of the results come from 20% of the effort, right? Since indie artists do it all themselves, however, they must then put a further 80% in effort to get that last 20% in results. But interdependent bands play to their strengths by letting partners cover their weaknesses; as a result, they get 80% results for 20% effort, again and again. And for *100%* effort… that's *500%* results!
+Since indie artists do it all themselves, they must then put in a further 80% effort to get that last 20% in results, right? So, 100% effort for 100% in results. But interdependent bands play to their strengths by having partners shore up their weaknesses. This lets them put in 20% effort to get 80% in results, over and over. For 100% effort, then… that's *500%* in results!
 
-Let's call this the "5x law of interdependence": An interdependent band can be expected to be five times better than their indie counterpart. This isn't as provocative as it sounds, by the way: After all, the greatest interdependent band of all time, the Beatles, are certainly five times better— at *least*— than the greatest offered by indie rock!
+Let's call this the "5x law of interdependence": Any interdependent artist can be expected to be *five* times better than their indie counterpart. Which… isn't as provocative as it sounds: After all, the greatest interdependent band of all time is the Beatles, who are certainly five times better— at *least*!— than the greatest that indie rock has ever offered.
 
-In which case… what budding entrepreneur, discerning curator, or future historian *wouldn't* prefer the band who promises to be five times better? Victory for our revolution is assured! Or to paraphrase an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
+So… what potential partner *wouldn't* prefer your band, if you can promise to be five times better? There's no way around it: BYCombo's victory is assured! Or— to borrow an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
 `,
         }}
     />
