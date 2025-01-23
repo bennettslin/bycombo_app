@@ -479,19 +479,11 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down the "system" and its elites, which only works out for libertarians— both indie rock's cultural kind, and the political kind that its Gen X founders have [since become](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, decentralization is their end goal; they're not looking to replace the system with anything else.
 
-${'  ' || `
-// TODO: Review next two paragraphs.
-`}
-
 But we progressives *need* centralized institutions to promote the welfare we desire. Yet every time the anti-elitists among us join forces with libertarians to tear down the old system… those same libertarians then turn around and oppose them when they try to build a new one.
 
 Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get taken down as well, to be replaced by others— in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass. This is why I suspect that many anti-elitist progressives are actually *libertarians*… who've yet to embrace their privilege!
 
 How, then, do we progressives stop "larping" as revolutionaries, and find the  courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their complexity. Once we do, we can stop blaming shadowy forces for our problems, because we'll finally have the skills to examine our situation, and seek out constructive solutions instead.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
@@ -500,10 +492,6 @@ So if I could get every progressive, in both culture and politics, to read just 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally understood to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So let's ditch old assumptions, and think in systems. First, "indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since anyone else can now redirect *10%* of their effort… then *15%*… *20%*…
 
@@ -527,15 +515,15 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Wherever indie rock's ideals take root, they'll end up taking over. After all, what label *wouldn't* prefer the artist who already does the middleman's job? Or what critic, the artist whose well-crafted identity provides surrounding context to discuss? Or what fan, the artist who directly engages with them in a parasocial relationship?
+Wherever indie rock's ideals take root, they end up taking over. After all, what label *wouldn't* choose the artist who can already do the middleman's job? Or what critic, the artist whose well-crafted identity provides so much surrounding context to discuss? Or what fan, the artist who directly engages with them in a parasocial relationship?
 
-By contrast, an interdependent band can't compete on any of those terms. In doubling down to make art instead of hustling, all they can do is promise to be better… but this alone convinces no one. After all, how *much* better are we talking about? Luckily, we can turn to the Pareto principle once more— which states that 20% of the effort yields 80% of the results.
+By contrast, interdependent bands can't compete on *any* of those terms! In doubling down to make art instead of hustling, they can only promise to be better… but this alone convinces no one. After all, how much better are we talking about? Fortunately, we can once again turn to the Pareto principle— which tells us that 20% of the effort yields 80% of the results.
 
-Since indie artists do it all themselves, they must then put in a further 80% effort to get that last 20% in results, right? So, 100% effort for 100% in results. But interdependent bands play to their strengths by having partners shore up their weaknesses. This lets them put in 20% effort to get 80% in results, over and over. For 100% effort, then… that's *500%* in results!
+Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% effort for 100% in results. But interdependent bands play to their strengths by having partners cover their weaknesses, which lets them put in 20% effort to get 80% in results— again and again. Well, for 100% effort… that's *500%* in results!
 
-Let's call this the "5x law of interdependence": Any interdependent artist can be expected to be *five* times better than their indie counterpart. Which… isn't as provocative as it sounds: After all, the greatest interdependent band of all time is the Beatles, who are certainly five times better— at *least*!— than the greatest that indie rock has ever offered.
+Let's call this the "5x law of interdependence": Any interdependent band can be expected to be *five* times better than their indie counterpart. This isn't as provocative as it sounds, mind you: After all, among interdependent bands, the greatest of all time is the Beatles, who are certainly five times better— at *least*!— than the greatest that indie rock can offer.
 
-So… what potential partner *wouldn't* prefer your band, if you can promise to be five times better? There's no way around it: BYCombo's victory is assured! Or— to borrow an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
+In which case, what potential partner *wouldn't* choose a BYCombo band like yours? If we can promise to be *five* times better, then in the long term, our victory is *assured*! Or to borrow an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
 `,
         }}
     />
