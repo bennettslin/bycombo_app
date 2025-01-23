@@ -14,9 +14,6 @@
 * Publish
 * Archive indie page
 
-# December work
-* Welfare, progressives, and systems sections!
-
 # Nice to do
 * Add em-dash util to Bobtail Method project
 * AWS CLI setup
