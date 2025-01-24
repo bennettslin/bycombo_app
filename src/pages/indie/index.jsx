@@ -519,11 +519,11 @@ Wherever indie rock's ideals take root, they end up taking over. After all, what
 
 By contrast, interdependent bands can't compete on *any* of those terms! In doubling down to make art instead of hustling, they can only promise to be better… but this alone convinces no one. After all, how much better are we talking about? Fortunately, we can once again turn to the Pareto principle— which tells us that 20% of the effort yields 80% of the results.
 
-Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% effort for 100% in results. But interdependent bands play to their strengths by having partners cover their weaknesses, which lets them put in 20% effort to get 80% in results— again and again. Well, for 100% effort… that's *500%* in results!
+Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% effort for 100% in results. But interdependent bands play to their strengths by having partners cover their weaknesses, which lets them put in 20% effort to get 80% in results— again and again. And for 100% effort… that's *500%* in results!
 
 Let's call this the "5x law of interdependence": Any interdependent band can be expected to be *five* times better than their indie counterpart. This isn't as provocative as it sounds, mind you: After all, among interdependent bands, the greatest of all time is the Beatles, who are certainly five times better— at *least*!— than the greatest that indie rock can offer.
 
-In which case, what potential partner *wouldn't* choose a BYCombo band like yours? If we can promise to be *five* times better, then in the long term, our victory is *assured*! Or to borrow an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
+But… what potential partner *wouldn't* choose a BYCombo band like yours, if you can promise to be *five* times better? Which means, in the long run, our victory is *assured*! Or to borrow an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
 `,
         }}
     />
