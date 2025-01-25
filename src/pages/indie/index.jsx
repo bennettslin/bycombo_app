@@ -493,7 +493,11 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally understood to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
-So let's ditch old assumptions, and think in systems. First, "indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since anyone else can now redirect *10%* of their effort… then *15%*… *20%*…
+${'  ' || `
+// TODO: Review.
+`}
+
+So let's ditch old assumptions, and think in systems: "Indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since anyone else can now redirect *10%* of their effort… then *15%*… *20%*…
 
 With this being the case, shouldn't we expect indiefication to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
@@ -512,18 +516,18 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 ### ${++sectionCounter}. Victory is assured
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review whole section.
 `}
 
-Wherever indie rock's ideals take root, they end up taking over. After all, what label *wouldn't* choose the artist who can already do the middleman's job? Or what critic, the artist whose well-crafted identity provides so much surrounding context to discuss? Or what fan, the artist who directly engages with them in a parasocial relationship?
+Wherever indie rock's ideals take root, they'll end up taking over. After all, what label *wouldn't* choose the artist who can already do the middleman's job? Or what critic, the artist whose well-crafted identity provides so much surrounding context? Or what fan, the artist who directly engages with them in a parasocial relationship?
 
 By contrast, interdependent bands can't compete on *any* of those terms! In doubling down to make art instead of hustling, they can only promise to be better… but this alone convinces no one. After all, how much better are we talking about? Fortunately, we can once again turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
-Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% effort for 100% in results. But interdependent bands play to their strengths by having partners cover their weaknesses, which lets them put in 20% effort to get 80% in results— again and again. Well, for 100% effort… that's *500%* in results!
+Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% effort for 100% in results. But interdependent bands play to their strengths by having partners shore up their weaknesses, which lets them put in 20% effort to get 80% in results, over and over. And for 100% effort… that's *500%* in results!
 
-Let's call this the "5x law of interdependence": Any interdependent band can be expected to be *five* times better than their indie counterpart. This isn't as provocative as it sounds, mind you: After all, among interdependent bands, the greatest of all time is the Beatles, who are certainly five times better— at *least*!— than the greatest that indie rock can offer.
+Let's call this the "5x law of interdependence," then: An interdependent band can be expected to be *five* times better than their indie counterpart. Which isn't as provocative as it sounds, mind you: Among interdependent bands, the greatest of all time is the Beatles— who are at *least* five times better than the greatest that indie rock can offer!
 
-But… what potential partner *wouldn't* choose a BYCombo band like yours, if you can promise to be *five* times better? Which tells us: In the long run, our victory is *assured*! Or to borrow an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
+And what potential partner *wouldn't* choose a BYCombo band like yours, if you can promise to be *five* times better? Which tells us: In the long run, our victory is *assured*! Or to borrow an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
 `,
         }}
     />
