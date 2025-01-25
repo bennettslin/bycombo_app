@@ -6,16 +6,12 @@
 # BY
 * PDF screwups
 
-# YB
-* Change to 5x law of interdependence
-
 # Remaining December work
 * Make apply page good enough to publish
 * Publish
 * Archive indie page
 
 # Nice to do
-* Add em-dash util to Bobtail Method project
 * AWS CLI setup
 * Contact Vanessa Ogle
 
