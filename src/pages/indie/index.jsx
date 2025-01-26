@@ -221,7 +221,6 @@ https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-light
 But lean operations also have single point of failure. Can't adapt to changes. But the world has evolved, causing moths to burn themselves in flames. Indie labels are just as misguided, in a world where tech platforms have made fan engagement the default behavior, the indies will always dismiss the unexpected. Happily, BYCombo helps
 `}
 
-First paragraph:
 List why it was once understandable that indie rock respected what it respects. Building a fanbase on one's own took initiative. Engaging directly with fans was something you could only do at a live show. Nonchalance of Pavement.
 
 Second paragraph:
@@ -592,11 +591,11 @@ Wherever indie rock's ideals take root, they'll end up taking over. After all, w
 
 By contrast, interdependent bands can't compete on *any* of those terms! In doubling down to make art instead of hustling, they can only promise to be better… but this alone convinces no one. After all, how much better are we talking about? Fortunately, we can once again turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
-Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% effort for 100% in results. But interdependent bands play to their strengths by having partners shore up their weaknesses, which lets them put in 20% effort to get 80% in results, over and over. And for 100% effort… that's *500%* in results!
+Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% effort for 100% in results. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. And for 100% effort… that's *500%* in results!
 
 Let's call this the "5x law of interdependence," then: An interdependent band can be expected to be *five* times better than their indie counterpart. Which isn't as provocative as it sounds, mind you: Among interdependent bands, the greatest of all time is the Beatles— who are at *least* five times better than the greatest that indie rock can offer!
 
-And what potential partner *wouldn't* choose a BYCombo band like yours, if you can promise to be *five* times better? Which tells us: In the long run, our victory is *assured*! Or to borrow an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
+But… what potential partner *wouldn't* choose a BYCombo band like yours, if you can promise to be *five* times better? Which tells us: In the long run, our victory is *assured*! Or to borrow an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
 `,
         }}
     />
