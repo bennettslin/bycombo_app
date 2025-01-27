@@ -579,7 +579,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Once indie rock's ideals take root, they end up taking over. After all, among so many artists to choose from, what label *wouldn't* prefer the one who can already do the middleman's job? Or what critic, the one whose well-crafted identity provides so much surrounding context? Or what fan, the one who directly engages with them in a parasocial relationship?
+Once indie rock's ideals take root, they'll end up taking over. After all, with countless artists to choose from, what label *wouldn't* prefer the one who can already do the middleman's job? Or what critic, the one whose well-crafted identity provides so much surrounding context? Or what fan, the one who directly engages with them in a parasocial relationship?
 
 ${'  ' || `
 // TODO: Review.
@@ -591,9 +591,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, added up… that's *400%* results!
+Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, added up… that yields *400%* results!
 
-Let's call this the "4x law of interdependence": An interdependent band can be expected to be *four* times better than their indie counterpart. Which isn't as provocative as it sounds, mind you: After all, the greatest interdependent band of all time is the Beatles— who are at *least* four times better than the greatest that indie rock has to offer!
+Let's call this the "4x law of interdependence": An interdependent band can be expected to be *four* times better than their indie counterpart. Which isn't as provocative as it sounds, mind you: After all, the greatest interdependent band of all time is the Beatles, who are *certainly* four times better than the greatest that indie rock has to offer— at *least*!
 
 ${'  ' || `
 // TODO: Review.
