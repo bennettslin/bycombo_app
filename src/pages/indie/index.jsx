@@ -585,9 +585,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In refusing to hustle, interdependent bands can't compete on *any* of those terms! All they can do is promise to be better, by doubling down to make art instead… but this alone convinces no one. Because, how much better are we talking about? Fortunately, we can once again turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
+By refusing to hustle, interdependent bands can't compete on *any* of those terms! All they can do is promise to make better art… but this alone fails to convince anyone. Because, how much better are we talking about? Luckily, we can once again turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
-Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% effort for 100% results. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, for 100% effort… that's *400%* results!
+${'  ' || `
+// TODO: Review.
+`}
+
+Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, added up… that's *400%* results!
 
 Let's call this the "4x law of interdependence": An interdependent band can be expected to be *four* times better than their indie counterpart. Which isn't as provocative as it sounds, mind you: After all, the greatest interdependent band of all time is the Beatles— who are at *least* four times better than the greatest that indie rock has to offer!
 
