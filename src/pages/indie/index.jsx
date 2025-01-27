@@ -11,7 +11,7 @@ const Component = ({ sectionCounter = 0 }) => (
             title: TITLE,
             metaTitle: TITLE,
             metaDescription: DESCRIPTION,
-            date: { year: 2024, month: 12, updated: true },
+            date: { year: 2025, month: 1, updated: true },
             body: `
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
