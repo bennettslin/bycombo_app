@@ -19,7 +19,11 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an X
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
-First, we raise *awareness*. Since "indie" means "good" to so many, few see the adverse effects of what I call "indiefication"— namely, our drive to propagate indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, favoring word of mouth, respecting direct fan engagement… and so forth.
+${'  ' || `
+// TODO: Review.
+`}
+
+First, we raise *awareness*. Since "indie" means "good" to so many, few see the adverse effects of what I call "indiefication"— namely, our drive to propagate indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, trusting word of mouth, rewarding direct fan engagement… and so forth.
 
 Indiefication, seen to its logical conclusion in the online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— rather than simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by meeting *our* ideals! The problem, then, is with these *ideals*— and if you keep reading, I'll set this record straight.
 
@@ -219,6 +223,8 @@ Before the Internet, underground bands were the *only* ones winning over one fan
 https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=Despite%20the%20rich%20history%20of,light%20to%20escape%20imminent%20danger.
 
 But lean operations also have single point of failure. Can't adapt to changes. But the world has evolved, causing moths to burn themselves in flames. Indie labels are just as misguided, in a world where tech platforms have made fan engagement the default behavior, the indies will always dismiss the unexpected. Happily, BYCombo helps
+
+Mention AI. Relying on the past, assuming that nothing will change in the future. Slack.
 `}
 
 List why it was once understandable that indie rock respected what it respects. Building a fanbase on one's own took initiative. Engaging directly with fans was something you could only do at a live show. Nonchalance of Pavement.
