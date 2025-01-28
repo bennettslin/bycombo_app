@@ -226,7 +226,7 @@ Mention AI. Relying on the past, assuming that nothing will change in the future
 List why it was once understandable that indie rock respected what it respects. Building a fanbase on one's own took initiative. Engaging directly with fans was something you could only do at a live show. Nonchalance of Pavement.
 
 Second paragraph:
-Point out that these things no longer signify what they once did. Yet indie rock carries on as if the world hadn't changed. Why?
+Influencers. Point out that these things no longer signify what they once did. Yet indie rock carries on as if the world hadn't changed. Why?
 
 Third paragraph:
 Every indie tastemaker is overworked and underpaid; they do what they do as a labor of love. Like moth, it evolved to minimize mental overhead. Path of least resistance.
@@ -585,7 +585,7 @@ Once indie rock's ideals take root, they'll end up taking over. After all, with 
 
 By refusing to hustle, interdependent bands can't compete on *any* of those terms! All they can do is promise to make better art… but this alone fails to convince anyone. Because, how *much* better are we talking about? Luckily, we can once again turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
-Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, added up… that leads to *400%* results!
+Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, added up… that amounts to *400%* results!
 
 Let's call this the "4x law of interdependence": An interdependent band can be expected to be *four* times better than their indie counterpart. Which isn't as provocative as it sounds, mind you: After all, the greatest interdependent band of all time is the Beatles, who are at *least* four times better than the greatest that indie rock has to offer!
 

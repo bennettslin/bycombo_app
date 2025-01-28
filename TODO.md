@@ -66,6 +66,11 @@ Guess who had no problem accepting that music was getting worse: Kurt Cobain him
 
 Millennials don't know they're Millennials. They don't know that their need to stifle discontent, and to get everyone onboard with the status quo, is a historical anomaly.
 
+### ${++sectionCounter}. Protectionism is weak against external threat
+
+* Before or after underdogs?
+    * Either way, repeat idea of cultural protectionism vs cultural free trade in underdogs section
+
 # Sections with no connection in between?
 * Serendipity to modest standing
 * Modest standing to creativity
