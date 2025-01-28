@@ -581,9 +581,9 @@ ${'  ' || `
 // TODO: Review whole section.
 `}
 
-Once indie rock's ideals take root, they'll end up taking over. After all, with countless artists to choose from, what label *wouldn't* prefer the one who can already do the middleman's job? Or what critic, the one whose well-crafted identity provides so much surrounding context? Or what fan, the one who directly engages with them in a parasocial relationship?
+Once indie rock's ideals take root, they'll end up taking over. After all, with countless artists to choose from, what label *wouldn't* prefer the one who can already do the middleman's job? Or what critic, the one whose well-chosen identity provides so much surrounding context? Or what fan, the one who directly engages with them in a parasocial relationship?
 
-By refusing to hustle, interdependent bands can't compete on *any* of those terms! All they can do is promise to make better art… but this alone fails to convince anyone. Because, how much better are we talking about? Luckily, we can once again turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
+By refusing to hustle, interdependent bands can't compete on *any* of those terms! All they can do is promise to make better art… but this alone fails to convince anyone. Because, how *much* better are we talking about? Luckily, we can once again turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, added up… that leads to *400%* results!
 
