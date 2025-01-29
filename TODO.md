@@ -12,6 +12,7 @@
 * Archive indie page
 
 # Nice to do
+* Header work
 * AWS CLI setup
 * Contact Vanessa Ogle
 
