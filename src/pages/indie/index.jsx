@@ -19,10 +19,6 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an X
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 First, we raise *awareness*. Since "indie" means "good" to so many, few see the adverse effects of what I call "indiefication"— namely, our drive to propagate indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement… and so forth.
 
 Indiefication, seen to its logical conclusion in the online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— rather than simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by meeting *our* ideals! The problem, then, is with these *ideals*— and if you keep reading, I'll set this record straight.
@@ -45,7 +41,11 @@ Unfortunately, good guys will insist that *their* rules mustn't be broken; their
 
 **Why the historical canon?**
 
-When fans support an artist, they want *content*— namely, art that engages with them directly, along with all the surrounding context. But while content has an advantage over *past* art, it loses once it's in the past *itself*. So to belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), today's artists must *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
+${'  ' || `
+// TODO: Review.
+`}
+
+When fans support an artist, they want *content*— namely, art that engages with them directly, along with all its surrounding context. But while content has an advantage over *past* art, it loses once it's in the past *itself*. So to belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), today's artists must *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
@@ -228,10 +228,9 @@ But lean operations also have single point of failure. Can't adapt to changes. B
 Mention AI. Relying on the past, assuming that nothing will change in the future. Slack.
 `}
 
-List why it was once understandable that indie rock respected what it respects. Building a fanbase on one's own took initiative. Engaging directly with fans was something you could only do at a live show. Nonchalance of Pavement.
+To counter the advantages that alternative bands signed to major labels had in spreading their works from the top down, the indie camp learned to respect the initiative it took to spread works from the bottom up: Building a fanbase by directly engaging with fans at live shows, and letting news spread through word of mouth.
 
-Second paragraph:
-Influencers. Point out that these things no longer signify what they once did. Yet indie rock carries on as if the world hadn't changed. Why?
+Today, the tech platforms have streamlined the process of getting ahead by directing engaging with fans. Those who succeed are now called "influencers," and no one these days deems them worthy of prestige. Yet the indie tastemakers carry on as if the world hasn't changed. They pick artists who can best be described as musical influencers, and then wonder why they make no impact. Why?
 
 Third paragraph:
 Every indie tastemaker is overworked and underpaid; they do what they do as a labor of love. Like moth, it evolved to minimize mental overhead. Path of least resistance.
