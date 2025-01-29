@@ -45,7 +45,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-When fans support an artist, they want *content*— namely, art that engages with them directly, along with all its surrounding context. But while content has an advantage over *past* art, it loses once it's in the past *itself*. So to belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), today's artists must *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
+When fans support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, artists today must now *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
@@ -189,7 +189,11 @@ Historically, artists lacked all means to get themselves known to the public, fr
 
 Meanwhile, the major labels in the past had the budget to cast a wide net for talent— which made sense business-wise, since this enabled them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Funny enough, though, it *also* allowed them to deliver the boldest art… by freeing them to pick unknown artists with unexpected ideas!
 
-By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet… for those perched high enough to see it.
+${'  ' || `
+// TODO: Review.
+`}
+
+By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet… for those seated high— or low— enough to see it.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
@@ -589,7 +593,7 @@ Once indie rock's ideals take root, they'll end up taking over. After all, with 
 
 Since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art… but this alone convinces no one. Because, how *much* better are we talking about? Luckily, we can once again turn to the Pareto principle, which states that 80% of the results come from 20% of the effort.
 
-Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, added up… that amounts to *400%* results!
+Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, added up… that's *400%* results!
 
 Let's call this the "4x law of interdependence": An interdependent band can be expected to be *four* times better than their indie counterpart. Which isn't as provocative as it sounds, mind you: After all, the greatest interdependent band of all time is certainly the Beatles— who are at *least* four times better than whatever indie rock has to offer!
 
