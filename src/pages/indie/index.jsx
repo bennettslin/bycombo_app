@@ -193,7 +193,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)— thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet… for those seated high— or low— enough to see it.
+By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
@@ -523,7 +523,11 @@ Here's my point: Suppose an indie label were willing to sign me *before* my band
 
 Luckily, having struggled for half my life to attract bandmates, I anticipated that the best artists would gradually prefer to be *assembled* into bands— and that this, in turn, could open up *another* frontier to explore! So relax, and put all your effort into simply *deserving* the most dedicated bandmates… safe in the knowledge that BYCombo will then help you find them.
 
-### ${++sectionCounter}. History tracks aesthetics, not logistics
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Advancement tracks aesthetics, not logistics
 
 When is it a "larp"? Here's a test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the *real* hero… the app?
 
@@ -585,17 +589,17 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 ### ${++sectionCounter}. Victory is assured
 
-${'  ' || `
-// TODO: Review whole section.
-`}
-
 Once indie rock's ideals take root, they'll end up taking over. After all, with countless artists to choose from, what label *wouldn't* prefer the one who can already do the middleman's job? Or what critic, the one whose well-chosen identity provides so much surrounding context? Or what fan, the one who directly engages with them in a parasocial relationship?
 
 Since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art… but this alone convinces no one. Because, how *much* better are we talking about? Luckily, we can once again turn to the Pareto principle, which states that 80% of the results come from 20% of the effort.
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, added up… that's *400%* results!
 
-Let's call this the "4x law of interdependence": An interdependent band can be expected to be *four* times better than their indie counterpart. Which isn't as provocative as it sounds, mind you: After all, the greatest interdependent band of all time is certainly the Beatles— who are at *least* four times better than whatever indie rock has to offer!
+${'  ' || `
+// TODO: Review.
+`}
+
+Let's call this the "4x law of interdependence": We can expect interdependent bands to be *four* times better than their indie counterparts. Which isn't as provocative as it sounds, mind you: After all, what interdependent band is the greatest of all *time*? It's certainly the Beatles— who are at *least* four times better than the greatest that indie rock has to offer!
 
 So now, what potential partner *wouldn't* prefer a BYCombo band such as yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
 `,

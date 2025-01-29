@@ -59,7 +59,7 @@ Maybe move the Andrew W.K. talk in mastery section to the anxiety of influence s
 
 https://emptyrailroadgulch.substack.com/p/internet-people
 
-"Generations" bookmarks
+Read articles bookmarked under "Generations" category?
 
 Things that don't age well.
 
