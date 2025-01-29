@@ -68,6 +68,8 @@ Millennials don't know they're Millennials. They don't know that their need to s
 
 ### ${++sectionCounter}. Protectionism is weak against external threat
 
+* Maybe not
+    * For now, I know too little about the subject of protectionism vs free trade in politics
 * Before or after underdogs?
     * Either way, repeat idea of cultural protectionism vs cultural free trade in underdogs section
 
