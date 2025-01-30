@@ -228,6 +228,7 @@ But lean operations also have single point of failure. Can't adapt to changes. B
 Mention AI. Relying on the past, assuming that nothing will change in the future. Slack.
 `}
 
+(Mention why the live show is paramount.)
 Why do we respect indie artists so much? It's because, in the past, it took initiative to build a fanbase on your own from the bottom up: Without radio as a recourse, directly engaging with fans at live shows, and letting news spread through word of mouth.
 
 Today, however, the Internet has made it trivial to build a following by directing engaging with your followers; "influencers" do it all the time. And yet, the indie camp carries on as if the world hasn't changed, as if being the equivalent of an artistic or musical influencer is still as worthy of respect as ever. Why are they incapable of getting with the times?
@@ -583,6 +584,20 @@ Yet self-empowerment comes with its own set of problems. For one, it's just [pow
 If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they leave themselves open to exploitation— and by siding with elitist gatekeepers, they incur the wrath of *middling* artists. But once the art form declines, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
+
+### ${++sectionCounter}. History is made from the top down
+
+${'  ' || `
+// TODO: Keep working on.
+`}
+
+Let's return to our original question: How has indie rock made music worse? The answer can be summarized by a few points I've now made: In the past, artists grew up with the confidence that, by the time they were ready, they could reason with a few elites at the top, who would then advocate on their behalf by spreading their works from the top down.
+
+But indie rock *denies* such recourse to today's artists, and they know it. So all they can do is put out work after work, hoping that one catches on through word of mouth— or, these days, the algorithms— and then spreads from the bottom up. But this builds up a different set of talents, leading to a different *kind* of work— a difference that all of us hear, even if we can't articulate it.
+
+Now, some might argue that today's art isn't necessarily *worse* for having been optimized to spread from the bottom up. Okay… but will it *last*? No, it won't— because history *itself* is top down. That is to say, we don't leave it to word of mouth for future audiences to discover Joni Mitchell; curators and historians advocate on her behalf by appealing to reason.
+
+Much like fish don't know they're wet, however, Millennials and Gen Z don't know their art is bottom up. So the next revolution can *only* be started by an Xennial like myself, whose entire approach to making art, from day one, was shaped around the faith that elites would spread it from the top down. So come join BYCombo, and belong to a new generation of top-down artists!
 
 ### ${++sectionCounter}. Victory is assured
 
