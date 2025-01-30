@@ -593,13 +593,13 @@ ${'  ' || `
 Improve last sentence in last paragraph.
 `}
 
-Let's return to our original question: How has indie rock made music worse? The answer can be summarized by a few points I've now made. In the past, artists grew up with the confidence that, by the time they were ready, they could reason with a few elites, who would then advocate on their behalf by spreading their works from the top down.
+Let's return to our original question: How has indie rock made music worse? We can now summarize all the points I've made into a concise answer. In the past, artists grew up with the confidence that, by the time they were ready, they could reason with a few elites, who would then advocate on their behalf by spreading their works from the top down.
 
-But today's artists are *denied* such recourse, and they know it. So all they can do is put out work after work, hoping that one catches on through word of mouth— or, these days, the algorithms— and then spreads from the bottom up. But this builds up a different set of talents, leading to a different *kind* of work— a difference that all of us can hear, even if we can't articulate it.
+Today's artists are *denied* such recourse, however, and they know it. So all they can do is put out work after work, hoping that one catches on through word of mouth— or, these days, the algorithms— and then spreads from the bottom up. But this builds up a different set of talents, leading to a different *kind* of work— a difference we all hear, even if we can't articulate it.
 
 Now, some might argue that today's art isn't necessarily *worse* for having been optimized to spread from the bottom up. Okay, but… will it *last*? No, it's not likely— because history *itself* is top down. That is to say, we don't leave it up to word of mouth for future audiences to discover Joni Mitchell; instead, historians advocate on her behalf by appealing to reason.
 
-Unfortunately, Millennials and Gen Z don't know their art is bottom up, just like fish don't know they're wet. This means the revolution *must* be started by an Xennial like myself, who can remember a time when elites would spread works from the top down— and never stopped longing for it. So come join BYCombo… and be part of a *new* generation of top-down artists!
+Unfortunately, much like fish don't know they're wet, Millennials and Gen Z don't know their art is bottom up. This means the revolution *must* be started by an Xennial like myself, who remembers a time when elites would spread works from the top down— and never stopped longing for it. So come join BYCombo… and be part of a *new* generation of top-down artists!
 
 ### ${++sectionCounter}. Victory is assured
 
