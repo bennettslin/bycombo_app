@@ -599,7 +599,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Let's call this the "4x law of interdependence": We can expect interdependent bands to be *four* times better than their indie counterparts. Which isn't as provocative as it sounds, mind you: After all, what interdependent band is the greatest of all *time*? It's certainly the Beatles— who are at *least* four times better than the greatest that indie rock has to offer!
+Let's call this the "4x law of interdependence": We can expect interdependent bands to be *four* times better than their indie counterparts. Which isn't as provocative as it sounds, mind you: After all, the greatest interdependent band of all *time* is certainly the Beatles— who are at *least* four times better than the greatest that indie rock has to offer!
 
 So now, what potential partner *wouldn't* prefer a BYCombo band such as yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
 `,
