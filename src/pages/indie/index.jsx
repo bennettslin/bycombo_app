@@ -212,12 +212,8 @@ ${'  ' || `
 
 Much earlier. Maybe between lottery and support? End by talking about support? Or between creativity and disintermediation?
 
-Mention supporting artists, to segue into charitable support section?
-
 Indie rock respects bottom up, rather than top down.
 Make the three things bypassing the gatekeepers, word of mouth, and direct fan engagement. Make clear that indie rock respects direct fan engagement because it once took place mainly at local shows, which indie rock has always held in high esteem, as it's bottom up. (I removed this point from the introductory paragraphs.) As opposed to radio, which is top down.
-
-Don't mention tech at all, that's covered later.
 
 Talk about redundancy of middlemen, and indie labels promise to get rid of them. Redundancy keeps system robust against any single point of failure.
 
@@ -232,12 +228,13 @@ But lean operations also have single point of failure. Can't adapt to changes. B
 Mention AI. Relying on the past, assuming that nothing will change in the future. Slack.
 `}
 
-To counter the advantages that alternative bands signed to major labels had in spreading their works from the top down, the indie camp learned to respect the initiative it took to spread works from the bottom up: Building a fanbase by directly engaging with fans at live shows, and letting news spread through word of mouth.
+Why do we respect indie artists so much? It's because, in the past, it took initiative to build a fanbase on your own from the bottom up: Without radio as a recourse, directly engaging with fans at live shows, and letting news spread through word of mouth.
 
-Today, the tech platforms have streamlined the process of getting ahead by directing engaging with fans. Those who succeed are now called "influencers," and no one these days deems them worthy of prestige. Yet the indie tastemakers carry on as if the world hasn't changed. They pick artists who can best be described as musical influencers, and then wonder why they make no impact. Why?
+Today, however, the Internet has made it trivial to build a following by directing engaging with your followers; "influencers" do it all the time. And yet, the indie camp carries on as if the world hasn't changed, as if being the equivalent of an artistic or musical influencer is still as worthy of respect as ever. Why are they incapable of getting with the times?
 
-Third paragraph:
-Every indie tastemaker is overworked and underpaid; they do what they do as a labor of love. Like moth, it evolved to minimize mental overhead. Path of least resistance.
+It's because indie rock promises fair compensation, and every fewer middleman passes the savings onto the artist. Moreover, every indie tastemaker is overworked and underpaid; they do what they do as a labor of love. And thus, they've streamlined their operations to minimize the mental effort required.
+
+Much like moths evolved to use moonlight to know which way is up, rather than evolving greater brainpower, and now lack the brainpower to adapt in the face of new technology. Luckily, BYCombo knows that the best art going forward is likely to come from the top down, chosen by a new generation of elites.
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
