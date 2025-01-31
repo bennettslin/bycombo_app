@@ -559,7 +559,7 @@ But we progressives *need* centralized institutions to promote the welfare we de
 
 Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get taken down as well, to be replaced by others— in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass. This is why I suspect that many anti-elitist progressives are really *libertarians*… who've yet to embrace their privilege!
 
-How, then, do we progressives stop "larping" as revolutionaries, and find the  courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their complexity. Once we do, we can stop blaming shadowy forces for our problems, because we'll finally have the skills to examine our situation, and seek out constructive solutions instead.
+How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their complexity. Once we do, we can stop blaming shadowy forces for our problems, because we'll finally have the skills to examine our situation, and seek out constructive solutions instead.
 
 So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
@@ -571,7 +571,11 @@ Well, music today requires a pretty convoluted explanation, doesn't it? After al
 
 So let's ditch old assumptions, and think in systems: "Indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since anyone else can now redirect *10%* of their effort… then *15%*… *20%*…
 
-With this being the case, shouldn't we expect indiefication to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
+${'  ' || `
+// TODO: Review.
+`}
+
+With this being the case, shouldn't we expect indiefication to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs evangelists. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
@@ -593,13 +597,13 @@ ${'  ' || `
 Improve last sentence in last paragraph.
 `}
 
-Let's return to our original question: How has indie rock made music worse? We can now summarize all the points I've made into a concise answer. In the past, artists grew up with the confidence that, by the time they were ready, they could reason with a few elites, who would then advocate on their behalf by spreading their works from the top down.
+Let's return to the original question: How has indie rock made music worse? We can now summarize all the points I've made into a concise answer: In the past, artists grew up with the confidence that, by the time they were ready, they could reason with a few elites, who would then advocate on their behalf by spreading their works from the top down.
 
-Today's artists are *denied* such recourse, however, and they know it. So all they can do is put out work after work, hoping that one catches on through word of mouth— or, these days, the algorithms— and then spreads from the bottom up. But this builds up a different set of talents, leading to a different *kind* of work— a difference we all hear, even if we can't articulate it.
+Today's artists are *denied* such recourse, however, and they know it. So all they can do is put out work after work, hoping that one catches on through word of mouth— or, these days, the algorithms— and then spreads from the bottom up. But this builds up a different set of talents, leading to a different *kind* of work— a difference that all of us hear, even if we can't articulate it.
 
-Now, some might argue that today's art isn't necessarily *worse* for having been optimized to spread from the bottom up. Okay, but… will it *last*? No, it's not likely— because history *itself* is top down. That is to say, we don't leave it up to word of mouth for future audiences to discover Joni Mitchell; instead, historians advocate on her behalf by appealing to reason.
+Now, some might argue that today's art isn't necessarily *worse* for having been optimized to catch on from the bottom up. Okay, but… will it *last*? Not likely— because history *itself* is top down. That is to say, we don't count on future audiences to rediscover Joni Mitchell through word of mouth; instead, historians advocate on her behalf by appealing to reason.
 
-Unfortunately, much like fish don't know they're wet, Millennials and Gen Z don't know their art is bottom up. This means the revolution *must* be started by an Xennial like myself, who remembers a time when elites would spread works from the top down— and never stopped longing for it. So come join BYCombo… and be part of a *new* generation of top-down artists!
+Unfortunately, much like fish don't know they're wet, Millennials and Gen Z don't know their art is bottom up. This means the renaissance can *only* be revived by Xennials like myself, who remember a time when elites helped to spread works from the top down— and never stopped longing for it. So come join BYCombo… and be part of a *new* generation of top-down artists!
 
 ### ${++sectionCounter}. Victory is assured
 
