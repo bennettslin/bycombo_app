@@ -45,7 +45,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-When fans support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, artists today must now *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
+When fans support an artist, they want *content*— namely, art that engages with them directly. But while present-day content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must now *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
@@ -193,7 +193,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo tells you to explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
+By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
@@ -521,10 +521,6 @@ Here's my point: Suppose an indie label were willing to sign me *before* my band
 
 Luckily, having struggled for half my life to attract bandmates, I anticipated that the best artists would gradually prefer to be *assembled* into bands— and that this, in turn, could open up *another* frontier to explore! So relax, and put all your effort into simply *deserving* the most dedicated bandmates… safe in the knowledge that BYCombo will then help you find them.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. Advancement tracks aesthetics, not logistics
 
 When is it a "larp"? Here's a test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the *real* hero… the app?
@@ -559,7 +555,11 @@ But we progressives *need* centralized institutions to promote the welfare we de
 
 Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get taken down as well, to be replaced by others— in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass. This is why I suspect that many anti-elitist progressives are really *libertarians*… who've yet to embrace their privilege!
 
-How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their complexity. Once we do, we can stop blaming shadowy forces for our problems, because we'll finally have the skills to examine our situation, and seek out constructive solutions instead.
+${'  ' || `
+// TODO: Review.
+`}
+
+How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their complexity. Once we do, we can stop blaming shadowy forces for our problems, because we'll finally have the skills to seek out constructive solutions instead.
 
 So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
@@ -570,10 +570,6 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally understood to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
 So let's ditch old assumptions, and think in systems: "Indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since anyone else can now redirect *10%* of their effort… then *15%*… *20%*…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 With this being the case, shouldn't we expect indiefication to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs evangelists. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
@@ -613,13 +609,17 @@ Once indie rock's ideals take root, they'll end up taking over. After all, with 
 
 Since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art… but this alone convinces no one. Because, how *much* better are we talking about? Luckily, we can once again turn to the Pareto principle, which states that 80% of the results come from 20% of the effort.
 
-Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, added up… that's *400%* results!
+${'  ' || `
+// TODO: Review.
+`}
+
+Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. Interdependent bands, however, play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, added up… that's *400%* results!
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Let's call this the "4x law of interdependence": We can expect interdependent bands to be *four* times better than their indie counterparts. Which isn't as provocative as it sounds, mind you: After all, the greatest interdependent band of all *time* is certainly the Beatles— who are at *least* four times better than the greatest that indie rock has to offer!
+Let's call this the "4x law of interdependence": We can expect interdependent bands to be *four* times better than their indie counterparts. But— mind you— this isn't as provocative as it sounds: After all, which interdependent band is the greatest of all *time*? It's certainly the Beatles— who are at *least* four times better than the greatest that indie rock has to offer!
 
 So now, what potential partner *wouldn't* prefer a BYCombo band such as yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
 `,
