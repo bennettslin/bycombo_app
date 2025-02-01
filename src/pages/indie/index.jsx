@@ -590,18 +590,16 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 ${'  ' || `
 // TODO: Keep working on.
 
-First paragraph, make clear that past artists spent their whole lives preparing. Mention demos.
-
 Improve last sentence in last paragraph.
 `}
 
-Let's return to the original question: How has indie rock made music worse? We can now summarize all the points I've made into a concise answer: In the past, artists grew up with the confidence that, by the time they were ready, they could reason with a few elites, who would then advocate on their behalf by spreading their works from the top down.
+Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could find business partners who'd advocate for them by spreading their works from the top down. And secure in this faith, they built up the talents that gave us "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… "[Superstar](https://youtu.be/SJmmaIGiGBg)"… "[Them Bones](https://youtu.be/zTuD8k3JvxQ)"…
 
-Thanks to indie rock, however, today's artists are *denied* this recourse. So all they can do is put out work after work, hoping that one catches on through word of mouth— or, these days, the algorithms— and then spreads from the bottom up. But this builds up a different set of talents, leading to a different kind of work— a difference that all of us hear, even if we can't articulate it.
+Thanks to indie rock, however, today's artists have no such recourse. All they can do is put out work after work, hoping that one catches on through word of mouth— or, these days, algorithms— and then spreads from the bottom up. But this builds a different set of talents, leading them to make a different kind of work— a difference that all of us hear, even if we can't articulate it.
 
-Now, some might argue that today's music isn't necessarily *worse* for having been optimized to catch on from the bottom up. Okay, but… will it *last*? Not likely— because history *itself* is top down. That is to say, we don't count on future audiences to rediscover, let's say, Joni Mitchell through word of mouth; instead, historians advocate on her behalf by appealing to reason.
+"Does this make it *worse*, though?" Yes, given that it won't *last*. Keep in mind, the reason curators and historians *want* to advocate for Joni Mitchell, is because she made it easy for past partners to feel the same. By contrast, with so many works today optimized to be discovered through algorithms, future historians will leave them to be *re*-discovered that way as well.
 
-Unfortunately, much like fish don't know they're wet, Millennials and Gen Z don't know their music is bottom up. Which means the renaissance can *only* be revived by Xennials like myself, who remember a time when elites helped to spread works from the top down— and never stopped longing for it. So come join BYCombo… and be part of a *new* generation of top-down artists!
+Unfortunately, much like fish don't know they're wet, Millennials don't know their talents were stunted. Which means the revolution can *only* be started by Xennials like myself, who remember a better past. So come join BYCombo… and be part of a *new* generation of top-down artists!
 
 ### ${++sectionCounter}. Victory is assured
 
