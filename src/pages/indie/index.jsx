@@ -594,16 +594,18 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 ${'  ' || `
 // TODO: Keep working on.
 
+Second paragraph. Improve last sentence.
+
 Last paragraph, revisit belief. Do mention revolution after all?
 `}
 
-Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could find business partners who'd advocate for them by spreading their works from the top down. And, secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
+Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could find business partners who'd advocate for them by spreading their works from the top down. And secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
 
-Thanks to indie rock, however, today's artists have no such reason to believe. So they put out work after work, hoping that one catches on through word of mouth— or, these days, algorithms— and then spreads from the bottom up. But this builds a different set of talents, leading to a different kind of work— a difference that all of us hear, even if we can't articulate it.
+Thanks to indie rock, however, today's artists have no such reason to believe. So they put out work after work, hoping that one catches on through word of mouth— or, these days, algorithms. But by spreading their works from the bottom up, they build a different set of talents, leading to a different *kind* of work— a difference that all of us hear, even if we can't articulate it.
 
-"Is it *worse*, though?" Yes, given that it won't *last*. Remember, historians don't *need* to advocate for all those who succeeded in the past. If they *want* to do so now for Joni Mitchell, it's only because she made it easy for her partners back then to feel the same. But if a past artist were discovered by algorithms, why wouldn't we just leave them to be *re*-discovered this way as well?
+"Is it *worse*, though?" Yes, given that it won't *last*. Remember, historians don't *need* to advocate for all those who succeeded in the past. If they *want* to do so now for Joni Mitchell, it's only because she made it easy for her partners back then to feel the same. But if a past artist was discovered by algorithms… why wouldn't we leave them to be *re*-discovered this way as well?
 
-So today's music is worse because it's bottom up— while history *itself* is top down. Unfortunately, much like fish don't know they're wet, Millennials and Gen Z don't know their thinking is bottom up. Which means any revolution *has* to be started by us Xennials, who remember a top-down past.
+So today's music is worse because it's bottom up— when history *itself* is top down. Unfortunately, much like fish don't know they're wet, Millennials and Gen Z don't know their thinking is bottom up. Which means any revolution *has* to be started by us Xennials, who remember a top-down past.
 
 ### ${++sectionCounter}. Victory is assured
 

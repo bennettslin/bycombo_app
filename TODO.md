@@ -18,6 +18,8 @@
 
 * YB
     * Finish annotations
+        * No one's out to get you
+        * They're just looking out for themselves, as you are
     * Change interactivated verse?
 
 * BYC
