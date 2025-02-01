@@ -177,7 +177,11 @@ Are you unconvinced that music is now worse? Then ask this about any of the late
 
 By contrast, could Dolly Parton *reliably* compose one "Jolene" after another? Or [Stephen Sondheim](https://bobtailyearlings.com/docs/Sondheim_paper.pdf), "[Someone in a Tree](https://youtu.be/JpoKuNyVNhQ)"? It's doubtful. These are what I call "windfall art"— namely, works that are even *better* than those who make them. In fact, some of them seem to surpass what's humanly possible at *all*— and for this reason, they're the kind that fellow artists envy most.
 
-Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your thoughts drift in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
+${'  ' || `
+// TODO: Review link.
+`}
+
+Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your [thoughts drift](https://paulgraham.com/top.html) in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
 But this can't happen if you're always context switching— which explains why "indiefication" has made music worse. Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
@@ -590,16 +594,16 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 ${'  ' || `
 // TODO: Keep working on.
 
-Improve last sentence in last paragraph.
+Last paragraph, revisit belief. Do mention revolution after all?
 `}
 
-Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could find business partners who'd advocate for them by spreading their works from the top down. And secure in this faith, they built up the talents that gave us "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… "[Superstar](https://youtu.be/SJmmaIGiGBg)"… "[Them Bones](https://youtu.be/zTuD8k3JvxQ)"…
+Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could find business partners who'd advocate for them by spreading their works from the top down. And secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
 
-Thanks to indie rock, however, today's artists have no such recourse. All they can do is put out work after work, hoping that one catches on through word of mouth— or, these days, algorithms— and then spreads from the bottom up. But this builds a different set of talents, leading them to make a different kind of work— a difference that all of us hear, even if we can't articulate it.
+Thanks to indie rock, however, today's artists have no such reason to believe. So they put out work after work, hoping that one catches on through word of mouth— or, these days, algorithms— and then spreads from the bottom up. But this builds a different set of talents, leading to a different kind of work— a difference that all of us hear, even if we can't articulate it.
 
-"Does this make it *worse*, though?" Yes, given that it won't *last*. Keep in mind, the reason curators and historians *want* to advocate for Joni Mitchell, is because she made it easy for past partners to feel the same. By contrast, with so many works today optimized to be discovered through algorithms, future historians will leave them to be *re*-discovered that way as well.
+"Is it *worse*, though?" Yes, given that it won't *last*. Remember, historians don't *need* to advocate for all those who succeeded in the past. If they *want* to do so now for Joni Mitchell, it's only because she made it easy for her partners back then to feel the same. But if a past artist were discovered by algorithms, who among us wouldn't just leave them to be *re*-discovered this way as well?
 
-Unfortunately, much like fish don't know they're wet, Millennials don't know their talents were stunted. Which means the revolution can *only* be started by Xennials like myself, who remember a better past. So come join BYCombo… and be part of a *new* generation of top-down artists!
+So today's music is worse because it's bottom up— while history *itself* is top down. Unfortunately, much like fish don't know they're wet, Millennials and Gen Z don't know their thinking is bottom up. Which means any revolution *has* to be started by us Xennials, who remember a top-down past.
 
 ### ${++sectionCounter}. Victory is assured
 
