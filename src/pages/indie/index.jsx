@@ -599,13 +599,17 @@ Let's return to the original question: How has indie rock made music worse? In s
 
 Thanks to indie rock, however, today's artists have no reason to believe. So they put out work after work, hoping that one catches on through word of mouth— or, these days, algorithms. But by spreading their works from the bottom up, they build a different set of talents, leading to a different kind of work— a difference that all of us hear, even if we can't articulate it.
 
-"Is it *worse*, though?" Yes, given that it won't *last*. Remember, historians don't *need* to advocate for all those who succeeded in the past. If they now *want* to do so for Joni Mitchell, it's because she made it easy for her partners back then to feel the same. But when artists are being discovered by algorithms… who wouldn't just leave them to be *re*-discovered this way as well?
+"Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians don't *need* to advocate for all those who succeeded in the past. If they *want* to do so, now, for Joni Mitchell, it's because she made it easy for her partners back then to feel the same. But when artists are being discovered by algorithms… who wouldn't just leave them to be *re*-discovered this way as well?
 
-Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like fish don't know they're wet, Millennials and Gen Z don't know they live in bottom-up times. Which means BYCombo *had* to be started by an Xennial, who remembers a top-down past. So join with me, and build up your talents… in the faith that a savior will come to find you.
+Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like fish don't know they're wet, Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build up your talents… secure in the faith that a savior will find you.
 
 ### ${++sectionCounter}. Victory is assured
 
 Once indie rock's ideals take root, they'll end up taking over. After all, with countless artists to choose from, what label *wouldn't* prefer the one who can already do the middleman's job? Or what critic, the one whose well-chosen identity provides so much surrounding context? Or what fan, the one who directly engages with them in a parasocial relationship?
+
+${'  ' || `
+// TODO: Revise. Change "since"?
+`}
 
 Since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art… but this alone convinces no one. Because, how *much* better are we talking about? Luckily, we can once again turn to the Pareto principle, which states that 80% of the results come from 20% of the effort.
 
@@ -616,12 +620,13 @@ ${'  ' || `
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. Interdependent bands, however, play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, added up… that's *400%* results!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Say "hustle" instead of too many "interdependent"s?
 `}
 
 Let's call this the "4x law of interdependence": We can expect interdependent bands to be *four* times better than their indie counterparts. But— mind you— this isn't as provocative as it sounds: After all, which interdependent band is the greatest of all *time*? It's certainly the Beatles— who are at *least* four times better than the greatest that indie rock has to offer!
 
 So now, what potential partner *wouldn't* prefer a BYCombo band such as yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
+
 `,
         }}
     />
