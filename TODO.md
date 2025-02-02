@@ -23,6 +23,7 @@
     * Change interactivated verse?
 
 * BYC
+    * Make more about wisdom of crowds
     * Consider doing screen widths smartly
     * Consider smart quote in Wikipedia link update
     * Revise apply page
