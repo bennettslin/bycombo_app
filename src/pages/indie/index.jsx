@@ -45,7 +45,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-When fans support an artist, they want *content*— namely, art that engages with them directly. But while present-day content has an advantage over *past* art, it loses once it's in the past *itself*. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must now *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
+When fans support an artist, they want *content*— namely, art that engages with them directly. But while content in the present has an advantage over *past* art, it loses once its *own* time is past. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must now *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
@@ -177,10 +177,6 @@ Are you unconvinced that music is now worse? Then ask this about any of the late
 
 By contrast, could Dolly Parton *reliably* compose one "Jolene" after another? Or [Stephen Sondheim](https://bobtailyearlings.com/docs/Sondheim_paper.pdf), "[Someone in a Tree](https://youtu.be/JpoKuNyVNhQ)"? It's doubtful. These are what I call "windfall art"— namely, works that are even *better* than those who make them. In fact, some of them seem to surpass what's humanly possible at *all*— and for this reason, they're the kind that fellow artists envy most.
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your [thoughts drift](https://paulgraham.com/top.html) in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
 But this can't happen if you're always context switching— which explains why "indiefication" has made music worse. Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
@@ -194,7 +190,7 @@ Historically, artists lacked all means to get themselves known to the public, fr
 Meanwhile, the major labels in the past had the budget to cast a wide net for talent— which made sense business-wise, since this enabled them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Funny enough, though, it *also* allowed them to deliver the boldest art… by freeing them to pick unknown artists with unexpected ideas!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Need to explain diversity?
 `}
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
@@ -215,6 +211,8 @@ ${'  ' || `
 // TODO: New section.
 
 Much earlier. Maybe between lottery and support? End by talking about support? Or between creativity and disintermediation?
+
+Mention wisdom of the crowd.
 
 Indie rock respects bottom up, rather than top down.
 Make the three things bypassing the gatekeepers, word of mouth, and direct fan engagement. Make clear that indie rock respects direct fan engagement because it once took place mainly at local shows, which indie rock has always held in high esteem, as it's bottom up. (I removed this point from the introductory paragraphs.) As opposed to radio, which is top down.
@@ -559,10 +557,6 @@ But we progressives *need* centralized institutions to promote the welfare we de
 
 Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get taken down as well, to be replaced by others— in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass. This is why I suspect that many anti-elitist progressives are really *libertarians*… who've yet to embrace their privilege!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their complexity. Once we do, we can stop blaming shadowy forces for our problems, because we'll finally have the skills to seek out constructive solutions instead.
 
 So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
@@ -592,16 +586,16 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 ### ${++sectionCounter}. History makers believe in saviors
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could find business partners who'd advocate for them by spreading their works from the top down. And secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
 
-Thanks to indie rock, however, today's artists have no reason to believe. So they put out work after work, hoping that one catches on through word of mouth— or, these days, algorithms. But by spreading their works from the bottom up, they build a different set of talents, leading to a different kind of work— a difference that many of us hear, even if we can't articulate it.
+Thanks to indie rock, however, today's artists have no such reason to believe. So they put out work after work, hoping one will catch on with the crowd— which, these days, means the algorithms. But by spreading their works from the bottom up, they build a different set of talents, leading to a different kind of work— a difference that many of us hear, even if we can't articulate it.
 
-"Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians don't *need* to advocate for all those who succeeded in the past. If they *want* to do so, now, for Joni Mitchell, it's because she made it easy for her partners back then to feel the same. But when artists are being discovered by algorithms… who wouldn't just leave them to be *re*-discovered this way as well?
+"Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians don't *need* to advocate for all those who succeeded in the past. If they *want* to do so, now, for Joni Mitchell, it's because she made it easy for her partners back then to feel the same. But when artists are being discovered by the crowd… who wouldn't just leave them to be *re*-discovered this way as well?
 
-Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like fish don't know they're wet, Millennials and Gen Z don't know these are bottom-up times. Which means BYCombo could *only* be started by an Xennial, who remembers a top-down past. So join with me, and build up your talents… in faith that a savior will then come to find you.
+Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like fish don't know they're wet, Millennials and Gen Z don't know they grew up in bottom-up times. Which means BYCombo *had* to be started by an Xennial, who remembers a top-down past. So join with me, and build up your talents… in faith that a savior will come to find you.
 
 ### ${++sectionCounter}. Victory is assured
 
@@ -612,10 +606,6 @@ ${'  ' || `
 `}
 
 Since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art… but this alone convinces no one. Because, how *much* better are we talking about? Luckily, we can once again turn to the Pareto principle, which states that 80% of the results come from 20% of the effort.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. Interdependent bands, however, play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, added up… that's *400%* results!
 
