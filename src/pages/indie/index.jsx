@@ -187,11 +187,11 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 
 Historically, artists lacked all means to get themselves known to the public, freeing them to explore at will— and sometimes leading to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— leaving them reluctant to experiment, for fear of losing those fans.
 
-Meanwhile, the major labels in the past had the budget to cast a wide net for talent— which made sense business-wise, since this enabled them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). Funny enough, though, it *also* allowed them to deliver the boldest art… by freeing them to pick unknown artists with unexpected ideas!
-
 ${'  ' || `
-// TODO: Revise. Need to explain diversity?
+// TODO: Review.
 `}
+
+Meanwhile, the major labels in the past had the budget to cast a wide net for talent— which made sense business-wise, since this enabled them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But a bigger roster can be more diverse as well— so, funny enough, this *also* led them to deliver the boldest art… by [encouraging them](https://www.investopedia.com/investing/importance-diversification) to pick unknown artists with unexpected ideas!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
@@ -595,7 +595,7 @@ Thanks to indie rock, however, today's artists have no such reason to believe. S
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians don't *need* to advocate for all those who succeeded in the past. If they *want* to do so, now, for Joni Mitchell, it's because she made it easy for her partners back then to feel the same. But when artists are being discovered by the crowd… who wouldn't just leave them to be *re*-discovered this way as well?
 
-Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like fish don't know they're wet, Millennials and Gen Z don't know they grew up in bottom-up times. Which means BYCombo *had* to be started by an Xennial, who remembers a top-down past. So join with me, and build up your talents… in faith that a savior will come to find you.
+Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like fish don't know they're wet, Millennials and Gen Z don't know they grew up in bottom-up times. Which means BYCombo *had* to be started by an Xennial, who remembers a top-down past. So join with me, and build up your talents… in faith that a savior will come to find you!
 
 ### ${++sectionCounter}. Victory is assured
 
