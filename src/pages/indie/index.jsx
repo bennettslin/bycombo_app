@@ -589,13 +589,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could find business partners who'd advocate for them by spreading their works from the top down. And secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
+Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could find partners who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
 
 Thanks to indie rock, however, today's artists have no such reason to believe. So they put out work after work, hoping one will catch on with the crowd— which, these days, means the algorithms. But by spreading their works from the bottom up, they build a different set of talents, leading to a different kind of work— a difference that many of us hear, even if we can't articulate it.
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians don't *need* to advocate for all those who succeeded in the past. If they *want* to do so, now, for Joni Mitchell, it's because she made it easy for her partners back then to feel the same. But when artists are being discovered by the crowd… who wouldn't just leave them to be *re*-discovered this way as well?
 
-Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like fish don't know they're wet, Millennials and Gen Z don't know they grew up in bottom-up times. Which means BYCombo *had* to be started by an Xennial, who remembers a top-down past. So join with me, and build up your talents… in faith that a savior will come to find you!
+Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like fish don't know they're wet, Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build up your talents… in faith that a savior will then find you!
 
 ### ${++sectionCounter}. Victory is assured
 
