@@ -41,11 +41,7 @@ Unfortunately, good guys will insist that *their* rules mustn't be broken; their
 
 **Why the historical canon?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
-When fans support an artist, they want *content*— namely, art that engages with them directly. But while content in the present has an advantage over *past* art, it loses once its *own* time is past. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must now *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
+When fans support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage in the present over *past* art, it loses once its *own* time is past. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must now *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
@@ -594,21 +590,20 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 Once indie rock's ideals take root, they'll end up taking over. After all, with countless artists to choose from, what label *wouldn't* prefer the one who can already do the middleman's job? Or what critic, the one whose well-chosen identity provides so much surrounding context? Or what fan, the one who directly engages with them in a parasocial relationship?
 
 ${'  ' || `
-// TODO: Revise. Change "since"?
+// TODO: Review.
 `}
 
-Since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art… but this alone convinces no one. Because, how *much* better are we talking about? Luckily, we can once again turn to the Pareto principle, which states that 80% of the results come from 20% of the effort.
+By contrast, interdependent bands refuse to hustle, and thus can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can once again turn to the Pareto principle, which states that 80% of the results come from 20% of the effort.
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. Interdependent bands, however, play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, added up… that's *400%* results!
 
 ${'  ' || `
-// TODO: Revise. Say "hustle" instead of too many "interdependent"s?
+// TODO: Review.
 `}
 
-Let's call this the "4x law of interdependence": We can expect interdependent bands to be *four* times better than their indie counterparts. But— mind you— this isn't as provocative as it sounds: After all, which interdependent band is the greatest of all *time*? It's certainly the Beatles— who are at *least* four times better than the greatest that indie rock has to offer!
+Let's call this the "4x law of interdependence," then: By allowing bands to be interdependent— to double down on making art instead of hustling— we can expect them to be *four* times better. Which, mind you, isn't as provocative as it sounds: After all, the greatest interdependent band *ever* is the Beatles, who are at *least* four times better than the greatest that indie rock can offer!
 
 So now, what potential partner *wouldn't* prefer a BYCombo band such as yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
-
 `,
         }}
     />
