@@ -45,7 +45,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-When fans support an artist, they want *content*— namely, art that engages with them directly. But while content has an advantage in the present over *past* art, it loses once its *own* time is past. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must now *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
+When fans support an artist, they want *content*— namely, art that engages with them directly. But while content in the present has an advantage over *past* art, it loses once its *own* time is past. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must now *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
@@ -208,7 +208,7 @@ ${'  ' || `
 
 Much earlier. Maybe between lottery and support? End by talking about support? Or between creativity and disintermediation?
 
-Mention wisdom of the crowd.
+Mention wisdom of the crowd. Eliminates outliers, picks averages.
 
 Indie rock respects bottom up, rather than top down.
 Make the three things bypassing the gatekeepers, word of mouth, and direct fan engagement. Make clear that indie rock respects direct fan engagement because it once took place mainly at local shows, which indie rock has always held in high esteem, as it's bottom up. (I removed this point from the introductory paragraphs.) As opposed to radio, which is top down.
