@@ -495,7 +495,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could find creative outlets, they were given structured ways to receive steady streams of content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what I could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that *they* help to enforce!
+Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to daydream, they were given structured ways to receive steady streams of content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what I could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that *they* help to enforce!
 
 Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
@@ -519,7 +519,11 @@ Here's my point: Suppose an indie label were willing to sign me *before* my band
 
 Luckily, having struggled for half my life to attract bandmates, I anticipated that the best artists would gradually prefer to be *assembled* into bands— and that this, in turn, could open up *another* frontier to explore! So relax, and put all your effort into simply *deserving* the most dedicated bandmates… safe in the knowledge that BYCombo will then help you find them.
 
-### ${++sectionCounter}. Advancement tracks aesthetics, not logistics
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Advancement is in aesthetics, not logistics
 
 When is it a "larp"? Here's a test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the *real* hero… the app?
 
@@ -529,7 +533,7 @@ Unlike what the indie camp believes, then, music history *won't* care how the In
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
-Beethoven composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life— and he was no exception: The best composers got *better* with age. But this isn't yet the case with rock bands— which means there's still *another* frontier left to explore! So if you're a Millennial, don't fret: You still have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
+Beethoven composed his [magnum opus](https://youtu.be/4IqnVCc-Yqo) in the final years of his life— and he was no exception: The best composers got *better* with age. But this isn't yet the case with rock bands— which means there's still *another* frontier left to explore! So if you're a Millennial, don't fret: You still have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
 
 In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young folks are reaching key milestones *later* in life, because society in *general* is now more complex; thus more time is needed to fulfill your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling makes you burn out *sooner*.
 
@@ -581,10 +585,6 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 ### ${++sectionCounter}. History makers believe in saviors
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
 
 Thanks to indie rock, however, today's artists have no such reason to believe. So they put out work after work, hoping one will catch on with the crowd— which, these days, means the algorithms. But by spreading their works from the bottom up, they build a different set of talents, leading to a different kind of work— a difference that many of us hear, even if we can't articulate it.
@@ -593,15 +593,11 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-"Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel the same. But when artists are being discovered by the crowd… who wouldn't just leave them to be *re*-discovered this way as well?
+"Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel the same. But when artists are being discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered this way as well?
 
 Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like fish don't know they're wet, Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build up your talents… in faith that a savior will then find you!
 
 ### ${++sectionCounter}. Victory is assured
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can already do the middleman's job? Or what critic, the one whose well-chosen identity provides so much surrounding context? Or what fan, the one who directly engages with them in a parasocial relationship?
 
@@ -612,10 +608,6 @@ ${'  ' || `
 By contrast, interdependent bands refuse to hustle, and thus can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can once again turn to the Pareto principle, which states that 80% of the results come from 20% of the effort.
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. Interdependent bands, however, play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, added up… that's *400%* results!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Let's call this the "4x law of interdependence," then: By allowing bands to be interdependent— to double down on making art instead of hustling— we can expect them to be *four* times better. Which, mind you, isn't as provocative as it sounds: After all, the greatest interdependent band *ever* is the Beatles, who are at *least* four times better than the greatest that indie rock can offer!
 
