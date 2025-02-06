@@ -503,7 +503,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to daydream, they were given structured ways to receive steady streams of content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what I could see: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that *they* help to enforce!
+Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to daydream, they were given structured ways to create and receive endless content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what I could see: The only rules left that take courage to break… are the *structural* ones, like indie rock's— that *they* help to enforce!
 
 Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
