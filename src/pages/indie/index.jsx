@@ -549,7 +549,11 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of others doing the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
-### ${++sectionCounter}. Salvation comes from thinking in systems
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Solutions come from thinking in systems
 
 Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down the "system" and its elites, which only works out for libertarians— both indie rock's cultural kind, and the political kind that its Gen X founders have [since become](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, decentralization is their end goal; they're not looking to replace the system with anything else.
 
