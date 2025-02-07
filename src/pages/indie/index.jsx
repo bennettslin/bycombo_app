@@ -235,17 +235,13 @@ Much like moths evolved to use moonlight to know which way is up, rather than ev
 
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 And here's more absurdity: Whereas artists are loved for doing what we'd all rather do, middlemen are hated for taking on work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman… but a middleman *gets* to be their own artist. So "indiefication" is really the wish of a *middling* artist— who'd otherwise only qualify to *be* a middleman!
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Let's be clear, the best artists *respect* the middleman. After all, when you're the best at your job, it's an awful waste of your talents to do anyone else's— and knowing that your job is harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We [learned all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
+Let's be clear, the best artists *respect* the middleman. After all, when you're the best at your job, it's an awful waste of your talents to do anyone else's— and knowing that your own job is harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We [learned all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
 
 Sadly, young folks never question today's "auto-Bizarro" world, since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
 
@@ -549,11 +545,7 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of others doing the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
-### ${++sectionCounter}. Solutions come from thinking in systems
+### ${++sectionCounter}. Salvation comes from thinking in systems
 
 Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down the "system" and its elites, which only works out for libertarians— both indie rock's cultural kind, and the political kind that its Gen X founders have [since become](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, decentralization is their end goal; they're not looking to replace the system with anything else.
 
