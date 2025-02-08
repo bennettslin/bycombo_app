@@ -73,3 +73,19 @@ Millennials don't know they're Millennials. They don't know that their need to s
 * Serendipity to modest standing
 * Modest standing to creativity
 * Left off from here…
+
+# Emails to filter:
+
+apple.com
+
+soylent
+meetup
+trello
+twitter
+heroku
+developer
+engineer
+chase
+adidas
+
+harbor steps
