@@ -222,13 +222,16 @@ But lean operations also have single point of failure. Can't adapt to changes. B
 Mention AI. Relying on the past, assuming that nothing will change in the future. Slack.
 `}
 
-(Mention why the live show is paramount.)
+(Mention why the live show is paramount. Word of mouth, direct fan engagement.)
 Why do we respect indie artists so much? It's because, in the past, it took initiative to build a fanbase on your own from the bottom up: Without radio as a recourse, directly engaging with fans at live shows, and letting news spread through word of mouth.
 
-Today, however, the Internet has made it trivial to build a following by directing engaging with your followers; "influencers" do it all the time. And yet, the indie camp carries on as if the world hasn't changed, as if being the equivalent of an artistic or musical influencer is still as worthy of respect as ever. Why are they incapable of getting with the times?
-
+(Change order. Second paragraph is about staying lean. Mention moth instinct.)
 It's because indie rock promises fair compensation, and every fewer middleman passes the savings onto the artist. Moreover, every indie tastemaker is overworked and underpaid; they do what they do as a labor of love. And thus, they've streamlined their operations to minimize the mental effort required.
 
+(Third paragraph. World changed, moth instinct now leads them astray. Same with indie tastemakers.)
+Today, however, the Internet has made it trivial to build a following by directing engaging with your followers; "influencers" do it all the time. And yet, the indie camp carries on as if the world hasn't changed, as if being the equivalent of an artistic or musical influencer is still as worthy of respect as ever. Why are they incapable of getting with the times?
+
+(Fourth paragraph. Resilience requires redundancy.)
 Much like moths evolved to use moonlight to know which way is up, rather than evolving greater brainpower, and now lack the brainpower to adapt in the face of new technology. Luckily, BYCombo knows that the best art going forward is likely to come from the top down, chosen by a new generation of elites.
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
