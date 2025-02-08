@@ -205,7 +205,19 @@ ${'  ' || `
 Mention wisdom of the crowd. Eliminates outliers, picks averages.
 
 https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=Despite%20the%20rich%20history%20of,light%20to%20escape%20imminent%20danger.
+
+Indie tastemakers respect word of mouth and fan engagement. 1 paragraph.
+
+New technology has trivialized word of mouth and fan engagement. 1 paragraph.
+
+Indie tastemakers are lean operations, and thus can't adapt. 1/2 paragraph.
+Moths evolved to navigate by moonlight. 1/4 paragraph.
+Moths can't adapt to new technology. 1/4 paragraph.
+Redundancy made major labels more robust in their heyday. 1/2 paragraph.
+Need for BYCombo. 1/2 paragraph.
 `}
+
+Because the indie artists of the '00s where shut out from getting heard on the radio…
 
 Why do we respect indie artists so much? It's because, in the past, it took initiative to build a fanbase on your own from the bottom up: Without radio as a recourse, live shows became paramount. You could only directly engage with fans at live shows, and through these local shows, news spread through word of mouth.
 Make the two things word of mouth and direct fan engagement. Make clear that indie rock respects direct fan engagement because it once took place mainly at local shows, which indie rock has always held in high esteem, as it's bottom up. As opposed to radio, which is top down. Indie labels developed an instinct to respect and reward fan engagement. Like moths that evolved to navigate by moonlight, and then conserve their brainpower to never do differently.
@@ -249,11 +261,15 @@ To protest against indie rock, then, the music world's "progressives" can do the
 
 In game theory, the "stag hunt" is a game in which you and another player must decide, each on your own, whether to hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
 
-The [richest nations](https://web.archive.org/web/20210508/https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=Human%20society%20is,they%20trust%20me.) build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The reverse is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
+The richest nations build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The reverse is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
 Indie artists work hard *not* to need a label, and will do so even [when signed](https://web.archive.org/web/20120706/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day flourish, the past proves that rock can be interdependent once again!
 
-BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others finally reciprocate the courage to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
+${'  ' || `
+// TODO: Review link.
+`}
+
+BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others finally [reciprocate the courage](https://web.archive.org/web/20210508013749/https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=One%20worrying%20outcome,attempt%20at%20coordination.) to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
