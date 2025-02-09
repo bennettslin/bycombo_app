@@ -23,6 +23,7 @@
     * Change interactivated verse?
 
 * BYC
+    * Get rid of song links?
     * Consider doing screen widths smartly
     * Consider smart quote in Wikipedia link update
     * Revise apply page

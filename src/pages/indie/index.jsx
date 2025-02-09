@@ -234,7 +234,11 @@ To help artists cut out the middleman, indie rock provides them with tools to do
 
 And here's more absurdity: Whereas artists are loved for doing what we'd all rather do, middlemen are hated for taking on work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman… but a middleman *gets* to be their own artist. So "indiefication" is really the wish of a *middling* artist— who'd otherwise only qualify to *be* a middleman!
 
-Let's be clear, the best artists *respect* the middleman. After all, when you're the best at your job, it's an awful waste of your talents to do anyone else's— and knowing that your own job is harder than it looks, you have to assume the same of everyone else's. Plus, if you're one of the best yourself, then you get your pick of the best partners. We [learned all this](https://en.wikipedia.org/wiki/Division_of_labor) in middle school!
+${'  ' || `
+// TODO: Review.
+`}
+
+Let's be clear, the best artists *value* the middleman. After all, when you're the best at your job, it's a waste of your talents to do anyone else's— and knowing that your own job is harder than it looks, you have to assume the same of everyone else's. Plus, as one of the best yourself, you get your pick of the best partners. It's called division of labor; we learned this in middle school!
 
 Sadly, young folks never question today's "auto-Bizarro" world, since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
 
@@ -590,7 +594,11 @@ Meanwhile, since interdependent bands refuse to hustle, they can't compete on *a
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. Interdependent bands, however, play to their strengths by having *partners* cover their weaknesses— which lets them put 20% effort into getting 80% results, over and over. Well, added up… that's *400%* results!
 
-Let's call this the "4x law of interdependence," then: By allowing bands to be interdependent— to double down on making art instead of hustling— we can expect them to be *four* times better. Which, mind you, isn't as provocative as it sounds: After all, the greatest interdependent band *ever* is the Beatles, who are at *least* four times better than the greatest that indie rock can offer!
+${'  ' || `
+// TODO: Review.
+`}
+
+Let's call this the "4x law of interdependence," then: By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Which sounds about right: The greatest interdependent band *ever* is the Beatles, who are at *least* four times better than the greatest that indie rock has to offer!
 
 So now, what potential partner *wouldn't* prefer a BYCombo band such as yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
 `,
