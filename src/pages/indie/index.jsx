@@ -220,13 +220,13 @@ Redundancy made major labels more robust in their heyday. 1/2 paragraph.
 Need for BYCombo. 1/2 paragraph.
 `}
 
-Can the indie tastemakers learn *not* to be led astray? No: They're overworked and underpaid, and they do this mostly as a labor of love. Besides, being lean is their selling point: By not employing middlemen, they allow the artist to keep more of their earnings. And so, like moths who navigate by moonlight, they make do with less brainpower by following instincts that long preceded them.
+Can the indie tastemakers learn *not* to be led astray? No, they're overworked and underpaid; they have no mental capacity to spare. Moreover, this is their selling point: By refusing to employ middlemen, they pass the savings onto their artists. Like moths navigating by moonlight, then, they simply follow a set of instincts that long preceded them.
 
-For instance, unlike the alternative bands of the '90s, who gained exposure through the radio, indie artists would win over one fan at a time by directly engaging with them at their live shows, and then counting on news to spread by word of mouth. This took initiative, and so the indie camp associated it with prestige.
+Of course, these instincts served their forebears well. In the '90s, unlike the alternative bands, who gained exposure through the radio, indie artists would win over one fan at a time by directly engaging with them at their live shows, and then counting on news to spread by word of mouth. This took initiative, and so the indie camp associated it with prestige.
 
-With the rise of the Internet, however, word of mouth has become wisdom of the crowd, which eliminates outliers. While those most adept at directly engaging with their fans are known as influencers, who command fame but not prestige. Like moths burning flying in circles around lampposts, they're being led astray as they lack the brainpower to adapt in the face of new technology.
+With the rise of the Internet, however, word of mouth has become wisdom of the crowd, which eliminates outliers. While those most adept at directly engaging with their fans are known as influencers, who command fame but not prestige. Like moths flying in circles around lampposts, the indie tastemakers' instincts lead them astray in the face of new technology.
 
-Let's face it, middlemen might seem redundant in our times, but redundancy is what allows a system to be resilient, and thus adapt in the face of unexpected changes. Relying on instincts developed in the past, assuming that nothing will change in the future. BYCombo…
+Let's face it, middlemen might seem redundant in our times, but redundancy is what makes a system robust, allowing it to adapt in the face of change. And now the major labels are struggling to hold the bottom line themselves, and thus behave like indies as well. So BYCombo…
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -592,7 +592,11 @@ Once indie rock's ideals take root, they end up taking over. After all, with so 
 
 Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can once again turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
-Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. Interdependent bands, however, play to their strengths by having *partners* cover their weaknesses— which lets them put in 20% effort to get 80% in results, over and over. Well, added up… that's *400%* results!
+${'  ' || `
+// TODO: Review.
+`}
+
+Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. Interdependent bands, however, play to their strengths by having *partners* cover their weaknesses— which lets them put 20% effort into getting 80% results, over and over. Well, added up… that's *400%* results!
 
 Let's call this the "4x law of interdependence," then: By allowing bands to be interdependent— to double down on making art instead of hustling— we can expect them to be *four* times better. Which, mind you, isn't as provocative as it sounds: After all, the greatest interdependent band *ever* is the Beatles, who are at *least* four times better than the greatest that indie rock can offer!
 
