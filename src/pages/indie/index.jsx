@@ -378,7 +378,11 @@ In high school, a classmate referred to the carpetbaggers as "bad guys"— for h
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the most disadvantaged among us side with the [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
 
-Of course, it isn't just in politics, but also in culture, where this confusion has made Millennials so ineffectual. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the majority. Yet the indie camp— their generation's good guys— won't hear of it. It's like they think I'm voting against my own interests!
+${'  ' || `
+// TODO: Review. Replaced "majority" with "masses."
+`}
+
+Of course, it isn't just in politics, but also in culture, where this confusion has made Millennials so ineffectual. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the masses. Yet the indie camp— their generation's good guys— won't hear of it. It's like they think I'm voting against my own interests!
 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*— and thus sees wisdom in joining as well.
 
@@ -576,9 +580,13 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
 
-Thanks to indie rock, however, today's artists have no such reason to believe. So they put out work after work, hoping one will catch on with the crowd— which, these days, means the algorithms. But by spreading their works from the bottom up, they build a different set of talents, leading to a different kind of work— a difference that many of us hear, even if we can't articulate it.
+${'  ' || `
+// TODO: Review next two paragraphs. Replaced "crowd" with "masses."
+`}
 
-"Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel the same. But when artists are being discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered this way as well?
+Thanks to indie rock, however, today's artists have no such reason to believe. So they put out work after work, hoping one will catch on with the masses— which, these days, means the algorithms. But by spreading their works from the bottom up, they build a different set of talents, leading to a different kind of work— a difference that many of us hear, even if we can't articulate it.
+
+"Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel the same. But when artists are being discovered by the masses… well, who wouldn't just leave them to be *re*-discovered this way as well?
 
 Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like fish don't know they're wet, Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build up your talents… in faith that a savior will then find you!
 

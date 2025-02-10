@@ -20,7 +20,9 @@
     * Change interactivated verse?
 
 * BYC
+    * Replace "people" with "masses"?
     * Get rid of song links?
+        * Otherwise, add Jolene link
     * Consider doing screen widths smartly
     * Consider smart quote in Wikipedia link update
     * Revise apply page
