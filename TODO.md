@@ -1,8 +1,5 @@
 # TODO
 
-# Today
-* People => Crowd
-
 # BY
 * PDF screwups
 
