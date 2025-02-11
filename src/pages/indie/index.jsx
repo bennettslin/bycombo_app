@@ -193,7 +193,11 @@ In the past, the indie tastemakers stayed close to their local scenes, making th
 
 What confused me is that I'd explicitly set out to make a [work of art](https://yearlingsbobtail.com/8-good-night-sita/?verse=61&annotation=40) whose creativity [*can't* be disputed](https://yearlingsbobtail.com/10-constellations/?verse=1&annotation=9). Only later did it hit me: If a tastemaker is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we* want. Our human nature is to [*dis*-like creativity](https://web.archive.org/web/20220416/https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html); we just don't realize this, because whatever it is we *do* like… we simply call *that* the thing that's creative!
 
-Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won instincts, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
+${'  ' || `
+// TODO: Review.
+`}    
+
+Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the corporate suits just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won intuition, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
@@ -218,17 +222,21 @@ Redundancy made major labels more robust in their heyday. 1/2 paragraph.
 Need for BYCombo. 1/2 paragraph.
 
 Third paragraph. Make point about influencers not being a model for gaining prestige.
+
+Move "behaving like indies" link further up.
 `}
 
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is actually their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and reflect, they simply follow the instincts handed down by their forebears— like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=According%20to%20Dr,they%20flew%20level.) by starlight.
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is actually their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and reflect, they simply follow the instincts handed down by their forebears— much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=According%20to%20Dr,they%20flew%20level.) by starlight.
 
-Of course, these instincts— respecting word of mouth, rewarding direct fan engagement, and so on— made sense in the '90s. Unable to get heard on the radio, indie artists showed initiative by playing live shows.
+Of course, these instincts made sense in the past. For example, by granting acclaim to artists who directly engage with their fans, they were 
+
+when indie artists were shut out from getting heard on the radio, and showed initiative by playing live shows instead.
 
 unlike the alternative bands, who gained exposure through the radio, indie artists would win over one fan at a time by directly engaging with them at their live shows, and then counting on news to spread by word of mouth. This took initiative, and so the indie camp associated it with acclaim.
 
-But today on the Internet, word of mouth equates to wisdom of the crowd— which settles on an average by eliminating outliers. Meanwhile, those who excel at engaging with their fans are called influencers; they enjoy fame, not acclaim. Yet the indies haven't noticed! Like moths circling around lanterns, they're stuck with outdated instincts in our modern world.
+But today on the Internet, word of mouth equates to wisdom of the crowd— which settles on an average by eliminating outliers. Meanwhile, those who excel at engaging with fans are called influencers; we grant them *fame*, not *acclaim*. Yet the indies haven't noticed! Like moths circling around lanterns, they're stuck with outdated instincts in our modern world.
 
-Yes, indie rock has always treated the middleman's job as redundant— but redundancy is what keeps a system robust, allowing it to adapt in the face of change. And now the major labels are struggling to hold the bottom line themselves, and thus behave like indies as well. So BYCombo…
+So yes, the middleman's job can seem redundant— but redundancy is what keeps a system robust, allowing it to adapt in the face of change. Unfortunately, the major labels are now struggling to hold the bottom line themselves, leading them to behave more and more like indies. So BYCombo…
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
