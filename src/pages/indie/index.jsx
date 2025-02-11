@@ -216,13 +216,13 @@ Redundancy made major labels more robust in their heyday. 1/2 paragraph.
 Need for BYCombo. 1/2 paragraph.
 `}
 
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid; they have no chance to pause and reflect. Moreover, this is their selling point: By refusing to employ middlemen, they pass the savings onto their artists. And so they mindlessly follow the same instincts passed down by their forebears— like moths [orienting themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=According%20to%20Dr,they%20flew%20level.) by starlight. (Rephrase as knowing which way is up.)
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid; they have no chance to pause and reflect. Moreover, this is their selling point: By refusing to employ middlemen, they pass the savings onto their artists. And so they mindlessly follow the same instincts passed down by their forebears— like moths, which [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=According%20to%20Dr,they%20flew%20level.) by starlight.
 
-Of course, these instincts— respecting word of mouth, rewarding direct fan engagement, and so on— made sense in the '90s. Unable to get heard on the radio, indie artists showed initiative by playing live shows.
+Of course, these instincts— like respecting word of mouth, rewarding direct fan engagement— made sense in the '90s. Unable to get heard on the radio, indie artists showed initiative by playing live shows.
 
 unlike the alternative bands, who gained exposure through the radio, indie artists would win over one fan at a time by directly engaging with them at their live shows, and then counting on news to spread by word of mouth. This took initiative, and so the indie camp associated it with acclaim.
 
-But on the Internet, word of mouth means the wisdom of the crowd— which settles on an average by eliminating all outliers. Meanwhile, those who excel at directly engaging with fans are now called "influencers"; they enjoy fame, not acclaim. Yet the indie labels haven't noticed! Like moths circling around lampposts, they're stuck with outdated instincts, unable to adapt.
+But today on the Internet, word of mouth equates to wisdom of the crowd— which settles on an average by eliminating outliers. Meanwhile, those who excel at engaging with their fans are called influencers; they enjoy fame, not acclaim. Yet the indies haven't noticed! Like moths circling around lanterns, they're stuck with outdated instincts, unable to adapt.
 
 Let's face it, middlemen might seem redundant in our times, but redundancy is what makes a system robust, allowing it to adapt in the face of change. And now the major labels are struggling to hold the bottom line themselves, and thus behave like indies as well. So BYCombo…
 
@@ -376,11 +376,7 @@ In high school, a classmate referred to the carpetbaggers as "bad guys"— for h
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the most disadvantaged among us side with the [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
 
-${'  ' || `
-// TODO: Review. Replaced "majority" with "masses."
-`}
-
-Of course, it isn't just in politics, but also in culture, where this confusion has made Millennials so ineffectual. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the masses. Yet the indie camp— their generation's good guys— won't hear of it. It's like they think I'm voting against my own interests!
+Of course, it isn't just in politics, but also in culture, where this confusion has made Millennials so ineffectual. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— their generation's good guys— won't hear of it. It's like they think I'm voting against my own interests!
 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*— and thus sees wisdom in joining as well.
 
@@ -578,13 +574,9 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
 
-${'  ' || `
-// TODO: Review next two paragraphs. Replaced "crowd" with "masses."
-`}
+Thanks to indie rock, however, today's artists have no such reason to believe. So they put out work after work, hoping one will catch on with the crowd— which, these days, means the algorithms. But by spreading their works from the bottom up, they build a different set of talents, leading to a different kind of work— a difference that many of us hear, even if we can't articulate it.
 
-Thanks to indie rock, however, today's artists have no such reason to believe. So they put out work after work, hoping one will catch on with the masses— which, these days, means the algorithms. But by spreading their works from the bottom up, they build a different set of talents, leading to a different kind of work— a difference that many of us hear, even if we can't articulate it.
-
-"Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel the same. But when artists are being discovered by the masses… well, who wouldn't just leave them to be *re*-discovered this way as well?
+"Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel the same. But when artists are being discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered this way as well?
 
 Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like fish don't know they're wet, Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build up your talents… in faith that a savior will then find you!
 
@@ -595,10 +587,6 @@ Once indie rock's ideals take root, they end up taking over. After all, with so 
 Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can once again turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. Interdependent bands, however, play to their strengths by having *partners* cover their weaknesses— which lets them put 20% effort into getting 80% results, over and over. Well, added up… that's *400%* results!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Let's call this the "4x law of interdependence," then: By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Which checks out: The greatest interdependent band *ever* is the Beatles, who are at *least* four times better than the greatest that indie rock has to offer!
 
