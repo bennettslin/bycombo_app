@@ -228,6 +228,8 @@ Need for BYCombo. 1/2 paragraph.
 Third paragraph. Make point about influencers not being a model for gaining prestige.
 
 Move "behaving like indies" link further up.
+
+Mention parasocial relationships.
 `}
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is actually their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and reflect, they simply follow the instincts handed down by their forebears— much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=According%20to%20Dr,they%20flew%20level.) by starlight.
@@ -238,9 +240,9 @@ when indie artists were shut out from getting heard on the radio, and showed ini
 
 unlike the alternative bands, who gained exposure through the radio, indie artists would win over one fan at a time by directly engaging with them at their live shows, and then counting on news to spread by word of mouth. This took initiative, and so the indie camp associated it with acclaim.
 
-But today on the Internet, word of mouth equates to wisdom of the crowd— which settles on an average by eliminating outliers. Meanwhile, those who excel at engaging with fans are called influencers; we grant them *fame*, not *acclaim*. Yet the indies haven't noticed! Like moths circling around lanterns, they're stuck with outdated instincts in our modern world.
+But today on the Internet, word of mouth equates to wisdom of the crowd— which settles on an average by eliminating outliers. Meanwhile, those who excel at engaging with fans are called influencers; we grant them *fame*, not *acclaim*. Yet the indies haven't noticed! Like moths circling around flames, they're stuck with outdated instincts in a modern world.
 
-So yes, the middleman's job can seem redundant— but redundancy is what keeps a system robust, allowing it to adapt in the face of change. Unfortunately, the major labels are now struggling to hold the bottom line themselves, leading them to behave more and more like indies. So BYCombo…
+Yes, the middleman's job might seem redundant— but redundancy is what keeps a system robust, allowing it to adapt in the face of change. Unfortunately, the major labels are now struggling to hold the bottom line themselves, leading them to behave more and more like indies. So BYCombo…
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
