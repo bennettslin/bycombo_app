@@ -222,7 +222,7 @@ Of course, these instincts— respecting word of mouth, rewarding direct fan eng
 
 unlike the alternative bands, who gained exposure through the radio, indie artists would win over one fan at a time by directly engaging with them at their live shows, and then counting on news to spread by word of mouth. This took initiative, and so the indie camp associated it with acclaim.
 
-But on the Internet, word of mouth reflects the wisdom of the crowd— which settles on an average by eliminating all outliers. Meanwhile, those who gain fans through direct engagement are called "influencers"; they enjoy fame, not acclaim. Yet the indie labels haven't noticed! Like moths circling around lampposts, they're stuck with outdated instincts, unable to adapt.
+But on the Internet, word of mouth means the wisdom of the crowd— which settles on an average by eliminating all outliers. Meanwhile, those who excel at directly engaging with fans are called "influencers"; they only enjoy fame, not acclaim. Yet the indie labels haven't noticed! Like moths circling around lampposts, they're stuck with outdated instincts, unable to adapt.
 
 Let's face it, middlemen might seem redundant in our times, but redundancy is what makes a system robust, allowing it to adapt in the face of change. And now the major labels are struggling to hold the bottom line themselves, and thus behave like indies as well. So BYCombo…
 
