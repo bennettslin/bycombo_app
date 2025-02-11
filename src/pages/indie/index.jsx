@@ -202,10 +202,6 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 ${'  ' || `
 // TODO: New section.
 
-Mention wisdom of the crowd. Eliminates outliers, picks averages.
-
-https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=Despite%20the%20rich%20history%20of,light%20to%20escape%20imminent%20danger.
-
 https://www.forkingpaths.co/p/against-optimization
 
 Indie tastemakers respect word of mouth and fan engagement. 1 paragraph.
@@ -220,11 +216,13 @@ Redundancy made major labels more robust in their heyday. 1/2 paragraph.
 Need for BYCombo. 1/2 paragraph.
 `}
 
-Can the indie tastemakers learn *not* to be led astray? No, they're overworked and underpaid; they have no mental capacity to spare. Moreover, this is their selling point: By refusing to employ middlemen, they pass the savings onto their artists. Like moths navigating by moonlight, then, they simply follow a set of instincts that long preceded them.
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid; they have no chance to pause and reflect. Moreover, this is their selling point: By refusing to employ middlemen, they pass the savings onto their artists. And so they mindlessly follow the same instincts passed down by their forebears— like moths [orienting themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=According%20to%20Dr,they%20flew%20level.) by starlight. (Rephrase as knowing which way is up.)
 
-Of course, these instincts served their forebears well. In the '90s, unlike the alternative bands, who gained exposure through the radio, indie artists would win over one fan at a time by directly engaging with them at their live shows, and then counting on news to spread by word of mouth. This took initiative, and so the indie camp associated it with prestige.
+Of course, these instincts— respecting word of mouth, rewarding direct fan engagement, and so on— made sense in the '90s. Unable to get heard on the radio, indie artists showed initiative by playing live shows.
 
-With the rise of the Internet, however, word of mouth has become wisdom of the crowd, which eliminates outliers. While those most adept at directly engaging with their fans are known as influencers, who command fame but not prestige. Like moths flying in circles around lampposts, the indie tastemakers' instincts lead them astray in the face of new technology.
+unlike the alternative bands, who gained exposure through the radio, indie artists would win over one fan at a time by directly engaging with them at their live shows, and then counting on news to spread by word of mouth. This took initiative, and so the indie camp associated it with acclaim.
+
+But on the Internet, word of mouth reflects the wisdom of the crowd— which settles on an average by eliminating all outliers. Meanwhile, those who gain fans through direct engagement are called "influencers"; they enjoy fame, not acclaim. Yet the indie labels haven't noticed! Like moths circling around lampposts, they're stuck with outdated instincts, unable to adapt.
 
 Let's face it, middlemen might seem redundant in our times, but redundancy is what makes a system robust, allowing it to adapt in the face of change. And now the major labels are struggling to hold the bottom line themselves, and thus behave like indies as well. So BYCombo…
 
