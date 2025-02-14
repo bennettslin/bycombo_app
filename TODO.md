@@ -20,11 +20,12 @@
     * Change interactivated verse?
 
 * BYC
-    * History makers are now hobbyists?
+    * History making is now a hobby
         * Heart surgeons
         * Pro-artist
         * What about every tier of artists *below*?
         * End by mentioning canon
+        * Needs to mention indie
     * Get rid of song links?
         * Otherwise, add Jolene link
     * Consider doing screen widths smartly
