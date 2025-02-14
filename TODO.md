@@ -20,7 +20,11 @@
     * Change interactivated verse?
 
 * BYC
-    * Replace "people" with "masses"?
+    * History makers are now hobbyists?
+        * Heart surgeons
+        * Pro-artist
+        * What about every tier of artists *below*?
+        * End by mentioning canon
     * Get rid of song links?
         * Otherwise, add Jolene link
     * Consider doing screen widths smartly

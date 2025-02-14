@@ -135,7 +135,11 @@ Yet this same camp will then complain that the Rock and Roll Hall of Fame doesn'
 
 Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
-### ${++sectionCounter}. Talent wants a path to stardom
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Talent craves a path to stardom
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant "long tail" decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
@@ -190,6 +194,10 @@ But this can't happen if you're always context switching— which explains why "
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
 Historically, artists lacked all means to get themselves known to the public, freeing them to explore at will— and sometimes leading to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— leaving them reluctant to experiment, for fear of losing those fans.
+
+${'  ' || `
+// TODO: Revise. Sentence should be "would cast a wide net." Then account for major labels no longer having the budget to do so in the next section.
+`}
 
 Meanwhile, the major labels in the past had the budget to cast a wide net for talent— which makes sense business-wise, since this allowed them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But a bigger roster can be more [diverse as well](https://www.investopedia.com/investing/importance-diversification)— so, funny enough, this *also* led them to deliver the boldest art… by freeing them to pick unknown artists with unexpected ideas!
 
@@ -608,7 +616,11 @@ If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
 
-### ${++sectionCounter}. History makers believe in saviors
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Artists want to believe in saviors
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
 
