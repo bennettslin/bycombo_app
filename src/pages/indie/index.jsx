@@ -280,7 +280,7 @@ The richest nations build systems that allow their citizens to trust each other 
 
 Indie artists work hard *not* to need a label, and will do so even [when signed](https://web.archive.org/web/20120706/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day flourish, the past proves that rock can be interdependent once again!
 
-BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others finally [reciprocate the courage](https://web.archive.org/web/20210508013749/https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=One%20worrying%20outcome,attempt%20at%20coordination.) to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
+BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others finally [reciprocate the courage](https://web.archive.org/web/20210508/https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=One%20worrying%20outcome,attempt%20at%20coordination.) to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
@@ -396,7 +396,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Thankfully, *I've* never taken to indie rock's ideal of populist solidarity; as a minority Xennial, I much prefer hip hop's penchant for elitist snobbery— "rappism," maybe? Because public exposure *is* a zero-sum game, like it or not. Now BYCombo lets you treat it as such… just like rappists always have.
+Thankfully, *I've* never taken to indie rock's ideal of populist solidarity; as a minority Xennial, I much prefer hip hop's penchant for elitist snobbery— "rappism," maybe? Because public exposure *is* a zero-sum game, like it or not; now BYCombo lets your band treat it as such… as rappists always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
@@ -409,6 +409,7 @@ Of course, it isn't just in politics, but also in culture, where this confusion 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*— and thus sees wisdom in joining as well.
 
 Will Democrats become a party of the sideways horseshoe, then, much like those early Republicans? I don't know enough to say. But I'm *fully* qualified to predict a return of the sideways horseshoe… in *rock*! Because BYCombo lets those of you in the underground join the establishment once again— even if, like Kurt Cobain, you'd never admit to this dream.
+
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
@@ -424,7 +425,7 @@ ${'  ' || `
 // TODO: Revise. Reiterate low status?
 `}
 
-Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can hope for amnesty, after betting it all on the craft— your "hobby."
+Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can hope for amnesty, as a member of the lowest-status group today: the hobbyists.
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
@@ -618,7 +619,11 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 ### ${++sectionCounter}. Victory is assured
 
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can already do the middleman's job? Or what critic, the one whose well-chosen identity provides so much surrounding context? Or what fan, the one who directly engages with them in a parasocial relationship?
+${'  ' || `
+// TODO: Review.
+`}
+
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can already do the middleman's job? Or what critic, the one whose well-placed identity provides so much surrounding context? Or what fan, the one who directly engages with them in a parasocial relationship?
 
 Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can once again turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 

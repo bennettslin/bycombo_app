@@ -21,11 +21,18 @@
 
 * BYC
     * History making is now a hobby
+        * After charitable support section
         * Heart surgeons
         * Pro-artist
         * What about every tier of artists *below*?
         * End by mentioning canon
         * Needs to mention indie
+        * Reiterate amnesty
+        * Mention grifters, but only if I mention them in identity section
+    * Identity is a bastion of the privileged
+        * After tolerance section
+        * Bon Iver link
+        * In an indiefied world, in which we were going to keep falling behind, we had to embrace wokeness as a fallback
     * Get rid of song links?
         * Otherwise, add Jolene link
     * Consider doing screen widths smartly
