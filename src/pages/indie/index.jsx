@@ -421,7 +421,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Thankfully, *I've* never taken to indie rock's ideal of populist solidarity; as a minority Xennial, I much prefer hip hop's penchant for elitist snobbery— "rappism," maybe? Because public exposure *is* a zero-sum game, like it or not; now BYCombo lets you treat it as such… just like rappists always have.
+Thankfully, *I've* never taken to indie rock's ideal of populist solidarity; as a minority Xennial, I much prefer hip hop's penchant for elitist snobbery— "rappism," maybe? Because public exposure *is* a zero-sum game, like it or not. Now BYCombo lets you treat it as such… just like rappists always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
@@ -434,7 +434,6 @@ Of course, it isn't just in politics, but also in culture, where this confusion 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*— and thus sees wisdom in joining as well.
 
 Will Democrats become a party of the sideways horseshoe, then, much like those early Republicans? I don't know enough to say. But I'm *fully* qualified to predict a return of the sideways horseshoe… in *rock*! Because BYCombo lets those of you in the underground join the establishment once again— even if, like Kurt Cobain, you'd never admit to this dream.
-
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
