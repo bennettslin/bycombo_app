@@ -121,6 +121,27 @@ So indie rock set off a chain reaction, forcing the next tier of artists above t
 
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
 
+### ${++sectionCounter}. History making is now a mere hobby
+
+${'  ' || `
+// TODO: New section.
+
+* After charitable support section
+* Heart surgeons
+* Pro-artist
+* Mention every tier of artists *below*.
+* Mention canon
+* Needs to mention indie
+* Reiterate amnesty
+* The grifters, who alone can devote all their time and energy…
+    * Amanda Palmer TED Talk
+* Good intentions final chapter
+`}
+
+Why does indie rock's support for artists end up making the arts *worse*? It's simple: Unlike, let's say, heart surgery, which should *only* be performed by heart surgeons, *everyone* is encouraged to make art, and many of us do. The first point of order, then, is to separate "real" artists, who need our support, from mere hobbyists, who don't.
+
+To be clear, we can still want artists to have, let's say, health care— but the only way to do so without hurting the arts is to call for *everyone* to have it.
+
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
 Growing up as a second-generation immigrant, I knew early on that other countries had their [own rock canons](https://youtu.be/AffEkIRKmTc). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
@@ -286,7 +307,11 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
 
-Here's the problem, though: Once a mark of verification is easy to attain, it ceases to be an honest signal. We can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who'd rather hustle to *get* the job, than work to *deserve* it. Seems bad, right? Yet it's even worse…
+${'  ' || `
+// TODO: Review.
+`}
+
+Here's the problem, though: Once a mark of verification is easy to attain, it ceases to be an honest signal. We can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy: the grifters who'd rather hustle to *get* the job, than work to *deserve* it. Seems bad, right? Yet it's even worse…
 
 You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now *every* artist must waste time and energy on the hustle!
 
@@ -396,7 +421,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Thankfully, *I've* never taken to indie rock's ideal of populist solidarity; as a minority Xennial, I much prefer hip hop's penchant for elitist snobbery— "rappism," maybe? Because public exposure *is* a zero-sum game, like it or not; now BYCombo lets your band treat it as such… as rappists always have.
+Thankfully, *I've* never taken to indie rock's ideal of populist solidarity; as a minority Xennial, I much prefer hip hop's penchant for elitist snobbery— "rappism," maybe? Because public exposure *is* a zero-sum game, like it or not; now BYCombo lets you treat it as such… just like rappists always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
@@ -422,10 +447,10 @@ And this should concern us, since Radiohead… were the ultimate hobbyists! They
 But can't *today's* indies learn to sign the *next* Radiohead? No, because status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
 ${'  ' || `
-// TODO: Revise. Reiterate low status?
+// TODO: Review.
 `}
 
-Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can hope for amnesty, as a member of the lowest-status group today: the hobbyists.
+Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can hope for amnesty, after betting it all on the craft— your low-status "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
@@ -619,11 +644,7 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 ### ${++sectionCounter}. Victory is assured
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can already do the middleman's job? Or what critic, the one whose well-placed identity provides so much surrounding context? Or what fan, the one who directly engages with them in a parasocial relationship?
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can already do the middleman's job? Or what critic, the one whose well-chosen identity provides so much surrounding context? Or what fan, the one who directly engages with them in a parasocial relationship?
 
 Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can once again turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
