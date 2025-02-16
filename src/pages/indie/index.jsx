@@ -370,7 +370,7 @@ Third paragraph:
 But welfare programs are fragile, and it's easy to see why. Nobody who gains from strong centralized systems loves them, while those who have to pay in hate them. At some point, a generation decides not to pay it forward to the next.
 
 Fourth paragraph:
-Surprisingly, Millennials let Gen X do this.
+Surprisingly, Millennials let Gen X do this. Libertarians.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
@@ -475,8 +475,6 @@ There's also a selfish reason to do so: Once we shut out the outsiders of our ti
 ${'  ' || `
 // TODO: New section: Identity
 
-* White male artists gained advantage by evoking a familiar archetype
-    * I had to create archetype from scratch
 * After tolerance section, or before?
 * Bon Iver link
 * Minorities were once inventors, we're now charity cases
@@ -487,15 +485,13 @@ ${'  ' || `
 * Mention that it's called wokeness
 * Mention charity case?
 * Wokeness, then, is a libertarian solution to a problem caused by libertarian ideals to begin with.
-* Get rid of song links?
-    * Otherwise, add Jolene link
-* Consider doing screen widths smartly
-* Consider smart quote in Wikipedia link update
-* Revise apply page
-* https://www.matthewstrother.org/applications
 
 Given a choice to benefit from one's identity, or from interdependence, it's the *privileged* groups who'd choose the former over the latter.
 `}
+
+It's easy to understand why the privileged prefer indie rock's cultural libertarianism: Without the ability to benefit from partners, *all* we have is our starting advantages. The problem, of course, is that no matter how privileged you are, there's always someone out there with greater starting advantages than you. Now what? At that point, you lean on your identity.
+
+In the late '00s, the White male artists of indie rock began to do just that. They could lean on romantic archetypes that were long established. As a minority with no choice but to create new archetypes, I struggled to compete, and finally left in frustration. When I returned to music a decade later, I was surprised to learn it was now women and minorities who were being accused of banking on their identities— a phenomenon known as "wokeness."
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
