@@ -477,21 +477,15 @@ ${'  ' || `
 
 * After tolerance section, or before?
 * Bon Iver link
-* Minorities were once inventors, we're now charity cases
-* Forcing everyone to be indie, then compensating for the inevitable mediocrity by fixating on an artist's identity, is a wish of the privileged, not the *under*-privileged.
-* If we aren't allowed to benefit from interdependence, and we have no hidden advantages ourselves, then all we have is our identity
-* In an indiefied world, in which we were going to keep falling behind, we had to embrace identity as a fallback
-* Mention surrounding context
-* Mention that it's called wokeness
-* Mention charity case?
-* Wokeness, then, is a libertarian solution to a problem caused by libertarian ideals to begin with.
-
-Given a choice to benefit from one's identity, or from interdependence, it's the *privileged* groups who'd choose the former over the latter.
 `}
 
-It's easy to understand why the privileged prefer indie rock's cultural libertarianism: Without the ability to benefit from partners, *all* we have is our starting advantages. The problem, of course, is that no matter how privileged you are, there's always someone out there with greater starting advantages than you. Now what? At that point, you lean on your identity.
+Why do the privileged prefer indie rock's cultural libertarianism? It's because, without the ability to benefit from partners, *all* we have is our starting advantages. The problem, of course, is that no matter how privileged you are, there's always someone out there with greater starting advantages than you. Now what? At that point, you lean on your identity. In the late '00s, the White male artists of indie rock began to do just that. They could lean on romantic archetypes that were long established.
 
-In the late '00s, the White male artists of indie rock began to do just that. They could lean on romantic archetypes that were long established. As a minority with no choice but to create new archetypes, I struggled to compete, and finally left in frustration. When I returned to music a decade later, I was surprised to learn it was now women and minorities who were being accused of banking on their identities— a phenomenon known as "wokeness."
+As a minority with no choice but to create new archetypes, I struggled to compete, and finally left in frustration. (Save space by not mentioning leaving?) When I returned to music a decade later, I learned that indie rock had a crisis of conscience about its overwhelming White maleness— and was now helping women and minorities in the only way it knew how: by helping them to benefit from their own identities— a phenomenon known as "wokeness."
+
+But disadvantaged groups know that benefiting from our identities is a disaster waiting to happen. It's why we've only ever founded movements based on radical new inventions, not presenting ourselves as charity cases. Sure enough, wokeness has now provoked a backlash— from libertarians. Their efforts are doomed to fail, because wokeness is actually a *libertarian* solution to a problem caused by the libertarian ideals of the privileged to begin with!
+
+Given a choice to benefit from one's identity, or from interdependence, it's the *privileged* groups who'd choose the former over the latter. Thankfully, as a minority Xennial, I've long understood that I'd need to radical new inventions, since no one cares about my identity. Now with BYCombo…
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
