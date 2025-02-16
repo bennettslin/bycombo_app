@@ -119,28 +119,33 @@ Unlike an arts foundation, though, phlans *don't* need to hold strict standards 
 
 So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
-And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way— by needing no defense to begin with.
+${'  ' || `
+// TODO: Review.
+`}
+
+And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. In which case, why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way… by needing no defense to begin with.
 
 ### ${++sectionCounter}. History making is now a mere hobby
 
 ${'  ' || `
-// TODO: New section.
+// TODO: New section: Hobby
 
 * After charitable support section
-* Heart surgeons
 * Pro-artist
 * Mention every tier of artists *below*.
 * Mention canon
 * Needs to mention indie
 * Reiterate amnesty
-* The grifters, who alone can devote all their time and energy…
-    * Amanda Palmer TED Talk
 * Good intentions final chapter
 `}
 
-Why does indie rock's support for artists end up making the arts *worse*? It's simple: Unlike, let's say, heart surgery, which should *only* be performed by heart surgeons, *everyone* is encouraged to make art, and many of us do. The first point of order, then, is to separate "real" artists, who need our support, from mere hobbyists, who don't.
+So charitable support isn't just kind to the *highest* tier of artists; it's also cruel to the *lowest*. Which… is where it seats the history makers of our times! How did this happen? It's simple: Since *everyone* is free to make art, we can only offer support by first separating the "real" artists, who deserve it, from the mere hobbyists, who don't.
 
-To be clear, we can still want artists to have, let's say, health care— but the only way to do so without hurting the arts is to call for *everyone* to have it.
+The first order of business is to determine the criteria that separates real artists from hobbyists. But these criteria can only be established by looking to the past. But this punishes history makers, who, in trying to establish new paradigms, necessarily *won't* be looking to the past.
+
+Furthermore, it's up to each artist to decide exactly when their apprentice years are over, and their years as a working musician begin. But it's precisely those who care most to be the best who won't skip their apprentice years. Which means they'll benefit the least from our support.
+
+To be clear, we can still want artists to get health care— but the only way to call for this, without hurting the history makers of our times, is to want every *person* to have it. Thankfully, I've long understood this, having been dismissed as a hobbyist by the indie camp for my entire life.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -229,7 +234,7 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 ### ${++sectionCounter}. Lean operations fail to adapt
 
 ${'  ' || `
-// TODO: New section.
+// TODO: New section: Lean
 
 Need wisdom of the crowd link.
 
@@ -303,11 +308,7 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Here's the problem, though: Once a mark of verification is easy to attain, it ceases to be an honest signal. We can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy: the grifters who'd rather hustle to *get* the job, than work to *deserve* it. Seems bad, right? Yet it's even worse…
+Here's the problem, though: Once a mark of verification is easy to attain, it ceases to be an honest signal. We can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who'd rather hustle to *get* the job, than work to *deserve* it. Seems bad, right? Yet it's even worse…
 
 You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now *every* artist must waste time and energy on the hustle!
 
@@ -342,7 +343,7 @@ But why would the next generation side with past tastemakers who *didn't* care w
 ### ${++sectionCounter}. Welfare gets cut by past beneficiaries
 
 ${'  ' || `
-// TODO: Keep working on.
+// TODO: New section: Welfare
 
 After democratization, for mention of indieocracy. But before elitism, for mention of legacy institutions. So, between hustlers and paid dues, for theme of not caring about the future, followed by theme of widening vicious circle.
 
@@ -468,6 +469,33 @@ Yet when I came along— trying much harder, to be much better— no indie taste
 Thus I had *no* lifeline— and then, as it turns out, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we *must* throw a lifeline to those we don't root for.
 
 There's also a selfish reason to do so: Once we shut out the outsiders of our times, we can no longer deflect any claim that music got worse under our watch— a claim that history will surely make against Millennials! Luckily, if you're hungry enough to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain once more.
+
+### ${++sectionCounter}. Identity is a fallback of the privileged
+
+${'  ' || `
+// TODO: New section: Identity
+
+* White male artists gained advantage by evoking a familiar archetype
+    * I had to create archetype from scratch
+* After tolerance section, or before?
+* Bon Iver link
+* Minorities were once inventors, we're now charity cases
+* Forcing everyone to be indie, then compensating for the inevitable mediocrity by fixating on an artist's identity, is a wish of the privileged, not the *under*-privileged.
+* If we aren't allowed to benefit from interdependence, and we have no hidden advantages ourselves, then all we have is our identity
+* In an indiefied world, in which we were going to keep falling behind, we had to embrace identity as a fallback
+* Mention surrounding context
+* Mention that it's called wokeness
+* Mention charity case?
+* Wokeness, then, is a libertarian solution to a problem caused by libertarian ideals to begin with.
+* Get rid of song links?
+    * Otherwise, add Jolene link
+* Consider doing screen widths smartly
+* Consider smart quote in Wikipedia link update
+* Revise apply page
+* https://www.matthewstrother.org/applications
+
+Given a choice to benefit from one's identity, or from interdependence, it's the *privileged* groups who'd choose the former over the latter.
+`}
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 

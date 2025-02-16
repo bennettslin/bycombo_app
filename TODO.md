@@ -20,25 +20,6 @@
     * Change interactivated verse?
 
 * BYC
-    * Identity is a bastion of the privileged
-        * White male artists gained advantage by evoking a familiar archetype
-            * I had to create archetype from scratch
-        * After tolerance section, or before?
-        * Bon Iver link
-        * Minorities were once inventors, we're now charity cases
-        * Forcing everyone to be indie, then compensating for the inevitable mediocrity by fixating on an artist's identity, is a wish of the privileged, not the *under*-privileged.
-        * If we aren't allowed to benefit from interdependence, and we have no hidden advantages ourselves, then all we have is our identity
-        * In an indiefied world, in which we were going to keep falling behind, we had to embrace identity as a fallback
-        * Mention surrounding context
-        * Mention that it's called wokeness
-        * Mention charity case?
-        * Mention libertarianism again?
-    * Get rid of song links?
-        * Otherwise, add Jolene link
-    * Consider doing screen widths smartly
-    * Consider smart quote in Wikipedia link update
-    * Revise apply page
-        * https://www.matthewstrother.org/applications
 
 * Distro
     * Make everything (demo version)
