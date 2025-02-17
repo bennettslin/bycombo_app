@@ -262,15 +262,11 @@ Mention parasocial relationships.
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is actually their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and reflect, they simply follow the instincts handed down by their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=According%20to%20Dr,they%20flew%20level.) by starlight.
 
-Of course, these instincts made sense in the past. For example, by granting acclaim to artists who directly engage with their fans, they were 
+Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. For instance, the indie camp learned to value word of mouth because, back then, it only *ever* traveled through the local scenes. And likewise with their respect for direct fan engagement: It was only *ever* possible with a local crowd.
 
-when indie artists were shut out from getting heard on the radio, and showed initiative by playing live shows instead.
+But now in the online era, word of mouth equates to wisdom of the crowd— which settles on an average by eliminating outliers. Meanwhile, those who excel at engaging with fans are called influencers; we grant them *fame*, not *acclaim*. Yet… the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
-unlike the alternative bands, who gained exposure through the radio, indie artists would win over one fan at a time by directly engaging with them at their live shows, and then counting on news to spread by word of mouth. This took initiative, and so the indie camp associated it with acclaim.
-
-But in the online era, word of mouth equates to wisdom of the crowd— which settles on an average by eliminating outliers. Meanwhile, those who excel at engaging with fans are called influencers; we award them *fame*, not *acclaim*. Yet… the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
-
-Yes, the middleman's job might seem redundant— but redundancy is what keeps a system robust, allowing it to adapt in the face of change. Unfortunately, the major labels are now struggling to hold the bottom line themselves, leading them to behave more and more like indies. So BYCombo…
+So yes, the middleman's job can seem redundant— but redundancy is what keeps a system robust, allowing it to adapt in the face of change. Unfortunately, even the major labels now lack the budget to cast a wide net, leading them to behave more and more like indies. So BYCombo…
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -483,7 +479,11 @@ Why do the privileged prefer indie rock's cultural libertarianism? It's because,
 
 As a minority with no choice but to create new archetypes, I struggled to compete, and finally left in frustration. (Save space by not mentioning leaving?) When I returned to music a decade later, I learned that indie rock had a crisis of conscience about its overwhelming White maleness— and was now helping women and minorities in the only way it knew how: by helping them to benefit from their own identities— a phenomenon known as "wokeness."
 
-But disadvantaged groups know that benefiting from our identities is a disaster waiting to happen. It's why we've only ever founded movements based on radical new inventions, not presenting ourselves as charity cases. Sure enough, wokeness has now provoked a backlash— from libertarians. Their efforts are doomed to fail, because wokeness is actually a *libertarian* solution to a problem caused by the libertarian ideals of the privileged to begin with!
+But disadvantaged groups know that benefiting from our identities is a disaster waiting to happen. It's why we've only ever founded movements based on radical new inventions, not presenting ourselves as charity cases.
+
+When White men evoke the romantic archetypes of the past, it's not obvious that women and minorities aren't free to do the same. By contrast, when women and minorities lean into their identities, it's obvious to everyone that White men aren't free to do the same.
+
+Sure enough, wokeness has now provoked a backlash— from libertarians. Their efforts are doomed to fail, because wokeness is actually a *libertarian* solution to a problem caused by the libertarian ideals of the privileged to begin with!
 
 Given a choice to benefit from one's identity, or from interdependence, it's the *privileged* groups who'd choose the former over the latter. Thankfully, as a minority Xennial, I've long understood that I'd need to radical new inventions, since no one cares about my identity. Now with BYCombo…
 
