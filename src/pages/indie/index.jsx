@@ -226,7 +226,7 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 ### ${++sectionCounter}. Lean operations fail to adapt
 
 ${'  ' || `
-// TODO: Keep working on.
+// TODO: Review a few more times.
 
 For instance, it's precisely *because* word of mouth only traveled through the local scenes that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it only *ever* took place among a local gathering.
 `}
@@ -235,9 +235,9 @@ Can the indie labels learn *not* to be led astray? No, they're overworked and un
 
 Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. The reason the indies came to value word of mouth so highly, for example, is because it mostly traveled through the local scenes. And likewise with their respect for direct fan engagement: Back then, it was only ever possible with a local gathering.
 
-But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so might thus enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
+But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out all extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
-So yes, middlemen might seem redundant— but redundancy is what keeps a [system robust](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. Luckily, BYCombo lets you find partners who can adapt to our modern world… by encouraging you to share your earnings.
+So yes, middlemen might seem redundant— but redundancy is what keeps a [system robust](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. Which is why BYCombo tells you to share your earnings: To make art for a modern world, you need partners who aren't too harried to see it.
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -489,7 +489,11 @@ To sum up, it was the *indie camp* who gave us today's [data-driven industry](ht
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
-Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're like word of mouth… which is why indie rock embraced them for as long as it did. In this light, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
+${'  ' || `
+// TODO: Review.
+`}
+
+Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms reflect what the people want, just like word of mouth does… which is why indie rock embraced them for as long as it did. In this light, then, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups… who generate the *most* creative ideas! And when in doubt, we imitate others… yet they *share* our biases! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
 
@@ -613,7 +617,11 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
 
-Thanks to indie rock, however, today's artists have no such reason to believe. So they put out work after work, hoping one will catch on with the crowd— which, these days, means the algorithms. But by spreading their works from the bottom up, they build a different set of talents, leading to a different kind of work— a difference that many of us hear, even if we can't articulate it.
+${'  ' || `
+// TODO: Review.
+`}
+
+Thanks to indie rock, however, today's artists have no such reason to believe. So they put out work after work, hoping one will catch on with the crowd— or, these days, with the algorithms. But by spreading their works from the bottom up, they build a different set of talents, leading to a different kind of work— a difference that many of us hear, even if we can't articulate it.
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel the same. But when artists are being discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered this way as well?
 
