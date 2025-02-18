@@ -19,7 +19,11 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an X
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
 
-First, we raise *awareness*. Since "indie" means "good" to so many, few see the adverse effects of what I call "indiefication"— namely, our drive to propagate indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement… and so forth.
+${'  ' || `
+// TODO: Review.
+`}
+
+First, we raise *awareness*. Since "indie" means "good" to so many, few see the adverse effects of what I call "indiefication"— namely, our drive to propagate indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, respecting direct fan engagement… and so forth.
 
 Indiefication, seen to its logical conclusion in the online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— rather than simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by meeting *our* ideals! The problem, then, is with these *ideals*— and if you keep reading, I'll set this record straight.
 
@@ -141,7 +145,7 @@ The first order of business is to determine the criteria that separates real art
 
 Furthermore, it's up to each artist to decide exactly when their apprentice years are over, and their years as a working musician begin. But it's precisely those who care most to be the best who won't skip their apprentice years. Which means they'll benefit the least from our support.
 
-To be clear, we can still want artists to get health care— but the only way to call for this, without hurting the history makers of our times, is to want every *person* to have it. Thankfully, I've long understood this, having been dismissed as a hobbyist by the indie camp for my entire life.
+To be clear, we can still want artists to get health care— but the only way to call for this, without hurting the history makers of our times, is to want every *person* to have it. I've long understood this, having been dismissed as a hobbyist by the indie camp for my entire life.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -230,39 +234,16 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 ### ${++sectionCounter}. Lean operations fail to adapt
 
 ${'  ' || `
-// TODO: New section: Lean
-
-Need wisdom of the crowd link.
-
-Account for major labels no longer having the budget to cast a wide net.
-
-https://www.forkingpaths.co/p/against-optimization
-
-Indie tastemakers respect word of mouth and fan engagement. 1 paragraph.
-
-New technology has trivialized word of mouth and fan engagement. 1 paragraph.
-
-Indie tastemakers are lean operations, and thus can't adapt. 1/2 paragraph.
-Moths evolved to navigate by moonlight. 1/4 paragraph.
-Moths can't adapt to new technology. 1/4 paragraph.
-
-Redundancy made major labels more robust in their heyday. 1/2 paragraph.
-Need for BYCombo. 1/2 paragraph.
-
-Third paragraph. Make point about influencers not being a model for gaining prestige.
-
-Move "behaving like indies" link further up.
-
-Mention parasocial relationships.
+// TODO: Review a few more times.
 `}
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is actually their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and reflect, they simply follow the instincts handed down by their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=According%20to%20Dr,they%20flew%20level.) by starlight.
 
-Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. For instance, the indie camp learned to value word of mouth because, back then, it only *ever* traveled through the local scenes. And likewise with their respect for direct fan engagement: It was only *ever* possible with a local crowd.
+Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. In other words, it's precisely *because* word of mouth only traveled through the local scenes that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it only *ever* took place among a local gathering.
 
-But now in the online era, word of mouth equates to wisdom of the crowd— which settles on an average by eliminating outliers. Meanwhile, those who excel at engaging with fans are called influencers; we grant them *fame*, not *acclaim*. Yet… the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
+But now in the online era, word of mouth equates to wisdom of the crowd— which settles on an average by canceling out the extremes. Meanwhile, those who excel at engaging with their fans are called influencers; we grant them *fame*, not *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
-So yes, the middleman's job can seem redundant— but redundancy is what keeps a system robust, allowing it to adapt in the face of change. Unfortunately, even the major labels now lack the budget to cast a wide net, leading them to behave more and more like indies. So BYCombo…
+So yes, middlemen might seem redundant— but redundancy is what keeps a [system robust](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. Which is why BYCombo tells you to share your earnings… thus allowing you to find partners who can adapt to our modern world.
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -326,7 +307,11 @@ Nick Drake was ignored in his own time— yet the next generation made him known
 
 In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a stellar demo— even one with no fanbase, like Nick. But indie rock's rule is for artists to get themselves known, whether or not they deserve to be. Because of this, the notion is now vulgar that those who don't hustle could ever be *made* known… simply by deserving to be.
 
-Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/about) out of their fans?
+${'  ' || `
+// TODO: Review link.
+`}
+
+Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/p/the-big-business-of-stan-culture) out of their fans?
 
 So instead, you build yourself up to be what a future audience— or dating prospect!— *would* want, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet from what I've seen… the indie tastemakers won't "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
 
@@ -469,6 +454,7 @@ ${'  ' || `
 
 * After tolerance section, or before?
 * Bon Iver link
+* Must reference surrounding context somehow
 `}
 
 Why do the privileged prefer indie rock's cultural libertarianism? It's because, without the ability to benefit from partners, *all* we have is our starting advantages. The problem, of course, is that no matter how privileged you are, there's always someone out there with greater starting advantages than you. Now what? At that point, you lean on your identity. In the late '00s, the White male artists of indie rock began to do just that. They could lean on romantic archetypes that were long established.
@@ -535,7 +521,11 @@ Whenever I used to grumble about getting rejected by the indie tastemakers, frie
 
 See, us dreamers, we're not grounded in reality— which makes us awful at fulfilling visions on our own. Naturally, then, the indie camp assumed we'd gain the most from their online tools. But… I wasn't prepared for what would follow; I didn't realize a new generation of strivers was about to raise the bar for hustling. So, like a child, I thought I'd get points just for trying.
 
-Yet… it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— being strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— being strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
 
 But all is assumed to be well, since today's artists *do* resemble the innovative artists of yesteryear… while we're never shown what true innovation in our times should *actually* entail. Still, what if *you're* here to truly innovate— not just to "larp," or role-play, the *idea* of doing so? Then keep on dreaming like a child, and let BYCombo help you find the perfect partner: a striver!
 
@@ -641,7 +631,11 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 ### ${++sectionCounter}. Victory is assured
 
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can already do the middleman's job? Or what critic, the one whose well-chosen identity provides so much surrounding context? Or what fan, the one who directly engages with them in a parasocial relationship?
+${'  ' || `
+// TODO: Review.
+`}
+
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can already do the middleman's job? Or what critic, the one whose well-chosen identity provides so much surrounding context? Or what fan, the one who directly engages with them… while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor?
 
 Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can once again turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
