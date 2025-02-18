@@ -234,16 +234,16 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 ### ${++sectionCounter}. Lean operations fail to adapt
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Keep working on.
 `}
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is actually their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and reflect, they simply follow the instincts handed down by their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=According%20to%20Dr,they%20flew%20level.) by starlight.
 
-Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. In other words, it's precisely *because* word of mouth only traveled through the local scenes that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it only *ever* took place among a local gathering.
+Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. For instance, the reason the indies came to value word of mouth so highly is because, back then, it only *ever* traveled through the local scenes. And the same can be said of their respect for direct fan engagement: It only *ever* took place among a local gathering.
 
 But now in the online era, word of mouth equates to wisdom of the crowd— which settles on an average by canceling out the extremes. Meanwhile, those who excel at engaging with their fans are called influencers; we grant them *fame*, not *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
-So yes, middlemen might seem redundant— but redundancy is what keeps a [system robust](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. Which is why BYCombo tells you to share your earnings… thus allowing you to find partners who can adapt to our modern world.
+So yes, middlemen might seem redundant— but redundancy is what keeps a [system robust](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. Luckily, with BYCombo, you can find partners who can adapt to our modern world…
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -457,9 +457,9 @@ ${'  ' || `
 * Must reference surrounding context somehow
 `}
 
-Why do the privileged prefer indie rock's cultural libertarianism? It's because, without the ability to benefit from partners, *all* we have is our starting advantages. The problem, of course, is that no matter how privileged you are, there's always someone out there with greater starting advantages than you. Now what? At that point, you lean on your identity. In the late '00s, the White male artists of indie rock began to do just that. They could lean on romantic archetypes that were long established.
+It's easy to see why the privileged prefer indie rock's cultural libertarianism: In a decentralized free-for-all, *all* we have to work with is our starting advantages. The problem, of course, is that no matter how privileged you are, there's always someone out there with greater starting advantages than you. Now what? At that point, you lean on your identity.
 
-As a minority with no choice but to create new archetypes, I struggled to compete, and finally left in frustration. (Save space by not mentioning leaving?) When I returned to music a decade later, I learned that indie rock had a crisis of conscience about its overwhelming White maleness— and was now helping women and minorities in the only way it knew how: by helping them to benefit from their own identities— a phenomenon known as "wokeness."
+In the late '00s, the White male artists of indie rock began to do just that. They could lean on romantic archetypes that were long established. As a minority with no choice but to create new archetypes, I struggled to compete, and finally left in frustration. (Save space by not mentioning leaving?) When I returned to music a decade later, I learned that indie rock had a crisis of conscience about its overwhelming White maleness— and was now helping women and minorities in the only way it knew how: by helping them to benefit from their own identities— a phenomenon known as "wokeness."
 
 But disadvantaged groups know that benefiting from our identities is a disaster waiting to happen. It's why we've only ever founded movements based on radical new inventions, not presenting ourselves as charity cases.
 
