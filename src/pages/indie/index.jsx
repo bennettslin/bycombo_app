@@ -11,7 +11,7 @@ const Component = ({ sectionCounter = 0 }) => (
             title: TITLE,
             metaTitle: TITLE,
             metaDescription: DESCRIPTION,
-            date: { year: 2025, month: 1, updated: true },
+            date: { year: 2025, month: 2, updated: true },
             body: `
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
@@ -128,22 +128,16 @@ And yet, this obviously can't end well. We don't support artists of the *past*�
 ### ${++sectionCounter}. History making is now a mere hobby
 
 ${'  ' || `
-// TODO: New section: Hobby
-
-* After charitable support section
-* Mention canon at the end
-* Needs to mention indie
-* Reiterate amnesty
-* Good intentions final chapter
+// TODO: Review a few more times.
 `}
 
-By charitably supporting artists, then, we're needlessly kind to the ones at the top— and needlessly cruel to those at the bottom. "Is that bad, though?" Yes, because there's a third and final effect: We end up relegating the history makers of our times… to the very bottom! To see why this is so, let's imagine a program that offers living wages and free health care to *all* artists…
+By charitably supporting artists, then, we're both needlessly kind to the ones at the top, and needlessly cruel to those at the bottom. "Is that bad, though?" Yes, because there's a third and final effect: The history makers of our times… get relegated to the bottom! To see why this is so, let's imagine a government program that offers living wages and free health care to *all* artists.
 
-Now, *everyone* is free to make art, and many of us do, right? So the first order of business is to separate "real" artists, who deserve our support, from mere hobbyists, who don't. But whatever criteria we settle on will be based on how things were done *before*. So anyone hoping to establish a *new* paradigm— to rethink how art gets made, or by whom— will be dismissed as a hobbyist!
+Now, *everyone* is free to make art, and many of us do, right? So the first order of business is to separate "real" artists, who deserve our support, from mere hobbyists, who don't. But whatever criteria we settle on will be based on how things were done *before*. So anyone hoping to establish a *new* paradigm— to rethink how art gets made, and by whom— will be dismissed as a hobbyist!
 
-Furthermore, it's up to each artist to decide exactly when their apprentice years are over, and their years as a working musician begin. But it's precisely those who care most to be the best who won't skip their apprentice years. Which means they'll benefit the least from our support.
+Furthermore, it's up to each of us to decide that we've studied and practiced enough, and now our years as a working artist have begun. But if what's at stake is free health care… well then, who wouldn't want those years to begin at eighteen? Which means the kind of work that requires a lifetime of quiet planning and preparation might never again be made.
 
-To be clear, we can still want artists to get health care— but the only way to call for this, without hurting the history makers of our times, is to want every *person* to have it. I've long understood this, having been dismissed as a hobbyist by the indie camp for my entire life.
+We can still want living wages for *everyone*, of course. But once we insist on supporting artists in particular, those who'll *least* benefit are the ones most likely to make history! Fortunately, having been written off as a hobbyist all my life, I've *always* seen this clearly. Now with BYCombo, you too can aim for the canon, in the only way possible: by *refusing* to be a charity case.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
