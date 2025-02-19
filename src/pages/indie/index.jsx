@@ -85,7 +85,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by anti-elitist grievance— and so it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the elites!"
+Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by anti-elitist grievance— and so it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](https://web.archive.org/web/20090318/http://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
 
@@ -301,10 +301,6 @@ Nick Drake was ignored in his own time— yet the next generation made him known
 
 In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a stellar demo— even one with no fanbase, like Nick. But indie rock's rule is for artists to get themselves known, whether or not they deserve to be. Because of this, the notion is now vulgar that those who don't hustle could ever be *made* known… simply by deserving to be.
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.) out of their fans?
 
 So instead, you build yourself up to be what a future audience— or dating prospect!— *would* want, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet from what I've seen… the indie tastemakers won't "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
@@ -489,11 +485,7 @@ To sum up, it was the *indie camp* who gave us today's [data-driven industry](ht
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms reflect what the people want, just like word of mouth does… which is why indie rock embraced them for as long as it did. In this light, then, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
+Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're like word of mouth… which is why indie rock embraced them for as long as it did. In this light, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
 According to science, we humans aren't just biased against creativity, but also against low-status groups… who generate the *most* creative ideas! And when in doubt, we imitate others… yet they *share* our biases! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
 
@@ -621,17 +613,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Thanks to indie rock, however, today's artists have no such reason to believe. So they put out work after work, hoping one will catch on with the crowd— or, these days, with the algorithms. But by spreading their works from the bottom up, they build a different set of talents, leading to a different kind of work— a difference that many of us hear, even if we can't articulate it.
+Thanks to indie rock, however, today's artists have no such reason to believe. So they put out work after work, hoping one will catch on with the crowd— which, these days, means going viral. But by spreading their works from the bottom up, they build a different set of talents, leading to a different kind of work— a difference that many of us hear, even if we can't articulate it.
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel the same. But when artists are being discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered this way as well?
 
 Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like fish don't know they're wet, Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build up your talents… in faith that a savior will then find you!
 
 ### ${++sectionCounter}. Victory is assured
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can already do the middleman's job? Or what critic, the one whose well-chosen identity provides so much surrounding context? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor?
 
