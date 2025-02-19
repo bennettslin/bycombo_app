@@ -89,6 +89,10 @@ Simply put, indie rock doesn't know what it stands *for*, only whom it stands *a
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](https://web.archive.org/web/20090318/http://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
 
+${'  ' || `
+// TODO: Revise. Consider adding "let's face it" or something else, to make it flow better?
+`}
+
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to snub the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
 
 As with MAGA, then, indie rock's weakness for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
@@ -127,17 +131,15 @@ ${'  ' || `
 // TODO: New section: Hobby
 
 * After charitable support section
-* Pro-artist
-* Mention every tier of artists *below*.
-* Mention canon
+* Mention canon at the end
 * Needs to mention indie
 * Reiterate amnesty
 * Good intentions final chapter
 `}
 
-So charitable support isn't just kind to the *highest* tier of artists; it's also cruel to the *lowest*. Which… is where it seats the history makers of our times! How did this happen? It's simple: Since *everyone* is free to make art, we can only offer support by first separating the "real" artists, who deserve it, from the mere hobbyists, who don't.
+By charitably supporting artists, then, we're needlessly kind to the ones at the top— and needlessly cruel to those at the bottom. "Is that bad, though?" Yes, because there's a third and final effect: We end up relegating the history makers of our times… to the very bottom! To see why this is so, let's imagine a program that offers living wages and free health care to *all* artists…
 
-The first order of business is to determine the criteria that separates real artists from hobbyists. But these criteria can only be established by looking to the past. But this punishes history makers, who, in trying to establish new paradigms, necessarily *won't* be looking to the past.
+Now, *everyone* is free to make art, and many of us do, right? So the first order of business is to separate "real" artists, who deserve our support, from mere hobbyists, who don't. But whatever criteria we settle on will be based on how things were done *before*. So anyone hoping to establish a *new* paradigm— to rethink how art gets made, or by whom— will be dismissed as a hobbyist!
 
 Furthermore, it's up to each artist to decide exactly when their apprentice years are over, and their years as a working musician begin. But it's precisely those who care most to be the best who won't skip their apprentice years. Which means they'll benefit the least from our support.
 
@@ -227,17 +229,15 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 
 ${'  ' || `
 // TODO: Review a few more times.
-
-For instance, it's precisely *because* word of mouth only traveled through the local scenes that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it only *ever* took place among a local gathering.
 `}
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is actually their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and reflect, they simply follow the instincts handed down by their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=According%20to%20Dr,they%20flew%20level.) by starlight.
 
 Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. The reason the indies came to value word of mouth so highly, for example, is because it mostly traveled through the local scenes. And likewise with their respect for direct fan engagement: Back then, it was only ever possible with a local gathering.
 
-But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so might thus enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
+But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out all extremes. And social media has made engaging with fans trivial; those who do so might thus enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
-So yes, middlemen might seem redundant— but redundancy is what keeps a [system robust](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. Which is why BYCombo tells you to share your earnings: To make art for a modern world, you need partners who aren't too harried to see it.
+So yes, middlemen might seem redundant— but redundancy is what keeps a [system robust](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. This is why BYCombo tells you to generously share your earnings: How else will you find partners who aren't too harried to change with the times?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
