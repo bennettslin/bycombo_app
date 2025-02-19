@@ -579,7 +579,11 @@ But we progressives *need* centralized institutions to promote the welfare we de
 
 Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get taken down as well, to be replaced by others— in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass. This is why I suspect that many anti-elitist progressives are really *libertarians*… who've yet to embrace their privilege!
 
-How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their complexity. Once we do, we can stop blaming shadowy forces for our problems, because we'll finally have the skills to seek out constructive solutions instead.
+${'  ' || `
+// TODO: Review.
+`}
+
+How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their interconnected complexity. Once we do, we can stop looking for "bad guys" to blame, as we'll finally have the skills to analyze our problems and seek out constructive solutions instead.
 
 So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
