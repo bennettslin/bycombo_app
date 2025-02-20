@@ -81,17 +81,9 @@ Here's an incomplete list of ways…
 
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To Millennials, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in all the wrong places. How did we get confused?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by anti-elitist grievance— and so it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](https://web.archive.org/web/20090318/http://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
-
-${'  ' || `
-// TODO: Revise. Consider adding "let's face it" or something else, to make it flow better? Make clear the majors are the bad guys?
-`}
 
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to snub the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
 
@@ -116,10 +108,6 @@ But thanks to online tools, today's "lottery players" get *unlimited* chances. M
 So the grassroots has been successfully recast as a *populist* field; it's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the countless many who don't. Still, what if *you* were hoping to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to a new generation of elites!
 
 ### ${++sectionCounter}. Charitable support starts an arms race
-
-${'  ' || `
-// TODO: Revise. Consider saying "use the term"?
-`}
 
 In the past, we didn't "support" artists— [outside of](https://en.wikipedia.org/wiki/Outsider_music) the *true* charity cases, like amateurs, recluses, the mentally ill… Yet today's fans will charitably support *any* artist, even superstars— a tendency known as "poptimism." How did this happen? It began when indie rock conflated personal taste with endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
@@ -425,16 +413,6 @@ It's simple: Historically, victims of prejudice relied on centralized authoritie
 
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have repeatedly shown that you *aren't* your own best advocate? Why, BYCombo can help you find partners who'll advocate on your behalf— as we usher in a new time of civil rights for artists!
 
-### ${++sectionCounter}. Penultimate tolerance has its pitfalls
-
-No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
-
-Yet when I came along— trying much harder, to be much better— no indie tastemaker respected or sympathized with my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was to be null and void.
-
-Thus I had *no* lifeline— and then, as it turns out, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we *must* throw a lifeline to those we don't root for.
-
-There's also a selfish reason to do so: Once we shut out the outsiders of our times, we can no longer deflect any claim that music got worse under our watch— a claim that history will surely make against Millennials! Luckily, if you're hungry enough to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain once more.
-
 ### ${++sectionCounter}. Identity is a fallback of the privileged
 
 ${'  ' || `
@@ -445,7 +423,7 @@ ${'  ' || `
 * Must reference surrounding context somehow
 `}
 
-It's easy to see why the privileged prefer indie rock's cultural libertarianism: In a decentralized free-for-all, *all* we have to work with is our starting advantages. The problem, of course, is that no matter how privileged you are, there's always someone out there with greater starting advantages than you. Now what? At that point, you lean on your identity.
+It's easy to see why the privileged are drawn to indie rock's cultural libertarianism: In a decentralized free-for-all, *all* we have to work with is our hidden advantages. But the problem with starting a movement that favors your privilege is that there's always someone even *more* privileged. Now what? At that point, you lean on your identity.
 
 In the late '00s, the White male artists of indie rock began to do just that. They could lean on romantic archetypes that were long established. As a minority with no choice but to create new archetypes, I struggled to compete, and finally left in frustration. (Save space by not mentioning leaving?) When I returned to music a decade later, I learned that indie rock had a crisis of conscience about its overwhelming White maleness— and was now helping women and minorities in the only way it knew how: by helping them to benefit from their own identities— a phenomenon known as "wokeness."
 
@@ -456,6 +434,16 @@ When White men evoke the romantic archetypes of the past, it's not obvious that 
 Sure enough, wokeness has now provoked a backlash— from libertarians. Their efforts are doomed to fail, because wokeness is actually a *libertarian* solution to a problem caused by the libertarian ideals of the privileged to begin with!
 
 Given a choice to benefit from one's identity, or from interdependence, it's the *privileged* groups who'd choose the former over the latter. Thankfully, as a minority Xennial, I've long understood that I'd need to radical new inventions, since no one cares about my identity. Now with BYCombo…
+
+### ${++sectionCounter}. Penultimate tolerance has its pitfalls
+
+No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
+
+Yet when I came along— trying much harder, to be much better— no indie tastemaker respected or sympathized with my approach. Why? My guess is it's because Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was to be null and void.
+
+Thus I had *no* lifeline— and then, as it turns out, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we *must* throw a lifeline to those we don't root for.
+
+There's also a selfish reason to do so: Once we shut out the outsiders of our times, we can no longer deflect any claim that music got worse under our watch— a claim that history will surely make against Millennials! Luckily, if you're hungry enough to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain once more.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
@@ -581,7 +569,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their interconnected complexity. Once we do, we can stop looking for "bad guys" to blame, as we'll finally have the skills to analyze our problems and seek out constructive solutions instead.
+How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their interconnected complexity. Once we do, we'll stop looking for "bad guys" to blame, because we'll finally have the skills to analyze our problems and seek out constructive solutions instead.
 
 So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
