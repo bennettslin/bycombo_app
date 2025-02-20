@@ -123,10 +123,6 @@ Unlike an arts foundation, though, phlans *don't* need to hold strict standards 
 
 So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. In which case, why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way: by needing no defense to begin with.
 
 ### ${++sectionCounter}. History making is now a mere hobby
@@ -141,7 +137,7 @@ Now, we're *all* encouraged to make art, and many of us do, right? So the first 
 
 Furthermore, it's up to each of us to decide that we've studied and practiced enough, and now our years as a working artist may begin. If a living wage is what's at stake, though, then who wouldn't have those years begin sooner? Meanwhile, anyone whose works require decades of quiet preparation… will be paying their own way the whole time!
 
-For the record, I'm not opposed to, let's say, health care for *all*. But when we support artists in *particular*, it's the ones *most* likely to make history who'll benefit the *least*. Fortunately, having been written off as a hobbyist by the indie camp my whole life, I've always seen this clearly. Now with BYCombo, you too can aim for the canon— by refusing to be a charity case.
+Just for the record, I'm not against, let's say, health care for *all*. But when we support artists in *particular*, it's the ones *most* likely to make history who'll benefit the *least*. Fortunately, having been written off as a hobbyist by the indie camp my whole life, I've always seen this clearly. Now with BYCombo, you too can aim for the canon— by refusing to be a charity case.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -150,10 +146,6 @@ Growing up as a second-generation immigrant, I knew early on that other countrie
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
 Yet this same camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! And so they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
@@ -614,10 +606,6 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 ### ${++sectionCounter}. Artists want to believe in saviors
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Thanks to indie rock, however, today's artists have no such reason to believe. So they put out work after work, hoping one will catch on with the crowd— which, these days, means going viral. But by spreading their works from the bottom up, they build a different set of talents, leading to a different kind of work— a difference that many of us hear, even if we can't articulate it.
 
