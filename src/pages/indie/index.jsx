@@ -133,17 +133,15 @@ And yet, this obviously can't end well. We don't support artists of the *past*�
 
 ${'  ' || `
 // TODO: Review a few more times.
-
-Third paragraph: Make last sentence more about the artist who *does* spend a lifetime of quiet planning and preparation *won't* benefit from this program? Or is this the same flow of logic as the fourth paragraph? Maybe talk about incentivizing such works instead?
 `}
 
-By charitably supporting artists, then, we're both needlessly kind to the ones at the top, and needlessly cruel to those at the bottom. "Is that bad, though?" Yes, because there's a third and final effect: The history makers of our times… get relegated to the bottom! To see why this is so, let's imagine a government program that offers free health care and living wages to *all* artists.
+By charitably supporting artists, then, we're both needlessly kind to the ones at the top, and needlessly cruel to those at the bottom. "Is that bad, though?" Yes, because there's a third and final effect: The history makers of our times… get relegated to the bottom! To see why this is so, let's imagine a government program that offers living wages and free health care to *all* artists.
 
-Now, *everyone* is free to make art, and many of us do, right? So the first order of business is to separate "real" artists, who deserve our support, from mere hobbyists, who don't. But whatever criteria we settle on will be based on how things were done *before*. So anyone hoping to establish a *new* paradigm— to rethink how art gets made, and by whom— will be dismissed as a hobbyist!
+Now, *everyone* is free to make art, and many of us do, right? So the first order of business is to separate "real" artists, who deserve our support, from mere hobbyists, who don't. But whatever criteria we settle on will be based on how things were done *before*. So anyone hoping to establish a *new* paradigm— to rethink how art gets made, or by whom— will be dismissed as a hobbyist!
 
-Furthermore, it's up to each of us to decide that we've studied and practiced enough, and now our years as a working artist may begin. But if free health care is what's at stake… well then, who wouldn't want those years to begin sooner than later? Which means the kind of work that requires a lifetime of quiet planning and preparation might never again be made.
+Furthermore, it's up to each of us to decide we've studied and practiced long enough, and now our years as a working artist may begin. If a living wage is what's at stake, though… well then, who wouldn't want those years to begin sooner? Meanwhile, anyone making works that require decades of planning and preparation will need to support themselves the entire time…
 
-We can still want living wages for *everyone*, of course. But once we support artists in *particular*, those who'll benefit the *least*… are the ones most likely to make history! Fortunately, having been written off as a hobbyist my whole life, I've *always* seen this clearly. Now with BYCombo, you too can aim for the canon— precisely by *refusing* to be a charity case.
+For the record, I'm not against *universal* health care. But when we support artists in *particular*, the ones *most* likely to make history… will benefit the *least*! Fortunately, having been written off as a hobbyist my whole life, I've always seen this clearly. Now with BYCombo, you too can aim for the canon— by refusing to be a charity case.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
