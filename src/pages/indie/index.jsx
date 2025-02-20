@@ -117,6 +117,10 @@ So the grassroots has been successfully recast as a *populist* field; it's just 
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
+${'  ' || `
+// TODO: Revise. Consider saying "use the term"?
+`}
+
 In the past, we didn't "support" artists— [outside of](https://en.wikipedia.org/wiki/Outsider_music) the *true* charity cases, like amateurs, recluses, the mentally ill… Yet today's fans will charitably support *any* artist, even superstars— a tendency known as "poptimism." How did this happen? It began when indie rock conflated personal taste with endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
@@ -229,7 +233,7 @@ Can the indie labels learn *not* to be led astray? No, they're overworked and un
 
 Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. The reason the indies came to value word of mouth so highly, for example, is because it mostly traveled through the local scenes. And likewise with their respect for direct fan engagement: Back then, it was only ever possible with a local gathering.
 
-But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out all extremes. And social media has made engaging with fans trivial; those who do so might thus enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
+But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet… the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
 So yes, middlemen might seem redundant— but redundancy is what keeps a [system robust](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. This is why BYCombo tells you to generously share your earnings: How else will you find partners who aren't too harried to change with the times?
 
