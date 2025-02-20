@@ -90,7 +90,7 @@ Simply put, indie rock doesn't know what it stands *for*, only whom it stands *a
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](https://web.archive.org/web/20090318/http://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
 
 ${'  ' || `
-// TODO: Revise. Consider adding "let's face it" or something else, to make it flow better?
+// TODO: Revise. Consider adding "let's face it" or something else, to make it flow better? Make clear the majors are the bad guys?
 `}
 
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to snub the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
@@ -135,13 +135,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-By charitably supporting artists, then, we're both needlessly kind to the ones at the top, and needlessly cruel to those at the bottom. "Is that bad, though?" Yes, because there's a third and final effect: The history makers of our times… get relegated to the bottom! To see why this is so, let's imagine a government program that offers living wages and free health care to *all* artists.
+By charitably supporting artists, then, we're both needlessly kind to the ones at the top, and needlessly cruel to those at the bottom. "Is that bad, though?" Yes, because there's a third and final effect: The history makers of our times… get relegated to the *bottom*! To see why, let's imagine a program that offers living wages and free health care to *every* artist.
 
-Now, *everyone* is free to make art, and many of us do, right? So the first order of business is to separate "real" artists, who deserve our support, from mere hobbyists, who don't. But whatever criteria we settle on will be based on how things were done *before*. So anyone hoping to establish a *new* paradigm— to rethink how art gets made, or by whom— will be dismissed as a hobbyist!
+Now, we're *all* encouraged to make art, and many of us do, right? So the first order of business is to separate "real" artists, who deserve our support, from mere hobbyists, who don't. But whatever criteria we choose will be based on how things were done *before*. So anyone hoping to start a *new* paradigm— to rethink how art gets made, or by whom— will be dismissed as a hobbyist!
 
-Furthermore, it's up to each of us to decide we've studied and practiced long enough, and now our years as a working artist may begin. If a living wage is what's at stake, though… well then, who wouldn't want those years to begin sooner? Meanwhile, anyone making works that require decades of planning and preparation will need to support themselves the entire time…
+Furthermore, it's up to each of us to decide we've studied and practiced long enough, and now our years as a working artist may begin. If a living wage is what's at stake, though… well then, who wouldn't want those years to begin sooner? Meanwhile, anyone whose works require decades of quiet planning and preparation will be paying their own way the whole time…
 
-For the record, I'm not against *universal* health care. But when we support artists in *particular*, the ones *most* likely to make history… will benefit the *least*! Fortunately, having been written off as a hobbyist my whole life, I've always seen this clearly. Now with BYCombo, you too can aim for the canon— by refusing to be a charity case.
+To be sure, I'm not against programs that offer health care for *all*. But when we support artists in *particular*, the ones *most* likely to make history… will benefit the *least*! Fortunately, having been written off as a hobbyist by the indie camp all my life, I've always seen this clearly. Now with BYCombo, you too can aim for the canon— by refusing to be a charity case.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
