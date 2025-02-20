@@ -139,9 +139,9 @@ By charitably supporting artists, then, we're both needlessly kind to the ones a
 
 Now, we're *all* encouraged to make art, and many of us do, right? So the first order of business is to separate "real" artists, who deserve our support, from mere hobbyists, who don't. But whatever criteria we choose will be based on how things were done *before*. So anyone hoping to start a *new* paradigm— to rethink how art gets made, or by whom— will be dismissed as a hobbyist!
 
-Furthermore, it's up to each of us to decide we've studied and practiced long enough, and now our years as a working artist may begin. If a living wage is what's at stake, though… well then, who wouldn't want those years to begin sooner? Meanwhile, anyone whose works require decades of quiet planning and preparation will be paying their own way the whole time…
+Furthermore, it's up to each of us to decide that we've studied and practiced enough, and now our years as a working artist may begin. If a living wage is what's at stake, though, then who wouldn't have those years begin sooner? Meanwhile, anyone whose works require decades of quiet preparation… will be paying their own way the whole time!
 
-To be sure, I'm not against programs that offer health care for *all*. But when we support artists in *particular*, the ones *most* likely to make history… will benefit the *least*! Fortunately, having been written off as a hobbyist by the indie camp all my life, I've always seen this clearly. Now with BYCombo, you too can aim for the canon— by refusing to be a charity case.
+For the record, I'm not opposed to, let's say, health care for *all*. But when we support artists in *particular*, it's the ones *most* likely to make history who'll benefit the *least*. Fortunately, having been written off as a hobbyist by the indie camp my whole life, I've always seen this clearly. Now with BYCombo, you too can aim for the canon— by refusing to be a charity case.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
