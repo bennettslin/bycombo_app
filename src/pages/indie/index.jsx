@@ -123,7 +123,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-By charitably supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad, though?" Yes, because there's a third and final effect: The history makers of our times… get relegated to the bottom! To see why this is so, let's imagine a program that offers living wages and free health care to *every* artist.
+By charitably supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad, though?" Yes, because there's a third and final effect: The history makers of our times… get relegated to the bottom! To see why this is so, let's imagine a government program that offers living wages and free health care to *every* artist.
 
 Now, we're *all* encouraged to make art, and many of us do, right? So the first order of business is to separate "real" artists, who deserve our support, from mere hobbyists, who don't. But whatever criteria we choose will be based on how things were done *before*. So anyone trying to start a *new* paradigm— to rethink how art gets made, or by whom— will be dismissed as a hobbyist!
 
@@ -223,7 +223,7 @@ Of course, these instincts made sense in the '80s, when underground bands built 
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet… the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
-So yes, middlemen might seem redundant— but redundancy is what keeps a [system robust](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. This is why BYCombo tells you to generously share your earnings: How else will you find partners who aren't too harried to change with the times?
+So yes, middlemen might seem redundant— but redundancy is what keeps a [system robust](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. This is why BYCombo asks you to readily split your earnings: How else will you find partners who aren't too harried to change with the times?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -569,7 +569,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their interconnected complexity. Once we do, we'll stop looking for "bad guys" to blame, because we'll finally have the skills to analyze our problems and seek out constructive solutions instead.
+How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their interconnected complexity. Once we do, we'll stop looking for "bad guys" to blame, because we'll finally have the skills to analyze our problems and come up with workable solutions instead.
 
 So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
