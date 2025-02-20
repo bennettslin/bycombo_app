@@ -298,6 +298,14 @@ But why would the next generation side with past tastemakers who *didn't* care w
 ${'  ' || `
 // TODO: New section: Welfare
 
+Political progressivism is straightforward.
+
+Welfare is when the outsized successes of a few today are then used to bankroll the same chances for many tomorrow.
+
+Cultural progressivism is more complicated.
+
+Point out that we've just seen that when government supports artists, it backfires. The role of a centralized institution that promotes welfare must come from major labels driven by a profit motive, who pursue this purely as a sound business strategy.
+
 After democratization, for mention of indieocracy. But before elitism, for mention of legacy institutions. So, between hustlers and paid dues, for theme of not caring about the future, followed by theme of widening vicious circle.
 
 Explicitly mention cultural libertarianism and cultural progressivism. Call it cultural welfare.
