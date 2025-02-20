@@ -123,21 +123,27 @@ Unlike an arts foundation, though, phlans *don't* need to hold strict standards 
 
 So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
-And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. In which case, why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way… by needing no defense to begin with.
+${'  ' || `
+// TODO: Review.
+`}
+
+And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. In which case, why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way: by needing no defense to begin with.
 
 ### ${++sectionCounter}. History making is now a mere hobby
 
 ${'  ' || `
 // TODO: Review a few more times.
+
+Third paragraph: Make last sentence more about the artist who *does* spend a lifetime of quiet planning and preparation *won't* benefit from this program? Or is this the same flow of logic as the fourth paragraph? Maybe talk about incentivizing such works instead?
 `}
 
-By charitably supporting artists, then, we're both needlessly kind to the ones at the top, and needlessly cruel to those at the bottom. "Is that bad, though?" Yes, because there's a third and final effect: The history makers of our times… get relegated to the bottom! To see why this is so, let's imagine a government program that offers living wages and free health care to *all* artists.
+By charitably supporting artists, then, we're both needlessly kind to the ones at the top, and needlessly cruel to those at the bottom. "Is that bad, though?" Yes, because there's a third and final effect: The history makers of our times… get relegated to the bottom! To see why this is so, let's imagine a government program that offers free health care and living wages to *all* artists.
 
 Now, *everyone* is free to make art, and many of us do, right? So the first order of business is to separate "real" artists, who deserve our support, from mere hobbyists, who don't. But whatever criteria we settle on will be based on how things were done *before*. So anyone hoping to establish a *new* paradigm— to rethink how art gets made, and by whom— will be dismissed as a hobbyist!
 
-Furthermore, it's up to each of us to decide that we've studied and practiced enough, and now our years as a working artist have begun. But if what's at stake is free health care… well then, who wouldn't want those years to begin at eighteen? Which means the kind of work that requires a lifetime of quiet planning and preparation might never again be made.
+Furthermore, it's up to each of us to decide that we've studied and practiced enough, and now our years as a working artist may begin. But if free health care is what's at stake… well then, who wouldn't want those years to begin sooner than later? Which means the kind of work that requires a lifetime of quiet planning and preparation might never again be made.
 
-We can still want living wages for *everyone*, of course. But once we insist on supporting artists in particular, those who'll *least* benefit are the ones most likely to make history! Fortunately, having been written off as a hobbyist all my life, I've *always* seen this clearly. Now with BYCombo, you too can aim for the canon, in the only way possible: by *refusing* to be a charity case.
+We can still want living wages for *everyone*, of course. But once we support artists in *particular*, those who'll benefit the *least*… are the ones most likely to make history! Fortunately, having been written off as a hobbyist my whole life, I've *always* seen this clearly. Now with BYCombo, you too can aim for the canon— precisely by *refusing* to be a charity case.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -147,7 +153,11 @@ So I've long understood that, to belong in the canon next to the Beatles, my ban
 
 Yet this same camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! And so they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
-Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible— by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+${'  ' || `
+// TODO: Review.
+`}
+
+Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent craves a path to stardom
 
