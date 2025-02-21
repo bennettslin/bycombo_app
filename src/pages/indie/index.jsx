@@ -131,11 +131,11 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-By supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the bottom. "Is that bad, though?" Yes, because there's a third and final effect: The history makers of our times… now get relegated to the very *bottom*! To understand why, let's imagine a government program that offers a living wage and free health care to *every* artist.
+By supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad?" Yes, because there's a third and final effect: The history makers of our times… now get relegated to the very bottom! To see why this is so, let's imagine a government program that offers a living wage and free health care to *every* artist.
 
 The thing is, we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way art was done *before*. So anyone hoping to start a *new* paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
-Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of quiet preparation… will be paying their own way the entire time.
+Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of quiet preparation… will be paying their own way the *entire* time.
 
 To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones *most* likely to make history… benefit the *least*! Fortunately, I've long seen this clearly— having been written off as a hobbyist my whole life. Now with BYCombo, you too can hope for amnesty, after daring to be the best… rather than plead for charity, like all the rest.
 
@@ -451,7 +451,7 @@ In the late '00s, the White male artists of indie rock began to do just that. Th
 
 But disadvantaged groups know that benefiting from our identities is a disaster waiting to happen. It's why we've only ever founded movements based on radical new inventions, not presenting ourselves as charity cases.
 
-By evoking the romantic archetypes of the past, White men can easily disguise that they're benefiting from their identity. With, women and minorities, however, it's quite obvious. Thus wokeness has now provoked a backlash from MAGA.
+By evoking the romantic archetypes of the past, White men get to benefit from their identity without ever admitting to it. With us women and minorities, however, our attempts to benefit from our identity can't be so easily disguised. Thus wokeness has now provoked a backlash from MAGA.
 
 Their efforts are doomed to fail, because wokeness is actually a *libertarian* solution to a problem caused by the libertarian ideals of the privileged to begin with!
 
@@ -629,9 +629,13 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 ### ${++sectionCounter}. Victory is assured
 
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can already do the middleman's job? Or what critic, the one whose well-chosen identity provides so much surrounding context? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor?
+${'  ' || `
+// TODO: Review next two paragraphs.
+`}
 
-Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can once again turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what critic, the one whose well-chosen identity provides so much surrounding context? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor?
+
+Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. Interdependent bands, however, play to their strengths by having *partners* cover their weaknesses— which lets them put 20% effort into getting 80% results, over and over. Well, added up… that's *400%* results!
 
