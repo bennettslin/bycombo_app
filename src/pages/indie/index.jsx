@@ -123,13 +123,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-By charitably supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad, though?" Yes, because there's a third and final effect: The history makers of our times… get relegated to the bottom! To see why this is so, let's imagine a government program that offers living wages and free health care to *every* artist.
+By charitably supporting artists, then, we're needlessly kind to the ones at the top… and cruel to those at the very bottom. "Is that so bad, though?" Yes, because there's a third and final effect: The history makers of our times now get relegated to the *bottom*! To understand why, let's imagine a government program that offers living wages and free health care to *every* artist.
 
 Now, we're *all* encouraged to make art, and many of us do, right? So the first order of business is to separate "real" artists, who deserve our support, from mere hobbyists, who don't. But whatever criteria we choose will be based on how things were done *before*. So anyone trying to start a *new* paradigm— to rethink how art gets made, or by whom— will be dismissed as a hobbyist!
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin sooner? Meanwhile, those making dense and complex works that require decades of quiet preparation… will be paying their own way the entire time!
 
-To be clear, I'm not opposed to, let's say, *universal* health care. But when we support artists in *particular*, those who'll benefit the *least* are the ones *most* likely to make history! Fortunately, having been written off as a hobbyist my whole life, I've always seen this clearly. Now with BYCombo, you too can aim for the canon— by refusing to be a charity case.
+To be clear, I'm not opposed to, let's say, *universal* health care. But when we support artists in *particular*, the ones *most* likely to make history benefit the *least*! Fortunately, having been written off as a hobbyist my whole life, I've always seen this clearly. Now with BYCombo, you too can aim for the canon— by refusing to be a charity case.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -219,9 +219,9 @@ ${'  ' || `
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is actually their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and reflect, they simply follow the instincts handed down by their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=According%20to%20Dr,they%20flew%20level.) by starlight.
 
-Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. The reason the indies came to value word of mouth so highly, for example, is because it mostly traveled through the local scenes. And likewise with their respect for direct fan engagement: Back then, it was only ever possible with a local gathering.
+Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. It's precisely *because* word of mouth only traveled through the local scenes, for example, that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
-But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet… the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
+But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
 So yes, middlemen might seem redundant— but redundancy is what keeps a [system robust](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. This is why BYCombo asks you to readily split your earnings: How else will you find partners who aren't too harried to change with the times?
 
