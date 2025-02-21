@@ -131,13 +131,9 @@ By charitably supporting artists, then, we're both needlessly kind to the ones a
 
 The thing is, we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way art was done *before*. So anyone hoping to start a *new* paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
-Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin sooner? Meanwhile, those making dense and complex works that require decades of quiet preparation… will be paying their own way the whole time!
+Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, those making dense and complex works that require decades of quiet preparation… will be paying their own way the entire time!
 
-${'  ' || `
-// TODO: Revise. Make it more about getting amnesty, after daring to be one of the best, in a world set on supporting the most middling artist.
-`}
-
-To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones most likely to make history… end up benefiting the *least*! Fortunately, having been written off as a hobbyist my whole life, I've always seen this clearly. Now with BYCombo, you too can hope for amnesty, after daring to belong in the canon.
+To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones *most* likely to make history… benefit the *least*! Fortunately, I've long seen this clearly— having been written off as a hobbyist my whole life. Now with BYCombo, you too can hope for amnesty after daring to be the best… rather than plead for charity like all the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -231,7 +227,7 @@ Of course, these instincts made sense in the '80s, when underground bands built 
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
-So yes, middlemen might seem redundant— but redundancy is what keeps a [system robust](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. This is why BYCombo asks you to readily split your earnings: How else will you find partners who aren't too harried to change with the times?
+So yes, middlemen might seem redundant— but redundancy is what keeps a [system robust](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. This is why BYCombo asks you to readily split your earnings. Because, how else will you find partners who aren't too harried to change with the times?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
