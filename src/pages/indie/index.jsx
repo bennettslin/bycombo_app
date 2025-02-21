@@ -111,6 +111,10 @@ So the grassroots has been successfully recast as a *populist* field; it's just 
 
 In the past, we didn't "support" artists— [outside of](https://en.wikipedia.org/wiki/Outsider_music) the *true* charity cases, like amateurs, recluses, the mentally ill… Yet today's fans will charitably support *any* artist, even superstars— a tendency known as "poptimism." How did this happen? It began when indie rock conflated personal taste with endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
+${'  ' || `
+// TODO: Add Grammy link?
+`}
+
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the same honors.
 
 So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
@@ -119,7 +123,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-And yet… this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. In which case, why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way: by needing no support to begin with.
+And yet… this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. In which case, why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can keep your dignity… and thus make history the *right* way.
 
 ### ${++sectionCounter}. History making is now a mere hobby
 
@@ -127,11 +131,11 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-By charitably supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad, though?" Yes, because there's a third and final effect: The history makers of our times… are now relegated to the *bottom*! To understand why, let's imagine a government program that offers a living wage and free health care to *every* artist.
+By supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the bottom. "Is that bad, though?" Yes, because there's a third and final effect: The history makers of our times… now get relegated to the very *bottom*! To understand why, let's imagine a government program that offers a living wage and free health care to *every* artist.
 
 The thing is, we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way art was done *before*. So anyone hoping to start a *new* paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
-Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, the few who dare to make dense and complex works that require decades of quiet preparation… will be paying their own way the entire time!
+Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of quiet preparation… will be paying their own way the entire time.
 
 To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones *most* likely to make history… benefit the *least*! Fortunately, I've long seen this clearly— having been written off as a hobbyist my whole life. Now with BYCombo, you too can hope for amnesty after daring to be the best… rather than plead for charity like all the rest.
 
@@ -227,7 +231,7 @@ Of course, these instincts made sense in the '80s, when underground bands built 
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
-So yes, middlemen might seem redundant— but redundancy is what keeps a [system robust](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. This is why BYCombo asks you to readily split your earnings. Because, how else will you find partners who aren't too harried to change with the times?
+So yes, middlemen might seem redundant— but redundancy is what keeps a [system robust](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. This is why BYCombo tells you to readily split your earnings: How else will you find partners who aren't too harried to change with the times?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -293,7 +297,11 @@ In the past, the major labels did just that: Their talent scouts would sign any 
 
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.) out of their fans?
 
-So instead, you build yourself up to be what a future audience— or dating prospect!— *would* want, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet from what I've seen… the indie tastemakers won't "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
+${'  ' || `
+// TODO: Review.
+`}
+
+So instead, you build yourself up to be what a future audience— or dating prospect!— *would* want, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet from what I've seen, the indie tastemakers will never "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
 
 But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 
@@ -578,10 +586,6 @@ Why is progressivism so badly beaten in both culture and politics today? It's be
 But we progressives *need* centralized institutions to promote the welfare we desire. Yet every time the anti-elitists among us join forces with libertarians to tear down the old system… those same libertarians then turn around and oppose them when they try to build a new one.
 
 Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get taken down as well, to be replaced by others— in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass. This is why I suspect that many anti-elitist progressives are really *libertarians*… who've yet to embrace their privilege!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their interconnected complexity. Once we do, we'll stop looking for "bad guys" to blame, because we'll finally have the skills to analyze our problems and come up with workable solutions instead.
 
