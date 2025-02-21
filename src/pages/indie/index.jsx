@@ -115,6 +115,10 @@ Unlike an arts foundation, though, phlans *don't* need to hold strict standards 
 
 So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
+${'  ' || `
+// TODO: Revise. Say something like, "by refusing to join indie rock's charity cases." Make it clear we're talking about a new breed of charity cases.
+`}
+
 And yet, this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. In which case, why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can make history the *right* way: by needing no defense to begin with.
 
 ### ${++sectionCounter}. History making is now a mere hobby
@@ -128,6 +132,10 @@ By charitably supporting artists, then, we're needlessly kind to the ones at the
 Now, we're *all* encouraged to make art, and many of us do, right? So the first order of business is to separate "real" artists, who deserve our support, from mere hobbyists, who don't. But whatever criteria we choose will be based on how things were done *before*. So anyone trying to start a *new* paradigm— to rethink how art gets made, or by whom— will be dismissed as a hobbyist!
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin sooner? Meanwhile, those making dense and complex works that require decades of quiet preparation… will be paying their own way the entire time!
+
+${'  ' || `
+// TODO: Revise. Make it more about getting amnesty, after daring to be one of the best, in a world set on supporting the most middling artist. Also improve second sentence: "the ones who are most likely"?
+`}
 
 To be clear, I'm not opposed to, let's say, *universal* health care. But when we support artists in *particular*, the ones *most* likely to make history benefit the *least*! Fortunately, having been written off as a hobbyist my whole life, I've always seen this clearly. Now with BYCombo, you too can aim for the canon— by refusing to be a charity case.
 
