@@ -137,7 +137,7 @@ The thing is, we're *all* free to make art, right? Which means the government mu
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of quiet preparation… will be paying their own way the entire time.
 
-To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones *most* likely to make history… benefit the *least*! Fortunately, I've long seen this clearly— having been written off as a hobbyist my whole life. Now with BYCombo, you too can hope for amnesty after daring to be the best… rather than plead for charity like all the rest.
+To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones *most* likely to make history… benefit the *least*! Fortunately, I've long seen this clearly— having been written off as a hobbyist my whole life. Now with BYCombo, you too can hope for amnesty, after daring to be the best… rather than plead for charity, like all the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -451,9 +451,9 @@ In the late '00s, the White male artists of indie rock began to do just that. Th
 
 But disadvantaged groups know that benefiting from our identities is a disaster waiting to happen. It's why we've only ever founded movements based on radical new inventions, not presenting ourselves as charity cases.
 
-When White men evoke the romantic archetypes of the past, it's not obvious that women and minorities aren't free to do the same. By contrast, when women and minorities lean into their identities, it's obvious to everyone that White men aren't free to do the same.
+By evoking the romantic archetypes of the past, White men can easily disguise that they're benefiting from their identity. With, women and minorities, however, it's quite obvious. Thus wokeness has now provoked a backlash from MAGA.
 
-Sure enough, wokeness has now provoked a backlash— from libertarians. Their efforts are doomed to fail, because wokeness is actually a *libertarian* solution to a problem caused by the libertarian ideals of the privileged to begin with!
+Their efforts are doomed to fail, because wokeness is actually a *libertarian* solution to a problem caused by the libertarian ideals of the privileged to begin with!
 
 Given a choice to benefit from one's identity, or from interdependence, it's the *privileged* groups who'd choose the former over the latter. Thankfully, as a minority Xennial, I've long understood that I'd need to radical new inventions, since no one cares about my identity. Now with BYCombo…
 
@@ -471,7 +471,11 @@ There's also a selfish reason to do so: Once we shut out the outsiders of our ti
 
 Perhaps my arguments against indie rock seem moot, now that "poptimism" has defeated "rockism." After all, doesn't this mean that pop killed rock? Well, no; the *real* killer was "indiefication." Unaware of their complicity, however, many in the indie camp then sought to be of use elsewhere. So poptimism… is really just indie rock's good intentions brought to the pop genre!
 
-Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was the classic rock whose lineage traces to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
+${'  ' || `
+// TODO: Review.
+`}
+
+Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was rock and roll, whose lineage traces to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
 Both movements protect the chosen underdog by [refusing to ask](https://www.nytimes.com/roomfordebate/2016/12/29/does-empathy-guide-or-hinder-moral-action#:~:text=Empathy%20acts%20like,threatening%20and%20familiar.): "Wouldn't the rejected outsider— who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times, then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
