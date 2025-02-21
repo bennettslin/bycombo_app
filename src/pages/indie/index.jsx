@@ -131,7 +131,7 @@ By charitably supporting artists, then, we're both needlessly kind to the ones a
 
 The thing is, we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way art was done *before*. So anyone hoping to start a *new* paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
-Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, those making dense and complex works that require decades of quiet preparation… will be paying their own way the entire time!
+Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, the few who dare to make dense and complex works that require decades of quiet preparation… will be paying their own way the entire time!
 
 To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones *most* likely to make history… benefit the *least*! Fortunately, I've long seen this clearly— having been written off as a hobbyist my whole life. Now with BYCombo, you too can hope for amnesty after daring to be the best… rather than plead for charity like all the rest.
 
@@ -324,6 +324,8 @@ This is a different point, I think: Explain indieocracy? History is a top down a
 Faith in institutions.
 
 Indiefication begins with those who benefited from legacy institutions. They go indie, and then lend a veneer of credibility to the indie culture, understating how much the indie culture can actually nurture talent. Such that, when people hear that a work is "indie," they automatically assume it's better. I saw this happen with indie rock. A generation later, it's happening with writers on Substack.
+
+If Pareto reference is removed, revise victory section.
 `}
 
 The Pareto principle tells us that 20% of the xxx yields 80% of the xxx— but unfortunately, we're often mistaken about who those 20% will be! This is why progressives in politics argue for social welfare: By investing in all of us, then taxing those who succeed, allowing them to pay it forward and subsidize the same chances for those in the next generation.
