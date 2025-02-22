@@ -21,8 +21,6 @@
 
 * BYC
     * A collectivist section
-    * Get rid of song links?
-        * Otherwise, add Jolene link
     * Consider doing screen widths smartly
     * Consider smart quote in Wikipedia link update
     * Revise apply page
