@@ -429,7 +429,11 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
-"Be so good they can't ignore you," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist— despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
+${'  ' || `
+// TODO: Review.
+`}
+
+"Be so good they can't ignore you," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
 Then one day it clicked: I *haven't* met with a hundred indie tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
 
@@ -457,7 +461,7 @@ ${'  ' || `
 * Must reference surrounding context somehow
 `}
 
-It's easy to see why the privileged are drawn to indie rock's cultural libertarianism: In a decentralized free-for-all, *all* we have to work with is our hidden advantages. But the problem with starting a movement that favors your privilege is that there's always someone even *more* privileged. Now what? At that point, you lean on your identity.
+It's obvious why the privileged are drawn to indie rock's cultural libertarianism: In a decentralized free-for-all, *all* we have to work with is our hidden advantages. But the problem with starting a movement that favors your privilege is that there's always someone even *more* privileged. Now what? At that point, you lean on your identity.
 
 In the late '00s, the White male artists of indie rock began to do just that. They could lean on romantic archetypes that were long established. As a minority with no choice but to create new archetypes, I struggled to compete, and finally left in frustration. (Save space by not mentioning leaving?) When I returned to music a decade later, I learned that indie rock had a crisis of conscience about its overwhelming White maleness— and was now helping women and minorities in the only way it knew how: by helping them to benefit from their own identities— a phenomenon known as "wokeness."
 
