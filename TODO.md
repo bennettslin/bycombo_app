@@ -20,6 +20,7 @@
     * Change interactivated verse?
 
 * BYC
+    * A collectivist section
     * Get rid of song links?
         * Otherwise, add Jolene link
     * Consider doing screen widths smartly
