@@ -115,10 +115,6 @@ Unlike an arts foundation, though, phlans *don't* need to hold strict standards 
 
 So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 And yet… this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can keep your dignity instead— knowing that it's the *only* way to make history.
 
 ### ${++sectionCounter}. History making is now a mere hobby
@@ -141,7 +137,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Growing up as a second-generation immigrant, I've always known that other countries had their [own rock canons](https://youtu.be/AffEkIRKmTc). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
+Growing up as a second-generation immigrant, I'd always known that other countries had their [own rock canons](https://youtu.be/AffEkIRKmTc). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
@@ -247,7 +243,11 @@ Sadly, young folks never question today's "auto-Bizarro" world, since it's all t
 
 Want even *more* absurdity? Any rich artist can simply pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— to the benefit of the privileged. How did this happen?
 
-Simply put, indie rock is widely seen as a "do it yourself" movement— the kind that fosters *cooperative* self-reliance by sharing a [love for the craft](https://makerfaire.com). As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
+${'  ' || `
+// TODO: Review.
+`}
+
+Simply put, indie rock is widely seen as a "do it yourself" movement— the kind that fosters *cooperative* self-reliance by instilling a [love for the craft](https://makerfaire.com). As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
 But being indie is all about gaining public exposure, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
@@ -538,12 +538,12 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 ### ${++sectionCounter}. Music recording is its own medium
 
 ${'  ' || `
-// TODO: Revise. Second sentence doesn't get at what's lacking with shows.
+// TODO: Review.
 
 Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every romantic's go-to solution?!
 `}
 
-In a world now awash in content, the new Romantics long for a return to live shows. Yet it's no loss to miss a particular show; more will follow— much like with content! Otherwise, its archival footage will be made *into* content. And if cameras *aren't* allowed, then the intent to "larp" scarcity will be obvious. Plus, without talent scouts everywhere, how will we discover the *best* artists?
+In a world now awash in content, the new Romantics long for a return to live shows. Yet it's no loss to miss a particular show; more will follow— much like with content! Otherwise, the archival footage will be made *into* content. And if cameras *aren't* allowed? Then the intent to "larp" scarcity will be painfully obvious. Plus, without talent scouts, how will we discover the *best* artists?
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
