@@ -133,7 +133,7 @@ The thing is, we're *all* free to make art, right? Which means the government mu
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of quiet preparation… will be paying their own way the *whole* time.
 
-To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones *most* likely to make history… benefit the *least*! Fortunately, I realized this early on— having only ever been treated as a hobbyist by the indie camp. Now with BYCombo, you too can hope to find partners who'd rather give amnesty to the best… than charity to the rest.
+To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones *most* likely to make history… benefit the *least*! Fortunately, I realized this early on— having only ever been seen as a hobbyist by the indie camp. This is why BYCombo helps you to partner with those who'd rather give amnesty to the best… than charity to the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -538,12 +538,12 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 ### ${++sectionCounter}. Music recording is its own medium
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Second sentence doesn't get at what's lacking with shows.
 
 Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every romantic's go-to solution?!
 `}
 
-In a world now awash in content, the new Romantics long for a return to live shows. Yet if a show is any good, then— much like with content— more will surely follow. Otherwise, its archival footage will be *made* into content. Or, if cameras *aren't* allowed… then the intent to "larp" scarcity will be obvious. And without talent scouts everywhere, how will we discover the *best*?
+In a world now awash in content, the new Romantics long for a return to live shows. Yet it's no loss to miss a particular show; more will follow— much like with content! Otherwise, its archival footage will be made *into* content. And if cameras *aren't* allowed, then the intent to "larp" scarcity will be obvious. Plus, without talent scouts everywhere, how will we discover the *best* artists?
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
