@@ -81,19 +81,11 @@ Here's an incomplete list of ways…
 
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To Millennials, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in all the wrong places. How did we get confused?
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by anti-elitist grievance— and so it shares the same fondness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
+Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by grievance— and so it shares the same fondness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](https://web.archive.org/web/20090318/http://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
 
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to snub the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 As with MAGA, then, indie rock's fondness for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
 
@@ -127,17 +119,17 @@ And yet… this obviously can't end well. We don't support artists of the *past*
 
 ### ${++sectionCounter}. History making is now a mere hobby
 
-${'  ' || `
-// TODO: Review section.
-`}
-
 By supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad?" Yes, because there's a third and final effect: The history makers of our times… now get relegated to the *bottom*! To see why this is so, let's imagine a government program that promises a living wage and free health care to *every* artist.
 
 The thing is, we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way art was done *before*. So anyone hoping to start a *new* paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of quiet preparation… will be paying their own way the *whole* time.
 
-To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones *most* likely to make history… benefit the *least*! Fortunately, I realized this early on— having only ever been seen as a hobbyist by the indie camp. Now BYCombo helps you find partners who'd rather give amnesty to the best… than charity to all the rest.
+${'  ' || `
+// TODO: Review.
+`}
+
+To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones *most* likely to make history… actually benefit the *least*! Fortunately, I realized this early on— having only ever been seen as a hobbyist by the indie camp. Now BYCombo helps you find partners who'd rather give amnesty to the best… than charity to all the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -221,15 +213,15 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 
 ### ${++sectionCounter}. Lean operations fail to adapt
 
-${'  ' || `
-// TODO: Review section.
-`}
-
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is actually their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and reflect, they simply follow the instincts handed down by their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=According%20to%20Dr,they%20flew%20level.) by starlight.
 
 Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. It's precisely *because* word of mouth only traveled through the local scenes, for example, that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
+
+${'  ' || `
+// TODO: Review.
+`}
 
 So yes, middlemen might seem redundant— but redundancy is what keeps a [system resilient](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), and thus able to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. This is why BYCombo tells you to readily share your earnings: Because, how else will you find partners who aren't too harried to change with the times?
 
@@ -328,9 +320,11 @@ This is a different point, I think: Explain indieocracy? History is a top down a
 Faith in institutions.
 
 Indiefication begins with those who benefited from legacy institutions. They go indie, and then lend a veneer of credibility to the indie culture, understating how much the indie culture can actually nurture talent. Such that, when people hear that a work is "indie," they automatically assume it's better. I saw this happen with indie rock. A generation later, it's happening with writers on Substack.
-`}
 
 The Pareto principle tells us that 20% of the xxx yields 80% of the xxx— but unfortunately, we're often mistaken about who those 20% will be! This is why progressives in politics argue for social welfare: By investing in all of us, then taxing those who succeed, allowing them to pay it forward and subsidize the same chances for those in the next generation.
+`}
+
+For political progressives, promoting social welfare is straightforward:
 
 Second paragraph:
 Apply to artistic welfare.
@@ -541,7 +535,7 @@ ${'  ' || `
 Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every romantic's go-to solution?!
 `}
 
-In a world now awash in content, the new Romantics long for a return to live shows. Yet it's no loss to miss any *particular* show; more will follow— just like with content! Otherwise, the archival footage will be *made* into content. And if no cameras are allowed? Then the intent to "larp" scarcity will be painfully obvious. Plus, without talent scouts, how will we discover the *best* artists?
+In a world now awash in content, the new Romantics long for a return to live shows. Yet it's no loss to miss any *particular* show; more will surely follow… much like a day of content! Or, if not— if, let's say, it's held in secret— then the attempt to "larp" scarcity will be painfully obvious. And without talent scouts everywhere, like in the past, how will we discover the *best* artists?
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
