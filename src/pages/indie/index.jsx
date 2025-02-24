@@ -308,7 +308,7 @@ Point out that we've just seen that when government supports artists, it backfir
 
 After democratization, for mention of indieocracy. But before elitism, for mention of legacy institutions. So, between hustlers and paid dues, for theme of not caring about the future, followed by theme of widening vicious circle.
 
-Explicitly mention cultural libertarianism and cultural progressivism. Call it cultural welfare.
+Explicitly mention cultural libertarianism and cultural progressivism.
 
 Yet Gen X artists, who benefited from legacy institutions of major labels, decided they wouldn't pay it forward after all, and instead they'd tear it all down… well, Millennials cheered.
 
@@ -320,8 +320,6 @@ This is a different point, I think: Explain indieocracy? History is a top down a
 Faith in institutions.
 
 Indiefication begins with those who benefited from legacy institutions. They go indie, and then lend a veneer of credibility to the indie culture, understating how much the indie culture can actually nurture talent. Such that, when people hear that a work is "indie," they automatically assume it's better. I saw this happen with indie rock. A generation later, it's happening with writers on Substack.
-
-If Pareto reference is removed, revise victory section.
 `}
 
 The Pareto principle tells us that 20% of the xxx yields 80% of the xxx— but unfortunately, we're often mistaken about who those 20% will be! This is why progressives in politics argue for social welfare: By investing in all of us, then taxing those who succeed, allowing them to pay it forward and subsidize the same chances for those in the next generation.
