@@ -223,7 +223,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So yes, middlemen might seem redundant— but redundancy is what keeps a [system resilient](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), and thus able to adapt! Unfortunately, even the major labels are now tightening their budgets, leading them to behave like the indies. This is why BYCombo tells you to readily share your earnings: Because, how else will you find partners who aren't too harried to change with the times?
+So yes, middlemen might seem redundant— but redundancy is what keeps a system resilient, and thus [able to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Unfortunately, even the major labels are tightening their budgets now, leading them to behave like the indies. This is why BYCombo tells you to readily share your earnings: Because, how else will you find partners who aren't too harried to change with the times?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
