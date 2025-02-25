@@ -125,11 +125,7 @@ The thing is, we're *all* free to make art, right? Which means the government mu
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of quiet preparation… will be paying their own way the *whole* time.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones *most* likely to make history… actually benefit the *least*! Fortunately, I realized this early on— having only ever been seen as a hobbyist by the indie camp. Now BYCombo helps you find partners who'd rather give amnesty to the best… than charity to all the rest.
+To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones most likely to make history… actually benefit the *least*! Fortunately, I realized this early on— having only ever been seen as a hobbyist by the indie camp. Now BYCombo helps you find partners who'd rather give amnesty to the best… than charity to all the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -223,7 +219,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So yes, middlemen might seem redundant— but redundancy is what keeps a system resilient, and thus [able to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Unfortunately, even the major labels are tightening their budgets now, leading them to behave like the indies. This is why BYCombo tells you to readily share your earnings: Because, how else will you find partners who aren't too harried to change with the times?
+So yes, middlemen might seem redundant— but redundancy is what keeps a system resilient, and thus [able to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Unfortunately, even the major labels are now tightening their budgets, leading them to behave more like indies. Which is why BYCombo tells you to readily share your earnings: How else will you find partners who aren't too harried to change with the times?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -511,7 +507,7 @@ ${'  ' || `
 Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every romantic's go-to solution?!
 `}
 
-In a world now awash in content, the new Romantics long for a return to live shows. Yet it's no loss to miss any *particular* show; more will surely follow… just like with content! Or, if not— if, let's say, a show is held in secret— then its intent to "larp" scarcity will be painfully obvious. Besides, without talent scouts everywhere, how will we ever discover the *best* artists?
+In a world now awash in content, the new Romantics long for a return to live shows. Yet it's no loss to miss any *particular* show; more will surely follow… just like with content! Or, if not— if, let's say, a show is held in secret— then its intent to "larp" scarcity will be painfully obvious. Besides, without talent scouts everywhere, how will we discover the *best* artists?
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
