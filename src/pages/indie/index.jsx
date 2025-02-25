@@ -203,7 +203,11 @@ By contrast, the indie labels sign just one artist at a time, so they go with th
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
-In the past, the indie tastemakers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case, this is precisely what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
+${'  ' || `
+// TODO: Review.
+`}
+
+In the past, the indie tastemakers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. "What's not to like?" Well… in *my* case, this is what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
 
 What confused me is that I'd explicitly set out to make a [work of art](https://yearlingsbobtail.com/8-good-night-sita/?verse=61&annotation=40) whose creativity [*can't* be disputed](https://yearlingsbobtail.com/10-constellations/?verse=1&annotation=9). Only later did it hit me: If a tastemaker is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we* want. Our human nature is to [*dis*-like creativity](https://web.archive.org/web/20220416/https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html); we just don't realize this, because whatever it is we *do* like… we simply call *that* the thing that's creative!
 
@@ -298,42 +302,25 @@ But why would the next generation side with past tastemakers who *didn't* care w
 ${'  ' || `
 // TODO: New section: Welfare
 
-Political progressivism is straightforward.
-
-Welfare is when the outsized successes of a few today are then used to bankroll the same chances for many tomorrow.
-
-Cultural progressivism is more complicated.
-
-Point out that we've just seen that when government supports artists, it backfires. The role of a centralized institution that promotes welfare must come from major labels driven by a profit motive, who pursue this purely as a sound business strategy.
-
 After democratization, for mention of indieocracy. But before elitism, for mention of legacy institutions. So, between hustlers and paid dues, for theme of not caring about the future, followed by theme of widening vicious circle.
 
 Explicitly mention cultural libertarianism and cultural progressivism.
 
-Yet Gen X artists, who benefited from legacy institutions of major labels, decided they wouldn't pay it forward after all, and instead they'd tear it all down… well, Millennials cheered.
-
 Why people hate paying it forward. Bring up [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp) here. Major labels, like governments, bet on the outsized earnings of a few to subsidize the rest. But everyone resents this. The successful assume they could've succeeded without help. The less successful resent not being given more help.
 https://usafacts.org/articles/who-pays-the-most-income-tax
-
-This is a different point, I think: Explain indieocracy? History is a top down affair. Be clear that decentralization and bottom up isn't about distribution, but decision-making. Use scraps from homogeneity, as well as salvation sections.
 
 Faith in institutions.
 
 Indiefication begins with those who benefited from legacy institutions. They go indie, and then lend a veneer of credibility to the indie culture, understating how much the indie culture can actually nurture talent. Such that, when people hear that a work is "indie," they automatically assume it's better. I saw this happen with indie rock. A generation later, it's happening with writers on Substack.
 
-The Pareto principle tells us that 20% of the xxx yields 80% of the xxx— but unfortunately, we're often mistaken about who those 20% will be! This is why progressives in politics argue for social welfare: By investing in all of us, then taxing those who succeed, allowing them to pay it forward and subsidize the same chances for those in the next generation.
+Why people hate paying it forward. Bring up [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp) here. Major labels, like governments, bet on the outsized earnings of a few to subsidize the rest. But everyone resents this. 
 `}
 
-For political progressives, promoting social welfare is straightforward:
+Social welfare is simple, right? The government invests in *everyone*, and then taxes those who succeed— with the most successful also paying the highest taxes— in order to subsidize the same opportunities for the next generation. Welfare in the arts is more complicated, however, since— as we've seen— any attempt by the government to support artists will backfire.
 
-Second paragraph:
-Apply to artistic welfare.
+To promote artistic welfare, then, some *other* centralized institution must cast a wide net, and then take the outsized earnings of the few who succeed to subsidize the same opportunities for the next cohort. Why would they do this? Because it's the smart business strategy— and they're driven by a profit motive. And in their heyday, the major labels gladly filled this role.
 
-Third paragraph:
-But welfare programs are fragile, and it's easy to see why. Nobody who gains from strong centralized systems loves them, while those who have to pay in hate them. At some point, a generation decides not to pay it forward to the next.
-
-Fourth paragraph:
-Surprisingly, Millennials let Gen X do this. Libertarians.
+But welfare programs are fragile, and it's easy to see why. The unsuccessful don't love it. Rather than be grateful to be given a chance, they resent not having been given more help. Meanwhile, the successful do hate it; they assume they could've succeeded without help. And their success puts them in a position to tear down the program.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
@@ -359,7 +346,11 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
-Though indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
+${'  ' || `
+// TODO: Review.
+`}
+
+Though indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. "What's not to love?" Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
