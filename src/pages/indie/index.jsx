@@ -294,18 +294,18 @@ But why would the next generation side with past tastemakers who *didn't* care w
 ${'  ' || `
 // TODO: New section: Welfare
 
-After democratization, for mention of indieocracy. But before elitism, for mention of legacy institutions. So, between hustlers and paid dues, for theme of not caring about the future, followed by theme of widening vicious circle.
+Between hustlers and paid dues, for theme of not caring about the future, followed by theme of widening vicious circle. After democratization, for mention of indieocracy. But before elitism, for mention of legacy institutions.
 
-Explicitly mention libertarianism and progressivism.
+Doesn't need to mention libertarianism and progressivism? Must mention indie.
 `}
 
-Social welfare is simple, right? The government invests in *everyone*, and then taxes those who succeed— with the most successful also paying the highest taxes— in order to subsidize the same opportunities for the next generation. In the arts, however, welfare is more complicated, since— as we've already seen— any attempt by the government to support artists will backfire.
+Social welfare is simple, right? The government gives *everyone* a chance, and then taxes those who succeed— with the most successful paying the highest taxes— in order to subsidize the same opportunities for the next generation. In the arts, however, welfare is more complicated, since— as we've already seen— any attempt by the government to support artists will backfire.
 
-To promote artistic welfare, then, some *other* centralized institution must cast a wide net, and then take the outsized earnings of the few who succeed to subsidize the same opportunities for the next cohort. Why would they do this? Because it's the smart business strategy— and they're driven by a profit motive. And in their heyday, the major labels gladly filled this role.
+To promote artistic welfare, then, some *other* centralized institution must cast a wide net, and then take the outsized earnings of the few who succeed to subsidize the same opportunities for the next generation. Why would they do this? Because it's the smart business strategy— and they're driven by a profit motive. And in their heyday, the major labels gladly filled this role.
 
-But it's easy to see why welfare is fragile. Rather than be grateful to be given a chance at all, the unsuccessful resent not having been given more help. Meanwhile, the successful assume they could've succeeded without help, and thus resent paying it forward. And using the power granted by their success, they proceed to tear down the program.
+Yet welfare is inherently fragile: Rather than be grateful to be given a chance at all, the unsuccessful resent not getting more help. Meanwhile, the successful assume they would've been fine on their own, and resent paying it forward. So libertarians in politics, along with the indie camp in culture, thus seek to tear down welfare, turning it into a legacy institution forever lost to future generations.
 
-Like their counterparts in politics, then, indie rock's cultural libertarians keep undermining our faith in centralized institutions.
+But others [*don't* mind](https://abcnews.go.com/US/wireStory/warren-buffett-offers-lessons-investing-annual-berkshire-hathaway-119080729#:~:text=Thank%20you%2C%20Uncle,on%20your%20part.) paying it forward— after all, the more you pay, the more you're one of the few who succeeded! Which is why, as a culturally progressive movement, BYCombo asks you to remember your current precarity as an unknown artist, such that you'll always be grateful to the fragile institutions that lifted you above it.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
