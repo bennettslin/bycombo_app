@@ -300,23 +300,16 @@ ${'  ' || `
 
 After democratization, for mention of indieocracy. But before elitism, for mention of legacy institutions. So, between hustlers and paid dues, for theme of not caring about the future, followed by theme of widening vicious circle.
 
-Explicitly mention cultural libertarianism and cultural progressivism.
-
-Why people hate paying it forward. Bring up [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp) here. Major labels, like governments, bet on the outsized earnings of a few to subsidize the rest. But everyone resents this. The successful assume they could've succeeded without help. The less successful resent not being given more help.
-https://usafacts.org/articles/who-pays-the-most-income-tax
-
-Faith in institutions.
-
-Indiefication begins with those who benefited from legacy institutions. They go indie, and then lend a veneer of credibility to the indie culture, understating how much the indie culture can actually nurture talent. Such that, when people hear that a work is "indie," they automatically assume it's better. I saw this happen with indie rock. A generation later, it's happening with writers on Substack.
-
-Why people hate paying it forward. Bring up [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp) here. Major labels, like governments, bet on the outsized earnings of a few to subsidize the rest. But everyone resents this. 
+Explicitly mention libertarianism and progressivism.
 `}
 
-Social welfare is simple, right? The government invests in *everyone*, and then taxes those who succeed— with the most successful also paying the highest taxes— in order to subsidize the same opportunities for the next generation. Welfare in the arts is more complicated, however, since— as we've seen— any attempt by the government to support artists will backfire.
+Social welfare is simple, right? The government invests in *everyone*, and then taxes those who succeed— with the most successful also paying the highest taxes— in order to subsidize the same opportunities for the next generation. In the arts, however, welfare is more complicated, since— as we've already seen— any attempt by the government to support artists will backfire.
 
 To promote artistic welfare, then, some *other* centralized institution must cast a wide net, and then take the outsized earnings of the few who succeed to subsidize the same opportunities for the next cohort. Why would they do this? Because it's the smart business strategy— and they're driven by a profit motive. And in their heyday, the major labels gladly filled this role.
 
-But welfare programs are fragile, and it's easy to see why. The unsuccessful don't love it. Rather than be grateful to be given a chance, they resent not having been given more help. Meanwhile, the successful do hate it; they assume they could've succeeded without help. And their success puts them in a position to tear down the program.
+But it's easy to see why welfare is fragile. Rather than be grateful to be given a chance at all, the unsuccessful resent not having been given more help. Meanwhile, the successful assume they could've succeeded without help, and thus resent paying it forward. And using the power granted by their success, they proceed to tear down the program.
+
+Like their counterparts in politics, then, indie rock's cultural libertarians keep undermining our faith in centralized institutions.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
