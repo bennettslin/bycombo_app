@@ -219,7 +219,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So yes, middlemen might seem redundant— but redundancy is what keeps a system resilient, and thus [able to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Unfortunately, even the major labels are now tightening their budgets, leading them to behave more like indies. Which is why BYCombo tells you to readily share your earnings: How else will you find partners who aren't too harried to change with the times?
+So yes, middlemen might seem redundant— but redundancy is what keeps a system resilient, and thus [able to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Unfortunately, even the major labels are now tightening their budgets, making them behave more like the indies. Which is why BYCombo tells you to readily share your earnings: How else will you find partners who aren't too harried to change with the times?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -292,20 +292,18 @@ But why would the next generation side with past tastemakers who *didn't* care w
 ### ${++sectionCounter}. Welfare gets cut by past beneficiaries
 
 ${'  ' || `
-// TODO: New section: Welfare
+// TODO: Keep working on.
 
 Between hustlers and paid dues, for theme of not caring about the future, followed by theme of widening vicious circle. After democratization, for mention of indieocracy. But before elitism, for mention of legacy institutions.
-
-Doesn't need to mention libertarianism and progressivism? Must mention indie.
 `}
 
-Social welfare is simple, right? The government gives *everyone* a chance, and then taxes those who succeed— with the most successful paying the highest taxes— in order to subsidize the same opportunities for the next generation. In the arts, however, welfare is more complicated, since— as we've already seen— any attempt by the government to support artists will backfire.
+Social welfare is straightforward, right? The government gives *everyone* a chance; those who succeed more then pay more in taxes, subsidizing the same opportunities for the next generation. It's a bit more complicated in the arts, however, since— as we've seen— any attempt by the government to support artists will end up hurting the history makers.
 
-To promote artistic welfare, then, some *other* centralized institution must cast a wide net, and then take the outsized earnings of the few who succeed to subsidize the same opportunities for the next generation. Why would they do this? Because it's the smart business strategy— and they're driven by a profit motive. And in their heyday, the major labels gladly filled this role.
+To promote artistic welfare, then, some *other* centralized institution must cast a wide net, then take from the outsized earnings of a successful few to subsidize the same opportunities for the next generation of artists. Well, good news: This is *also* the smart move *business*-wise! Which is why this role, in the past, was filled by the major labels with their profit motive.
 
-Yet welfare is inherently fragile: Rather than be grateful to be given a chance at all, the unsuccessful resent not getting more help. Meanwhile, the successful assume they would've been fine on their own, and resent paying it forward. So libertarians in politics, along with the indie camp in culture, thus seek to tear down welfare, turning it into a legacy institution forever lost to future generations.
+Yet welfare is inherently fragile: Rather than be grateful to get a chance at all, the unsuccessful resent not being given more support… while the successful assume they would've done just as well on their own, and thus resent paying it forward. So libertarians— including indie rock's cultural kind— find it easy to turn us all against welfare, denying its benefits to future generations.
 
-But others [*don't* mind](https://abcnews.go.com/US/wireStory/warren-buffett-offers-lessons-investing-annual-berkshire-hathaway-119080729#:~:text=Thank%20you%2C%20Uncle,on%20your%20part.) paying it forward— after all, the more you pay, the more you're one of the few who succeeded! Which is why, as a culturally progressive movement, BYCombo asks you to remember your current precarity as an unknown artist, such that you'll always be grateful to the fragile institutions that lifted you above it.
+But others [*don't* mind](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=%E2%80%9CSo%20thank%20you,on%20your%20part.%E2%80%9D) paying it forward: "If we have to pay more, it means we succeeded more!" And, well, isn't this way of thinking better… for *you*? Which is why BYCombo asks you to remember your current precarity as a nobody: This culturally progressive movement we're building is fragile, and even once we lift you above it, hopefully you'll never stop appreciating this.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
