@@ -408,15 +408,15 @@ ${'  ' || `
 * Jody Rosen link
 `}
 
-It's obvious why the privileged are drawn to indie rock's cultural libertarianism: In a decentralized free-for-all, all *anyone* has to work with is their hidden advantages. The problem is, there's always someone out there with even *more* advantages. Now what? Why, you lean on your individual identity. And in the '00s, indie rock's White male artists began to do just that.
+It's obvious why the privileged are drawn to indie rock's ideal of decentralizing the arts: Without gatekeepers to favor the best works, all *any* artist has to work with is their hidden advantages. The problem is, there's always someone out there with even *more* advantages. Now what? Why, you lean on your identity. And in the '00s, indie rock's White male artists began to do just that.
 
-In the '10s, though, the indie camp had a [crisis of conscience]() about the overwhelming White maleness of their movement. In guilt, they tried to help us women and minorities in the only way they knew how: by encouraging us to benefit from our *own* identities— an era that came to be called "wokeness."
+In the '10s, though, indie rock had a crisis of conscience, as its overwhelming [White maleness]() became impossible to ignore. In guilt, the indie camp tried to help us women and minorities in the only way they knew how: by allowing us to benefit from our *own* identities— an era that's now called "wokeness."
 
-The thing is, White men can *easily* benefit from their identities without admitting to it— by, let's say, embodying a [romantic archetype](). The only way for us women and minorities to do so, however, is by *blatantly* calling attention to our race or gender. For this reason, wokeness has provoked a backlash, as MAGA and others on the political right now seek to undo its damage.
+The thing is, White men *easily* benefit from their identities without having to admit to it— by, let's say, embodying a [nostalgic archetype](). By contrast, we women and minorities can do so only by *blatantly* calling attention to our race or gender. For this reason, wokeness has provoked a backlash, as MAGA and others on the political right now seek to undo its damage.
 
-Yet their efforts are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with turning to the right— knowing the indie camp mostly sits on the political left. But I just couldn't get my arguments against indie rock to make sense. It's only once I realized that its ideals belong on the cultural *right*… that everything fell into place.
+Yet their efforts are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with turning to the right— knowing that most in the indie camp are on the political left. But… I couldn't get my arguments against indie rock to make sense. It's only once I saw it as a movement of the cultural *right*… that everything fell into place.
 
-To benefit from one's individual identity, then, is a culturally *right*-wing ideal favored by the privileged— and for too long, nothing stood in their way, causing the arts to decline. Which means the revolution must come from the cultural *left*! So come join BYCombo, and help us promote ideals favored by the disadvantaged… like benefiting from our collective interdependence.
+To benefit from one's individual identity, then, is a *right*-wing ideal— like the rest of indie rock's ideals, and like most ideals favored by the privileged. This means the revolution must come from the cultural *left*! So come join BYCombo, and help promote the ideal favored most by *us*, the disadvantaged: to benefit from our collective interdependence.
 
 ### ${++sectionCounter}. Penultimate tolerance has its pitfalls
 
