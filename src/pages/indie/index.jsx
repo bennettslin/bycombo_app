@@ -219,7 +219,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So yes, middlemen might seem redundant— but redundancy is what keeps a system resilient, and thus [able to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Unfortunately, even the major labels are now tightening their budgets, making them behave more like the indies. Which is why BYCombo tells you to readily share your earnings: How else will you find partners who aren't too harried to change with the times?
+So yes, middlemen might seem redundant— but redundancy is what keeps a system resilient, and thus [able to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Unfortunately, even the major labels are on a tight budget now, leading them to behave more like the indies. This is why BYCombo tells you to split your earnings generously: How else will you find partners who *aren't* too harried to change with the times?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -393,31 +393,25 @@ It's simple: Historically, victims of prejudice relied on centralized authoritie
 
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have repeatedly shown that you *aren't* your own best advocate? Why, BYCombo can help you find partners who'll advocate on your behalf— as we usher in a new time of civil rights for artists!
 
-### ${++sectionCounter}. Identity is a fallback of the privileged
+### ${++sectionCounter}. Identity is a resort of the privileged
 
 ${'  ' || `
 // TODO: New section: Identity
 
-* After tolerance section, or before?
+* After tolerance section, or before? Thinking before now.
 * Bon Iver link
-* Must reference surrounding context somehow
+* Jody Rosen link
 `}
 
-It's obvious why the privileged are drawn to indie rock's cultural libertarianism: In a decentralized free-for-all, *all* we have to work with is our hidden advantages. But the problem with starting a movement that favors your privilege is that there's always someone even *more* privileged. Now what? At that point, you lean on your identity.
+It's obvious why the privileged are drawn to indie rock's cultural libertarianism: In a decentralized free-for-all, all *anyone* has to work with is their hidden advantages. The problem is, there's always someone out there with even *more* advantages. Now what? Why, you lean on your individual identity. And in the '00s, indie rock's White male artists began to do just that.
 
-In the late '00s, the White male artists of indie rock began to do just that. They could lean on romantic archetypes that were long established. As a minority with no choice but to create new archetypes, I struggled to compete, and finally left in frustration. (Save space by not mentioning leaving?) When I returned to music a decade later, I learned that indie rock had a crisis of conscience about its overwhelming White maleness— and was now helping women and minorities in the only way it knew how: by helping them to benefit from their own identities— a phenomenon known as "wokeness."
+In the '10s, though, the indie camp had a [crisis of conscience]() about their movement's overwhelming Whiteness and maleness. In guilt, they tried to help us women and minorities in the only way they knew how: by encouraging us to benefit from our *own* identities— a phenomenon that came to be called "wokeness."
 
-But disadvantaged groups know that benefiting from our identities is a disaster waiting to happen. It's why we've only ever founded movements based on radical new inventions, not presenting ourselves as charity cases.
+The thing is, White men *easily* benefit from their identities without admitting to it— by, let's say, embodying a [nostalgic archetype](). The only way for us women and minorities to do so, however, is by *blatantly* calling attention to our race or gender. For this reason, wokeness has provoked a backlash, as MAGA and others on the political right now seek to undo its damage.
 
-By evoking the romantic archetypes of the past, White men get to benefit from their identity without ever admitting to it. So touting one's identity became their go-to solution when trying to help women and minorities.
+Yet their efforts are doomed to fail. How do I know? Because when indie rock first rejected me back in the '00s, I *myself* flirted with turning to the right— knowing its tastemakers mostly sit on the political left. But I just couldn't get my arguments to make sense. It's only once I realized that indie rock itself belongs on the cultural *right*… that everything fell into place.
 
-With us women and minorities, however, our attempts to benefit from our identity can't be so easily disguised. Thus wokeness has now provoked a backlash from MAGA.
-
-Their efforts are doomed to fail, because wokeness is actually a *libertarian* solution to a problem caused by the libertarian ideals of the privileged to begin with!
-
-Given a choice to benefit from one's identity, or from interdependence, it's the *privileged* groups who'd choose the former over the latter. Thankfully, as a minority Xennial, I've long understood that I'd need to radical new inventions, since no one cares about my identity. Now with BYCombo…
-
-Let's face it, us women and minorities, we want to benefit from *interdependence*, not from our *identity*. The "bad guys" have long understood this. Now that wokeness has spurred a backlash, maybe the "good guys" will too.
+The decline of the arts for the past two decades, then, has been caused by the privileged spreading their culturally right-wing ideals— like benefiting from your individual identity. Now you can join BYCombo, which understands the revolution can only come from culturally left-wing ideals favored by the disadvantaged— like benefiting from our collective interdependence.
 
 ### ${++sectionCounter}. Penultimate tolerance has its pitfalls
 
@@ -467,7 +461,11 @@ So yes, the arts have declined— but it *isn't* because the tech platforms list
 
 In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked, "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one wants to be its *first*?" "Well, it's my *Ulysses*," I'd reply. "Surely an unknown James Joyce would've faced the same dilemma?" I just didn't have a better answer… until my years as a coder exposed me to startup culture.
 
-Within the past half-century, we've come to learn that startups are uniquely positioned to innovate because of [how they grow](https://paulgraham.com/growth.html): Unlike a retail store, which can't scale into a chain if it's unprofitable, a startup with few users might lose money on each user— yet *still* hope to turn a profit upon gaining millions of them! How? Through network effects and economies of scale.
+${'  ' || `
+// TODO: Review.
+`}
+
+Within the past few decades, we've come to learn that startups are uniquely positioned to innovate because of [how they grow](https://paulgraham.com/growth.html): Unlike a retail store, which can't scale into a chain if it's unprofitable, a startup with few users might lose money on each user— yet *still* hope to turn a profit upon gaining millions of them! How? Through network effects and economies of scale.
 
 Well, this *also* explains how an artist like me— who can't even gain *one* fan— might still hope to gain a *million*! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will parse them only if others have done the same: network effects! And when your parts are [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), new bandmates won't commit to fully learning them until an audience is guaranteed: economies of scale!
 
@@ -500,7 +498,7 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 ### ${++sectionCounter}. Music recording is its own medium
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Make it more clear why the best shows are more like content than the best recordings.
 
 Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every romantic's go-to solution?!
 `}
@@ -593,7 +591,11 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 ### ${++sectionCounter}. Victory is assured
 
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what critic, the one whose well-chosen identity provides so much surrounding context? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor?
+${'  ' || `
+// TODO: Review.
+`}
+
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what critic, the one whose well-stated identity provides so much surrounding context? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor?
 
 Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
