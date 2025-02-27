@@ -353,6 +353,10 @@ Thankfully, *I've* never taken to indie rock's ideal of populist solidarity; as 
 
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for having exploited the defeated South. This surprised me, since I saw them as "good guys"— for having defended vulnerable Blacks. Clearly, he sided with the people, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in culture… but in politics as well!
 
+${'  ' || `
+// TODO: Revise. Equate establishment with elite here.
+`}
+
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the most disadvantaged among us side with the [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
 
 Of course, it isn't just in politics, but also in culture, where this confusion has made Millennials so ineffectual. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— their generation's good guys— won't hear of it. It's like they think I'm voting against my own interests!
@@ -399,6 +403,7 @@ ${'  ' || `
 // TODO: New section: Identity
 
 * After tolerance section, or before? Thinking before now.
+* Don't mention libertarianism, to be consistent? Just say right versus left wing?
 * Bon Iver link
 * Jody Rosen link
 `}
@@ -409,7 +414,7 @@ In the '10s, though, the indie camp had a [crisis of conscience]() about the ove
 
 The thing is, White men can *easily* benefit from their identities without admitting to it— by, let's say, embodying a [romantic archetype](). The only way for us women and minorities to do so, however, is by *blatantly* calling attention to our race or gender. For this reason, wokeness has provoked a backlash, as MAGA and others on the political right now seek to undo its damage.
 
-Yet their efforts are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with turning to the right— knowing the indie camp mostly sits on the political left. But I just couldn't get my arguments against indie rock to make sense. It's only once I realized that it belongs on the cultural *right*… that everything fell into place.
+Yet their efforts are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with turning to the right— knowing the indie camp mostly sits on the political left. But I just couldn't get my arguments against indie rock to make sense. It's only once I realized that its ideals belong on the cultural *right*… that everything fell into place.
 
 To benefit from one's individual identity, then, is a culturally *right*-wing ideal favored by the privileged— and for too long, nothing stood in their way, causing the arts to decline. Which means the revolution must come from the cultural *left*! So come join BYCombo, and help us promote ideals favored by the disadvantaged… like benefiting from our collective interdependence.
 
