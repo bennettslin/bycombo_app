@@ -349,10 +349,6 @@ Thankfully, *I've* never taken to indie rock's ideal of populist solidarity; as 
 
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for having exploited the defeated South. This surprised me, since I saw them as "good guys"— for having defended vulnerable Blacks. Clearly, he sided with the people, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in culture… but in politics as well!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. Now progressive Millennials keep trying to pit *all* of us against the political establishment's elites… only to confusedly watch as the most disadvantaged among us side with those [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
 
 Of course, it isn't just in politics, but also in culture, where this confusion has made Millennials so ineffectual. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— their generation's good guys— won't hear of it. It's like they think I'm voting against my own interests!
@@ -592,10 +588,6 @@ Thanks to indie rock, however, today's artists have no such reason to believe. S
 Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like fish don't know they're wet, Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build up your talents… in faith that a savior will then find you!
 
 ### ${++sectionCounter}. Victory is assured
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what critic, the one whose well-presented identity provides so much surrounding context? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor?
 
