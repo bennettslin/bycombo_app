@@ -215,10 +215,6 @@ Of course, these instincts made sense in the '80s, when underground bands built 
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 So yes, middlemen might seem redundant— but redundancy is what keeps a system resilient, and thus [able to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Unfortunately, even the major labels are on a tight budget now, leading them to behave more like the indies. This is why BYCombo tells you to split your earnings generously: How else will you find partners who *aren't* too harried to change with the times?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
@@ -354,10 +350,10 @@ Thankfully, *I've* never taken to indie rock's ideal of populist solidarity; as 
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for having exploited the defeated South. This surprised me, since I saw them as "good guys"— for having defended vulnerable Blacks. Clearly, he sided with the people, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in culture… but in politics as well!
 
 ${'  ' || `
-// TODO: Revise. Equate establishment with elite here.
+// TODO: Review.
 `}
 
-Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the most disadvantaged among us side with the [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
+Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. Now progressive Millennials keep trying to pit *all* of us against the political establishment's elites… only to confusedly watch as the most disadvantaged among us side with those [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
 
 Of course, it isn't just in politics, but also in culture, where this confusion has made Millennials so ineffectual. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— their generation's good guys— won't hear of it. It's like they think I'm voting against my own interests!
 
@@ -411,9 +407,9 @@ ${'  ' || `
 * Fifth paragraph: The revolution has to come from reintroducing left-wing ideals back into the culture, for the first time this century.
 `}
 
-Without elitist gatekeepers to favor the best, all we have to work with is our hidden advantages, right? Yet there's always someone out there hiding an even *greater* advantage! What then? Why, that's when the "gloves come off," and we openly fight their privilege with our own— including whatever can be gained from our identity. In the '00s, then, White men began to do just that.
+Without elitist gatekeepers to favor the best, all we have to work with is our hidden advantages, right? Yet… there's always someone out there hiding an even *greater* advantage! What then? Why, that's when the "gloves come off," and we openly fight their privilege with our own— including whatever can be gained from our identity. So in the '00s, White men began to do just that.
 
-By the '10s, though, indie rock had a crisis of conscience, as its overwhelming [White maleness](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html) became impossible to ignore. In guilt, the indie camp tried to help us women and minorities in the only way they knew how: by allowing us to benefit from our *own* identities— an era that's now called "wokeness."
+By the '10s, though, indie rock's overwhelming [White maleness](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html) became hard to ignore. Suffering a crisis of conscience, the indie camp helped us women and minorities in the only way they knew how: by allowing us to benefit from our *own* identities— an era that's now known as "wokeness."
 
 But while White men *easily* benefit from their identities without having to admit to it— by embodying a [nostalgic archetype](), for example— we women and minorities can do so only by *blatantly* trading on our race or gender; we *must* call attention to ourselves as charity cases! So wokeness has provoked a backlash, as MAGA and the political right now seek to undo its damage.
 
@@ -468,10 +464,6 @@ So yes, the arts have declined— but it *isn't* because the tech platforms list
 ### ${++sectionCounter}. Startups offer lessons in scalability
 
 In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked, "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one wants to be its *first*?" "Well, it's my *Ulysses*," I'd reply. "Surely an unknown James Joyce would've faced the same dilemma?" I just didn't have a better answer… until my years as a coder exposed me to startup culture.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Within the past few decades, we've come to learn that startups are uniquely positioned to innovate because of [how they grow](https://paulgraham.com/growth.html): Unlike a retail store, which can't scale into a chain if it's unprofitable, a startup with few users might lose money on each user— yet *still* hope to turn a profit upon gaining millions of them! How? Through network effects and economies of scale.
 
@@ -603,7 +595,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what critic, the one whose well-stated identity provides so much surrounding context? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor?
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what critic, the one whose well-presented identity provides so much surrounding context? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor?
 
 Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
