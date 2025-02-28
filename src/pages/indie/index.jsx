@@ -407,10 +407,6 @@ ${'  ' || `
 First paragraph, make it more like: Indie rock's founders wanted to capitalize on their hidden advantages as White men. The problem is, when you start a movement designed to reward your hidden advantages, it will always backfire on you, because there will always be someone out with an even greater advantage.
 
 Second paragraph, add starting sentence, something like: by favoring the privileged, indie rock also became disproportionately more powerful, making its overwhelming White maleness hard to ignore. Shorten to in guilt.
-
-But… I couldn't get my arguments against indie rock to make sense. It's only once I saw it as a movement of the cultural *right*… that everything fell into place.
-
-Only once I realized that *they* sit on the cultural *right*, while *I* sit on the *left*… did everything fall into place.
 `}
 
 Without elitist gatekeepers to favor the best, all we have to work with is our hidden advantages. Yet… there's always someone out there hiding an even *greater* advantage! What then? Why, that's when the "gloves come off," and we openly fight *their* privilege with *ours*— including whatever can be gained from our identity. So in the '00s, White men began to do just that.
@@ -419,9 +415,9 @@ By the '10s, though, indie rock's overwhelming [White maleness](https://slate.co
 
 But while White men *easily* benefit from their identities without having to admit to it— by embodying a [nostalgic archetype](), for example— we women and minorities can do so only by *blatantly* trading on our race or gender; we *must* present ourselves as charity cases! So wokeness provoked a backlash, as MAGA now attacks it from the political right.
 
-Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with turning to the right— knowing that most in the indie camp sit on the political left. But I couldn't get my arguments against them to make sense. Then I realized that, in spite of their politics, they sit on the cultural *right*… and everything fell into place.
+Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to spurn the indie camp, most of whom sit on the political left. But I couldn't get my arguments to make sense. Then I realized that, regarding *culture*, they sit on the *right*, while I sit on the *left*… and that's when it all fell into place.
 
-To benefit from one's individual identity, then, is a *right*-wing ideal— like the rest of indie rock's ideals, and like most ideals favored by the privileged. It's the cultural *right* that's been in charge this whole time! But now you can help BYCombo to start a cultural *left*, by promoting the one ideal favored most by the disadvantaged: to benefit from our collective interdependence.
+To benefit from one's individual identity, then, is a *right*-wing ideal— like the rest of indie rock's ideals, and like most ideals favored by the privileged. It's the cultural *right* that's been in charge this whole time! But now you can help BYCombo start a cultural *left*, by promoting the one ideal favored most by the disadvantaged: to benefit from our collective interdependence.
 
 ### ${++sectionCounter}. Penultimate tolerance has its pitfalls
 
@@ -461,7 +457,11 @@ To sum up, it was the *indie camp* who gave us today's [data-driven industry](ht
 
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're like word of mouth… which is why indie rock embraced them for as long as it did. In this light, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
-According to science, we humans aren't just biased against creativity, but also against low-status groups… who generate the *most* creative ideas! And when in doubt, we imitate others… yet they *share* our biases! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
+${'  ' || `
+// TODO: Review.
+`}
+
+According to science, we humans aren't just biased against creative ideas… but also against the underclass who generates them! And when in doubt, we imitate others… who *share* our status-based assumptions! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
