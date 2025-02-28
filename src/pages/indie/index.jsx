@@ -396,26 +396,26 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 ### ${++sectionCounter}. Identity is a resort of the privileged
 
 ${'  ' || `
-// TODO: New section: Identity
+// TODO: Keep working on. Review links.
 
-* After tolerance section, or before? Thinking before now.
-* Don't mention libertarianism, to be consistent? Just say right versus left wing?
 * Bon Iver link
-* Jody Rosen link
 
-* Mention charity case in second paragraph?
-* Fifth paragraph: The revolution has to come from reintroducing left-wing ideals back into the culture, for the first time this century.
+First paragraph, make it more like: Indie rock's founders wanted to capitalize on their hidden advantages as White men. The problem is, when you start a movement designed to reward your hidden advantages, it will always backfire on you, because there will always be someone out with an even greater advantage.
+
+Second paragraph, add starting sentence, something like: by favoring the privileged, indie rock also became disproportionately more powerful, making its overwhelming White maleness hard to ignore. Shorten to in guilt.
+
+But… I couldn't get my arguments against indie rock to make sense. It's only once I saw it as a movement of the cultural *right*… that everything fell into place.
 `}
 
-Without elitist gatekeepers to favor the best, all we have to work with is our hidden advantages, right? Yet… there's always someone out there hiding an even *greater* advantage! What then? Why, that's when the "gloves come off," and we openly fight their privilege with our own— including whatever can be gained from our identity. So in the '00s, White men began to do just that.
+Without elitist gatekeepers to favor the best, all we have to work with is our hidden advantages. Yet… there's always someone out there hiding an even *greater* advantage! What then? Why, that's when the "gloves come off," and we openly fight *their* privilege with *ours*— including whatever can be gained from our identity. So in the '00s, White men began to do just that.
 
-By the '10s, though, indie rock's overwhelming [White maleness](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html) became hard to ignore. Suffering a crisis of conscience, the indie camp helped us women and minorities in the only way they knew how: by allowing us to benefit from our *own* identities— an era that's now known as "wokeness."
+By the '10s, though, indie rock's overwhelming [White maleness](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html) became hard to ignore. Suffering a crisis of conscience, the indie camp solved the problem in the only way they knew how: by letting us women and minorities stand to gain from our *own* identities— a solution that came to be called "wokeness."
 
-But while White men *easily* benefit from their identities without having to admit to it— by embodying a [nostalgic archetype](), for example— we women and minorities can do so only by *blatantly* trading on our race or gender; we *must* call attention to ourselves as charity cases! So wokeness has provoked a backlash, as MAGA and the political right now seek to undo its damage.
+But while White men *easily* benefit from their identities without having to admit to it— by embodying a [nostalgic archetype](), for example— we women and minorities can do so only by *blatantly* trading on our race or gender; we *must* present ourselves as charity cases! So wokeness provoked a backlash, as MAGA now attacks it from the political right.
 
-Yet their efforts are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with turning to the right— knowing that most in the indie camp are on the political left. But… I couldn't get my arguments against indie rock to make sense. It's only once I saw it as a movement of the cultural *right*… that everything fell into place.
+Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with turning to the right— knowing that most in the indie camp sit on the political left. But I couldn't get my arguments against them to make sense. Only once I realized that *they* sit on the cultural *right*, while *I* sit on the *left*… did everything fall into place.
 
-To benefit from one's individual identity, then, is a *right*-wing ideal— as are most ideals favored by the privileged, as well as every other ideal promoted by "indiefication." This means the revolution must come from the cultural *left*! So come join BYCombo, and help promote the ideal favored most by *us*, the disadvantaged: to benefit from our collective interdependence.
+To benefit from one's individual identity, then, is a *right*-wing ideal— like the rest of indie rock's ideals, and like most ideals favored by the privileged. It's the cultural *right* that's been in charge this whole time! But now you can help BYCombo to start a cultural *left*, by promoting the one ideal favored most by the disadvantaged: to benefit from our collective interdependence.
 
 ### ${++sectionCounter}. Penultimate tolerance has its pitfalls
 

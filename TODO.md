@@ -20,6 +20,7 @@
     * Change interactivated verse?
 
 * BYC
+    * Mention political left/right and/or cultural left/right at least one other place
     * A collectivist section
     * Consider doing screen widths smartly
     * Consider smart quote in Wikipedia link update
