@@ -59,7 +59,11 @@ To aim for the canon, a band must develop exceptional strengths. But this isn't 
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this is a *curse*, not a *blessing*! Past artists put out *demos*, and to rival them means doing likewise.
+${'  ' || `
+// TODO: Review.
+`}
+
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this isn't a *blessing*; it's a *curse*! Past artists put out *demos*, and to rival them means doing likewise.
 
 **Why a demo *registry*?**
 
@@ -85,7 +89,11 @@ Simply put, indie rock doesn't know what it stands *for*, only whom it stands *a
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](https://web.archive.org/web/20090318/http://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
 
-In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to snub the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
+${'  ' || `
+// TODO: Review.
+`}
+
+In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to spurn the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
 
 As with MAGA, then, indie rock's fondness for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
 
@@ -299,7 +307,7 @@ To promote artistic welfare, then, some *other* centralized institution must cas
 
 Yet welfare is inherently fragile: Rather than be grateful to get a chance at all, the unsuccessful resent not being given more support… while the successful assume they would've done just as well on their own, and thus resent paying it forward. So libertarians— including indie rock's cultural kind— find it easy to turn us all against welfare, denying its benefits to future generations.
 
-But others [*don't* mind](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=%E2%80%9CSo%20thank%20you,on%20your%20part.%E2%80%9D) paying it forward: "If we have to pay more, it means we succeeded more!" And, well, isn't this way of thinking better… for *you*? Which is why BYCombo asks you to remember your current precarity as a nobody: This culturally progressive movement we're building is fragile, and even once we lift you above it, hopefully you'll never stop appreciating this.
+But others [*don't* mind](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=%E2%80%9CSo%20thank%20you,on%20your%20part.%E2%80%9D) paying it forward: "If we have to pay more, it means we succeeded more!" And isn't this a better way of thinking… for *you*? Which is why BYCombo asks you to remember your current precarity as a nobody: This culturally progressive movement we're building is fragile, and even once we lift you above it, hopefully you'll never stop appreciating this.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
@@ -415,7 +423,7 @@ By the '10s, though, indie rock's overwhelming [White maleness](https://slate.co
 
 But while White men *easily* benefit from their identities without having to admit to it— by embodying a [nostalgic archetype](), for example— we women and minorities can do so only by *blatantly* trading on our race or gender; we *must* present ourselves as charity cases! So wokeness provoked a backlash, as MAGA now attacks it from the political right.
 
-Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to spurn the indie camp, most of whom sit on the political left. But I couldn't get my arguments to make sense. Then I realized that, regarding *culture*, they sit on the *right*, while I sit on the *left*… and that's when it all fell into place.
+Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, most of whom sit on the political left. But I couldn't get my arguments to make sense. It's only once I realized that, regarding *culture*, they sit on the *right*, while I sit on the *left*… that it all fell into place.
 
 To benefit from one's individual identity, then, is a *right*-wing ideal— like the rest of indie rock's ideals, and like most ideals favored by the privileged. It's the cultural *right* that's been in charge this whole time! But now you can help BYCombo start a cultural *left*, by promoting the one ideal favored most by the disadvantaged: to benefit from our collective interdependence.
 
@@ -458,7 +466,7 @@ To sum up, it was the *indie camp* who gave us today's [data-driven industry](ht
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're like word of mouth… which is why indie rock embraced them for as long as it did. In this light, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. First sentence doesn't need to mention bias against creative ideas.
 `}
 
 According to science, we humans aren't just biased against creative ideas… but also against the underclass who generates them! And when in doubt, we imitate others… who *share* our status-based assumptions! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
@@ -483,7 +491,11 @@ If so, this explains why those in tech now dominate the arts: While investors *r
 
 Whenever I used to grumble about getting rejected by the indie tastemakers, friends would ask, "So why don't you *seriously* hustle?" Fair point! Why *didn't* I? I suspect it's because, for Xennials like myself, being an artist was a vision to *dream* about. Once indie rock took over, however, it became a goal to *strive* for. And as a dreamer… I didn't know I wasn't a striver.
 
-See, us dreamers, we're not grounded in reality— which makes us awful at fulfilling visions on our own. Naturally, then, the indie camp assumed we'd gain the most from their online tools. But… I wasn't prepared for what would follow; I didn't realize a new generation of strivers was about to raise the bar for hustling. So, like a child, I thought I'd get points just for trying.
+${'  ' || `
+// TODO: Review.
+`}
+
+See, us dreamers, we're not grounded in reality— which makes us awful at fulfilling our own visions. Naturally, then, the indie camp thought we stood to gain the most from their online tools. But I wasn't prepared for what would follow; I didn't realize a new generation of strivers was about to raise the bar for hustling. So, like a child… I thought I'd get points just for trying.
 
 Yet it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— being strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
 
@@ -504,18 +516,20 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 ### ${++sectionCounter}. Music recording is its own medium
 
 ${'  ' || `
-// TODO: Revise. Make it more clear why the best shows are more like content than the best recordings.
-
-Yet it's no loss to miss any particular show; as with a day of content, more will always follow. And with each artist isolated to one local scene out of hundreds— in a world still lacking in talent scouts— we'd find it *harder* to discover the best. So why is this every romantic's go-to solution?!
+// TODO: Review.
 `}
 
-In a world now awash in content, the new Romantics long for a return to live shows. Yet it's no loss to miss any *particular* show; more will surely follow… just like with content! Or, if not— if, let's say, a show is held in secret— then its intent to "larp" scarcity will be painfully obvious. Besides, without talent scouts everywhere, how will we discover the *best* artists?
+In a world now awash in content, the new Romantics long for a return to live shows. Yet shows, like content, are fleeting by nature— which means it's no loss to miss any particular one. And this, in turn, makes live performers the ultimate "workhorse artists": Their strength lies in being able to *consistently* deliver. So who'll deliver this generation's "windfall art"?
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I put together a band, and we played a show for one of them. It was… admittedly sloppy, given that my new bandmates still hadn't fully learned their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
-Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if recordings capture what shows can't… then they're distinct mediums, like cinema and theater! So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can explore one of music's next frontiers, by making a stellar demo… with no concern for how you'll recreate it live.
+${'  ' || `
+// TODO: Review.
+`}
+
+Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if recordings capture what shows can't… then this is an *asset*, not a *liability*! They're distinct mediums— like cinema and theatre. So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can make a stellar demo… with no thought for how you'll recreate it live.
 
 ### ${++sectionCounter}. Modern collaboration requires assembly
 
@@ -523,7 +537,11 @@ Demos allow artists to pursue visions they *can't* fulfill on their own, and one
 
 Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indies can't rethink *anything*…
 
-Luckily, having struggled for half my life to attract bandmates, I anticipated that the best artists would gradually prefer to be *assembled* into bands— and that this, in turn, could open up *another* frontier to explore! So relax, and put all your effort into simply *deserving* the most dedicated bandmates… safe in the knowledge that BYCombo will then help you find them.
+${'  ' || `
+// TODO: Review.
+`}
+
+Luckily, having struggled for half my life to attract bandmates, I anticipated that the best artists would gradually prefer to be *assembled* into bands— and that this, in turn, could open up a new frontier to explore! So relax, and put all your effort into simply *deserving* the most dedicated bandmates… safe in the knowledge that BYCombo will then help you find them.
 
 ### ${++sectionCounter}. Advances are made in aesthetics, not logistics
 
@@ -531,11 +549,19 @@ When is it a "larp"? Here's a test: Could it have been a fictional movie *instea
 
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if they were assembled into bands, allowing them to combine mediums in unprecedented ways? At long last, they'd be the *real* heroes! So come join BYCombo, and explore this next frontier— by having a dancer, illustrator, or puppeteer as your bandmate.
+${'  ' || `
+// TODO: Review.
+`}
+
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if they were assembled into bands, allowing them to combine mediums in unprecedented ways? At long last, they'd be the *real* heroes! So come join BYCombo, and explore *another* frontier— by having a dancer, illustrator, or puppeteer as your bandmate.
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
-Beethoven composed his [magnum opus](https://youtu.be/4IqnVCc-Yqo) in the final years of his life— and he was no exception: The best composers got *better* with age. But this isn't yet the case with rock bands— which means there's still *another* frontier left to explore! So if you're a Millennial, don't fret: You still have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
+${'  ' || `
+// TODO: Review.
+`}
+
+Beethoven composed his [magnum opus](https://youtu.be/4IqnVCc-Yqo) in the final years of his life— and he was no exception: The best composers got *better* with age. But this still isn't the case with rock bands— which means there's yet *another* frontier left to explore! So if you're a Millennial, don't fret: You still have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
 
 In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young folks are reaching key milestones *later* in life, because society in *general* is now more complex; thus more time is needed to fulfill your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock taught them to hustle… and hustling makes you burn out *sooner*.
 
