@@ -353,7 +353,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment's elites… only to watch in confusion as the disadvantaged among us side with those [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
+Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the elites of the political establishment… only to watch in confusion as the disadvantaged among us side with those [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
 
 Of course, it isn't just in politics, but also in culture, where this confusion has made Millennials so ineffectual. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— their generation's good guys— won't hear of it. It's like they think I'm voting against my own interests!
 
@@ -411,7 +411,7 @@ By the '10s, though, indie rock's overwhelming [White maleness](https://slate.co
 
 But while White men *easily* benefit from their identities without having to admit to it— by embodying a [nostalgic archetype](), for example— we women and minorities can do so only by *blatantly* trading on our race or gender; we *must* present ourselves as charity cases! So wokeness provoked a backlash, as MAGA now attacks it from the political right.
 
-Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, most of whom sit on the political left. But I couldn't get my arguments to make sense. It's only once I realized that, regarding *culture*, they sit on the *right*, while I sit on the *left*… that it all fell into place.
+Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, most of whom sit on the political left. But I couldn't get my arguments to make sense. It's only once I realized that, regarding *culture*, they sit on the *right*, while I sit on the *left*… did it all fall into place.
 
 To benefit from one's individual identity, then, is a *right*-wing ideal— like the rest of indie rock's ideals, and like most ideals favored by the privileged. It's the cultural *right* that's been in charge this whole time! But now you can help BYCombo start a cultural *left*, by promoting the one ideal favored most by the disadvantaged: to benefit from our collective interdependence.
 
@@ -504,10 +504,10 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 ### ${++sectionCounter}. Music recording is its own medium
 
 ${'  ' || `
-// TODO: Revise. Still doesn't sound quite right.
+// TODO: Review.
 `}
 
-In a world now awash in content, the new Romantics long for a return to live shows. Yet shows, like content, are fleeting by nature— making it no loss to miss any particular one. For this reason, live performers work on being able to *consistently* deliver; they're the ultimate "workhorse artists." But in that case… who'll deliver this generation's "windfall art"?
+In a world now awash in content, the new Romantics long for a return to live shows. Yet shows, like content, are fleeting by nature. This is why the best live performers, like the best content creators, work hard to *consistently* deliver; theirs is the ultimate "workhorse art." So then… who'll make the "windfall art" of our times, which *requires* an artist to bet it all on a single chance?
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
@@ -517,7 +517,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if recordings capture what shows can't… then this is an *asset*, not a *liability*! They're distinct mediums— like cinema and theatre. So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can make a stellar demo… with no thought for how you'll recreate it live.
+Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if recordings capture what shows can't… then this is an *asset*, not a *liability*! They're two distinct mediums— like cinema versus theatre. So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can make a stellar demo… with no thought for how you'll recreate it live.
 
 ### ${++sectionCounter}. Modern collaboration requires assembly
 
@@ -533,17 +533,9 @@ When is it a "larp"? Here's a test: Could it have been a fictional movie *instea
 
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if they were assembled into bands, allowing them to combine mediums in unprecedented ways? At long last, they'd be the *real* heroes! So come join BYCombo, and explore *another* frontier— by having a dancer, illustrator, or puppeteer as your bandmate.
 
 ### ${++sectionCounter}. A renaissance of elders awaits
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Beethoven composed his [magnum opus](https://youtu.be/4IqnVCc-Yqo) in the final years of his life— and he was no exception: The best composers got *better* with age. But this still isn't the case with rock bands— which means there's yet *another* frontier left to explore! So if you're a Millennial, don't fret: You still have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
 
