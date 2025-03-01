@@ -59,10 +59,6 @@ To aim for the canon, a band must develop exceptional strengths. But this isn't 
 
 **Why demos?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this isn't a *blessing*; it's a *curse*! Past artists put out *demos*, and to rival them means doing likewise.
 
 **Why a demo *registry*?**
@@ -88,10 +84,6 @@ In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by grievance— and so it shares the same fondness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](https://web.archive.org/web/20090318/http://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to spurn the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
 
@@ -385,11 +377,7 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 
 "Be so good they can't ignore you," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Then one day it clicked: I *haven't* met with a hundred indie tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. For this reason, everyone in indie rock converges on the same well-rounded way of thinking…
+Then one day it clicked: I *haven't* met with a hundred indie tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
 
 Moreover, just like each person gets one vote in a democracy, each work gets one chance in an "indieocracy." So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time…
 
@@ -466,7 +454,7 @@ To sum up, it was the *indie camp* who gave us today's [data-driven industry](ht
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want; they're like word of mouth… which is why indie rock embraced them for as long as it did. In this light, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
 ${'  ' || `
-// TODO: Revise. First sentence doesn't need to mention bias against creative ideas.
+// TODO: Revise. First sentence, say "as we've seen," just like in welfare section.
 `}
 
 According to science, we humans aren't just biased against creative ideas… but also against the underclass who generates them! And when in doubt, we imitate others… who *share* our status-based assumptions! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
@@ -495,7 +483,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-See, us dreamers, we're not grounded in reality— which makes us awful at fulfilling our own visions. Naturally, then, the indie camp thought we stood to gain the most from their online tools. But I wasn't prepared for what would follow; I didn't realize a new generation of strivers was about to raise the bar for hustling. So, like a child… I thought I'd get points just for trying.
+See, us dreamers, we're not grounded in reality— which makes us awful at fulfilling our own visions. Naturally, then, the indie camp thought we'd gain the most from their online tools. But I wasn't prepared for what would follow; I didn't realize a new generation of strivers was about to set a new standard for hustling. So, like a child… I thought I'd get points just for trying.
 
 Yet it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— being strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
 
@@ -516,10 +504,10 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 ### ${++sectionCounter}. Music recording is its own medium
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Still doesn't sound quite right.
 `}
 
-In a world now awash in content, the new Romantics long for a return to live shows. Yet shows, like content, are fleeting by nature— which means it's no loss to miss any particular one. And this, in turn, makes live performers the ultimate "workhorse artists": Their strength lies in being able to *consistently* deliver. So who'll deliver this generation's "windfall art"?
+In a world now awash in content, the new Romantics long for a return to live shows. Yet shows, like content, are fleeting by nature— making it no loss to miss any particular one. For this reason, live performers work on being able to *consistently* deliver; they're the ultimate "workhorse artists." But in that case… who'll deliver this generation's "windfall art"?
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
@@ -536,10 +524,6 @@ Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if
 Demos allow artists to pursue visions they *can't* fulfill on their own, and one vision much in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop? Some ask why bands have [largely disappeared](https://www.honest-broker.com/p/the-bands-are-never-coming-back), but it's really no mystery.
 
 Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indies can't rethink *anything*…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Luckily, having struggled for half my life to attract bandmates, I anticipated that the best artists would gradually prefer to be *assembled* into bands— and that this, in turn, could open up a new frontier to explore! So relax, and put all your effort into simply *deserving* the most dedicated bandmates… safe in the knowledge that BYCombo will then help you find them.
 
