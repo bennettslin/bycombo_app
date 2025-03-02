@@ -402,16 +402,14 @@ ${'  ' || `
 
 * Bon Iver link
 
-First paragraph, make it more like: Indie rock's founders wanted to capitalize on their hidden advantages as White men. The problem is, when you start a movement designed to reward your hidden advantages, it will always backfire on you, because there will always be someone out with an even greater advantage.
-
-Second paragraph, add starting sentence, something like: by favoring the privileged, indie rock also became disproportionately more powerful, making its overwhelming White maleness hard to ignore. Shorten to in guilt.
+Make point about artifically mustering affection for women and minorities, in second or third paragraphs? In third paragraph: "for which society *doesn't* feel the same natural affection." Replace point about charity cases?
 `}
 
-Without elitist gatekeepers to favor the best, all we have to work with is our hidden advantages. Yet… there's always someone out there hiding an even *greater* advantage! What then? Why, that's when the "gloves come off," and we openly fight *their* privilege with *ours*— including whatever can be gained from our identity. So in the '00s, White men began to do just that.
+Let's be fair, White men *don't* see themselves as privileged; in rewarding the self-reliance that comes easily to them, they really do think they're helping the underclass. So when the "trust fund babies" among them took over in the '00s, they didn't realize their own ideals were to blame, and thus fought back with *another* hidden advantage: our [natural affection]() for their identities.
 
-By the '10s, though, indie rock's overwhelming [White maleness](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html) became hard to ignore. Suffering a crisis of conscience, the indie camp solved the problem in the only way they knew how: by letting us women and minorities stand to gain from our *own* identities— a solution that came to be called "wokeness."
+Of course, any movement that favors privilege will come to enjoy outsized cultural influence. By the '10s, then, indie rock's [White maleness](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html) became hard to ignore. In guilt, the indie camp solved the problem in the only way they knew how: by letting us women and minorities stand to gain from our *own* identities— a solution that came to be called "wokeness."
 
-But while White men *easily* benefit from their identities without having to admit to it— by embodying a [nostalgic archetype](), for example— we women and minorities can do so only by *blatantly* trading on our race or gender; we *must* present ourselves as charity cases! So wokeness provoked a backlash, as MAGA now attacks it from the political right.
+But while White men *easily* benefit from their identities without having to admit to it— by embodying a nostalgic archetype, for example— we women and minorities can do so only by *blatantly* trading on our race or gender… for which society *doesn't* feel the same natural affection! So wokeness provoked a backlash, as MAGA now attacks it from the political right.
 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, most of whom sit on the political left. But I couldn't get my arguments to make sense. It's only once I realized that, regarding *culture*, they sit on the *right*, while I sit on the *left*… that it all fell into place.
 
