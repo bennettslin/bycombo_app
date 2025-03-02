@@ -460,12 +460,16 @@ To sum up, it was the *indie camp* who gave us today's [data-driven industry](ht
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
 ${'  ' || `
-// TODO: Review next two paragraphs.
+// TODO: Review.
 `}
 
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people like, just as word of mouth does… which is why indie rock defended them for as long as it did. In this light, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
-As stated earlier, we humans *dis*-like creative ideas… but worse, we're *also* biased against the underclass who generates them! And when in doubt, we echo others… yet they *share* our status-based assumptions! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
+${'  ' || `
+// TODO: Review.
+`}
+
+We humans don't just *dis*-like creative ideas, as mentioned earlier; we're *also* biased against the underclass who generates them! And when in doubt, we copy others… yet they *share* our status-based assumptions! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
