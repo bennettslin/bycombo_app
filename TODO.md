@@ -21,6 +21,7 @@
 
 * BYC
     * Mention political left/right and/or cultural left/right at least one other place
+        * Maybe at the end, in salvation section? First paragraph?
     * A collectivism section?
         * Make it about partners as bandmates?
         * So, after collaboration section
