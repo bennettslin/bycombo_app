@@ -81,9 +81,11 @@ Here's an incomplete list of ways…
 
 ${'  ' || `
 // TODO: Review.
+
+In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To Millennials, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in all the wrong places. How did we get confused?
 `}
 
-In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To Millennials, however, they *sound* indie— so now they might as well be. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in all the wrong places. How did we get confused?
+In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To Millennials, however, they *sound* indie— so they might as well be. But… this isn't a trivial mix-up! We're now looking for the *next* Nirvana and Radiohead in all the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by grievance— and so it shares the same fondness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
 
@@ -196,10 +198,6 @@ But this can't happen if you're always context switching— which explains why "
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
 Historically, artists lacked all means to get themselves known to the public, freeing them to explore at will— and sometimes leading to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— leaving them reluctant to experiment, for fear of losing those fans.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Meanwhile, the major labels in their heyday would cast a wide net for talent, which allowed them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But a bigger roster can also be a [more diverse](https://www.investopedia.com/investing/importance-diversification) one— so, funny enough, this *also* led them to give us the boldest art… by encouraging them to pick unknown artists with unexpected ideas!
 
@@ -325,10 +323,6 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 Who could've foreseen all the drawbacks of "indiefication"? Um… us women and minorities, that's who! Which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception; rappers [*proudly* rely](https://web.archive.org/web/20141122/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothing%20but,that%20pays%20me) on labels and producers. When they boast of having hustled, they're saying, "Hey, I hustled *too*!" It's to ensure that self-reliance counts for *nothing*.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of effectively being just another foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, rock and roll was founded by poor and queer Blacks, then taken further by rural Southerners, Midwestern Jews, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
@@ -360,10 +354,6 @@ Thankfully, *I've* never taken to indie rock's ideal of populist solidarity; as 
 ### ${++sectionCounter}. True progressives join the establishment
 
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for having exploited the defeated South. This surprised me, since I saw them as "good guys"— for having defended vulnerable Blacks. Clearly, he sided with the people, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in culture… but in politics as well!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the elites of the political establishment… only to watch in confusion as the disadvantaged among us side with those [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
 
@@ -463,17 +453,13 @@ To sum up, it was the *indie camp* who gave us today's [data-driven industry](ht
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people like, just as word of mouth does… which is why indie rock defended them for as long as it did. In this light, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-We humans don't just *dis*-like creative ideas, as mentioned earlier; we're *also* biased against the underclass who generates them! And when in doubt, we copy others… yet they *share* our status-based assumptions! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
+We humans don't just dislike creative ideas, as stated a bit earlier; we're *also* biased against the underclass who generates them! And when in doubt, we copy others… yet they *share* our status-based assumptions! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
@@ -495,10 +481,6 @@ If so, this explains why those in tech now dominate the arts: While investors *r
 
 Whenever I used to grumble about getting rejected by the indie tastemakers, friends would ask, "So why don't you *seriously* hustle?" Fair point! Why *didn't* I? I suspect it's because, for Xennials like myself, being an artist was a vision to *dream* about. Once indie rock took over, however, it became a goal to *strive* for. And as a dreamer… I didn't know I wasn't a striver.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 See, us dreamers, we're not grounded in reality— which makes our visions hard to fulfill. Naturally, then, it was assumed that we'd gain the most from indie rock's promise of self-empowerment. But… I wasn't prepared for what would follow; I didn't realize a new generation of strivers was about to raise the bar for hustling. So, like a child, I thought I'd get points just for trying.
 
 Yet it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— being strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
@@ -511,7 +493,11 @@ Combining glam's gender-bending look with metal's aggression, glam metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
-Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to daydream, they were given structured ways to create and receive endless content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what I could see: The only rules left that take courage to break… are the *structural* ones, like indie rock's— that *they* help to enforce!
+${'  ' || `
+// TODO: Review.
+`}
+
+Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to daydream, they were given structured ways to create and receive endless content, which [won their gratitude](https://xkcd.com/1601). And so they couldn't see what I saw: The only rules left that still take courage to break… are the *structural* ones, like indie rock's— that *they* help to enforce!
 
 Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
@@ -519,7 +505,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](https://web.archive.org/web/20221215/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to scarcity. Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
+So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](https://web.archive.org/web/20221215/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try this Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
@@ -532,10 +518,6 @@ In a world now awash in content, the new Romantics long for a return to live sho
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I put together a band, and we played a show for one of them. It was… admittedly sloppy, given that my new bandmates still hadn't fully learned their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if recordings capture what shows can't… then this is an *asset*, not a *liability*! They're two distinct mediums— like cinema versus theatre. So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can make a stellar demo… with no thought for how you'll recreate it live.
 
