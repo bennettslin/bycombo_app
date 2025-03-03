@@ -405,21 +405,15 @@ ${'  ' || `
 // TODO: Keep working on. Review links.
 
 * Bon Iver link
-
-Second paragraph, phrase it slightly differently, so as not to say "benefit" two sentences in a row.
-
-Say, indie rock was overwhelmingly white and male— and because movements that favor privilege can't help but enjoy outsized cultural influence— this became a serious problem.
-
-Fourth paragraph, say "line up" instead?
 `}
 
-Let's be fair, White men *don't* know that they're privileged; in rewarding the self-reliance that comes easily to them, they really do think they're helping us *all*. But this is why they *didn't* blame their own ideals when "nepo babies" took over in the '00s— and instead, hit back with *another* hidden advantage that they don't realize is theirs alone: [society's affection]() for their identities.
+Let's be fair, White men don't know that they're privileged; in rewarding the self-reliance that comes easily to them, they really do think they're helping us *all*. But this is why, when "nepo babies" took over in the '00s, they *didn't* blame their own ideals— and instead, fell back on *another* hidden advantage that they don't realize is theirs alone: [our affection]() for their identities.
 
-By the '10s, then, indie rock's overwhelming [White maleness](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html) became hard to ignore. In guilt, the indie camp solved the problem in the only way they knew how: by letting us women and minorities benefit from our *own* identities— a solution that's since come to be known as "wokeness."
+So by the '10s, indie rock was overwhelmingly [White and male](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html)— and since movements that favor privilege also enjoy outsized cultural influence, this was a serious problem. In guilt, the indie camp solved it in the only way they knew how: by letting us women and minorities stand to gain from our *own* identities— a solution that came to be called "wokeness."
 
 But while White men *easily* benefit from their identities without having to admit to it— by embodying a nostalgic archetype, for example— we women and minorities can do so only by *blatantly* trading on our race or gender… for which society *doesn't* feel a comparable affection! So wokeness provoked a backlash, as MAGA now attacks it from the political right.
 
-Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, most of whom sit on the political left. But I couldn't get my arguments to make sense. It's only once I realized that, regarding *culture*, they sit on the *right*, while I sit on the *left*… that it all fell into place.
+Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, most of whom sit on the political left. But I couldn't get my arguments to line up. It's only once I realized that, regarding *culture*, they sit on the *right*, while I sit on the *left*… that it all fell into place.
 
 To benefit from one's individual identity, then, is a *right*-wing ideal— like the rest of indie rock's ideals, and like most ideals favored by the privileged. It's the cultural *right* that's been in charge this whole time! But now you can help BYCombo start a cultural *left*, by promoting the one ideal favored most by the disadvantaged: to benefit from our collective interdependence.
 
