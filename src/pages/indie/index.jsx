@@ -91,7 +91,11 @@ Simply put, indie rock doesn't know what it stands *for*, only whom it stands *a
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](https://web.archive.org/web/20090318/http://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
 
-In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to spurn the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
+${'  ' || `
+// TODO: Review.
+`}
+
+In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to "own" the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
 
 As with MAGA, then, indie rock's fondness for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
 
@@ -402,14 +406,18 @@ ${'  ' || `
 
 * Bon Iver link
 
-Make point about artifically mustering affection for women and minorities, in second or third paragraphs? In third paragraph: "for which society *doesn't* feel the same natural affection." Replace point about charity cases?
+Second paragraph, phrase it slightly differently, so as not to say "benefit" two sentences in a row.
+
+Say, indie rock was overwhelmingly white and male— and because movements that favor privilege can't help but enjoy outsized cultural influence— this became a serious problem.
+
+Fourth paragraph, say "line up" instead?
 `}
 
-Let's be fair, White men *don't* see themselves as privileged; in rewarding the self-reliance that comes easily to them, they really do think they're helping the underclass. So when the "trust fund babies" among them took over in the '00s, they didn't realize their own ideals were to blame, and thus fought back with *another* hidden advantage: our [natural affection]() for their identities.
+Let's be fair, White men *don't* know that they're privileged; in rewarding the self-reliance that comes easily to them, they really do think they're helping us *all*. But this is why they *didn't* blame their own ideals when "nepo babies" took over in the '00s— and instead, hit back with *another* hidden advantage that they don't realize is theirs alone: [society's affection]() for their identities.
 
-Of course, any movement that favors privilege will come to enjoy outsized cultural influence. By the '10s, then, indie rock's [White maleness](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html) became hard to ignore. In guilt, the indie camp solved the problem in the only way they knew how: by letting us women and minorities stand to gain from our *own* identities— a solution that came to be called "wokeness."
+By the '10s, then, indie rock's overwhelming [White maleness](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html) became hard to ignore. In guilt, the indie camp solved the problem in the only way they knew how: by letting us women and minorities benefit from our *own* identities— a solution that's since come to be known as "wokeness."
 
-But while White men *easily* benefit from their identities without having to admit to it— by embodying a nostalgic archetype, for example— we women and minorities can do so only by *blatantly* trading on our race or gender… for which society *doesn't* feel the same natural affection! So wokeness provoked a backlash, as MAGA now attacks it from the political right.
+But while White men *easily* benefit from their identities without having to admit to it— by embodying a nostalgic archetype, for example— we women and minorities can do so only by *blatantly* trading on our race or gender… for which society *doesn't* feel a comparable affection! So wokeness provoked a backlash, as MAGA now attacks it from the political right.
 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, most of whom sit on the political left. But I couldn't get my arguments to make sense. It's only once I realized that, regarding *culture*, they sit on the *right*, while I sit on the *left*… that it all fell into place.
 
