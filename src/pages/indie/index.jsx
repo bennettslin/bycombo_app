@@ -73,31 +73,17 @@ Low barriers to entry have allowed an endless stream of underwhelming artists to
 
 This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in making their case for amnesty.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 **And finally, how has indie rock made music worse?**
 
 Here's an incomplete list of ways…
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
-${'  ' || `
-// TODO: Review.
-
-In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To Millennials, however, they *sound* indie— so now they are. But… this isn't a trivial mix-up! It's causing us to look for the *next* Nirvana and Radiohead in all the wrong places. How did we get confused?
-`}
-
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To Millennials, however, they *sound* indie— so they might as *well* be. But… this isn't a trivial mix-up! We're now looking for the *next* Nirvana and Radiohead in all the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by grievance— and so it shares the same fondness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](https://web.archive.org/web/20090318/http://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to "own" the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
 
@@ -138,10 +124,6 @@ By supporting artists, then, we're both needlessly kind to the ones at the top, 
 The thing is, we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way art was done *before*. So anyone hoping to start a *new* paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of quiet preparation… will be paying their own way the *whole* time.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones most likely to make history… stand to gain the *least*! Fortunately, I realized this early on— having only ever been seen as a hobbyist by the indie camp. Now BYCombo helps you find partners who'd rather give amnesty to the best… than charity to all the rest.
 
@@ -421,7 +403,7 @@ By the '10s, then, indie rock was *overwhelmingly* [White and male](https://slat
 
 But while White men *easily* benefit from their identities without having to admit to it— by embodying a nostalgic archetype, for example— we women and minorities can do so only by *blatantly* trading on our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
-Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up. Then it hit me: Greater *indie*-pendence is a demand of the *right*. Regarding *culture*, it's *I* who sit on the left; and *they*, the right!
+Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*. Regarding *culture*, it's *I* who sit on the left; and *they*, the right!
 
 To gain from one's individual identity, then, is a *right*-wing ideal— as are the rest of indie rock's ideals, along with most ideals favored by the privileged. It's the cultural *right* that's been in charge this whole time! But now you can help BYCombo start a cultural *left*, by promoting the one ideal favored most by the disadvantaged: to benefit from our collective *inter*-dependence.
 
