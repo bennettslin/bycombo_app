@@ -73,7 +73,11 @@ Low barriers to entry have allowed an endless stream of underwhelming artists to
 
 This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in making their case for amnesty.
 
-**And finally… how has indie rock made music worse?**
+${'  ' || `
+// TODO: Review.
+`}
+
+**And finally, how has indie rock made music worse?**
 
 Here's an incomplete list of ways…
 
@@ -135,7 +139,11 @@ The thing is, we're *all* free to make art, right? Which means the government mu
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of quiet preparation… will be paying their own way the *whole* time.
 
-To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones most likely to make history… actually benefit the *least*! Fortunately, I realized this early on— having only ever been seen as a hobbyist by the indie camp. Now BYCombo helps you find partners who'd rather give amnesty to the best… than charity to all the rest.
+${'  ' || `
+// TODO: Review.
+`}
+
+To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones most likely to make history… stand to gain the *least*! Fortunately, I realized this early on— having only ever been seen as a hobbyist by the indie camp. Now BYCombo helps you find partners who'd rather give amnesty to the best… than charity to all the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -399,7 +407,7 @@ It's simple: Historically, victims of prejudice relied on centralized authoritie
 
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have repeatedly shown that you *aren't* your own best advocate? Why, BYCombo can help you find partners who'll advocate on your behalf— as we usher in a new time of civil rights for artists!
 
-### ${++sectionCounter}. Identity is a resort of the privileged
+### ${++sectionCounter}. Identity is a fallback of the privileged
 
 ${'  ' || `
 // TODO: Keep working on. Review links.
@@ -407,15 +415,15 @@ ${'  ' || `
 * Bon Iver link
 `}
 
-Let's be fair, White men don't know that they're privileged; in rewarding the self-reliance that comes easily to them, they really do think they're helping us *all*. But this is why, when "nepo babies" took over in the '00s, they *didn't* blame their own ideals— and instead, fell back on *another* hidden advantage that they don't realize is theirs alone: [our affection]() for their identities.
+Let's be fair, White men *don't* see themselves as privileged; in rewarding the self-reliance that comes easily to them, they really do think they're helping us *all*. But this is why, as "nepo babies" took the lead in the '00s, they *didn't* blame their own ideals— and instead, fell back on *another* hidden advantage that they don't realize is theirs alone: [our affection]() for their identities.
 
-So by the '10s, indie rock was overwhelmingly [White and male](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html)— and since movements that favor privilege also enjoy outsized cultural influence, this was a serious problem. In guilt, the indie camp solved it in the only way they knew how: by letting us women and minorities stand to gain from our *own* identities— a solution that came to be called "wokeness."
+By the '10s, then, indie rock was *overwhelmingly* [White and male](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html). Suffering a crisis of conscience, the indie camp solved this problem in the only way they knew how: by letting us women and minorities stand to gain from our *own* identities— a solution that's since come to be known as "wokeness."
 
-But while White men *easily* benefit from their identities without having to admit to it— by embodying a nostalgic archetype, for example— we women and minorities can do so only by *blatantly* trading on our race or gender… for which society *doesn't* feel a comparable affection! So wokeness provoked a backlash, as MAGA now attacks it from the political right.
+But while White men *easily* benefit from their identities without having to admit to it— by embodying a nostalgic archetype, for example— we women and minorities can do so only by *blatantly* trading on our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
-Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, most of whom sit on the political left. But I couldn't get my arguments to line up. It's only once I realized that, regarding *culture*, they sit on the *right*, while I sit on the *left*… that it all fell into place.
+Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up. Then it hit me: Greater *indie*-pendence is a demand of the *right*. Regarding *culture*, it's *I* who sit on the left; and *they*, the right!
 
-To benefit from one's individual identity, then, is a *right*-wing ideal— like the rest of indie rock's ideals, and like most ideals favored by the privileged. It's the cultural *right* that's been in charge this whole time! But now you can help BYCombo start a cultural *left*, by promoting the one ideal favored most by the disadvantaged: to benefit from our collective interdependence.
+To gain from one's individual identity, then, is a *right*-wing ideal— as are the rest of indie rock's ideals, along with most ideals favored by the privileged. It's the cultural *right* that's been in charge this whole time! But now you can help BYCombo start a cultural *left*, by promoting the one ideal favored most by the disadvantaged: to benefit from our collective *inter*-dependence.
 
 ### ${++sectionCounter}. Penultimate tolerance has its pitfalls
 
@@ -558,6 +566,10 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 ### ${++sectionCounter}. Salvation comes from thinking in systems
 
 Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down the "system" and its elites, which only works out for libertarians— both indie rock's cultural kind, and the political kind that its Gen X founders have [since become](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, decentralization is their end goal; they're not looking to replace the system with anything else.
+
+${'  ' || `
+// TODO: Revise. Mention left and right again somehow.
+`}
 
 But we progressives *need* centralized institutions to promote the welfare we desire. Yet every time the anti-elitists among us join forces with libertarians to tear down the old system… those same libertarians then turn around and oppose them when they try to build a new one.
 
