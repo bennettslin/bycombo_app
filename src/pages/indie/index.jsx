@@ -167,7 +167,11 @@ In essence: Ignore the critics, or any others who think that making history is a
 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that [hook you in](https://youtu.be/7bK5EPjGri4) with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point. They just don't value music as a *craft* to begin with!
+${'  ' || `
+// TODO: Review.
+`}
+
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point; they just don't value music as a *craft* to begin with!
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a [well-crafted hook](https://youtu.be/HWMsWO0vPa8).
 
@@ -277,7 +281,11 @@ Uh… *we* would— the audience! Most of us only want the *best* athletes, and 
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means today's pro-*artist* thinking might just be a generational fluke… and *not* the future of music.
 
-Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend the performance of a work." So let's use it once more in a way that Bach— who made music for God!— would've understood: An audience *isn't* a fanbase. Nor are they a following.
+${'  ' || `
+// TODO: Review.
+`}
+
+Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend the performance of a work." So let's use it once more in a way that Bach— who made music for God!— would've understood: An audience *isn't* a fanbase; nor are they a following.
 
 From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing what this entails! Fortunately, BYCombo promises to be an effective gatekeeper, if you'll pledge to make the best art— namely, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
@@ -409,7 +417,7 @@ Except… this is *another* hidden advantage that's largely theirs alone! By the
 
 But while White men *easily* benefit from their identities without admitting to it— by presenting a timeless backstory, for example— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
-Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*. Regarding *culture*, it's *I* who sit on the left; and *they*, the right!
+Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; regarding *culture*, it's *I* who sit on the left— and *they*, the right!
 
 To gain from one's individual identity, then, is a *right*-wing ideal— as are the rest of indie rock's ideals, along with most ideals favored by the privileged. It's the cultural *right* that's been in charge this whole time! But now you can help BYCombo start a cultural *left*, by promoting the one ideal favored most by the disadvantaged: to benefit from our collective *inter*-dependence.
 
@@ -563,7 +571,11 @@ With this being the case, shouldn't we expect indiefication to make music… *wo
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
-"Where's *our* Nirvana?" It's a question asked by today's young folks. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today: "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
+${'  ' || `
+// TODO: Review.
+`}
+
+"Where's *our* Nirvana?" It's a question asked by today's young folks. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
 
 It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As a result, today's indie artists demand fair compensation; they don't self-sacrifice for *anyone*— because to do so is a sign of being exploited.
 
