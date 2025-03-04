@@ -139,7 +139,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Let's be honest: We're cultural chauvinists either way. All we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent craves a path to stardom
 
@@ -403,11 +403,11 @@ ${'  ' || `
 // TODO: Review section a few more times.
 `}
 
-Let's be fair: In rewarding the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think they're helping us *all*. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned even harder on [our affection](https://web.archive.org/web/20110622031522/http://www.pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,Forever%20Ago.) for them as society's underdogs.
+Let's be fair: In wanting to compete on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps *all* of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on [our affection](https://web.archive.org/web/20110622031522/http://www.pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,Forever%20Ago.) for them as society's underdogs.
 
-Except, as it turns out… this is *another* hidden advantage that's theirs alone! By the '10s, then, indie rock was *overwhelmingly* White and male. Suffering a [crisis of conscience](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html), the indie camp solved this problem in the only way they knew how: by letting us women and minorities stand to gain from being seen as underdogs as well— a solution that's come to be known as "wokeness."
+Except… this is *another* hidden advantage that's largely theirs alone! By the '10s, then, indie rock was *overwhelmingly* [White and male](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html). Suffering a crisis of conscience, the indie camp solved this problem in the only way they knew how: by letting us women and minorities stand to gain from being seen as underdogs as well— a solution that's come to be called "wokeness."
 
-But while White men *easily* benefit from their identities without admitting to it— by representing a timeless archetype, for example— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
+But while White men *easily* benefit from their identities without admitting to it— by presenting a timeless backstory, for example— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*. Regarding *culture*, it's *I* who sit on the left; and *they*, the right!
 
