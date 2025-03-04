@@ -135,7 +135,11 @@ So I've long understood that, to belong in the canon next to the Beatles, my ban
 
 Yet this same camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! And so they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
-Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+${'  ' || `
+// TODO: Review.
+`}
+
+Let's be honest: We're cultural chauvinists either way. All we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent craves a path to stardom
 
@@ -223,7 +227,11 @@ To help artists cut out the middleman, indie rock provides them with tools to do
 
 And here's more absurdity: Whereas artists are loved for doing what we'd all rather do, middlemen are hated for taking on work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman… but a middleman *gets* to be their own artist. So "indiefication" is really the wish of a *middling* artist— who'd otherwise only qualify to *be* a middleman!
 
-Let's be clear, the best artists *value* the middleman. After all, when you're the best at your job, it's a waste of your talents to do anyone else's— and knowing that your own job is harder than it looks, you have to assume the same of everyone else's. Plus, as one of the best yourself, you get your pick of the best partners. It's called division of labor; we learned this in middle school!
+${'  ' || `
+// TODO: Review.
+`}
+
+Let's be clear: The best artists *value* the middleman. After all, when you're the best at your job, it's a waste of your talents to do anyone else's— and knowing that your own job is harder than it looks, you have to assume the same of everyone else's. Plus, as one of the best yourself, you get your pick of the best partners. It's called division of labor; we learned this in middle school!
 
 Sadly, young folks never question today's "auto-Bizarro" world, since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
 
@@ -395,11 +403,11 @@ ${'  ' || `
 // TODO: Review section a few more times.
 `}
 
-Let's be fair, White men don't *try* to trade on their privilege; in rewarding the self-reliance that comes easily to them, they really do think they're helping us all. But this is why, when "nepo babies" raced ahead in the '00s, they *didn't* blame their own ideals— and instead, fell back on *another* hidden advantage that they don't realize is theirs alone: [our affection](https://web.archive.org/web/20110622031522/http://www.pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,Forever%20Ago.) for their identities.
+Let's be fair: In rewarding the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think they're helping us *all*. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned even harder on [our affection](https://web.archive.org/web/20110622031522/http://www.pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,Forever%20Ago.) for them as society's underdogs.
 
-By the '10s, then, indie rock was overwhelmingly [White and male](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html). Which… didn't go unnoticed, since any movement that favors privilege will also end up enjoying outsized influence. In guilt, the indie camp solved this problem in the only way they knew how: by letting us women and minorities stand to gain from our *own* identities— a solution that's now known as "wokeness."
+Except, as it turns out… this is *another* hidden advantage that's theirs alone! By the '10s, then, indie rock was *overwhelmingly* White and male. Suffering a [crisis of conscience](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html), the indie camp solved this problem in the only way they knew how: by letting us women and minorities stand to gain from being seen as underdogs as well— a solution that's come to be known as "wokeness."
 
-But while White men *easily* benefit from their identities without having to admit to it— by embodying a timeless archetype, for example— we women and minorities can do so only by *blatantly* pointing out our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
+But while White men *easily* benefit from their identities without admitting to it— by representing a timeless archetype, for example— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*. Regarding *culture*, it's *I* who sit on the left; and *they*, the right!
 

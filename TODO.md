@@ -20,6 +20,7 @@
     * Change interactivated verse?
 
 * BYC
+    * Colons after other "Let's be"s?
     * Mention political left/right and/or cultural left/right at least one other place
         * Maybe at the end, in salvation section? First paragraph?
     * A collectivism section?
