@@ -395,11 +395,11 @@ ${'  ' || `
 // TODO: Review section a few more times.
 `}
 
-Let's be fair, White men *don't* see themselves as privileged; in rewarding the self-reliance that comes easily to them, they really do think they're helping us all. But this is why they *didn't* blame their own ideals, when "nepo babies" raced ahead in the '00s— and instead, fell back on *another* hidden advantage that they don't realize is theirs alone: [our affection](https://web.archive.org/web/20110622031522/http://www.pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,Forever%20Ago.) for their identities.
+Let's be fair, White men don't *try* to trade on their privilege; in rewarding the self-reliance that comes easily to them, they really do think they're helping us all. But this is why, when "nepo babies" raced ahead in the '00s, they *didn't* blame their own ideals— and instead, fell back on *another* hidden advantage that they don't realize is theirs alone: [our affection](https://web.archive.org/web/20110622031522/http://www.pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,Forever%20Ago.) for their identities.
 
-By the '10s, then, indie rock was overwhelmingly [White and male](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html). Which… didn't go unnoticed, since any movement that favors privilege will also end up enjoying outsized influence. In guilt, the indie camp solved this problem in the only way they knew how: by letting us women and minorities stand to gain from our *own* identities— a solution that's known as "wokeness."
+By the '10s, then, indie rock was overwhelmingly [White and male](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html). Which… didn't go unnoticed, since any movement that favors privilege will also end up enjoying outsized influence. In guilt, the indie camp solved this problem in the only way they knew how: by letting us women and minorities stand to gain from our *own* identities— a solution that's now known as "wokeness."
 
-But while White men *easily* benefit from their identities without having to admit to it— by embodying a timeless archetype, for example— we women and minorities can do so only by *blatantly* trading on our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
+But while White men *easily* benefit from their identities without having to admit to it— by embodying a timeless archetype, for example— we women and minorities can do so only by *blatantly* pointing out our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*. Regarding *culture*, it's *I* who sit on the left; and *they*, the right!
 
@@ -447,7 +447,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-As stated earlier, we humans *dis*-like creative ideas… but we're *also* biased against the underclass who generates them! And when in doubt, we copy others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
+As stated earlier, we humans *dis*-like creative ideas… but we're *also* biased against the underclass who generates them! And when in doubt, we imitate others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
@@ -491,7 +491,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a stand is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
+Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Picking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](https://web.archive.org/web/20221215/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try this Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
