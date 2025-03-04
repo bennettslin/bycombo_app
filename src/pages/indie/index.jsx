@@ -447,7 +447,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-As stated earlier, we humans *dis*-like creative ideas… but we're *also* biased against the underclass who generates them! And when in doubt, we copy others… yet they *share* our status-based way of thinking! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
+As stated earlier, we humans *dis*-like creative ideas… but we're *also* biased against the underclass who generates them! And when in doubt, we copy others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
@@ -477,13 +477,21 @@ But all is assumed to be well, since today's artists *do* resemble the innovativ
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
-Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! And yet, Millennials embraced it as their own. Why were they content to merely "larp" the idea of revolution?
+${'  ' || `
+// TODO: Review.
+`}
+
+Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! And yet, Millennials embraced it as their own. Why were they content to merely "larp" the next revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
 Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to daydream, they were given structured ways to create and consume endless content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what was obvious: The only rules left that take courage to break… are the *structural* ones, like indie rock's— that *they* help to enforce!
 
-Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
+${'  ' || `
+// TODO: Review.
+`}
+
+Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a stand is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](https://web.archive.org/web/20221215/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try this Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
@@ -533,13 +541,13 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 ### ${++sectionCounter}. Salvation comes from thinking in systems
 
-Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down the "system" and its elites, which only works out for libertarians— both indie rock's cultural kind, and the political kind that its Gen X founders have [since become](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, decentralization is their end goal; they're not looking to replace the system with anything else.
-
 ${'  ' || `
-// TODO: Revise. Mention left and right again somehow.
+// TODO: Review next two paragraphs.
 `}
 
-But we progressives *need* centralized institutions to promote the welfare we desire. Yet every time the anti-elitists among us join forces with libertarians to tear down the old system… those same libertarians then turn around and oppose them when they try to build a new one.
+Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down the "system" and its elites, which only works out for the libertarians on the right— both indie rock's cultural right, and the political right that its Gen X founders have [since embraced](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, decentralization is their end goal; they're not looking to replace the system.
+
+But we progressives on the left *need* centralized institutions to promote the welfare we desire. Yet every time the anti-elitists among us join forces with libertarians to tear down the old system… those same libertarians then turn around and oppose them when they try to build a new one.
 
 Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get taken down as well, to be replaced by others— in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass. This is why I suspect that many anti-elitist progressives are really *libertarians*… who've yet to embrace their privilege!
 
