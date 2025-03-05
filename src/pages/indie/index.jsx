@@ -409,7 +409,7 @@ It's simple: Historically, victims of prejudice relied on centralized authoritie
 
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have repeatedly shown that you *aren't* your own best advocate? Why, BYCombo can help you find partners who'll advocate on your behalf— as we usher in a new time of civil rights for artists!
 
-### ${++sectionCounter}. Identity is a fallback of the privileged
+### ${++sectionCounter}. Identity is a resort of the privileged
 
 ${'  ' || `
 // TODO: Review section a few more times.
@@ -417,9 +417,9 @@ ${'  ' || `
 Black Keys as underdog link? Bon Iver as timeless link?
 `}
 
-Let's be fair: In choosing to compete on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they honestly think it helps *all* of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s; instead, they leaned harder on [our affection](https://web.archive.org/web/20110622031522/http://www.pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,Forever%20Ago.) for them as society's underdogs.
+Let's be fair: In wanting to compete on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they honestly think it helps *all* of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s; instead, they leaned further on [our affection](https://web.archive.org/web/20110622031522/http://www.pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,Forever%20Ago.) for them as society's underdogs.
 
-Except… this is *another* hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly [White and male](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html). Suffering a crisis of conscience, the indie camp solved this problem in the only way they knew how: by allowing us women and minorities to be seen as underdogs as well— a solution that's come to be called "wokeness."
+Except… this is *another* hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly [White and male](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html). Suffering a crisis of conscience, the indie camp solved this problem in the only way they knew how: by allowing us women and minorities to be seen as underdogs as well— a solution that's since come to be known as "wokeness."
 
 But while White men *easily* benefit from their identities without admitting to it— by presenting a timeless backstory, for example— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
@@ -427,7 +427,11 @@ Yet such attacks are doomed to fail. How do I know? Because, when the indie labe
 
 To gain from one's individual identity, then, is a *right*-wing ideal— as are the rest of indie rock's ideals, along with most ideals favored by the privileged. It's the cultural *right* that's been in charge this whole time! But now you can help BYCombo start a cultural *left*, by promoting the one ideal favored most by the disadvantaged: to benefit from our collective *inter*-dependence.
 
-### ${++sectionCounter}. Penultimate tolerance has its pitfalls
+${'  ' || `
+// TODO: Review.
+`}
+
+### ${++sectionCounter}. Penultimate tolerance hides a pitfall
 
 No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
 
@@ -557,7 +561,7 @@ ${'  ' || `
 Mention resilience again?
 `}
 
-Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down the "system" and its elites, which only works out for libertarians— on both indie rock's cultural right, and the political right that its Gen X founders have [since embraced](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, decentralization is their end goal; they're not looking to replace the system.
+Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down the "system" and its elites, which only works for libertarians— of both indie rock's cultural right, and the political right that its Gen X founders have [since embraced](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, decentralization is their end goal; they're not looking to replace the system.
 
 But we progressives on the left *need* centralized institutions to promote the welfare we desire. Yet every time the anti-elitists among us join forces with libertarians to tear down the old system… those same libertarians then turn around and oppose them when they try to build a new one.
 

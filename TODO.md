@@ -22,8 +22,12 @@
 * BYC
     * Reconcile indie camp wanting to compete on self-reliance
         * But refusing to see the arts as a competition
+    * Highlight Paul Graham essays
+        * Consider sitcom essay (maybe not)
+            * https://paulgraham.com/startupideas.html
     * Mention political left/right and/or cultural left/right at least one other place
         * Maybe at the end, in salvation section? First paragraph?
+        * Or better in welfare section?
     * A collectivism section?
         * Make it about partners as bandmates?
         * So, after collaboration section
