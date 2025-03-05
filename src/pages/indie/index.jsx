@@ -417,7 +417,7 @@ ${'  ' || `
 Black Keys as underdog link? Bon Iver as timeless link?
 `}
 
-Let's be fair: In wanting to compete on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they honestly think it helps *all* of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s; instead, they leaned further on [our affection](https://web.archive.org/web/20110622031522/http://www.pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,Forever%20Ago.) for them as society's underdogs.
+Let's be fair: In wanting to compete on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s; instead, they leaned further on [our affection](https://web.archive.org/web/20110622031522/http://www.pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,Forever%20Ago.) for them as society's underdogs.
 
 Except… this is *another* hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly [White and male](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html). Suffering a crisis of conscience, the indie camp solved this problem in the only way they knew how: by allowing us women and minorities to be seen as underdogs as well— a solution that's since come to be known as "wokeness."
 
