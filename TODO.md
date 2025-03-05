@@ -20,7 +20,8 @@
     * Change interactivated verse?
 
 * BYC
-    * Colons after other "Let's be"s?
+    * Reconcile indie camp wanting to compete on self-reliance
+        * But refusing to see the arts as a competition
     * Mention political left/right and/or cultural left/right at least one other place
         * Maybe at the end, in salvation section? First paragraph?
     * A collectivism section?

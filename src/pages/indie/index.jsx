@@ -215,7 +215,11 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the "corpor
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
-### ${++sectionCounter}. Lean operations fail to adapt
+${'  ' || `
+// TODO: Review.
+`}
+
+### ${++sectionCounter}. Redundancy is the key to resilience
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is actually their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and reflect, they simply follow the instincts handed down by their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=According%20to%20Dr,they%20flew%20level.) by starlight.
 
@@ -409,11 +413,13 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 
 ${'  ' || `
 // TODO: Review section a few more times.
+
+Black Keys as underdog link? Bon Iver as timeless link?
 `}
 
-Let's be fair: In wanting to compete on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps *all* of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on [our affection](https://web.archive.org/web/20110622031522/http://www.pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,Forever%20Ago.) for them as society's underdogs.
+Let's be fair: In choosing to compete on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they honestly think it helps *all* of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s; instead, they leaned harder on [our affection](https://web.archive.org/web/20110622031522/http://www.pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,Forever%20Ago.) for them as society's underdogs.
 
-Except… this is *another* hidden advantage that's largely theirs alone! By the '10s, then, indie rock was *overwhelmingly* [White and male](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html). Suffering a crisis of conscience, the indie camp solved this problem in the only way they knew how: by letting us women and minorities stand to gain from being seen as underdogs as well— a solution that's come to be called "wokeness."
+Except… this is *another* hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly [White and male](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html). Suffering a crisis of conscience, the indie camp solved this problem in the only way they knew how: by allowing us women and minorities to be seen as underdogs as well— a solution that's come to be called "wokeness."
 
 But while White men *easily* benefit from their identities without admitting to it— by presenting a timeless backstory, for example— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
@@ -547,9 +553,11 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 ${'  ' || `
 // TODO: Review next two paragraphs.
+
+Mention resilience again?
 `}
 
-Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down the "system" and its elites, which only works out for the libertarians on the right— both indie rock's cultural right, and the political right that its Gen X founders have [since embraced](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, decentralization is their end goal; they're not looking to replace the system.
+Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down the "system" and its elites, which only works out for libertarians— on both indie rock's cultural right, and the political right that its Gen X founders have [since embraced](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, decentralization is their end goal; they're not looking to replace the system.
 
 But we progressives on the left *need* centralized institutions to promote the welfare we desire. Yet every time the anti-elitists among us join forces with libertarians to tear down the old system… those same libertarians then turn around and oppose them when they try to build a new one.
 
