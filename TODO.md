@@ -23,6 +23,14 @@
     * Highlight Paul Graham essays
         * Consider sitcom essay (maybe not)
             * https://paulgraham.com/startupideas.html
+    * Critics deviate widely from musicians
+        * Nirvana, Pavement, Stone Temple Pilots
+            * Respected by critics, admired by musicians
+        * Indie rock's takeover of music ended bands liked by musicians but disliked by critics
+            * Led Zeppelin disliked by critics
+        * Musicians, not critics, more likely to get what will last
+        * Luckily, as someone who's always been ignored by the critics
+            * I've long tried to find a replacement for radio
     * A collectivism section?
         * Make it about partners as bandmates?
         * So, after collaboration section
