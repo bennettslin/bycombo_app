@@ -293,13 +293,15 @@ ${'  ' || `
 Between hustlers and paid dues, for theme of not caring about the future, followed by theme of widening vicious circle. After democratization, for mention of indieocracy. But before elitism, for mention of legacy institutions.
 
 Specifically mention legacy institutions.
+
+Third paragraph, say many of them, rather than imply all of them.
 `}
 
 Social welfare is straightforward, right? The government gives each one of us a chance; those who succeed then pay more in taxes, subsidizing the same opportunities for the next generation. But welfare in the arts is a bit trickier, since— as we've seen— any attempt by the government to support artists will end up hurting the ones most likely to make history.
 
 To promote artistic welfare, then, some *other* centralized institution must first cast a wide net, then take from the earnings of the few who succeed to subsidize the same opportunities for the next generation of artists. Which isn't hard to imagine; we've just described the major labels in their heyday— who did so simply because it's the smartest move when driven by a profit motive.
 
-Yet welfare is fragile: Rather than be grateful to be given a chance at all, the unsuccessful resent not getting more support… while the successful assume they would've done as well on their own, and thus resent paying it forward. So libertarians— including indie rock's cultural kind— find it easy to turn us all against welfare, denying its benefits to future generations.
+Yet welfare is fragile: Rather than be grateful to be given a chance at all, the unsuccessful resent not getting more support… while the successful assume they would've done just fine on their own, and thus resent paying it forward. So libertarians— including indie rock's cultural kind— find it easy to turn us all against welfare, denying its benefits to future generations.
 
 But others [*don't* mind](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=%E2%80%9CSo%20thank%20you,on%20your%20part.%E2%80%9D) paying it forward: "If we have to pay more, it means we succeeded more!" And isn't this a better way of thinking… for *you*? Which is why BYCombo asks you to remember your current precarity as a nobody: This culturally progressive movement we're building is fragile, and even once we lift you above it, hopefully you'll never stop appreciating this.
 
@@ -529,17 +531,13 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. Solutions come from systems thinking
 
 ${'  ' || `
 // TODO: Review whole section again.
 `}
 
-Why is progressivism so badly beaten today? It's because indie rock taught Millennials to take down the "system" and its elites, which only works out for libertarians— both on the cultural right where its Gen X founders have long sat, and on the political right where much of Gen X [sits today](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, they aren't looking to replace the system; decentralization is their end goal.
+Why is progressivism so badly beaten today? It's because indie rock taught Millennials to take down the "system" and its elites, which only works out for libertarians— both on the cultural right where its Gen X founders have long sat, and on the political right where much of Gen X [sits today](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, they aren't looking to *replace* the system; decentralization is their *end* goal.
 
 But we progressives *need* centralized institutions to promote the welfare we desire— in both culture and politics. Yet every time the anti-elitists among us join with libertarians to tear down the old system… those libertarians then turn around and oppose their efforts to build a new one.
 
@@ -567,7 +565,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As a result, today's indie artists demand fair compensation; they don't self-sacrifice, or do anything else that reeks of being exploited.
+It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As a result, today's indie artists demand fair compensation; they don't self-sacrifice or do anything else that reeks of being exploited.
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [power-seeking](http://archive.today/2022.10.26/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [self-serving](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it ensures that indie rock's structural rules, which promise fair compensation, can *never* be broken.
 

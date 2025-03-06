@@ -20,10 +20,6 @@
     * Change interactivated verse?
 
 * BYC
-    * Emphasize *and* between culture and politics
-    * Reconcile indie camp wanting to compete on self-reliance
-        * But refusing to see the arts as a competition
-        * Maybe try "get by" again
     * Highlight Paul Graham essays
         * Consider sitcom essay (maybe not)
             * https://paulgraham.com/startupideas.html
