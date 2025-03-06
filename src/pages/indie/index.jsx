@@ -291,13 +291,15 @@ ${'  ' || `
 // TODO: Keep working on.
 
 Between hustlers and paid dues, for theme of not caring about the future, followed by theme of widening vicious circle. After democratization, for mention of indieocracy. But before elitism, for mention of legacy institutions.
+
+Specifically mention legacy institutions.
 `}
 
 Social welfare is straightforward, right? The government gives *everyone* a chance; those who succeed more then pay more in taxes, subsidizing the same opportunities for the next generation. It's a bit more complicated in the arts, however, since— as we've seen— any attempt by the government to support artists will end up hurting the history makers.
 
 To promote artistic welfare, then, some *other* centralized institution must cast a wide net, then take from the outsized earnings of a successful few to subsidize the same opportunities for the next generation of artists. Well, good news: This is *also* the smart move *business*-wise! Which is why this role, in the past, was filled by the major labels with their profit motive.
 
-Yet welfare is inherently fragile: Rather than be grateful to get a chance at all, the unsuccessful resent not being given more support… while the successful assume they would've done just as well on their own, and thus resent paying it forward. So libertarians— including indie rock's cultural kind— find it easy to turn us all against welfare, denying its benefits to future generations.
+Yet welfare is fragile: Rather than appreciate being given a chance at all, the unsuccessful resent not getting more support… while the successful assume they would've done just as well on their own, and thus resent paying it forward. So libertarians— including indie rock's cultural kind— find it easy to turn us all against welfare, denying its benefits to future generations.
 
 But others [*don't* mind](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=%E2%80%9CSo%20thank%20you,on%20your%20part.%E2%80%9D) paying it forward: "If we have to pay more, it means we succeeded more!" And isn't this a better way of thinking… for *you*? Which is why BYCombo asks you to remember your current precarity as a nobody: This culturally progressive movement we're building is fragile, and even once we lift you above it, hopefully you'll never stop appreciating this.
 
@@ -393,8 +395,6 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 
 ${'  ' || `
 // TODO: Review section a few more times.
-
-Black Keys as underdog link? Bon Iver as timeless link?
 `}
 
 Let's be fair: In wanting to compete on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s; instead, they leaned further on our affection for them as [society's underdogs](http://archive.today/2021.06.04/https://www.nytimes.com/2021/05/26/magazine/black-keys-blues.html#:~:text=%E2%80%9CFor%20me%2C%20it,it%20came%20from.%E2%80%9D).
@@ -529,23 +529,29 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
-### ${++sectionCounter}. Salvation comes from thinking in systems
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Solutions come from systems thinking
 
 ${'  ' || `
 // TODO: Review next two paragraphs.
-
-Mention resilience again?
 `}
 
-Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us to take down the "system" and its elites, which only works for libertarians— of both indie rock's cultural right, and the political right that its Gen X founders have [since embraced](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, decentralization is their end goal; they're not looking to replace the system.
+Why is progressivism so badly beaten today? It's because indie rock taught Millennials to take down the "system" and its elites, which only works out for libertarians— both on the cultural right where its Gen X founders have long sat, and on the political right where they [sit today](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, libertarians don't need to replace the system; decentralization is their end goal.
 
-But we progressives on the left *need* centralized institutions to promote the welfare we desire. Yet every time the anti-elitists among us join forces with libertarians to tear down the old system… those same libertarians then turn around and oppose them when they try to build a new one.
+But we progressives *need* centralized institutions to promote the welfare we desire— in both culture and politics. Yet every time the anti-elitists among us join with libertarians to tear down the old system… those libertarians then turn around and oppose their efforts to build a new one.
 
 Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get taken down as well, to be replaced by others— in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass. This is why I suspect that many anti-elitist progressives are really *libertarians*… who've yet to embrace their privilege!
 
-How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their interconnected complexity. Once we do, we'll stop looking for "bad guys" to blame, because we'll finally have the skills to analyze our problems and come up with workable solutions instead.
+${'  ' || `
+// TODO: Review next two paragraphs.
+`}
 
-So if I could get every progressive, in both culture and politics, to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
+How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their interconnected complexity. Once we do, we'll stop looking for "bad guys" to blame, since we'll finally have the skills to understand our problems and come up with workable solutions instead.
+
+So if I could get every progressive— on both the cultural and political left— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who teaches us to analyze systems in terms of their stocks, flows, and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
