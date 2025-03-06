@@ -536,22 +536,18 @@ ${'  ' || `
 ### ${++sectionCounter}. Solutions come from systems thinking
 
 ${'  ' || `
-// TODO: Review next two paragraphs.
+// TODO: Review whole section again.
 `}
 
-Why is progressivism so badly beaten today? It's because indie rock taught Millennials to take down the "system" and its elites, which only works out for libertarians— both on the cultural right where its Gen X founders have long sat, and on the political right where they [sit today](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, libertarians don't need to replace the system; decentralization is their end goal.
+Why is progressivism so badly beaten today? It's because indie rock taught Millennials to take down the "system" and its elites, which only works out for libertarians— both on the cultural right where its Gen X founders have long sat, and on the political right where much of Gen X [sits today](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, they aren't looking to replace the system; decentralization is their end goal.
 
 But we progressives *need* centralized institutions to promote the welfare we desire— in both culture and politics. Yet every time the anti-elitists among us join with libertarians to tear down the old system… those libertarians then turn around and oppose their efforts to build a new one.
 
-Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get taken down as well, to be replaced by others— in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass. This is why I suspect that many anti-elitist progressives are really *libertarians*… who've yet to embrace their privilege!
-
-${'  ' || `
-// TODO: Review next two paragraphs.
-`}
+Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get taken down as well, to be replaced by others… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass. This is why many anti-elitist progressives are just an advantage away from deciding they'd rather be libertarians!
 
 How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their interconnected complexity. Once we do, we'll stop looking for "bad guys" to blame, since we'll finally have the skills to understand our problems and come up with workable solutions instead.
 
-So if I could get every progressive— on both the cultural and political left— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who teaches us to analyze systems in terms of their stocks, flows, and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
+So if I could get every progressive— but also *anyone*!— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to analyze systems in terms of their stocks, flows, and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
