@@ -295,11 +295,11 @@ Between hustlers and paid dues, for theme of not caring about the future, follow
 Specifically mention legacy institutions.
 `}
 
-Social welfare is straightforward, right? The government gives *everyone* a chance; those who succeed more then pay more in taxes, subsidizing the same opportunities for the next generation. It's a bit more complicated in the arts, however, since— as we've seen— any attempt by the government to support artists will end up hurting the history makers.
+Social welfare is straightforward, right? The government gives each one of us a chance; those who succeed then pay more in taxes, subsidizing the same opportunities for the next generation. But welfare in the arts is a bit trickier, since— as we've seen— any attempt by the government to support artists will end up hurting the ones most likely to make history.
 
-To promote artistic welfare, then, some *other* centralized institution must cast a wide net, then take from the outsized earnings of a successful few to subsidize the same opportunities for the next generation of artists. Well, good news: This is *also* the smart move *business*-wise! Which is why this role, in the past, was filled by the major labels with their profit motive.
+To promote artistic welfare, then, some *other* centralized institution must first cast a wide net, then take from the earnings of the few who succeed to subsidize the same opportunities for the next generation of artists. Which isn't hard to imagine; we've just described the major labels in their heyday— who did so simply because it's the smartest move when driven by a profit motive.
 
-Yet welfare is fragile: Rather than appreciate being given a chance at all, the unsuccessful resent not getting more support… while the successful assume they would've done just as well on their own, and thus resent paying it forward. So libertarians— including indie rock's cultural kind— find it easy to turn us all against welfare, denying its benefits to future generations.
+Yet welfare is fragile: Rather than be grateful to be given a chance at all, the unsuccessful resent not getting more support… while the successful assume they would've done as well on their own, and thus resent paying it forward. So libertarians— including indie rock's cultural kind— find it easy to turn us all against welfare, denying its benefits to future generations.
 
 But others [*don't* mind](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=%E2%80%9CSo%20thank%20you,on%20your%20part.%E2%80%9D) paying it forward: "If we have to pay more, it means we succeeded more!" And isn't this a better way of thinking… for *you*? Which is why BYCombo asks you to remember your current precarity as a nobody: This culturally progressive movement we're building is fragile, and even once we lift you above it, hopefully you'll never stop appreciating this.
 
