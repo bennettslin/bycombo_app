@@ -121,7 +121,11 @@ And yet… this obviously can't end well. We don't support artists of the *past*
 
 By supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad?" Yes, because there's a third and final effect: The history makers of our times… now get relegated to the *bottom*! To see why this is so, let's imagine a government program that promises a living wage and free health care to *every* artist.
 
-The thing is, we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way art was done *before*. So anyone hoping to start a *new* paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
+${'  ' || `
+// TODO: Review.
+`}
+
+Well, we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way things were done *before*. So anyone trying to start a *new* paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of quiet preparation… will be paying their own way the *whole* time.
 
@@ -292,6 +296,8 @@ ${'  ' || `
 
 Between hustlers and paid dues, for theme of not caring about the future, followed by theme of widening vicious circle. After democratization, for mention of indieocracy. But before elitism, for mention of legacy institutions.
 
+Talk about it as an investment.
+
 Specifically mention legacy institutions.
 
 Third paragraph, say many of them, rather than imply all of them.
@@ -335,7 +341,11 @@ The issue is that these labels are run by society's most privileged groups— an
 
 But so far, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* the same. Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*; and women, of low *competence*. Yet social justice, when self-enforced, *only* fixes misjudgments of competence; a circle of friends has every right to feel more warmly toward their own.
 
-You'll notice, then, that we minorities *aren't* ones to begrudge a business partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](http://archive.today/2024.05.11/https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
+${'  ' || `
+// TODO: Review.
+`}
+
+You'll notice, then, that we minorities *aren't* ones to begrudge a potential partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](http://archive.today/2024.05.11/https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
@@ -567,7 +577,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As a result, today's indie artists demand fair compensation; they don't do *anything* that reeks of being exploited— including self-sacrifice.
+It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As a result, today's indie artists demand fair compensation; they don't do *anything* that reeks of being exploited— *including* self-sacrifice.
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [power-seeking](http://archive.today/2022.10.26/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [self-serving](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it ensures that indie rock's structural rules, which promise fair compensation, can *never* be broken.
 
@@ -595,7 +605,11 @@ Now, since indie artists do it all themselves, they must put in a further 80% ef
 
 Let's call this the "4x law of interdependence," then: By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Which checks out: The greatest interdependent band *ever* is the Beatles, who are *certainly* four times better than anything indie rock has to offer!
 
-So now, what potential partner *wouldn't* prefer a BYCombo band such as yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old Soviet joke: "Indie rock is the longest and most painful journey from interdependence… to interdependence."
+${'  ' || `
+// TODO: Review link.
+`}
+
+So now, what potential partner *wouldn't* prefer a BYCombo band such as yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful journey from interdependence… to interdependence."
 `,
         }}
     />

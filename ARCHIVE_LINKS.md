@@ -21,3 +21,7 @@ http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/15551-bon-i
 http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html
 
 http://archive.today/2022.10.26/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html
+
+# New additions
+
+http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''
