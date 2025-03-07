@@ -403,9 +403,9 @@ ${'  ' || `
 // TODO: Review section a few more times.
 `}
 
-Let's be fair: In wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned further on our affection for them as [society's underdogs](http://archive.today/2021.06.04/https://www.nytimes.com/2021/05/26/magazine/black-keys-blues.html#:~:text=%E2%80%9CFor%20me%2C%20it,aspirations%20we%20did.%E2%80%9D).
+Let's be fair: In wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on our affection for them as [society's underdogs](http://archive.today/2021.06.04/https://www.nytimes.com/2021/05/26/magazine/black-keys-blues.html#:~:text=%E2%80%9CFor%20me%2C%20it,aspirations%20we%20did.%E2%80%9D).
 
-Except, it turns out… this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly White and male. Suffering a [crisis of conscience](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html), the indie camp solved this problem in the only way they knew how: by allowing us women and minorities to be seen as underdogs as well— a solution that's come to be known as "wokeness."
+Except… it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly White and male. Suffering a [crisis of conscience](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html), the indie camp solved this problem in the only way they knew how: by allowing us women and minorities to be seen as underdogs as well— a solution that's come to be called "wokeness."
 
 But while White men *easily* benefit from their identities without admitting to it— by presenting a [timeless backstory](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,Forever%20Ago.), for example— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
@@ -543,9 +543,11 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 ${'  ' || `
 // TODO: Review whole section again.
+
+Revise? Is talking about generations what I even want to do at all? If so, add to second paragraph about indie rock being a poor fit for Millennials, who are famously progressive.
 `}
 
-Why is progressivism so badly beaten today? It's because indie rock taught Millennials to take down the "system" and its elites, which only works out for libertarians— both on the cultural right where its Gen X founders have long sat, and on the political right where much of Gen X [sits today](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, they aren't looking to replace the system; decentralization is their end goal.
+Why is progressivism so badly beaten today? It's because indie rock taught Millennials to take down the "system" and its elites, which only works out for libertarians— both on the cultural right where indie rock's Gen X founders have long sat, and on the political right where much of Gen X [sits today](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, they're not trying to replace the system; decentralization is their end goal.
 
 But we progressives *need* centralized institutions to promote the welfare we desire— in both culture and politics. Yet every time the anti-elitists among us join with libertarians to tear down the old system… those libertarians then turn around and oppose their efforts to build a new one.
 
