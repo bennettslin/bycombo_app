@@ -547,11 +547,11 @@ This is why many anti-elitist progressives are just an advantage away from decid
 Segue better between third and fourth paragraphs.
 `}
 
-Why is progressivism so badly beaten today? It's because indie rock taught Millennials to take down the "system" and its elites— which only works out for libertarians, who don't need to replace it with another; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we desire— in both culture and politics.
+Why is progressivism so badly beaten today? It's because indie rock taught Millennials to take down the "system" and its elites— which only works well for libertarians, who don't need to replace it with another; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we desire— in both culture and politics.
 
 So the anti-elitists among us join with libertarians to topple the old system— only to be left on their own to build a new one… which must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get torn down as well, to be replaced by others, in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass…
 
-There's good news, though: As Gen X moves to the [*political* right](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary), there's less and less resistance to my claim that indie rock, which their generation started, is a movement of the *cultural* right. Which means we might finally have a cultural left, leading to a political left.
+There's good news, though: As Gen X moves to the [*political* right](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary), there's less and less resistance to my claim that indie rock, the movement they started, is of the *cultural* right. Which means we might finally have a cultural left, leading to a political left.
 
 How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their interconnected complexity. Once we do, we'll stop looking for "bad guys" to blame, as we'll finally be able to understand our problems and come up with workable solutions instead.
 
@@ -575,7 +575,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As a result, today's indie artists demand fair compensation; they don't do *anything* that reeks of being exploited— *including* self-sacrifice.
+It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. As a result, today's indie artists demand fair compensation; they don't do *anything* that reeks of being exploited— *especially* self-sacrifice.
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [power-seeking](http://archive.today/2022.10.26/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [self-serving](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it ensures that indie rock's structural rules, which promise fair compensation, can *never* be broken.
 
