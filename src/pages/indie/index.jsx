@@ -544,16 +544,18 @@ ${'  ' || `
 
 This is why many anti-elitist progressives are just an advantage away from deciding they'd rather be libertarians!
 
-Segue better between third and fourth paragraphs.
+Second paragraph, second sentence needs to be more clear. Vague what "its builders" refers to.
+
+Fourth paragraph, first sentence needs the most work. Maybe say "instead" in first sentence, and last one being about "it'll feel so much more satisfying" to come up with workable solutions.
 `}
 
-Why is progressivism so badly beaten today? It's because indie rock taught Millennials to take down the "system" and its elites— which only works well for libertarians, who don't need to replace it with another; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we desire— in both culture and politics.
+Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us all to take down the "system" and its elites— but this only works out for libertarians. After all, they aren't trying to replace the system; decentralization is their end goal. We progressives, however, rely on centralized institutions to promote the welfare we need.
 
-So the anti-elitists among us join with libertarians to topple the old system— only to be left on their own to build a new one… which must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get torn down as well, to be replaced by others, in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass…
+So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get torn down as well, to be replaced by others, in a never-ending test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass…
 
-There's good news, though: As Gen X moves to the [*political* right](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary), there's less and less resistance to my claim that indie rock, the movement they started, is of the *cultural* right. Which means we might finally have a cultural left, leading to a political left.
+Yet there's hope! Back in the '00s, Millennials would dispute me whenever I claimed that indie rock, which they'd adopted as their own, is a movement of the cultural *right*. But now that Gen X, the generation that started indie rock, has [swung toward](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) the *political* right… Gen Z might be ready to listen. So we can finally have a cultural *left*— leading, in turn, to an effective *political* left!
 
-How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their interconnected complexity. Once we do, we'll stop looking for "bad guys" to blame, as we'll finally be able to understand our problems and come up with workable solutions instead.
+The first step, then, is for us progressives to stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.). But how? I believe the answer is for us to appreciate systems in all their interconnected complexity. Once we do, we'll stop looking for "bad guys" to blame, as we'll finally be able to understand our problems and come up with workable solutions instead.
 
 So if I could get every progressive— but also *anyone*!— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to analyze systems in terms of their stocks, flows, and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own.
 
