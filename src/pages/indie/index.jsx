@@ -235,7 +235,11 @@ Sadly, young folks never question today's "auto-Bizarro" world, since it's all t
 
 Want even *more* absurdity? Any rich artist can simply pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— to the benefit of the privileged. How did this happen?
 
-Simply put, indie rock is widely seen as a "do it yourself" movement— the kind that fosters *cooperative* self-reliance by instilling a [love for the craft](https://makerfaire.com). As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
+${'  ' || `
+// TODO: Review.
+`}
+
+Simply put, indie rock is widely seen as a "do-it-yourself" movement— the kind that fosters *cooperative* self-reliance by instilling a [love for the craft](https://makerfaire.com). As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
 But being indie is all about gaining public exposure, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
@@ -325,7 +329,11 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
-Who could've foreseen all the drawbacks of "indiefication"? Um… us women and minorities, that's who! Which is why *we've* never started a movement to reward self-reliance. And hip hop is no exception: Rappers *proudly* rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). When they boast of having hustled, it's really to say, "Hey, I hustled *too*!" They want self-reliance to count for *nothing*.
+${'  ' || `
+// TODO: Review.
+`}
+
+Who could've foreseen all the drawbacks of "indiefication"? Um… us women and minorities, that's who! Which is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception: Rappers *proudly* rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). When they boast of having hustled, it's really to say, "Hey, I hustled *too*!" They want self-reliance to count for *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of effectively being just another foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
