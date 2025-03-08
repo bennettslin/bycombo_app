@@ -341,11 +341,7 @@ The issue is that these labels are run by society's most privileged groups— an
 
 But so far, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* the same. Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*; and women, of low *competence*. Yet social justice, when self-enforced, *only* fixes misjudgments of competence; a circle of friends has every right to feel more warmly toward their own.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-You'll notice, then, that we minorities *aren't* ones to begrudge a potential partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](http://archive.today/2024.05.11/https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
+You'll notice, then, that we minorities *aren't* ones to begrudge a business partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](http://archive.today/2024.05.11/https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
@@ -544,16 +540,18 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 ### ${++sectionCounter}. Solutions come from systems thinking
 
 ${'  ' || `
-// TODO: Review whole section again.
+// TODO: Revise whole section again.
 
-Revise? Is talking about generations what I even want to do at all? If so, add to second paragraph about indie rock being a poor fit for Millennials, who are famously progressive.
+This is why many anti-elitist progressives are just an advantage away from deciding they'd rather be libertarians!
+
+Segue better between third and fourth paragraphs.
 `}
 
-Why is progressivism so badly beaten today? It's because indie rock taught Millennials to take down the "system" and its elites, which only works out for libertarians— both on the cultural right where indie rock's Gen X founders have long sat, and on the political right where much of Gen X [sits today](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary). After all, they're not trying to replace the system; decentralization is their end goal.
+Why is progressivism so badly beaten today? It's because indie rock taught Millennials to take down the "system" and its elites— which only works out for libertarians, who don't need to replace it with another; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we desire— in both culture and politics.
 
-But we progressives *need* centralized institutions to promote the welfare we desire— in both culture and politics. Yet every time the anti-elitists among us join with libertarians to tear down the old system… those libertarians then turn around and oppose their efforts to build a new one.
+So the anti-elitists among us join with libertarians to topple the old system— only to be left on their own to build a new one… which must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get torn down as well, to be replaced by others, in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass…
 
-Furthermore, any new system must now be morally perfect to survive. But— surprise!— its builders will prove no less flawed than those they replaced. So they'll get taken down as well, to be replaced by others… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass. This is why many anti-elitist progressives are just an advantage away from deciding they'd rather be libertarians!
+There's good news, though: As Gen X moves to the [*political* right](https://nevermindgenx.substack.com/p/why-is-gen-x-so-reactionary), there's less and less resistance to my claim that indie rock, which their generation started, is a movement of the *cultural* right. Which means we might finally have a cultural left, leading to a political left.
 
 How, then, do we progressives stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)? I believe the answer is for us to appreciate systems in all their interconnected complexity. Once we do, we'll stop looking for "bad guys" to blame, as we'll finally be able to understand our problems and come up with workable solutions instead.
 
