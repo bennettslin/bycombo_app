@@ -544,9 +544,9 @@ ${'  ' || `
 
 This is why many anti-elitist progressives are just an advantage away from deciding they'd rather be libertarians!
 
-Second paragraph, second sentence needs to be more clear. Vague what "its builders" refers to.
+Second paragraph, second sentence needs to be more clear. Vague what "its builders" refers to. "These new builders" instead?
 
-Fourth paragraph, first sentence needs the most work. Maybe say "instead" in first sentence, and last one being about "it'll feel so much more satisfying" to come up with workable solutions.
+Fourth paragraph, first sentence needs the most work. What made progressive Millennials so ineffectual is that they wanted to "larp" as revolutionaries. Maybe say "instead" in first sentence, and last one being about "it'll feel so much more satisfying" to come up with workable solutions.
 `}
 
 Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us all to take down the "system" and its elites— but this only works out for libertarians. After all, they aren't trying to replace the system; decentralization is their end goal. We progressives, however, rely on centralized institutions to promote the welfare we need.
