@@ -417,6 +417,10 @@ But while White men *easily* benefit from their identities without admitting to 
 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of *culture*, it's *I* who sit on the left— and *they*, the right!
 
+${'  ' || `
+// TODO: Revise. Say ascendant, and don't imply we're starting a cultural left, just helping it.
+`}
+
 To gain from one's individual identity, then, is a *right*-wing ideal— as are the rest of indie rock's ideals, along with most ideals favored by the privileged. It's the cultural *right* that's been in charge this whole time! But now you can help BYCombo start a cultural *left*, by promoting the one ideal favored most by the disadvantaged: to benefit from our collective *inter*-dependence.
 
 ### ${++sectionCounter}. Penultimate tolerance hides a pitfall
@@ -545,19 +549,15 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 ${'  ' || `
 // TODO: Review whole section a few more times.
-
-Maybe can get rid of reformists part.
-
-Third paragraph. Clarify that indie rock's anti-elitism is an aspect of the cultural right. There can finally be a cultural left that respects institutions, leading to an effective political left.
 `}
 
-Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us all to take down the "system" and its elites— but this only works out for libertarians, who aren't hoping to replace the system with any other; decentralization is their end goal. We progressives, however, *need* centralized institutions to promote the welfare we want.
+Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us all to take down the "system" and its elites— but this only works out for libertarians, who aren't trying to replace it with any other; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we need.
 
-So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they get toppled and replaced as well, in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass…
+So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get replaced as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one ever passes.
 
-No wonder, then, that anti-elitist progressives are often an advantage away from deciding they'd rather be libertarians! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, I face less resistance now when I argue that indie rock— which they started— is a movement of the *cultural* right. So there can finally be a cultural *left*— leading, in turn, to an effective *political* left!
+No wonder, then, that anti-elitist progressives are often an advantage away from becoming libertarians themselves! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, I now face less resistance when I argue that indie rock— which they started— is of the *cultural* right. It's the *right's* ideal to topple the system; *ours*— on both the cultural and political *left*— is to build it back from within!
 
-Well, the first step is for us progressives to stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead. How? Beyond understanding our human nature, we must appreciate systems in all their complexity. Once we do, we'll stop looking for "bad guys" to blame, because we'll genuinely be more interested in studying our problems and proposing solutions.
+And this means we progressives need to stop "larping" the revolution, since larping doesn't truly [build anything](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.). But how? Beyond knowing our human nature, we must also appreciate systems in all their complexity. Once we do, we'll stop looking for "bad guys" to blame, because we'll honestly find it more interesting to study our problems and come up with solutions instead.
 
 So if I could get every progressive— but also *anyone*!— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to analyze systems in terms of their stocks, flows, and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 

@@ -54,6 +54,7 @@
                 * Like my immigrant parents, I would be fulfilled by others' achievements
                     * While living to 
                 * Climate change and artistic climate change
+        * You're defined by your impact, not your identity
     * Consider doing screen widths smartly
     * Consider smart quote in Wikipedia link update
     * Revise apply page
