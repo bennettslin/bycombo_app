@@ -81,13 +81,21 @@ Here's an incomplete list of ways…
 
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To Millennials, however, they *sound* indie— so they might as *well* be. But… this isn't a trivial mix-up! We're now looking for the *next* Nirvana and Radiohead in all the wrong places. How did we get confused?
 
-Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by grievance— and so it shares the same fondness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
+${'  ' || `
+// TODO: Review.
+`}
+
+Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by grievance— and so it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
 
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to "own" the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
 
-As with MAGA, then, indie rock's fondness for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
+${'  ' || `
+// TODO: Review.
+`}
+
+As with MAGA, then, indie rock's weakness for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
 
 ### ${++sectionCounter}. Populism trampled the underground
 
@@ -545,17 +553,21 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 ${'  ' || `
 // TODO: Review whole section a few more times.
+
+Maybe can get rid of reformists part.
+
+Third paragraph. Clarify that indie rock's anti-elitism is an aspect of the cultural right. There can finally be a cultural left that respects institutions, leading to an effective political left.
 `}
 
 Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us all to take down the "system" and its elites— but this only works out for libertarians, who aren't hoping to replace the system with any other; decentralization is their end goal. We progressives, however, *need* centralized institutions to promote the welfare we want.
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they get toppled and replaced as well, in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass…
 
-Yet there's hope! In the '00s, back when Millennials adopted indie rock as their own movement, they'd dispute me every time I tried to argue that this put them on the cultural *right*. But now that Gen X— who *started* indie rock— has swung to the [*political* right](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769)… Gen Z might be ready to listen. So we can finally have a cultural *left*— leading, in turn, to an effective *political* left!
+No wonder, then, that anti-elitist progressives are often an advantage away from deciding they'd rather be libertarians! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, I face less resistance now when I argue that indie rock— which they started— is a movement of the *cultural* right. So there can finally be a cultural *left*— leading, in turn, to an effective *political* left!
 
-Which means we progressives will need to stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead. But how? The answer, I believe, is for us to appreciate systems in all their complexity. Once we do, we'll stop looking for "bad guys" to blame, because it will genuinely intrigue us more to study our problems and come up with workable solutions.
+Well, the first step is for us progressives to stop "larping" as revolutionaries, and find the courage to [be reformists](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead. How? Beyond understanding our human nature, we must appreciate systems in all their complexity. Once we do, we'll stop looking for "bad guys" to blame, because we'll genuinely be more interested in studying our problems and proposing solutions.
 
-So if I could get every progressive— but also *anyone*!— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to analyze systems in terms of their stocks, flows, and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own.
+So if I could get every progressive— but also *anyone*!— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to analyze systems in terms of their stocks, flows, and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 

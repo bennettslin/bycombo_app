@@ -31,17 +31,26 @@
         * Musicians, not critics, more likely to get what will last
         * Luckily, as someone who's always been ignored by the critics
             * I've long tried to find a replacement for radio
-    * A collectivism and evangelism section?
+    * Collectivists and evangelists shall unite
         * Make it about partners as bandmates?
         * So, after collaboration section?
             * Maybe between democratization and audiences instead?
             * Or toward the end, theme of martyrs and saviors?
             * Or right after solutions section?
                 * To explain why it's so important to identify indie rock as a movement of the cultural right
-        * Why is it so important to recognize indie rock as a culturally right-wing movement?
-            * Because the cultural and political right both emphasize freedom and self-reliance of the individual
+        * First paragraph: Is it so important to identify indie rock as a culturally right-wing movement?
+            * Yes, because as systems thinkers…
+            * Both the cultural and political right emphasize freedom of the individual
+                * Say this is their strength
                 * They create similar systems that share similar dynamics
                 * One of which is that they both struggle to solve collective action problems
+                    * Climate change, artistic climate change
+                    * For that, you literally need collectivists
+        * Second paragraph: Macchu Picchu
+            * Steps worn away by tourists
+            * Had epiphany
+                * Like my immigrant parents, I would be fulfilled by others' achievements
+                    * While living to 
                 * Climate change and artistic climate change
     * Consider doing screen widths smartly
     * Consider smart quote in Wikipedia link update
