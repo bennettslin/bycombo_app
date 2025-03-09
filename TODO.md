@@ -23,17 +23,26 @@
     * Highlight Paul Graham essays
         * Consider sitcom essay (maybe not)
             * https://paulgraham.com/startupideas.html
-    * Critics deviate widely from musicians
-        * Nirvana, Pavement, Stone Temple Pilots
-            * Respected by critics, admired by musicians
+    * Radio was a musical proving ground
+        * If you had taste in the '90s, every band you liked was one of three types: those like Nirvana, who were loved by both critics *and* musicians; those like Pavement, who were adored by *critics* but ignored by musicians; and those like Stone Temple Pilots, who were hated by critics but [admired by *musicians*](https://youtu.be/aVfU0wljJbA).
+        * Combination of radio-friendly and musician-respected
         * Indie rock's takeover of music ended bands liked by musicians but disliked by critics
             * Led Zeppelin disliked by critics
         * Musicians, not critics, more likely to get what will last
         * Luckily, as someone who's always been ignored by the critics
             * I've long tried to find a replacement for radio
-    * A collectivism section?
+    * A collectivism and evangelism section?
         * Make it about partners as bandmates?
-        * So, after collaboration section
+        * So, after collaboration section?
+            * Maybe between democratization and audiences instead?
+            * Or toward the end, theme of martyrs and saviors?
+            * Or right after solutions section?
+                * To explain why it's so important to identify indie rock as a movement of the cultural right
+        * Why is it so important to recognize indie rock as a culturally right-wing movement?
+            * Because the cultural and political right both emphasize freedom and self-reliance of the individual
+                * They create similar systems that share similar dynamics
+                * One of which is that they both struggle to solve collective action problems
+                * Climate change and artistic climate change
     * Consider doing screen widths smartly
     * Consider smart quote in Wikipedia link update
     * Revise apply page
