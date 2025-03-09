@@ -14,6 +14,8 @@
 * Contact Vanessa Ogle
 
 * YB
+    * Change Ash Wednesday doublespeaker rhyme
+        * Say it was a failed attempt at it, not an inspiration for it
     * Finish annotations
         * No one's out to get you
         * They're just looking out for themselves, as you are
