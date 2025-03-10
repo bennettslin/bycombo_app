@@ -79,10 +79,6 @@ Here's an incomplete list of ways…
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were alternative, not indie. To Millennials, however, they *sound* indie— so they might as well be. But… this isn't a trivial mix-up! We're now looking for the *next* Nirvana and Radiohead in all the wrong places. How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by grievance— and so it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
@@ -124,10 +120,6 @@ And yet… this obviously can't end well. We don't support artists of the *past*
 ### ${++sectionCounter}. History making is now a mere hobby
 
 By supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad?" Yes, because there's a third and final effect: The history makers of our times… now get relegated to the *bottom*! To see why this is so, let's imagine a government program that promises a living wage and free health care to *every* artist.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way artists have *always* worked. So anyone trying to start a *new* paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
@@ -333,7 +325,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-"Who could've foreseen all of indie rock's drawbacks?" Um… us women and minorities, that's who! You'll notice that *we've* never started a movement to compete on self-reliance. And hip hop is no exception: Rappers *proudly* rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). When they boast of having hustled, it's really to say, "Hey, I hustled *too*!" They want self-reliance to count for *nothing*.
+"Who could've foreseen any downside from promoting indie rock's ideals?" Um… us women and minorities, that's who! This is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception: Rappers *proudly* rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). When they boast of having hustled, it's to say, "Hey, I hustled *too*!" They want self-reliance to count for *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of effectively being just another foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
@@ -418,10 +410,10 @@ But while White men *easily* benefit from their identities without admitting to 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of *culture*, it's *I* who sit on the left— and *they*, the right!
 
 ${'  ' || `
-// TODO: Revise. Say ascendant, and don't imply we're starting a cultural left, just helping it.
+// TODO: Review.
 `}
 
-To gain from one's individual identity, then, is a *right*-wing ideal— as are the rest of indie rock's ideals, along with most ideals favored by the privileged. It's the cultural *right* that's been ascendant this whole time! But now you can help BYCombo revive the cultural *left*, by promoting the one ideal favored most by the disadvantaged: to benefit from our collective *inter*-dependence.
+To gain from one's individual identity, then, is a *right*-wing ideal— as are all of indie rock's other ideals, along with most ideals favored by the privileged. It's the cultural *right* that's been ascendant this whole time! But now you can join the cultural *left*, and help BYCombo promote the one ideal favored most by the disadvantaged: to benefit from our collective *inter*-dependence.
 
 ### ${++sectionCounter}. Penultimate tolerance hides a pitfall
 
@@ -555,9 +547,9 @@ Why is progressivism so badly beaten in both culture and politics today? It's be
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get taken down as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one ever passes.
 
-This is why many anti-elitist progressives are just one advantage away from turning libertarian as well! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, I now face less resistance when I argue that indie rock— which they started— is of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
+No wonder, then, that so many anti-elitist progressives… are one advantage away from becoming libertarians themselves! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, I now face less resistance when I argue that indie rock— which they started— is of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
 
-And since "larping" doesn't [build anything](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)… we progressives will need to stop larping the revolution. But how? For one, we must know our human nature; and for another, we must appreciate systems in all their complexity. Once we do, we'll no longer look for "bad guys" to blame, because we'll genuinely find it more interesting to analyze our problems and propose solutions instead.
+And since "larping" doesn't [build anything](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)… we progressives will need to quit larping the revolution. How? For one, we must know our human nature; and for another, we must appreciate systems in all their complexity. Once we do, we'll no longer look for "bad guys" to blame, because we'll truly find it more interesting to study our problems and propose solutions instead.
 
 So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their stocks, flows, and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
