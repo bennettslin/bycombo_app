@@ -41,12 +41,12 @@
             * Or right after solutions section?
                 * To explain why it's so important to identify indie rock as a movement of the cultural right
         * First paragraph: Is it so important to identify indie rock as a culturally right-wing movement?
-            * Yes, because as systems thinkers…
+            * Yes, in at least one respect
             * Both the cultural and political right emphasize freedom of the individual
                 * Say this is their strength
-                * They create similar systems that share similar dynamics
+                * They create similar structures and hierarchies
                 * One of which is that they both struggle to solve collective action problems
-                    * Climate change, artistic climate change
+                    * Climate change, artistic decline
                     * For that, you literally need collectivists
         * Second paragraph: Macchu Picchu
             * Steps worn away by tourists
