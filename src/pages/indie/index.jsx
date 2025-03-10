@@ -547,11 +547,19 @@ Why is progressivism so badly beaten in both culture and politics today? It's be
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get taken down as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one ever passes.
 
-No wonder, then, that so many anti-elitist progressives… are one advantage away from becoming libertarians themselves! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, I now face less resistance when I argue that indie rock— which they started— is of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
+No wonder, then, that so many anti-elitist progressives… are one advantage away from becoming libertarians themselves! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, I now face less resistance when I argue that indie rock— which they started— sits on the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
 
 And since "larping" doesn't [build anything](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)… we progressives will need to quit larping the revolution. How? For one, we must know our human nature; and for another, we must appreciate systems in all their complexity. Once we do, we'll no longer look for "bad guys" to blame, because we'll truly find it more interesting to study our problems and propose solutions instead.
 
 So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their stocks, flows, and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
+
+### ${++sectionCounter}. Collectivists and evangelists shall unite
+
+${'  ' || `
+// TODO: Keep working on.
+`}
+
+Why must we acknowledge that indie rock sits on the cultural *right*? It's to recognize that it shares similar dynamics with the *political* right. Since both prioritize the individual, both struggle to solve collective action problems… going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by the *left*— which prioritizes the collective.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
