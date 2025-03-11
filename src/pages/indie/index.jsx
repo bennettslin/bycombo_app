@@ -325,7 +325,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-"Who could've foreseen any downside from promoting indie rock's ideals?" Um… us women and minorities, that's who! This is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception: Rappers *proudly* rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). When they boast of having hustled, it's to say, "Hey, I hustled *too*!" They want self-reliance to count for *nothing*.
+"Who could've foreseen any downsides from promoting indie rock's ideals?" Um… us women and minorities, that's who! This is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception: Rappers *proudly* rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). When they boast of having hustled, it's to say, "Hey, I hustled *too*!" They want self-reliance to count for *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of effectively being just another foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
@@ -335,7 +335,11 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
-Though indie labels do care about the bottom line, it isn't to *make* money; it's merely to ensure they're not *losing* any. Almost every one of them started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
+${'  ' || `
+// TODO: Review.
+`}
+
+To be alternative is an artistic choice; and indie, a business stance. Which is why, until the '90s, there was no need to call *artists* "indie"— only *labels*. And that stance? It says, "We're *not* here for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
@@ -547,9 +551,9 @@ Why is progressivism so badly beaten in both culture and politics today? It's be
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get taken down as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one ever passes.
 
-No wonder, then, that so many anti-elitist progressives are one advantage away from becoming libertarians themselves! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, I now face less resistance when I argue that indie rock— which they started— sits on the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
+No wonder, then, that many anti-elitist progressives are one advantage away from turning libertarian as well! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, it's no longer far-fetched to claim that indie rock— which started under Gen X— is a movement of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
 
-And since "larping" doesn't [build anything](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)… we progressives will need to quit larping as revolutionaries. How? For one, we must know our human nature; and for another, we must appreciate systems in all their complexity. Once we do, we'll no longer look for "bad guys" to blame, because we'll genuinely find it more interesting to study our problems and propose solutions instead.
+And since "larping" the revolution doesn't [build anything](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)… we progressives will need to stop doing so. How? For one, we must know our human nature; and for another, we must appreciate systems in all their complexity. Once we do, we'll no longer look for "bad guys" to blame, because we'll genuinely find it more interesting to study our problems and propose solutions instead.
 
 So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their stocks, flows, and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
