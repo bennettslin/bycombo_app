@@ -571,13 +571,9 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-Why must we acknowledge that indie rock sits on the cultural *right*? It's to recognize that it shares similar dynamics with the *political* right. Since both prioritize the individual, both struggle to solve collective action problems… going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by the *left*— which prioritizes the collective.
+Is it so important to call indie rock a movement of the cultural right? Only insofar as this allows us to recognize a similar dynamic with the *political* right: Since both prioritize the individual, both struggle to solve collective action problems… going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by the *left*— which prioritizes the collective.
 
 ### ${++sectionCounter}. Artists want to believe in saviors
-
-${'  ' || `
-// TODO: Review section move.
-`}
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
 
@@ -600,10 +596,6 @@ If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
-
-${'  ' || `
-// TODO: Review section move.
-`}
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
