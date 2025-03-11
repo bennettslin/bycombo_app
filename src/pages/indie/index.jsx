@@ -91,9 +91,17 @@ As with MAGA, then, indie rock's weakness for confusion ends up hurting its own.
 
 ### ${++sectionCounter}. Populism trampled the underground
 
-We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? "Of course! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground *lacked* popular appeal. To the contrary, it was a shelter both for rock's underclass— who *subverted* the people's will— and for the elitist snobs who championed their works.
+${'  ' || `
+// TODO: Review.
+`}
 
-In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000&smoothing=1) underground bands "indie," to affirm that they'd only *ever* signed to an indie label, if to any at all. Yet, unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is indie… even one with mainstream tastes!
+We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), right? "Of course! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground *lacked* popular appeal; it was a shelter both for rock's underclass— who *subverted* the people's will— and for the elitist snobs who championed their works.
+
+${'  ' || `
+// TODO: Revise. Clarify that this change happened because "alternative" became a dirty word?
+`}    
+
+In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22%2C%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) underground bands "indie," to affirm that they'd only *ever* signed to an indie label, if to any at all. Yet, unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is indie… even one with mainstream tastes!
 
 But given that *most* people belong to the mainstream, artists who share such tastes easily gain the most fans. So naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.), thus allowing its camp— who now *favored* popular appeal— to still see themselves as champions of an underdog class.
 
@@ -321,11 +329,7 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
-${'  ' || `
-// TODO: Review.
-`}
-
-"Who could've foreseen any downsides from promoting indie rock's ideals?" Um… us women and minorities, that's who! This is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception: Rappers *proudly* rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). When they boast of having hustled, it's to say, "Hey, I hustled *too*!" They want self-reliance to count for *nothing*.
+"Who could've foreseen any downside from promoting indie rock's ideals?" Um… us women and minorities, that's who! This is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception: Rappers *proudly* rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). When they boast of having hustled, it's to say, "Hey, I hustled *too*!" They want self-reliance to count for *nothing*.
 
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of effectively being just another foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
@@ -339,7 +343,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To be alternative is an artistic choice; and indie, a business stance. Which is why, until the '90s, there was no need to call *artists* "indie"— only *labels*. And that stance? It says, "We're *not* here for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
+While "alternative" describes an artistic choice, "indie" describes a business stance. Until the '90s, then, *artists* weren't indie, only *labels*. And that stance? It says, "We're *not* here for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
@@ -412,10 +416,6 @@ Except… it turns out, this *too* is a hidden advantage that's largely theirs a
 But while White men *easily* benefit from their identities without admitting to it— by presenting a [timeless backstory](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,Forever%20Ago.), for example— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of *culture*, it's *I* who sit on the left— and *they*, the right!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To gain from one's individual identity, then, is a *right*-wing ideal— as are all of indie rock's other ideals, along with most ideals favored by the privileged. It's the cultural *right* that's been ascendant this whole time! But now you can join the cultural *left*, and help BYCombo promote the one ideal favored most by the disadvantaged: to benefit from our collective *inter*-dependence.
 
@@ -544,7 +544,7 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 ### ${++sectionCounter}. Solutions come from systems thinking
 
 ${'  ' || `
-// TODO: Review whole section a few more times.
+// TODO: Review whole section. Also links.
 `}
 
 Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us all to take down the "system" and its elites— but this only works out for libertarians, who aren't looking to replace it with any other; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we want.
@@ -553,7 +553,7 @@ So the anti-elitists among us topple the system by joining with libertarians… 
 
 No wonder, then, that many anti-elitist progressives are one advantage away from turning libertarian as well! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, it's no longer far-fetched to claim that indie rock— which started under Gen X— is a movement of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
 
-And since "larping" the revolution doesn't [build anything](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.)… we progressives will need to stop doing so. How? For one, we must know our human nature; and for another, we must appreciate systems in all their complexity. Once we do, we'll no longer look for "bad guys" to blame, because we'll genuinely find it more interesting to study our problems and propose solutions instead.
+And since "larping" doesn't build anything… we progressives will need to stop [larping the revolution](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.). How? For one, we must know our human nature; and for another, we must appreciate systems in all their complexity. Once we do, we'll no longer look for "bad guys" to blame, because we'll truly find it more interesting to study our problems and work out solutions instead.
 
 So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their stocks, flows, and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
