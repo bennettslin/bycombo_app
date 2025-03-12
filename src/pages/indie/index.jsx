@@ -17,7 +17,11 @@ By the '90s, the major labels were the clear "bad guys": They'd simply sign a hu
 
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an Xennial, I've spent half my life arguing that indie rock's fair practices have made music *worse*— to no avail; Millennials refused to listen. The way they saw it: "Thanks to the Internet, it's easier than ever to build a fanbase on your own. And the better your works, the farther you'll go. So if you hate it… what does that say about your works?"
 
-Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana or Radiohead of their own. So let the interdependence revolution begin!
+${'  ' || `
+// TODO: Review.
+`}
+
+Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
 
 First, we raise *awareness*. Since "indie" means "good" to so many, few see the adverse effects of what I call "indiefication"— namely, our drive to propagate indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement… and so forth.
 
@@ -83,7 +87,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the '90s, "indie" referred to bands like Pavement, who'd only ever signed to an indie label. This made Nirvana and Radiohead alternative, not indie, since they were on *major* labels— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie… so now we're all waiting for the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get confused?
+In the '90s, "indie" referred to bands like Pavement, who'd only ever signed to an indie label. Since Nirvana and Radiohead were on *major* labels, this made them alternative, not indie— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie… so now we're all waiting for the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by grievance— and so it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
 
@@ -101,17 +105,15 @@ ${'  ' || `
 // TODO: Review.
 `}    
 
-In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed thus became "indie." Yet if being indie just means *not* signing to a major… well then, it *can* be for everyone! So once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is considered indie!
+In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed thus became "indie." Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *any* artist who hustles to build a fanbase is considered indie…
 
 ${'  ' || `
-// TODO: Revise. Put sentences in order so that we recall that indie tastemakers respect artists who don't need a label, as measured by the size of their fanbase, but artists with mainstream tastes easily gain the most fans? Although I already said a lot in last sentence in second sentence. Revisit when I'm fully refreshed tomorrow… Don't need to keep "popular appeal," though.
-Once artists with mainstream tastes are eligible to be indie, then they'll always win.
-    But given that *most* people belong to the mainstream, artists who share such tastes easily gain the most fans. So naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.), thus allowing its camp— who now *favored* popular appeal— to still see themselves as champions of an underdog class.
+// TODO: Review.
 `}
 
-Except… since most people belong to the mainstream, any artist who caters to their tastes will gain the most fans— and consequently, end up getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.), thus allowing its camp— who now *favored* popular appeal— to still see themselves as champions of an underdog class.
+And this includes those with mainstream tastes. But since most people are in the mainstream, such artists easily gain the most fans. Which means *they* get picked by the indie tastemakers! In the '00s, then, the indie camp recast themselves [as populists](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.), having gone from championing the underclass— who *aren't* for everyone… to rooting for underdogs— who *can* be.
 
-So what happens now, if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the major labels? Why, you can rest assured: BYCombo is here to bring back elitism— the historical line of defense for subversive art!
+So what happens now, if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the majors? Why, you can rest assured: BYCombo is here to bring back elitism— the historical line of defense for subversive art!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -119,7 +121,11 @@ Of course, there's another reason we respect those '80s underground bands: To co
 
 But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, rather than go through the majors to spread their works from the top down, they now win the people's support from the bottom up— making the Internet our new grassroots. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
 
-So the grassroots has been successfully recast as a *populist* field; it's just no longer a *meritocratic* one— now that little but chance separates the few who make it from the countless many who don't. Still, what if *you* were hoping to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to a new generation of elites!
+${'  ' || `
+// TODO: Review.
+`}
+
+So the grassroots has been successfully recast as a *populist* field; it's just no longer a *deterministic* one— now that little but chance separates the few who make it from the countless many who don't. But what if *you're* determined to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to a new generation of elites!
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
