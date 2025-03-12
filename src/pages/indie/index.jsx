@@ -231,7 +231,11 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the "corpor
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
-### ${++sectionCounter}. Lean operations fail to adapt
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Harried operations fail to adapt
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is actually their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and reflect, they simply follow the instincts handed down by their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=According%20to%20Dr,they%20flew%20level.) by starlight.
 
@@ -323,11 +327,11 @@ Specifically mention legacy institutions.
 Third paragraph, say many of them, rather than imply all of them.
 `}
 
-Social welfare is straightforward, right? The government gives each one of us a chance; those who succeed then pay more in taxes, subsidizing the same opportunities for the next generation. But welfare in the arts is a bit trickier, since— as we've seen— any attempt by the government to support artists will end up hurting the ones most likely to make history.
+Social welfare is straightforward, right? The government gives everyone a chance; those of us who succeed then pay more in taxes, subsidizing the same opportunities for the next generation. But welfare in the arts is a bit trickier, since— as we've seen— any attempt by the government to support artists will end up hurting the ones most likely to make history.
 
 To promote artistic welfare, then, some *other* centralized institution must first cast a wide net, then take from the earnings of the few who succeed to subsidize the same opportunities for the next generation of artists. Which isn't hard to imagine; we've just described the major labels in their heyday— who did so simply because it's the smartest move when driven by a profit motive.
 
-Yet welfare is fragile: Rather than be grateful to be given a chance at all, the unsuccessful resent not getting more support… while the successful assume they would've done just fine on their own, and thus resent paying it forward. So libertarians— including indie rock's cultural kind— find it easy to turn us all against welfare, denying its benefits to future generations.
+Yet welfare is fragile: Rather than be grateful to be given a chance at all, the unsuccessful resent not getting more support… while the successful assume they would've done just fine on their own, and thus resent paying it forward. So libertarians— in both culture and politics— find it easy to pit us all against welfare, denying its benefits to future generations.
 
 But others [*don't* mind](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=%E2%80%9CSo%20thank%20you,on%20your%20part.%E2%80%9D) paying it forward: "If we have to pay more, it means we succeeded more!" And isn't this a better way of thinking… for *you*? Which is why BYCombo asks you to remember your current precarity as a nobody: This culturally progressive movement we're building is fragile, and even once we lift you above it, hopefully you'll never stop appreciating this.
 
@@ -583,7 +587,7 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-Must we agree that indie rock sits on the cultural *right*? No, as long as we see that it shares a common trait with the *political* right: Since both prioritize the individual, both struggle to solve collective action problems… even going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by the *left*— which prioritizes the collective.
+Must we agree that indie rock sits on the cultural *right*? No, we just need to see that it shares a common trait with the *political* right: Since both prioritize the individual, both struggle to solve collective action problems… even going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by the *left*— which prioritizes the collective.
 
 ### ${++sectionCounter}. Artists want to believe in saviors
 
