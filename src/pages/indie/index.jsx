@@ -81,18 +81,13 @@ Here's an incomplete list of ways…
 
 ${'  ' || `
 // TODO: Review.
-    In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To Millennials, however, they *sound* indie— so they might as *well* be. But… this isn't a trivial mix-up! We're now looking for the *next* Nirvana and Radiohead in all the wrong places. How did we get confused?
 `}
 
-In the '90s, "indie" referred to bands like Pavement, who'd only ever signed to an indie label. Since Nirvana and Radiohead were on *major* labels, this made them alternative, not indie— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie. So now… we're all waiting for the *indies* to give us the next Nirvana or Radiohead?! How did we get confused?
+In the '90s, "indie" referred to bands like Pavement, who'd only ever signed to an indie label. This made Nirvana and Radiohead alternative, not indie, since they were on *major* labels— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie… so now we're all waiting for the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by grievance— and so it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 In every early example of online success, chance or privilege played a clear role. Yet the indie pundits were so eager to spurn the majors, they chose to downplay this point. Well, it worked— the Internet came to be seen as the great equalizer. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
 
@@ -100,19 +95,13 @@ As with MAGA, then, indie rock's weakness for confusion ends up hurting its own.
 
 ### ${++sectionCounter}. Populism trampled the underground
 
-${'  ' || `
-// TODO: Review.
-    We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? "Of course! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground *lacked* popular appeal. To the contrary, it was a shelter both for rock's underclass— who *subverted* the people's will— and for the elitist snobs who championed their works.
-`}
-
 We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), right? "Yes! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground was a shelter both for rock's underclass— who *subverted* the people's will— and for the elitist snobs who championed their works. It *wasn't* for everyone.
 
 ${'  ' || `
-// TODO: Review, and review link.
-    In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000&smoothing=1) underground bands "indie," to affirm that they'd only *ever* signed to an indie label, if to any at all. Yet, unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is indie… even one with mainstream tastes!
+// TODO: Review.
 `}    
 
-In the '90s, though, as bands began to leave for the major labels, "alternative" came to mean selling out; those who stayed thus became "indie." Yet if being indie just means *not* signing to a major… well then, it *can* be for everyone! So once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is considered indie!
+In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed thus became "indie." Yet if being indie just means *not* signing to a major… well then, it *can* be for everyone! So once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is considered indie!
 
 ${'  ' || `
 // TODO: Revise. Put sentences in order so that we recall that indie tastemakers respect artists who don't need a label, as measured by the size of their fanbase, but artists with mainstream tastes easily gain the most fans? Although I already said a lot in last sentence in second sentence. Revisit when I'm fully refreshed tomorrow… Don't need to keep "popular appeal," though.
@@ -357,10 +346,10 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
 ${'  ' || `
-// TODO: Review, and review link.
+// TODO: Review.
 `}
 
-The word "alternative" describes an artistic choice; and "indie," a business stance. Until the '90s, then, [*artists* weren't indie](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22%2C%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000&smoothing=1), only *labels* were. And that stance? It says, "We don't do this for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
+The word "alternative" describes an *artistic* choice; and "indie," a *business* stance. Until the '90s, then, [*artists* weren't indie](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22%2C%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000), only *labels* were. And that stance? It says, "We don't do this for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
@@ -561,14 +550,18 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 ### ${++sectionCounter}. Solutions come from systems thinking
 
 ${'  ' || `
-// TODO: Review whole section. Also links.
+// TODO: Review.
 `}
 
-Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us all to take down the "system" and its elites— but this only works out for libertarians, who aren't looking to replace it with any other; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we want.
+Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us all to take down the "system" and its elites— but this only works out for libertarians, who aren't looking to replace the system with any other; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we want.
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get taken down as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
 No wonder, then, that many anti-elitist progressives are one advantage away from turning libertarian as well! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, it's no longer far-fetched to claim that indie rock— which started under Gen X— is a movement of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
+
+${'  ' || `
+// TODO: Review.
+`}
 
 Which means we progressives will need to quit "larping" the revolution, and actually [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.). But how? Beyond just knowing our human nature, we must also appreciate systems in all their complexity. Once we do, we'll stop looking for "bad guys" to blame, because it will truly interest us more to study our problems and work out solutions instead.
 
@@ -580,7 +573,7 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-Must we insist that indie rock sits on the cultural *right*? No, as long as we see that it shares a common trait with the *political* right: Since both prioritize the individual, both struggle to solve collective action problems… even going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by the *left*— which prioritizes the collective.
+Must we agree that indie rock sits on the cultural *right*? No, as long as we see that it shares a common trait with the *political* right: Since both prioritize the individual, both struggle to solve collective action problems… even going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by the *left*— which prioritizes the collective.
 
 ### ${++sectionCounter}. Artists want to believe in saviors
 
