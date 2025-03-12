@@ -84,7 +84,7 @@ ${'  ' || `
     In the '90s, "indie" referred to bands like Pavement, who'd *never* signed to a major label. As Gen X knows, then, Nirvana and Radiohead were *alternative*, not indie. To Millennials, however, they *sound* indie— so they might as *well* be. But… this isn't a trivial mix-up! We're now looking for the *next* Nirvana and Radiohead in all the wrong places. How did we get confused?
 `}
 
-In the '90s, "indie" referred to bands like Pavement, who'd only ever signed to an indie label. Since Nirvana and Radiohead were on *major* labels, this made them alternative, not indie— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie. So now… we're all waiting for the *indies* to give us the next Nirvana or Radiohead! How did we get confused?
+In the '90s, "indie" referred to bands like Pavement, who'd only ever signed to an indie label. Since Nirvana and Radiohead were on *major* labels, this made them alternative, not indie— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie. So now… we're all waiting for the *indies* to give us the next Nirvana or Radiohead?! How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by grievance— and so it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
 
@@ -105,22 +105,22 @@ ${'  ' || `
     We all respect those '80s [underground bands](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), don't we? "Of course! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground *lacked* popular appeal. To the contrary, it was a shelter both for rock's underclass— who *subverted* the people's will— and for the elitist snobs who championed their works.
 `}
 
-We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), right? "Yes! They were chosen by the people, *not* by the elites." Well, actually… this is just more Millennial confusion. Back then, the underground was a shelter both for rock's underclass— who *subverted* the people's will— and for the elitist snobs who championed their works; it *lacked* popular appeal.
+We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), right? "Yes! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground was a shelter both for rock's underclass— who *subverted* the people's will— and for the elitist snobs who championed their works. It *wasn't* for everyone.
 
 ${'  ' || `
 // TODO: Review, and review link.
     In the '90s, though, we [began calling](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000&smoothing=1) underground bands "indie," to affirm that they'd only *ever* signed to an indie label, if to any at all. Yet, unlike being underground, being indie *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is indie… even one with mainstream tastes!
-
 `}    
 
-But in the '90s, many such bands left for the major labels; with "alternative" thus sullied, those who stayed became "indie." Yet if being indie just means *not* signing to a major, then it *can* be a universal ideal— so once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is indie… even a mainstream one!
+In the '90s, though, as bands began to leave for the major labels, "alternative" came to mean selling out; those who stayed thus became "indie." Yet if being indie just means *not* signing to a major… well then, it *can* be for everyone! So once the Internet made this possible, the indie camp declared that it *should* be. Now *any* artist who hustles to build a fanbase is considered indie!
 
 ${'  ' || `
-// TODO: Revise.
+// TODO: Revise. Put sentences in order so that we recall that indie tastemakers respect artists who don't need a label, as measured by the size of their fanbase, but artists with mainstream tastes easily gain the most fans? Although I already said a lot in last sentence in second sentence. Revisit when I'm fully refreshed tomorrow… Don't need to keep "popular appeal," though.
+Once artists with mainstream tastes are eligible to be indie, then they'll always win.
     But given that *most* people belong to the mainstream, artists who share such tastes easily gain the most fans. So naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.), thus allowing its camp— who now *favored* popular appeal— to still see themselves as champions of an underdog class.
 `}
 
-And yet, since *most* people belong to the mainstream, such artists easily gain the most fans; so naturally, they're the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.), thus allowing its camp— who now *favored* popular appeal— to still see themselves as champions of an underdog class.
+Except… since most people belong to the mainstream, any artist who caters to their tastes will gain the most fans— and consequently, end up getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.), thus allowing its camp— who now *favored* popular appeal— to still see themselves as champions of an underdog class.
 
 So what happens now, if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the major labels? Why, you can rest assured: BYCombo is here to bring back elitism— the historical line of defense for subversive art!
 
@@ -568,7 +568,7 @@ Why is progressivism so badly beaten in both culture and politics today? It's be
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get taken down as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
-No wonder, then, that many anti-elitist progressives are one advantage away from turning libertarian as well! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, it's no longer far-fetched to claim that indie rock— which started under Gen X— sits on the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
+No wonder, then, that many anti-elitist progressives are one advantage away from turning libertarian as well! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, it's no longer far-fetched to claim that indie rock— which started under Gen X— is a movement of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
 
 Which means we progressives will need to quit "larping" the revolution, and actually [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.). But how? Beyond just knowing our human nature, we must also appreciate systems in all their complexity. Once we do, we'll stop looking for "bad guys" to blame, because it will truly interest us more to study our problems and work out solutions instead.
 
@@ -580,7 +580,7 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-Must we insist that indie rock sits on the cultural *right*? No, as long as we can see that it shares a similar dynamic with the *political* right: Both prioritize the individual, and thus both struggle to solve collective action problems… going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by the *left*— which prioritizes the collective.
+Must we insist that indie rock sits on the cultural *right*? No, as long as we see that it shares a common trait with the *political* right: Since both prioritize the individual, both struggle to solve collective action problems… even going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by the *left*— which prioritizes the collective.
 
 ### ${++sectionCounter}. Artists want to believe in saviors
 
