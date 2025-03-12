@@ -360,7 +360,7 @@ ${'  ' || `
 // TODO: Review, and review link.
 `}
 
-While "alternative" describes an artistic choice, "indie" describes a business stance. Until the '90s, then, only *labels* were called indie, [not *artists*](https://books.google.com/ngrams/graph?content=%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000&smoothing=1). And that stance? It's to say, "We don't do this for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
+The word "alternative" describes an artistic choice; and "indie," a business stance. Until the '90s, then, [*artists* weren't indie](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22%2C%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000&smoothing=1), only *labels* were. And that stance? It says, "We don't do this for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
@@ -580,7 +580,7 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-Is it so important to call indie rock a movement of the cultural right? Only insofar as this allows us to recognize a similar dynamic with the *political* right: Since both prioritize the individual, both struggle to solve collective action problems… going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by the *left*— which prioritizes the collective.
+Must we insist on claiming that indie rock sits on the cultural *right*? No, we just need to see that it shares a similar dynamic with the *political* right: Both prioritize the individual, and thus both struggle to solve collective action problems… going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by the *left*— which prioritizes the collective.
 
 ### ${++sectionCounter}. Artists want to believe in saviors
 
