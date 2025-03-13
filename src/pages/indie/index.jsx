@@ -316,24 +316,16 @@ But why would the next generation side with past tastemakers who *didn't* care w
 ### ${++sectionCounter}. Welfare gets cut by past beneficiaries
 
 ${'  ' || `
-// TODO: Keep working on.
-
-Between hustlers and paid dues, for theme of not caring about the future, followed by theme of widening vicious circle. After democratization, for mention of indieocracy. But before elitism, for mention of legacy institutions.
-
-Talk about it as an investment.
-
-Specifically mention legacy institutions.
-
-Third paragraph, say many of them, rather than imply all of them.
+// TODO: Review section a few more times.
 `}
 
-Social welfare is straightforward, right? The government gives everyone a chance; those of us who succeed then pay more in taxes, subsidizing the same opportunities for the next generation. But welfare in the arts is a bit trickier, since— as we've seen— any attempt by the government to support artists will end up hurting the ones most likely to make history.
+Social welfare is straightforward, right? The government gives everyone a chance to succeed; those who do so then pay more in taxes, subsidizing the same opportunities for the next generation. But welfare in the arts is a bit trickier, since— as we've seen— any attempt by the government to support artists will end up hurting the ones most likely to make history.
 
-To promote artistic welfare, then, some *other* centralized institution must first cast a wide net, then take from the earnings of the few who succeed to subsidize the same opportunities for the next generation of artists. Which isn't hard to imagine; we've just described the major labels in their heyday— who did so simply because it's the smartest move when driven by a profit motive.
+To promote artistic welfare, then, some *other* centralized institution must cast a wide net, then take from the earnings of a successful few to subsidize the same opportunities for the next generation of artists. Well, happily, this just happens to be the smartest move *business*-wise! And as such, it's how the major labels operated in their heyday.
 
-Yet welfare is fragile: Rather than be grateful to be given a chance at all, the unsuccessful resent not getting more support… while the successful assume they would've done just fine on their own, and thus resent paying it forward. So libertarians— in both culture and politics— find it easy to pit us all against welfare, denying its benefits to future generations.
+But welfare is fragile: The unsuccessful often resent not being given more support, rather than be grateful to get a chance at all… while the successful tend to assume they would've done just fine on their own, and thus resent having to "pay it forward." So both find it easy to pit us all against welfare, denying its benefits to future generations.
 
-But others [*don't* mind](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=%E2%80%9CSo%20thank%20you,on%20your%20part.%E2%80%9D) paying it forward: "If we have to pay more, it means we succeeded more!" And isn't this a better way of thinking… for *you*? Which is why BYCombo asks you to remember your current precarity as a nobody: This culturally progressive movement we're building is fragile, and even once we lift you above it, hopefully you'll never stop appreciating this.
+Yet others [*don't* mind](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=%E2%80%9CSo%20thank%20you,on%20your%20part.%E2%80%9D) paying it forward: "We pay more since we succeeded more!" It's a noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that would subsidize your chances— as long as you'd do the same for others— BYCombo helps you find partners who believe in welfare… even if they're driven solely by a profit motive.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
@@ -587,7 +579,7 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-Must we agree that indie rock sits on the cultural *right*? No, we just need to see that it shares a common trait with the *political* right: Since both prioritize the individual, both struggle to solve collective action problems… even going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by the *left*— which prioritizes the collective.
+Must we agree that indie rock sits on the cultural *right*? No, as long as we see that it shares a common trait with the *political* right: Since both prioritize the individual, both struggle to solve collective action problems… even going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by the *left*— which prioritizes the collective.
 
 ### ${++sectionCounter}. Artists want to believe in saviors
 
