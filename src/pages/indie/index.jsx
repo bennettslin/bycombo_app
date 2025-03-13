@@ -79,11 +79,7 @@ Here's an incomplete list of ways…
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
-${'  ' || `
-// TODO: Review.
-`}
-
-In the '90s, "indie" referred to bands like Pavement, who'd only ever signed to an indie label. Since Nirvana and Radiohead were on *major* labels, this made them alternative, not indie— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie… so now we're all waiting for the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get confused?
+In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed to an indie label. Since Nirvana and Radiohead were on *major* labels, this made them alternative, not indie— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie… so now we're all waiting for the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by grievance— and so it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
 
@@ -95,17 +91,13 @@ As with MAGA, then, indie rock's weakness for confusion ends up hurting its own.
 
 ### ${++sectionCounter}. Populism trampled the underground
 
-${'  ' || `
-// TODO: Review.
-`}
-
 We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), right? "Yes! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground was a shelter both for rock's underclass— who *subverted* the people's will— and for the elitist snobs who championed their works; it *wasn't* for everyone.
 
 ${'  ' || `
-// TODO: Review.
-`}    
+// TODO: Review link.
+`}
 
-In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed thus became "indie." Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *any* artist who hustles to build a fanbase is considered indie…
+In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22%2C%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000) "indie." Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *any* artist who hustles to build a fanbase is considered indie…
 
 ${'  ' || `
 // TODO: Review.
@@ -120,10 +112,6 @@ So what happens now, if *your* respect for the underground always had to do with
 Of course, there's another reason we respect those '80s underground bands: To come up from their local scenes— also known as the grassroots— they put in the work each day for untold years. In other words, they ensured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at public exposure… and then "won the lottery," so to speak.
 
 But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, rather than go through the majors to spread their works from the top down, they now win the people's support from the bottom up— making the Internet our new grassroots. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So the grassroots has been successfully recast as a *populist* field; it's just no longer a *deterministic* one— now that little but chance separates the few who make it from the countless many who don't. But what if *you're* determined to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to a new generation of elites!
 
@@ -227,21 +215,17 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the "corpor
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
-### ${++sectionCounter}. Optimal instincts fail to adapt
-
-${'  ' || `
-// TODO: Review.
-`}
+### ${++sectionCounter}. Optimized instincts fail to adapt
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is actually their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and reflect, they simply follow the instincts that worked well for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=According%20to%20Dr,they%20flew%20level.) by starlight.
 
 Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. It's precisely *because* word of mouth only traveled through the local scenes, for example, that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
-But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
+${'  ' || `
+// TODO: Review.
+`}
+
+But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who now do so might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
 So yes, middlemen might seem redundant— but redundancy is what keeps a system resilient, and thus [able to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Unfortunately, even the major labels are on a tight budget now, leading them to behave more like the indies. This is why BYCombo tells you to split your earnings generously: How else will you find partners who *aren't* too harried to change with the times?
 
@@ -351,11 +335,7 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
-${'  ' || `
-// TODO: Review.
-`}
-
-The word "alternative" describes an *artistic* choice; and "indie," a *business* stance. Until the '90s, then, [*artists* weren't indie](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22%2C%22+indie+rock+%22%2C%22+underground+rock+%22&year_start=1980&year_end=2000), only *labels* were. And that stance? It says, "We don't do this for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
+The word "alternative" describes an *artistic* choice; and "indie," a *business* stance. Until the '90s, then, *artists* weren't indie, only *labels* were. And that stance? It says, "We don't do this for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
@@ -555,10 +535,6 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 
 ### ${++sectionCounter}. Solutions come from systems thinking
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us all to take down the "system" and its elites— but this only works out for libertarians, who aren't looking to replace the system with any other; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we want.
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get taken down as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
@@ -570,10 +546,6 @@ ${'  ' || `
 `}
 
 Which means we progressives will need to quit "larping" the revolution, and actually [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.). But how? Beyond just knowing our human nature, we must also appreciate systems in all their complexity. Once we do, we'll stop looking for "bad guys" to blame, because we'll genuinely find it more exciting to study our problems and work out solutions instead.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
