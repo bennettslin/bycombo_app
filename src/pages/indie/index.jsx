@@ -571,7 +571,11 @@ ${'  ' || `
 
 Which means we progressives will need to quit "larping" the revolution, and actually [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.). But how? Beyond just knowing our human nature, we must also appreciate systems in all their complexity. Once we do, we'll stop looking for "bad guys" to blame, because we'll genuinely find it more exciting to study our problems and work out solutions instead.
 
-So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their stocks, flows, and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
+${'  ' || `
+// TODO: Review.
+`}
+
+So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
 ### ${++sectionCounter}. Collectivists and evangelists shall unite
 
