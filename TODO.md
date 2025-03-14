@@ -22,9 +22,6 @@
     * Change interactivated verse?
 
 * BYC
-    * Highlight Paul Graham essays
-        * Consider sitcom essay (maybe not)
-            * https://paulgraham.com/startupideas.html
     * Radio was a musical proving ground
         * If you had taste in the '90s, every band you liked was one of three types: those like Nirvana, who were loved by both critics *and* musicians; those like Pavement, who were adored by *critics* but ignored by musicians; and those like Stone Temple Pilots, who were hated by critics but [admired by *musicians*](https://youtu.be/aVfU0wljJbA).
         * Combination of radio-friendly and musician-respected
