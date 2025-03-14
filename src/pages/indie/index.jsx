@@ -299,13 +299,13 @@ ${'  ' || `
 // TODO: Review section a few more times.
 `}
 
-Social welfare is straightforward, right? After allowing all of us a fair chance, the government taxes each of us at a rate proportional to our success, which then subsidizes the same opportunities for the next generation. But welfare in the arts is tricky, since— as we've seen— any attempt by the government to support artists will *hurt* the ones most likely to make history.
+Social welfare is straightforward, right? After giving us all a fair chance, the government taxes each of us at a rate proportionate to our success, which then subsidizes the same opportunities for the next generation. But artistic welfare is tricky, since— as we've seen— any attempt by the government to support artists will *hurt* the ones most likely to make history.
 
-What does artistic welfare look like, then? Basically, a centralized institution must first cast a wide net, then take from the earnings of a successful few, to subsidize the same opportunities for the next generation of artists. But… this is how the major labels worked in their heyday! It's simply the smart bet for *any* business. So welfare in the arts… is driven by a profit motive!
+So what should *artistic* welfare look like? Basically, a centralized institution must first cast a wide net, then take from the earnings of a successful few, to subsidize the same opportunities for the next generation of artists. But… this is how the major labels worked in their heyday, no? Promoting welfare, then, is simply the *smart* move— for any business in the arts with a profit motive!
 
-Unfortunately, *all* welfare is fragile: Rather than be grateful to get a chance at all, the unsuccessful tend to resent not being given more support… while the successful often assume they would've done just fine on their own, and thus resent having to "pay it forward." So libertarians— including the cultural kind— find it easy to turn us all against welfare.
+Unfortunately, *all* welfare is fragile: Rather than be grateful to get a chance at all, the unsuccessful tend to resent not being given *more* support… while the successful often assume they would've done just fine on their own, and thus resent "paying it forward." So libertarians— including the cultural kind found in indie rock— have no trouble turning the people against welfare.
 
-Yet others [*don't* mind](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=%E2%80%9CSo%20thank%20you,on%20your%20part.%E2%80%9D) paying it forward: "Paying more means we succeeded more!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances, in exchange for you doing the same for others, BYCombo helps you find partners who believe in welfare… even if they're driven by a profit motive.
+Yet [others *happily*](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=%E2%80%9CSo%20thank%20you,on%20your%20part.%E2%80%9D) pay it forward: "Paying more means we succeeded more!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo can help you find partners who'll make the smart move once again.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
