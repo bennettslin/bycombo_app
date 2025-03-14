@@ -37,11 +37,6 @@
             * I've long tried to find a replacement for radio
     * Collectivists and evangelists shall unite
         * Make it about partners as bandmates?
-        * So, after collaboration section?
-            * Maybe between democratization and audiences instead?
-            * Or toward the end, theme of martyrs and saviors?
-            * Or right after solutions section?
-                * To explain why it's so important to identify indie rock as a movement of the cultural right
         * First paragraph: Is it so important to identify indie rock as a culturally right-wing movement?
             * Yes, in at least one respect
             * Both the cultural and political right emphasize freedom of the individual
