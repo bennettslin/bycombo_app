@@ -22,7 +22,6 @@
     * Change interactivated verse?
 
 * BYC
-    * Whereas instead of while?
     * Highlight Paul Graham essays
         * Consider sitcom essay (maybe not)
             * https://paulgraham.com/startupideas.html
