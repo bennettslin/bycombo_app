@@ -247,6 +247,10 @@ Simply put, indie rock is widely seen as a "do-it-yourself" movement— the kind
 
 But being indie is all about gaining public exposure, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
+${'  ' || `
+// TODO: Revise. Say something other than progressive.
+`}
+
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the business world's "indie camp" goes on strike against a progressive regime by *refusing* to help society advance.
 
 To protest against indie rock, then, the music world's "progressives" can do the opposite, and *readily* advance the art form… even if this hurts their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the culturally progressive opposition that shares your love of the craft.
