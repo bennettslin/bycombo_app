@@ -95,10 +95,6 @@ We all respect those alternative bands of the ['80s underground](https://www.hac
 
 In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22,%22+indie+rock+%22,%22+underground+rock+%22&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But… this includes artists with mainstream tastes— who easily gain the most fans. Which means *they're* the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.), as its camp went from championing the underclass— who *aren't* for everyone… to rooting for underdogs— who *can* be.
 
 So what happens now, if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the majors? Why, you can rest assured: BYCombo is here to bring back elitism— the historical line of defense for subversive art!
@@ -140,10 +136,6 @@ So I've long understood that, to belong in the canon next to the Beatles, my ban
 Yet this same camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! And so they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
 Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
-
-${'  ' || `
-// TODO: Review title.
-`}
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
@@ -190,10 +182,6 @@ It's obvious, then, why music was better before indie rock took over: The *only*
 Are you unconvinced that music is now worse? Then ask this about any of the latest artists: Whatever their best work might be, could they *guarantee* us another one just as good? I suspect we'll agree: The answer is yes. That is to say, even the best works today simply *match* the talents of those who make them; they're what I call "workhorse art."
 
 By contrast, could Dolly Parton *reliably* compose one "[Jolene](https://youtu.be/Ixrje2rXLMA)" after another? Or [Stephen Sondheim](https://bobtailyearlings.com/docs/Sondheim_paper.pdf), "[Someone in a Tree](https://youtu.be/JpoKuNyVNhQ)"? It's doubtful. These are what I call "windfall art"— namely, works that are even *better* than those who make them. In fact, some of them seem to surpass what's humanly possible at *all*— and for this reason, they're the kind that fellow artists envy most.
-
-${'  ' || `
-// TODO: Review link.
-`}
 
 Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your [thoughts drift](https://paulgraham.com/top.html#:~:text=I%20suspect%20a,to%20change%20something.) in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
@@ -251,10 +239,6 @@ Simply put, indie rock is widely seen as a "do-it-yourself" movement— the kind
 
 But being indie is all about gaining public exposure, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
-${'  ' || `
-// TODO: Review next two paragraphs.
-`}
-
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the business world's "indie camp" goes on strike against nationalization by *refusing* to help society advance.
 
 To protest against "indiefication," then, interdependent bands can do the opposite, and *readily* advance the art form… knowing this might hurt their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's just no other path. There is one *now*, with BYCombo— the culturally progressive opposition that shares your love of the craft.
@@ -308,10 +292,10 @@ But why would the next generation side with past tastemakers who *didn't* care w
 ### ${++sectionCounter}. Welfare gets cut by past beneficiaries
 
 ${'  ' || `
-// TODO: Review section.
+// TODO: Review.
 `}
 
-Social welfare is straightforward, right? After giving us all a fair chance, the government taxes each of us at a rate proportionate to our success, which then subsidizes the same opportunities for the next generation. But welfare in the arts is tricky, since— as we've seen— any attempt by the government to support artists will only end up *hurting* our history makers.
+Social welfare is straightforward, right? After giving us all a fair chance, the government taxes each of us at a rate proportionate to our success… which then subsidizes the same opportunities for the next generation. But welfare in the arts is tricky, since— as we've seen— any attempt by the government to support artists *won't* give our history makers a fair chance.
 
 So what *should* artistic welfare look like? Basically, a centralized institution must first cast a wide net, then take from the earnings of a successful few, to subsidize the same opportunities for the next generation of artists. But… this is how the major labels worked in their heyday, no? Promoting welfare in the arts, then, is simply the *smart* move— for any business with a profit motive!
 
@@ -467,10 +451,6 @@ So yes, the arts have declined— but it *isn't* because the tech platforms list
 
 In indie rock, a fanbase is built from the bottom up, one fan at a time. So I was often asked, "How do you expect *Yearling's Bobtail* to gain a *million* fans, when no one wants to be its *first*?" "Well, it's my *Ulysses*," I'd reply. "Surely an unknown James Joyce would've faced the same dilemma?" I just didn't have a better answer… until my years as a coder exposed me to startup culture.
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 Within the past few decades, we've come to learn that startups are uniquely positioned to innovate because of [how they grow](https://paulgraham.com/growth.html#:~:text=That%20difference%20is,from%20the%20beginning.): Unlike a retail store, which can't scale into a chain if it's unprofitable, a startup with few users might lose money on each user— yet *still* hope to turn a profit upon gaining millions of them! How? Through network effects and economies of scale.
 
 Well, this *also* explains how an artist like me— who can't even gain *one* fan— might still hope to gain a *million*! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will parse them only if others have done the same: network effects! And when your parts are [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), new bandmates won't commit to fully learning them until an audience is guaranteed: economies of scale!
@@ -491,7 +471,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But all is assumed to be well, since today's artists *do* resemble the innovative artists of yesteryear… while we're never shown what *real* innovation in our times should entail. Still, what if *you're* here to truly innovate— not just to "larp," or role-play, the *idea* of doing so? Then keep on dreaming like a child, and let BYCombo help you find the perfect partner: a striver!
+But all is assumed to be well, since today's artists *do* resemble the innovative artists of yesteryear… while we're never shown what *actual* innovation in our times should entail. Still, what if *you're* here to truly innovate— not just to "larp," or role-play, the *idea* of doing so? Then keep on dreaming like a child, and let BYCombo help you find the perfect partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
@@ -602,10 +582,10 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally understood to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
 ${'  ' || `
-// TODO: Review next two paragraphs.
+// TODO: Review.
 `}
 
-So let's ditch old assumptions, and think in systems: "Indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since someone else can now redirect *10%* of their effort… then *15%*… *20%*…
+So let's ditch old assumptions, and think in systems: "Indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since anyone can now redirect *10%* of their effort… then *15%*… *20%*…
 
 With this being the case, shouldn't we expect indiefication to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
