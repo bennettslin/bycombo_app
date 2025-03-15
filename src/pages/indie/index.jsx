@@ -569,7 +569,13 @@ Why is progressivism so badly beaten in both culture and politics today? It's be
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get taken down as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
-No wonder, then, that many anti-elitist progressives are one advantage away from turning libertarian as well! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, it's no longer far-fetched to claim that indie rock— which started under them— is a movement of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
+${'  ' || `
+// TODO: Review.
+
+No wonder, then, that many anti-elitist progressives are one advantage away from turning libertarian as well! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, it's no longer far-fetched to claim that indie rock— which started under them— is a movement of the *cultural* right.
+`}
+
+But there's good news: With some stalwarts of anti-elitist progressivism in the '00s and '10s now turning to the political *right*, it's no longer far-fetched to claim that anti-elitism *itself*— regardless of politics— is a stance of the *cultural* right. The *right* is the side that's best served by toppling the system; the *left* is better off building it back from within!
 
 ${'  ' || `
 // TODO: Revise. Could be better.
@@ -585,6 +591,8 @@ ${'  ' || `
 // TODO: Keep working on.
 
 * In this section or the next, point out that Gen X allowed indie rock to coexist as a counterculture to alternative in the '90s, but Millennials refused to allow interdependence to coexist with indie rock in the '00s
+
+* Link to Noah Smith essay on how cultures get softer?
 `}
 
 Do you dispute that indie rock sits on the cultural *right*? No worries! Let's just agree on its main similarity with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by those who prioritize the *collective*— the left, in my view.
