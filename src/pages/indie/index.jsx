@@ -219,6 +219,10 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the "corpor
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
+${'  ' || `
+// TODO: Revise. Consider revising title yet again?
+`}
+
 ### ${++sectionCounter}. Optimized instincts fail to adapt
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is actually their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and reflect, they simply follow the instincts that worked well for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
@@ -409,7 +413,7 @@ Let's be fair: In wanting to be judged on the self-reliance that comes easily to
 
 Except… it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly White and male. Suffering a [crisis of conscience](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html), the indie camp solved this problem in the only way they knew how: by allowing us women and minorities to be seen as underdogs as well— a solution that's come to be called "wokeness."
 
-But while White men *easily* benefit from their identities without admitting to it— by presenting a [timeless backstory](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,Forever%20Ago.), for example— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
+But while White men *easily* benefit from their identities without admitting to it— by presenting a [timeless backstory](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,write%20some%20songs), for example— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of *culture*, it's *I* who sit on the left— and *they*, the right!
 
@@ -554,7 +558,7 @@ So the anti-elitists among us topple the system by joining with libertarians… 
 No wonder, then, that many anti-elitist progressives are one advantage away from turning libertarian as well! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, it's no longer far-fetched to claim that indie rock— which started under them— is a movement of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Could be better.
 `}
 
 Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead. But how? Beyond just knowing our human nature, we must also appreciate systems in all their complexity. Because, once we do, it will genuinely excite us to study our problems and come up with solutions… and then we'll forget about looking for "bad guys" to blame.

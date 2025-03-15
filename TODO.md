@@ -23,6 +23,7 @@
 
 * BYC
     * Radio was a musical proving ground
+        * Just a single paragraph in time section?
         * If you had taste in the '90s, every band you liked was one of three types: those like Nirvana, who were loved by both critics *and* musicians; those like Pavement, who were adored by *critics* but ignored by musicians; and those like Stone Temple Pilots, who were hated by critics but [admired by *musicians*](https://youtu.be/aVfU0wljJbA).
         * Combination of radio-friendly and musician-respected
         * Indie rock's takeover of music ended bands liked by musicians but disliked by critics
@@ -30,6 +31,7 @@
         * Musicians, not critics, more likely to get what will last
         * Luckily, as someone who's always been ignored by the critics
             * I've long tried to find a replacement for radio
+    * Evangelists just a single paragraph in advances section?
     * Collectivists and evangelists shall unite
         * Make it about partners as bandmates?
         * First paragraph: Is it so important to identify indie rock as a culturally right-wing movement?
@@ -47,6 +49,7 @@
                     * While living to 
                 * Climate change and artistic climate change
         * You're defined by your impact, not your identity
+    * Consequentialists care about impact
     * Consider doing screen widths smartly
     * Consider smart quote in Wikipedia link update
     * Revise apply page
