@@ -223,7 +223,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. That is to say, it's precisely *because* word of mouth only traveled locally that the indies came to trust it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
+Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. That is to say, it's precisely *because* word of mouth only traveled locally that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
@@ -575,11 +575,7 @@ ${'  ' || `
 No wonder, then, that many anti-elitist progressives are one advantage away from turning libertarian as well! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, it's no longer far-fetched to claim that indie rock— which started under them— is a movement of the *cultural* right.
 `}
 
-But there's good news: With some stalwarts of anti-elitist progressivism in the '00s and '10s now turning to the political *right*, it's no longer far-fetched to claim that anti-elitism *itself*— regardless of politics— is a stance of the *cultural* right. The *right* is the side that's best served by toppling the system; the *left* is better off building it back from within!
-
-${'  ' || `
-// TODO: Revise. Could be better.
-`}
+But there's good news: With many stalwarts of anti-elitist progressivism now having swung to the political *right*, it's no longer far-fetched for me to claim that anti-elitism *itself*— irrespective of politics— is a stance of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
 
 Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead. But how? Beyond just knowing our human nature, we must also appreciate systems in all their complexity. Because, once we do, it will genuinely excite us to study our problems and come up with solutions… and then we'll forget about looking for "bad guys" to blame.
 
