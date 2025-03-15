@@ -50,6 +50,7 @@
                 * Climate change and artistic climate change
         * You're defined by your impact, not your identity
     * Consequentialists care about impact
+        * Selling out theme
     * Consider doing screen widths smartly
     * Consider smart quote in Wikipedia link update
     * Revise apply page

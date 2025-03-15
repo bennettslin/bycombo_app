@@ -537,31 +537,11 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
-### ${++sectionCounter}. Solutions come from systems thinking
-
-Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us all to take down the "system" and its elites— but this only works out for libertarians, who aren't looking to replace the system with any other; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we want.
-
-So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get taken down as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
-
-No wonder, then, that many anti-elitist progressives are one advantage away from turning libertarian as well! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, it's no longer far-fetched to claim that indie rock— which started under them— is a movement of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
-
-${'  ' || `
-// TODO: Revise. Could be better.
-`}
-
-Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead. But how? Beyond just knowing our human nature, we must also appreciate systems in all their complexity. Because, once we do, it will genuinely excite us to study our problems and come up with solutions… and then we'll forget about looking for "bad guys" to blame.
-
-So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
-
-### ${++sectionCounter}. Collectivists and evangelists shall unite
-
-${'  ' || `
-// TODO: Keep working on.
-`}
-
-Must we agree that indie rock sits on the cultural *right*? No, as long as we see that it shares a common trait with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by the *left*— which prioritizes the *collective*.
-
 ### ${++sectionCounter}. Artists want to believe in saviors
+
+${'  ' || `
+// TODO: Review move of this section and next.
+`}
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
 
@@ -582,6 +562,38 @@ Yet self-empowerment comes with its own set of problems. For one, it's just [pow
 If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they leave themselves open to exploitation— and by siding with elitist gatekeepers, they incur the wrath of *middling* artists. But once the art form declines, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
+
+### ${++sectionCounter}. Solutions come from systems thinking
+
+Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us all to take down the "system" and its elites— but this only works out for libertarians, who aren't looking to replace the system with any other; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we want.
+
+So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get taken down as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
+
+No wonder, then, that many anti-elitist progressives are one advantage away from turning libertarian as well! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, it's no longer far-fetched to claim that indie rock— which started under them— is a movement of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
+
+${'  ' || `
+// TODO: Revise. Could be better.
+`}
+
+Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead. But how? Beyond just knowing our human nature, we must also appreciate systems in all their complexity. Because, once we do, it will genuinely excite us to study our problems and come up with solutions… and then we'll forget about looking for "bad guys" to blame.
+
+So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
+
+### ${++sectionCounter}. Collectivists pool their achievements
+
+${'  ' || `
+// TODO: Keep working on.
+
+* In this section or the next, point out that Gen X allowed indie rock to coexist as a counterculture to alternative in the '90s, but Millennials refused to allow interdependence to coexist with indie rock in the '00s
+`}
+
+Do you dispute that indie rock sits on the cultural *right*? No worries! Let's just agree on its main similarity with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by those who prioritize the *collective*— the left, in my view.
+
+### ${++sectionCounter}. Consequentialists care about impact
+
+${'  ' || `
+// TODO: Keep working on.
+`}    
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
@@ -605,7 +617,11 @@ Meanwhile, since interdependent bands refuse to hustle, they can't compete on *a
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. Interdependent bands, however, play to their strengths by having *partners* cover their weaknesses— which lets them put 20% effort into getting 80% results, over and over. Well, added up… that's *400%* results!
 
-Let's call this the "4x law of interdependence," then: By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Which checks out: The greatest interdependent band *ever* is the Beatles, who are *certainly* four times better than anything indie rock has to offer!
+${'  ' || `
+// TODO: Review.
+`}
+
+Let's call this the "4x law of interdependence," then: By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Which checks out: The greatest interdependent band *ever* is the Beatles, who are *certainly* four times better than anything indie rock can offer!
 
 So now, what potential partner *wouldn't* prefer a BYCombo band such as yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful route from interdependence… to interdependence."
 `,
