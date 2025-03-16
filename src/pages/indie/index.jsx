@@ -110,7 +110,7 @@ Of course, there's another reason we respect those '80s underground bands: To co
 But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, rather than go through the majors to spread their works from the top down, they now win the people's support from the bottom up— making the Internet our new grassroots. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Make it more about, populism in the arts is necessarily a lottery.
 `}
 
 So the grassroots has been successfully recast as a *populist* field; it's just no longer one based on *merit*— now that little but chance separates the few who make it from the countless many who don't. But what if *you* were hoping to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to a new generation of elites!
@@ -216,12 +216,16 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the "corpor
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
 ${'  ' || `
-// TODO: Revise title.
+// TODO: Review title.
 `}
 
-### ${++sectionCounter}. Reflexive protocols fail to adapt
+### ${++sectionCounter}. Limited bandwidth fails to adapt
 
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— and this is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and think, they reflexively follow the instincts that worked for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
+${'  ' || `
+// TODO: Review.
+`}
+
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— and this is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. To conserve bandwidth, then, they reflexively follow the instincts handed down by their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
 Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. For instance, it's precisely *because* word of mouth only traveled locally that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
@@ -303,7 +307,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Social welfare is straightforward, right? After giving us all a fair chance, the government taxes each of us at a rate proportionate to our success… which then subsidizes the same opportunities for the next generation. But welfare in the arts is tricky, since any attempt by the government to support artists— as we saw earlier— *won't* give our history makers a fair chance.
+Social welfare is straightforward, right? After giving us all a fair chance, the government taxes each of us at a rate proportionate to our success… which then subsidizes the same opportunities for the next generation. But welfare in the arts is tricky, since any attempt by the government to support artists— as shown earlier— *won't* give our history makers a fair chance.
 
 So what *should* artistic welfare look like? Basically, a centralized institution must first cast a wide net, then take from the earnings of a successful few, to subsidize the same opportunities for the next generation of artists. But… this is how the major labels worked in their heyday, no? Promoting welfare in the arts, then, is simply the *smart* move— for any business with a profit motive!
 
@@ -445,7 +449,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So when the tech platforms came along to turn all the arts into a "numbers game," the indie camp rushed to defend them. On file sharing, for example: "*Real* artists earn a living by playing live. Recordings are just for publicity; they *should* be free!" And social media: "*Real* artists engage with their fans after a show— and now they can at *any* time!"
+So when the tech platforms arrived, their loyalty to numbers made them good guys as well. Because of this, the indie camp rushed to defend file sharing: "*Real* artists earn a living by going on tour. Recordings are just for publicity; they *should* be free!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
 
 To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now behave like indies, by forcing you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
