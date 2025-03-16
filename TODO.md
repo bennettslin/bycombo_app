@@ -22,7 +22,6 @@
     * Change interactivated verse?
 
 * BYC
-    * Get rid of indie pundits
     * Radio was a musical proving ground
         * Just a single paragraph in time section?
         * If you had taste in the '90s, every band you liked was one of three types: those like Nirvana, who were loved by both critics *and* musicians; those like Pavement, who were adored by *critics* but ignored by musicians; and those like Stone Temple Pilots, who were hated by critics but [admired by *musicians*](https://youtu.be/aVfU0wljJbA).
@@ -33,8 +32,9 @@
         * Luckily, as someone who's always been ignored by the critics
             * I've long tried to find a replacement for radio
     * Evangelists just a single paragraph in advances section?
-    * Collectivists and evangelists shall unite
         * Make it about partners as bandmates?
+    * Collectivists pool their achievements
+        * Mention transactional?
         * First paragraph: Is it so important to identify indie rock as a culturally right-wing movement?
             * Yes, in at least one respect
             * Both the cultural and political right emphasize freedom of the individual
