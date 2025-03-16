@@ -89,7 +89,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In every early example of online success, chance or privilege played a clear role. Yet the indie camp was so eager to spurn the majors, they downplayed this point. Well, it worked: The Internet came to be seen as a level playing field where *anyone* can succeed. Except now, if an indie artist struggles to make it online… the public can only assume they sound awful!
+In every early example of online success, chance or privilege played a clear role. Yet the indie camp was so eager to spurn the majors, they downplayed this point. Well, it worked: The Internet came to be seen as a level playing field where *anyone* can succeed. Except now, if an indie artist struggles to make it online… the public simply assumes they sound awful!
 
 As with MAGA, then, indie rock's weakness for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
 
