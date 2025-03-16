@@ -113,7 +113,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So the grassroots has been successfully recast as a *populist* field; it's just no longer one based on *merit*— now that little but chance separates the few who make it from the countless many who don't. But what if you're *determined* to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to a new generation of elites!
+So the grassroots has been successfully recast as a *populist* field; it's just no longer one based on *merit*— now that little but chance separates the few who make it from the countless many who don't. But what if *you* were hoping to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to a new generation of elites!
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
@@ -221,17 +221,9 @@ ${'  ' || `
 
 ### ${++sectionCounter}. Reflexive protocols fail to adapt
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— and this is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and think, they reflexively follow the instincts that worked for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. In other words, it's precisely *because* word of mouth only traveled locally that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
+Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. For instance, it's precisely *because* word of mouth only traveled locally that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
@@ -266,10 +258,6 @@ In game theory, the "stag hunt" is a game in which you and another player must d
 The richest nations build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The reverse is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
 Indie artists work hard *not* to need a label, and will do so even [when signed](http://archive.today/2024.05.11/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day flourish, the past proves that rock can be interdependent once again!
-
-${'  ' || `
-// TODO: Review link.
-`}
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others finally [reciprocate the courage](http://archive.today/2024.05.11/https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=One%20worrying%20outcome,regain%20once%20lost.) to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
@@ -315,7 +303,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Social welfare is straightforward, right? After giving us all a fair chance, the government taxes each of us at a rate proportionate to our success… which then subsidizes the same opportunities for the next generation. But welfare in the arts is tricky, since— as we've seen— any attempt by the government to support artists *won't* give our history makers a fair chance.
+Social welfare is straightforward, right? After giving us all a fair chance, the government taxes each of us at a rate proportionate to our success… which then subsidizes the same opportunities for the next generation. But welfare in the arts is tricky, since any attempt by the government to support artists— as we saw earlier— *won't* give our history makers a fair chance.
 
 So what *should* artistic welfare look like? Basically, a centralized institution must first cast a wide net, then take from the earnings of a successful few, to subsidize the same opportunities for the next generation of artists. But… this is how the major labels worked in their heyday, no? Promoting welfare in the arts, then, is simply the *smart* move— for any business with a profit motive!
 
@@ -439,10 +427,6 @@ Perhaps my arguments against indie rock seem moot, now that "poptimism" has defe
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was rock and roll, whose lineage traces to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
-${'  ' || `
-// TODO: Review no link.
-`}
-
 Both movements protect the chosen underdog by refusing to ask: "Wouldn't the rejected outsider— who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times, then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
@@ -499,7 +483,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But all is assumed to be well, since today's artists *do* resemble the innovative artists of yesteryear… while we're never shown what *actual* innovation in our times should entail. Still, what if *you're* here to truly innovate— not just to "larp," or role-play, the *idea* of doing so? Then keep on dreaming like a child, and let BYCombo help you find the perfect partner: a striver!
+But all is assumed to be well, since today's artists *do* resemble the innovative artists of yesteryear… while we're never shown what real innovation in our times should *actually* entail. Still, what if *you're* here to truly innovate— not just to "larp," or role-play, the *idea* of doing so? Then keep on dreaming like a child, and let BYCombo help you find the perfect partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
@@ -591,11 +575,9 @@ So the anti-elitists among us topple the system by joining with libertarians… 
 
 ${'  ' || `
 // TODO: Review.
-
-No wonder, then, that many anti-elitist progressives are one advantage away from turning libertarian as well! Luckily, with [Gen X swinging](https://www.politico.com/news/magazine/2022/05/20/cherie-westrich-alt-rock-gen-x-maga-00033769) to the political *right*, it's no longer far-fetched to claim that indie rock— which started under them— is a movement of the *cultural* right.
 `}
 
-But there's good news: With many stalwarts of anti-elitist progressivism now having swung to the political *right*, it's no longer far-fetched for me to claim that anti-elitism *itself*— irrespective of politics— is a stance of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
+But there's hope: With many stalwarts of anti-elitist progressivism having now swung to the political *right*, it's no longer far-fetched for me to claim that anti-elitism *itself*— irrespective of politics— is a stance of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
 
 Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead. But how? Beyond just knowing our human nature, we must also appreciate systems in all their complexity. Because, once we do, it will genuinely excite us to study our problems and come up with solutions… and then we'll forget about looking for "bad guys" to blame.
 
@@ -625,17 +607,13 @@ This felt immoral to me. So, as an Xennial, I predicted that this was how the Mi
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally understood to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-So let's ditch old assumptions, and think in systems: "Indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since anyone can now redirect *10%* of their effort… then *15%*… *20%*…
+So let's ditch old assumptions, and think in systems: "Indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since someone else can now redirect *10%* of their effort… then *15%*… *20%*…
 
 With this being the case, shouldn't we expect indiefication to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
@@ -651,7 +629,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Let's call this the "4x law of interdependence," then: By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Which checks out: The greatest interdependent band *ever* is the Beatles, who are *certainly* four times better than anything indie rock can offer!
+Let's call this the "4x law of interdependence," then: By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Which checks out: The greatest interdependent band *ever* is the Beatles, who are *certainly* four times better than anything indie rock has to offer!
 
 So now, what potential partner *wouldn't* prefer a BYCombo band such as yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful route from interdependence… to interdependence."
 `,
