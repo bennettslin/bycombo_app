@@ -89,7 +89,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In every early example of online success, chance or privilege played a clear role. Yet the indie camp was so eager to spurn the majors, they downplayed this point. Well, it worked— the Internet came to be seen as a level playing field. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
+In every early example of online success, chance or privilege played a clear role. Yet the indie camp was so eager to spurn the majors, they downplayed this point. Well, it worked: The Internet came to be seen as a merit-based system. Except now, if an indie artist struggles to succeed online… the public can only assume they sound awful!
 
 As with MAGA, then, indie rock's weakness for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
 
@@ -109,7 +109,11 @@ Of course, there's another reason we respect those '80s underground bands: To co
 
 But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, rather than go through the majors to spread their works from the top down, they now win the people's support from the bottom up— making the Internet our new grassroots. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
 
-So the grassroots has been successfully recast as a *populist* field; it's just no longer a *deterministic* one— now that little but chance separates the few who make it from the countless many who don't. But what if *you're* determined to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to a new generation of elites!
+${'  ' || `
+// TODO: Review.
+`}
+
+So the grassroots has been successfully recast as a *populist* field; it's just no longer one based on *merit*— now that little but chance separates the few who make it from the countless many who don't. But what if you're *determined* to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to a new generation of elites!
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
@@ -221,13 +225,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is actually their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and think, they reflexively follow the instincts that worked for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— and this is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. So with few moments to pause and think, they reflexively follow the instincts that worked for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. That is to say, it's precisely *because* word of mouth only traveled locally that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
+Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. In other words, it's precisely *because* word of mouth only traveled locally that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
@@ -263,7 +267,11 @@ The richest nations build systems that allow their citizens to trust each other 
 
 Indie artists work hard *not* to need a label, and will do so even [when signed](http://archive.today/2024.05.11/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day flourish, the past proves that rock can be interdependent once again!
 
-BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others finally [reciprocate the courage](http://archive.today/2024.05.11/https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=One%20worrying%20outcome,attempt%20at%20coordination.) to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
+${'  ' || `
+// TODO: Review link.
+`}
+
+BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others finally [reciprocate the courage](http://archive.today/2024.05.11/https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=One%20worrying%20outcome,regain%20once%20lost.) to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
@@ -431,7 +439,11 @@ Perhaps my arguments against indie rock seem moot, now that "poptimism" has defe
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was rock and roll, whose lineage traces to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
-Both movements protect the chosen underdog by [refusing to ask](https://www.nytimes.com/roomfordebate/2016/12/29/does-empathy-guide-or-hinder-moral-action#:~:text=Empathy%20acts%20like,threatening%20and%20familiar.): "Wouldn't the rejected outsider— who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times, then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
+${'  ' || `
+// TODO: Review no link.
+`}
+
+Both movements protect the chosen underdog by refusing to ask: "Wouldn't the rejected outsider— who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times, then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
