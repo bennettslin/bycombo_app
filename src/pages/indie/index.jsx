@@ -106,10 +106,10 @@ Of course, there's another reason we respect those '80s underground bands: To co
 Thanks to online tools, though, today's lottery players get *unlimited* chances. Moreover, rather than go through the majors to spread their works from the top down, they now win the people's support from the bottom up— making the Internet our new grassroots. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
 
 ${'  ' || `
-// TODO: Revise. Suggest lottery in a different way?
+// TODO: Review.
 `}
 
-In recasting itself as a populist movement, then, indie rock didn't just adopt the mainstream's *aesthetics*, but also its *lottery system*— by which little but chance separates the few who make it from the millions who don't. But what if *you* were hoping to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
+In recasting itself as a populist movement, then, indie rock didn't just adopt the mainstream's *aesthetics*, but also its *indeterminacy*— by which little but chance now separates the few who make it from the millions who don't. But what if *you're* determined to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
