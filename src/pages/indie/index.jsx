@@ -85,10 +85,6 @@ Simply put, indie rock doesn't know what it stands *for*, only whom it stands *a
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In every early example of online success, chance or privilege played a clear role. Yet the indie camp was so eager to spurn the majors, they downplayed this point. Well, it worked: The Internet came to be seen as a meritocracy— where *anyone* can make it. Except now, if an artist struggles to do so… the public *has* to assume they're unworthy!
 
 As with MAGA, then, indie rock's weakness for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
@@ -105,12 +101,12 @@ So what happens now, if *your* respect for the underground always had to do with
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
-Of course, there's another reason we respect those '80s underground bands: To come up from their local scenes— also known as the grassroots— they put in the work each day for untold years. In other words, they ensured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at public exposure… and then "won the lottery," so to speak.
+Of course, there's another reason we respect those '80s underground bands: To come up from their local scenes— also known as the grassroots— they put in the work each day for untold years. In other words, they ensured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at public exposure… and then won the "lottery," so to speak.
 
-But thanks to online tools, today's "lottery players" get *unlimited* chances. Moreover, rather than go through the majors to spread their works from the top down, they now win the people's support from the bottom up— making the Internet our new grassroots. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
+Thanks to online tools, though, today's lottery players get *unlimited* chances. Moreover, rather than go through the majors to spread their works from the top down, they now win the people's support from the bottom up— making the Internet our new grassroots. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Suggest lottery in a different way?
 `}
 
 In recasting itself as a populist movement, then, indie rock didn't just adopt the mainstream's *aesthetics*, but also its *lottery system*— by which little but chance separates the few who make it from the millions who don't. But what if *you* were hoping to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
@@ -159,7 +155,7 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 
 The reverse is also true, of course: Those who'd settle for a "thousand true fans" *won't* try to make the best art. Yet indie rock wants a "long tail" of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not crabs in a bucket. But if a critical darling strikes us as a "lottery winner," we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not crabs in a bucket. But if a critical darling strikes us as a "lottery" winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
 
@@ -215,14 +211,10 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the "corpor
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Does flow make sense?
 `}
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— and this is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. To conserve bandwidth, then, they reflexively follow the instincts handed down by their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
@@ -241,7 +233,7 @@ And here's more absurdity: Whereas artists are loved for doing what we'd all rat
 
 Let's be clear: The best artists *value* the middleman. After all, when you're the best at your job, it's a waste of your talents to do anyone else's— and knowing that your own job is harder than it looks, you have to assume the same of everyone else's. Plus, as one of the best yourself, you get your pick of the best partners. It's called division of labor; we learned this in middle school!
 
-Sadly, young folks never question today's "auto-Bizarro" world, since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
+Sadly, young folks never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
 
 ### ${++sectionCounter}. Self-reliance is a partisan ideal
 
@@ -307,7 +299,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Social welfare is straightforward, right? After giving us all a fair chance, the government taxes each of us at a rate proportionate to our success… which then subsidizes the same opportunities for the next generation. But welfare for artists is tricky, since— as we've seen— government programs, by their very nature, won't ever give history makers a fair chance.
+Social welfare is straightforward, right? After giving us all a fair chance, the government taxes each of us at a rate proportionate to our success… which then subsidizes the same opportunities for the next generation. But welfare for artists is tricky, since— as we've seen— no government program is likely to give history makers a fair chance.
 
 So what *should* artistic welfare look like? Basically, a centralized institution must first cast a wide net, then take from the earnings of a successful few, to subsidize the same opportunities for the next generation of artists. But… this is how the major labels worked in their heyday, no? Promoting welfare in the arts, then, is simply the *smart* move— for any business with a profit motive!
 
@@ -443,19 +435,15 @@ Perhaps my arguments against indie rock seem misplaced. After all, aren't the te
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left bands powerless to negotiate; they couldn't play one label off another, and a vision by itself is worth nothing. As a result, they often had to accept unfair terms— leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
-${'  ' || `
-// TODO: Review.
-`}
-
 By contrast, the indie labels simply pick what the people want, going by the size of an artist's fanbase. Once *anyone* sees a safe bet, then, *everyone* does… and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists— and thus to be regarded as a "good guy"— is to trust the numbers!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So when the tech platforms came along to disrupt the arts with a data-driven approach, the indie camp went all in. I still recall how they rushed to defend file sharing: "*Real* artists earn a living by going on tour. Recordings are just for publicity; they *should* be free!" And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show!"
 
-To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now behave like indies, by forcing you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
+${'  ' || `
+// TODO: Review.
+`}
+
+To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music); thanks to them, even the *majors* now behave like indies, by forcing artists to be empowered using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
@@ -486,10 +474,6 @@ Whenever I used to grumble about getting rejected by the indie tastemakers, frie
 See, us dreamers, we're not grounded in reality— which makes our visions hard to fulfill. Naturally, then, it was assumed that we'd gain the most from indie rock's promise of self-empowerment. But… I wasn't prepared for what would follow; I didn't realize a new generation of strivers was about to raise the bar for hustling. So, like a child, I thought I'd get points just for trying.
 
 Yet it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— being strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 But all is assumed to be well, since today's artists easily look and sound like the innovators of yesteryear… while we're never shown what *true* innovation in our times would entail. Still, what if *you're* here to truly innovate— and not just to "larp," or role-play, the *idea* of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect partner: a striver!
 
@@ -578,7 +562,7 @@ Why is progressivism so badly beaten in both culture and politics today? It's be
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get taken down as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Find better word for stalwarts.
 `}
 
 But there's hope: With many stalwarts of anti-elitist progressivism having now swung to the political *right*, it's no longer far-fetched for me to claim that anti-elitism *itself*— regardless of politics— is a stance of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
@@ -616,10 +600,6 @@ This felt immoral to me. So, as an Xennial, I predicted that this was how the Mi
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally understood to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So let's ditch old assumptions, and think in systems: "Indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since someone else can now redirect *10%* of their effort… then *15%*… *20%*…
 
