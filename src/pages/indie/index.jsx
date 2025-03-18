@@ -106,10 +106,10 @@ Of course, there's another reason we respect those '80s underground bands: To co
 Thanks to online tools, though, today's lottery players get *unlimited* chances. Moreover, rather than go through the majors to spread their works from the top down, they now win the people's support from the bottom up— making the Internet our new grassroots. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
-By recasting itself as a populist movement, then, indie rock didn't just adopt the mainstream's *aesthetics*, but also its *indeterminacy*— where little but chance separates the few who make it from the millions who don't. But what if *you're* determined to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
+By recasting itself as a populist movement, then, indie rock didn't just adopt the mainstream's *tastes*, but also its *indeterminacy*— where little but chance separates the few who make it from the millions who don't. But what if *you're* determined to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
@@ -213,10 +213,6 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. To conserve bandwidth, then, they reflexively follow the instincts handed down by their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
 Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. For instance, it's precisely *because* word of mouth only traveled locally that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
@@ -294,10 +290,6 @@ So instead, you build yourself up to be what a future audience— or dating pros
 But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 
 ### ${++sectionCounter}. Welfare gets cut by past beneficiaries
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Social welfare is straightforward, right? After giving us all a fair chance, the government taxes each of us at a rate proportionate to our success… which then subsidizes the same opportunities for the next generation. But welfare for artists is tricky, since— as we've seen— no government program is likely to give our history makers a fair chance.
 
@@ -390,10 +382,6 @@ Still, what if *your* dream is to make "windfall art," which *requires* you to b
 Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce, "Artists, as your own best advocate, you'll now be judged by how far you get on your *own*, without the help of a partner. The playing field is finally level!"
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to end segregation. But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it will always uphold the prejudices of its times.
 
@@ -574,24 +562,20 @@ Why is progressivism so badly beaten in both culture and politics today? It's be
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get taken down as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
 ${'  ' || `
+// TODO: Review today.
+`}
+
+But there's good news: With some supporters of anti-elitist progressivism now having swung to the political *right*, it's no longer far-fetched to claim that anti-elitism *itself*— irrespective of politics— is a stance of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
+
+${'  ' || `
 // TODO: Review.
 `}
 
-But there's good news: With some supporters of anti-elitist progressivism having now swung to the political *right*, it's no longer far-fetched to claim that anti-elitism *itself*— irrespective of politics— is a stance of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
+Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead— beginning with the very skills needed to analyze our problems and propose solutions. But how? Beyond just knowing our human nature… we must also appreciate systems in all their complexity.
 
-${'  ' || `
-// TODO: Review next two paragraphs.
-`}
-
-Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead— beginning with the very skills needed to examine any problem and propose a solution. But how? Beyond just understanding our human nature… we must also appreciate systems in all their complexity.
-
-So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to analyze systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
+So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
-
-${'  ' || `
-// TODO: Review move.
-`}
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
