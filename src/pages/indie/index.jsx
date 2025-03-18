@@ -113,7 +113,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In recasting itself as a populist movement, then, indie rock didn't just adopt the mainstream's *aesthetics*, but also its *indeterminacy*— by which little but chance now separates the few who make it from the millions who don't. But what if *you're* determined to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
+By recasting itself as a populist movement, then, indie rock didn't just adopt the mainstream's *aesthetics*, but also its *indeterminacy*— where little but chance separates the few who make it from the millions who don't. But what if *you're* determined to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
@@ -218,10 +218,10 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
 ${'  ' || `
-// TODO: Revise. Does flow make sense?
+// TODO: Review.
 `}
 
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— and this is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. To conserve bandwidth, then, they reflexively follow the instincts handed down by their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. To conserve bandwidth, then, they reflexively follow the instincts handed down by their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
 Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. For instance, it's precisely *because* word of mouth only traveled locally that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
@@ -570,16 +570,16 @@ Why is progressivism so badly beaten in both culture and politics today? It's be
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get taken down as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
 ${'  ' || `
-// TODO: Revise. Find better word for stalwarts.
+// TODO: Review.
 `}
 
-But there's hope: With many stalwarts of anti-elitist progressivism having now swung to the political *right*, it's no longer far-fetched for me to claim that anti-elitism *itself*— regardless of politics— is a stance of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
+But there's good news: With some supporters of anti-elitist progressivism having now swung to the political *right*, it's no longer far-fetched to claim that anti-elitism *itself*— irrespective of politics— is a stance of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
 
 ${'  ' || `
-// TODO: Revise. Really could be better…
+// TODO: Review.
 `}
 
-Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead. But how? Beyond just knowing our human nature, we must also appreciate systems in all their complexity. Once we do, it will genuinely excite us to study our problems and come up with solutions… and then we'll forget about looking for "bad guys" to blame.
+Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead— beginning with the very skills needed to analyze problems and propose solutions. But how? Beyond just knowing our human nature, we must also appreciate systems in all their complexity.
 
 So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
 
@@ -591,6 +591,9 @@ ${'  ' || `
 * In this section or the next, point out that Gen X allowed indie rock to coexist as a counterculture to alternative in the '90s, but Millennials refused to allow interdependence to coexist with indie rock in the '00s
 
 * Link to Noah Smith essay on how cultures get softer?
+
+* Future generations
+* Actions that make the world worse when everyone does them
 `}
 
 Do you dispute that indie rock sits on the cultural *right*? No worries! Let's just agree on its main similarity with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist! Like global warming, then, artistic decline can only be reversed by those who prioritize the *collective*— the left, in my view.
@@ -600,7 +603,10 @@ Do you dispute that indie rock sits on the cultural *right*? No worries! Let's j
 ${'  ' || `
 // TODO: Keep working on.
 
-This felt immoral to me. So, as an Xennial, I predicted that this was how the Millennials would rebel against Gen X.
+This felt immoral to me. So, as an Xennial, I predicted that this was how the Millennials would rebel against Gen X. (Selling out.)
+
+* Read my old blogs.
+* Your identity versus your impact
 `}    
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
