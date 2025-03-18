@@ -1,8 +1,5 @@
 # TODO
 
-# BY
-* PDF screwups
-
 # Remaining December work
 * Make apply page good enough to publish
 * Publish
@@ -35,14 +32,6 @@
         * Make it about partners as bandmates?
     * Collectivists pool their achievements
         * Mention transactional?
-        * First paragraph: Is it so important to identify indie rock as a culturally right-wing movement?
-            * Yes, in at least one respect
-            * Both the cultural and political right emphasize freedom of the individual
-                * Say this is their strength
-                * They create similar structures and hierarchies
-                * One of which is that they both struggle to solve collective action problems
-                    * Climate change, artistic decline
-                    * For that, you literally need collectivists
         * Second paragraph: Macchu Picchu
             * Steps worn away by tourists
             * Had epiphany
