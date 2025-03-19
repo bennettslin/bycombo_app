@@ -210,10 +210,10 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. To conserve bandwidth, then, they simply follow the instincts that worked well for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. Then, to conserve bandwidth, they simply follow the instincts that worked well for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
 Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. For instance, it's precisely *because* word of mouth only traveled locally that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
@@ -525,10 +525,6 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. Artists want faith in saviors
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
@@ -558,10 +554,6 @@ Why is progressivism so badly beaten in both culture and politics today? It's be
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get taken down as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
 But there's good news: With some supporters of anti-elitist progressivism now having swung to the political *right*, it's no longer far-fetched to claim that anti-elitism *itself*— irrespective of politics— is a stance of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off building it back from within!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead— beginning with the very skills needed to analyze our problems and propose solutions. But how? Beyond just knowing our human nature… we must also appreciate systems in all their complexity.
 
