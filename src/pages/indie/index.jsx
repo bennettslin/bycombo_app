@@ -430,12 +430,12 @@ In the past, a major label would bet on visions that other labels *didn't* see�
 By contrast, the indie labels simply pick what the people want, going by the size of an artist's fanbase. Once *anyone* sees a safe bet, then, *everyone* does… and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists— and thus to be rated as a "good guy"— is to trust the numbers!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review next two paragraphs.
 `}
 
-So when the tech platforms arrived to turn the arts into a "numbers game," the indie camp cheered on the disruption. I still recall how they rushed to defend file sharing: "*Real* artists earn a living by going on tour. Recordings are for publicity; they *should* be free." And social media: "*Real* artists engage with their fans, and now they can at *any* time— not just after a show."
+So when the tech platforms arrived to turn the arts into a "numbers game," the indie camp went all in. I still recall how they scrambled to defend file sharing: "*Real* artists earn a living by going on tour. Recordings are just for publicity; they *should* be free." And social media: "*Real* artists engage with their fans after a show— and now they can at *any* time."
 
-To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music)! Thanks to them, even the *majors* now behave like indies, by forcing artists to be empowered using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
+To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music)! Thanks to them— and their grievances— even the *majors* now behave like indies, by forcing you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
