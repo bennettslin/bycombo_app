@@ -210,10 +210,10 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review.
 `}
 
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. Then, to conserve bandwidth, they simply follow the instincts that worked well for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. To conserve bandwidth, then, they simply follow the instincts that worked well for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
 Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. For instance, it's precisely *because* word of mouth only traveled locally that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
@@ -234,10 +234,6 @@ Sadly, young folks never question today's auto-Bizarro world, since it's all the
 ### ${++sectionCounter}. Self-reliance is a partisan ideal
 
 Want even *more* absurdity? Any rich artist can simply pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— to the benefit of the privileged. How did this happen?
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Simply put, indie rock is widely seen as a do-it-yourself movement— the kind that fosters *cooperative* self-reliance by instilling a [love for the craft](https://makerfaire.com). As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
@@ -383,7 +379,11 @@ Still, what if *your* dream is to make "windfall art," which *requires* you to b
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
-Indie rock is an ideology more than anything else— and ideologies transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce, "Artists, as your own best advocate, you'll now be judged by how far you get on your *own*, without the help of a partner. The playing field is finally level!"
+${'  ' || `
+// TODO: Review.
+`}
+
+Indie rock's ideals are based on *ethics*, not *aesthetics*— and ethics transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce, "Artists, as your own best advocate, you'll now be judged by how far you get on your *own*, without the help of a partner. The playing field is finally level!"
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
@@ -588,10 +588,16 @@ ${'  ' || `
 
 * If too short, move explanation section back to before victory.
 
-This felt immoral to me. So, as an Xennial, I predicted that this was how the Millennials would rebel against Gen X. (Selling out.)
+This felt immoral to me. So, as an Xennial, I predicted that this was how the Millennials would rebel against Gen X. (Selling out.) Unfortunately, I'd underestimated how much my collectivism informed how I myself felt.
+
+* They chose indie rock, which explicitly branched off from alternative, Nirvana impact what you do, but had to sell out, to side with Pavement identity who you are.
 
 * Read my old blogs.
 * Your identity versus your impact
+* Indie rock first rock movement whose ideals are based on ethics
+    * Thus it wasn't clear if one should or even can rebel against it
+    * Entire generation concerned about ethical purity
+    * Lethal combination
 `}    
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
