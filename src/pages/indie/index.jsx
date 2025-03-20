@@ -271,7 +271,11 @@ But there's hope: While Millennials were active creators from day one, Gen Z rev
 
 Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend the performance of a work." So let's use it once more in a way that Bach— who made music for God!— would've understood: An audience *isn't* a fanbase; nor are they a following.
 
-From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing what this entails! Fortunately, BYCombo promises to be an effective gatekeeper, if you'll pledge to make the best art— namely, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+${'  ' || `
+// TODO: Review link today.
+`}
+
+From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing [what this entails](https://youtu.be/SYSa4RzaH80)! Fortunately, BYCombo promises to be an effective gatekeeper, if you'll pledge to make the best art— namely, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -426,10 +430,10 @@ In the past, a major label would bet on visions that other labels *didn't* see�
 By contrast, the indie labels simply pick what the people want, going by the size of an artist's fanbase. Once *anyone* sees a safe bet, then, *everyone* does… and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists— and thus to be rated as a "good guy"— is to trust the numbers!
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review.
 `}
 
-So when the tech platforms arrived to turn *all* the arts into one big "numbers game," the indie camp went all in. I still recall how they scrambled to defend file sharing: "*Real* artists earn a living by going on tour. Recordings are just for publicity; they *should* be free." And social media: "*Real* artists engage with their fans after a show— and now they can at *any* time."
+So when the tech platforms arrived to turn *all* the arts into one big "numbers game," the indie camp went all in. I still recall how they rushed to defend file sharing: "*Real* artists earn a living by going on tour. Recordings are just for publicity; they *should* be free." And social networks: "*Real* artists engage with their fans after a show— and now they can at *any* time."
 
 To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music)! Thanks to them— and their grievances— even the *majors* now behave like indies, by forcing you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
