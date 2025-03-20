@@ -235,7 +235,11 @@ Sadly, young folks never question today's auto-Bizarro world, since it's all the
 
 Want even *more* absurdity? Any rich artist can simply pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— to the benefit of the privileged. How did this happen?
 
-Simply put, indie rock is widely seen as a "do-it-yourself" movement— the kind that fosters *cooperative* self-reliance by instilling a [love for the craft](https://makerfaire.com). As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Simply put, indie rock is widely seen as a do-it-yourself movement— the kind that fosters *cooperative* self-reliance by instilling a [love for the craft](https://makerfaire.com). As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
 But being indie is all about gaining public exposure, and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*— and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
@@ -579,6 +583,8 @@ Do you dispute that indie rock sits on the cultural *right*? No worries! Let's j
 
 ${'  ' || `
 // TODO: Keep working on.
+
+* https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html
 
 * If too short, move explanation section back to before victory.
 
