@@ -435,7 +435,11 @@ ${'  ' || `
 
 So when the tech platforms arrived to turn *all* the arts into one big "numbers game," the indie camp went all in. I still recall how they rushed to defend file sharing: "*Real* artists earn a living by going on tour. Recordings are just for publicity; they *should* be free." And social networks: "*Real* artists engage with their fans after a show— and now they can at *any* time."
 
-To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music)! Thanks to them— and their grievances— even the *majors* now behave like indies, by forcing you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
+${'  ' || `
+// TODO: Review.
+`}
+
+To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music)! Thanks to them— and their grievances against the majors— even the *majors* now force you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
@@ -572,7 +576,21 @@ This felt immoral to me. So, as an Xennial, I predicted that this was how the Mi
     * Thus it wasn't clear if one should or even can rebel against it
     * Entire generation concerned about ethical purity
     * Lethal combination
+
+* If four paragraphs, move explanation after solutions section?
 `}
+
+First paragraph:
+Simpsons episode.
+
+Middle one or two paragraphs:
+Millennials embraced indie rock instead. Identity versus impact.
+
+Third paragraph:
+Indie rock is the first movement whose ideals are based on ethics. Millennials fought against rebellion.
+
+Fourth paragraph:
+Good news for Gen Z.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
