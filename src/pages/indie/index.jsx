@@ -319,7 +319,11 @@ Like those outsiders before us, we need to be the *most* original, the *most* ta
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
-The word "alternative" describes an *artistic* choice; and "indie," a *business* stance. Until the '90s, then, *artists* weren't indie, only *labels* were. And that stance? It says, "We don't do this for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
+${'  ' || `
+// TODO: Review.
+`}
+
+While "alternative" describes an *artistic* choice, "indie" conveys a *business* stance. Until the '90s, then, *artists* weren't indie; only *labels* were. And that stance? It says, "We *don't* do this for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
@@ -467,7 +471,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet Millennials adopted it as their own. Why were they content to merely "larp" the next revolution?
+Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X? They saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! And yet, Millennials adopted it as their own. Why were they content to merely "larp" the next revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
@@ -589,6 +593,8 @@ Do you dispute that indie rock sits on the cultural *right*? No worries! Let's j
 
 ${'  ' || `
 // TODO: Keep working on.
+
+First paragraph, change to Chuck Klosterman. Don't use Simpsons example, but still link to my article.
 
 Third paragraph needs to be better, obviously.
 
