@@ -463,7 +463,11 @@ But all is assumed to be well, since today's artists easily look and sound like 
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
-Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! And yet, Millennials embraced it as their own. Why were they content to merely "larp" the next revolution?
+${'  ' || `
+// TODO: Review.
+`}
+
+Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! Yet Millennials adopted it as their own. Why were they content to merely "larp" the next revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
@@ -525,6 +529,10 @@ Thanks to indie rock, however, today's artists have no such reason to believe. S
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel the same. But when artists are being discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered this way as well?
 
+${'  ' || `
+// TODO: Add paragraph? AI?
+`}
+
 Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like fish don't know they're wet, Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build up your talents… in faith that a savior will then find you!
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
@@ -582,35 +590,16 @@ Do you dispute that indie rock sits on the cultural *right*? No worries! Let's j
 ${'  ' || `
 // TODO: Keep working on.
 
-* https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html
+Third paragraph needs to be better, obviously.
 
-* If too short, move explanation section back to before victory.
-
-This felt immoral to me. So, as an Xennial, I predicted that this was how the Millennials would rebel against Gen X. (Selling out.) Unfortunately, I'd underestimated how much my collectivism informed how I myself felt.
-
-* They chose indie rock, which explicitly branched off from alternative, Nirvana impact what you do, but had to sell out, to side with Pavement identity who you are.
-
-* Read my old blogs.
-* Your identity versus your impact
-* Indie rock first rock movement whose ideals are based on ethics
-    * Thus it wasn't clear if one should or even can rebel against it
-    * Entire generation concerned about ethical purity
-    * Lethal combination
-
-* If four paragraphs, move explanation after solutions section?
+Fourth paragraph: Luckily, there's a clue for how Gen Z can rebel. Remember, indie rock explicitly branched off from alternative, Nirvana impact what you do, but had to sell out, to side with Pavement identity who you are.
 `}
 
-First paragraph:
-Simpsons episode.
+In a *Simpsons* episode, the evil Mr. Burns hands Lisa $12 million for having unwittingly helped him to recover his fortunes— but Lisa rips up the check, given its ill-gotten nature. This spoke to Gen X's distaste for selling out, and at the time, I knew that. Yet *I* saw Lisa's act as immoral— she basically gave *him* the money!— and predicted that the next generation would [be like me](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html).
 
-Middle one or two paragraphs:
-Millennials embraced indie rock instead. Identity versus impact.
+Well… Millennials *did* learn to take the money. But by adopting indie rock's ideals as their own, they doubled down on the underlying *conceit* of refusing to sell out, which is that each of us is defined by who we *are*— an individualist concern for *identity*… rather than by what we get *done*— a collectivist one for *impact*. As a result, Millennials just haven't done all that much…
 
-Third paragraph:
-Indie rock is the first movement whose ideals are based on ethics. Millennials fought against rebellion.
-
-Fourth paragraph:
-Good news for Gen Z.
+To make matters worse, indie rock is the first rock movement whose ideals are grounded in *ethics*, not *aesthetics*. As such, it gives us no precedent for how to rebel, or even to confirm that we should. And it's precisely *because* Millennials were so concerned with protecting their identities— and thus their moral purity— they saw any questioning of their ideals as a threat, and refused to let any counterculture take root.
 
 ### ${++sectionCounter}. Victory is assured
 
