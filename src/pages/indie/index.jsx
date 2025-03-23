@@ -585,6 +585,8 @@ ${'  ' || `
 
 * Future generations
 * Actions that make the world worse when everyone does them
+
+* No more fear of missing out
 `}
 
 Do you dispute that indie rock sits on the cultural *right*? No worries! Let's just agree on its main similarity with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist! As with vaccinations, then, a decline in the arts can only be reversed by those who prioritize the *collective*— the left, in my view.
@@ -594,18 +596,16 @@ Do you dispute that indie rock sits on the cultural *right*? No worries! Let's j
 ${'  ' || `
 // TODO: Keep working on.
 
-First paragraph, change to Chuck Klosterman. Don't use Simpsons example, but still link to my article.
-
-Third paragraph needs to be better, obviously.
-
 Fourth paragraph: Luckily, there's a clue for how Gen Z can rebel. Remember, indie rock explicitly branched off from alternative, Nirvana impact what you do, but had to sell out, to side with Pavement identity who you are.
 `}
 
-In a *Simpsons* episode, the evil Mr. Burns hands Lisa $12 million for having unwittingly helped him to recover his fortunes— but Lisa rips up the check, given its ill-gotten nature. This spoke to Gen X's distaste for selling out, and at the time, I knew that. Yet *I* saw Lisa's act as immoral— she basically gave *him* the money!— and predicted that the next generation would [be like me](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html).
+In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X's only bugbear was *commercialism*. That is to say: "You can *sell*; just don't [sell *out*](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D)." The indie camp then took it further: "Do the selling *yourself*— or else you're being *sold*." Millennials, of course, adopted this ideal as their own… until the hustle burnt them out. Now they rail against the need to sell at all— or, *capitalism* itself!
 
-Well… Millennials *did* learn to take the money. But by adopting indie rock's ideals as their own, they doubled down on the underlying *conceit* of refusing to sell out, which is that each of us is defined by who we *are*— an individualist concern for *identity*… rather than by what we get *done*— a collectivist one for *impact*. As a result, Millennials just haven't done all that much…
+Which has led to the worst of both worlds: Millennials *readily* sell out… even as they retain the belief underlying a *refusal* to do so— namely, that who we *are* is more important than what [we get *done*](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html). To put it another way, theirs is an individualist concern for *identity*, rather than a collectivist one for *impact*. No wonder, then, that Millennials haven't done all that much…
 
-To make matters worse, indie rock is the first rock movement whose ideals are grounded in *ethics*, not *aesthetics*. As such, it gives us no precedent for how to rebel, or even to confirm that we should. And it's precisely *because* Millennials were so concerned with protecting their identities— and thus their moral purity— they saw any questioning of their ideals as a threat, and refused to let any counterculture take root.
+To make matters worse, indie rock is the first rock movement whose ideals are based on *ethics*, not *aesthetics*. This means there's no precedent to show us how to counter these ideals— or even to say that we *should*. And because Millennials are so concerned with guarding their identities— including their ethical standing— they've always insisted that we *shouldn't*.
+
+Still, we can guess what a counterculture would entail, since indie rock *itself* arose to counter those '90s alternative bands like Nirvana and Radiohead, who signed with major labels to maximize their impact.
 
 ### ${++sectionCounter}. Victory is assured
 

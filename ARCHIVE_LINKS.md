@@ -27,3 +27,5 @@ http://archive.today/2022.10.26/https://www.nytimes.com/2019/02/13/arts/music/ry
 http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''
 
 https://www.nytimes.com/roomfordebate/2016/12/29/does-empathy-guide-or-hinder-moral-action#:~:text=Empathy%20acts%20like,threatening%20and%20familiar.
+
+http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D
