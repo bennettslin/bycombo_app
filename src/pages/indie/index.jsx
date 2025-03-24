@@ -253,15 +253,15 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
 
-Here's the problem, though: Once a mark of verification is easy to attain, it ceases to be an honest signal. We can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who'd rather hustle to *get* the job, than work to *deserve* it. Seems bad, right? Yet it's even worse…
+${'  ' || `
+// TODO: Review today.
+`}
+
+Here's the problem, though: Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who'd rather hustle to *get* the job, than work to *deserve* it. Seems bad, right? Yet it's even worse…
 
 You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now *every* artist must waste time and energy on the hustle!
 
-${'  ' || `
-// TODO: Review.
-`}
-
-To complicate matters, this is what's called a "tragedy of the commons": It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
+To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
 The lesson here, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— or, rule by those who hustle to get themselves known. So what happens now, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
 
@@ -466,10 +466,6 @@ Yet it's *because* the dreamer is unrealistic that their vision, if ever fulfill
 But all is assumed to be well, since today's artists easily look and sound like the innovators of yesteryear… while we're never shown what *true* innovation in our times would entail. Still, what if *you're* here to truly innovate— and not just to "larp," or role-play, the *idea* of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X? They saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! And yet… Millennials adopted it as their own. Why were they content to merely "larp" the next revolution?
 
