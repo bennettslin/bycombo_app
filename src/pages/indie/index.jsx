@@ -588,18 +588,16 @@ Do you dispute that indie rock sits on the cultural *right*? No worries! Let's j
 ${'  ' || `
 // TODO: Keep working on.
 
-Never compromising on one's ethics
-
-Fourth paragraph: Luckily, there's a clue for how Gen Z can rebel. Remember, indie rock explicitly branched off from alternative, Nirvana impact what you do, but had to sell out, to side with Pavement identity who you are.
+Second paragraph, make it more about brazenly selling out. Make it clear alternative bands chose impact? 
 `}
 
-In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X's problem was only with *commercialism*. That is to say: "You can *sell*; just [don't sell *out*](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D)." The indie camp took it even further: "Do the selling *yourself*— or else you're being *sold*." Millennials then adopted this ideal as their own… until the hustle burnt them out. Now they rail against the need to sell at all— or, *capitalism* itself!
+In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X's problem was only with *commercialism*. That is to say: "You can *sell*; just don't sell *out*." The indie camp took it further: "Do the selling *yourself*— or else *you're* being sold." Millennials then adopted this ideal as their own… until the hustle burnt them out. Now they rail against *capitalism* itself— namely, the need to sell at all.
 
-Which… has led to the worst of both worlds: Millennials *readily* sell out, even as they retain the core belief that underlies a *refusal* to do so. And that belief is to say, "Who you *are* matters more than what [you get *done*](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html)." In other words, theirs is an individualist concern for *identity*, rather than a collectivist one for *impact*. No wonder, then, that they just haven't done much…
+Which… has led to the worst of all worlds! Given that "indiefication" makes it so daunting to sell, Millennials *readily* sell out. Even so, they retain the belief that underlies a *refusal* to do so: "Who you *are* matters more than what you get *done*." As with Gen X, then, theirs is an individualist [concern for *identity*](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html), rather than a collectivist one for *impact*.
 
-To make matters worse, indie rock is the first rock movement whose ideals are based on *ethics*, not *aesthetics*. As such, it offers no historical precedent to show us how to counter these ideals— or even to say that we *should*. And because guarding one's identity means never compromising on one's ethics, Millennials have long insisted that we *shouldn't*.
+To make matters worse, indie rock is the first rock movement defined by its *ethics*, not *aesthetics*. This means there's no historical precedent to show us how to counter it— or even to say that we *should*. And since guarding one's identity means never compromising on one's ethics… Millennials have long insisted that we *shouldn't*.
 
-Still, we can guess what a counterculture would entail, since indie rock *itself* arose to counter those '90s alternative bands like Nirvana and Radiohead, who signed with major labels to maximize their impact.
+Still, BYCombo has a proposal: Since our problems began when we accepted indiefication and rejected capitalism… we must now *accept* capitalism and *reject* indiefication! Won't this take courage? Sure, but no more so than in the '90s, when signing to a major label marked you [as a sellout](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D). Because, why *wouldn't* being the next Nirvana involve not caring who you are?
 
 ### ${++sectionCounter}. Victory is assured
 
