@@ -257,7 +257,11 @@ Here's the problem, though: Once a mark of verification is easy to attain, it ce
 
 You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now *every* artist must waste time and energy on the hustle!
 
-To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
+${'  ' || `
+// TODO: Review.
+`}
+
+To complicate matters, this is what's called a "tragedy of the commons": It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
 The lesson here, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— or, rule by those who hustle to get themselves known. So what happens now, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth by paying BYCombo's steep *cost* of entry: a serious chunk of lifetime!
 
@@ -588,16 +592,26 @@ Do you dispute that indie rock sits on the cultural *right*? No worries! Let's j
 ${'  ' || `
 // TODO: Keep working on.
 
-Second paragraph, make it more about brazenly selling out. Make it clear alternative bands chose impact? 
+Second paragraph. All Millennial artists boost their numbers, while seeking to benefit from their identity.
+
+New third paragraph: Reminder that indie rock arose to oppose the '90s alternative bands who genuinely wrestled with the decision to sign with the major labels, and ultimately did so out of a collectivist concern for impact. 
+
+Quotes around first indiefication.
+
+https://www.theguardian.com/music/2021/jul/26/why-is-selling-out-ok-now
 `}
 
-In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X's problem was only with *commercialism*. That is to say: "You can *sell*; just don't sell *out*." The indie camp took it further: "Do the selling *yourself*— or else *you're* being sold." Millennials then adopted this ideal as their own… until the hustle burnt them out. Now they rail against *capitalism* itself— namely, the need to sell at all.
+In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X's problem was only with *commercialism*. That is to say: "You can *sell*; just don't sell *out*." But the indie camp took it further: "Sell it *yourself*." Millennials, of course, then adopted indie rock's ideals as their own… until the hustle burned them out. Now they rail against *capitalism* itself— namely, the need to sell at all!
 
-Which… has led to the worst of all worlds! Given that "indiefication" makes it so daunting to sell, Millennials *readily* sell out. Even so, they retain the belief that underlies a *refusal* to do so: "Who you *are* matters more than what you get *done*." As with Gen X, then, theirs is an individualist [concern for *identity*](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html), rather than a collectivist one for *impact*.
+As a result, Millennials today *readily* excuse those who sell out, knowing that survival hinges upon it. Even so, they retain the belief that underlies a *refusal* to sell out: "Who you *are* matters more than what you get *done*." This gives us the worst of all worlds: Artists who brazenly boost their numbers, and then expect to be boosted, in turn, simply for being the underdogs they are.
+
+Third paragraph to talk about '90s alternative bands.
+
+End with: An individualist [concern for *identity*](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html), rather than a collectivist one for *impact*.
 
 To make matters worse, indie rock is the first rock movement defined by its *ethics*, not *aesthetics*. This means there's no historical precedent to show us how to counter it— or even to say that we *should*. And since guarding one's identity means never compromising on one's ethics… Millennials have long insisted that we *shouldn't*.
 
-Still, BYCombo has a proposal: Since our problems began when we accepted indiefication and rejected capitalism… we must now *accept* capitalism and *reject* indiefication! Won't this take courage? Sure, but no more so than in the '90s, when signing to a major label marked you [as a sellout](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D). Because, why *wouldn't* being the next Nirvana involve not caring who you are?
+Still, BYCombo has a proposal: Since our problems began when we accepted "indiefication" and rejected capitalism, why not accept *capitalism*… and reject *indiefication*? This will take courage, sure— but no more so than signing to a major label in the '90s and being [called a sellout](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D). And if you hope to do what Nirvana did, then why care what this says about who you are?
 
 ### ${++sectionCounter}. Victory is assured
 
