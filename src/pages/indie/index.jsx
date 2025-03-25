@@ -69,7 +69,11 @@ But the elites have their own reason to hesitate: Anytime they release a work th
 
 **Why serious chunks of lifetime?**
 
-Low barriers to entry have allowed an endless stream of underwhelming artists to pour through, leading the public to grow wary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To save the arts, then, a centralized nonprofit like BYCombo must now step up and serve as a gatekeeper for the elites— by enforcing a steep *cost* of entry.
+${'  ' || `
+// TODO: Review.
+`}
+
+Low barriers to entry have allowed an endless stream of middling artists to pour through, leading the public to grow wary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To regain the public's trust, then, a centralized nonprofit like BYCombo must now step up and serve as a gatekeeper for the elites— by enforcing a steep *cost* of entry.
 
 This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in making their case for amnesty.
 
@@ -247,19 +251,23 @@ The richest nations build systems that allow their citizens to trust each other 
 
 Indie artists work hard *not* to need a label, and will do so even [when signed](http://archive.today/2024.05.11/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day flourish, the past proves that rock can be interdependent once again!
 
-BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others finally [reciprocate the courage](http://archive.today/2024.05.11/https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=One%20worrying%20outcome,regain%20once%20lost.) to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
+${'  ' || `
+// TODO: Review today.
+`}
+
+BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others finally reciprocate [the courage](http://archive.today/2024.05.11/https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=One%20worrying%20outcome,regain%20once%20lost.) to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who'd rather hustle to *get* the job, than work to *deserve* it. Seems bad, right? Yet it's even worse…
 
-You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now *every* artist must waste time and energy on the hustle!
+${'  ' || `
+// TODO: Review link.
+`}
+
+You see, pollution is [an example](https://blogs.cornell.edu/info2040/2012/09/24/prisoners-dilemma-and-the-environment/#:~:text=Using%20the%20example,end%20up%20polluting%29.) of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now *every* artist must waste time and energy on the hustle!
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
@@ -565,9 +573,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So let's ditch old assumptions, and think in systems: "Indiefication" leads to a "tragedy of the commons," right? Once an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since someone else can now redirect *10%* of their effort… then *15%*… *20%*…
+So let's ditch old assumptions, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, rather than simply *deserving* it, they alone reap the benefit— while eroding the public's interest in music overall. But this leads to a "tragedy of the commons," since all others would be wise to do the same. And now if an artist redirects *10%* of their effort… then *15%*…
 
-With this being the case, shouldn't we expect indiefication to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
+${'  ' || `
+// TODO: Review today.
+`}
+
+With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
 ### ${++sectionCounter}. Collectivists pool their achievements
 
