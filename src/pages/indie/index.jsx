@@ -611,7 +611,7 @@ Rather than an individualist [concern for *identity*](https://bennettsamuellin.b
 
 To make matters worse, indie rock is the first rock movement defined by its *ethics*, not *aesthetics*. This means there's no historical precedent to show us how to counter it— or even to say that we *should*. And since guarding one's identity means never compromising on one's ethics… Millennials have long insisted that we *shouldn't*.
 
-Still, BYCombo has a solution: Since our problems began when we accepted "indiefication" and rejected capitalism, why not accept *capitalism*… but then reject *indiefication*? This will anger the indie camp, for sure— but no more so than signing with a major label did in the '90s. Besides, why should being the [next Nirvana](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) or Radiohead take any less courage?
+Still, BYCombo has a solution: Since our problems began when we accepted indiefication and rejected capitalism, why not accept *capitalism*… and reject *indiefication*? This will anger the indie camp, for sure— but no more so than signing with a major label did in the '90s. Besides, why should being the [next Nirvana](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) or Radiohead take any less courage?
 
 ### ${++sectionCounter}. Victory is assured
 
