@@ -254,10 +254,10 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review.
 `}
 
-Here's the problem, though: Once a mark of verification is easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who'd rather hustle to *get* the job, than work to *deserve* it. Seems bad, right? Yet it's even worse…
+But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who'd rather hustle to *get* the job, than work to *deserve* it. Seems bad, right? Yet it's even worse…
 
 You see, pollution is an example of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now *every* artist must waste time and energy on the hustle!
 
@@ -561,7 +561,11 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally understood to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in the '90s?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
-So let's ditch old assumptions, and think in systems: "Indiefication" leads to a "prisoner's dilemma," right? Once an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since someone else can now redirect *10%* of their effort… then *15%*… *20%*…
+${'  ' || `
+// TODO: Review.
+`}
+
+So let's ditch old assumptions, and think in systems: "Indiefication" leads to a "tragedy of the commons," right? Once an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— all others will be forced to do the same. But this creates a "race to the bottom," since someone else can now redirect *10%* of their effort… then *15%*… *20%*…
 
 With this being the case, shouldn't we expect indiefication to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation— so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
@@ -599,7 +603,7 @@ https://www.theguardian.com/music/2021/jul/26/why-is-selling-out-ok-now
 
 In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X's problem was only with *commercialism*. That is to say: "You can *sell*; just don't sell *out*." But the indie camp took it further: "Sell it *yourself*." Millennials, of course, then adopted indie rock's ideals as their own… until the hustle burned them out. Now they rail against the need to sell at all— or, *capitalism* itself!
 
-As a result, Millennials *readily* excuse all those who sell out— knowing that survival today hinges upon it. Even so, they retain the belief that underlies a *refusal* to sell out: "Who you *are* matters more than what you get *done*." Now we live in the worst of all worlds, in which superstars boost their numbers at all costs, and indie artists get boosted simply for being who they are.
+Which… has given us the worst of all worlds. Millennials *readily* excuse those who sell out, knowing that survival today hinges upon it. Even so, they retain the belief that underlies a *refusal* to sell out: "Who you *are* matters more than what you get *done*." Now superstars boost their numbers at all costs… even as indie artists get boosted simply for being who they are!
 
 Third paragraph to talk about '90s alternative bands.
 
