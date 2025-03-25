@@ -604,26 +604,22 @@ Do you dispute that indie rock sits on the cultural *right*? No worries! Let's j
 ${'  ' || `
 // TODO: Keep working on.
 
-New third paragraph: Reminder that indie rock arose to oppose the '90s alternative bands who genuinely wrestled with the decision to sign with the major labels, and ultimately did so out of a collectivist concern for impact. 
-
-Quotes around first indiefication.
-
-Fifth paragraph, change last sentence to reiterate who you are vs. what you get done.
+New third paragraph: Reminder that indie rock arose to oppose the '90s alternative bands who genuinely wrestled with the decision to sign with the major labels, and ultimately did so out of a collectivist concern for impact. Mention major labels, otherwise fifth paragraph will need to be revised.
 
 https://www.theguardian.com/music/2021/jul/26/why-is-selling-out-ok-now
 `}
 
-In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X's problem was only with *commercialism*. That is to say: "You can *sell*; just don't sell *out*." But the indie camp took it further: "Sell it *yourself*." Millennials, of course, then adopted indie rock's ideals as their own… until the hustle burned them out. Now they rail against the need to sell at all— or, *capitalism* itself!
+In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman points out that Gen X didn't rail against *capitalism*, only *commercialism*. That is to say: "You can *sell*; just don't sell *out*." But the indie camp took it further: "Sell it *yourself*." Millennials then adopted indie rock's ideals as their own… until the hustle burned them out. Now they rage against the need to sell at all— or, capitalism *itself*!
 
-Which… has given us the worst of all worlds. Millennials *readily* excuse those who sell out, knowing that survival today hinges upon it. Even so, they retain the belief that underlies a *refusal* to sell out: "Who you *are* matters more than what you get *done*." Now superstars boost their numbers at all costs… even as indie artists get boosted simply for being who they are!
+Which has led to the worst of all worlds: Millennials *readily* excuse those who sell out, knowing that survival today hinges upon it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) that underlies a *refusal* to do so: "Who you *are* matters more than what you get *done*." So now, when artists shamelessly boost their numbers, we're expected to cheer… seeing them for the underdogs that they are!
 
 Third paragraph to talk about '90s alternative bands.
 
-Rather than an individualist [concern for *identity*](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html), theirs was a collectivist one for *impact*.
+Rather than an individualist concern for *identity*, theirs was a collectivist one for *impact*.
 
-To make matters worse, indie rock is the first rock movement defined by its *ethics*, not *aesthetics*. This means there's no historical precedent to show us how to counter it— or even to say that we *should*. And since guarding one's identity means never compromising on one's ethics… Millennials have long insisted that we *shouldn't*.
+To make matters worse, indie rock is the first rock movement defined by its *ethics*, not *aesthetics*. This means there's no historical precedent to show us how to counter it— or even to say that we *should*. And since guarding one's identity means never compromising on one's ethics, Millennials have long insisted that we *shouldn't*… at the cost of their impact on the world.
 
-Still, BYCombo has a solution: Since our problems began when we accepted indiefication and rejected capitalism, why not accept *capitalism*… and reject *indiefication*? This will anger the indie camp, for sure— but no more so than signing with a major label did in the '90s. Besides, why should being the [next Nirvana](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) or Radiohead take any less courage?
+So BYCombo offers a solution: Since our problems began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* and reject *indiefication*? Yes, this will anger the indie camp— but so did signing with the majors in the '90s! Because, you can care about who you are, *or* about what you get done— not both. Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D); I think you do too.
 
 ### ${++sectionCounter}. Victory is assured
 
