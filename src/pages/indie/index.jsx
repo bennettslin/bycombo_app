@@ -569,7 +569,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So let's ditch old assumptions, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, rather than simply *deserving* it, they alone reap the benefit— while eroding the public's interest in music overall. But this leads to a "tragedy of the commons," since all others would be wise to do the same. And now if an artist redirects *10%* of their effort… then *15%*…
+So let's ditch old assumptions, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, rather than simply *deserving* it, they alone reap the benefit— while eroding the public's interest in music overall. But this creates a "tragedy of the commons," since all others would be wise to do the same. And now, if an artist redirects *10%* of their effort… then *15%*…
 
 With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
