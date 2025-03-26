@@ -251,11 +251,7 @@ The richest nations build systems that allow their citizens to trust each other 
 
 Indie artists work hard *not* to need a label, and will do so even [when signed](http://archive.today/2024.05.11/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day flourish, the past proves that rock can be interdependent once again!
 
-${'  ' || `
-// TODO: Review today.
-`}
-
-BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others finally reciprocate [the courage](http://archive.today/2024.05.11/https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=One%20worrying%20outcome,regain%20once%20lost.) to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
+BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others finally [reciprocate the courage](http://archive.today/2024.05.11/https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=One%20worrying%20outcome,regain%20once%20lost.) to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
@@ -575,10 +571,6 @@ ${'  ' || `
 
 So let's ditch old assumptions, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, rather than simply *deserving* it, they alone reap the benefit— while eroding the public's interest in music overall. But this leads to a "tragedy of the commons," since all others would be wise to do the same. And now if an artist redirects *10%* of their effort… then *15%*…
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
 ### ${++sectionCounter}. Collectivists pool their achievements
@@ -609,15 +601,15 @@ New third paragraph: Reminder that indie rock arose to oppose the '90s alternati
 https://www.theguardian.com/music/2021/jul/26/why-is-selling-out-ok-now
 `}
 
-In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman points out that Gen X didn't rail against *capitalism*, only *commercialism*. That is to say: "You can *sell*; just don't sell *out*." But the indie camp took it further: "Sell it *yourself*." Millennials then adopted indie rock's ideals as their own… until the hustle burned them out. Now they rage against the need to sell at all— or, capitalism *itself*!
+In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X only rejected *commercialism*, not *capitalism*. That is to say: "You can *sell*; just don't sell *out*." Still, the indie camp took it further: "Sell it *yourself*." Millennials then adopted indie rock's ideals as their own… until the hustle burned them out. Now they rail against the need to sell at all— or, capitalism *itself*!
 
-Which has led to the worst of all worlds: Millennials *readily* excuse those who sell out, knowing that survival today hinges upon it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) that underlies a *refusal* to do so: "Who you *are* matters more than what you get *done*." So now, when artists shamelessly boost their numbers, we're expected to cheer… seeing them for the underdogs that they are!
+Which has led to the worst of all worlds: Millennials *readily* excuse those who sell out, knowing that survival today hinges upon it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) that underlies a *refusal* to do so: "Who you *are* matters more than what you get *done*." So now, when artists shamelessly boost their numbers, we're told to cheer them on… for being the underdogs they are!
 
 Third paragraph to talk about '90s alternative bands.
 
 Rather than an individualist concern for *identity*, theirs was a collectivist one for *impact*.
 
-To make matters worse, indie rock is the first rock movement defined by its *ethics*, not *aesthetics*. This means there's no historical precedent to show us how to counter it— or even to say that we *should*. And since guarding one's identity means never compromising on one's ethics, Millennials have long insisted that we *shouldn't*… at the cost of their impact on the world.
+To make matters worse, indie rock is the first rock movement defined by its *ethics*, not *aesthetics*. This means there's no historical precedent to show us how to counter it— or even to say that we *should*. And since guarding one's identity means never budging on one's ethics, Millennials have long insisted that we *shouldn't*… to the detriment of their impact on the world.
 
 So BYCombo offers a solution: Since our problems began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* and reject *indiefication*? Yes, this will anger the indie camp— but so did signing with the majors in the '90s! Because, you can care about who you are, *or* about what you get done— not both. Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D); I think you do too.
 
