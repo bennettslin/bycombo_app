@@ -349,7 +349,11 @@ In high school, a classmate referred to the carpetbaggers as "bad guys"— for h
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the elites of the political establishment… only to watch in confusion as the disadvantaged among us side with those [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
 
-Of course, it isn't just in politics, but also in culture, where this confusion has made Millennials so ineffectual. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— their generation's good guys— won't hear of it. It's like they think I'm voting against my own interests!
+${'  ' || `
+// TODO: Review.
+`}
+
+Of course, it isn't just in politics, but also in culture, where this confusion has done such damage. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— their generation's good guys— won't hear of it. It's like they think I'm voting against my own interests!
 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*— and thus sees wisdom in joining as well.
 
@@ -596,22 +600,26 @@ Do you dispute that indie rock sits on the cultural *right*? No worries! Let's j
 ${'  ' || `
 // TODO: Keep working on.
 
+Second paragraph, connect Millennials with their artists.
+
 New third paragraph: Reminder that indie rock arose to oppose the '90s alternative bands who genuinely wrestled with the decision to sign with the major labels, and ultimately did so out of a collectivist concern for impact. Mention major labels, otherwise fifth paragraph will need to be revised.
+
+Fifth paragraph, put "what you get done" in the first sentence.
 
 https://www.theguardian.com/music/2021/jul/26/why-is-selling-out-ok-now
 `}
 
 In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X only rejected *commercialism*, not *capitalism*. That is to say: "You can *sell*; just don't sell *out*." Still, the indie camp took it further: "Sell it *yourself*." Millennials then adopted indie rock's ideals as their own… until the hustle burned them out. Now they rail against the need to sell at all— or, capitalism *itself*!
 
-Which has led to the worst of all worlds: Millennials *readily* excuse those who sell out, knowing that survival today hinges upon it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) that underlies a *refusal* to do so: "Who you *are* matters more than what you get *done*." So now, when artists shamelessly boost their numbers, we're told to cheer them on… for being the underdogs they are!
+As a result, Millennials *readily* sell out, insisting that survival today depends on it… yet they've retained the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) that underlies a *refusal* to do so: "Who you *are* supersedes what you get *done*." Which has led to the worst of all worlds, in which artists *shamelessly* boost their numbers— even as we're told to cheer them on, simply for being the underdogs that they are!
 
 Third paragraph to talk about '90s alternative bands.
 
 Rather than an individualist concern for *identity*, theirs was a collectivist one for *impact*.
 
-To make matters worse, indie rock is the first rock movement defined by its *ethics*, not *aesthetics*. This means there's no historical precedent to show us how to counter it— or even to say that we *should*. And since guarding one's identity means never budging on one's ethics, Millennials have long insisted that we *shouldn't*… to the detriment of their impact on the world.
+To make matters worse, indie rock is the first rock movement defined by its *ethics*, not *aesthetics*. This means there's no historical precedent to show us how to counter it— or even to say that we *should*. And since guarding one's identity means never budging on one's ethics, Millennials have long insisted that we *shouldn't*… even if this means making less of an impact.
 
-So BYCombo offers a solution: Since our problems began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* and reject *indiefication*? Yes, this will anger the indie camp— but so did signing with the majors in the '90s! Because, you can care about who you are, *or* about what you get done— not both. Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D); I think you do too.
+So BYCombo offers a solution: Since our problems began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! And, be honest: Do *you* think you could be the [next Nirvana](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) without caring most about what you get *done*?
 
 ### ${++sectionCounter}. Victory is assured
 
