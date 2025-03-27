@@ -611,7 +611,7 @@ https://www.theguardian.com/music/2021/jul/26/why-is-selling-out-ok-now
 
 In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X only rejected *commercialism*, not *capitalism*. That is to say: "You can *sell*; just don't sell *out*." Still, the indie camp took it further: "Sell it *yourself*." Millennials then adopted indie rock's ideals as their own… until the hustle burned them out. Now they rail against the need to sell at all— or, capitalism *itself*!
 
-As a result, Millennials *readily* sell out, insisting that survival today depends on it… yet they've retained the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) that underlies a *refusal* to do so: "Who you *are* supersedes what you get *done*." Which has led to the worst of all worlds, in which artists *shamelessly* boost their numbers— even as we're told to cheer them on, simply for being the underdogs that they are!
+As a result, Millennials *readily* sell out, insisting that survival today depends on it… and yet, they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) that underlies a *refusal* to do so: "Who you *are* supersedes what you get *done*." This has given us the worst of all worlds, in which artists *shamelessly* boost their numbers— even as we're told to cheer them on, for being the underdogs they are!
 
 Third paragraph to talk about '90s alternative bands.
 
