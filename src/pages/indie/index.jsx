@@ -101,17 +101,25 @@ ${'  ' || `
 // TODO: Revise. Democracy without a judiciary is tyranny for the underclass.
 `}
 
-Yet populism is ultimately democracy without any institutional safeguards; for the underclass, then, this makes it no different from tyranny!
+Yet populism is just democracy without institutional safeguards; for the underclass, then, this makes it no different from tyranny!
 
 So what happens now, if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the majors? Why, you can rest assured: BYCombo is here to bring back elitism— the historical line of defense for subversive art!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
+${'  ' || `
+// TODO: Review. Consider in light of other area where I speak of betting it all on a single chance.
+`}
+
 Of course, there's another reason we respect those '80s underground bands: To come up from their local scenes— also known as the grassroots— they put in the work each day for untold years. In other words, they ensured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at public exposure… and then won the "lottery," so to speak.
 
 Thanks to online tools, though, today's lottery players get *unlimited* chances. Moreover, rather than go through the majors to spread their works from the top down, they now win the people's support from the bottom up— making the Internet our new grassroots. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
 
-By recasting itself as a populist movement, then, indie rock didn't just adopt the mainstream's *tastes*, but also its *indeterminacy*— where little but chance separates the few who make it from the millions who don't. But what if *you're* determined to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the elites!
+${'  ' || `
+// TODO: Review.
+`}
+
+By recasting itself as a populist movement, then, indie rock didn't just adopt the mainstream's *tastes*, but also its *indeterminacy*— where little but chance separates the few who make it from the millions who don't. But what if *you're* determined to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the next elites!
 
 ### ${++sectionCounter}. Charitable support starts an arms race
 
