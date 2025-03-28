@@ -101,6 +101,8 @@ ${'  ' || `
 // TODO: Revise. Democracy without a judiciary is tyranny for the underclass.
 `}
 
+Yet populism is ultimately democracy without any institutional safeguards; for the underclass, then, this makes it no different from tyranny!
+
 So what happens now, if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the majors? Why, you can rest assured: BYCombo is here to bring back elitism— the historical line of defense for subversive art!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
