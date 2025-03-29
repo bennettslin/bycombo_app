@@ -351,10 +351,6 @@ In high school, a classmate referred to the carpetbaggers as "bad guys"— for h
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the elites of the political establishment… only to watch in confusion as the disadvantaged among us side with those [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Of course, it isn't *just* in politics, but *also* in culture, where this confusion has done so much damage. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— the good guys, as Millennials see it— won't listen. It's like they think I'm voting against my own interests!
 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*— and thus sees wisdom in joining as well.
@@ -404,12 +400,10 @@ But while White men *easily* benefit from their identities without admitting to 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of *culture*, it's *I* who sit on the left— and *they*, the right!
 
 ${'  ' || `
-// TODO: Revise. Include notion that it isn't an ideal of those who'd rather gain from our collective interdependence— we on the cultural left?
-
-To gain from one's individual identity, then, is a *right*-wing ideal— as are all of indie rock's other ideals, along with most ideals favored by the privileged. It's the cultural *right* that's been ascendant this whole time! But now you can join the cultural *left*, and help BYCombo promote the one ideal favored most by the disadvantaged: to benefit from our collective *inter*-dependence.
+// TODO: Revise. Still need to work on the last sentence. Make it clear that being selfless is an ideal of the cultural left.
 `}
 
-To gain from one's individual identity, then— one's *self*, as it were— is simply the logical next step once there's less to be gained from one's self-*reliance*. Which means it, too, is an ideal of the cultural *right*! But now with BYCombo, you can help to promote the one ideal sought most by the cultural *left*: to gain from our collective *inter*-dependence.
+To gain from one's identity, then— one's *self*, as it were— is simply the logical next step once there's little left to be gained from one's self-*reliance*. Which means it, too, is an ideal of those on the *right*! But now with BYCombo, you can join the cultural *left*, and be self-*less*— by subsuming your individual identity into a collective, for the greater cause of making an impact.
 
 ### ${++sectionCounter}. Penultimate tolerance hides a pitfall
 
@@ -585,6 +579,8 @@ With this being the case, shouldn't we expect "indiefication" to make music… *
 
 ${'  ' || `
 // TODO: Keep working on.
+
+* Consider moving this and next to after identity section? Maybe not; it disrupts the whole race and identity flow
 
 * In this section or the next, point out that Gen X allowed indie rock to coexist as a counterculture to alternative in the '90s, but Millennials refused to allow interdependence to coexist with indie rock in the '00s
 
