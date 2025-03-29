@@ -412,10 +412,12 @@ But while White men *easily* benefit from their identities without admitting to 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of *culture*, it's *I* who sit on the left— and *they*, the right!
 
 ${'  ' || `
-// TODO: Revise. Reiterate wokeness. Can leave out privilege.
-`}
+// TODO: Keep working on.
 
 To gain from one's individual identity, then, is a *right*-wing ideal— as are all of indie rock's other ideals, along with most ideals favored by the privileged. It's the cultural *right* that's been ascendant this whole time! But now you can join the cultural *left*, and help BYCombo promote the one ideal favored most by the disadvantaged: to benefit from our collective *inter*-dependence.
+`}
+
+Wokeness, then, is an ideal of the cultural *right*. After all, once it's no longer enough to gain from one's self-*reliance*, what's next? It's to gain from one's individual identity— one's *self*, if you will! But now you can join the cultural *left*, and help BYCombo promote the one ideal sought most by us women and minorities all along: to gain from our collective *inter*-dependence.
 
 ### ${++sectionCounter}. Penultimate tolerance hides a pitfall
 
