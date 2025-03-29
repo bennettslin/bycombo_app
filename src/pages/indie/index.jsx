@@ -101,9 +101,7 @@ ${'  ' || `
 // TODO: Revise. Democracy without a judiciary is tyranny for the underclass.
 `}
 
-Yet populism is just democracy without institutional safeguards; for the underclass, then, this makes it no different from tyranny!
-
-So what happens now, if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the majors? Why, you can rest assured: BYCombo is here to bring back elitism— the historical line of defense for subversive art!
+Yet in promising to *obey* the people's will, populism is just democracy with no judicial safeguard— which, for the underclass, makes it *tyranny*! So what happens now, if *your* respect for the underground always had to do with the *aesthetics* of defying mainstream tastes, rather than the *logistics* of forgoing the majors? Why, you can rest assured: BYCombo is here to bring back elitism— the historical line of defense for subversive art!
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -400,10 +398,10 @@ But while White men *easily* benefit from their identities without admitting to 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of *culture*, it's *I* who sit on the left— and *they*, the right!
 
 ${'  ' || `
-// TODO: Revise. Still need to work on the last sentence. Make it clear that being selfless is an ideal of the cultural left.
+// TODO: Review.
 `}
 
-To gain from one's identity, then— one's *self*, as it were— is simply the logical next step once there's no more to be gained from one's self-*reliance*. Which means it, too, is an ideal of those on the *right*! But now with BYCombo, you can join the cultural *left*, and be self-*less*— by subsuming your individual identity into a collective, for the greater cause of making an impact.
+To gain from one's identity, then— one's *self*, if you will— is simply the logical next step once there's no more to be gained from self-*reliance*. So this, too, is a right-wing ideal held mostly by the privileged! But what if *your* ideal, along with much of the underclass, is to demand greater *inter*-dependence— to be self-*less*, as it were? Then come help BYCombo revive the cultural left!
 
 ### ${++sectionCounter}. Penultimate tolerance hides a pitfall
 
@@ -571,7 +569,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Let's ditch old beliefs, then, and think in systems: When an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— they *alone* reap the benefit… even as this erodes the public's interest in music as a *whole*. So others would be wise to do the same— leading to a "tragedy of the commons"! But now the advantage is in redirecting *10%*… then *15%*…
+Let's ditch old beliefs, then, and think in systems: When an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— they *alone* reap the benefit… even as this erodes the public's interest in music as a *whole*. So others would be wise to do the same— leading to a "tragedy of the commons"! And why not *10%*? Or *15%*? Now it's a "race to the bottom"…
 
 With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
