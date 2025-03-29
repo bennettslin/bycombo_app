@@ -403,7 +403,7 @@ ${'  ' || `
 // TODO: Revise. Still need to work on the last sentence. Make it clear that being selfless is an ideal of the cultural left.
 `}
 
-To gain from one's identity, then— one's *self*, as it were— is simply the logical next step once there's little left to be gained from one's self-*reliance*. Which means it, too, is an ideal of those on the *right*! But now with BYCombo, you can join the cultural *left*, and be self-*less*— by subsuming your individual identity into a collective, for the greater cause of making an impact.
+To gain from one's identity, then— one's *self*, as it were— is simply the logical next step once there's no more to be gained from one's self-*reliance*. Which means it, too, is an ideal of those on the *right*! But now with BYCombo, you can join the cultural *left*, and be self-*less*— by subsuming your individual identity into a collective, for the greater cause of making an impact.
 
 ### ${++sectionCounter}. Penultimate tolerance hides a pitfall
 
