@@ -403,7 +403,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To gain from one's identity, then— one's *self*, if you will— is simply the logical next step once there's no more to be gained from self-*reliance*. So this *too* is an ideal of the right, held mostly by the privileged! But what if *your* ideal, as with much of the underclass, is to demand greater *inter*-dependence— to be self-*less*, as it were? Then come help BYCombo revive the cultural left!
+So if seeking to gain from one's identity— one's *self*, if you will— is the logical next step once there's no more to be gained from self-*reliance*… then it *too* is an ideal of the right, held mainly by the privileged! Well, what if *your* ideal is to demand greater *inter*-dependence— to be self-*less*, as it were? Then come join BYCombo… and help to revive the cultural left!
 
 ### ${++sectionCounter}. Penultimate tolerance hides a pitfall
 
