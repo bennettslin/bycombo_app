@@ -21,7 +21,11 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 
 First, we raise *awareness*. Since "indie" means "good" to so many, few see the adverse effects of what I call "indiefication"— namely, our drive to propagate indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement… and so forth.
 
-Indiefication, seen to its logical conclusion in the online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— rather than simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by meeting *our* ideals! The problem, then, is with these *ideals*— and if you keep reading, I'll set this record straight.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Indiefication, seen to its logical conclusion in the online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by catering to *our* ideals! The problem, then, is with these *ideals*— and if you keep reading, I'll set this record straight.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -113,7 +117,11 @@ Thanks to online tools, though, today's lottery players get *unlimited* chances.
 
 By recasting itself as a populist movement, then, indie rock didn't just adopt the mainstream's *tastes*, but also its *indeterminacy*— where little but chance separates the few who make it from the millions who don't. But what if *you're* determined to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the next elites!
 
-### ${++sectionCounter}. Charitable support starts an arms race
+${'  ' || `
+// TODO: Review today title.
+`}
+
+### ${++sectionCounter}. Charity escalates into an arms race
 
 In the past, we didn't "support" artists— [outside of](https://en.wikipedia.org/wiki/Outsider_music) the *true* charity cases, like amateurs, recluses, the mentally ill… Yet today's fans will charitably support *any* artist, even superstars— a tendency known as "poptimism." How did this happen? It began when indie rock conflated personal taste with endowment for the arts, making every fan a philanthropist— a "phlan," maybe?
 
@@ -400,7 +408,7 @@ But while White men *easily* benefit from their identities without admitting to 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of *culture*, it's *I* who sit on the left— and *they*, the right!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
 So if seeking to gain from one's identity— one's *self*, if you will— is the logical next step once there's no more to be gained from self-*reliance*… then it *too* is an ideal of the right, held mainly by the privileged! Well, what if *your* ideal is to demand greater *inter*-dependence— to be self-*less*, as it were? Then come join BYCombo… and help to revive the cultural left!
@@ -555,15 +563,15 @@ Why is progressivism so badly beaten in both culture and politics today? It's be
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get taken down as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But there's good news: With some supporters of anti-elitist progressivism now having swung to the political *right*, it's no longer far-fetched to claim that anti-elitism *itself*— irrespective of politics— is a stance of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off reforming it from within!
 
 Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead— beginning with the very skills needed to analyze our problems and propose solutions. But how? Beyond just knowing our human nature… we must also appreciate systems in all their complexity.
 
-So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission— and hopefully, it can lead to some of your own!
+${'  ' || `
+// TODO: Review today.
+`}
+
+So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission… and hopefully, it can lead to some of your own!
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
@@ -575,7 +583,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Let's ditch old beliefs, then, and think in systems: When an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— they *alone* reap the benefit… even as this erodes the public's interest in music as a *whole*. So others would be wise to do the same— leading to a "tragedy of the commons"! And why not *10%*? Or *15%*? Now it's "drift to low performance"…
+Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, instead of simply *deserving* it, they *alone* reap the benefit— while eroding the public's interest in music as a *whole*! So others will do likewise… creating a "tragedy of the commons." But now 5% is the *baseline*; it's *10%* that takes the lead… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
 
 With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
