@@ -403,7 +403,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To gain from one's identity, then— one's *self*, if you will— is simply the logical next step once there's no more to be gained from self-*reliance*. So this, too, is a right-wing ideal held mostly by the privileged! But what if *your* ideal, along with much of the underclass, is to demand greater *inter*-dependence— to be self-*less*, as it were? Then come help BYCombo revive the cultural left!
+To gain from one's identity, then— one's *self*, if you will— is simply the logical next step once there's no more to be gained from self-*reliance*. So this, too, is an ideal of the right, held mostly by the privileged! But what if *your* ideal, as with much of the underclass, is to demand greater *inter*-dependence— to be self-*less*, as it were? Then come help BYCombo revive the cultural left!
 
 ### ${++sectionCounter}. Penultimate tolerance hides a pitfall
 
@@ -575,7 +575,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Let's ditch old beliefs, then, and think in systems: When an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— they *alone* reap the benefit… even as this erodes the public's interest in music as a *whole*. So others would be wise to do the same— leading to a "tragedy of the commons"! And why not *10%*? Or *15%*? Now it's a "race to the bottom"…
+Let's ditch old beliefs, then, and think in systems: When an artist redirects 5% of their effort toward *getting* the job— rather than simply *deserving* it— they *alone* reap the benefit… even as this erodes the public's interest in music as a *whole*. So others would be wise to do the same— leading to a "tragedy of the commons"! And why not *10%*? Or *15%*? Now it's "drift to low performance"…
 
 With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
