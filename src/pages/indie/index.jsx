@@ -583,7 +583,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, instead of simply *deserving* it, they *alone* reap the benefit— while eroding the public's interest in music as a *whole*! So others will do likewise… creating a "tragedy of the commons." But now 5% is the *baseline*; it's *10%* that takes the lead… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
+Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, instead of simply *deserving* it, they *alone* reap the benefit— while eroding the public's interest in music as a *whole*! So others will do likewise… creating a "tragedy of the commons." But now 5% is the *baseline*; it's *10%* that takes the lead! And… we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
 
 With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
