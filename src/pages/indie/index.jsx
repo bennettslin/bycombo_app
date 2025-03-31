@@ -101,7 +101,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet in *obeying* the people's will at all times, populism is just democracy with no judicial safeguard— making it *tyranny* for the underclass. We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in culture, at least!— by calling for a new generation of elites.
+Yet in *obeying* the people's will at all times, populism is just democracy with no judicial safeguard— making it *tyranny* for the underclass. We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in culture, anyway!— by calling for a new generation of elites.
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -349,7 +349,11 @@ But once competition takes place *away* from the public eye— as populism deman
 
 Which explains why the disadvantaged tend to be *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top, than to all others in the middle.
 
-Thankfully, *I've* never taken to indie rock's ideal of populist solidarity; as a minority Xennial, I much prefer hip hop's penchant for elitist snobbery— "rappism," maybe? Because public exposure *is* a zero-sum game, like it or not. Now BYCombo lets you treat it as such… just like rappists always have.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Thankfully, *I've* never taken to indie rock's ideal of populist solidarity; as a minority Xennial, I much prefer hip hop's penchant for elitist snobbery— "rappism," maybe? Because, public exposure *is* a zero-sum game, like it or not. Now BYCombo lets you treat it as such… just like rappists always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
@@ -391,7 +395,11 @@ Indie rock's ideals are based on *ethics*, not *aesthetics*— and ethics transc
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
-It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to end segregation. But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it will always uphold the prejudices of its times.
+${'  ' || `
+// TODO: Review today link.
+`}
+
+It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to [end segregation](https://mymodernmet.com/norman-rockwell-the-problem-we-all-live-with). But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it will always uphold the prejudices of its times.
 
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have repeatedly shown that you *aren't* your own best advocate? Why, BYCombo can help you find partners who'll advocate on your behalf— as we usher in a new time of civil rights for artists!
 
