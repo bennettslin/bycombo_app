@@ -98,10 +98,10 @@ In the '90s, though, as bands began to leave for the major labels, "alternative"
 But… this includes artists with mainstream tastes— who easily gain the most fans. Which means *they're* the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.), as its camp went from championing the underclass— who *aren't* for everyone… to rooting for underdogs— who *can* be.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
-Yet in *obeying* the people's will at all times, populism is just democracy with no judicial safeguard— making it *tyranny* for the underclass. We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in culture, anyway!— by calling for a new generation of elites.
+Yet in *obeying* the people's will at all times, populism is just democracy with no judicial safeguard— making it *tyranny* for the underclass. We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in culture!— by calling for a new generation of elites.
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -110,10 +110,6 @@ Of course, there's another reason we respect those '80s underground bands: To co
 Thanks to online tools, though, today's lottery players get *unlimited* chances. Moreover, rather than go through the majors to spread their works from the top down, they now win the people's support from the bottom up— making the Internet our new grassroots. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
 
 By recasting itself as a populist movement, then, indie rock didn't just adopt the mainstream's *tastes*, but also its *indeterminacy*— where little but chance separates the few who make it from the millions who don't. But what if *you're* determined to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the next elites!
-
-${'  ' || `
-// TODO: Review title.
-`}
 
 ### ${++sectionCounter}. Charity escalates into an arms race
 
@@ -387,11 +383,7 @@ Indie rock's ideals are based on *ethics*, not *aesthetics*— and ethics transc
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
-${'  ' || `
-// TODO: Review today link.
-`}
-
-It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to [end segregation](https://mymodernmet.com/norman-rockwell-the-problem-we-all-live-with). But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it will always uphold the prejudices of its times.
+It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to end segregation. But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it will always uphold the prejudices of its times.
 
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have repeatedly shown that you *aren't* your own best advocate? Why, BYCombo can help you find partners who'll advocate on your behalf— as we usher in a new time of civil rights for artists!
 
@@ -573,7 +565,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, rather than simply *deserving* it, they *alone* reap the benefit— while eroding the public's interest in music as a *whole*! So others will do the same… creating a "tragedy of the commons." But now, 5% less effort is the *baseline*… and soon, *10%*… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
+Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, rather than simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… creating a "tragedy of the commons." But now, 5% less effort is the *baseline*… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
 
 With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence still needs advocates. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
@@ -618,10 +610,10 @@ So BYCombo offers a solution: Since our troubles began when we accepted "indiefi
 ### ${++sectionCounter}. Victory is assured
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what critic, the one whose identity as an underdog provides so much surrounding context? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor?
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor? Or what critic, the one whose identity as an underdog provides so much surrounding context?
 
 Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
