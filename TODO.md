@@ -21,7 +21,6 @@
 * BYC
     * Judiciary and segregation links?
         * For international readers who don't know US history
-    * Right wing example?
     * Radio was a musical proving ground
         * Just a single paragraph in time section?
         * If you had taste in the '90s, every band you liked was one of three types: those like Nirvana, who were loved by both critics *and* musicians; those like Pavement, who were adored by *critics* but ignored by musicians; and those like Stone Temple Pilots, who were hated by critics but [admired by *musicians*](https://youtu.be/aVfU0wljJbA).

@@ -549,7 +549,11 @@ Why is progressivism so badly beaten in both culture and politics today? It's be
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get taken down as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
-But there's good news: With some supporters of anti-elitist progressivism now having swung to the political *right*, it's no longer far-fetched to claim that anti-elitism *itself*— irrespective of politics— is a stance of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off reforming it from within!
+${'  ' || `
+// TODO: Review, including link.
+`}
+
+But there's good news: With some well-known anti-elitists on the political left now [having swung](https://inthesetimes.com/article/former-left-right-fascism-capitalism-horseshoe-theory) to the *right*, it's no longer far-fetched to claim that anti-elitism *itself*— irrespective of politics— is a stance of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off reforming it from within!
 
 Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead— beginning with the very skills needed to analyze our problems and propose solutions. But how? Beyond just knowing our human nature… we must also appreciate systems in all their complexity.
 
@@ -595,7 +599,7 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X only rejected *commercialism*, not *capitalism*. That is to say: "You can *sell*; just don't sell *out*." Still, the indie camp took it further: "Sell it *yourself*." Millennials then adopted indie rock's ideals as their own… until the hustle burned them out. Now they rail against capitalism *itself*— namely, the need to sell at all!
+In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X only rejected *commercialism*, not *capitalism*. That is to say: "You can *sell*; just don't sell *out*." Still, the indie camp took it further: "Sell it *yourself*." Millennials then adopted indie rock's ideals as their own… until the hustle burned them out. Now they rail against the need to sell at all— or, capitalism *itself*!
 
 As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) underlying a *refusal* to do so: "Who you *are*… matters more than what you get *done*." But this has led to the worst of all worlds, in which artists *shamelessly* boost their numbers— while we're told to cheer them on, being the underdogs that they are!
 
