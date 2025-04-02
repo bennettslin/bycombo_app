@@ -15,7 +15,11 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an Xennial, I've spent half my life arguing that indie rock's fair practices have made music *worse*— to no avail; Millennials refused to listen. The way they saw it: "Thanks to the Internet, it's easier than ever to build a fanbase on your own. And the better your works, the farther you'll go. So if you hate it… what does that say about your works?"
+${'  ' || `
+// TODO: Review.
+`}
+
+Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an Xennial, I've spent half my life arguing that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to the Internet, it's now easier than ever to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does that say about your works?"
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
 
@@ -605,7 +609,7 @@ Reminder that indie rock arose to oppose the '90s alternative bands who genuinel
 
 To make matters worse, indie rock is the first rock movement defined by its *ethics*, not *aesthetics*. Which means history offers no precedent to show us how to revolt— or even to say that we *should*. And since ethics are central to one's identity, Millennials have long insisted that we *shouldn't*… even as this limits our impact.
 
-So BYCombo offers a solution: Since our troubles began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! And anyway, revolutions start with what you get *done*. Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D); I think you do too.
+So BYCombo offers a solution: Since our troubles began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! And anyway, it's what you get *done* that matters to history. Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D); I think you do too.
 
 ### ${++sectionCounter}. Victory is assured
 
