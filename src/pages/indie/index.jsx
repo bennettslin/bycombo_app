@@ -97,10 +97,6 @@ In the '90s, though, as bands began to leave for the major labels, "alternative"
 
 But… this includes artists with mainstream tastes— who easily gain the most fans. Which means *they're* the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock was recast as a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.), as its camp went from championing the underclass— who *aren't* for everyone… to rooting for underdogs— who *can* be.
 
-${'  ' || `
-// TODO: Review, including links.
-`}
-
 Yet in *obeying* the people's will at all times, populism is just democracy with no [judicial safeguard](https://www.fjc.gov/history/administration/executive-enforcement-judicial-orders#:~:text=While%20the%20story,Trail%20of%20Tears.)— making it *tyranny* [for the underclass](https://www.smithsonianmag.com/history/andrew-jackson-americas-original-anti-establishment-candidate-180958621/#:~:text=Jackson%E2%80%99s%20populism%20was,plentiful%20free%20land.). We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in culture, at least!— by calling for a new generation of elites.
 
 ### ${++sectionCounter}. The grassroots is now a lottery
@@ -383,10 +379,6 @@ Indie rock's ideals are based on *ethics*, not *aesthetics*— and ethics transc
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to [end segregation](https://www.theguardian.com/society/2021/may/06/ruby-bridges-the-six-year-old-who-defied-a-mob-and-desegregated-her-school). But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it will always uphold the prejudices of its times.
 
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have repeatedly shown that you *aren't* your own best advocate? Why, BYCombo can help you find partners who'll advocate on your behalf— as we usher in a new time of civil rights for artists!
@@ -475,7 +467,11 @@ Combining glam's gender-bending look with metal's aggression, glam metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
-Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to daydream, they were given structured ways to create and consume endless content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what was obvious: The only rules left that take courage to break… are the *structural* ones, like indie rock's— that *they* help to enforce!
+${'  ' || `
+// TODO: Review today.
+`}
+
+Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to dream, they were given structured ways to create and consume endless content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what this Xennial could see: The only rules left that take courage to break… are the *structural* ones, like indie rock's— that *they* help to enforce!
 
 Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
 
@@ -557,7 +553,7 @@ ${'  ' || `
 // TODO: Review, including link.
 `}
 
-But there's good news: With some well-known anti-elitists on the political left now [having swung](https://inthesetimes.com/article/former-left-right-fascism-capitalism-horseshoe-theory) to the *right*, it's no longer far-fetched to claim that anti-elitism *itself*— irrespective of politics— is a stance of the *cultural* right. It's the *right* that's best served by toppling the system; the *left* is better off reforming it from within!
+But there's good news: With many anti-elitists now having swung from the political left to the right— and few swinging [just as hard](https://inthesetimes.com/article/former-left-right-fascism-capitalism-horseshoe-theory#:~:text=Except%20%E2%80%8B%E2%80%9Chorseshoe%20theory%2C%E2%80%9D,in%20one%C2%A0direction.) in reverse— it's no longer far-fetched to claim that anti-elitism *itself*, at its core, is a right-wing stance. In both culture and politics, it's the *right* that's best served by toppling the system; the *left* is better off reforming it from within!
 
 Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead— beginning with the very skills needed to analyze our problems and propose solutions. But how? Beyond just knowing our human nature… we must also appreciate systems in all their complexity.
 
@@ -568,10 +564,6 @@ So if I could get every progressive— in both culture and politics— to read j
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally believed to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in their heyday?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, rather than simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… creating a "tragedy of the commons." But now, 5% less effort is our *baseline*… and soon, *10%*… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
 
@@ -616,10 +608,6 @@ To make matters worse, indie rock is the first rock movement defined by its *eth
 So BYCombo offers a solution: Since our troubles began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! And anyway, revolutions start with what you get *done*. Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D); I think you do too.
 
 ### ${++sectionCounter}. Victory is assured
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor? Or what critic, the one whose identity as an underdog provides so much surrounding context?
 
