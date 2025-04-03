@@ -15,10 +15,6 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an Xennial, I've spent half my life arguing that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to the Internet, it's easier than ever to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does that say about your works?"
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
@@ -437,7 +433,11 @@ To sum up, it was the *indie camp* who gave us today's [data-driven industry](ht
 
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want, just as word of mouth does… which is why indie rock defended them for as long as it did. In this light, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
-As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass who generates them! And when in doubt, we imitate others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
+${'  ' || `
+// TODO: Review today.
+`}
+
+As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass who generates them! Or, when in doubt, we consult others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
@@ -470,10 +470,6 @@ But all is assumed to be well, since today's artists easily look and sound like 
 Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X? They saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! And yet… Millennials adopted it as their own. Why were they content to merely "larp" the next revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to dream, they were given structured ways to create and consume endless content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what I could see: The only rules left that take courage to break… are the *structural* ones, like indie rock's— which *they* help to enforce!
 
@@ -551,13 +547,17 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us all to take down the "system" and its elites— but this only works out for libertarians, who aren't looking to replace the system with any other; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we want.
 
-So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get taken down as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
-
 ${'  ' || `
-// TODO: Review, including link.
+// TODO: Review today.
 `}
 
-But there's good news: With many anti-elitists now having swung from the political left to the right— and few swinging [just as hard](https://inthesetimes.com/article/former-left-right-fascism-capitalism-horseshoe-theory#:~:text=Except%20%E2%80%8B%E2%80%9Chorseshoe%20theory%2C%E2%80%9D,in%20one%C2%A0direction.) in reverse— it's no longer far-fetched to claim that anti-elitism *itself*, at its core, is a right-wing stance. In both culture and politics, it's the *right* that's best served by toppling the system; the *left* is better off reforming it from within!
+So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get toppled as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
+
+${'  ' || `
+// TODO: Review today.
+`}
+
+But there's good news: With many anti-elitists now having swung from the political left to the right— and few swinging [just as hard](https://inthesetimes.com/article/former-left-right-fascism-capitalism-horseshoe-theory#:~:text=Except%20%E2%80%8B%E2%80%9Chorseshoe%20theory%2C%E2%80%9D,in%20one%C2%A0direction.) in reverse— it's no longer far-fetched to claim that anti-elitism at its *core* is a right-wing stance, whether in culture or politics. It's the *right* that's best served by taking down the system; the *left* is better off reforming it from within!
 
 Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead— beginning with the very skills needed to analyze our problems and propose solutions. But how? Beyond just knowing our human nature… we must also appreciate systems in all their complexity.
 
