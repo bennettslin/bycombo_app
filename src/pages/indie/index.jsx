@@ -589,9 +589,7 @@ In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the
 
 As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) underlying a *refusal* to do so: "Who you *are*… matters more than what you get *done*." But this has led to the worst of all worlds, in which artists *shamelessly* boost their numbers— while we're told to cheer them on, being the underdogs that they are!
 
-What's missing these days is those '90s alternative bands like Nirvana and Radiohead, who wrestled with being seen as sellouts— an individualist concern for *identity*— but ultimately chose to sign with major labels, driven by a collectivist one for *impact*.
-
-Reminder that indie rock arose to oppose the '90s alternative bands who genuinely wrestled with the decision to sign with the major labels, and ultimately did so out of a collectivist concern for impact. Mention major labels, otherwise fifth paragraph will need to be revised.
+Whatever happened to those [alternative bands](https://substack.com/@bobtail/note/c-106073033) like Nirvana and Radiohead, who wrestled with being sellouts, but then signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact? Millennials are too young to remember: The indie camp rose up in the '90s to *oppose* such bands.
 
 To make matters worse, indie rock is the first rock movement defined by its *ethics*, not *aesthetics*. Which means history offers no precedent to show us how to revolt— or even to say that we *should*. And since ethics are central to one's identity, Millennials have long insisted that we *shouldn't*… even as this limits our impact.
 
