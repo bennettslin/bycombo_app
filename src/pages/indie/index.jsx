@@ -437,7 +437,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass who generates them! Or, when in doubt, we consult others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
+As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass who generates them! And when in doubt, we consult others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
@@ -547,17 +547,13 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 Why is progressivism so badly beaten in both culture and politics today? It's because indie rock told us all to take down the "system" and its elites— but this only works out for libertarians, who aren't looking to replace the system with any other; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we want.
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get toppled as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
 ${'  ' || `
 // TODO: Review today.
 `}
 
-But there's good news: With many anti-elitists now having swung from the political left to the right— and few swinging [just as hard](https://inthesetimes.com/article/former-left-right-fascism-capitalism-horseshoe-theory#:~:text=Except%20%E2%80%8B%E2%80%9Chorseshoe%20theory%2C%E2%80%9D,in%20one%C2%A0direction.) in reverse— it's no longer far-fetched to claim that anti-elitism at its *core* is a right-wing stance, whether in culture or politics. It's the *right* that's best served by taking down the system; the *left* is better off reforming it from within!
+But there's good news: With many anti-elitists now having swung from the political left to the right— and few swinging [just as hard](https://inthesetimes.com/article/former-left-right-fascism-capitalism-horseshoe-theory#:~:text=Except%20%E2%80%8B%E2%80%9Chorseshoe%20theory%2C%E2%80%9D,in%20one%C2%A0direction.) in reverse— it's no longer far-fetched to say that anti-elitism, at its *core*, is a right-wing stance. Whether in culture or politics, it's the *right* that's best served by taking down the system; the *left* is better off reforming it from within!
 
 Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead— beginning with the very skills needed to analyze our problems and propose solutions. But how? Beyond just knowing our human nature… we must also appreciate systems in all their complexity.
 
@@ -602,10 +598,6 @@ To make matters worse, indie rock is the first rock movement defined by its *eth
 So BYCombo offers a solution: Since our troubles began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! And anyway, it's what you get *done* that matters to history. Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D); I think you do too.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
-
-${'  ' || `
-// TODO: Review move.
-`}
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
