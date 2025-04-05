@@ -583,17 +583,20 @@ Do you dispute that indie rock sits on the cultural *right*? No worries! Let's j
 
 ${'  ' || `
 // TODO: Keep working on.
+
+
+Fourth paragraph, make clear that after indie rock took over, it refused to allow for an opposition.
 `}
 
 In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X only rejected *commercialism*, not *capitalism*. That is to say: "You can *sell*; just don't sell *out*." Still, the indie camp took it further: "Sell it *yourself*." Millennials then adopted indie rock's ideals as their own… until the hustle burned them out. Now they rail against the need to sell at all— or, capitalism *itself*!
 
-As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) underlying a *refusal* to do so: "Who you *are*… matters more than what you get *done*." But this has led to the worst of all worlds, in which artists *shamelessly* boost their numbers— while we're told to cheer them on, being the underdogs that they are!
+As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) underlying a *refusal* to do so: "Who you *are*… matters more than what you get *done*." But this has led to the worst of all worlds, in which artists *shamelessly* boost their numbers— while we're told to cheer them on, for being the underdogs that they are!
 
-Whatever happened to those [alternative bands](https://substack.com/@bobtail/note/c-106073033) like Nirvana and Radiohead, who wrestled with being sellouts, but then signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact? Millennials are too young to remember: The indie camp rose up in the '90s to *oppose* such bands.
+Whatever happened to [alternative bands](https://substack.com/@bobtail/note/c-106073033) like Nirvana and Radiohead, who wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our own individualist concerns for *identity*, in favor of a collectivist one for *impact*? Millennials are too young to remember: In the '90s, the indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) to *oppose* such bands.
 
 To make matters worse, indie rock is the first rock movement defined by its *ethics*, not *aesthetics*. Which means history offers no precedent to show us how to revolt— or even to say that we *should*. And since ethics are central to one's identity, Millennials have long insisted that we *shouldn't*… even as this limits our impact.
 
-So BYCombo offers a solution: Since our troubles began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! And anyway, it's what you get *done* that matters to history. Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D); I think you do too.
+So BYCombo offers a solution: Since our troubles began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! In which case, who cares? Making history is about what you get *done*. Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D); I think you do too.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
