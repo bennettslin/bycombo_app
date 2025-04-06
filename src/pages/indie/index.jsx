@@ -397,10 +397,6 @@ But while White men *easily* benefit from their identities without admitting to 
 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of *culture*, it's *I* who sit on the left— and *they*, the right!
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 So if seeking to gain from one's identity— one's *self*, if you will— is the logical next step once there's no more to be gained from self-*reliance*… then it *too* is an ideal of the right, held mainly by the privileged! Well, what if *your* demand is for greater *inter*-dependence— to be self-*less*, as it were? Then come join BYCombo… and help to revive the cultural left!
 
 ### ${++sectionCounter}. Penultimate tolerance hides a pitfall
@@ -444,10 +440,6 @@ To sum up, it was the *indie camp* who gave us today's [data-driven industry](ht
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
 Are we headed for a new Romanticism? Some speak of a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want, just as word of mouth does… which is why indie rock defended them for as long as it did. In this light, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass who generates them! And when in doubt, we look to others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
 
@@ -619,11 +611,7 @@ With this being the case, shouldn't we expect "indiefication" to make music… *
 
 ### ${++sectionCounter}. Victory is assured
 
-${'  ' || `
-// TODO: Review today.
-`}
-
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor? Or what critic, the one whose identity as society's underdog provides so much surrounding context?
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor? Or what critic, the one whose identity as an underdog provides so much surrounding context?
 
 Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
