@@ -99,7 +99,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But… this includes artists with mainstream tastes— who easily gain the most fans. Which means *they're* the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock abandoned its elitism and became a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.), as it went from championing the under-*class*— who aren't for everyone… to rooting for under-*dogs*— who can be.
+But… this includes artists with mainstream tastes— who easily gain the most fans. Which means *they're* the ones who get picked by the indie tastemakers! Sometime in the '00s, then, indie rock renounced its elitism and embraced [populism instead](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.), as it went from championing the under-*class*— who aren't for everyone… to rooting for under-*dogs*— who can be.
 
 Yet in *obeying* the people's will at all times, populism is just democracy with no [judicial safeguard](https://www.fjc.gov/history/administration/executive-enforcement-judicial-orders#:~:text=While%20the%20story,Trail%20of%20Tears.)— making it *tyranny* [for the underclass](https://www.smithsonianmag.com/history/andrew-jackson-americas-original-anti-establishment-candidate-180958621/#:~:text=Jackson%E2%80%99s%20populism%20was,plentiful%20free%20land.). We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in culture, at least!— by calling for a new generation of elites.
 
@@ -402,10 +402,6 @@ So if seeking to gain from one's identity— one's *self*, if you will— is the
 ### ${++sectionCounter}. Penultimate tolerance hides a pitfall
 
 No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet when I came along— trying much harder, to be much better— no indie tastemaker sympathized with my need to be judged *apart* from my identity. Why? My guess is that Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was to be null and void.
 
