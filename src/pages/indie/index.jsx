@@ -95,10 +95,6 @@ We all respect those alternative bands of the ['80s underground](https://www.hac
 
 In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22,%22+indie+rock+%22,%22+underground+rock+%22&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock renounced its elitism and became a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.), as it went from championing the under-*class*— who aren't for everyone… to rooting for under-*dogs*— who can be.
 
 Yet in *obeying* the people's will at all times, populism is just democracy with no [judicial safeguard](https://www.fjc.gov/history/administration/executive-enforcement-judicial-orders#:~:text=While%20the%20story,Trail%20of%20Tears.)— making it *tyranny* [for the underclass](https://www.smithsonianmag.com/history/andrew-jackson-americas-original-anti-establishment-candidate-180958621/#:~:text=Jackson%E2%80%99s%20populism%20was,plentiful%20free%20land.). We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in culture, at least!— by calling for a new generation of elites.
@@ -234,10 +230,6 @@ Sadly, young folks never question today's auto-Bizarro world, since it's all the
 ### ${++sectionCounter}. Self-reliance is a partisan ideal
 
 Want even *more* absurdity? Any rich artist can simply pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— to the benefit of the privileged. How did this happen?
-
-${'  ' || `
-// TODO: Review link.
-`}
 
 Simply put, indie rock is widely seen as a do-it-yourself movement— the kind that fosters *cooperative* self-reliance by instilling a [love for the craft](https://en.wikipedia.org/wiki/Maker_Faire). As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
@@ -477,9 +469,15 @@ Here's what I mean: If you *don't* hustle, the indie camp will reject you. But y
 
 Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to dream, they were given structured ways to create and consume endless content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what I could see: The only rules left that take courage to break… are the *structural* ones, like indie rock's— which *they* help to enforce!
 
-Moreover, back when content was scarce, joining a scene— goth, punk— took dedication; it meant rejecting the rest. This taught Gen X to stand fiercely for their side— knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Taking a side is *just* a larp— while those who defy the structures that allow for such larping are to be *genuinely* opposed.
-
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try this Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
+
+### ${++sectionCounter}. Wisdom knows when to pick a side
+
+${'  ' || `
+// TODO: Keep working on. Mention indiefication.
+`}
+
+Back when content was scarce, joining a scene— goth, punk— was a lifetime effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing [deep down](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196) that others aren't so different. But for Millennials, it's now the other way around: Taking a side is *just* a "larp"… while those who defy the structures that allow for such larping are a *genuine* threat.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
