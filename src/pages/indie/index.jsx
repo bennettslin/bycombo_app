@@ -151,7 +151,7 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 
 The reverse is also true, of course: Those who'd settle for a "thousand true fans" *won't* try to make the best art. Yet indie rock wants a "long tail" of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not crabs in a bucket. But if a critical darling strikes us as a "lottery" winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket." But if a critical darling strikes us as a "lottery" winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
 
@@ -395,15 +395,19 @@ Yet such attacks are doomed to fail. How do I know? Because, when the indie labe
 
 So if seeking to gain from one's identity— one's *self*, if you will— is the logical next step once there's no more to be gained from self-*reliance*… then it *too* is an ideal of the right, held mainly by the privileged! Well, what if *your* demand is for greater *inter*-dependence— to be self-*less*, as it were? Then come join BYCombo… and help to revive the cultural left!
 
-### ${++sectionCounter}. Penultimate tolerance hides a pitfall
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Penultimate tolerance rescinds a lifeline
 
 No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review.
 `}
 
-Yet when I came along— trying much harder, to be much better— no indie tastemaker sympathized with my need to be judged *apart* from my identity. Why? My guess is that Millennials were the first generation to believe they'd achieved perfect tolerance. As such, they declared that, henceforth, society's age-old bargain with the hungry outsider was to be null and void.
+Yet when I came along— trying much harder, to be much better— no indie tastemaker understood this as a plea to be judged *apart* from my identity. Why? My guess is that Millennials were the first generation to think they'd achieved perfect tolerance. As such, they decided that, henceforth, society's age-old bargain with the hungry outsider was to be null and void.
 
 Thus I had *no* lifeline— and then, as it happens, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we *must* throw a lifeline to those we don't root for.
 
@@ -593,13 +597,13 @@ ${'  ' || `
 
 In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X only rejected *commercialism*, not *capitalism*. That is to say: "You can *sell*; just don't sell *out*." Still, the indie camp took it further: "Sell it *yourself*." Millennials then adopted indie rock's ideals as their own… until the hustle burned them out. Now they rail against the need to sell at all— or, capitalism *itself*!
 
-As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
+As a result, Millennials *readily* sell out, believing that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
 
 Meanwhile, '90s [alternative bands](https://substack.com/@bobtail/note/c-106073033) like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) to *oppose* such bands.
 
-But upon taking over in the '00s, they've faced no opposition in turn. After all, theirs is the first rock movement based on *ethics*, not *aesthetics*— which means there's no historical precedent to show us how to revolt… or even to say that we *should*. And since ethics are central to one's identity, Millennials have long declared that we *shouldn't*— to the detriment of our impact.
+Then they took over in the '00s… and now face no opposition in turn. After all, theirs is the first rock movement based on *ethics*, not *aesthetics*— which means history offers no precedent to show us how to revolt… or even to say that we *should*. And since ethics are core to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
-Yet if our troubles first began when we accepted "indiefication" and rejected capitalism, then why not accept *capitalism*… and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! Anyway, making history is about what you get *done*, no? Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D), as does BYCombo; I think you do too.
+Well, if our troubles began when we accepted "indiefication" and rejected capitalism, then why not accept *capitalism*… and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! Anyway, making history is about what you get *done*, no? Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D), as does BYCombo; I think you do too.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
