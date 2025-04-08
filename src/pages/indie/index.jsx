@@ -484,12 +484,10 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 ${'  ' || `
 // TODO: Keep working on. Mention indiefication.
 
-
-
 Scenario A and scenario B.
 `}
 
-Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing [deep down](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196) that others aren't so different. But for Millennials, it's now the other way around: Picking a side is *just* a "larp"— while any threat to the structures that allow for such larping… is to be *fiercely* opposed.
+Back when content was scarce, joining a scene— goth, punk— was a lifetime effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing [deep down](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196) that others aren't so different. But for Millennials, it's now the other way around: Every side they pick is just an "era"— while any threat to the structures that allow for this liberty… is to be *fiercely* opposed.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
@@ -597,13 +595,13 @@ ${'  ' || `
 
 In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X only rejected *commercialism*, not *capitalism*. That is to say: "You can *sell*; just don't sell *out*." Still, the indie camp took it further: "Sell it *yourself*." Millennials then adopted indie rock's ideals as their own… until the hustle burned them out. Now they rail against the need to sell at all— or, capitalism *itself*!
 
-As a result, Millennials *readily* sell out, believing that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
+As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs that they are!
 
 Meanwhile, '90s [alternative bands](https://substack.com/@bobtail/note/c-106073033) like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) to *oppose* such bands.
 
-Then they took over in the '00s… and now face no opposition in turn. After all, theirs is the first rock movement based on *ethics*, not *aesthetics*— which means history offers no precedent to show us how to revolt… or even to say that we *should*. And since ethics are core to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
+Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history offers no precedent to show us how to revolt… or even to say that we *should*. And since ethics are core to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
-Well, if our troubles began when we accepted "indiefication" and rejected capitalism, then why not accept *capitalism*… and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! Anyway, making history is about what you get *done*, no? Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D), as does BYCombo; I think you do too.
+Well… if our troubles began when we accepted "indiefication" and rejected capitalism… then why not accept *capitalism*… and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! Anyway, making history is about what you get *done*. Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D), as does BYCombo; I think you do too.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
