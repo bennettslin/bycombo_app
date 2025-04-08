@@ -59,10 +59,6 @@ To aim for the canon, a band must develop exceptional strengths. But this isn't 
 
 **Why demos?**
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with "[doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7)" being my own go-to example. Yes, anyone today can self-release their works… but this isn't a *blessing*; it's a *curse*! Past artists put out *demos*, and to rival them means doing likewise.
 
 **Why a demo *registry*?**

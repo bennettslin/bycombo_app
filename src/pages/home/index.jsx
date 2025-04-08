@@ -57,10 +57,6 @@ Suffice it to say, then… the indie labels rejected my demo. They also ignored 
 
 Worst of all, if the major labels are "bad guys," then this makes the indies "good guys." Well, who finally put the good guys in charge? Millennials! It's their greatest achievement, which they now protect at all costs. So anyone who questions their tastemakers is a bad guy as well— especially anyone from an [older generation](https://youtu.be/tODG4Xt45bU). And this gets at the heart of the problem:
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 **As the first rock movement to hold its ideals to be universal, indie rock is also the first to lock its rules in place. Which means there's no historical precedent to teach us how to resist… or even to tell us that we *can*.**
 
 ### A hundred *Yearling's Bobtail*s
