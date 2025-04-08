@@ -603,7 +603,7 @@ Meanwhile, '90s [alternative bands](https://substack.com/@bobtail/note/c-1060730
 
 But upon taking over in the '00s, they've faced no opposition in turn. After all, theirs is the first rock movement based on *ethics*, not *aesthetics*— which means there's no historical precedent to show us how to revolt… or even to say that we *should*. And since ethics are central to one's identity, Millennials have long declared that we *shouldn't*— to the detriment of our impact.
 
-Yet if our troubles first began when we accepted "indiefication" and rejected capitalism… then why not accept *capitalism*… and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! Anyway, making history is about what you get *done*. Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D)— as does BYCombo; I think you do too.
+Yet if our troubles first began when we accepted "indiefication" and rejected capitalism, then why not accept *capitalism*… and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! Anyway, making history is about what you get *done*, no? Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D), as does BYCombo; I think you do too.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
