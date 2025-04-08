@@ -482,12 +482,16 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 ### ${++sectionCounter}. Wisdom knows when to pick sides
 
 ${'  ' || `
-// TODO: Keep working on. Mention indiefication.
+// TODO: Keep working on.
+
+
+ 
+Mention indiefication.
 
 Scenario A and scenario B.
 `}
 
-Back when content was scarce, joining a scene— goth, punk— was a lifetime effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing [deep down](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196) that others aren't so different. But for Millennials, it's now the other way around: Every side they pick is just an "era"— while any threat to the structures that allow for this liberty… is to be *fiercely* opposed.
+Back when content was scarce, joining a scene— goth, punk— was a lifetime effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing [deep down](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196) that others aren't so different. But for Millennials, it's now the other way around: Any side they pick is just an "era"— while those who threaten the structures that allow this liberty… must be *fiercely* opposed.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
