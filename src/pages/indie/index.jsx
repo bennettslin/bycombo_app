@@ -59,7 +59,11 @@ To aim for the canon, a band must develop exceptional strengths. But this isn't 
 
 **Why demos?**
 
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7) being my own go-to example. Yes, anyone today can self-release their works… but this isn't a *blessing*; it's a *curse*! Past artists put out *demos*, and to rival them means doing likewise.
+${'  ' || `
+// TODO: Review today.
+`}
+
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with "[doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7)" being my own go-to example. Yes, anyone today can self-release their works… but this isn't a *blessing*; it's a *curse*! Past artists put out *demos*, and to rival them means doing likewise.
 
 **Why a demo *registry*?**
 
@@ -597,9 +601,9 @@ As a result, Millennials *readily* sell out, insisting that survival today depen
 
 Meanwhile, '90s [alternative bands](https://substack.com/@bobtail/note/c-106073033) like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) to *oppose* such bands.
 
-But then, upon taking over in the '00s, indie rock faced no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means there's no historical precedent to show us how to revolt… or even to say that we *should*. And since ethics are central to one's identity, Millennials declared that we *shouldn't*— to the detriment of our impact.
+But upon taking over in the '00s, they've faced no opposition in turn. After all, theirs is the first rock movement based on *ethics*, not *aesthetics*— which means there's no historical precedent to show us how to revolt… or even to say that we *should*. And since ethics are central to one's identity, Millennials have long declared that we *shouldn't*— to the detriment of our impact.
 
-Yet if our troubles first began when we accepted "indiefication" and rejected capitalism… then why not accept *capitalism*… and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! Anyway, making history is about what you get *done*, no? Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D)— as does BYCombo; I think you do too.
+Yet if our troubles first began when we accepted "indiefication" and rejected capitalism… then why not accept *capitalism*… and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! Anyway, making history is about what you get *done*. Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D)— as does BYCombo; I think you do too.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
