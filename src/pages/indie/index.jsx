@@ -589,6 +589,8 @@ Do you dispute that indie rock sits on the cultural *right*? No worries! Let's j
 
 ${'  ' || `
 // TODO: Review a few more times.
+
+Fifth paragraph. Get rid of since, and put BYCombo in last sentence?
 `}
 
 In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X only rejected *commercialism*, not *capitalism*. That is to say: "You can *sell*; just don't sell *out*." Still, the indie camp took it further: "Sell it *yourself*." Millennials then adopted indie rock's ideals as their own… until the hustle burned them out. Now they rail against the need to sell at all— or, capitalism *itself*!
@@ -597,7 +599,7 @@ As a result, Millennials *readily* sell out, insisting that survival today depen
 
 Meanwhile, '90s [alternative bands](https://substack.com/@bobtail/note/c-106073033) like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) to *oppose* such bands.
 
-But upon taking over in the '00s, they've allowed no opposition in turn. After all, theirs is the first rock movement based on *ethics*, not *aesthetics*— which means history offers no precedent to show us how to revolt… or even to say that we *should*. And given that ethics are central to one's identity, Millennials have long declared that we *shouldn't*— to the detriment of our impact.
+But then, upon taking over in the '00s, indie rock faced no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history offers no precedent to show us how to revolt… or even to say that we *should*. And since ethics are core to one's identity, Millennials have long declared that we *shouldn't*— to the detriment of our impact.
 
 Well, BYCombo has a solution: Since our troubles began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! Anyway, making history is about what you get *done*, no? Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D); I think you do too.
 
