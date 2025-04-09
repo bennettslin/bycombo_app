@@ -395,10 +395,6 @@ Yet such attacks are doomed to fail. How do I know? Because, when the indie labe
 
 So if seeking to gain from one's identity— one's *self*, if you will— is the logical next step once there's no more to be gained from self-*reliance*… then it *too* is an ideal of the right, held mainly by the privileged! Well, what if *your* demand is for greater *inter*-dependence— to be self-*less*, as it were? Then come join BYCombo… and help to revive the cultural left!
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. Penultimate tolerance revokes a lifeline
 
 No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
@@ -407,7 +403,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet when I came along— trying much harder, to be much better— no indie tastemaker understood my approach. Why? My hunch is that Millennials were the first generation to think we'd achieved perfect tolerance; as such, they forgot all about society's age-old bargain with the hungry outsider.
+Yet when I came along— trying much harder, to be much better— no indie tastemaker understood that I *too* was asking to be judged apart from my independence or identity. Why? My hunch is that Millennials were the first generation to believe they'd achieved perfect tolerance; as such, they forgot all about society's age-old bargain with the hungry outsider.
 
 Thus I had *no* lifeline— and then, as it happens, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we *must* throw a lifeline to those we don't root for.
 
@@ -601,9 +597,9 @@ As a result, Millennials *readily* sell out, insisting that survival today depen
 
 Meanwhile, '90s [alternative bands](https://substack.com/@bobtail/note/c-106073033) like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) to *oppose* such bands.
 
-Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history offers no precedent to show us how to revolt… or even to say that we *should*. And since ethics are core to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
+Then indie rock took over in the '00s… and now faces no opposition in turn. Why? Because it's the first rock movement based on *ethics*, not *aesthetics*— which means history offers no precedent to show us how to resist… or even to say that we *should*. And since ethics are core to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
-Well… if our troubles began when we accepted "indiefication" and rejected capitalism… then why not accept *capitalism*… and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! Anyway, making history is about what you get *done*. Kurt Cobain [knew this](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D), as does BYCombo; I think you do too.
+Well… if our troubles began when we accepted "indiefication" and rejected capitalism… then why not accept *capitalism*… and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! Anyway, making history is about what you get *done*— as Kurt Cobain knew. Now BYCombo lets you act on [this knowledge](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) as well.
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
