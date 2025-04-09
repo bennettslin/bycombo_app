@@ -403,7 +403,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet when I came along— trying much harder, to be much better— no indie tastemaker understood that I *too* was asking to be judged apart from my independence or identity. Why? My hunch is that Millennials were the first generation to believe they'd achieved perfect tolerance; as such, they forgot all about society's age-old bargain with the hungry outsider.
+Yet when I came along— trying much harder, to be much better— no indie tastemaker understood that, like Sammy and Eminem, I was asking to be judged apart from my identity. Why? My hunch is that Millennials were the first generation to believe they'd achieved perfect tolerance; as such, they forgot all about society's age-old bargain with the hungry outsider.
 
 Thus I had *no* lifeline— and then, as it happens, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we *must* throw a lifeline to those we don't root for.
 
@@ -418,6 +418,10 @@ Ignore the superficial differences in sound: Indie rock and poptimism are both u
 Both movements protect the chosen underdog by refusing to ask: "Wouldn't the rejected outsider— who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times, then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
+
+${'  ' || `
+// TODO: Revise. Reiterate that it's outsiders and minorities who want rockism.
+`}
 
 Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you just *aren't* whom the people want to root for? Then let BYCombo throw you a lifeline— by bringing back the rockism of [Sister Rosetta](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
 
