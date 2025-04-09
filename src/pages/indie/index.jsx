@@ -407,7 +407,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet when I came along— trying much harder, to be much better— no indie tastemaker understood this as a plea to judge me *apart* from my identity. Why? My guess is that Millennials were the first generation to think they'd achieved perfect tolerance. As such, they assumed that society's age-old bargain with the hungry outsider was now null and void.
+Yet when I came along— trying much harder, to be much better— no indie tastemaker understood my approach. Why? My hunch is that Millennials were the first generation to think we'd achieved perfect tolerance; as such, they forgot all about society's age-old bargain with the hungry outsider.
 
 Thus I had *no* lifeline— and then, as it happens, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we *must* throw a lifeline to those we don't root for.
 
