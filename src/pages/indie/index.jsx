@@ -85,7 +85,11 @@ Simply put, indie rock doesn't know what it stands *for*, only whom it stands *a
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label… this was seen as proof that artists *don't* need a label deal?!
 
-In every early example of online success, chance or privilege played a clear role. Yet the indie camp was so eager to spurn the majors, they downplayed this point. Well, it worked: The Internet came to be seen as a meritocracy, where *anyone* can make it. Except now, if an indie artist struggles to do so… the public *has* to assume they're unworthy!
+${'  ' || `
+// TODO: Review today.
+`}
+
+In every early example of online success, chance or privilege played a clear role; yet the indie camp was so eager to spurn the majors, they downplayed this point. Well, it worked: The Internet came to be seen as a meritocracy, where *anyone* can make it. Except now, if an indie artist struggles to do so… the public *has* to assume they're unworthy!
 
 As with MAGA, then, indie rock's weakness for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
 
@@ -490,10 +494,16 @@ ${'  ' || `
 
 Mention indiefication.
 
-Scenario A and scenario B.
+If hustling offers an advantage, then it *must* be a disadvantage not to do so.
 `}
 
-Back when content was scarce, joining a scene— goth, punk— was a lifetime effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing [deep down](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196) that others aren't so different. But for Millennials, it's now the other way around: Any side they pick is just an "era"— while those who threaten the structures that allow this liberty… must be *fiercely* opposed.
+Back when content was scarce, joining a scene— goth, punk— was a lifetime effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing [deep down](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196) that others aren't so different. But for Millennials, it's now the other way around: Every side they pick is just an "era"— while any threat to the structures that permit this liberty… must be *fiercely* opposed.
+
+This belief that the differences between us are trivial, and that holding out for unity to defeat the outnumbered bad guys is ideal, has had destructive effects. In politics, the notion that "we are the 99%" fooled progressives into holding out for an uncompromising vision of left-wing populism. And in culture, it led the indie camp to a similarly naive belief.
+
+For instance, imagine an artist who hustles to build a fanbase on their own, allowing them to negotiate with labels from a position of strength. The entire pro-artist crowd cheers, right? Now imagine an artist being refused by the labels, as they haven't built a fanbase on their own. Now, the crowd, as one, boos the short-sightedness of labels. Yet the first scenario begets the second!
+
+If you love the first scenario, you *must* be indifferent to the second; or else, if you lament the second, you *must* deplore the first. They're opposing stances, which means there simply can't be pro-artist unity, and the naive belief otherwise is the reason the arts are in bad shape. Luckily, BYCombo takes a side: We deplore that the hustle is worth anything.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
