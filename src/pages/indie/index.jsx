@@ -157,10 +157,6 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 
 For instance, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](https://bobtailyearlings.com/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 In essence: Ignore the critics, or any others who think that making history is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of fellow *artists*. So come join BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out rock's own Galant era.
 
 ### ${++sectionCounter}. Time is kind to craft, not context
@@ -341,7 +337,11 @@ But once competition takes place *away* from the public eye— as populism deman
 
 Which explains why the disadvantaged tend to be *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top, than to all others in the middle.
 
-Thankfully, *I've* never taken to indie rock's ideal of populist solidarity; as a minority Xennial, I much prefer hip hop's penchant for elitist snobbery— "rappism," maybe? Because, public exposure *is* a zero-sum game, like it or not. Now BYCombo lets you treat it as such… just like rappists always have.
+${'  ' || `
+// TODO: Review.
+`}
+
+Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennial and a minority, I much prefer hip hop's elitist snobbery— "rappism," maybe? Because, public exposure *is* a zero-sum game, like it or not. Now BYCombo lets you treat it as such… just like rappists always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
@@ -399,10 +399,6 @@ Yet such attacks are doomed to fail. How do I know? Because, when the indie labe
 
 So if seeking to gain from one's identity— one's *self*, if you will— is the logical next step once there's no more to be gained from self-*reliance*… then it *too* is an ideal of the right, held mainly by the privileged! Well, what if *your* demand is for greater *inter*-dependence— to be self-*less*, as it were? Then come join BYCombo… and help to revive the cultural left!
 
-${'  ' || `
-// TODO: Review today title.
-`}
-
 ### ${++sectionCounter}. Penultimate tolerance rescinds a lifeline
 
 No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
@@ -427,7 +423,11 @@ Both movements protect the chosen underdog by refusing to ask: "Wouldn't the rej
 
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you just *aren't* whom the people want to root for? Then let BYCombo throw you a lifeline— by bringing back the rockism of [Sister Rosetta](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
+${'  ' || `
+// TODO: Revise.
+`}
+
+Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you just *aren't* whom the people want to root for? Then let BYCombo throw you a lifeline, by [reviving rockism](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)— the original spirit of rock and roll!
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
@@ -481,7 +481,7 @@ Here's what I mean: If you *don't* hustle, the indie camp will reject you. But y
 
 Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to dream, they were given structured ways to create and consume endless content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what I could see: The only rules left that take courage to break… are the *structural* ones, like indie rock's— which *they* help to enforce!
 
-So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution! Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try this Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
+So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution. Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try this Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Wisdom knows to peacefully disunite
 
@@ -604,7 +604,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it; to gain acceptance, interdependence could use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
+With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it; to gain acceptance, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
@@ -622,7 +622,7 @@ If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
 
-### ${++sectionCounter}. Artists want faith in saviors
+### ${++sectionCounter}. Artists want to believe in saviors
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
 
