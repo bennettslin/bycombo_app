@@ -483,7 +483,7 @@ Here's my theory: Millennials faced content scarcity just long enough to hate it
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution. Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try this Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
-### ${++sectionCounter}. Wisdom knows to peacefully disunite
+### ${++sectionCounter}. Unity demands an eternal scapegoat
 
 ${'  ' || `
 // TODO: Keep working on. This needs to be more clearly about the fact that the greater the unity, the harder it is to accommodate the few who remain outside the union
@@ -493,12 +493,9 @@ Mention indiefication.
 If hustling offers an advantage, then it *must* be a disadvantage not to do so.
 `}
 
-Back when content was scarce, joining a scene— goth, punk— was a lifetime effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing [deep down](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196) that others aren't so different. But for Millennials, it's now the other way around: Every side they pick is just an "era"— while any threat to the structures that permit this liberty… must be *fiercely* opposed.
+Back when content was scarce, joining a scene— goth, punk— was a lifetime effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing [deep down](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196) that others aren't so different. But for Millennials, it's now the other way around: Any side they pick is just an "era"— while those who threaten the structures that allow this liberty… must be *fiercely* opposed.
 
-In other words, if the differences between us are actually trivial, such that unity is possible, then the few remaining holdouts *must* be truly vile.
-
-
-has had destructive effects. In politics, the notion that "we are the 99%" fooled left-wing populists into holding out for an uncompromising vision of left-wing populism. And in culture, it led the indie camp to a similarly naive belief.
+Millennials thus learned that if the differences between us are so trivial that absolute unity is possible, then the few remaining holdouts must be hopelessly awful in their difference. In politics, the notion that "we are the 99%" fooled left-wing populists into holding out for an uncompromising vision of left-wing populism. And in culture, it led the indie camp to a similarly naive belief.
 
 Let's say an artist hustles to build a fanbase on their own, allowing them to negotiate with labels from a position of strength. The entire pro-artist crowd cheers, right? Okay. Now imagine the same labels rejecting *another* artist, for not having a sizable fanbase. This time, the crowd boos the shortsightedness of legacy institutions. Yet the first scenario begets the second!
 
@@ -588,7 +585,7 @@ ${'  ' || `
 
 In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X only rejected *commercialism*, not *capitalism*. That is to say: "You can *sell*; just don't sell *out*." Still, the indie camp took it further: "Sell it *yourself*." Millennials then adopted indie rock's ideals as their own… until the hustle burned them out. Now they rail against the need to sell at all— or, capitalism *itself*!
 
-As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs that they are!
+As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while being cheered on as the underdogs they are!
 
 Meanwhile, '90s [alternative bands](https://substack.com/@bobtail/note/c-106073033) like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) to *oppose* such bands.
 
