@@ -337,10 +337,6 @@ But once competition takes place *away* from the public eye— as populism deman
 
 Which explains why the disadvantaged tend to be *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top, than to all others in the middle.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennial and a minority, I much prefer hip hop's elitist snobbery— "rappism," maybe? Because, public exposure *is* a zero-sum game, like it or not. Now BYCombo lets you treat it as such… just like rappists always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
@@ -402,10 +398,6 @@ So if seeking to gain from one's identity— one's *self*, if you will— is the
 ### ${++sectionCounter}. Penultimate tolerance rescinds a lifeline
 
 No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet when I came along— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me *apart* from my identity!" Why? I suspect it's because Millennials were the first generation to believe they'd achieved perfect tolerance; as such, they forgot all about society's bargain with the hungry outsider.
 
@@ -580,12 +572,12 @@ Do you dispute that indie rock sits on the cultural *right*? No worries! Let's j
 ### ${++sectionCounter}. Consequentialists care about impact
 
 ${'  ' || `
-// TODO: Keep reviewing.
+// TODO: Review.
 `}
 
 In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman notes that Gen X only rejected *commercialism*, not *capitalism*. That is to say: "You can *sell*; just don't sell *out*." Still, the indie camp took it further: "Sell it *yourself*." Millennials then adopted indie rock's ideals as their own… until the hustle burned them out. Now they rail against the need to sell at all— or, capitalism *itself*!
 
-As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while being cheered on as the underdogs they are!
+As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
 
 Meanwhile, '90s [alternative bands](https://substack.com/@bobtail/note/c-106073033) like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) to *oppose* such bands.
 
@@ -601,17 +593,9 @@ Well, music today requires a pretty convoluted explanation, doesn't it? After al
 
 Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, rather than simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… creating a "tragedy of the commons." But now, 5% less effort is our *baseline*… and soon, *10%*… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
 
-${'  ' || `
-// TODO: Review.
-`}
-
-With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it; to gain acceptance, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
+With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
-
-${'  ' || `
-// TODO: Review move of these two sections.
-`}
 
 "Where's *our* Nirvana?" It's a question asked by today's young folks. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
 
