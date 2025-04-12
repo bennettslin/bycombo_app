@@ -480,18 +480,18 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 ${'  ' || `
 // TODO: Keep working on. This needs to be more clearly about the fact that the greater the unity, the harder it is to accommodate the few who remain outside the union
 
-Mention 1%.
+Link for 99%?
 
-Mention "walk away."
+Mention "walk away" from indie rock's ideals. Fiercely defend interdependence, knowing that those in the indie camp are still people, like us.
 `}
 
-Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). But for Millennials, it's now the other way around: Each side is just an "era" to try on— while any threat to the structures that allow this liberty… must be *fiercely* opposed.
+Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are [still people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196), like us. But for Millennials, it's now the other way around: Each side is just an "era" to try on— while any threat to the structures that allow this liberty… must be *fiercely* opposed.
 
-In other words: "If our differences are small enough to make unity possible, then the holdouts must be truly awful. Luckily, unity is what makes it trivial to defeat them!" So Millennials came to believe that "we're the 99%"— which, in politics, fooled progressives into siding with right-wing populists against left-wing elites. And in culture, the damage has been no less severe…
+In other words: "If our differences are small enough to make unity possible, then the holdouts must be truly awful. Luckily, unity makes it trivial to defeat them." So Millennials came to believe that "we're the 99%"— but this fooled political progressives into siding with right-wing populists against the left's elites! And in culture, the damage has been no less severe…
 
 Let's say an artist hustles to build a fanbase on their own, enabling them to negotiate with labels from a position of strength. The entire pro-artist crowd cheers, right? Okay. Now imagine the same labels rejecting *another* artist, for not having a sizable fanbase. This time the crowd boos, deriding the labels as legacy institutions. Yet… the first scenario *causes* the second!
 
-Let's face it, if it's an advantage to hustle, then it's a *dis*-advantage *not* to. Those who love this, and those who lament it, want opposing outcomes. Which means there simply *can't* be pro-artist unity! Yet when I pointed this out in the '00s, the indie camp's promise of unity was so alluring that I ended up getting shut out— like the [brutalized child](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas) in Ursula Le Guin's Omelas… 
+Let's face it, if it's an advantage to hustle, then it's a *dis*-advantage *not* to. Those who love this, and those who lament it, want opposing outcomes. Which means the indie camp's pro-artist unity is an illusion! Yet when I pointed this out in the '00s, it was precisely this unity that shut me out— like the [brutalized child](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas) in Ursula Le Guin's Omelas…
 
 Luckily, the arts have declined.
 
