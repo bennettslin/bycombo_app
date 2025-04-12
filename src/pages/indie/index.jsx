@@ -597,7 +597,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Then, indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history doesn't show us how to resist… or even say that we *should*. And since ethics are central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
+Then, indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history neither shows us how to resist… nor even says that we *should*. And since ethics are central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
 ${'  ' || `
 // TODO: Review.
