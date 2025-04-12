@@ -205,7 +205,11 @@ What confused me is that I'd explicitly set out to make a [work of art](https://
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the "corporate suits" just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won intuition, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
-Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it, the best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it: The best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
@@ -474,26 +478,18 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 ### ${++sectionCounter}. Unity brutalizes the holdouts
 
 ${'  ' || `
-// TODO: Keep working on. This needs to be more clearly about the fact that the greater the unity, the harder it is to accommodate the few who remain outside the union
-
-Link for 99%?
-
-By threatening the structure that allows this unity…
-
-Mention "walk away" from indie rock's ideals. Fiercely defend interdependence, knowing that those in the indie camp are still people, like us.
+// TODO: Review a few more times.
 `}
 
-Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are [still people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196), like us. But for Millennials, it's now the other way around: Each side is just an "era" to try on— while any threat to the structures that allow this liberty… must be *fiercely* opposed.
+Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are [still people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196), like us. But for Millennials, it's now the other way around: Each side is just an "era" to try on— while any threats to the structure that allows this liberty… are to be *fiercely* opposed.
 
-In other words: "If our differences are small enough to make unity possible, then the holdouts must be truly awful. Luckily, it won't take courage to defeat them, just numbers!" So Millennials came to insist that "we're the 99%"— but this fooled political progressives into siding with right-wing populists over the left's own elites! And in culture, the damage has been no less severe…
+In other words: "If our differences are trivial enough to make unity possible, then any holdouts must be truly awful. We don't need courage, though; sheer size alone can beat them!" So Millennials learned to aim for [99% majorities](https://en.wikipedia.org/wiki/We_are_the_99%25)— but this led political progressives to team up with right-wing populists, while abusing the left's own elites! And in culture, the damage was just as severe…
 
-Let's say an artist hustles to build a fanbase on their own, enabling them to negotiate with labels from a position of strength. The entire pro-artist crowd cheers, right? Okay. Now imagine the same labels rejecting *another* artist, for not having a sizable fanbase. This time the crowd boos, deriding the labels as legacy institutions. Yet… the first scenario *causes* the second!
+Let's say an indie artist hustles to build a fanbase themselves, allowing them to negotiate with the labels from a position of strength. The pro-artist crowd cheers, right? Okay. But imagine that the same labels reject *another* artist, for *not* having a sizable fanbase. Now the crowd boos, denouncing the labels for their shortsightedness. Yet… the first scenario causes the second!
 
-Let's face it, if it's an advantage to hustle, then it's a *dis*-advantage *not* to. Those who love this, and those who lament it, want opposing outcomes. Which means the indie camp's pro-artist unity is an illusion! Yet when I pointed this out in the '00s, it was precisely this unity that shut me out— like the [brutalized child](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas) in Ursula Le Guin's Omelas…
+Let's face it: Either it's an advantage to hustle, or it *isn't* a disadvantage *not* to. You can't want both; they lead to opposite outcomes. Which means pro-artist unity is an illusion! When I pointed this out in the '00s, however… I proved to be the lone holdout. As such, I was abused and shut out by the indie camp— like the brutalized child in Ursula Le Guin's fictional [city of Omelas](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
-Luckily, the arts have declined.
-
-On the flip side, this means those who oppose us aren't bad guys; they just want a different outcome. Luckily, BYCombo takes a side: We deplore that the hustle is worth anything.
+Thankfully, the arts have been declining ever since— which means some of you are now ready to walk away from indie rock's ideals! But where do you go? Why, you can join BYCombo, and stand fiercely for interdependence… knowing that those on the other side are still people, like us.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
@@ -583,7 +579,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Then, indie rock took over in the '00s… and now faces no opposition in turn. Why? Because it's the first rock movement based on *ethics*, not *aesthetics*— which means history can't show us how to resist… or even say that we *should*. And since ethics are central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
+Then, indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history doesn't show us how to resist… or even say that we *should*. And since ethics are central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
 ${'  ' || `
 // TODO: Review.
