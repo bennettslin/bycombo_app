@@ -416,10 +416,10 @@ Both movements protect the chosen underdog by refusing to ask: "Wouldn't the rej
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
 ${'  ' || `
-// TODO: Revise.
+// TODO: Review.
 `}
 
-Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you just *aren't* whom the people want to root for? Then let BYCombo throw you a lifeline, by [reviving rockism](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)— the original spirit of rock and roll!
+Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you're just *not* whom the people want to root for? Then let BYCombo throw you a lifeline, by bringing back rockism— the [original spirit](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is) of rock and roll!
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
@@ -475,23 +475,25 @@ Here's my theory: Millennials faced content scarcity just long enough to hate it
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution. Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try this Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
-### ${++sectionCounter}. Unity demands an eternal scapegoat
+### ${++sectionCounter}. Unity brutalizes the few holdouts
 
 ${'  ' || `
 // TODO: Keep working on. This needs to be more clearly about the fact that the greater the unity, the harder it is to accommodate the few who remain outside the union
 
 Mention indiefication.
 
+Mention 1%. Links for 99%?
+
 If hustling offers an advantage, then it *must* be a disadvantage not to do so.
 `}
 
-Back when content was scarce, joining a scene— goth, punk— was a lifetime effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing [deep down](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196) that others aren't so different. But for Millennials, it's now the other way around: Any side they pick is just an "era"— while those who threaten the structures that allow this liberty… must be *fiercely* opposed.
+Back when content was scarce, joining a scene— goth, punk— was a lifetime effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). But now for Millennials, it's the other way around: Each side is just another "era" to try on— while any threat to the structures that allow for this liberty… must be *fiercely* opposed.
 
-Millennials thus learned that if the differences between us are so trivial that absolute unity is possible, then the few remaining holdouts must be hopelessly awful in their difference. In politics, the notion that "we are the 99%" fooled left-wing populists into holding out for an uncompromising vision of left-wing populism. And in culture, it led the indie camp to a similarly naive belief.
+In other words: "If our differences are small enough to make unity possible, then the few holdouts must truly be awful. Luckily, our unity makes it trivial to defeat them!" So Millennials came to believe that "we're the 99%"— which, in politics, fooled progressives into siding with right-wing populists against left-wing elites! And the outcome in culture has been just as destructive…
 
-Let's say an artist hustles to build a fanbase on their own, allowing them to negotiate with labels from a position of strength. The entire pro-artist crowd cheers, right? Okay. Now imagine the same labels rejecting *another* artist, for not having a sizable fanbase. This time, the crowd boos the shortsightedness of legacy institutions. Yet the first scenario begets the second!
+Let's say an artist hustles to build a fanbase on their own, enabling them to negotiate with labels from a position of strength. The entire pro-artist crowd cheers, right? Okay. Now imagine the same labels rejecting *another* artist, for not already having a sizable fanbase. This time, the crowd boos… yet the first scenario leads to the second!
 
-Let's face it: When artists gain an advantage over others by hustling, either you love it or you don't. There simply *can't* be pro-artist unity! On the flip side, this means those who oppose us aren't bad guys; they just want a different outcome. Luckily, BYCombo takes a side: We deplore that the hustle is worth anything.
+Let's face it: You're either with the artists who win out over others because they hustle, or with those who lose out because they don't. There simply *can't* be pro-artist unity! On the flip side, this means those who oppose us aren't bad guys; they just want a different outcome. Luckily, BYCombo takes a side: We deplore that the hustle is worth anything.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
