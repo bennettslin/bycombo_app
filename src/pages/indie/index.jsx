@@ -75,7 +75,11 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 **And finally, how has indie rock made music worse?**
 
-Here's an incomplete list of ways…
+${'  ' || `
+// TODO: Review.
+`}
+
+It's an incomplete list, but here are fifty ways…
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -478,16 +482,16 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 ### ${++sectionCounter}. Unity brutalizes the holdouts
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review a few more times. Consider moving somewhere else?
 `}
 
 Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are [still people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196), like us. But for Millennials, it's now the other way around: Each side is just an "era" to try on— while any threats to the structure that allows this liberty… are to be *fiercely* opposed.
 
-In other words: "If our differences are trivial enough to make unity possible, then any holdouts must be truly awful. We don't need courage, though; sheer size alone can beat them!" So Millennials learned to aim for [99% majorities](https://en.wikipedia.org/wiki/We_are_the_99%25)— but this led political progressives to team up with right-wing populists, while abusing the left's own elites! And in culture, the damage was just as severe…
+In other words: "If our differences are trivial enough to make unity possible, then any holdouts must truly be awful. We don't need courage, though; sheer size alone can beat them!" So Millennials learned to aim for [99% majorities](https://en.wikipedia.org/wiki/We_are_the_99%25)— but in politics, this led progressives to side with right-wing populists against the left's own elites! And in culture, the damage was just as severe…
 
-Let's say an indie artist hustles to build a fanbase themselves, allowing them to negotiate with the labels from a position of strength. The pro-artist crowd cheers, right? Okay. But imagine that the same labels reject *another* artist, for *not* having a sizable fanbase. Now the crowd boos, denouncing the labels for their shortsightedness. Yet… the first scenario causes the second!
+Let's say an indie artist hustles to build a fanbase themselves, allowing them to negotiate with the labels from a position of strength. The pro-artist crowd cheers, right? Okay. But imagine that the same labels reject *another* artist, for *not* having a sizable fanbase. Now the crowd boos, denouncing the labels for their shortsightedness. Yet… the first scenario caused the second!
 
-Let's face it: Either it's an advantage to hustle, or it *isn't* a disadvantage *not* to. You can't want both; they lead to opposite outcomes. Which means pro-artist unity is an illusion! When I pointed this out in the '00s, however… I proved to be the lone holdout. As such, I was abused and shut out by the indie camp— like the brutalized child in Ursula Le Guin's fictional [city of Omelas](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
+Let's face it: Either it's an advantage to hustle, or it *isn't* a disadvantage *not* to. You can't want both; they lead to opposite outcomes. Which means pro-artist unity is an illusion! Yet when I pointed this out in the '00s… I proved to be the lone holdout. As such, I was shut out by the indie camp— like the brutalized child in Ursula Le Guin's fictional [city of Omelas](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
 Thankfully, the arts have been declining ever since— which means some of you are now ready to walk away from indie rock's ideals! But where do you go? Why, you can join BYCombo, and stand fiercely for interdependence… knowing that those on the other side are still people, like us.
 
@@ -547,6 +551,20 @@ Which means we progressives will need to quit "larping" the revolution, and [lea
 
 So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission… and hopefully, it can lead to some of your own!
 
+### ${++sectionCounter}. The simplest explanation is likely correct
+
+${'  ' || `
+// TODO: Review move.
+`}
+
+To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
+
+Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally believed to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in their heyday?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
+
+Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, rather than simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… creating a "tragedy of the commons." But now, 5% less effort is our *baseline*… and soon, *10%*… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
+
+With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
+
 ### ${++sectionCounter}. Collectivists pool their achievements
 
 ${'  ' || `
@@ -565,7 +583,7 @@ ${'  ' || `
 * No more fear of missing out
 `}
 
-Do you dispute that indie rock sits on the cultural *right*? No worries! Let's just agree on its main similarity with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist! As with vaccinations, then, a decline in the arts can only be reversed by those who prioritize the *collective*— the left, in my view.
+Perhaps you dispute that indie rock sits on the cultural *right*. Let's just agree, then, on its main similarity with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist! As with vaccinations, then, a decline in the arts can only be reversed by those who prioritize the *collective*— the left, in my view.
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
@@ -586,16 +604,6 @@ ${'  ' || `
 `}
 
 Yet… if our troubles began when we accepted "indiefication" and rejected capitalism… then why not accept *capitalism*… and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! Anyway, making history is about what you get *done*— as Kurt Cobain knew. Now BYCombo lets you act on [this knowledge](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) as well.
-
-### ${++sectionCounter}. The simplest explanation is likely correct
-
-To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
-
-Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally believed to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in their heyday?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
-
-Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, rather than simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… creating a "tragedy of the commons." But now, 5% less effort is our *baseline*… and soon, *10%*… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
-
-With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
