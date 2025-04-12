@@ -475,25 +475,27 @@ Here's my theory: Millennials faced content scarcity just long enough to hate it
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution. Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try this Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
-### ${++sectionCounter}. Unity brutalizes the few holdouts
+### ${++sectionCounter}. Unity brutalizes the holdouts
 
 ${'  ' || `
 // TODO: Keep working on. This needs to be more clearly about the fact that the greater the unity, the harder it is to accommodate the few who remain outside the union
 
-Mention indiefication.
+Mention 1%.
 
-Mention 1%. Links for 99%?
-
-If hustling offers an advantage, then it *must* be a disadvantage not to do so.
+Mention "walk away."
 `}
 
-Back when content was scarce, joining a scene— goth, punk— was a lifetime effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). But now for Millennials, it's the other way around: Each side is just another "era" to try on— while any threat to the structures that allow for this liberty… must be *fiercely* opposed.
+Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others [aren't so different](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). But for Millennials, it's now the other way around: Each side is just an "era" to try on— while any threat to the structures that allow this liberty… must be *fiercely* opposed.
 
-In other words: "If our differences are small enough to make unity possible, then the few holdouts must truly be awful. Luckily, our unity makes it trivial to defeat them!" So Millennials came to believe that "we're the 99%"— which, in politics, fooled progressives into siding with right-wing populists against left-wing elites! And the outcome in culture has been just as destructive…
+In other words: "If our differences are small enough to make unity possible, then the holdouts must be truly awful. Luckily, unity is what makes it trivial to defeat them!" So Millennials came to believe that "we're the 99%"— which, in politics, fooled progressives into siding with right-wing populists against left-wing elites. And in culture, the damage has been no less severe…
 
-Let's say an artist hustles to build a fanbase on their own, enabling them to negotiate with labels from a position of strength. The entire pro-artist crowd cheers, right? Okay. Now imagine the same labels rejecting *another* artist, for not already having a sizable fanbase. This time, the crowd boos… yet the first scenario leads to the second!
+Let's say an artist hustles to build a fanbase on their own, enabling them to negotiate with labels from a position of strength. The entire pro-artist crowd cheers, right? Okay. Now imagine the same labels rejecting *another* artist, for not having a sizable fanbase. This time the crowd boos, deriding the labels as legacy institutions. Yet… the first scenario *causes* the second!
 
-Let's face it: You're either with the artists who win out over others because they hustle, or with those who lose out because they don't. There simply *can't* be pro-artist unity! On the flip side, this means those who oppose us aren't bad guys; they just want a different outcome. Luckily, BYCombo takes a side: We deplore that the hustle is worth anything.
+Let's face it, if it's an advantage to hustle, then it's a *dis*-advantage *not* to. Those who love this, and those who lament it, want opposing outcomes. Which means there simply *can't* be pro-artist unity! Yet when I pointed this out in the '00s, the indie camp's promise of unity was so alluring that I ended up getting shut out— like the [brutalized child](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas) in Ursula Le Guin's Omelas… 
+
+Luckily, the arts have declined.
+
+On the flip side, this means those who oppose us aren't bad guys; they just want a different outcome. Luckily, BYCombo takes a side: We deplore that the hustle is worth anything.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
