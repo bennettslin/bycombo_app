@@ -475,23 +475,19 @@ Here's my theory: Millennials faced content scarcity just long enough to hate it
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution. Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try this Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
-### ${++sectionCounter}. Unity brutalizes the lone holdout
+### ${++sectionCounter}. Unity abuses the lone holdout
 
 ${'  ' || `
-// TODO: Review a few more times. Consider move before solutions section?
-
-First paragraph: You and us?
-
-Fourth paragraph could still use more work.
+// TODO: Review a few more times.
 `}
 
-Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for your side… knowing that others are [still people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196), like us. But for Millennials, it's now the other way around: Each side is just an "era" to try on— while any threat to the structures that allow us this liberty… need to be fiercely opposed.
+Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still people, [like them](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each side is just an "era" to try on— while any threat to the structure that allows this liberty… is to be fiercely opposed by all.
 
-In other words: "If our differences are trivial enough to make unity possible, then any holdouts must be truly awful. Still, we won't need courage; our size alone can beat them!" So Millennials learned to aim for [being the 99%](https://en.wikipedia.org/wiki/We_are_the_99%25)— but this led political progressives to join with right-wing populists in reviling the left's own elites! And in culture, the damage was just as severe…
+In other words: "If our differences are trivial enough to make unity possible, then any holdouts must truly be awful. Still, we won't need courage; our size alone can beat them!" So Millennials always seek to [unite the 99%](https://en.wikipedia.org/wiki/We_are_the_99%25)— but this has led political progressives to join with right-wing populists in reviling the left's own elites! And the damage in culture has been no less severe…
 
 Let's say an indie artist hustles to build a fanbase themselves, allowing them to negotiate with the labels from a position of strength. The pro-artist crowd cheers, right? Okay. But imagine that the same labels reject *another* artist, for *not* having a sizable fanbase. Now the crowd boos, denouncing the labels for their shortsightedness. Yet… the former scenario causes the latter!
 
-Let's face it: Either it's an advantage to hustle, or it *isn't* a disadvantage *not* to. You can't want both; they lead to opposite outcomes. So pro-artist unity is an illusion! Yet when I'd point this out in the '00s… I was often the lone holdout. And since this threatened the indie camp's aim to unite music's 99%, I had to be shut out— like the brutalized child in Ursula Le Guin's [story of Omelas](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
+Let's face it: Either it's an advantage to hustle, or it *isn't* a disadvantage *not* to. You can't want both; they lead to opposite outcomes. Pro-artist unity, then, is an illusion! Yet when I pointed this out in the '00s… few backed me up. And so, like the [abused child](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas) in Ursula Le Guin's story of Omelas, I was shut out— for threatening the indie camp's aim to unite music's 99%.
 
 Thankfully, the arts have been declining ever since— which means some of you are now ready to walk away from indie rock's ideals! But where to? Why, you can join BYCombo, and stand fiercely for interdependence… knowing that those on the other side are still people, like us.
 
