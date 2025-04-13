@@ -484,10 +484,12 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 ${'  ' || `
 // TODO: Review a few more times. Consider move before solutions section?
 
+First paragraph: You and us?
+
 Fourth paragraph could still use more work.
 `}
 
-Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are [still people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196), like us. But for Millennials, it's now the other way around: Each side is just an "era" to try on— while any threat to the structures that allow this liberty… should be fiercely opposed.
+Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for your side… knowing that others are [still people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196), like us. But for Millennials, it's now the other way around: Each side is just an "era" to try on— while any threat to the structures that allow us this liberty… need to be fiercely opposed.
 
 In other words: "If our differences are trivial enough to make unity possible, then any holdouts must be truly awful. Still, we won't need courage; our size alone can beat them!" So Millennials learned to aim for [being the 99%](https://en.wikipedia.org/wiki/We_are_the_99%25)— but this led political progressives to join with right-wing populists in reviling the left's own elites! And in culture, the damage was just as severe…
 
