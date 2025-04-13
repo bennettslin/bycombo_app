@@ -76,10 +76,10 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 **And finally, how has indie rock made music worse?**
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
-It's an incomplete list, but here are fifty ways…
+Here's an incomplete list of fifty ways…
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -208,10 +208,6 @@ In the past, the indie tastemakers stayed close to their local scenes, making th
 What confused me is that I'd explicitly set out to make a [work of art](https://yearlingsbobtail.com/8-good-night-sita/?verse=61&annotation=40) whose creativity [*can't* be disputed](https://yearlingsbobtail.com/10-constellations/?verse=1&annotation=9). Only later did it hit me: If a tastemaker is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we* want. Our human nature is to [*dis*-like creativity](http://archive.today/2024.08.26/https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html); we just don't realize this, because whatever it is we *do* like… we simply call *that* the thing that's creative!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the "corporate suits" just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won intuition, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it: The best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
@@ -557,10 +553,6 @@ So if I could get every progressive— in both culture and politics— to read j
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
-${'  ' || `
-// TODO: Review move.
-`}
-
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally believed to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in their heyday?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
@@ -596,10 +588,6 @@ In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the
 As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
 
 Meanwhile, '90s [alternative bands](https://substack.com/@bobtail/note/c-106073033) like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) to *oppose* such bands.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Then, indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history neither shows us how to resist… nor even says that we *should*. And since ethics are central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
