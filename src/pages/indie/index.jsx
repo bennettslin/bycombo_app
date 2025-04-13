@@ -479,17 +479,19 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 
 ${'  ' || `
 // TODO: Review a few more times.
+
+First paragraph, make it "those who threaten," to personify the threat?
 `}
 
-Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still people, [like them](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each side is just an "era" to try on— while any threat to the structures that allow this liberty… should be fiercely opposed by all.
+Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each side is just an "era" to try on— while any threat to the structures that allow this liberty… should be fiercely opposed by all.
 
 In other words: "If our differences are trivial enough to make unity possible, then any holdouts must truly be awful. Still, we won't need courage; our size alone can beat them!" So Millennials always seek to [unite the 99%](https://en.wikipedia.org/wiki/We_are_the_99%25)— but this has led political progressives to join with right-wing populists in reviling the left's own elites! And the damage in culture has been no less severe…
 
-Let's say an indie artist hustles to build a fanbase themselves, allowing them to negotiate with the labels from a position of strength. The pro-artist crowd cheers, right? Okay. But imagine that the same labels reject *another* artist, for *not* having a sizable fanbase. Now the crowd boos, denouncing the labels for their shortsightedness. Yet… the former scenario causes the latter!
+Let's say an indie artist hustles to build a fanbase themselves, allowing them to negotiate with the labels from a position of strength. The pro-artist crowd cheers, right? Now imagine that the same labels reject *another* artist, for *not* having a sizable fanbase. This time the crowd boos, denouncing the labels for their shortsightedness. Yet… the former scenario causes the latter!
 
 Let's face it: Either it's an advantage to hustle, or it *isn't* a disadvantage *not* to. You can't want both; they lead to opposite outcomes. Pro-artist unity, then, is an illusion! Yet when I pointed this out in the '00s… no one backed me up. So, like the [abused child](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas) in Ursula Le Guin's story of Omelas, I was shut out— for threatening the indie camp's aim to unite music's 99%.
 
-Thankfully, the arts have been declining ever since— which means some of you are now ready to walk away from indie rock's ideals! But where to? Why, you can join BYCombo, and stand fiercely for interdependence… knowing that those on the other side are still people, like us.
+Thankfully, the arts have been declining ever since— which means some of you are now ready to walk away from indie rock's ideals! But where to? Why, you can join BYCombo, and stand fiercely for interdependence… knowing that those on the other side are still good people.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
