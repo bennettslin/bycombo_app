@@ -481,13 +481,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each side is just an "era" to try on, while any threats to the structures that allow for this liberty… are to be fiercely opposed by all.
+Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each side is just an "era" to try on, while any threats to the overall structures that allow this liberty… are to be fiercely opposed by all.
 
 In other words: "If our differences are trivial enough to unite 99% of us, then the 1% must be truly awful. Still, we don't need courage; we can beat them on size alone!" So Millennials learned to hold out for a [crushing majority](https://en.wikipedia.org/wiki/We_are_the_99%25)— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture has been no less severe…
 
-Let's say an indie artist hustles to build a fanbase themselves, allowing them to negotiate with the labels from a position of strength. The pro-artist crowd cheers, right? Now imagine that the same labels reject *another* artist, for *not* having a sizable fanbase. This time the crowd boos, denouncing the labels as legacy institutions. Except… the former scenario creates the latter!
+Let's say an indie artist hustles to build a fanbase themselves, allowing them to negotiate with the labels from a position of strength. The pro-artist crowd cheers, right? Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos, deriding the labels for their shortsightedness. Except… the former scenario *causes* the latter!
 
-Either it's an advantage to hustle, then, or it *isn't* a disadvantage not to. You *can't* have both; they're opposite outcomes. So pro-artist unity is an illusion! Yet when I pointed this out in the '00s… no one backed me up. Moreover, by threatening the indie camp's aim to unite music's 99%, I *had* to be shut out— like the brutalized child in Ursula Le Guin's [story of Omelas](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
+Either it's an advantage to hustle, then, or it *isn't* a disadvantage not to. You *can't* have both; they're opposite outcomes. So pro-artist unity is an illusion! Yet when I pointed this out in the '00s… no one backed me up. Moreover, by threatening the indie camp's aim to unite music's 99%, I had to be shut out— like the brutalized child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
 Thankfully, some of you agree with me that the arts have since declined— and now you're ready to walk away from indie rock's ideals! But where to? Why, you can come to BYCombo, and stand fiercely for interdependence… knowing that those on the other side are still good people.
 
@@ -595,7 +595,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Still, since our troubles began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, this will debase who you *are*, in the indie camp's eyes— but so did leaving for the majors in the '90s! Besides, history only remembers what you get *done*— as Kurt Cobain knew. Now BYCombo lets you act on [this knowledge](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) as well.
+Still, since our troubles began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, this will debase who you *are*, as the indie camp sees it— but so did leaving for the majors in the '90s! Besides, history only remembers what you get *done*— as Kurt Cobain knew. Now BYCombo lets you act on [this knowledge](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) as well.
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
