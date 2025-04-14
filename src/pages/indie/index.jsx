@@ -79,7 +79,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Here's an incomplete list of fifty ways…
+This isn't a complete list, but here are fifty ways…
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
@@ -489,7 +489,7 @@ Let's say an indie artist hustles to build a fanbase themselves, allowing them t
 
 Let's face it: Either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* have both; they're opposite outcomes! But when I pointed this out in the '00s… no one backed me up. Moreover, by threatening the pro-artist unity felt by music's 99%, I had to be shut out— much like the abused child in Ursula Le Guin's [story of Omelas](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
-Thankfully, some of you agree that the arts have declined since then— and now you're ready to walk away from indie rock's ideals! Where to, though? Why, you can come to BYCombo, and stand fiercely for interdependence… knowing that those on the other side are still good people.
+Thankfully, some of you now agree that the arts have declined since then— and you're ready to walk away from indie rock's ideals! Where to, though? Why, you can come to BYCombo, and stand fiercely for interdependence… knowing that those on the other side are still good people.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
@@ -593,7 +593,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Then, indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And since ethics are central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
+Then, indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor says that we *should*. And since ethics are central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
 ${'  ' || `
 // TODO: Review.
