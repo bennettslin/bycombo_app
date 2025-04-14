@@ -475,21 +475,21 @@ Here's my theory: Millennials faced content scarcity just long enough to hate it
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution. Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try this Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
-### ${++sectionCounter}. Unity abuses the lone holdout
+### ${++sectionCounter}. Unity is brutal for the scapegoat
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each side is just an "era" to try on— while any threat to the structures that allow them this liberty… has to be fiercely opposed by all.
+Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each side is just an "era" to try on, while any threats to the structures that allow for this liberty… are to be fiercely opposed by all.
 
-In other words: "If our differences are trivial enough to make unity possible, then any holdout must truly be awful. Still, we won't need courage; we'll beat them on size alone!" So Millennials always seek to [unite the 99%](https://en.wikipedia.org/wiki/We_are_the_99%25)— but this leads political progressives to join with right-wing populists in reviling the left's own elites! And the damage in culture has been no less severe…
+In other words: "If our differences are trivial enough to unite 99% of us, then the 1% must be truly awful. Still, we don't need courage; we can beat them on size alone!" So Millennials learned to hold out for a [crushing majority](https://en.wikipedia.org/wiki/We_are_the_99%25)— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture has been no less severe…
 
-Let's say an indie artist hustles to build a fanbase themselves, allowing them to negotiate with the labels from a position of strength. The pro-artist crowd cheers, right? Now imagine that the same labels reject *another* artist, for *not* having a sizable fanbase. This time the crowd boos, denouncing the labels as legacy institutions. Yet… the former scenario creates the latter!
+Let's say an indie artist hustles to build a fanbase themselves, allowing them to negotiate with the labels from a position of strength. The pro-artist crowd cheers, right? Now imagine that the same labels reject *another* artist, for *not* having a sizable fanbase. This time the crowd boos, denouncing the labels as legacy institutions. Except… the former scenario creates the latter!
 
-Let's face it: Either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* have both; they're opposite outcomes! But when I pointed this out in the '00s… no one backed me up. Moreover, by threatening the pro-artist unity felt by music's 99%, I had to be shut out— much like the abused child in Ursula Le Guin's [story of Omelas](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
+Either it's an advantage to hustle, then, or it *isn't* a disadvantage not to. You *can't* have both; they're opposite outcomes. So pro-artist unity is an illusion! Yet when I pointed this out in the '00s… no one backed me up. Moreover, by threatening the indie camp's aim to unite music's 99%, I *had* to be shut out— like the brutalized child in Ursula Le Guin's [story of Omelas](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
-Thankfully, some of you now agree that the arts have declined since then— and you're ready to walk away from indie rock's ideals! Where to, though? Why, you can come to BYCombo, and stand fiercely for interdependence… knowing that those on the other side are still good people.
+Thankfully, some of you agree with me that the arts have since declined— and now you're ready to walk away from indie rock's ideals! But where to? Why, you can come to BYCombo, and stand fiercely for interdependence… knowing that those on the other side are still good people.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
@@ -599,7 +599,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet… if our troubles began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! Anyway, history only remembers what you get *done*— as Kurt Cobain knew. Now BYCombo lets you act on [this knowledge](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) as well.
+Yet… if our troubles began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, in the indie camp's eyes, this will debase who you *are*— but so did signing with the majors in the '90s! Besides, history only remembers what you get *done*— as Kurt Cobain knew. Now BYCombo lets you act on [this knowledge](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) as well.
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
