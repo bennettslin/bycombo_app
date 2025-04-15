@@ -75,10 +75,6 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 **And finally, how has indie rock made music worse?**
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Here are fifty ways…
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
@@ -541,7 +537,11 @@ Why is progressivism so badly beaten in both culture and politics today? It's be
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get toppled as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
-But there's good news: With many anti-elitists now having swung from the political left to the right— and few swinging [just as hard](https://inthesetimes.com/article/former-left-right-fascism-capitalism-horseshoe-theory#:~:text=Except%20%E2%80%8B%E2%80%9Chorseshoe%20theory%2C%E2%80%9D,in%20one%C2%A0direction.) in reverse— it's no longer far-fetched to say that anti-elitism, at its *core*, is a right-wing stance. Whether in culture or politics, it's the *right* that's best served by taking down the system; the *left* is better off reforming it from within!
+${'  ' || `
+// TODO: Review link.
+`}
+
+But there's good news: With many anti-elitists now having swung from the political left to the right— and few swinging [just as hard](http://archive.today/2023.12.19/https://inthesetimes.com/article/former-left-right-fascism-capitalism-horseshoe-theory#:~:text=Except%20%E2%80%8B%E2%80%9Chorseshoe%20theory%2C%E2%80%9D,in%20one%C2%A0direction.) in reverse— it's no longer far-fetched to say that anti-elitism, at its *core*, is a right-wing stance. Whether in culture or politics, it's the *right* that's best served by taking down the system; the *left* is better off reforming it from within!
 
 Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead— beginning with the very skills needed to analyze our problems and propose solutions. But how? Beyond just knowing our human nature… we must also appreciate systems in all their complexity.
 
@@ -586,14 +586,10 @@ As a result, Millennials *readily* sell out, insisting that survival today depen
 Meanwhile, '90s [alternative bands](https://substack.com/@bobtail/note/c-106073033) like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) to *oppose* such bands.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
-Then, indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And given that ethics are core to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
-
-${'  ' || `
-// TODO: Review.
-`}
+Then, indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
 Still, since our troubles began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, this will debase who you *are*, as the indie camp sees it— but so did leaving for the majors in the '90s! Besides, history only remembers what you get *done*— as Kurt Cobain knew. Now BYCombo lets you act on [this knowledge](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) as well.
 
