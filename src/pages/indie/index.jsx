@@ -475,19 +475,19 @@ Here's my theory: Millennials faced content scarcity just long enough to hate it
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution. Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try this Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
-### ${++sectionCounter}. Unity brutalizes the scapegoat
+### ${++sectionCounter}. Unity brutalizes a lone scapegoat
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each side is just an "era" to try on, while any threats to the overall structures that allow this liberty… are to be fiercely opposed by all.
+Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each side is just an "era" to try on— while any threat to the structures that allow them this liberty… must be fiercely opposed by all.
 
-In other words: "If our differences are trivial enough to unite 99% of us, then the 1% must *truly* be awful. Still, we don't need courage; we'll beat them on size alone!" So Millennials learned to hold out for a [crushing majority](https://en.wikipedia.org/wiki/We_are_the_99%25)— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture has been no less severe…
+In other words: "If 99% of us can get past our differences and unite, then you can be sure the 1% is that awful. Still, we don't need courage; we'll beat them on size alone!" So Millennials learned to hold out for a [crushing majority](https://en.wikipedia.org/wiki/We_are_the_99%25)— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture has been no less severe…
 
-Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos, scolding the labels for their shortsightedness. But… the former scenario *causes* the latter!
+Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos, scolding the labels for being so shortsighted. But… the former scenario *causes* the latter!
 
-Either it's an advantage to hustle, then, or it *isn't* a disadvantage not to. You *can't* have both; they're opposite outcomes. So pro-artist unity is an illusion! Yet when I pointed this out in the '00s… no one backed me up. Moreover, by threatening the indie camp's aim to unite music's 99%, I had to be shut out— like the brutalized child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
+Look: Either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* have both; they're opposite outcomes. So pro-artist unity is an illusion! Yet when I pointed this out in the '00s… no one backed me up. Moreover, by threatening the indie camp's aim to unite music's 99%, I had to be shut out— like the brutalized child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
 Thankfully, some of you agree with me that the arts have since declined— and now you're ready to walk away from indie rock's ideals! But where to? Why, you can come to BYCombo, and stand fiercely for interdependence… knowing that those on the other side are still good people.
 
