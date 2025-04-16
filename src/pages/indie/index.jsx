@@ -168,7 +168,7 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a [well-crafted hook](https://youtu.be/HWMsWO0vPa8).
 
 ${'  ' || `
-// TODO: Add paragraph. Talk about artists hated by critics by envied by other artists. Revise last paragraph in light of new changes.
+// TODO: Add paragraph. Talk about artists hated by critics but envied by other artists. Revise last paragraph in light of new changes.
 `}
 
 Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM8?t=11) to care about the artists— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master the craft.
@@ -177,6 +177,10 @@ Yet the past works we love most [*don't* require us](https://youtu.be/UihGpf7lCM
 
 ${'  ' || `
 // TODO: Add paragraph. Talk about anxiety of influence here?
+`}
+
+${'  ' || `
+// TODO: Revise. Move Andrew W.K. talk to collectivism.
 `}
 
 Millennials were the first generation whose elders embraced every genre— and as such, they rebelled in the only way they thought possible: by ironically celebrating the [most *middling*](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) works. As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high expectations of *previous* generations? Well, let's examine their options.
@@ -424,10 +428,10 @@ Both movements protect the chosen underdog by refusing to ask: "Wouldn't the rej
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
 ${'  ' || `
-// TODO: Revise. Make clear rockism is also desired by disadvantaged groups?
+// TODO: Review.
 `}
 
-Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you're just *not* whom the people want to root for? Then let BYCombo throw you a lifeline, by bringing back rockism— the [original spirit](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is) of rock and roll!
+Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged can always find ways to benefit themselves. But if *you're* not whom the people want to root for, then now what? Why, BYCombo can throw you a lifeline, by bringing back rockism— the [original spirit](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is) of rock and roll, courtesy of its queer Black founders!
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
