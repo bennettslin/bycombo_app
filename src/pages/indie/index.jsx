@@ -301,7 +301,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture. It's just that "noblesse oblige" has to come from a somebody; being a nobody, I needed others to help *me* first. Yet no one would help…
+Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad in music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture. It's just that "noblesse oblige" has to come from a somebody; being a nobody, I needed others to help *me* first. Yet no one would help…
 
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard indie artists speak of paying their dues— to justify, let's say, touring at a loss. Except this time it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
 
@@ -309,7 +309,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-But… now the indie camp's lack of noblesse oblige made perfect sense! If paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already put in the hustle will want to keep the state of music as it is— in all its brokenness.
+But… now the indie camp's lack of noblesse oblige made perfect sense! If paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already put in the hustle will want to keep the current state of music as it is— in all its brokenness.
 
 Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
@@ -545,10 +545,6 @@ Why is progressivism so badly beaten in both culture and politics today? It's be
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get toppled as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
-${'  ' || `
-// TODO: Review today link.
-`}
-
 But there's good news: With many anti-elitists now having swung from the political left to the right— and few swinging [just as hard](http://archive.today/2023.12.19/https://inthesetimes.com/article/former-left-right-fascism-capitalism-horseshoe-theory#:~:text=Except%20%E2%80%8B%E2%80%9Chorseshoe%20theory%2C%E2%80%9D,in%20one%C2%A0direction.) in reverse— it's no longer far-fetched to say that anti-elitism, at its *core*, is a right-wing stance. Whether in culture or politics, it's the *right* that's best served by taking down the system; the *left* is better off reforming it from within!
 
 Which means we progressives will need to quit "larping" the revolution, and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead— beginning with the very skills needed to analyze our problems and propose solutions. But how? Beyond just knowing our human nature… we must also appreciate systems in all their complexity.
@@ -599,7 +595,11 @@ ${'  ' || `
 
 Then, indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
-Still, since our troubles began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, this will debase who you *are*, as the indie camp sees it— but so did leaving for the majors in the '90s! Besides, history only remembers what you get *done*— as Kurt Cobain knew. Now BYCombo lets you act on [this knowledge](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) as well.
+${'  ' || `
+// TODO: Review today link move.
+`}
+
+Still, since our troubles began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, this will debase who you *are*, as the indie camp sees it— but so did leaving for the majors in the '90s! Besides, history only remembers what you get *done*— as [Kurt Cobain](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) knew. Now BYCombo lets you act on this knowledge as well.
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 

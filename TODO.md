@@ -19,8 +19,8 @@
     * Change interactivated verse?
 
 * BYC
-    * Am I using "except" right?
     * Two Ted Gioia links on major labels acting like indie labels
+    * Am I using "except" right?
     * Radio was a musical proving ground
         * Just a single paragraph in time section?
         * If you had taste in the '90s, every band you liked was one of three types: those like Nirvana, who were loved by both critics *and* musicians; those like Pavement, who were adored by *critics* but ignored by musicians; and those like Stone Temple Pilots, who were hated by critics but [admired by *musicians*](https://youtu.be/aVfU0wljJbA).
@@ -30,9 +30,9 @@
         * Musicians, not critics, more likely to get what will last
         * Luckily, as someone who's always been ignored by the critics
             * I've long tried to find a replacement for radio
-    * Evangelists just a single paragraph in advances section?
-        * Make it about partners as bandmates?
     * Collectivists pool their achievements
+        * Evangelists just a single paragraph in this section?
+            * Make it about partners as bandmates?
         * Mention transactional?
         * Second paragraph: Macchu Picchu
             * Steps worn away by tourists
@@ -40,7 +40,6 @@
                 * Like my immigrant parents, I would be fulfilled by others' achievements
                     * While living to 
                 * Climate change and artistic climate change
-        * You're defined by your impact, not your identity
     * Consider doing screen widths smartly
     * Consider smart quote in Wikipedia link update
     * Revise apply page
