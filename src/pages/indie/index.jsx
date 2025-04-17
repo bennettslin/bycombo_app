@@ -79,7 +79,11 @@ Here are fifty ways…
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
-In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed to an indie label. Since Nirvana and Radiohead were on *major* labels, this made them alternative, not indie— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie… so now we're all waiting for the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get confused?
+${'  ' || `
+// TODO: Review today placement of link.
+`}
+
+In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed to an indie label. Since Nirvana and Radiohead were on *major* labels, this made them [alternative, not indie](https://substack.com/@bobtail/note/c-106073033)— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie… so now we're all waiting for the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by anti-elitist grievance— and so it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
 
@@ -93,7 +97,11 @@ As with MAGA, then, indie rock's weakness for confusion ends up hurting its own.
 
 We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), right? "Yes! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground was a shelter both for rock's underclass— who *subverted* the people's will— and for the elitist snobs who championed their works; it *wasn't* for everyone.
 
-In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22,%22+indie+rock+%22,%22+underground+rock+%22&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
+${'  ' || `
+// TODO: Review today link change.
+`}
+
+In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
 
 But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock renounced its elitism and became a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.), as it went from championing the under-*class*— who aren't for everyone… to rooting for under-*dogs*— who can be.
 
@@ -166,20 +174,14 @@ In essence: Ignore the critics, or any others who think that making history is a
 ### ${++sectionCounter}. Time is kind to craft, not context
 
 ${'  ' || `
-// TODO: Review whole section after completion.
+// TODO: Review removal of links.
 `}
 
-To get radio airplay in the '90s, [alternative bands](https://substack.com/@bobtail/note/c-106073033) had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that hook you in with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
+To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that hook you in with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point; they just don't value music as a *craft* to begin with!
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
-
-${'  ' || `
-// TODO: Add paragraph. The end of radio, then, also led to the demise of a particular kind of band: the kind hated by critics but whose works are envied by other artists.
-
-Revise last paragraph in light of new changes.
-`}
 
 Yet the past works we love most *don't* require us to care about the artists— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master the craft.
 
@@ -604,10 +606,10 @@ In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the
 As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
 
 ${'  ' || `
-// TODO: Review today removal of link.
+// TODO: Review today link change.
 `}
 
-Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) to *oppose* such bands.
+Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22,%22+indie+rock+%22,%22+underground+rock+%22&year_start=1980&year_end=2000) to *oppose* such bands.
 
 Then, indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 

@@ -22,7 +22,7 @@
     * Two Ted Gioia links on major labels acting like indie labels
     * Am I using "except" right?
     * Radio was a musical proving ground
-        * Just a single paragraph in time section?
+        * The death of radio led to the end of a specific kind of band: those like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) and [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), who were disliked by critics, even as their works were envied, and thus studied, by fellow musicians like me. Naturally, the indie camp doesn't miss them.
         * If you had taste in the '90s, every band you liked was one of three types: those like Nirvana, who were loved by both critics *and* musicians; those like Pavement, who were adored by *critics* but ignored by musicians; and those like Stone Temple Pilots, who were hated by critics but [admired by *musicians*](https://youtu.be/aVfU0wljJbA).
         * Combination of radio-friendly and musician-respected
         * Indie rock's takeover of music ended bands liked by musicians but disliked by critics
