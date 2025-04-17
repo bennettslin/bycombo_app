@@ -485,13 +485,17 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 
 ### ${++sectionCounter}. Unity brutalizes the lone scapegoat
 
+${'  ' || `
+// TODO: Revise. Consider personifying threat again?
+`}
+
 Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each side is just an "era" to try on— while any threat to the structures that allow them this liberty… must be fiercely opposed by all.
 
 ${'  ' || `
-// TODO: Revise? "In other words" isn't the best segue.
+// TODO: Review today.
 `}
 
-In other words: "If 99% of us can get past our differences and unite, then you can be sure the 1% is *that* awful. Still, we don't need courage; we'll beat them on size alone!" So Millennials learned to hold out for a [crushing majority](https://en.wikipedia.org/wiki/We_are_the_99%25)— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture has been no less severe…
+Furthermore: "If 99% of us can get past our differences and unite, then you can be sure the 1% is *that* awful. Still, we don't need courage; we'll beat them on size alone!" So Millennials learned to hold out for a [crushing majority](https://en.wikipedia.org/wiki/We_are_the_99%25)— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture has been no less severe…
 
 Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos, scolding the labels for their shortsightedness. But… the former scenario *causes* the latter!
 
