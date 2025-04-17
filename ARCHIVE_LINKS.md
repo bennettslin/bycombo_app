@@ -29,3 +29,7 @@ http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope
 https://www.nytimes.com/roomfordebate/2016/12/29/does-empathy-guide-or-hinder-moral-action#:~:text=Empathy%20acts%20like,threatening%20and%20familiar.
 
 http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D
+
+https://youtu.be/7bK5EPjGri4
+https://youtu.be/HWMsWO0vPa8
+https://youtu.be/UihGpf7lCM8?t=11
