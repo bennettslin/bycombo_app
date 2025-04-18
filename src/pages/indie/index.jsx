@@ -167,7 +167,17 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
 
-Yet the past works we love most *don't* require us to care about the artists— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master the craft.
+${'  ' || `
+// TODO: Keep working on. Make clear indie artist is picked for their identity?
+`}
+
+The demand for such hooks, then, came solely from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) and [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds). And because critics often reviled these bands, many cheered— so the indie artist won! Except… what's there now for today's musicians to study?
+
+${'  ' || `
+// TODO: Revise. Review previous section on posterity, and make unique point related to this section's theme.
+`}
+
+Let's face it: The past works we love most *don't* require us to know anything about the artist— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master the craft.
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
