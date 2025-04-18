@@ -166,22 +166,22 @@ To get radio airplay in the '90s, alternative bands had to win over listeners wh
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point; they just don't value music as a *craft* to begin with!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
-After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to an enviable hook.
+After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want underlying context that can be discussed at length, while local fans— now online— like to engage directly with the artist; so both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
 
 ${'  ' || `
-// TODO: Keep working on. Make clear indie artist is picked for their identity?
+// TODO: Revise. Prepare to sacrifice last sentence to make proper segue to next paragraph. Make point about context and identity and underdog?
 `}
 
-The demand for such hooks, then, came solely from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) and [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics often reviled these bands, many cheered— so the indie artist won! Except… what's there now for today's musicians to study?
+The demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them— bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) and [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. But since critics often *hated* these bands, the indie camp simply jeered: "Context beats craft!"
 
 ${'  ' || `
-// TODO: Revise. Review previous section on posterity, and make unique point related to this section's theme.
+// TODO: Revise. Make proper segue from previous paragraph, then complete the logic.
 `}
 
-Let's face it: The past works we love most *don't* require us to know anything about the artist— and future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master the craft.
+Yet the past works we love most *don't* ask us to consider the artist's identity, do they? Most likely, it's a well-crafted hook that draws us in. History, then… works like radio! Which means any movement that learned to bypass radio will also have a poor understanding of how to make history. And future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master the craft.
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
@@ -437,10 +437,6 @@ Both movements protect the chosen underdog by refusing to ask: "Wouldn't the rej
 
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged can always find ways to benefit themselves. But what if you're *not* whom the people want to root for? Then let BYCombo throw you a lifeline, by bringing back rockism— the original spirit of rock and roll, courtesy of its [queer Black founders](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
 
 ### ${++sectionCounter}. Fair practices follow the numbers
@@ -629,10 +625,6 @@ If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
 
-${'  ' || `
-// TODO: Review today title.
-`}
-
 ### ${++sectionCounter}. Artists want faith in saviors
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, once they were ready, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
@@ -645,7 +637,11 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 ### ${++sectionCounter}. Victory is assured
 
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor? Or what critic, the one whose identity as an underdog provides so much surrounding context?
+${'  ' || `
+// TODO: Review today.
+`}
+
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor? Or what critic, the one whose identity as an underdog provides so much underlying context?
 
 Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
