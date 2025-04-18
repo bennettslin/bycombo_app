@@ -165,13 +165,17 @@ To get radio airplay in the '90s, alternative bands had to win over listeners wh
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point; they just don't value music as a *craft* to begin with!
 
-After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
+${'  ' || `
+// TODO: Review.
+`}
+
+After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— like to engage directly with the artist. So both, in their own way, are drawn more to an artist's identity than to an enviable hook.
 
 ${'  ' || `
 // TODO: Keep working on. Make clear indie artist is picked for their identity?
 `}
 
-The demand for such hooks, then, came solely from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) and [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds). And because critics often reviled these bands, many cheered— so the indie artist won! Except… what's there now for today's musicians to study?
+The demand for such hooks, then, came solely from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) and [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics often reviled these bands, many cheered— so the indie artist won! Except… what's there now for today's musicians to study?
 
 ${'  ' || `
 // TODO: Revise. Review previous section on posterity, and make unique point related to this section's theme.
