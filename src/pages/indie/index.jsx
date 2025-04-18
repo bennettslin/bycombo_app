@@ -165,11 +165,7 @@ To get radio airplay in the '90s, alternative bands had to win over listeners wh
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point; they just don't value music as a *craft* to begin with!
 
-${'  ' || `
-// TODO: Review today.
-`}
-
-After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want underlying context that can be discussed at length, while local fans— now online— like to engage directly with the artist; so both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
+After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— like to engage directly with the artist; so both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
 
 ${'  ' || `
 // TODO: Revise. Prepare to sacrifice last sentence to make proper segue to next paragraph. Make point about context and identity and underdog?
@@ -499,17 +495,21 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each side is an "era" to try on— while those who threaten the structures that allow this liberty… must be fiercely opposed by all.
+Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). But for Millennials, it's now the other way around: Each scene is just an "era" to try on— while any threat to the structures that allow this liberty… must be fiercely opposed by all.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Furthermore: "If 99% of us can unite around a cause, then you'd best believe the 1% is *that* awful. We don't need courage, though; we'll beat them on size alone!" So Millennials learned to hold out for a [crushing majority](https://en.wikipedia.org/wiki/We_are_the_99%25)— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture has been no less severe…
+Furthermore: "If 99% of us can see that we're really on the same side, then you'd best believe the 1% is *truly* awful. That's okay, though: We'll beat them on size alone!" So Millennials learned to hold out for a [crushing majority](https://en.wikipedia.org/wiki/We_are_the_99%25)— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture has been no less severe…
 
 Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos, scolding the labels for their shortsightedness. But… the former scenario *causes* the latter!
 
-Look: Either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes. So pro-artist unity is an illusion! Yet when I pointed this out in the '00s… no one backed me up. Moreover, by threatening the indie camp's aim to unite music's 99%, I had to be shut out— like the brutalized child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
+${'  ' || `
+// TODO: Review.
+`}
+
+Either it's an advantage to hustle, then, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes. So pro-artist unity is an illusion! Yet when I pointed this out in the '00s… no one backed me up. Moreover, by threatening the indie camp's aim to unite music's 99%, I had to be shut out— like the brutalized child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
 Thankfully, some of you agree with me that the arts have since declined— and now you're ready to walk away from indie rock's ideals! But where to? Why, you can come to BYCombo, and stand fiercely for interdependence… knowing that those on the other side are still good people.
 
@@ -637,11 +637,7 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 ### ${++sectionCounter}. Victory is assured
 
-${'  ' || `
-// TODO: Review today.
-`}
-
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor? Or what critic, the one whose identity as an underdog provides so much underlying context?
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor? Or what critic, the one whose identity as an underdog provides so much surrounding context?
 
 Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
