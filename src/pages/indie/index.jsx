@@ -25,7 +25,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Indiefication, seen to its logical conclusion in this online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— rather than simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by meeting *our* ideals! The problem, then, is with these *ideals*— and if you keep reading, I'll set this record straight.
+Indiefication, seen to its logical conclusion in this online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by meeting *our* ideals! So the problem is with these *ideals*— and if you keep reading, I'll set this record straight.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -589,7 +589,11 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally believed to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in their heyday?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
-Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, rather than simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… creating a "tragedy of the commons." But now, 5% less effort is our *baseline*… and soon, *10%*… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
+${'  ' || `
+// TODO: Review today.
+`}
+
+Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, instead of simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… creating a "tragedy of the commons." But now, 5% less effort is our *baseline*… and soon, *10%*… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
 
 With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
@@ -613,6 +617,8 @@ ${'  ' || `
 https://karamary.substack.com/p/hey-mama-your-californian-ideology
 
 Millennials were the first generation whose elders embraced every genre— and as such, they rebelled in the only way they thought possible: by ironically celebrating the [most *middling*](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) works. As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high expectations of *previous* generations? Well, let's examine their options.
+
+First paragraph has two "then"s.
 `}
 
 Perhaps you dispute that indie rock sits on the cultural *right*. Let's just agree, then, on its main similarity with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist! As with vaccinations, then, a decline in the arts can only be reversed by those who prioritize the *collective*— the left, in my view.
