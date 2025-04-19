@@ -19,13 +19,17 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an X
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
 
+${'  ' || `
+// TODO: Revise. Define indiefication.
+`}
+
 First, we raise *awareness*. Since "indie" means "good" to so many, few see the adverse effects of what I call "indiefication"— namely, our drive to propagate indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement… and so forth.
 
 ${'  ' || `
 // TODO: Review today.
 `}
 
-Indiefication, seen to its logical conclusion in this online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by meeting *our* ideals! So the problem is with these *ideals*— and if you keep reading, I'll set the record straight.
+Indiefication, seen to its logical conclusion in this online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by catering to *our* ideals! The problem, then, is with these *ideals*— and if you keep reading, I'll set the record straight.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -591,10 +595,6 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally believed to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in their heyday?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, instead of simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… creating a "tragedy of the commons." But now, 5% less effort is our *baseline*… and soon, *10%*… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
 
 With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
@@ -656,10 +656,6 @@ Let's return to the original question: How has indie rock made music worse? In s
 Thanks to indie rock, however, today's artists have no such reason to believe. So they put out work after work, hoping one will catch on with the crowd— which, these days, means going viral. But by spreading their works from the bottom up, they build a different set of talents, leading to a different kind of work— a difference that many of us hear, even if we can't articulate it.
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel the same. But when artists are being discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered this way as well?
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build up your talents… in faith that a savior will then find you!
 
