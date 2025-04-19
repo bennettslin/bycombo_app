@@ -21,7 +21,11 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 
 First, we raise *awareness*. Since "indie" means "good" to so many, few see the adverse effects of what I call "indiefication"— namely, our drive to propagate indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement… and so forth.
 
-Indiefication, seen to its logical conclusion in the online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— rather than simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by meeting *our* ideals! The problem, then, is with these *ideals*— and if you keep reading, I'll set this record straight.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Indiefication, seen to its logical conclusion in this online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— rather than simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by meeting *our* ideals! The problem, then, is with these *ideals*— and if you keep reading, I'll set this record straight.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -69,7 +73,11 @@ But the elites have their own reason to hesitate: Anytime they release a work th
 
 **Why serious chunks of lifetime?**
 
-Low barriers to entry have allowed an endless stream of middling artists to pour through, leading the public to grow wary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To regain the public's trust, then, a centralized nonprofit like BYCombo must now step up and serve as a gatekeeper for the elites— by enforcing a steep *cost* of entry.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Low barriers to entry have allowed an endless stream of middling artists to pour through, leading the public to grow weary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To regain the public's trust, then, a centralized nonprofit like BYCombo must now step up and serve as a gatekeeper for the elites— by enforcing a steep *cost* of entry.
 
 This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in making their case for amnesty.
 
@@ -168,22 +176,24 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— like to engage directly with the artist; so both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
 
 ${'  ' || `
-// TODO: Revise. Prepare to sacrifice last sentence to make proper segue to next paragraph. Make point about context and identity and underdog?
+// TODO: Review.
 `}
 
-The demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them— bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) and [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. But since critics often *hated* these bands, the indie camp simply jeered: "Context beats craft!"
+Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them— bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics often *reviled* these bands, the indie camp was [quick to jeer](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.): "Well, well, well… it looks like our context beats your craft!"
 
 ${'  ' || `
-// TODO: Revise. Make proper segue from previous paragraph, then complete the logic.
+// TODO: Review.
 `}
 
-Yet the past works we love most *don't* ask us to consider the artist's identity, do they? Most likely, it's a well-crafted hook that draws us in. History, then… works like radio! Which means any movement that learned to bypass radio will also have a poor understanding of how to make history. And future audiences will judge the works of *our* times likewise. There's no way around it: To be timeless, your music must hook in the listener on its *own*. So BYCombo gives you all the time you need to master the craft.
+Yet the past works we love most *don't* expect us to consider the surrounding context, do they? History, then… is like radio! So don't get complacent in this online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft— as if you were an Xennial teen hoping to get on the radio one day.
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
 ${'  ' || `
 // TODO: Add paragraph. Talk about anxiety of influence here?
 // TODO: Revise. Move Andrew W.K. talk to collectivism.
+
+Then point out larping of artsy stuff.
 
 First paragraph, talk about Kurt Cobain and anxiety of influence.
 Second paragraph, talk about Millennials drew all the wrong lessons, as with Y2K.
@@ -222,6 +232,10 @@ In the past, the indie tastemakers stayed close to their local scenes, making th
 What confused me is that I'd explicitly set out to make a [work of art](https://yearlingsbobtail.com/8-good-night-sita/?verse=61&annotation=40) whose creativity [*can't* be disputed](https://yearlingsbobtail.com/10-constellations/?verse=1&annotation=9). Only later did it hit me: If a tastemaker is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we* want. Our human nature is to [*dis*-like creativity](http://archive.today/2024.08.26/https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html); we just don't realize this, because whatever it is we *do* like… we simply call *that* the thing that's creative!
 
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the "corporate suits" just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won intuition, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
+
+${'  ' || `
+// TODO: Add paragraph? Easy to make works acclaimed by critics, but not envied by fellow artists. Only if needed.
+`}
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it: The best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
@@ -596,6 +610,8 @@ ${'  ' || `
 
 * No more fear of missing out
 
+https://karamary.substack.com/p/hey-mama-your-californian-ideology
+
 Millennials were the first generation whose elders embraced every genre— and as such, they rebelled in the only way they thought possible: by ironically celebrating the [most *middling*](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) works. As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high expectations of *previous* generations? Well, let's examine their options.
 `}
 
@@ -633,7 +649,11 @@ Thanks to indie rock, however, today's artists have no such reason to believe. S
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel the same. But when artists are being discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered this way as well?
 
-Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, much like fish don't know they're wet, Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build up your talents… in faith that a savior will then find you!
+${'  ' || `
+// TODO: Review today.
+`}
+
+Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build up your talents… in faith that a savior will then find you!
 
 ### ${++sectionCounter}. Victory is assured
 
