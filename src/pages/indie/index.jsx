@@ -44,7 +44,7 @@ Okay, that's a mouthful! Let's break it down…
 ${'  ' || `
 // TODO: Revise. Define indie tastemaker. Can get rid of last sentence.
 
-The indie tastemakers, unlike elitist gatekeepers, judge artists. In other words, they simply obey the people's will— making them "good guys," according to Millennials.
+The indie tastemakers refuse to be gatekeepers; instead, they simply pick artists with an existing fanbase. In other words, they simply obey the people's will— making them "good guys," according to Millennials.
 `}
 
 Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the people charitably support *every* artist they pick. Yet despite good intentions all around, the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist). Well, what if the arts are in decline… *because* of such good intentions?!
@@ -175,23 +175,19 @@ In essence: Ignore the critics, or any others who think that making history is a
 
 ### ${++sectionCounter}. Time is kind to craft, not context
 
+${'  ' || `
+// TODO: Review today section.
+`}
+
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting chords and melodies that hook you in with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best chords and melodies come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point; they just don't value music as a *craft* to begin with!
 
-After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— like to engage directly with the artist; so both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
-
-${'  ' || `
-// TODO: Review.
-`}
+After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— like to engage directly with the artist; so both, in their own way, are drawn to an artist's identity more than to a well-crafted hook.
 
 Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them— bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics often *reviled* these bands, the indie camp was [quick to jeer](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.): "Well, well, well… it looks like our context beats your craft!"
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Yet the past works we love most *don't* expect us to consider the surrounding context, do they? History, then… is like radio! So don't get complacent in this online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo gives you all the time you need to master your craft— like you're an Xennial teen hoping to get on the radio one day.
+Yet the past works we love most *don't* expect us to consider the surrounding context, do they? History, then… is like radio! So don't get complacent in this online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo gives you all the time you need to master your craft— as if you were an Xennial teen hoping to get on the radio one day.
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
@@ -512,22 +508,14 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 ### ${++sectionCounter}. Unity brutalizes the lone scapegoat
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today section.
 `}
 
 Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). But for Millennials, it's now the other way around: Each scene is just an "era" to try on— while any threat to the structures that allow this liberty… must be fiercely opposed by all.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Furthermore: "If 99% of us can see that we're really on the same side, then you'd best believe the 1% is *that* awful. Still, we'll beat them on size alone!" So instead of building up courage, Millennials learned to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture was no less severe…
 
 Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos, scolding the labels for their shortsightedness. But… the former scenario *causes* the latter!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Either it's an advantage to hustle, then, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes. So pro-artist unity is an illusion! Yet when I pointed this out in the '00s… no one backed me up. Moreover, by threatening the indie camp's aim to unite music's 99%, I had to be shut out— like the brutalized child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
