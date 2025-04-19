@@ -25,7 +25,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Indiefication, seen to its logical conclusion in this online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by meeting *our* ideals! So the problem is with these *ideals*— and if you keep reading, I'll set this record straight.
+Indiefication, seen to its logical conclusion in this online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by meeting *our* ideals! So the problem is with these *ideals*— and if you keep reading, I'll set the record straight.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -36,6 +36,12 @@ Okay, that's a mouthful! Let's break it down…
 ### The revolution will *not* be decentralized
 
 **Why amnesty?**
+
+${'  ' || `
+// TODO: Revise. Define indie tastemaker. Can get rid of last sentence.
+
+The indie tastemakers, unlike elitist gatekeepers, judge artists. In other words, they simply obey the people's will— making them "good guys," according to Millennials.
+`}
 
 Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the people charitably support *every* artist they pick. Yet despite good intentions all around, the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist). Well, what if the arts are in decline… *because* of such good intentions?!
 
