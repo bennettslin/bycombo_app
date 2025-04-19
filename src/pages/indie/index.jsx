@@ -515,7 +515,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Furthermore: "If 99% of us can see that we're really on the same side, then you'd best believe the 1% is *truly* awful. That's okay, though: We'll beat them on size alone!" So Millennials learned to hold out for a [crushing majority](https://en.wikipedia.org/wiki/We_are_the_99%25)— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture has been no less severe…
+Furthermore: "If 99% of us can see that we're really on the same side, then you'd best believe the 1% is *that* awful. Still, we'll beat them on size alone!" So instead of building up courage, Millennials learned to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture was no less severe…
 
 Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos, scolding the labels for their shortsightedness. But… the former scenario *causes* the latter!
 
