@@ -45,7 +45,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Being "good guys," the indie tastemakers *refuse* to gatekeep; instead, they obey the people's will simply by picking artists with an existing fanbase. For this reason, Millennials cheered when indie rock took over, while the people now support *every* indie artist who gets picked. Yet despite good intentions all around… the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist).
+Being "good guys," the indie tastemakers *refuse* to gatekeep; instead, they obey the people's will by picking artists with an existing fanbase. For this reason, Millennials cheered as indie rock took over— and now the people support *every* indie artist who gets picked. Yet despite good intentions all around… the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist).
 
 ${'  ' || `
 // TODO: Review today.
@@ -251,7 +251,11 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— which is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. To conserve bandwidth, then, they simply follow the instincts that worked well for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
-Of course, these instincts made sense in the '80s, when underground bands built a fanbase by playing local shows. For instance, it's precisely *because* word of mouth only traveled locally that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
+${'  ' || `
+// TODO: Review.
+`}
+
+Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
@@ -527,7 +531,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Either it's an advantage to hustle, then, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes. So pro-artist unity is an illusion! Yet when I pointed this out in the '00s… no one backed me up. Moreover, by threatening the indie camp's aim to unite music's 99%, I became the 1% to shut out— like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
+Either it's an advantage to hustle, then, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes. So pro-artist unity is an illusion! Yet when I pointed this out in the '00s… no one backed me up. Moreover, by threatening the indie camp's aim to unite music's 99%, I became the 1% for them to beat— like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
 Thankfully, some of you agree with me that the arts have since declined— and now you're ready to walk away from indie rock's ideals! But where to? Why, you can come to BYCombo, and stand fiercely for interdependence… knowing that those on the other side are still good people.
 
