@@ -23,10 +23,10 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of "indiefication"— namely, our drive to propagate indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement… and so forth.
+First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement… and so forth.
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Revise. Make it clear that it results in elitist gatekeepers being replaced by indie tastemakers. Can take out part about tech platforms to make room.
 `}
 
 Indiefication, seen to its logical conclusion in this online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by catering to *our* ideals! The problem, then, is with these *ideals*— and if you keep reading, I'll set the record straight.
@@ -42,14 +42,12 @@ Okay, that's a mouthful! Let's break it down…
 **Why amnesty?**
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Could be better.
+
+Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the people charitably support *every* artist they pick. Yet despite good intentions all around, the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist). Well, what if the arts are in decline… *because* of such good intentions?!
 `}
 
 Being "good guys," the indie tastemakers *refuse* to gatekeep; instead, they obey the people's will by picking artists with an existing fanbase. For this reason, Millennials cheered as indie rock took over— and now the people support *every* indie artist who gets picked. Yet despite good intentions all around… the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist).
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
