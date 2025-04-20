@@ -45,7 +45,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Being "good guys," the indie tastemakers *refuse* to be gatekeepers; instead, they obey the people's will simply by picking artists with an existing fanbase. For this reason, Millennials cheered when they took over— and the people now support every indie artist who gets picked. Yet despite good intentions all around, the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)…
+Being "good guys," the indie tastemakers *refuse* to gatekeep; instead, they obey the people's will simply by picking artists with an existing fanbase. For this reason, Millennials cheered when indie rock took over, while the people now support *every* indie artist who gets picked. Yet despite good intentions all around… the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist).
 
 ${'  ' || `
 // TODO: Review today.
@@ -53,7 +53,11 @@ ${'  ' || `
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
-Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But what if no generation *ever* again "forgives" their rule breakers, as was done in the past? What's needed, then, is an institution to *formalize* the practice of doing so— an amnesty program for the arts, if you will.
+${'  ' || `
+// TODO: Review.
+`}
+
+Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But what if no generation "forgives" their rule breakers *ever* again? What's needed, then, is an institution to *formalize* the practice of doing so— an amnesty program for the arts, if you will.
 
 **Why the historical canon?**
 
