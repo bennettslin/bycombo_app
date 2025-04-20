@@ -507,21 +507,33 @@ Here's my theory: Millennials faced content scarcity just long enough to hate it
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution. Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try this Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
-### ${++sectionCounter}. Unity abuses the lone scapegoat
+${'  ' || `
+// TODO: Review today title.
+`}
+
+### ${++sectionCounter}. Unity brutalizes the scapegoat
 
 Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). But for Millennials, it's now the other way around: Each scene is just an "era" to try on— while any threat to the structures that allow this liberty… must be fiercely opposed by all.
 
-Furthermore: "If 99% of us can see that we're really on the same side, then you'd best believe the 1% is *that* awful. Still, we'll beat them on size alone!" So instead of building up courage, Millennials learned to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture was no less severe…
+${'  ' || `
+// TODO: Review today.
+`}
+
+Moreover: "If 99% of us can see that we're *really* on the same side, then you'd best believe the other 1% is *that* awful. Still, we'll beat them on size alone!" So instead of building up courage, Millennials learned to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture was no less severe…
 
 Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos. Except… the former scenario *causes* the latter, doesn't it?!
 
 ${'  ' || `
-// TODO: Review next two paragraphs.
+// TODO: Review.
 `}
 
-Look: Either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* have both; they're opposite outcomes! Yet when I pointed this out in the '00s… few backed me up. Even worse, by threatening the indie camp's wish to have pro-artist unity, I became that 1% for the other 99% to beat down— like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
+Look: Either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening the indie camp's delusion of pro-artist unity, I became that 1% for the other 99% to beat down— like the brutalized child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
-Thankfully, some of you agree with me that the arts have since declined— and now you're ready to walk away from indie rock's ideals! But where to? Why, you can join BYCombo, and stand fiercely for being pro-*audience*… knowing that those on the other side are still good people.
+${'  ' || `
+// TODO: Review.
+`}
+
+Thankfully, some of you agree with me that the arts have since declined— and now you're ready to walk away from indie rock's ideals! But where to? Why, you can join BYCombo, and stand courageously for the pro-*audience* side… knowing that others are still good people.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
