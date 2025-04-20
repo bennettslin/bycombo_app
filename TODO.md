@@ -19,6 +19,7 @@
     * Change interactivated verse?
 
 * BYC
+    * Be consistent with "namely" and "or" to explain or describe
     * Two Ted Gioia links on major labels acting like indie labels
         * https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,need%20record%20labels%20anymore.
     * Collectivists pool their achievements

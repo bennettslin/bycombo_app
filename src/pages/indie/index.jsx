@@ -19,10 +19,6 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an X
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement… and so forth.
 
 ${'  ' || `
@@ -42,12 +38,12 @@ Okay, that's a mouthful! Let's break it down…
 **Why amnesty?**
 
 ${'  ' || `
-// TODO: Revise. Could be better.
+// TODO: Review.
 
 Thanks to Millennials, the indie tastemakers are now in charge— and since they're "good guys," the people charitably support *every* artist they pick. Yet despite good intentions all around, the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist). Well, what if the arts are in decline… *because* of such good intentions?!
 `}
 
-Being "good guys," the indie tastemakers *refuse* to gatekeep; instead, they obey the people's will by picking artists with an existing fanbase. For this reason, Millennials cheered as indie rock took over— and now the people support *every* indie artist who gets picked. Yet despite good intentions all around… the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist).
+Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they obey the people's will by picking artists with an existing fanbase. For this reason, Millennials cheered as indie rock took over— while the people now support *every* indie artist who gets picked. Yet despite good intentions all around, the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)…
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
@@ -55,7 +51,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But what if no generation "forgives" their rule breakers *ever* again? What's needed, then, is an institution to *formalize* the practice of doing so— an amnesty program for the arts, if you will.
+Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But what if no generation *ever* again "forgives" their rule breakers? What's needed, then, is an institution to *formalize* the practice of doing so— an amnesty program for the arts, if you will.
 
 **Why the historical canon?**
 
@@ -523,13 +519,13 @@ Back when content was scarce, joining a scene— goth, punk— was a full-time e
 
 Furthermore: "If 99% of us can see that we're really on the same side, then you'd best believe the 1% is *that* awful. Still, we'll beat them on size alone!" So instead of building up courage, Millennials learned to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture was no less severe…
 
-Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos. Except… the former scenario *causes* the latter!
+Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos. Except… the former scenario *causes* the latter, doesn't it?!
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Look: Either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes. So pro-artist unity is an illusion! Yet when I pointed this out in the '00s… no one backed me up. Moreover, by threatening the indie camp's aim to unite music's 99%, I became the 1% for them to beat— like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
+Look: Either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes. So pro-artist unity is an illusion! Yet when I pointed this out in the '00s… no one backed me up. Moreover, by threatening the indie camp's aim to unite music's 99%, I became that 1% to be beaten— like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
 Thankfully, some of you agree with me that the arts have since declined— and now you're ready to walk away from indie rock's ideals! But where to? Why, you can come to BYCombo, and stand fiercely for interdependence… knowing that those on the other side are still good people.
 
