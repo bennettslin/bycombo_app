@@ -19,7 +19,11 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an X
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
 
-First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement… and so forth.
+${'  ' || `
+// TODO: Review today.
+`}
+
+First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement…
 
 ${'  ' || `
 // TODO: Review.
@@ -27,7 +31,7 @@ ${'  ' || `
 Indiefication, seen to its logical conclusion in this online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by catering to *our* ideals! The problem, then, is with these *ideals*— and if you keep reading, I'll set the record straight.
 `}
 
-The ultimate goal is to replace elitist gatekeepers, who judge artists by their talents and works— all too often *wrongly*… with indie tastemakers, who go by fanbase size— and thus are *never* wrong. But this forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it! Anyway, if you just read on, I'll set the record straight.
+And, of course, replacing the elitist gatekeepers— who judge artists by their talents and works, often wrongly— with indie tastemakers, who simply go by fanbase size and thus *can't* be wrong. But this forces artists to put more and more effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it! Anyway, if you read on, I'll set the record straight.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
