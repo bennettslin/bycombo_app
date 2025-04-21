@@ -189,9 +189,9 @@ Second paragraph, talk about Millennials drew all the wrong lessons, as with Y2K
 Millennials were the first generation whose elders embraced every genre— and as such, they rebelled in the only way they thought possible: by ironically celebrating the [most *middling*](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) works. As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high expectations of *previous* generations? Well, let's examine their options.
 `}
 
-Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think he could rival the Silents and Boomers who started the rock and roll renaissance. Yet this "anxiety of influence" is precisely what made Gen X try much harder, to be much better… thus averting the predicted disaster— like the handwringing that got the world to prepare for Y2K.
+Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Yet this "anxiety of influence" is precisely what made them try much harder, to be much better, thus averting the predicted disaster— like the handwringing that got the world to prepare for Y2K.
 
-In hindsight, then, it *seemed* like much ado about nothing— so Millennials drew the wrong lesson: "Music history is simply whatever happened!"
+But in hindsight, it all *seemed* like much ado about nothing— so Millennials drew the wrong lesson: "Music history is simply whatever happened!"
 
 even ironically celebrating the [most *middling*](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) works. As a result, today's artists don't *need* to be the best. But… can't one try anyway? Well, let's examine their options.
 
@@ -281,7 +281,11 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
-To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way: the indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
+${'  ' || `
+// TODO: Review today.
+`}
+
+To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way? The indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
 
 But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy, who'd rather hustle to *get* the job, than work to *deserve* it. Seems bad, right? Yet it's even worse…
 
@@ -493,7 +497,11 @@ But all is assumed to be well, since today's artists easily look and sound like 
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
-Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X? They saw it as a relic. Well, guess what was no less outdated by the '00s: indie rock's rule for artists to hustle! And yet… Millennials adopted it as their own. Why were they content to merely "larp" the next revolution?
+${'  ' || `
+// TODO: Review today.
+`}
+
+Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X, they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! And yet… Millennials adopted it as their own. Why were they content to merely "larp" the next revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
