@@ -22,10 +22,10 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement…
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review.
 `}
 
-And… of course: tossing out those elitist gatekeepers, whose judgments of talent are too often wrong, and replacing them with indie tastemakers, who go by fanbase size instead and thus *can't* be wrong. But this forces artists to put more effort into *getting* the job— or, hustling, as they say— and less into simply *deserving* it! Anyway, if you read on, I'll explain all this and more.
+And… of course: tossing out those elitist gatekeepers, whose judgments of talent are too often wrong, and replacing them with indie tastemakers, who go by fanbase size instead and thus *can't* be wrong. But now, artists need to put greater effort into *getting* the job— or, hustling, as they say— than into simply *deserving* it! Anyway, if you read on, I'll explain all this and more.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -497,7 +497,11 @@ So Millennials simply broke the rules that Gen X *already* broke… and called *
 
 ### ${++sectionCounter}. Unity abuses the lone scapegoat
 
-Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). But for Millennials, it's now the other way around: Each scene is just an "era" to try on— while any threat to the structures that allow this liberty… must be fiercely opposed by all.
+${'  ' || `
+// TODO: Review.
+`}
+
+Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each scene is *just* an "era" to try on— but any threat to the structures that allow for such "larping"… must be fiercely opposed by *all*.
 
 Moreover: "If 99% of us can see that we're *really* on the same side, then you'd best believe the other 1% is *that* awful. Still, we'll beat them on size alone!" So instead of building up courage, Millennials learned to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture was no less severe…
 
@@ -505,7 +509,11 @@ Let's say an indie artist hustles to build a fanbase on their own, thus making t
 
 Look: Either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening the indie camp's delusion of pro-artist unity, I became that 1% for the other 99% to beat down— like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
-Thankfully, some of you agree with me that the arts have since declined— and now you're ready to walk away from indie rock's ideals! But where to? Why, you can join BYCombo, and stand courageously on the pro-*audience* side… knowing that others are still good people.
+${'  ' || `
+// TODO: Review.
+`}
+
+Thankfully, some of you now agree with me that music has since declined— and you're ready to walk away from indie rock's ideals! But where to? Why, you can come to BYCombo, and stand courageously for being pro-*audience*… knowing that those on the other side are still good people.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
@@ -527,11 +535,19 @@ Luckily, having struggled for half my life to attract bandmates, I anticipated t
 
 ### ${++sectionCounter}. Advances are made in aesthetics, not logistics
 
-When is it a "larp"? Here's a test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the *real* hero… the app?
+${'  ' || `
+// TODO: Review today.
+`}
+
+When's it a "larp"? Here's a test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the *real* hero… the app?
 
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if they were assembled into bands, allowing them to combine mediums in unprecedented ways? At long last, they'd be the *real* heroes! So come join BYCombo, and explore *another* frontier— by having a dancer, illustrator, or puppeteer as your bandmate.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if they were assembled into bands, allowing them to combine mediums in unprecedented ways? At long last, they'd be the real heroes! So come join BYCombo, and explore *another* frontier— by having a dancer, illustrator, or puppeteer as your bandmate.
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
