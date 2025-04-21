@@ -19,10 +19,6 @@ Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an X
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. And of course… they'd *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement…
 
 ${'  ' || `
@@ -31,7 +27,7 @@ ${'  ' || `
 Indiefication, seen to its logical conclusion in this online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by catering to *our* ideals! The problem, then, is with these *ideals*— and if you keep reading, I'll set the record straight.
 `}
 
-And, of course, replacing the elitist gatekeepers— who judge artists by their talents and works, often wrongly— with indie tastemakers, who simply go by fanbase size and thus *can't* be wrong. But this forces artists to put more and more effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it! Anyway, if you read on, I'll set the record straight.
+And, of course, replacing elitist gatekeepers— who pick artists based on their talents and works, often wrongly!— with indie tastemakers, who simply go by fanbase size and thus *can't* be wrong. But this forces artists to put more and more effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it! Anyway, if you read on, I'll set the record straight.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -97,7 +93,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! Or when [human statue](https://www.ted.com/talks/amanda_palmer_the_art_of_asking) Amanda Palmer crowdfunded her way to a million dollars upon leaving a major label deal… this was seen as proof that artists *don't* need to sign with a label?!
+For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major… this was seen as proof that artists *don't* benefit from such label deals?!
 
 In every early example of online success, chance or privilege played a clear role; yet the indie camp was so eager to spurn the majors, they downplayed this point. Well, it worked: The Internet came to be seen as a meritocracy, where *anyone* can make it. Except now, if an indie artist struggles to do so… the public *has* to assume they're unworthy!
 
@@ -519,7 +515,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Thankfully, some of you agree with me that the arts have since declined— and now you're ready to walk away from indie rock's ideals! But where to? Why, you can join BYCombo, and stand courageously for the pro-*audience* side… knowing that others are still good people.
+Thankfully, some of you agree with me that the arts have since declined— and now you're ready to walk away from indie rock's ideals! But where to? Why, you can join BYCombo, and stand courageously on the pro-*audience* side… knowing that others are still good people.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
@@ -636,10 +632,6 @@ Yet self-empowerment comes with its own set of problems. For one, it's just [pow
 If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they leave themselves open to exploitation— and by siding with elitist gatekeepers, they incur the wrath of *middling* artists. But once the art form declines, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands, each one sacrificing a serious chunk of lifetime? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
-
-${'  ' || `
-// TODO: Review today title.
-`}
 
 ### ${++sectionCounter}. Artists want faith in a savior
 
