@@ -25,7 +25,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-And… of course: tossing out those elitist gatekeepers, whose judgments of talent are too often wrong, and replacing them with indie tastemakers, who go by fanbase size instead and thus *can't* be wrong. But now, artists need to put greater effort into *getting* the job— or, hustling, as they say— than into simply *deserving* it! Anyway, if you read on, I'll explain all this and more.
+And… of course: tossing out those elitist gatekeepers— whose judgments of talent are too often wrong— and replacing them with indie tastemakers, who go by fanbase size instead and thus *can't* be wrong. But now, artists put their greatest effort into *getting* the job— or, the hustle, as they say— rather than into simply *deserving* it! Anyway, if you read on, I'll explain all this and more.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -191,7 +191,7 @@ Millennials were the first generation whose elders embraced every genre— and a
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Yet this "anxiety of influence" is precisely what made them try much harder, to be much better, thus averting the predicted disaster— like the handwringing that got the world to prepare for Y2K.
 
-But in hindsight, it all *seemed* like much ado about nothing— so Millennials drew the wrong lesson: "Music history is simply whatever happened!"
+But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Music history is simply whatever happened!"
 
 even ironically celebrating the [most *middling*](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) works. As a result, today's artists don't *need* to be the best. But… can't one try anyway? Well, let's examine their options.
 
