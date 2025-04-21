@@ -22,10 +22,12 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement… and so forth.
 
 ${'  ' || `
-// TODO: Revise. Make it clear that it results in elitist gatekeepers being replaced by indie tastemakers. Can take out part about tech platforms to make room.
-`}
+// TODO: Review.
 
 Indiefication, seen to its logical conclusion in this online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by catering to *our* ideals! The problem, then, is with these *ideals*— and if you keep reading, I'll set the record straight.
+`}
+
+The ultimate goal is to replace elitist gatekeepers, who judge artists by their talents and works— too often wrongly… with indie tastemakers, who simply go by fanbase size— and thus are *never* wrong. But this forces artists to put more and more effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it! Anyway, if you read on, I'll set the record straight.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
