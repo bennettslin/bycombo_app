@@ -185,9 +185,15 @@ Then point out larping of artsy stuff.
 
 First paragraph, talk about Kurt Cobain and anxiety of influence.
 Second paragraph, talk about Millennials drew all the wrong lessons, as with Y2K.
-`}
 
 Millennials were the first generation whose elders embraced every genre— and as such, they rebelled in the only way they thought possible: by ironically celebrating the [most *middling*](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) works. As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high expectations of *previous* generations? Well, let's examine their options.
+`}
+
+Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think he could rival the Silents and Boomers who started the rock and roll renaissance. Yet this "anxiety of influence" is precisely what made Gen X try much harder, to be much better… thus averting the predicted disaster— like the handwringing that got the world to prepare for Y2K.
+
+In hindsight, then, it *seemed* like much ado about nothing— so Millennials drew the wrong lesson: "Music history is simply whatever happened!"
+
+even ironically celebrating the [most *middling*](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) works. As a result, today's artists don't *need* to be the best. But… can't one try anyway? Well, let's examine their options.
 
 They can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. Or— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
