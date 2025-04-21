@@ -25,9 +25,11 @@ ${'  ' || `
 // TODO: Review.
 
 Indiefication, seen to its logical conclusion in this online era, forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it. Now, some might blame those in tech… but the tech platforms took over only by catering to *our* ideals! The problem, then, is with these *ideals*— and if you keep reading, I'll set the record straight.
-`}
 
 And, of course, replacing elitist gatekeepers, who pick artists based on their talents and works— often wrongly!— with indie tastemakers, who simply go by fanbase size and thus *can't* be wrong. But this forces artists to put greater and greater effort into *getting* the job— or, hustling, as they say— instead of simply *deserving* it! Anyway, if you read on, I'll set the record straight.
+`}
+
+And, of course… tossing out those elitist gatekeepers, whose judgments of talent are too often wrong, and replacing them with indie tastemakers, who go by fanbase size instead and thus *can't* be wrong. But this forces artists to put more effort into *getting* the job— or, hustling, as they say— and less into simply *deserving* it! Anyway, if you read on, I'll explain all this and more.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
