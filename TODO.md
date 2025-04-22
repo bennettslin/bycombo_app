@@ -19,6 +19,8 @@
     * Change interactivated verse?
 
 * BYC
+    * Fix sentences with too many underscores?
+        * Sometimes I added an ellipsis in between, I think.
     * Be consistent with "namely" and "or" to explain or describe
     * Collectivists pool their achievements
         * Evangelists just a single paragraph in this section?
