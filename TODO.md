@@ -48,19 +48,11 @@ https://www.ian-leslie.com/p/how-to-be-influenced
 https://nevermindgenx.substack.com/p/the-ainguish-of-influence
 https://www.nybooks.com/articles/2000/02/10/the-panic-of-influence/?lp_txn_id=1595126
 
-* Before, or after, mastery?
-    * Ultimately depends on how I write it, I think
-
-* Anxiety of influence is a good scare
-    * Needs to be about indie, though
-    * Kurt Cobain
-        * Already thought music was rehashed and plagiarized in his own time
-        * Thought it would be worse twenty years later
-    * Make it all about not aging well
-        * Which explains why Millennials' tastes have aged so badly
-        * Without anxiety of influence, a generation will always give in to the temptation of doing things that don't age well
-            * By virtue of not aging well, they aren't done, and hence aren't common, and hence it comes across as subversion to do it
-    * Call it artistic pessimism, artistic anxiety, or declinism
+* Make it all about not aging well
+    * Which explains why Millennials' tastes have aged so badly
+    * Without anxiety of influence, a generation will always give in to the temptation of doing things that don't age well
+        * By virtue of not aging well, they aren't done, and hence aren't common, and hence it comes across as subversion to do it
+* Call it artistic pessimism, artistic anxiety, or declinism
 
 Mention hair metal era, how Millennials didn't see that an entire generation's worth of music was rendered irrelevant and obsolete in an instant.
 

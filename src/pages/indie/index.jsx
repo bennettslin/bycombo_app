@@ -189,7 +189,7 @@ Second paragraph, talk about Millennials drew all the wrong lessons, as with Y2K
 Millennials were the first generation whose elders embraced every genre— and as such, they rebelled in the only way they thought possible: by ironically celebrating the [most *middling*](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) works. As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high expectations of *previous* generations? Well, let's examine their options.
 `}
 
-Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Yet this "anxiety of influence" is precisely what made them try much harder, to be much better, thus averting the predicted disaster— like the handwringing that got the world to prepare for Y2K.
+Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "anxiety of influence" is precisely what got them to try much harder, to be much better, thus averting the predicted disaster— like the handwringing that made the world prepare for Y2K.
 
 But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Music history is simply whatever happened!"
 
