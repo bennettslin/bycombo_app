@@ -183,13 +183,13 @@ First paragraph, talk about Kurt Cobain and anxiety of influence.
 Second paragraph, talk about Millennials drew all the wrong lessons, as with Y2K.
 
 Millennials were the first generation whose elders embraced every genre— and as such, they rebelled in the only way they thought possible: by ironically celebrating the [most *middling*](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) works. As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high expectations of *previous* generations? Well, let's examine their options.
+
+even ironically celebrating the [most *middling*](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) works. 
 `}
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "anxiety of influence" is precisely what got them to try much harder, to be much better, thus averting the predicted disaster— like the handwringing that made the world prepare for Y2K.
 
-But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Music history is just whatever happened!"
-
-even ironically celebrating the [most *middling*](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) works. As a result, today's artists don't *need* to be the best. But… can't one try anyway? Well, let's examine their options.
+But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Music history is just whatever happened!" Because of this, they embraced indie rock and poptimism— movements that accord more respect toward *getting* the job than *deserving* it. As a result, today's artists don't *need* to be the best. But… can't one try anyway? Well, let's examine their options.
 
 They can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans. Plus, with no talent scouts trying to discover them, it's a huge disadvantage *not* to. Or— they can go above and beyond to make the best art, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
@@ -203,7 +203,11 @@ By contrast, could Dolly Parton *reliably* compose one "[Jolene](https://youtu.b
 
 Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your [thoughts drift](https://paulgraham.com/top.html#:~:text=I%20suspect%20a,to%20change%20something.) in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
-But this can't happen if you're always context switching— which explains why "indiefication" has made music worse. Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
+${'  ' || `
+// TODO: Review today.
+`}
+
+But this can't ever happen if you're always multitasking— which explains why "indiefication" has made music worse. Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
