@@ -187,7 +187,7 @@ ${'  ' || `
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think his generation could rival the Silents and Boomers who started the rock renaissance. Of course, this "anxiety of influence" is precisely what got Gen X to try much harder, to be much better, thus averting any predicted disaster— like the handwringing that made the world prepare for Y2K.
 
-But in hindsight, it all *seemed* to be much ado about nothing… so Millennials drew the wrong lesson: "History is whatever happens!" As a result, they were glad to see [*anything* happen](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html)— and never wondered what might've happened *instead*, if they'd held out for better works. Still, few artists even *tried* to show them how much better it could be! Why? Well, let's examine today's options.
+But in hindsight, it all *seemed* to be much ado about nothing… so Millennials drew the wrong lesson: "History is whatever happens!" As a result, they were glad to see [*anything* happen](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html)— and never wondered what might've happened had they held out for better works. Still… why didn't more artists try to *show* them how much better a work can be? Well, let's examine today's options.
 
 An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans. Plus, without talent scouts to discover them, it's a huge disadvantage *not* to. Or— they can go above and beyond to make the best works, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
@@ -393,9 +393,13 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 
 Then one day it clicked: I *haven't* met with a hundred indie tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
 
-Moreover, just like each person gets one vote in a democracy, each work gets one chance in an "indieocracy." So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time…
+${'  ' || `
+// TODO: Review today next two paragraphs.
+`}
 
-Still, what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
+Moreover, just like each person gets one vote in a democracy, each work gets one chance in an "indieocracy." So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time.
+
+Still… what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
