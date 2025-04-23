@@ -183,7 +183,7 @@ But in hindsight, it all *seemed* to be much ado about nothing… so Millennials
 
 An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans. Plus, without talent scouts to discover them, it's a huge disadvantage *not* to. Or— they can go above and beyond to make the best works, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
-It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. So… what if *you* were to do just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. Luckily, it's become clear to Gen Z that history *isn't* just "whatever happens"! And with BYCombo, they can now hold out for your works.
+It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. So… what if *you* were to do just that? Add up the gains, subtract the costs, and the math tells us: You'd be the biggest loser. Luckily, it's become clear to Gen Z that history *isn't* just "whatever happens"! And with BYCombo, they can now hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
