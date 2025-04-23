@@ -174,12 +174,12 @@ Yet the past works we love most *don't* expect us to consider the surrounding co
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
 ${'  ' || `
-// TODO: Revise fourth paragraph. Two "clear"s.
+// TODO: Review a few more times.
 `}
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think his generation could rival the Silents and Boomers who started the rock renaissance. Of course, this "anxiety of influence" is precisely what got Gen X to try much harder, to be much better, thus averting the predicted disaster— like the handwringing that made the world prepare for Y2K.
 
-But in hindsight, it all *seemed* to be much ado about nothing… so Millennials drew the wrong lesson: "History is whatever happens!" As a result, they were glad to see [*anything* happen](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html)— and never wondered what might've happened *instead*, had they held out for better works. Yet few artists even *tried* to show them how much better it could be! Why? Well, let's examine today's options.
+But in hindsight, it all *seemed* to be much ado about nothing… so Millennials drew the wrong lesson: "History is whatever happens!" As a result, they were glad to see [*anything* happen](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html)— and never wondered what might've happened *instead*, if they'd held out for better works. Still, few artists even *tried* to show them how much better it could be! Why? Well, let's examine today's options.
 
 An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans. Plus, without talent scouts to discover them, it's a huge disadvantage *not* to. Or— they can go above and beyond to make the best works, which yields *diminishing* returns for every *increase* in effort. Yet, by definition, it *isn't* a disadvantage simply not to!
 
@@ -475,7 +475,11 @@ But all is assumed to be well, since today's artists easily look and sound like 
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
-Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! And yet… Millennials adopted it as their own. Why were they content to merely "larp" the next revolution?
+${'  ' || `
+// TODO: Review today.
+`}
+
+Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! And yet… Millennials adopted it as their own. Why were they glad to merely "larp" the next revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
