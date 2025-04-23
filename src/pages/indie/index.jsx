@@ -153,7 +153,11 @@ The reverse is also true, of course: Those who'd settle for a "thousand true fan
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket." But if a critical darling strikes us as a "lottery" winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
-Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when talents deemed notable are actually par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when talents they deem notable are, in fact, par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
 
 For instance, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](https://bobtailyearlings.com/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
 
@@ -177,7 +181,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think his generation could rival the Silents and Boomers who started the rock renaissance. Of course, this "anxiety of influence" is precisely what got Gen X to try much harder, to be much better, thus averting the predicted disaster— like the handwringing that made the world prepare for Y2K.
+Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think his generation could rival the Silents and Boomers who started the rock renaissance. Of course, this "anxiety of influence" is precisely what got Gen X to try much harder, to be much better, thus averting any predicted disaster— like the handwringing that made the world prepare for Y2K.
 
 But in hindsight, it all *seemed* to be much ado about nothing… so Millennials drew the wrong lesson: "History is whatever happens!" As a result, they were glad to see [*anything* happen](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html)— and never wondered what might've happened *instead*, if they'd held out for better works. Still, few artists even *tried* to show them how much better it could be! Why? Well, let's examine today's options.
 
@@ -474,10 +478,6 @@ Yet it's *because* the dreamer is unrealistic that their vision, if ever fulfill
 But all is assumed to be well, since today's artists easily look and sound like the innovators of yesteryear… while we're never shown what *true* innovation in our times would entail. Still, what if *you're* here to truly innovate— and not just to "larp," or role-play, the *idea* of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! And yet… Millennials adopted it as their own. Why were they glad to merely "larp" the next revolution?
 
