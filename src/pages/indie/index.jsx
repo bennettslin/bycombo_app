@@ -21,7 +21,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. On top of which, they'd *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
+Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. Of course, they'd also *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
 
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement…
 
@@ -161,7 +161,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when works that get rave reviews are, in fact, par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
+Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is, in fact, par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
 
 For instance, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](https://bobtailyearlings.com/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
 
@@ -169,7 +169,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-In essence: Ignore the critics, or any others who think that making history is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of fellow *artists*. So come join BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out the modern world's own Galant era.
+In essence: Ignore the critics, or any others who think history making is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of fellow *artists*. So come join BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out the modern world's own Galant era.
 
 ### ${++sectionCounter}. Time is kind to craft, not context
 
@@ -226,7 +226,7 @@ What confused me is that I'd explicitly set out to make a [work of art](https://
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the "corporate suits" just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won intuition, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
 
 ${'  ' || `
-// TODO: Add paragraph? Easy to make works acclaimed by critics, but not envied by fellow artists. Only if needed. Talk about avant garde.
+// TODO: Add paragraph? Easy to make works acclaimed by critics, but not envied by fellow artists. Only if needed. Talk about avant garde. Goodhart's Law.
 `}
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it: The best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
@@ -330,7 +330,7 @@ ${'  ' || `
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. But this time it threw me, because in tech, paid dues signify "fake work"— and outsiders who see this, disrupt cultures that don't.
 
 ${'  ' || `
-// TODO: Revise. Keep it simple. Don't need to repeat noblesse oblige.
+// TODO: Revise. Make it simpler. Don't need to repeat noblesse oblige.
 `}
 
 Except… now it made sense why indie rock can't show noblesse oblige toward the underclass— unlike [past movements](https://youtu.be/pHCdS7O248g) that sprang from the underground! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've already put in the hustle will want to keep music as it is— in all its brokenness.
@@ -406,10 +406,10 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 Then one day it clicked: I *haven't* met with a hundred indie tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
 
 ${'  ' || `
-// TODO: Review today next two paragraphs.
+// TODO: Review today.
 `}
 
-Moreover, just like each person gets one vote in a democracy, each work gets one chance in an "indieocracy." So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time.
+Moreover, just like each person gets one vote in a democracy, each work gets one chance in an "indieocracy." So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
 
 Still… what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
 
@@ -471,10 +471,6 @@ To sum up, it was the *indie camp* who gave us today's [data-driven industry](ht
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Are we headed for a new Romanticism? Some foresee a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want, just as word of mouth does… which is why indie rock defended them for as long as it did. In this light, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
 As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass who generates them! And when in doubt, we look to others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
@@ -512,6 +508,10 @@ Combining glam's gender-bending look with metal's aggression, glam metal was the
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
 Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to dream, they were given structured ways to create and consume endless content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what I could see: The only rules left that take courage to break… are the *structural* ones, like indie rock's— which *they* help to enforce!
+
+${'  ' || `
+// TODO: Revise. Make first sentence about something better. Foreign canon. Larping.
+`}
 
 So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution. Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try this Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
