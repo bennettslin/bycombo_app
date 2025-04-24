@@ -191,7 +191,7 @@ ${'  ' || `
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "anxiety of influence" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the handwringing that made the world prepare for Y2K.
 
-But in hindsight, it all *seemed* to be much ado about nothing… so Millennials drew the wrong lesson: "History is whatever happens." As a result, they were glad for *anything* to happen— even [low-hanging fruit](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html)!— and never wondered what could've happened *instead*, had they held out for better works. Still, why didn't more artists try to *show* them how much better a work can be?
+But in hindsight, it all *seemed* to be much ado about nothing… so Millennials drew the wrong lesson: "History is whatever happens." As a result, they were glad for *anything* to happen— even [low-hanging fruit](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html)!— and never wondered what could've happened *instead*, had they held out for better works. Still, why didn't more artists *show* them how much better a work can be?
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, without talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works, which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
@@ -327,16 +327,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of the hustle as paying dues— to justify, let's say, touring at a loss. But this time it threw me, because in tech, "paid dues" is a synonym for "fake work"— and outsiders who see this, disrupt cultures that don't.
+So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. But this time it threw me, because in tech, paid dues signify "fake work"— and outsiders who see this, disrupt cultures that don't.
 
 ${'  ' || `
-// TODO: Review.
-
-Read again to verify if "avant garde" is best term?
-https://culture.ghost.io/culture-is-an-ecosystem-part-one/
+// TODO: Revise. Keep it simple. Don't need to repeat noblesse oblige.
 `}
 
-Except… now it made sense why indie rock alone can't show noblesse oblige toward the underclass— unlike [past movements](https://youtu.be/pHCdS7O248g) that once made up the avant garde! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've already put in the hustle will want to keep music as it is— in all its brokenness.
+Except… now it made sense why indie rock can't show noblesse oblige toward the underclass— unlike [past movements](https://youtu.be/pHCdS7O248g) that sprang from the underground! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've already put in the hustle will want to keep music as it is— in all its brokenness.
 
 ${'  ' || `
 // TODO: Review today.
