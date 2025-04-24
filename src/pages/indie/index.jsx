@@ -21,7 +21,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. Of course, they'd also *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
+Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. On top of that, they'd *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
 
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement…
 
@@ -161,13 +161,9 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is, in fact, par for the course. And we commit fewer false *negatives*: We'll give crazy new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
+Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is, in fact, par for the course. And we commit fewer false *negatives*: We'll give radical new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
 
 For instance, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](https://bobtailyearlings.com/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 In essence: Ignore the critics, or any others who think history making is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of fellow *artists*. So come join BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out the modern world's own Galant era.
 
@@ -186,12 +182,12 @@ Yet the past works we love most *don't* expect us to consider the surrounding co
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review section once more.
 `}
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "anxiety of influence" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the handwringing that made the world prepare for Y2K.
 
-But in hindsight, it all *seemed* to be much ado about nothing… so Millennials drew the wrong lesson: "History is whatever happens." As a result, they were glad for *anything* to happen— even [low-hanging fruit](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html)!— and never wondered what could've happened *instead*, had they held out for better works. Still, why didn't more artists *show* them how much better a work can be?
+But in hindsight, it all *seemed* to be much ado about nothing… so Millennials drew the wrong lesson: "History is whatever happens." As a result, they were glad for *anything* to happen— even [low-hanging fruit](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html)!— and never wondered what could've happened *instead*, had they held out for better works. Still, why didn't more artists try to *show* them how much better a work can be?
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, without talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works, which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
@@ -269,7 +265,11 @@ In game theory, the "stag hunt" is a game in which you and another player must d
 
 The richest nations build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The reverse is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
-Indie artists work hard *not* to need a label, and will do so even [when signed](http://archive.today/2024.05.11/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day flourish, the past proves that rock can be interdependent once again!
+${'  ' || `
+// TODO: Review today.
+`}
+
+Indie artists strive *not* to need a label, and some [keep at it](http://archive.today/2024.05.11/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) even after signing to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day flourish, the past proves that rock can be interdependent once again!
 
 BYCombo just needs artists like you, who *want* to need a label, to join with the Bobtail Yearlings and go for the stag, over and over— despite ending up with nothing, again and again— until others finally [reciprocate the courage](http://archive.today/2024.05.11/https://slate.com/culture/2007/09/the-obscure-game-theory-problem-that-explains-why-rich-countries-are-rich.html#:~:text=One%20worrying%20outcome,regain%20once%20lost.) to partner with us. Yes, it's the definition of insanity… but to stick with hares is to live in cultural poverty forever. So how about it?
 
@@ -324,10 +324,10 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](http
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad in music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture. It's just that "noblesse oblige" has to come from a somebody; being a nobody, I needed others to help *me* first. Yet no one would help…
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
-So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. But this time it threw me, because in tech, paid dues signify "fake work"— and outsiders who see this, disrupt cultures that don't.
+So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. But this time it threw me, because in tech, paid dues signify "fake work"— and outsiders who see this… disrupt cultures that don't.
 
 ${'  ' || `
 // TODO: Revise. Make it simpler. Don't need to repeat noblesse oblige.
@@ -339,7 +339,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Moreover, once someone has wasted their best years building up symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
+Moreover, once someone has wasted their best years striving for symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never hustled to pay indie rock's dues myself.
 
@@ -404,10 +404,6 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 "Be so good they [can't ignore you](https://youtu.be/jTdXqsrs4oI)," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
 Then one day it clicked: I *haven't* met with a hundred indie tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. As a result, everyone in indie rock converges on the same well-rounded way of thinking…
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Moreover, just like each person gets one vote in a democracy, each work gets one chance in an "indieocracy." So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
 
@@ -529,7 +525,11 @@ Thankfully, some of you now agree with me that music has since declined— and y
 
 ### ${++sectionCounter}. Music recording is its own medium
 
-In a world now awash in content, the new Romantics long for a return to live shows. Yet shows are fleeting by nature… just like content! It's why the best live performers, just like content creators, work hard to *consistently* deliver; theirs is the ultimate "workhorse art." And that's great! But who'll deliver this generation's "windfall art"— which calls for betting it all on a *single* chance?
+${'  ' || `
+// TODO: Review today.
+`}
+
+In a world now awash in content, the new Romantics long for a return to live shows. Yet shows are fleeting by nature… just like content! It's why the best live performers, just like content creators, strive to *consistently* deliver; theirs is the ultimate "workhorse art." And music needs that! But who'll deliver this generation's "windfall art"— which calls for betting it all on a *single* chance?
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
 
@@ -598,9 +598,7 @@ With this being the case, shouldn't we expect "indiefication" to make music… *
 ${'  ' || `
 // TODO: Keep working on.
 
-* Consider moving this and next to after identity section? Maybe not; it disrupts the whole race and identity flow
-
-* In this section or the next, point out that Gen X allowed indie rock to coexist as a counterculture to alternative in the '90s, but Millennials refused to allow interdependence to coexist with indie rock in the '00s
+* In this section or the next, point out that Gen X allowed indie rock to coexist as a counterculture to alternative in the '90s, but Millennials refused to allow interdependence to coexist with indie rock in the '00s?
 
 * Link to Noah Smith essay on how cultures get softer?
 * Read old problems with indie rock.
@@ -615,6 +613,8 @@ https://karamary.substack.com/p/hey-mama-your-californian-ideology
 Millennials were the first generation whose elders embraced every genre— and as such, they rebelled in the only way they thought possible: by ironically celebrating the [most *middling*](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) works. As a result, today's artists don't *need* to be the best. But… can't one try anyway, to rival *past* artists who met the high expectations of *previous* generations? Well, let's examine their options.
 
 First paragraph has two "then"s.
+
+Indie rock's individualism can't build for the future. It isn't future oriented.
 `}
 
 Perhaps you dispute that indie rock sits on the cultural *right*. Let's just agree, then, on its main similarity with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist! As with vaccinations, then, a decline in the arts can only be reversed by those who prioritize the *collective*— the left, in my view.
