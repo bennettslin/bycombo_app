@@ -175,15 +175,23 @@ Yet the past works we love most *don't* expect us to consider the surrounding co
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "anxiety of influence" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the handwringing that made the world prepare for Y2K.
 
-But in hindsight, it all *seemed* to be much ado about nothing… so Millennials drew the wrong lesson: "History is whatever happens." As a result, they were glad for *anything* to happen— even [low-hanging fruit](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html)!— and never wondered what could've happened *instead*, had they held out for better works. Still, why didn't more artists try to *show* them how much better a work can be?
+${'  ' || `
+// TODO: Review.
+`}
 
-Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, without talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works, which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
+But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Music history is just whatever happens!" As a result, they [were proud](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) to see *anything* happen, and never wondered what could've happened *instead*, had they held out for better works. Still… why didn't more artists join with me, and *show* them how much better a work can be?
 
 ${'  ' || `
 // TODO: Review today.
 `}
 
-It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. So… what if *you* were to do just that? Add up the gains, subtract the costs, and the math tells us: You'd be the biggest loser. Luckily, it's becoming clear to Gen Z that history *isn't* just whatever happens! And now with BYCombo, they can hold out for your works.
+Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, without talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
+
+${'  ' || `
+// TODO: Review.
+`}
+
+It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. So… what if *you* were to do just that? Add up the gains, subtract the costs, and the math tells us: You'd be the biggest loser. Thankfully, Gen Z is coming to realize that music history *isn't* just "whatever happens"! And now with BYCombo, they can hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
