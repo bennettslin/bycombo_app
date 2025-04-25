@@ -121,7 +121,11 @@ And yet… this obviously can't end well. We don't support artists of the *past*
 
 By supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad?" Yes, because there's a third and final effect: The history makers of our times… now get relegated to the *bottom*! To see why this is so, let's imagine a government program that promises a living wage and free health care to *every* artist.
 
-Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way artists have *always* worked. So anyone trying to start a *new* paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
+${'  ' || `
+// TODO: Review today.
+`}
+
+Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way artists have *always* worked. So anyone trying to create a *new* paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of quiet preparation… will be paying their own way the *whole* time.
 
@@ -179,7 +183,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Music history is just whatever happens!" As a result, they [were proud](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) to see *anything* happen, and never wondered what could've happened *instead*, had they held out for better works. Still… why didn't more artists join with me, and try to *show* them how much better a work can be?
+But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Music history is just whatever happens!" As a result, they [were proud](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) to see *anything* happen, and never wondered what could've happened *instead*, had they held out for better works. Still… why didn't more artists try to *show* them how much better a work can be?
 
 ${'  ' || `
 // TODO: Review today.
@@ -191,7 +195,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. So… what if *you* were to do just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. But music history *isn't* just whatever happens— and Gen Z is coming to realize this! Now with BYCombo, they can hold out for your works.
+It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. So… what if *you* were to do just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. But… music history *isn't* just whatever happens— which Gen Z is now coming to realize! Fortunately, with BYCombo, they can hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -322,10 +326,10 @@ Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. But this time it threw me, because in tech, paid dues signify "fake work"— and outsiders who see this… disrupt cultures that don't.
 
 ${'  ' || `
-// TODO: Revise. Make it simpler. Don't need to repeat noblesse oblige.
+// TODO: Review.
 `}
 
-Except… now it made sense why indie rock can't show noblesse oblige toward the underclass— unlike [past movements](https://youtu.be/pHCdS7O248g) that sprang from the underground! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've already put in the hustle will want to keep music as it is— in all its brokenness.
+Except… now it made sense why indie rock won't help the underclass create new paradigms— unlike [past movements](https://youtu.be/pHCdS7O248g) with roots in the underground! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've already put in the hustle will want to keep music as it is— in all its brokenness.
 
 Moreover, once someone has wasted their best years striving for symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
