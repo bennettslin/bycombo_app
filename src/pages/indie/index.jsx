@@ -121,10 +121,6 @@ And yet… this obviously can't end well. We don't support artists of the *past*
 
 By supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad?" Yes, because there's a third and final effect: The history makers of our times… now get relegated to the *bottom*! To see why this is so, let's imagine a government program that promises a living wage and free health care to *every* artist.
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way artists have *always* worked. So anyone trying to create a *new* paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of quiet preparation… will be paying their own way the *whole* time.
@@ -184,10 +180,6 @@ ${'  ' || `
 `}
 
 But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Music history is just whatever happens!" As a result, they [were proud](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) to see *anything* happen, and never wondered what could've happened *instead*, had they held out for better works. Still… why didn't more artists try to *show* them how much better a work can be?
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, without talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
@@ -329,7 +321,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Except… now it made sense why indie rock won't help the underclass create new paradigms— unlike [past movements](https://youtu.be/pHCdS7O248g) with roots in the underground! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've already put in the hustle will want to keep music as it is— in all its brokenness.
+Except… now it made sense why indie rock won't help the underclass create new paradigms— unlike [past movements](https://youtu.be/pHCdS7O248g) with roots in the underground! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've already put in the hustle will want to keep music as it is— in its currently broken state.
 
 Moreover, once someone has wasted their best years striving for symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
@@ -451,10 +443,6 @@ Perhaps my arguments against indie rock seem misplaced. After all, aren't the te
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left bands powerless to negotiate; they couldn't play one label off another, and a vision by itself is worth nothing. As a result, they often had to accept unfair terms— leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 By contrast, the indie labels simply pick what the people want, going by the size of an artist's fanbase. Once *anyone* sees a safe bet, then, *everyone* does… and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists— and thus to be rated as a "good guy"— is to trust the numbers in the data!
 
 ${'  ' || `
@@ -509,7 +497,7 @@ ${'  ' || `
 // TODO: Revise. Keep going with hair metal idea. Interdependence is their generation's alternative.
 `}
 
-This is why Millennials laughed when I warned them that indie rock is their hair metal. Yet it's clear now that they never got their grunge! Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they long for a [return to scarcity](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html). Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art.
+This is why Millennials laughed it off when I warned them that indie rock is their hair metal. But now Gen Z faces an *abundance* of content, and longs for a return to [its scarcity](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)— which means they'd love to rebel against outdated ideals! Just in time… to try an Xennial's solution! With BYCombo, you can rebel in a way that takes actual courage, by doubling down to make art— and not just larp the *idea* of doing so.
 
 ### ${++sectionCounter}. Unity abuses the lone scapegoat
 
