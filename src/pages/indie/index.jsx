@@ -179,7 +179,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Music history is just whatever happens!" As a result, they [were proud](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) to see *anything* happen, and never wondered what could've happened *instead*, had they held out for better works. Still… why didn't more artists join with me, and *show* them how much better a work can be?
+But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Music history is just whatever happens!" As a result, they [were proud](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) to see *anything* happen, and never wondered what could've happened *instead*, had they held out for better works. Still… why didn't more artists join with me, and try to *show* them how much better a work can be?
 
 ${'  ' || `
 // TODO: Review today.
@@ -191,7 +191,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. So… what if *you* were to do just that? Add up the gains, subtract the costs, and the math tells us: You'd be the biggest loser. Thankfully, Gen Z is coming to realize that music history *isn't* just "whatever happens"! And now with BYCombo, they can hold out for your works.
+It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. So… what if *you* were to do just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. But music history *isn't* just whatever happens— and Gen Z is coming to realize this! Now with BYCombo, they can hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -383,25 +383,9 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
 
-${'  ' || `
-// TODO: Review today.
-
 But can't *today's* indies learn to sign the *next* Radiohead? No, because status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
-`}
-
-But can't *today's* indies learn to sign the *next* Radiohead? No. For one, status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature simply *admires* whichever traits enable whomever to win, by whatever the rules are; thus, if the rule is to get yourself known, then the winning trait is a knack for the hustle.
-
-${'  ' || `
-// TODO: Revise?
-* Look into Thinking in Systems, success to the successful.
-* Connect counterculture and BYCombo.
-
-Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can hope for amnesty, after betting it all on the craft— your low-status "hobby."
-`}
-
-And for another, such hierarchies are self-reinforcing: Once status comes from hustling, then hustlers become high status— and vice versa. Still, we losers have a recourse: to start a *counter*-culture… that just might let us be *tomorrow's* winners! Now with BYCombo, you too can hope for amnesty, after betting it all on the craft— your low-status "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
@@ -463,7 +447,11 @@ Perhaps my arguments against indie rock seem misplaced. After all, aren't the te
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left bands powerless to negotiate; they couldn't play one label off another, and a vision by itself is worth nothing. As a result, they often had to accept unfair terms— leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
-By contrast, the indie labels simply pick what the people want, going by the size of an artist's fanbase. Once *anyone* sees a safe bet, then, *everyone* does… and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists— and thus to be rated as a "good guy"— is to trust the data!
+${'  ' || `
+// TODO: Review today.
+`}
+
+By contrast, the indie labels simply pick what the people want, going by the size of an artist's fanbase. Once *anyone* sees a safe bet, then, *everyone* does… and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists— and thus to be rated as a "good guy"— is to trust the numbers in the data!
 
 ${'  ' || `
 // TODO: Review.
