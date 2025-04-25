@@ -487,17 +487,25 @@ But all is assumed to be well, since today's artists easily look and sound like 
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
-Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! And yet… Millennials adopted it as their own. Why were they glad to merely "larp" the next revolution?
+${'  ' || `
+// TODO: Review today.
+`}
+
+Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! And yet… Millennials adopted it as their own. Why were they glad to merely "larp" the next revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
 
-Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to dream, they were given structured ways to create and consume endless content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what I could see: The only rules left that take courage to break… are the *structural* ones, like indie rock's— which *they* help to enforce!
-
 ${'  ' || `
-// TODO: Revise. Make first sentence about something better. Foreign canon. Larping.
+// TODO: Review today.
 `}
 
-So Millennials simply broke the rules that Gen X *already* broke… and called *that* their revolution. Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they [long for a return](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) to its scarcity. Just in time… to try this Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
+Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to dream, they were given structured ways to create and consume endless content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what I could see: The only rules left that still take courage to break are the *structural* ones, like indie rock's— that *they* help to enforce!
+
+${'  ' || `
+// TODO: Revise. Keep going with hair metal idea. Interdependence is their generation's alternative.
+`}
+
+This is why Millennials laughed when I warned them that indie rock is their hair metal. Yet it's clear now that they never got their grunge! Luckily, Gen Z has only ever faced an *over*-abundance of content, and now they long for a [return to scarcity](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html). Just in time… to try an Xennial's solution! With BYCombo, you can show courage once again— by doubling down to make art.
 
 ### ${++sectionCounter}. Unity abuses the lone scapegoat
 
