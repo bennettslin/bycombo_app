@@ -129,13 +129,25 @@ To be clear, I'm not against, let's say, *universal* health care. When we suppor
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
-Growing up as a second-generation immigrant, I'd always known that other countries had their [own rock canons](https://youtu.be/AffEkIRKmTc). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Growing up as an Xennial child of Asian immigrants, I'd always known that other countries had their [own rock canons](https://youtu.be/AffEkIRKmTc). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
-Yet this same camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! And so they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
+${'  ' || `
+// TODO: Review today.
+`}
 
-Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+Yet the same camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! This means they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
+
+${'  ' || `
+// TODO: Review.
+`}
+
+So we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, unlike the indie camp, I've spent my whole life studying how *not* to be just another foreign canon! Now BYCombo will make us the world's best once more, in the only way left for us: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
@@ -211,7 +223,11 @@ By contrast, the indie labels sign just one artist at a time, so they go with th
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
-In the past, the indie tastemakers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well… in *my* case, this is what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
+${'  ' || `
+// TODO: Review today.
+`}
+
+In the past, the indie tastemakers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well, in *my* case… this is what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
 
 What confused me is that I'd explicitly set out to make a [work of art](https://yearlingsbobtail.com/8-good-night-sita/?verse=61&annotation=40) whose creativity [*can't* be disputed](https://yearlingsbobtail.com/10-constellations/?verse=1&annotation=9). Only later did it hit me: If a tastemaker is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we* want. Our human nature is to [*dis*-like creativity](http://archive.today/2024.08.26/https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html); we just don't realize this, because whatever it is we *do* like… we simply call *that* the thing that's creative!
 
@@ -507,7 +523,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Look: Either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening the indie camp's illusion of pro-artist unity, I became that 1% for the other 99% to beat down— like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
+Let's face it: Either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite results! Yet when I pointed this out in the '00s… few backed me up. Worse, by threatening the indie camp's illusion of pro-artist unity, I became that 1% for the other 99% to beat down— like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
 Thankfully, some of you now agree with me that music has since declined— and you're ready to walk away from indie rock's ideals! But where to? Why, you can come to BYCombo, and stand courageously for being pro-*audience*… knowing that those on the other side are still good people.
 
