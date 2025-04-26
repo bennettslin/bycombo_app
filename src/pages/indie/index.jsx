@@ -321,17 +321,15 @@ Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) in bad times; now times are bad for music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped us move on from this broken paradigm. But "noblesse oblige" can only come from the elites; being of the underclass, I needed others to help *me* first. Yet no one would help…
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
 
 ${'  ' || `
 // TODO: Revise. Still not worded well.
+
+But… now the indie camp's lack of noblesse oblige made perfect sense! If paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already put in the hustle will want to keep the current state of music as it is— in all its brokenness.
 `}
 
-But… now it made sense why, unlike [previous movements](https://youtu.be/pHCdS7O248g) with underground roots, indie rock *refuses* to help the underclass in their efforts to create new paradigms! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've already put in the hustle will want to keep music as it is— in its currently broken state.
+But… now it made sense why indie rock doesn't help the underclass in their efforts to create new paradigms— unlike [past movements](https://youtu.be/pHCdS7O248g) with underground roots! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've already put in the hustle will want to keep music as it is— in its currently broken state.
 
 Moreover, once someone has wasted their best years striving for symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
@@ -507,7 +505,7 @@ ${'  ' || `
 // TODO: Revise. Keep going with hair metal idea. Interdependence is their generation's alternative.
 `}
 
-This is why Millennials laughed it off when I warned them that indie rock is their hair metal. But now Gen Z faces an *abundance* of content, and longs for a return to [its scarcity](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)— which means they'd love to rebel against outdated ideals! Just in time… to try an Xennial's solution! With BYCombo, you can rebel in a way that takes actual courage, by doubling down to make art— and not just larp the *idea* of doing so.
+Millennials laughed it off, then, when I warned them that indie rock is their hair metal. But now Gen Z faces an *abundance* of content, and longs for a return to [its scarcity](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)— which means they'd love to rebel against outdated ideals! Just in time… to try an Xennial's solution! With BYCombo, you can rebel in a way that takes actual courage, by doubling down to make art— and not just larp the *idea* of doing so.
 
 ### ${++sectionCounter}. Unity abuses the lone scapegoat
 
