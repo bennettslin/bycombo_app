@@ -315,13 +315,17 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](http
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad in music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture. It's just that "noblesse oblige" has to come from a somebody; being a nobody, I needed others to help *me* first. Yet no one would help…
 
-So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. But this time it threw me, because in tech, paid dues signify "fake work"— and outsiders who see this… disrupt cultures that don't.
+${'  ' || `
+// TODO: Review today.
+`}
+
+So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Except… now it made sense why, unlike [past movements](https://youtu.be/pHCdS7O248g) with underground roots, indie rock *doesn't* help the underclass in their efforts to create new paradigms! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've already put in the hustle will want to keep music as it is— in its currently broken state.
+But… now it made sense why, unlike [*previous* movements](https://youtu.be/pHCdS7O248g) with underground roots, indie rock *refuses* to help the underclass in their efforts to create new paradigms! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've already put in the hustle will want to keep music as it is— in its currently broken state.
 
 Moreover, once someone has wasted their best years striving for symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
