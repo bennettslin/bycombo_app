@@ -313,7 +313,13 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](http
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
+${'  ' || `
+// TODO: Review.
+
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad in music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture. It's just that "noblesse oblige" has to come from a somebody; being a nobody, I needed others to help *me* first. Yet no one would help…
+`}
+
+Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) in bad times. Now times are bad for music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped us move on from this broken paradigm. But "noblesse oblige" can only come from the elites; being of the underclass, I needed others to help *me* first. Yet no one would help…
 
 ${'  ' || `
 // TODO: Review today.
@@ -325,7 +331,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But… now it made sense why, unlike [*previous* movements](https://youtu.be/pHCdS7O248g) with underground roots, indie rock *refuses* to help the underclass in their efforts to create new paradigms! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've already put in the hustle will want to keep music as it is— in its currently broken state.
+But… now it made sense why, unlike [previous movements](https://youtu.be/pHCdS7O248g) with underground roots, indie rock *refuses* to help the underclass in their efforts to create new paradigms! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've already put in the hustle will want to keep music as it is— in its currently broken state.
 
 Moreover, once someone has wasted their best years striving for symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are the ones willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
