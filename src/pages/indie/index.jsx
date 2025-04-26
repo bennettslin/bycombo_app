@@ -167,15 +167,7 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— want direct engagement from the artist; so both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since plenty of critics *hated* these bands, the indie camp [simply jeered](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.): "Well, well, well… it looks like our context beats your craft!"
-
-${'  ' || `
-// TODO: Revise. Mention identity again? Then revise previous paragraph if needed.
-`}
 
 Yet the past works we love most *don't* expect us to consider the surrounding context, do they? History, then… is like radio! So don't get complacent in this online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
 
@@ -183,19 +175,15 @@ Yet the past works we love most *don't* expect us to consider the surrounding co
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "anxiety of influence" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the handwringing that made the world prepare for Y2K.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Music history is just whatever happens!" As a result, they [were proud](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) to see *anything* happen, and never wondered what could've happened *instead*, had they held out for better works. Still… why didn't more artists try to *show* them how much better a work can be?
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, without talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
-It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Well, what if *you* did just that? Add up the gains, subtract the costs, and the math says: You'd be the biggest loser. Yet… indie rock hasn't exactly *won*, has it? So Gen Z now knows: Music history *isn't* just "whatever happens"! And with BYCombo, they can hold out for your works.
+It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Well, what if *you* did just that? Add up your gains, subtract the costs, and the math says: You'd be the biggest loser… Still, indie rock didn't exactly *win*, did it? So music history *isn't* just whatever happens— as Gen Z now knows! And with BYCombo, they can hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -321,17 +309,9 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](http
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture. It's just that "noblesse oblige" has to come from a somebody; being a nobody, I needed others to help *me* first. Yet no one would help…
 
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 But… now the indie camp's lack of noblesse oblige made perfect sense! If paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already put in the hustle will want to keep music as it is— in its currently broken state.
 
@@ -458,10 +438,10 @@ In the past, a major label would bet on visions that other labels *didn't* see�
 By contrast, the indie labels simply pick what the people want, going by the size of an artist's fanbase. Once *anyone* sees a safe bet, then, *everyone* does… and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists— and thus to be rated as a "good guy"— is to trust the numbers in the data!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
-So when the tech platforms arrived to disrupt the majors using data-driven methods, the indie camp went all in. I still recall how they rushed to defend file sharing: "*Real* artists earn a living by going on tour. Recordings are just for publicity; they *should* be free." And social networks: "*Real* artists engage with their fans after a show— and now they can at *any* time."
+So when the tech platforms arrived, seeking to disrupt the bad guys through data-driven means, the indie camp went all in. I still recall how they rushed to defend file sharing: "*Real* artists earn a living by going on tour. Recordings are just for publicity; they *should* be free." And social networks: "*Real* artists engage with their fans after a show— and now they can at *any* time."
 
 To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music)! Thanks to them and their grievances, even the *majors* behave [like the indies](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) now, by forcing you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers— but to pursue a vision that few others see.
 
