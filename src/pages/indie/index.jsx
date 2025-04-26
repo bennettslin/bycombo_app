@@ -169,7 +169,11 @@ After losing too many radio-friendly bands to the major labels, the indies learn
 
 Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since plenty of critics *hated* these bands, the indie camp [simply jeered](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.): "Well, well, well… it looks like our context beats your craft!"
 
-Yet the past works we love most *don't* expect us to consider the surrounding context, do they? History, then… is like radio! So don't get complacent in this online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Yet the past works we love most *don't* require us to consider the underlying context, do they? History, then… is like radio! So don't get complacent in this online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
@@ -183,7 +187,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Well, what if *you* did just that? Add up your gains, subtract the costs, and the math says: You'd be the biggest loser… Still, indie rock didn't exactly *win*, did it? So music history *isn't* just whatever happens— as Gen Z now knows! And with BYCombo, they can hold out for your works.
+It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Well, what if *you* did just that? Add up your gains, subtract the costs, and the math says: You'd be the biggest loser. Still… indie rock didn't exactly *win*, did it? So music history *isn't* just whatever happens— as Gen Z now knows! And with BYCombo, they can hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -486,10 +490,10 @@ Here's what I mean: If you *don't* hustle, the indie camp will reject you. But y
 Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to dream, they were given structured ways to create and consume endless content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what I could see: The only rules left that still take courage to break are the *structural* ones, like indie rock's— that *they* help to enforce!
 
 ${'  ' || `
-// TODO: Revise. Keep going with hair metal idea. Interdependence is their generation's alternative.
+// TODO: Review.
 `}
 
-Millennials laughed it off, then, when I warned them that indie rock is their hair metal. But now Gen Z faces an *abundance* of content, and longs for a return to [its scarcity](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)— which means they'd love to rebel against outdated ideals! Just in time… to try an Xennial's solution! With BYCombo, you can rebel in a way that takes actual courage, by doubling down to make art— and not just larp the *idea* of doing so.
+Millennials laughed it off, then, when I warned them that indie rock is their hair metal. But now that Gen Z has only ever faced an *abundance* of content, they [*long* to revolt](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)— and not just to *larp* the idea of doing so. Well… this here Xennial has a solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Unity abuses the lone scapegoat
 
@@ -499,7 +503,11 @@ Moreover: "If 99% of us can see that we're *really* on the same side, then you'd
 
 Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos. Except… the former scenario *causes* the latter, doesn't it?!
 
-Look: Either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening the indie camp's delusion of pro-artist unity, I became that 1% for the other 99% to beat down— like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
+${'  ' || `
+// TODO: Review today.
+`}
+
+Look: Either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening the indie camp's illusion of pro-artist unity, I became that 1% for the other 99% to beat down— like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
 Thankfully, some of you now agree with me that music has since declined— and you're ready to walk away from indie rock's ideals! But where to? Why, you can come to BYCombo, and stand courageously for being pro-*audience*… knowing that those on the other side are still good people.
 
