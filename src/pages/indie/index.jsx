@@ -187,7 +187,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-It's obvious, then, why music was better before indie rock took over: The *only* option was to try and be the best. So… what if *you* were to do just that? Add up the gains, subtract the costs, and the math is clear: You'd be the biggest loser. But… music history *isn't* just whatever happens— which Gen Z is now coming to realize! Fortunately, with BYCombo, they can hold out for your works.
+It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Well, what if *you* did just that? Add up the gains, subtract the costs, and the math says: You'd be the biggest loser. Still… indie rock hasn't exactly *won*, has it? So Gen Z now knows: Music history *isn't* just "whatever happens"! And with BYCombo, they can hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -314,12 +314,12 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](http
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Still could be better.
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad in music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture. It's just that "noblesse oblige" has to come from a somebody; being a nobody, I needed others to help *me* first. Yet no one would help…
 `}
 
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) in bad times. Now times are bad for music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped us move on from this broken paradigm. But "noblesse oblige" can only come from the elites; being of the underclass, I needed others to help *me* first. Yet no one would help…
+Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) in bad times; now times are bad for music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped us move on from this broken paradigm. But "noblesse oblige" can only come from the elites; being of the underclass, I needed others to help *me* first. Yet no one would help…
 
 ${'  ' || `
 // TODO: Review today.
@@ -328,7 +328,7 @@ ${'  ' || `
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Still not worded well.
 `}
 
 But… now it made sense why, unlike [previous movements](https://youtu.be/pHCdS7O248g) with underground roots, indie rock *refuses* to help the underclass in their efforts to create new paradigms! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've already put in the hustle will want to keep music as it is— in its currently broken state.
