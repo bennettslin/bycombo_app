@@ -133,7 +133,7 @@ ${'  ' || `
 // TODO: Review today. Also review link.
 `}
 
-Growing up as a child of Asian immigrants, I'd always been aware that other countries had their [own rock canons](https://en.wikipedia.org/wiki/X_Japan). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
+Growing up as a child of Asian immigrants, I was keenly aware that other countries had their [own rock canons](https://youtu.be/QhOFg_3RV5Q). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
@@ -145,7 +145,7 @@ ${'  ' || `
 Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 `}
 
-Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, I've spent my whole life studying how *not* to be just another foreign canon! Now BYCombo is here to make us the world's best once more, in the only way left for us: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, I've spent my whole life studying how *not* to be just another foreign canon! My solution? BYCombo will make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
@@ -155,7 +155,11 @@ For starters, the winner-take-all aspect of stardom *isn't* caused by corporate 
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as farm teams— as did those '90s alternative bands, who signed with the indies for this very reason!
 
-By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Luckily, BYCombo is here to build a *new* path to stardom. Because, once you go above and beyond to make the best art, you *won't* just settle for a "thousand true fans." And if superstars are inevitable… then why can't *you* get a chance to be one?
+${'  ' || `
+// TODO: Review today.
+`}
+
+By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Thankfully, BYCombo is here to build a *new* path to stardom. Because, once you go above and beyond to make the best art, you *won't* just settle for a "thousand true fans." And if superstars are inevitable… then why can't *you* get a chance to be one?
 
 ### ${++sectionCounter}. Posterity is awarded by peer review
 
@@ -225,6 +229,8 @@ Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the "corpor
 
 ${'  ' || `
 // TODO: Keep working on. Easy to make works acclaimed by critics, but not envied by fellow artists. Only if needed. Talk about avant garde. Goodhart's Law.
+
+Yet rock critics love a work most when it lacks enviable hooks, while pop critics love anything. Which means in a post-radio era, when no one bothers to craft enviable hooks, being critically acclaimed is the default.
 `}
 
 So rather than pick artists who'll advance the art form, the indie tastemakers simply preserve a *reputation* for doing so.
@@ -327,7 +333,7 @@ ${'  ' || `
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture. It's just that "noblesse oblige" has to come from a somebody; being a nobody, I needed others to help *me* first. Yet no one would help…
 `}
 
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to switch out this dated paradigm. But it wasn't for me to show such "noblesse oblige"; being of the underclass, I needed others to help *me* first. Yet no one helped…
+Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to switch out this dated paradigm. But "noblesse oblige" wasn't mine to show; being of the underclass, I needed others to help *me* first. Yet no one would help…
 
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
 
@@ -337,7 +343,7 @@ ${'  ' || `
 But… now the indie camp's lack of noblesse oblige made perfect sense! If paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already put in the hustle will want to keep music as it is— in its currently broken state.
 `}
 
-But… now it made sense why indie rock— unlike [past movements](https://youtu.be/pHCdS7O248g) with roots in the underground— *doesn't* help the underclass to spread new paradigms! After all, if paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already put in the hustle will want to keep music as it is— in its currently broken state.
+Except… now it made sense why, unlike [past movements](https://youtu.be/pHCdS7O248g) with underground roots, indie rock *doesn't* help the underclass to spread new paradigms! After all, if paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already put in the hustle will want to keep music as it is— in its currently broken state.
 
 Moreover, once someone has wasted their best years striving for symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
@@ -462,7 +468,7 @@ In the past, a major label would bet on visions that other labels *didn't* see�
 By contrast, the indie labels simply pick what the people want, going by the size of an artist's fanbase. Once *anyone* sees a safe bet, then, *everyone* does… and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists— and thus to be rated as a "good guy"— is to trust the numbers in the data!
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Revise. "All in" isn't quite right.
 `}
 
 So when the tech platforms arrived, seeking to disrupt the bad guys through data-driven means, the indie camp went all in. I still recall how they rushed to defend file sharing: "*Real* artists earn a living by going on tour. Recordings are just for publicity; they *should* be free." And social networks: "*Real* artists engage with their fans after a show— and now they can at *any* time."
