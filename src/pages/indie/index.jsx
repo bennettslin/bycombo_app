@@ -139,7 +139,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, I've spent my whole life studying how *not* to be just another foreign canon! My solution? BYCombo will make us the world's best once more, in the only way left: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, I've spent half my life searching for ways to stay ahead of the foreign canons! My solution? BYCombo will make us the world's best once more, in the only way left: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
@@ -347,7 +347,11 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 "Who could've foreseen all the drawbacks of propagating indie rock's ideals?" Um… us women and minorities, that's who! This is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception: Rappers *proudly* rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). When they boast of having hustled, it's to say, "Hey, I hustled *too*!" They want self-reliance to count for *nothing*.
 
-Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of effectively being just another foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+${'  ' || `
+// TODO: Review today.
+`}
+
+Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of being no better than a foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, rock and roll was founded by poor and queer Blacks, then taken further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
