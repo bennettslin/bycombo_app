@@ -130,24 +130,22 @@ To be clear, I'm not against, let's say, *universal* health care. When we suppor
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review today. Also review link.
 `}
 
-Growing up as an Xennial child of Asian immigrants, I'd always known that other countries had their [own rock canons](https://youtu.be/AffEkIRKmTc). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
+Growing up as an Xennial child of Asian immigrants, I'd always known that other countries had their [own canons](https://youtu.be/fhayldCmhCk) to speak of. Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
-${'  ' || `
-// TODO: Review today.
-`}
-
-Yet the same camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! This means they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
+Yet this same camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! And so they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
 ${'  ' || `
 // TODO: Review.
+
+Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 `}
 
-So we're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, unlike the indie camp, I've spent my whole life studying how *not* to be just another foreign canon! Now BYCombo will make us the world's best once more, in the only way left for us: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Thankfully, I've spent my whole life studying how *not* to be just another foreign canon! Now BYCombo is here to make us the world's best once more, in the only way left for us: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
@@ -196,7 +194,7 @@ But in hindsight, it all *seemed* to be much ado about nothing— so Millennials
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, without talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review.
 `}
 
 It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Well, what if *you* did just that? Add up your gains, subtract the costs, and the math says: You'd be the biggest loser. Still… indie rock didn't exactly *win*, did it? So music history *isn't* just whatever happens— as Gen Z now knows! And with BYCombo, they can hold out for your works.
@@ -535,7 +533,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Let's face it: Either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite results! Yet when I pointed this out in the '00s… few backed me up. Worse, by threatening the indie camp's illusion of pro-artist unity, I became that 1% for the other 99% to beat down— like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
+Look: Either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening the indie camp's illusion of pro-artist unity, I became that 1% for the other 99% to beat down— like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
 Thankfully, some of you now agree with me that music has since declined— and you're ready to walk away from indie rock's ideals! But where to? Why, you can come to BYCombo, and stand courageously for being pro-*audience*… knowing that those on the other side are still good people.
 
