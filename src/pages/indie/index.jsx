@@ -133,7 +133,7 @@ ${'  ' || `
 // TODO: Review today. Also review link.
 `}
 
-Growing up as an Xennial child of Asian immigrants, I'd always known that other countries had their [own canons](https://youtu.be/fhayldCmhCk) to speak of. Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
+Growing up as a child of Asian immigrants, I'd always been aware that other countries had their [own rock canons](https://en.wikipedia.org/wiki/X_Japan). Yet because they clearly looked up to ours— the English-speaking world's— we cared little of theirs. Which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
@@ -193,7 +193,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Well, what if *you* did just that? Add up your gains, subtract the costs, and the math says: You'd be the biggest loser. Still… indie rock didn't exactly *win*, did it? So music history *isn't* just whatever happens— as Gen Z now knows! And with BYCombo, they can hold out for your works.
+It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Well, what if *you* did just that? Add up your gains, subtract the costs, and the math says: You'd be the biggest loser. Yet… indie rock didn't exactly *win*, did it? So music history *isn't* just whatever happens— as Gen Z now knows! And with BYCombo, they can hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -337,7 +337,7 @@ ${'  ' || `
 But… now the indie camp's lack of noblesse oblige made perfect sense! If paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already put in the hustle will want to keep music as it is— in its currently broken state.
 `}
 
-But… now it made sense why indie rock is unlike [previous movements](https://youtu.be/pHCdS7O248g) with underground roots, in *not* helping the underclass to spread new paradigms! After all, if paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already put in the hustle will want to keep music as it is— in its currently broken state.
+But… now it made sense why indie rock— unlike [past movements](https://youtu.be/pHCdS7O248g) with roots in the underground— *doesn't* help the underclass to spread new paradigms! After all, if paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already put in the hustle will want to keep music as it is— in its currently broken state.
 
 Moreover, once someone has wasted their best years striving for symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are those willing to squander even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
