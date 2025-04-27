@@ -617,7 +617,7 @@ First paragraph has two "then"s.
 Indie rock's individualism can't build for the future. It isn't future oriented.
 `}
 
-Perhaps you dispute that indie rock sits on the cultural *right*. Let's just agree, then, on its main similarity with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist! As with vaccinations, then, a decline in the arts can only be reversed by those who prioritize the *collective*— the left, in my view.
+If you dispute that indie rock sits on the cultural *right*… no worries! Let's just agree on its main similarity with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist. As with vaccinations, then, a decline in the arts can only be reversed by those who prioritize the *collective*— the left, in my view.
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
