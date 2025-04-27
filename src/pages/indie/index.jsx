@@ -135,7 +135,11 @@ So I've long understood that, to belong in the canon next to the Beatles, my ban
 
 Yet this same camp will then complain that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! And so they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
-Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, I've spent my whole life studying how *not* to be just another foreign canon! My solution? BYCombo will make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+${'  ' || `
+// TODO: Review.
+`}
+
+Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, I've spent my whole life studying how *not* to be just another foreign canon! My solution? BYCombo will make us the world's best once more, in the only way left: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
@@ -260,10 +264,10 @@ To protest against "indiefication," then, interdependent bands can do the opposi
 In game theory, the "stag hunt" is a game in which you and another player must decide, each on your own, whether to hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
 
 ${'  ' || `
-// TODO: Revise. "Reverse" isn't the right word.
+// TODO: Review today.
 `}
 
-The richest nations build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The reverse is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
+The richest nations build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The opposite is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
 Indie artists strive *not* to need a label, and some [keep at it](http://archive.today/2024.05.11/https://pitchfork.com/news/34979-amanda-palmer-tells-roadrunner-records-please-drop-me/#:~:text=I%27ve%20built%20up,totally%20DIY%20operation.) even after signing to one— on the label's dime! So labels have learned to doubt artists as well… destroying the mutual reliance needed to create cultural wealth. Yet there's hope: Much like South Korea shows how North Korea might one day flourish, the past proves that rock can be interdependent once again!
 
@@ -289,7 +293,11 @@ Uh… *we* would— the audience! Most of us only want the *best* athletes, and 
 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means today's pro-artist thinking might just be a generational fluke… and *not* the future of music.
 
-Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend the performance of a work." So let's use it once more in a way that Bach— who made music for God!— would've understood: An audience *isn't* a fanbase; nor are they a following.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend a work's performance." So let's use it in a way that Bach— who made music for God!— would've understood: An audience *isn't* a fanbase; nor are they a following.
 
 From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing [what this entails](https://youtu.be/SYSa4RzaH80)! Fortunately, BYCombo promises to be an effective gatekeeper, if you'll pledge to make the best art— namely, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
@@ -319,8 +327,6 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](http
 
 ${'  ' || `
 // TODO: Review today.
-
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken culture. It's just that "noblesse oblige" has to come from a somebody; being a nobody, I needed others to help *me* first. Yet no one would help…
 `}
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to switch out this dated paradigm. It's just that "noblesse oblige" wasn't mine to show; being of the underclass, I needed others to help *me* first. Yet no one helped…
@@ -329,8 +335,6 @@ So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/
 
 ${'  ' || `
 // TODO: Review.
-
-But… now the indie camp's lack of noblesse oblige made perfect sense! If paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already put in the hustle will want to keep music as it is— in its currently broken state.
 `}
 
 Except… now it made sense why, unlike [past movements](https://youtu.be/pHCdS7O248g) with underground roots, indie rock *doesn't* help the underclass to spread new paradigms! After all, if paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already put in the hustle will want to keep music as it is— in its currently broken state.
@@ -506,10 +510,10 @@ Here's what I mean: If you *don't* hustle, the indie camp will reject you. But y
 Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to dream, they were given structured ways to create and consume endless content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what I could see: The only rules left that still take courage to break are the *structural* ones, like indie rock's— that *they* help to enforce!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Keep working with quote format.
 `}
 
-Millennials laughed it off, then, when I warned them that indie rock is their hair metal. But now that Gen Z has only ever faced an *abundance* of content, they [*long* to revolt](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)— and not just to *larp* the idea of doing so. Well… this here Xennial has a solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
+Thus they wouldn't heed my warning: "Indie rock is your generation's *hair metal*, not *alternative*." But now Gen Z has only ever faced an *abundance* of content, and they [*long* to revolt](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… not just to *larp* the idea of doing so. Well, this here Xennial has a solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Unity abuses the lone scapegoat
 
