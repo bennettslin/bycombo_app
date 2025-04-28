@@ -143,7 +143,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, I've spent half my life plotting ways to stay ahead of the foreign canons! And my solution? BYCombo will make us the world's best once more, in the only way left: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, I've spent half my life plotting to stay ahead of the foreign canons! So, what's my solution? BYCombo will make us the world's best once more, in the only way left: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
