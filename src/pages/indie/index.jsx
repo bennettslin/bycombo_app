@@ -171,7 +171,11 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— want direct engagement from the artist; so both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
 
-Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since plenty of critics *hated* these bands, the indie camp [simply jeered](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.): "Well, well, well… it looks like our context beats your craft!"
+${'  ' || `
+// TODO: Review.
+`}
+
+Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics [often *hated*](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.) these bands, the indie camp jeered: "Well, well, well… it looks like backstories and identities beat chords and melodies!"
 
 Yet the past works we love most *don't* require us to consider the underlying context, do they? History, then… is like radio! So don't get complacent in this online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
 
@@ -187,7 +191,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-It's clear, then, why music was better *before* "indiefication": The only option was to try and be the best. Today? Pick this option, and you'll have *no* fans— making you the biggest loser, in the indie camp's view. Yet… indie rock didn't exactly *win*, did it? So music history *isn't* just "whatever happens"— as Gen Z has learned! Now with BYCombo, they can hold out for your works.
+It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Today? Pick this option, and you'll have *no* fans— making you the biggest loser, in the indie camp's view. Yet… indie rock didn't exactly *win*, did it? So music history *isn't* just whatever happened— as Gen Z now knows! Luckily, with BYCombo, they can hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
