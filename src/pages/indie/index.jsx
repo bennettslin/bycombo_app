@@ -134,16 +134,16 @@ Growing up as a child of Asian immigrants, I was keenly aware that other countri
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
 Yet the very same camp will then gripe that the Rock and Roll Hall of Fame doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, today's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! This means they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
-Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, I've spent half my life plotting to stay ahead of the foreign canons! So, what's my solution? BYCombo will make us the world's best once more, in the only way left: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
@@ -182,16 +182,24 @@ Yet the past works we love most *don't* require us to consider the underlying co
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
 ${'  ' || `
-// TODO: Review link.
+// TODO: Review today link.
 `}
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the handwringing that made the world prepare for Y2K.
 
 But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Music history is just whatever happens!" As a result, they [were proud](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) to see *anything* happen, and never wondered what could've happened *instead*, had they held out for better works. Still… why didn't more artists try to *show* them how much better a work can be?
 
-Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, without talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
+${'  ' || `
+// TODO: Review today.
+`}
 
-It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Well, what if *you* did just that? Add up your gains, subtract the costs, and the math says: You'd be the biggest loser. Yet… indie rock didn't exactly *win*, did it? So music history *isn't* just whatever happens— as Gen Z now knows! And with BYCombo, they can hold out for your works.
+Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
+
+${'  ' || `
+// TODO: Review.
+`}
+
+It's clear, then, why music was better *before* "indiefication": The only option was to try and be the best. Take this option *today*, and you'll have no fans— making you the biggest loser, in the indie camp's view. Yet… indie rock didn't exactly *win*, did it? So music history *isn't* just "whatever happens"— as Gen Z has come to learn! Now with BYCombo, they can hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -325,7 +333,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to switch out this dated paradigm. It's just that "noblesse oblige" wasn't mine to show; being of the underclass, I needed others to help *me* first. Yet no one helped…
+Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken paradigm. It's just that "noblesse oblige" wasn't mine to show; being of the underclass, I needed others to help *me* first. Yet no one helped…
 
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
 
