@@ -505,7 +505,7 @@ ${'  ' || `
 // TODO: Keep working on. Make sure the quote is understood to be my warning.
 `}
 
-As a result, they ignored my warning that indie rock was their generation's *hair metal*, not *alternative*. But now Gen Z has only ever faced an *abundance* of content, and they [*long* to revolt](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… not just to *larp* the idea of doing so. Well, this here Xennial has a solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
+Consequently, they ignored my warning that indie rock is their generation's *hair metal*, not *alternative*. But now Gen Z has only ever faced an *abundance* of content, and they [*long* to revolt](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… not just to *larp* the idea of doing so. Well, this here Xennial has a solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Unity abuses the lone scapegoat
 
@@ -633,13 +633,17 @@ Still, since our troubles began when we accepted "indiefication" and rejected ca
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
-"Where's *our* Nirvana?" It's a question asked by today's young folks. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
+${'  ' || `
+// TODO: Review today.
+`}
+
+"Where's *our* Nirvana?" It's a question asked by today's young folks. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. Why *didn't* they?
 
 ${'  ' || `
 // TODO: Review today.
 `}
 
-It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same way. But since indie rock *protects* artists from exploitation, it roots for those who *empower* themselves instead. As a result, indie artists today demand fair compensation; they don't do *anything* that reeks of being exploited— *especially* self-sacrifice.
+It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same way. But since indie rock *protects* artists from exploitation, it favors those who *empower* themselves instead. As a result, artists today demand fair compensation; they won't do *anything* that reeks of being exploited— *especially* self-sacrifice.
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [power-seeking](http://archive.today/2022.10.26/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [self-serving](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it ensures that indie rock's structural rules, which promise fair compensation, can *never* be broken.
 
