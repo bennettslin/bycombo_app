@@ -91,13 +91,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major… this was seen as proof that artists *don't* gain from such label deals?! Yes, former [human statue](https://www.ted.com/talks/amanda_palmer_the_art_of_asking) Amanda Palmer…
+For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major… this was seen as proof that artists *don't* gain from such label deals?! Seriously— [*human statue*](https://www.ted.com/talks/amanda_palmer_the_art_of_asking) Amanda Palmer?!
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-In every early example of online success, chance, privilege, or opportunism played a clear role; yet the indie camp was so eager to spurn the majors, they downplayed this point. And, well, it worked: The Internet came to be seen as a meritocracy, where *anyone* can make it. Except now, if an artist struggles to do so… the public *has* to assume they're unworthy!
+Let's face it: In every early example of online success… chance, privilege, or sheer opportunism played a role. Yet the indie camp was so eager to spurn the majors, they downplayed this point. Well, it worked: The Internet came to be seen as a meritocracy, where *anyone* can make it. Except now, if an artist struggles to do so… the public *has* to assume they're unworthy!
 
 As with MAGA, then, indie rock's weakness for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask— because we nurse no grievances.
 
@@ -187,7 +187,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics [often *hated*](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.) these bands, the indie camp jeered: "Well, well, well… it looks like backstories and identities beat chords and melodies!"
+Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics often *hated* these bands, the indie camp [had to jeer](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.): "Well, well, well… it looks like backstories and identities beat chords and melodies!"
 
 Yet the past works we love most *don't* require us to consider the underlying context, do they? History, then… is like radio! So don't get complacent in this online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
 
@@ -203,7 +203,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Today? Pick this option, and you'll have *no* fans— making you the biggest loser, in the indie camp's view. Yet… indie rock didn't exactly *win*, did it? So music history *isn't* just whatever happened— as Gen Z now knows! Luckily, with BYCombo, they can hold out for your works.
+It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Today? Pick this option, and you'll have *no* fans— making you the biggest loser, in the indie camp's view. Yet… indie rock didn't exactly *win*, did it? So music history *isn't* just all that ever happened! Luckily, with BYCombo, Gen Z can now hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
