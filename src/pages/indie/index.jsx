@@ -510,10 +510,10 @@ Here's what I mean: If you *don't* hustle, the indie camp will reject you. But y
 Here's my theory: Millennials faced content scarcity just long enough to hate it. Then, before they could learn to dream, they were given structured ways to create and consume endless content, which [won their gratitude](https://xkcd.com/1601). And so they never saw what I could see: The only rules left that still take courage to break are the *structural* ones, like indie rock's— that *they* help to enforce!
 
 ${'  ' || `
-// TODO: Keep working on. Make sure the quote is understood to be my warning.
+// TODO: Review.
 `}
 
-Consequently, they ignored my warning that indie rock is their generation's *hair metal*, not *alternative*. But now Gen Z has only ever faced an *abundance* of content, and they [*long* to revolt](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… not just to *larp* the idea of doing so. Well, this here Xennial has a solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
+As a result, Millennials ignored my warning that indie rock is this century's *hair metal*, not *alternative*. But now Gen Z has only ever faced an *abundance* of content, and they [*long* to revolt](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… not just to *larp* the idea of doing so. Well, this here Xennial has a solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Unity abuses the lone scapegoat
 
@@ -651,7 +651,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same way. But since indie rock *protects* artists from exploitation, it favors those who *empower* themselves instead. As a result, artists today demand fair compensation; they won't do *anything* that reeks of being exploited— *especially* self-sacrifice.
+It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same way. But since indie rock *protects* artists from exploitation, it favors those who *empower* themselves instead. For this reason, artists today demand fair compensation; they won't do *anything* that reeks of being exploited— *especially* self-sacrifice.
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [power-seeking](http://archive.today/2022.10.26/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [self-serving](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it ensures that indie rock's structural rules, which promise fair compensation, can *never* be broken.
 
