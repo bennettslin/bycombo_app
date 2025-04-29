@@ -146,7 +146,7 @@ Growing up as a child of Asian immigrants, I was keenly aware that other countri
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review.
 `}
 
 Yet this camp will then gripe about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! So they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
@@ -200,7 +200,7 @@ But in hindsight, it all *seemed* to be much ado about nothing— so Millennials
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review.
 `}
 
 It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Today? Pick this option, and you'll have *no* fans— making you the biggest loser, in the indie camp's view. Yet… indie rock didn't exactly *win*, did it? So music history *isn't* just whatever happened— as Gen Z now knows! Luckily, with BYCombo, they can hold out for your works.
