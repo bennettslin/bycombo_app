@@ -513,7 +513,7 @@ ${'  ' || `
 // TODO: Keep working on. Make sure the quote is understood to be my warning.
 `}
 
-As a result, Millennials ignored my warning: "Indie rock is your generation's *hair metal*, not *alternative*." But now Gen Z has only ever faced an *abundance* of content, and they [*long* to revolt](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… not just to *larp* the idea of doing so. Well, this here Xennial has a solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
+As a result, they ignored my warning that indie rock was their generation's *hair metal*, not *alternative*. But now Gen Z has only ever faced an *abundance* of content, and they [*long* to revolt](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… not just to *larp* the idea of doing so. Well, this here Xennial has a solution! With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Unity abuses the lone scapegoat
 
