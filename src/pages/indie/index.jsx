@@ -22,7 +22,7 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, rewarding direct fan engagement…
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review.
 `}
 
 And… of course: tossing out those elitist gatekeepers— whose judgments of talent are too often wrong— and replacing them with indie tastemakers, who go by fanbase size and thus *can't* be wrong. But now, artists put greater effort into *getting* the job— or, hustling, as they say— than into simply *deserving* it! Anyway, if you read on, I'll explain all this and more.
@@ -187,7 +187,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics often *hated* these bands, the indie camp [had to jeer](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.): "Well, well, well… it looks like backstories and identities beat chords and melodies!"
+Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics often *hated* these bands, the indie camp [had to jeer](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.): "Well, well, well… it looks like backstories and identities win out over chords and melodies!"
 
 Yet the past works we love most *don't* require us to consider the underlying context, do they? History, then… is like radio! So don't get complacent in this online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
 
@@ -621,6 +621,8 @@ First paragraph has two "then"s.
 Indie rock's individualism can't build for the future. It isn't future oriented.
 
 Interdependent labels pool their rosters.
+
+AI is just accelerated indiefication.
 `}
 
 If you dispute that indie rock sits on the cultural *right*… no worries! Let's just agree on its main similarity with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist. As with vaccinations, then, a decline in the arts can only be reversed by those who prioritize the *collective*— the left, in my view.
@@ -642,10 +644,10 @@ Still, since our troubles began when we accepted "indiefication" and rejected ca
 "Where's *our* Nirvana?" It's a question asked by today's young folks. Well, there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is this generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. But… why *didn't* they?
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review.
 `}
 
-It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But indie rock *protects* artists from exploitation, and so it roots for those who *empower* themselves instead. Consequently, today's indie artists demand fair compensation; they don't do *anything* that reeks of being exploited— *especially* self-sacrifice.
+It's because we mainly pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same. But since indie rock *protects* artists from exploitation, it roots for those who *empower* themselves instead. As a result, indie artists today demand fair compensation; they don't do *anything* that reeks of being exploited— *especially* self-sacrifice.
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [power-seeking](http://archive.today/2022.10.26/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [self-serving](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it ensures that indie rock's structural rules, which promise fair compensation, can *never* be broken.
 
