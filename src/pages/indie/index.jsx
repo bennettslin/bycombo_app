@@ -497,7 +497,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet my warning remains valid: "Indie rock is this generation's *hair metal*, not *alternative*." Except now, the generation in question is Gen Z— who've only ever faced an [*abundance* of content](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html), and are thus *eager* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
+Yet my warning remains valid: "Indie rock is this generation's *hair metal*, not *alternative*." Except now, the generation in question is Gen Z— who've only ever faced an [*abundance* of content](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… and would thus *love* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ${'  ' || `
 // TODO: Review today title.
