@@ -409,7 +409,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But while White men *easily* benefit from their identities without admitting to it— when it makes their backstory [feel timeless](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,write%20some%20songs), for example— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
+But while White men *easily* gain from their identities without admitting it— when it lends a [timeless aura](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,write%20some%20songs) to their backstory, for example— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of *culture*, it's *I* who sit on the left— and *they*, the right!
 
