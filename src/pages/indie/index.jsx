@@ -480,10 +480,10 @@ But all is assumed to be well, since today's artists easily look and sound like 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review. Is it clear what I'm warning about?
 `}
 
-Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! Yet Millennials adopted it as their own— even *after* I warned them. Why were they glad to just "larp" the next revolution?
+Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! Yet Millennials adopted it as their own… even after I warned them. Why were they glad to just "larp" the next revolution?
 
 ${'  ' || `
 // TODO: Review today.
