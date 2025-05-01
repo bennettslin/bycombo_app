@@ -475,10 +475,6 @@ But all is assumed to be well, since today's artists easily look and sound like 
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
-${'  ' || `
-// TODO: Review. Is it clear what I'm warning about?
-`}
-
 Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! Yet Millennials adopted it as their own… even after I warned them. Why were they glad to just "larp" the next revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me. Why?
@@ -593,10 +589,6 @@ As a result, Millennials *readily* sell out, insisting that survival today depen
 
 Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) to *oppose* such bands.
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
 Still, since our troubles began when we accepted "indiefication" and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, this will debase who you *are*, as the indie camp sees it— but so did leaving for the majors in the '90s! Besides, history only remembers what you get *done*— as [Kurt Cobain](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) knew. Now BYCombo lets you act on this knowledge as well.
@@ -649,7 +641,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Let's call this the "4x law of interdependence," then: By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Which checks out: The greatest interdependent band *ever* is the Beatles, who are *certainly* four times better than whomever the indie camp has to offer!
+Let's call this the "4x law of interdependence," then: By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Which checks out: Among interdependent bands, the greatest *ever* is the Beatles, who are *certainly* four times better than whomever the indie camp has to offer!
 
 So now, what potential partner *wouldn't* prefer a BYCombo band such as yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful route from interdependence… to interdependence."
 `,
