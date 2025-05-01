@@ -83,7 +83,11 @@ In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed t
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by anti-elitist grievance— and so it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
 
-For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major… this was seen as proof that artists *don't* gain from such label deals?! Yes— [*human statue*](https://www.ted.com/talks/amanda_palmer_the_art_of_asking) Amanda Palmer!
+${'  ' || `
+// TODO: Review today.
+`}
+
+For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major… this was seen as proof that artists *don't* gain from such label deals?! Yes— former [*human statue*](https://www.ted.com/talks/amanda_palmer_the_art_of_asking) Amanda Palmer!
 
 Let's face it: In every early example of online success… chance, privilege, or sheer opportunism played a clear role. Yet the indie camp was so eager to spurn the majors, they downplayed this point. Well, it worked: The Internet came to be seen as a meritocracy, where *anyone* can make it. Except now, if an artist struggles to do so… they're assumed to be unworthy!
 
@@ -293,11 +297,7 @@ In the past, the major labels did just that: Their talent scouts would sign any 
 
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.) out of their fans?
 
-${'  ' || `
-// TODO: Review today.
-`}
-
-So instead, you build yourself up to be what a future audience— or dating prospect!— *would* want, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet from what I've seen, the indie tastemakers will never "forgive" you. They're loyal to the hustlers— having hustled to get where they are themselves!
+So instead, you build yourself up to be what a future audience— or dating prospect!— *would* want, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet from what I've seen, the indie tastemakers will never "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
 
 But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 
@@ -483,9 +483,13 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! Yet Millennials adopted it as their own— even *after* I warned them. Why were they glad to merely "larp" the next revolution?
+Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! Yet Millennials adopted it as their own— even *after* I warned them. Why were they glad to just "larp" the next revolution?
 
-Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me… Why?
+${'  ' || `
+// TODO: Review today.
+`}
+
+Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me. Why?
 
 ${'  ' || `
 // TODO: Review today.
@@ -503,7 +507,11 @@ Yet my warning remains valid: "Indie rock is this generation's *hair metal*, not
 
 Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each scene is *just* an "era" to try on— but any threat to the structures that allow for such "larping"… must be fiercely opposed by *all*.
 
-Moreover: "If 99% of us can see that we're *really* on the same side, then you'd best believe the other 1% is *that* awful. Still, we'll beat them on size alone!" So instead of building up courage, Millennials learned to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture was no less severe…
+${'  ' || `
+// TODO: Review today.
+`}
+
+Moreover: "If 99% of us can see that we're really on the *same* side, then you'd best believe the other 1% is *that* awful. Still, we'll beat them on size alone!" So instead of building up courage, Millennials learned to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture was no less severe…
 
 Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos. Except… the former scenario *causes* the latter, doesn't it?!
 
