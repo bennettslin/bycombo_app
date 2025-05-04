@@ -271,10 +271,6 @@ Imagine this argument: "When I play sports, it doesn't just benefit *me*; it als
 
 Uh… *we* would— the audience! Most of us only want the *best* athletes, and it's the *talent scout's* job to find them, not *ours*. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only ever come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
-${'  ' || `
-// TODO: Review today link.
-`}
-
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers [and Gen X](http://archive.today/2021.05.21/https://genius.com/Nirvana-smells-like-teen-spirit-lyrics#:~:text=With%20the%20lights,now%2C%20entertain%20us), then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means today's pro-artist thinking might just be a generational fluke… and *not* the future of music.
 
 Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend a work's performance." So let's use it in a way that Bach— who made music for God!— would've understood: An audience *isn't* a fanbase; nor are they a following.
@@ -471,10 +467,6 @@ But all is assumed to be well, since today's artists easily look and sound like 
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! Yet Millennials adopted it as their own… even *after* I warned them. Why were they glad to just "larp" the next revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me. Why?
@@ -524,10 +516,6 @@ Unlike what the indie camp believes, then, music history *won't* care how the In
 ### ${++sectionCounter}. A renaissance of elders awaits
 
 Beethoven composed his [magnum opus](https://youtu.be/4IqnVCc-Yqo) in the final years of his life— and he was no exception: The best composers got *better* with age. But this still isn't the case with rock bands— which means there's yet *another* frontier left to explore! So if you're a Millennial, don't fret: You still have a lifetime to give *future* generations the renaissance that indie rock denied to *yours*.
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 In her book [*Generations*](https://www.simonandschuster.com/books/Generations/Jean-M-Twenge/9781982181611), Jean Twenge notes that young folks are reaching key milestones *later* in life, because society in *general* is now more complex; thus more time is needed to fulfill your potential. But this must also be true for the arts in *particular*— which explains how Millennials got off track there: Indie rock told them to hustle… and hustling makes you burn out *sooner*.
 
@@ -595,21 +583,11 @@ In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the
 
 In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman observes that Gen X didn't reject *capitalism*, just *commercialism*. That is to say: "You can *sell*, but don't sell *out*." Still, indie rock told Millennials to take it further: "Sell it *yourself*." Which they did… until the hustle burned them out. Yet, rather than blame "indiefication," they now rail against the need to sell at all— or, capitalism *itself*!
 
-${'  ' || `
-// TODO: Review today.
-
 As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
-`}
-
-As a result, Millennials *readily* sell out, insisting that survival today depends on it— while retaining the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) that underlies a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
 
 Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) to *oppose* such bands.
 
 Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Still, since our troubles began when we accepted indiefication and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, this will debase who you *are*, as the indie camp sees it— but so did leaving for the majors in the '90s! Besides, history only remembers what you get *done*— as [Kurt Cobain](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) knew. Now BYCombo lets you act on this knowledge as well.
 
@@ -646,10 +624,6 @@ Thanks to indie rock, however, today's artists have no such reason to believe. S
 Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build up your talents… in faith that a savior will then find you!
 
 ### ${++sectionCounter}. Victory is assured
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor? Or what critic, the one whose identity as an underdog provides so much surrounding context to discuss?
 
