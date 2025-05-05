@@ -19,10 +19,6 @@ ${'  ' || `
 
 By the '90s, the major labels were clearly "bad guys": They'd sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices by only signing artists with an existing fanbase, who thus *didn't* need a label. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an Xennial, I've spent half my life arguing that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to all these new tech platforms, you can hustle to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does that say about your works?"
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](http://archive.today/2024.02.01/https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. On top of that, they'd *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
@@ -33,11 +29,9 @@ First, we raise *awareness*. Since "indie" means "good" to so many, few notice t
 
 ${'  ' || `
 // TODO: Review.
-
-And… of course: tossing out those elitist gatekeepers— whose judgments of talent are too often wrong— and replacing them with indie tastemakers, who go by fanbase size and thus *can't* be wrong. But now, artists put greater effort into *getting* the job— or, hustling, as they say— than into simply *deserving* it! Anyway, if you read on, I'll explain all this and more.
 `}
 
-And— of course: replacing those elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: Whereas elitist gatekeepers give you that initial exposure— or, take you "from zero to one"— and then leave you to make the most of it— or, to go "from one to *n*"… for indie tastemakers, it's the other way around. Anyway— just read on, and I'll explain all this and more.
+And— of course: replacing those elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: Whereas elitist gatekeepers give you the needed exposure— or, take you "from zero to one"— and then leave you to make the most of that— or, to go "from one to *n*"… indie tastemakers do it the other way around. Anyway— read on, and I'll explain all this and more.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -48,10 +42,6 @@ From there, we take *action*. Rebelling against centralized institutions is easy
 Okay, that's a mouthful! Let's break it down…
 
 **Why amnesty?**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they obey the people's will by picking artists who already have a fanbase. For this reason, Millennials cheered as indie rock took over— while the people now support *every* indie artist who gets picked. Yet despite good intentions all around… the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
 
@@ -79,10 +69,6 @@ ${'  ' || `
 // TODO: Add paragraph. Zero to one, one to *n*. Mention force multiplier?
 
 Equate getting the job with hustling? Maybe not necessary.
-`}
-
-${'  ' || `
-// TODO: Review today.
 `}
 
 To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they also stay weak in matters of business like marketing and distribution, where a partner can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to need a label— or some other business partner.
@@ -635,10 +621,6 @@ It's because we only pine for past artists who self-sacrificed to advance the ar
 Yet self-empowerment comes with its own set of problems. For one, it's just [power-seeking](http://archive.today/2022.10.26/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [self-serving](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it ensures that indie rock's structural rules, which promise fair compensation, can *never* be broken.
 
 If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they leave themselves open to exploitation— and by siding with elitist gatekeepers, they incur the wrath of *middling* artists. But once the art form declines, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
-
-${'  ' || `
-// TODO: Review, including link.
-`}
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but [serious chunks](https://www.nelsonmandela.org/biography) of their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands doing just that? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
 
