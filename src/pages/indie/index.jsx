@@ -13,7 +13,11 @@ const Component = ({ sectionCounter = 0 }) => (
             metaDescription: DESCRIPTION,
             date: { year: 2025, month: 5 },
             body: `
-By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices, by only signing artists who already *had* a fanbase and were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
+${'  ' || `
+// TODO: Review.
+`}
+
+By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to blow up. But the indie labels held to fair practices by only signing artists with an existing fanbase, who were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
 
 ${'  ' || `
 // TODO: Review today.
@@ -28,26 +32,18 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, respecting direct fan engagement…
 
 ${'  ' || `
-// TODO: Revise. Simply define elitist gatekeeper versus indie tastemaker.
+// TODO: Review.
 
 And… of course: tossing out those elitist gatekeepers— whose judgments of talent are too often wrong— and replacing them with indie tastemakers, who go by fanbase size and thus *can't* be wrong. But now, artists put greater effort into *getting* the job— or, hustling, as they say— than into simply *deserving* it! Anyway, if you read on, I'll explain all this and more.
 `}
 
-And… of course: replacing those elitist gatekeepers with indie tastemakers. What's the difference? Here's my take: In the past, elitist gatekeepers would give an artist public exposure— or, take them from "zero to one"— and then leave artists to make use of that exposure— or, to take themselves from "one to *n*." But now, for indie tastemakers, it's exactly the other way around.
-
-${'  ' || `
-// TODO: Add paragraph. Explain problem with tastemakers. Zero to one, force multiplier. Equate getting the job with hustling.
-`}
-
-Which explains why indiefication makes music worse! Anyway, if you read on, I'll explain all this and more.
-
-${'  ' || `
-// TODO: Revise. Add sentence. Fortunately, as a zero…
-`}
+And… of course: replacing those elitist gatekeepers with indie tastemakers. What's the difference? Elitist gatekeepers will give you public exposure as an artist— or, take you from "zero to one"… and then leave it up to you to make the most of that— or, to go from "one to *n*." But for indie tastemakers, it's the other way around… Anyway, I'll soon explain all this and more.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to seek amnesty from interdependent-minded partners.**
+
+### Why BYCombo?
 
 Okay, that's a mouthful! Let's break it down…
 
@@ -57,7 +53,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Unlike elitist gatekeepers, whose judgments of talent are too often *wrong*, the indie tastemakers go by fanbase size… and thus always get it *right*! For this reason, Millennials cheered as indie rock took over— while the people now support *every* indie artist who gets picked. Yet despite good intentions all around… the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist).
+Being "good guys," the indie tastemakers promise *not* to gatekeep, the way "bad guys" do; instead, they simply pick artists who already have a fanbase. For this reason, Millennials cheered when indie rock took over— while the people now support *every* indie artist who gets picked. Yet despite all these good intentions… the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
@@ -78,6 +74,12 @@ Has rock explored all the ways a band can come together? It sure seems so— ass
 Or— suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized nonprofit like BYCombo to help them come together.
 
 **Why interdependence? Why partners?**
+
+${'  ' || `
+// TODO: Add paragraph. Zero to one, one to *n*. Mention force multiplier?
+
+Equate getting the job with hustling? Maybe not necessary.
+`}
 
 To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they also stay weak in matters of business like marketing and distribution, where a partner can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they need to *need* a label— or some other business partner.
 
