@@ -499,7 +499,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Here's a clue: Millennials faced content scarcity only long enough to hate it; then, before they could learn to daydream, they were given structured ways to create and consume endless content… which [won their gratitude](https://xkcd.com/1601). And so they never realized what was obvious: The only rules left that take courage to break are the *structural* ones— like indie rock's— that *they* help to enforce!
+This is my theory: Millennials faced boredom only long enough to hate it; then, before they could learn to daydream, they were given structured ways to create and consume endless content… which [won their gratitude](https://xkcd.com/1601). And so they never realized what was obvious: The only rules left that take courage to break are the *structural* ones— like indie rock's— that *they* help to enforce!
 
 Yet my warning remains valid: "Indie rock is this generation's *hair metal*, not *alternative*." Except, today, the generation in question is *Gen Z*— who've only ever faced an [*abundance* of content](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… and would now *love* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
