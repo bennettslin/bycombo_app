@@ -29,9 +29,11 @@ First, we raise *awareness*. Since "indie" means "good" to so many, few notice t
 
 ${'  ' || `
 // TODO: Review.
-`}
 
 And— of course: replacing those elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: Whereas elitist gatekeepers give you the needed exposure— or, take you "from zero to one"— and then leave you to make the most of that— or, to go "from one to *n*"… indie tastemakers do it the other way around. Anyway— read on, and I'll explain all this and more.
+`}
+
+And, of course: replacing those elitist gatekeepers with indie tastemakers! What's the difference? Whereas elitist gatekeepers offer to make you known as an artist— or, to take you "from zero to one"— but then leave you to make the most of that— or, to go "from one to *n*"… indie tastemakers do it the other way around. Anyway, if you read on, I'll explain all this and more.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
