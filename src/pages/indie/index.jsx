@@ -271,7 +271,11 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
-To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://twitter.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way? The indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
+${'  ' || `
+// TODO: Review today link.
+`}
+
+To "democratize" Twitter, Elon Musk made the blue checkmark available to all paid accounts; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](http://archive.today/2024.06.11/https://x.com/elonmusk/status/1587498907336118274). Well, guess who else thinks this way? The indie camp! They want *every* artist to be heard, not just those "verified" by a label— and so they encourage the use of online tools that offer all the same benefits.
 
 But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy— namely, opportunists who strive to *get* the job, rather than simply *deserve* it. Seems bad, right? It's even worse…
 
@@ -421,7 +425,11 @@ No, Silents weren't rooting for a Black crooner… but this is *exactly* why the
 
 Yet when I came along— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me *apart* from my identity!" Why? I suspect it's because Millennials were the first generation to believe they'd achieved perfect tolerance; as such, they forgot all about society's bargain with the hungry outsider.
 
-Thus I had *no* lifeline— and then, as it happens, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](https://twitter.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we *must* throw a lifeline to those we don't root for.
+${'  ' || `
+// TODO: Review today link.
+`}
+
+Thus I had *no* lifeline— and then, as it happens, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](http://archive.today/2024.10.05/https://x.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we *must* throw a lifeline to those we don't root for.
 
 There's also a selfish reason to do so: Once we shut out the outsiders of our times, we can no longer deflect any claim that music got worse under our watch— a claim that history will surely make against Millennials! Luckily, if you're hungry enough to try much harder, to be much better, BYCombo can help society honor that age-old bargain once more.
 
