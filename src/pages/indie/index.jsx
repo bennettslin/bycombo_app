@@ -17,7 +17,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-By the '90s, the major labels were the clear "bad guys": They'd simply sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to blow up. But the indie labels held to fair practices by only signing artists with an existing fanbase, who were thus empowered *not* to need a label. A decade later, the majors imploded— so the "good guys" won! Except now…
+By the '90s, the major labels were clearly "bad guys": They'd sign a hundred no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices by only signing artists with an existing fanbase, who thus *didn't* need a label. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
 ${'  ' || `
 // TODO: Review today.
@@ -37,7 +37,7 @@ ${'  ' || `
 And… of course: tossing out those elitist gatekeepers— whose judgments of talent are too often wrong— and replacing them with indie tastemakers, who go by fanbase size and thus *can't* be wrong. But now, artists put greater effort into *getting* the job— or, hustling, as they say— than into simply *deserving* it! Anyway, if you read on, I'll explain all this and more.
 `}
 
-And… of course: replacing those elitist gatekeepers with indie tastemakers. What's the difference? Elitist gatekeepers will give you public exposure as an artist— or, take you from "zero to one"… and then leave it up to you to make the most of that— or, to go from "one to *n*." But for indie tastemakers, it's the other way around… Anyway, I'll soon explain all this and more.
+And— of course: replacing those elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: Whereas elitist gatekeepers give you that initial exposure— or, take you "from zero to one"— and then leave you to make the most of it— or, to go "from one to *n*"… for indie tastemakers, it's the other way around. Anyway— just read on, and I'll explain all this and more.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -53,7 +53,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Being "good guys," the indie tastemakers promise *not* to gatekeep, the way "bad guys" do; instead, they simply pick artists who already have a fanbase. For this reason, Millennials cheered when indie rock took over— while the people now support *every* indie artist who gets picked. Yet despite all these good intentions… the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
+Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they obey the people's will by picking artists who already have a fanbase. For this reason, Millennials cheered as indie rock took over— while the people now support *every* indie artist who gets picked. Yet despite good intentions all around… the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
@@ -81,7 +81,11 @@ ${'  ' || `
 Equate getting the job with hustling? Maybe not necessary.
 `}
 
-To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they also stay weak in matters of business like marketing and distribution, where a partner can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they need to *need* a label— or some other business partner.
+${'  ' || `
+// TODO: Review today.
+`}
+
+To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they also stay weak in matters of business like marketing and distribution, where a partner can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to need a label— or some other business partner.
 
 **Why demos?**
 
@@ -636,7 +640,7 @@ ${'  ' || `
 // TODO: Review, including link.
 `}
 
-Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but a [serious chunk](https://www.nelsonmandela.org/biography) of their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands doing just that? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
+Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but [serious chunks](https://www.nelsonmandela.org/biography) of their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands doing just that? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
 
 ### ${++sectionCounter}. Artists want faith in a savior
 
