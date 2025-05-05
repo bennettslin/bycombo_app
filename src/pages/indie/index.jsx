@@ -30,10 +30,10 @@ First, we raise *awareness*. Since "indie" means "good" to so many, few notice t
 ${'  ' || `
 // TODO: Review.
 
-And— of course: replacing those elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: Whereas elitist gatekeepers give you the needed exposure— or, take you "from zero to one"— and then leave you to make the most of that— or, to go "from one to *n*"… indie tastemakers do it the other way around. Anyway— read on, and I'll explain all this and more.
+-And, of course: replacing those elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: Elitist gatekeepers offer to make you known as an artist— or, to take you "from zero to one"— but then leave you to make the most of that— or, to go "from one to *n*"… whereas indie tastemakers do it the other way around. Anyway, if you read on, I'll explain this and more.
 `}
 
-And, of course: replacing those elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: Elitist gatekeepers offer to make you known as an artist— or, to take you "from zero to one"— but then leave you to make the most of that— or, to go "from one to *n*"… whereas indie tastemakers do it the other way around. Anyway, if you read on, I'll explain this and more.
+And, of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: An elitist gatekeeper offers to take you "from zero to one"— to make you known as an artist… but then puts it on *you* to go "from one to *n*"— to get the public to care; whereas an indie tastemaker does it the other way around. Anyway, if you read on, I'll explain this and more.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -113,7 +113,11 @@ We all respect those alternative bands of the ['80s underground](https://www.hac
 
 In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22,%22+indie+rock+%22,%22+underground+rock+%22&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
 
-But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock renounced its elitism and became a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.), as it went from championing the under-*class*— who aren't for everyone… to rooting for under-*dogs*— who can be.
+${'  ' || `
+// TODO: Review today.
+`}
+
+But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock renounced its elitism and became a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.) instead, as it went from championing the under-*class*— who aren't for everyone… to rooting for under-*dogs*— who can be.
 
 Yet in *obeying* the people's will at all times, populism is just democracy with no [judicial safeguard](https://www.fjc.gov/history/administration/executive-enforcement-judicial-orders#:~:text=While%20the%20story,Trail%20of%20Tears.)— making it *tyranny* [for the underclass](https://www.smithsonianmag.com/history/andrew-jackson-americas-original-anti-establishment-candidate-180958621/#:~:text=Jackson%E2%80%99s%20populism%20was,plentiful%20free%20land.). We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in culture, at least!— by calling for a new generation of elites.
 
@@ -541,7 +545,11 @@ Luckily, having struggled for half my life to attract bandmates, I anticipated t
 
 ### ${++sectionCounter}. Advances are made in aesthetics, not logistics
 
-When's it a "larp"? Here's a test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that changed the paradigm too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the *real* hero… the app?
+${'  ' || `
+// TODO: Review today.
+`}
+
+When's it a "larp"? Here's a test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that changed the industry too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the *real* hero… the app?
 
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
 

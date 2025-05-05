@@ -19,8 +19,8 @@
     * Change interactivated verse?
 
 * BYC
-    * Fix sentences with too many em-dashes?
-        * Whereas elitist gatekeepers…
+    * Sentences with ellipsis in between instead of a third em-dash:
+        * Here's my take: An elitist gatekeeper…
         * Sometime in the '00s…
     * Collectivists pool their achievements
         * Evangelists just a single paragraph in this section?
