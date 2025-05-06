@@ -17,7 +17,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-By the '90s, the major labels were clearly "bad guys": They'd sign hundreds of no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices by only signing artists with an existing fanbase, who thus *didn't* need a label. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
+By the '90s, the major labels were the clear "bad guys": They'd sign hundreds of no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices by only signing artists with an existing fanbase, who thus *didn't* need a label. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an Xennial, I've spent half my life arguing that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to all these new tech platforms, you can hustle to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does that say about your works?"
 
@@ -33,7 +33,7 @@ ${'  ' || `
 -And, of course: replacing those elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: Elitist gatekeepers offer to make you known as an artist— or, to take you "from zero to one"— but then leave you to make the most of that— or, to go "from one to *n*"… whereas indie tastemakers do it the other way around. Anyway, if you read on, I'll explain this and more.
 `}
 
-And, of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: An elitist gatekeeper offers to take you "from zero to one"— that is, to make you known as an artist… but then puts it on *you* to go "from one to *n*"— to get the public to care; whereas an indie tastemaker does it the other way around. Read on, and I'll explain this and more…
+And, of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: An elitist gatekeeper offers to take you "from zero to one"— that is, to make you known as an artist… but then puts it on *you* to go "from one to *n*"— to get the public to care; whereas an indie tastemaker does it the other way around. Anyway, read on, and I'll explain this and more.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -53,7 +53,11 @@ Unfortunately, good guys will insist that *their* rules mustn't be broken; their
 
 **Why the historical canon?**
 
-When fans support an artist, they want *content*— that is, art that engages with them directly. But while content has an advantage in the present over *past* art, it loses once its *own* time is past. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must now *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
+${'  ' || `
+// TODO: Review today.
+`}
+
+When fans support an artist, they want *content*— or, art that engages with them directly. But while content has an advantage in the present over *past* art, it loses once its *own* time is past. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must now *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
@@ -503,7 +507,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-This is my theory: Millennials faced boredom only long enough to hate it; then, before they could learn to daydream, they were given structured ways to create and consume endless content… which [won their gratitude](https://xkcd.com/1601). And so they never realized what was obvious: The only rules left that take courage to break are the *structural* ones— like indie rock's— that *they* help to enforce!
+This is my theory: Millennials faced boredom only long enough to hate it; then, before they could learn to daydream, they were given structured ways to create and consume endless content— which [won their gratitude](https://xkcd.com/1601). And so they never realized what was obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
 
 Yet my warning remains valid: "Indie rock is this generation's *hair metal*, not *alternative*." Except, today, the generation in question is *Gen Z*— who've only ever faced an [*abundance* of content](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… and would now *love* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
