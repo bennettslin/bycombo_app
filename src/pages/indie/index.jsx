@@ -69,8 +69,6 @@ Or— suppose the next Kurt Cobain is a minority woman who's struggling to attra
 
 ${'  ' || `
 // TODO: Add paragraph. Zero to one, one to *n*. Mention force multiplier?
-
-Equate getting the job with hustling? Maybe not necessary.
 `}
 
 To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they also stay weak in matters of business like marketing and distribution, where a partner can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to need a label— or some other business partner.
@@ -217,6 +215,10 @@ But this can't ever happen if you're always multitasking— which explains why "
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
+${'  ' || `
+// TODO: Revise? Talk about zero to one versus one to n.
+`}
+
 Historically, bands lacked all means to get themselves known to the public, freeing them to explore at will— and sometimes leading to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— leaving them reluctant to experiment, for fear of losing those fans.
 
 Meanwhile, the major labels in their heyday would cast a wide net for talent, which allowed them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But a bigger roster can also be a [more diverse](https://www.investopedia.com/investing/importance-diversification) one— so, funny enough, this *also* led them to give us the boldest art… by encouraging them to pick unknown artists with unexpected ideas!
@@ -289,6 +291,10 @@ You see, pollution is [an example](https://blogs.cornell.edu/info2040/2012/09/24
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
 
+${'  ' || `
+// TODO: Revise? Talk about zero to one versus one to n.
+`}
+
 The lesson, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who hustle to get themselves known. So what happens now, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth with BYCombo, by paying a steep *cost* of entry: a serious chunk of lifetime!
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
@@ -312,6 +318,10 @@ In the past, the major labels did just that: Their talent scouts would sign any 
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a pickup artist would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of negging by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.) out of their fans?
 
 So instead, you build yourself up to be what a future audience— or dating prospect!— *would* want, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet from what I've seen, the indie tastemakers will never "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
+
+${'  ' || `
+// TODO: Revise? Talk about zero to one versus one to n.
+`}
 
 But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 
