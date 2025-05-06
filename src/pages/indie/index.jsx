@@ -17,7 +17,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-By the '90s, the major labels were the clear "bad guys": They'd sign hundreds of no-names to unfair contracts, hoping for a Nirvana or Radiohead to break out. But the indie labels held to fair practices by only signing artists with an existing fanbase, who thus *didn't* need a label. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
+By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. The indie labels held to fair practices, however, by only signing artists who already *had* a fanbase and thus *didn't* need a label. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an Xennial, I've spent half my life arguing that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to all these new tech platforms, you can hustle to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does that say about your works?"
 
@@ -28,12 +28,10 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, respecting direct fan engagement…
 
 ${'  ' || `
-// TODO: Review.
-
--And, of course: replacing those elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: Elitist gatekeepers offer to make you known as an artist— or, to take you "from zero to one"— but then leave you to make the most of that— or, to go "from one to *n*"… whereas indie tastemakers do it the other way around. Anyway, if you read on, I'll explain this and more.
+// TODO: Review today.
 `}
 
-And, of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: An elitist gatekeeper offers to take you from "zero to one"— that is, to make you known as an artist… but puts it all on *you* to go from "one to *n*"— to get the public to care; whereas an indie tastemaker does it the other way around. Anyway, just read on, and I'll explain more…
+And, of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: An elitist gatekeeper offers to take you "from zero to one"— that is, to make you known as an artist… but then puts it on *you* to go "from one to *n*"— to get the public to care; whereas an indie tastemaker does it the other way around. Anyway, just read on, and I'll explain more…
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -45,7 +43,11 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why amnesty?**
 
-Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they obey the people's will by picking artists who already have a fanbase. For this reason, Millennials cheered as indie rock took over— while the people now support *every* indie artist who gets picked. Yet despite good intentions all around… the arts in our times [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
+${'  ' || `
+// TODO: Review.
+`}
+
+Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they obey the people's will by only picking artists with an existing fanbase. For this reason, Millennials cheered as indie rock took over— and now the people support *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
@@ -57,7 +59,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-When fans support an artist, they want *content*— or, art that engages with them directly. But while content has an advantage in the present over *past* art, it loses once its *own* time is past. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must now *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
+When fans support an artist, they want art that engages with them directly— or, *content*. But while content has an advantage in the present over *past* art, it loses once its *own* time has passed. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must now *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
@@ -192,10 +194,6 @@ Any demand for such hooks, then, came *solely* from radio… which means the dea
 Yet the past works we love most *don't* require us to consider the underlying context, do they? History, then… is like radio! So don't get complacent in this online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think his generation could rival the Silents and Boomers who started the rock renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got Gen X to try much harder, to be much better, thus averting any predicted disaster— like the handwringing that made the world prepare for Y2K.
 
@@ -507,10 +505,6 @@ Combining glam's gender-bending look with metal's aggression, hair metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me. Why?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 This is my theory: Millennials faced boredom only long enough to hate it; then, before they could learn to daydream, they were given structured ways to create and consume endless content— which [won their gratitude](https://xkcd.com/1601). And so they never realized what was obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
 
 Yet my warning remains valid: "Indie rock is this generation's *hair metal*, not *alternative*." Except, today, the generation in question is *Gen Z*— who've only ever faced an [*abundance* of content](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… and would now *love* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
@@ -650,15 +644,7 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 ### ${++sectionCounter}. Artists want faith in a savior
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, in time, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the "one-to-*n*" talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
-
-${'  ' || `
-// TODO: Review. Two ups in a row sounds okay?
-`}
 
 Thanks to indie rock, though, today's artists have no such reason to believe. So they put out work after work, hoping one will catch on with the crowd— which, these days, means going viral. But by spreading their works from the bottom up, they end up building "zero-to-one" talents, leading to a different *kind* of work— a difference many of us hear, even if we can't articulate it.
 
