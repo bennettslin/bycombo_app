@@ -33,7 +33,7 @@ ${'  ' || `
 -And, of course: replacing those elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: Elitist gatekeepers offer to make you known as an artist— or, to take you "from zero to one"— but then leave you to make the most of that— or, to go "from one to *n*"… whereas indie tastemakers do it the other way around. Anyway, if you read on, I'll explain this and more.
 `}
 
-And, of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: An elitist gatekeeper offers to take you "from zero to one"— to make you known as an artist… but then puts it on *you* to go "from one to *n*"— to get the public to care; whereas an indie tastemaker does it the other way around. Anyway, if you read on, I'll explain this and more.
+And, of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: An elitist gatekeeper offers to take you "from zero to one"— that is, to make you known as an artist… but then puts it on *you* to go "from one to *n*"— to get the public to care; whereas an indie tastemaker does it the other way around. Read on, and I'll explain this and more…
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
