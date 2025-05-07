@@ -218,10 +218,18 @@ But this can't ever happen if you're always multitasking— which explains why "
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
 ${'  ' || `
-// TODO: Revise? Talk about zero to one versus one to n.
-`}
+// TODO: Review.
 
 Historically, bands lacked all means to get themselves known to the public, freeing them to explore at will— and sometimes leading to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— leaving them reluctant to experiment, for fear of losing those fans.
+`}
+
+Historically, bands lacked all means to get themselves known to the public. This freed them to explore at will— and sometimes led to unexpected ideas. But today, indie artists are empowered to go "from zero to one" themselves— if not *required*— which then leaves them reluctant to experiment, for fear of losing their hard-won fans.
+
+${'  ' || `
+// TODO: Revise. Mention "one to *n*."
+
+Meanwhile, the major labels in their heyday would cast a wide net for talent, which allowed them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But a bigger roster can also be a [more diverse](https://www.investopedia.com/investing/importance-diversification) one— so, funny enough, this *also* led them to give us the boldest art… by encouraging them to pick unknown artists with unexpected ideas!
+`}
 
 Meanwhile, the major labels in their heyday would cast a wide net for talent, which allowed them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But a bigger roster can also be a [more diverse](https://www.investopedia.com/investing/importance-diversification) one— so, funny enough, this *also* led them to give us the boldest art… by encouraging them to pick unknown artists with unexpected ideas!
 
@@ -233,7 +241,13 @@ In the past, the indie tastemakers stayed close to their local scenes, making th
 
 What confused me is that I'd explicitly set out to make a [work of art](https://yearlingsbobtail.com/8-good-night-sita/?verse=61&annotation=40) whose creativity [*can't* be disputed](https://yearlingsbobtail.com/10-constellations/?verse=1&annotation=9). Only later did it hit me: If a tastemaker is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we* want. Our human nature is to [*dis*-like creativity](http://archive.today/2024.08.26/https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html); we just don't realize this, because whatever it is we *do* like… we simply call *that* the thing that's creative!
 
+${'  ' || `
+// TODO: Review.
+
 Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the "corporate suits" just ignore the discomfort, since it's *all* unfamiliar to them. But those in the know pride themselves on their hard-won intuition, so they interpret the discomfort as a sincere warning from their gut. Ironically, then, as [Frank Zappa noted](https://youtu.be/xP4wsURn3rw), this makes them *worse* at discovering creativity!
+`}
+
+Creative ideas are unfamiliar, and this makes us uncomfortable. Now, the "corporate suits" just ignore the discomfort, since it's *all* unfamiliar to them. Those in the know, however, pride themselves on their intuition— and thus interpret any discomfort as a sincere warning from the gut. Ironically, then, as [Frank Zappa](https://youtu.be/xP4wsURn3rw) noted, this makes them *worse* at discovering creativity!
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it: The best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
 
@@ -288,10 +302,6 @@ But here's the problem: Once a mark of verification becomes easy to attain, it c
 You see, pollution is [an example](https://blogs.cornell.edu/info2040/2012/09/24/prisoners-dilemma-and-the-environment/#:~:text=Using%20the%20example,end%20up%20polluting%29.) of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now *every* artist must waste time and energy on the hustle!
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
-
-${'  ' || `
-// TODO: Revise? Talk about zero to one versus one to n.
-`}
 
 The lesson, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who hustle to get themselves known. So what happens now, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth with BYCombo, by paying a steep *cost* of entry: a serious chunk of lifetime!
 
