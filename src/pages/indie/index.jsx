@@ -31,7 +31,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-And, of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: An elitist gatekeeper offers to take you "from zero to one"— that is, to make you known as an artist… but then puts it on *you* to go "from one to *n*"— to get the public to care; whereas an indie tastemaker does it the other way around. Anyway, just read on, and I'll explain more…
+And, of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: An elitist gatekeeper offers to take you "from zero to one"— that is, to make you known as an artist… but then puts it on *you* to go "from one to *n*"— to get the public to care; whereas an indie tastemaker does it the other way around. Anyway, just read on, and I'll explain more.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -223,15 +223,15 @@ ${'  ' || `
 Historically, bands lacked all means to get themselves known to the public, freeing them to explore at will— and sometimes leading to unexpected ideas. Today, however, indie artists follow all the tricks to gain fans from day one— leaving them reluctant to experiment, for fear of losing those fans.
 `}
 
-Historically, bands lacked all means to get themselves known to the public. This freed them to explore at will— and sometimes led to unexpected ideas. But today, indie artists are empowered to go "from zero to one" themselves— if not *required*— which then leaves them reluctant to experiment, for fear of losing their hard-won fans.
+Historically, bands lacked all means to get themselves known to the public— which freed them to explore at will, and sometimes led to unexpected ideas. But today, indie artists are empowered to go "from zero to one" themselves— leaving them reluctant to experiment, for fear of losing their hard-won fans.
 
 ${'  ' || `
-// TODO: Revise. Mention "one to *n*."
+// TODO: Revise. Make last sentence better.
 
 Meanwhile, the major labels in their heyday would cast a wide net for talent, which allowed them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But a bigger roster can also be a [more diverse](https://www.investopedia.com/investing/importance-diversification) one— so, funny enough, this *also* led them to give us the boldest art… by encouraging them to pick unknown artists with unexpected ideas!
 `}
 
-Meanwhile, the major labels in their heyday would cast a wide net for talent, which allowed them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But a bigger roster can also be a [more diverse](https://www.investopedia.com/investing/importance-diversification) one— so, funny enough, this *also* led them to give us the boldest art… by encouraging them to pick unknown artists with unexpected ideas!
+Meanwhile, the major labels in their heyday would cast a wide net for talent, which allowed them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But a bigger roster can also be a [more diverse](https://www.investopedia.com/investing/importance-diversification) one— so, funny enough, this *also* led them to give us the boldest art… by letting them bet on unknown artists who put *all* their effort into going from "one to *n*"!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
@@ -656,7 +656,11 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, in time, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the "one-to-*n*" talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
 
-Thanks to indie rock, though, today's artists have no such reason to believe. So they put out work after work, hoping one will catch on with the crowd— which, these days, means going viral. But by spreading their works from the bottom up, they end up building "zero-to-one" talents, leading to a different *kind* of work— a difference many of us hear, even if we can't articulate it.
+${'  ' || `
+// TODO: Review.
+`}
+
+Thanks to indie rock, though, today's artists have no such reason to believe. So they spread their works from the bottom up, hoping for one to catch on with the crowd— which, these days, means going viral. But in doing so, they end up building "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if we can't articulate it.
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel the same. But when artists are being discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered this way as well?
 
