@@ -14,7 +14,7 @@ const Component = ({ sectionCounter = 0 }) => (
             date: { year: 2025, month: 5 },
             body: `
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
 By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. The indie labels held to fair practices, however, by only signing artists who already *had* a fanbase and thus *didn't* need a label. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
@@ -26,10 +26,6 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 ### The revolution will *not* be decentralized
 
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, respecting direct fan engagement…
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 And, of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: An elitist gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but then puts it on *you* to go "from one to *n*"— to get the public to care; whereas an indie tastemaker does it the other way around. Anyway, just read on, and I'll explain more.
 
@@ -44,10 +40,10 @@ Okay, that's a mouthful! Let's break it down…
 **Why amnesty?**
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
-Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they obey the people's will by only picking artists with an existing fanbase. For this reason, Millennials cheered as indie rock took over— and now the people support *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
+Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they obey the people's will by only picking artists with an existing fanbase. For this reason, Millennials cheered when indie rock took over— while the people now support *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
@@ -103,7 +99,11 @@ Here are fifty ways…
 
 In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed to an indie label. Since Nirvana and Radiohead were on *major* labels, this made them [alternative, not indie](https://substack.com/@bobtail/note/c-106073033)— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie… so now we're all waiting for the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get confused?
 
-Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by anti-elitist grievance— and so it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
+${'  ' || `
+// TODO: Review today.
+`}
+
+Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by grievance— and so it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! Or when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major… this was seen as proof that artists *don't* gain from such label deals?! And yes— [*human statue*](https://www.ted.com/talks/amanda_palmer_the_art_of_asking) Amanda Palmer!
 
@@ -655,10 +655,6 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 ### ${++sectionCounter}. Artists want faith in a savior
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, in time, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the "one-to-*n*" talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Thanks to indie rock, though, today's artists have no such reason to believe. So they spread their works from the bottom up, hoping for one to catch on with the crowd— which, these days, means going viral. But in doing so, they end up building "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if we can't articulate it.
 
