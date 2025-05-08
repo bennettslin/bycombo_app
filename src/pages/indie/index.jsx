@@ -209,13 +209,15 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the past, bands relied on *others* to make them known— to take them "from zero to one," so to speak. This freed them to focus *their* efforts on getting the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists get *themselves* known— leaving them reluctant to experiment, for fear of losing their hard-won fans.
+In the past, bands relied on *others* to make them known— to take them "from zero to one," so to speak. This freed them to focus *their* efforts on getting the public to care— to go "from one to *n*"— and so they explored at will, hoping to find the unexpected. But today, indie artists get *themselves* known— leaving them reluctant to experiment, for fear of losing their hard-won fans.
 
 ${'  ' || `
 // TODO: Review.
-`}
 
 Meanwhile, the major labels in their heyday would cast a wide net for talent, knowing that greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). But a bigger roster can be a more [diverse one](https://www.investopedia.com/investing/importance-diversification) as well— so, funny enough, this *also* led them to give us the boldest art… by letting them bet on unknown artists with unexpected ideas!
+`}
+
+Meanwhile, the major labels in their heyday would cast a wide net for talent, which allowed them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). At the same time, a bigger roster can be a more [diverse one](https://www.investopedia.com/investing/importance-diversification) as well— so, funny enough, this *also* led them to give us the boldest art… by freeing them to bet on unknown artists with unexpected ideas!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
