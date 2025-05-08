@@ -13,10 +13,6 @@ const Component = ({ sectionCounter = 0 }) => (
             metaDescription: DESCRIPTION,
             date: { year: 2025, month: 5 },
             body: `
-${'  ' || `
-// TODO: Review today.
-`}
-
 By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. The indie labels held to fair practices, however, by only signing artists who already *had* a fanbase and thus *didn't* need a label. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an Xennial, I've spent half my life arguing that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to all these new tech platforms, you can hustle to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does that say about your works?"
@@ -26,10 +22,6 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 ### The revolution will *not* be decentralized
 
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, respecting direct fan engagement…
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 And, of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: An elitist gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but then puts it on *you* to go "from one to *n*"— to get the public to care; whereas an indie tastemaker does it the other way around. Anyway… just read on, and I'll explain more.
 
@@ -42,10 +34,6 @@ From there, we take *action*. Rebelling against centralized institutions is easy
 Okay, that's a mouthful! Let's break it down…
 
 **Why amnesty?**
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they obey the people's will by only picking artists with an existing fanbase. For this reason, Millennials cheered when indie rock took over— while the people now support *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
 
@@ -102,10 +90,6 @@ Here are fifty ways…
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed to an indie label. Since Nirvana and Radiohead were on *major* labels, this made them [alternative, not indie](https://substack.com/@bobtail/note/c-106073033)— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie… so now we're all waiting for the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get confused?
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture powered by grievance— and so it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to attack the bad guys!"
 
@@ -193,10 +177,6 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want surrounding context that can be discussed at length, while local fans— now online— want direct engagement from the artist; so both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp [simply jeered](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.): "Well, well, well… it looks like backstories and identities win out over chords and melodies!"
 
 Yet the past works we love most *don't* require us to consider the underlying context, do they? History, then… is like radio! So don't get complacent in this online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
@@ -248,10 +228,6 @@ ${'  ' || `
 `}
 
 What confused me is that I'd explicitly set out to make a [work of art](https://yearlingsbobtail.com/8-good-night-sita/?verse=61&annotation=40) whose creativity [*can't* be disputed](https://yearlingsbobtail.com/10-constellations/?verse=1&annotation=9). Only later did it hit me: If a tastemaker is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we'd* want. Our human nature is to [*dis*-like creativity](http://archive.today/2024.08.26/https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html); we just don't realize this, because whatever it is we *do* like… we simply call *that* the creative idea of our times!
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the "corporate suits" just ignore the discomfort, since it's *all* unfamiliar to them. Those in the know, however, pride themselves on their intuition— and thus interpret any discomfort as a sincere warning from the gut. Ironically, then, as [Frank Zappa](https://youtu.be/xP4wsURn3rw) noted, this makes them *worse* at picking creative ideas!
 
@@ -402,10 +378,6 @@ In high school, a classmate referred to the carpetbaggers as "bad guys"— for h
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the elites of the political establishment… only to watch in confusion as the disadvantaged among us side with those [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
 
 Of course, it isn't *just* in politics, but *also* in culture, where this confusion has done so much damage. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— the good guys, as Millennials see it— won't listen. It's like they think I'm voting against my own interests!
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus sees wisdom in joining as well.
 
@@ -566,10 +538,6 @@ Here's my point: Suppose an indie label were willing to sign me *before* my band
 Luckily, having struggled for half my life to attract bandmates, I anticipated that the best musicians would gradually prefer to be *assembled* into bands— and that this, in turn, could open up a new frontier to explore! So relax, and put all your effort into simply *deserving* the most dedicated bandmates… safe in the knowledge that BYCombo will then help you find them.
 
 ### ${++sectionCounter}. Advances are made in aesthetics, not logistics
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 When's it a "larp"? Here's a test: Could it have been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that disrupted the industry too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the *real* hero… the app?
 
