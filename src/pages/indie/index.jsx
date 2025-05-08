@@ -232,7 +232,7 @@ What confused me is that I'd [explicitly set out](https://yearlingsbobtail.com/8
 In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the "corporate suits" just ignore the discomfort, since it's *all* unfamiliar to them. Those in the know, however, pride themselves on their intuition— and thus interpret any discomfort as a sincere warning from the gut. Ironically, then, as [Frank Zappa](https://youtu.be/xP4wsURn3rw) noted, this makes them *worse* at picking creative ideas!
 
 ${'  ' || `
-// TODO: Add paragraph? Again? Mention larping?
+// TODO: Keep working on. Mention larping.
 `}
 
 So rather than pick artists who'll advance the art form, the indie tastemakers simply preserve their *reputation* for doing so.
@@ -343,7 +343,11 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 "Who could've foreseen all the drawbacks of propagating indie rock's ideals?" Um… us women and minorities, that's who! This is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception: Rappers *proudly* rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). When they boast of having hustled, it's to say, "Hey, I hustled *too*!" They want self-reliance to count for *nothing*.
 
-Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after two decades of being no better than a foreign canon, it's in *decline*— and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after decades of "larping" as a world-changing movement— despite being no better than any foreign counterpart— it's in *decline*… and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, rock and roll was founded by poor and queer Blacks, then taken further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
@@ -499,7 +503,11 @@ See, us dreamers, we're not grounded in reality— which makes our visions hard 
 
 Yet it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— being strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
 
-But all is assumed to be well, since today's artists easily look and sound like the innovators of yesteryear… while we're never shown what *true* innovation in our times would entail. Still, what if *you're* here to truly innovate— and not just to "larp," or role-play, the *idea* of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect partner: a striver!
+${'  ' || `
+// TODO: Review today.
+`}
+
+But all is assumed to be well, since today's artists easily look and sound like the innovators of yesteryear… while we're never shown what *true* innovation in our times would entail. Still, what if *you're* here to truly innovate— and not just to "larp" the idea of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
