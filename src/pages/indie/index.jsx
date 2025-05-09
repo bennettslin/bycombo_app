@@ -97,10 +97,6 @@ For instance, even after Goatse proved that the Internet caters to the lowest co
 
 Let's face it: In every early example of online success… chance, privilege, or sheer opportunism played a clear role. Yet the indie camp was so eager to spurn the majors, they downplayed this point. Well, it worked: The Internet came to be seen as a meritocracy, where *anyone* can make it. Except now, if an artist struggles to do so… they're assumed to be unworthy!
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 As with MAGA, then, indie rock's weakness for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask… because we nurse no grievances.
 
 ### ${++sectionCounter}. Populism trampled the underground
@@ -159,10 +155,6 @@ For starters, the winner-take-all aspect of stardom *isn't* caused by corporate 
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as farm teams— as did those '90s alternative bands, who signed with the indies for this very reason!
 
-${'  ' || `
-// TODO: Review today link.
-`}
-
 By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Thankfully, BYCombo is here to build a *new* path to stardom. Because, once you go above and beyond to make the best art, you *won't* just settle for a "[thousand true fans](https://kk.org/thetechnium/1000-true-fans)." And if superstars are inevitable… then why can't *you* get a chance to be one?
 
 ### ${++sectionCounter}. Posterity is awarded by peer review
@@ -192,7 +184,7 @@ Yet the past works we love most *don't* require us to consider the underlying co
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review.
 `}
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the world's handwringing in preparation for Y2K.
@@ -217,10 +209,6 @@ But this can't ever happen if you're always multitasking— which explains why "
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 In the past, bands relied on *others* to make them known— to take them "from zero to one," so to speak. This freed them to focus *their* efforts on getting the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists get *themselves* known— leaving them reluctant to experiment, for fear of losing their hard-won fans.
 
 Meanwhile, the major labels in their heyday would cast a wide net for talent, which allowed them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). At the same time, a bigger roster can be a more [diverse one](https://www.investopedia.com/investing/importance-diversification) as well— so, funny enough, this *also* led them to give us the boldest art… by freeing them to bet on unknown artists with unexpected ideas!
@@ -230,10 +218,6 @@ By contrast, the indie labels sign just one artist at a time, so they go with th
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
 In the past, the indie tastemakers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well, in *my* case… this is what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
-
-${'  ' || `
-// TODO: Review today links.
-`}
 
 What confused me is that I'd [explicitly set out](https://yearlingsbobtail.com/8-good-night-sita/?verse=61&annotation=40) to make a [work of art](https://yearlingsbobtail.com/10-constellations/?verse=1&annotation=9) whose creativity *can't* be disputed. Only later did it hit me: If a tastemaker is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we'd* want. Our human nature is to [*dis*-like creativity](http://archive.today/2024.08.26/https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html); we just don't realize this, because whatever it is we *do* like… we simply call *that* the creative idea of our times!
 
@@ -389,16 +373,12 @@ In high school, a classmate referred to the carpetbaggers as "bad guys"— for h
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the elites of the political establishment… only to watch in confusion as the disadvantaged among us side with those [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Of course, it isn't *just* in politics, but *also* in culture, where this confusion has caused so much damage. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— the good guys, as Millennials see it— won't listen. It's like they think I'm voting against my own interests!
 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus sees wisdom in joining as well.
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review.
 `}
 
 Is the sideways horseshoe due for a return? Regarding politics, I don't know enough to say. But I'm qualified to predict its comeback… in *culture*! Because BYCombo lets those of you in the underground join the establishment once again— even if, like Kurt Cobain, you'd never admit to this dream.
@@ -510,10 +490,6 @@ Whenever I used to grumble about getting rejected by the indie tastemakers, frie
 See, us dreamers, we're not grounded in reality— which makes our visions hard to fulfill. Naturally, then, it was assumed that we'd gain the most from indie rock's promise of self-empowerment. But… I wasn't prepared for what would follow; I didn't realize a new generation of strivers was about to raise the bar for hustling. So, like a child, I thought I'd get points just for trying.
 
 Yet it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— being strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 But all is assumed to be well, since today's artists easily look and sound like the innovators of yesteryear… while we're never shown what *true* innovation in our times would entail. Still, what if *you're* here to truly innovate— and not just to "larp" the idea of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect partner: a striver!
 
