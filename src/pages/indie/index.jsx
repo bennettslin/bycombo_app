@@ -199,7 +199,11 @@ By contrast, could Dolly Parton *reliably* compose one "[Jolene](https://youtu.b
 
 Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your [thoughts drift](https://paulgraham.com/top.html#:~:text=I%20suspect%20a,to%20change%20something.) in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
-But this can't ever happen if you're always multitasking— which explains why "indiefication" has made music worse. Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
+${'  ' || `
+// TODO: Review today.
+`}
+
+But if you're always multitasking… this won't happen. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
@@ -220,12 +224,16 @@ What confused me is that I'd [explicitly set out](https://yearlingsbobtail.com/8
 In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the "corporate suits" just ignore the discomfort, since it's *all* unfamiliar to them. Those in the know, however, pride themselves on their intuition— and thus interpret any discomfort as a sincere warning from the gut. Ironically, then, as [Frank Zappa](https://youtu.be/xP4wsURn3rw) noted, this makes them *worse* at picking creative ideas!
 
 ${'  ' || `
-// TODO: Keep working on. Mention larping.
+// TODO: Keep working on.
 `}
 
-So rather than pick artists who'll advance the art form, the indie tastemakers strive to preserve a *reputation* for doing so.
+So rather than pick artists who'll advance the art form, the indie tastemakers merely strive to maintain a *reputation* for doing so.
 
-Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it: The best partners take pride in doing good business, *not* in knowing great art. Now with BYCombo, you can find one to back you once again.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's admit it: The best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
 
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
@@ -243,7 +251,11 @@ To help artists cut out the middleman, indie rock provides them with tools to do
 
 And here's more absurdity: Whereas artists are loved for doing what we'd all rather do, middlemen are hated for taking on work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman… but a middleman *gets* to be their own artist. So "indiefication" is really the wish of a *middling* artist— who'd otherwise only qualify to *be* a middleman!
 
-Let's be clear: The best artists *value* the middleman. After all, when you're the best at your job, it's a waste of your talents to do anyone else's— and knowing that your own job is harder than it looks, you have to assume the same of everyone else's. Plus, as one of the best yourself, you get your pick of the best partners. It's called division of labor; we learned this in middle school!
+${'  ' || `
+// TODO: Review today.
+`}
+
+Let's be clear: The best artists *value* the middleman. After all, when you're the best at your job, it's a waste of your talents to do anyone else's— and knowing that your own job is way harder than it looks, you have to assume the same of everyone else's. Plus, as one of the best yourself, you get your pick of the best partners. It's called division of labor; we learned this in middle school!
 
 Sadly, young folks never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
 
@@ -339,7 +351,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after decades of "larping" as a world-changing movement— despite being no better than any foreign canon— it's now in *decline*… and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after decades of "larping" as a world-changing movement— despite being no better than a foreign canon— it's in *decline*… and desperate to regain cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, rock and roll was founded by poor and queer Blacks, then taken further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
@@ -365,7 +377,11 @@ But once competition takes place *away* from the public eye— as populism deman
 
 Which explains why the disadvantaged tend to be *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top, than to all others in the middle.
 
-Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennial and a minority, I much prefer hip hop's elitist snobbery— "rappism," maybe? Because, public exposure *is* a zero-sum game, like it or not. Now BYCombo lets you treat it as such… just like rappists always have.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennial and a minority, I much prefer hip hop's elitist snobbery— "rappism," maybe? Let's face it: Public exposure *is* a zero-sum game, whether you like it or not. Now BYCombo lets you treat it as such… just like rappists always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
@@ -378,10 +394,10 @@ Of course, it isn't *just* in politics, but *also* in culture, where this confus
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus sees wisdom in joining as well.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
-Is the sideways horseshoe due for a return? Regarding politics, I don't know enough to say. But I'm qualified to predict its comeback… in *culture*! Because BYCombo lets those of you in the underground join the establishment once again— even if, like Kurt Cobain, you'd never admit to this dream.
+Will the sideways horseshoe ever be allowed to return? In politics, I can't say. But I'm qualified to predict its comeback… in *culture*! Because BYCombo lets those of you in the underground join the establishment once again— even if, like Kurt Cobain, you'd never admit to this dream.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
