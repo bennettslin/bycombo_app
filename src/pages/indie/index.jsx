@@ -47,7 +47,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-When fans support an artist, they want art that engages with them directly— also known as *content*. But while content wins out in the present over *past* art, it loses once its *own* time has passed. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
+When fans support an artist, they want art that engages with them directly— which is to say, *content*. But while content wins out in the present over *past* art, it loses once its *own* time has passed. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
@@ -67,7 +67,7 @@ ${'  ' || `
 To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they also stay weak in matters of business like marketing and distribution, where a partner can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to need a label— or some other business partner.
 `}
 
-To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they *also* stay hopelessly weak in matters of business, like marketing and distribution, where a label— or some other partner!— can be more effective.
+To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they stay hopelessly weak in matters of business, like marketing and distribution, where a label— or some other partner!— can be more effective.
 
 **Why interdependence?**
 
@@ -75,13 +75,13 @@ ${'  ' || `
 // TODO: Keep working on.
 
 A partner is only worth having, then, if they can think *inter*-dependently, not *indie*-pendently.
+
+Someone who requires you to be *indie*-pendent is worse than no partner at all.
 `}
 
-Partners are most impactful when helping to take you from "zero to one"— to make you known as an artist. But the indie tastemakers will only *ever* help to take you from "one to *n*"— to get the public to care— and in this effort, business skills have far less impact.
+Partners are most impactful when helping to make you known as an artist— to take you "from zero to one," as they say. But the indie tastemakers will only *ever* help to get the public to care— to take you "from one to *n*"— and in this effort, business skills have far less impact.
 
-Meanwhile, artistic talents work the opposite way: They're least impactful in getting you from "zero to one"; where they have more impact is when going from "one to *n*." So the indie tastemakers get it wrong here as well!
-
-That is to say, history makers thrive under *inter*-dependence, not *indie*-pendence. (Reiterate business partner.)
+Meanwhile, artistic talents work the opposite way: They're *least* impactful in getting you from zero to one; where they have *more* impact is when going from one to *n*. So the indie tastemakers get it wrong here as well!
 
 **Why demos?**
 
@@ -93,7 +93,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Stellar demos signify exceptional talent— yet finding one requires sifting through *hundreds*. So the indie tastemakers rarely bother, since *any* artist they sign will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with *elites*— who alone have a "noblesse oblige" to help those being *hurt* by the people's good intentions.
+Stellar demos signify exceptional talent— yet finding one requires sifting through *hundreds*. So the indie tastemakers rarely bother, since *any* artist they pick will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with *elites*— who alone have a "noblesse oblige" to help those being *hurt* by the people's good intentions.
 
 But the elites have their own reason to hesitate: Anytime they release a work that sounds like a demo they once rejected, this opens them up to a lawsuit. So what we need now is a demo registry— namely, an online location where anyone can *discreetly* check out the latest bands trying to make history.
 
@@ -223,7 +223,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-But if you're always multitasking… this won't happen. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
+But… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
@@ -257,7 +257,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's admit it: The best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
+Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it: The best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
 
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
@@ -371,10 +371,6 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 "Who could've foreseen all the drawbacks of propagating indie rock's ideals?" Um… us women and minorities, that's who! This is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception: Rappers *proudly* rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). When they boast of having hustled, it's to say, "Hey, I hustled *too*!" They want self-reliance to count for *nothing*.
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after decades of "larping" as a world-changing movement— despite being no better than a foreign canon— it's in *decline*… and desperate to regain cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, rock and roll was founded by poor and queer Blacks, then taken further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
@@ -405,7 +401,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennial and a minority, I much prefer hip hop's elitist snobbery— "rappism," maybe? Let's face it: Public exposure *is* a zero-sum game, whether you like it or not. Now BYCombo lets you treat it as such… just like rappists always have.
+Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennial and a minority, I much prefer hip hop's elitist snobbery— "rappism," maybe? Because, like it or not, public exposure *is* a zero-sum game. Now BYCombo lets you treat it as such… just like rappists always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
@@ -421,7 +417,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Will the sideways horseshoe ever be allowed to return? In politics, I can't say. But I'm qualified to predict its comeback… in *culture*! Because BYCombo lets those of you in the underground join the establishment once again— even if, like Kurt Cobain, you'd never admit to this dream.
+So will the sideways horseshoe ever be allowed to return? Regarding politics, I don't know enough to say. But in culture, I can give a definite yes! Because BYCombo lets those of you in the underground join the establishment once again— even if, like Kurt Cobain, you'd never admit to this dream.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
