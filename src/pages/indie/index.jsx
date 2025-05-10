@@ -58,26 +58,20 @@ Or— suppose the next Kurt Cobain is a minority woman who's struggling to attra
 **Why partners?**
 
 ${'  ' || `
-// TODO: Revise. Talk about being strong where weak, and weak where strong.
-
-To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they also stay weak in matters of business like marketing and distribution, where a partner can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to need a label— or some other business partner.
+// TODO: Review a few more times.
 `}
 
-To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they stay hopelessly weak in matters of business, like marketing and distribution, where a label— or some other partner!— can be more effective.
+To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they *also* stay hopelessly weak in matters of business, like marketing and distribution. So history makers *need* to work with a label— or some other business partner!— and a quick glance through the historical canon bears this out.
 
 **Why interdependence?**
 
 ${'  ' || `
-// TODO: Keep working on.
-
-A partner is only worth having, then, if they can think *inter*-dependently, not *indie*-pendently.
-
-Someone who requires you to be *indie*-pendent is worse than no partner at all.
+// TODO: Review a few more times.
 `}
 
-Partners are most impactful when helping to make you known as an artist— to take you "from zero to one," as they say. But the indie tastemakers will only *ever* help to get the public to care— to take you "from one to *n*"— and in this effort, business skills have far less impact.
+Partners are most impactful when helping to make you known as an artist— to take you "from zero to one," as they say. But an indie tastemaker will only *ever* help to get the public to care— to take you "from one to *n*"— and in this effort, business skills have far less impact.
 
-Meanwhile, artistic talents work the opposite way: They're *least* impactful in getting you from zero to one; where they have *more* impact is when going from one to *n*. So the indie tastemakers get it wrong here as well!
+Meanwhile, artistic talents work the opposite way: They do well once you're going from one to *n*, but do little to get you from zero to one. Yet it's the latter effort that an indie tastemaker needs to see! Partnering with those who seek *indie*-pendence, then, might actually be worse than having no partner at all… in which case, the *only* worthy partner is one who values *inter*-dependence.
 
 **Why demos?**
 
@@ -427,11 +421,9 @@ Except… it turns out, this *too* is a hidden advantage that's largely theirs a
 
 ${'  ' || `
 // TODO: Review.
-
-But while White men *easily* gain from their identities without admitting it— when it lends a [timeless aura](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,write%20some%20songs) to their backstory, for example— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 `}
 
-But White men *easily* gain from their identities without admitting to it— as when it lends timelessness to a [modern backstory](http://archive.today/2023.12.13/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,write%20some%20songs), for example. Meanwhile, we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
+But while White men *easily* gain from their identities without admitting to it— as when it lends timelessness to a [modern backstory](http://archive.today/2023.12.13/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,write%20some%20songs)— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of *culture*, it's *I* who sit on the left— and *they*, the right!
 
