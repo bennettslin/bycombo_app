@@ -59,21 +59,29 @@ Has rock explored all the ways a band can come together? It sure seems so— ass
 
 Or— suppose the next Kurt Cobain is a minority woman who's struggling to attract bandmates. What if she could ask to be judged free of unconscious bias? With so many ways to innovate in this space, there most certainly *are* canonical bands still to come! All that's needed is a centralized nonprofit like BYCombo to help them come together.
 
-**Why interdependence? Why partners?**
+**Why partners?**
 
 ${'  ' || `
-// TODO: Add paragraph. Zero to one, one to *n*. Mention force multiplier?
+// TODO: Revise. Talk about being strong where weak, and weak where strong.
 
 To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they also stay weak in matters of business like marketing and distribution, where a partner can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to need a label— or some other business partner.
 `}
 
-To make history, a band must be exceptionally strong in the ways of art. This isn't humanly possible, though, unless they stay hopelessly weak in matters of business, like marketing and distribution, where a partner can be more effective. That is to say, history makers thrive under *inter*-dependence, not *indie*-pendence; they need a label— or some other business partner.
+To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they *also* stay hopelessly weak in matters of business, like marketing and distribution, where a label— or some other partner!— can be more effective.
 
-Won't an indie tastemaker do? Sadly, no. Partners are more impactful when helping to take you from "zero to one"— to make you known as an artist. But the indie tastemakers will only *ever* help to take you from "one to *n*"— to get the public to care— and in this effort, business skills have far less impact.
+**Why interdependence?**
 
-Meanwhile, artistic skills work the opposite way: They're least impactful in getting you from "zero to one," yet have the most impact in getting you from "one to *n*." So the indie tastemakers get it backward here as well!
+${'  ' || `
+// TODO: Keep working on.
 
+A partner is only worth having, then, if they can think *inter*-dependently, not *indie*-pendently.
+`}
 
+Partners are most impactful when helping to take you from "zero to one"— to make you known as an artist. But the indie tastemakers will only *ever* help to take you from "one to *n*"— to get the public to care— and in this effort, business skills have far less impact.
+
+Meanwhile, artistic talents work the opposite way: They're least impactful in getting you from "zero to one"; where they have more impact is when going from "one to *n*." So the indie tastemakers get it wrong here as well!
+
+That is to say, history makers thrive under *inter*-dependence, not *indie*-pendence. (Reiterate business partner.)
 
 **Why demos?**
 
