@@ -63,9 +63,17 @@ Or— suppose the next Kurt Cobain is a minority woman who's struggling to attra
 
 ${'  ' || `
 // TODO: Add paragraph. Zero to one, one to *n*. Mention force multiplier?
-`}
 
 To aim for the canon, a band must develop exceptional strengths. But this isn't humanly possible unless they also stay weak in matters of business like marketing and distribution, where a partner can be more efficient. That is to say, history-making bands need to be *inter*-dependent, not *indie*-pendent; they *need* to need a label— or some other business partner.
+`}
+
+To make history, a band must be exceptionally strong in the ways of art. This isn't humanly possible, though, unless they stay hopelessly weak in matters of business, like marketing and distribution, where a partner can be more effective. That is to say, history makers thrive under *inter*-dependence, not *indie*-pendence; they need a label— or some other business partner.
+
+Won't an indie tastemaker do? Sadly, no. Partners are more impactful when helping to take you from "zero to one"— to make you known as an artist. But the indie tastemakers will only *ever* help to take you from "one to *n*"— to get the public to care— and in this effort, business skills have far less impact.
+
+Meanwhile, artistic skills work the opposite way: They're least impactful in getting you from "zero to one," yet have the most impact in getting you from "one to *n*." So the indie tastemakers get it backward here as well!
+
+
 
 **Why demos?**
 
@@ -73,7 +81,11 @@ A demo shows what a work can be in the *future*, with a partner's help. This doe
 
 **Why a demo *registry*?**
 
-A stellar demo signifies exceptional talent— and yet, finding one requires sifting through *hundreds*. So the indie labels rarely bother, since *any* artist they sign will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with *elites*— who alone have a "noblesse oblige" to help those being *hurt* by the people's good intentions.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Stellar demos signify exceptional talent— yet finding one requires sifting through *hundreds*. So the indie tastemakers rarely bother, since *any* artist they sign will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with *elites*— who alone have a "noblesse oblige" to help those being *hurt* by the people's good intentions.
 
 But the elites have their own reason to hesitate: Anytime they release a work that sounds like a demo they once rejected, this opens them up to a lawsuit. So what we need now is a demo registry— namely, an online location where anyone can *discreetly* check out the latest bands trying to make history.
 
@@ -209,7 +221,11 @@ But if you're always multitasking… this won't happen. No wonder, then, that "i
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
-In the past, bands relied on *others* to make them known— to take them "from zero to one," so to speak. This freed them to focus *their* efforts on getting the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists get *themselves* known— leaving them reluctant to experiment, for fear of losing their hard-won fans.
+${'  ' || `
+// TODO: Review today.
+`}
+
+In the past, bands relied on *others* to make them known— to take them "from zero to one," so to speak. This freed them to focus *their* efforts on getting the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists go from zero to one *themselves*— leaving them reluctant to experiment, for fear of losing their hard-won fans.
 
 Meanwhile, the major labels in their heyday would cast a wide net for talent, which allowed them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). At the same time, a bigger roster can be a more [diverse one](https://www.investopedia.com/investing/importance-diversification) as well— so, funny enough, this *also* led them to give us the boldest art… by freeing them to bet on unknown artists with unexpected ideas!
 
