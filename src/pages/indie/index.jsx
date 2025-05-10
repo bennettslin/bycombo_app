@@ -43,10 +43,6 @@ Unfortunately, good guys will insist that *their* rules mustn't be broken; their
 
 **Why the historical canon?**
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 When fans support an artist, they want art that engages with them directly— which is to say, *content*. But while content wins out in the present over *past* art, it loses once its *own* time has passed. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
@@ -88,10 +84,6 @@ Meanwhile, artistic talents work the opposite way: They're *least* impactful in 
 A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with "[doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7)" being my own go-to example. Yes, anyone today can self-release their works… but this isn't a *blessing*; it's a *curse*! Past artists put out *demos*, and to rival them means doing likewise.
 
 **Why a demo *registry*?**
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Stellar demos signify exceptional talent— yet finding one requires sifting through *hundreds*. So the indie tastemakers rarely bother, since *any* artist they pick will be charitably supported just the same. In turn, this means an interdependent band's best bet is to partner with *elites*— who alone have a "noblesse oblige" to help those being *hurt* by the people's good intentions.
 
@@ -219,19 +211,11 @@ By contrast, could Dolly Parton *reliably* compose one "[Jolene](https://youtu.b
 
 Of course, the best artists *are* human— so how are such works possible? It's because they *don't* benefit from talents alone, but *also* from creative insights that emerge from the unconscious mind and can't be summoned at will. In other words, spend enough time letting your [thoughts drift](https://paulgraham.com/top.html#:~:text=I%20suspect%20a,to%20change%20something.) in the shower, or daydreaming out of boredom… and the next "Jolene" just might be *yours*!
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 But… this won't happen if you're always multitasking. No wonder, then, that "indiefication" has made music worse! Indie artists *endlessly* switch between multiple hats: the promoter hat, the publicist hat… So keep your artist hat on, and have partners wear the others. Because *you* want your works to be better than you— and so does BYCombo.
 
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 In the past, bands relied on *others* to make them known— to take them "from zero to one," so to speak. This freed them to focus *their* efforts on getting the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists go from zero to one *themselves*— leaving them reluctant to experiment, for fear of losing their hard-won fans.
 
@@ -253,10 +237,6 @@ ${'  ' || `
 
 So rather than pick artists who'll advance the art form, the indie tastemakers merely strive to maintain a *reputation* for doing so.
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it: The best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
 
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
@@ -274,10 +254,6 @@ So yes, middlemen might seem redundant— but redundancy is what keeps a system 
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
 And here's more absurdity: Whereas artists are loved for doing what we'd all rather do, middlemen are hated for taking on work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman… but a middleman *gets* to be their own artist. So "indiefication" is really the wish of a *middling* artist— who'd otherwise only qualify to *be* a middleman!
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Let's be clear: The best artists *value* the middleman. After all, when you're the best at your job, it's a waste of your talents to do anyone else's— and knowing that your own job is way harder than it looks, you have to assume the same of everyone else's. Plus, as one of the best yourself, you get your pick of the best partners. It's called division of labor; we learned this in middle school!
 
@@ -353,17 +329,9 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](http
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Especially from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped to fix this broken paradigm. It's just that "noblesse oblige" wasn't mine to show; being of low status, I needed others to help *me* first. Yet no one helped…
 
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Except… now it made sense why, unlike [past movements](https://youtu.be/pHCdS7O248g) with underground roots, indie rock *doesn't* help those of low status to spread new paradigms! After all, if paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already put in the hustle will want to keep music as it is— in its currently broken state.
 
@@ -405,10 +373,6 @@ But once competition takes place *away* from the public eye— as populism deman
 
 Which explains why the disadvantaged tend to be *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom feels closer to the elites at the top, than to all others in the middle.
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennial and a minority, I much prefer hip hop's elitist snobbery— "rappism," maybe? Because, like it or not, public exposure *is* a zero-sum game. Now BYCombo lets you treat it as such… just like rappists always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
@@ -420,10 +384,6 @@ Now, our forebears didn't need to coin such a term; they intuitively grasped why
 Of course, it isn't *just* in politics, but *also* in culture, where this confusion has caused so much damage. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— the good guys, as Millennials see it— won't listen. It's like they think I'm voting against my own interests!
 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus sees wisdom in joining as well.
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 So will the sideways horseshoe ever be allowed to return? Regarding politics, I don't know enough to say. But in culture, I can give a definite yes! Because BYCombo lets those of you in the underground join the establishment once again— even if, like Kurt Cobain, you'd never admit to this dream.
 
@@ -667,12 +627,6 @@ Still, since our troubles began when we accepted indiefication and rejected capi
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
-
-${'  ' || `
-// TODO: Review today.
-
-Well, music today requires a pretty convoluted explanation, doesn't it? After all, the indie way is generally believed to deliver the boldest art… yet *no* indie artist can rival what the major labels gave us in their heyday?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
-`}
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the boldest art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
