@@ -342,10 +342,10 @@ Yet despite the poor fit, indie rock sure is eager of late to hand us the reins!
 No thanks! Remember, rock and roll was founded by poor and queer Blacks, then taken further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
 ${'  ' || `
-// TODO: Revise. Make it less about hip hop declining, and more about why it isn't absurd for rappers to win Pulitzer Prizes.
+// TODO: Review.
 `}
 
-Like those outsiders before us, we need to be the *most* original, the *most* talented… but this can only happen if we're allowed to depend on partners. Hip hop gets this, which is why it *hasn't* declined; Kendrick Lamar just won a Pulitzer Prize! Now BYCombo gives your band the same chances.
+Like those outsiders who came before us, we need to be the *most* original, the *most* talented… which can only happen if we're allowed to depend on partners. Hip hop gets this, and always has— which is why [today's rappers](https://www.pulitzer.org/winners/kendrick-lamar) win Pulitzer Prizes! Now BYCombo gives your band the same chances.
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
