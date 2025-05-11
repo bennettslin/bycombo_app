@@ -217,7 +217,7 @@ ${'  ' || `
 // TODO: Revise. Am I saying this right? The first and second sentences are really two parts of the same idea: A wide net allows for greater risks, and thus greater rewards, precisely *because* a bigger roster can be a more diverse one.
 `}
 
-Meanwhile, the major labels in their heyday had a wide net to cast for talent, which allowed them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). And since a bigger roster can also be a more [diverse one](https://www.investopedia.com/investing/importance-diversification)… funny enough, this led them to give us the boldest art as well— by allowing them to bet on unknown artists with unexpected ideas!
+Meanwhile, the major labels in their heyday had a wide net to cast for talent, giving them leeway to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). And since a bigger roster can also be a more [diverse one](https://www.investopedia.com/investing/importance-diversification)… funny enough, this led them to give us the boldest art as well— by allowing them to bet on unknown artists with unexpected ideas!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
@@ -345,7 +345,11 @@ Yet despite the poor fit, indie rock sure is eager of late to hand us the reins!
 
 No thanks! Remember, rock and roll was founded by poor and queer Blacks, then taken further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
 
-Like those outsiders who came before us, we need to be the *most* original, the *most* talented… which can only happen if we're allowed to depend on partners. Hip hop gets this, and always has— which is why [today's rappers](https://www.pulitzer.org/winners/kendrick-lamar) win Pulitzer Prizes! Now BYCombo gives your band the same chances.
+${'  ' || `
+// TODO: Review.
+`}
+
+Like those outsiders who came before us, we need to be the *most* original, the *most* talented… but this can't happen unless we're allowed to depend on partners. Hip hop understands, and always has— which is why rappers today win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives your band the same chances.
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
