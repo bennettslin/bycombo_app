@@ -211,9 +211,17 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
-In the past, bands relied on *others* to make them known— to take them "from zero to one," so to speak. This freed them to focus *their* efforts on getting the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists go from zero to one *themselves*— leaving them reluctant to experiment, for fear of losing their hard-won fans.
+${'  ' || `
+// TODO: Review today.
+`}
 
-Meanwhile, the major labels in their heyday would cast a wide net for talent, which allowed them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). At the same time, a bigger roster can be a more [diverse one](https://www.investopedia.com/investing/importance-diversification) as well— so, funny enough, this *also* led them to give us the boldest art… by freeing them to bet on unknown artists with unexpected ideas!
+In the past, bands relied on *others* to make them known— to take them "from zero to one," so to speak. This freed them to focus *their* efforts on getting the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists go from zero to one *themselves*— leaving them reluctant to experiment, for fear of losing hard-won fans.
+
+${'  ' || `
+// TODO: Review today.
+`}
+
+Meanwhile, the major labels in their heyday had a wide net to cast for talent, which allowed them to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp). At the same time, a bigger roster can be a more [diverse one](https://www.investopedia.com/investing/importance-diversification) as well— so, funny enough, this *also* led them to give us the boldest art… by freeing them to bet on unknown artists with unexpected ideas!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
@@ -650,7 +658,11 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 ### ${++sectionCounter}. Victory is assured
 
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor? Or what critic, the one whose identity as an underdog provides so much surrounding context to discuss?
+${'  ' || `
+// TODO: Review today.
+`}
+
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor? Or what critic, the one whose identity as an underdog provides surrounding context to discuss?
 
 Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
