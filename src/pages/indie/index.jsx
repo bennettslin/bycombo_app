@@ -211,13 +211,17 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
-In the past, bands relied on *others* to make them known— to take them "from zero to one," so to speak. This freed them to focus *their* efforts on getting the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists go from zero to one *themselves*— leaving them reluctant to experiment, for fear of losing hard-won fans.
-
 ${'  ' || `
-// TODO: Revise. Doesn't actually fit overall logic of section. Just needs to point out that casting a wide net for talent allowed them to take more risks.
+// TODO: Review.
 `}
 
-Meanwhile, the major labels in their heyday would [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. This, in turn, gave them leeway to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), by allowing them to save a few slots for unknown artists with unexpected ideas. Funny enough, then… a motive for maximum profit is *precisely* what led them to give us the boldest art!
+In the past, bands needed *others* to make them known— to take them "from zero to one." In exchange, *their* role was to be good enough for the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists go from zero to one *themselves*— leaving them reluctant to experiment, for fear of losing hard-won fans.
+
+${'  ' || `
+// TODO: Review.
+`}
+
+Meanwhile, the major labels in their heyday had massive budgets, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) and cast a wide net for talent. So with leeway to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd keep a few slots open for unknown artists with unexpected ideas. Funny enough, then… this motive for profit is *precisely* what led them to give us the boldest art!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
