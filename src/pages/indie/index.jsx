@@ -215,13 +215,14 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the past, bands needed *others* to make them known— to take them "from zero to one." In exchange, *their* role was to be good enough for the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists go from zero to one *themselves*— leaving them reluctant to experiment, for fear of losing hard-won fans.
+In the past, bands needed *others* to make them known— to take them "from zero to one." In exchange, *their* mission was to become good enough for the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists go from zero to one *themselves*— leaving them reluctant to experiment, for fear of losing hard-won fans.
 
 ${'  ' || `
 // TODO: Review.
-`}
 
-Meanwhile, the major labels in their heyday had massive budgets, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) and cast a wide net for talent. So with leeway to take greater risks, and thus reap [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd save a few slots for unknown artists with unexpected ideas. Funny enough, then… a motive for profit is *precisely* what led them to give us the boldest art!
+Meanwhile, the major labels in their heyday had massive budgets, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And knowing that greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd save a few slots for unknown artists with unexpected ideas. Funny enough, then… their profit motive led them to give us the boldest art!
+`}
+Meanwhile, the major labels in their heyday had massive budgets, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And knowing that greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd save a few slots for unknown artists with unexpected ideas. Funny enough, then… their profit motive led them to give us the boldest art!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
@@ -235,6 +236,8 @@ In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the "c
 
 ${'  ' || `
 // TODO: Keep working on.
+
+How? They put out works that must be acclaimed by critics, that can't be attacked for lacking enviable hooks, because they didn't aim to have any. Yet these works fade away as soon as they arrived, precisely because they aren't envied by other artists. Which is why indie rock feels like it's larping, or role-playing, the idea of being an vibrant artistic movement, rather than actually being one. 
 `}
 
 So rather than pick artists who'll advance the art form, the indie tastemakers merely strive to maintain a *reputation* for doing so.
