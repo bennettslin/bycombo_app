@@ -58,20 +58,20 @@ Or— suppose the next Kurt Cobain is a minority woman who's struggling to attra
 **Why partners?**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they *also* stay hopelessly weak in matters of business, like marketing and distribution. So history makers *need* to work with a label— or some other business partner!— and a quick glance through the historical canon bears this out.
+To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they *also* stay weak in matters of business, like marketing and distribution. In other words, history makers *need* to work with a label— or some other business partner!— and a quick glance through the historical canon bears this out.
 
 **Why interdependence?**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Partners are most impactful when helping to make you known as an artist— to take you "from zero to one," as they say. But an indie tastemaker will only *ever* help to get the public to care— to take you "from one to *n*"— and in this effort, business skills have far less impact.
+Partners are most impactful when helping to make you known as an artist— to take you "from zero to one," as they say. But an indie tastemaker will only *ever* help to get the public to care— to take you "from one to *n*"— and in this effort, their business skills have far less impact.
 
-Meanwhile, artistic talents work the opposite way: They do well once you're going from one to *n*, but do little to get you from zero to one. Yet it's the latter effort that an indie tastemaker needs to see! Partnering with those who seek *indie*-pendence, then, might actually be worse than having no partner at all… in which case, the *only* worthy partner is one who values *inter*-dependence.
+Meanwhile, your artistic talents work the opposite way: They'll do well to get you from one to *n*, but do little to get you from zero to one. Yet it's the latter effort that an indie tastemaker needs to see! So partnering with those who seek *indie*-pendence is worse than having no partner at all… in which case, the *only* worthy partner is one who values *inter*-dependence.
 
 **Why demos?**
 
@@ -588,19 +588,17 @@ ${'  ' || `
 
 https://karamary.substack.com/p/hey-mama-your-californian-ideology
 
-First paragraph has two "then"s.
-
 Second paragraph:
-Winner-take-all systems, in politics and in culture, have always rewarded opportunism— the kind of behavior that makes the world worse if everyone did it. After all, once opportunists are rewarded with high status, they have the will and the way to perpetuate systems that reward opportunism. Yet the Internet has exacerbated this effect. A counterculture needs to arise that consciously embraces collectivism.
+As winner-take-all systems, politics and culture both reward opportunism— the kind of behavior that makes the world worse if everyone did it. After all, once opportunists are rewarded with high status, they have the will and the way to perpetuate systems that reward opportunism. Yet the Internet has exacerbated this effect. A counterculture needs to arise that consciously embraces collectivism.
 
 Indie rock's individualism can't build for the future. It isn't future oriented.
 
 Interdependent labels pool their rosters.
-
-AI— or, artificial intelligence— might as well stand for "accelerated indiefication." Continuation of the same paradigm.
 `}
 
 Do you dispute that indie rock sits on the cultural *right*? No worries! Let's just agree on its main similarity with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist! As with vaccinations, then, a decline in the arts can only be reversed by those who prioritize the *collective*— the left, in my view.
+
+And don't be fooled by the indie camp's assurance to fight against artificial intelligence; as the logical next step of indie rock's ideals, AI might as well stand for "accelerated indiefication."
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
