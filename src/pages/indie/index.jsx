@@ -211,18 +211,13 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the past, bands relied on *others* to make them known— to take them "from zero to one." In exchange, *their* mission was to become good enough for the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists go from zero to one *themselves*— leaving them reluctant to experiment, for fear of losing hard-won fans.
 
 ${'  ' || `
 // TODO: Review.
-
-Meanwhile, the major labels in their heyday had massive budgets, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And knowing that greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd save a few slots for unknown artists with unexpected ideas. Funny enough, then… their profit motive led them to give us the boldest art!
 `}
-Meanwhile, the major labels in their heyday had huge budgets to work with, thus allowing them to cast a [wide net](https://www.investopedia.com/investing/importance-diversification) for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd save a few slots in their rosters for unknown artists with unexpected ideas. Funny enough, then… a motive for profit is what led them to give us the boldest art!
+
+Meanwhile, the major labels in their heyday had huge budgets to work with, thus allowing them to [cast a wide net](https://www.investopedia.com/investing/importance-diversification) for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd save a few slots in their rosters for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
