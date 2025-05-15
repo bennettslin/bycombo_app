@@ -236,10 +236,12 @@ In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the "c
 ${'  ' || `
 // TODO: Keep working on.
 
-How? They put out works that must be acclaimed by critics, that can't be attacked for lacking enviable hooks, because they didn't aim to have any. Yet these works fade away as soon as they arrived, precisely because they aren't envied by other artists. Which is why indie rock feels like it's larping, or role-playing, the idea of being an vibrant artistic movement, rather than actually being one. 
+How? They put out works that must be acclaimed by critics, that can't be attacked for lacking enviable hooks, because they didn't aim to have any. Yet these works fade away as soon as they arrived, precisely because they aren't envied by other artists. Which is why indie rock feels like it's larping, or role-playing, the idea of being an vibrant artistic movement, rather than actually being one.
+
+High art is not rare.
 `}
 
-So rather than pick artists who'll advance the art form, the indie tastemakers merely strive to maintain a *reputation* for doing so.
+How, then, do the indie tastemakers maintain their *reputation* for giving us the boldest art?
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it: The best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
 
