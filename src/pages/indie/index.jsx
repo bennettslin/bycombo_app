@@ -111,7 +111,11 @@ We all respect those alternative bands of the ['80s underground](https://www.hac
 
 In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22,%22+indie+rock+%22,%22+underground+rock+%22&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
 
-But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock renounced its elitism and became a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.) instead, as it went from championing the under-*class*— who aren't for everyone… to rooting for under-*dogs*— who can be.
+${'  ' || `
+// TODO: Review today.
+`}
+
+But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock renounced its elitism and became a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.) instead, as it went from championing the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
 
 Yet in *obeying* the people's will at all times, populism is just democracy with no [judicial safeguard](https://www.fjc.gov/history/administration/executive-enforcement-judicial-orders#:~:text=While%20the%20story,Trail%20of%20Tears.)— making it *tyranny* [for the underclass](https://www.smithsonianmag.com/history/andrew-jackson-americas-original-anti-establishment-candidate-180958621/#:~:text=Jackson%E2%80%99s%20populism%20was,plentiful%20free%20land.). We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in culture, at least!— by calling for a new generation of elites.
 
@@ -217,7 +221,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Meanwhile, the major labels in their heyday had huge budgets to work with, thus allowing them to [cast a wide net](https://www.investopedia.com/investing/importance-diversification) for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd save a few slots in their rosters for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
+Meanwhile, the major labels in their heyday had budgets to [cast a wide net](https://www.investopedia.com/investing/importance-diversification) for talent. And since [greater risks](https://www.investopedia.com/terms/r/riskreturntradeoff.asp) yield greater rewards, they'd save a few slots in their rosters for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
@@ -323,13 +327,21 @@ Social welfare is straightforward, right? After giving us all a fair chance, the
 
 So what *should* artistic welfare look like? Basically, a centralized institution must first cast a wide net, then take from the earnings of a successful few, to subsidize the same opportunities for the next generation of artists. But… this is how the major labels worked in their heyday, no? Promoting welfare in the arts, then, is simply the *smart* move— for any business with a profit motive!
 
-Unfortunately, *all* welfare is fragile: Rather than be grateful to get a chance at all, the unsuccessful tend to resent not being given *more* support… while the successful often assume they would've done just fine on their own, and thus resent "paying it forward." So libertarians— including the cultural kind found in indie rock— have no trouble turning the people against welfare.
+${'  ' || `
+// TODO: Review.
+`}
+
+Unfortunately, *all* welfare is fragile: Rather than be grateful to get a chance at all, the unsuccessful tend to resent not being given *more* support… while the successful often assume they'd have done just as well on their own, and thus resent "paying it forward." So libertarians— including the cultural kind found in indie rock— have no trouble turning the people against welfare.
 
 Yet others *happily* pay it forward: "Paying more means we [succeeded more](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=So%20thank%20you,They%20deserve%20better.)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo can help you find partners who'll make the smart move once again.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I would've *loved* to help, given all my ideas for reviving the art form. But "noblesse oblige" wasn't mine to show; being of low status, I needed others to help *me* first. Yet no one helped…
+${'  ' || `
+// TODO: Review.
+`}
+
+Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being of low status, I needed others to help *me* first. Yet no one helped…
 
 So I took a coding bootcamp, and for [seven years](https://bobtailyearlings.com/writings/2022/6/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
 
