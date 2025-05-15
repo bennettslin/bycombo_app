@@ -57,21 +57,17 @@ Or— suppose the next Kurt Cobain is a minority woman who's struggling to attra
 
 **Why partners?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they *also* stay weak in matters of business, like marketing and distribution. In other words, history makers *need* to work with a label— or some other business partner!— and a quick glance through the historical canon bears this out.
 
 **Why interdependence?**
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review section.
 `}
 
-Partners are most impactful when helping to make you known as an artist— to take you "from zero to one," as they say. But an indie tastemaker will only *ever* help to get the public to care— to take you "from one to *n*"— and in this effort, their business skills have far less impact.
+Partners are most impactful when helping to make you known as an artist— to take you "from zero to one," as they say. But it isn't *until* you're known that an indie tastemaker will help to get the public to care— to take you "from one to *n*"— and in this effort, their business skills have far less impact.
 
-Meanwhile, your artistic talents work the opposite way: They'll do well to get you from one to *n*, but do little to get you from zero to one. Yet it's the latter effort that an indie tastemaker needs to see! So partnering with those who seek *indie*-pendence is worse than having no partner at all… in which case, the *only* worthy partner is one who values *inter*-dependence.
+Meanwhile, your artistic talents work the *opposite* way: Though they do well to get you from one to *n*, they do little to get you from zero to one. Yet it's the latter effort that the indie tastemakers need to see! A partner who demands *indie*-pendence, then, is worse than no partner at all… in which case, the *only* partner worth having is one who values *inter*-dependence.
 
 **Why demos?**
 
@@ -103,17 +99,17 @@ For instance, even after Goatse proved that the Internet caters to the lowest co
 
 Let's face it: In every early example of online success… chance, privilege, or sheer opportunism played a clear role. Yet the indie camp was so eager to spurn the majors, they downplayed this point. Well, it worked: The Internet came to be seen as a meritocracy, where *anyone* can make it. Except now, if an artist struggles to do so… they're assumed to be unworthy!
 
-As with MAGA, then, indie rock's weakness for confusion ends up hurting its own. So yes, the majors did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask… because we nurse no grievances.
+${'  ' || `
+// TODO: Review today.
+`}
+
+As with MAGA, then, indie rock's weakness for confusion ends up hurting its own. So yes, the majors in their heyday did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask… because we nurse no grievances.
 
 ### ${++sectionCounter}. Populism trampled the underground
 
 We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316247184), right? "Yes! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground was a shelter both for rock's underclass— who *subverted* the people's will— and for the elitist snobs who championed their works; it *wasn't* for everyone.
 
 In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22,%22+indie+rock+%22,%22+underground+rock+%22&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock renounced its elitism and became a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.) instead, as it went from championing the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
 
@@ -249,7 +245,7 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— and this is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. To conserve bandwidth, then, they simply follow the instincts that worked well for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
-Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to value it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
+Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to trust it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
@@ -329,19 +325,11 @@ Social welfare is straightforward, right? After giving us all a fair chance, the
 
 So what *should* artistic welfare look like? Basically, a centralized institution must first cast a wide net, then take from the earnings of a successful few, to subsidize the same opportunities for the next generation of artists. But… this is how the major labels worked in their heyday, no? Promoting welfare in the arts, then, is simply the *smart* move— for any business with a profit motive!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Unfortunately, *all* welfare is fragile: Rather than be grateful to get a chance at all, the unsuccessful tend to resent not being given *more* support… while the successful often assume they'd have done just as well on their own, and thus resent "paying it forward." So libertarians— including the cultural kind found in indie rock— have no trouble turning the people against welfare.
 
 Yet others *happily* pay it forward: "Paying more means we [succeeded more](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=So%20thank%20you,They%20deserve%20better.)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo can help you find partners who'll make the smart move once again.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being of low status, I needed others to help *me* first. Yet no one helped…
 
