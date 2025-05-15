@@ -65,9 +65,9 @@ ${'  ' || `
 // TODO: Review section.
 `}
 
-Partners are most impactful when helping to make you known as an artist— to take you "from zero to one," as they say. But it isn't *until* you're known that an indie tastemaker will help to get the public to care— to take you "from one to *n*"— and in this effort, their business skills have far less impact.
+Partners are most impactful when helping to make you known as an artist— to take you "from zero to one." But an indie tastemaker holds off *until* you're known, and then helps to get the public to care— to take you "from one to *n*." By then, however, their business skills have far less impact.
 
-Meanwhile, your artistic talents work the *opposite* way: Though they do well to get you from one to *n*, they do little to get you from zero to one. Yet it's the latter effort that the indie tastemakers need to see! A partner who demands *indie*-pendence, then, is worse than no partner at all… in which case, the *only* partner worth having is one who values *inter*-dependence.
+Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble is in getting you known to begin with. Yet it's the latter effort— a testament to your *indie*-pendence— that an indie tastemaker needs to see! For any band trying to make history, then, the *only* partners available to them are those who value *inter*-dependence.
 
 **Why demos?**
 
@@ -211,7 +211,11 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
-In the past, bands relied on *others* to make them known— to take them "from zero to one." In exchange, *their* mission was to become good enough for the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists go from zero to one *themselves*— leaving them reluctant to experiment, for fear of losing hard-won fans.
+${'  ' || `
+// TODO: Review today.
+`}
+
+In the past, bands relied on *others* to make them known— to take them "from zero to one." In exchange, *their* mission was to become good enough for the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists get *themselves* known— leaving them reluctant to experiment, for fear of losing hard-won fans.
 
 ${'  ' || `
 // TODO: Review.
