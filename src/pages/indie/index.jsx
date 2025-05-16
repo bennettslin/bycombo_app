@@ -221,7 +221,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Meanwhile, the major labels in their heyday had budgets to [cast a wide net](https://www.investopedia.com/investing/importance-diversification) for talent. And since [greater risks](https://www.investopedia.com/terms/r/riskreturntradeoff.asp) yield greater rewards, they'd save a few slots in their rosters for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
+Meanwhile, the major labels in their heyday had budgets sizable enough to cast a [wide net](https://www.investopedia.com/investing/importance-diversification) for talent. And given that greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd save a few slots in their rosters for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
