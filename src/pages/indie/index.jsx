@@ -65,7 +65,7 @@ ${'  ' || `
 // TODO: Review section.
 `}
 
-Partners are most impactful when helping to make you known as an artist— to take you "from zero to one." But an indie tastemaker holds off *until* you're known, and then helps to get the public to care— to take you "from one to *n*." By then, however, their business skills have far less impact.
+Partners are most impactful when helping to make you known as an artist— to take you "from zero to one." But an indie tastemaker holds off *until* you're known, and then helps to get the public to care— to take you "from one to *n*." By then, however, their business skills have far less impact…
 
 Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble is in getting you known to begin with. Yet it's the latter effort— a testament to your *indie*-pendence— that an indie tastemaker needs to see! For any band trying to make history, then, the *only* partners available to them are those who value *inter*-dependence.
 
@@ -241,7 +241,10 @@ How? They put out works that must be acclaimed by critics, that can't be attacke
 High art is not rare.
 `}
 
-How, then, do the indie tastemakers maintain their *reputation* for giving us the boldest art?
+Yet… the indie tastemakers enjoy a *reputation* for giving us the boldest art. How can this be? It's simple: Their ideal work is one that can't be faulted for lacking enviable hooks, since it never aspired to have any— and therefore *must* be judged on the artist's backstory instead.
+
+
+can't be faulted for lacking enviable hooks, since it never aspired to have any.
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it: The best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
 
