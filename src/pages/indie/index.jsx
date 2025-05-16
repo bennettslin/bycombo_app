@@ -67,7 +67,7 @@ ${'  ' || `
 
 Partners are most impactful when helping to make you known as an artist— to take you "from zero to one." But an indie tastemaker holds off *until* you're known, and then helps to get the public to care— to take you "from one to *n*." By then, however, their business skills have far less impact…
 
-Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble is in getting you known to begin with. Yet it's the latter effort— a testament to your *indie*-pendence— that an indie tastemaker needs to see! For any band trying to make history, then, the *only* partners available to them are those who value *inter*-dependence.
+Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble is in getting you known to begin with. Yet it's the latter effort— a testament to your *indie*-pendence— that an indie tastemaker needs to see! For any band trying to make history, then, the *only* partners worth having are those who value *inter*-dependence.
 
 **Why demos?**
 
