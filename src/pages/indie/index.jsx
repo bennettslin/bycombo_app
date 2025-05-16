@@ -99,10 +99,6 @@ For instance, even after Goatse proved that the Internet caters to the lowest co
 
 Let's face it: In every early example of online success… chance, privilege, or sheer opportunism played a clear role. Yet the indie camp was so eager to spurn the majors, they downplayed this point. Well, it worked: The Internet came to be seen as a meritocracy, where *anyone* can make it. Except now, if an artist struggles to do so… they're assumed to be unworthy!
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 As with MAGA, then, indie rock's weakness for confusion ends up hurting its own. So yes, the majors in their heyday did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask… because we nurse no grievances.
 
 ### ${++sectionCounter}. Populism trampled the underground
@@ -210,10 +206,6 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 In the past, bands relied on *others* to make them known— to take them "from zero to one." In exchange, *their* mission was to become good enough for the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists get *themselves* known— leaving them reluctant to experiment, for fear of losing hard-won fans.
 
@@ -390,7 +382,7 @@ Of course, it isn't *just* in politics, but *also* in culture, where this confus
 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus sees wisdom in joining as well.
 
-So will the sideways horseshoe ever be allowed to return? Regarding politics, I don't know enough to say. But in culture, I can give a definite yes! Because BYCombo lets those of you in the underground join the establishment once again— even if, like Kurt Cobain, you'd never admit to this dream.
+So will the sideways horseshoe ever be allowed to return? Regarding politics, I don't know enough to say. But in culture… I can give a definite yes! Because BYCombo lets those of you in the underground join the establishment once again— even if, like Kurt Cobain, you'd never admit to this dream.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
@@ -548,7 +540,7 @@ When's it a "larp"? Here's a test: Could it have been a fictional movie *instead
 
 In music history courses, we learn that the evolution of the piano allowed Beethoven to compose sonatas of unprecedented [range and dynamics](https://www.cpr.org/2020/09/19/he-wanted-larger-and-louder-the-pianos-of-beethovens-time-werent-enough-for-him). By contrast, it's hardly mentioned that the invention of lithography allowed his scores to be sold to the middle class. In other words, music historians take note of technology when it advances the *art form*— not the *supply chain*.
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if they were assembled into bands, allowing them to combine mediums in unprecedented ways? At long last, they'd be the real heroes! So come join BYCombo, and explore *another* frontier— by having a dancer, illustrator, or puppeteer as your bandmate.
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if they were assembled into bands, allowing them to combine mediums in unprecedented ways? At long last… they'd be the real heroes! So come join BYCombo, and explore *another* frontier— by having a dancer, illustrator, or puppeteer as your bandmate.
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
