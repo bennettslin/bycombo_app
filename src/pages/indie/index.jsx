@@ -39,7 +39,11 @@ Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, the
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
-Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But what if no generation *ever* again "forgives" their rule breakers? What's needed, then, is an institution to *formalize* the practice of doing so— an amnesty program for the arts, if you will.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will concur. But what if society *never* "forgives" its rule breakers, ever again? What's needed, then, is an institution to *formalize* the practice of doing so— an amnesty program for the arts, if you will.
 
 **Why the historical canon?**
 
@@ -61,13 +65,9 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 
 **Why interdependence?**
 
-${'  ' || `
-// TODO: Review section.
-`}
-
 Partners are most impactful when helping to make you known as an artist— to take you "from zero to one." But an indie tastemaker holds off *until* you're known, and then helps to get the public to care— to take you "from one to *n*." Yet, by that point, their business skills have far less impact…
 
-Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's the latter effort— a sign of your *indie*-pendence— that an indie tastemaker needs to see! Which raises the question: If your partner can't grasp the benefit of *inter*-dependence… are they even a partner at all?
+Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's the latter effort— a sign of your *indie*-pendence— that an indie tastemaker needs to see! Which raises the question: If your partner can't grasp the benefits of *inter*-dependence… are they even a partner at all?
 
 **Why demos?**
 
@@ -207,11 +207,11 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
-In the past, bands relied on *others* to make them known— to take them "from zero to one." In exchange, *their* mission was to become good enough for the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists get *themselves* known— leaving them reluctant to experiment, for fear of losing hard-won fans.
-
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
+
+In the past, bands relied on *others* to make them known— to take them "from zero to one." In exchange, it was *their* mission to become good enough for the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists get *themselves* known— leaving them reluctant to experiment, for fear of losing hard-won fans.
 
 Meanwhile, the major labels in their heyday had hefty budgets to work with, which allowed them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd keep a few slots open for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
 
@@ -412,7 +412,7 @@ Indie rock's ideals are based on *ethics*, not *aesthetics*— and ethics transc
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
-It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to [end segregation](https://www.theguardian.com/society/2021/may/06/ruby-bridges-the-six-year-old-who-defied-a-mob-and-desegregated-her-school). But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it will always uphold the prejudices of its times.
+It's simple: Historically, victims of prejudice relied on centralized authorities to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to [end segregation](https://www.theguardian.com/society/2021/may/06/ruby-bridges-the-six-year-old-who-defied-a-mob-and-desegregated-her-school). But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it'll always uphold the prejudices of its times.
 
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have repeatedly shown that you *aren't* your own best advocate? Why, BYCombo can help you find partners who'll advocate on your behalf— as we usher in a new time of civil rights for artists!
 
@@ -595,6 +595,8 @@ As winner-take-all systems, politics and culture both reward opportunism— the 
 Indie rock's individualism can't build for the future. It isn't future oriented.
 
 Interdependent labels pool their rosters.
+
+To be indie is to be, literally, *self*-ish.
 `}
 
 Do you dispute that indie rock sits on the cultural *right*? No worries! Let's just agree on its main similarity with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist! As with vaccinations, then, a decline in the arts can only be reversed by those who prioritize the *collective*— the left, in my view.
