@@ -65,9 +65,9 @@ ${'  ' || `
 // TODO: Review section.
 `}
 
-Partners are most impactful when helping to make you known as an artist— to take you "from zero to one." But an indie tastemaker holds off *until* you're known, and then helps to get the public to care— to take you "from one to *n*." By that point, though, their business skills have far less impact…
+Partners are most impactful when helping to make you known as an artist— to take you "from zero to one." But an indie tastemaker holds off *until* you're known, and then helps to get the public to care— to take you "from one to *n*." Yet, by that point, their business skills have far less impact…
 
-Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, however, is in getting you known to begin with. Yet it's the latter effort— a signal of your *indie*-pendence— that an indie tastemaker needs to see! For any band hoping to make history, then, the *only* worthy partner is one who values *inter*-dependence.
+Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's the latter effort— a sign of your *indie*-pendence— that an indie tastemaker needs to see! Which raises the question: If your partner can't grasp the benefit of *inter*-dependence… are they even a partner at all?
 
 **Why demos?**
 
@@ -213,7 +213,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Meanwhile, the major labels in their heyday had hefty budgets to work with, which allowed them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd keep a few slots open for unknown artists with unexpected ideas— who sometimes ended up making the boldest art!
+Meanwhile, the major labels in their heyday had hefty budgets to work with, which allowed them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd keep a few slots open for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
