@@ -17,10 +17,6 @@ ${'  ' || `
 
 **As a nonprofit, BYCombo proposes amnesty for interdependent-minded artists who advance the art form. Our approach is to assemble them into rock bands ourselves, and then expose them to potential partners.**
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! You might be wondering why an amnesty program is needed in the arts— or why we favor *inter*-dependence, when *indie*-pendence is the dominant thinking today. Let me explain…
 
 ### Tools… are *rules*
@@ -41,7 +37,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's way of thinking. I'd rather be an "Eminem of rock" and have *partners* advocate for my band— while having these partners, in turn, depend on *us* to make the best art.
+It's simple: While indie rock was founded by *underdogs*, hip hop was founded by *outsiders*. What's the difference? The public doesn't root for outsiders. So as a minority myself, I'm drawn to hip hop's interdependent way of thinking. I'd rather be an "Eminem of rock" and have *partners* advocate for my band— while having these partners, in turn, depend on *us* to make the best art.
 
 By *not* hustling, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charity-escalates-into-an-arms-race), no other artist can hope to compete. Which means a *label* can only compete by signing indie artists… who work hard *not* to need them. What a mess! And yet, the future is clear:
 

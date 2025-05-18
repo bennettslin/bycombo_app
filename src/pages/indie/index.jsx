@@ -40,7 +40,7 @@ Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, the
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review.
 `}
 
 Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will concur. But what if society never *again* "forgives" its rule breakers? What we need, then, is an institution that formalizes the *practice* of doing so— an amnesty program for the arts, if you will.
@@ -125,10 +125,6 @@ In the past, we didn't "support" artists— [outside of](https://en.wikipedia.or
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the [same honors](https://pitchfork.com/news/45374-bon-iver-wins-grammys-for-best-new-artist-best-alternative-music-album).
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the surefire *winners*!
 
 And yet… this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can keep your dignity instead— knowing that it's the *only* way to make history.
@@ -174,7 +170,7 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 For instance, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](https://bobtailyearlings.com/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
 
 ${'  ' || `
-// TODO: Review today and link.
+// TODO: Review.
 
 In essence: Ignore the critics, or any others who think history making is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of fellow *artists*. So come join BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out the modern world's own Galant era.
 `}
@@ -216,10 +212,6 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 ### ${++sectionCounter}. Modest standing leads to risk aversion
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 In the past, bands relied on *others* to make them known— to take them "from zero to one." In exchange, it was *their* mission to become good enough for the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists get *themselves* known— leaving them reluctant to experiment, for fear of losing hard-won fans.
 
@@ -450,10 +442,6 @@ Yet when I came along— trying much harder, to be much better— no indie taste
 
 Thus I had *no* lifeline— and then, as it happens, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](https://x.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we *must* throw a lifeline to those we don't root for.
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 There's also a selfish reason to do so: Once we shut out the outsiders of our times, we can no longer deflect any claim that music got worse under our watch— a claim that history will surely make against Millennials! Luckily, if you're hungry enough to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain once more.
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
@@ -529,10 +517,6 @@ Back when content was scarce, joining a scene— goth, punk— was a full-time e
 Moreover: "If 99% of us can see that we're really on the *same* side, then you'd best believe the other 1% is *that* awful. Still, we'll beat them on size alone!" So instead of building up courage, Millennials learned to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture was no less severe…
 
 Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos. Except… the former scenario *causes* the latter, doesn't it?!
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Look… either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening the indie camp's illusion of pro-artist unity, I became that 1% for the other 99% to beat down— like the brutalized child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
