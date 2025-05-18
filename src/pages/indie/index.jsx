@@ -43,7 +43,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But suppose that society never *again* "forgives" its rule breakers? What's needed, then, is an institution to formalize the *practice* of doing so— an amnesty program for the arts, if you will.
+Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But… suppose that society never *again* "forgives" its rule breakers? What's needed, then, is an institution to formalize the *practice* of doing so— an amnesty program for the arts, if you will.
 
 **Why the historical canon?**
 
