@@ -40,10 +40,10 @@ Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, the
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Reconsider?
 `}
 
-Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will concur. But what if society never *again* "forgives" its rule breakers? What we need, then, is an institution that formalizes the *practice* of doing so— an amnesty program for the arts, if you will.
+Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But what if society never *again* "forgives" its rule breakers? What we need, then, is an institution that formalizes the *practice* of doing so— an amnesty program for the arts, if you will.
 
 **Why the historical canon?**
 
@@ -451,10 +451,6 @@ This… *can't* be a viable way to make history. Because, what notable figures f
 Yet underdog movements can never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you're *not* whom the people want to root for? Then let BYCombo throw you a lifeline, by bringing back rockism: rock and roll's original spirit, courtesy of its [queer Black founders](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
 
 ### ${++sectionCounter}. Fair practices follow the numbers
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie camp*. Which should come as no surprise: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was about bringing indie rock's good intentions to the Internet!
 
