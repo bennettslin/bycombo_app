@@ -169,13 +169,7 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 
 For instance, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](https://bobtailyearlings.com/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
 
-${'  ' || `
-// TODO: Review.
-
 In essence: Ignore the critics, or any others who think history making is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of fellow *artists*. So come join BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out the modern world's own Galant era.
-`}
-
-In essence: Ignore the critics, or any others who think history making is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of your fellow *artists*— the [original gatekeepers](https://www.noahpinion.blog/p/why-has-american-pop-culture-stagnated#:~:text=Discovering%20good%20artists,got%20you%20discovered.)! So come join BYCombo, and mingle with elitist peers who'll keep your standards high… as we wait out rock's own Galant era.
 
 ### ${++sectionCounter}. Time is kind to craft, not context
 
@@ -458,7 +452,11 @@ Yet underdog movements can never go away, because to be treated as an underdog i
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
-Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie camp*. And for good reason: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was ultimately about bringing indie rock's good intentions to the Internet!
+${'  ' || `
+// TODO: Review today.
+`}
+
+Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie camp*. Which should come as no surprise: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was about bringing indie rock's good intentions to the Internet!
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left bands powerless to negotiate; they couldn't play one label off another, and a vision by itself is worth nothing. As a result, they often had to accept unfair terms— leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
