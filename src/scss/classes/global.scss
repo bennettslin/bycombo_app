@@ -1,4 +1,5 @@
 @import '../constants/colours';
+@import '../constants/responsive';
 
 * {
     box-sizing: border-box;
@@ -98,4 +99,10 @@ a, button, input[type=submit] {
 em, i {
     position: relative;
     left: -0.025em; // Eyeballed.
+}
+
+li {
+    &:not(:first-child) {
+        margin-top: $margin__xs;
+    }
 }

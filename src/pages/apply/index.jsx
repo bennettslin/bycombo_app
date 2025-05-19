@@ -42,9 +42,17 @@ Once everyone agrees to form a band, those who can relocate to the same city wil
 
 ### A lifetime of band projects
 
-BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. Once your demo is complete, we'll expose you to potential partners by adding it to our demo registry and including it in our latest newsletter. As an alum, you'll also have a chance to pay it forward and work with the next cohort.
+${'  ' || `
+// TODO: Review today.
+`}
 
-And for your next band project, we want you to set the bar even higher! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another BYCombo band if that's a better fit for you. Remember, cross-pollination benefits everyone, and every BYCombo band is family!
+BYCombo will advise you on your band project, and we'll provide a forum for you to befriend the other bands in your cohort. Once your demo is complete, we'll expose you to potential partners by adding it to our demo registry and including it in our latest newsletter. As an alum, you'll also have a chance to "pay it forward" and work with the next cohort.
+
+${'  ' || `
+// TODO: Review today.
+`}
+
+And for your next band project, we want you to set the bar even *higher*! So if you need additional bandmates, you'll be given priority to choose from our latest applicants. We also encourage you to join another BYCombo band if that's a better fit for you. Remember, cross-pollination benefits everyone, and every BYCombo band is family!
 
 Of course, we're just getting started, so to thank you for your patience during these early years:
 
@@ -54,39 +62,50 @@ Of course, we're just getting started, so to thank you for your patience during 
 
 **Women, minorities, and other disadvantaged groups:**
 
-As a rock movement started by a minority, BYCombo was *conceived* to win back the interdependence you thrive upon! We'll also aim for an equitable gender ratio in every band we assemble.
+${'  ' || `
+// TODO: Review today.
+`}
 
-**Artists of other mediums:**
-
-One last frontier in the arts is for bands to explore new combinations of different mediums. Which means you play a crucial role in bringing forth this century's canonical works!
+As a rock movement started by a minority, BYCombo was *conceived* to win back the interdependence you thrive upon! We'll also aim for an equitable ratio of gender and economic class in every band we assemble.
 
 **International artists:**
 
 To restore the historical canon, we need you to *join* us! In the future, we hope to sponsor you for a U.S. visa; for now, we'll do our best to help with whatever issues you might face.
 
+${'  ' || `
+// TODO: Review today move.
+`}
+
+**Artists of other mediums:**
+
+One last frontier in the arts is for bands to explore new combinations of different mediums. Which means you play a crucial role in bringing forth this century's canonical works!
+
 ### How to apply
 
 ${'  ' || `
-// TODO: Keep working on.
-
-Anyone of legal age is welcome to apply.
-
-Must read "the problem with indie rock" in its entirety and agree with most of it.
+// TODO: Review a few more times.
 `}
 
-Email us the following information, and we'll be in touch:
+Email us the following information:
 
-* Your name, email address, and pronouns
-* Your city and where you can relocate, if not Los Angeles
-* Your musical and aesthetic preferences— or dealbreakers
-* Your artistic talents and corresponding skill levels
-* Your bold ideas for a musical project, if any
-* Links to social media or video demonstrations
-* Any other circumstances that need to be considered
+- Your name, contact info, and city of residence.
+- Your artistic talents and aesthetic preferences.
+- Whom you're co-applying with, if anyone.
 
-If you're co-applying with one or more bandmates, send a single email with each person's information.
+We'll also need each of the following:
 
-And finally, as a nonprofit, BYCombo will *never* charge any fees or take a cut of your earnings. If *you're* ready to self-sacrifice to advance the art form, then *we're* here to serve *you*!
+- A statement that you're of legal age: eighteen years or older.
+- Your gender and economic class. (These will determine whom you'll be placed in a band with; they *won't* affect your chances of being accepted.)
+- Whether you're able and willing to relocate to Los Angeles, for anyone who isn't here already. (If not, you won't be eligible for the pilot cohort, but we'll keep you on file for later ones.)
+- An acknowledgment that you've read "[The problem with indie rock](/indie)" in its entirety. (You don't have to agree with all of it; we just need to know that you understand what drives the BYCombo mission.)
+
+Feel free to include any of the following as well:
+
+- Your bold ideas for a musical project. (If you're nervous about revealing them, you can trust Bennett's experience with "doublespeaker rhyme": No one even *wants* to steal them— especially if they're labor-intensive.)
+- Links to social media or video demonstrations.
+- Other circumstances you'd like us to consider.
+
+And remember, as a nonprofit, BYCombo will *never* charge any fees or take a cut of your earnings. If *you're* ready to self-sacrifice for art's sake, then *we're* here to serve *you*!
             `,
         }}
     />

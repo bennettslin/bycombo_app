@@ -10,6 +10,12 @@
 * AWS CLI setup
 * Contact Vanessa Ogle
 
+* Other projects
+    * Add list item styling
+        * BY
+        * BM
+        * BD
+
 * Substack
     * Delete some Notes?
     * Change to Bobtail Yearlings
