@@ -11,10 +11,15 @@
 * Contact Vanessa Ogle
 
 * Substack
-    * More show images?
-    * Instagram posts
-    * Showing my work
-    * Indiefication
+    * Delete some Notes?
+    * Change to Bobtail Yearlings
+    * Figure out subscription buttons
+    * Switch all websites to use Substack as mailing list
+        * Get rid of popups
+    * Add BYCombo publication
+    * Old Instagram posts
+    * Yearling's Bobtail illustrations
+    * Indiefication explained
 
 * YB
     * Change Ash Wednesday doublespeaker rhyme
