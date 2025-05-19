@@ -10,6 +10,9 @@
 * AWS CLI setup
 * Contact Vanessa Ogle
 
+* Substack
+    * Indiefication
+
 * YB
     * Change Ash Wednesday doublespeaker rhyme
         * Say it was a failed attempt at it, not an inspiration for it

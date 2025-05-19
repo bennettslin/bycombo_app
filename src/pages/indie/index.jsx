@@ -17,13 +17,21 @@ By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or
 
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an Xennial, I've spent half my life arguing that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to all these new tech platforms, you can hustle to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does that say about your works?"
 
-Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](http://archive.today/2024.02.01/https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. On top of that, they'd *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
+${'  ' || `
+// TODO: Review move of title.
+`}
 
 ### The revolution will *not* be decentralized
 
+Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](http://archive.today/2024.02.01/https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. On top of that, they'd *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
+
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, respecting direct fan engagement…
 
+${'  ' || `
+// TODO: Review removal of paragraph.
+
 And, of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: An elitist gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but then puts it on *you* to go "from one to *n*"— to get the public to care; whereas an indie tastemaker does it the other way around. Anyway… just read on, and I'll explain more.
+`}
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
