@@ -14,15 +14,15 @@ const Component = () => (
             body: `
 As an artist, do you sense that the indie camp has it *backward*? Why do they force you to waste so much effort on hustling to get yourself known— all in the name of self-empowerment? Back when rock was interdependent, being empowered just came for free, once you'd built up enough talents.
 
-Furthermore, the only measure they trust is the size of your fanbase. But the surest way to gain more fans, here and now, is to create *content*— which has no lasting value for *future* audiences. Fortunately, BYCombo lets you aim for the historical canon once more! Here's how:
+${'  ' || `
+// TODO: Review today.
+`}
+
+Furthermore, the only measure trusted by the indie tastemakers is the size of your fanbase. But the surest way to gain the most fans, here and now, is to create *content*— which has no lasting value for *future* audiences. Fortunately, BYCombo lets you aim for the historical canon once more! Here's how:
 
 **To join BYCombo as an artist, you must pledge *not* to get yourself known. Instead, your band will be *made* known, by partners, whose trust you'll earn by sacrificing a serious chunk of lifetime to advance the art form.**
 
 ### Who we're looking for
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Are you eager to be remembered by future generations? Are you willing to join an assembled band whose members get equal credit and royalties? And are you able to devote at least forty hours each week to your band project?
 
@@ -61,10 +61,6 @@ As a rock movement started by a minority, BYCombo was *conceived* to win back th
 One last frontier in the arts is for bands to explore new combinations of different mediums. Which means you play a crucial role in bringing forth this century's canonical works!
 
 **International artists:**
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To restore the historical canon, we need you to *join* us! In the future, we hope to sponsor you for a U.S. visa; for now, we'll do our best to help with whatever issues you might face.
 

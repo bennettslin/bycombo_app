@@ -25,12 +25,9 @@ First, we raise *awareness*. Since "indie" means "good" to so many, few notice t
 
 ${'  ' || `
 // TODO: Review.
-
-Original:
-And… of course: tossing out those elitist gatekeepers— whose judgments of talent are too often wrong— and replacing them with indie tastemakers, who go by fanbase size and thus *can't* be wrong. But now, artists put greater effort into *getting* the job— or, hustling, as they say— than into simply *deserving* it! Anyway, if you read on, I'll explain all this and more.
 `}
 
-And, of course: tossing out those elitist gatekeepers— whose judgments of talent are all too often wrong… and replacing them with indie tastemakers— who go by fanbase size and thus *can't* be wrong. But now, artists need to put greater and greater effort into *getting* the job… than into simply *deserving* it! Anyway, if you read on, I'll explain all this and more.
+And, of course: tossing out those elitist gatekeepers— whose judgments of talent are oftentimes *wrong*… and replacing them with indie tastemakers— who go by fanbase size and thus always get it *right*. But now, artists need to put more and more effort into *getting* the job… than into simply *deserving* it! Anyway, if you read on, I'll explain further.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -47,10 +44,10 @@ Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, the
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
-Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But… suppose that society never *again* "forgives" its rule breakers? What's needed, then, is an institution to formalize the *practice* of doing so— an amnesty program for the arts, if you will.
+Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But… suppose that society never *again* "forgives" its rule breakers? What we need, then, is an institution to formalize the *practice* of doing so— an amnesty program for the arts, if you will.
 
 **Why the historical canon?**
 
@@ -392,10 +389,10 @@ So will the sideways horseshoe ever be allowed to return? Regarding politics, I 
 Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie tastemakers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
-Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates its own status hierarchy. So the one imposed on us by indie rock *isn't* the same as that of its predecessor— the '90s alternative culture from which Radiohead emerged. There are new winners, but also new losers… such as "hobbyists," who now sit at the bottom.
+Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates its own status hierarchy. So the one imposed on us by indie rock *isn't* the same as that of its predecessor: the '90s alternative culture from which Radiohead emerged. There are new winners, but also new losers… such as "hobbyists," who now sit at the bottom.
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
 
@@ -628,7 +625,11 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the boldest art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
-Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, instead of simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… creating a "tragedy of the commons." But now, 5% less effort is our *baseline*… and soon, *10%*… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
+${'  ' || `
+// TODO: Review today.
+`}
+
+Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, away from simply *deserving* it… they alone reap the benefit— even as this erodes the public's faith in the arts *overall*! So others will do the same… creating a "tragedy of the commons." But now, 5% less effort is our *baseline*… and soon, *10%*… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
 
 With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 

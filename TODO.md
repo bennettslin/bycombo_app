@@ -20,6 +20,7 @@
     * Old Instagram posts
     * Yearling's Bobtail illustrations
     * Indiefication explained
+        * Change "indiefication" links
 
 * YB
     * Change Ash Wednesday doublespeaker rhyme
