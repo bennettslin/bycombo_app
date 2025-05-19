@@ -11,6 +11,9 @@
 * Contact Vanessa Ogle
 
 * Substack
+    * More show images?
+    * Instagram posts
+    * Showing my work
     * Indiefication
 
 * YB
