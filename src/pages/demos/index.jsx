@@ -22,7 +22,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-But remember, the indie tastemakers and their allies— the "[poptimists](/indie#underdogs-are-supremacists-in-effect)" and the [tech platforms](/indie#fair-practices-follow-the-numbers)— each have their reasons to keep indiefication going. To save the arts, then, we need *others* to step up. Can one of our saviors… be you? If you have an opportunity or offer for any of our bands to consider, please contact them directly!
+But remember, the indie tastemakers and their allies— the "[poptimists](/indie#underdogs-are-supremacists-in-effect)" and the [tech platforms](/indie#fair-practices-follow-the-numbers)— each have their reasons to keep indiefication going. To save the arts, then, we need *others* to step up. Can one of our saviors… be you? If you have an opportunity or offer for any BYCombo band to consider, please contact them directly!
                 `,
                 (
                     <DemoLink {...bobtailYearlings} />
