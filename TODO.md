@@ -17,9 +17,6 @@
         * BD
 
 * Substack
-    * Delete some Notes?
-    * Change to Bobtail Yearlings
-    * Figure out subscription buttons
     * Switch all websites to use Substack as mailing list
         * Get rid of popups
     * Add BYCombo publication
