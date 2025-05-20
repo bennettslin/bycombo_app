@@ -63,7 +63,7 @@ To restore the historical canon, we need you to *join* us! In the future, we hop
 ### How to apply
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review section.
 `}
 
 Email us the following information:
@@ -75,7 +75,7 @@ Email us the following information:
 We'll also need each of the following:
 
 - A statement that you're of legal age: eighteen years or older.
-- Your gender and economic class. (These will determine whom you'll be placed in a band with; they *won't* affect your chances of being accepted.)
+- Your gender, along with number of hours you'll spend to earn a living each week— which we'll use as a proxy for your economic class. (These will determine whom you'll be placed in a band with; they *won't* affect your chances of being accepted.)
 - Whether you're able and willing to relocate to Los Angeles, for anyone who isn't here already. (If not, you won't be eligible for the pilot cohort, but we'll keep you on file for later ones.)
 - An acknowledgment that you've read "[The problem with indie rock](/indie)" in its entirety. (You don't have to agree with all of it; we just need to know that you understand what drives the BYCombo mission.)
 

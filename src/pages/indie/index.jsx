@@ -27,7 +27,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-And, of course: tossing out those elitist gatekeepers— whose judgments of talent are oftentimes *wrong*… and replacing them with indie tastemakers— who go by fanbase size and thus always get it *right*. But now, artists put more and more effort into *getting* the job… than into simply *deserving* it! Anyway, if you read on, I'll explain further.
+And, of course: tossing out those elitist gatekeepers— whose judgments of talent often get it *wrong*… and replacing them with indie tastemakers— who go by fanbase size and thus never fail to be *right*. But this forces artists to put greater and greater effort into *getting* the job… instead of simply *deserving* it! Anyway, if you read on, I'll explain all this and more.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -65,7 +65,11 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 
 **Why interdependence?**
 
-Partners are most impactful when helping to make you known as an artist— to take you "from zero to one," as they say. But an indie tastemaker holds off *until* you're already known, then helps to get the public to care— to take you "from one to *n*." Yet, by that point, their business skills have far less impact…
+${'  ' || `
+// TODO: Review today.
+`}
+
+Partners are most impactful when helping to make you known as an artist— to take you "from zero to one," as they say. But an indie tastemaker holds off *until* you're known, then helps to get the public to care— to take you "from one to *n*." Yet, by that point, their business skills have far less impact…
 
 Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's the latter effort— a sign of your *indie*-pendence— that an indie tastemaker needs to see! Which raises the question: If your partner can't grasp the benefits of *inter*-dependence… are they a partner at all?
 
@@ -386,10 +390,10 @@ So will the sideways horseshoe ever be allowed to return? Regarding politics, I 
 Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie tastemakers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review.
 `}
 
-Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates its own status hierarchy. So the one imposed on us by indie rock *isn't* the same as that of its predecessor: the '90s alternative culture from which Radiohead emerged. There are new winners, but also new losers… such as "hobbyists," who now sit at the bottom.
+Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates its own status hierarchy. Thus the one created by indie rock *isn't* the same as that of its predecessor— namely, the alternative culture from which Radiohead emerged. There are new winners, but also new losers… such as "hobbyists," who now sit at the bottom.
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
 
@@ -622,7 +626,7 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the boldest art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
-Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, away from simply *deserving* it… they alone reap the benefit— even as this erodes the public's faith in the arts *overall*! So others will do the same… creating a "tragedy of the commons." But now, 5% less effort is our *baseline*… and soon, *10%*… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
+Let's ditch old beliefs, then, and think in systems: If an artist redirects 5% of their effort toward *getting* the job, instead of simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… creating a "tragedy of the commons." But now, 5% less effort is our *baseline*… and soon, *10%*… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
 
 With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
