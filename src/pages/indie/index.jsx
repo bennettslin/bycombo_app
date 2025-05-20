@@ -24,16 +24,20 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, respecting direct fan engagement…
 
 ${'  ' || `
-// TODO: Review.
-`}
+// TODO: Review removing paragraph.
 
 And, of course: tossing out those elitist gatekeepers— whose judgments of talent often get it *wrong*… and replacing them with indie tastemakers— who go by fanbase size and thus never fail to be *right*. But this forces artists to put greater and greater effort into *getting* the job… instead of simply *deserving* it! Anyway, if you read on, I'll explain all this and more.
+`}
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to seek amnesty from interdependent-minded partners.**
 
+${'  ' || `
+// TODO: Review removing section title.
+
 ### Why BYCombo?
+`}
 
 Okay, that's a mouthful! Let's break it down…
 
@@ -348,6 +352,10 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after decades of "larping" as a world-changing movement— despite being no better than a foreign canon— it's in *decline*… and desperate to regain cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, rock and roll was founded by poor and queer Blacks, then taken further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
+
+${'  ' || `
+// TODO: Revise. Mention that the ideal in indie rock is to have *zero* ambition or hunger.
+`}
 
 Like those outsiders who came before us, we need to be the *most* original, the *most* talented… but this can't happen unless we're allowed to depend on partners. Hip hop understands, and always has— which is why rappers today win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives your band the same chances.
 
