@@ -14,10 +14,6 @@ const Component = () => (
             body: `
 As an artist, do you sense that the indie camp has it *backward*? Why do they force you to waste so much effort on hustling to get yourself known— all in the name of self-empowerment? Back when rock was interdependent, being empowered just came for free, once you'd built up enough talents.
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Furthermore, the only measure trusted by the indie tastemakers is the size of your fanbase. But the surest way to gain the most fans, here and now, is to create *content*— which has no lasting value for *future* audiences. Fortunately, BYCombo lets you aim for the historical canon once more! Here's how:
 
 **To join BYCombo as an artist, you must pledge *not* to get yourself known. Instead, your band will be *made* known, by partners, whose trust you'll earn by sacrificing a serious chunk of lifetime to advance the art form.**
@@ -54,23 +50,15 @@ Of course, we're just getting started, so to thank you for your patience during 
 
 **Women, minorities, and other disadvantaged groups:**
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 As a rock movement started by a minority, BYCombo was *conceived* to win back the interdependence you thrive upon! We'll also aim for an equitable ratio of gender and economic class in every band we assemble.
-
-**International artists:**
-
-To restore the historical canon, we need you to *join* us! In the future, we hope to sponsor you for a U.S. visa; for now, we'll do our best to help with whatever issues you might face.
-
-${'  ' || `
-// TODO: Review today move.
-`}
 
 **Artists of other mediums:**
 
 One last frontier in the arts is for bands to explore new combinations of different mediums. Which means you play a crucial role in bringing forth this century's canonical works!
+
+**International artists:**
+
+To restore the historical canon, we need you to *join* us! In the future, we hope to sponsor you for a U.S. visa; for now, we'll do our best to help with whatever issues you might face.
 
 ### How to apply
 
