@@ -57,10 +57,6 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 
 **Why interdependence?**
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Partners are most impactful when helping to make you known as an artist— to take you "from zero to one," as they say. But an indie tastemaker holds off *until* you're known, then helps to get the public to care— to take you "from one to *n*." Yet, by that point, their business skills have far less impact…
 
 Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's the latter effort— a sign of your *indie*-pendence— that an indie tastemaker needs to see! Which raises the question: If your partner can't grasp the benefits of *inter*-dependence… are they a partner at all?
@@ -384,10 +380,6 @@ So will the sideways horseshoe ever be allowed to return? Regarding politics, I 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
 Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie tastemakers *can't* be cruel; they're "good guys"! So rather than weed you out for being wack— a harsh indictment of who you *are*— they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates its own status hierarchy. Which means the one created by indie rock *isn't* the same as that of its predecessor— the alternative culture from which Radiohead emerged. There are new winners, but also new losers… such as "hobbyists," who now sit at the bottom.
 
