@@ -213,7 +213,11 @@ What confused me is that I'd [explicitly set out](https://yearlingsbobtail.com/8
 
 In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the "corporate suits" just ignore the discomfort, since it's *all* unfamiliar to them. Those in the know, however, pride themselves on their intuition— and thus interpret any discomfort as a sincere warning from the gut. Ironically, then, as [Frank Zappa](https://youtu.be/xP4wsURn3rw) noted, this makes them *worse* at picking creative ideas!
 
-Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: Since they *don't* know what the people want, they *can't* be led astray! Let's face it: The best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: By *not* knowing what the people want, they *can't* be led astray! Let's face it: The best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
 
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
@@ -221,7 +225,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-So how do the indie labels enjoy a reputation for giving us the boldest art? It's simple: by signing artists who *don't* aspire to craft enviable hooks— and thus whose works can't be faulted for lacking any. Yet such artists have the *least* to offer their peers! Which is why this century's indie rock now feels less like a historical era, and more like a "larp"— or, live-action role-play— of one.
+Of course, the indie labels still enjoy a *reputation* for giving us the boldest art. How? By signing artists who *don't* aspire to craft enviable hooks— and thus whose works can't be faulted for lacking any. Yet such artists have the *least* to offer their peers! Which is why this century's indie rock now feels less like a historical era, and more like a "larp"— or, live-action role-play— of one.
 
 ${'  ' || `
 // TODO: Review today.
@@ -237,7 +241,7 @@ ${'  ' || `
 // TODO: Revise. Mention larping again.
 `}
 
-So yes, middlemen might seem redundant— but redundancy is what keeps a system resilient, and thus [able to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Unfortunately, even the major labels are on tight budgets now, leading them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). Which is why BYCombo tells you to split your earnings generously: How else will you find partners who *aren't* too harried to change with the times?
+So yes, middlemen might seem redundant— but redundancy is what makes a system resilient, and thus [able to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! And now the major labels are on tight budgets as well, leading them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). Which is why BYCombo tells you to split your earnings generously: How else will you find partners who *aren't* too harried to change with the times?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
