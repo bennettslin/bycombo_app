@@ -23,6 +23,7 @@
     * Old Instagram posts
     * Yearling's Bobtail illustrations
     * Indiefication explained
+        * Niemoller quote
         * Change "indiefication" links
 
 * YB

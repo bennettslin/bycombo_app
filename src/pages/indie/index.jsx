@@ -23,21 +23,9 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, respecting direct fan engagement…
 
-${'  ' || `
-// TODO: Review removing paragraph.
-
-And, of course: tossing out those elitist gatekeepers— whose judgments of talent often get it *wrong*… and replacing them with indie tastemakers— who go by fanbase size and thus never fail to be *right*. But this forces artists to put greater and greater effort into *getting* the job… instead of simply *deserving* it! Anyway, if you read on, I'll explain all this and more.
-`}
-
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to seek amnesty from interdependent-minded partners.**
-
-${'  ' || `
-// TODO: Review removing section title.
-
-### Why BYCombo?
-`}
 
 Okay, that's a mouthful! Let's break it down…
 
@@ -237,7 +225,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-So how do the indie labels enjoy a reputation for giving us the boldest art? It's simple: by signing artists who *don't* aspire to craft enviable hooks— and thus whose works can't be faulted for lacking any. Yet such artists have the *least* to offer their peers! In retrospect, then, this century's indie rock feels less like a historical era, and more like a "larp"— or, live-action role-play— of one.
+So how do the indie labels enjoy a reputation for giving us the boldest art? It's simple: by signing artists who *don't* aspire to craft enviable hooks— and thus whose works can't be faulted for lacking any. Yet such artists have the *least* to offer their peers! Which is why this century's indie rock now feels less like a historical era, and more like a "larp"— or, live-action role-play— of one.
 
 ${'  ' || `
 // TODO: Review today.
@@ -401,7 +389,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates its own status hierarchy. Thus the one created by indie rock *isn't* the same as that of its predecessor— namely, the alternative culture from which Radiohead emerged. There are new winners, but also new losers… such as "hobbyists," who now sit at the bottom.
+Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates its own status hierarchy. Which means the one created by indie rock *isn't* the same as that of its predecessor— the alternative culture from which Radiohead emerged. There are new winners, but also new losers… such as "hobbyists," who now sit at the bottom.
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
 
