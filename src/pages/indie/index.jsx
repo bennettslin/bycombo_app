@@ -213,16 +213,14 @@ What confused me is that I'd [explicitly set out](https://yearlingsbobtail.com/8
 
 In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the "corporate suits" just ignore the discomfort, since it's *all* unfamiliar to them. Those in the know, however, pride themselves on their intuition— and thus interpret any discomfort as a sincere warning from the gut. Ironically, then, as [Frank Zappa](https://youtu.be/xP4wsURn3rw) noted, this makes them *worse* at picking creative ideas!
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: By *not* knowing what the people want, they *can't* be led astray! Let's face it: The best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
 
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Make it more about how, in the past, an artist who doesn't craft enviable hooks that you have access to anyway, was a signifier of serious art.
+
+Indie labels have a failproof way to maintain their reputation.
 `}
 
 Of course, the indie labels still enjoy a *reputation* for giving us the boldest art. How? By signing artists who *don't* craft enviable hooks… and thus get praised for challenging the listener. Yet such artists are the *least* impressive to their peers! Which is why, in hindsight, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
@@ -236,10 +234,6 @@ Can the indies learn *not* to larp? No, they're overworked and underpaid— and 
 Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to trust it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 So yes, middlemen might seem redundant— but redundancy is what makes a system resilient, and thus [able to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! And now the major labels are on tight budgets as well, causing them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). Which is why BYCombo tells you to split your earnings generously: How else will you find partners who *aren't* too harried to change with the times?
 
