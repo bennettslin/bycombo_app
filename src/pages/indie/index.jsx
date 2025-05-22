@@ -220,7 +220,7 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 ${'  ' || `
 // TODO: Revise. Make it more about how, in the past, an artist who doesn't craft enviable hooks that you have access to anyway, was a signifier of serious art.
 
-Indie labels have a failproof way to maintain their reputation.
+Indie labels have a foolproof way to maintain their reputation.
 `}
 
 Of course, the indie labels still enjoy a *reputation* for giving us the boldest art. How? By signing artists who *don't* craft enviable hooks… and thus get praised for challenging the listener. Yet such artists are the *least* impressive to their peers! Which is why, in hindsight, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
@@ -344,10 +344,6 @@ All the instincts born from your disadvantage, then— your desire to rely on pa
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
 While "alternative" describes an *artistic* choice, "indie" conveys a *business* stance. Until the '90s, then, *artists* weren't indie; only *labels* were. And that stance? It says, "We *don't* do this for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
-
-${'  ' || `
-// TODO: Review today link.
-`}
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](http://archive.today/2024.05.12/https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
