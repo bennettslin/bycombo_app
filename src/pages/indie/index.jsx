@@ -225,7 +225,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Of course, the indie labels still enjoy a *reputation* for giving us the boldest art. How? By signing artists who *don't* craft enviable hooks— and thus get praised for challenging the listener. Yet such artists are the *least* impressive to their peers! Which is why, in hindsight, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
+Of course, the indie labels still enjoy a *reputation* for giving us the boldest art. How? By signing artists who *don't* craft enviable hooks… and thus get praised for challenging the listener. Yet such artists are the *least* impressive to their peers! Which is why, in hindsight, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
 
 ${'  ' || `
 // TODO: Review.
@@ -338,24 +338,24 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 "Who could've foreseen all the drawbacks of propagating indie rock's ideals?" Um… us women and minorities, that's who! This is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception: Rappers *proudly* rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). When they boast of having hustled, it's to say, "Hey, I hustled *too*!" They want self-reliance to count for *nothing*.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Keep working on next three paragraphs. It's not quite right.
 `}
 
-Yet in spite of the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after years of "larping" as a paradigm-shifting movement— despite being no better than a foreign canon— it's in *decline*… and desperate to regain cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+Yet in spite of the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after years of "larping" as a paradigm-shifting movement— despite being no better than a foreign canon— it's in *decline*… and desperate to regain cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)."
 
-No thanks! Remember, rock and roll was founded by poor and queer Blacks, then taken further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of hungry outsiders. Which means women and minorities should naturally be aiming for the *historical* canon— and today we *would* be, if indie rock hadn't intervened.
+No thanks! Remember, the indie camp is here for the next Stephen Malkmus or Jeff Mangum— namely, those whose privileges allow them to live *devoid* of hunger. Yet rock and roll was founded by poor and queer Blacks, then carried along by rural Southerners, a Midwestern Jew, working-class Brits… in short, it's a history of the *hungriest* of outsiders!
 
-${'  ' || `
-// TODO: Revise. Mention that the ideal in indie rock is to have *zero* ambition or hunger.
-`}
-
-Like those outsiders who came before us, we need to be the *most* original, the *most* talented… but this can't happen unless we're allowed to depend on partners. Hip hop understands, and always has— which is why rappers today win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives your band the same chances.
+All the instincts born from your disadvantage, then— your desire to rely on partners, your hunger to be the best— are *exactly* the ones needed to belong in the historical canon. So why fight them? Hip hop gets this— which is how today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives your band the same chance to make history— and not just to larp the idea of doing so.
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
 While "alternative" describes an *artistic* choice, "indie" conveys a *business* stance. Until the '90s, then, *artists* weren't indie; only *labels* were. And that stance? It says, "We *don't* do this for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
-The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
+${'  ' || `
+// TODO: Review today link.
+`}
+
+The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](http://archive.today/2024.05.12/https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
 But so far, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* the same. Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*; and women, of low *competence*. Yet social justice, when self-enforced, *only* fixes misjudgments of competence; a circle of friends has every right to feel more warmly toward their own.
 
