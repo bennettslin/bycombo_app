@@ -35,7 +35,11 @@ Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, the
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
-Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs are essential to the structure— and the generation who put them in charge will agree. But… suppose that society never *again* "forgives" its rule breakers? What we need, then, is an institution to formalize the *practice* of doing so— an amnesty program for the arts, if you will.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Sadly, good guys will insist that *their* rules must never be broken; theirs are integral to the structure— and the generation who put them in charge will agree. But… suppose that society never *again* "forgives" its rule breakers? What we need, then, is an institution to formalize the *practice* of doing so— an amnesty program for the arts, if you will.
 
 **Why the historical canon?**
 
@@ -218,13 +222,13 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
 Of course, the indie labels maintain a *reputation* for giving us the boldest art. How? By releasing works that *lack* enviable hooks— and thus win praise for challenging the listener. Yet history's best artists were able to challenge us… *and* inspire our envy! In hindsight, then, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review today.
 `}
 
 Can the indies learn *not* to larp? No, they're overworked and underpaid— and this is actually their selling point: By *not* hiring middlemen, they can pass the savings onto their artists. So to conserve "bandwidth," they simply follow the same instincts that worked well for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
@@ -234,10 +238,10 @@ Of course, these instincts made sense in the '80s, when underground bands would 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
 ${'  ' || `
-// TODO: Keep working on.
+// TODO: Review.
 `}
 
-So yes, middlemen might seem redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Now even the major labels have tightened their budgets, causing them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). This is why BYCombo tells you to split your earnings generously: How else will your partners have the bandwidth to change with the times?
+So yes, middlemen might seem redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Regrettably, even the major labels are on tight budgets now, causing them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). This is why BYCombo tells you to find interdependent-minded partners: How *else* will you all have enough bandwidth to change with the times?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -247,7 +251,11 @@ And here's more absurdity: Whereas artists are loved for doing what we'd all rat
 
 Let's be clear: The best artists *value* the middleman. After all, when you're the best at your job, it's a waste of your talents to do anyone else's— and knowing that your own job is way harder than it looks, you have to assume the same of everyone else's. Plus, as one of the best yourself, you get your pick of the best partners. It's called division of labor; we learned this in middle school!
 
-Sadly, young folks never question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Sad to say, young folks don't question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
 
 ### ${++sectionCounter}. Self-reliance is a partisan ideal
 
