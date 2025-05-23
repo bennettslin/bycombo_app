@@ -221,7 +221,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Of course, the indie labels still enjoy a *reputation* for giving us the boldest art. How? By signing artists who *don't* craft enviable hooks… and thus get praised for challenging the listener. Yet the best in history were able to challenge us… *and* inspire our envy! In hindsight, then, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
+Of course, the indie labels maintain a *reputation* for giving us the boldest art. How? By releasing works that *lack* enviable hooks, and thus get praised for challenging the listener. Yet history's best artists were able to challenge us… *and* inspire our envy! In hindsight, then, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
 
 ${'  ' || `
 // TODO: Review.
@@ -237,7 +237,7 @@ ${'  ' || `
 // TODO: Keep working on.
 `}
 
-So yes, middlemen might seem redundant— but redundancy is what makes a system resilient, and thus [able to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! And now the major labels are on tight budgets as well, causing them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). Which is why BYCombo tells you to split your earnings generously: How else will you find partners who *aren't* too harried to notice they're now larping?
+So yes, middlemen might seem redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Now even the major labels have tightened their budgets, causing them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). This is why BYCombo tells you to split your earnings generously: How else will you find partners who *aren't* too harried to notice when time-tested ways have become a larp?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
