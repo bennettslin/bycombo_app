@@ -226,10 +226,10 @@ Of course, these instincts made sense in the '80s, when underground bands would 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Keep working on. Don't need to say larp.
 `}
 
-So yes, middlemen might seem redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Regrettably, even the major labels are on tight budgets now, causing them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). This is why BYCombo tells you to find interdependent-minded partners: How *else* will you all have enough bandwidth to change with the times?
+So yes, middlemen might seem redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Regrettably, even the major labels are on tight budgets now, causing them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). This is why BYCombo asks you to split your earnings generously: How *else* will you find partners with enough bandwidth to change the times?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -293,10 +293,6 @@ Nick Drake was ignored in his own time— yet the next generation made him known
 
 In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a stellar demo— even one with no fanbase, like Nick. But indie rock's rule is for artists to get themselves known, whether or not they deserve to be. Because of this, the notion is now vulgar that those who don't hustle could ever be *made* known… simply by deserving to be.
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a "pickup artist" would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of "negging" by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.) out of their fans?
 
 So instead, you build yourself up to be what a future audience— or dating prospect!— *would* want, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet from what I've seen, the indie tastemakers will never "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
@@ -335,7 +331,11 @@ ${'  ' || `
 
 Yet in spite of the poor fit, indie rock sure is eager to hand us the reins now! Why is this? Because, after years of "larping" as an era-defining movement— despite being no better than a foreign canon— it's in *decline*… and desperate to regain cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)."
 
-No thanks! Remember, rock and roll was founded by poor and queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… in short, it's a history of hungry outsiders! Meanwhile, the indie camp roots for the next Stephen Malkmus or Jeff Mangum— namely, those whose privileges as society's underdogs allow them to live *devoid* of hunger.
+No thanks! Remember, rock and roll was founded by poor and queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of hungry outsiders! Meanwhile, the indie camp roots for the next Stephen Malkmus or Jeff Mangum— namely, those whose privileges as society's underdogs allow them to live *devoid* of hunger.
+
+${'  ' || `
+// TODO: Keep working on. Reconnect this to being a woman or minority. Mention disadvantaged groups? Don't need to say larp.
+`}
 
 All your instincts born from a *lack* of privilege, then— your desire for mutual reliance, your hunger to be the best— are *exactly* the ones needed to aim for the historical canon! So why let the larpers of indie rock tell you otherwise? Hip hop gets this; it's how today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives your band the same chances to make history.
 
