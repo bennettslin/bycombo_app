@@ -217,19 +217,31 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
-Of course, the indie labels maintain a *reputation* for giving us the boldest art. How? By releasing works that *lack* enviable hooks— and thus win praise for challenging the listener. Yet history's best artists were able to challenge us… *and* inspire our envy! In hindsight, then, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
+${'  ' || `
+// TODO: Review.
+`}
 
-Can the indies learn *not* to larp? No, they're overworked and underpaid— and this is actually their selling point: By *not* hiring middlemen, they can pass the savings onto their artists. So to conserve "bandwidth," they simply follow the same instincts that worked well for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
+Of course, the indie labels maintain a *reputation* for giving us the boldest art. The trick? When a work intentionally *lacks* enviable hooks, it wins praise for challenging the listener. Yet history's best artists were able to challenge us… *and* inspire our envy! In hindsight, then, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
+
+${'  ' || `
+// TODO: Review today.
+`}
+
+Can the indies learn *not* to larp? No, they're overworked and underpaid— and this is actually their selling point: By *not* hiring middlemen, they can pass the savings onto their artists. So, to conserve "bandwidth," they simply follow the same instincts that worked well for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
 Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to trust it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
-But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
-
 ${'  ' || `
-// TODO: Keep working on. Don't need to say larp.
+// TODO: Review.
 `}
 
-So yes, middlemen might seem redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Regrettably, even the major labels are on tight budgets now, causing them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). This is why BYCombo asks you to split your earnings generously: How *else* will you find partners with enough bandwidth to change the times?
+But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a lamp, they're now and forever drawn to the larp.
+
+${'  ' || `
+// TODO: Review.
+`}
+
+So yes, middlemen might seem redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Regrettably, even the major labels are on tight budgets now, causing them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). This is why BYCombo asks you to be generous with your earnings: How *else* will your partners have the bandwidth to update their instincts in a modernizing world?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
