@@ -222,14 +222,10 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review today next two paragraphs.
 `}
 
 Of course, the indie labels maintain a *reputation* for giving us the boldest art. How? By releasing works that *lack* enviable hooks— and thus win praise for challenging the listener. Yet history's best artists were able to challenge us… *and* inspire our envy! In hindsight, then, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 Can the indies learn *not* to larp? No, they're overworked and underpaid— and this is actually their selling point: By *not* hiring middlemen, they can pass the savings onto their artists. So to conserve "bandwidth," they simply follow the same instincts that worked well for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
@@ -267,7 +263,11 @@ But being indie is all about gaining public exposure, and this is a zero-sum gam
 
 The problem, then, is that indie rock's cultural libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the business world's "indie camp" goes on strike against nationalization by *refusing* to help society advance.
 
-To protest against "indiefication," then, interdependent bands can do the opposite, and *readily* advance the art form… knowing this might hurt their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's just no other path. There is one *now*, with BYCombo— the culturally progressive opposition that shares your love of the craft.
+${'  ' || `
+// TODO: Review today.
+`}
+
+To protest against "indiefication," then, interdependent bands can do the opposite, and *readily* advance the art form… knowing this might hurt their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's just no other path. There is one *now*, with BYCombo— the culturally progressive alternative that shares your love of the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -342,14 +342,14 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 "Who could've foreseen all the drawbacks of propagating indie rock's ideals?" Um… us women and minorities, that's who! This is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception: Rappers *proudly* rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). When they boast of having hustled, it's to say, "Hey, I hustled *too*!" They want self-reliance to count for *nothing*.
 
 ${'  ' || `
-// TODO: Keep working on next three paragraphs. It's not quite right.
+// TODO: Review next three paragraphs.
 `}
 
-Yet in spite of the poor fit, indie rock sure is eager of late to hand us the reins! Why? Because, after years of "larping" as a paradigm-shifting movement— despite being no better than a foreign canon— it's in *decline*… and desperate to regain cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)."
+Yet in spite of the poor fit, indie rock sure is eager to hand us the reins now! Why is this? Because, after years of "larping" as an era-defining movement— despite being no better than a foreign canon— it's in *decline*… and desperate to regain cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)."
 
-No thanks! Remember, the indie camp is here for the next Stephen Malkmus or Jeff Mangum— namely, those whose privileges allow them to live *devoid* of hunger. Yet rock and roll was founded by poor and queer Blacks, then carried along by rural Southerners, a Midwestern Jew, working-class Brits… in short, it's a history of the *hungriest* of outsiders!
+No thanks! Remember, rock and roll was founded by poor and queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… in short, it's a history of hungry outsiders! Meanwhile, the indie camp roots for the next Stephen Malkmus or Jeff Mangum— namely, those whose privileges as society's underdogs allow them to live *devoid* of hunger.
 
-All the instincts born from your disadvantage, then— your desire to rely on partners, your hunger to be the best— are *exactly* the ones needed to belong in the historical canon. So why fight them? Hip hop gets this— which is how today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives your band the same chance to make history— and not just to larp the idea of doing so.
+All your instincts born from a *lack* of privilege, then— your desire for mutual reliance, your hunger to be the best— are *exactly* the ones needed to aim for the historical canon! So why let the larpers of indie rock tell you otherwise? Hip hop gets this; it's how today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives your band the same chances to make history.
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
@@ -449,7 +449,11 @@ Both movements protect the chosen underdog by refusing to ask: "Wouldn't the rej
 
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-Yet underdog movements can never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you're *not* whom the people want to root for? Then let BYCombo throw you a lifeline, by bringing back rockism: rock and roll's original spirit, courtesy of its [queer Black founders](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
+${'  ' || `
+// TODO: Review today.
+`}
+
+Yet underdog movements can never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you're *not* whom the people want to root for? Then let BYCombo throw you a lifeline, by bringing back rockism— rock and roll's original spirit, courtesy of its [queer Black founders](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
