@@ -335,6 +335,8 @@ No thanks! Remember, rock and roll was founded by poor and queer Blacks, then ca
 
 ${'  ' || `
 // TODO: Keep working on. Reconnect this to being a woman or minority. Mention disadvantaged groups? Don't need to say larp.
+
+Or else, put more of this information in the second paragraph.
 `}
 
 All your instincts born from a *lack* of privilege, then— your desire for mutual reliance, your hunger to be the best— are *exactly* the ones needed to aim for the historical canon! So why let the larpers of indie rock tell you otherwise? Hip hop gets this; it's how today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives your band the same chances to make history.
