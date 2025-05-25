@@ -35,7 +35,6 @@
     * Change interactivated verse?
 
 * BYC
-    * All sentences with "and thus": comma or no comma?
     * Sentences with ellipsis in between instead of a third em-dash:
         * Here's my take: An elitist gatekeeper…
         * Sometime in the '00s…

@@ -171,7 +171,11 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— now online— want direct engagement from the artist; so both, in their own way, are drawn more to an artist's identity than to a well-crafted hook.
 
-Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp [simply jeered](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.): "Well, well, well… it looks like backstories and identities win out over chords and melodies!"
+${'  ' || `
+// TODO: Review.
+`}
+
+Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp [simply jeered](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.): "Well, well, well… it looks like authenticity and backstory win out over chords and melodies!"
 
 Yet the past works we love most *don't* require us to consider the underlying context, do they? History, then… is like radio! So don't get complacent in this online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
 
@@ -221,7 +225,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Of course, the indie labels maintain a *reputation* for giving us the boldest art. The trick? When a work intentionally *lacks* enviable hooks, it wins praise for challenging the listener. Yet history's best artists were able to challenge us… *and* inspire our envy! In hindsight, then, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
+Ironically, the indie labels maintain a *reputation* for giving us the boldest art. The trick? When a work intentionally *lacks* enviable hooks, it wins praise for challenging the listener. Yet history's best artists were able to challenge us… *and* inspire our envy! In hindsight, then, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
 
 ${'  ' || `
 // TODO: Review today.
@@ -425,7 +429,11 @@ Let's be fair: In wanting to be judged on the self-reliance that comes easily to
 
 Except… it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly White and male. Suffering a [crisis of conscience](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html), the indie camp solved this problem in the only way they knew how: by allowing us women and minorities to be seen as underdogs as well— a solution that's come to be called "wokeness."
 
-But while White men *easily* gain from their identities without admitting to it— as when it lends timelessness to a [modern backstory](http://archive.today/2023.12.13/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,write%20some%20songs)— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
+${'  ' || `
+// TODO: Review.
+`}
+
+But while White men *easily* gain from their identities without admitting to it— like when it [lends authenticity](http://archive.today/2023.12.13/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,write%20some%20songs) to a "larpy" backstory— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of *culture*, it's *I* who sit on the left— and *they*, the right!
 
@@ -654,7 +662,11 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 ### ${++sectionCounter}. Victory is assured
 
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who can do the middleman's job? Or what critic, the one whose underdog identity offers so much context to discuss? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor?
+${'  ' || `
+// TODO: Review.
+`}
+
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who already does the middleman's job? Or what critic, the one whose authentic backstory offers so much context to discuss? Or what fan, the one who directly engages with them— while [milking them](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for free labor?
 
 Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
