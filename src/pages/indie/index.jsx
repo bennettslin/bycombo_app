@@ -226,10 +226,10 @@ Of course, these instincts made sense in the '80s, when underground bands would 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
 ${'  ' || `
-// TODO: Revise. Could be better.
+// TODO: Review.
 `}
 
-So yes, middlemen might seem redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Regrettably, even the major labels are on tight budgets now, causing them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). This is why BYCombo asks you to be generous with your earnings: How *else* will your partners have the bandwidth to update their instincts in a modernizing world?
+So yes, middlemen might seem redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Sadly, even the major labels have tight budgets lately, causing them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). Still, if *you're* here to deliver the boldest art— and not just to larp the idea of doing so— then BYCombo can expose you to those with the bandwidth to grant you amnesty!
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -413,7 +413,11 @@ Let's be fair: In wanting to be judged on the self-reliance that comes easily to
 
 Except… it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly White and male. Suffering a [crisis of conscience](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html), the indie camp solved this problem in the only way they knew how: by allowing us women and minorities to be seen as underdogs as well— a solution that's come to be called "wokeness."
 
-But while White men *easily* gain from their identities without admitting to it— like when it [lends authenticity](http://archive.today/2023.12.13/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,write%20some%20songs) to a "larpy" backstory— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
+${'  ' || `
+// TODO: Review today.
+`}
+
+But while White men *easily* gain from their identities without admitting to it— as when it [imparts authenticity](http://archive.today/2023.12.13/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,write%20some%20songs) to a "larpy" backstory— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of *culture*, it's *I* who sit on the left— and *they*, the right!
 
