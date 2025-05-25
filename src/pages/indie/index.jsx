@@ -231,18 +231,14 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-Can the indies learn *not* to larp? No, they're overworked and underpaid— and this is actually their selling point: By *not* hiring middlemen, they can pass the savings onto their artists. So, to conserve "bandwidth," they simply follow the same instincts that worked well for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
+Can the indies learn *not* to larp? No, they're overworked and underpaid— and this is actually their selling point: By *not* hiring middlemen, they can pass the savings onto their artists. So to conserve "bandwidth," they simply follow the same instincts that worked well for their forebears… much like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
 Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to trust it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a lamp, they're now and forever drawn to the larp.
+But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Could be better.
 `}
 
 So yes, middlemen might seem redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Regrettably, even the major labels are on tight budgets now, causing them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). This is why BYCombo asks you to be generous with your earnings: How *else* will your partners have the bandwidth to update their instincts in a modernizing world?
