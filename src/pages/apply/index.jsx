@@ -82,7 +82,7 @@ We'll also need each of the following:
 
 Feel free to include any of the following as well:
 
-- Your bold ideas for a musical project. (If you're nervous about revealing them, you can trust Bennett's experience with "doublespeaker rhyme": No one ever wants to steal your ideas— even when you beg them to!)
+- Your bold ideas for a musical project. (If you're nervous about revealing them, you can trust Bennett's experience with "doublespeaker rhyme": No one *ever* wants to steal your ideas— even after you beg them to!)
 - Links to social media or video demonstrations.
 - Other circumstances you'd like us to consider.
 
