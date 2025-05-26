@@ -323,23 +323,29 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
-"Who could've foreseen all the drawbacks of propagating indie rock's ideals?" Um… us women and minorities, that's who! This is why *we've* never started a movement to compete on self-reliance. And hip hop is no exception: Rappers *proudly* rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). When they boast of having hustled, it's to say, "Hey, I hustled *too*!" They want self-reliance to count for *nothing*.
-
 ${'  ' || `
-// TODO: Review next three paragraphs.
+// TODO: Review.
 `}
 
-Yet in spite of the poor fit, indie rock sure is eager of late to hand us the reins! Why is this? Because, after years of "larping" as an era-defining movement— despite being no better than a foreign canon— it's in *decline*… and desperate to regain cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)."
-
-No thanks! Remember, rock and roll was founded by poor and queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of hungry outsiders! Meanwhile, the indie camp roots for the next Stephen Malkmus or Jeff Mangum— namely, those whose privileges as society's underdogs allow them to live *devoid* of hunger.
+"Who could've foreseen all the drawbacks of propagating indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *have* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Rappers get this, which is why they rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of past hustles— but it's to say, "Hey, I hustled *too*… so yours count for *nothing*."
 
 ${'  ' || `
-// TODO: Keep working on. Reconnect this to being a woman or minority. Mention disadvantaged groups?
-
-Or else, put more of this information in the second paragraph.
+// TODO: Review.
 `}
 
-Simply by following our instincts born from disadvantage, then— our desire for mutual reliance, our hunger to be the best— we women and minorities are naturally positioned to make it into the historical canon! So why be led astray by indie rock's ideals? Hip hop gets this; it's how today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives your band the same chances.
+Yet in spite of the poor fit, indie rock sure is eager lately to hand us the reins! Why is this? Because, after years of "larping" as an era-defining movement, despite being no better than a foreign canon, it's in *decline*— and desperate to regain cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+
+${'  ' || `
+// TODO: Review.
+`}
+
+No thanks! Remember, rock and roll was founded by poor and queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of hungry outsiders like us! Meanwhile, the indie camp roots for the next Stephen Malkmus and Jeff Mangum— namely, those whose privileges as society's underdogs allow them to live *devoid* of hunger.
+
+${'  ' || `
+// TODO: Review.
+`}
+
+So don't be led astray by those who merely *larp* as history makers! All your instincts that stem from a *lack* of privilege— your hunger to be the best, and thus your need for mutual reliance— are *exactly* what it takes to aim for the historical canon. Hip hop gets this, and always has; it's why today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives your band the same chances.
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
