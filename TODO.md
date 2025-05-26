@@ -21,6 +21,8 @@
         * Get rid of popups
     * Add BYCombo publication
     * Old Instagram posts
+        * Publish
+    * Yearling's Bobtail scores
     * Yearling's Bobtail illustrations
     * Indiefication explained
         * Niemoller quote

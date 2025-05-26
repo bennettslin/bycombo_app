@@ -334,12 +334,12 @@ Yet in spite of the poor fit, indie rock sure is eager of late to hand us the re
 No thanks! Remember, rock and roll was founded by poor and queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of hungry outsiders! Meanwhile, the indie camp roots for the next Stephen Malkmus or Jeff Mangum— namely, those whose privileges as society's underdogs allow them to live *devoid* of hunger.
 
 ${'  ' || `
-// TODO: Keep working on. Reconnect this to being a woman or minority. Mention disadvantaged groups? Don't need to say larp.
+// TODO: Keep working on. Reconnect this to being a woman or minority. Mention disadvantaged groups?
 
 Or else, put more of this information in the second paragraph.
 `}
 
-All your instincts born from a *lack* of privilege, then— your desire for mutual reliance, your hunger to be the best— are *exactly* the ones needed to aim for the historical canon! So why let the larpers of indie rock tell you otherwise? Hip hop gets this; it's how today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives your band the same chances to make history.
+Simply by following our instincts born from disadvantage, then— our desire for mutual reliance, our hunger to be the best— we women and minorities are naturally positioned to make it into the historical canon! So why be led astray by indie rock's ideals? Hip hop gets this; it's how today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar). Now BYCombo gives your band the same chances.
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
