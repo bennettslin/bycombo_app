@@ -339,7 +339,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-No thanks! Remember, rock and roll was founded by poor and queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of hungry outsiders like us! Meanwhile, the indie camp roots for the next Stephen Malkmus and Jeff Mangum— namely, those whose privileges as society's underdogs allow them to live *devoid* of hunger.
+No thanks! Remember, the indie camp idealizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. But rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of the *hungriest* of outsiders— outsiders like *us*.
 
 ${'  ' || `
 // TODO: Review.
@@ -441,7 +441,11 @@ Perhaps my arguments against indie rock seem moot, now that "poptimism" has defe
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was rock and roll, whose lineage traces to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
-Both movements protect the chosen underdog by refusing to ask: "Wouldn't the rejected outsider— who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times, then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
+${'  ' || `
+// TODO: Review.
+`}
+
+Both movements protect the favored underdog by refusing to ask: "Wouldn't the hungry outsider— who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times, then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
