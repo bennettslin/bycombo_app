@@ -37,6 +37,7 @@
     * Change interactivated verse?
 
 * BYC
+    * Elitist gatekeeper
     * Sentences with ellipsis in between instead of a third em-dash:
         * Here's my take: An elitist gatekeeper…
         * Sometime in the '00s…
