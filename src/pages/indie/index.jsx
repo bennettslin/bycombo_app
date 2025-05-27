@@ -229,7 +229,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So yes, middlemen might seem redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Sadly, even the major labels have tight budgets lately, causing them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). Still, what if your dream *isn't* to larp— but to *actually* make history? Then come join BYCombo, and find a partner with enough bandwidth to grant you amnesty!
+So yes, middlemen might seem redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Regrettably, even the major labels are on tight budgets lately, causing them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). Still, what if you're here *not* to larp— but to *genuinely* make history? Then come join BYCombo, and find a partner with enough bandwidth to grant you amnesty!
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
