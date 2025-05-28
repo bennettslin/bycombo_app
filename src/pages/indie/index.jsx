@@ -73,7 +73,11 @@ But the elites have their own reason to hesitate: Anytime they release a work th
 
 **Why serious chunks of lifetime?**
 
-Low barriers to entry have allowed an endless stream of middling artists to pour through, leading the public to grow weary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To regain the public's trust, then, a centralized nonprofit like BYCombo must now step up and serve as a gatekeeper for the elites— by enforcing a steep *cost* of entry.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Low barriers to entry have allowed an endless stream of middling artists to pour through, leading the public to grow weary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To regain the public's trust, then, a centralized nonprofit like BYCombo must now step up and serve as an elitist gatekeeper— by enforcing a steep *cost* of entry.
 
 This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in making their case for amnesty.
 
@@ -285,7 +289,11 @@ But there's hope: While Millennials were active creators from day one, Gen Z rev
 
 Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend a work's performance." So let's use it in a way that Bach— who made music for God!— would've understood: An audience *isn't* a fanbase; nor are they a following.
 
-From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing [what this entails](https://youtu.be/SYSa4RzaH80)! Fortunately, BYCombo promises to be an effective gatekeeper, if you'll pledge to make the best art— that is, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+${'  ' || `
+// TODO: Review.
+`}
+
+From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing [what this entails](https://youtu.be/SYSa4RzaH80)! Fortunately, BYCombo promises to be an elitist gatekeeper, if you'll pledge to make the best art— which is to say, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
