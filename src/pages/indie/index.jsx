@@ -74,10 +74,10 @@ But the elites have their own reason to hesitate: Anytime they release a work th
 **Why serious chunks of lifetime?**
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review.
 `}
 
-Low barriers to entry have allowed an endless stream of middling artists to pour through, leading the public to grow weary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To regain the public's trust, then, a centralized nonprofit like BYCombo must now step up to serve the elites as a gatekeeper— by enforcing a steep *cost* of entry.
+Low barriers to entry have allowed an endless stream of middling artists to pour through, leading the public to grow weary and lose interest. But indie rock can't reverse this damage, given its decentralized nature. To regain the public's trust, then, a centralized nonprofit like BYCombo must now step up to serve the elites as their gatekeeper— by enforcing a steep *cost* of entry.
 
 This cost can't be arbitrary or artificial, so it can only be one thing: a serious chunk of lifetime. After all, a lifetime is all you have; once that chunk is gone, it's *gone*! Which means there's nothing more precious for a band to sacrifice, in making their case for amnesty.
 
@@ -229,6 +229,10 @@ Of course, these instincts made sense in the '80s, when underground bands would 
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out the extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
+${'  ' || `
+// TODO: Revise. Say the majors are now larping?
+`}
+
 So yes, middlemen might seem redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Regrettably, even the major labels are on tight budgets lately, causing them to behave more [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.). Still, what if you're here *not* to larp— but to *genuinely* make history? Then come join BYCombo, and find a partner with enough bandwidth to grant you amnesty!
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
@@ -335,7 +339,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-No thanks! Remember, the indie camp idealizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live devoid of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history not just of outsiders like us— but the *hungriest*.
+No thanks! Remember, the indie camp idealizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live devoid of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders like us— specifically, the *hungriest*.
 
 So don't be led astray by those who merely *larp* as history makers! All your instincts that stem from a *lack* of privilege— your hunger to be the best, and thus your need for mutual reliance— are *exactly* what it takes to aim for the historical canon. Hip hop gets this, and always has; it's why today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives your band the same chances.
 
