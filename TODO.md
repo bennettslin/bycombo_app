@@ -29,6 +29,7 @@
         * Change "indiefication" links
 
 * YB
+    * Review all instances with Ana and Joi.
     * Change Ash Wednesday doublespeaker rhyme
         * Say it was a failed attempt at it, not an inspiration for it
     * Finish annotations
