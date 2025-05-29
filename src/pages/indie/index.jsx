@@ -339,7 +339,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-No thanks! Remember, the indie camp idealizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live devoid of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders like us— specifically, the *hungriest*.
+No thanks! Remember, the indie camp idealizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live devoid of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like us— and specifically, the *hungriest*.
 
 So don't be led astray by those who merely *larp* as history makers! All your instincts that stem from a *lack* of privilege— your hunger to be the best, and thus your need for mutual reliance— are *exactly* what it takes to aim for the historical canon. Hip hop gets this, and always has; it's why today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives your band the same chances.
 
