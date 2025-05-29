@@ -21,6 +21,7 @@
         * Get rid of popups
     * Add BYCombo publication
     * Old Instagram posts
+        * Review
         * Publish
     * Yearling's Bobtail scores
     * Yearling's Bobtail illustrations
@@ -29,7 +30,7 @@
         * Change "indiefication" links
 
 * YB
-    * Review all instances with Ana and Joi.
+    * Review all annotations.
     * Change Ash Wednesday doublespeaker rhyme
         * Say it was a failed attempt at it, not an inspiration for it
     * Finish annotations
