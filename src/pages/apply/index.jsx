@@ -75,7 +75,7 @@ Email us the following information:
 We'll also need each of the following:
 
 - A statement that you're of legal age: eighteen years or older.
-- Your gender. (This only determines whom we'll place you in a band with. It doesn't affect your chances of being accepted.)
+- Your gender. (This only determines whom we'll place you in a band with. It *doesn't* affect your chances of being accepted.)
 - Total hours you spend each week to earn a living, including commute time. We'll use this as a proxy for your economic class. (Same condition as above.)
 - Whether you're able and willing to relocate to Los Angeles, for anyone who isn't here already. (If not, you won't be eligible for the pilot cohort, but we'll keep you on file for later ones.)
 - An acknowledgment that you've read "[The problem with indie rock](/indie)" in its entirety. (You don't have to agree with all of it. We just need you to understand what drives the BYCombo mission.)

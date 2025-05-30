@@ -11,6 +11,10 @@ export default {
     project: `Yearling's Bobtail`,
     description: `A double album and audio webcomic for the "*Ulysses* of rock albums."`,
     body: `
+${'  ' || `
+// TODO: Review and revise entire page.
+`}
+
 **How does this advance the art form?**
 
 Our hope was to do for music what James Joyce's *Ulysses* did for literature. Lyrical experiments include [stream of consciousness](https://yearlingsbobtail.com/8-good-night-sita/?annotation=2), [neologistic puns](https://yearlingsbobtail.com/10-constellations/?annotation=9), and a literary device we invented called [doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?annotation=7).
