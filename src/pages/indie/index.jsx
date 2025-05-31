@@ -211,7 +211,11 @@ In the past, the indie tastemakers stayed close to their local scenes, making th
 
 What confused me is that I'd [explicitly set out](https://yearlingsbobtail.com/8-good-night-sita/?verse=61&annotation=40) to make a [work of art](https://yearlingsbobtail.com/10-constellations/?verse=1&annotation=9) whose creativity *can't* be disputed. Only later did it hit me: If a tastemaker is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we'd* want. Our human nature is to [*dis*-like creativity](http://archive.today/2024.08.26/https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html); we just don't realize this, because whatever it is we *do* like… we simply call *that* the creative idea of our times!
 
-In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the "corporate suits" just ignore the discomfort, since it's *all* unfamiliar to them. Those in the know, however, pride themselves on their intuition— and thus interpret any discomfort as a sincere warning from the gut. Ironically, then, as [Frank Zappa](https://youtu.be/xP4wsURn3rw) noted, this makes them *worse* at picking creative ideas!
+${'  ' || `
+// TODO: Review today.
+`}
+
+In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the corporate "suits" just ignore the discomfort, since it's *all* unfamiliar to them. Those in the know, however, pride themselves on their intuition— and thus interpret any discomfort as a sincere warning from the gut. Ironically, then, as [Frank Zappa](https://youtu.be/xP4wsURn3rw) noted, this makes them *worse* at picking creative ideas!
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: By *not* knowing what the people want, they *can't* be led astray! Let's face it: The best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
 
@@ -355,7 +359,11 @@ You'll notice, then, that we minorities *aren't* ones to begrudge a business par
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
-While indie artists seek populist solidarity, rappers revel in [elitist snobbery](https://youtu.be/78SV9tguyVM). Yet for Gen X… it's the latter who represent the *true* face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
+${'  ' || `
+// TODO: Review today.
+`}
+
+While indie artists seek populist solidarity, rappers revel in [elitist snobbery](https://youtu.be/78SV9tguyVM). And yet, for Gen X, it's the latter who represent the *true* face of disadvantage! How so? Think about it: When millions want what few can have, competition *must* happen, one way or another— and with this being the case, those with no advantages would prefer it to happen in plain sight.
 
 Because Millennials grew up with so many advantages, however, they fail to grasp how the *truly* disadvantaged behave in the face of competition— much like [being unskilled](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) keeps you from noticing greater skill in others. So when they see bands call for elitist gatekeeping the way rappers do, they decry it as "rockism"— implying that such snobbery is akin to racism.
 
