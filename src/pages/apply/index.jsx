@@ -68,7 +68,7 @@ ${'  ' || `
 
 Email us the following information:
 
-- Your name, contact info, and city of residence.
+- Your name, email address, and city of residence.
 - Your artistic talents and aesthetic preferences.
 - Whom you're co-applying with, if anyone.
 
