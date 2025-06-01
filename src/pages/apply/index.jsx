@@ -62,10 +62,6 @@ To restore the historical canon, we need you to *join* us! In the future, we hop
 
 ### How to apply
 
-${'  ' || `
-// TODO: Review section.
-`}
-
 Email us the following information:
 
 - Your name, email address, and city of residence.

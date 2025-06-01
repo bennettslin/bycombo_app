@@ -35,7 +35,11 @@ Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, the
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
-Sadly, good guys will insist that *their* rules must never be broken; theirs are integral to the structure— and the generation who put them in charge will agree. But… suppose that society never *again* "forgives" its rule breakers? What we need, then, is an institution to formalize the *practice* of doing so— an amnesty program for the arts, if you will.
+${'  ' || `
+// TODO: Review today.
+`}
+
+Sadly, good guys will always insist that *their* rules mustn't be broken; theirs are integral to the structure— and the generation who put them in charge will agree. But… suppose if society never *again* "forgives" its rule breakers? What we need, then, is an institution to formalize the *practice* of doing so— an amnesty program for the arts, if you will.
 
 **Why the historical canon?**
 
@@ -217,17 +221,13 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Ironically, the indie labels still enjoy a *reputation* for giving us the boldest art! The trick? When a work intentionally *lacks* enviable hooks, it wins praise for challenging the listener. Yet past artists would challenge us… *and* inspire our envy! In hindsight, then, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
 
 ${'  ' || `
 // TODO: Review today.
 `}
 
-Why do today's indies settle for larping? It's because they're overworked and underpaid— and this is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. Then, to conserve "bandwidth," they simply follow the instincts passed down by their forebears… just like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
+Why do today's indies default to larping? It's because they're overworked and underpaid— and this is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. Then, to conserve "bandwidth," they simply follow the instincts passed down by their forebears… just like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
 Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to trust it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
@@ -235,11 +235,7 @@ ${'  ' || `
 // TODO: Review today.
 `}
 
-But today, algorithms have turned word of mouth into wisdom of the crowd— which centers on an average by eliminating all extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
-
-${'  ' || `
-// TODO: Review today.
-`}
+But today, algorithms have turned word of mouth into wisdom of the crowd— which centers on an average by canceling out all extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
 So yes, middlemen might seem redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Sadly, with *every* label on a tight budget these days, even the majors behave [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) now— and thus will punish you for *not* larping. But what if you're here to *actually* make history? Then come join BYCombo, and find a partner with the bandwidth to grant you amnesty!
 
@@ -459,7 +455,11 @@ To sum up, it was the *indie camp* who gave us today's [data-driven industry](ht
 
 Are we headed for a new Romanticism? Some foresee a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want, just as word of mouth does… which is why indie rock defended them for as long as it did. In this light, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
-As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass who generates them! And when in doubt, we look to others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
+${'  ' || `
+// TODO: Review today link.
+`}
+
+As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass who generates them! And [when in doubt](https://en.wikipedia.org/wiki/Mimetic_theory), we look to others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been living as romantics— while scoffing at science— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
