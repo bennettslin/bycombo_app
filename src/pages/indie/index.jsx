@@ -35,10 +35,6 @@ Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, the
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs serve to uphold the structure— and the generation who put them in charge will agree. But… suppose that society never *again* "forgives" its rule breakers? What we need, then, is an institution to formalize the *practice* of doing so— an amnesty program for the arts, if you will.
 
 **Why the historical canon?**
@@ -311,10 +307,6 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](http
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being of low status, I needed others to help *me* first. Yet no one did…
 
 So I took a coding bootcamp, and for [seven years](https://bobtail.substack.com/p/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
@@ -425,11 +417,7 @@ ${'  ' || `
 Thus I had *no* lifeline— and then, as it happens, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* root for some over others, based on height, looks, [place of origin](https://x.com/Steven_Hyden/status/1708868954741977173)… and so forth. If we're to live with ourselves, then, we *must* throw a lifeline to those we don't root for.
 `}
 
-Thus I had *no* lifeline— and then, as it happens, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* find underdogs to favor, based on "safe" criteria like [place of origin](https://x.com/Steven_Hyden/status/1708868954741977173). If we're to live with ourselves, then, we *must* toss a lifeline to all others— who'll now be *worse* off in this zero-sum game.
-
-${'  ' || `
-// TODO: Review today.
-`}
+Thus I had *no* lifeline— and then, as it happens, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* find underdogs to favor, based on "safe" criteria like [place of origin](https://x.com/Steven_Hyden/status/1708868954741977173). If we're to live with ourselves, then, we *must* toss a lifeline to all those we've now made *worse* off in this zero-sum game.
 
 There's also a selfish reason to do so: Once we shut out the outsiders of our times, we can no longer deflect any claim that the arts got worse under our watch— a claim that history will surely make against Millennials! Luckily, if you're hungry enough to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain once more.
 
