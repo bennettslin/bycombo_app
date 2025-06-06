@@ -59,7 +59,11 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 
 Partners are most impactful when helping to make you known as an artist— to take you "from zero to one," as they say. But an indie tastemaker holds off *until* you're known, then helps to get the public to care— to take you "from one to *n*." Yet, by that point, their business skills have far less impact…
 
-Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's the latter effort— a sign of your *indie*-pendence— that an indie tastemaker needs to see! Which raises the question: If your partner can't grasp the benefits of *inter*-dependence… are they a partner at all?
+${'  ' || `
+// TODO: Review today.
+`}
+
+Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's the latter effort— a sign of your *indie*-pendence— that an indie tastemaker needs to see! Which raises the question: If your partner can't grasp the benefits of *inter*-dependence… are they even a partner at all?
 
 **Why demos?**
 
@@ -227,7 +231,11 @@ Why do today's indies default to larping? It's because they're overworked and un
 
 Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to trust it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
-But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out any extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
+${'  ' || `
+// TODO: Review today.
+`}
+
+But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out all extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling around a flame, they're stuck with outdated instincts in a modern world.
 
 So yes, middlemen might seem redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Sadly, with *every* label on a tight budget these days, even the majors behave [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) now— and thus will punish you for *not* larping. But what if you're here to *actually* make history? Then come join BYCombo, and find a partner with the bandwidth to grant you amnesty!
 
