@@ -494,9 +494,6 @@ ${'  ' || `
 
 * In this section or the next, point out that Gen X allowed indie rock to coexist as a counterculture to alternative in the '90s, but Millennials refused to allow interdependence to coexist with indie rock in the '00s?
 
-* Link to Noah Smith essay on how cultures get softer?
-* Read old problems with indie rock.
-
 * Future generations
 * Actions that make the world worse when everyone does them
 
@@ -504,10 +501,7 @@ ${'  ' || `
 
 https://karamary.substack.com/p/hey-mama-your-californian-ideology
 
-Second paragraph:
-As winner-take-all systems, politics and culture both reward opportunism— the kind of behavior that makes the world worse if everyone did it. After all, once opportunists are rewarded with high status, they have the will and the way to perpetuate systems that reward opportunism. Yet the Internet has exacerbated this effect. A counterculture needs to arise that consciously embraces collectivism.
-
-Indie rock's individualism can't build for the future. It isn't future oriented.
+Indie rock's individualism can't build for the future. It isn't future oriented. Can't solve collective action problems.
 
 Interdependent labels pool their rosters.
 
@@ -519,12 +513,18 @@ Culturally progressive alternative.
 
 * Fixed mindset?
 
-* authenticity
-`}
+* authenticity, staying true to who you are
 
+These are probably scraps now:
 Do you dispute that indie rock sits on the cultural *right*? No worries! Let's just agree on its main similarity with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist! As with vaccinations, then, a decline in the arts can only be reversed by those who prioritize the *collective*— the left, in my view.
 
+As winner-take-all systems, politics and culture both reward opportunism— the kind of behavior that makes the world worse if everyone did it. After all, once opportunists are rewarded with high status, they have the will and the way to perpetuate systems that reward opportunism. Yet the Internet has exacerbated this effect. A counterculture needs to arise that consciously embraces collectivism.
+
+Last paragraph:
 And don't be fooled by the indie camp's assurance to fight against artificial intelligence; as the logical next step of indie rock's ideals, AI might as well stand for "accelerated indiefication."
+`}
+
+Millennials weren't just too young to witness hair metal's downfall— and thus to draw lessons from it.
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
