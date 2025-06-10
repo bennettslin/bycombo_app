@@ -35,10 +35,6 @@ Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, the
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs serve to uphold the structure— and the generation who put them in charge will agree. But… suppose that society never *again* "forgives" its rule breakers? What we need, then, is an institution to formalize the *practice* of doing so— an amnesty program for the arts, if I may.
 
 **Why the historical canon?**
@@ -480,10 +476,6 @@ But all is assumed to be well, since today's artists easily look and sound like 
 Combining glam's gender-bending look with metal's aggression, hair metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! Yet Millennials adopted it as their own… even *after* I warned them. Why were they glad to just "larp" the next revolution?
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, the punishment for breaking this rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me. Why?
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 This is one theory: Millennials faced boredom only long enough to hate it; then, before they could learn to daydream, they were given structured ways to create and consume endless content— which [won their gratitude](https://xkcd.com/1601). And so they never realized what was obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
 
