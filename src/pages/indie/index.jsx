@@ -481,6 +481,18 @@ This is one theory: Millennials faced boredom only long enough to hate it; then,
 
 Yet my warning remains valid: "Indie rock is this generation's *hair metal*, not *alternative*." Except, today, the generation in question is *Gen Z*— who've only ever faced an [*abundance* of content](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… and would now *love* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
+### ${++sectionCounter}. Unity brutalizes the scapegoat
+
+Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each scene is just an "era" to try on— but any threat to the structures that allow for such "larping"… must be fiercely opposed by *all*.
+
+Moreover: "If 99% of us can see that we're really on the *same* side, then you'd best believe the other 1% is *that* awful. Still, we'll beat them on size alone!" So instead of building up courage, Millennials learned to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture was no less severe…
+
+Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos. Except… the former scenario *causes* the latter, doesn't it?!
+
+Look… either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening the indie camp's illusion of pro-artist unity, I became that 1% for the other 99% to beat down— like the brutalized child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
+
+Thankfully, some of you now agree with me that music has since declined— and you're ready to walk away from indie rock's ideals! But where to? Why, you can come to BYCombo, and stand courageously for being pro-*audience*… knowing that those on the other side are still good people.
+
 ### ${++sectionCounter}. Collectivists pool their achievements
 
 ${'  ' || `
@@ -533,18 +545,6 @@ Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They 
 Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
 Still, since our troubles began when we accepted indiefication and rejected capitalism… why not accept *capitalism* now, and reject *indiefication*? Yes, this will debase who you *are*, as the indie camp sees it— but so did leaving for the majors in the '90s! Besides, history only remembers what you get *done*— as [Kurt Cobain](http://archive.today/2022.10.12/https://www.rollingstone.com/feature/nirvana-inside-the-heart-and-mind-of-kurt-cobain-103770/#:~:text=%E2%80%9CI%20don%E2%80%99t%20blame,identity%20so%20righteously.%E2%80%9D) knew. Now BYCombo lets you act on this knowledge as well.
-
-### ${++sectionCounter}. Unity brutalizes the scapegoat
-
-Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each scene is just an "era" to try on— but any threat to the structures that allow for such "larping"… must be fiercely opposed by *all*.
-
-Moreover: "If 99% of us can see that we're really on the *same* side, then you'd best believe the other 1% is *that* awful. Still, we'll beat them on size alone!" So instead of building up courage, Millennials learned to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— but this led political progressives to side with right-wing populists over the left's own elites! And the damage in culture was no less severe…
-
-Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos. Except… the former scenario *causes* the latter, doesn't it?!
-
-Look… either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening the indie camp's illusion of pro-artist unity, I became that 1% for the other 99% to beat down— like the brutalized child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
-
-Thankfully, some of you now agree with me that music has since declined— and you're ready to walk away from indie rock's ideals! But where to? Why, you can come to BYCombo, and stand courageously for being pro-*audience*… knowing that those on the other side are still good people.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
