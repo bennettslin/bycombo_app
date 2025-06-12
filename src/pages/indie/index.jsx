@@ -218,10 +218,10 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
 ${'  ' || `
-// TODO: Revise. I already said ironically.
+// TODO: Review.
 `}
 
-Ironically, the indie labels maintain a *reputation* for giving us the boldest art! The trick? When a work intentionally *lacks* enviable hooks, it wins praise for challenging the listener. Yet past artists would challenge us… *and* inspire our envy! In hindsight, then, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
+So how do the indie labels maintain a *reputation* for giving us the boldest art? Simply put, when a work intentionally *lacks* enviable craft, it wins praise for challenging the listener. Yet past artists would challenge us… *and* inspire our envy! In hindsight, then, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
 
 Why do the indies default to larping now? Basically, they're overworked and underpaid— and this is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. Then, to conserve "bandwidth," they simply follow the instincts handed down by their forebears… just like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
@@ -450,7 +450,7 @@ Are we headed for a new Romanticism? Some foresee a [rebellion brewing](https://
 As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass who generates them! And [when in doubt](https://en.wikipedia.org/wiki/Mimetic_theory), we look to others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review.
 `}
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." In other words, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
