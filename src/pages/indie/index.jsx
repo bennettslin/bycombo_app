@@ -513,7 +513,7 @@ Indie rock's individualism can't build for the future. It isn't future oriented.
 
 Interdependent labels pool their rosters.
 
-To be indie is to be, literally, *self*-ish.
+* To be indie is to be, literally, *self*-ish. Individualists are loyal to no one but themselves, and the indie camp admires them for it.
 
 Culturally progressive alternative.
 
