@@ -353,7 +353,11 @@ Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennia
 
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for having exploited the defeated South. This surprised me, since I saw them as "good guys"— for having defended vulnerable Blacks. Clearly, he sided with the people, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in culture… but in politics as well!
 
-Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the elites of the political establishment… only to watch in confusion as the disadvantaged among us side with those [elites instead](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631).
+${'  ' || `
+// TODO: Review.
+`}
+
+Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the disadvantaged among us [side with](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631) the establishment instead.
 
 Of course, it isn't *just* in politics, but *also* in culture, where this confusion has caused so much damage. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— the good guys, as Millennials see it— won't listen. It's like they think I'm voting against my own interests!
 
