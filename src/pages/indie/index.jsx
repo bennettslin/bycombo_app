@@ -23,19 +23,11 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, respecting direct fan engagement…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: An elitist gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but then puts it on *you* to go "from one to *n*"— to get the public to care; whereas an indie tastemaker does it the other way around. Anyway… just read on, and I'll explain more.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to seek amnesty from interdependent-minded partners.**
-
-${'  ' || `
-// TODO: Review title.
-`}
 
 ### Why BYCombo?
 
@@ -70,10 +62,6 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 **Why interdependence?**
 
 Partners are most impactful when helping to make you known as an artist— to take you "from zero to one," as they say. But an indie tastemaker holds off *until* you're known, then helps to get the public to care— to take you "from one to *n*." Yet, by that point, their business skills have far less impact…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's the latter effort— a sign of your *indie*-pendence— that an indie tastemaker needs to see! Which raises the question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
 
@@ -116,10 +104,6 @@ We all respect those alternative bands of the ['80s underground](https://www.hac
 In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22,%22+indie+rock+%22,%22+underground+rock+%22&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
 
 But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock renounced its elitism and became a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.) instead, as it went from championing the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
-
-${'  ' || `
-// TODO: Review link.
-`}
 
 Yet in *obeying* the people's will at all times, populism is just democracy with no [judicial safeguard](http://archive.today/20250317/https://www.fjc.gov/history/administration/executive-enforcement-judicial-orders#:~:text=While%20the%20story,Trail%20of%20Tears.)— making it *tyranny* [for the underclass](https://www.smithsonianmag.com/history/andrew-jackson-americas-original-anti-establishment-candidate-180958621/#:~:text=Jackson%E2%80%99s%20populism%20was,plentiful%20free%20land.). We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in culture, at least!— by calling for a new generation of elites.
 
@@ -373,10 +357,6 @@ Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennia
 
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for having exploited the defeated South. This surprised me, since I saw them as "good guys"— for having defended vulnerable Blacks. Clearly, he sided with the people, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in culture… but in politics as well!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the elites of the political establishment… only to watch in confusion as the disadvantaged among us [pick the establishment](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631) instead.
 
 Of course, it isn't *just* in politics, but *also* in culture, where this confusion has caused so much damage. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— the good guys, as Millennials see it— won't listen. It's like they think I'm voting against my own interests!
@@ -432,10 +412,6 @@ So if seeking to gain from one's identity— one's *self*, if you will— is the
 ### ${++sectionCounter}. Penultimate tolerance retracts a lifeline
 
 No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet when I came along— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me *apart* from my identity!" Why? I suspect it's because Millennials were the first generation to believe they'd achieved perfect tolerance; as such, they forgot all about society's bargain with the hungry outsider.
 
@@ -637,10 +613,6 @@ So if I could get every progressive— in both culture and politics— to read j
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the boldest art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Let's ditch old beliefs, then, and think in systems: If an artist diverts 5% of their effort toward *getting* the job, away from simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… creating a "tragedy of the commons." But now, 5% less effort is our *baseline*… and soon, *10%*… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance)."
 
