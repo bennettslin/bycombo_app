@@ -329,7 +329,11 @@ Yet in spite of the poor fit, indie rock sure is eager lately to hand us the rei
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live devoid of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of *outsiders*, like us— and specifically, the *hungriest*.
 
-So don't be led astray by those who merely *larp* as history makers! All your instincts that stem from a *lack* of privilege— your hunger to be the best, and thus your need for mutual reliance— are *exactly* what it takes to aim for the historical canon. Hip hop gets this, and always has; it's why today's rappers win [Pulitzer Prizes](https://www.pulitzer.org/winners/kendrick-lamar)! Now BYCombo gives your band the same chances.
+${'  ' || `
+// TODO: Revise. Talk about first era-defining movement in over a generation to be founded by the underclass.
+`}
+
+So don't be led astray by those who merely *larp* as history makers! All your instincts that stem from a *lack* of privilege— your hunger to be the best, and thus your need for mutual reliance— are *exactly* what it takes to aim for the historical canon. Hip hop gets this, and always has; now BYCombo gives your band the same chances.
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
@@ -548,6 +552,9 @@ ${'  ' || `
 
 * Review move of this and consequentialists section.
 
+* First paragraph? Connect soul from previous section to AI here?
+And don't be fooled by the indie camp's assurance to fight against artificial intelligence; as the logical next step of indie rock's ideals, AI might as well stand for "accelerated indiefication."
+
 * In this section or the next, point out that Gen X allowed indie rock to coexist as a counterculture to alternative in the '90s, but Millennials refused to allow interdependence to coexist with indie rock in the '00s?
 
 * Future generations
@@ -577,9 +584,6 @@ These are probably scraps now:
 Do you dispute that indie rock sits on the cultural *right*? No worries! Let's just agree on its main similarity with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist! As with vaccinations, then, a decline in the arts can only be reversed by those who prioritize the *collective*— the left, in my view.
 
 As winner-take-all systems, politics and culture both reward opportunism— the kind of behavior that makes the world worse if everyone did it. After all, once opportunists are rewarded with high status, they have the will and the way to perpetuate systems that reward opportunism. Yet the Internet has exacerbated this effect. A counterculture needs to arise that consciously embraces collectivism.
-
-Last paragraph:
-And don't be fooled by the indie camp's assurance to fight against artificial intelligence; as the logical next step of indie rock's ideals, AI might as well stand for "accelerated indiefication."
 `}
 
 Millennials weren't just too young to witness hair metal's downfall— and thus to draw lessons from it.
