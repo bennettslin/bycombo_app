@@ -183,7 +183,11 @@ Yet the past works we love most *don't* require us to consider the underlying co
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the world's handwringing in preparation for Y2K.
 
-But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Music history is just whatever happens!" As a result, they [were proud](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) to see *anything* happen, and never wondered what could've happened *instead*, had they held out for better works. Still… why didn't more artists try to *show* them how much better a work can be?
+${'  ' || `
+// TODO: Review link.
+`}
+
+But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Music history is just whatever happens!" As a result, they [were proud](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) to see *anything* happen, and never wondered what could've happened *instead*, had they held out for better works. Still… why didn't more artists try to *show* them how much better a work can be?
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
@@ -327,13 +331,17 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 Yet in spite of the poor fit, indie rock sure is eager lately to hand us the reins! Why is this? Because, after years of "larping" as an era-defining movement— despite being no better than a foreign canon— it's in *decline*… and desperate to regain cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)."
 
-No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live devoid of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of *outsiders*, like us— and specifically, the *hungriest*.
-
 ${'  ' || `
-// TODO: Revise. Talk about first era-defining movement in over a generation to be founded by the underclass.
+// TODO: Review.
 `}
 
-So don't be led astray by those who merely *larp* as history makers! All your instincts that stem from a *lack* of privilege— your hunger to be the best, and thus your need for mutual reliance— are *exactly* what it takes to aim for the historical canon. Hip hop gets this, and always has; now BYCombo gives your band the same chances.
+No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like us— and specifically, the *hungriest*.
+
+${'  ' || `
+// TODO: Review.
+`}
+
+So don't be led astray by those who merely *larp* as history makers! All your instincts that stem from a *lack* of privilege— your hunger to be the best, and thus your need for mutual reliance— are *exactly* what it takes to aim for the historical canon. Hip hop gets this, as does BYCombo: this generation's first movement to be founded by the under-*class*… not by under-*dogs*!
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
@@ -365,7 +373,11 @@ Now, our forebears didn't need to coin such a term; they intuitively grasped why
 
 Of course, it isn't *just* in politics, but *also* in culture, where this confusion has caused so much damage. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— the good guys, as Millennials see it— won't listen. It's like they think I'm voting against my own interests!
 
-Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *patronizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
+${'  ' || `
+// TODO: Review.
+`}
+
+Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *criticizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
 
 So will the sideways horseshoe ever be allowed to return? Regarding politics, I don't know enough to say. But in culture… I can give a definite yes! Because BYCombo lets those of you in the underground join the establishment once again— even if, like Kurt Cobain, you'd never admit to this dream.
 
@@ -433,7 +445,11 @@ Both movements protect the favored underdog by refusing to ask: "Wouldn't the hu
 
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-Yet underdog movements can never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you're *not* whom the people want to root for? Then let BYCombo throw you a lifeline, by bringing back rockism— the original spirit of rock and roll, courtesy of its [founding underclass](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet underdog movements can never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you're *not* whom the people want to root for? Then let BYCombo throw you a lifeline, by bringing back rockism: rock and roll's original spirit, courtesy of its [founding underclass](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
@@ -592,7 +608,11 @@ Millennials weren't just too young to witness hair metal's downfall— and thus 
 
 In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the-nineties-by-chuck-klosterman), Chuck Klosterman observes that Gen X didn't reject *capitalism*, just *commercialism*. That is to say: "You can *sell*, but don't sell *out*." Still, indie rock told Millennials to take it further: "Sell it *yourself*." Which they did… until the hustle burned them out. Yet, rather than blame "indiefication," they now rail against the need to sell at all— or, capitalism *itself*!
 
-As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
+${'  ' || `
+// TODO: Review link.
+`}
+
+As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html#:~:text=For%20Generation%20X,who%20you%20are.) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
 
 Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=The%20difference%20between,post%2Dgraduate%20twentysomethings.) to *oppose* such bands.
 
