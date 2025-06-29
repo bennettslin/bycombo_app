@@ -105,7 +105,7 @@ In the '90s, though, as bands began to leave for the major labels, "alternative"
 
 But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock renounced its elitism and became a [populist movement](http://archive.today/2025.03.05/https://pitchfork.com/features/interview/6672-okkervil-river/#:~:text=I%20guess%20I,had%20%5Blaughs%5D.) instead, as it went from championing the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
 
-Yet in *obeying* the people's will at all times, populism is just democracy with no [judicial safeguard](http://archive.today/20250317/https://www.fjc.gov/history/administration/executive-enforcement-judicial-orders#:~:text=While%20the%20story,Trail%20of%20Tears.)— making it *tyranny* [for the underclass](https://www.smithsonianmag.com/history/andrew-jackson-americas-original-anti-establishment-candidate-180958621/#:~:text=Jackson%E2%80%99s%20populism%20was,plentiful%20free%20land.). We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in culture, at least!— by calling for a new generation of elites.
+Yet in *obeying* the people's will at all times, populism is just democracy with no [judicial safeguard](http://archive.today/2025.03.17/https://www.fjc.gov/history/administration/executive-enforcement-judicial-orders#:~:text=While%20the%20story,Trail%20of%20Tears.)— making it *tyranny* [for the underclass](https://www.smithsonianmag.com/history/andrew-jackson-americas-original-anti-establishment-candidate-180958621/#:~:text=Jackson%E2%80%99s%20populism%20was,plentiful%20free%20land.). We learned this in high school! So what happens now, if *your* works are too subversive to ever be for everyone? Why, you can rest assured: BYCombo is here to restore the judiciary— in culture, at least!— by calling for a new generation of elites.
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
@@ -341,7 +341,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So don't be led astray by those who merely *larp* as history makers! All your instincts that stem from a *lack* of privilege— your hunger to be the best, and thus your need for mutual reliance— are *exactly* what it takes to aim for the historical canon. Hip hop gets this, as does BYCombo: this generation's first movement to be founded by the under-*class*… not by under-*dogs*!
+So don't be led astray by those who merely *larp* as history makers! All your instincts that stem from a *lack* of privilege— your hunger to be the best, and thus your need for mutual reliance— are *exactly* what it takes to aim for the historical canon. Hip hop gets this, as does BYCombo: the first movement in over a generation that's of, by, and for the under-*class*… not under-*dogs*.
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
@@ -374,7 +374,7 @@ Now, our forebears didn't need to coin such a term; they intuitively grasped why
 Of course, it isn't *just* in politics, but *also* in culture, where this confusion has caused so much damage. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— the good guys, as Millennials see it— won't listen. It's like they think I'm voting against my own interests!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Add Sarah McBride link.
 `}
 
 Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *criticizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
