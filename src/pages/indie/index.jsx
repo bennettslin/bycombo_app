@@ -374,10 +374,10 @@ Now, our forebears didn't need to coin such a term; they intuitively grasped why
 Of course, it isn't *just* in politics, but *also* in culture, where this confusion has caused so much damage. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— the good guys, as Millennials see it— won't listen. It's like they think I'm voting against my own interests!
 
 ${'  ' || `
-// TODO: Review, including link.
+// TODO: Review.
 `}
 
-Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *criticizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, [forgoing the urge](http://archive.today/2025.06.29/https://www.nytimes.com/2025/06/17/opinion/ezra-klein-podcast-sarah-mcbride.html#:~:text=%E2%80%9CYou%20can%E2%80%99t%20compromise,under%20the%20bus.) to simply "larp" as a revolutionary.
+Which explains why both culture *and* politics have gotten worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *criticizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
 
 So will the sideways horseshoe ever be allowed to return? Regarding politics, I don't know enough to say. But in culture… I can give a definite yes! Because BYCombo lets those of you in the underground join the establishment once again— even if, like Kurt Cobain, you'd never admit to this dream.
 
