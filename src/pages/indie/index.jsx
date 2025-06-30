@@ -612,7 +612,11 @@ So the anti-elitists among us topple the system by joining with libertarians… 
 
 But there's good news: With many anti-elitists now having swung from the political left to the right— and few swinging [just as hard](http://archive.today/2023.12.19/https://inthesetimes.com/article/former-left-right-fascism-capitalism-horseshoe-theory#:~:text=Except%20%E2%80%8B%E2%80%9Chorseshoe%20theory%2C%E2%80%9D,in%20one%C2%A0direction.) in reverse— it's no longer far-fetched to say that anti-elitism, at its *core*, is a right-wing stance. Whether in culture or politics, it's the *right* that's best served by taking down the system; the *left* is better off reforming it from within!
 
-Which means we progressives will need to quit "larping" the revolution— to quit thinking that history cares about who we *were*, rather than what we got *done*— and [learn to build](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) instead… beginning with the very skills needed to analyze our problems and propose solutions. How? Beyond just knowing our human nature, we must also appreciate systems in all their complexity.
+${'  ' || `
+// TODO: Review.
+`}
+
+Which means we progressives will [need to quit](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) "larping" the revolution— to quit equating virtue with our *identity*, rather than our *impact*— and learn to build instead, beginning with the very skills needed to study our problems and propose solutions. But how? Beyond just knowing our human nature… we must also appreciate systems in all their complexity.
 
 So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission… and hopefully, it can lead to some of your own!
 
