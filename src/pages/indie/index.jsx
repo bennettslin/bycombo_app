@@ -225,7 +225,13 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
+${'  ' || `
+// TODO: Review? I'm not feeling it as much now.
+
 So how do the indie labels maintain a *reputation* for giving us the boldest art? Simply put, when a work deliberately *lacks* enviable craft, it wins praise from critics for challenging the listener. Yet past artists would challenge us… *and* inspire our envy! In hindsight, then, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
+`}
+
+So how do the indie labels maintain a *reputation* for giving us the boldest art? Simply put, when a work *lacks* enviable craft, this is now taken as proof of its authenticity. Yet, as we've seen, inspiring envy is the *key* to making history! In retrospect, then, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
 
 Why do the indies default to larping now? Basically, they're overworked and underpaid— and this is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. Then, to conserve "bandwidth," they simply follow the instincts handed down by their forebears… just like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
