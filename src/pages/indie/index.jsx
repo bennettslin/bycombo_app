@@ -49,10 +49,6 @@ When fans support an artist, they want art that engages with them directly— wh
 
 Indie rock encourages artists to retain their earnings— which, today, means having fewer bandmates, if any. But what competitive edge could a solo artist possibly have nowadays, to put them among the best for all *time*? From now until forever, if artists want to make history, they'll need to be greater than the sum of their parts— and in rock, this happens by forming *bands*.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 **Why band *assembly*?**
 
 Has rock explored all the ways a band can come together? It sure seems so— assuming they'll always do so on their own, in a decentralized free-for-all. But let's ditch this notion. What if musicians hoping to form history-making bands could flock to a single hub from across the world? What if a cartoonist could also join— and bands, in turn, could think to look for one?
@@ -225,14 +221,6 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 
 ### ${++sectionCounter}. Limited bandwidth fails to adapt
 
-${'  ' || `
-// TODO: Rework.
-
-So how do the indie labels maintain a *reputation* for giving us the boldest art? Simply put, when a work deliberately *lacks* enviable craft, it wins praise from critics for challenging the listener. Yet past artists would challenge us… *and* inspire our envy! In hindsight, then, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
-
-So yes, middlemen might seem redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! 
-`}
-
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— and this is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. Then, to conserve "bandwidth," they simply follow the instincts handed down by their forebears… just like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
 Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to trust it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
@@ -241,6 +229,10 @@ But today, algorithms have turned word of mouth into wisdom of the crowd— whic
 
 ${'  ' || `
 // TODO: Rework next two paragraphs.
+
+So how do the indie labels maintain a *reputation* for giving us the boldest art? Simply put, when a work deliberately *lacks* enviable craft, it wins praise from critics for challenging the listener. Yet past artists would challenge us… *and* inspire our envy! In hindsight, then, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one.
+
+So yes, middlemen might seem redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! 
 `}
 
 And so they keep looking for the next "Range Life," whose underlying context interests us because we root for its artist— when every other song today gets popular for this reason! Meanwhile, there's no longer *any* incentive to craft the kind of enviable hooks found in "Them Bones," or "Black Hole Sun"… even though, as we've seen, inspiring envy is the *key* to making history!
@@ -344,10 +336,6 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 Yet in spite of the poor fit, indie rock sure is eager lately to hand us the reins! Why is this? Because, after years of "larping" as an era-defining movement— despite being no better than a foreign canon— it's in *decline*… and desperate to regain cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)."
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like us— and specifically, the *hungriest*.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Don't be fooled, then, by those who merely *larp* as history makers! All your instincts that stem from a *lack* of privilege— your hunger to be the best, and thus your need for mutual reliance— are *exactly* what it takes to aim for the historical canon. So come follow them, with BYCombo: the next movement after hip hop that's of, by, and for the under-*class*… not under-*dogs*.
 
@@ -630,7 +618,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Which means we progressives will [need to quit](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) "larping" as revolutionaries— to quit equating virtue with *identity*, rather than with *impact*— and learn to build instead, beginning with the very skills needed to analyze our problems and propose solutions. How? Beyond just knowing our human nature… we must also appreciate systems in all their complexity.
+Which means we progressives will [need to quit](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) "larping" as revolutionaries— that is, to quit equating virtue with *identity*, rather than with *impact*— and learn to build instead, beginning with the very skills needed to analyze our problems and propose solutions. But how? Beyond just knowing our human nature… we must also appreciate systems in all their complexity.
 
 So if I could get every progressive— in both culture and politics— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission… and hopefully, it can lead to some of your own!
 
