@@ -231,7 +231,7 @@ ${'  ' || `
 // TODO: Review next two paragraphs.
 `}
 
-So they keep striving to give us the next "[Range Life](https://youtu.be/1VVj1zqbWpU)"— that is, the next song whose context we'll lap up, out of loyalty to the artist who made it— as if this isn't how *all* music works now! Meanwhile, it's become rare for bands to craft radio-friendly hooks envied by others, yet the indies *still* think it's "punching up" to bash them… and even when inspiring envy is what makes history!
+So they keep striving to give us the next "[Range Life](https://youtu.be/1VVj1zqbWpU)"— that is, the next song whose context we'll lap up, out of loyalty to the artist who made it— as if this isn't how *all* music works today! What's *actually* rare now is for bands to craft radio-friendly hooks envied by others… yet critics *still* consider it "punching up" to bash them— and even when inspiring envy is *key* to making history!
 
 Which explains why this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one. Sadly, with *every* label on a tight budget these days, even the majors have failed to adapt. But what if *you're* not here to larp, but to *truly* make history? Then come join BYCombo… and find a partner with enough bandwidth to change with the times!
 
