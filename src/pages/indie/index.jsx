@@ -235,9 +235,9 @@ So how do the indie labels maintain a *reputation* for giving us the boldest art
 So yes, middlemen might seem redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! 
 `}
 
-And so they keep looking for the next "Range Life," whose underlying context interests us because we root for its artist— when every other song today gets popular for this reason! Meanwhile, there's no longer *any* incentive to craft the kind of enviable hooks found in "Them Bones," or "Black Hole Sun"… even though, as we've seen, inspiring envy is the *key* to making history!
+And so they keep trying to give us the next "[Range Life](https://youtu.be/1VVj1zqbWpU)"— in other words, a work whose context we'll find interesting, once we're rooting for the artist— as if such works aren't the default now! Meanwhile, there's no longer *any* incentive to craft radio-friendly hooks envied by other artists, even though— as mentioned earlier— inspiring envy is the *key* to making history!
 
-In hindsight, then, this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one. Sadly, with *every* label on a tight budget these days, even the majors behave [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) now. But what if you're here to *actually* make history? Then come join BYCombo, and find a partner with the bandwidth to grant you amnesty!
+Which explains why this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one. Sadly, with *every* label on a tight budget these days, even the majors behave [like indies](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) now. But what if you're here to *actually* make history? Then come join BYCombo, and find a partner with the bandwidth to grant you amnesty!
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
