@@ -141,7 +141,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Growing up as a child of Asian immigrants, I was keenly aware that other countries had [their own](https://youtu.be/QhOFg_3RV5Q) rock canons. Yet because they looked up to ours— the English-speaking world's— we saw little of value in theirs… which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
+Growing up as a child of Asian immigrants, I was keenly aware that other countries had [their own](https://youtu.be/QhOFg_3RV5Q) rock canons. Yet because they looked up to ours— the English-speaking world's— we cared little of theirs… which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
@@ -246,10 +246,6 @@ Can the indie labels learn *not* to be led astray? No, they're overworked and un
 Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to trust it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out all extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So they keep striving to give us the next "[Range Life](https://youtu.be/1VVj1zqbWpU)"— that is, the next song whose context we'll lap up, out of loyalty to the artist who made it— as if this isn't how *all* music works today! Meanwhile, what's rare now is for bands to craft radio-friendly hooks envied by others… yet it's *still* seen as "punching up" to bash them— and even when inspiring envy is *key* to making history!
 
@@ -424,10 +420,6 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 ### ${++sectionCounter}. Identity is a resort of the privileged
 
 Let's be fair: In wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on their identities as [society's underdogs](http://archive.today/2021.06.04/https://www.nytimes.com/2021/05/26/magazine/black-keys-blues.html#:~:text=%E2%80%9CFor%20me%2C%20it,aspirations%20we%20did.%E2%80%9D).
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Except… it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly White and male. Suffering a [crisis of conscience](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html), the indie camp solved this problem in the only way they knew how: by allowing us women and minorities to be seen as underdogs as well— a solution that's come to be known as "wokeness."
 
