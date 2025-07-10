@@ -241,6 +241,14 @@ Which explains why this century's indie rock doesn't *feel* like a historical er
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
+${'  ' || `
+// TODO: Add paragraph? Elon Musk's DOGE?
+
+At some point, the indie camp naturally asked: "Obviously, middlemen do nothing. So what if *everyone* stopped working with middlemen, not just the indie labels? There'd be zero slack, *all* the arts would be operating at peak efficiency!" So much like DOGE set forth to get rid of every extraneous role within the government, indiefication did the same in the arts.
+
+Switch around the last sentence?
+`}
+
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
 And here's more absurdity: Whereas artists are loved for doing what we'd all rather do, middlemen are hated for taking on work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman… but a middleman *gets* to be their own artist. So "indiefication" is really the wish of a *middling* artist— who'd otherwise only qualify to *be* a middleman!
