@@ -249,7 +249,13 @@ At some point, the indie camp naturally asked: "Obviously, middlemen do nothing.
 Switch around the last sentence?
 `}
 
-To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
+
+
+${'  ' || `
+// TODO: Review.
+`}
+
+To help artists cut out the middleman, then, the indie camp provides them with tools to do the middleman's job for themselves. Of course, the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
 And here's more absurdity: Whereas artists are loved for doing what we'd all rather do, middlemen are hated for taking on work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman… but a middleman *gets* to be their own artist. So "indiefication" is really the wish of a *middling* artist— who'd otherwise only qualify to *be* a middleman!
 
@@ -565,7 +571,11 @@ ${'  ' || `
 * Review move of this and consequentialists section.
 
 * First paragraph? Connect soul from previous section to AI here?
+To fight against soulless content made by AI, the new Romantics long for 
+
 And don't be fooled by the indie camp's assurance to fight against artificial intelligence; as the logical next step of indie rock's ideals, AI might as well stand for "accelerated indiefication."
+
+* Make point of how AI simply multiplies the advantage that "zero-to-one" talents have over "one-to-*n*" talents.
 
 * In this section or the next, point out that Gen X allowed indie rock to coexist as a counterculture to alternative in the '90s, but Millennials refused to allow interdependence to coexist with indie rock in the '00s?
 
@@ -593,14 +603,7 @@ Culturally progressive alternative.
 * Having an authentic persona, staying true to who you are, how things were done in the past. Do mention both "authentic" and "persona."
 
 * to be independent, I don't need you, but you also don't need me
-
-These are probably scraps now:
-Do you dispute that indie rock sits on the cultural *right*? No worries! Let's just agree on its main similarity with the *political* right: Since both prioritize the *individual*, both struggle to solve collective action problems… even going so far as to deny they exist! As with vaccinations, then, a decline in the arts can only be reversed by those who prioritize the *collective*— the left, in my view.
-
-As winner-take-all systems, politics and culture both reward opportunism— the kind of behavior that makes the world worse if everyone did it. After all, once opportunists are rewarded with high status, they have the will and the way to perpetuate systems that reward opportunism. Yet the Internet has exacerbated this effect. A counterculture needs to arise that consciously embraces collectivism.
 `}
-
-Millennials weren't just too young to witness glam metal's downfall— and thus to draw lessons from it.
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
