@@ -38,7 +38,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Once everyone agrees to form a band, those who can relocate to the same city will do so. For our pilot cohort, this will be Los Angeles, as we'd like to meet with you in person. Upon settling in, each of you will put in enough time on your band project for the sum total to be 25,000 hours— or, twelve full-time years.
+Once everyone agrees to form a band, those who can relocate to the same city will do so. For our pilot cohort, this will be Los Angeles, as we'd like to meet with you in person regularly. After settling in, each of you will then put in enough time on your band project for the sum total to be 25,000 hours— or, twelve full-time years.
 
 ### A lifetime of band projects
 
