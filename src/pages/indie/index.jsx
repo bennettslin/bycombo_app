@@ -151,10 +151,6 @@ By the '00s, the major labels had gutted the local scenes in their search for th
 
 For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our human nature. Since it's hard to say whose works are best, we often just like what others like— and they do the same! As a result, any [random boost](http://archive.today/2024.07.19/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#:~:text=The%20reason%20is,in%20her%20place.) can snowball into a winning advantage— and *this* is how the unworthy end up as superstars.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who signed with the indies for this very reason!
 
 By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Thankfully, BYCombo is here to build a *new* path to stardom. Because, once you go above and beyond to make the best art, you *won't* just settle for a "[thousand true fans](https://kk.org/thetechnium/1000-true-fans)." And if superstars are inevitable… then why can't *you* get a chance to be one?
@@ -176,10 +172,6 @@ In essence: Ignore the critics, or any others who think history making is a crap
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting melodies and chords that hook you in with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best melodies and chords come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point; they just don't value music as a *craft* to begin with!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— now online— want direct engagement from the artist; so both, in their own way, are drawn more to a well-constructed *persona* than a well-crafted *hook*.
 
@@ -247,15 +239,15 @@ ${'  ' || `
 At some point, the indie camp naturally asked: "Obviously, middlemen do nothing. So what if *everyone* stopped working with middlemen, not just the indie labels? There'd be zero slack, *all* the arts would be operating at peak efficiency!" So much like DOGE set forth to get rid of every extraneous role within the government, indiefication did the same in the arts.
 
 Switch around the last sentence?
+
+* If not, then revert next paragraph.
 `}
-
-
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-To help artists cut out the middleman, then, the indie camp provides them with tools to do the middleman's job for themselves. Of course, the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
+To help artists cut out the middleman, then, the indie camp provides them with tools to do the middleman's job for themselves. Of course… the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same— with each of us now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
 And here's more absurdity: Whereas artists are loved for doing what we'd all rather do, middlemen are hated for taking on work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman… but a middleman *gets* to be their own artist. So "indiefication" is really the wish of a *middling* artist— who'd otherwise only qualify to *be* a middleman!
 
@@ -662,10 +654,6 @@ Thanks to indie rock, though, today's artists have no such reason to believe. So
 Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build up your talents… in faith that a savior will then find you!
 
 ### ${++sectionCounter}. Victory is assured
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who already does the middleman's job? What fan *wouldn't* prefer the one who engages with them by [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) free labor? And what critic *wouldn't* prefer the one whose well-constructed "lore" offers so much context to discuss?
 
