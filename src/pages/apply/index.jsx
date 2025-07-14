@@ -34,10 +34,6 @@ If so, then come be part of the interdependence revolution! We're looking for th
 
 We'll select each applicant based on their talents and creative ideas. If we accept you, we'll set you up with three or four prospective bandmates who match your artistic tastes and skill levels. Upon reviewing each other's links and videos, you'll meet online.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Once everyone agrees to form a band, those who can relocate to the same city will do so. For our pilot cohort, this will be Los Angeles, as we'd like to meet with you in person regularly. After settling in, each of you will then put in enough time on your band project for the sum total to be 25,000 hours— or, twelve full-time years.
 
 ### A lifetime of band projects

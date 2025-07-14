@@ -43,10 +43,6 @@ Yes! You see, indie rock has a glaring weakness: It doesn't *actually* separate 
 
 **Interdependent bands must spend *all* their time and energy, for untold *years* of their lifetime, on a demo that *objectively* advances the art form— and which couldn't have been made with *any* less effort.**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 The downside is clear… So who'd sign up to be the first of these new rock martyrs? Why, a hungry outsider, that's who! As such, I spent 25,000 hours— or, twelve full-time years— making [*Yearling's Bobtail*](https://yearlingsbobtail.com), which includes coding and illustrating the audio webcomic. And of course, it was *only* by breaking indie rock's rules that I could do so. Surely, then, I'd be given amnesty!
 
 ### Who makes the tastemakers?
