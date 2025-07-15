@@ -1,14 +1,7 @@
 # TODO
 
-# Remaining December work
-* Make apply page good enough to publish
-* Publish
-* Archive indie page
-
 # Nice to do
 * Header work
-* AWS CLI setup
-* Contact Vanessa Ogle
 
 * Other projects
     * Add list item styling
@@ -30,6 +23,7 @@
         * Change "indiefication" links
 
 * YB
+    * Remove promo home page
     * Review all annotations.
     * Finish annotations
         * No one's out to get you
@@ -53,8 +47,6 @@
                 * Climate change and artistic climate change
     * Consider doing screen widths smartly
     * Consider smart quote in Wikipedia link update
-    * Revise apply page
-    * https://www.matthewstrother.org/applications
 
 * Distro
     * Make everything (demo version)
