@@ -441,7 +441,11 @@ Perhaps my arguments against indie rock seem misplaced. After all, aren't the te
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left bands powerless to negotiate; they couldn't play one label off another, and a vision by itself is worth nothing. As a result, they often had to accept unfair terms— leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
-By contrast, the indie labels simply pick what the people want, going by the size of an artist's fanbase. Once *anyone* sees a safe bet, then, *everyone* does… and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists— and thus to be rated as a "good guy"— is to trust the numbers in the data!
+${'  ' || `
+// TODO: Review.
+`}
+
+By contrast, the indie labels simply pick what the people want, going by the size of an artist's fanbase. Once *anyone* sees a safe bet, then, *everyone* does… and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists— and thus to be rated as a "good guy"— is to trust the cold, hard numbers!
 
 So when the tech platforms arrived to disrupt the majors using data-driven methods, the indie camp was *fully* on board. I still recall how they rushed to defend file sharing: "*Real* artists earn a living by going on tour. Recordings are just for publicity; they *should* be free!" And social networks: "*Real* artists engage with their fans after a show— and now they can at *any* time!"
 
