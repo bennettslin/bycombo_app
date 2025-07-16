@@ -12,22 +12,15 @@
 * Substack
     * Switch all websites to use Substack as mailing list
         * Get rid of popups
-    * Add BYCombo publication
-    * Old Instagram posts
-        * Review
-        * Publish
-    * Yearling's Bobtail scores
-    * Yearling's Bobtail illustrations
+    * Showing the work
+        * Yearling's Bobtail scores
+        * Yearling's Bobtail illustrations
     * Indiefication explained
         * Niemoller quote
         * Change "indiefication" links
 
 * YB
-    * Remove promo home page
-    * Review all annotations.
-    * Finish annotations
-        * No one's out to get you
-        * They're just looking out for themselves, as you are
+    * Review all annotations
     * Change interactivated verse?
 
 * BYC
