@@ -50,7 +50,11 @@ Of course, we're just getting started, so to thank you for your patience during 
 
 **Women, minorities, and other disadvantaged groups:**
 
-As a rock movement started by a minority, BYCombo was *conceived* to win back the interdependence you thrive upon! We'll also aim for an equitable ratio of gender and economic class in every band we assemble.
+${'  ' || `
+// TODO: Review.
+`}
+
+As a rock movement *started* by a minority, BYCombo was *conceived* to win back the interdependence you thrive upon! We'll also aim for an equitable ratio of gender and economic class in every band we assemble.
 
 **Artists of other mediums:**
 

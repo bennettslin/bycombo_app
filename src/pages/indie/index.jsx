@@ -23,11 +23,7 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, respecting direct fan engagement…
 
-${'  ' || `
-// TODO: Review.
-`}
-
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: An elitist gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but puts it on *you* to go "from one to *n*"— to get the public to care; whereas an indie tastemaker does it the other way around. Anyway… just read on, and I'll explain more.
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: An elitist gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but then puts it on *you* to go "from one to *n*"— to get the public to care; whereas an indie tastemaker does it the other way around. Anyway… just read on, and I'll explain more.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -315,10 +311,6 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](http
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being a low-status nobody, I needed others to help *me* first. Yet no one did…
 
 So I took a coding bootcamp, and for [seven years](https://bobtail.substack.com/p/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
@@ -445,10 +437,6 @@ Perhaps my arguments against indie rock seem misplaced. After all, aren't the te
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left bands powerless to negotiate; they couldn't play one label off another, and a vision by itself is worth nothing. As a result, they often had to accept unfair terms— leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
-${'  ' || `
-// TODO: Review.
-`}
-
 By contrast, the indie labels simply pick what the people want, going by the size of an artist's fanbase. Once *anyone* sees a safe bet, then, *everyone* does… and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists— and thus to be rated as a "good guy"— is to trust the cold, hard numbers!
 
 So when the tech platforms arrived to disrupt the majors using data-driven methods, the indie camp was *fully* on board. I still recall how they rushed to defend file sharing: "*Real* artists earn a living by going on tour. Recordings are just for publicity; they *should* be free!" And social networks: "*Real* artists engage with their fans after a show— and now they can at *any* time!"
@@ -528,10 +516,6 @@ Here's my point: Suppose an indie label were willing to sign me *before* my band
 Luckily, having struggled for half my life to attract bandmates, I anticipated that the best musicians would gradually prefer to be *assembled* into bands— and that this, in turn, could open up a new frontier to explore! So relax, and put all your effort into simply *deserving* the most dedicated bandmates… safe in the knowledge that BYCombo will then help you find them.
 
 ### ${++sectionCounter}. Advances are made in aesthetics, not logistics
-
-${'  ' || `
-// TODO: Review.
-`}
 
 When's it a "larp"? Here's a test: Could it've been a fictional movie *instead*? Let's say, a fictional Queen… How would you commission the soundtrack?! So, Queen: no larp. "Well then, isn't it *also* no larp for an indie artist to hustle, if they're using an app that disrupted the industry too *soon* to make sense in a movie?" Okay, fair enough. But in that case, isn't the *real* hero… the app?
 
