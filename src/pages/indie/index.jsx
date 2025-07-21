@@ -23,10 +23,6 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, respecting direct fan engagement…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas for a tastemaker, it's the other way around. Anyway… just read on, and I'll explain more.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
@@ -618,10 +614,10 @@ To explain the squiggles traversed by the planets in their orbits around the Ear
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the boldest art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
 ${'  ' || `
-// TODO: Review. Also link.
+// TODO: Review.
 `}
 
-Let's ditch old beliefs, then, and think in systems: If an artist diverts 5% of their effort toward *getting* the job, away from simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… leading to a "tragedy of the commons." But now, 5% is the *baseline*… and soon, 10%… 15%… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance/#:~:text=People%20summon%20the,possible%20any%20more.)."
+Let's ditch old beliefs, then, and think in systems: If an artist diverts 5% of their effort toward *getting* the job, away from simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… leading to a "tragedy of the commons." But now, 5% is our *baseline*… and soon, 10%… 15%… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance/#:~:text=People%20summon%20the,possible%20any%20more.)."
 
 With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
