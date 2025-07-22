@@ -63,10 +63,6 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 
 Partners are most impactful when helping to make you known as an artist— to take you "from zero to one," as they say. But an indie tastemaker holds off *until* you're known, then helps to make the public care— to take you "from one to *n*." Yet, at that point, their business skills have far less impact…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's the latter effort— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
 
 **Why demos?**
@@ -233,10 +229,6 @@ But today, algorithms have turned word of mouth into wisdom of the crowd— whic
 
 So they keep striving to give us the next "[Range Life](https://youtu.be/1VVj1zqbWpU)"— that is, the next song whose context we'll lap up, out of loyalty to the artist who made it— as if this isn't how *all* music works today! Meanwhile, what's rare now is for bands to craft radio-friendly hooks envied by others… yet it's *still* seen as "punching up" to bash them— and even when inspiring envy is *key* to making history!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Which explains why this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one. Sadly, with *every* label on a tight budget these days, even the *majors* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) indies now. Still, what if you're here to *actually* make history? Then come join BYCombo… and find a partner with enough bandwidth to change with the times!
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
@@ -388,10 +380,6 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 ### ${++sectionCounter}. Independence breeds homogeneity
 
 "Be so good they [can't ignore you](https://youtu.be/jTdXqsrs4oI)," Steve Martin advises. Well… I thought I'd done just that, given the scope of my projects— including [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566), my theory for composing multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. Consequently, everyone in indie rock converges on the same well-rounded way of thinking…
 
@@ -624,10 +612,6 @@ So if I could get every progressive— in both culture and politics— to read j
 To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the boldest art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* behave like indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Let's ditch old beliefs, then, and think in systems: If an artist diverts 5% of their effort toward *getting* the job, away from simply *deserving* it, they alone reap the benefit— even as this erodes the public's faith in music *overall*! So others will do the same… leading to a "tragedy of the commons." But now, 5% is our *baseline*… and soon, 10%… 15%… as we "[drift to low performance](https://donellameadows.org/archives/drift-to-low-performance/#:~:text=People%20summon%20the,possible%20any%20more.)."
 
