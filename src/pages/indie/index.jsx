@@ -23,7 +23,11 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, respecting direct fan engagement…
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas for a tastemaker, it's the other way around. Anyway… just read on, and I'll explain more.
+${'  ' || `
+// TODO: Review.
+`}
+
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. Anyway… just read on, and I'll explain more.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
