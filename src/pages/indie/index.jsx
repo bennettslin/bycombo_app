@@ -25,23 +25,21 @@ First, we raise *awareness*. Since "indie" means "good" to so many, few notice t
 
 ${'  ' || `
 // TODO: Review.
-
-Anyway… just read on, and I'll explain more.
 `}
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Why is this an issue, though?"
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? Here's my take: A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "So why is this an issue?"
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Since gatekeepers look for low-status nobodies with one-to-*n* talents, their dream is to up-*end* the status quo— which puts them on the cultural *left*. But tastemakers prefer an artist who's *already* gone from zero to one… and thus *already* enjoys higher status. In other words, they strive to up-*hold* the status quo— which puts them on the *right*! So here's what we'll need to explain:
+Since gatekeepers look for low-status nobodies with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the cultural *left*. But tastemakers prefer an artist who's *already* gone from zero to one… and thus *already* enjoys higher status. This means they up-*hold* the hierarchy— which puts them on the *right*! Here, then, is what we'll need to explain:
 
 ${'  ' || `
-// TODO: Keep working on.
+// TODO: Review a few more times.
 `}
 
-**By forcing *every* artist to be indie— to get themselves known— Millennials pushed the arts to the cultural *right*.**
+**By forcing all artists to be indie— or, to get themselves known— Millennials swung hard to the cultural *right*. To save the arts, then, a counterculture of the left must now rise up to *oppose* every one of indie rock's ideals.**
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
