@@ -25,23 +25,9 @@ First, we raise *awareness*. Since "indie" means "good" to so many, few notice t
 
 ${'  ' || `
 // TODO: Review.
+`}
 
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. Anyway… just read on, and I'll explain more.
-`}
-
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around.
-
-${'  ' || `
-// TODO: Review.
-
-Since gatekeepers look for low-status nobodies with one-to-*n* talents, their dream is to *upend* the status hierarchy— which puts them on the cultural *left*. Tastemakers, however, prefer an artist who's *already* gone from zero to one… and thus *already* enjoys higher status as a result. This means they strive to *uphold* the hierarchy— putting them on the *right*! So this is our first step:
-`}
-
-Since gatekeepers look for low-status nobodies with one-to-*n* talents, their dream is to *upend* the status quo— which puts them on the cultural *left*. But tastemakers prefer an artist who's *already* gone from zero to one… and thus *already* enjoys higher status as a result. This means they strive to *uphold* the status quo— putting them on the *right*! So this is our first step:
-
-${'  ' || `
-// TODO: Add paragraph.
-`}
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
