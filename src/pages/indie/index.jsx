@@ -23,10 +23,6 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, respecting direct fan engagement…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. Anyway… just read on, and I'll explain more.
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
@@ -632,10 +628,6 @@ With this being the case, shouldn't we expect "indiefication" to make music… *
 It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same way. But since indie rock *protects* artists from exploitation, it favors those who *empower* themselves instead. For this reason, artists today demand fair compensation; they don't do *anything* that reeks of being exploited— *especially* self-sacrifice.
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [power-seeking](http://archive.today/2022.10.26/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [self-serving](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it ensures that indie rock's structural rules, which promise fair compensation, can *never* be broken.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they leave themselves open to exploitation— and by siding with elitist gatekeepers, they incur the wrath of *middling* artists. But once the art form declines, what's left to protect? So after the Age of Empowerment… comes the Age of Martyrdom.
 

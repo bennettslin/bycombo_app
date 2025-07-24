@@ -27,7 +27,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-**Yes— since rules are made to be followed, those who refuse to hustle can't complain about remaining unknown. But— rule breakers are the ones most likely to make history! So let's be open to giving them amnesty.**
+**Yes— since rules are made to be followed, those who refuse to hustle can't complain about being unknown. But— rule breakers are *also* the ones most likely to make history! So let's be open to giving them amnesty.**
 
 ### The outsider's dilemma
 
@@ -66,10 +66,6 @@ Worst of all, if the major labels are "bad guys," then this makes the indies "go
 ### A hundred *Yearling's Bobtail*s
 
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging artists by the size of their fanbase, its tastemakers end up favoring *content*— namely, art that's optimized to gain fans in the *present*. But content has no *future* chances… and to prove this, we just need time to pass.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Sure enough, the last two decades of rock have had [little impact](https://today.yougov.com/entertainment/articles/36462-best-decade-for-music-americans-poll-data); even Gen Z seems to agree! Which is the first step to winning back our interdependence, since it's only once the *youth* are discontent that budding entrepreneurs will think to disrupt the market; discerning curators will try to save the arts; and future historians will know to explain the mistakes of our past.
 
