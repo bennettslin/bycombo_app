@@ -25,9 +25,23 @@ First, we raise *awareness*. Since "indie" means "good" to so many, few notice t
 
 ${'  ' || `
 // TODO: Review.
-`}
 
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. Anyway… just read on, and I'll explain more.
+`}
+
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around.
+
+${'  ' || `
+// TODO: Review.
+
+Since gatekeepers look for low-status nobodies with one-to-*n* talents, their dream is to *upend* the status hierarchy— which puts them on the cultural *left*. Tastemakers, however, prefer an artist who's *already* gone from zero to one… and thus *already* enjoys higher status as a result. This means they strive to *uphold* the hierarchy— putting them on the *right*! So this is our first step:
+`}
+
+Since gatekeepers look for low-status nobodies with one-to-*n* talents, their dream is to *upend* the status quo— which puts them on the cultural *left*. But tastemakers prefer an artist who's *already* gone from zero to one… and thus *already* enjoys higher status as a result. This means they strive to *uphold* the status quo— putting them on the *right*! So this is our first step:
+
+${'  ' || `
+// TODO: Add paragraph.
+`}
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -411,7 +425,11 @@ But while White men *easily* gain from their identities without admitting to it�
 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of *culture*, it's *I* who sit on the left— and *they*, the right!
 
-So if seeking to gain from one's identity— one's *self*, if you will— is the logical next step once there's no more to be gained from self-*reliance*… then it *too* is an ideal of the right, held mainly by the privileged! Well, what if *your* demand is for greater *inter*-dependence— to be self-*less*, as it were? Then come join BYCombo… and help to revive the cultural left!
+${'  ' || `
+// TODO: Review.
+`}
+
+So if seeking to gain from one's identity— one's *self*, if you will— is the logical next step once there's no more to be gained from self-*reliance*… then it *too* is an ideal of the right, held mainly by the privileged! Well, what if your demand was *never* for wokeness, but for greater *inter*-dependence— to be self-*less*, as it were? Then come join BYCombo… and help to revive the cultural left!
 
 ### ${++sectionCounter}. Penultimate tolerance retracts a lifeline
 
