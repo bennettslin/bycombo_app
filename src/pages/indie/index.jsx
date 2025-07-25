@@ -27,13 +27,13 @@ ${'  ' || `
 // TODO: Revise. Last sentence could still be better.
 `}
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "How does explaining this start a revolution, though?"
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "How does knowing this start a revolution, though?"
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Well, since gatekeepers look for low-status nobodies with one-to-*n* talents, their aim is to up-*end* the status hierarchy— placing them on the cultural *left*. But tastemakers prefer the artist who's *already* gone from zero to one… and thus *already* enjoys higher status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what we'll need to explain:
+Well, since gatekeepers look for low-status nobodies with one-to-*n* talents, their aim is to up-*end* the status hierarchy— placing them on the cultural *left*. But tastemakers prefer the artist who's *already* gone from zero to one… and thus *already* enjoys higher status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
 
 ${'  ' || `
 // TODO: Review a few more times.
