@@ -23,10 +23,6 @@ Except… here's the problem: These tools only offer an advantage over other art
 
 And these tools *aren't* free; they cost time and energy that could be spent making art instead. So if your band hopes to make the *best* art, you won't bother with them— leaving you *worse* off in this new Age of Empowerment! Yet in my experience, few others sympathize. Well, how about a truce?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 **Yes— since rules are made to be followed, those who refuse to hustle can't complain about being unknown. But— rule breakers are *also* the ones most likely to make history! So let's be open to giving them amnesty.**
 
 ### The outsider's dilemma
