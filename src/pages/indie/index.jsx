@@ -24,22 +24,22 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, respecting direct fan engagement…
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Last sentence could still be better.
 `}
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Where's the adverse effect, though?"
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "How does explaining this start a revolution, though?"
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Ah! Since gatekeepers look for low-status nobodies with one-to-*n* talents, their aim is to *upend* the status quo— putting them on the cultural *left*. But tastemakers prefer an artist who's *already* gone from zero to one… and thus *already* enjoys higher status. This means they *uphold* the status quo— which puts them on the *right*! So here's what we'll need to explain:
+Well, since gatekeepers look for low-status nobodies with one-to-*n* talents, their aim is to up-*end* the status hierarchy— placing them on the cultural *left*. But tastemakers prefer the artist who's *already* gone from zero to one… and thus *already* enjoys higher status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what we'll need to explain:
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-**By forcing *all* artists to be indie— or, to get themselves known— Millennials swung hard to the cultural right. To save the arts, then, a counterculture of the left must now rise up to *oppose* every one of indie rock's ideals.**
+**By forcing *all* artists to be indie— or, to get themselves known— Millennials swung hard to the cultural right. To save the arts, then, a counterculture of the left must now rise up in *opposition* to indie rock's ideals.**
 
 From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
