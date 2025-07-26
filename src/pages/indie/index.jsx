@@ -279,7 +279,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To protest against "indiefication," then, interdependent bands can do the opposite, and *readily* advance the art form… knowing this might hurt their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's just no other path. There is one *now*, with BYCombo: the amnesty program for artistic progressives, who share a love of the craft.
+To protest against "indiefication," then, interdependent bands can do the opposite, and *readily* advance the art form… even when this hurts their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's just no other path. There is one *now*, with BYCombo: the amnesty program for artistic progressives like us— who self-sacrifice out of love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
