@@ -619,13 +619,19 @@ Still, since our troubles began when we accepted indiefication and rejected capi
 
 Why is progressivism so badly beaten in both politics and the arts today? It's because indie rock told us all to take down the "system" and its elites— but this only works out for libertarians, who aren't looking to replace the system with any other; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we want.
 
-So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Which means they'll get toppled as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
-
 ${'  ' || `
-// TODO: Revise. Make it more about, the upside-down horseshoe, unity between left and right against the center, only works for breaking, not building.
+// TODO: Review.
 `}
 
+So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Because of this, they'll get toppled as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
+
+${'  ' || `
+// TODO: Keep working on. Left and right want very different things. And then it's a question of which anti-elitists make peace with the elites on their own side first.
+
 But there's good news: With many anti-elitists now having swung from the political left to the right— and few swinging [just as hard](http://archive.today/2023.12.19/https://inthesetimes.com/article/former-left-right-fascism-capitalism-horseshoe-theory#:~:text=Except%20%E2%80%8B%E2%80%9Chorseshoe%20theory%2C%E2%80%9D,in%20one%C2%A0direction.) in reverse— it's no longer far-fetched to say that anti-elitism, at its *core*, is a right-wing stance. Whether in politics or the arts, it's the *right* that's best served by taking down the system; the *left* is better off reforming it from within!
+`}
+
+In other words, the popular model of an "[upside-down horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)"— where anti-elitists on the left align most closely with those on the right— only holds true during the "breaking" phase. Once the "building" phase begins, however…
 
 Which means we progressives will [need to quit](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) "larping" as revolutionaries— that is, to quit equating virtue with *identity*, rather than with *impact*— and learn to build instead, beginning with the very skills needed to analyze our problems and propose solutions. But how? Beyond just knowing our human nature… we must also appreciate systems in all their complexity.
 
