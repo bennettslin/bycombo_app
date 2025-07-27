@@ -239,6 +239,8 @@ Which explains why this century's indie rock doesn't *feel* like a historical er
 
 ${'  ' || `
 // TODO: Consider. Add DOGE paragraph after all? Parallels between indie labels and major labels, and tech companies and government.
+
+Then in previous section's final paragraph, leave out part about the majors.
 `}
 
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
@@ -633,7 +635,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In other words, the popular model of an "[upside-down horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase! But once the "building" phase begins, our one hope as progressives— whether political or artistic— is to *work* with our side's elites.
+In other words, the popular model of an "[upside-down horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase! Once the "building" phase begins, our best chance as progressives— whether political or artistic— is to *work* with our side's elites.
 
 ${'  ' || `
 // TODO: Review, including link.
