@@ -23,13 +23,21 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, respecting direct fan engagement…
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "How does knowing this start a revolution, though?"
+${'  ' || `
+// TODO: Review.
+`}
+
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And knowing this leads to revolution… How?"
 
 Well, since gatekeepers look for low-status nobodies with one-to-*n* talents, their aim is to up-*end* the status hierarchy— placing them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one… and thus *already* enjoys higher status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
 
 **By forcing *all* artists to be indie— or, to get themselves known— Millennials swung hard to the artistic right. To save the arts, then, a counterculture of the left must now rise up in *opposition* to indie rock's ideals.**
 
-From there, we take *action*. Rebelling against centralized institutions is easy, right? We just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
+${'  ' || `
+// TODO: Review.
+`}
+
+From there, we take *action*. Rebelling against centralized institutions is easy, right? You just tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to seek amnesty from interdependent-minded partners.**
 
@@ -261,11 +269,7 @@ But being indie is all about gaining public exposure, and this is a zero-sum gam
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against nationalization by *refusing* to help society advance.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-To protest against "indiefication," then, interdependent bands can do the opposite, and *readily* advance the art form… even when this hurts their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo: the amnesty program for artistic progressives, like us— who self-sacrifice out of love for the craft.
+To protest against "indiefication," then, interdependent bands can do the opposite, and *readily* advance the art form… even when this hurts their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo: the amnesty program for artistic progressives— who self-sacrifice out of love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -499,25 +503,13 @@ This is one theory: Millennials faced boredom only long enough to hate it; then,
 
 Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not *alternative*." Except, today, the generation in question is *Gen Z*— who've only ever faced an [*abundance* of content](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… and would now *love* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. Unity abuses the lone scapegoat
 
 Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each scene is just an "era" to try on— but any threat to the structures that allow for such "larping"… must be fiercely opposed by *all*.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Moreover: "If 99% of us can see that we're really on the *same* side, then you'd best believe the other 1% is *that* awful. Still, we'll beat them on size alone!" So instead of building up courage, Millennials learned to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— but this led political progressives to side with right-wing populists over the left's own elites! And in the arts, the damage was no less severe…
 
 Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos. Except… the former scenario *causes* the latter, doesn't it?!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Look… either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening the indie camp's delusion that artists can— and thus *should*— be united, I became that 1% for the other 99% to beat down… like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
@@ -625,21 +617,13 @@ Still, since our troubles began when we accepted indiefication and rejected capi
 
 Why is progressivism so badly beaten in both politics and the arts today? It's because indie rock told us all to take down the "system" and its elites— but this only works out for libertarians, who aren't looking to replace the system with any other; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we want.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Because of this, they'll get toppled as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-In other words, the popular model of an "[upside-down horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase! Once the "building" phase begins, our best chance as progressives— whether political or artistic— is to *work* with our side's elites.
-
-${'  ' || `
-// TODO: Review, including link.
-`}
+In other words, the popular model of an "[upside-down horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," in which anti-elitists on the left align with those on the right… *only* holds true during the "breaking" phase! Once the "building" phase begins, our best chance as progressives— whether political or artistic— is to *work* with our side's elites.
 
 Which means we'll [need to quit](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) "larping" as revolutionaries— that is, to quit equating virtue with *identity*, rather than with *impact*— and instead, master the skills needed to analyze our problems and propose solutions. But how? Beyond just knowing our human nature… we must also appreciate systems in all their complexity.
 
