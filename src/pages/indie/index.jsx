@@ -521,7 +521,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Thankfully, some of you now agree with me that music has since declined— and you're ready to walk away from indie rock's ideals! But where to? Why, you can come to BYCombo, and stand fiercely *against* this pro-artist unity… knowing that those on the other side are still good people.
+Thankfully, some of you now agree with me that music has since declined— and you're ready to walk away from indie rock's ideals! But where to? Why, you can join BYCombo, and stand fiercely *against* all this pro-artist unity… knowing that those on the other side are still good people.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
