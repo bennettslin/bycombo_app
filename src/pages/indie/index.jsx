@@ -517,7 +517,11 @@ Let's say an indie artist hustles to build a fanbase on their own, thus making t
 
 Look… either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening the indie camp's delusion that artists can— and thus *should*— be united, I became that 1% for the other 99% to beat down… like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
-Thankfully, some of you now agree with me that music has since declined— and you're ready to walk away from indie rock's ideals! But where to? Why, you can come to BYCombo, and stand courageously for being pro-*audience*… knowing that those on the other side are still good people.
+${'  ' || `
+// TODO: Review.
+`}
+
+Thankfully, some of you now agree with me that music has since declined— and you're ready to walk away from indie rock's ideals! But where to? Why, you can come to BYCombo, and stand fiercely *against* this pro-artist unity… knowing that those on the other side are still good people.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
