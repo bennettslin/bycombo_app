@@ -33,7 +33,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-From there, we take *action*. Rebelling against centralized institutions would be easy, right? Just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
+From there, we take *action*. To rebel against centralized institutions would be easy, right? You just tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to seek amnesty from interdependent-minded partners.**
 
@@ -509,10 +509,6 @@ Let's say an indie artist hustles to build a fanbase on their own, thus making t
 
 Look… either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening the indie camp's delusion that artists can— and thus *should*— be united, I became that 1% for the other 99% to beat down… like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Thankfully, some of you now agree with me that music has since declined— and you're ready to walk away from indie rock's ideals! But where to? Why, you can join BYCombo, and stand fiercely *against* all this pro-artist unity… knowing that those on the other side are still good people.
 
 ### ${++sectionCounter}. Music recording is its own medium
@@ -618,10 +614,6 @@ Still, since our troubles began when we accepted indiefication and rejected capi
 Why is progressivism so badly beaten in both politics and the arts today? It's because indie rock told us all to take down the "system" and its elites— but this only works out for libertarians, who aren't looking to replace the system with any other; decentralization is their end goal. We progressives, however, *depend* on centralized institutions to promote the welfare we want.
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Because of this, they'll get toppled as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 In other words, the popular model of an "[upside-down horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase! Once the "building" phase begins, our best chance as progressives— whether political or artistic— is to *work* with our side's elites.
 
