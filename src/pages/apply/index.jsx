@@ -44,10 +44,6 @@ And for your next band project, we want you to set the bar even *higher*! So if 
 
 Of course, we're just getting started, so to thank you for your patience during these early years:
 
-${'  ' || `
-// TODO: Review.
-`}
-
 **The Bobtail Yearlings will invite up to ten bands from our first few cohorts to feature as guest artists on their next project— an album about the life of English biochemist Rosalind Franklin!**
 
 ### On diversity and inclusion

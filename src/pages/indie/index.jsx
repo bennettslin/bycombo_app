@@ -33,7 +33,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-From there, we take *action*. To rebel against centralized institutions would be easy, right? You just tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
+From there, we take *action*. Rebelling against centralized institutions would be easy, right? Just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to seek amnesty from interdependent-minded partners.**
 
@@ -237,6 +237,10 @@ But today, algorithms have turned word of mouth into wisdom of the crowd— whic
 
 So they keep striving to give us the next "[Range Life](https://youtu.be/1VVj1zqbWpU)"— that is, the next song whose context we'll lap up, out of loyalty to the artist who made it— as if this isn't how *all* music works today! Meanwhile, what's rare now is for bands to craft radio-friendly hooks envied by others… yet it's *still* seen as "punching up" to bash them— and even when inspiring envy is *key* to making history!
 
+${'  ' || `
+// TODO: Revise.
+`}
+
 Which explains why this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one. Sadly, with *every* label on a tight budget these days, even the *majors* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) indies now. Still, what if you're here to *actually* make history? Then come join BYCombo… and find a partner with enough bandwidth to change with the times!
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
@@ -245,6 +249,10 @@ ${'  ' || `
 // TODO: Consider. Add DOGE paragraph after all? Parallels between indie labels and major labels, and tech companies and government.
 
 Then in previous section's final paragraph, leave out part about the majors.
+`}
+
+${'  ' || `
+// TODO: Revise.
 `}
 
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
@@ -319,13 +327,17 @@ Social welfare is straightforward, right? After giving us all a fair chance, the
 
 So what *should* artistic welfare look like? Basically, a centralized institution must first cast a wide net, then take from the earnings of a successful few, to subsidize the same opportunities for the next generation of artists. But… this is how the major labels worked in their heyday, no? Promoting welfare in the arts, then, is simply the *smart* move— for any business with a profit motive!
 
-Unfortunately, *all* welfare is fragile: Rather than be grateful to get a chance at all, the unsuccessful tend to resent not being given *more* support… while the successful often assume they'd have done just as well on their own, and thus resent "paying it forward." So libertarians— including the artistic kind found in indie rock— have no trouble turning the people against welfare.
-
 ${'  ' || `
-// TODO: Consider. Make point more explicit about artistic right versus left?
+// TODO: Review.
 `}
 
-Yet others *happily* pay it forward: "Paying more means we [succeeded more](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=So%20thank%20you,They%20deserve%20better.)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo can help you find partners who'll make the smart move once again.
+Unfortunately, *all* welfare is fragile: Rather than be grateful to get a chance at all, the unsuccessful tend to resent not being given *more* support… while the successful often assume they'd have done just as well on their own, and thus resent "paying it forward." So those on the *right*— including the indie camp's artistic libertarians— find it easy to turn the people against welfare.
+
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet others *happily* pay it forward: "Paying more means we [succeeded more](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=So%20thank%20you,They%20deserve%20better.)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo lets you find partners on the artistic *left*, who'll make the smart move once again.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
@@ -513,7 +525,11 @@ Let's say an indie artist hustles to build a fanbase on their own, thus making t
 
 Look… either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening the indie camp's delusion that artists can— and thus *should*— be united, I became that 1% for the other 99% to beat down… like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
-Thankfully, some of you now agree with me that music has since declined— and you're ready to walk away from indie rock's ideals! But where to? Why, you can join BYCombo, and stand fiercely *against* all this pro-artist unity… knowing that those on the other side are still good people.
+${'  ' || `
+// TODO: Review.
+`}
+
+Thankfully, some of you now agree with me that music has since declined… and you're ready to walk away from indie rock's ideal of pro-artist unity! But where to? Why, you can join BYCombo, and stand fiercely for *one* side— that is, the artistic left— knowing that those on the right are still good people.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
