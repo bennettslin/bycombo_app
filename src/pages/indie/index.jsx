@@ -529,7 +529,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Thankfully, some of you now agree with me that music has since declined… and you're ready to walk away from indie rock's ideal of pro-artist unity! But where to? Why, you can join BYCombo, and stand fiercely for *one* side— that is, the artistic left— knowing that those on the right are still good people.
+Thankfully, some of you now agree with me that music has since declined… and you're ready to walk away from indie rock's ideal of pro-artist unity! But where to? Why, you can join BYCombo, and stand fiercely for *one* side— ours being the artistic left— knowing that those on the right are still good people.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
