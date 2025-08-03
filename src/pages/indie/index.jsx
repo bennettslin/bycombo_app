@@ -519,7 +519,11 @@ Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not
 
 Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each scene is just an "era" to try on— but any threat to the structures that allow for such "larping"… must be fiercely opposed by *all*.
 
-Moreover: "If 99% of us can see that we're really on the *same* side, then you'd best believe the other 1% is *that* awful. Still, we'll beat them on size alone!" So instead of building up courage, Millennials learned to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— but this led political progressives to side with right-wing populists over the left's own elites! And in the arts, the damage was no less severe…
+${'  ' || `
+// TODO: Review.
+`}
+
+Moreover: "If 99% of us can see that we're in this together, then you'd best believe the other 1% is *that* awful. Still… we'll beat them on size alone!" So Millennials never learned to disagree; they simply [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— leading political progressives to unite with right-wing populists over the left's own elites! And they apply the same thinking to the arts…
 
 Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos. Except… the former scenario *causes* the latter, doesn't it?!
 
