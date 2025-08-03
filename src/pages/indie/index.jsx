@@ -513,9 +513,11 @@ Back when content was scarce, joining a scene— goth, punk— was a full-time e
 
 ${'  ' || `
 // TODO: Review.
+
+Moreover: "If 99% of us can see that we're really on the *same* side, then you'd best believe the other 1% is *that* awful. Still, we'll beat them on size alone!" So instead of building up courage, Millennials learned to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— but this led political progressives to side with right-wing populists over the left's own elites! And in the arts, the damage was no less severe…
 `}
 
-Furthermore: "If 99% of us can see we're in this together, then you'd better believe the other 1% is *that* awful. Still… we'll beat them on size alone!" So Millennials never learned how to disagree; they just [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— leading political progressives to unite with right-wing populists over the left's own elites! And in the arts, it's the same muddled thinking…
+Furthermore: "If 99% of us can see we're really on the *same* side, then you'd best believe the other 1% is *that* awful. Still, we'll beat them on size alone!" So Millennials never learned to disagree; instead, they [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— leading political progressives to unite with right-wing populists over the left's own elites! And in the arts, it's the same muddled thinking…
 
 ${'  ' || `
 // TODO: Review.
@@ -523,15 +525,7 @@ ${'  ' || `
 
 Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos. Except… the former scenario *causes* the latter, doesn't it? So how are the *labels* to blame?!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Look… either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening their delusion that artists can— and thus *should*— be united, I became that 1% for the other 99% to beat down… like the brutalized child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Thankfully, some of you now *agree* with me that music has since declined… and you'd like to walk away from this delusion of pro-artist unity! But where to? Why, you can join us at BYCombo, and stand fiercely for the artistic *left*… knowing that those on the *right*— the indie camp— are still good people.
 
