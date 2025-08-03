@@ -173,7 +173,11 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 
 For instance, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](https://bobtailyearlings.com/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
 
-In essence: Ignore the critics, or any others who think history making is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of fellow *artists*. So come join BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out the modern world's own Galant era.
+${'  ' || `
+// TODO: Review.
+`}
+
+In essence: Ignore the critics, or any others who think history making is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of fellow *artists*. So join us at BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out the modern world's own Galant era.
 
 ### ${++sectionCounter}. Time is kind to craft, not context
 
@@ -515,7 +519,7 @@ This is one theory: Millennials faced boredom only long enough to hate it; then,
 
 Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not *alternative*." Except, today, the generation in question is *Gen Z*— who've only ever faced an [*abundance* of content](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… and would now *love* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
-### ${++sectionCounter}. Unity abuses the lone scapegoat
+### ${++sectionCounter}. Unity brutalizes the lone scapegoat
 
 Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each scene is just an "era" to try on— but any threat to the structures that allow for such "larping"… must be fiercely opposed by *all*.
 
@@ -523,17 +527,25 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Moreover: "If 99% of us can see that we're in this together, then you'd best believe the other 1% is *that* awful. Still… we'll beat them on size alone!" So Millennials never learned to disagree; they simply [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— leading political progressives to unite with right-wing populists over the left's own elites! And they apply the same thinking to the arts…
-
-Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos. Except… the former scenario *causes* the latter, doesn't it?!
-
-Look… either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening the indie camp's delusion that artists can— and thus *should*— be united, I became that 1% for the other 99% to beat down… like the abused child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
+Furthermore: "If 99% of us can see we're in this together, then you'd better believe the other 1% is *that* awful. Still… we'll beat them on size alone!" So Millennials never learned how to disagree; they just [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— leading political progressives to unite with right-wing populists over the left's own elites! And in the arts, it's the same muddled thinking…
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Thankfully, some of you now agree with me that music has since declined… and you're ready to walk away from indie rock's ideal of pro-artist unity! But where to? Why, you can join BYCombo, and stand fiercely for *one* side— ours being the artistic *left*— knowing that those on the *right* are still good people.
+Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having an existing fanbase. This time the crowd boos. Except… the former scenario *causes* the latter, doesn't it? So how are the labels to blame?!
+
+${'  ' || `
+// TODO: Review.
+`}
+
+Look… either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening their delusion that artists can— and thus *should*— be united, I became that 1% for the other 99% to beat down… like the brutalized child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
+
+${'  ' || `
+// TODO: Review.
+`}
+
+Thankfully, some of you now *agree* with me that music has since declined… and you'd like to walk away from this delusion of pro-artist unity! But where to? Why, you can join us at BYCombo, and stand fiercely for the artistic *left*… knowing that those on the *right*— the indie camp— are still good people.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
@@ -665,7 +677,11 @@ Yet self-empowerment comes with its own set of problems. For one, it's just [pow
 
 If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they leave themselves open to exploitation— and by siding with elitist gatekeepers, they incur the wrath of *middling* artists. But once the art form declines, what's left to protect? So after the Age of Empowerment… comes the Age of Martyrdom.
 
-Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but [serious chunks](https://www.nelsonmandela.org/biography) of their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands doing just that? If so, then come join BYCombo— and help give the next generation a Nirvana of their own!
+${'  ' || `
+// TODO: Review.
+`}
+
+Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but [serious chunks](https://www.nelsonmandela.org/biography) of their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands doing just that? If so, then join us at BYCombo— and help give the next generation a Nirvana of their own!
 
 ### ${++sectionCounter}. Artists want faith in a savior
 
