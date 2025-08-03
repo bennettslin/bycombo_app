@@ -238,10 +238,10 @@ But today, algorithms have turned word of mouth into wisdom of the crowd— whic
 So they keep striving to give us the next "[Range Life](https://youtu.be/1VVj1zqbWpU)"— that is, the next song whose context we'll lap up, out of loyalty to the artist who made it— as if this isn't how *all* music works today! Meanwhile, what's rare now is for bands to craft radio-friendly hooks envied by others… yet it's *still* seen as "punching up" to bash them— and even when inspiring envy is *key* to making history!
 
 ${'  ' || `
-// TODO: Revise.
+// TODO: Review.
 `}
 
-Which explains why this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one. Sadly, with *every* label on a tight budget these days, even the *majors* behave like indies now. Still, what if you're here to *actually* make history? Then come join BYCombo… and find a partner with enough bandwidth to change with the times!
+Which explains why this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one. Still, what if *you're* not in this to larp, but to *actually* make history? Then come join BYCombo… and find a partner with enough bandwidth to change with the times!
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -252,10 +252,10 @@ Then in previous section's final paragraph, leave out part about the majors.
 `}
 
 ${'  ' || `
-// TODO: Revise.
+// TODO: Review.
 `}
 
-To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
+To help artists cut out the middleman, then, the indie camp provides them with tools to do the middleman's job for themselves. Of course… the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
 And here's more absurdity: Whereas artists are loved for doing what we'd all rather do, middlemen are hated for taking on work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman… but a middleman *gets* to be their own artist. So "indiefication" is really the wish of a *middling* artist— who'd otherwise only qualify to *be* a middleman!
 
@@ -337,7 +337,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet others *happily* pay it forward: "Paying more means we [succeeded more](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=So%20thank%20you,They%20deserve%20better.)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo lets you find partners on the artistic *left*, who'll make the smart move once again.
+Yet others *happily* pay it forward: "Paying more means we [succeeded more](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=So%20thank%20you,They%20deserve%20better.)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo lets you find partners on the artistic *left*… who'll make the smart move once again.
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
@@ -529,7 +529,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Thankfully, some of you now agree with me that music has since declined… and you're ready to walk away from indie rock's ideal of pro-artist unity! But where to? Why, you can join BYCombo, and stand fiercely for *one* side— ours being the artistic left— knowing that those on the right are still good people.
+Thankfully, some of you now agree with me that music has since declined… and you're ready to walk away from indie rock's ideal of pro-artist unity! But where to? Why, you can join BYCombo, and stand fiercely for *one* side— ours being the artistic *left*— knowing that those on the *right* are still good people.
 
 ### ${++sectionCounter}. Music recording is its own medium
 
