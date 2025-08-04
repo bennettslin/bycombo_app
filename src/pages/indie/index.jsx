@@ -251,7 +251,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To help artists cut out the middleman, then, the indie camp provides them with tools to do the middleman's job for themselves. Of course… the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
+To help artists cut out the middleman, then, the indie camp provides them with tools to do the middleman's job for themselves. Of course… the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Ha! Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
 And here's more absurdity: Whereas artists are loved for doing what we'd all rather do, middlemen are hated for taking on work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman… but a middleman *gets* to be their own artist. So "indiefication" is really the wish of a *middling* artist— who'd otherwise only qualify to *be* a middleman!
 
@@ -517,7 +517,7 @@ ${'  ' || `
 Moreover: "If 99% of us can see that we're really on the *same* side, then you'd best believe the other 1% is *that* awful. Still, we'll beat them on size alone!" So instead of building up courage, Millennials learned to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— but this led political progressives to side with right-wing populists over the left's own elites! And in the arts, the damage was no less severe…
 `}
 
-Furthermore: "If 99% of us can see we're really on the *same* side, then you'd best believe the other 1% is *that* awful. Still, we'll beat them on size alone!" So Millennials never learned to disagree; instead, they [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— leading political progressives to unite with right-wing populists over the left's own elites! And in the arts, it's the same muddled thinking…
+Furthermore: "If 99% of us can see we're really on the *same* side, then you'd best believe the other 1% is *that* awful. Still, we'll beat them on size alone!" So Millennials never learned how to disagree; they just [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— leading political progressives to unite with right-wing populists against the left's elites! And in the arts, it's the same muddled thinking…
 
 ${'  ' || `
 // TODO: Review.
