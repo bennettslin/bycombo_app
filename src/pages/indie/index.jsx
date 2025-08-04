@@ -330,10 +330,10 @@ Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12
 So I took a coding bootcamp, and for [seven years](https://bobtail.substack.com/p/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
 
 ${'  ' || `
-// TODO: Revise.
+// TODO: Review.
 `}
 
-Except… now it made sense why, unlike [past movements](https://youtu.be/pHCdS7O248g) with underground roots, indie rock *doesn't* help those of low status to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already put in the hustle will want to keep music as it is— in its currently broken state.
+Except… now it made sense why, unlike [past movements](https://youtu.be/pHCdS7O248g) with underground roots, indie rock *doesn't* help those of low status to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already paid them will try to keep the culture as it is— no matter how broken its current state.
 
 Moreover, once someone has wasted their best years striving for symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are those willing to waste even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
@@ -408,10 +408,10 @@ Still… what if *your* dream is to make "windfall art," which *requires* you to
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
 ${'  ' || `
-// TODO: Revise.
+// TODO: Review.
 `}
 
-Indie rock's ideals are based on *ethics*, not *aesthetics*— and ethics transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce, "Artists, as your own best advocate, you'll now be judged by how far you get on your *own*, without the help of a partner. The playing field is finally level!"
+Indie rock's ideals are based on *ethics*, not *aesthetics*— and ethics transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we take a time machine back to the '50s and announce, "Artists, as your own best advocate, you'll now be judged on self-reliance— that is, on how far you get on your *own*, without a partner's help. The playing field is finally level!"
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
