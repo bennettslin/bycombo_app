@@ -27,7 +27,13 @@ And… of course: replacing elitist gatekeepers with indie tastemakers! What's t
 
 Well, since gatekeepers look for low-status nobodies with one-to-*n* talents, their aim is to up-*end* the status hierarchy— placing them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one… and thus *already* enjoys higher status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
 
+${'  ' || `
+// TODO: Review.
+
 **By forcing *all* artists to be indie— or, to get themselves known— Millennials swung hard to the artistic right. To save the arts, then, a counterculture of the left must now rise up in *opposition* to indie rock's ideals.**
+`}
+
+**By forcing *all* artists to be indie— which is to say, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
 From there, we take *action*. Rebelling against centralized institutions would be easy, right? Just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
@@ -47,7 +53,11 @@ Unfortunately, good guys will insist that *their* rules mustn't be broken; their
 
 **Why the historical canon?**
 
-When fans support an artist, they want art that engages with them directly— which is to say, *content*. But while content wins out in the present over *past* art, it loses once its *own* time has passed. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
+${'  ' || `
+// TODO: Review.
+`}
+
+When fans support an artist, they want art that engages with them directly— in other words, *content*. But while content wins out in the present over *past* art, it loses once its *own* time has passed. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
 
 **Why bands?**
 
@@ -61,7 +71,11 @@ Or— suppose the next Kurt Cobain is a minority woman who's struggling to attra
 
 **Why partners?**
 
-To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they *also* stay weak in matters of business, like marketing and distribution. In other words, history makers *need* to work with a label— or some other business partner!— and a quick glance through the historical canon bears this out.
+${'  ' || `
+// TODO: Review.
+`}
+
+To make history, a band must be exceptionally strong in the ways of art. But this isn't humanly possible unless they *also* stay weak in matters of business, like marketing and distribution. To put it another way, history makers *need* to work with a label— or some other business partner!— and a quick glance through the historical canon bears this out.
 
 **Why interdependence?**
 
