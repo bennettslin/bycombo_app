@@ -25,7 +25,11 @@ First, we raise *awareness*. Since "indie" means "good" to so many, few notice t
 
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from zero to one"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And knowing this leads to revolution… How?"
 
-Well, since gatekeepers look for low-status nobodies with one-to-*n* talents, their aim is to up-*end* the status hierarchy— placing them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one… and thus *already* enjoys higher status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
+${'  ' || `
+// TODO: Review.
+`}
+
+Well, since gatekeepers look for low-status no-names with one-to-*n* talents, their aim is to up-*end* the status hierarchy— placing them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one… and thus *already* enjoys higher status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
 
 ${'  ' || `
 // TODO: Review.
