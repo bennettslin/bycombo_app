@@ -169,7 +169,11 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 
 For instance, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](https://bobtailyearlings.com/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
 
-In essence: Ignore the critics, or any others who think history making is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of fellow *artists*. So join us at BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out the modern world's own Galant era.
+${'  ' || `
+// TODO: Review.
+`}
+
+In essence: Ignore the critics, or any others who think history making is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of fellow *artists*. So join us at BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out this century's own Galant era.
 
 ### ${++sectionCounter}. Time is kind to craft, not context
 
@@ -323,7 +327,7 @@ ${'  ' || `
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a "pickup artist" would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of "negging" by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.) out of their fans?
 `}
 
-Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Sure, following the playbook can *get* you those fans— or dates!— but isn't it more rewarding to *deserve* them? And now that the public has grown wise to being "negged," won't they *also* wise up to, let's say, being milked by indie artists for [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.)?
+Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Sure, following the playbook will *get* you those fans— or dates!— but isn't it more rewarding to *deserve* them? And now that the public has grown wise to being "negged," won't they *also* wise up to, let's say, being milked by indie artists for [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.)?
 
 ${'  ' || `
 // TODO: Review.
