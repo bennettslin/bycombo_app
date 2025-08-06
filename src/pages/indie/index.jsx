@@ -303,6 +303,10 @@ From there, we admit that the silent majority only want the *best* artists— an
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
+${'  ' || `
+// TODO: Review whole section for coherence.
+`}
+
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all tastemakers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
 ${'  ' || `
@@ -319,7 +323,7 @@ ${'  ' || `
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a "pickup artist" would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of "negging" by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.) out of their fans?
 `}
 
-Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt awful… like being a "pickup artist." Because, sure, the playbook *can* get you those fans— or dates!— but isn't it more rewarding to *deserve* them? Besides, if the public has grown wise by now to being "negged," wouldn't they eventually wise up to, let's say, being milked by artists for [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.)?
+Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Sure, following the playbook can *get* you those fans— or dates!— but isn't it more rewarding to *deserve* them? And now that the public has grown wise to being "negged," won't they *also* wise up to, let's say, being milked by artists for [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.)?
 
 ${'  ' || `
 // TODO: Review.
