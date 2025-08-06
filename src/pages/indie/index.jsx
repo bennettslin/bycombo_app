@@ -310,7 +310,7 @@ ${'  ' || `
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all tastemakers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
 ${'  ' || `
-// TODO: Review..
+// TODO: Review.
 
 In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a stellar demo— even one with no fanbase, like Nick. But indie rock's rule is for artists to get themselves known, whether or not they deserve to be. Because of this, the notion is now vulgar that those who don't hustle could ever be *made* known… simply by deserving to be.
 `}
@@ -323,7 +323,7 @@ ${'  ' || `
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a "pickup artist" would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of "negging" by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.) out of their fans?
 `}
 
-Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Sure, following the playbook can *get* you those fans— or dates!— but isn't it more rewarding to *deserve* them? And now that the public has grown wise to being "negged," won't they *also* wise up to, let's say, being milked by artists for [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.)?
+Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Sure, following the playbook can *get* you those fans— or dates!— but isn't it more rewarding to *deserve* them? And now that the public has grown wise to being "negged," won't they *also* wise up to, let's say, being milked by indie artists for [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.)?
 
 ${'  ' || `
 // TODO: Review.
@@ -684,14 +684,20 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who already does the middleman's job? What fan *wouldn't* prefer the one who engages with them by asking for [free labor](https://en.wikipedia.org/wiki/Ben_Franklin_effect)? And what critic *wouldn't* prefer the one whose well-constructed "lore" offers so much context to discuss?
 
 ${'  ' || `
-// TODO: Revise. Make clear it's about hustling as a no-name.
-`}
+// TODO: Review.
 
 Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
+`}
+
+Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. Interdependent bands, however, play to their strengths by having *partners* cover their weaknesses— which lets them put 20% effort into getting 80% results, over and over. Well, added up… that's *400%* results!
 
-Let's call this the "4x law of interdependence," then: By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Which checks out: Among interdependent bands, the greatest *ever* is the Beatles, who are *certainly* four times better than whomever the indie camp has to offer!
+${'  ' || `
+// TODO: Review.
+`}
+
+Let's call this the "4x law of interdependence," then: By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Which checks out: Among interdependent bands, the greatest *ever* is the Beatles, who are *at least* four times better than whomever the indie camp has to offer!
 
 So now, what potential partner *wouldn't* prefer a BYCombo band such as yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful route from interdependence… to interdependence."
 `,
