@@ -169,10 +169,6 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 
 For instance, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](https://bobtailyearlings.com/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In essence: Ignore the critics, or any others who think history making is a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, works, and courage inspire the envy of fellow *artists*. So join us at BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out this century's own Galant era.
 
 ### ${++sectionCounter}. Time is kind to craft, not context
@@ -236,10 +232,6 @@ Of course, these instincts made sense in the '80s, when underground bands would 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out all extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world.
 
 So they keep striving to give us the next "[Range Life](https://youtu.be/1VVj1zqbWpU)"— that is, the next song whose context we'll lap up, out of loyalty to the artist who made it— as if this isn't how *all* music works today! Meanwhile, what's rare now is for bands to craft radio-friendly hooks envied by others… yet it's *still* seen as "punching up" to bash them— and even when inspiring envy is *key* to making history!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Which explains why this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one. Still, what if *you* aren't here to larp, but to *genuinely* make history? Then come join BYCombo… and find a partner with enough bandwidth to change with the times!
 
@@ -313,12 +305,6 @@ ${'  ' || `
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they simply judged his works. So there's a lesson here for all tastemakers: To discover artists that future audiences will want to *re*-discover, just… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-${'  ' || `
-// TODO: Review.
-
-In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a stellar demo— even one with no fanbase, like Nick. But indie rock's rule is for artists to get themselves known, whether or not they deserve to be. Because of this, the notion is now vulgar that those who don't hustle could ever be *made* known… simply by deserving to be.
-`}
-
 In the past, the major labels did just that: Their talent scouts would sign any artist on the strength of a stellar demo— even one with no fanbase, like Nick. Yet indie rock tells *every* artist to be indie— that is, to get themselves known, whether or not they deserve to be. As a result, the notion is now vulgar that those who don't hustle could ever be *made* known… just by deserving to be.
 
 ${'  ' || `
@@ -327,13 +313,7 @@ ${'  ' || `
 Let's imagine, though, that you *refuse* to hustle; you've tried it before, and it feels awful— like being a "pickup artist" would. Because, sure, such cynical ploys *can* work… but *should* they? We've all heard of "negging" by now, and pretty much everyone hates the idea. In which case, why wouldn't society come to feel the same about artists milking [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.) out of their fans?
 `}
 
-Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Sure, following the playbook will *get* you those fans— or dates!— but isn't it more rewarding to *deserve* them? And now that the public has grown wise to being "negged," won't they *also* wise up to, let's say, being milked by indie artists for [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.)?
-
-${'  ' || `
-// TODO: Review.
-
-So instead, you build yourself up to be what a future audience— or dating prospect!— *would* want, based on theories that you revise and refine over time. Which… is also more fun and rewarding for *you*, right? Yet from what I've seen, the indie tastemakers will never "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
-`}
+Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Sure, following the playbook will *get* you those fans— or dates!— but isn't it more rewarding to simply *deserve* them? And now that the public has grown wise to being "negged," won't they *also* wise up to, let's say, being milked by indie artists for [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.)?
 
 So instead, you build yourself up to be what a future audience— or dating prospect!— *would* want, based on theories that you revise and refine over time. Which… is also more fun for *you*, right? Yet from what I've seen, the indie tastemakers will never "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
 
@@ -687,19 +667,9 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who already does the middleman's job? What fan *wouldn't* prefer the one who engages with them by asking for [free labor](https://en.wikipedia.org/wiki/Ben_Franklin_effect)? And what critic *wouldn't* prefer the one whose well-constructed "lore" offers so much context to discuss?
 
-${'  ' || `
-// TODO: Review.
-
-Meanwhile, since interdependent bands refuse to hustle, they can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
-`}
-
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. Interdependent bands, however, play to their strengths by having *partners* cover their weaknesses— which lets them put 20% effort into getting 80% results, over and over. Well, added up… that's *400%* results!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Let's call this the "4x law of interdependence," then: By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Which checks out: Among interdependent bands, the greatest *ever* is the Beatles, who are *at least* four times better than whomever the indie camp has to offer!
 
