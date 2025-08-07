@@ -180,10 +180,10 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— now online— want direct engagement from the artist; so both, in their own way, are drawn more to a well-constructed *persona* than a well-crafted *hook*.
 
 ${'  ' || `
-// TODO: Add link to Range Life explanation video for "backstory and lore."
+// TODO: Review link and link removal.
 `}
 
-Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp [simply jeered](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.): "Well, well, well… it looks like backstory and lore win out over melodies and chords!"
+Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… it looks like [backstory and lore](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins/) win out over melodies and chords!"
 
 Yet the past artists we love most *don't* require us to dive into any surrounding "lore," do they? History, then… is like radio! So don't get complacent in this online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
 
@@ -191,11 +191,19 @@ Yet the past artists we love most *don't* require us to dive into any surroundin
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the world's handwringing in preparation for Y2K.
 
-But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Music history is just whatever happens!" As a result, they [were proud](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) to see *anything* happen, and never wondered what could've happened *instead*, had they held out for better works. Still… why didn't more artists try to *show* them how much better a work can be?
+${'  ' || `
+// TODO: Review.
+`}
+
+But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Whatever happens is what history will remember!" As a result, they [were thrilled](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) to see *anything* happen… and never wondered what could've happened *instead*, had they held out for better works. Still, why didn't more artists try to *show* them how much better a work can be?
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
-It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Today? Pick this option, and you'll have *no* fans— making you the biggest loser, in the indie camp's view. Yet… indie rock didn't exactly *win*, did it? So music history *isn't* just "whatever happened"! Luckily, with BYCombo, Gen Z can now hold out for your works.
+${'  ' || `
+// TODO: Review.
+`}
+
+It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Today? Pick this option, and you'll have *no* fans— making you the biggest loser, in the indie camp's view. And yet… indie rock didn't exactly *win*, did it? So history *isn't* just "whatever happened"! Luckily, with BYCombo, Gen Z can now hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
