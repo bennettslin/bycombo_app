@@ -177,13 +177,17 @@ To get radio airplay in the '90s, alternative bands had to win over listeners wh
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best melodies and chords come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point; they just don't value music as a *craft* to begin with!
 
-After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— now online— want direct engagement from the artist; so both, in their own way, are drawn more to a well-constructed *persona* than a well-crafted *hook*.
-
 ${'  ' || `
-// TODO: Review link and link removal.
+// TODO: Review link placement.
 `}
 
-Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… it looks like [backstory and lore](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins/) win out over melodies and chords!"
+After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want context](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins/) that can be discussed at length, while local fans— now online— want direct engagement from the artist; so both, in their own way, are drawn more to a well-constructed *persona* than a well-crafted *hook*.
+
+${'  ' || `
+// TODO: Review link placement.
+`}
+
+Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* [these bands](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.), the indie camp simply jeered: "Well, well, well… it looks like backstory and lore win out over melodies and chords!"
 
 Yet the past artists we love most *don't* require us to dive into any surrounding "lore," do they? History, then… is like radio! So don't get complacent in this online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
 
@@ -244,22 +248,20 @@ Of course, these instincts made sense in the '80s, when underground bands would 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out all extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world.
 
 ${'  ' || `
-// TODO: Revise. Consider removing this paragraph. Make flow between this and next section better. Maybe put DOGE here instead?
-`}
+// TODO: Add paragraph. Put back redundancy of middlemen. Parallels between indie labels and major labels, and DOGE and government.
 
-So they keep striving to give us the next "[Range Life](https://youtu.be/1VVj1zqbWpU)"— that is, the next song whose context we'll lap up, out of loyalty to the artist who made it— as if this isn't how *all* music works today! Meanwhile, what's rare now is for bands to craft radio-friendly hooks envied by others… yet it's *still* seen as "punching up" to bash them— and even when inspiring envy is *key* to making history!
+Then see if flow between this and next section can be better.
+`}
 
 Which explains why this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one. Still, what if *you* aren't here to larp, but to *genuinely* make history? Then come join BYCombo… and find a partner with enough bandwidth to change with the times!
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
 ${'  ' || `
-// TODO: Consider. Add DOGE paragraph after all? Parallels between indie labels and major labels, and tech companies and government.
-
-Then in previous section's final paragraph, leave out part about the majors.
+// TODO: Review.
 `}
 
-To help artists cut out the middleman, then, the indie camp provides them with tools to do the middleman's job for themselves. Of course… the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Ha! Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
+To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
 And here's more absurdity: Whereas artists are loved for doing what we'd all rather do, middlemen are hated for taking on work that few others enjoy. In this new hybrid role, then, an artist *has* to be their own middleman… but a middleman *gets* to be their own artist. So "indiefication" is really the wish of a *middling* artist— who'd otherwise only qualify to *be* a middleman!
 
