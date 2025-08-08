@@ -177,15 +177,7 @@ To get radio airplay in the '90s, alternative bands had to win over listeners wh
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best melodies and chords come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point; they just don't value music as a *craft* to begin with!
 
-${'  ' || `
-// TODO: Review link placement.
-`}
-
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want context](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins/) that can be discussed at length, while local fans— now online— want direct engagement from the artist; so both, in their own way, are drawn more to a well-constructed *persona* than a well-crafted *hook*.
-
-${'  ' || `
-// TODO: Review link placement.
-`}
 
 Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* [these bands](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.), the indie camp simply jeered: "Well, well, well… it looks like backstory and lore win out over melodies and chords!"
 
@@ -195,17 +187,9 @@ Yet the past artists we love most *don't* require us to dive into any surroundin
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the world's handwringing in preparation for Y2K.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Whatever happens is what history will remember!" As a result, they [were thrilled](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) to see *anything* happen… and never wondered what could've happened *instead*, had they held out for better works. Still, why didn't more artists try to *show* them how much better a work can be?
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Today? Pick this option, and you'll have *no* fans— making you the biggest loser, in the indie camp's view. And yet… indie rock didn't exactly *win*, did it? So history *isn't* just "whatever happened"! Luckily, with BYCombo, Gen Z can now hold out for your works.
 
@@ -256,10 +240,6 @@ Then see if flow between this and next section can be better.
 Which explains why this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one. Still, what if *you* aren't here to larp, but to *genuinely* make history? Then come join BYCombo… and find a partner with enough bandwidth to change with the times!
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To help artists cut out the middleman, indie rock provides them with tools to do the middleman's job for themselves. Of course, the "Bizarro" way would be to empower *middlemen* to do the *artist's* job. Absurd, right? Yet the outcome would be exactly the same, with each person now doing the job of both artist *and* middleman. So indie rock… is its own Bizarro world!
 
@@ -317,27 +297,15 @@ From there, we admit that the silent majority only want the *best* artists— an
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they judged his works! So there's a lesson here for all tastemakers: To discover an artist that future audiences will want to *re*-discover, simply… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-In the past, the major labels did just that: Their talent scouts would sign *any* artist on the strength of a stellar demo— even one with no fanbase, like Nick. Yet indie rock forces *every* artist to get themselves known… effectively saying they *each* deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could ever be *made* known— simply by deserving to be!
-
-${'  ' || `
-// TODO: Review.
-`}
+In the past, the major labels did just that: Their talent scouts would sign *any* artist on the strength of a stellar demo— even one with no fanbase, like Nick. Yet indie rock tells *every* artist to get themselves known… essentially saying they *all* deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could ever be *made* known— simply by deserving to be!
 
 Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Because, sure, it's a proven way to get fans— or dates!— but does society *want* this to be the case? Besides, most of us have now grown wise to being "negged"; sooner or later, then, won't we *also* wise up to, let's say, artists milking us for [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.)?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So instead, you build yourself up into what a future audience— or romantic partner!— *would* want you to be, based on theories that you revise and refine over time. Which is also more fun and fulfilling for *you*, right? Yet from what I've seen… the indie tastemakers will never "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
 
