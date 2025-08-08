@@ -321,13 +321,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they judged his works. So there's a lesson here for all tastemakers: To discover an artist that future audiences will want to *re*-discover, simply… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
+Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they judged his works! So there's a lesson here for all tastemakers: To discover an artist that future audiences will want to *re*-discover, simply… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-In the past, the major labels did just that: Their talent scouts would sign *any* artist on the strength of a stellar demo— even one with no fanbase, like Nick. Yet indie rock forces *every* artist to get themselves known— effectively saying they each deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could ever be *made* known… simply by deserving to be!
+In the past, the major labels did just that: Their talent scouts would sign *any* artist on the strength of a stellar demo— even one with no fanbase, like Nick. Yet indie rock forces *every* artist to get themselves known… effectively saying they *each* deserve to be. Because of this, the notion is now vulgar that anyone who doesn't hustle could ever be *made* known— simply by deserving to be!
 
 ${'  ' || `
 // TODO: Review.
