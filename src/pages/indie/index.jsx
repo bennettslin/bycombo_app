@@ -232,12 +232,20 @@ Of course, these instincts made sense in the '80s, when underground bands would 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out all extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world.
 
 ${'  ' || `
-// TODO: Add paragraph. Put back redundancy of middlemen. Parallels between indie labels and major labels, and DOGE and government.
+// TODO: Revise.
 
 Then see if flow between this and next section can be better.
 `}
 
+So yes, middlemen might seem redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! To make matters worse, the indies want *every* label to be at peak efficiency like they are. For this reason, they cheered once the tech platforms came along to disrupt the majors— just like those in tech did when DOGE remade the government into a [lean startup](https://en.wikipedia.org/wiki/Lean_startup).
+
+${'  ' || `
+// TODO: Revise.
+
 Which explains why this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one. Still, what if *you* aren't here to larp, but to *genuinely* make history? Then come join BYCombo… and find a partner with enough bandwidth to change with the times!
+`}
+
+Which is why *nothing* this century *feels* like an era-defining movement, so much as a "larp"— or, live-action role-play— of one. Still, what if *you* aren't here to larp, but to *genuinely* make history? Then come join BYCombo… and find a partner with enough bandwidth to change with the times!
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
