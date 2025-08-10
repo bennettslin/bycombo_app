@@ -232,18 +232,12 @@ Of course, these instincts made sense in the '80s, when underground bands would 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out all extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise next two paragraphs? Flow of ideas still feels broken.
 `}
 
-So yes, middlemen might seem redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Sadly, in aiming for peak efficiency, the indies think all others, including major labels, can do the same. Thus they cheered when the tech platforms came along to optimize the arts— just like many did when DOGE remade the nation into a [lean startup](https://en.wikipedia.org/wiki/Lean_startup).
+So yes, middlemen might *seem* redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Sadly, in aiming for peak efficiency, the indies assume that all others can— and thus *should*— do the same. Naturally, then, they cheered when those in tech arrived to optimize the arts— just like many did when DOGE remade the government into a tech startup…
 
-${'  ' || `
-// TODO: Revise.
-
-Which explains why this century's indie rock doesn't *feel* like a historical era, so much as a "larp"— or, live-action role-play— of one. Still, what if *you* aren't here to larp, but to *genuinely* make history? Then come join BYCombo… and find a partner with enough bandwidth to change with the times!
-`}
-
-Which is why *nothing* this century *feels* like an era-defining movement, so much as a "larp"— or, live-action role-play— of one. Still, what if *you* aren't here to larp, but to *genuinely* make history? Then come join BYCombo… and find a partner with enough bandwidth to change with the times!
+And now, *all* of us are overworked and underpaid, even major labels! Which is why *nothing* this century feels like an era-defining movement, so much as a "larp"— that is, a live-action role-play— of one. Still, what if *you* aren't here to larp, but to *genuinely* make history? Then come join BYCombo… and find a partner with enough bandwidth to keep up with the times!
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -328,10 +322,6 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](http
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being a low-status nobody, I needed others to help *me* first. Yet no one did…
 
 So I took a coding bootcamp, and for [seven years](https://bobtail.substack.com/p/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying our dues"— to justify, for instance, touring at a loss. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Except… now it made sense why, unlike [past movements](https://youtu.be/pHCdS7O248g) with underground roots, indie rock *doesn't* help those of low status to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already paid them will insist on keeping that culture as it is— no matter how broken it's become.
 
