@@ -232,12 +232,10 @@ Of course, these instincts made sense in the '80s, when underground bands would 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out all extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world.
 
 ${'  ' || `
-// TODO: Revise.
-
-Then see if flow between this and next section can be better.
+// TODO: Review.
 `}
 
-So yes, middlemen might seem redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! To make matters worse, the indies want *every* label to be at peak efficiency like they are. For this reason, they cheered once the tech platforms came along to disrupt the majors— just like those in tech did when DOGE remade the government into a [lean startup](https://en.wikipedia.org/wiki/Lean_startup).
+So yes, middlemen might seem redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Sadly, in aiming for peak efficiency, the indies think all others, including major labels, can do the same. Thus they cheered when the tech platforms came along to optimize the arts— just like many did when DOGE remade the government into a [lean startup](https://en.wikipedia.org/wiki/Lean_startup).
 
 ${'  ' || `
 // TODO: Revise.
@@ -335,7 +333,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Except… now it made sense why, unlike [past movements](https://youtu.be/pHCdS7O248g) with underground roots, indie rock *doesn't* help those of low status to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already paid them will insist on keeping that culture as it is— no matter how broken it's come to be.
+Except… now it made sense why, unlike [past movements](https://youtu.be/pHCdS7O248g) with underground roots, indie rock *doesn't* help those of low status to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* anyone who's already paid them will insist on keeping that culture as it is— no matter how broken it's become.
 
 Moreover, once someone has wasted their best years striving for symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are those willing to waste even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
