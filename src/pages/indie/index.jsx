@@ -235,13 +235,17 @@ ${'  ' || `
 // TODO: Review.
 
 So yes, middlemen might *seem* redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Sadly, in aiming for peak efficiency, the indies assume that all others can— and thus *should*— do the same. Naturally, then, they cheered when those in tech arrived to optimize the arts— just like many did when DOGE remade the government into a tech startup…
+`}
+
+Worse, the indie camp assumes that *every* label can— and thus should— aim for peak efficiency as well. Naturally, then, when the tech platforms offered to optimize the arts, they were greeted with the same cheer as when DOGE promised to optimize the government. Now even the *majors* are overworked and underpaid— and thus averse to taking risks!
+
+${'  ' || `
+// TODO: Revise. Make it more about being generous to your partner.
 
 And now, *all* of us are overworked and underpaid, even major labels! Which is why *nothing* this century feels like an era-defining movement, so much as a "larp"— that is, a live-action role-play— of one. Still, what if *you* aren't here to larp, but to *genuinely* make history? Then come join BYCombo… and find a partner with enough bandwidth to keep up with the times!
 `}
 
-To make matters worse, in aiming for peak efficiency, the indies assume that *any* label can— and thus should— do the same. Naturally, then, they cheered when the tech platforms came along to optimize the arts… just like many did when DOGE remade the government into a startup. Now even the *majors* are overworked and underpaid— with no bandwidth to spare!
-
-This is why our century feels less like a historical era, and more like a "larp"— or, live-action role-play— of one. So yes, middlemen might *seem* redundant… but redundancy keeps a [system resilient](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Well, what if *you* aren't here to larp, but to *truly* make history? Then come join BYCombo— and find a partner with enough bandwidth to update their instincts!
+This is why our century feels less like a historical era, and more like a "larp"— or, live-action role-play— of one. So yes, middlemen might *seem* redundant… but redundancy keeps a [system resilient](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Well, what if *you* aren't here to larp, but to *truly* make history? Then come join BYCombo— and find a partner with enough bandwidth to keep up with the times!
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
