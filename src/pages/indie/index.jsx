@@ -237,7 +237,7 @@ ${'  ' || `
 So yes, middlemen might *seem* redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Sadly, in aiming for peak efficiency, the indies assume that all others can— and thus *should*— do the same. Naturally, then, they cheered when those in tech arrived to optimize the arts— just like many did when DOGE remade the government into a tech startup…
 `}
 
-Worse, the indie camp assumes that *every* label can— and thus should— aim for peak efficiency as well. Naturally, then, when the tech platforms offered to optimize the arts, they were greeted with the same cheer as when DOGE promised to optimize the government. Now even the *majors* are overworked and underpaid— and thus averse to taking risks!
+Worse still, it's now assumed that *every* label can— and thus should— aim for lean efficiency as well. Naturally, then, when the tech platforms promised to optimize the arts, the indie camp cheered… much like the political right did for DOGE's promise to optimize the government. As a result, even the *majors* today are overworked and underpaid— and thus averse to taking risks!
 
 ${'  ' || `
 // TODO: Revise. Make it more about being generous to your partner.
