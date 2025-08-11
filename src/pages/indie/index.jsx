@@ -227,7 +227,11 @@ In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the co
 
 Consequently, it's often those with the [*least* experience](https://youtu.be/AClN5X0eEvI) in a given genre who end up backing its canonical works: By *not* knowing what the people want, they *can't* be led astray! Let's face it: The best partners take pride in doing good *business*— not in knowing great *art*. Now with BYCombo, you can find one to back you once again.
 
-### ${++sectionCounter}. Limited bandwidth fails to adapt
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Lean operations fail to adapt
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— and this is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. Then, to conserve "bandwidth," they simply follow the instincts handed down by their forebears… just like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
@@ -241,7 +245,7 @@ ${'  ' || `
 So yes, middlemen might *seem* redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Sadly, in aiming for peak efficiency, the indies assume that all others can— and thus *should*— do the same. Naturally, then, they cheered when those in tech arrived to optimize the arts— just like many did when DOGE remade the government into a tech startup…
 `}
 
-Worse still, it's now assumed that *every* label can— and thus should— aim for lean efficiency as well. Naturally, then, when the tech platforms promised to optimize the arts, the indie camp cheered… much like the political right did for DOGE's promise to optimize the government. As a result, even the *majors* today are overworked and underpaid— and thus averse to taking risks!
+Worse still, it's now assumed that *every* label can— and thus should— aim for lean efficiency as well. Naturally, then, when the tech platforms promised to optimize the arts, the indie camp cheered… much like the political right did when DOGE promised to optimize the government. As a result, even today's *majors* are too overworked and underpaid to take risks!
 
 ${'  ' || `
 // TODO: Revise. Make it more about being generous to your partner.
