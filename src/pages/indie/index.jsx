@@ -11,7 +11,7 @@ const Component = ({ sectionCounter = 0 }) => (
             title: TITLE,
             metaTitle: TITLE,
             metaDescription: DESCRIPTION,
-            date: { year: 2025, month: 7 },
+            date: { year: 2025, month: 8 },
             body: `
 By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. The indie labels held to fair practices, however, by only signing artists who *already* had a fanbase and thus *didn't* need a label. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
@@ -185,7 +185,11 @@ Yet the past artists we love most *don't* require us to dive into any surroundin
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
-Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the world's handwringing in preparation for Y2K.
+${'  ' || `
+// TODO: Review.
+`}
+
+Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster… much like the world's handwringing in preparation for Y2K.
 
 But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Whatever happens is what history will remember!" As a result, they [were thrilled](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) to see *anything* happen… and never wondered what could've happened *instead*, had they held out for better works. Still, why didn't more artists try to *show* them how much better a work can be?
 
