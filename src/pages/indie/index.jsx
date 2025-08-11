@@ -248,12 +248,14 @@ So yes, middlemen might *seem* redundant… but redundancy keeps a system resili
 Worse still, it's now assumed that *every* label can— and thus should— aim for lean efficiency as well. Naturally, then, when the tech platforms promised to optimize the arts, the indie camp cheered… much like the political right did when DOGE promised to optimize the government. As a result, even today's *majors* are too overworked and underpaid to take risks!
 
 ${'  ' || `
-// TODO: Revise. Make it more about being generous to your partner.
+// TODO: Revise.
 
 And now, *all* of us are overworked and underpaid, even major labels! Which is why *nothing* this century feels like an era-defining movement, so much as a "larp"— that is, a live-action role-play— of one. Still, what if *you* aren't here to larp, but to *genuinely* make history? Then come join BYCombo… and find a partner with enough bandwidth to keep up with the times!
+
+This is why our century feels less like a historical era, and more like a "larp"— or, live-action role-play— of one. 
 `}
 
-This is why our century feels less like a historical era, and more like a "larp"— or, live-action role-play— of one. So yes, middlemen might *seem* redundant… but redundancy keeps a [system resilient](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.), allowing it to adapt! Well, what if *you* aren't here to larp, but to *truly* make history? Then come join BYCombo— and find a partner with enough bandwidth to keep up with the times!
+So yes, middlemen might *seem* redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! : How else will you find partners with enough bandwidth to keep up with the times?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -361,7 +363,11 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 "Who could've foreseen all the drawbacks of propagating indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Rappers get this, which is why they rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
 
-Yet in spite of the poor fit, indie rock sure is eager lately to hand us the reins! Why is this? Because, after years of "larping" as an era-defining movement— despite being no better than a foreign canon— it's in *decline*… and desperate to regain cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)."
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet in spite of the poor fit, indie rock sure is eager lately to hand us the reins! Why is this? Because, after years of "larping," or live-action role-playing, as an era-defining movement— despite being no better than a foreign canon— it's in *decline*… and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)."
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like us— and specifically, the *hungriest*.
 
