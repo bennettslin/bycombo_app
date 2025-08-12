@@ -243,7 +243,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Worse still, it's now assumed that *everyone* can— and thus should— aim for lean efficiency as well. Naturally, then, when the tech platforms promised to optimize the arts, the indie camp cheered… much like the political right did when DOGE promised to optimize the government. As a result, even today's *major* labels are too overworked and underpaid to take any risks!
+Worse still, it's now assumed that *every* label can— and thus should— aim for lean efficiency as well. Naturally, then, when the tech platforms promised to optimize the arts, the indie camp cheered… much like the political right did when DOGE promised to optimize the government. As a result, even today's *majors* are too overworked and underpaid to take any risks!
 
 ${'  ' || `
 // TODO: Revise.
@@ -593,7 +593,7 @@ ${'  ' || `
 * Review move of this and consequentialists section.
 
 * First paragraph? Connect soul from previous section to AI here?
-To fight against soulless content made by AI, the new Romantics long for 
+To fight against soulless content made by AI, the new Romantics long for… But AI simply allows the individuals who use them to put out more works for less effort— the very same advantage that led indie artists to win out over interdependent bands. AI, then… might as well stand for "accelerated indiefication"!
 
 And don't be fooled by the indie camp's assurance to fight against artificial intelligence; as the logical next step of indie rock's ideals, AI might as well stand for "accelerated indiefication."
 
