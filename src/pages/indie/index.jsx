@@ -241,21 +241,15 @@ But today, algorithms have turned word of mouth into wisdom of the crowd— whic
 
 ${'  ' || `
 // TODO: Review.
-
-So yes, middlemen might *seem* redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! Sadly, in aiming for peak efficiency, the indies assume that all others can— and thus *should*— do the same. Naturally, then, they cheered when those in tech arrived to optimize the arts— just like many did when DOGE remade the government into a tech startup…
 `}
 
-Worse still, it's now assumed that *every* label can— and thus should— aim for lean efficiency as well. Naturally, then, when the tech platforms promised to optimize the arts, the indie camp cheered… much like the political right did when DOGE promised to optimize the government. As a result, even today's *majors* are too overworked and underpaid to take risks!
+Worse still, it's now assumed that *everyone* can— and thus should— aim for lean efficiency as well. Naturally, then, when the tech platforms promised to optimize the arts, the indie camp cheered… much like the political right did when DOGE promised to optimize the government. As a result, even today's *major* labels are too overworked and underpaid to take any risks!
 
 ${'  ' || `
 // TODO: Revise.
-
-And now, *all* of us are overworked and underpaid, even major labels! Which is why *nothing* this century feels like an era-defining movement, so much as a "larp"— that is, a live-action role-play— of one. Still, what if *you* aren't here to larp, but to *genuinely* make history? Then come join BYCombo… and find a partner with enough bandwidth to keep up with the times!
-
-This is why our century feels less like a historical era, and more like a "larp"— or, live-action role-play— of one. 
 `}
 
-So yes, middlemen might *seem* redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! : How else will you find partners with enough bandwidth to keep up with the times?
+So yes, middlemen might *seem* redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.). How else will you find partners with enough bandwidth to keep up with the times?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
