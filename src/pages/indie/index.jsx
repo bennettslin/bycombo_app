@@ -239,7 +239,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Worse still, it's now assumed that *every* label can— and thus should— aim for lean efficiency as well. Naturally, then, when the tech platforms promised to optimize the arts, the indie camp cheered… much like the political right did when DOGE promised to optimize the government. As a result, even today's *majors* are too overworked and underpaid to take risks!
+Worse still, it's now assumed that *every* label can— and thus should— aim for lean efficiency as well. Naturally, then, when the tech platforms came along to optimize the arts, the indie camp cheered… just like the political right did when DOGE promised to optimize the government. As a result, even today's *majors* are too overworked and underpaid to take risks!
 
 ${'  ' || `
 // TODO: Revise.
