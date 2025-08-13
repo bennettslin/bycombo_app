@@ -233,7 +233,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— and this is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. Then, to conserve "bandwidth," they simply follow the instincts handed down by their forebears— just like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or "small and scrappy," in their words— and this is their selling point: By *not* hiring middlemen, they pass the savings onto the artist. Then, to free up "bandwidth," they just follow the instincts handed down by their forebears— like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
 Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to trust it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
@@ -243,13 +243,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Worse still, it's now assumed that *every* label can— and thus should— aim for lean efficiency as well. Naturally, then, when the tech platforms came along to optimize the arts, the indie camp cheered— just like the political right did when DOGE promised to optimize the government. As a result, even today's *majors* are too overworked and underpaid to keep up with the times…
+Worse still, it's now assumed that *all* of us can— and thus should— aim to be small and scrappy as well. Naturally, then, when those in tech came along to optimize the arts, the indie camp cheered— much like the political right did when DOGE promised to optimize the government. As a result, even today's *major* labels are too overworked and underpaid to get with the times…
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-So yes, middlemen might *seem* redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! This is why BYCombo tells you to be generous in sharing your earnings with bandmates and business partners: How else will *any* of us have the bandwidth to bring music into the present century?
+So yes, middlemen might *seem* redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! This is why BYCombo tells you to be generous in sharing earnings with bandmates and business partners: How else would *any* of us have the bandwidth to bring music into the present century?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
