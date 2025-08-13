@@ -153,10 +153,6 @@ Let's be honest: We're cultural chauvinists either way; all we can do is not be 
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant "long tail" decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our human nature. Since it's hard to say whose works are best, we often just like what others like— and they do the same! As a result, any [random boost](http://archive.today/2024.07.19/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#:~:text=The%20reason%20is,in%20her%20place.) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who signed with the indies for this very reason!
@@ -189,7 +185,11 @@ Yet the past artists we love most *don't* require us to dive into any surroundin
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
-Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster… much like the world's handwringing in preparation for Y2K.
+${'  ' || `
+// TODO: Review.
+`}
+
+Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— much like the world's handwringing in preparation for Y2K.
 
 But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Whatever happens is what history will remember!" As a result, they [were thrilled](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) to see *anything* happen… and never wondered what could've happened *instead*, had they held out for better works. Still, why didn't more artists try to *show* them how much better a work can be?
 
@@ -229,7 +229,11 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 
 ### ${++sectionCounter}. Lean operations fail to adapt
 
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— and this is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. Then, to conserve "bandwidth," they simply follow the instincts handed down by their forebears… just like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
+${'  ' || `
+// TODO: Review.
+`}
+
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— and this is exactly their selling point: By *not* hiring middlemen, they pass the savings onto their artists. Then, to conserve "bandwidth," they simply follow the instincts handed down by their forebears— just like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
 Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to trust it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
@@ -239,13 +243,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Worse still, it's now assumed that *every* label can— and thus should— aim for lean efficiency as well. Naturally, then, when the tech platforms came along to optimize the arts, the indie camp cheered… just like the political right did when DOGE promised to optimize the government. As a result, even today's *majors* are too overworked and underpaid to take risks!
+Worse still, it's now assumed that *every* label can— and thus should— aim for lean efficiency as well. Naturally, then, when the tech platforms came along to optimize the arts, the indie camp cheered— just like the political right did when DOGE promised to optimize the government. As a result, even today's *majors* are too overworked and underpaid to keep up with the times…
 
 ${'  ' || `
-// TODO: Revise.
+// TODO: Review.
 `}
 
-So yes, middlemen might *seem* redundant… but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.). How else will you find partners with enough bandwidth to keep up with the times?
+So yes, middlemen might *seem* redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! This is why BYCombo tells you to be generous in sharing your earnings with bandmates and business partners: How else will *any* of us have the bandwidth to bring music into the present century?
 
 ### ${++sectionCounter}. Disintermediation is a middleman's wish
 
@@ -281,25 +285,13 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all, for a [small fee](https://x.com/elonmusk/status/1587498907336118274); he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a small portion of one's time and energy.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who hustle to *get* the job, rather than simply *deserve* it. Seems bad, right? It's even worse…
 
 You see, pollution is [an example](https://blogs.cornell.edu/info2040/2012/09/24/prisoners-dilemma-and-the-environment/#:~:text=Using%20the%20example,end%20up%20polluting%29.) of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now *every* artist must waste time and energy on the hustle!
 
 To complicate matters, this is what's called a collective action problem: It's caused by individuals acting in their own interest— and so the solution *has* to come from top-down coordination. Yet the indie camp's way of thinking is bottom up; under their watch, change can *only* take place at the grassroots. Which means they'll never clean up this mess they've created…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 The moral, then, is that low barriers to entry *don't* lead to democracy, but to "indieocracy"— namely, rule by those who hustle to get themselves known. So what happens now, if *your* dream all along was to be *made* known, by the elites? Why, you can verify your worth with BYCombo, by paying a steep *cost* of entry: a serious chunk of lifetime!
 
