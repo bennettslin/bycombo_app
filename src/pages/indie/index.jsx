@@ -239,7 +239,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Worse still, it's now assumed that *every* label can— and thus should— aim for lean efficiency as well. Naturally, then, when the tech platforms promised to optimize the arts, the indie camp cheered… much like the political right did when DOGE promised to optimize the government. As a result, even today's *majors* are too overworked and underpaid to take any risks!
+Worse still, it's now assumed that *every* label can— and thus should— aim for lean efficiency as well. Naturally, then, when the tech platforms promised to optimize the arts, the indie camp cheered… much like the political right did when DOGE promised to optimize the government. As a result, even today's *majors* are too overworked and underpaid to take risks!
 
 ${'  ' || `
 // TODO: Revise.
@@ -285,7 +285,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To "democratize" Twitter, Elon Musk made the blue checkmark available to all, for a small fee; he wanted *everyone* to have a voice, not just those verified under [legacy criteria](https://x.com/elonmusk/status/1587498907336118274). Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a small portion of one's time and energy.
+To "democratize" Twitter, Elon Musk made the blue checkmark available to all, for a [small fee](https://x.com/elonmusk/status/1587498907336118274); he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a small portion of one's time and energy.
 
 ${'  ' || `
 // TODO: Review.
@@ -577,7 +577,7 @@ ${'  ' || `
 * Review move of this and consequentialists section.
 
 * First paragraph? Connect soul from previous section to AI here?
-To fight against soulless content made by AI, the new Romantics long for… But AI simply allows the individuals who use them to put out more works for less effort— the very same advantage that led indie artists to win out over interdependent bands. AI, then… might as well stand for "accelerated indiefication"!
+To fight against soulless content made by AI, the new Romantics long for… But AI simply allows the individuals who use them to put out more works for less effort— the very same advantage that indie artists hold over interdependent bands. AI, then… might as well stand for "accelerated indiefication"!
 
 And don't be fooled by the indie camp's assurance to fight against artificial intelligence; as the logical next step of indie rock's ideals, AI might as well stand for "accelerated indiefication."
 
