@@ -566,15 +566,6 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 ${'  ' || `
 // TODO: Keep working on.
 
-* Review move of this and consequentialists section.
-
-* First paragraph? Connect soul from previous section to AI here?
-To fight against soulless content made by AI, the new Romantics long for… But AI simply allows the individuals who use them to put out more works for less effort— the very same advantage that indie artists hold over interdependent bands. AI, then… might as well stand for "accelerated indiefication"!
-
-And don't be fooled by the indie camp's assurance to fight against artificial intelligence; as the logical next step of indie rock's ideals, AI might as well stand for "accelerated indiefication."
-
-* Make point of how AI simply multiplies the advantage that "zero-to-one" talents have over "one-to-*n*" talents.
-
 * In this section or the next, point out that Gen X allowed indie rock to coexist as a counterculture to alternative in the '90s, but Millennials refused to allow interdependence to coexist with indie rock in the '00s?
 
 * Future generations
@@ -602,6 +593,8 @@ Culturally progressive alternative.
 
 * to be independent, I don't need you, but you also don't need me
 `}
+
+To fight against soulless AI content, the new Romantics long for… But AI simply empowers each individual to rely on fewer partners, allowing them to put out more works for less effort— the very same advantage that indie artists hold over interdependent bands. AI, then… might as well stand for "accelerated indiefication"!
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
