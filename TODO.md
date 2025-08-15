@@ -15,15 +15,13 @@
     * Showing the work
         * Yearling's Bobtail scores
         * Yearling's Bobtail illustrations
-    * Indiefication explained
-        * Niemoller quote
-        * Change "indiefication" links
 
 * YB
     * Review all annotations
     * Change interactivated verse?
 
 * BYC
+    * Favor Wikipedia entry over publisher page?
     * Sentences with ellipsis in between instead of a third em-dash:
         * Here's my take: An elitist gatekeeper…
         * Sometime in the '00s…
