@@ -103,10 +103,6 @@ As with MAGA, then, indie rock's weakness for confusion ends up hurting its own.
 
 ### ${++sectionCounter}. Populism trampled the underground
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316787536), right? "Yes! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground was a shelter both for rock's underclass— who *subverted* the people's will— and for the elitist snobs who championed their works; it *wasn't* for everyone.
 
 In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=%22+alternative+rock+%22,%22+indie+rock+%22,%22+underground+rock+%22&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
@@ -189,10 +185,6 @@ Yet the past artists we love most *don't* require us to dive into any surroundin
 
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the world's handwringing in preparation for Y2K.
 
 But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Whatever happens is what history will remember!" As a result, they [were thrilled](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html) to see *anything* happen… and never wondered what could've happened *instead*, had they held out for better works. Still, why didn't more artists try to *show* them how much better a work can be?
@@ -234,7 +226,7 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 ### ${++sectionCounter}. Lean operations fail to adapt
 
 ${'  ' || `
-// TODO: Review today.
+// TODO: Review section.
 `}
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or "small and scrappy," in their words— and this is their selling point; by *not* hiring middlemen, they pass the savings onto the artist. Then, to free up "bandwidth," they just follow the instincts handed down by their forebears— like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
@@ -243,15 +235,7 @@ Of course, these instincts made sense in the '80s, when underground bands would 
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out all extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world…
 
-${'  ' || `
-// TODO: Review today.
-`}
-
 And worse still, they assume that *all* of us can— and thus should— aim to be small and scrappy as well! Naturally, then, when those in tech came along to optimize the arts, the indie camp cheered— much like the political right did when DOGE promised to optimize the government. Now even today's *major* labels are too overworked and underpaid to get with the times…
-
-${'  ' || `
-// TODO: Review today.
-`}
 
 So yes, middlemen might *seem* redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! This is why BYCombo tells you to be generous in sharing your earnings with bandmates and business partners: How else will *any* of us have the bandwidth to bring music into the present century?
 

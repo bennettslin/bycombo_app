@@ -13,6 +13,9 @@ export default {
     body: `
 ${'  ' || `
 // TODO: Review and revise entire page.
+
+Mention:
+Our latest musical invention, which we're keeping a secret for now! However, Bennett will gladly offer a private demonstration to anyone giving serious thought to partnering with us.
 `}
 
 **How does this advance the art form?**
