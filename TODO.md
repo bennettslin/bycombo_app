@@ -21,7 +21,6 @@
     * Change interactivated verse?
 
 * BYC
-    * Favor Wikipedia entry over publisher page?
     * Sentences with ellipsis in between instead of a third em-dash:
         * Here's my take: An elitist gatekeeper…
         * Sometime in the '00s…
