@@ -145,7 +145,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this early on— having only ever been seen as a hobbyist by the indie tastemakers. Now BYCombo helps you find partners who'd rather give amnesty to the best… than charity to the rest.
+To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this early on— having only *ever* been seen as a hobbyist by the indie tastemakers. Now BYCombo helps you find partners who'd rather give amnesty to the best… than charity to the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
