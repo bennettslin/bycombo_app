@@ -38,8 +38,6 @@ We've already written all the songs for the second album, as well as the melodie
 
 [Amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566) is a theory for composing tonal music in multidimensional virtual spaces. We'll continue to develop it in the long term.
 
-After attending a coding bootcamp, Bennett worked for years as a coder while living like a pauper. As such, he managed to save up a million dollars, which we'll now spend to market and promote our band.
-
 **Who are we looking for?**
 
 We're looking for someone to join our band in a full-time [admin position](https://bobtailyearlings.com/writings/ongoing/our-mission-principles-and-terms/#roles), as an [equally paid](https://bobtailyearlings.com/writings/ongoing/our-mission-principles-and-terms/#compensation) member. You would handle our administrative work, take on a leadership role at BYCombo, and oversee development of Bobtail Method and Bobtail Dominoes.

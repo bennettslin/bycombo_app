@@ -41,7 +41,11 @@ Okay, that's a mouthful! Let's break it down…
 
 Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they obey the people's will by only picking artists with an existing fanbase. For this reason, Millennials cheered when indie rock took over— while the people now support *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
 
-The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
+${'  ' || `
+// TODO: Review.
+`}
+
+The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. And yet, breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who do?
 
 Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs serve to uphold the structure… and the generation who put them in charge will agree. But suppose that society never *again* "forgives" its rule breakers? What we need, then, is an institution to formalize the *practice* of doing so— an amnesty program for the arts, if I may.
 
@@ -137,7 +141,11 @@ Well… we're *all* free to make art, right? Which means the government must fir
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of quiet preparation… will be paying their own way the *whole* time.
 
-To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones most likely to make history… stand to gain the *least*! Fortunately, I realized this early on— having only ever been seen as a hobbyist by the indie camp. Now BYCombo helps you find partners who'd rather give amnesty to the best… than charity to the rest.
+${'  ' || `
+// TODO: Review.
+`}
+
+To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this early on— having only ever been seen as a hobbyist by the indie tastemakers. Now BYCombo helps you find partners who'd rather give amnesty to the best… than charity to the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -147,7 +155,11 @@ So I've long understood that, to belong in the canon next to the Beatles, my ban
 
 Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! So they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
-Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Luckily, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
+${'  ' || `
+// TODO: Review.
+`}
+
+Let's be honest: We're cultural chauvinists either way; all we can do is not be hypocrites as well. Fortunately, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
@@ -229,7 +241,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, in their minds, "lean and scrappy"— and this is their selling point; by *not* hiring middlemen, they pass the savings onto the artist. Then, to free up "bandwidth," they just follow the instincts handed down by their forebears— like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
+Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, in their words, "lean and scrappy"— and this is their selling point; by *not* hiring middlemen, they pass the savings onto the artist. Then, to free up "bandwidth," they just follow the instincts handed down by their forebears— like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
 Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to trust it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
 
