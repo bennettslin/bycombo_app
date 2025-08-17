@@ -497,7 +497,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-I'll tell you my theory: Millennials faced boredom only long enough to hate it; then, before they could learn to daydream, they were given structured ways to create and consume endless content— which [won their gratitude](https://xkcd.com/1601). And so they never realized what was obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
+I'll tell you my theory: Millennials only faced boredom long enough to hate it; then, before they could learn to daydream, they were given structured ways to create and consume endless content— which [won their gratitude](https://xkcd.com/1601). And so they never realized what was obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
 
 Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not *alternative*." Except, today, the generation in question is *Gen Z*— who've only ever faced an [*abundance* of content](http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… and would now *love* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
@@ -638,7 +638,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they leave themselves open to exploitation— and by siding with elitist gatekeepers, they incur the wrath of *middling* artists. But once the art form declines, what's left to protect? So after this Age of Empowerment… comes the Age of Martyrdom.
+If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they leave themselves open to exploitation— and by siding with elitist gatekeepers, they incur the wrath of *middling* artists. But once the art form declines, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but [serious chunks](https://www.nelsonmandela.org/biography) of their *lifetimes*. What if the next Nirvana is an entire *movement* of selfless bands doing just that? If so, then join us at BYCombo— and help give the next generation a Nirvana of their own!
 
