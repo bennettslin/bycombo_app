@@ -31,10 +31,6 @@ Well, since gatekeepers look for low-status no-names with one-to-*n* talents, th
 
 From there, we take *action*. Rebelling against centralized institutions would be easy, right? Just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
-${'  ' || `
-// TODO: Review.
-`}
-
 **BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to seek amnesty from interdependence-minded partners.**
 
 ### Why BYCombo?
@@ -347,7 +343,11 @@ The issue is that these labels are run by society's most privileged groups— an
 
 But so far, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* the same. Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*; and women, of low *competence*. Yet social justice, when self-enforced, *only* fixes misjudgments of competence; a circle of friends has every right to feel more warmly toward their own.
 
-You'll notice, then, that we minorities *aren't* ones to begrudge a business partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](http://archive.today/2024.05.11/https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
+${'  ' || `
+// TODO: Review link.
+`}
+
+You'll notice, then, that we minorities *aren't* ones to begrudge a business partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://www.eminem.com/song/white-america/#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
@@ -384,10 +384,10 @@ And this should concern us, since Radiohead… were the ultimate hobbyists! They
 "But can't *today's* indies learn to sign the *next* Radiohead?" No… See, status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
 ${'  ' || `
-// TODO: Add Bob Dylan link?
+// TODO: Review link.
 `}
 
-Still, the losers have one recourse: to start a *counter*-culture… that just might let them be *tomorrow's* winners! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can hope for amnesty, after betting it all on the craft— your low-status "hobby."
+Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](http://archive.today/20240511/https://www.bobdylan.com/songs/times-they-are-changin/#:~:text=For%20the%20loser,are%20a%2Dchangin%E2%80%99)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can hope for amnesty, after betting it all on the craft— your low-status "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
@@ -629,10 +629,6 @@ With this being the case, shouldn't we expect "indiefication" to make music… *
 It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same way. But since indie rock *protects* artists from exploitation, it favors those who *empower* themselves instead. For this reason, artists today demand fair compensation; they don't do *anything* that reeks of being exploited— *especially* self-sacrifice.
 
 Yet self-empowerment comes with its own set of problems. For one, it's just [power-seeking](http://archive.today/2022.10.26/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [self-serving](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it ensures that indie rock's structural rules, which promise fair compensation, can *never* be broken.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they leave themselves open to exploitation— and by siding with elitist gatekeepers, they incur the wrath of *middling* artists. But once the art form declines, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
 
