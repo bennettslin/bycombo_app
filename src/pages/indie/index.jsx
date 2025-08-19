@@ -355,7 +355,11 @@ But once competition takes place *away* from the public eye— as populism deman
 
 Which explains why the disadvantaged tend to be *put off* by populism: It asks them to celebrate a [privileged artist's wins](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls closer to the elites at the top… and away from those in the middle.
 
-Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennial and a minority, I much prefer hip hop's elitist snobbery— "rappism," maybe? Because, like it or not, public exposure *is* a zero-sum game. Now BYCombo lets you treat it as such… just like rappists always have.
+${'  ' || `
+// TODO: Review.
+`}
+
+Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennial and a minority, I much prefer hip hop's elitist snobbery— "rappism," maybe? Because, like it or not, public exposure *is* a zero-sum game. Now BYCombo lets you treat it as such… just like rockists and rappists always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
