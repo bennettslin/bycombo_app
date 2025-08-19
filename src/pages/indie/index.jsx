@@ -584,6 +584,21 @@ Culturally progressive alternative.
 * Having an authentic persona, staying true to who you are, how things were done in the past. Do mention both "authentic" and "persona."
 
 * to be independent, I don't need you, but you also don't need me
+
+First paragraph
+AI takes the indie project of focusing on the individual even further
+
+Second paragraph
+A movement that emphasizes the collective is the only way to solve collective action problems.
+
+Third paragraph
+Authenticity
+
+Fourth paragraph
+Pool achievements
+
+Fifth paragraph
+Conclusion
 `}
 
 To fight against soulless AI content, the new Romantics long for… But AI simply empowers each individual to rely on fewer partners, allowing them to put out more works for less effort— the very same advantage that indie artists hold over interdependent bands. AI, then… might as well stand for "accelerated indiefication"!
