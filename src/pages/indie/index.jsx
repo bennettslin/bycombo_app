@@ -89,58 +89,6 @@ This cost can't be arbitrary or artificial, so it can only be one thing: a serio
 
 Here are fifty ways…
 
-### ${++sectionCounter}. Collectivists pool their achievements
-
-${'  ' || `
-// TODO: Keep working on.
-
-* In this section or the next, point out that Gen X allowed indie rock to coexist as a counterculture to alternative in the '90s, but Millennials refused to allow interdependence to coexist with indie rock in the '00s?
-
-* Future generations
-* Actions that make the world worse when everyone does them
-
-* No more fear of missing out
-
-https://karamary.substack.com/p/hey-mama-your-californian-ideology
-
-Indie rock's individualism can't build for the future. It isn't future oriented. Can't solve collective action problems.
-
-Interdependent labels pool their rosters.
-
-* To be indie is to be, literally, *self*-ish. Individualists are loyal to no one but themselves, and the indie camp admires them for it.
-
-Culturally progressive alternative.
-
-* Protectionism
-
-* Great Man theory of history?
-
-* Fixed mindset?
-
-* Having an authentic persona, staying true to who you are, how things were done in the past. Do mention both "authentic" and "persona."
-
-* to be independent, I don't need you, but you also don't need me
-
-First paragraph
-AI takes the indie project of focusing on the individual even further
-
-Second paragraph
-A movement that emphasizes the collective is the only way to solve collective action problems.
-
-Third paragraph
-Authenticity
-
-Fourth paragraph
-Pool achievements
-
-Fifth paragraph
-Conclusion
-`}
-
-To fight against soulless AI content, the new Romantics long for… But AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
-
-So AI… might as well stand for "accelerated indiefication"!
-
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
 In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed to an indie label. Since Nirvana and Radiohead were on *major* labels, this made them [alternative, not indie](https://substack.com/@bobtail/note/c-106073033)— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie… so now we're all waiting for the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get confused?
@@ -229,9 +177,17 @@ To get radio airplay in the '90s, alternative bands had to win over listeners wh
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best melodies and chords come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point; they just don't value music as a *craft* to begin with!
 
-After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want context](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins/) that can be discussed at length, while local fans— now online— want direct engagement from the artist; so both, in their own way, are drawn more to a well-constructed *persona* than a well-crafted *hook*.
+${'  ' || `
+// TODO: Review.
+`}
 
-Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* [these bands](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.), the indie camp simply jeered: "Well, well, well… it looks like backstory and lore win out over melodies and chords!"
+After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics want context that can be discussed at length, while local fans— now online— want direct engagement from the artist; so both, in their own way, are drawn more to a well-constructed *persona* than to a well-crafted *hook*.
+
+${'  ' || `
+// TODO: Review link.
+`}
+
+Any demand for such hooks, then, came *solely* from radio… which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… it looks like [backstory and lore](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins/) win out over melodies and chords!"
 
 Yet the past artists we love most *don't* require us to dive into any surrounding "lore," do they? History, then… is like radio! So don't get complacent in this online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft— as if you were an Xennial child hoping to get on the radio one day.
 
@@ -601,7 +557,57 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
+### ${++sectionCounter}. Collectivists pool their achievements
 
+${'  ' || `
+// TODO: Keep working on.
+
+* In this section or the next, point out that Gen X allowed indie rock to coexist as a counterculture to alternative in the '90s, but Millennials refused to allow interdependence to coexist with indie rock in the '00s?
+
+* Future generations
+* Actions that make the world worse when everyone does them
+
+* No more fear of missing out
+
+https://karamary.substack.com/p/hey-mama-your-californian-ideology
+
+Indie rock's individualism can't build for the future. It isn't future oriented. Can't solve collective action problems.
+
+Interdependent labels pool their rosters.
+
+* To be indie is to be, literally, *self*-ish. Individualists are loyal to no one but themselves, and the indie camp admires them for it.
+
+Culturally progressive alternative.
+
+* Protectionism
+
+* Great Man theory of history?
+
+* Fixed mindset?
+
+* Having an authentic persona, staying true to who you are, how things were done in the past. Do mention both "authentic" and "persona."
+
+* to be independent, I don't need you, but you also don't need me
+
+First paragraph
+AI takes the indie project of focusing on the individual even further
+
+Second paragraph
+A movement that emphasizes the collective is the only way to solve collective action problems.
+
+Third paragraph
+Authenticity
+
+Fourth paragraph
+Pool achievements
+
+Fifth paragraph
+Conclusion
+`}
+
+To fight against soulless AI content, the new Romantics long for… But AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
+
+So AI… might as well stand for "accelerated indiefication"!
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
