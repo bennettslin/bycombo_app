@@ -419,6 +419,8 @@ No, Silents weren't rooting for a Black crooner… but this is *exactly* why the
 
 ${'  ' || `
 // TODO: Review.
+
+Yet when I came along— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me *apart* from my identity!" Why? I suspect it's because Millennials were the first generation to believe they'd achieved perfect tolerance; as such, they forgot all about society's bargain with the hungry outsider.
 `}
 
 Yet when I came along— trying much harder, to be much better— no indie tastemaker seemed to even recall this age-old bargain. Why? My guess is that Millennials were the first generation to think they'd achieved perfect tolerance; as such, they assumed that the *next* Sammy would be like every other indie artist, and *happily* opt to be judged on identity instead.
