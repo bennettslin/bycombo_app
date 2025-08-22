@@ -421,7 +421,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet when I came along— trying much harder, to be much better— no indie tastemaker seemed to even recall this age-old bargain. Why? My guess is that Millennials were the first generation to think they'd achieved perfect tolerance; as such, they assumed that the next Sammy would *happily* opt to be judged on identity instead— like *any* indie artist would.
+Yet when I came along— trying much harder, to be much better— no indie tastemaker seemed to even recall this age-old bargain. Why? My guess is that Millennials were the first generation to think they'd achieved perfect tolerance; as such, they assumed that the *next* Sammy would be like every other indie artist, and *happily* opt to be judged on identity instead.
 
 ${'  ' || `
 // TODO: Review.
