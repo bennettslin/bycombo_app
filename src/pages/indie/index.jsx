@@ -517,7 +517,11 @@ Demos allow artists to pursue visions they *can't* fulfill on their own, and one
 
 Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indies can't rethink *anything*…
 
-Luckily, having struggled for half my life to attract bandmates, I anticipated that the best musicians would gradually prefer to be *assembled* into bands— and that this, in turn, could open up a new frontier to explore! So relax, and put all your effort into simply *deserving* the most dedicated bandmates… safe in the knowledge that BYCombo will then help you find them.
+${'  ' || `
+// TODO: Review.
+`}
+
+Luckily, having struggled for half my life to attract bandmates, I anticipated that the best musicians would gradually prefer to be *assembled* into bands— and that this, in turn, could open up a new frontier to explore! So relax, and focus all your efforts on simply *deserving* the most dedicated bandmates… secure in the knowledge that BYCombo will then help you find them.
 
 ### ${++sectionCounter}. Advances are made in aesthetics, not logistics
 
@@ -591,9 +595,12 @@ Pool achievements
 
 Fifth paragraph
 Conclusion
+
+Preceding section:
+Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 `}
 
-To fight against soulless AI content, the new Romantics long for… But AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
+To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
 
 So AI… might as well stand for "accelerated indiefication"!
 
