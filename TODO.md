@@ -40,11 +40,7 @@
 
 * Distro
     * Make everything (demo version)
-
-# Sections with no connection in between?
-* Serendipity to modest standing
-* Modest standing to creativity
-* Left off from here…
+        * Or just delete
 
 # Emails to filter:
 
