@@ -231,10 +231,6 @@ Of course, these instincts made sense in the '80s, when underground bands would 
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out all extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Worse still, they assume that *all* of us can— and thus *should*— aim to be lean and scrappy as well! Naturally, then, when the tech platforms came along to optimize the arts, the indie camp cheered— much like the political right did when DOGE promised to optimize the government. Now even today's *major* labels are too overworked and underpaid to get with the times…
 
 So yes, middlemen might *seem* redundant— but redundancy keeps a system resilient, allowing it [to adapt](https://www.forkingpaths.co/p/against-optimization#:~:text=Optimizing%20for%20efficiency,bet%20for%20humanity.)! This is why BYCombo tells you to be generous in splitting your earnings with bandmates and business partners: How else will *any* of us have the bandwidth to bring music into the present century?
@@ -520,10 +516,6 @@ Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if
 Demos allow artists to pursue visions they *can't* fulfill on their own, and one vision much in need of a partner's help today is… forming a rock band at all! Because, who'd want to be *anyone's* bandmate, let alone *yours*— given all the perks of being a lone content creator, in a world that now favors pop? Some ask why bands have [largely disappeared](https://www.honest-broker.com/p/the-bands-are-never-coming-back), but it's really no mystery.
 
 Here's my point: Suppose an indie label were willing to sign me *before* my band was formed. With the assurance of being signed, I could then convince the most dedicated musicians to join me. Clearly, this wouldn't just benefit *me*, but also the *label*, right? And by rethinking how bands might form, we'd see a resurgence of them! Yet the indies can't rethink *anything*…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Luckily, having struggled for half my life to attract bandmates, I anticipated that the best musicians would gradually prefer to be *assembled* into bands— and that this, in turn, could open up a new frontier to explore! So relax, and focus all your efforts on simply *deserving* the most dedicated bandmates… secure in the knowledge that BYCombo will then help you find them.
 
