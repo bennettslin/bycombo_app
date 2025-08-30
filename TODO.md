@@ -18,7 +18,6 @@
 
 * YB
     * Review all annotations
-        * Consider replacing more "if I had"s with "had I"s, for all pronouns
         * Consider more semicolons in short annotations currently separated into two sentences
     * Change interactivated verse?
 
