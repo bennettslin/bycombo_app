@@ -221,7 +221,11 @@ By contrast, the indie labels sign just one artist at a time, so they go with th
 
 In the past, the indie tastemakers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well, in *my* case… this is what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
 
-What confused me is that I'd [explicitly set out](https://yearlingsbobtail.com/8-good-night-sita/?verse=61&annotation=40) to make a [work of art](https://yearlingsbobtail.com/10-constellations/?verse=1&annotation=9) whose creativity *can't* be disputed. Only later did it hit me: If a tastemaker is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we* want. Our human nature is to [*dis*-like creativity](http://archive.today/2024.08.26/https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html); we just don't realize this, because whatever it is we *do* like… we simply call *that* the creative idea of our times!
+${'  ' || `
+// TODO: Review links.
+`}
+
+What confused me is that I'd explicitly [resolved to make](https://yearlingsbobtail.com/8-good-night-sita/?verse=61&annotation=40) a [work of art](https://yearlingsbobtail.com/10-constellations/?verse=1&annotation=9) whose creativity *can't* be disputed. Only later did it hit me: If a tastemaker is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we* want. Our human nature is to [*dis*-like creativity](http://archive.today/2024.08.26/https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html); we just don't realize this, because whatever it is we *do* like… we simply call *that* the creative idea of our times!
 
 In truth, creativity is unfamiliar, and this makes us uncomfortable. Now, the corporate "suits" just ignore the discomfort, since it's *all* unfamiliar to them. Those in the know, however, pride themselves on their intuition— and thus interpret any discomfort as a sincere warning from the gut. Ironically, then, as [Frank Zappa](https://youtu.be/xP4wsURn3rw) noted, this makes them *worse* at picking creative ideas!
 
@@ -517,7 +521,11 @@ Thankfully, some of you now *agree* with me that music has since declined… and
 
 In a world now awash in content, the new Romantics long for a return to live shows. Yet shows are fleeting by nature… just like content! It's why the best live performers, just like content creators, strive to *consistently* deliver; theirs is the ultimate "workhorse art." And music needs that! But who'll deliver this generation's "windfall art"— which calls for betting it all on a *single* chance?
 
-To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17)— and so I [set to work](https://yearlingsbobtail.com/16-cremated/?annotation=4) on mine.
+${'  ' || `
+// TODO: Review links.
+`}
+
+To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a stellar demo— and [so I set](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17) to [work on mine](https://yearlingsbobtail.com/16-cremated/?annotation=4).
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I put together a band, and we played a show for one of them. It was… admittedly sloppy, given that my new bandmates still hadn't fully learned their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
