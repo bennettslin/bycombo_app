@@ -433,7 +433,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet when I came along— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me *apart* from my identity!" Why? I suspect it's because Millennials were the first generation to believe they'd achieved perfect tolerance; as such, they decided society's bargain with the hungry outsider was now null and void.
+Yet when I came along— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me *apart* from my identity!" Why? I suspect it's because Millennials were the first generation to believe they'd achieved perfect tolerance; as such, they declared society's bargain with the hungry outsider to be null and void.
 
 Thus I had *no* lifeline… and then, as it happens, Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* find underdogs to favor, based on "safe" criteria like [place of origin](https://x.com/Steven_Hyden/status/1708868954741977173). For a clear conscience, then, we *must* toss a lifeline to the rest— whom we've now made *worse* off in this zero-sum game.
 
@@ -619,6 +619,8 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
 
 So AI… might as well stand for "accelerated indiefication"!
+
+Talk about anti-vax.
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
