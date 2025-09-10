@@ -604,7 +604,7 @@ To rebel against soulless AI content, the new Romantics call for a revival of in
 
 So AI… might as well stand for "accelerated indiefication"!
 
-Talk about anti-vax.
+Talk about anti-vax. Herd immunity.
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
