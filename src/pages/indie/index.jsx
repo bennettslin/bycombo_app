@@ -646,7 +646,11 @@ So if I could get every progressive— in both politics and the arts— to read 
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
-To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*, turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)— so over time, it became accepted as the correct one.
+${'  ' || `
+// TODO: Review.
+`}
+
+To explain the squiggles traversed by the planets in their orbits around the Earth, ancient astronomers mapped out a convoluted model of epicycles. But then Copernicus proposed that the planets actually revolve around the *Sun*— turning these squiggles into circles. This was a [simpler explanation](https://en.wikipedia.org/wiki/Occam%27s_razor)… so over time, it became accepted as the correct one.
 
 Well, music today requires a pretty convoluted explanation, doesn't it? After all, indie artists are widely believed to deliver the boldest art… yet *none* can rival what the major labels gave us in their heyday?! And now the majors *themselves* [behave like](https://www.honest-broker.com/p/nine-predictions-for-the-future-of#:~:text=That%E2%80%99s%20why%20record,as%20indie%20operators.) indie labels, by only signing artists who *don't* need a label… yet this *hasn't* led to the next Nirvana or Radiohead?!
 
