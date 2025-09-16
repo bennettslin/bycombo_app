@@ -4,7 +4,6 @@ import cx from 'classnames'
 import Background from './Background'
 import Main from '../Main'
 import Flex from '../../components/Flex'
-import Popups from '../../components/Popups'
 import './style'
 
 const Wrapper = ({ children }) => (
@@ -18,7 +17,6 @@ const Wrapper = ({ children }) => (
     >
         <Background />
         <Main>{children}</Main>
-        <Popups />
     </Flex>
 )
 

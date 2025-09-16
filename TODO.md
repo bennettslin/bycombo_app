@@ -12,6 +12,9 @@
 * Substack
     * Switch all websites to use Substack as mailing list
         * Get rid of popups
+            * BY
+            * BYC
+            * BD
     * Showing the work
         * Yearling's Bobtail scores
         * Yearling's Bobtail illustrations
