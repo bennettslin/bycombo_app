@@ -491,10 +491,6 @@ But all is assumed to be well, since today's artists easily look and sound like 
 
 Combining glam's gender-bending look with metal's aggression, glam metal was the ideal youth movement— for a *previous* generation. But as for Gen X… they saw it as a relic. Well, guess what was no less outdated by the '00s? Indie rock's rule for artists to hustle! Yet Millennials adopted it as their own… even *after* I warned them. Why were they glad to simply "larp" the next revolution?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, getting punished for breaking their rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me. Why?
 
 I'll tell you my theory: Millennials only faced boredom long enough to hate it; then, before they could learn to daydream, they were given structured ways to create and consume endless content— which [won their gratitude](https://xkcd.com/1601). And so they never realized what was obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
@@ -504,10 +500,6 @@ Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not
 ### ${++sectionCounter}. Unity brutalizes the lone scapegoat
 
 Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each scene is just an "era" to try on— but any threat to the structures that allow for such "larping"… must be fiercely opposed by *all*.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Furthermore: "If 99% of us can see we're all in this together, then you'd best believe the other 1% is *that* awful. Still, we can beat them on size alone!" So Millennials never learned to disagree, but instead to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— leading political progressives to unite with right-wing populists against the left's elites! And in the arts, it's the same muddled thinking…
 
