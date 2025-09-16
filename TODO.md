@@ -20,6 +20,9 @@
     * Review all annotations
         * Consider more semicolons in short annotations currently separated into two sentences
     * Change interactivated verse?
+    * New annotations
+        * Theory of mind
+        * Carpenters
 
 * BYC
     * Sentences with ellipsis in between instead of a third em-dash:
