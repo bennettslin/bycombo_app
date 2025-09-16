@@ -17,6 +17,8 @@
         * Yearling's Bobtail illustrations
 
 * YB
+    * Fix laying qualms to rest!
+        * Have annotations scroll, once and for all?
     * Review all annotations
         * Consider more semicolons in short annotations currently separated into two sentences
     * Change interactivated verse?
