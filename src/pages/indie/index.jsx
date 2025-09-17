@@ -141,10 +141,6 @@ To be clear, I'm not against, let's say, *universal* health care. When we suppor
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
-${'  ' || `
-// TODO: Revise? Move "larp" up here?
-`}
-
 Growing up as a child of Asian immigrants, I was keenly aware that other countries had [their own](https://youtu.be/QhOFg_3RV5Q) rock canons. Yet because they looked up to ours— the English-speaking world's— we cared little of theirs… which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
@@ -342,10 +338,10 @@ Don't be fooled, then, by those who merely *larp* as history makers! All your in
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
 ${'  ' || `
-// TODO: Review. Is this accurate?
+// TODO: Review, including link.
 `}
 
-While "alternative" describes an *artistic* choice, "indie" conveys a *business* stance. Until the '90s, then, *artists* weren't indie; only *labels* were. And that stance? It says, "We *don't* do this for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
+While being alternative is an *artistic* choice, being indie conveys a *business* stance. Until the '90s, then, "indie" [referred mainly](https://books.google.com/ngrams/graph?content=indie+band%2Cindie+label&year_start=1980&year_end=2000) to *labels*. And that stance? It says, "We *don't* do this for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](http://archive.today/2024.05.12/https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
