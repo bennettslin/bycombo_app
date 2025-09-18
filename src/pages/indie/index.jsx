@@ -23,10 +23,6 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 
 First, we raise *awareness*. Since "indie" means "good" to so many, few notice the adverse effects of what I call "indiefication"— namely, the propagation of indie rock's founding ideals across *all* the music genres, and even all the *arts*. You know the ideals I'm talking about: cutting out the middleman, lowering the barriers to entry, respecting direct fan engagement…
 
-${'  ' || `
-// TODO: Review, including link.
-`}
-
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=All%20the%20time,your%20actual%20being.)"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And knowing this leads to revolution… How?"
 
 Well, since gatekeepers look for low-status no-names with one-to-*n* talents, their aim is to up-*end* the status hierarchy— placing them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one… and thus *already* enjoys higher status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
@@ -342,10 +338,10 @@ Don't be fooled, then, by those who merely *larp* as history makers! All your in
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
 
 ${'  ' || `
-// TODO: Review, including link.
+// TODO: Review.
 `}
 
-While being alternative is an *artistic* choice, being indie conveys a *business* stance. Until the '90s, then, "indie" [mainly referred](https://books.google.com/ngrams/graph?content=indie+band%2Cindie+label&year_start=1980&year_end=2000) to *labels*. And that stance? It says, "We *don't* do this for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
+While being alternative is an *artistic* choice, being indie is a *business* stance. Until the '90s, then, "indie" [mainly referred](https://books.google.com/ngrams/graph?content=indie+band%2Cindie+label&year_start=1980&year_end=2000) to *labels*— not *artists*. And that stance? It says, "We *aren't* in this for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](http://archive.today/2024.05.12/https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
