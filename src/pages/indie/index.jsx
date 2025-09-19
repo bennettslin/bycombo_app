@@ -311,8 +311,11 @@ So what *should* artistic welfare look like? Basically, a centralized institutio
 
 Unfortunately, *all* welfare is fragile: Rather than be grateful to get a chance at all, the unsuccessful tend to resent not being given *more* support… while the successful often assume they'd have done just as well on their own, and thus resent "paying it forward." So those who sit on the *right*— including the indie camp's artistic libertarians— find it easy to turn the people against welfare.
 
-Yet others *happily* pay it forward: "Paying more means we [succeeded more](https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=So%20thank%20you,They%20deserve%20better.)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo lets you find partners on the artistic *left*… who'll make the smart move once again.
+${'  ' || `
+// TODO: Review link.
+`}
 
+Yet others *happily* pay it forward: "Paying more means we [succeeded more](http://archive.today/2025.06.26/https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=So%20thank%20you,They%20deserve%20better.)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo lets you find partners on the artistic *left*… who'll make the smart move once again.
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being a low-status nobody, I needed others to help *me* first. Yet no one did…
