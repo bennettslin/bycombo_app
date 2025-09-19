@@ -409,7 +409,11 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 
 Let's be fair, in wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on their identities as [society's underdogs](http://archive.today/2021.06.04/https://www.nytimes.com/2021/05/26/magazine/black-keys-blues.html#:~:text=%E2%80%9CFor%20me%2C%20it,aspirations%20we%20did.%E2%80%9D).
 
-Except… it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly White and male. Suffering a [crisis of conscience](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html), the indie camp solved this problem in the only way they knew how: by telling us women and minorities to self-identify as underdogs as well— a solution that's come to be called "wokeness."
+${'  ' || `
+// TODO: Review.
+`}
+
+Except… it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly White and male. Suffering a [crisis of conscience](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html), the indie camp solved this problem in the only way they knew how: by letting us women and minorities self-identify as underdogs as well— a solution that's come to be called "wokeness."
 
 But while White men *easily* gain from their identities without admitting to it— as when it [lends authenticity](http://archive.today/2023.12.13/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,write%20some%20songs) to a "larpy" backstory— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
@@ -437,7 +441,11 @@ Both movements protect the favored underdog by refusing to ask: "Wouldn't the hu
 
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-Yet underdog movements can never go away, because to be treated as an underdog is a *privilege*… and the privileged will always find ways to benefit themselves. But what if you're *not* whom the people want to root for? Then let BYCombo throw you a lifeline, by bringing back rockism: rock and roll's original spirit, courtesy of its [founding underclass](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged can always find ways to benefit themselves. But what if you're *not* whom the people want to root for? Then let BYCombo throw you a lifeline, by bringing back rockism: rock and roll's original spirit, courtesy of its [founding underclass](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
