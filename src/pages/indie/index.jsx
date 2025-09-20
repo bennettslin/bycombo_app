@@ -444,7 +444,13 @@ Yet underdog movements will never go away, because to be treated as an underdog 
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
+${'  ' || `
+// TODO: Keep working on. Make sure sentences flow.
+
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie camp*. Which should come as no surprise: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was about bringing indie rock's good intentions to the Internet!
+`}
+
+While the indie camp judges artistic worth based on paid dues, poptimists do so based on popularity— and thus they share an ally: the tech platforms, who help to make sense of such quantifiable metrics. So every new technology in the '00s— crowdfunding, MP3 downloads, streaming media— was really about bringing indie rock's good intentions to the Internet!
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left bands powerless to negotiate; they couldn't play one label off another, and a vision by itself is worth nothing. As a result, they often had to accept unfair terms— leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
