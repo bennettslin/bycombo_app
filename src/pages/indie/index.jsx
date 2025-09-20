@@ -311,10 +311,6 @@ So what *should* artistic welfare look like? Basically, a centralized institutio
 
 Unfortunately, *all* welfare is fragile: Rather than be grateful to get a chance at all, the unsuccessful tend to resent not being given *more* support… while the successful often assume they'd have done just as well on their own, and thus resent "paying it forward." So those who sit on the *right*— including the indie camp's artistic libertarians— find it easy to turn the people against welfare.
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 Yet others *happily* pay it forward: "Paying more means we [succeeded more](http://archive.today/2025.06.26/https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=So%20thank%20you,They%20deserve%20better.)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo lets you find partners on the artistic *left*… who'll make the smart move once again.
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
@@ -339,10 +335,6 @@ No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff
 Don't be fooled, then, by those who merely *larp* as history makers! All your instincts that stem from a *lack* of privilege— your hunger to be the best, and thus your need for mutual reliance— are *exactly* what it takes to aim for the historical canon. So come follow them, with BYCombo: the next movement after hip hop that's of, by, and for the under-*class*… not under-*dogs*.
 
 ### ${++sectionCounter}. Capitalism is the cure for cronyism
-
-${'  ' || `
-// TODO: Review.
-`}
 
 While being alternative is an *artistic* choice, being indie is a *business* stance. Until the '90s, then, "indie" [mainly referred](https://books.google.com/ngrams/graph?content=indie+band%2Cindie+label&year_start=1980&year_end=2000) to *labels*— not *artists*. And that stance? It says, "We *don't* do this for the money." Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
@@ -436,11 +428,7 @@ Perhaps my arguments against indie rock seem moot, now that "poptimism" has defe
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was rock and roll, whose lineage traces to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's European immigrants.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Each movement protects the favored underdog by refusing to ask: "Wouldn't the hungry outsider— who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times, then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
+Both movements protect the favored underdog by refusing to ask: "Wouldn't the hungry outsider— who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times, then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
@@ -454,7 +442,7 @@ ${'  ' || `
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie camp*. Which should come as no surprise: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was about bringing indie rock's good intentions to the Internet!
 `}
 
-Since the indie camp measures artistic worth by paid dues— and poptimists, by popularity— both share a natural ally: the tech platforms, who easily work with whichever quantifiable metric is valued. So every new technology in the '00s— digital downloads, streaming media, crowdfunding— was really about bringing the good intentions of underdog movements to the Internet!
+Since the indie camp measures artistry by paid dues— and "poptimists," by popularity— both share a natural ally: the tech platforms, who readily work with such quantifiable metrics. So every new technology in the '00s— digital downloads, streaming media, crowdfunding— was really about bringing the good intentions of underdog movements to the Internet!
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left bands powerless to negotiate; they couldn't play one label off another, and a vision by itself is worth nothing. As a result, they often had to accept unfair terms— leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
@@ -683,9 +671,9 @@ ${'  ' || `
 // TODO: Review a few times.
 
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who already does the middleman's job? What fan *wouldn't* prefer the one who engages with them by asking for [free labor](https://en.wikipedia.org/wiki/Ben_Franklin_effect)? And what critic *wouldn't* prefer the one whose well-constructed "lore" offers so much context to discuss?
-`}
 
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who already does the middleman's job? What fan, the one who directly engages by asking for [free labor](https://en.wikipedia.org/wiki/Ben_Franklin_effect)? And what critic, the one whose well-constructed "lore" offers so much context to discuss?
+`}
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who already does the middleman's job? Or… what fan, the one who engages with them by asking for [free labor](https://en.wikipedia.org/wiki/Ben_Franklin_effect)? Or… what critic, the one whose well-constructed "lore" offers so much context to discuss?
 
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
