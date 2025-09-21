@@ -583,10 +583,14 @@ Culturally progressive alternative.
 * to be independent, I don't need you, but you also don't need me
 
 First paragraph
-AI takes the indie project of focusing on the individual even further
+
 
 Second paragraph
 A movement that emphasizes self-sacrifice for the sake of the collective is the only way to solve collective action problems.
+
+AI simply takes further indie rock's ideal of the self-interested individual triumphing over the collective. It might as well stand for "accelerated indiefication"!
+
+As such, it's not enough to return to the ideals of the '00s— the golden years, according to Millennials— back when the collective action problems created by indie rock weren't yet known to be such. We must return to the ideals of the 20th century— the golden decades, according to us Xennials and everyone older— before those collective action problems even started.
 
 Third paragraph
 Authenticity
@@ -601,13 +605,11 @@ Preceding section:
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
 Individualism in a sea of collectivism. Collectivist movement in a sea of individualism.
+
+Talk about anti-vax. Herd immunity.
 `}
 
 To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
-
-So AI… might as well stand for "accelerated indiefication"!
-
-Talk about anti-vax. Herd immunity.
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
