@@ -334,7 +334,7 @@ ${'  ' || `
 Yet in spite of the poor fit, indie rock sure is eager lately to hand us the reins! Why is this? Because, after years of "larping," or live-action role-playing, as an era-defining movement— despite being no better than a foreign canon— it's in *decline*… and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)."
 `}
 
-Yet in spite of the poor fit, indie rock sure is eager lately to hand us the reins! Why? It's because "larping," or live-action role-playing, is good enough only when aiming for a *foreign* canon, not "the" canon— and after years of larping as an era-defining movement, the indie camp has lost all cultural relevance. So now, we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+Yet in spite of the poor fit, indie rock sure is eager lately to hand us the reins! Why? It's because "larping," or live-action role-playing, is only good enough when aiming for *foreign* canons, not "the" canon— and after years of larping as an era-defining movement, the indie camp has lost all cultural relevance. So now, we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like us— and specifically, the *hungriest*.
 
@@ -448,9 +448,15 @@ ${'  ' || `
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie camp*. Which should come as no surprise: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was about bringing indie rock's good intentions to the Internet!
 `}
 
-Since the indie camp measures artistry by paid dues— and "poptimists," by popularity— both share a natural ally: the tech platforms, who readily work with such quantifiable metrics. So every new technology in the '00s— digital downloads, streaming media, crowdfunding— was really about bringing the good intentions of underdog movements to the Internet!
+Since the indie camp measures artistry by paid dues— and "poptimists," by popularity— both see a natural ally in the tech platforms, who work best with objective metrics such as these. So every new technology in the '00s— digital downloads, streaming media, crowdfunding— was really about bringing the good intentions of underdog movements to the Internet!
+
+${'  ' || `
+// TODO: Review.
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left bands powerless to negotiate; they couldn't play one label off another, and a vision by itself is worth nothing. As a result, they often had to accept unfair terms— leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
+`}
+
+In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style blowing up across the world. But this left bands powerless to negotiate; they couldn't play one label off another, and a vision by itself is worth nothing. As a result, they often had to accept unfair terms… leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
 By contrast, the indie labels simply pick what the people want, going by the size of an artist's fanbase. Once *anyone* sees a safe bet, then, *everyone* does… and now all that's left is for one label to outbid the rest by offering the most generous terms. Or, to put it differently, the way to do *right* by artists— and thus to be rated as a "good guy"— is to trust the cold, hard numbers!
 
@@ -679,8 +685,8 @@ ${'  ' || `
 // TODO: Review a few times.
 
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who already does the middleman's job? What fan *wouldn't* prefer the one who engages with them by asking for [free labor](https://en.wikipedia.org/wiki/Ben_Franklin_effect)? And what critic *wouldn't* prefer the one whose well-constructed "lore" offers so much context to discuss?
-
 `}
+
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who already does the middleman's job? Or… what fan, the one who engages with them by asking for [free labor](https://en.wikipedia.org/wiki/Ben_Franklin_effect)? Or… what critic, the one whose well-constructed "lore" offers so much context to discuss?
 
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
