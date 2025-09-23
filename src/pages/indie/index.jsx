@@ -145,11 +145,19 @@ Well… we're *all* free to make art, right? Which means the government must fir
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of quiet preparation… will be paying their own way the *whole* time.
 
-To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this early on— having only *ever* been seen as a hobbyist by the indie tastemakers. Now BYCombo helps you find partners who'd rather give amnesty to the best… than charity to the rest.
+${'  ' || `
+// TODO: Review.
+`}
+
+To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this early on— having only *ever* been seen as a hobbyist by the indie tastemakers. Now BYCombo helps you find partners who'd rather give amnesty to the best… than charity to all the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
-Growing up as a child of Asian immigrants, I was keenly aware that other countries had [their own](https://youtu.be/QhOFg_3RV5Q) rock canons. Yet because they looked up to ours— the English-speaking world's— we cared little of theirs… which made ours "the" rock canon! Especially since any band of theirs who *could* rival us, like ABBA… simply joined us instead.
+${'  ' || `
+// TODO: Review.
+`}
+
+Growing up as a child of Asian immigrants, I was aware that other countries beyond our English-speaking world had [their own](https://youtu.be/QhOFg_3RV5Q) rock canons. Yet because they looked up to ours, we cared little of theirs— making ours "the" historical canon! Especially since any one of their bands who *could* rival us, like ABBA… simply joined us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
