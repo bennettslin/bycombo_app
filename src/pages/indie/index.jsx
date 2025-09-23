@@ -329,12 +329,12 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 "Who could've foreseen all the drawbacks of propagating indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Rappers get this, which is why they rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
 
 ${'  ' || `
-// TODO: Review a few times.
+// TODO: Review.
 
 Yet in spite of the poor fit, indie rock sure is eager lately to hand us the reins! Why is this? Because, after years of "larping," or live-action role-playing, as an era-defining movement— despite being no better than a foreign canon— it's in *decline*… and desperate to regain its cultural relevance. So we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)."
 `}
 
-Yet in spite of the poor fit, indie rock sure is eager lately to hand us the reins! Why? It's because "larping," or live-action role-playing, is only good enough when aiming for *foreign* canons, not "the" canon— and after years of larping as an era-defining movement, the indie camp has lost all cultural relevance. So now, we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+Yet in spite of the poor fit, indie rock sure is eager lately to hand us the reins! Why? It's because "larping," or live-action role-playing, is only good enough when aiming for a *foreign* canon, not "the" canon— so after years of larping as an era-defining movement, the indie camp has lost all cultural relevance. And now, we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like us— and specifically, the *hungriest*.
 
@@ -443,7 +443,7 @@ Yet underdog movements will never go away, because to be treated as an underdog 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
 ${'  ' || `
-// TODO: Review a few times.
+// TODO: Review.
 
 Perhaps my arguments against indie rock seem misplaced. After all, aren't the tech platforms to blame? Well, sure. But who put them in power? It was the *indie camp*. Which should come as no surprise: Every new technology in the '00s— digital downloads, streaming media, crowdfunding— was about bringing indie rock's good intentions to the Internet!
 `}
@@ -451,9 +451,7 @@ Perhaps my arguments against indie rock seem misplaced. After all, aren't the te
 Since the indie camp measures artistry by paid dues— and "poptimists," by popularity— both see a natural ally in the tech platforms, who work best with objective metrics such as these. So every new technology in the '00s— digital downloads, streaming media, crowdfunding— was really about bringing the good intentions of underdog movements to the Internet!
 
 ${'  ' || `
-// TODO: Review.
-
-In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style erupting into a global revolution. But this left bands powerless to negotiate; they couldn't play one label off another, and a vision by itself is worth nothing. As a result, they often had to accept unfair terms— leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
+// TODO: Revise. Sounds better beginning with "See," but I already say "see" elsewhere.
 `}
 
 In the past, a major label would bet on visions that other labels *didn't* see— like, let's say, a regional style blowing up across the world. But this left bands powerless to negotiate; they couldn't play one label off another, and a vision by itself is worth nothing. As a result, they often had to accept unfair terms… leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
