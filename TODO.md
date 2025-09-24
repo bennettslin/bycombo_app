@@ -9,6 +9,9 @@
         * BM
         * BD
 
+* BD
+    * Substack thing
+
 * Substack
     * Switch all websites to use Substack as mailing list
         * BY
