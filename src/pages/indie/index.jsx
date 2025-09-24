@@ -75,7 +75,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with "[doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7)" being my own go-to example. Yes, anyone today can self-release their works… but this isn't a *blessing*; it's a *curse*! Past artists got started with a *demo*— and to rival them means doing likewise.
+A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with "[doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7)" being my own go-to example. Yes, anyone today can self-release their works… but this isn't a *blessing*; it's a *curse*! Past artists got started with *demos*— and to rival them means doing likewise.
 
 **Why a demo *registry*?**
 
@@ -131,10 +131,6 @@ Unlike an arts foundation, though, phlans *don't* need to hold strict standards 
 
 So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the surefire *winners*!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 And yet… this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can keep your dignity instead— knowing it's the *only* way to make history.
 
 ### ${++sectionCounter}. History making is now a mere hobby
@@ -145,16 +141,12 @@ Well… we're *all* free to make art, right? Which means the government must fir
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. But if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of quiet preparation… will be paying their own way the *whole* time.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To be clear, I'm not against, let's say, *universal* health care. When we support artists in *particular*, however, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this early on— having only *ever* been seen as a hobbyist by the indie tastemakers. Now BYCombo helps you find partners who'd rather give amnesty to the best… than charity to all the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Sounds off.
 `}
 
 Growing up as a child of Asian immigrants, I was aware that other countries beyond our English-speaking world had [their own](https://youtu.be/QhOFg_3RV5Q) rock canons. Yet because they looked up to ours, we cared little of theirs— making ours "the" historical canon! Especially since any one of their bands who *could* rival us, like ABBA… simply joined us instead.
@@ -344,10 +336,6 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 "Who could've foreseen all the drawbacks of propagating indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Rappers get this, which is why they rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? It's because "larping," or live-action role-playing, is only good enough when aiming for a *foreign* canon, not "the" canon— so after years of larping as an era-defining movement, the indie camp has lost all cultural relevance. And now, we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like us— and specifically, the *hungriest*.
@@ -446,10 +434,6 @@ There's also a selfish reason to do so: Once we shut out the outsiders of our ti
 
 Perhaps my arguments against indie rock seem moot, now that "poptimism" has defeated "rockism." After all, doesn't this mean that pop killed rock? Well, no; the *real* killer was "indiefication." Unaware of their complicity, however, many in the indie camp then sought to be of use elsewhere. So poptimism… is really just indie rock's good intentions brought to the pop genre!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was rock and roll, whose lineage traces to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's Jewish immigrants.
 
 Both movements protect the favored underdog by refusing to ask: "Wouldn't the hungry outsider— who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times, then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
@@ -460,21 +444,9 @@ Yet underdog movements will never go away, because to be treated as an underdog 
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Since the indie camp measures artistry by paid dues— and "poptimists," by popularity— both see a natural ally in the tech platforms, who work best with objective metrics such as these. So every new technology in the '00s— digital downloads, streaming media, crowdfunding— was really about bringing the good intentions of underdog movements to the Internet!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 After all, here's how it worked before: Each major label would bet on visions that others *didn't* see— like, let's say, a regional style blowing up all over the world. But this left bands powerless to negotiate; they couldn't play one label off another, since a vision alone is worth nothing. As a result, they often had to accept unfair terms… leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
-
-${'  ' || `
-// TODO: Review.
-`}
 
 By contrast, the indie labels simply pick what the people want, going by the size of an artist's fanbase. Once *anyone* sees a safe bet, then, *everyone* does… and now all that's left is for one label to outbid the rest by offering the most generous terms. Which means the way to do *right* by artists— and thus to be rated as a "good guy"— is to trust the cold, hard numbers!
 
@@ -499,10 +471,6 @@ In indie rock, a fanbase is built from the bottom up, one fan at a time. So I wa
 Within the past few decades, we've come to learn that startups are uniquely positioned to innovate because of [how they grow](https://paulgraham.com/growth.html#:~:text=That%20difference%20is,from%20the%20beginning.): Unlike a retail store, which can't scale into a chain if it's unprofitable, a startup with few users might lose money on each user— yet *still* hope to turn a profit upon gaining millions of them! How? Through network effects and economies of scale.
 
 Well, this *also* explains how an artist like me— who can't even gain *one* fan— might still hope to gain a *million*! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will parse them only if others have done the same: network effects! And when your parts are [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=33&annotation=40), new bandmates won't commit to fully learning them until an audience is guaranteed: economies of scale!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all along was to gain a million fans at *once*, from the top down?
 
@@ -664,10 +632,6 @@ Why is progressivism so badly beaten in both politics and the arts today? It's b
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Because of this, they'll get toppled as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
 In other words, the popular model of an "[upside-down horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase! Once the "building" phase begins, our best chance as progressives— whether political or artistic— is to *work* with our side's elites.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Which means we'll [need to quit](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) "larping" as revolutionaries— that is, to quit equating virtue with *identity*, rather than with *impact*— and instead, master the skills needed to analyze our problems and propose solutions. But how? Beyond acknowledging the messiness of our human nature… we must also appreciate systems in all their complexity.
 
