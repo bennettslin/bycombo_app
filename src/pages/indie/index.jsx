@@ -146,10 +146,10 @@ To be clear, I'm not against, let's say, *universal* health care. When we suppor
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
 ${'  ' || `
-// TODO: Revise. Sounds off.
+// TODO: Review.
 `}
 
-Growing up as a child of Asian immigrants, I was aware that other countries beyond our English-speaking world had [their own](https://youtu.be/QhOFg_3RV5Q) rock canons. Yet because they looked up to ours, we cared little of theirs— making ours "the" historical canon! Especially since any one of their bands who *could* rival us, like ABBA… simply joined us instead.
+Growing up as a child of Asian immigrants, I was aware that other countries had [their own](https://youtu.be/QhOFg_3RV5Q) rock canons, beyond that of our English-speaking world. Yet because they looked up to ours, we cared little of theirs— making ours "the" historical canon! Especially since any of their bands who *could* rival us, like ABBA… simply joined us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
@@ -584,6 +584,8 @@ Culturally progressive alternative.
 
 * to be independent, I don't need you, but you also don't need me
 
+* Indie mentality that you have high agency as an individual
+
 First paragraph
 
 
@@ -593,6 +595,8 @@ A movement that emphasizes self-sacrifice for the sake of the collective is the 
 AI simply takes further indie rock's ideal of the self-interested individual triumphing over the collective. It might as well stand for "accelerated indiefication"!
 
 As such, it's not enough to return to the ideals of the '00s— the golden years, according to Millennials— back when the collective action problems created by indie rock weren't yet known to be such. We must return to the ideals of the 20th century— the golden decades, according to us Xennials and everyone older— before those collective action problems even started.
+
+Net givers versus net takers.
 
 Third paragraph
 Authenticity
