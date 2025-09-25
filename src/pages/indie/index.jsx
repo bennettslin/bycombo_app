@@ -71,10 +71,6 @@ Meanwhile, your artistic talents work the *opposite* way: They get you far once 
 
 **Why demos?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 A demo shows what a work can be in the *future*, with a partner's help. This doesn't just free a band to take creative risks; it awakens the very thought to try— with "[doublespeaker rhyme](https://yearlingsbobtail.com/4-odin/?verse=1&annotation=7)" being my own go-to example. Yes, anyone today can self-release their works… but this isn't a *blessing*; it's a *curse*! Past artists got started with *demos*— and to rival them means doing likewise.
 
 **Why a demo *registry*?**
@@ -146,9 +142,7 @@ To be clear, I'm not against, let's say, *universal* health care. When we suppor
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
 ${'  ' || `
-// TODO: Review a few more times.
-
-Growing up as a child of Asian immigrants, I was aware that other countries had [their own](https://youtu.be/QhOFg_3RV5Q) rock canons, beyond that of our English-speaking world. Yet because they looked up to ours, we cared little of theirs— making ours "the" historical canon! Especially since any of their bands who *could* rival us, like ABBA… simply joined us instead.
+// TODO: Review.
 `}
 
 Growing up in the '80s as a child of Asian immigrants, I was aware that our English-speaking world's rock canon wasn't the only one; other countries had [their own](https://youtu.be/QhOFg_3RV5Q). Yet because they derived from ours, we cared little for theirs— making ours "the" historical canon! Especially since any of their bands who *could* rival us, like ABBA… simply joined us instead.
@@ -450,10 +444,6 @@ Since the indie camp measures artistry by paid dues— and "poptimists," by popu
 
 After all, here's how it worked before: Each major label would bet on visions that others *didn't* see— like, let's say, a regional style blowing up all over the world. But this left bands powerless to negotiate; they couldn't play one label off another, since a vision alone is worth nothing. As a result, they often had to accept unfair terms… leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
-${'  ' || `
-// TODO: Review.
-`}
-
 By contrast, the indie labels simply pick what the people want, going by the size of an artist's fanbase. Once *anyone* sees a safe bet, then, *everyone* does… and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists— and thus to be rated as a "good guy"— is to trust the cold, hard numbers!
 
 So when the tech platforms arrived to disrupt the majors using data-driven methods, the indie camp was *fully* on board. I still recall how they rushed to defend file sharing: "*Real* artists earn a living by going on tour. Recordings are just for publicity; they *should* be free!" And social networks: "*Real* artists engage with their fans after a show— and now they can at *any* time!"
@@ -465,10 +455,6 @@ To sum up, it was the *indie camp* who gave us today's [data-driven industry](ht
 Are we headed for a new Romanticism? Some foresee a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want, just like word of mouth does; it's why indie rock defended them for as long as it did. In this light, then, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
 As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass who generates them! And [when in doubt](https://en.wikipedia.org/wiki/Mimetic_theory), we look to others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
@@ -680,10 +666,6 @@ Let's return to the original question: How has indie rock made music worse? In s
 Thanks to indie rock, though, today's artists have no such reason to believe. So they spread their works from the bottom up, hoping for one to catch on with the crowd— which, these days, means going viral. But in doing so, they end up building "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if we can't articulate it.
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel the same. But when artists are being discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered this way as well?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Today's music is worse, then, because it's bottom up— while history *itself* is top down. Sadly, just like "fish don't know they're wet," Millennials and Gen Z don't know these are bottom-up times. Which means the revolution *must* be started by us Xennials, who recall a top-down past. So come join BYCombo, and build up your one-to-*n* talents… in faith that a savior will then find you!
 
