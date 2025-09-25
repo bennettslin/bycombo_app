@@ -145,7 +145,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Growing up in the '80s as a child of Asian immigrants, I was aware that our English-speaking world's rock canon wasn't the only one; other countries had [their own](https://youtu.be/QhOFg_3RV5Q). Yet because they derived from ours, we cared little for theirs— making ours "the" historical canon! Especially since any of their bands who *could* rival us, like ABBA… simply joined us instead.
+Growing up as a child of Asian immigrants, I was aware that the rock canon of our English-speaking world isn't the only one; [other countries](https://youtu.be/QhOFg_3RV5Q) have their own. Yet because they derive from ours, we care little for theirs— making ours "the" canon! Especially since any of their bands who *can* rival us, such as ABBA… simply join us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
@@ -609,6 +609,8 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 Individualism in a sea of collectivism. Collectivist movement in a sea of individualism.
 
 Talk about anti-vax. Herd immunity.
+
+Mention persona.
 `}
 
 To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
