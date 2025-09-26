@@ -145,7 +145,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Growing up as a child of Asian immigrants, I was aware that the rock canon of our English-speaking world isn't the only one; [other countries](https://youtu.be/QhOFg_3RV5Q) have their own. Yet because they derive from ours, we care little for theirs— making ours "the" canon! Especially since any of their bands who *can* rival us, such as ABBA… simply join us instead.
+Growing up as a child of Asian immigrants, I was aware that the rock canon of our English-speaking world isn't the only one; [other countries](https://youtu.be/QhOFg_3RV5Q) have their own. Yet because they derived from ours, we cared little for theirs— making ours "the" canon! Especially since any of their bands who *could* rival us, such as ABBA… simply joined us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
@@ -253,7 +253,11 @@ Sad to say, young folks don't question today's auto-Bizarro world, since it's al
 
 Want even *more* absurdity? Any rich artist can simply pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— to the benefit of the privileged. How did this happen?
 
-It's simple: Indie rock is widely seen as a do-it-yourself movement— the kind that fosters *cooperative* self-reliance by instilling a [love for the craft](https://en.wikipedia.org/wiki/Maker_Faire). As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
+${'  ' || `
+// TODO: Review link.
+`}
+
+It's simple: Indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling a love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
 But being indie is all about gaining public exposure— and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*… and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
