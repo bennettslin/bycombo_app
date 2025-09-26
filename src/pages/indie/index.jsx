@@ -145,7 +145,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Growing up as a child of Asian immigrants, I knew that the rock canon of our English-speaking world wasn't the only one; [other countries](https://youtu.be/QhOFg_3RV5Q) had their own. Yet because they derived from ours, we cared little for theirs— which made ours "the" canon! Especially since any of their bands who *could* rival us, such as ABBA… would simply join us instead.
+Growing up as a child of Asian immigrants, I knew that the rock canon of our English-speaking world wasn't the only one; [other countries](https://youtu.be/QhOFg_3RV5Q) had their own. Yet because they derived from ours, we cared little for theirs— which made ours "the" canon! Especially since any of their bands who *could* rival us, like ABBA… would simply join us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
@@ -253,19 +253,15 @@ Sad to say, young folks don't question today's auto-Bizarro world, since it's al
 
 Want even *more* absurdity? Any rich artist can simply pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— to the benefit of the privileged. How did this happen?
 
+It's simple: Indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling a love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
+
 ${'  ' || `
 // TODO: Review link.
 `}
 
-It's simple: Indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling a love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
-
-But being indie is all about gaining public exposure— and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*… and having privilege is the [greatest predictor](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
+But being indie is all about gaining public exposure— and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*… and having privilege is the [greatest predictor](http://archive.today/2025.09.26/https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against nationalization by *refusing* to help society advance.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 To protest against "indiefication," then, interdependent bands can do the opposite, and *readily* advance the art form… even when this hurts their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the amnesty program for artistic progressives, who self-sacrifice out of love for the craft.
 
