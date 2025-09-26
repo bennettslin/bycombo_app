@@ -145,7 +145,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Growing up as a child of Asian immigrants, I was aware that the rock canon of our English-speaking world isn't the only one; [other countries](https://youtu.be/QhOFg_3RV5Q) have their own. Yet because they derived from ours, we cared little for theirs— making ours "the" canon! Especially since any of their bands who *could* rival us, such as ABBA… simply joined us instead.
+Growing up as a child of Asian immigrants, I knew that the rock canon of our English-speaking world wasn't the only one; [other countries](https://youtu.be/QhOFg_3RV5Q) had their own. Yet because they derived from ours, we cared little for theirs— which made ours "the" canon! Especially since any of their bands who *could* rival us, such as ABBA… would simply join us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
