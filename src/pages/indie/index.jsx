@@ -141,19 +141,11 @@ To be clear, I'm not against, let's say, *universal* health care. When we suppor
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Growing up as a child of Asian immigrants, I knew that the rock canon of our English-speaking world wasn't the only one; [other countries](https://youtu.be/QhOFg_3RV5Q) had their own. Yet because they derived from ours, we cared little for theirs— which made ours "the" canon! Especially since any of their bands who *could* rival us, like ABBA… would simply join us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
 Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! So they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
-
-${'  ' || `
-// TODO: Revise. Explicitly make point that today's music is just another foreign canon now.
-`}
 
 Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Fortunately, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
@@ -259,10 +251,6 @@ Want even *more* absurdity? Any rich artist can simply pay *others* to do the mi
 
 It's simple: Indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling a love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
 
-${'  ' || `
-// TODO: Review link.
-`}
-
 But being indie is all about gaining public exposure— and this is a zero-sum game: When attention is paid to one artist, it *isn't* being paid to the rest. So the indie camp is really about *competitive* self-reliance! Like libertarians in politics, they want "doing it yourself" to be how you even survive at *all*… and having privilege is the [greatest predictor](http://archive.today/2025.09.26/https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html#:~:text=Many%20times%20when,100%20percent%20accurate.) of this belief.
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against nationalization by *refusing* to help society advance.
@@ -343,10 +331,6 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 Yet despite the poor fit, indie rock sure is eager of late to hand us the reins! Why? It's because "larping," or live-action role-playing, is only good enough when aiming for a *foreign* canon, not "the" canon— so after years of larping as an era-defining movement, the indie camp has lost all cultural relevance. And now, we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like us— and specifically, the *hungriest*.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Don't be fooled, then, by those who merely *larp* as history makers! All your instincts that stem from a *lack* of privilege— your hunger to be the best, and thus your need for mutual reliance— are *exactly* what it takes to aim for the historical canon. So come follow them, with BYCombo— the next movement after hip hop that's of, by, and for the under-*class*… not under-*dogs*.
 
@@ -448,10 +432,6 @@ Both movements protect the favored underdog by refusing to ask: "Wouldn't the hu
 
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Yet underdog movements will never go away, because to be treated as an underdog is a *privilege*… and the privileged can always find ways to benefit themselves. But what if you're *not* whom the people want to root for? Then let BYCombo throw you a lifeline, by bringing back rockism— rock and roll's original spirit, courtesy of its [founding underclass](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
 
 ### ${++sectionCounter}. Fair practices follow the numbers
@@ -521,10 +501,6 @@ Look… either it's an advantage to hustle, or it *isn't* a disadvantage not to.
 Thankfully, some of you now *agree* with me that music has since declined… and you'd like to walk away from this delusion of pro-artist unity! But where to? Why, you can join us at BYCombo, and stand fiercely for the artistic *left*… knowing that those on the *right*— the indie camp— are still good people.
 
 ### ${++sectionCounter}. Music recording is its own medium
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Now that we're drowning in content, the new Romantics long for a return to live shows. Yet shows are fleeting by nature… like content! It's why the best live performers, like content creators, strive to *consistently* deliver; theirs is the ultimate "workhorse art." And music needs that! But who'll deliver this generation's "windfall art"— which calls for betting it all on a *single* chance?
 
