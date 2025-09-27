@@ -151,6 +151,10 @@ So I've long understood that, to belong in the canon next to the Beatles, my ban
 
 Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it doesn't give [recent artists](https://uproxx.com/indie/rock-and-roll-hall-of-fame-bias-against-alt-indie-rock) a fair chance to get in. But unlike past inductees, this century's indie artists *aren't* better than their foreign contemporaries— who have *no* chance! So they're *not* helping to justify calling ours "the" rock canon… in which case, why would they belong in "the" Rock Hall?
 
+${'  ' || `
+// TODO: Revise. Explicitly make point that today's music is just another foreign canon now.
+`}
+
 Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Fortunately, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
 ### ${++sectionCounter}. Talent seeks a path to stardom
@@ -518,7 +522,11 @@ Thankfully, some of you now *agree* with me that music has since declined… and
 
 ### ${++sectionCounter}. Music recording is its own medium
 
-In a world now awash in content, the new Romantics long for a return to live shows. Yet shows are fleeting by nature… just like content! It's why the best live performers, just like content creators, strive to *consistently* deliver; theirs is the ultimate "workhorse art." And music needs that! But who'll deliver this generation's "windfall art"— which calls for betting it all on a *single* chance?
+${'  ' || `
+// TODO: Review.
+`}
+
+Now that we're drowning in content, the new Romantics long for a return to live shows. Yet shows are fleeting by nature… like content! It's why the best live performers, like content creators, strive to *consistently* deliver; theirs is the ultimate "workhorse art." And music needs that! But who'll deliver this generation's "windfall art"— which calls for betting it all on a *single* chance?
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a stellar demo— and [so I set](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17) to [work on mine](https://yearlingsbobtail.com/16-cremated/?annotation=4).
 
