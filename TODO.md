@@ -1,5 +1,12 @@
 # TODO
 
+# Tomorrow
+
+* Review BYC
+* Review YB
+* Work on one YB rest annotation
+* Begin thinking about BD system
+
 # Nice to do
 * Header work
 
