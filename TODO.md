@@ -10,7 +10,7 @@
         * BD
 
 * BD
-    * Substack thing
+    * System to post daily puzzles on Substack
 
 * Substack
     * Switch all websites to use Substack as mailing list
