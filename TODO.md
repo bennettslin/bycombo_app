@@ -2,7 +2,6 @@
 
 # Tomorrow
 
-* Review BYC
 * Review YB
 * Work on one YB rest annotation
 * Begin thinking about BD system
@@ -41,9 +40,8 @@
 
 * BYC
     * Sentences with ellipsis in between instead of a third em-dash:
-        * Here's my take: An elitist gatekeeper…
+        * A gatekeeper helps to take…
         * Sometime in the '00s…
-        * In the past, bands relied on…
     * Collectivists pool their achievements
         * Evangelists just a single paragraph in this section?
             * Make it about partners as bandmates?

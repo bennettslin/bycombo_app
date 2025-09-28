@@ -255,6 +255,10 @@ But being indie is all about gaining public exposure— and this is a zero-sum g
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against nationalization by *refusing* to help society advance.
 
+${'  ' || `
+// TODO: Revise? Make it more about the protest part, perhaps by pointing out that by refusing to partner with those of us who *don't* care about being exploited, the indie camp is also refusing to let the art form advance. This makes it less about amnesty, so maybe go back to saying alternative.
+`}
+
 To protest against "indiefication," then, interdependent bands can do the opposite, and *readily* advance the art form… even when this hurts their *own* prospects! So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the amnesty program for artistic progressives, who self-sacrifice out of love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
@@ -440,10 +444,6 @@ Since the indie camp measures artistry by paid dues— and "poptimists," by popu
 
 After all, here's how it worked before: Each major label would bet on visions that others *didn't* see— like, let's say, a regional style blowing up all over the world. But this left bands powerless to negotiate; they couldn't play one label off another, since a vision alone is worth nothing. As a result, they often had to accept unfair terms… leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
-${'  ' || `
-// TODO: Review.
-`}
-
 By contrast, the indie labels simply pick what the people want, going by the size of an artist's fanbase. Once *anyone* sees a safe bet, then, *everyone* does… and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists— and thus to be rated as a "good guy"— is to trust those objective metrics!
 
 So when the tech platforms arrived to disrupt the majors using data-driven methods, the indie camp was *fully* on board. I still recall how they rushed to defend file sharing: "*Real* artists earn a living by going on tour. Recordings are just for publicity; they *should* be free!" And social networks: "*Real* artists engage with their fans after a show— and now they can at *any* time!"
@@ -510,7 +510,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Now that content is overflowing, the new Romantics long for a return to live shows. Yet shows are fleeting by nature… just like content! It's why the best live performers, like content creators, strive to *consistently* deliver; theirs is the ultimate "workhorse art." And music needs that! But who'll deliver this generation's "windfall art"— which calls for betting it all on a *single* chance?
+Now that content is abundant, the new Romantics long for a return to live shows. Yet shows are fleeting by nature… just like content! It's why the best live performers, like content creators, strive to *consistently* deliver; theirs is the ultimate "workhorse art." And music needs that! But who'll deliver this generation's "windfall art"— which calls for betting it all on a *single* chance?
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a stellar demo— and [so I set](https://yearlingsbobtail.com/6-ash-wednesday/?annotation=17) to [work on mine](https://yearlingsbobtail.com/16-cremated/?annotation=4).
 
@@ -662,10 +662,6 @@ It's because we only pine for past artists who self-sacrificed to advance the ar
 Yet self-empowerment comes with its own set of problems. For one, it's just [power-seeking](http://archive.today/2022.10.26/https://www.nytimes.com/2019/02/13/arts/music/ryan-adams-women-sex.html), [self-serving](https://pitchfork.com/news/arcade-fires-win-butler-accused-of-sexual-misconduct-by-multiple-women-frontman-responds) behavior in those we see as underdogs; it's not noble in and of itself. For another, artists with this trait hold the *advantage*— so how are *they* the underdogs? But worst of all, it ensures that indie rock's structural rules, which promise fair compensation, can *never* be broken.
 
 If rock is to be saved, then, we *must* give amnesty to those who self-sacrifice for art's sake. Yes, by needing business partners, they leave themselves open to exploitation— and by siding with elitist gatekeepers, they incur the wrath of *middling* artists. But once the art form declines, what's left to protect? So after Empowerment… comes the Age of Martyrdom.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Let's never go back to the days of artists dying young, of course. Thankfully, history tells of another kind of martyr: those who sacrificed not their *lives*, but [serious chunks](https://www.nelsonmandela.org/biography) of *lifetime*. Well, what if the next Nirvana is an entire *movement* of selfless bands doing just that? If so, then join us at BYCombo— and help give the next generation a Nirvana of their own!
 
