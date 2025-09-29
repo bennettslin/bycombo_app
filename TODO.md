@@ -16,7 +16,11 @@
         * BD
 
 * BD
-    * System to post daily puzzles on Substack
+* System to post daily puzzles on Substack
+    * Create markdown page for future reference
+        * Generate puzzles for 2025 and 2026
+        * Delete older puzzles from years ago
+    * Create Bobtail Dominoes user on Substack
 
 * Substack
     * Switch all websites to use Substack as mailing list
