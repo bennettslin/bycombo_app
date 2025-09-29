@@ -3,7 +3,7 @@
 # Tomorrow
 
 * Review YB
-* Work on one YB rest annotation
+* Revise one rest annotation
 * Begin thinking about BD system
 
 # Nice to do
