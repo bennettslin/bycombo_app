@@ -611,6 +611,8 @@ Individualism in a sea of collectivism. Collectivist movement in a sea of indivi
 Talk about anti-vax. Herd immunity.
 
 Mention persona.
+
+To be great means missing out on most things. This is intolerable for individualists.
 `}
 
 To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
