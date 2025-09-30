@@ -40,7 +40,7 @@
     * Change interactivated verse?
     * New annotations
         * Theory of mind
-        * Carpenters
+            * Willy
 
 * BYC
     * Sentences with ellipsis in between instead of a third em-dash:
