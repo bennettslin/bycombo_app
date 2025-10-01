@@ -251,7 +251,11 @@ And here's more absurdity: Whereas artists are loved for doing what we'd all rat
 
 Let's be clear, the best artists *value* the middleman. After all, when you're the best at your job, it's a waste of your talents to do anyone else's— and knowing that your own job is way harder than it looks, you have to assume the same of everyone else's. Plus, as one of the best yourself, you get your pick of the best partners. It's called division of labor; we learned this in middle school!
 
-Sad to say, young folks don't question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of having one job as an artist— seeing that there's no other way to make the best art! Now with BYCombo, this dream can be yours as well.
+${'  ' || `
+// TODO: Review.
+`}
+
+Sad to say, young folks don't question today's auto-Bizarro world, since it's all they've ever known. But I came of age *before* indie rock took over, so I've only *ever* dreamt of doing one job as an artist— given it's the only way to make the best art! Now with BYCombo, this dream can be yours as well.
 
 ### ${++sectionCounter}. Self-reliance is a partisan ideal
 
