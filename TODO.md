@@ -40,6 +40,7 @@
     * Change interactivated verse?
 
 * BYC
+    * Consider doing screen widths smartly
     * Sentences with ellipsis in between instead of a third em-dash:
         * A gatekeeper helps to take…
         * Sometime in the '00s…
@@ -53,7 +54,6 @@
                 * Like my immigrant parents, I would be fulfilled by others' achievements
                     * While living to 
                 * Climate change and artistic climate change
-    * Consider doing screen widths smartly
     * Consider smart quote in Wikipedia link update
 
 * Distro
