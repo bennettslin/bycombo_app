@@ -2,7 +2,10 @@
 
 # Tomorrow
 
+* Allergy shot
+* Write to Anita
 * Review YB
+* Review "that" everywhere?
 * Revise one rest annotation
 * Begin thinking about BD system
 
