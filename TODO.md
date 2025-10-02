@@ -4,7 +4,6 @@
 
 * Write to Anita
 * Review YB
-* Review "that" for YB
 * Revise one rest annotation
 * Begin thinking about BD system
 
