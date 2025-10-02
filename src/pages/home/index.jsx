@@ -37,7 +37,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-**As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… given there's no other way to make the best art!**
+**As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… seeing as there's no other way to make the best art!**
 
 ### Return of the rock martyrs
 
