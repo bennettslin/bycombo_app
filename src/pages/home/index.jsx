@@ -33,10 +33,6 @@ It's simple: While indie rock was founded by *underdogs*, hip hop was founded by
 
 By *not* hustling, however, I'm dismissed as a hobbyist— and then my band isn't charitably supported as an indie artist would be. But charitable support is such a [winning advantage](/indie#charity-escalates-into-an-arms-race), no other artist can hope to compete. Which means a *label* can only compete by signing indie artists… who work hard *not* to need them. What a mess! And yet, the future is clear:
 
-${'  ' || `
-// TODO: Review.
-`}
-
 **As indie artists grow further empowered, labels will soon have no reason to exist— *unless* they get back to signing interdependent bands, who *do* need them… seeing as there's no other way to make the best art!**
 
 ### Return of the rock martyrs
