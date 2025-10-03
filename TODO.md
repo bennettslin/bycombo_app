@@ -2,10 +2,9 @@
 
 # Tomorrow
 
-* Write to Anita
-* Review YB
 * Revise one rest annotation
 * Begin thinking about BD system
+* Write to Anita
 
 # Nice to do
 * Header work
@@ -34,11 +33,6 @@
         * Yearling's Bobtail illustrations
 
 * YB
-    * Fix laying qualms to rest!
-        * Have annotations scroll, once and for all?
-    * Review all annotations
-        * Consider more semicolons in short annotations currently separated into two sentences
-    * Change interactivated verse?
 
 * BYC
     * Consider doing screen widths smartly
