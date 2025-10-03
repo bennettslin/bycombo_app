@@ -39,6 +39,7 @@ const Anchor = ({
             {...{
                 className: cx(
                     'Anchor',
+                    'colour__link',
                     !noVisited && 'Anchor__showVisited',
                     className,
                 ),

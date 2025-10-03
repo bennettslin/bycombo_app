@@ -73,27 +73,6 @@ button, input[type=submit] {
 
 a, button, input[type=submit] {
     cursor: pointer;
-    color: $colour__link__dark;
-
-    &:not([disabled]):hover {
-        color: $colour__link__medium;
-    }
-
-    &:not([disabled]):active {
-        color: $colour__link__light;
-    }
-
-    &.Anchor__showVisited:visited {
-        color: $colour__visited__dark;
-
-        &:not([disabled]):hover {
-            color: $colour__visited__medium;
-        }
-
-        &:not([disabled]):active {
-            color: $colour__visited__light;
-        }
-    }
 }
 
 em, i {

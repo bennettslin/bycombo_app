@@ -1,14 +1,3 @@
-@import '../../scss/constants/responsive';
-
 .MailingList {
     width: 100%;
-    max-width: 360px;
-
-    & > :not(:first-child) {
-        margin-top: $margin__xs * 0.5;
-    }
-}
-
-.MailingList__wide {
-    max-width: 480px;
 }

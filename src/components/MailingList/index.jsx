@@ -1,38 +1,27 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import cx from 'classnames'
-import MailingListInputs from './Inputs'
+import Flex from '../Flex'
+import MailingListAnchor from './Anchor'
+import FinePrint from '../FinePrint'
 import { getFormattedText } from '../../utils/format'
-import { EMAIL_ACTION } from '../../constants/website'
 import './style'
 
-const MailingList = ({ isWide }) => (
-    <form
-        noValidate
+const MailingList = () => (
+    <Flex
         {...{
             className: cx(
                 'MailingList',
-                isWide && 'MailingList__wide',
             ),
-            action: EMAIL_ACTION,
-            method: 'post',
-            target: '_blank',
+            flexDirection: 'column',
         }}
     >
-        <label {...{ className: cx('MailingList__label') }}>
-            Join the BYCombo mailing list:
-        </label>
-        <MailingListInputs />
-        <div {...{ className: cx('font__finePrint') }}>
+        <MailingListAnchor />
+        <FinePrint>
             {getFormattedText(
-                `We'll send out one newsletter per month at most.`,
+                `We'll send out one email per month at most.`,
             )}
-        </div>
-    </form>
+        </FinePrint>
+    </Flex>
 )
-
-MailingList.propTypes = {
-    isWide: PropTypes.bool,
-}
 
 export default MailingList

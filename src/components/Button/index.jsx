@@ -10,6 +10,7 @@ import './style'
 
 const Button = forwardRef(({
     className,
+    href,
     analyticsLabel,
     pagePath,
     isSelected,
@@ -23,9 +24,15 @@ const Button = forwardRef(({
 }, ref) => {
     const
         isTooltipEnabled = Boolean(tooltipId),
-        isInternalLink = pagePath && !isSelected,
-        Tag = isInternalLink ? Link : 'button'
+        isInternalLink = pagePath && !isSelected
 
+    let Tag = 'button'
+
+    if (isInternalLink) {
+        Tag = Link
+    } else if (href) {
+        Tag = 'a'
+    }
     const onClick = e => {
         if (isSelected) {
             return
@@ -49,6 +56,10 @@ const Button = forwardRef(({
                     'Button',
                     className,
                 ),
+                href,
+                ...href && {
+                    target: '_blank',
+                },
                 onClick,
                 ...isInternalLink && {
                     to: getInternalLinkForPath(pagePath),
@@ -79,6 +90,7 @@ const Button = forwardRef(({
 
 Button.propTypes = {
     className: PropTypes.string,
+    href: PropTypes.string,
     analyticsLabel: PropTypes.string,
     pagePath: PropTypes.string,
     isSelected: PropTypes.bool,

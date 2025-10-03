@@ -32,9 +32,6 @@ const Body = () => {
             {(formattedTitle || headerFromDate) && (
                 <Flex
                     {...{
-                        className: cx(
-                            'fontSize__md',
-                        ),
                         flexDirection: 'column',
                         alignItems: 'normal',
                         gap: 'sm',
