@@ -4,6 +4,10 @@
     flex-grow: 1;
     display: flex;
 
+    @media (min-width: $breakpoint__sm) {
+        width: $width__md;
+    }
+
     @media (min-width: $breakpoint__md) {
         width: $width__lg;
     }

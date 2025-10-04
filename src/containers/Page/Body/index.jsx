@@ -26,6 +26,7 @@ const Body = () => {
             {...{
                 className: cx(
                     'Body',
+                    'fontSize__md',
                 ),
             }}
         >

@@ -9,12 +9,4 @@
     gap: $margin__md;
 
     line-height: 1.5em;
-
-    @media (min-width: $breakpoint__sm) {
-        font-size: 1.16em;
-    }
-
-    @media (min-width: $breakpoint__md) {
-        font-size: 1.33em;
-    }
 }
