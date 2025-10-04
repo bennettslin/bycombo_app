@@ -7,6 +7,7 @@ const AppFooter = () => (
         {...{
             className: cx(
                 'AppFooter',
+                'fontSize__sm',
             ),
         }}
     >

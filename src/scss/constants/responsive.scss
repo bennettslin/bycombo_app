@@ -1,7 +1,9 @@
+$multiplier__size: 1.33;
+
 /* Recent. */
 $width__sm: 480px;
-$width__md: 640px;
-$width__lg: 800px;
+$width__md: 600px;
+$width__lg: $width__md * $multiplier__size;
 
 $height__appFooter: 48px;
 
