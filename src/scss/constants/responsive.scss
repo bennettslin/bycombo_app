@@ -1,9 +1,10 @@
 $multiplier__size: 1.33;
 
 /* Recent. */
-$width__sm: 480px;
-$width__md: 600px;
-$width__lg: $width__md * $multiplier__size;
+$width__default: 800px;
+$width__sm: $width__default / ($multiplier__size * 2);
+$width__md: $width__default / $multiplier__size;
+$width__lg: $width__default;
 
 $height__appFooter: 48px;
 
@@ -19,8 +20,6 @@ $margin__md: 24px;
 $margin__lg: 32px;
 $margin__xl: 40px;
 
-$breakpoint__xs: 480px;
-$breakpoint__sm: 720px;
-$breakpoint__md: 960px;
-$breakpoint__lg: 1200px;
-$breakpoint__xl: 1440px;
+$breakpoint__xs: $width__sm + $margin__xs * 2;
+$breakpoint__sm: $width__md + $margin__sm * 2;
+$breakpoint__md: $width__lg + $margin__md * 2;

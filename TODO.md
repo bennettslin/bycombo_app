@@ -23,7 +23,6 @@
 * YB
 
 * BYC
-    * Consider doing screen widths smartly
     * Sentences with ellipsis in between instead of a third em-dash:
         * A gatekeeper helps to take…
         * Sometime in the '00s…

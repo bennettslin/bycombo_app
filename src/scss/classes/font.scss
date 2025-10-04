@@ -42,27 +42,28 @@
 $fontSize__default: 1em;
 $fontSize__smallest: $fontSize__default / ($multiplier__size * 2);
 $fontSize__smaller: $fontSize__default / $multiplier__size;
+$fontSize__medium: $fontSize__default;
 $fontSize__larger: $fontSize__default * $multiplier__size;
 $fontSize__largest: $fontSize__default * ($multiplier__size * 2);
 
 .fontSize__sm { font-size: $fontSize__smallest; }
 .fontSize__md { font-size: $fontSize__smaller; }
-.fontSize__lg { font-size: $fontSize__default; }
+.fontSize__lg { font-size: $fontSize__medium; }
 
 @media (min-width: $breakpoint__xs) {
     .fontSize__sm { font-size: $fontSize__smallest; }
     .fontSize__md { font-size: $fontSize__smaller; }
-    .fontSize__lg { font-size: $fontSize__default; }
+    .fontSize__lg { font-size: $fontSize__medium; }
 }
 
 @media (min-width: $breakpoint__sm) {
     .fontSize__sm { font-size: $fontSize__smaller; }
-    .fontSize__md { font-size: $fontSize__default; }
+    .fontSize__md { font-size: $fontSize__medium; }
     .fontSize__lg { font-size: $fontSize__larger; }
 }
 
 @media (min-width: $breakpoint__md) {
-    .fontSize__sm { font-size: $fontSize__default; }
+    .fontSize__sm { font-size: $fontSize__medium; }
     .fontSize__md { font-size: $fontSize__larger; }
     .fontSize__lg { font-size: $fontSize__largest; }
 }
