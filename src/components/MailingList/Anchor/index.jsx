@@ -1,6 +1,7 @@
 import React from 'react'
 import cx from 'classnames'
 import Button from '../../Button'
+import { MAILING_LIST_WEBSITE } from '../../../constants/website'
 
 const MailingListAnchor = () => (
     <Button
@@ -12,7 +13,7 @@ const MailingListAnchor = () => (
                 'colour__link',
             ),
             analyticsLabel: 'BYComboSubstack',
-            href: 'https://bycombo.substack.com',
+            href: MAILING_LIST_WEBSITE,
         }}
     >
                 Join our mailing list

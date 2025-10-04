@@ -16,8 +16,6 @@
             * Update website mailing list Substack link
 
 * Substack
-    * Switch all websites to use Substack as mailing list
-        * YB
     * Showing the work
         * Yearling's Bobtail scores
         * Yearling's Bobtail illustrations
