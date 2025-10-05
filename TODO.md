@@ -10,8 +10,7 @@
 
 * BD
     * System to post daily puzzles on Substack
-        * Create markdown page for future reference
-            * Generate puzzles for 2025 and 2026
+        * Generate puzzles for 2025 and 2026
         * Create Bobtail Dominoes user on Substack
             * Update website mailing list Substack link
 
