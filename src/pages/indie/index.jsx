@@ -442,10 +442,6 @@ After all, here's how it worked before: Each major label would bet on visions th
 
 By contrast, the indie labels simply pick what the people want, going by the size of an artist's fanbase. Once *anyone* sees a safe bet, then, *everyone* does… and now all that's left is for one label to outbid the rest by offering the most generous terms. In other words, the way to do *right* by artists— and thus to be rated as a "good guy"— is to trust those objective metrics!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 So when the tech platforms arrived to disrupt the majors using data-driven methods, the indie camp was *fully* on board. I still recall how they rushed to defend file sharing: "Real artists earn a living by going on tour. Recordings are just for publicity; they *should* be free!" And social networks: "Real artists engage with their fans after a show— and now they can at *any* time!"
 
 To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music)! Thanks to them— and their grievances— even the *majors* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) indies now, by forcing you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers… but to pursue a vision that few others see.
