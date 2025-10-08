@@ -3,14 +3,12 @@
 # Tomorrow
 
 * Revise one rest annotation
-* Begin thinking about BD system
 * Write to Anita
 
 # This year
 
 * BD
     * System to post daily puzzles on Substack
-        * Generate puzzles for 2025 and 2026
         * Create Bobtail Dominoes user on Substack
             * Update website mailing list Substack link
 
@@ -18,8 +16,6 @@
     * Showing the work
         * Yearling's Bobtail scores
         * Yearling's Bobtail illustrations
-
-* YB
 
 * BYC
     * Sentences with ellipsis in between instead of a third em-dash:
@@ -37,9 +33,8 @@
                 * Climate change and artistic climate change
     * Consider smart quote in Wikipedia link update
 
-* Distro
-    * Make everything (demo version)
-        * Or just delete
+* DistroKid
+    * Wait on review
 
 # Emails to filter:
 
