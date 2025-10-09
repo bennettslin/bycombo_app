@@ -99,7 +99,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major… this was seen as proof that artists *don't* benefit from label deals?! Yes, I'm talking about the former [human statue](https://www.ted.com/talks/amanda_palmer_the_art_of_asking)!
+For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=Indie%20rock%20has%20received,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major… this was seen as proof that artists *don't* benefit from a label deal?! Yes, I'm talking about the former [human statue](https://www.ted.com/talks/amanda_palmer_the_art_of_asking)!
 
 Let's face it, in every early example of online success… chance, privilege, or sheer opportunism played a clear role. Yet the indie camp was so eager to spurn the majors, they downplayed this point. Well, it worked: The Internet came to be seen as a meritocracy, where *anyone* can make it. Except now, if an artist struggles to do so… the public *has* to assume they're unworthy!
 
