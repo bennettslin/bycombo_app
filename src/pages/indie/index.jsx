@@ -406,7 +406,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have shown that you *aren't* your own best advocate? Why, BYCombo can restore a judicial safeguard in the arts— by letting you partner with elites who'll advocate on your behalf!
+Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have shown that you *aren't* your own best advocate? Why, BYCombo will restore civil rights for the artistic underclass— by letting you partner with elites who'll advocate on your behalf!
 
 ### ${++sectionCounter}. Identity is a resort of the privileged
 
