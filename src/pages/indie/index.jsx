@@ -396,15 +396,7 @@ Indie rock's ideals are based on *ethics*, not *aesthetics*— and ethics transc
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 It's simple: Historically, victims of prejudice relied on a centralized judiciary to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to [end segregation](https://www.theguardian.com/society/2021/may/06/ruby-bridges-the-six-year-old-who-defied-a-mob-and-desegregated-her-school). But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it'll always uphold the prejudices of its times.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Well, is society free of prejudice today? Of course not. Yet no one noticed me staring glumly when indie rock took over… So what happens now, if *your* life experiences, like mine, have shown that you *aren't* your own best advocate? Why, BYCombo can restore your artistic civil rights— by letting you partner with elites who'll advocate on your behalf!
 
@@ -670,10 +662,6 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 ### ${++sectionCounter}. Artists want faith in a savior
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, in time, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the "one-to-*n*" talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 But thanks to "indiefication," today's artists have no such reason to believe. So they spread their works from the bottom up, hoping for one to catch on with the crowd— which, these days, means going viral. In doing so, however, they end up building "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if we can't articulate it.
 
