@@ -392,9 +392,17 @@ Still… what if *your* dream is to make "windfall art," which *requires* you to
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
-Indie rock's ideals are based on *ethics*, not *aesthetics*— and ethics transcend time. So why couldn't rock be indie from the *beginning*? Imagine, then, that we travel back in time to the '50s and announce, "Artists, as your own best advocate, you'll now be judged on self-reliance— that is, on how well you get *yourself* known, without a partner's help. The playing field is finally level!"
+${'  ' || `
+// TODO: Review.
+`}
 
-Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By bringing indie rock to the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
+Indie rock's ideals are based on *ethics*, not *aesthetics*— and ethics transcend time. So why couldn't rock be "indiefied" from the *beginning*? Imagine, then, that we go back in time to the '50s and announce, "Artists, as your own best advocate, you'll now be judged on self-reliance— that is, on how well you get *yourself* known, without a partner's help. The playing field is finally level!"
+
+${'  ' || `
+// TODO: Review.
+`}
+
+Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By indiefying rock in the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 
 It's simple: Historically, victims of prejudice relied on a centralized judiciary to *subvert* the people's will. During the civil rights movement, for example, the federal government had to force the Southern states to [end segregation](https://www.theguardian.com/society/2021/may/06/ruby-bridges-the-six-year-old-who-defied-a-mob-and-desegregated-her-school). But indie rock promises to *obey* the people's will by *de*-centralizing the arts— which means it'll always uphold the prejudices of its times.
 
