@@ -1,9 +1,11 @@
+@use 'sass:math';
+
 $multiplier__size: 1.33;
 
 /* Recent. */
 $width__default: 800px;
-$width__sm: $width__default / ($multiplier__size * 2);
-$width__md: $width__default / $multiplier__size;
+$width__sm: math.div($width__default, $multiplier__size * 2);
+$width__md: math.div($width__default, $multiplier__size);
 $width__lg: $width__default;
 
 $height__appFooter: 48px;

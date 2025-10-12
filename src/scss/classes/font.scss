@@ -1,3 +1,4 @@
+@use 'sass:math';
 @import '../constants/colours';
 @import '../constants/responsive';
 
@@ -40,8 +41,8 @@
 }
 
 $fontSize__default: 1em;
-$fontSize__smallest: $fontSize__default / ($multiplier__size * 2);
-$fontSize__smaller: $fontSize__default / $multiplier__size;
+$fontSize__smallest: math.div($fontSize__default, $multiplier__size * 2);
+$fontSize__smaller: math.div($fontSize__default, $multiplier__size);
 $fontSize__medium: $fontSize__default;
 $fontSize__larger: $fontSize__default * $multiplier__size;
 $fontSize__largest: $fontSize__default * ($multiplier__size * 2);
