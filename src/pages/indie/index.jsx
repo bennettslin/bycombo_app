@@ -393,15 +393,7 @@ Still… what if *your* dream is to make "windfall art," which *requires* you to
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Indie rock's ideals are based on *ethics*, not *aesthetics*— and ethics transcend time. So why couldn't rock be "indiefied" from the *beginning*? Imagine, then, that we go back in time to the '50s and announce, "Artists, as your own best advocate, you'll now be judged on self-reliance— that is, on how well you get *yourself* known, without a partner's help. The playing field is finally level!"
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Every Black artist would stare glumly at us. Why? Because, back then, they *needed* White partners to advocate on their behalf. Indie rock's rules would work like an artistic poll tax, shutting them out in *effect*— without admitting to this *intent*. By indiefying rock in the '50s, then… we'd look like racists. But this *wasn't* our intent! So where did we go wrong?
 

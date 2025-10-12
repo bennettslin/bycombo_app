@@ -18,10 +18,6 @@ At BYCombo, we believe that "[indiefication](/indie#the-revolution-will-not-be-d
 
 **Every band in this demo registry has pledged *not* to be indie— that is, *not* to get themselves known. Instead, they've each sacrificed a serious chunk of lifetime— 25,000 hours or more— on a demo that advances the art form.**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But remember, the indie tastemakers and their allies— the "[poptimists](/indie#underdogs-are-supremacists-in-effect)" and the [tech platforms](/indie#fair-practices-follow-the-numbers)— each have their reasons to keep indiefication in place. To save the arts, then, we'll need *others* to step up. Can one such savior… be you? If you have an opportunity or offer for any BYCombo band to consider, please contact them directly!
                 `,
                 (
