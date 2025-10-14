@@ -14,8 +14,10 @@
 
 * Substack
     * Showing the work
-        * Yearling's Bobtail scores
         * Yearling's Bobtail illustrations
+            * Actors
+            * Faces
+            * Props
 
 * BYC
     * Sentences with ellipsis in between instead of a third em-dash:
@@ -32,9 +34,6 @@
                     * While living to 
                 * Climate change and artistic climate change
     * Consider smart quote in Wikipedia link update
-
-* DistroKid
-    * Wait on review
 
 # Emails to filter:
 
