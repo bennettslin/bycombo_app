@@ -169,7 +169,11 @@ Because we're invested in the creative process ourselves, we commit fewer false 
 
 For instance, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](https://bobtailyearlings.com/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
 
-In essence: Ignore the critics, or any others who think history making is all a crapshoot! There *is* a reliable measure of your chances— and it's how much your talents, originality, and courage inspire the envy of fellow *artists*. So join us at BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out this century's own Galant era.
+${'  ' || `
+// TODO: Review.
+`}
+
+In essence, ignore the critics, or any others who think history making is all a crapshoot! There *is* a reliable measure of your chances: It's how much your talents, originality, and courage inspire the envy of fellow *artists*, relative to your fame. So join us at BYCombo, and surround yourself with peers who'll keep your standards high… as we wait out this century's own Galant era.
 
 ### ${++sectionCounter}. Time is kind to craft, not context
 
@@ -610,6 +614,8 @@ Talk about anti-vax. Herd immunity.
 Mention persona.
 
 To be great means missing out on most things. This is intolerable for individualists.
+
+Collectivists pool their experiences, allowing them *not* to see it all, or do it all.
 `}
 
 To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.

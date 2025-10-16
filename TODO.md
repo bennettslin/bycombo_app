@@ -15,8 +15,8 @@
 * Substack
     * Showing the work
         * Yearling's Bobtail illustrations
-            * Actors
-            * Faces
+            * Heads
+            * Bodies
             * Props
 
 * BYC
