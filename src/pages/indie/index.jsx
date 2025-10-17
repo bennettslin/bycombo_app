@@ -379,7 +379,11 @@ Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the
 
 Yet as W. David Marx observes in his book [*Status and Culture*](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx), every culture creates its own status hierarchy. Which means the one created by indie rock *isn't* the same as that of its predecessor— the alternative culture from which Radiohead emerged. There are new winners, but also new losers… such as "hobbyists," who now sit at the bottom.
 
-And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from On a Friday— and they *did*, to no confusion, as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
+${'  ' || `
+// TODO: Review link.
+`}
+
+And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday)— and they *did*, to no confusion, as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
 
 "But can't *today's* indies learn to sign the *next* Radiohead?" No… See, status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
