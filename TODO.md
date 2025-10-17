@@ -2,7 +2,6 @@
 
 # Tomorrow
 
-* Revise one rest annotation
 * Write to Anita
 
 # This year
@@ -15,7 +14,6 @@
 * Substack
     * Showing the work
         * Yearling's Bobtail illustrations
-            * Heads
             * Bodies
             * Props
 
