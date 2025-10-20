@@ -43,6 +43,10 @@ Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, the
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. Yet breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
+${'  ' || `
+// TODO: Revise? Make point that once good guys are in charge, you will become a conservative.
+`}
+
 Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs serve to uphold the structure… and the generation who put them in charge will agree. But suppose that society never *again* "forgives" its rule breakers? What we need, then, is an institution to formalize the *practice* of doing so— an amnesty program for the arts, if I may.
 
 **Why the historical canon?**
