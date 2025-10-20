@@ -41,11 +41,11 @@
 }
 
 $fontSize__default: 1em;
-$fontSize__smallest: math.div($fontSize__default, $multiplier__size * 2);
+$fontSize__smallest: math.div($fontSize__default, $multiplier__size * 1.5);
 $fontSize__smaller: math.div($fontSize__default, $multiplier__size);
 $fontSize__medium: $fontSize__default;
 $fontSize__larger: $fontSize__default * $multiplier__size;
-$fontSize__largest: $fontSize__default * ($multiplier__size * 2);
+$fontSize__largest: $fontSize__default * ($multiplier__size * 1.5);
 
 .fontSize__sm { font-size: $fontSize__smallest; }
 .fontSize__md { font-size: $fontSize__smaller; }

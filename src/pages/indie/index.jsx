@@ -627,6 +627,8 @@ Mention persona.
 To be great means missing out on most things. This is intolerable for individualists.
 
 Collectivists pool their experiences, allowing them *not* to see it all, or do it all.
+
+Let's face it, history makers will be low status for the indefinite future. A collectivist mindset is the only way that low status is tolerable.
 `}
 
 To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
