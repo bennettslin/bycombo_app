@@ -1,21 +1,11 @@
 # TODO
 
-# Tomorrow
-
-* Write to Anita
-
 # This year
 
 * BD
     * System to post daily puzzles on Substack
         * Create Bobtail Dominoes user on Substack
             * Update website mailing list Substack link
-
-* Substack
-    * Showing the work
-        * Yearling's Bobtail illustrations
-            * Bodies
-            * Props
 
 * BYC
     * Sentences with ellipsis in between instead of a third em-dash:
