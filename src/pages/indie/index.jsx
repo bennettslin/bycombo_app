@@ -376,18 +376,18 @@ In high school, a classmate referred to the carpetbaggers as "bad guys"— for h
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the elites of the political establishment… only to watch in confusion as the disadvantaged among us [side with](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631) those elites instead.
 
 ${'  ' || `
-// TODO: Revise? Talk about selling out here?
-
-Then state in last paragraph that it's only the privileged who can afford to be purists about never selling out?
-
-Let's be honest, only the privileged can afford to be purists about never selling out.
+// TODO: Keep working on.
 `}
 
-Of course, it isn't *just* in politics, but *also* in the arts, where this confusion has caused so much damage. For instance, as a minority artist, I do better trying to win the minds of a few elites, rather than the hearts of the crowd. Yet the indie camp— the good guys, as Millennials see it— won't listen. It's like they think I'm voting against my own interests!
+Of course, it's also in the arts where this confusion has caused such damage. For instance, as a minority, I relate most to those working-class alternative bands of the '90s, who instinctively sought to partner with the major labels. Yet the college-educated indie camp— the good guys, as Millennials see it— deride this dream as "selling out"… as if we're voting against our own interests!
 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *criticizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
 
-So will the sideways horseshoe ever be allowed to return? Regarding politics, I don't know enough to say… but in the arts, I can give a definite yes! Because with BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
+${'  ' || `
+// TODO: Keep working on.
+`}
+
+Because, let's face it, only the *privileged* can afford to be purists about never selling out. So… will the sideways horseshoe be allowed to return? Regarding politics, I don't know enough to say. But in the arts, I can give a definite yes! Thanks to BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
