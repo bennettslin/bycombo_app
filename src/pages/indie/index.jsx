@@ -44,10 +44,10 @@ Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, the
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. Yet breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
 ${'  ' || `
-// TODO: Revise? Make point that once good guys are in charge, you will become a conservative.
+// TODO: Review.
 `}
 
-Unfortunately, good guys will insist that *their* rules mustn't be broken; theirs serve to uphold the structure… and the generation who put them in charge will agree. But suppose that society never *again* "forgives" its rule breakers? What we need, then, is an institution to formalize the *practice* of doing so— an amnesty program for the arts, if I may.
+Sadly, once the good guys are in charge, the generation who put them there will naturally turn conservative— and thereafter help to *enforce* their rules. But suppose that society never *again* "forgives" its rule breakers? What we need today, then, is for a progressive institution like BYCombo to codify the *practice* of doing so— an amnesty program for the arts, if I may.
 
 **Why the historical canon?**
 
@@ -317,7 +317,11 @@ Social welfare is straightforward, right? After giving us all a fair chance, the
 
 So what *should* artistic welfare look like? Basically, a centralized institution must first cast a wide net, then take from the earnings of a successful few, to subsidize the same opportunities for the next generation of artists. But… this is how the major labels worked in their heyday, no? Promoting welfare in the arts, then, is simply the *smart* move— for any business with a profit motive!
 
-Unfortunately, *all* welfare is fragile: Rather than be grateful to get a chance at all, the unsuccessful tend to resent not being given *more* support… while the successful often assume they'd have done just as well on their own, and thus resent "paying it forward." So those who sit on the *right*— including the indie camp's artistic libertarians— find it easy to turn the people against welfare.
+${'  ' || `
+// TODO: Review.
+`}
+
+Unfortunately, *all* welfare is fragile: Rather than be grateful to get a chance at all, the unsuccessful tend to resent not being given *more* support… while the successful often assume they'd have done just as well on their own, and thus resent "paying it forward." So those who sit on the *right*— including the indie camp's artistic conservatives— find it easy to turn the people against welfare.
 
 Yet others *happily* pay it forward: "Paying more means we [succeeded more](http://archive.today/2025.06.26/https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=So%20thank%20you,They%20deserve%20better.)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo lets you find partners on the artistic *left*… who'll make the smart move once again.
 
