@@ -47,7 +47,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Sadly, once the good guys are in charge, the generation who put them there will naturally turn conservative— and thereafter help to *enforce* their rules. But suppose that society never *again* "forgives" its rule breakers? What we need today, then, is for a progressive institution like BYCombo to codify the *practice* of doing so— an amnesty program for the arts, if I may.
+Sadly, once the good guys are in charge, the generation who put them there will naturally turn conservative— and thereafter help to *enforce* their rules. But suppose that society never *again* "forgives" its rule breakers? What we need today, then, is for a progressive institution like BYCombo to *codify* the practice of doing so— an amnesty program for the arts, if I may.
 
 **Why the historical canon?**
 
