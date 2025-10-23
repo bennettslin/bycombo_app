@@ -29,7 +29,11 @@ Well, since gatekeepers look for low-status no-names with one-to-*n* talents, th
 
 **By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
-From there, we take *action*. Rebelling against centralized institutions would be easy, right? Just… tear them down! But against indie rock's *de*-centralized state of affairs, we must *build*— and this is far more difficult. After all, build… what, exactly? Fortunately, I've also spent half my life coming up with a plan:
+${'  ' || `
+// TODO: Review.
+`}
+
+From there, we take *action*. Rebelling against centralized institutions would be easy, right? Just… tear them down! But against indie rock's *de*-centralized structures, we must *build*— and this is far more difficult. After all, build *what*, exactly? Fortunately, I've also spent half my life coming up with a plan:
 
 **BYCombo's assembled bands will aim for the historical canon by sacrificing serious chunks of lifetime to make demos, which they'll then show in our demo registry to seek amnesty from interdependence-minded partners.**
 
@@ -47,7 +51,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Sadly, once the good guys are in charge, the generation who put them there will naturally turn conservative— and thereafter help to *enforce* the rules. But suppose that society never *again* "forgives" its rule breakers? What we need today, then, is for a progressive institution like BYCombo to *formalize* the practice of doing so— an amnesty program for the arts, if I may.
+Sadly, once the good guys are in charge, the generation who put them there will turn conservative— and thereafter help to *enforce* the rules. But suppose that society never *again* "forgives" its rule breakers? What we need, then, is for a progressive institution like BYCombo to *codify* the practice of doing so— an amnesty program for the arts, if I may.
 
 **Why the historical canon?**
 
@@ -363,10 +367,6 @@ Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennia
 
 ### ${++sectionCounter}. True progressives join the establishment
 
-${'  ' || `
-// TODO: Review section.
-`}
-
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for having exploited the defeated South. This surprised me, since I saw them as "good guys"— for having defended vulnerable Blacks. Clearly, he sided with the people, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the elites of the political establishment… only to watch in confusion as the disadvantaged among us [side with](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631) those elites instead.
@@ -377,13 +377,17 @@ ${'  ' || `
 
 Of course, it's *also* in the arts where this confusion has caused such damage. As a minority, for example, I relate more to those working-class alternative bands of the '90s, who instinctively sought to partner with the major labels. Yet the college-educated indie camp— the supposed good guys— won't hear of it: "If *we* can afford not to sell out, then so can everyone else!"
 
-Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *criticizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
+${'  ' || `
+// TODO: Review.
+`}
+
+Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Because, in truth, it's only the *privileged* who can afford to be moral purists about selling out. So… might we get another sideways horseshoe? Regarding politics, I don't know enough to say; but in the arts, it's a definite yes! Thanks to BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
+Because, in reality, it's only the *privileged* who can afford to be moral purists about selling out. So… might we get another sideways horseshoe? Regarding politics, I don't know enough to say; but in the arts, it's a definite yes! Thanks to BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
