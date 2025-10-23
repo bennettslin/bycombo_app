@@ -47,7 +47,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Sadly, once the good guys are in charge, the generation who put them there will naturally turn conservative— and thereafter help to *enforce* their rules. But suppose that society never *again* "forgives" its rule breakers? What we need today, then, is for a progressive institution like BYCombo to *codify* the practice of doing so— an amnesty program for the arts, if I may.
+Sadly, once the good guys are in charge, the generation who put them there will naturally turn conservative— and thereafter help to *enforce* the rules. But suppose that society never *again* "forgives" its rule breakers? What we need today, then, is for a progressive institution like BYCombo to *formalize* the practice of doing so— an amnesty program for the arts, if I may.
 
 **Why the historical canon?**
 
@@ -299,10 +299,6 @@ From there, we admit that the silent majority only want the *best* artists— an
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they judged his works! So there's a lesson here for all tastemakers: To discover an artist that future audiences will want to *re*-discover, simply… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the past, the major labels did just that: Their talent scouts would sign *any* artist on the strength of a stellar demo— even one with no fanbase, like Nick. Yet indie rock tells *every* artist to get themselves known… effectively saying they're each entitled to be. This, in turn, has killed off any notion that those who don't hustle could ever be *made* known— simply by deserving to be!
 
 Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Because, sure, it's a proven way to get fans— or dates!— but does society *want* this to be the case? Besides, most of us have now grown wise to being "negged"; sooner or later, then, won't we *also* wise up to, let's say, artists milking us for [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.)?
@@ -316,10 +312,6 @@ But why would the next generation side with past tastemakers who *didn't* care w
 Social welfare is straightforward, right? After giving us all a fair chance, the government taxes each of us at a rate proportionate to our success… which then subsidizes the same opportunities for the next generation. But welfare for artists is tricky, since— as we've seen— no government program is likely to give our history makers a fair chance.
 
 So what *should* artistic welfare look like? Basically, a centralized institution must first cast a wide net, then take from the earnings of a successful few, to subsidize the same opportunities for the next generation of artists. But… this is how the major labels worked in their heyday, no? Promoting welfare in the arts, then, is simply the *smart* move— for any business with a profit motive!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Unfortunately, *all* welfare is fragile: Rather than be grateful to get a chance at all, the unsuccessful tend to resent not being given *more* support… while the successful often assume they'd have done just as well on their own, and thus resent "paying it forward." So those who sit on the *right*— including the indie camp's artistic conservatives— find it easy to turn the people against welfare.
 
@@ -383,7 +375,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Of course, it's *also* in the arts where this confusion has inflicted damage. As a minority, for example, I relate more to those working-class alternative bands of the '90s, who instinctively sought to partner with the major labels. Yet the college-educated indie camp— the supposed good guys— won't hear of it: "If *we* can afford not to sell out, then so can everyone else!"
+Of course, it's *also* in the arts where this confusion has caused such damage. As a minority, for example, I relate more to those working-class alternative bands of the '90s, who instinctively sought to partner with the major labels. Yet the college-educated indie camp— the supposed good guys— won't hear of it: "If *we* can afford not to sell out, then so can everyone else!"
 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *criticizes* the disadvantaged for wanting to join the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
 
@@ -391,7 +383,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Because, let's be honest, being a moral purist about never selling out is really a sign of *privilege*. So… might we get another sideways horseshoe? Regarding politics, I don't know enough to say; but in the arts, it's a definite yes! Thanks to BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
+Because, in truth, it's only the *privileged* who can afford to be moral purists about selling out. So… might we get another sideways horseshoe? Regarding politics, I don't know enough to say; but in the arts, it's a definite yes! Thanks to BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
