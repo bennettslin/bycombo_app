@@ -593,7 +593,7 @@ Culturally progressive alternative.
 
 * Fixed mindset?
 
-* Having an authentic persona, staying true to who you are, how things were done in the past. Do mention both "authentic" and "persona."
+* Having an authentic persona, staying true to who you are, how things were done in the past. Do mention both "authentic" and "persona." It necessarily means you aren't creating new paradigms.
 
 * to be independent, I don't need you, but you also don't need me
 
