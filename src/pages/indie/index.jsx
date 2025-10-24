@@ -387,7 +387,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Because, in reality, it's only the *privileged* who can afford to be moral purists about selling out. So… might we get another sideways horseshoe? Regarding politics, I don't know enough to say; but in the arts, it's a definite yes! Thanks to BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
+Because, in reality, it's only the *privileged* who can afford to be moral purists about selling out! So… might we get another sideways horseshoe? Regarding politics, I don't know enough to say; but in the arts, it's a definite yes! Thanks to BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
