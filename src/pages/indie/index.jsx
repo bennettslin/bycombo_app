@@ -47,10 +47,6 @@ Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, the
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. Yet breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Sadly, once the good guys are in charge, the generation who put them there will turn conservative… and thereafter help to *enforce* the rules. But suppose that society never *again* "forgives" its rule breakers?! What's needed, then, is for a progressive institution like BYCombo to *codify* the practice of doing so— an amnesty program for the arts, if I may.
 
 **Why the historical canon?**
@@ -199,11 +195,7 @@ But in hindsight, it all *seemed* to be much ado about nothing— so Millennials
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
-${'  ' || `
-// TODO: Review link.
-`}
-
-It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Today? Pick this option, and you'll have *no* fans— making you the biggest loser, in the indie camp's view. And yet… indie rock [didn't exactly](https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=And%20to%20me%20that%E2%80%99s%20what,dustbin%20of%20history.) *win*, did it? So history *isn't* just "whatever happened"! Luckily, with BYCombo, Gen Z can now hold out for your works.
+It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Today? Pick this option, and you'll have *no* fans— making you the biggest loser, in the indie camp's view. And yet… indie rock [didn't exactly](https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=And%20to%20me%20that's%20what,dustbin%20of%20history.) *win*, did it? So history *isn't* just "whatever happened"! Luckily, with BYCombo, Gen Z can now hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
@@ -371,11 +363,11 @@ Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennia
 
 ### ${++sectionCounter}. True progressives join the establishment
 
-In high school, a classmate referred to the carpetbaggers as "bad guys"— for having exploited the defeated South. This surprised me, since I saw them as "good guys"— for having defended vulnerable Blacks. Clearly, he sided with the people, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
-
 ${'  ' || `
-// TODO: Review.
+// TODO: Review section.
 `}
+
+In high school, a classmate referred to the carpetbaggers as "bad guys"— for having exploited the defeated South. This surprised me, since I saw them as "good guys"— for having defended vulnerable Blacks. Clearly, he sided with the people, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
 
 Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— yet we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the disadvantaged among us [side with](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631) its elites instead.
 
@@ -383,13 +375,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But it's *also* in the arts where this confusion has done so much damage. As a minority, for example, I relate more to those working-class alternative bands of the '90s, who instinctively sought to partner with the major labels. Yet the college-educated indie camp— the supposed good guys— won't hear of it: "If *we* can afford not to sell out, then so can everyone else!"
+Of course, it's *also* in the arts where this confusion has done much damage. As a minority, for example, I relate more to those working-class alternative bands, who instinctively sought to partner with the major labels in the '90s. Yet the college-educated indie camp— the supposed good guys— won't hear of it: "If *we* can afford not to sell out, then so can everyone else!"
 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Because, let's be clear, only the *privileged* can afford to be such moral purists about selling out! So… might we get another sideways horseshoe? Regarding politics, I don't know enough to say; but in the arts, it's a definite yes! Thanks to BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
 
