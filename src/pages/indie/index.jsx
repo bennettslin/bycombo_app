@@ -22,10 +22,10 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 ### The revolution will *not* be decentralized
 
 ${'  ' || `
-// TODO: Keep working on. Single sentence is still too complicated.
+// TODO: Keep working on. Make last sentence more like, "And so they proceeded to realize every ideal that this entails…" Or, "As a result, their ideals are never questioned."
 `}
 
-First, we raise *awareness*. Since "indie" means "good" to so many, few notice the drawbacks of what I call "indiefication"— namely, indie rock's intent to have *every* artist spread their works from the bottom up, instead of the top down— along with all the ideals that this entails: cutting out the middleman, lowering barriers to entry, respecting direct fan engagement…
+First, we raise *awareness*. With the indie camp being "good guys" to so many, few notice the drawbacks of what I call "indiefication"— namely, their goal to have *all* of us spread our works from the bottom up, instead of the top down, along with every ideal that this entails. These ideals include: cutting out the middleman, lowering barriers to entry, respecting direct fan engagement…
 
 ${'  ' || `
 // TODO: Review.

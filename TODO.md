@@ -26,15 +26,6 @@
 # Emails to filter:
 
 apple.com
-
-soylent
-meetup
-trello
-twitter
-heroku
+frontier
 developer
 engineer
-chase
-adidas
-
-harbor steps
