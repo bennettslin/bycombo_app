@@ -22,10 +22,10 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 ### The revolution will *not* be decentralized
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Keep working on. Single sentence is still too complicated.
 `}
 
-First, we raise *awareness*. Since "indie" means "good" to so many, few see the drawbacks of what I call "indiefication"— namely, the goal to have *every* artist spread their works from the bottom up, instead of the top down— along with all the ideals that this entails: cutting out the middleman, lowering barriers to entry, respecting direct fan engagement…
+First, we raise *awareness*. Since "indie" means "good" to so many, few notice the drawbacks of what I call "indiefication"— namely, indie rock's intent to have *every* artist spread their works from the bottom up, instead of the top down— along with all the ideals that this entails: cutting out the middleman, lowering barriers to entry, respecting direct fan engagement…
 
 ${'  ' || `
 // TODO: Review.
