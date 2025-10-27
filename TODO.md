@@ -1,7 +1,4 @@
 # TODO
-* Consider removing "direct"?
-
-# This year
 
 * BD
     * System to post daily puzzles on Substack
@@ -23,10 +20,3 @@
                     * While living to 
                 * Climate change and artistic climate change
     * Consider smart quote in Wikipedia link update
-
-# Emails to filter:
-
-apple.com
-frontier
-developer
-engineer

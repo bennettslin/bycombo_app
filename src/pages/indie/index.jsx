@@ -129,7 +129,11 @@ In the past, we didn't "support" artists— [outside of](https://en.wikipedia.or
 
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the [same honors](https://pitchfork.com/news/45374-bon-iver-wins-grammys-for-best-new-artist-best-alternative-music-album).
 
-So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the surefire *winners*!
+${'  ' || `
+// TODO: Review.
+`}
+
+So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
 And yet… this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can keep your dignity instead— knowing it's the *only* way to make history.
 
@@ -313,7 +317,11 @@ Social welfare is straightforward, right? After giving us all a fair chance, the
 
 So what *should* artistic welfare look like? Basically, a centralized institution must first cast a wide net, then take from the earnings of a successful few, to subsidize the same opportunities for the next generation of artists. But… this is how the major labels worked in their heyday, no? Promoting welfare in the arts, then, is simply the *smart* move— for any business with a profit motive!
 
-Unfortunately, *all* welfare is fragile: Instead of being grateful to get a chance at all, the unsuccessful tend to resent not being given *more* support… while the successful often assume they'd have done just as well on their own, and thus resent "paying it forward." So those on the *right*— including indie rock's artistic conservatives— find it easy to turn the people against welfare.
+${'  ' || `
+// TODO: Review.
+`}
+
+Unfortunately, *all* welfare is fragile: Instead of feeling grateful to be given a chance at all, the unsuccessful often resent not getting *more* support… while the successful tend to assume they'd have done just as well on their own, and thus resent "paying it forward." So those on the *right*— including indie rock's artistic conservatives— find it easy to turn the people against welfare.
 
 Yet others *happily* pay it forward: "Paying more means we [succeeded more](http://archive.today/2025.06.26/https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=So%20thank%20you,They%20deserve%20better.)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo lets you find partners on the artistic *left*… who'll make the smart move once again.
 
@@ -363,17 +371,9 @@ Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennia
 
 ### ${++sectionCounter}. True progressives join the establishment
 
-${'  ' || `
-// TODO: Review section.
-`}
-
 In high school, a classmate referred to the carpetbaggers as "bad guys"— for having exploited the defeated South. This surprised me, since I saw them as "good guys"— for having defended vulnerable Blacks. Clearly, he sided with the people, while I sided with the elites and the underclass. So this model of a "sideways horseshoe" shows up not just in the arts… but in politics as well!
 
-Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— yet we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the disadvantaged among us [side with](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631) its elites instead.
-
-${'  ' || `
-// TODO: Review.
-`}
+Now, our forebears didn't need to coin such a term; they intuitively grasped why the underclass should distrust populism— the [New Deal](https://wwnorton.com/books/When-Affirmative-Action-Was-White), anyone?— but we've since lost this intuition. As a result, progressive Millennials keep trying to pit *all* of us against the political establishment… only to watch in confusion as the disadvantaged among us [side with](https://www.nbcnews.com/politics/elections/2016-clinton-sanders-black-voters-pick-winner-n1029631) its elites instead.
 
 Of course, it's *also* in the arts where this confusion has done much damage. As a minority, for example, I relate more to those working-class alternative bands of the '90s, who instinctively sought to partner with the major labels. Yet the college-educated indie camp— the supposed good guys— won't hear of it: "If *we* can afford not to sell out, then so can everyone else!"
 
