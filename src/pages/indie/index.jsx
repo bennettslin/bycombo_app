@@ -25,7 +25,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-First, we raise *awareness*. With the indie camp being "good guys" to so many, few see any downside to what I call "indiefication"— namely, their goal for *all* of us to spread our works from the bottom up, instead of the top down. As a result, the ideals that serve this goal now pass for universal: cutting out the middleman, lowering barriers to entry, respecting direct fan engagement…
+First, we raise *awareness*. Since so many treat the indie camp as "good guys," few see any downside to what I call "indiefication"— namely, their goal for *all* of us to spread our works from the bottom up, instead of the top down. But as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting direct fan engagement…
 
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=All%20the%20time,your%20actual%20being.)"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And knowing all this leads to revolution… How?"
 
