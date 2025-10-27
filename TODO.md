@@ -1,4 +1,5 @@
 # TODO
+* Consider removing "direct"?
 
 # This year
 

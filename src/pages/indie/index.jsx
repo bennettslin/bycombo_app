@@ -22,10 +22,10 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 ### The revolution will *not* be decentralized
 
 ${'  ' || `
-// TODO: Keep working on. Make last sentence more like, "And thus they face no opposition in realizing every one of their ideals…" Or, "As a result, their ideals are never questioned."
+// TODO: Review.
 `}
 
-First, we raise *awareness*. With the indie camp being "good guys" to so many, few notice the drawbacks of what I call "indiefication"— namely, their goal to have *all* of us spread our works from the bottom up, instead of the top down, along with every ideal that this entails. These ideals include: cutting out the middleman, lowering barriers to entry, respecting direct fan engagement…
+First, we raise *awareness*. With the indie camp being "good guys" to so many, few see any downside to what I call "indiefication"— namely, their goal for *all* of us to spread our works from the bottom up, instead of the top down. As a result, the ideals that serve this goal now pass for universal: cutting out the middleman, lowering barriers to entry, respecting direct fan engagement…
 
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=All%20the%20time,your%20actual%20being.)"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And knowing all this leads to revolution… How?"
 
@@ -331,7 +331,7 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
-"Who could've foreseen such a downside to popularizing indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Rappers get this, which is why they rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
+"Who could've foreseen all the drawbacks of propagating indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Rappers get this, which is why they rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
 
 Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? It's because "larping," or live-action role-playing, is only good enough when aiming for a *foreign* canon, not "the" canon— so after years of larping as an era-defining movement, indie rock has lost all cultural relevance. And now, we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
@@ -375,7 +375,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Of course, it's *also* in the arts where this confusion has done much damage. As a minority, for example, I relate more to those working-class alternative bands, who instinctively sought to partner with the major labels in the '90s. Yet the college-educated indie camp— the supposed good guys— won't hear of it: "If *we* can afford not to sell out, then so can everyone else!"
+Of course, it's *also* in the arts where this confusion has done much damage. As a minority, for example, I relate more to those working-class alternative bands of the '90s, who instinctively sought to partner with the major labels. Yet the college-educated indie camp— the supposed good guys— won't hear of it: "If *we* can afford not to sell out, then so can everyone else!"
 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
 
