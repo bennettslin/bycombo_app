@@ -117,11 +117,23 @@ Yet in *obeying* the people's will at all times, populism is just democracy with
 
 ### ${++sectionCounter}. The grassroots is now a lottery
 
-Of course, there's another reason we respect those '80s underground bands: To come up from their local scenes— also known as the grassroots— they put in the work each day for untold years. In other words, they ensured their own legacies— unlike a one-hit wonder, who simply signed to a major label for a single chance at public exposure… and then won the "lottery," so to speak.
+${'  ' || `
+// TODO: Review.
+`}
 
-Thanks to online tools, though, today's lottery players get *unlimited* chances. Moreover, rather than go through the majors to spread their works from the top down, they now win the people's support from the bottom up— making the Internet our new grassroots. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
+Of course, there's another reason we respect those '80s underground bands: To come up from their local scenes— also known as the grassroots— they put in the work each day for untold years. In other words, they ensured their own legacies— unlike a "one-hit wonder," who simply signed to a major label for a single chance at public exposure… and then won the "lottery," so to speak.
 
-By recasting itself as a populist movement, then, indie rock didn't just adopt the mainstream's *tastes*, but also its *indeterminacy*— where little but chance separates the few who make it from the millions who don't. But what if *you're* determined to ensure your own legacy? Then keep working on your craft for untold years— and let BYCombo expose you to the next elites!
+${'  ' || `
+// TODO: Review.
+`}
+
+Thanks to online tools, though, today's lottery players get *unlimited* chances. Moreover, rather than emerge from the top down by way of the majors, they now win the people's support from the bottom up— making the Internet our new grassroots. Which explains why we don't hear about one-hit wonders anymore: They've become indie artists in good faith!
+
+${'  ' || `
+// TODO: Review.
+`}
+
+By recasting itself as a populist movement, then, indie rock didn't just adopt the mainstream's *tastes*, but also its *indeterminacy*— where little but chance separates the few who make it from the millions who don't. But what if *you're* determined to ensure your own legacy? Then keep working on your craft for untold years… and let BYCombo expose you to the next elites!
 
 ### ${++sectionCounter}. Charity escalates into an arms race
 
