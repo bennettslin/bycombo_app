@@ -343,7 +343,11 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
-"Who could've foreseen all the drawbacks of propagating indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Rappers get this, which is why they rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
+${'  ' || `
+// TODO: Review.
+`}
+
+"Who could've foreseen such a downside to popularizing indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Rappers get this, which is why they rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
 
 Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? It's because "larping," or live-action role-playing, is only good enough when aiming for a *foreign* canon, not "the" canon— so after years of larping as an era-defining movement, indie rock has lost all cultural relevance. And now, we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
