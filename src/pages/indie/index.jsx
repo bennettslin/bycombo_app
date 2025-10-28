@@ -25,7 +25,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-First, we raise *awareness*. Since so many treat the indie camp as "good guys," few see any downside to what I call "indiefication"— namely, their goal for *all* of us to spread our works from the bottom up, instead of the top down. But as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting direct fan engagement…
+First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see any downside to what I call "indiefication"— namely, their goal for *all* of us to spread our works from the bottom up, instead of the top down. But as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=All%20the%20time,your%20actual%20being.)"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And knowing all this leads to revolution… How?"
 
@@ -133,7 +133,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
+So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even *superstars* angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
 And yet… this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can keep your dignity instead— knowing it's the *only* way to make history.
 
@@ -235,7 +235,11 @@ Consequently, it's often those with the [*least* experience](https://youtu.be/AC
 
 Can the indie labels learn *not* to be led astray? No, they're overworked and underpaid— or, in their words, "lean and scrappy"— and this is their selling point; by *not* hiring middlemen, they pass the savings onto the artist. Then, to free up "bandwidth," they just follow the instincts handed down by their forebears— like moths, which evolved to [orient themselves](https://www.theguardian.com/science/2024/jan/30/why-are-moths-attracted-to-lights-science-answer#:~:text=moths%20and%20many,they%20flew%20level.) by starlight.
 
-Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to trust it so highly. And likewise with their respect for direct fan engagement: Back then, it was only *ever* possible with a local gathering.
+${'  ' || `
+// TODO: Review.
+`}
+
+Of course, these instincts made sense in the '80s, when underground bands would build a fanbase by playing local shows. It's precisely *because* word of mouth only traveled locally, for example, that the indies came to trust it so highly. And likewise with their respect for fan engagement: Back then, it was only *ever* possible with a local gathering.
 
 But today, algorithms have turned word of mouth into wisdom of the crowd— which settles on an average by canceling out all extremes. And social media has made engaging with fans trivial; those who do so now might enjoy *fame*, but never *acclaim*. Yet the indies haven't noticed! Like moths circling a flame, they're stuck with outdated instincts in a modern world…
 
@@ -267,7 +271,7 @@ ${'  ' || `
 // TODO: Keep working on. Mention individualism?
 `}
 
-To oppose "indiefication," then, interdependent bands can "cross the picket line" and *readily* advance the art form… knowing the punishment that must then await them. So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the amnesty program for artistic progressives, who self-sacrifice out of love for the craft.
+To oppose "indiefication," then, interdependent bands can "cross the picket line" by *readily* advancing the art form… knowing the punishment that must then await them. So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the amnesty program for artistic progressives, who self-sacrifice out of love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -321,10 +325,6 @@ Social welfare is straightforward, right? After giving us all a fair chance, the
 
 So what *should* artistic welfare look like? Basically, a centralized institution must first cast a wide net, then take from the earnings of a successful few, to subsidize the same opportunities for the next generation of artists. But… this is how the major labels worked in their heyday, no? Promoting welfare in the arts, then, is simply the *smart* move— for any business with a profit motive!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Unfortunately, *all* welfare is fragile: Instead of feeling grateful to be given a chance at all, the unsuccessful often resent not getting *more* support… while the successful tend to assume they'd have done just as well on their own, and thus resent "paying it forward." So those on the *right*— including indie rock's artistic conservatives— find it easy to turn the people against welfare.
 
 Yet others *happily* pay it forward: "Paying more means we [succeeded more](http://archive.today/2025.06.26/https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=So%20thank%20you,They%20deserve%20better.)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo lets you find partners on the artistic *left*… who'll make the smart move once again.
@@ -342,10 +342,6 @@ Moreover, once someone has wasted their best years striving for symbolic credent
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never hustled to pay indie rock's dues myself.
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
-
-${'  ' || `
-// TODO: Review.
-`}
 
 "Who could've foreseen such a downside to popularizing indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Rappers get this, which is why they rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
 
@@ -407,7 +403,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-"Be so good they [can't ignore you](https://youtu.be/jTdXqsrs4oI)," Steve Martin advises. Well… I thought I'd done that, given the scope of my projects— including "[spatial amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566)," my theory for creating multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
+"Be so good they [can't ignore you](https://youtu.be/jTdXqsrs4oI)," Steve Martin advises. Well… I thought I'd done that, given the scope of my projects— including "[spatial amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566)," my theory for crafting multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
 Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. Consequently, everyone in indie rock converges on the same well-rounded way of thinking…
 

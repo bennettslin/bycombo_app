@@ -1,4 +1,5 @@
 # TODO
+* Revisit getting rid of "direct"
 
 * BD
     * System to post daily puzzles on Substack
