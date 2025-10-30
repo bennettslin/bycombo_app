@@ -271,9 +271,7 @@ ${'  ' || `
 // TODO: Keep working on. Mention individualism?
 `}
 
-To oppose "indiefication," then, an interdependent artist like yourself can "cross the picket line" and *selflessly* advance the art form… knowing the punishment that will then await them.
-
-So ignore those who'd advise you to be self-reliant, saying there's no other path. There is one *now*, with BYCombo— the amnesty program for artistic progressives, who self-sacrifice out of love for the craft.
+To oppose "indiefication," then, interdependent bands can "cross the picket line," and advance the art form… precisely by *not* being self-reliance. So ignore the indie camp's threats of punishment! With BYCombo, you can request amnesty from artistically progressive partners, who share your love for the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
@@ -642,6 +640,8 @@ Collectivists pool their experiences, allowing them *not* to see it all, or do i
 Let's face it, history makers will be low status for the indefinite future. A collectivist mindset is the only way that low status is tolerable.
 
 Mention entitlement.
+
+Let's face it, "indie architecture" isn't a thing, because we all grasp that any moderately ambitious project requires collaborative effort. With the indie takeover of music, then, what musical "cathedrals" have we missed out on?
 `}
 
 To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
