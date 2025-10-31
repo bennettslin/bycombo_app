@@ -14,10 +14,10 @@ const Component = ({ sectionCounter = 0 }) => (
             date: { year: 2025, month: 10 },
             body: `
 ${'  ' || `
-// TODO: Review reversion.
+// TODO: Review.
 `}
 
-By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. The indie labels held to fair practices, however, by only signing artists who already *had* a fanbase and thus *didn't* need a label. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
+By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. The indie labels held to fair practices, however, by only signing artists who already *had* a fanbase, and thus *didn't* need a label. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
 ${'  ' || `
 // TODO: Review.
@@ -33,7 +33,11 @@ First, we raise *awareness*. Since so many of us treat the indie camp as "good g
 
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=All%20the%20time,your%20actual%20being.)"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And knowing all this leads to revolution… How?"
 
-Well, since gatekeepers look for low-status no-names with one-to-*n* talents, their aim is to up-*end* the status hierarchy— placing them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one… and thus *already* enjoys higher status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
+${'  ' || `
+// TODO: Review.
+`}
+
+Well, since gatekeepers look for low-status no-names with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. Tastemakers, however, prefer the artist who's *already* gone from zero to one, and thus *already* enjoys higher status. Which means they up-*hold* the status quo— putting them on the *right*! So here's what needs to be explained:
 
 **By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
@@ -271,7 +275,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To oppose "indiefication," then, interdependent bands can "cross the picket line" and *readily* advance the art form— without *any* thought for being fairly compensated! "Won't indie rock punish us with lifelong obscurity, though?" Yes, but fear not: With BYCombo, you can still request amnesty from artistic *progressives*… by appealing to their love of the craft.
+To oppose "indiefication," then, interdependent bands can "cross the picket line," and *readily* advance the art form— without *any* thought for being fairly compensated! "Won't indie rock punish us with lifelong obscurity, though?" Yes, but fear not: With BYCombo, you can still request amnesty from artistic *progressives*… by appealing to their love of the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
