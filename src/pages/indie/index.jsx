@@ -13,10 +13,6 @@ const Component = ({ sectionCounter = 0 }) => (
             metaDescription: DESCRIPTION,
             date: { year: 2025, month: 10 },
             body: `
-${'  ' || `
-// TODO: Review.
-`}
-
 By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. The indie labels held to fair practices, however, by only signing artists who already *had* a fanbase, and thus *didn't* need a label. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
 ${'  ' || `
@@ -33,11 +29,7 @@ First, we raise *awareness*. Since so many of us treat the indie camp as "good g
 
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=All%20the%20time,your%20actual%20being.)"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And knowing all this leads to revolution… How?"
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Well, since gatekeepers look for low-status no-names with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. Tastemakers, however, prefer the artist who's *already* gone from zero to one, and thus *already* enjoys higher status. Which means they up-*hold* the status quo— putting them on the *right*! So here's what needs to be explained:
+Well, since gatekeepers look for low-status no-names with one-to-*n* talents, their aim is to up-*end* the status hierarchy— placing them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one… and thus *already* enjoys higher status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
 
 **By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
@@ -167,11 +159,7 @@ By the '00s, the major labels had gutted the local scenes in their search for th
 
 For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our human nature. Since it's hard to say whose works are best, we often just like what others like— and they do the same! As a result, any [random boost](http://archive.today/2024.07.19/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#:~:text=The%20reason%20is,in%20her%20place.) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally pray for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who signed with the indies for this very reason!
+Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who signed with the indies for this very reason!
 
 By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Thankfully, BYCombo is here to build a *new* path to stardom. Because, once you go above and beyond to make the best art, you *won't* just settle for a "[thousand true fans](https://kk.org/thetechnium/1000-true-fans)." And if superstars are inevitable… then why can't *you* get a chance to be one?
 
@@ -263,10 +251,6 @@ Sad to say, young folks don't question today's auto-Bizarro world, since it's al
 
 ### ${++sectionCounter}. Self-reliance is a partisan ideal
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Want even *more* absurdity? Any "trust fund baby" can simply pay *others* to do the middleman's job for them… and, well, who better to hire than a freelance middleman?! So in the end, indie rock has done little more than "privatize" access to business deals that were once a "public good"— all to the benefit of the privileged. How did this happen?
 
 It's simple: Indie rock is widely seen as a [do-it-yourself](https://en.wikipedia.org/wiki/Do_it_yourself) movement— the kind that fosters *cooperative* self-reliance by instilling a love for the craft. As such, it meets with no opposition and enjoys all the same goodwill. Now, this *would* be fitting… if indie artists only made music for their *own* fulfillment.
@@ -293,7 +277,11 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 ### ${++sectionCounter}. Democratization causes noise pollution
 
-To "democratize" Twitter, Elon Musk made the blue checkmark available to all, for a [small fee](https://x.com/elonmusk/status/1587498907336118274); he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a small portion of one's time and energy.
+${'  ' || `
+// TODO: Review.
+`}
+
+To "democratize" Twitter, Elon Musk made the blue checkmark available to all, for a [small fee](https://x.com/elonmusk/status/1587498907336118274); he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a portion of one's time and energy.
 
 But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who hustle to *get* the job, rather than simply *deserve* it. Seems bad, right? It's even worse…
 
@@ -403,11 +391,7 @@ And this should concern us, since Radiohead… were the ultimate hobbyists! They
 
 "But can't *today's* indies learn to sign the *next* Radiohead?" No… See, status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](http://archive.today/2024.05.11/https://www.bobdylan.com/songs/times-they-are-changin/#:~:text=For%20the%20loser,are%20a%2Dchangin%E2%80%99)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can pray for amnesty, after betting it all on the craft— your low-status "hobby."
+Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](http://archive.today/2024.05.11/https://www.bobdylan.com/songs/times-they-are-changin/#:~:text=For%20the%20loser,are%20a%2Dchangin%E2%80%99)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can hope for amnesty, after betting it all on the craft— your low-status "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 

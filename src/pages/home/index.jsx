@@ -17,11 +17,7 @@ Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! You 
 
 ### Tools… are *rules*
 
-${'  ' || `
-// TODO: Review.
-`}
-
-In the past, artists were powerless to get themselves known; they could only pray to be *made* known, by a record label. But now, indie rock provides them with online tools that allow them to hustle and build a fanbase on their own: social media, streaming services, crowdfunding platforms… and so forth.
+In the past, artists were powerless to get themselves known; they could only hope to be *made* known, by a record label. But now, indie rock provides them with online tools that allow them to hustle and build a fanbase on their own: social media, streaming services, crowdfunding platforms… and so forth.
 
 Except… here's the problem: These tools only offer an advantage over other artists who *don't* use them— and today, most *do*. So there's no longer much benefit; from here on out, their main purpose is to punish any holdouts. But wait… this is how *rules* work! By encouraging artists to use these tools, indie rock has now made it the *rule* to do so!
 
