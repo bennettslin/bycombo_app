@@ -3,6 +3,8 @@
     * Bobtail Method
     * Substack posts
 
+* Change to "if we were anyone else" or something like it
+
 * BD
     * System to post daily puzzles on Substack
         * Create Bobtail Dominoes user on Substack
