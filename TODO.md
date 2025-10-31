@@ -1,4 +1,7 @@
 # TODO
+* Change to "spatial amnesticism" elsewhere
+    * Bobtail Method
+    * Substack posts
 
 * BD
     * System to post daily puzzles on Substack
