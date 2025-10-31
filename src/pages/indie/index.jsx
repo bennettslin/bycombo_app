@@ -167,7 +167,11 @@ By the '00s, the major labels had gutted the local scenes in their search for th
 
 For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our human nature. Since it's hard to say whose works are best, we often just like what others like— and they do the same! As a result, any [random boost](http://archive.today/2024.07.19/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#:~:text=The%20reason%20is,in%20her%20place.) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
 
-Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who signed with the indies for this very reason!
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally pray for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who signed with the indies for this very reason!
 
 By blocking access to the majors, then, indie rock *didn't* help the most worthy artists flourish; it caused them to flee! Thankfully, BYCombo is here to build a *new* path to stardom. Because, once you go above and beyond to make the best art, you *won't* just settle for a "[thousand true fans](https://kk.org/thetechnium/1000-true-fans)." And if superstars are inevitable… then why can't *you* get a chance to be one?
 
@@ -399,7 +403,11 @@ And this should concern us, since Radiohead… were the ultimate hobbyists! They
 
 "But can't *today's* indies learn to sign the *next* Radiohead?" No… See, status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
-Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](http://archive.today/2024.05.11/https://www.bobdylan.com/songs/times-they-are-changin/#:~:text=For%20the%20loser,are%20a%2Dchangin%E2%80%99)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can hope for amnesty, after betting it all on the craft— your low-status "hobby."
+${'  ' || `
+// TODO: Review.
+`}
+
+Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](http://archive.today/2024.05.11/https://www.bobdylan.com/songs/times-they-are-changin/#:~:text=For%20the%20loser,are%20a%2Dchangin%E2%80%99)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can pray for amnesty, after betting it all on the craft— your low-status "hobby."
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
