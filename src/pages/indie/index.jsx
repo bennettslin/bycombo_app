@@ -263,7 +263,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To oppose "indiefication," then, interdependent bands can "cross the picket line," and *readily* advance the art form— without *any* thought for being fairly compensated! "Won't indie rock punish us with lifelong obscurity, though?" Yes, but fear not: With BYCombo, you can still request amnesty from artistic *progressives*… by appealing to their love of the craft.
+To oppose "indiefication," then, interdependent bands can "cross the picket line" by *readily* advancing the art form— without any thought for being fairly compensated! "Won't indie rock punish us with lifelong obscurity, though?" Yes, but fear not: With BYCombo, you can still request amnesty from artistic *progressives*… by appealing to their love of the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
