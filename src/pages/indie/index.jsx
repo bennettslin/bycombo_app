@@ -613,8 +613,6 @@ Individualism in a sea of collectivism. Collectivist movement in a sea of indivi
 
 Talk about anti-vax. Herd immunity.
 
-Mention persona.
-
 To be great means missing out on most things. This is intolerable for individualists.
 
 Collectivists pool their experiences, allowing them *not* to see it all, or do it all.

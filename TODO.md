@@ -1,14 +1,4 @@
 # TODO
-* Change to "spatial amnesticism" elsewhere
-    * Bobtail Method
-    * Substack posts
-
-* Change to "if we were anyone else" or something like it
-
-* BD
-    * System to post daily puzzles on Substack
-        * Create Bobtail Dominoes user on Substack
-            * Update website mailing list Substack link
 
 * BYC
     * Sentences with ellipsis in between instead of a third em-dash:
