@@ -15,7 +15,11 @@ const Component = ({ sectionCounter = 0 }) => (
             body: `
 By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. The indie labels held to fair practices, however, by only signing artists who already *had* a fanbase, and thus *didn't* need a label. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
-Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an Xennial, I've spent half my life arguing that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to all these new tech platforms, you can hustle to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does that say about your works?"
+${'  ' || `
+// TODO: Review.
+`}
+
+Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! As an Xennial, I've spent half my life arguing that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to all these new tech platforms, you can hustle to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does this say about your works?"
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](http://archive.today/2024.02.01/https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. On top of that, they'd *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
 
@@ -682,7 +686,11 @@ Let's never go back to the days of artists dying young, of course. Thankfully, h
 
 Let's return to the original question: How has indie rock made music worse? In summary, past artists grew up believing that, in time, they could partner with elites who'd advocate for them by spreading their works from the top down. And thus secure in this faith, they built up the "one-to-*n*" talents that gave us "[Reason to Believe](https://youtu.be/dUWZw8uDak4)"… and "[Both Sides, Now](https://youtu.be/J48BpiPLHtA?t=1989)"… and "[Superstar](https://youtu.be/SJmmaIGiGBg)"…
 
-But thanks to "indiefication," today's artists have no such reason to believe. So they spread their works from the bottom up, hoping for one to catch on with the crowd— which, these days, means going viral. In doing so, however, they end up building "zero-to-one" talents instead, leading to a different *kind* of work— a difference many of us hear, even if we can't articulate it.
+${'  ' || `
+// TODO: Review.
+`}
+
+But thanks to "indiefication," today's artists have no such reason to believe— so they spread their works from the bottom up, hoping one will please the crowd and go viral. Yet in doing so, they build "zero-to-one" talents instead, leading to a different *kind* of work— a difference heard by many, even if not everyone joins me in calling it "workhorse" versus "windfall art."
 
 "Is it *worse*, though?" Yes, insofar as it won't *last*. Remember, historians are *elites*; they don't *need* to obey the people's will. If they *want* to advocate for Joni Mitchell, now, it's because she made it easy for potential partners back then to feel the same. But when artists are being discovered by the crowd… well, who wouldn't just leave them to be *re*-discovered this way as well?
 
