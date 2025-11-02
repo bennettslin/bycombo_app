@@ -11,7 +11,7 @@ const Component = ({ sectionCounter = 0 }) => (
             title: TITLE,
             metaTitle: TITLE,
             metaDescription: DESCRIPTION,
-            date: { year: 2025, month: 10 },
+            date: { year: 2025, month: 11 },
             body: `
 By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. The indie labels held to fair practices, however, by only signing artists who already *had* a fanbase, and thus *didn't* need a label. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
@@ -19,7 +19,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! For half my Xennial life, I've argued that indie rock's concern with fair compensation has made music *worse*— to no avail. The way Millennials saw it: "Thanks to these new tech platforms, you can hustle to build a fanbase on your own; and the better your art, the farther you'll go! So if you hate it… well then, what does this say about your art?"
+Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! For half my Xennial life, I've argued that indie rock's concern with fair compensation has made music *worse*— to no avail. The way Millennials saw it: "Thanks to these new tech platforms, you can hustle to build a fanbase on your own; and the better your art, the farther you'll go! So if you hate it… well, what does this say about your art?"
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](http://archive.today/2024.02.01/https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. On top of that, they'd *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
 
@@ -298,6 +298,10 @@ From there, we admit that the silent majority only want the *best* artists— an
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they judged his works! So there's a lesson here for all tastemakers: To discover an artist that future audiences will want to *re*-discover, simply… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
+
+${'  ' || `
+// TODO: Revise. Consider rewriting last sentence to make it better?
+`}
 
 In the past, the major labels did just that: Their talent scouts would sign *any* artist on the strength of a stellar demo— even one with no fanbase, like Nick. Yet indie rock tells *every* artist to get themselves known… effectively saying they're each entitled to be. This, in turn, has killed off any notion that those who don't hustle could ever be *made* known— simply by deserving to be!
 
