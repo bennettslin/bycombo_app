@@ -13,13 +13,17 @@ const Component = ({ sectionCounter = 0 }) => (
             metaDescription: DESCRIPTION,
             date: { year: 2025, month: 11 },
             body: `
-By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. The indie labels held to fair practices, however, by only signing artists who already *had* a fanbase, and thus *didn't* need a label. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
+${'  ' || `
+// TODO: Review. Also review whole section.
+`}
+
+By the '90s, the major labels were clear "bad guys": They'd sign hundreds of no-names to unfair terms, hoping for a Nirvana or Radiohead to break out. But the indie labels only signed artists with an existing fanbase, who were thus empowered to hold out for generous terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! For half my Xennial life, I've argued that indie rock's concern with fair compensation has made music *worse*— to no avail. The way Millennials saw it: "Thanks to these new tech platforms, you can hustle to build a fanbase on your own; and the better your art, the farther you'll go! So if you hate it… well, what does this say about your art?"
+Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! For half my Xennial life, I've argued that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to these new tech platforms, it's easier than *ever* to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does this say about your works?"
 
 Thus I was left to struggle in a world that *wouldn't* speak out against indie rock. But now Gen Z is coming of age and dealing with the [same struggles](http://archive.today/2024.02.01/https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— which suggests they're ready to listen. On top of that, they'd *love* a Nirvana and Radiohead of their own. So let the interdependence revolution begin!
 
@@ -183,7 +187,11 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want context](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) that can be discussed at length, while local fans— now online— want direct engagement from the artist; so both, in their own way, are drawn more to a well-constructed *persona* than to a well-crafted *hook*.
 
-Any demand for such hooks, then, came *solely* from radio— which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… it looks like backstory and lore win out over melodies and chords!"
+${'  ' || `
+// TODO: Review.
+`}
+
+Any demand for such hooks, then, came *solely* from radio— which means the demise of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… it looks like backstory and lore beat out melodies and chords!"
 
 Yet the past artists we love most *don't* require us to dive into any surrounding "lore," do they? History, then, works like radio! So don't get complacent in this new online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft… as if you were an Xennial child hoping to get on the radio one day.
 
