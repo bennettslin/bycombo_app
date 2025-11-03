@@ -1,5 +1,9 @@
 # TODO
 
+* YB
+    * Mention Stone Temple Pilots
+        * For nonsensical lyrics
+
 * BYC
     * Sentences with ellipsis in between instead of a third em-dash:
         * A gatekeeper helps to take…
