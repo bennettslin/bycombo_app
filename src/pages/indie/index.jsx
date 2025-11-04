@@ -17,7 +17,7 @@ ${'  ' || `
 // TODO: Review. Also review whole section.
 `}
 
-By the '90s, the major labels were clear "bad guys": They'd sign hundreds of no-names to unfair terms, hoping for a Nirvana or Radiohead to break out. But the indie labels only signed artists with an existing fanbase, who were thus empowered to hold out for *generous* terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
+By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. But the indie labels only signed artists with an existing fanbase, who were thus empowered to hold out for *generous* terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
 ${'  ' || `
 // TODO: Review.
@@ -195,7 +195,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Any demand for such hooks, then, came *solely* from radio— which means the demise of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… it looks like backstory and lore beat out melodies and chords!"
+Any demand for such hooks, then, came *solely* from radio— which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… it looks like backstory and lore beat out melodies and chords!"
 
 Yet the past artists we love most *don't* require us to dive into any surrounding "lore," do they? History, then, works like radio! So don't get complacent in this new online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft… as if you were an Xennial child hoping to get on the radio one day.
 
