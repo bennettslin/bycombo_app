@@ -3,8 +3,7 @@
     * https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275/
 
 * YB
-    * Mention Stone Temple Pilots
-        * For nonsensical lyrics
+    * Review
 
 * BYC
     * Sentences with ellipsis in between instead of a third em-dash:

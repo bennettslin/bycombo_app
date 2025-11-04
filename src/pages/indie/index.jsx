@@ -17,7 +17,7 @@ ${'  ' || `
 // TODO: Review. Also review whole section.
 `}
 
-By the '90s, the major labels were clear "bad guys": They'd sign hundreds of no-names to unfair terms, hoping for a Nirvana or Radiohead to break out. But the indie labels only signed artists with an existing fanbase, who were thus empowered to hold out for generous terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
+By the '90s, the major labels were clear "bad guys": They'd sign hundreds of no-names to unfair terms, hoping for a Nirvana or Radiohead to break out. But the indie labels only signed artists with an existing fanbase, who were thus empowered to hold out for *generous* terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
 ${'  ' || `
 // TODO: Review.
@@ -33,7 +33,11 @@ First, we raise *awareness*. Since so many of us treat the indie camp as "good g
 
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=All%20the%20time,your%20actual%20being.)"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And knowing all this leads to revolution… How?"
 
-Well, since gatekeepers look for low-status no-names with one-to-*n* talents, their aim is to up-*end* the status hierarchy— placing them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one… and thus *already* enjoys higher status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
+${'  ' || `
+// TODO: Review.
+`}
+
+Well, since gatekeepers look for low-status no-names with one-to-*n* talents, their aim is to up-*end* the status hierarchy— placing them on the artistic *left*. Tastemakers, however, prefer the artist who's *already* gone from zero to one, and thus *already* enjoys high status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
 
 **By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
