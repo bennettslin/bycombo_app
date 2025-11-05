@@ -371,7 +371,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Because, let's be clear, only the *privileged* can afford to be such moral purists about selling out! So, might we get another sideways horseshoe? Regarding politics, who's to say… But in the arts, it's a definitive yes! With BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
+Because, let's be clear, only the *privileged* can afford to be such moral purists about selling out! So, might we get another sideways horseshoe? Regarding politics, who's to say… But in the arts, it's a solid yes! With BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
@@ -430,14 +430,10 @@ There's also a selfish reason to do so: Once we shut out the outsiders of our ti
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
 ${'  ' || `
-// TODO: Keep working on.
-
-Given their disdain for well-crafted hooks, the indie camp cheered the death of alternative rock— only to watch in confusion as young folks switched to pop and its market-driven hooks, rather than join in any refusal to value hooks at all. So with nowhere to go, they switched to pop themselves, bringing their good intentions with them… and thus "poptimism" was born.
-
-Mention underdog, charity case, relationship with fans, who support their favorite artist?
+// TODO: Review
 `}
 
-Perhaps my arguments against indie rock seem moot, now that "poptimism" has defeated "rockism." After all, doesn't this mean that pop killed rock? Well, no; the *real* killer was "indiefication." Unaware of their complicity, however, many in the indie camp then sought to be of use elsewhere. So poptimism… is really just indie rock's good intentions brought to the pop genre!
+Given their disdain for well-crafted hooks, the indie camp cheered when the Internet killed off the alternative rock I grew up on… only to watch as young folks switched to pop's *market-driven* hooks— rather than join in any refusal to value hooks at all. Unfazed, however, they simply made the switch as well, bringing their good intentions with them… and thus "poptimism" was born!
 
 Ignore the superficial differences in sound: Indie rock and poptimism are both underdog movements that supplanted a previous culture founded by outsiders. For the former, it was rock and roll, whose lineage traces to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's Jewish immigrants.
 
@@ -446,12 +442,10 @@ Both movements protect the chosen underdog by refusing to ask: "Wouldn't the hun
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
 ${'  ' || `
-// TODO: Review. Only switch if first paragraph is changed.
-
-Still, underdog movements are here to stay— because it's a *privilege* to be treated as an underdog, and the privileged will always find ways to benefit themselves. But what if you're *not* whom the people want to root for? Then let BYCombo toss you a lifeline, by bringing back "rockism"— rock and roll's original spirit, courtesy of its [founding underclass](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
+// TODO: Review.
 `}
 
-Still, underdog movements are here to stay— because it's a *privilege* to be treated as an underdog, and the privileged will always find ways to benefit themselves. But what if you're *not* whom the people want to root for? Then let BYCombo throw you a lifeline, by bringing back rockism— rock and roll's original spirit, courtesy of its [founding underclass](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
+Still, underdog movements are here to stay— because it's a *privilege* to be treated as an underdog, and the privileged will always find ways to benefit themselves. But what if you're *not* whom the people want to root for? Then let BYCombo toss you a lifeline, by bringing back "rockism"— rock and roll's original spirit, courtesy of its [founding underclass](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
