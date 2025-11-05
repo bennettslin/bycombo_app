@@ -25,10 +25,6 @@ First, we raise *awareness*. Since so many of us treat the indie camp as "good g
 
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=All%20the%20time,your%20actual%20being.)"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And knowing all this leads to revolution… How?"
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. Tastemakers, however, prefer an artist who's *already* gone from zero to one, and thus *already* enjoys high status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
 
 **By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
@@ -372,10 +368,10 @@ Of course, it's *also* in the arts where this confusion has done much damage. As
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
 
 ${'  ' || `
-// TODO: Revise. Avoid saying "thanks to" BYCombo, since I've used it sarcastically everywhere else?
+// TODO: Review.
 `}
 
-Because, let's be clear, only the *privileged* can afford to be such moral purists about selling out! So… might we get another sideways horseshoe? Regarding politics, I don't know enough to say; but in the arts, it's a definite yes! Thanks to BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
+Because, let's be clear, only the *privileged* can afford to be such moral purists about selling out! So, might we get another sideways horseshoe? Regarding politics, who's to say… But in the arts, it's a definitive yes! With BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
 
@@ -437,6 +433,8 @@ ${'  ' || `
 // TODO: Keep working on.
 
 Given their disdain for well-crafted hooks, the indie camp cheered the death of alternative rock— only to watch in confusion as young folks switched to pop and its market-driven hooks, rather than join in any refusal to value hooks at all. So with nowhere to go, they switched to pop themselves, bringing their good intentions with them… and thus "poptimism" was born.
+
+Mention underdog, charity case, relationship with fans, who support their favorite artist?
 `}
 
 Perhaps my arguments against indie rock seem moot, now that "poptimism" has defeated "rockism." After all, doesn't this mean that pop killed rock? Well, no; the *real* killer was "indiefication." Unaware of their complicity, however, many in the indie camp then sought to be of use elsewhere. So poptimism… is really just indie rock's good intentions brought to the pop genre!
