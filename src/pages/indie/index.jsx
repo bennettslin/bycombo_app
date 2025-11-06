@@ -430,18 +430,22 @@ There's also a selfish reason to do so: Once we shut out the outsiders of our ti
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
 ${'  ' || `
-// TODO: Review, including link.
+// TODO: Review. Also review link.
 `}
 
-Given their disdain for well-crafted hooks, the indie camp cheered when the Internet [killed off](http://archive.today/2025.04.18/https://pitchfork.com/reviews/albums/11829-machinathe-machines-of-god/#:~:text=Radio%20is%20a,The%20Smashing%20Pumpkins.) the alternative rock I grew up on… only to watch as young folks switched to pop's *market-driven* hooks— rather than join in any refusal to value hooks at all! Unfazed, however, they simply made the switch as well, bringing along their good intentions… and thus "poptimism" was born.
+Given [their disdain](https://www.avclub.com/stone-temple-pilots-theyre-actually-good-really-1798213754#:~:text=Back%20then%2C%20I,stigma%20still%20lingers.) for well-crafted hooks, the indie camp cheered when the Internet killed off the alternative rock I grew up on… only to watch as young folks switched to pop's *market-driven* hooks— rather than join in any refusal to value hooks at all! Unfazed, however, they simply made the switch as well, bringing along their good intentions. And so… "poptimism" was born.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Are you unconvinced by this origin story? Ignore the differences in sound: Indie rock and poptimism are each underdog movements that supplanted an earlier culture founded by outsiders. For the former, it was rock and roll, whose lineage traces to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's Jewish immigrants.
+Are you unconvinced by this origin story? I understand! But think about it: Indie rock and poptimism are both underdog movements that supplanted an earlier culture founded by outsiders. For the former, it was rock and roll, whose lineage traces to Sister Rosetta Tharpe; and for the latter, the classic pop defined by Tin Pan Alley's Jewish immigrants.
 
-Both movements protect the chosen underdog by refusing to ask: "Wouldn't the hungry outsider— who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times, then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
+${'  ' || `
+// TODO: Review.
+`}
+
+Both movements thus protect their underdogs by refusing to ask: "Wouldn't a hungry outsider— one who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times, then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
 
