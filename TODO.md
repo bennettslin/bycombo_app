@@ -1,6 +1,4 @@
 # TODO
-* Redo
-    * https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275/
 
 * YB
     * Review
