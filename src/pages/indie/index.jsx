@@ -13,10 +13,6 @@ const Component = ({ sectionCounter = 0 }) => (
             metaDescription: DESCRIPTION,
             date: { year: 2025, month: 11 },
             body: `
-${'  ' || `
-// TODO: Review.
-`}
-
 By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. But the indie labels only signed artists with an *existing* fanbase, who were thus empowered to hold out for *generous* terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! For half my Xennial life, I've argued that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to these new tech platforms, it's easier than *ever* to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does this say about your works?"
@@ -429,29 +425,13 @@ There's also a selfish reason to do so: Once we shut out the outsiders of our ti
 
 ### ${++sectionCounter}. Underdogs are supremacists in effect
 
-${'  ' || `
-// TODO: Review. Also review link.
-`}
-
 Given [their disdain](https://www.avclub.com/stone-temple-pilots-theyre-actually-good-really-1798213754#:~:text=In%20spite%20of,of%20mainstream%20rock.) for well-crafted hooks, the indie camp cheered when the Internet killed off the alternative rock I grew up on… only to watch as young folks then switched to pop's *market-driven* hooks— rather than join them in going without hooks at all! Unfazed, though, they simply made the switch as well, bringing along their good intentions. And so "poptimism" was born…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 "Wait, indie rock gave birth to poptimism?" It sounds odd, I know! But think about it: Both are underdog movements that supplanted an earlier culture founded by outsiders. For the former, it was Sister Rosetta Tharpe's rock and roll; and for the latter, the classic pop of Tin Pan Alley's Jewish immigrants.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Both movements thus protect their underdogs by refusing to ask: "Wouldn't a hungry outsider— one who tries much harder, to be much better— take us *farther*?" But if an underdog *isn't* the best of our times… then they'll also need history to *remember* them as the underdog. Yet future generations will know of every advantage they were given that was denied to the outsider!
 
 This… *can't* be a viable way to make history. Because, what notable figures from *our* past require the same cognitive dissonance of *us*? I can only think of the Ku Klux Klan and their ilk— America's original underdogs, who fought to suppress America's [original outsiders](https://www.goodreads.com/quotes/9648466-you-ve-got-to-be-twice-as-good-to-get-half)! Which doesn't bode well for indie rock's legacy… or poptimism's future…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 And yet, underdog movements are here to stay, because it's a *privilege* to be treated as an underdog— and the privileged will always find ways to benefit themselves. But what if you're *not* whom the people want to root for? Then let BYCombo toss you a lifeline, by bringing back "rockism"— rock and roll's original spirit, courtesy of its [founding underclass](https://www.goodreads.com/quotes/12348736-oh-these-kids-and-rock-and-roll-this-is)!
 
