@@ -13,7 +13,11 @@ const Component = ({ sectionCounter = 0 }) => (
             metaDescription: DESCRIPTION,
             date: { year: 2025, month: 11 },
             body: `
-By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. But the indie labels only signed artists with an *existing* fanbase, who were thus empowered to hold out for *generous* terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
+${'  ' || `
+// TODO: Review.
+`}
+
+By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or Radiohead to break out, they'd sign a hundred no-names to unfair terms. But the indie labels only signed artists with a *proven* fanbase, who were thus empowered to hold out for the *fairest* terms. A decade later, the majors got disrupted by the Internet— so the "good guys" won! Except now…
 
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! For half my Xennial life, I've argued that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to these new tech platforms, it's easier than *ever* to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does this say about your works?"
 
@@ -39,7 +43,11 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why amnesty?**
 
-Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they obey the people's will by only picking artists with an existing fanbase. For this reason, Millennials cheered when indie rock took over— while the people now support *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
+${'  ' || `
+// TODO: Review.
+`}
+
+Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they only pick artists with a built-in fanbase, who've thus proven to be what the *people* want. For this reason, Millennials cheered when indie rock took over— and now *every* indie artist is given full support. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. Yet breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
@@ -544,7 +552,6 @@ In his book [*Flow*](https://www.harpercollins.com/products/flow-mihaly-csikszen
 Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/article/music-and-mental-health) in music today, with artists facing high levels of anxiety and depression. Why? Because any exposure gained from decades of hustling might just as well be won by chance, bought with privilege, or stolen through opportunism— in an instant. Every artist knows this, yet they play by indie rock's rules anyway… and it eats at their soul.
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
-
 
 ### ${++sectionCounter}. Collectivists pool their achievements
 
