@@ -551,12 +551,7 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 ${'  ' || `
 // TODO: Keep working on.
 
-* In this section or the next, point out that Gen X allowed indie rock to coexist as a counterculture to alternative in the '90s, but Millennials refused to allow interdependence to coexist with indie rock in the '00s?
-
-* Future generations
 * Actions that make the world worse when everyone does them
-
-* No more fear of missing out
 
 https://karamary.substack.com/p/hey-mama-your-californian-ideology
 
@@ -566,24 +561,11 @@ Interdependent labels pool their rosters.
 
 * To be indie is to be, literally, *self*-ish. Individualists are loyal to no one but themselves, and the indie camp admires them for it.
 
-Culturally progressive alternative.
-
-* Protectionism
-
-* Great Man theory of history?
-
 * Fixed mindset?
 
 * Having an authentic persona, staying true to who you are, how things were done in the past. Do mention both "authentic" and "persona." It necessarily means you aren't creating new paradigms.
 
 * To be authentic in your own time, is to necessarily not be the first of your kind.
-
-* to be independent, I don't need you, but you also don't need me
-
-* Indie mentality that you have high agency as an individual
-
-First paragraph
-
 
 Second paragraph
 A movement that emphasizes self-sacrifice for the sake of the collective is the only way to solve collective action problems.
@@ -594,25 +576,14 @@ As such, it's not enough to return to the ideals of the '00s— the golden years
 
 Net givers versus net takers.
 
-Third paragraph
-Authenticity
-
-Fourth paragraph
-Pool achievements
-
-Fifth paragraph
-Conclusion
-
 Preceding section:
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
-
-Individualism in a sea of collectivism. Collectivist movement in a sea of individualism.
 
 Talk about anti-vax. Herd immunity.
 
 To be great means missing out on most things. This is intolerable for individualists.
 
-Collectivists pool their experiences, allowing them *not* to see it all, or do it all.
+Collectivists pool their experiences, allowing them *not* to see it all, or do it all. No more fear of missing out.
 
 Let's face it, history makers will be low status for the indefinite future. A collectivist mindset is the only way that low status is tolerable.
 
