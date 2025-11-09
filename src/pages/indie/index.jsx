@@ -289,7 +289,11 @@ The moral, then, is that low barriers to entry *don't* lead to democracy, but to
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
-Imagine this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's get rid of overpaid talent scouts, and empower indie athletes like me to get ourselves known. Yes, this will crowd the field— but you'll just have to put in the work to find what you want. Who'd object?"
+${'  ' || `
+// TODO: Review.
+`}
+
+Imagine this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions?! So let's get rid of these overpaid talent scouts, and empower indie athletes like me to get ourselves known. Yes, this will crowd the field— but you'll just have to put in the work to find what you want. Who'd object?"
 
 Uh… *we* would— the audience! Most of us only want the *best* athletes, and it's the *talent scout's* job to find them, not *ours*. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only ever come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
@@ -579,26 +583,15 @@ A movement that emphasizes self-sacrifice for the sake of the collective is the 
 
 AI simply takes further indie rock's ideal of the self-interested individual triumphing over the collective. It might as well stand for "accelerated indiefication"!
 
-As such, it's not enough to return to the ideals of the '00s— the golden years, according to Millennials— back when the collective action problems created by indie rock weren't yet known to be such. We must return to the ideals of the 20th century— the golden decades, according to us Xennials and everyone older— before those collective action problems even started.
-
-Net givers versus net takers.
-
-Preceding section:
-Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
-
 Talk about anti-vax. Herd immunity.
 
-To be great means missing out on most things. This is intolerable for individualists.
+To be great means missing out on most things. It means being lop-sided. This is intolerable for individualists. Collectivists pool their experiences, allowing them *not* to see it all, or do it all. No more fear of missing out.
 
-Collectivists pool their experiences, allowing them *not* to see it all, or do it all. No more fear of missing out.
+Mention authenticity, entitlement, future-oriented versus present-oriented when it comes to history making.
 
-Let's face it, history makers will be low status for the indefinite future. A collectivist mindset is the only way that low status is tolerable.
-
-Mention entitlement.
+The greats of the past were individualists living in collectivist societies. But now that our society itself is individualist, the greats from here on out will be collectivists.
 
 Let's face it, "indie architecture" isn't a thing, because we all grasp that any moderately ambitious project requires collaborative effort. With the indie takeover of music, then, what musical "cathedrals" have we missed out on?
-
-Future-oriented, present-oriented
 `}
 
 To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
