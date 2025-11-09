@@ -187,7 +187,11 @@ A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bo
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want context](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) that can be discussed at length, while local fans— now online— want direct engagement from the artist; so both, in their own way, are drawn more to a well-constructed *persona* than to a well-crafted *hook*.
 
-Any demand for such hooks, then, came *solely* from radio— which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… it looks like backstory and lore beat out melodies and chords!"
+${'  ' || `
+// TODO: Review.
+`}
+
+Any demand for such hooks, then, came *solely* from radio— which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… Looks like backstory and lore beat out melodies and chords!"
 
 Yet the past artists we love most *don't* require us to dive into any surrounding "lore," do they? History, then, works like radio! So don't get complacent in this new online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft… as if you were an Xennial child hoping to get on the radio one day.
 
