@@ -55,13 +55,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-If tastemakers are good guys, it's because they're *not* capitalists. Right? Okay, but then… this means they *don't* see artists as investments— and thus *needn't* judge based on any long-term prospects! Which explains why, in retrospect, their picks rarely make history: With no need to account for audiences in the *future*, they cater solely to fans in the *present*…
+If tastemakers are good guys, it's because they're *not* capitalists, right? Okay… but then, they *don't* see artists as investments… and thus *needn't* judge based on long-term prospects! Which explains why, in retrospect, their picks rarely make history: With no need to account for future audiences, they cater solely to present-day *fans*.
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-And, well, fans prefer an artist who engages with them directly— which is to say, a *content creator*. But while content wins out in the present over *past* art, it loses once its *own* time has passed. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll strive to please the tastemakers… and create content instead.
+Yet fans prefer to support an artist who engages with them directly— that is to say, a *content creator*. And while content wins out in the present over *past* art, it loses once its *own* time has passed. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll strive to please the tastemakers… and create content instead.
 
 **Why bands?**
 
@@ -141,7 +141,11 @@ Unlike an arts foundation, though, phlans *don't* need to hold strict standards 
 
 So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
 
-And yet… this obviously can't end well. We don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can keep your dignity instead— knowing it's the *only* way to make history.
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet… this can't end well. We obviously don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can keep your dignity instead… knowing it's the *only* way to make history.
 
 ### ${++sectionCounter}. History making is now a mere hobby
 
