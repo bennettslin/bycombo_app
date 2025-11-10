@@ -61,7 +61,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Yet fans prefer to support an artist who engages with them directly— that is to say, a *content creator*. And while content wins out in the present over *past* art, it loses once its *own* time has passed. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll strive to please the tastemakers… and create content instead.
+Yet fans prefer to support an artist who engages with them directly— that is to say, a *content creator*. And while content wins out in the present over *past* art… it loses once its *own* time has passed. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll strive to please the tastemakers, and create content instead.
 
 **Why bands?**
 
