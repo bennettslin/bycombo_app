@@ -52,10 +52,16 @@ Sadly, once the good guys are in charge, the generation who put them there will 
 **Why the historical canon?**
 
 ${'  ' || `
-// TODO: Add? Mention future-oriented and present-oriented?
+// TODO: Review a few more times.
 `}
 
-When fans support an artist, they want art that engages with them directly— which is to say, *content*. But while content wins out in the present over *past* art, it loses once its *own* time has passed. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll naturally settle for being content creators instead.
+If tastemakers are good guys, it's because they're *not* capitalists. Right? Okay, but then… this means they *don't* see artists as investments… and thus *needn't* judge based on any long-term prospects! Which explains why, in retrospect, their picks rarely make history: With no need to account for audiences in the *future*, they cater solely to fans in the *present*…
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+But fans prefer to support an artist who engages with them directly— that is to say, a *content creator*. And while content wins out in the present over *past* art, it loses once its *own* time has passed. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll default to creating content instead.
 
 **Why bands?**
 
