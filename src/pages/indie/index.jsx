@@ -39,10 +39,6 @@ Okay, that's a mouthful! Let's break it down…
 
 **Why amnesty?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, they only pick artists with a built-in fanbase, who've thus proven to be what the *people* want. For this reason, Millennials cheered when indie rock took over— and now we support *every* indie artist who gets picked. Yet despite all these good intentions in our times… the arts [have *declined*](https://billderesiewicz.com/books/the-death-of-the-artist)?!
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. Yet breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
@@ -52,16 +48,16 @@ Sadly, once the good guys are in charge, the generation who put them there will 
 **Why the historical canon?**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 If tastemakers are good guys, it's because they're *not* capitalists, right? Okay… but then, they *don't* see artists as investments… and thus *needn't* judge based on long-term prospects! Which explains why, in retrospect, their picks rarely make history: With no need to account for future audiences, they cater solely to present-day *fans*.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-Yet fans prefer to support an artist who engages with them directly— that is to say, a *content creator*. And while content wins out in the present over *past* art… it loses once its *own* time has passed. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll strive to please the tastemakers, and create content instead.
+Yet fans prefer to support an artist who engages with them directly— that is to say, a *content creator*. And while content wins out in the present over *past* art… it loses once its *own* time has passed. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll naturally strive to please the tastemakers, and create content instead.
 
 **Why bands?**
 
@@ -140,10 +136,6 @@ In the past, we didn't "support" artists— [outside of](https://en.wikipedia.or
 Unlike an arts foundation, though, phlans *don't* need to hold strict standards or be aware of unconscious bias. Their charitable support for the underdog— *any* underdog— comes from good intentions and thus can't be questioned. But then… this *isn't* just a leg up, is it? It's a winning advantage! And unlike amateurs or the mentally ill, indie artists *do* vie for all the [same honors](https://pitchfork.com/news/45374-bon-iver-wins-grammys-for-best-new-artist-best-alternative-music-album).
 
 So indie rock set off a chain reaction, forcing the next tier of artists above to beg for support as well, and then the next… leading to our present time of poptimism, when even superstars angle to be seen as underdogs. Which is why Millennials never gave us a Shaggs or Daniel Johnston of their own: All their charitable impulses went toward defending the sure *winners*!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet… this can't end well. We obviously don't support artists of the *past*— and neither will future audiences. So why stoop to being a charity case today, just to be swept onto an ash heap tomorrow? With BYCombo, you can keep your dignity instead… knowing it's the *only* way to make history.
 
@@ -299,10 +291,6 @@ The moral, then, is that low barriers to entry *don't* lead to democracy, but to
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Imagine this argument: "When I play sports, it doesn't just benefit *me*; it also benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions?! So let's get rid of these overpaid talent scouts, and empower indie athletes like me to get ourselves known. Yes, this will crowd the field— but you'll just have to put in the work to find what you want. Who'd object?"
 
 Uh… *we* would— the audience! Most of us only want the *best* athletes, and it's the *talent scout's* job to find them, not *ours*. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only ever come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
@@ -425,15 +413,7 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 
 ### ${++sectionCounter}. Identity is a resort of the privileged
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Let's be fair, in wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on their identities as [society's underdogs](http://archive.today/2021.06.04/https://www.nytimes.com/2021/05/26/magazine/black-keys-blues.html#:~:text=%E2%80%9CFor%20me%2C%20it,aspirations%20we%20did.%E2%80%9D)…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Except, it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly White and male. Suffering a [crisis of conscience](https://slate.com/culture/2012/08/pitchforks-peoples-list-is-almost-exclusively-white-and-male-this-is-a-scandal.html), the indie camp solved this problem in the only way they knew how: by letting us women and minorities self-identify as underdogs as well— a solution that's come to be called "wokeness."
 
