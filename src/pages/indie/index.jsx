@@ -477,9 +477,17 @@ Within the past few decades, we've come to learn that startups are uniquely posi
 
 Well, this *also* explains how an artist like me— who can't even gain *one* fan— might still hope to gain a *million*! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will parse them only if others have done the same: network effects! And when your parts are [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=37&annotation=45), new bandmates won't commit to fully learning them until an audience is guaranteed: economies of scale!
 
-Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— if they're to be made at all— can *only* be made by those whose dream all along was to gain a million fans at *once*, from the top down?
+${'  ' || `
+// TODO: Review.
+`}
 
-If so, this explains why those in tech now dominate the arts: While investors *readily* fund startups that lose money, the indie tastemakers *refuse* to believe in artists with no fanbase! But now, BYCombo puts you in a unique position to innovate, by letting you dream that millions would gladly be your *millionth* fan— even as none want to be your *first*.
+Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— assuming they're to be made at all— can *only* be made by those who dream of gaining a million fans at *once*, from the top down?
+
+${'  ' || `
+// TODO: Review.
+`}
+
+If so, then this solves the mystery of why those in tech now control the arts: While investors *readily* fund startups that lose money, the indie tastemakers *refuse* to believe in artists with no fanbase! But now, BYCombo puts you in a unique position to innovate, by letting you dream that millions would gladly be your *millionth* fan— even as none want to be your *first*.
 
 ### ${++sectionCounter}. Strivers don't know they're not dreamers
 
