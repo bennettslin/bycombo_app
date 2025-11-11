@@ -51,13 +51,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-If tastemakers are good guys, it's because they're *not* capitalists, right? Okay… but then, they *don't* see artists as investments… and thus *needn't* judge based on long-term prospects! Which explains why, in retrospect, their picks rarely make history: With no need to account for future audiences, they cater solely to present-day *fans*.
+If tastemakers are good guys, it's because they're *not* capitalists, right? Okay… but then, this means they *don't* see artists as investments… and thus *needn't* judge one based on long-term prospects! Which explains why, in retrospect, their picks rarely make history: With no need to consider future audiences, they speak solely to present-day *fans*.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Yet fans prefer to support an artist who engages with them directly— that is to say, a *content creator*. And while content wins out in the present over *past* art… it loses once its *own* time has passed. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll strive to please the indie tastemakers… and create content instead.
+Yet fans prefer to support an artist who engages with them directly— that is to say, a *content creator*. And while content wins out in the present over *past* art… it loses once its *own* time has passed. To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll default to pleasing the tastemakers… and create content instead.
 
 **Why bands?**
 
@@ -343,6 +343,10 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 "Who could've foreseen such a downside to popularizing indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Rappers get this, which is why they rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
 
+${'  ' || `
+// TODO: Consider extra paragraph?
+`}
+
 Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? It's because "larping," or live-action role-playing, is only good enough when aiming for a *foreign* canon, not "the" canon— so after years of larping as an era-defining movement, indie rock has lost all cultural relevance. And now, we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like us— and specifically, the *hungriest*.
@@ -590,6 +594,8 @@ Talk about anti-vax. Herd immunity.
 To be great means missing out on most things. It means being lop-sided. This is intolerable for individualists. Collectivists pool their experiences, allowing them *not* to see it all, or do it all. No more fear of missing out.
 
 Mention authenticity, entitlement, future-oriented versus present-oriented when it comes to history making.
+
+Spreading risk in exchange for pooling rewards.
 
 In our collectivist past, the individualist's desire for status was most in line with being a great artist. But in today's individualist times, each individualist's sense of entitlement creates a race to the bottom. It's now the collectivist's willingness to forgo status that's most in line with making great art.
 
