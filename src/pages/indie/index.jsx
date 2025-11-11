@@ -642,7 +642,11 @@ With this being the case, shouldn't we expect "indiefication" to make music… *
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
 
-"Where's *our* Nirvana?" It's a question asked by today's young folks. And hey— there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is *this* generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. Except… why *didn't* they?
+${'  ' || `
+// TODO: Review.
+`}
+
+"Where's *our* Nirvana?" It's a question asked by young folks today. And hey!— there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is *this* generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. Except… why *didn't* they?
 
 It's because we only pine for past artists who self-sacrificed to advance the art form— and future audiences will feel the same way. But since indie rock *protects* artists from exploitation, it favors those who *empower* themselves instead. For this reason, artists today demand fair compensation; they don't do *anything* that reeks of being exploited— *especially* self-sacrifice.
 
