@@ -1,9 +1,13 @@
 # TODO
 
+* Substack terms
+    * Use "hum-'n'-strum"
+
 * YB
     * Review
 
 * BYC
+    * Replace some "right?"s with "no?"s
     * Sentences with ellipsis in between instead of a third em-dash:
         * A gatekeeper helps to take…
         * Sometime in the '00s…

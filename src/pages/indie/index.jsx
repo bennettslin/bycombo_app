@@ -147,7 +147,13 @@ To be clear, I'm not against, let's say, *universal* health care. When we suppor
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
+${'  ' || `
+// TODO: Review.
+
 Growing up as a child of Asian immigrants, I knew that the rock canon of our English-speaking world wasn't the only one; [other countries](https://youtu.be/QhOFg_3RV5Q) had their own. Yet because they derived from ours, we cared little for theirs— which made ours "the" canon! Especially since any of their bands who *could* rival us, like ABBA… would simply join us instead.
+`}
+
+Growing up as a child of Asian immigrants, I knew that the rock canon of our English-speaking world wasn't the only one; [other countries](https://youtu.be/QhOFg_3RV5Q) had their own. And yet, since they merely imitated ours, we cared little for theirs— making ours "the" canon! Especially since any of their bands who *could* rival us, like ABBA… would simply join us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
 
@@ -185,7 +191,19 @@ In essence, ignore the critics, or any others who think history making is all a 
 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting melodies and chords that hook you in with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
+${'  ' || `
+// TODO: Revise? Add explanation of hum and strum?
+
+Use "then likewise."
+
+The best songs are enjoyable even when you just hum the melody and strum the chords.
+`}
+
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; I later did the same with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best melodies and chords come through study and practice," I pointed out— but they weren't interested. In time I figured out why: It's not that they doubted my point; they just don't value music as a *craft* to begin with!
+
+${'  ' || `
+// TODO: Revise? Add "for lengthy discussion" and "so both, in their own way, prefer a well-constructed *persona* to a well-crafted hook or hum-'n'-strum."
+`}
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want context](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) that can be discussed at length, while local fans— now online— want direct engagement from the artist; so both, in their own way, are drawn more to a well-constructed *persona* than to a well-crafted *hook*.
 
@@ -351,15 +369,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? It's obvious, I think, if you're in the habit of asking: Is this a "larp"? As in, live-action role-play. In other words, will this movement, artist, or work *truly* acquire historical significance— or are we just larping the *idea* that such will be the case? So let's ask this about ['00s and '10s](https://www.harpercollins.com/products/meet-me-in-the-bathroom-lizzy-goodman) indie rock: Was it all a larp?
+Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? It's obvious, I think, if you're in the habit of asking: Is this a "larp"? As in, live-action role-play. For instance, suppose an opposing camp were to argue: "No, this *won't* matter to history; it's merely a larp to go on like it will." Who'd win? So let's ask this about indie rock of the ['00s and '10s](https://www.harpercollins.com/products/meet-me-in-the-bathroom-lizzy-goodman): Was it all a larp?
 
 ${'  ' || `
-// TODO: Keep working on. Last sentence needs to make its point solidly. Make clear making "the" canon requires inspiring envy.
+// TODO: Review a few more times.
 `}
 
-I suspect many of you [now see](https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=The%20poptimists%20defeated,dustbin%20of%20history.) what I always saw then: Yes, it was! Of course, I wasn't prescient; it just carried itself too much like those derivative Asian canons from my youth.
-
-Indie rock now seeks to regain its cultural relevance by nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+I suspect many of you [now see](https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=The%20poptimists%20defeated,dustbin%20of%20history.) what I always saw then: Yes, it was! Mind you, I'm not prescient; being Asian simply taught me that, to aim for "the" canon, a band must innovate, *and* craft enviable "hum-'n'-strums." Indie rock never got this, however, making it as trivial now as the foreign canons I grew up on. So *this* is why it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like us— and specifically, the *hungriest*.
 
@@ -620,6 +636,8 @@ Spreading risk in exchange for pooling rewards.
 In our collectivist past, the individualist's desire for status was most in line with being a great artist. But in today's individualist times, each individualist's sense of entitlement creates a race to the bottom. It's now the collectivist's willingness to forgo status that's most in line with making great art.
 
 Let's face it, "indie architecture" isn't a thing, because we all grasp that any moderately ambitious project requires collaborative effort. With the indie takeover of music, then, what musical "cathedrals" have we missed out on?
+
+Most places, in most times, did not incentivize artistic flourishing. We're now going to back to being one of those places, in one of those times.
 `}
 
 To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
