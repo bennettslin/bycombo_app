@@ -169,7 +169,11 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 
 The reverse is also true, of course: Those who'd settle for a "thousand true fans" *won't* try to make the best art. Yet indie rock wants a "long tail" of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket." But if a critical darling strikes us as a "lottery" winner, we won't pretend otherwise. And this gets at why [critics are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
+${'  ' || `
+// TODO: Review link.
+`}
+
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket." But if a critical darling strikes us as a "lottery" winner, we won't pretend otherwise. And this gets at why critics [are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is, in fact, par for the course. And we commit fewer false *negatives*: We'll give radical new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
 
@@ -347,13 +351,15 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? It's obvious, I think, if you're in the habit of asking: Is this a "larp"— as in, live-action role-play? In other words, will this movement, artist, or work *truly* attain historical significance— or are we just larping the *idea* that such will be the case? So let's ask this about ['00s and '10s](https://www.harpercollins.com/products/meet-me-in-the-bathroom-lizzy-goodman) indie rock: Was it a larp?
+Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? It's obvious, I think, if you're in the habit of asking: Is this a "larp"? As in, live-action role-play. In other words, will this movement, artist, or work *truly* acquire historical significance— or are we just larping the *idea* that such will be the case? So let's ask this about ['00s and '10s](https://www.harpercollins.com/products/meet-me-in-the-bathroom-lizzy-goodman) indie rock: Was it all a larp?
 
 ${'  ' || `
-// TODO: Keep working on. Last sentence needs to make its point solidly.
+// TODO: Keep working on. Last sentence needs to make its point solidly. Make clear making "the" canon requires inspiring envy.
 `}
 
-I suspect many of you [now see](https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=And%20to%20me%20that%E2%80%99s%20what,came%20crashing%20down.) what I always saw then: Yes, it was. Of course, I wasn't prescient; it all just reminded me of those derivative Asian canons from my youth. Yet rather than properly aim for "the" canon, as I learned to do, indie rock now seeks to regain its cultural relevance by nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+I suspect many of you [now see](https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=The%20poptimists%20defeated,dustbin%20of%20history.) what I always saw then: Yes, it was! Of course, I wasn't prescient; it just carried itself too much like those derivative Asian canons from my youth.
+
+Indie rock now seeks to regain its cultural relevance by nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like us— and specifically, the *hungriest*.
 
