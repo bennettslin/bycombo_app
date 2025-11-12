@@ -47,11 +47,7 @@ Sadly, once the good guys are in charge, the generation who put them there will 
 
 **Why the historical canon?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
-If tastemakers are good guys, it's because they're *not* capitalists. Right? Okay, but then… this means they *don't* see artists as investments… and thus *needn't* judge one based on long-term prospects! Which explains why, in retrospect, their picks rarely make history: With no need to consider future audiences, they speak solely to present-day *fans*.
+If tastemakers are good guys, it's because they're *not* capitalists. Right? Okay, but then… this means they *don't* see artists as investments… and thus *needn't* judge one based on long-term prospects! Which explains why, in retrospect, their picks rarely make history: With no need to consider future audiences, they cater solely to present-day *fans*.
 
 Yet fans prefer to support an artist who engages with them directly— that is to say, a *content creator*. And while content wins out in the present over *past* art… it loses once its *own* time has passed! To belong in the [historical canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446), then, today's artists must *aim* for it— because without this conscious intent, they'll default to pleasing the tastemakers… and create content instead.
 
@@ -147,12 +143,6 @@ To be clear, I'm not against, let's say, *universal* health care. When we suppor
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
-${'  ' || `
-// TODO: Review.
-
-Growing up as a child of Asian immigrants, I knew that the rock canon of our English-speaking world wasn't the only one; [other countries](https://youtu.be/QhOFg_3RV5Q) had their own. Yet because they derived from ours, we cared little for theirs— which made ours "the" canon! Especially since any of their bands who *could* rival us, like ABBA… would simply join us instead.
-`}
-
 Growing up as a child of Asian immigrants, I knew that the rock canon of our English-speaking world wasn't the only one; [other countries](https://youtu.be/QhOFg_3RV5Q) had their own. And yet, since they merely imitated ours, we cared little for theirs— making ours "the" canon! Especially since any of their bands who *could* rival us, like ABBA… would simply join us instead.
 
 So I've long understood that, to belong in the canon next to the Beatles, my band needs to be one of the best in the *world*. But the indie camp scorns my way of thinking, saying it reeks of cultural chauvinism: "Who are we to think we're better than other countries? Let a thousand canons bloom, with ours being just one of them!"
@@ -174,10 +164,6 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 ### ${++sectionCounter}. Posterity is awarded by peer review
 
 The reverse is also true, of course: Those who'd settle for a "thousand true fans" *won't* try to make the best art. Yet indie rock wants a "long tail" of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
-
-${'  ' || `
-// TODO: Review link.
-`}
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket." But if a critical darling strikes us as a "lottery" winner, we won't pretend otherwise. And this gets at why critics [are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
@@ -222,10 +208,6 @@ Well, let's examine today's options. An artist can hustle to build a fanbase— 
 It's clear, then, why music was better before "indiefication": The *only* option was to try and be the best. Today? Pick this option, and you'll have *no* fans— making you the biggest loser, in the indie camp's view. And yet… indie rock didn't exactly *win*, did it? So history *isn't* just "whatever happened"! Luckily, with BYCombo, Gen Z can now hold out for your works.
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Are you unconvinced that music is now worse? Okay, then ask this about any of the latest artists: Whatever their best work might be, could they *guarantee* us another one just as good? I suspect we'll agree: The answer is yes. That is to say, even the best works today simply *match* the talents of those who make them; they're what I call "workhorse art."
 
@@ -358,10 +340,6 @@ Moreover, once someone has wasted their best years striving for symbolic credent
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never hustled to pay indie rock's dues myself.
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
-
-${'  ' || `
-// TODO: Review.
-`}
 
 "Who could've foreseen such a downside to popularizing indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Hip hop gets this, which is why rappers rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
 
@@ -511,15 +489,7 @@ Within the past few decades, we've come to learn that startups are uniquely posi
 
 Well, this *also* explains how an artist like me— who can't even gain *one* fan— might still hope to gain a *million*! When your lyrics are [hopelessly dense](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=1&annotation=4), a listener will parse them only if others have done the same: network effects! And when your parts are [hopelessly complex](https://yearlingsbobtail.com/2-willy-the-cocoa/?verse=37&annotation=45), new bandmates won't commit to fully learning them until an audience is guaranteed: economies of scale!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Now here's another point: Having scaled by opening one store at a time, a retail chain *can't* pivot to behaving like a startup. What if, having gained one fan at a time, an indie artist can't pivot to making dense and complex works? What if such works— assuming they're to be made at all— can *only* be made by those who dream of gaining a million fans at *once*, from the top down?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 If so, then this solves the mystery of why those in tech now control the arts: While investors *readily* fund startups that lose money, the indie tastemakers *refuse* to believe in artists with no fanbase! But now, BYCombo puts you in a unique position to innovate, by letting you dream that millions would gladly be your *millionth* fan— even as none want to be your *first*.
 
@@ -677,10 +647,6 @@ Let's ditch old beliefs, then, and think in systems: If an artist diverts 5% of 
 With this being the case, shouldn't we expect "indiefication" to make music… *worse*? Whoa— everything lines up now! Yet the indie camp will oppose this simpler explanation… so BYCombo won't get far by merely proposing it. To gain acceptance, interdependence could still use some advocacy. Will you join with the Bobtail Yearlings, then, and be a Galileo of music?
 
 ### ${++sectionCounter}. Art needs the passion of martyrs
-
-${'  ' || `
-// TODO: Review.
-`}
 
 "Where's *our* Nirvana?" It's a question asked by young folks today. And hey!— there's an easy way to answer it: Can we imagine the *next* generation asking of any band today, "Where's *our* _____?" If so, then _____ is *this* generation's Nirvana. Of course, we can't— because this generation never got their own Nirvana. Except… why *didn't* they?
 
