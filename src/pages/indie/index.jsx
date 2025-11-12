@@ -201,7 +201,11 @@ It's clear, then, why music was better before "indiefication": The *only* option
 
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
-Are you unconvinced that music is now worse? Then ask this about any of the latest artists: Whatever their best work might be, could they *guarantee* us another one just as good? I suspect we'll agree: The answer is yes. That is to say, even the best works today simply *match* the talents of those who make them; they're what I call "workhorse art."
+${'  ' || `
+// TODO: Review.
+`}
+
+Are you unconvinced that music is now worse? Okay, then ask this about any of the latest artists: Whatever their best work might be, could they *guarantee* us another one just as good? I suspect we'll agree: The answer is yes. That is to say, even the best works today simply *match* the talents of those who make them; they're what I call "workhorse art."
 
 By contrast, could Dolly Parton *reliably* craft one "[Jolene](https://youtu.be/Ixrje2rXLMA)" after another? Or [Stephen Sondheim](https://bobtailyearlings.com/docs/Sondheim_paper.pdf), "[Someone in a Tree](https://youtu.be/JpoKuNyVNhQ)"? It's doubtful. These are what I call "windfall art"— namely, works that are actually *better* than those who make them. In fact, some of them seem to surpass what's humanly possible at *all*— and for this reason, they're the kind that fellow artists envy most.
 
@@ -333,15 +337,23 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
-"Who could've foreseen such a downside to popularizing indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Rappers get this, which is why they rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
-
 ${'  ' || `
-// TODO: Consider extra paragraph? Thought experiment.
-
-Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? It's because "larping," or live-action role-playing, is only good enough when aiming for a *foreign* canon, not "the" canon— so after years of larping as an era-defining movement, indie rock has lost all cultural relevance. And now, we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+// TODO: Review.
 `}
 
-Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? It's because "larping," or live-action role-playing, is only good enough when aiming for a *foreign* canon, not "the" canon— so after years of larping as an era-defining movement, indie rock has lost all cultural relevance. And now, we women and minorities are being nudged onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+"Who could've foreseen such a downside to popularizing indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Hip hop gets this, which is why rappers rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? It's obvious, I think, if you're in the habit of asking: Is this a "larp"— as in, live-action role-play? In other words, will this movement, artist, or work *truly* attain historical significance— or are we just larping the *idea* that such will be the case? So let's ask this about ['00s and '10s](https://www.harpercollins.com/products/meet-me-in-the-bathroom-lizzy-goodman) indie rock: Was it a larp?
+
+${'  ' || `
+// TODO: Keep working on. Last sentence needs to make its point solidly.
+`}
+
+I suspect many of you [now see](https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=And%20to%20me%20that%E2%80%99s%20what,came%20crashing%20down.) what I always saw then: Yes, it was. Of course, I wasn't prescient; it all just reminded me of those derivative Asian canons from my youth. Yet rather than properly aim for "the" canon, as I learned to do, indie rock now seeks to regain its cultural relevance by nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like us— and specifically, the *hungriest*.
 
