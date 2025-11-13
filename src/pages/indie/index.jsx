@@ -181,7 +181,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best songs are enjoyable even when you just hum the melody and strum the chords," I pointed out. Yet… no one reacted. In time I figured out why: It's not that they doubted me; they just don't value music as a *craft* to begin with!
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best songs are enjoyable even when you just hum the melody and strum the chords," I pointed out… to no reaction. In time I figured out the issue: It's not that they doubted me; they just don't value music as a *craft* to begin with!
 
 ${'  ' || `
 // TODO: Review a few more times.
@@ -479,7 +479,11 @@ To sum up, it was the *indie camp* who gave us today's [data-driven industry](ht
 
 Are we headed for a new Romanticism? Some foresee a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want, just like word of mouth does; it's why indie rock defended them for as long as it did. In this light, then, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
-As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass who generates them! And [when in doubt](https://en.wikipedia.org/wiki/Mimetic_theory), we look to others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone feel a "noblesse oblige" to help those being *hurt* by our human nature.
+${'  ' || `
+// TODO: Review.
+`}
+
+As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass who generates them! And [when in doubt](https://en.wikipedia.org/wiki/Mimetic_theory), we look to others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone have a "noblesse oblige" to help those being *hurt* by our human nature.
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
