@@ -2,6 +2,7 @@
 
 * Substack terms
     * Use "hum-'n'-strum"
+    * The way to make history is to inspire envy
 
 * YB
     * Review

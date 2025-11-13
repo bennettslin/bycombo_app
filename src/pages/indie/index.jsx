@@ -178,20 +178,16 @@ In essence, ignore the critics, or any others who think history making is all a 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting melodies and chords that hook you in with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best songs are enjoyable even when you just hum the melody and strum the chords," I pointed out… to no reaction. In time I figured out the issue: It's not that they doubted me; they just don't value music as a *craft* to begin with!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want context](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) for lengthy discussion, while local fans— now online!— want engagement from the artist; so each, for their own reasons, prefer a well-tailored persona to any well-crafted hook or "hum-'n'-strum."
-
-${'  ' || `
-// TODO: Review.
-`}
 
 All demand for such hooks, then, came *solely* from radio— which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
@@ -344,20 +340,16 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 "Who could've foreseen such a downside to popularizing indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Hip hop gets this, which is why rappers rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? It's obvious, I think, if you're in the habit of asking: Is this a "larp"? As in, live-action role-play. For instance, suppose an opposing camp were to argue: "No, this *won't* matter to history; it's just larping, to act like it will." Who'd win? So let's ask this about indie rock of the ['00s and '10s](https://www.harpercollins.com/products/meet-me-in-the-bathroom-lizzy-goodman): Was it all a larp?
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 I suspect some of you [now see](https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=The%20poptimists%20defeated,dustbin%20of%20history.) what I always saw then: Yes, it was! Mind you, I'm not prescient; being Asian simply taught me that, to aim for "the" canon, a band must innovate… *and* craft enviable "hum-'n'-strums." But indie rock *didn't* get this, making it as trivial now as the foreign canons I grew up on. So, to redeem itself, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like *us*— and specifically, the *hungriest*.
 
@@ -478,10 +470,6 @@ To sum up, it was the *indie camp* who gave us today's [data-driven industry](ht
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
 Are we headed for a new Romanticism? Some foresee a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want, just like word of mouth does; it's why indie rock defended them for as long as it did. In this light, then, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
-
-${'  ' || `
-// TODO: Review.
-`}
 
 As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass who generates them! And [when in doubt](https://en.wikipedia.org/wiki/Mimetic_theory), we look to others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone have a "noblesse oblige" to help those being *hurt* by our human nature.
 
