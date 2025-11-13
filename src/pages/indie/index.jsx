@@ -347,13 +347,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? It's obvious, I think, if you're in the habit of asking: Is this a "larp"? As in, live-action role-play. For instance, suppose an opposing camp were to argue: "No, this *won't* matter to history; it's just larping, to act like it will." Who'd win? So let's ask this about indie rock of the ['00s and '10s](https://www.harpercollins.com/products/meet-me-in-the-bathroom-lizzy-goodman): Was it all a larp?
+Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? It's obvious, I think, if you're in the habit of asking: Is this a "larp"? As in, live-action role-play. For instance, suppose an opposing camp were to argue: "No, this *won't* matter to history; you're just larping, to act like it will." Who'd win? So let's ask this about indie rock of the ['00s and '10s](https://www.harpercollins.com/products/meet-me-in-the-bathroom-lizzy-goodman): Was it all a larp?
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-I suspect many of you [now see](https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=The%20poptimists%20defeated,dustbin%20of%20history.) what I always saw then: Yes, it was… Mind you, I'm not prescient; being Asian simply taught me that, to aim for "the" canon, a band must innovate… *and* craft enviable "hum-'n'-strums"! But indie rock *didn't* get this, making it as trivial as the foreign canons I grew up on. So now, to redeem itself, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+I suspect many of you [now see](https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=The%20poptimists%20defeated,dustbin%20of%20history.) what I always saw then: Yes, it was… Mind you, I'm not prescient; being Asian simply taught me that, to aim for "the" canon, a band must innovate… *and* craft enviable "hum-'n'-strums"! But indie rock *didn't* get this, making it as trivial now as the foreign canons I grew up on. So, to redeem itself, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like us— and specifically, the *hungriest*.
 
