@@ -5,6 +5,7 @@
     * The way to make history is to inspire envy
 
 * YB
+    * Improve "English" annotation?
     * Review
 
 * BYC
