@@ -155,7 +155,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-To be clear, I'm okay with subsidizing *musicians*, based purely on technical skills. But when we support *artists* in particular, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this early on— having only *ever* been seen as a hobbyist by the indie camp. Now BYCombo helps you find partners who'd rather give amnesty to the best, than charity to all the rest.
+To be clear, I'm not against subsidizing *musicians*, based purely on technical skills. But when we support *artists* in particular, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this early on— having only *ever* been seen as a hobbyist by the indie camp. Now BYCombo helps you find partners who'd rather give amnesty to the best, than charity to all the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
 
@@ -198,7 +198,7 @@ In essence, ignore the critics, or any others who think history making is all a 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting melodies and chords that hook you in with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise? Make it more like, these will help you write such songs?
 `}
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best songs are enjoyable even when you just hum the melody and strum the chords," I pointed out… to no reaction. In time I figured out the issue: It's not that they doubted me; they just don't value music as a *craft* to begin with!
@@ -451,7 +451,11 @@ But while White men *easily* gain from their identities without admitting to it�
 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of the *arts*, it's *I* who sit on the left— and *they*, the right!
 
-So if seeking to gain from one's identity— one's *self*, if you will— is the logical next step once there's no more to be gained from self-*reliance*… then it *too* is an ideal of the right, held mainly by the privileged! Well, what if your demand was *never* for wokeness, but for greater *inter*-dependence— to be self-*less*, as it were? Then come join BYCombo… and help to revive the artistic left!
+${'  ' || `
+// TODO: Review.
+`}
+
+So if seeking to gain from one's identity— one's *self*, if you will— is the logical next step once there's no more to be gained from self-*reliance*… then it *too* is an ideal of the right, held mainly by the privileged! Well, what if your demand was *never* for wokeness, but for greater *inter*-dependence— to be self-*less*, as it were? Then come join BYCombo… and help us revive the artistic left!
 
 ### ${++sectionCounter}. Penultimate tolerance retracts a lifeline
 
@@ -499,7 +503,11 @@ As stated earlier, we humans dislike creative ideas… but we're *also* biased a
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
-So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help to usher it in.
+${'  ' || `
+// TODO: Review.
+`}
+
+So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help us usher it in.
 
 ### ${++sectionCounter}. Startups offer lessons in scalability
 
@@ -638,7 +646,11 @@ In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the
 
 As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html#:~:text=For%20Generation%20X,who%20you%20are.) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
 
-Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=For%20mainstream%20rock,were%20overblown%20frauds%3B) to *oppose* such bands.
+${'  ' || `
+// TODO: Review.
+`}
+
+Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=For%20mainstream%20rock,were%20overblown%20frauds%3B) to *spurn* those bands.
 
 Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
