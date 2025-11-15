@@ -189,9 +189,9 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best songs are enjoyable even when you just hum the melody and strum the chords," I pointed out… to no reaction. In time I figured out the issue: It's not that they doubted me; they just don't value music as a *craft* to begin with!
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best songs are still enjoyable even if you just hum the melody and strum the chords," I pointed out. Yet… no one reacted. In time I figured out why: It's not that they doubted me; they just don't value music as a *craft* to begin with!
 
-After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want context](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) for lengthy discussion, while local fans— now online!— want engagement from the artist; so each, for their own reasons, prefer a well-tailored persona to any well-crafted hook or "hum-'n'-strum."
+After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want context](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) for lengthy discussion, while local fans— now online!— want engagement from the artist; so each, for their own reasons, prefer a well-tailored persona to any well-crafted hook or "hum-'n-strum."
 
 All demand for such hooks, then, came *solely* from radio— which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
@@ -357,7 +357,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-I suspect some of you [now see](https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=The%20poptimists%20defeated,dustbin%20of%20history.) what I always saw then: Yes, it was! Mind you, I'm not prescient; being Asian simply taught me that, to aim for "the" canon, a band must innovate… *and* craft enviable "hum-'n'-strums." But indie rock *didn't* get this, making it as trivial now as the foreign canons I grew up on. So, to redeem itself, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+I suspect some of you [now see](https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=The%20poptimists%20defeated,dustbin%20of%20history.) what I always saw then: Yes, it was! Mind you, I'm not prescient; being Asian simply taught me that, to aim for "the" canon, a band must innovate… *and* craft enviable "hum-'n-strums." But indie rock *didn't* get this, making it as trivial now as the foreign canons I grew up on. So, to redeem itself, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like *us*— and specifically, the *hungriest*.
 
