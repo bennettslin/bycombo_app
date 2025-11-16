@@ -186,10 +186,12 @@ In essence, ignore the critics, or any others who think history making is all a 
 To get radio airplay in the '90s, alternative bands had to win over listeners who knew nothing about them— and the best did this by crafting melodies and chords that hook you in with no further context. Being an unpopular teen at the time, I knew my only hope was to pull off the same. So I studied any band whose talents I envied, dreaming that one day I'd teach others.
 
 ${'  ' || `
-// TODO: Revise. Make quote clear as possible. Should be more like, "The best songs are the ones you'd still enjoy just by humming the melody and strumming the chords."
-`}
+// TODO: Review.
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best songs are still enjoyable even if you just hum the melody and strum the chords," I pointed out. Yet… no one reacted. In time I figured out why: It's not that they doubted me; they just don't value music as a *craft* to begin with!
+`}
+
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The test of an enviable work," I noted, "is whether it's a joy to just hum its melody and strum its chords." Yet… no one reacted. In time I figured out why: It's not that they doubted me; they just don't value music as a *craft* to begin with!
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want context](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) for lengthy discussion, while local fans— now online!— want engagement from the artist; so each, for their own reasons, prefer a well-tailored persona to any well-crafted hook or "hum-'n-strum."
 
