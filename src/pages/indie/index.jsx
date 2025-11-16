@@ -139,10 +139,6 @@ Well… we're *all* free to make art, right? Which means the government must fir
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. Yet if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of silent preparation… will be paying their own way the *whole* time.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To be clear, I'm not against subsidizing *musicians*, based purely on technical skills. But when we support *artists* in particular, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this early on— having only *ever* been seen as a hobbyist by the indie camp. Now BYCombo helps you find partners who'd rather give amnesty to the best, than charity to all the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
@@ -169,10 +165,6 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 
 The reverse is also true, of course: Those who'd settle for a "thousand true fans" *won't* try to make the best art. Yet indie rock wants a "long tail" of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket"— at least the best of us aren't. But if a critical darling strikes us as a "lottery" winner, we won't pretend otherwise. And this gets at why critics [are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is, in fact, par for the course. And we commit fewer false *negatives*: We'll give radical new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
@@ -189,13 +181,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "One test of an enviable work," I noted, "is whether it's a joy to just hum its melody and strum its chords." Yet… no one reacted. In time I figured out why: It's not that they doubted me; they just don't value music as a *craft* to begin with!
-
-After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want context](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) for lengthy discussion, while local fans— now online!— want engagement from the artist; so each, for their own reasons, prefer a well-tailored persona to any well-crafted hook or "hum-'n-strum."
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "One test of an enviable work," I noted, "is whether it's a joy to just hum its melody and strum its chords." Yet… no one replied. In time I figured out why: It's not that they doubted me; they just don't value music as a *craft* to begin with!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Consider making second sentence more clear?
 `}
+
+After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want context](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) for lengthy discussion, while local fans— now online!— want engagement from the artist; so each, for their own reasons, prefer a well-tailored persona to any well-crafted hook or "hum-'n-strum."
 
 All demand for such hooks, then, came *solely* from radio— which means the death of radio *also* killed off those who excelled at crafting them: alternative bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
@@ -204,10 +196,6 @@ Yet the past artists we love most *don't* require us to dive into any surroundin
 ### ${++sectionCounter}. Mastery carries a steep opportunity cost
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the world's handwringing in preparation for Y2K.
-
-${'  ' || `
-// TODO: Review link.
-`}
 
 But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Whatever happens is what history will remember!" As a result, they [were thrilled](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) to see *anything* happen… and never wondered what could've happened *instead*, had they held out for better works. Still, why didn't more artists try to *show* them how much better a work can be?
 
