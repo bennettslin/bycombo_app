@@ -187,15 +187,17 @@ To get radio airplay in the '90s, alternative bands had to win over listeners wh
 
 ${'  ' || `
 // TODO: Review.
-
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The best songs are still enjoyable even if you just hum the melody and strum the chords," I pointed out. Yet… no one reacted. In time I figured out why: It's not that they doubted me; they just don't value music as a *craft* to begin with!
 `}
 
-A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "The test of an enviable work," I noted, "is whether it's a joy to just hum its melody and strum its chords." Yet… no one reacted. In time I figured out why: It's not that they doubted me; they just don't value music as a *craft* to begin with!
+A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "One test of an enviable work," I noted, "is whether it's a joy to just hum its melody and strum its chords." Yet… no one reacted. In time I figured out why: It's not that they doubted me; they just don't value music as a *craft* to begin with!
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want context](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) for lengthy discussion, while local fans— now online!— want engagement from the artist; so each, for their own reasons, prefer a well-tailored persona to any well-crafted hook or "hum-'n-strum."
 
-All demand for such hooks, then, came *solely* from radio— which means the death of radio *also* killed off those who excelled at crafting them: bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
+${'  ' || `
+// TODO: Review.
+`}
+
+All demand for such hooks, then, came *solely* from radio— which means the death of radio *also* killed off those who excelled at crafting them: alternative bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
 Yet the past artists we love most *don't* require us to dive into any surrounding "lore," do they? History, then, works like radio! So don't get complacent in this new online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft… as if you were an Xennial child hoping to get on the radio one day.
 
