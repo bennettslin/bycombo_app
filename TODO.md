@@ -5,7 +5,6 @@
     * Review
 
 * BYC
-    * Vulgar
     * Switch free labor
     * Examine each section transition again?
     * Replace some "right?"s with "no?"s
