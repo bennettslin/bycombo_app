@@ -361,7 +361,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Some of you [now see](https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=The%20poptimists%20defeated,dustbin%20of%20history.) what I saw back then: Yes, it was! I'm not prescient, of course; being Asian simply taught me that, to belong in "the" canon, a band must innovate… *and* craft enviable "hum-'n-strums." But indie rock *didn't* get this, making it as trivial as the foreign canons I grew up on. Now, desperate for redemption, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+Some of you [now see](https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=The%20poptimists%20defeated,dustbin%20of%20history.) what I saw back then: Yes, it was! I'm no prophet, mind you; being Asian simply taught me that, to belong in "the" canon, bands must innovate… *and* craft enviable "hum-'n-strums." But indie rock *didn't* get this, making it as trivial today as the foreign canons I grew up on. Now, desperate for redemption, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like *us*— and specifically, the *hungriest*.
 
