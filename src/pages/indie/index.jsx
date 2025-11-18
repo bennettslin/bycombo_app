@@ -185,7 +185,11 @@ ${'  ' || `
 
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want backstories](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) to discuss at length, while local fans— now online— like it when artists directly engage. So each, in their own way, is drawn more to a compelling persona than to any well-crafted hook or "hum-'n-strum."
 
-All demand for such hooks, then, came *solely* from radio— which means the death of radio *also* killed off those who excelled at crafting them: alternative bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
+${'  ' || `
+// TODO: Review.
+`}
+
+All demand for such craft, then, came *solely* from radio— which means the death of radio *also* killed off those who excelled at it: alternative bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
 Yet the past artists we love most *don't* require us to dive into any surrounding "lore," do they? History, then, works like radio! So don't get complacent in this new online era: To be timeless, your music still needs to hook listeners on its *own*. Which is why BYCombo lets you take the time to master your craft… as if you were an Xennial child hoping to get on the radio one day.
 
@@ -291,7 +295,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Imagine this plea: "When I play sports, it doesn't just benefit *me*; it benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's get rid of overpaid talent scouts, and empower every indie athlete like me to gain a thousand true fans. Sure, this will crowd the field— but you'll just have to put in the work to find what you want. Who'd object?"
+Imagine this plea: "When I play sports, it doesn't just benefit *me*; it benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's be rid of overpaid talent scouts, and empower every indie athlete, like me, to gain a thousand true fans. Sure, this will crowd the field— but you'll just have to put in the work to find what you want. Who'd object?"
 
 Uh… *we* would— the audience! Most of us only want the *best* athletes, and it's the *talent scout's* job to find them, not *ours*. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only ever come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
 
@@ -357,7 +361,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Some of you [now see](https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=The%20poptimists%20defeated,dustbin%20of%20history.) what I saw back then: Yes, it was! I'm not prescient, of course; being Asian simply taught me that, to belong in "the" canon, a band must innovate, *and* craft enviable "hum-'n-strums." But indie rock *didn't* get this, making it as trivial as the foreign canons I grew up on. Now, desperate for redemption, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
+Some of you [now see](https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=The%20poptimists%20defeated,dustbin%20of%20history.) what I saw back then: Yes, it was! I'm not prescient, of course; being Asian simply taught me that, to belong in "the" canon, a band must innovate… *and* craft enviable "hum-'n-strums." But indie rock *didn't* get this, making it as trivial as the foreign canons I grew up on. Now, desperate for redemption, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like *us*— and specifically, the *hungriest*.
 
