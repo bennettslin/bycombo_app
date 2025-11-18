@@ -313,7 +313,11 @@ In the past, the major labels did just that: Their talent scouts would sign *any
 
 Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Because, sure, it's a proven way to get fans— or dates!— but does society *want* this to be the case? Besides, most of us have now grown wise to being "negged"; sooner or later, then, won't we *also* wise up to, let's say, artists milking us for [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.)?
 
-So instead, you build yourself up into what a future audience— or romantic partner!— *would* want you to be, based on theories that you revise and refine over time. Which is also more fun and fulfilling for *you*, right? Yet from what I've seen… the indie tastemakers will never "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
+${'  ' || `
+// TODO: Review link.
+`}
+
+So instead, you build yourself up into what a future audience— or romantic partner!— *would* [want you](https://www.yearlingsbobtail.com/7-m/?verse=2&annotation=4) to be, based on theories that you revise and refine over time. Which is also more fun and fulfilling for *you*, right? Yet from what I've seen… the indie tastemakers will never "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
 
 But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 
