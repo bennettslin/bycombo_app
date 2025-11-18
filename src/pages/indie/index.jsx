@@ -179,15 +179,7 @@ To get radio airplay in the '90s, alternative bands had to win over listeners wh
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "One test of an enviable work," I noted, "is whether it's a joy just to hum its melody and strum its chords." Yet… no one bit. In time I figured out why: It's not that they doubted me; they just don't value music as a *craft* to begin with!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want backstories](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) to discuss at length, while local fans— now online— like it when artists directly engage. So each, in their own way, is drawn more to a compelling persona than to any well-crafted hook or "hum-'n-strum."
-
-${'  ' || `
-// TODO: Review.
-`}
 
 All demand for such craft, then, came *solely* from radio— which means the death of radio *also* killed off those who excelled at it: alternative bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
@@ -291,10 +283,6 @@ The moral, then, is that low barriers to entry *don't* lead to democracy, but to
 
 ### ${++sectionCounter}. Audiences put to labor simply leave
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Imagine this plea: "When I play sports, it doesn't just benefit *me*; it benefits *you* to watch me. Yet I don't make minimum wage… while superstars earn millions! So let's be rid of overpaid talent scouts, and empower every indie athlete, like me, to gain a thousand true fans. Sure, this will crowd the field— but you'll just have to put in the work to find what you want. Who'd object?"
 
 Uh… *we* would— the audience! Most of us only want the *best* athletes, and it's the *talent scout's* job to find them, not *ours*. If "indie sports" took over, then, we'd quietly turn to serial dramas or video games, and only ever come back for "classic sports" reruns. Right? Okay, well… indie rock *did* take over. So how come no one can figure out why the audience for music [is leaving](https://youtu.be/Ag4iFa6E_yY)?!
@@ -309,17 +297,9 @@ From there, we admit that the silent majority only want the *best* artists— an
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they judged his works! So there's a lesson here for all tastemakers: To discover an artist that future audiences will want to *re*-discover, simply… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the past, the major labels did just that: Their talent scouts would sign *any* artist on the strength of a stellar demo— even one with no fanbase, like Nick. Yet indie rock tells *every* artist to get themselves known… effectively saying they're each entitled to be. As a result, the notion is now vulgar that anyone who doesn't hustle could ever be *made* known— simply by deserving to be!
 
 Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Because, sure, it's a proven way to get fans— or dates!— but does society *want* this to be the case? Besides, most of us have now grown wise to being "negged"; sooner or later, then, won't we *also* wise up to, let's say, artists milking us for [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.)?
-
-${'  ' || `
-// TODO: Review link.
-`}
 
 So instead, you build yourself up into what a future audience— or romantic partner!— *would* [want you](https://www.yearlingsbobtail.com/7-m/?verse=2&annotation=4) to be, based on theories that you revise and refine over time. Which is also more fun and fulfilling for *you*, right? Yet from what I've seen… the indie tastemakers will never "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
 
@@ -682,7 +662,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who already does the middleman's job? What critic wouldn't prefer the one whose "lore" offers much to discuss? And what fan wouldn't prefer the one who directly engages with them— particularly, in [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) their free labor?
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who already does the middleman's job? What critic wouldn't prefer the one whose "lore" offers much to discuss? And what fan wouldn't prefer the one who directly engages with them— as when [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) their free labor?
 
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
