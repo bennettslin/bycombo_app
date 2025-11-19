@@ -654,7 +654,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who already does the middleman's job? What critic wouldn't prefer the one whose "lore" offers much to discuss? And what fan wouldn't prefer the one who directly engages with them— as when [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) their free labor?
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label wouldn't prefer the one who already does the middleman's job? What critic wouldn't prefer the one whose "lore" offers much to discuss? And what fan wouldn't prefer the one who directly engages with them— as when [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) their free labor?
 
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms! All they can do is promise to make better art— but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
@@ -662,7 +662,11 @@ Now, since indie artists do it all themselves, they must put in a further 80% ef
 
 Let's call this the "4x law of interdependence," then: By allowing a band to benefit from division of labor— and thus to form a whole greater than the sum of its parts— we can expect them to be *four* times better. Which checks out: Among interdependent bands, the greatest *ever* is the Beatles, who are *at least* four times better than whomever the indie camp has to offer!
 
-So now, what potential partner *wouldn't* prefer a BYCombo band such as yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful route from interdependence… to interdependence."
+${'  ' || `
+// TODO: Review.
+`}
+
+So now, what potential partner wouldn't prefer a BYCombo band such as yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful route from interdependence… to interdependence."
             `,
         }}
     />
