@@ -1,12 +1,13 @@
 # TODO
 
 * YB
-    * Improve "English" annotation?
-    * Review
+    * Review annotations
+
+* BM
+    * Review text
+    * Publish
 
 * BYC
-    * Examine each section transition again?
-    * Replace some "right?"s with "no?"s
     * Sentences with ellipsis in between instead of a third em-dash:
         * A gatekeeper helps to take…
         * Sometime in the '00s…
