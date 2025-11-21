@@ -660,11 +660,9 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 ${'  ' || `
 // TODO: Review.
-
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, what label *wouldn't* prefer the one who already does the middleman's job? What critic *wouldn't* prefer the one whose "lore" offers much to discuss? And what fan *wouldn't* prefer the one who directly engages with them— as when [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) their free labor?
 `}
 
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist: "Give us the one who already does the middleman's job!" And any critic: "We'll take the one whose lore can be discussed at length!" And any fan: "The one who directly engages with us— even if [just to ask](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for our free labor!"
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist: "Give us the one who already does the middleman's job!" And any critic: "We'll take the one whose lore can be discussed at length!" And any fan: "The one who directly engages with us, please— especially [when asking](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for our free labor!"
 
 ${'  ' || `
 // TODO: Review.
