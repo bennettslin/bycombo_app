@@ -43,10 +43,6 @@ Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, the
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. Yet breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Sadly, once the good guys are in charge, the generation who put them there will turn conservative… and thereafter help to *enforce* the rules. But suppose that society never *again* "forgives" its rule breakers? What's needed, then, is for a progressive institution like BYCombo to *codify* the practice of doing so— an amnesty program for the arts, if I may.
 
 **Why the historical canon?**
@@ -143,10 +139,6 @@ Well… we're *all* free to make art, right? Which means the government must fir
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. Yet if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of silent preparation… will be paying their own way the *whole* time.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To be clear, I'm not against subsidizing, let's say, music education. But when we support artists in *particular*, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this early on— having only *ever* been seen as a hobbyist by the indie camp. Now BYCombo lets you find partners who'd rather give amnesty to the best, than charity to all the rest.
 
 ### ${++sectionCounter}. Cultural chauvinism can only be justified
@@ -206,10 +198,6 @@ It's clear, then, why music was better before "indiefication": The *only* option
 ### ${++sectionCounter}. Serendipity rewards the idle mind
 
 Are you unconvinced that music is now worse? Okay, then ask this about any of the latest artists: Whatever their best work might be, could they *guarantee* us another one just as good? I suspect we'll agree: The answer is yes. That is to say, even the best works today simply *match* the talents of those who make them; they're what I call "workhorse art."
-
-${'  ' || `
-// TODO: Review.
-`}
 
 By contrast, could Dolly Parton *reliably* craft one "[Jolene](https://youtu.be/Ixrje2rXLMA)" after another? Or [Stephen Sondheim](https://bobtailyearlings.com/docs/Sondheim_paper.pdf), "[Someone in a Tree](https://youtu.be/JpoKuNyVNhQ)"? I highly doubt it. These are what I call "windfall art"— namely, works that are even *better* than those who make them. In fact, some of them seem to surpass what's humanly possible at *all*— and for this reason, they're the kind that fellow artists envy most.
 
@@ -676,10 +664,6 @@ ${'  ' || `
 
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist, "Give us the one who already does the middleman's job!" And any critic: "We'll take the one whose lore can be discussed at length!" And any fan: "The one who directly engages with us, please— especially in [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) our free labor!"
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. Interdependent bands, however, play to their strengths by having *partners* cover their weaknesses— which lets them put 20% effort into getting 80% results, over and over. Well, added up… that's *400%* results!
@@ -690,7 +674,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So now, what potential partner wouldn't insist upon a BYCombo band like yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful route from interdependence… to interdependence."
+So now, what potential partner *wouldn't* insist upon a BYCombo band like yours, if you can promise to be *four* times better? In the long run, then, our victory is *assured*! Or to borrow an old [Soviet joke](http://archive.today/2025.03.07/https://www.nytimes.com/1989/01/22/world/in-hope-and-dismay-lenin-s-heirs-speak.html#:~:text=In%20the%20Communist,capitalism%20to%20capitalism.''): "Indie rock is the longest and most painful route from interdependence… to interdependence."
             `,
         }}
     />
