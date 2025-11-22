@@ -2,6 +2,7 @@
 
 * YB
     * Review annotations
+    * Talk about magnet schools?
 
 * BM
     * Review text
