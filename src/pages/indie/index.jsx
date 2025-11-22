@@ -349,6 +349,12 @@ But so far, their efforts have only helped women, not us minorities— or *male*
 
 ${'  ' || `
 // TODO: Revise. Talk about being an investment? Read The Status Game?
+
+You'll notice, then, that we minorities *aren't* ones to begrudge a business partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://www.eminem.com/song/white-america/#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
+
+Mention tastemakers being bad for the underclass.
+
+Unlike indie tastemakers, however, elitist gatekeepers are capitalists. This means their best bet is to buy low and sell high, and in the arts, this happens by betting on low-status outsiders with history-making talents.
 `}
 
 You'll notice, then, that we minorities *aren't* ones to begrudge a business partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://www.eminem.com/song/white-america/#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.

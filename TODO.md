@@ -1,12 +1,15 @@
 # TODO
 
 * YB
-    * Review annotations
     * Talk about magnet schools?
 
 * BM
     * Review text
     * Publish
+
+* Substack
+    * Heads post
+        * Review Esther text
 
 * BYC
     * Link to Status Game?
