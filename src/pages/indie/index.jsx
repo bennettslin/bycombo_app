@@ -585,7 +585,7 @@ Interdependent labels pool their rosters.
 Second paragraph
 A movement that emphasizes self-sacrifice for the sake of the collective is the only way to solve collective action problems.
 
-Having established that what they want is an "indieocracy," and having seen firsthand that the artists who come out on top are those who spend the least time per work in order to churn out many more works lacking in well-crafted hooks, the indie camp is now in no position to complain that AI artists play by indie rock's rules even better than indie artists do.
+Having established that what they want is an "indieocracy," and having seen firsthand that the artists who come out on top are those who spend the least time per work in order to churn out many more works lacking in enviable hooks, the indie camp is now in no position to complain that AI artists play by indie rock's rules even better than indie artists do.
 
 AI simply takes further indie rock's ideal of the self-interested individual triumphing over the collective. It might as well stand for "accelerated indiefication"!
 
