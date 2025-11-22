@@ -43,7 +43,11 @@ Being "good guys," the indie tastemakers promise *not* to gatekeep; instead, the
 
 The best such intention, as we all know, is for artists to be self-empowered enough *not* to need a label. But this forces them to divert efforts away from the craft, toward the hustle— making it a de facto *rule*, since any who *don't* will remain unknown. Yet breaking this rule is the best way to *reverse* our decline! So why not lighten the punishment for those who try?
 
-Sadly, once the good guys are in charge, the generation who put them there will turn conservative… and thereafter help to *enforce* the rules. But suppose that society never *again* "forgives" its rule breakers?! What's needed, then, is for a progressive institution like BYCombo to *codify* the practice of doing so— an amnesty program for the arts, if I may.
+${'  ' || `
+// TODO: Review.
+`}
+
+Sadly, once the good guys are in charge, the generation who put them there will turn conservative… and thereafter help to *enforce* the rules. But suppose that society never *again* "forgives" its rule breakers? What's needed, then, is for a progressive institution like BYCombo to *codify* the practice of doing so— an amnesty program for the arts, if I may.
 
 **Why the historical canon?**
 
@@ -351,6 +355,10 @@ The issue is that these labels are run by society's most privileged groups— an
 
 But so far, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* the same. Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*; and women, of low *competence*. Yet social justice, when self-enforced, *only* fixes misjudgments of competence; a circle of friends has every right to feel more warmly toward their own.
 
+${'  ' || `
+// TODO: Revise. Talk about being an investment? Read The Status Game?
+`}
+
 You'll notice, then, that we minorities *aren't* ones to begrudge a business partner their profit motive! To the contrary, making money for those who wouldn't otherwise warm to us has *always* been our ticket to acceptance— and [not *just* ours](https://www.eminem.com/song/white-america/#:~:text=When%20I%20was,under%20his%20ass). Now with BYCombo, this ticket can be yours once again.
 
 ### ${++sectionCounter}. Elitism is the great equalizer
@@ -577,7 +585,7 @@ Interdependent labels pool their rosters.
 Second paragraph
 A movement that emphasizes self-sacrifice for the sake of the collective is the only way to solve collective action problems.
 
-Having established that what they want is an "indieocracy," and having seen firsthand that the artists who come out on top are those who spend the least time per work in order to churn out many more works, the indie camp is now in no position to complain that AI artists play by indie rock's rules even better than indie artists do.
+Having established that what they want is an "indieocracy," and having seen firsthand that the artists who come out on top are those who spend the least time per work in order to churn out many more works lacking in well-crafted hooks, the indie camp is now in no position to complain that AI artists play by indie rock's rules even better than indie artists do.
 
 AI simply takes further indie rock's ideal of the self-interested individual triumphing over the collective. It might as well stand for "accelerated indiefication"!
 
@@ -662,7 +670,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist: "Give us the one who already does the middleman's job!" And any critic: "We'll take the one whose lore can be discussed at length!" And any fan: "The one who directly engages with us, please— especially [when asking](https://en.wikipedia.org/wiki/Ben_Franklin_effect) for our free labor!"
+Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist: "Give us the one who already does the middleman's job!" And any critic: "We'll take the one whose lore can be discussed at length!" And any fan: "The one who directly engages with us, please— especially in [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) our free labor!"
 
 ${'  ' || `
 // TODO: Review.
