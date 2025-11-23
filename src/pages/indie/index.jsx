@@ -101,7 +101,11 @@ For instance, even after Goatse proved that the Internet caters to the lowest co
 
 Let's face it, in every early example of online success… chance, privilege, or sheer opportunism played a clear role. Yet the indie camp was so eager to spurn the majors, they downplayed this point. Well, it worked: The Internet came to be seen as a meritocracy, where *anyone* can make it. Except now, if an artist struggles to do so… the public *has* to assume they're unworthy!
 
-As with MAGA, then, indie rock's weakness for confusion ends up hurting its own. So yes, the majors in their heyday did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask… because we nurse no grievances.
+${'  ' || `
+// TODO: Review.
+`}
+
+As with MAGA, then, indie rock's weakness for confusion ends up hurting its own. So, sure, the majors in their heyday did many things wrong— but they got Nirvana and Radiohead *right*! How? With BYCombo, you can join those of us willing to ask… because we nurse no grievances.
 
 ### ${++sectionCounter}. Populism trampled the underground
 
