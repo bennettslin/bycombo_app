@@ -261,7 +261,11 @@ To oppose "indiefication," then, interdependent bands can "cross the picket line
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
 
-In game theory, the "stag hunt" is a game in which you and another player must decide, each on your own, whether to hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
+${'  ' || `
+// TODO: Review link.
+`}
+
+In game theory, the "[stag hunt](https://en.wikipedia.org/wiki/Stag_hunt)" is a game in which you and another player must decide, each on your own, whether to hunt hares separately, or team up and hunt a stag together. The stag yields far more meat, even when split two ways. But if you trust the other player and go for the stag— only for *them* to doubt *you* and thus stick with hares— you'll end up with nothing.
 
 The richest nations build systems that allow their citizens to trust each other and confidently "hunt the stag," creating more wealth for all. The opposite is also true: North Korea, a poor nation, leaves its citizens to "hunt hares"— and fittingly, its [state ideology](https://en.wikipedia.org/wiki/Juche) translates to "self-reliance." Well, now you know where this is going: Indie rock… is the North Korea of music!
 
@@ -354,16 +358,16 @@ While being alternative is an *artistic* choice, being indie is a *business* sta
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](http://archive.today/2024.05.12/https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 `}
 
-But so far, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities face stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model); and women, of low *competence*. Yet social justice, when self-enforced, seeks *only* to fix misjudgments of competence; a circle of friends has every right to feel more warmly toward their own.
+But so far, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities face stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model); and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; after all, a circle of friends has every right to feel more warmly toward their own.
 
 ${'  ' || `
-// TODO: Review. Maybe make point about status-driven tastes later.
+// TODO: Review a few more times.
 `}
 
-Luckily, if we aren't desired as *friends*… we can still be valued as *investments*! After all, a smart investor buys low and sells high— and in music, this means betting on low-status outsiders with history-making talents. So forget those tastemakers and their status-driven tastes; with BYCombo, you can partner with capitalists who'll proudly admit, "Yes, we're in this for the money!"
+Luckily, if we aren't desired as *friends*… we can still be valued as *investments*! A smart investor buys low and sells high, right? Well, in the arts, this means betting on us low-status outsiders with history-making talents. So leave the indie tastemakers to their "[old boy network](https://en.wikipedia.org/wiki/Old_boy_network)"; with BYCombo, you can partner with capitalists who'll *gladly* reassure you, "Yes, we're in this for the money!"
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
