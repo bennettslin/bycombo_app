@@ -360,10 +360,10 @@ ${'  ' || `
 But so far, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities face stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model); and women, of low *competence*. Yet social justice, when self-enforced, seeks *only* to fix misjudgments of competence; a circle of friends has every right to feel more warmly toward their own.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review. Maybe make point about status-driven tastes later.
 `}
 
-Luckily, if we aren't desired as *friends*… we can still be valued as *investments*! After all, a smart investor buys low and sells high— and in music, this means betting on low-status outsiders with history-making talents. So forget those tastemakers and their [status-driven](https://www.harpercollins.com/products/the-status-game-on-human-life-and-how-to-play-it-will-storr) tastes; with BYCombo, you can partner with capitalists who'll proudly admit, "Yes, we're in this for the money!"
+Luckily, if we aren't desired as *friends*… we can still be valued as *investments*! After all, a smart investor buys low and sells high— and in music, this means betting on low-status outsiders with history-making talents. So forget those tastemakers and their status-driven tastes; with BYCombo, you can partner with capitalists who'll proudly admit, "Yes, we're in this for the money!"
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
@@ -607,7 +607,9 @@ Let's face it, "indie architecture" isn't a thing, because we all grasp that any
 
 Most places, in most times, did not incentivize artistic flourishing. We're now going to back to being one of those places, in one of those times.
 
-Taste is status-driven
+All taste is status-driven, which means tastemakers are ultimately loyal to the status hierarchy.
+
+https://www.harpercollins.com/products/the-status-game-on-human-life-and-how-to-play-it-will-storr
 `}
 
 To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
