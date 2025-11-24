@@ -353,7 +353,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-While being alternative is an *artistic* choice, being indie is a *business* stance. Until the '90s, then, "indie" [mainly referred](https://books.google.com/ngrams/graph?content=indie+band%2Cindie+label&year_start=1980&year_end=2000) to *labels*— not *artists*. And that stance? It says, "We're *not* in this for the money!" Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
+While being alternative is an *artistic* choice, being indie is a *business* stance. Until the '90s, then, "indie" [mainly referred](https://books.google.com/ngrams/graph?content=indie+band%2Cindie+label&year_start=1980&year_end=2000) to *labels*— not *artists*. And that stance? It says, "We *don't* do this for the money!" Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](http://archive.today/2024.05.12/https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality can't be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
@@ -361,13 +361,13 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-But so far, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities face stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model); and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; after all, a circle of friends has every right to feel more warmly toward their own.
+But so far, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities face stereotypes of [low *warmth*](https://en.wikipedia.org/wiki/Stereotype_content_model); and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel more warmly toward its own.
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Luckily, if we aren't desired as *friends*… we can still be valued as *investments*! A smart investor buys low and sells high, right? Well, in the arts, this means betting on us low-status outsiders with history-making talents. So leave the indie tastemakers to their "[old boy network](https://en.wikipedia.org/wiki/Old_boy_network)"; with BYCombo, you can partner with capitalists who'll *gladly* reassure you, "Yes, we're in this for the money!"
+Luckily, if we aren't desired as *friends*… we can still be valued as *investments*. After all, a smart investor buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents! So leave the indie camp to their "[old-boy network](https://en.wikipedia.org/wiki/Old_boy_network)"; with BYCombo, you can partner with a capitalist who'll *gladly* reassure you, "Yes, I'm in it for the money!"
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
