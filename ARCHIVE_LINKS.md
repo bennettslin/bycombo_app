@@ -35,3 +35,5 @@ https://youtu.be/HWMsWO0vPa8
 https://youtu.be/UihGpf7lCM8?t=11
 
 http://archive.today/2021.05.21/https://genius.com/Nirvana-smells-like-teen-spirit-lyrics#:~:text=With%20the%20lights,now%2C%20entertain%20us
+
+https://www.slowboring.com/p/postcards-from-the-wrong-side-of-d6f#:~:text=The%20poptimists%20defeated,dustbin%20of%20history.
