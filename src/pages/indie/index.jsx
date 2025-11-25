@@ -315,7 +315,11 @@ Unfortunately, *all* welfare is fragile: Instead of feeling grateful to be given
 
 Yet others *happily* pay it forward: "Paying more means we [succeeded more](http://archive.today/2025.06.26/https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=So%20thank%20you,They%20deserve%20better.)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo lets you find partners on the artistic *left*… who'll make the smart move once again.
 
-### ${++sectionCounter}. Paid dues shrivel a noble spirit
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being a low-status nobody, I needed others to help *me* first. Yet no one did…
 
@@ -353,7 +357,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So far, though, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. But social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
+So far, though, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. But social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has *every* right to feel warmest toward its own.
 
 ${'  ' || `
 // TODO: Review.
