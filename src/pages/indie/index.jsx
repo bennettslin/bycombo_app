@@ -315,10 +315,6 @@ Unfortunately, *all* welfare is fragile: Instead of feeling grateful to be given
 
 Yet others *happily* pay it forward: "Paying more means we [succeeded more](http://archive.today/2025.06.26/https://variety.com/2025/biz/news/warren-buffett-greg-abel-succeeded-ceo-berkshire-1236316306/#:~:text=So%20thank%20you,They%20deserve%20better.)!" It's the noble way of thinking, for sure; but isn't it also better… for *you*? So if you miss those legacy institutions that promised to subsidize your chances— in exchange for *your* promise to do the same for others— BYCombo lets you find partners on the artistic *left*… who'll make the smart move once again.
 
-${'  ' || `
-// TODO: Review title.
-`}
-
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
 Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being a low-status nobody, I needed others to help *me* first. Yet no one did…
@@ -337,10 +333,6 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? The answer is obvious, I think, if you're in the habit of asking: Is this a "larp"? As in, live-action role-play. For instance, suppose an opposing camp were to argue: "No, this *won't* make history; it's just larping, to act like it will." Who'd win? So, regarding this century's indie rock [thus far](https://www.harpercollins.com/products/meet-me-in-the-bathroom-lizzy-goodman): Was it all a larp?
 
-${'  ' || `
-// TODO: Review link removal.
-`}
-
 Some of you now see what I saw back then: Yes, it was! I'm no prophet, mind you; being Asian simply taught me that, to belong in "the" canon, bands must innovate… *and* craft enviable "hum-'n-strums." But indie rock *didn't* get this, making it as trivial today as the foreign canons I grew up on. Now, desperate for redemption, it's nudging us women and minorities onto a "[glass cliff](https://www.investopedia.com/terms/g/glass-cliff.asp)"…
 
 No thanks! Remember, the indie camp idolizes those like Stephen Malkmus and Jeff Mangum, whose privileges as society's underdogs allow them to live *devoid* of hunger. Yet rock and roll was founded by poor, queer Blacks, then carried further by rural Southerners, a Midwestern Jew, working-class Brits… In short, it's a history of outsiders, like *us*— and specifically, the *hungriest*.
@@ -351,21 +343,9 @@ Don't be fooled, then, by those who merely *larp* as history makers! All your in
 
 While being alternative is an *artistic* choice, being indie is a *business* stance. Until the '90s, then, "indie" [mainly referred](https://books.google.com/ngrams/graph?content=indie+band%2Cindie+label&year_start=1980&year_end=2000) to *labels*— not *artists*. And that stance? It says, "We *don't* do this for the money!" Indeed, many indie labels started as a circle of friends who just wanted to support each other's bands— and this is how they still see themselves at heart. What's not to love? Well…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](http://archive.today/2024.05.12/https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality *can't* be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 So far, though, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. But social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a smart investor buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "[old-boy network](https://en.wikipedia.org/wiki/Old_boy_network)"; with BYCombo, you can partner with a capitalist who'll *happily* reassure you, "Yes, I'm in it for the money!"
 
