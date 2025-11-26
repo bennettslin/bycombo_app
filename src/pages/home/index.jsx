@@ -13,7 +13,11 @@ const Component = () => (
             body: `
 **As a nonprofit, BYCombo promotes amnesty for interdependence-seeking artists who advance the art form. Our approach is to assemble them into rock bands ourselves, and then expose them to potential partners.**
 
-Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! You might be wondering why an amnesty program is needed in the arts— or why we favor *inter*-dependence, when *indie*-pendence is the dominant thinking today. Let me explain…
+${'  ' || `
+// TODO: Review.
+`}
+
+Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! You might be wondering why an amnesty program is needed in the arts— or why we favor *inter*-dependence, when *indie*-pendence is the dominant mindset today. Let me explain…
 
 ### Tools… are *rules*
 
