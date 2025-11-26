@@ -321,7 +321,11 @@ Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12
 
 So I took a coding bootcamp, and for [seven years](https://bobtail.substack.com/p/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying dues"— to justify, let's say, touring at a loss. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
 
-Except… now it made sense why, [unlike the avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've paid them will now insist on keeping that culture as it is— no matter how broken it's become.
+${'  ' || `
+// TODO: Review.
+`}
+
+Except… now it made sense why, [unlike the avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've paid them will now insist on keeping that culture exactly as it is— no matter how broken it's become.
 
 Moreover, once someone has wasted their best years striving for symbolic credentials rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are those willing to waste even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
@@ -582,6 +586,8 @@ Second paragraph
 A movement that emphasizes self-sacrifice for the sake of the collective is the only way to solve collective action problems.
 
 Having established that what they want is an "indieocracy," and having seen firsthand that the artists who come out on top are those who spend the least time per work in order to churn out many more works lacking in enviable hooks, the indie camp is now in no position to complain that AI artists play by indie rock's rules even better than indie artists do.
+
+As we've seen, in an indieocracy, status rightfully goes to the "lottery winner," the "industry baby," or— as in the case with AI artists— the sheer opportunist.
 
 AI simply takes further indie rock's ideal of the self-interested individual triumphing over the collective. It might as well stand for "accelerated indiefication"!
 
