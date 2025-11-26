@@ -597,7 +597,11 @@ In our collectivist past, the individualist's desire for status was most in line
 
 Let's face it, "indie architecture" isn't a thing, because we all grasp that any moderately ambitious project requires collaborative effort. With the indie takeover of music, then, what musical "cathedrals" have we missed out on?
 
+"fear of missing out."
+
 Most places, in most times, did not incentivize artistic flourishing. We're now going to back to being one of those places, in one of those times.
+
+The only way to make the best art is to be low status for a serious chunk of your lifetime.
 
 All taste is status-driven, which means tastemakers are ultimately loyal to the status hierarchy.
 
