@@ -589,7 +589,7 @@ AI simply takes further indie rock's ideal of the self-interested individual tri
 
 Talk about anti-vax. Herd immunity.
 
-To be great means missing out on most things. It means being lop-sided. This is intolerable for individualists. Collectivists pool their experiences, allowing them *not* to see it all, or do it all. No more fear of missing out.
+To be great means missing out on most things. It means being lop-sided. This is intolerable for individualists. Collectivists pool their experiences, allowing them *not* to see it all, or do it all. No more fear of missing out. With all these "eras" to choose from.
 
 Mention authenticity, entitlement, future-oriented versus present-oriented when it comes to history making.
 

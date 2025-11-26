@@ -17,7 +17,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! You might be wondering why an amnesty program is needed in the arts— or why we favor *inter*-dependence, when *indie*-pendence is the dominant mindset today. Let me explain…
+Hi, I'm Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com)! You might be wondering why an amnesty program is needed in the arts— or why we favor *inter*-dependence, when *indie*-pendence is the primary way of thinking today. Let me explain…
 
 ### Tools… are *rules*
 
