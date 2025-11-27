@@ -7,11 +7,11 @@
     * Review text
     * Publish
 
-* Substack
-    * Heads post
-        * Review Esther text
-
 * BYC
+    * Add placeholder sizes for all blog post images
+    * Links to lyrics
+        * Smashing Pumpkins
+        * Restore Nirvana?
     * Link to Status Game?
     * Sentences with ellipsis in between instead of a third em-dash:
         * A gatekeeper helps to take…
