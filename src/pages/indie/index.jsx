@@ -582,6 +582,8 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 ${'  ' || `
 // TODO: Keep working on.
 
+First paragraph can be shorter, and cover everything about AI: Why are indie artists proving so inept at countering soulless AI content? The answer is simple: Indieocracy favors…
+
 * Actions that make the world worse when everyone does them
 
 https://karamary.substack.com/p/hey-mama-your-californian-ideology

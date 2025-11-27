@@ -9,6 +9,7 @@
 
 * BYC
     * Define innovation as providing for others to build upon?
+        * Whereas artsiness is just, "By following my muse, I hope I've inspired you to follow your muse!"
     * Link to Status Game?
     * Sentences with ellipsis in between instead of a third em-dash:
         * A gatekeeper helps to take…
