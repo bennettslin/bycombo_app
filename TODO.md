@@ -8,6 +8,7 @@
     * Publish
 
 * BYC
+    * Define innovation as providing for others to build upon?
     * Link to Status Game?
     * Sentences with ellipsis in between instead of a third em-dash:
         * A gatekeeper helps to take…
