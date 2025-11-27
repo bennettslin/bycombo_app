@@ -8,7 +8,6 @@
     * Publish
 
 * BYC
-    * Add placeholder sizes for all blog post images
     * Links to lyrics
         * Smashing Pumpkins
         * Restore Nirvana?
