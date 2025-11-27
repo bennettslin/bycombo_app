@@ -333,7 +333,11 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
-"Who could've foreseen such a downside to popularizing indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Hip hop gets this, which is why rappers rely on [labels and producers](http://archive.today/2024.05.11/https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
+${'  ' || `
+// TODO: Review link change.
+`}
+
+"Who could've foreseen such a downside to popularizing indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Hip hop gets this, which is why rappers rely on [labels and producers](https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
 
 Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? The answer is obvious, I think, if you're in the habit of asking: Is this a "larp"? As in, live-action role-play. For instance, suppose an opposing camp were to argue: "No, this *won't* make history; it's just larping, to act like it will." Who'd win? So, regarding this century's indie rock [thus far](https://www.harpercollins.com/products/meet-me-in-the-bathroom-lizzy-goodman): Was it all a larp?
 
