@@ -23,7 +23,7 @@ Thus I was left to struggle in a world that *wouldn't* speak out against indie r
 
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see any downside to what I call "indiefication"— namely, their goal for *all* of us to spread our works from the bottom up, instead of the top down. But as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=All%20the%20time,and%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And knowing all this leads to revolution… How?"
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=All%20the%20time,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And knowing all this leads to revolution… How?"
 
 Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. Tastemakers, however, prefer an artist who's *already* gone from zero to one, and thus *already* enjoys high status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
 
@@ -108,10 +108,6 @@ As with MAGA, then, indie rock's weakness for confusion ends up hurting its own.
 We all respect those alternative bands of the ['80s underground](https://www.hachettebookgroup.com/titles/michael-azerrad/our-band-could-be-your-life/9780316787536), right? "Yes! They were chosen by the people, *not* by the elites." Well, actually… this is yet more Millennial confusion. Back then, the underground was a shelter both for rock's underclass— who *subverted* the people's will— and for the elitist snobs who championed their works; it *wasn't* for everyone.
 
 In the '90s, though, as bands began to leave for the major labels, "alternative" came to imply selling out; those who stayed [thus became](https://books.google.com/ngrams/graph?content=alternative+rock%2Cindie+rock&year_start=1980&year_end=2000) "indie" instead. Yet if being indie just means *not* signing to a major, then it *can* be for everyone— so once the Internet made this possible, the indie camp argued that it *should* be. Now *anyone* who hustles to build a fanbase is considered indie!
-
-${'  ' || `
-// TODO: Review link change.
-`}
 
 But this includes artists with mainstream tastes… who easily gain the most fans. Which means *they're* the ones getting picked by the indie tastemakers! Sometime in the '00s, then, indie rock renounced its elitism and became a [populist movement](https://bennettsamuellin.blogspot.com/2011/11/problem-with-reclaiming-music-for.html#:~:text=So%20here%27s%20the,out%20of%20bones.) instead, as it went from championing the under-*class*— who *aren't* for everyone… to rooting for under-*dogs*— who *can* be.
 
@@ -333,10 +329,6 @@ Which is why it took an outsider like myself to start BYCombo, driven by an urge
 
 ### ${++sectionCounter}. Hungry outsiders aim for the canon
 
-${'  ' || `
-// TODO: Review link change.
-`}
-
 "Who could've foreseen such a downside to popularizing indie rock's ideals?" Um… us women and minorities, that's who! If history's any guide, we *need* to be the best, just to be heard at all— and thus we *can't* be self-reliant. Hip hop gets this, which is why rappers rely on [labels and producers](https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics#:~:text=Ain%27t%20nothin%27%20but,that%20pays%20me). Yes, they'll boast of having hustled— but it's to say, "I've got cred *too*… so yours means *nothing*."
 
 Yet despite the poor fit, today's indie camp sure is eager to hand us the reins! Why? The answer is obvious, I think, if you're in the habit of asking: Is this a "larp"? As in, live-action role-play. For instance, suppose an opposing camp were to argue: "No, this *won't* make history; it's just larping, to act like it will." Who'd win? So, regarding this century's indie rock [thus far](https://www.harpercollins.com/products/meet-me-in-the-bathroom-lizzy-goodman): Was it all a larp?
@@ -421,15 +413,7 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 
 Let's be fair, in wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on their identities as [society's underdogs](http://archive.today/2021.06.04/https://www.nytimes.com/2021/05/26/magazine/black-keys-blues.html#:~:text=%E2%80%9CFor%20me%2C%20it,aspirations%20we%20did.%E2%80%9D)…
 
-${'  ' || `
-// TODO: Review link change.
-`}
-
-Except, it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly White and male. Suffering a [crisis of conscience](https://bennettsamuellin.blogspot.com/2012/08/major-labels-not-too-shabby-on-peoples.html#:~:text=In%20my%20last,White%20and%20male.), the indie camp solved this problem in the only way they knew how: by letting us women and minorities self-identify as underdogs as well— a solution that's come to be called "wokeness."
-
-${'  ' || `
-// TODO: Review link change.
-`}
+Except, it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly White and male. Suffering a [crisis of conscience](https://bennettsamuellin.blogspot.com/2012/08/major-labels-not-too-shabby-on-peoples.html#:~:text=In%20my%20last,and%20male%20artists.), the indie camp solved this problem in the only way they knew how: by letting us women and minorities self-identify as underdogs as well— a solution that's come to be called "wokeness."
 
 But while White men *easily* gain from their identities without admitting to it— as when it [lends authenticity](https://bennettsamuellin.blogspot.com/2011/07/resistible-canaanites-request-for.html#:~:text=I%27m%20not%20a,coming%20from%20me.) to a "larpy" backstory— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
@@ -440,10 +424,6 @@ So if seeking to gain from one's identity— one's *self*, if you will— is the
 ### ${++sectionCounter}. Penultimate tolerance retracts a lifeline
 
 No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet when I came along— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me *apart* from my identity!" Why? I suspect it's because Millennials were the first generation to believe they'd achieved perfect tolerance; as such, they forgot all about society's bargain with the hungry outsider.
 
