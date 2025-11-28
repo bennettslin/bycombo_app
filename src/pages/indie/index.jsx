@@ -167,7 +167,13 @@ The reverse is also true, of course: Those who'd settle for a "thousand true fan
 
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket"— at least the best of us aren't. But if a critical darling strikes us as a "lottery" winner, we won't pretend otherwise. And this gets at why critics [are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
+${'  ' || `
+// TODO: Review. Also review link.
+
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is, in fact, par for the course. And we commit fewer false *negatives*: We'll give radical new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
+`}
+
+Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is [merely artsy](https://www.metacritic.com/music/lux/rosalia), not innovative. And we commit fewer false *negatives*: We'll give radical new ideas a chance, knowing the courage it takes to see them through. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
 
 For instance, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](https://bobtailyearlings.com/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
 
