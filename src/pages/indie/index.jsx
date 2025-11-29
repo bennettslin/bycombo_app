@@ -395,7 +395,11 @@ ${'  ' || `
 // TODO: Add new paragraph? Consider making point that, since they're not capitalists, they have no incentive to understand that taste is status-driven, so they converge on falling in line with the status hierarchy.
 `}
 
-Moreover, just like each person gets one vote in a democracy, each work gets one chance in an "indieocracy." So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
+${'  ' || `
+// TODO: Review.
+`}
+
+Moreover, just like each of us gets one vote in a democracy, each work gets one chance in an "indieocracy." So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
 
 Still… what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
 
@@ -485,7 +489,11 @@ See, us dreamers, we're not grounded in reality— which makes our visions hard 
 
 Yet it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— being strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
 
-But all is assumed to be well: With no true innovator in our times to serve as an exemplar, critics are *happy* to [mistake artsiness](https://www.metacritic.com/music/lux/rosalia) for innovation. Still, what if *you're* here to truly innovate— and not just to "larp" the notion of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the ideal partner: a striver!
+${'  ' || `
+// TODO: Review.
+`}
+
+Sadly, with no innovators in our times to serve as exemplars, critics and fans *happily* [mistake artsiness](https://www.metacritic.com/music/lux/rosalia) for innovation— ignoring how little it inspires envy in fellow artists. Still, what if *you're* here to innovate, and not just to "larp" the idea of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
