@@ -168,12 +168,12 @@ The reverse is also true, of course: Those who'd settle for a "thousand true fan
 Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket"— at least the best of us aren't. But if a critical darling strikes us as a "lottery" winner, we won't pretend otherwise. And this gets at why critics [are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They never consider how things look to us *other* artists.
 
 ${'  ' || `
-// TODO: Review. Also review link.
+// TODO: Review.
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is, in fact, par for the course. And we commit fewer false *negatives*: We'll give radical new ideas a chance, knowing the courage it takes to put them into action. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
 `}
 
-Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is [merely artsy](https://www.metacritic.com/music/lux/rosalia), not innovative. And we commit fewer false *negatives*: We'll give radical new ideas a chance, knowing the courage it takes to see them through. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
+Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is merely artsy, not innovative. And we commit fewer false *negatives*: We'll give radical new ideas a chance, knowing the courage it takes to see them through. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
 
 For instance, during the Galant, a time that favored simplicity, Bach's music was derided as old-fashioned and soon forgotten by the public. Even so, his renown as a "composer's composer" grew: To learn counterpoint, [you'd study](https://bobtailyearlings.com/docs/Bach_analysis.jpg) his works. Now three centuries onward, Bach is regarded as the greatest of all time… while I've yet to meet *anyone* whose favorite style is Galant.
 
@@ -491,7 +491,13 @@ See, us dreamers, we're not grounded in reality— which makes our visions hard 
 
 Yet it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— being strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
 
+${'  ' || `
+// TODO: Review. Also review link.
+
 But all is assumed to be well, since today's artists easily look and sound like the innovators of yesteryear… while we're never shown what *true* innovation in our times would entail. Still, what if *you're* here to truly innovate— and not just to "larp" the idea of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect partner: a striver!
+`}
+
+But all is assumed to be well: With no true innovator in our times to serve as an exemplar, critics are *happy* to [mistake artsiness](https://www.metacritic.com/music/lux/rosalia) for innovation. Still, what if *you're* here to truly innovate— and not just to "larp" the notion of doing so? Then keep on dreaming like a child, and let BYCombo help you find the ideal partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
