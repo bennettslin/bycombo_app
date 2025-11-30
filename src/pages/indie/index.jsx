@@ -395,10 +395,6 @@ ${'  ' || `
 // TODO: Add new paragraph? Consider making point that, since they're not capitalists, they have no incentive to understand that taste is status-driven, so they converge on falling in line with the status hierarchy.
 `}
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Moreover, just like each of us gets one vote in a democracy, each work gets one chance in an "indieocracy." So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
 
 Still… what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
@@ -493,7 +489,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Sadly, with no innovators in our times to serve as exemplars, critics and fans *happily* [mistake artsiness](https://www.metacritic.com/music/lux/rosalia) for innovation— ignoring how little it inspires envy in fellow artists. Still, what if *you're* here to innovate, and not just to "larp" the idea of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect partner: a striver!
+Sadly, with no dreamer in our times to serve as an exemplar, critics and fans are *happy* [to mistake](https://www.metacritic.com/music/lux/rosalia) a striver's artsiness for innovation— ignoring how little it inspires envy in fellow artists. Still, what if *you're* here to innovate, and not just to "larp" the idea of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
