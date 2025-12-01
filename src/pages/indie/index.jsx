@@ -623,6 +623,8 @@ The only way to make the best art is to be low status for a serious chunk of you
 
 All taste is status-driven, which means tastemakers are ultimately loyal to the status hierarchy.
 
+To think like other artists, and future historians, one *can't* be an individualist.
+
 https://www.harpercollins.com/products/the-status-game-on-human-life-and-how-to-play-it-will-storr
 `}
 
