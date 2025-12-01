@@ -392,10 +392,18 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. Consequently, everyone in indie rock converges on the same well-rounded way of thinking…
 
 ${'  ' || `
-// TODO: Add new paragraph? Consider making point that, since they're not capitalists, they have no incentive to understand that taste is status-driven, so they converge on falling in line with the status hierarchy.
-`}
+// TODO: Review a few more times.
 
 Moreover, just like each of us gets one vote in a democracy, each work gets one chance in an "indieocracy." So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
+`}
+
+For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
+
+${'  ' || `
+// TODO: Add new paragraph? Make point that, since they're not capitalists, they have no incentive to understand that taste is status-driven, so they converge on falling in line with the status hierarchy.
+
+Meanwhile, the 
+`}
 
 Still… what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
 
@@ -489,7 +497,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Sadly, with no dreamer in our times to serve as an exemplar, critics and fans are *happy* [to mistake](https://www.metacritic.com/music/lux/rosalia) a striver's artsiness for innovation— ignoring how little it inspires envy in fellow artists. Still, what if *you're* here to innovate, and not just to "larp" the idea of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect partner: a striver!
+Sadly, with no dreamer in our times to serve as an exemplar, critics and fans are *happy* [to mistake](https://www.metacritic.com/music/lux/rosalia) a striver's artsiness for innovation— ignoring how little it inspires envy in fellow artists. Still, what if *you're* here to innovate, and not just to "larp" the notion of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
@@ -674,7 +682,11 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist, "Give us the one who already does the middleman's job!" And any critic: "We'll take the one whose lore can be discussed at length!" And any fan: "The one who directly engages with us, please— especially in [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) our free labor!"
 
-Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the Pareto principle, which states that 20% of the effort yields 80% of the results.
+${'  ' || `
+// TODO: Review link and quotes.
+`}
+
+Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… but by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the "[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)," which states that 20% of the effort yields 80% of the results.
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. Interdependent bands, however, play to their strengths by having *partners* cover their weaknesses— which lets them put 20% effort into getting 80% results, over and over. Well, added up… that's *400%* results!
 
