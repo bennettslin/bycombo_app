@@ -161,7 +161,7 @@ ${'  ' || `
 For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our human nature. Since it's hard to say whose works are best, we often just like what others like— and they do the same! As a result, any [random boost](http://archive.today/2024.07.19/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#:~:text=The%20reason%20is,in%20her%20place.) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
 `}
 
-For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our human nature colliding with [power laws](https://youtu.be/HBluLfX2F_k). Since it's hard to say which works are best, we tend to just like what others like, right? Except… they do the same! As a result, any [random boost](http://archive.today/2024.07.19/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#:~:text=The%20reason%20is,in%20her%20place.) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
+For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our own human nature running into [power laws](https://youtu.be/HBluLfX2F_k). Since it's hard to say which works are best, we tend to just like what others like, right? Well… they do the same! As a result, any [random boost](http://archive.today/2024.07.19/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#:~:text=The%20reason%20is,in%20her%20place.) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who signed with the indies for this very reason!
 
@@ -406,7 +406,9 @@ Moreover, just like each of us gets one vote in a democracy, each work gets one 
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
 
 ${'  ' || `
-// TODO: Add new paragraph? Make point that, since they're not capitalists, they have no incentive to understand that taste is status-driven, so they converge on falling in line with the status hierarchy.
+// TODO: Add new paragraph? Make point that capitalist gatekeepers are incentivized to look past status, in order to see the potential that others don't see.
+
+But since tastemakers *aren't* not capitalists, they have no incentive to understand that taste is status-driven, so they converge on the same tastes, since they're creatures of the same status hierarchy.
 
 Meanwhile, the 
 `}
