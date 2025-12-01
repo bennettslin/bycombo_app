@@ -689,10 +689,10 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist, "Give us the one who already does the middleman's job!" And any critic: "We'll take the one whose lore can be discussed at length!" And any fan: "The one who directly engages with us, please— especially in [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) our free labor!"
 
 ${'  ' || `
-// TODO: Review. Also review link and quotes.
+// TODO: Review. Also review link.
 `}
 
-Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… yet by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the "[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)," which states that 20% of the effort yields 80% of the results.
+Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… yet by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp), which states that 20% of the effort yields 80% of the results.
 
 ${'  ' || `
 // TODO: Review.
