@@ -406,7 +406,7 @@ Moreover, just like each of us gets one vote in a democracy, each work gets one 
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
 
 ${'  ' || `
-// TODO: Add new paragraph? Make point that capitalist gatekeepers are incentivized to look past status, in order to see the potential that others don't see.
+// TODO: Add new paragraph? Make point that capitalist gatekeepers are incentivized to look past status, in order to see the potential in a low-status no-name that others don't see.
 
 But since tastemakers *aren't* not capitalists, they have no incentive to understand that taste is status-driven, so they converge on the same tastes, since they're creatures of the same status hierarchy.
 
