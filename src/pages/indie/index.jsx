@@ -157,11 +157,9 @@ By the '00s, the major labels had gutted the local scenes in their search for th
 
 ${'  ' || `
 // TODO: Review.
-
-For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our human nature. Since it's hard to say whose works are best, we often just like what others like— and they do the same! As a result, any [random boost](http://archive.today/2024.07.19/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#:~:text=The%20reason%20is,in%20her%20place.) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
 `}
 
-For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our own human nature running into [power laws](https://youtu.be/HBluLfX2F_k). Since it's hard to say which works are best, we tend to just like what others like, right? Well… they do the same! As a result, any [random boost](http://archive.today/2024.07.19/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#:~:text=The%20reason%20is,in%20her%20place.) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
+For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our human nature colliding with [power laws](https://youtu.be/HBluLfX2F_k). Since it's hard to say whose works are best, we tend to just like what others like, right? Except… they do the same! As a result, any [random boost](http://archive.today/2024.07.19/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#:~:text=The%20reason%20is,in%20her%20place.) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who signed with the indies for this very reason!
 
@@ -501,10 +499,6 @@ See, us dreamers, we're not grounded in reality— which makes our visions hard 
 
 Yet it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— being strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Sadly, with no dreamer in our times to serve as an exemplar, critics and fans are *happy* [to mistake](https://www.metacritic.com/music/lux/rosalia) a striver's artsiness for innovation— ignoring how little it inspires envy in fellow artists. Still, what if *you're* here to innovate, and not just to "larp" the notion of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
@@ -692,15 +686,7 @@ Today's music is worse, then, because it's bottom up— while history *itself* i
 
 Once indie rock's ideals take root, they end up taking over. After all, with so many artists to choose from, *of course* any label will insist, "Give us the one who already does the middleman's job!" And any critic: "We'll take the one whose lore can be discussed at length!" And any fan: "The one who directly engages with us, please— especially in [asking for](https://en.wikipedia.org/wiki/Ben_Franklin_effect) our free labor!"
 
-${'  ' || `
-// TODO: Review. Also review link.
-`}
-
 Meanwhile, by refusing to be indie, an interdependent band can't compete on *any* of those terms. All they can do is promise to make better art… yet by itself, this convinces no one. Because, how *much* better are we talking about? Fortunately, we can turn to the [Pareto principle](https://www.investopedia.com/terms/p/paretoprinciple.asp), which states that 20% of the effort yields 80% of the results.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Now, since indie artists do it all themselves, they must put in a further 80% effort to get that last 20% in results, right? So, 100% results for 100% effort. But interdependent bands play to their strengths by having *partners* cover their weaknesses— which lets them put 20% effort into getting 80% results, over and over. Well, for *100%* effort… that adds up to *400%* results!
 
