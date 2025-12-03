@@ -155,11 +155,7 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant "long tail" decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
-${'  ' || `
-// TODO: Review.
-`}
-
-For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our human nature colliding with [power laws](https://youtu.be/HBluLfX2F_k). Since it's hard to say whose works are best, we tend to just like what others like, right? Except… they do the same! As a result, any [random boost](http://archive.today/2024.07.19/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#:~:text=The%20reason%20is,in%20her%20place.) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
+For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our own human nature running into [power laws](https://youtu.be/HBluLfX2F_k). Since it's hard to say which works are best, we tend to just like what others like, right? Well… they do the same! As a result, any [random boost](http://archive.today/2024.07.19/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#:~:text=The%20reason%20is,in%20her%20place.) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who signed with the indies for this very reason!
 
@@ -351,10 +347,6 @@ The issue is that these labels are run by society's most privileged groups— an
 
 So far, though, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. But social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Yet if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "old-boy network"; with BYCombo, you can partner with a capitalist who'll be happy to reassure you, "I'm *totally* in it for the money!"
 
 ### ${++sectionCounter}. Elitism is the great equalizer
@@ -369,7 +361,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom joins with the elites at the top, instead of with the people in the middle.
+Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls away from the people in the middle, to join with the elites at the top.
 
 Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennial and a minority, I much prefer hip hop's elitist snobbery— "rappism," maybe? Because, like it or not, public exposure *is* a zero-sum game. Now BYCombo lets you treat it as such… just like rockists and rappists always have.
 
@@ -402,12 +394,6 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 "Be so good they [can't ignore you](https://youtu.be/jTdXqsrs4oI)," Steve Martin advises. Well… I thought I'd done that, given the scope of my projects— including "[spatial amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566)," my theory for crafting multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
 Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. Consequently, everyone in indie rock converges on the same well-rounded way of thinking…
-
-${'  ' || `
-// TODO: Review.
-
-Moreover, just like each of us gets one vote in a democracy, each work gets one chance in an "indieocracy." So artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
-`}
 
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
 
