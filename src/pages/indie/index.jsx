@@ -351,7 +351,11 @@ The issue is that these labels are run by society's most privileged groups— an
 
 So far, though, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. But social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
 
-Yet if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "old-boy network"; with BYCombo, you can partner with a capitalist who'll be happy to reassure you, "I'm *totally* in this for the money!"
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "old-boy network"; with BYCombo, you can partner with a capitalist who'll be happy to reassure you, "I'm *totally* in it for the money!"
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
@@ -404,14 +408,16 @@ Moreover, just like each of us gets one vote in a democracy, each work gets one 
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
 
 ${'  ' || `
-// TODO: Add new paragraph? Make point that capitalist gatekeepers are incentivized to look past status, in order to see the potential in a low-status no-name that others don't see.
-
-But since tastemakers *aren't* not capitalists, they have no incentive to understand that taste is status-driven, so they converge on the same tastes, since they're creatures of the same status hierarchy.
-
-Meanwhile, the 
+// TODO: Keep working on. Needs to make more about being well-rounded?
 `}
 
-Still… what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
+Moreover, the indie tastemaker *isn't* an investor, and thus lacks any need to see what others don't— like some low-status no-name's future potential. As such, they *also* fail to grasp how we as humans derive our tastes from status. And since theirs is the same status hierarchy, they all share the same tastes…
+
+${'  ' || `
+// TODO: Review.
+`}
+
+Still… what if *you* dream of making "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
