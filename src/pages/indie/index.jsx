@@ -365,7 +365,11 @@ Because Millennials grew up with so many advantages, however, they fail to grasp
 
 But once competition takes place *away* from the public eye— as populism demands it should— the disadvantaged have no way to counter the hidden advantages of others: being born rich, having industry know-how or insider connections, benefiting from legacy institutions in the past… and so on. No wonder, then, that indie rock is [now a playground](https://knowyourmeme.com/photos/2316349-parent-names-are-blue-on-wikipedia) for the privileged!
 
-Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls closer to the elites at the top… and away from those in the middle.
+${'  ' || `
+// TODO: Review.
+`}
+
+Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom joins with the elites at the top, instead of with the people in the middle.
 
 Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennial and a minority, I much prefer hip hop's elitist snobbery— "rappism," maybe? Because, like it or not, public exposure *is* a zero-sum game. Now BYCombo lets you treat it as such… just like rockists and rappists always have.
 
@@ -411,7 +415,7 @@ ${'  ' || `
 // TODO: Keep working on. Needs to make more about being well-rounded?
 `}
 
-Moreover, the indie tastemaker *isn't* an investor, and thus lacks any need to see what others don't— like some low-status no-name's future potential. As such, they *also* fail to grasp how we as humans derive our tastes from status. And since theirs is the same status hierarchy, they all share the same tastes…
+Meanwhile, the indie tastemaker *isn't* an investor, and thus lacks any need to see what others don't— like some low-status no-name's future potential. As such, they *also* fail to grasp how we as humans derive our tastes from status. And since theirs is the same status hierarchy, they all share the same tastes…
 
 ${'  ' || `
 // TODO: Review.
