@@ -155,7 +155,11 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant "long tail" decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
-For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our own human nature running into [power laws](https://youtu.be/HBluLfX2F_k). Since it's hard to say which works are best, we tend to just like what others like, right? Well… they do the same! As a result, any [random boost](http://archive.today/2024.07.19/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#:~:text=The%20reason%20is,in%20her%20place.) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
+${'  ' || `
+// TODO: Review.
+`}
+
+For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our own human nature running into [power laws](https://youtu.be/HBluLfX2F_k). Since it's hard to say whose works are best, we often just like what others like, no? Except… they do the same! As a result, any [random boost](http://archive.today/2024.07.19/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#:~:text=The%20reason%20is,in%20her%20place.) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
 
 Yet stardom is also the rightful outcome for the *most* worthy artists, who naturally hope for it— even if, like Kurt Cobain, they won't admit it. So the indie camp got it backward here as well: The majors *didn't* exploit the local scenes. They simply saw the indie labels as "farm teams"— as did those '90s alternative bands, who signed with the indies for this very reason!
 
@@ -273,7 +277,11 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all, for a [small fee](https://x.com/elonmusk/status/1587498907336118274); he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a portion of one's time and energy.
 
-But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who hustle to *get* the job, rather than simply *deserve* it. Seems bad, right? It's even worse…
+${'  ' || `
+// TODO: Review.
+`}
+
+But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who hustle to *get* the job, rather than simply *deserve* it. Seems bad, no? Well, it's even worse…
 
 You see, pollution is [an example](https://blogs.cornell.edu/info2040/2012/09/24/prisoners-dilemma-and-the-environment/#:~:text=Using%20the%20example,end%20up%20polluting%29.) of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now *every* artist must waste time and energy on the hustle!
 
@@ -361,7 +369,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls away from the people in the middle… to join with the elites at the top.
+Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
 
 Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennial and a minority, I much prefer hip hop's elitist snobbery— "rappism," maybe? Because, like it or not, public exposure *is* a zero-sum game. Now BYCombo lets you treat it as such… just like rockists and rappists always have.
 
@@ -375,17 +383,9 @@ Of course, it's *also* in the arts where this confusion has done much damage. As
 
 Which explains why both politics *and* the arts are getting worse in our times: In each case, Millennials keep mistaking populism for progressivism— when they're *not* the same! A populist *chastises* the disadvantaged for joining the establishment, whereas a progressive *sympathizes*… and thus joins as well, forgoing the urge to simply "larp" as a revolutionary.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Because, let's be clear, only the *privileged* can afford to be such moral purists about selling out! So, might we get another sideways horseshoe? Regarding politics, who's to say… but in the arts, it's a solid yes! With BYCombo, you can once again overcome your disadvantage by joining the establishment— just like those alternative bands did in the '90s.
 
 ### ${++sectionCounter}. Countercultures shelter today's losers
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Rappers love to bash the "wack MC"; as outsiders, they know that kindness to the audience means cruelty to worse artists. But the indie tastemakers *can't* be cruel; they're "good guys"! So instead of weeding you out for being wack— a harsh indictment of who you *are*… they merely dismiss you as a hobbyist if you didn't hustle— a plain measure of whether you've paid your dues.
 
@@ -407,13 +407,11 @@ For instance, just as we each get one vote in a democracy, each work gets one ch
 
 ${'  ' || `
 // TODO: Keep working on. Needs to make more about being well-rounded?
+
+Make point about sharing the same taste for the high-status indie artists who've already made themselves known.
 `}
 
 Meanwhile, the indie tastemaker *isn't* an investor, and thus lacks any need to see what others don't— like some low-status no-name's future potential. As such, they *also* fail to grasp how we as humans derive our tastes from status. And since theirs is the same status hierarchy, they all share the same tastes…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Still… what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
 
