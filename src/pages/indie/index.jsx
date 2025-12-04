@@ -415,7 +415,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Still… what if *you* dream of making "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
+Still… what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
