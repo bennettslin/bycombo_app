@@ -401,9 +401,18 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 
 "Be so good they [can't ignore you](https://youtu.be/jTdXqsrs4oI)," Steve Martin advises. Well… I thought I'd done that, given the scope of my projects— including "[spatial amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566)," my theory for crafting multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
+${'  ' || `
+// TODO: Add link to probable blog post?
+`}
+
 Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. Consequently, everyone in indie rock converges on the same well-rounded way of thinking…
 
-For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
+${'  ' || `
+// TODO: Review.
+Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
+`}
+
+For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd… which then leads them all to make the same kind of work— namely, "workhorse art."
 
 ${'  ' || `
 // TODO: Keep working on. Needs to make more about being well-rounded?
@@ -411,7 +420,7 @@ ${'  ' || `
 Make point about sharing the same taste for the high-status indie artists who've already made themselves known.
 `}
 
-Meanwhile, the indie tastemaker *isn't* an investor, and thus lacks any need to see what others don't— like some low-status no-name's future potential. As such, they *also* fail to grasp how we as humans derive our tastes from status. And since theirs is the same status hierarchy, they all share the same tastes…
+Meanwhile, the indie tastemaker *isn't* an investor, and thus lacks any need to see what others don't— like some low-status no-name's future potential. As such, they *also* fail to grasp how it's in our human nature to shape our tastes around status. And since theirs is the same status hierarchy, they all converge on the same tastes…
 
 Still… what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
 
