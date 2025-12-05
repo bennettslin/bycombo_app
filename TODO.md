@@ -10,6 +10,7 @@
 * Blog
     * The danger of loving the probable
         * Find better sentence than, "Just superficial quirks…"
+        * Add picture
         * Then review it all
 
 * BYC
