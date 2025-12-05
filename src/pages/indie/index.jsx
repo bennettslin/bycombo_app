@@ -393,7 +393,11 @@ Yet as W. David Marx observes in his book [*Status and Culture*](https://www.pen
 
 And this should concern us, since Radiohead… were the ultimate hobbyists! They'd never hustled in their *lives*. Upon signing to a major label based on a stellar demo, they were told to change their name from [On a Friday](https://radiohead.fandom.com/wiki/On_a_Friday)— and they *did*, to no confusion, as they were so little known in their local scene. There just wasn't any recourse: The indie labels didn't want them!
 
-"But can't *today's* indies learn to sign the *next* Radiohead?" No… See, status plays out unconsciously; no one *conspires* to enforce its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
+${'  ' || `
+// TODO: Review.
+`}
+
+"But can't *today's* indies learn to sign the *next* Radiohead?" No… See, status plays out unconsciously; no one *conspires* to uphold its hierarchy— so there are no minds to change. Our human nature is simply to *admire* whichever traits enable whomever to win, by whatever the rules are… and if the rule is to get yourself known, then the winning trait is a knack for the hustle.
 
 Still, the losers have one recourse: to start a *counter*-culture… that just might let them be [*tomorrow's* winners](http://archive.today/2024.05.11/https://www.bobdylan.com/songs/times-they-are-changin/#:~:text=For%20the%20loser,are%20a%2Dchangin%E2%80%99)! Yet none has arisen, because: "Why counter the good guys?" Fortunately, as this century's biggest loser, I've spent half my life plotting to start one. Now with BYCombo, you too can hope for amnesty, after betting it all on the craft— your low-status "hobby."
 
@@ -409,20 +413,19 @@ Then one day it clicked: I *haven't* met with a hundred such tastemakers. For al
 
 ${'  ' || `
 // TODO: Review.
-Yet the indie labels don't mind; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
 `}
 
-For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd… which then leads them all to make the same kind of work— namely, "workhorse art."
+For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis… each time reacting to feedback from the same crowd. But this leads them all to make the same kind of work— namely, "workhorse art."
 
 ${'  ' || `
-// TODO: Keep working on. Needs to make more about being well-rounded?
+// TODO: Keep working on.
 
 Make point about sharing the same taste for the high-status indie artists who've already made themselves known.
 `}
 
-Meanwhile, the indie tastemaker *isn't* an investor, and thus lacks any need to see what others don't— like some low-status no-name's future potential. As such, they *also* fail to grasp how it's in our human nature to shape our tastes around status. And since theirs is the same status hierarchy, they all converge on the same tastes…
+Meanwhile, the indie tastemakers *aren't* in it for the money, and thus have no will to see what other investors don't— like, let's say, a low-status no-name's future potential. But this means they *also* fail to grasp how much their tastes, like all of ours, derive from status. And since they all follow the same status hierarchy, they converge on the same tastes…
 
-Still… what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
+Still… what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in all other matters? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
