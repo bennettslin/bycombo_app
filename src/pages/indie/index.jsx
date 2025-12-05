@@ -412,7 +412,7 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 "Be so good they [can't ignore you](https://youtu.be/jTdXqsrs4oI)," Steve Martin advises. Well… I thought I'd done that, given the scope of my projects— including "[spatial amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566)," my theory for crafting multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
 ${'  ' || `
-// TODO: Add link to probable blog post?
+// TODO: Add link to probable blog post? Make sure to edit it first, as stated in todo notes.
 `}
 
 Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. Consequently, everyone in indie rock converges on the same well-rounded way of thinking…
@@ -421,7 +421,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis… each time reacting to feedback from the same crowd. But this leads them all to make the same kind of work— namely, "workhorse art."
+For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis… each time in response to feedback from the same crowd. But this then leads them all to make the same *kind* of work— namely, "workhorse art."
 
 ${'  ' || `
 // TODO: Keep working on.
