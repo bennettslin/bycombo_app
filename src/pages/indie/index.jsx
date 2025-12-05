@@ -371,6 +371,8 @@ ${'  ' || `
 // TODO: Revise. Point out that while the Internet made *cred*-based snobbery untenable, *craft*-based snobbery is still valid, and needed more than ever.
  
 Wait till after reading Blank Spaces a bit?
+
+"Didn't social media make snobbery obsolete, though, now that it's trivial to be in the know?" Yes, but only if it's based on *cred*.
 `}
 
 Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennial and a minority, I much prefer hip hop's elitist snobbery— "rappism," maybe? Because, like it or not, public exposure *is* a zero-sum game. Now BYCombo lets you treat it as such… just like rockists and rappists always have.
@@ -404,16 +406,16 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 "Be so good they [can't ignore you](https://youtu.be/jTdXqsrs4oI)," Steve Martin advises. Well… I thought I'd done that, given the scope of my projects— including "[spatial amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566)," my theory for crafting multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
 ${'  ' || `
-// TODO: Review link. Make sure to edit as, as specified in todo notes.
+// TODO: Review link.
 `}
 
-Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. Consequently, everyone in indie rock converges on the same [well-rounded](https://bennettsamuellin.blogspot.com/2011/11/danger-of-loving-probable.html) way of thinking…
+Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. Consequently, everyone in indie rock converges on the same [well-rounded](https://bennettsamuellin.blogspot.com/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.) way of thinking…
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time responding to feedback from the same crowd. But this then leads them all to make the same *kind* of work— namely, "workhorse art."
+For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of releasing many on a steady basis— each time in response to feedback from the same crowd… leading them all to make the same *kind* of work— namely, "workhorse art."
 
 ${'  ' || `
 // TODO: Keep working on.
@@ -421,7 +423,7 @@ ${'  ' || `
 Make point about sharing the same taste for the high-status indie artists who've already made themselves known.
 `}
 
-Meanwhile, the indie tastemakers *aren't* in it for the money, and thus have no will to see what other investors don't— like, let's say, a low-status no-name's future potential. But this means they *also* fail to grasp how much their tastes, like all of ours, derive from status. And since they all follow the same status hierarchy, they converge on the same tastes…
+Meanwhile, the indie tastemakers *aren't* in it for the money, and thus have no need to see what others don't— for instance, a low-status no-name's future potential. Unlike investors, then, they happily shape their tastes around whatever confers high status. They converge on the same tastes…
 
 Still… what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in all other matters? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
 
