@@ -371,6 +371,12 @@ ${'  ' || `
 
 Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
 
+${'  ' || `
+// TODO: Revise. Point out that while the Internet made *cred*-based snobbery untenable, *craft*-based snobbery is still valid, and needed more than ever.
+ 
+Wait till after reading Blank Spaces a bit?
+`}
+
 Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennial and a minority, I much prefer hip hop's elitist snobbery— "rappism," maybe? Because, like it or not, public exposure *is* a zero-sum game. Now BYCombo lets you treat it as such… just like rockists and rappists always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
@@ -513,7 +519,11 @@ See, us dreamers, we're not grounded in reality— which makes our visions hard 
 
 Yet it's *because* the dreamer is unrealistic that their vision, if ever fulfilled, might change the world in ways a striver's goal never can. And this is what *Millennials* don't realize— being strivers themselves. Which is why they *also* fail to see how past generations of dreamers raised the bar for innovation… such that, now, they think they'll get points just for trying!
 
-Sadly, with no dreamer in our times to serve as an exemplar, critics and fans are *happy* [to mistake](https://www.metacritic.com/music/lux/rosalia) a striver's artsiness for innovation— ignoring how little it inspires envy in fellow artists. Still, what if *you're* here to innovate, and not just to "larp" the notion of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect partner: a striver!
+${'  ' || `
+// TODO: Review link removal.
+`}
+
+Sadly, with no dreamer in our times to serve as an exemplar, critics and fans are *happy* to mistake a striver's artsiness for innovation— ignoring how little it inspires envy in fellow artists. Still, what if *you're* here to innovate, and not just to "larp" the notion of doing so? Then keep on dreaming, like a child, and let BYCombo help you find the perfect partner: a striver!
 
 ### ${++sectionCounter}. Scarcity teaches generational courage
 
