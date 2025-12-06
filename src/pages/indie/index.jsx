@@ -135,10 +135,6 @@ Yet… this can't end well. We obviously don't support artists of the *past*— 
 
 By supporting artists, then, we're both needlessly kind to the ones at the top, and cruel to those at the very bottom. "Is that so bad?" Yes, because there's a third and final effect: The history makers of our times… now get relegated to the *bottom*! To see why this is so, let's imagine a government program that promises a living wage to *every* artist.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way artists have *always* worked. So anyone trying to start a *new* paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. Yet if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of silent preparation… will be paying their own way the *whole* time.
@@ -158,10 +154,6 @@ Let's be honest, we're cultural chauvinists either way; all we can do is not be 
 ### ${++sectionCounter}. Talent seeks a path to stardom
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant "long tail" decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
-
-${'  ' || `
-// TODO: Review.
-`}
 
 For starters, the winner-take-all aspect of stardom *isn't* caused by corporate greed, but by our own human nature running into [power laws](https://youtu.be/HBluLfX2F_k). Since it's hard to say whose works are best, we often just like what others like. Right? Well… they do the same! As a result, any [random boost](http://archive.today/2024.07.19/https://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html#:~:text=The%20reason%20is,in%20her%20place.) can snowball into a winning advantage— and *this* is how the less worthy end up as superstars.
 
@@ -403,31 +395,35 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
+${'  ' || `
+// TODO: Review whole section.
+`}
+
 "Be so good they [can't ignore you](https://youtu.be/jTdXqsrs4oI)," Steve Martin advises. Well… I thought I'd done that, given the scope of my projects— including "[spatial amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566)," my theory for crafting multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
 ${'  ' || `
-// TODO: Revise. Separate being well-rounded, and being the same, as distinct ideas?
+// TODO: Review.
 `}
 
-Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. Consequently, everyone in indie rock converges on the same well-rounded way of thinking…
+Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, to be independent means having no weaknesses, and thus no real strengths. It makes you [well-rounded](https://bennettsamuellin.blogspot.com/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), in other words— and all rounded objects converge toward the same shape…
 
 ${'  ' || `
-// TODO: Review. Also review link.
-
-Maybe include part about getting feedback from same crowd again, leading to well-roundedness. Maybe leave out part about workhorse art.
+// TODO: Review.
 `}
 
-For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis, leading them all to make the same *kind* of work— namely, "workhorse art." Yet the indie labels don't mind; since they sign just one artist at a time, a [well-rounded](https://bennettsamuellin.blogspot.com/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.) one is the safe bet *every* time!
+For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd. Yet the indie labels don't mind the similar results; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
 
 ${'  ' || `
-// TODO: Keep working on.
-
-Make point about sharing the same taste for the high-status indie artists who've already made themselves known.
+// TODO: Review.
 `}
 
-Meanwhile, the indie tastemakers *aren't* in it for the money, and thus have no need to see what others don't— like, let's say, a low-status no-name's future potential. Unlike investors, then, they readily shape their tastes around whatever confers high status. They converge on the same tastes…
+Moreover, an indie tastemaker *isn't* a capitalist, and thus has no need to see what other investors don't— such as a low-status no-name's future potential. But in lacking any reason to up-*end* the status hierarchy, they gladly up-*hold* it— and since taste is unconsciously shaped around status, this means they converge on all the same tastes…
 
-Still… what if *your* dream is to make "windfall art," which *requires* you to be exceptionally strong in the ways of art, and thus hopelessly weak in matters of business? Then let BYCombo help you meet partners who are as lopsided as you, but the other way around— because they value interdependence as much as you do!
+${'  ' || `
+// TODO: Review.
+`}
+
+So now what, if *your* dream isn't to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, but the other way around… because they seek interdependence like you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
