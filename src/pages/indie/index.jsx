@@ -360,16 +360,10 @@ But once competition takes place *away* from the public eye— as populism deman
 Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
 
 ${'  ' || `
-// TODO: Revise. Point out that while the Internet made *cred*-based snobbery untenable, *craft*-based snobbery is still valid, and needed more than ever.
- 
-Wait till after reading Blank Spaces a bit?
-
-"Didn't social media make snobbery obsolete, though, now that it's trivial to be in the know?" Yes, but only if it's based on *cred*.
-
-Can do away with "rappism." Doesn't really add anything.
+// TODO: Review a few more times.
 `}
 
-Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennial and a minority, I much prefer hip hop's elitist snobbery— "rappism," maybe? Because, like it or not, public exposure *is* a zero-sum game. Now BYCombo lets you treat it as such… just like rockists and rappists always have.
+"But isn't elitist snobbery a relic, now that social media makes it trivial to be in the know?" Regarding the kind based on *cred*, yes; *craft*-based snobbery, on the other hand, raises the cost of entry the *right* way— and thus remains as valid as ever! Because, like it or not, public exposure *is* a zero-sum game. Now BYCombo lets you treat it as such… just like rockists and rappers do.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
