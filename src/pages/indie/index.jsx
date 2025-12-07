@@ -407,11 +407,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only met with the same one… a hundred times over! After all, independence requires you to have no weaknesses, and thus no strengths— to be [well-rounded](https://bennettsamuellin.blogspot.com/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And just as any rounded object converges on the same shape, this makes the entire indie camp think alike…
-
-${'  ' || `
-// TODO: Review.
-`}
+Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only met with the same one… a hundred times over! After all, independence requires you to have no weaknesses, and thus no strengths— to be [well-rounded](https://bennettsamuellin.blogspot.com/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And just as all rounded objects converge on the same shape, this makes the indie camp all think alike…
 
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd. Yet the indie labels don't mind the similar results; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
 
@@ -419,13 +415,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Meanwhile, indie tastemakers *aren't* capitalists, and thus have no need to see what other investors don't— such as a low-status no-name's future potential. But in lacking any urge to up-*end* the status hierarchy, they end up following their human nature to up-*hold* it. And since taste is [unconsciously shaped](https://www.harpercollins.com/products/the-status-game-on-human-life-and-how-to-play-it-will-storr) by status, this means they converge on having the same tastes…
+Meanwhile, indie tastemakers *aren't* capitalists, and thus have no need to see what other investors don't— such as a low-status no-name's future potential. But in lacking any urge to up-*end* the status hierarchy, they end up following their human nature to up-*hold* it. And since taste is [unconsciously shaped](https://www.harpercollins.com/products/the-status-game-on-human-life-and-how-to-play-it-will-storr) by status, this means they all converge on the same tastes…
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-So now what, if your dream *isn't* to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, only vice versa… because they seek interdependence as much as you do!
+So now what, if *your* dream isn't to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, only vice versa… because they crave interdependence as much as you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
@@ -443,7 +439,11 @@ Let's be fair, in wanting to be judged on the self-reliance that comes easily to
 
 Except, it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly White and male. Suffering a [crisis of conscience](https://bennettsamuellin.blogspot.com/2012/08/major-labels-not-too-shabby-on-peoples.html#:~:text=In%20my%20last,and%20male%20artists.), the indie camp solved this problem in the only way they knew how: by letting us women and minorities self-identify as underdogs as well— a solution that's come to be called "wokeness."
 
-But while White men *easily* gain from their identities without admitting to it— as when it [lends authenticity](https://bennettsamuellin.blogspot.com/2011/07/resistible-canaanites-request-for.html#:~:text=I%27m%20not%20a,coming%20from%20me.) to a "larpy" backstory— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
+${'  ' || `
+// TODO: Review link.
+`}
+
+But while White men *easily* gain from their identities without admitting to it— as when it [lends authenticity](https://bennettsamuellin.blogspot.com/2011/07/resistible-canaanites-request-for.html#:~:text=But%20really%2C%20how,from%20me.) to a "larpy" backstory— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
 Yet such attacks are doomed to fail. How do I know? Because, when the indie labels first rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of the *arts*, it's *I* who sit on the left— and *they*, the right!
 
@@ -636,6 +636,9 @@ All taste is status-driven, which means tastemakers are ultimately loyal to the 
 To think like other artists, and future historians, one *can't* be an individualist.
 
 https://www.harpercollins.com/products/the-status-game-on-human-life-and-how-to-play-it-will-storr
+
+https://archive.ph/RIS44
+Social media is powered by your own concern for your individuality. The only way to truly rebel, then, is to not care about individuality.
 `}
 
 To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
