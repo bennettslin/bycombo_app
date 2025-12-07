@@ -405,7 +405,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only ever met with the same one— a hundred times over! After all, being independent means having no weaknesses, and thus no real strengths. It makes you [well-rounded](https://bennettsamuellin.blogspot.com/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), in other words— and any rounded object converges on the same shape…
+Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only ever met with the same one… a hundred times over! After all, to be independent means having no weaknesses, and thus no strengths. It keeps you [well-rounded](https://bennettsamuellin.blogspot.com/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.)— and since anything rounded converges on the same shape, this makes everyone in indie rock the same…
 
 ${'  ' || `
 // TODO: Review.
@@ -417,13 +417,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Moreover, an indie tastemaker *isn't* a capitalist, and thus has no need to see what other investors don't— such as a low-status no-name's future potential. But in lacking any urge to up-*end* the status hierarchy, they gladly up-*hold* it instead. And since taste is unconsciously shaped around status, this means they converge on all the same tastes…
+Moreover, the indie tastemaker *isn't* a capitalist, and thus has no need to see what other investors don't— such as a low-status no-name's future potential. But in lacking any reason to up-*end* the status hierarchy, they readily follow their human nature to up-*hold* it. And since taste is [unconsciously shaped](https://www.harpercollins.com/products/the-status-game-on-human-life-and-how-to-play-it-will-storr) around status, this means they all converge on the same tastes…
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-So now what, if *your* dream isn't to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, but the other way around… because they seek interdependence like you do!
+So what now, if your dream *isn't* to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, but the other way around… because they seek interdependence like you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
