@@ -365,6 +365,8 @@ ${'  ' || `
 Wait till after reading Blank Spaces a bit?
 
 "Didn't social media make snobbery obsolete, though, now that it's trivial to be in the know?" Yes, but only if it's based on *cred*.
+
+Can do away with "rappism." Doesn't really add anything.
 `}
 
 Thankfully, *I've* never taken to indie rock's populist solidarity; as an Xennial and a minority, I much prefer hip hop's elitist snobbery— "rappism," maybe? Because, like it or not, public exposure *is* a zero-sum game. Now BYCombo lets you treat it as such… just like rockists and rappists always have.
@@ -405,7 +407,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only met with the same one… a hundred times over! After all, independence requires you to have no weaknesses, and thus no strengths— to be [well-rounded](https://bennettsamuellin.blogspot.com/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And just like rounded objects converge on the same shape, everyone in indie rock thinks alike…
+Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only met with the same one… a hundred times over! After all, independence requires you to have no weaknesses, and thus no strengths— to be [well-rounded](https://bennettsamuellin.blogspot.com/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And just as any rounded object converges on the same shape, this makes the entire indie camp think alike…
 
 ${'  ' || `
 // TODO: Review.
@@ -417,13 +419,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Meanwhile, indie tastemakers *aren't* capitalists, and thus have no need to see what other investors don't— such as a low-status no-name's future potential. But in lacking any urge to up-*end* the status hierarchy, they end up following their human nature to up-*hold* it. And since taste is [unconsciously shaped](https://www.harpercollins.com/products/the-status-game-on-human-life-and-how-to-play-it-will-storr) around status, this means they converge on having the same tastes…
+Meanwhile, indie tastemakers *aren't* capitalists, and thus have no need to see what other investors don't— such as a low-status no-name's future potential. But in lacking any urge to up-*end* the status hierarchy, they end up following their human nature to up-*hold* it. And since taste is [unconsciously shaped](https://www.harpercollins.com/products/the-status-game-on-human-life-and-how-to-play-it-will-storr) by status, this means they converge on having the same tastes…
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-So what now, if your dream *isn't* to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, only the other way around… because they seek interdependence like you do!
+So now what, if your dream *isn't* to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, only vice versa… because they seek interdependence as much as you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
