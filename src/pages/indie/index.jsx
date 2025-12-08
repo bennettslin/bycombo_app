@@ -409,7 +409,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Meanwhile, indie tastemakers *aren't* capitalists, and thus have no need to see what other investors don't— such as a low-status no-name's future potential. But in lacking any urge to up-*end* the status hierarchy, they end up following their human nature to up-*hold* it. And since taste is [unconsciously shaped](https://www.harpercollins.com/products/the-status-game-on-human-life-and-how-to-play-it-will-storr) by status, this means they all converge on the same tastes…
+Meanwhile, indie tastemakers *aren't* investors, and thus have no need to see what all others don't— like, let's say, a low-status no-name's future potential. But in lacking any urge to up-*end* the status hierarchy, they end up following their human nature to up-*hold* it. And since taste is [unconsciously shaped](https://www.harpercollins.com/products/the-status-game-on-human-life-and-how-to-play-it-will-storr) by status, this means they all converge on the same tastes…
 
 ${'  ' || `
 // TODO: Review.
