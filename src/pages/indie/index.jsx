@@ -363,7 +363,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-"But isn't elitist snobbery a relic, now that social media makes it trivial to be in the know?" Regarding the kind based on *cred*, yes; *craft*-based snobbery, on the other hand, raises the cost of entry the *right* way— and thus remains as valid as ever! Because, like it or not, public exposure *is* a zero-sum game. Now BYCombo lets you treat it as such… just like rockists and rappers do.
+"But isn't elitist snobbery a relic, now that social media makes it trivial to be in the know?" Regarding the kind based on *cred*, sure; *craft*-based snobbery, on the other hand, raises the cost of entry the *right* way— and thus remains as valid as ever! Because, like it or not, public exposure *is* a zero-sum game. Now BYCombo lets you treat it as such… just like rockists and rappers do.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
