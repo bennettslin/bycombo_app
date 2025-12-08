@@ -401,7 +401,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only met with the same one… a hundred times over! After all, independence requires you to have no weaknesses, and thus no strengths— to be [well-rounded](https://bennettsamuellin.blogspot.com/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And just as all rounded objects converge on the same shape, this makes the indie camp all think alike…
+Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only met with the same one… a hundred times over! After all, independence requires you to have no weaknesses, and thus no strengths— to be [well-rounded](https://bennettsamuellin.blogspot.com/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And since all rounded objects converge on the same shape, this makes the indie camp all think alike…
 
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd. Yet the indie labels don't mind the similar results; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
 
@@ -409,13 +409,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Meanwhile, indie tastemakers *aren't* investors, and thus have no need to see what all others don't— like, let's say, a low-status no-name's future potential. But in lacking any urge to up-*end* the status hierarchy, they end up following their human nature to up-*hold* it. And since taste is [unconsciously shaped](https://www.harpercollins.com/products/the-status-game-on-human-life-and-how-to-play-it-will-storr) by status, this means they all converge on the same tastes…
+Meanwhile, indie tastemakers *aren't* investors, and thus have no need to see what all others don't— like, let's say, a low-status no-name's future potential. But in lacking any urge to up-*end* the status hierarchy, they end up following their human nature to up-*hold* it. And since taste is [unconsciously shaped](https://www.harpercollins.com/products/the-status-game-on-human-life-and-how-to-play-it-will-storr) by status, this means they converge on the same tastes…
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-So now what, if *your* dream isn't to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, only vice versa… because they crave interdependence as much as you do!
+So now what, if *your* dream isn't to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, but vice versa… because they crave interdependence as much as you do!
 
 ### ${++sectionCounter}. Interdependence guards against prejudice
 
