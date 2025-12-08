@@ -360,10 +360,10 @@ But once competition takes place *away* from the public eye— as populism deman
 Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-"But isn't elitist snobbery a relic, now that social media makes it trivial to be in the know?" Regarding the kind based on *cred*, sure; *craft*-based snobbery, on the other hand, raises the cost of entry the *right* way— and thus remains as valid as ever! Because, like it or not, public exposure *is* a zero-sum game. Now BYCombo lets you treat it as such… just like rockists and rappers do.
+"Isn't elitist snobbery a relic, though, now that social media makes it trivial to be in the know?" Regarding the kind based on *cred*, for sure. But *craft*-based snobbery raises the cost of entry the *right* way— and thus remains as vital as ever! Because, like it or not, public exposure *is* zero-sum. Now BYCombo lets you treat it as such… just like rockists and rappers always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
 
@@ -397,23 +397,11 @@ ${'  ' || `
 
 "Be so good they [can't ignore you](https://youtu.be/jTdXqsrs4oI)," Steve Martin advises. Well… I thought I'd done that, given the scope of my projects— including "[spatial amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566)," my theory for crafting multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only met with the same one… a hundred times over! After all, independence requires you to have no weaknesses, and thus no strengths— to be [well-rounded](https://bennettsamuellin.blogspot.com/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And since all rounded objects converge on the same shape, this makes the indie camp all think alike…
 
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd. Yet the indie labels don't mind the similar results; since they sign just one artist at a time, a well-rounded one is the safe bet *every* time!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Meanwhile, indie tastemakers *aren't* investors, and thus have no need to see what all others don't— like, let's say, a low-status no-name's future potential. But in lacking any urge to up-*end* the status hierarchy, they end up following their human nature to up-*hold* it. And since taste is [unconsciously shaped](https://www.harpercollins.com/products/the-status-game-on-human-life-and-how-to-play-it-will-storr) by status, this means they converge on the same tastes…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So now what, if *your* dream isn't to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, but vice versa… because they crave interdependence as much as you do!
 
@@ -432,10 +420,6 @@ Well, is society free of prejudice today? Of course not. Yet no one noticed me s
 Let's be fair, in wanting to be judged on the self-reliance that comes easily to them, White men *don't* know they're trading on their privilege; they really *do* think it helps all of us. But this is why they *didn't* blame their own ideals when "nepo babies"— for whom it's even *easier*!— took the lead in the '00s. Instead, they leaned harder on their identities as [society's underdogs](http://archive.today/2021.06.04/https://www.nytimes.com/2021/05/26/magazine/black-keys-blues.html#:~:text=%E2%80%9CFor%20me%2C%20it,aspirations%20we%20did.%E2%80%9D)…
 
 Except, it turns out, this *too* is a hidden advantage that's largely theirs alone! By the '10s, then, indie rock was overwhelmingly White and male. Suffering a [crisis of conscience](https://bennettsamuellin.blogspot.com/2012/08/major-labels-not-too-shabby-on-peoples.html#:~:text=In%20my%20last,and%20male%20artists.), the indie camp solved this problem in the only way they knew how: by letting us women and minorities self-identify as underdogs as well— a solution that's come to be called "wokeness."
-
-${'  ' || `
-// TODO: Review link.
-`}
 
 But while White men *easily* gain from their identities without admitting to it— as when it [lends authenticity](https://bennettsamuellin.blogspot.com/2011/07/resistible-canaanites-request-for.html#:~:text=But%20really%2C%20how,from%20me.) to a "larpy" backstory— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
