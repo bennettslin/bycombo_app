@@ -323,10 +323,6 @@ So I took a coding bootcamp, and for [seven years](https://bobtail.substack.com/
 
 Except… now it made sense why, [unlike the avant-garde](https://youtu.be/pHCdS7O248g) of the past, indie rock *doesn't* help the underclass to revive the art form! After all, if paid dues are worthless outside the one culture that honors them, then *of course* those who've paid them will now insist on keeping that culture as it is— no matter how broken it's become.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Moreover, once someone has wasted their best years striving for symbolic "cred" rather than enviable talents, they can never feel secure enough to let others surpass them. So *of course* the only newcomers they'll help are the ones willing to waste even *more* potential. But these newcomers will then feel even *less* secure— thus widening the [vicious circle](https://www.goodreads.com/quotes/391717-steve-jobs-has-a-saying-that-a-players-hire-a) of brokenness.
 
 Which is why it took an outsider like myself to start BYCombo, driven by an urge to help future bands, like yours, surpass mine. My solution is so simple, I doubt I'm the first to think of it. Rather, I'm just secure enough to *want* it— having never hustled to pay indie rock's dues myself.
@@ -363,10 +359,6 @@ But once competition takes place *away* from the public eye— as populism deman
 
 Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 "Isn't elitist snobbery a relic, though, now that social media makes it trivial to be in the know?" Regarding the kind based on "cred"? Totally. But *craft*-based snobbery raises the cost of entry the *right* way— and thus remains as vital as ever! Because, like it or not, public exposure *is* zero-sum. Now BYCombo lets you treat it as such… just like rockists and rappers always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
@@ -395,17 +387,9 @@ Still, the losers have one recourse: to start a *counter*-culture… that just m
 
 ### ${++sectionCounter}. Independence breeds homogeneity
 
-${'  ' || `
-// TODO: Review whole section.
-`}
-
 "Be so good they [can't ignore you](https://youtu.be/jTdXqsrs4oI)," Steve Martin advises. Well… I thought I'd done that, given the scope of my projects— including "[spatial amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566)," my theory for crafting multidimensional works. Yet every indie tastemaker I've met with has written me off as a hobbyist… despite *seeming* impressed. So I used to wonder: Shouldn't *one* have given me a chance by now?
 
 Then one day it clicked: I *haven't* met with a hundred such tastemakers. For all intents and purposes, I've only met with the same one… a hundred times over! After all, independence requires you to have no weaknesses, and thus no strengths— to be [well-rounded](https://bennettsamuellin.blogspot.com/2011/11/danger-of-loving-probable.html#:~:text=But%20what%20if,boring%2C%20static%20mush.), basically. And since all rounded objects converge on the same shape, this makes the indie camp all think alike…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd. Yet the indie labels don't mind the similar results; since they sign just one artist at a time, the well-rounded one is a safe bet *every* time!
 
@@ -510,10 +494,6 @@ Here's what I mean: If you *don't* hustle, the indie camp will reject you. But y
 I'll tell you my theory: Millennials only faced boredom long enough to hate it; then, before they could learn to daydream, they were given structured ways to create and consume endless content— which [won their gratitude](https://xkcd.com/1601). And so they never realized what was obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
 
 Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not *alternative*." Except, today, the generation in question is *Gen Z*— who've only ever faced an [*abundance* of content](http://archive.today/2022.12.16/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… and would now *love* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
-
-${'  ' || `
-// TODO: Review title.
-`}
 
 ### ${++sectionCounter}. Unity brutalizes a lone scapegoat
 
