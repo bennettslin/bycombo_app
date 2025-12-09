@@ -347,7 +347,11 @@ The issue is that these labels are run by society's most privileged groups— an
 
 So far, though, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. But social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
 
-Yet if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "old-boy network"; with BYCombo, you can partner with a capitalist who'll be happy to reassure you, "I'm *totally* in it for the money!"
+${'  ' || `
+// TODO: Review.
+`}
+
+Yet if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "old-boy network"; with BYCombo, you can partner with a capitalist who'll be happy to assure you, "I'm *totally* in it for the money!"
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
@@ -461,7 +465,11 @@ As stated earlier, we humans dislike creative ideas… but we're *also* biased a
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or "obeying the people's will," and we fell for it every time.
 
-So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the research says it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help us usher it in.
+${'  ' || `
+// TODO: Review link.
+`}
+
+So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the [research says](https://www.businessinsider.com/cognitive-biases-2015-10) it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help us usher it in.
 
 ### ${++sectionCounter}. Startups offer lessons in scalability
 
@@ -551,71 +559,50 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
+
 ### ${++sectionCounter}. Collectivists pool their achievements
 
 ${'  ' || `
 // TODO: Keep working on.
+`}
 
-First paragraph can be shorter, and cover everything about AI: Why are indie artists proving so inept at countering soulless AI content? The answer is simple: Indieocracy favors…
-
-* Actions that make the world worse when everyone does them
-
-https://karamary.substack.com/p/hey-mama-your-californian-ideology
-
-Indie rock's individualism can't build for the future. It isn't future oriented. Can't solve collective action problems.
-
-Interdependent labels pool their rosters.
-
-* To be indie is to be, literally, *self*-ish. Individualists are loyal to no one but themselves, and the indie camp admires them for it.
-
-* Fixed mindset?
-
-* Having an authentic persona, staying true to who you are, how things were done in the past. Do mention both "authentic" and "persona." It necessarily means you aren't creating new paradigms. Mention cred as well? Status-driven?
-
-* To be authentic in your own time, is to necessarily not be the first of your kind.
-
-Second paragraph
-A movement that emphasizes self-sacrifice for the sake of the collective is the only way to solve collective action problems.
+First paragraph: AI
+To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
 
 Having established that what they want is an "indieocracy," and having seen firsthand that the artists who come out on top are those who spend the least time per work in order to churn out many more works lacking in enviable hooks, the indie camp is now in no position to complain that AI artists play by indie rock's rules even better than indie artists do.
 
-As we've seen, in an indieocracy, status rightfully goes to the "lottery winner," the "industry baby," or— as in the case with AI artists— the sheer opportunist.
+AI will always excel at giving the people what they want.
 
 AI simply takes further indie rock's ideal of the self-interested individual triumphing over the collective. It might as well stand for "accelerated indiefication"!
 
+As we've seen, in an indieocracy, status rightfully goes to the "lottery winner," the "industry baby," or— as in the case with AI artists— the sheer opportunist.
+
+Second paragraph: Collective action problems
+Actions that make the world worse when everyone does them
+A movement that emphasizes self-sacrifice for the sake of the collective is the only way to solve collective action problems.
+Indie rock's individualism can't build for the future. It isn't future oriented. Can't solve collective action problems.
+To be indie is to be, literally, *self*-ish. Individualists are loyal to no one but themselves, and the indie camp admires them for it.
 Talk about anti-vax. Herd immunity.
 
-To be great means missing out on most things. It means being lop-sided. This is intolerable for individualists. Collectivists pool their experiences, allowing them *not* to see it all, or do it all. No more fear of missing out. With all these "eras" to choose from.
+Third paragraph: Authenticity
+Having an authentic persona, staying true to who you are, how things were done in the past. Do mention both "authentic" and "persona." It necessarily means you aren't creating new paradigms. Mention cred as well? Status-driven?
 
+To be authentic in your own time, is to necessarily not be the first of your kind.
 Mention authenticity, entitlement, future-oriented versus present-oriented when it comes to history making.
 
-Labels spread risk in exchange for pooling rewards. (Take from risk section.)
-
-In our collectivist past, the individualist's desire for status was most in line with being a great artist. But in today's individualist times, each individualist's sense of entitlement creates a race to the bottom. It's now the collectivist's willingness to forgo status that's most in line with making great art.
-
-Let's face it, "indie architecture" isn't a thing, because we all grasp that any moderately ambitious project requires collaborative effort. With the indie takeover of music, then, what musical "cathedrals" have we missed out on?
-
-"fear of missing out."
-
-Most places, in most times, did not incentivize artistic flourishing. We're now going to back to being one of those places, in one of those times.
-
-The only way to make the best art is to be low status for a serious chunk of your lifetime.
-
-All taste is status-driven, which means tastemakers are ultimately loyal to the status hierarchy.
-
+Social media is powered by your own concern for your individuality. The only way to truly rebel, then, is to not care about individuality.
 To think like other artists, and future historians, one *can't* be an individualist.
 
-https://www.harpercollins.com/products/the-status-game-on-human-life-and-how-to-play-it-will-storr
+Fourth paragraph: Status
+Most places, in most times, did not incentivize artistic flourishing. We're now going to back to being one of those places, in one of those times.
+The only way to make the best art is to be low status for a serious chunk of your lifetime.
+All taste is status-driven, which means tastemakers are ultimately loyal to the status hierarchy.
+In our collectivist past, the individualist's desire for status was most in line with being a great artist. But in today's individualist times, each individualist's sense of entitlement creates a race to the bottom. It's now the collectivist's willingness to forgo status that's most in line with making great art.
 
-https://archive.ph/RIS44
-Social media is powered by your own concern for your individuality. The only way to truly rebel, then, is to not care about individuality.
-
-Well-rounded.
-`}
-
-To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
-
-AI will always excel at giving the people what they want.
+Fifth paragraph: Greatness
+To be great means missing out on most things. It means being lop-sided. This is intolerable for individualists. Collectivists pool their experiences, allowing them *not* to see it all, or do it all. No more fear of missing out. With all these "eras" to choose from.
+Individualists have a "fear of missing out." Thus they seek to do it all, leading them to be well-rounded. Ironically, the more you're an individualist, the more you're like everyone else.
+Let's face it, "indie architecture" isn't a thing, because we all grasp that any moderately ambitious project requires collaborative effort. With the indie takeover of music, then, what musical "cathedrals" have we missed out on?
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
