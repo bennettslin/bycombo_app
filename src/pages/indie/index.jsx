@@ -349,13 +349,17 @@ While being alternative is an *artistic* choice, being indie is a *business* sta
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](http://archive.today/2024.05.12/https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality *can't* be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
-So far, though, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. But social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
+${'  ' || `
+// TODO: Review.
+`}
+
+So far, though, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-Still, if our kind *isn't* desired as friends… we can yet be valued as *investments*! After all, a [smart investor](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "old-boy network"; with BYCombo, you can partner with a capitalist who'll be happy to assure you, "I'm *totally* in it for the money!"
+But if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "old-boy network"; with BYCombo, you can partner with a capitalist who'll be happy to assure you, "I'm *totally* in it for the money!"
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
@@ -455,7 +459,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Since the indie camp measures artistry by paid dues— and "poptimists," by popularity— both see a natural ally in the tech platforms, who work best with objective metrics such as these. So every new technology in the '00s— digital downloads, streaming media— was really about bringing the good intentions of underdog movements to the Internet!
+Since the indie camp measures artistry by paid dues— and "poptimists," by popularity— both see a natural ally in the tech platforms, who work best with objective metrics such as these. So every new technology in the '00s— digital downloads, streaming services— was about bringing the good intentions of underdog movements to the Internet!
 
 After all, here's how it worked before: Each major label would bet on visions that others *didn't* see— like, let's say, a regional style blowing up all over the world. But this left bands powerless to negotiate; they couldn't play one label off another, since a vision alone is worth nothing. As a result, they often had to accept unfair terms… leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
