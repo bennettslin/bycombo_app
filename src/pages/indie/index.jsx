@@ -447,7 +447,11 @@ And yet, underdog movements are here to stay, because it's a *privilege* to be t
 
 ### ${++sectionCounter}. Fair practices follow the numbers
 
-Since the indie camp measures artistry by paid dues— and "poptimists," by popularity— both see a natural ally in the tech platforms, who work best with objective metrics such as these. So every new technology in the '00s— digital downloads, streaming media, crowdfunding— was really about bringing the good intentions of underdog movements to the Internet!
+${'  ' || `
+// TODO: Review.
+`}
+
+Since the indie camp measures artistry by paid dues— and "poptimists," by popularity— both see a natural ally in the tech platforms, who work best with objective metrics such as these. So every new technology in the '00s— digital downloads, streaming media— was really about bringing the good intentions of underdog movements to the Internet!
 
 After all, here's how it worked before: Each major label would bet on visions that others *didn't* see— like, let's say, a regional style blowing up all over the world. But this left bands powerless to negotiate; they couldn't play one label off another, since a vision alone is worth nothing. As a result, they often had to accept unfair terms… leading many to [resent the majors](https://thebaffler.com/salvos/the-problem-with-music) as "bad guys."
 
