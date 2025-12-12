@@ -93,7 +93,11 @@ Here are fifty ways…
 
 ### ${++sectionCounter}. Nursed grievances wallow in confusion
 
-In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed to an indie label. Since Nirvana and Radiohead were on *major* labels, this made them [alternative, not indie](https://substack.com/@bobtail/note/c-106073033)— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie… so now we're all waiting for the *indies* to give us the next Nirvana or Radiohead. Oof! How did we get confused?
+${'  ' || `
+// TODO: Review. Make sure it's consistent with section.
+`}
+
+In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed to an indie label. Since Nirvana and Radiohead were on *major* labels, then, this [made them](https://substack.com/@bobtail/note/c-106073033) alternative, not indie— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie… so now they're waiting for the *indies* to give us the next Nirvana or Radiohead. Oof! How did they get so confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture driven by anti-establishment grievances— and as such, it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to tear down the system!"
 
