@@ -557,47 +557,34 @@ ${'  ' || `
 // TODO: Keep working on.
 
 Make point about indie labels pooling together to sign outliers.
-`}
 
-**First paragraph: Intro and AI**
+Scraps:
 
-To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort, and giving the people what they want— the very same thing that indie rock did to a landscape that once favored interdependent bands.
-
-AI simply empowers every artist, indifferent to the concerns of the audience, just like indie rock does.
-
-Having established that what they want is an "indieocracy," the indie camp is in no position to complain that AI artists are the new winners when everyone plays by indie rock's rules.
-
-AI is now the best at giving the people what they want.
-
-AI simply takes further indie rock's ideal of the self-interested individual triumphing over the collective. It might as well stand for "accelerated indiefication"!
-
-As we've seen, in an indieocracy, status rightfully goes to the "lottery winner," the "industry baby," or— as in the case with AI artists— the sheer opportunist.
-
-**Second paragraph: Collective action problems**
-
-Actions that make the world worse when everyone does them.
-
-A movement that emphasizes self-sacrifice for the sake of the collective is the only way to solve collective action problems.
+As we've seen, in an indieocracy, status rightfully goes to the "lottery winner," the "industry baby," or— as in the case with AI art
+ists— the sheer opportunist.
 
 Indie rock's individualism can't build for the future. It isn't future oriented.
 
 To be indie is to be, literally, *self*-ish. Individualists are loyal to no one but themselves, and the indie camp admires them for it.
 Talk about anti-vax. Herd immunity.
 
-**Third paragraph: History and Greatness**
-
 Most places, in most times, did not incentivize artistic flourishing. We're now going to back to being one of those places, in one of those times.
-
-To be great means missing out on most things. It means being lop-sided. This is intolerable for individualists. Collectivists pool their experiences, allowing them *not* to see it all, or do it all. No more fear of missing out. With all these "eras" to choose from.
-
-Individualists have a "fear of missing out." Thus they seek to do it all, leading them to be well-rounded. Ironically, the more you're an individualist, the more you're like everyone else.
 
 Let's face it, "indie architecture" isn't a thing, because we all grasp that any moderately ambitious project requires collaborative effort. With the indie takeover of music, then, what musical "cathedrals" have we missed out on?
 
 Social media is powered by your own concern for your individuality. The only way to truly rebel, then, is to not care about individuality.
 To think like other artists, and future historians, one *can't* be an individualist.
+`}
+
+To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing more to fancy themselves artists, rewarding those who put out many more works, for far less effort, and giving the people what they already know they want— just like indie rock does. It might as well be short for "accelerated indiefication"!
+
+Let's face it, it's impossible to criticize artists for using AI, given that "indiefication" gives high status to individuals who make the world worse if everyone behaved the way they do— who create collective action problems, that is. And AI is the ultimate collective action problem. To combat AI, then, we need a movement that does the opposite, and sacrifices the individual in favor of the collective.
+
+Luckily, those seeking to make the best art already know to be collectivists, by intuition. After all, to be great means missing out on most things. It means being lop-sided. It means forgoing "eras." Collectivists pool their experiences, allowing them *not* to see it all, or do it all.
 
 **Fourth paragraph: Authenticity and Status**
+
+Status hierarchies are self-reinforcing
 
 In our collectivist past, the individualist's desire for status was most in line with being a great artist. But in today's individualist times, each individualist's sense of entitlement creates a race to the bottom. It's now the collectivist's willingness to forgo status that's most in line with making great art.
 
