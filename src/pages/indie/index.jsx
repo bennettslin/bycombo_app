@@ -347,11 +347,7 @@ The issue is that these labels are run by society's most privileged groups— an
 
 So far, though, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
 
-${'  ' || `
-// TODO: Review.
-`}
-
-But if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "old-boy network"; with BYCombo, you can partner with a capitalist who'll happily assure you, "Yes, I'm in it for the money!"
+But if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "old-boy network"; with BYCombo, you can partner with a capitalist who'll *happily* assure you, "Yes, I'm in it for the money!"
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
@@ -398,10 +394,6 @@ Then one day it clicked: I *haven't* met with a hundred such tastemakers. For al
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd. Yet the indie labels don't mind the similar results; since they sign just one artist at a time, the well-rounded one is a safe bet *every* time!
 
 Meanwhile, indie tastemakers *aren't* investors, and thus have no need to see what all others don't— like, let's say, a low-status no-name's future potential. But in lacking any urge to up-*end* the status hierarchy, they end up following their human nature to up-*hold* it. And since taste is [unconsciously shaped](https://www.harpercollins.com/products/the-status-game-on-human-life-and-how-to-play-it-will-storr) by status, this means they converge on the same tastes…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So now what, if *your* dream isn't to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, only vice versa… because they crave interdependence as much as you do!
 
