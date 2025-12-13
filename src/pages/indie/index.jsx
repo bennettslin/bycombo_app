@@ -563,6 +563,8 @@ Make point about indie labels pooling together to sign outliers.
 
 To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort, and giving the people what they want— the very same thing that indie rock did to a landscape that once favored interdependent bands.
 
+AI simply empowers every artist, indifferent to the concerns of the audience, just like indie rock does.
+
 Having established that what they want is an "indieocracy," the indie camp is in no position to complain that AI artists are the new winners when everyone plays by indie rock's rules.
 
 AI is now the best at giving the people what they want.
@@ -627,7 +629,11 @@ Why is progressivism so badly beaten in both politics and the arts today? It's b
 
 So the anti-elitists among us topple the system by joining with libertarians… who then resist their efforts to build a new one… which must now be morally perfect to survive. But— surprise!— these new builders will then prove to be no less flawed than those they replaced. Because of this, they'll get toppled as well… in an endless test of [moral purity](https://youtu.be/qaHLd8de6nM) that no one can pass.
 
-In other words, the popular model of an "[upside-down horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase! Once the "building" phase begins, our best chance as progressives— whether political or artistic— is to *work* with our side's elites.
+${'  ' || `
+// TODO: Review.
+`}
+
+In other words, the popular model of an "[upside-down horseshoe](https://en.wikipedia.org/wiki/Horseshoe_theory)," in which anti-elitists on the left align with those on the right… holds true *only* during the "breaking" phase! Once the "building" phase begins, our best chances as progressives— whether political or artistic— is to *work* with our side's elites.
 
 Which means we'll [need to quit](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) "larping" as revolutionaries— that is, to quit equating virtue with *identity*, rather than with *impact*— and instead, master the skills needed to analyze our problems and propose solutions. But how? Beyond acknowledging the messiness of our human nature… we must also appreciate systems in all their complexity.
 
