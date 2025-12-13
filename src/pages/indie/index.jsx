@@ -569,9 +569,9 @@ Make point about indie labels pooling together to sign outliers.
 
 **First paragraph: Intro and AI**
 
-To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort— the very same thing that indie rock did to a landscape that once favored interdependent bands.
+To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing many more to consider themselves artists, by shifting the advantage to those who put out many more works, for far less effort, and giving the people what they want— the very same thing that indie rock did to a landscape that once favored interdependent bands.
 
-Having established that what they want is an "indieocracy," and having seen firsthand that the artists who come out on top are those who spend the least time per work in order to churn out many more works lacking in enviable hooks, the indie camp is now in no position to complain that AI artists play by indie rock's rules even better than indie artists do.
+Having established that what they want is an "indieocracy," the indie camp is in no position to complain that AI artists are the new winners when everyone plays by indie rock's rules.
 
 AI is now the best at giving the people what they want.
 
@@ -590,21 +590,7 @@ Indie rock's individualism can't build for the future. It isn't future oriented.
 To be indie is to be, literally, *self*-ish. Individualists are loyal to no one but themselves, and the indie camp admires them for it.
 Talk about anti-vax. Herd immunity.
 
-**Third paragraph: Authenticity and Status**
-
-Having an authentic persona, staying true to who you are, how things were done in the past. Do mention both "authentic" and "persona." It necessarily means you aren't creating new paradigms. Mention cred as well? Status-driven?
-
-To be authentic in your own time, is to necessarily not be the first of your kind.
-
-Mention authenticity, entitlement, future-oriented versus present-oriented when it comes to history making.
-
-The only way to make the best art is to be low status for a serious chunk of your lifetime.
-
-All taste is status-driven, which means tastemakers are ultimately loyal to the status hierarchy.
-
-In our collectivist past, the individualist's desire for status was most in line with being a great artist. But in today's individualist times, each individualist's sense of entitlement creates a race to the bottom. It's now the collectivist's willingness to forgo status that's most in line with making great art.
-
-**Fourth paragraph: History and Greatness**
+**Third paragraph: History and Greatness**
 
 Most places, in most times, did not incentivize artistic flourishing. We're now going to back to being one of those places, in one of those times.
 
@@ -616,6 +602,20 @@ Let's face it, "indie architecture" isn't a thing, because we all grasp that any
 
 Social media is powered by your own concern for your individuality. The only way to truly rebel, then, is to not care about individuality.
 To think like other artists, and future historians, one *can't* be an individualist.
+
+**Fourth paragraph: Authenticity and Status**
+
+In our collectivist past, the individualist's desire for status was most in line with being a great artist. But in today's individualist times, each individualist's sense of entitlement creates a race to the bottom. It's now the collectivist's willingness to forgo status that's most in line with making great art.
+
+Having an authentic persona, staying true to who you are, how things were done in the past. Do mention both "authentic" and "persona." It necessarily means you aren't creating new paradigms. Mention cred as well? Status-driven?
+
+To be authentic in your own time, is to necessarily not be the first of your kind.
+
+Mention authenticity, entitlement, future-oriented versus present-oriented when it comes to history making.
+
+The only way to make the best art is to be low status for a serious chunk of your lifetime.
+
+All taste is status-driven, which means tastemakers are ultimately loyal to the status hierarchy.
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
