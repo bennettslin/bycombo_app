@@ -551,7 +551,7 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
-### ${++sectionCounter}. Collectivists pool their achievements
+### ${++sectionCounter}. Collectivists pool their experiences
 
 ${'  ' || `
 // TODO: Keep working on.
@@ -560,8 +560,7 @@ Make point about indie labels pooling together to sign outliers.
 
 Scraps:
 
-As we've seen, in an indieocracy, status rightfully goes to the "lottery winner," the "industry baby," or— as in the case with AI art
-ists— the sheer opportunist.
+As we've seen, in an indieocracy, status rightfully goes to the "lottery winner," the "industry baby," or— as in the case with AI artists— the sheer opportunist.
 
 Indie rock's individualism can't build for the future. It isn't future oriented.
 
@@ -574,29 +573,19 @@ Let's face it, "indie architecture" isn't a thing, because we all grasp that any
 
 Social media is powered by your own concern for your individuality. The only way to truly rebel, then, is to not care about individuality.
 To think like other artists, and future historians, one *can't* be an individualist.
+
+Let others reap the short-term benefits to which those with an authentic persona are entitled. We'll start new paradigms, despite no reward for doing so.
+
+In our collectivist past, the individualist's desire for status was most in line with being a great artist. But in today's individualist times, each individualist's sense of entitlement creates a race to the bottom. It's now the collectivist's willingness to forgo status that's most in line with making great art.
 `}
 
 To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing more to fancy themselves artists, rewarding those who put out many more works, for far less effort, and giving the people what they already know they want— just like indie rock does. It might as well be short for "accelerated indiefication"!
 
-Let's face it, it's impossible to criticize artists for using AI, given that "indiefication" gives high status to individuals who make the world worse if everyone behaved the way they do— who create collective action problems, that is. And AI is the ultimate collective action problem. To combat AI, then, we need a movement that does the opposite, and sacrifices the individual in favor of the collective.
+Let's face it, it's hypocritical for anyone who cheers the indie takeover of the arts to criticize artists for using AI, given that "indiefication" gives high status to individuals who make the world worse if everyone behaved the way they do— who create collective action problems, that is. And AI is the ultimate collective action problem.
 
-Luckily, those seeking to make the best art already know to be collectivists, by intuition. After all, to be great means missing out on most things. It means being lop-sided. It means forgoing "eras." Collectivists pool their experiences, allowing them *not* to see it all, or do it all.
+To combat AI, then, we need a movement that does the opposite, and sacrifices the individual in favor of the collective. Luckily, those seeking to make the best art already know to be collectivists, by intuition. After all, to be great means missing out on most things. It means being lop-sided. It means forgoing "eras." Collectivists pool their experiences, allowing them *not* to do it all.
 
-**Fourth paragraph: Authenticity and Status**
-
-Status hierarchies are self-reinforcing
-
-In our collectivist past, the individualist's desire for status was most in line with being a great artist. But in today's individualist times, each individualist's sense of entitlement creates a race to the bottom. It's now the collectivist's willingness to forgo status that's most in line with making great art.
-
-Having an authentic persona, staying true to who you are, how things were done in the past. Do mention both "authentic" and "persona." It necessarily means you aren't creating new paradigms. Mention cred as well? Status-driven?
-
-To be authentic in your own time, is to necessarily not be the first of your kind.
-
-Mention authenticity, entitlement, future-oriented versus present-oriented when it comes to history making.
-
-The only way to make the best art is to be low status for a serious chunk of your lifetime.
-
-All taste is status-driven, which means tastemakers are ultimately loyal to the status hierarchy.
+And this is important, because we've already made those who exacerbate collective action problems high status, and status hierarchies are self-reinforcing. Those at the top have both the will and the way to punish those least like them— in other words, those who fix such problems. Only a collectivist can tolerate fixing problems, while being scorned as low status for it.
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
