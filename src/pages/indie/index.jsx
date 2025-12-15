@@ -560,44 +560,10 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 ${'  ' || `
 // TODO: Keep working on.
 
-Make point about indie labels pooling together to sign outliers.
-
-Scraps:
-
-As we've seen, in an indieocracy, status rightfully goes to the "lottery winner," the "industry baby," or— as in the case with AI artists— the sheer opportunist.
-
-Indie rock's individualism can't build for the future. It isn't future oriented.
-
-To be indie is to be, literally, *self*-ish. Individualists are loyal to no one but themselves, and the indie camp admires them for it.
-Talk about anti-vax. Herd immunity.
-
-Most places, in most times, did not incentivize artistic flourishing. We're now going to back to being one of those places, in one of those times.
-
-Let's face it, "indie architecture" isn't a thing, because we all grasp that any moderately ambitious project requires collaborative effort. With the indie takeover of music, then, what musical "cathedrals" have we missed out on?
-
-Social media is powered by your own concern for your individuality. The only way to truly rebel, then, is to not care about individuality.
-To think like other artists, and future historians, one *can't* be an individualist.
-
-Let others reap the short-term benefits to which those with an authentic persona are entitled. We'll start new paradigms, despite no reward for doing so.
-
-In our collectivist past, the individualist's desire for status was most in line with being a great artist. But in today's individualist times, each individualist's sense of entitlement creates a race to the bottom. It's now the collectivist's willingness to forgo status that's most in line with making great art.
-
-Use these links for second paragraph:
-
-Fake it till they make it
-https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones
-
-Make the world worse
-https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants
-
-Find links for last paragraph:
-Collectivist race
-https://www.nbcnews.com/id/wbna55133152#:~:text=Years%20of%20research,Western%20counterparts.
-Collectivist class
-Collectivist generation
+First paragraph, repeat settling on average by canceling out every outlier? Not outright, but that indie camp accepts it.
 `}
 
-To rebel against soulless AI content, the new Romantics look to indie artists as their last hope. Yet AI simply lowers the barriers to entry, allowing more individuals to call themselves artists— and specifically, those who put out the most works, for the least effort. Which… is also one of indie rock's ideals, no? AI, then, might as well be short for "accelerated indiefication"!
+To rebel against soulless AI content, the new Romantics look to the indie camp as our last hope. Yet AI simply lowers the barriers to entry, allowing more individuals to call themselves artists— and specifically, those who put out the most works, for the least effort. Which… is also one of indie rock's ideals, no? AI, then, might as well be short for "accelerated indiefication"!
 
 Let's face it, it's hypocritical for anyone who cheers the indie takeover of the arts to criticize artists for using AI, given that "indiefication" is all about celebrating individuals who make the world worse if everyone behaved the way they do— who create collective action problems, that is. And AI is the ultimate collective action problem.
 
