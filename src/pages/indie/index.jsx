@@ -555,7 +555,7 @@ Meanwhile, there's a [mental health crisis](https://pitchfork.com/features/artic
 
 Yes, the struggle can be a gift— but only when you face it on your own terms. If you're forced to use the same tools as everyone else… then it's a *grind*. This is why BYCombo tells you to focus on your craft, and to join a community of peers who'll do the same. It isn't *just* to make your art better; it's *also* for your happiness— and the good of your soul.
 
-### ${++sectionCounter}. Collectivists pool their experiences
+### ${++sectionCounter}. Collectivists pool their achievements
 
 ${'  ' || `
 // TODO: Keep working on.
@@ -581,15 +581,31 @@ To think like other artists, and future historians, one *can't* be an individual
 Let others reap the short-term benefits to which those with an authentic persona are entitled. We'll start new paradigms, despite no reward for doing so.
 
 In our collectivist past, the individualist's desire for status was most in line with being a great artist. But in today's individualist times, each individualist's sense of entitlement creates a race to the bottom. It's now the collectivist's willingness to forgo status that's most in line with making great art.
+
+Use these links for second paragraph:
+
+Fake it till they make it
+https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones
+
+Make the world worse
+https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants
+
+Find links for last paragraph:
+Collectivist race
+https://www.nbcnews.com/id/wbna55133152#:~:text=Years%20of%20research,Western%20counterparts.
+Collectivist class
+Collectivist generation
 `}
 
-To rebel against soulless AI content, the new Romantics call for a revival of indie art. Yet AI simply empowers the individual, allowing more to fancy themselves artists, rewarding those who put out many more works, for far less effort, and giving the people what they already know they want— just like indie rock does. It might as well be short for "accelerated indiefication"!
+To rebel against soulless AI content, the new Romantics look to indie artists as their last hope. Yet AI simply lowers the barriers to entry, allowing more individuals to call themselves artists— and specifically, those who put out the most works, for the least effort. Which… is also one of indie rock's ideals, no? AI, then, might as well be short for "accelerated indiefication"!
 
-Let's face it, it's hypocritical for anyone who cheers the indie takeover of the arts to criticize artists for using AI, given that "indiefication" gives high status to individuals who make the world worse if everyone behaved the way they do— who create collective action problems, that is. And AI is the ultimate collective action problem.
+Let's face it, it's hypocritical for anyone who cheers the indie takeover of the arts to criticize artists for using AI, given that "indiefication" is all about celebrating individuals who make the world worse if everyone behaved the way they do— who create collective action problems, that is. And AI is the ultimate collective action problem.
 
-To combat AI, then, we need a movement that does the opposite, and sacrifices the individual in favor of the collective. Luckily, those seeking to make the best art already know to be collectivists, by intuition. After all, to be great means missing out on most things. It means being lop-sided. It means forgoing "eras." Collectivists pool their experiences, allowing them *not* to do it all.
+To combat AI, then, we need a movement that does the opposite, and favors the collective over the individual. Luckily, those seeking to make the best art today instinctively know to be collectivists already. After all, to be great means missing out on most things. It means being lop-sided. It means forgoing "eras." Collectivists pool their experiences, allowing them *not* to do it all.
 
-And this is important, because we've already made those who exacerbate collective action problems high status, and status hierarchies are self-reinforcing. Those at the top have both the will and the way to punish those least like them— in other words, those who fix such problems. Only a collectivist can tolerate fixing problems, while being scorned as low status for it.
+And this is important, because we've already made those who exacerbate collective action problems high status, and status hierarchies are self-reinforcing. Those at the top have both the will and the way to punish those least like them— in other words, those who fix such problems. Fixing problems, while being scorned as low status for it, is intolerable for an individualist, but par for the course for collectivists.
+
+Now, I'm just one example, of course, but if we expect this century to give us a hundred *Yearling's Bobtail*s, then it's helpful to note that the artist who made it *also* came from a more collectivist race, class, and generation. Luckily, with BYCombo, you can now self-select into collectivism.
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
