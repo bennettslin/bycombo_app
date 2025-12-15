@@ -347,10 +347,6 @@ The issue is that these labels are run by society's most privileged groups— an
 
 So far, though, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Still, even if our kind *isn't* desired as friends… we can be seen as *investments*! After all, a [smart investor](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "old-boy network"; with BYCombo, you can partner with a capitalist who'll *happily* assure you, "Yes, I'm in it for the money!"
 
 ### ${++sectionCounter}. Elitism is the great equalizer
@@ -561,6 +557,8 @@ ${'  ' || `
 // TODO: Keep working on.
 
 First paragraph, repeat settling on average by canceling out every outlier? Not outright, but that indie camp accepts it.
+
+Last paragraph, sweet spot between collectivism and individualism.
 `}
 
 To rebel against soulless AI content, the new Romantics look to the indie camp as our last hope. Yet AI simply lowers the barriers to entry, allowing more individuals to call themselves artists— and specifically, those who put out the most works, for the least effort. Which… is also one of indie rock's ideals, no? AI, then, might as well be short for "accelerated indiefication"!
