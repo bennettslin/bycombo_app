@@ -347,6 +347,10 @@ The issue is that these labels are run by society's most privileged groups— an
 
 So far, though, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Still, even if our kind *isn't* desired as friends… we can be seen as *investments*! After all, a [smart investor](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "old-boy network"; with BYCombo, you can partner with a capitalist who'll *happily* assure you, "Yes, I'm in it for the money!"
 
 ### ${++sectionCounter}. Elitism is the great equalizer
@@ -513,7 +517,11 @@ Now that content is abundant, the new Romantics long for a return to live shows.
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?verse=10&annotation=17)— and so I set to [work on mine](https://yearlingsbobtail.com/16-cremated/?verse=1&annotation=4).
 
-Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I put together a band, and we played a show for one of them. It was… admittedly sloppy, given that my new bandmates still hadn't fully learned their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
+${'  ' || `
+// TODO: Review link.
+`}
+
+Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I put together a band, and we [played a show](http://nymiscellany.blogspot.com/2007/09/dinner-and-show-or-three.html) for one of them. It was… admittedly sloppy, given that my new bandmates still hadn't fully learned their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
 Thus I learned indie rock's founding belief: "Live shows tell the truth." Yet if recordings capture what shows can't… then this is an *asset*, not a *liability*! They're two distinct mediums— like cinema versus theatre. So ignore those who insist that "real" artists start out by playing shows. With BYCombo, you can make a stellar demo… with no thought for how you'll recreate it live.
 
@@ -554,16 +562,24 @@ Yes, the struggle can be a gift— but only when you face it on your own terms. 
 ### ${++sectionCounter}. Collectivists pool their achievements
 
 ${'  ' || `
-// TODO: Keep working on.
-
-First paragraph, repeat settling on average by canceling out every outlier? Not outright, but that indie camp accepts it.
-
-Last paragraph, sweet spot between collectivism and individualism.
+// TODO: Review section.
 `}
 
-To rebel against soulless AI content, the new Romantics look to the indie camp as our last hope. Yet AI simply allows artists to put out far more works, for far less effort. Which… is how indie artists *themselves* managed to take over the arts, no? AI, then, might as well be short for "accelerated indiefication"!
+${'  ' || `
+// TODO: Review a few more times.
+`}
 
-Let's face it, it's hypocritical for anyone who cheers the indie takeover of the arts to criticize artists for using AI, given that "indiefication" is all about celebrating individuals who make the world worse if everyone behaved the way they do— who create collective action problems, that is. And AI is the ultimate collective action problem.
+To protest against soulless AI "slop," the new Romantics long to revive indie rock's ideals. Yet AI simply allows artists to put out many more works, for far less effort— while delivering exactly what the people expect. Which… is how indie rock *itself* took over in the '00s, no? AI, then, might as well be short for "accelerated indiefication"!
+
+${'  ' || `
+// TODO: Keep working on. Connect the individual to the definition of a collective action problem. 
+`}
+
+After all, in celebrating the *indie*-pendent *indie*-vidual, shouldn't we draw the line at those who make the [world worse](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) once we're all [forced to behave](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants) as they do? Who create what are called collective action problems, as you'll recall. The indie camp chose not to, however… making them powerless to complain about AI slop, as it's merely the latest collective action problem.
+
+${'  ' || `
+// TODO: Keep working on.
+`}
 
 To combat AI, then, we need a movement that does the opposite, and favors the collective over the individual. Luckily, those seeking to make the best art today instinctively know to be collectivists already. After all, to be great means missing out on most things. It means being lop-sided. It means forgoing "eras." Collectivists pool their experiences, allowing them *not* to do it all.
 
