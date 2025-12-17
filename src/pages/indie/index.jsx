@@ -562,13 +562,15 @@ ${'  ' || `
 `}
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise. Make it more like, in despair over AI slop, the new romantics look back with wistful nostalgia at indie rock in the '00s.
 `}
 
 To protest against soulless AI "slop," the new Romantics long to revive indie rock's ideals. Yet AI simply allows artists to put out many more works, for far less effort— while delivering exactly what the people expect. Which… is how indie rock *itself* took over in the '00s, no? AI, then, might as well be short for "accelerated indiefication"!
 
 ${'  ' || `
 // TODO: Keep working on. Connect the individual to the definition of a collective action problem. 
+
+After all, the indie camp has no choice but to celebrate the collective action problem, which after all, is the ultimate action of an indie-pendent indie-vidual. Once the arts were indiefied, 
 `}
 
 After all, in celebrating the *indie*-pendent *indie*-vidual, shouldn't we draw the line at those who make the [world worse](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) once we're all [forced to behave](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants) as they do? Who create what are called collective action problems, as you'll recall. The indie camp chose not to, however… making them powerless to complain about AI slop, as it's merely the latest collective action problem.
@@ -581,7 +583,7 @@ To combat AI, then, we need a movement that does the opposite, and favors the co
 
 And this is important, because we've already made those who exacerbate collective action problems high status, and status hierarchies are self-reinforcing. Those at the top have both the will and the way to punish those least like them— in other words, those who fix such problems. Fixing problems, while being scorned as low status for it, is intolerable for an individualist, but par for the course for collectivists.
 
-Now, I'm just one example, of course, but if we expect this century to give us a hundred *Yearling's Bobtail*s, then it's helpful to note that the artist who made it *also* came from a more collectivist race, class, and generation. Luckily, with BYCombo, you can now self-select into collectivism.
+Yes, it's strange to move away from individualism, back to collectivism. But if we expect this century to give us a hundred *Yearling's Bobtail*s, then it's helpful to note that the artist who made it *also* came from a more collectivist race, class, and generation. Luckily, with BYCombo, you can now self-select into collectivism.
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
