@@ -415,10 +415,6 @@ Except, it turns out, this *too* is a hidden advantage that's largely theirs alo
 
 But while White men *easily* gain from their identities without admitting to it— as when it [lends authenticity](https://bennettsamuellin.blogspot.com/2011/07/resistible-canaanites-request-for.html#:~:text=But%20really%2C%20how,from%20me.) to a "larpy" backstory— we women and minorities can do so only by *blatantly* pointing to our race or gender… for which society *doesn't* feel the same affection! So wokeness has provoked a backlash, as MAGA now attacks it from the political right.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Yet such attacks are doomed to fail. How do I know? Because, when all those indie labels rejected me in the '00s, I *myself* flirted with joining the right— to snub the indie camp, who mostly sit on the political left. But I couldn't get my arguments to line up… until it hit me: Greater *indie*-pendence is a demand of the *right*; in terms of the *arts*, it's *I* who sit on the left— and *they*, the right!
 
 So if seeking to gain from one's identity— one's *self*, if you will— is the logical next step once there's no more to be gained from self-*reliance*… then it *too* is an ideal of the right, held mainly by the privileged! Well, what if your demand was *never* for wokeness, but for greater *inter*-dependence— to be self-*less*, as it were? Then come join BYCombo… and help us revive the artistic left!
@@ -562,10 +558,10 @@ ${'  ' || `
 `}
 
 ${'  ' || `
-// TODO: Revise. Make it more like, in despair over AI slop, the new romantics look back with wistful nostalgia at indie rock in the '00s.
+// TODO: Revise. The new romantics look back with wistful nostalgia at indie rock in the '00s.
 `}
 
-To protest against soulless AI "slop," the new Romantics long to revive indie rock's ideals. Yet AI simply allows artists to put out many more works, for far less effort— while delivering exactly what the people expect. Which… is how indie rock *itself* took over in the '00s, no? AI, then, might as well be short for "accelerated indiefication"!
+In despair over the rise of soulless AI "slop," the new Romantics fondly recall the years. Yet AI simply allows artists to put out many more works, for far less effort— while delivering exactly what the people expect. Which… is how indie rock *itself* took over in the '00s, no? AI, then, might as well be short for "accelerated indiefication"!
 
 ${'  ' || `
 // TODO: Keep working on. Connect the individual to the definition of a collective action problem. 

@@ -2,6 +2,9 @@
 
 * YB
     * Talk about magnet schools?
+    * Remove Van Nuys references
+        * Remove from school
+        * Remove logo
 
 * BM
     * Review text
