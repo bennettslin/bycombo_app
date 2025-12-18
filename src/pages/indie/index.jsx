@@ -291,7 +291,7 @@ But there's hope: While Millennials were active creators from day one, Gen Z rev
 
 Still, how do we become pro-*audience* once more? First, we remind ourselves that, as a figure of speech, the word "audience" has strayed far from its literal meaning of "those who attend a work's performance." So let's use it in a way that Bach— who made music for God!— would've understood: An audience *isn't* a fanbase; nor are they a following.
 
-From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing [what this entails](https://youtu.be/SYSa4RzaH80)! Fortunately, BYCombo promises to step up as an elitist gatekeeper, if you'll pledge to make the best art— which is to say, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing what [this entails](https://youtu.be/SYSa4RzaH80)! Fortunately, BYCombo promises to step up as an elitist gatekeeper, if you'll pledge to make the best art— which is to say, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -317,7 +317,7 @@ Yet others *happily* pay it forward: "Paying more means we [succeeded more](http
 
 ### ${++sectionCounter}. Paid dues shrivel the noblest spirits
 
-Mr. Rogers told us to [look for the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being a low-status nobody, I needed others to help *me* first. Yet no one did…
+Mr. Rogers told us to look for [the helpers](https://www.goodreads.com/quotes/12135721-when-i-was-a-boy-and-i-would-see-scary) when times are bad. Now times are bad for music… so why is no one helping? Particularly from the indie camp— the "good guys"! As for me? Back in the day, I'd have *gladly* helped, what with all my ideas to revive the art form. But "noblesse oblige" wasn't mine to show; being a low-status nobody, I needed others to help *me* first. Yet no one did…
 
 So I took a coding bootcamp, and for [seven years](https://bobtail.substack.com/p/zillow-farewell-message), I worked days as a coder and nights on my audio webcomic. When I came back to music, I once again heard artists speak of hustling as "paying dues"— to justify, let's say, touring at a loss. Only this time it threw me, because in tech, paid dues are a sign of "fake work"— and outsiders who see this, disrupt cultures that don't.
 
@@ -451,7 +451,7 @@ By contrast, the indie labels simply pick what the people want, going by the siz
 
 So when the tech platforms arrived to disrupt the majors using data-driven methods, the indie camp was *fully* on board. I still recall how they rushed to defend file sharing: "Real artists earn a living by going on tour. Recordings are just for publicity; they *should* be free!" And social networks: "Real artists engage with their fans after a show— and now they can at *any* time!"
 
-To sum up, it was the *indie camp* who gave us today's [data-driven industry](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music)! Thanks to them— and their grievances— even the *majors* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) indies now, by forcing you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers… but to pursue a vision that few others see.
+To sum up, it was the *indie camp* who gave us today's [data-driven](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music) industry! Thanks to them— and their grievances— even the *majors* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) indies now, by forcing you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers… but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
@@ -491,9 +491,9 @@ Combining glam's gender-bending look with metal's aggression, glam metal was the
 
 Here's what I mean: If you *don't* hustle, the indie camp will reject you. But you should *want* to double down on making art instead— plus, getting punished for breaking their rule means that history will see your act as courageous. So it's one way *not* to larp… *and* a twofer! Who *wouldn't* jump on it? *I* did— and as an Xennial, what did *I* know of courage? Yet no Millennials joined me. Why?
 
-I'll tell you my theory: Millennials only faced boredom long enough to hate it; then, before they could learn to daydream, they were given structured ways to create and consume endless content— which [won their gratitude](https://xkcd.com/1601). And so they never realized what was obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
+I'll tell you my theory: Millennials only faced boredom long enough to hate it; then, before they could learn to daydream, they were given structured ways to create and consume endless content— which won [their gratitude](https://xkcd.com/1601). And so they never realized what was obvious: The only rules left that take courage to break… are the *structural* ones— like indie rock's— that *they* help to enforce!
 
-Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not *alternative*." Except, today, the generation in question is *Gen Z*— who've only ever faced an [*abundance* of content](http://archive.today/2022.12.16/https://www.nytimes.com/2022/12/15/style/teens-social-media.html)… and would now *love* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
+Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not *alternative*." Except, today, the generation in question is *Gen Z*— who've only [ever faced](http://archive.today/2022.12.16/https://www.nytimes.com/2022/12/15/style/teens-social-media.html) an *abundance* of content… and would now *love* to revolt! Well, this Xennial offers a solution: With BYCombo, you can show courage once again— by doubling down to make art, for a serious chunk of lifetime.
 
 ### ${++sectionCounter}. Unity brutalizes a lone scapegoat
 
@@ -558,7 +558,7 @@ ${'  ' || `
 `}
 
 ${'  ' || `
-// TODO: Revise. The new romantics look back with wistful nostalgia at indie rock in the '00s.
+// TODO: Revise. The new romantics look back with wistful nostalgia at indie rock in the '00s. Mainstream tastes.
 `}
 
 In despair over the rise of soulless AI "slop," the new Romantics fondly recall the years. Yet AI simply allows artists to put out many more works, for far less effort— while delivering exactly what the people expect. Which… is how indie rock *itself* took over in the '00s, no? AI, then, might as well be short for "accelerated indiefication"!
