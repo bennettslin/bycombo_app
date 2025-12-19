@@ -562,10 +562,10 @@ ${'  ' || `
 `}
 
 ${'  ' || `
-// TODO: Revise. The new romantics look back with wistful nostalgia at indie rock in the '00s. Mainstream tastes.
+// TODO: Review a few more times.
 `}
 
-In despair over the rise of soulless AI "slop," the new Romantics fondly recall the years. Yet AI simply allows artists to put out many more works, for far less effort— while delivering exactly what the people expect. Which… is how indie rock *itself* took over in the '00s, no? AI, then, might as well be short for "accelerated indiefication"!
+The new Romantics wistfully recall those last two decades before the rise of soulless AI "slop." Yet AI simply allows artists to put out many more works, for far less effort— while delivering exactly what the people expect. Which… is how indie rock *itself* took over in the '00s, no? "AI," then, might just as well stand for "accelerated indiefication"!
 
 ${'  ' || `
 // TODO: Keep working on. Connect the individual to the definition of a collective action problem. 
