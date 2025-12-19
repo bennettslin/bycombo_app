@@ -137,7 +137,11 @@ By supporting artists, then, we're both needlessly kind to the ones at the top, 
 
 Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way artists have *always* worked. So anyone trying to start a *new* paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
-Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. Yet if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of silent preparation… will be paying their own way the *whole* time.
+${'  ' || `
+// TODO: Review.
+`}
+
+Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. Yet if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of unsung preparation… will be paying their own way the *whole* time.
 
 To be clear, I'm not against subsidizing, let's say, music education. But when we support artists in *particular*, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this early on— having only *ever* been seen as a hobbyist by the indie camp. Now BYCombo lets you find partners who'd rather give amnesty to the best, than charity to all the rest.
 
@@ -565,7 +569,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-The new Romantics wistfully recall those last two decades before the rise of soulless AI "slop." Yet AI simply allows artists to put out many more works, for far less effort— while delivering exactly what the people expect. Which… is how indie rock *itself* took over in the '00s, no? "AI," then, might just as well stand for "accelerated indiefication"!
+The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." Yet AI simply allows artists to put out far more works, for far less effort— while delivering exactly what the people expect. Which… is how indie rock *itself* took over in the '00s, no? "AI," then, might as well stand for "accelerated indiefication"!
 
 ${'  ' || `
 // TODO: Keep working on. Connect the individual to the definition of a collective action problem. 
@@ -573,7 +577,9 @@ ${'  ' || `
 After all, the indie camp has no choice but to celebrate the collective action problem, which after all, is the ultimate action of an indie-pendent indie-vidual. Once the arts were indiefied, 
 `}
 
-After all, in celebrating the *indie*-pendent *indie*-vidual, shouldn't we draw the line at those who make the [world worse](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) once we're all [forced to behave](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants) as they do? Who create what are called collective action problems, as you'll recall. The indie camp chose not to, however… making them powerless to complain about AI slop, as it's merely the latest collective action problem.
+Let's face it, in celebrating the *indie*-pendent *indie*-vidual, indie rock *could've* drawn the line at those who help themselves while harming the collective. It didn't— and then its ideals took over.
+
+make the [world worse](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) once we're all [forced to behave](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants) as they do? Who create what are called collective action problems, as you'll recall. The indie camp chose not to, however… making them powerless to complain about AI slop, as it's merely the latest collective action problem.
 
 ${'  ' || `
 // TODO: Keep working on.
