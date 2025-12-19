@@ -137,10 +137,6 @@ By supporting artists, then, we're both needlessly kind to the ones at the top, 
 
 Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way artists have *always* worked. So anyone trying to start a *new* paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. Yet if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of unsung preparation… will be paying their own way the *whole* time.
 
 To be clear, I'm not against subsidizing, let's say, music education. But when we support artists in *particular*, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this early on— having only *ever* been seen as a hobbyist by the indie camp. Now BYCombo lets you find partners who'd rather give amnesty to the best, than charity to all the rest.
@@ -367,10 +363,6 @@ But once competition takes place *away* from the public eye— as populism deman
 
 Which explains why the disadvantaged tend to be *put off* by populism: It tells them to celebrate a [privileged artist's](https://www.honest-broker.com/p/an-open-letter-to-taylor-swift#:~:text=So%20who%20will,and%20have%20won!) wins as their own— while toppling the elites who represent their one hope to secure such wins themselves. And so we often get a "sideways horseshoe," in which the underclass at the bottom pulls *away* from the middle… to join with the elites at the top.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 "Isn't elitist snobbery a relic, though, now that social media makes it trivial to be in the know?" Regarding the kind based on "cred"? Totally. But *craft*-based snobbery raises the cost of entry the *right* way— and thus remains as valid as ever! Because, like it or not, public exposure *is* zero-sum. Now BYCombo lets you treat it as such… just like rockists and rappers always have.
 
 ### ${++sectionCounter}. True progressives join the establishment
@@ -475,7 +467,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to throw in a phrase like "freeing the human spirit," and we'd fall for it every time.
+Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to throw in phrases like "freeing the human spirit," and we'd fall for it every time.
 
 So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the [research says](https://www.businessinsider.com/cognitive-biases-2015-10) it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help us usher it in.
 
@@ -528,10 +520,6 @@ Thankfully, some of you now *agree* with me that the arts have declined, and you
 Now that content is abundant, the new Romantics long for a return to live shows. Yet shows are fleeting by nature… just like content! It's why the best live performers, like content creators, strive to *consistently* deliver; theirs is the ultimate "workhorse art." And music needs that! But who'll deliver this generation's "windfall art"— which calls for betting it all on a *single* chance?
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?verse=10&annotation=17)— and so I set to [work on mine](https://yearlingsbobtail.com/16-cremated/?verse=1&annotation=4).
-
-${'  ' || `
-// TODO: Review link.
-`}
 
 Upon completion five years later, *Yearling's Bobtail* caught the attention of a few indie labels. Success! I put together a band, and we [played a show](http://nymiscellany.blogspot.com/2007/09/dinner-and-show-or-three.html) for one of them. It was… admittedly sloppy, given that my new bandmates still hadn't fully learned their parts. The label founder left in a huff and stopped replying to my emails, later sneering at "headphone albums" on his blog.
 
