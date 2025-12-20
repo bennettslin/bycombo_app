@@ -290,7 +290,9 @@ Uh… *we* would— the audience! Most of us only want the *best* athletes, and 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means today's pro-artist thinking might just be a generational fluke… and *not* the future of music.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise.
+
+Make it more like, we should be thinking of it the way Bach did, who sought to please God.
 `}
 
 Still, how do we become pro-*audience* once more? First, we observe that the word "audience" has strayed far from its literal meaning of "all who attend a work's performance." So let's use it in a way that Bach— who made music for God!— would've understood: An audience *isn't* a fanbase or a following.
