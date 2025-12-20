@@ -3,8 +3,10 @@
 * YB
     * Talk about magnet schools?
     * Remove Van Nuys references
-        * Remove from school
-        * Remove logo
+        * Remove reference to school in annotation
+        * Remove svg logo
+    * Cubes no longer animate in Chrome?
+        * Canary is fine, though.
 
 * BM
     * Review text
@@ -26,3 +28,6 @@
                     * While living to 
                 * Climate change and artistic climate change
     * Consider smart quote in Wikipedia link update
+
+* Substack
+    * Three Pitchfork reviews explain this century's decline

@@ -575,11 +575,9 @@ The new Romantics wistfully recall those last few decades before the rise of sou
 
 ${'  ' || `
 // TODO: Keep working on.
-
-make the [world worse](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) once we're all [forced to behave](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants) as they do? Who create what are called collective action problems, as you'll recall. The indie camp chose not to, however… making them powerless to complain about AI slop, as it's merely the latest collective action problem.
 `}
 
-As you'll recall, collective action problems benefit the individual to everyone else's expense. Which the indie camp has always celebrated, since creating them is the ultimate act of the *indie*-pendent *indie*-vidual. And AI is simply the latest of such problems.
+The indie takeover of music spread the indie camp's celebration of the *indie*-pendent *indie*-vidual, and thus the creation of collective action problems— which, as you'll call, benefit the individual while making all others [worse off](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones), thus [forcing them](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants) to do the same.  And AI is simply the latest of such problems.
 
 ${'  ' || `
 // TODO: Keep working on.
@@ -587,7 +585,7 @@ ${'  ' || `
 
 To combat AI, then, we need a movement that does the opposite, and favors the collective over the individual. Luckily, those seeking to make the best art today instinctively know to be collectivists already. After all, to be great means missing out on most things. It means being lop-sided. It means forgoing "eras." Collectivists pool their experiences, allowing them *not* to do it all.
 
-And this is important, because we've already made those who exacerbate collective action problems high status, and status hierarchies are self-reinforcing. Those at the top have both the will and the way to punish those least like them— in other words, those who fix such problems. Fixing problems, while being scorned as low status for it, is intolerable for an individualist, but par for the course for collectivists.
+And this is important, because status hierarchies are self-reinforcing. Those at the top have both the will and the way to reward those most like them— and punish those least like them. And since we've made high status those who create collective action problems, this means those who fix them must be at the bottom. Fixing problems, while being scorned as low status for it, is intolerable for an individualist, but par for the course for collectivists.
 
 Yes, it's strange to move away from individualism, back to collectivism. But if we expect this century to give us a hundred *Yearling's Bobtail*s, then it's helpful to note that the artist who made it *also* came from a more collectivist race, class, and generation. Luckily, with BYCombo, you can now self-select into collectivism.
 
