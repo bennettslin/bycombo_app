@@ -572,14 +572,12 @@ ${'  ' || `
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." Yet AI simply allows artists to put out far more works, for far less effort— while delivering exactly what the people expect. Which… is how indie rock *itself* took over in the '00s, no? "AI," then, might as well stand for "accelerated indiefication"!
 
 ${'  ' || `
-// TODO: Keep working on. Connect the individual to the definition of a collective action problem. 
-
-After all, the indie camp has no choice but to celebrate the collective action problem, which after all, is the ultimate action of an indie-pendent indie-vidual. Once the arts were indiefied, 
-`}
-
-Let's face it, in celebrating the *indie*-pendent *indie*-vidual, indie rock *could've* drawn the line at those who help themselves while harming the collective. It didn't— and then its ideals took over.
+// TODO: Keep working on.
 
 make the [world worse](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) once we're all [forced to behave](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants) as they do? Who create what are called collective action problems, as you'll recall. The indie camp chose not to, however… making them powerless to complain about AI slop, as it's merely the latest collective action problem.
+`}
+
+As you'll recall, collective action problems benefit the individual to everyone else's expense. Which the indie camp has always celebrated, since creating them is the ultimate act of the *indie*-pendent *indie*-vidual. And AI is simply the latest of such problems.
 
 ${'  ' || `
 // TODO: Keep working on.
