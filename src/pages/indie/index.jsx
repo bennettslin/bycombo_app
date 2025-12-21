@@ -21,7 +21,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Thus I was forced to struggle in a world that *wouldn't* speak out against indie rock. But now, two decades onward, Gen Z faces the [same struggles](http://archive.today/2024.02.01/https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— only to find that no one with any say is left to speak out for *them*. So perhaps they're ready to hear out this Xennial here, who's had *no* say up until now? In which case… let the interdependence revolution begin!
+Thus I was forced to struggle in a world that *wouldn't* speak out against indie rock. But now, two decades onward, Gen Z faces the [same struggles](http://archive.today/2024.02.01/https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— only to find that no one with any say is left to speak out for *them*. So perhaps they're ready to hear out this Xennial here, who's had *zero* say up to now? In which case… let the interdependence revolution begin!
 
 ### The revolution will *not* be decentralized
 
@@ -187,7 +187,11 @@ To get radio airplay in the '90s, alternative bands had to win over listeners wh
 
 A while back, I sent copies of my songwriting book [*Bobtail Method*](https://bobtailmethod.com) to all the indie labels; then likewise with my musical tile game [*Bobtail Dominoes*](https://bobtaildominoes.com). "One test of an enviable work," I noted, "is whether it's a joy just to hum its melody and strum its chords." Yet… no one bit. In time I figured out why: It's not that they doubted me; they just don't value music as a *craft* to begin with!
 
-After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want backstories](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) to discuss at length, while local fans— now online— like it when artists directly engage. So each, in their own way, is drawn more to a compelling persona than to any well-crafted hook or "hum-'n-strum."
+${'  ' || `
+// TODO: Review.
+`}
+
+After losing too many radio-friendly bands to the major labels, the indies learned to bypass radio altogether by appealing to critics and local fans. But critics [want backstories](https://faroutmagazine.co.uk/when-pavement-penned-a-track-to-insult-the-smashing-pumpkins) to discuss at length, while local fans— now online— like it when artists directly engage. So each, in their own way, is drawn more to an authentic persona than to any well-crafted hook or "hum-'n-strum."
 
 All demand for such craft, then, came *solely* from radio— which means the death of radio *also* killed off those who excelled at it: alternative bands like the [Smashing Pumpkins](https://youtu.be/GVDWSTCKgng) or [Stone Temple Pilots](https://youtu.be/PAHLpaYQDds), in my day. And since critics tended to *hate* these bands, the indie camp simply jeered: "Well, well, well… looks like backstory and lore beat out melodies and chords!"
 
@@ -443,7 +447,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Yet when I came along in the '00s— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me by my works *alone*!" Why? My guess is they thought perfect tolerance had been reached, making every identity equal; now *any* of us could excel at, let's say, having an authentic persona— just like each of their other picks.
+Yet when I came along in the '00s— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me by my works *alone*!" Why? My guess is they thought perfect tolerance had been reached, making every identity equal; now *any* of us could excel at, let's say, having an authentic persona— just like all their other picks.
 
 ${'  ' || `
 // TODO: Review link.
@@ -487,7 +491,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit," or some other empty slogan, and we fell for it every time.
+Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit," or other such slogans… and we fell for it every time.
 
 So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the [research says](https://www.businessinsider.com/cognitive-biases-2015-10) it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help us usher it in.
 
