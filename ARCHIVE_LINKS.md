@@ -16,7 +16,7 @@ http://archive.today/2024.05.11/https://genius.com/Eminem-white-america-lyrics#:
 
 http://archive.today/2021.06.04/https://www.nytimes.com/2021/05/26/magazine/black-keys-blues.html#:~:text=%E2%80%9CFor%20me%2C%20it,it%20came%20from.%E2%80%9D
 
-http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,Forever%20Ago.
+http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/15551-bon-iver/#:~:text=The%20guy%20who,us%20as%20listeners.
 
 http://archive.today/2022.12.15/https://www.nytimes.com/2022/12/15/style/teens-social-media.html
 
