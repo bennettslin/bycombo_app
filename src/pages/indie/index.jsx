@@ -305,9 +305,13 @@ ${'  ' || `
 // TODO: Revise.
 `}
 
-Still, how do we become pro-*audience* once more? First, we observe that the word "audience" has strayed from its literal meaning of "those who attend a work's performance." So let's use it in a way that Bach— who made music for God!— would've understood: Your audience is less like the fans you engage with, and more like everyone hearing you on the radio.
+Still, how do we become pro-*audience* once more? First, we observe that the word "audience" has strayed from its literal meaning of "those who attend a work's performance." So let's use it in a way that Bach— who made music for God!— would've understood: Little of an audience is your serious fans; most of it is casual listeners, like those hearing you on the radio.
 
-From there, we admit that the silent majority only want the *best* artists— and *not* the job of knowing what [this entails](https://youtu.be/SYSa4RzaH80)! Fortunately, BYCombo promises to step up as an elitist gatekeeper, if you'll pledge to make the best art— which is to say, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+${'  ' || `
+// TODO: Review.
+`}
+
+From there, we note that this large majority only wants the *best* artists— and *not* the job of knowing what [this entails](https://youtu.be/SYSa4RzaH80)! Fortunately, BYCombo promises to step up as an elitist gatekeeper, if you'll pledge to make the best art— which is to say, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -447,7 +451,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Yet when I came along in the '00s— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me by my works *alone*!" Why? My guess is they thought perfect tolerance had been reached, making every identity equal; now *any* of us could excel at, let's say, having an authentic persona— just like all their other picks.
+Yet when I came along in the '00s— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me by my works *alone*!" Why? My guess is they thought perfect tolerance had been reached, making every identity equal; now *any* of us could excel at, let's say, having an authentic persona— just like their other picks.
 
 ${'  ' || `
 // TODO: Review link.
@@ -597,6 +601,8 @@ The new Romantics wistfully recall those last few decades before the rise of sou
 
 ${'  ' || `
 // TODO: Keep working on.
+
+Mention the self?
 `}
 
 The indie takeover of music spread the indie camp's celebration of the *indie*-pendent *indie*-vidual, and thus the creation of collective action problems— which, as you'll call, benefit the individual while making all others [worse off](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones), thus [forcing them](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants) to do the same.  And AI is simply the latest of such problems.
