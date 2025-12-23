@@ -402,10 +402,10 @@ Then one day it clicked: I *haven't* met with a hundred such tastemakers. For al
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd. Yet the indie labels don't mind the similar results; since they sign just one artist at a time, the well-rounded one is a safe bet *every* time!
 
 ${'  ' || `
-// TODO: Review. Also review link.
+// TODO: Review.
 `}
 
-Meanwhile, indie tastemakers *aren't* capitalists, and thus have no need to see what other investors don't— like, let's say, a low-status no-name's long-term potential. But in lacking any urge to up-*end* the status hierarchy, they end up following their human nature to up-*hold* it. And since taste is unconsciously [shaped by status](https://www.harpercollins.com/products/the-status-game-will-storr), this means they converge on the same tastes…
+Meanwhile, indie tastemakers *aren't* capitalists, and thus have no need to see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any urge to up-*end* the status hierarchy, they end up following their human nature to up-*hold* it. And since taste is unconsciously [shaped by status](https://www.harpercollins.com/products/the-status-game-will-storr), this means they converge on the same tastes…
 
 So now what, if *your* dream isn't to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, only vice versa… because they crave interdependence as much as you do!
 
@@ -479,7 +479,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit" or some other such cliche… and we fell for it every time.
+Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit"… and we'd fall for it every time.
 
 So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the [research says](https://www.businessinsider.com/cognitive-biases-2015-10) it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help us usher it in.
 
