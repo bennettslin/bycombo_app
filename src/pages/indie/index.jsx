@@ -17,10 +17,6 @@ By the '90s, the major labels were the clear "bad guys": Hoping for a Nirvana or
 
 Bennett from the [Bobtail Yearlings](https://bobtailyearlings.com) here! For half my Xennial life, I've argued that indie rock's fair practices have made music *worse*— to no avail. The way Millennials saw it: "Thanks to these new tech platforms, it's easier than *ever* to build a fanbase on your own; and the better your works, the farther you'll go! So if you hate it… well, what does this say about your works?"
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Thus I was forced to struggle in a world that *wouldn't* speak out against indie rock. But now, two decades onward, Gen Z faces the [same struggles](http://archive.today/2024.02.01/https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following)— only to find that no one with any say is left to speak out for *them*. So perhaps they're ready to hear out this here Xennial, who's had *no* say up until now? In which case… let the interdependence revolution begin!
 
 ### The revolution will *not* be decentralized
@@ -294,7 +290,7 @@ Uh… *we* would— the audience! Most of us only want the *best* athletes, and 
 But there's hope: While Millennials were active creators from day one, Gen Z reverted to being passive consumers once the Internet consolidated. As with Boomers and Gen X, then, Gen Z empathizes foremost with the *audience*— having first been one themselves. Which means today's pro-artist thinking might just be a generational fluke… and *not* the future of music.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Still, how do we become pro-*audience* once more? First, we observe that the word "audience" has strayed far from its literal meaning of "all who attend a work's performance." So let's use it in a way that Bach— who made music for God!— would've understood: Few of your audience are the serious fans you engage with; most are casual listeners… like those hearing you on the radio.
@@ -303,7 +299,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-From there, we note that this vast majority only want the *best* artists— and *not* the [job of knowing](https://youtu.be/SYSa4RzaH80) what "the best" entails! Fortunately, BYCombo can step up as an elitist gatekeeper, if *you'll* pledge to make the best art— which is to say, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+From there, we note that this vast majority only want the *best* artists— and it *isn't* their [job to know](https://youtu.be/SYSa4RzaH80) what "the best" entails! Thankfully, BYCombo can step up as a gatekeeper for the elites, if *you'll* pledge to make the best art— which is to say, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
