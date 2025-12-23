@@ -436,12 +436,16 @@ So if seeking to gain from one's identity— one's *self*, if you will— is the
 No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
 
 ${'  ' || `
-// TODO: Revise. Make it, "Now any of us could excel in the areas they value above craft: authentic persona, compelling backstories, and so forth.
+// TODO: Review a few more times.
 `}
 
-Yet when I came along in the '00s— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me by my works *alone*!" Why? My guess is they thought perfect tolerance had been reached, making all identities equal. Now *every* artist was expected to excel at having an authentic persona.
+Yet when I came along in the '00s— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me by my works *alone*!" Why? My guess is they thought perfect tolerance had been reached, making every identity equal. Now *all* of us could excel at— and thus be judged on— what they value most: having an authentic persona.
 
-Thus I had *no* lifeline… and then, [as it happens](https://bennettsamuellin.blogspot.com/2011/07/resistible-canaanites-request-for.html#:~:text=But%20really%2C%20how,from%20me.), Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* find underdogs to favor, based on "safe" criteria like [place of origin](https://x.com/Steven_Hyden/status/1708868954741977173). For a clear conscience, then, we *must* toss a lifeline to the rest— whom we've now made *worse* off in this zero-sum game.
+${'  ' || `
+// TODO: Review.
+`}
+
+And so I had *no* lifeline… but then, [as it happens](https://bennettsamuellin.blogspot.com/2011/07/resistible-canaanites-request-for.html#:~:text=But%20really%2C%20how,from%20me.), Millennials *weren't* perfectly tolerant. Which is why indie rock was largely White and male for so long! Yet even in a *perfectly* tolerant future, we'll *still* find underdogs to favor, based on "safe" criteria like [place of origin](https://x.com/Steven_Hyden/status/1708868954741977173). For a clear conscience, then, we *must* toss a lifeline to the rest— whom we've now made *worse* off in this zero-sum game.
 
 There's also a selfish reason to do so: Once we shut out the outsiders of our times, we can no longer deflect any claim that the arts declined under our watch— a claim that history will surely make against Millennials! Luckily, if you're hungry enough to try much harder, to be much better, BYCombo can help Gen Z honor that age-old bargain once more.
 
@@ -479,7 +483,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit"… and we'd fall for it every time.
+Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit," and we fell for it every time.
 
 So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the [research says](https://www.businessinsider.com/cognitive-biases-2015-10) it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help us usher it in.
 
