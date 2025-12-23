@@ -3,7 +3,7 @@ import React from 'react'
 import Page from '../../containers/Page'
 
 const TITLE = `The problem with indie rock`
-const DESCRIPTION = `How indie rock has made music worse…`
+const DESCRIPTION = `How indie rock made music worse…`
 
 const Component = ({ sectionCounter = 0 }) => (
     <Page
@@ -440,7 +440,7 @@ So if seeking to gain from one's identity— one's *self*, if you will— is the
 No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Make it, "Now any of us could excel in the areas they value above craft: authentic persona, compelling backstories, and so forth.
 `}
 
 Yet when I came along in the '00s— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me by my works *alone*!" Why? My guess is they thought perfect tolerance had been reached, making every identity equal; now *any* of us could excel at, let's say, having an authentic persona— just like their other picks.
