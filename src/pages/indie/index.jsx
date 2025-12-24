@@ -23,7 +23,11 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see any downside to what I call "indiefication"— namely, their goal for *all* of us to spread our works from the bottom up, instead of the top down. But as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=All%20the%20time,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And knowing all this leads to revolution… How?"
+${'  ' || `
+// TODO: Review.
+`}
+
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=All%20the%20time,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And such awareness leads to revolution… how?"
 
 Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. Tastemakers, however, prefer an artist who's *already* gone from zero to one, and thus *already* enjoys high status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
 
@@ -293,13 +297,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Still, how do we become pro-*audience* once more? First, we observe that the word "audience" has strayed far from its literal meaning of "all who attend a work's performance." So let's use it in a way that Bach— who made music for God!— would've understood: Few of your audience are the serious fans you engage with; most are casual listeners… like those hearing you on the radio.
+Still, how do we become pro-*audience* once more? First, we observe that the word "audience" has strayed far from its literal meaning of "all who attend a work's performance." So let's use it in a way that Bach— who made music for God!— would've understood: Few of your audience are the serious fans you engage with; most are casual listeners, like those hearing you on the radio.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-From there, we note that this vast majority only want the *best* artists— and it *isn't* their [job to know](https://youtu.be/SYSa4RzaH80) what "the best" entails! Thankfully, BYCombo can step up as a gatekeeper for the elites, if *you'll* pledge to make the best art— which is to say, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
+From there, we note that this vast majority only want the *best* artists… and it *isn't* their [job to know](https://youtu.be/SYSa4RzaH80) what "the best" entails! Thankfully, BYCombo can step up as a gatekeeper for the elites, if *you'll* pledge to make the best art— which is to say, the kind of works that *you'd* care to study or enjoy most, if you were anyone else, out of all that's come before and all else that's out there.
 
 ### ${++sectionCounter}. Hustlers lack a theory of future minds
 
@@ -405,7 +409,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Meanwhile, indie tastemakers *aren't* capitalists, and thus have no need to see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any urge to up-*end* the status hierarchy, they end up following their human nature to up-*hold* it. And since taste is unconsciously [shaped by status](https://www.harpercollins.com/products/the-status-game-will-storr), this means they converge on the same tastes…
+Meanwhile, indie tastemakers *aren't* capitalists, and thus have no need to see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any urge to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is unconsciously [shaped by status](https://www.harpercollins.com/products/the-status-game-will-storr), this means they converge on the same tastes…
 
 So now what, if *your* dream isn't to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, only vice versa… because they crave interdependence as much as you do!
 
