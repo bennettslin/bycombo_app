@@ -393,7 +393,11 @@ Then one day it clicked: I *haven't* met with a hundred such tastemakers. For al
 
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd. Yet the indie labels don't mind the similar results; since they sign just one artist at a time, the well-rounded one is a safe bet *every* time!
 
-Meanwhile, indie tastemakers *aren't* capitalists, and thus have no need to see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any urge to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is unconsciously [shaped by status](https://www.harpercollins.com/products/the-status-game-will-storr), this means they converge on the same tastes…
+${'  ' || `
+// TODO: Review.
+`}
+
+Meanwhile, indie tastemakers *aren't* capitalists, and thus needn't see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is [unconsciously shaped](https://www.harpercollins.com/products/the-status-game-will-storr) by status, this means they converge on the same tastes…
 
 So now what, if *your* dream isn't to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, only vice versa… because they crave interdependence as much as you do!
 
