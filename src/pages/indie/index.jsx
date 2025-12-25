@@ -572,18 +572,16 @@ ${'  ' || `
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." Yet AI simply allows artists to put out far more works, for far less effort— while delivering exactly what the people expect. Which… is how indie rock *itself* took over in the '00s, no? "AI," then, might as well stand for "accelerated indiefication"!
 
 ${'  ' || `
-// TODO: Keep working on.
-
-Mention the self?
+// TODO: Review a few more times.
 `}
 
-The indie takeover of music spread the indie camp's celebration of the *indie*-pendent *indie*-vidual, and thus the creation of collective action problems— which, as you'll call, benefit the individual while making all others [worse off](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones), thus [forcing them](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants) to do the same.  And AI is simply the latest of such problems.
+Let's face it, AI is simply the latest collective action problem, which— as you'll recall— is when an individual acts in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving all others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to behave likewise. And, of course… the indie camp is all about celebrating this *indie*-pendent *indie*-vidual! Which means, under their watch, our worsening problems can only accelerate…
 
 ${'  ' || `
 // TODO: Keep working on.
 `}
 
-To combat AI, then, we need a movement that does the opposite, and favors the collective over the individual. Luckily, those seeking to make the best art today instinctively know to be collectivists already. After all, to be great means missing out on most things. It means being lop-sided. It means forgoing "eras." Collectivists pool their experiences, allowing them *not* to do it all.
+To counter AI slop, then, an opposition must now arise to favor the *collective*. Luckily, anyone hoping to make the best art today should *already* know to be a collectivist. After all, to be great means missing out on most things. It means being lop-sided. It means forgoing "eras." Collectivists pool their experiences, allowing them *not* to do it all.
 
 And this is important, because status hierarchies are self-reinforcing. Those at the top have both the will and the way to reward those most like them— and punish those least like them. And since we've made high status those who create collective action problems, this means those who fix them must be at the bottom. Fixing problems, while being scorned as low status for it, is intolerable for an individualist, but par for the course for collectivists.
 

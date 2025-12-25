@@ -6,7 +6,9 @@
         * Remove reference to school in annotation
         * Remove svg logo
     * Cubes no longer animate in Chrome?
-        * Canary is fine, though.
+        * Version 143
+        * Canary is fine, though
+            * Version 145
 
 * BM
     * Review text
