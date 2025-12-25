@@ -397,7 +397,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Meanwhile, indie tastemakers *aren't* capitalists, and thus needn't see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is [unconsciously shaped](https://www.harpercollins.com/products/the-status-game-will-storr) by status, this means they converge on the same tastes…
+Meanwhile, indie tastemakers *aren't* capitalists, and thus *needn't* see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is [unconsciously shaped](https://www.harpercollins.com/products/the-status-game-will-storr) by status, this means they converge on the same tastes…
 
 So now what, if *your* dream isn't to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, only vice versa… because they crave interdependence as much as you do!
 
@@ -570,7 +570,7 @@ ${'  ' || `
 `}
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." Yet AI simply allows artists to put out far more works, for far less effort— while delivering exactly what the people expect. Which… is how indie rock *itself* took over in the '00s, no? "AI," then, might as well stand for "accelerated indiefication"!
@@ -578,20 +578,29 @@ The new Romantics wistfully recall those last few decades before the rise of sou
 ${'  ' || `
 // TODO: Review a few more times.
 
-Maybe make it more, "At this point, many recognize AI as another collective action problem…"
+Let's face it, AI is simply the latest collective action problem, which— as you'll recall— is when an individual acts in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving all others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. But the indie camp is here to celebrate this *indie*-pendent *indie*-vidual! Which means, under their watch, our worsening problems can only accelerate…
 `}
 
-Let's face it, AI is simply the latest collective action problem, which— as you'll recall— is when an individual acts in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving all others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to behave likewise. And, of course… the indie camp is all about celebrating this *indie*-pendent *indie*-vidual! Which means, under their watch, our worsening problems can only accelerate…
+
+As you'll recall, a collective action problem is one in which an individual acts in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. But the indie camp *celebrates* this *indie*-pendent *indie*-vidual— and AI is simply the latest of such problems! So now, under their watch, the worsening can only accelerate…
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+To counter AI slop, then, an opposition must now arise to favor the *collective*. Luckily, anyone hoping to make the best art today *already* has the mind of a collectivist. After all, to be lopsided, you must have no "fear of missing out": Others *will* enjoy greater experiences, through which you'll live vicariously— and they'll do the same with your achievements.
+
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Which is important, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to reward others like themselves— and an indiefied world grants this high status to artists who leave it *worse* off. By contrast, to *advance* the art form is to be low-status… possibly for a lifetime! Who could tolerate such an arrangement? Only us collectivists.
 
 ${'  ' || `
 // TODO: Keep working on.
 `}
 
-To counter AI slop, then, an opposition must now arise to favor the *collective*. Luckily, anyone hoping to make the best art today should *already* know to be a collectivist. After all, to be great means missing out on most things. It means being lop-sided. It means forgoing "eras." Collectivists pool their experiences, allowing them *not* to do it all.
-
-And this is important, because status hierarchies are self-reinforcing. Those at the top have both the will and the way to reward those most like them— and punish those least like them. And since we've made high status those who create collective action problems, this means those who fix them must be at the bottom. Fixing problems, while being scorned as low status for it, is intolerable for an individualist, but par for the course for collectivists.
-
-Yes, it's strange to move away from individualism, back to collectivism. But if we expect this century to give us a hundred *Yearling's Bobtail*s, then it's helpful to note that the artist who made it *also* came from a more collectivist race, class, and generation. Luckily, with BYCombo, you can now self-select into collectivism.
+It might be no coincidence that the artist who made *Yearling's Bobtail* just so happens to come from a more collectivist race, class, and generation. If we want this century to give us a *hundred* such works, then, we *need* a collectivist counterculture to arise. Luckily, with BYCombo, you can now self-select into collectivism.
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
