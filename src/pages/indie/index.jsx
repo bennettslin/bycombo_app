@@ -573,6 +573,8 @@ The new Romantics wistfully recall those last few decades before the rise of sou
 
 ${'  ' || `
 // TODO: Review a few more times.
+
+Maybe make it more, "At this point, many recognize AI as another collective action problem…"
 `}
 
 Let's face it, AI is simply the latest collective action problem, which— as you'll recall— is when an individual acts in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving all others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to behave likewise. And, of course… the indie camp is all about celebrating this *indie*-pendent *indie*-vidual! Which means, under their watch, our worsening problems can only accelerate…
