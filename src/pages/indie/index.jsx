@@ -588,19 +588,19 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-To counter AI slop, then, an opposition must now arise to favor the *collective*. Luckily, anyone hoping to make the best art today *already* has the mind of a collectivist. After all, to be lopsided, you must have no "fear of missing out": Others *will* enjoy greater experiences, through which you'll live vicariously— and they'll do the same with your achievements.
+To counter AI slop, then, an opposition must now arise to favor the *collective*. Luckily, anyone hoping to make the best art today *already* has the mind of a collectivist. After all, to be lopsided, you must have no "fear of missing out": Others *will* enjoy greater experiences, through which you'll live vicariously— and, in turn, they'll do likewise with your achievements.
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Which is important, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to reward others like themselves— and an indiefied world grants this high status to artists who leave it *worse* off. By contrast, to *advance* the art form is to be low-status… possibly for a lifetime! Who could tolerate such an arrangement? Only us collectivists.
+Which is important, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to reward others like themselves— and an indiefied world grants this high status to artists who leave it *worse* off. To *advance* the art form, then, is to be low-status… possibly for a lifetime! Who could tolerate such an arrangement? Only us collectivists.
 
 ${'  ' || `
 // TODO: Keep working on.
 `}
 
-It might be no coincidence that the artist who made *Yearling's Bobtail* just so happens to come from a more collectivist race, class, and generation. If we want this century to give us a *hundred* such works, then, we *need* a collectivist counterculture to arise. Luckily, with BYCombo, you can now self-select into collectivism.
+Maybe it's no coincidence that the artist who made *Yearling's Bobtail*— namely, yours truly!— just happens to come from a more collectivist race, class, *and* generation. If we want this century to give us a *hundred* such works, then, we *need* a collectivist counterculture to arise. Luckily, with BYCombo, you can now self-select into collectivism.
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
