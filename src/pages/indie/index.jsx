@@ -594,7 +594,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Which is important, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to reward others like themselves— and an indiefied world grants this high status to artists who leave it *worse* off. To *advance* the art form, then, is to be low-status… possibly for a lifetime! Who could tolerate such an arrangement? Only us collectivists.
+Which is important, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to reward others like themselves— and an indiefied world grants this high status to artists who leave it *worse* off. To *advance* the art form, then, is to be low-status… possibly for a lifetime. Who could tolerate such an arrangement? Only us collectivists!
 
 ${'  ' || `
 // TODO: Keep working on.
