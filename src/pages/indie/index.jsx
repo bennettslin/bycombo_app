@@ -393,10 +393,6 @@ Then one day it clicked: I *haven't* met with a hundred such tastemakers. For al
 
 For instance, just as we each get one vote in a democracy, each work gets one chance in an "indieocracy." So indie artists converge on the same strategy of putting out many on a steady basis— each time in response to feedback from the same crowd. Yet the indie labels don't mind the similar results; since they sign just one artist at a time, the well-rounded one is a safe bet *every* time!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Meanwhile, indie tastemakers *aren't* capitalists, and thus *needn't* see what all other investors don't— like, let's say, a low-status no-name's future potential. But in lacking any incentive to up-*end* the status hierarchy, they follow their human nature to up-*hold* it instead. And since taste is [unconsciously shaped](https://www.harpercollins.com/products/the-status-game-will-storr) by status, this means they converge on the same tastes…
 
 So now what, if *your* dream isn't to be well-rounded, but to be exceptionally strong in the ways of art— and thus hopelessly weak in matters of business? Why, BYCombo can help you meet partners who are as lopsided as you, only vice versa… because they crave interdependence as much as you do!
@@ -426,10 +422,6 @@ So if seeking to gain from one's identity— one's *self*, if you will— is the
 ### ${++sectionCounter}. Penultimate tolerance retracts a lifeline
 
 No, Silents weren't rooting for a Black crooner… but this is *exactly* why they embraced Sammy Davis Jr.! They knew he had only one lifeline, like every hungry outsider before him: to try much harder, to be much better than all others. He did just that— so they kept their end of the bargain. Similarly, we Xennials didn't want a White rapper… but then we embraced Eminem.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Yet when I came along in the '00s— trying much harder, to be much better— no indie tastemaker grasped that I was making the same age-old plea: "Judge me by my works *alone*!" Why? My guess is they thought perfect tolerance had been reached, making every identity equal. Now *all* of us could excel at— and thus be judged on— what they value most: having an authentic persona.
 
@@ -471,7 +463,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit," or some other such cliche… and we fell for it every time.
+Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit," or another such cliche… and we fell for it every time.
 
 So yes, the arts have declined— but it *isn't* because the tech platforms listen to science; it's because the indie camp *doesn't*! The only way forward, then, is a new *Enlightenment*, by which we finally work with our human nature as the [research says](https://www.businessinsider.com/cognitive-biases-2015-10) it is, not as we wish it to be— for the first time this century. And if you join BYCombo… you can help us usher it in.
 
