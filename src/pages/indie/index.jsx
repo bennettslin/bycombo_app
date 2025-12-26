@@ -273,7 +273,11 @@ BYCombo just needs artists like you, who *want* to need a label, to join with th
 
 To "democratize" Twitter, Elon Musk made the blue checkmark available to all, for a [small fee](https://x.com/elonmusk/status/1587498907336118274); he wanted *everyone* to have a voice, not just those verified under legacy criteria. Likewise, the indie camp wants *every* artist to be heard, not just those "verified" by a label— so they encourage the use of online tools that offer all the same benefits, for a portion of one's time and energy.
 
-But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who hustle to *get* the job, rather than simply *deserve* it. Seems bad, no? Well, it's even worse…
+${'  ' || `
+// TODO: Review.
+`}
+
+But here's the problem: Once a mark of verification becomes easy to attain, it ceases to be an honest signal; we can no longer assume that those who have it are worth hearing from. Moreover, the field gets "polluted" by *dis*-honest signaling from the *least* worthy— that is, from opportunists who strive to *get* the job, rather than simply *deserve* it. Seems bad, no? Well, it's even worse…
 
 You see, pollution is [an example](https://blogs.cornell.edu/info2040/2012/09/24/prisoners-dilemma-and-the-environment/#:~:text=Using%20the%20example,end%20up%20polluting%29.) of the famous "prisoner's dilemma," where each player must decide: To squeal or not? Similarly, then, democratization requires each artist to decide: To hustle or not? We're all better off if *no one* hustles, of course. But once *anyone* does, they'll hog up all the attention. So now *every* artist must waste time and energy on the hustle!
 
@@ -574,25 +578,25 @@ Let's face it, AI is simply the latest collective action problem, which— as yo
 `}
 
 
-As you'll recall, a collective action problem is one in which an individual acts in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. But the indie camp *celebrates* this *indie*-pendent *indie*-vidual— and AI is simply the latest of such problems! So now, under their watch, the worsening can only accelerate…
+As you'll recall, a collective action problem is one in which individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) while leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants)— thus forcing all others to do the same. But the indie camp *celebrates* this *indie*-pendent *indie*-vidual… and AI is just the latest of such problems! Which means, under their watch, the worsening can only accelerate…
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-To counter AI slop, then, an opposition must now arise to favor the *collective*. Luckily, anyone hoping to make the best art today *already* has the mind of a collectivist. After all, to be lopsided, you must have no "fear of missing out": Others *will* enjoy greater experiences, through which you'll live vicariously— and, in turn, they'll do likewise with your achievements.
+To counter AI slop, then, an opposition must now arise to favor the *collective*. Luckily, anyone hoping to make the best art today *already* has the mind of a collectivist. After all, to be lopsided, you *can't* have any "fear of missing out": Others *will* enjoy greater experiences, through which you'll live vicariously; in turn, they'll do likewise with your achievements.
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Which is important, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to reward others like themselves— and an indiefied world grants this high status to artists who leave it *worse* off. To *advance* the art form, then, is to be low-status… possibly for a lifetime. Who could tolerate such an arrangement? Only us collectivists!
+And this matters, because status hierarchies are self-reinforcing: The ones at the top have both the will *and* the way to reward others like themselves— and an indiefied world grants this high status to those who strive hardest to *get* the job. To focus on simply *deserving* it, then, will make you low-status… possibly forever. Who'd tolerate such an arrangement? Only a collectivist!
 
 ${'  ' || `
 // TODO: Keep working on.
 `}
 
-Maybe it's no coincidence that the artist who made *Yearling's Bobtail*— namely, yours truly!— just happens to come from a more collectivist race, class, *and* generation. If we want this century to give us a *hundred* such works, then, we *need* a collectivist counterculture to arise. Luckily, with BYCombo, you can now self-select into collectivism.
+Anyway, when all is said and done, the artist who made *Yearling's Bobtail*— namely, me!— just so happens to come from a more collectivist race, class, *and* generation. Perhaps this is no coincidence? If we want a *hundred* such works this century, then, we need a collectivist counterculture to arise. Luckily, with BYCombo, you can now self-select into collectivism.
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
