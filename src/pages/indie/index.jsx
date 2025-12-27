@@ -21,7 +21,13 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 
 ### The revolution will *not* be decentralized
 
+${'  ' || `
+// TODO: Review a few more times.
+
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see any downside to what I call "indiefication"— namely, their goal for *all* of us to spread our works from the bottom up, instead of the top down. But as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
+`}
+
+First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to hustle and *get* the job, rather than rely on others to say we *deserve* it. As a result, any ideal that serves this goal now passes for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=All%20the%20time,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And such awareness leads to revolution… how?"
 
@@ -577,7 +583,7 @@ ${'  ' || `
 Let's face it, AI is simply the latest collective action problem, which— as you'll recall— is when an individual acts in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving all others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. But the indie camp celebrates this *indie*-pendent *indie*-vidual! Which means, under their watch, the worsening can only accelerate…
 `}
 
-Remember, collective action problems are those in which an individual acts in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) while leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants)— thus forcing others to do the same. Well, AI is just the latest such problem… and the indie camp is all about *celebrating* this *indie*-pendent *indie*-vidual! Which means, under their watch, the worsening can only accelerate…
+As you'll recall, collective action problems are those in which an individual acts in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) while leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants)— thus forcing others to do the same. But the indie camp is all about *celebrating* this *indie*-pendent *indie*-vidual… and AI is just the latest such problem! Which means, under their watch, the worsening can only accelerate…
 
 ${'  ' || `
 // TODO: Review a few more times.
@@ -593,6 +599,8 @@ And this matters, because status hierarchies are self-reinforcing: The ones at t
 
 ${'  ' || `
 // TODO: Keep working on. Maybe mention AI one more time.
+
+"Thankfully, I started BYCombo precisely to see a hundred more such works."
 `}
 
 Because, let's face it, the artist who made *Yearling's Bobtail*— namely, me!— just happens to come from a *less* individualistic [race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=Our%20body%20of,influence%20take%20precedence.), and [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Perhaps this is no coincidence? So if we want a hundred *more* such works, a collectivist counterculture *needs* to arise. With BYCombo, you can now self-select into collectivism.
