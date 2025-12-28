@@ -21,15 +21,9 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 
 ### The revolution will *not* be decentralized
 
-${'  ' || `
-// TODO: Review lack of change.
-
-First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to hustle and *get* the job, rather than rely on others to say we *deserve* it. As a result, any ideal that serves this goal now passes for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
-`}
-
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see any downside to what I call "indiefication"— namely, their goal for *all* of us to spread our works from the bottom up, instead of the top down. But as a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=All%20the%20time,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And such awareness leads to revolution… how?"
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, have what it takes to go "from one to *n*"— to get the public to care; whereas a tastemaker does it the other way around. "Okay. And such awareness leads to revolution… how?"
 
 Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. Tastemakers, however, prefer an artist who's *already* gone from zero to one, and thus *already* enjoys high status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
 
