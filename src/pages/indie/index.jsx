@@ -571,11 +571,9 @@ The new Romantics wistfully recall those last few decades before the rise of sou
 
 ${'  ' || `
 // TODO: Review a few more times.
-
-Let's face it, AI is simply the latest collective action problem, which— as you'll recall— is when an individual acts in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving all others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. But the indie camp celebrates this *indie*-pendent *indie*-vidual! Which means, under their watch, the worsening can only accelerate…
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. Yet— as we've also seen— the indie camp has sworn to *celebrate* such *indie*-pendent *indie*-viduals! Which means, in our indiefied world, this worsening can only accelerate…
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. Yet— as we've also seen— the indie camp has sworn to *celebrate* these *indie*-pendent *indie*-viduals! Which means, in an indiefied world, this worsening can only accelerate…
 
 ${'  ' || `
 // TODO: Review a few more times.
@@ -587,7 +585,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and an indiefied world grants this high status to the ones who strive most to *get* the job. To focus on simply *deserving* it, then, is to be low in status… possibly for life. In which case, who'd ever try? Only us collectivists!
+And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and an indiefied world grants this high status to the ones who strive most to *get* the job. To focus on simply *deserving* it, then, is to be low in status… possibly for life. In which case, who'd ever try? No one but us collectivists!
 
 ${'  ' || `
 // TODO: Keep working on. Maybe mention AI one more time.
@@ -595,7 +593,7 @@ ${'  ' || `
 "Thankfully, I started BYCombo precisely to see a hundred more such works."
 `}
 
-Plus, one final point: The artist who made *Yearling's Bobtail*— namely, me!— just happens to come from a *less* individualistic [race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=Our%20body%20of,influence%20take%20precedence.), and [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Perhaps this is no coincidence? So if we want a hundred *more* such works, a collectivist counterculture *needs* to arise. With BYCombo, you can now self-select into collectivism.
+Okay, one final point: The artist who made *Yearling's Bobtail*— namely, me!— just happens to come from a *less* individualistic [race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=Our%20body%20of,influence%20take%20precedence.), and [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Perhaps this is no coincidence? So if we want a hundred *more* such works, a collectivist counterculture *needs* to arise. With BYCombo, you can now self-select into collectivism.
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
