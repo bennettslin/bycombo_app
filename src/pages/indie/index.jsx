@@ -561,13 +561,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." Yet AI simply allows artists to put out far more works, for far less effort— while delivering exactly what the people expect. But… this is how indie rock *itself* took over in the '00s, no? "AI," then, might as well stand for "accelerated indiefication"!
+The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows artists to put out far more works, for far less effort— while delivering exactly what the people expect. And this is how indie rock *itself* took over in the '00s, no? "AI," then… might as well stand for "accelerated indiefication"!
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. Yet— as we've also seen— the indie camp has sworn to celebrate these *indie*-pendent *indie*-viduals! Which means, in an indiefied world, this worsening can only accelerate…
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. And yet— as we've also seen— the indie camp has sworn to celebrate these *indie*-pendent *indie*-viduals! Which means, in an indiefied world, this worsening can only accelerate…
 
 ${'  ' || `
 // TODO: Review a few more times.
