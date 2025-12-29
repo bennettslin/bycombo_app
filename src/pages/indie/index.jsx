@@ -561,13 +561,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." Yet AI simply allows artists to put out far more works, for far less effort— while delivering exactly what the people expect. But this is how indie rock *itself* took over in the '00s, no? "AI," then, might as well stand for "accelerated indiefication"!
+The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." Yet AI simply allows artists to put out far more works, for far less effort— while delivering exactly what the people expect. But… this is how indie rock *itself* took over in the '00s, no? "AI," then, might as well stand for "accelerated indiefication"!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. Yet— as we've also seen— the indie camp has sworn to *celebrate* these *indie*-pendent *indie*-viduals! Which means, in an indiefied world, this worsening can only accelerate…
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. Yet— as we've also seen— the indie camp has sworn to celebrate these *indie*-pendent *indie*-viduals! Which means, in an indiefied world, this worsening can only accelerate…
 
 ${'  ' || `
 // TODO: Review a few more times.
@@ -576,10 +576,10 @@ ${'  ' || `
 To counter AI slop, then, a movement must now arise to favor the *collective*. Luckily, if your hope is to make history, chances are good you *already* think like a collectivist: You already know to be lopsided, and thus to have no "fear of missing out"— because you simply *will* miss out. Others *will* enjoy greater experiences, through which you'll live vicariously; in turn, they'll do likewise with your achievements.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
-And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and an indiefied world grants this high status to the ones who strive most to *get* the job. To focus on simply *deserving* it, then, is to be low in status… possibly for life. In which case, who'd ever try? No one but us collectivists!
+And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and an indiefied world grants this high status to the ones who strive most to *get* the job. To focus on simply *deserving* it, then, is to be low-status— possibly for life. In which case, who'd ever try? No one… but us collectivists!
 
 ${'  ' || `
 // TODO: Keep working on. Maybe mention AI one more time.
@@ -587,7 +587,7 @@ ${'  ' || `
 "Thankfully, I started BYCombo precisely to see a hundred more such works."
 `}
 
-Okay, one final point: The artist who made *Yearling's Bobtail*— namely, me!— just happens to come from a *less* individualistic [race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=Our%20body%20of,influence%20take%20precedence.), and [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Perhaps this is no coincidence? So if we want a hundred *more* such works, a collectivist counterculture *needs* to arise. With BYCombo, you can now self-select into collectivism.
+Here's a final point: The artist who made *Yearling's Bobtail*— namely, me!— just happens to come from a *less* individualistic [race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=Our%20body%20of,influence%20take%20precedence.), and [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Perhaps this is no coincidence? So if we want a hundred *more* such works, a collectivist counterculture *needs* to arise. With BYCombo, you can now self-select into collectivism.
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
