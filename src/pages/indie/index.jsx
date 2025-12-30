@@ -571,7 +571,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. And yet— as we've also seen— the indie camp is here to *celebrate* these *indie*-pendent *indie*-viduals! So now, under their watch, this worsening can only accelerate…
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. And yet— as we've also seen— the indie camp is here to *celebrate* these *indie*-pendent *indie*-viduals! So now, with them in charge, the worsening can only accelerate…
 
 ${'  ' || `
 // TODO: Revise. I don't think it makes the collectivist point. Make it more clear that you have to forgo most experiences.
@@ -586,13 +586,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and an indiefied world grants this high status to artists who strive hardest to *get* the job. To focus on simply *deserving* it, then, is to be low-status— possibly for life! So who'd ever try? No one… but us collectivists.
+And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and an indiefied world grants this high status to artists who strive hardest to *get* the job. To double down on simply *deserving* it, then, is to be low in status— possibly for life! So who'd ever try? No one… but us collectivists.
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review. Review links.
 `}
 
-Let's face it, the artist who made *Yearling's Bobtail*— i.e., me!— just happens to be from a more [collectivist race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=The%20mismatch%20between,exploring%20personal%20passions.), and [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Yes, the Romantics rose up as *individualists*; but what if it's *only* because they lived in collectivist times? In that case, come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in our individualistic times!
+Let's face it, the artist who made *Yearling's Bobtail*— i.e., me!— just happens to be from a more [collectivist race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=The%20mismatch%20between,exploring%20personal%20passions.), and [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Yes, the Romantics rebelled as *individualists*; but what if it's only *because* theirs was a collectivist world? In that case, come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in our individualistic times!
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
