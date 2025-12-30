@@ -10,6 +10,10 @@
         * Canary is fine, though
             * Version 145
 
+* BM
+    * Review
+    * Publish
+
 * BYC
     * Sentences with ellipsis in between instead of a third em-dash:
         * A gatekeeper helps to take…
