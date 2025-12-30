@@ -569,19 +569,21 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows artists to put out far more works, for far less effort— while delivering exactly what the people expect. And this is how indie rock *itself* took over in the '00s, no? So "AI"… could easily stand for "accelerated indiefication"!
+The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while delivering exactly what the people expect. And this is how indie rock *itself* took over in the '00s, no? "AI," then… could easily stand for "accelerated indiefication"!
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. And yet— as we've also seen— the indie camp is dead set on *celebrating* these *indie*-pendent *indie*-viduals! So now, in our indiefying world, this worsening can only accelerate…
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. And yet— as we've also seen— the indie camp is committed to *celebrating* any such *indie*-pendent *indie*-vidual! So now, in our indiefying world, this worsening can only accelerate…
 
 ${'  ' || `
-// TODO: Revise. I don't think it makes the collectivist point. Make it more clear that you choose not to have most experiences.
-`}
+// TODO: Revise. I don't think it makes the collectivist point. Make it more clear that you have to forgo most experiences.
 
 To counter AI slop, then, a new movement must arise to favor the *collective*. Luckily, if your hope is to make history, chances are good you *already* think like a collectivist: You already find fulfillment in the experiences of others, just like they were your own— knowing it's the only way others will feel the same about your achievements.
+`}
+
+To counter AI slop, then, a new movement must arise to favor the *collective*. Luckily, if your hope is to make history, chances are good you *already* think like a collectivist: Being the best doesn't just mean sticking to one job; it also means living one life. You'll simply need to find fulfillment in those of others, just like they were your own— knowing it's the only way others will feel the same about your achievements.
 
 
 ${'  ' || `
@@ -594,7 +596,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Remember, the artist who made *Yearling's Bobtail*— i.e., me!— just happens to be from a more collectivist [race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=The%20mismatch%20between,exploring%20personal%20passions.), and [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Yes, the Romantics rebelled as individualists; but what if it's *only* because theirs was a collectivist world? In that case, come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in our *individualistic* times!
+Remember, the artist who made *Yearling's Bobtail*— i.e., me!— just happens to be from a more [collectivist race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=The%20mismatch%20between,exploring%20personal%20passions.), and [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Yes, the Romantics rose up as *individualists*; but what if it's only *because* they lived in collectivist times? In that case, come join BYCombo, and help to give us a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in our individualistic times!
 
 ### ${++sectionCounter}. Consequentialists care about impact
 

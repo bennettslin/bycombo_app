@@ -59,7 +59,7 @@ Worst of all, if the major labels are "bad guys," then this makes the indies "go
 
 **As the first rock movement to hold its ideals to be universal, indie rock is also the first to lock its rules in place. Which means there's no historical precedent to teach us how to resist… or even to tell us that we *can*.**
 
-### A hundred *Yearling's Bobtail*s
+### A hundred more *Yearling's Bobtail*s
 
 If we can't resist, though— let's revolt! How? We… wait. See, indie rock has *another* glaring weakness: In judging artists by the size of their fanbase, its tastemakers end up favoring *content*— namely, art that's optimized to gain fans in the *present*. But content has no *future* chances… and to prove this, we just need time to pass.
 
