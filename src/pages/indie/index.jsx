@@ -137,10 +137,6 @@ By supporting artists, then, we're both needlessly kind to the ones at the top, 
 
 Well… we're *all* free to make art, right? Which means the government must first separate "real" artists, who need its support, from mere hobbyists, who don't. Whatever criteria it chooses, though, will be based on the way artists have *always* worked. So anyone trying to start a *new* paradigm— to rethink how art can be made, or by whom— will be dismissed as a hobbyist!
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Furthermore, it's up to each of us to decide that we've studied and practiced long enough, and now our years as a working artist may begin. Yet if a living wage is what's at stake, then who wouldn't want those years to begin *sooner*? Meanwhile, anyone making dense and complex works that require decades of quiet preparation… will be paying their own way the *whole* time.
 
 To be clear, I'm not against subsidizing, let's say, music education. But when we support artists in *particular*, the ones most likely to make history… stand to gain the *least*! Luckily, I realized this early on— having only *ever* been seen as a hobbyist by the indie camp. Now BYCombo lets you find partners who'd rather give amnesty to the best, than charity to all the rest.
@@ -539,7 +535,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if they were assembled into bands, allowing them to combine mediums in unprecedented ways? At long last… they'd be the real heroes! So come join BYCombo, and explore *another* frontier— by having a dancer, illustrator, or puppeteer for a bandmate.
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered artists to hustle. But what if we were assembled into bands, allowing us to combine mediums in unprecedented ways? At long last… we'd be the real heroes! So come join BYCombo, and explore *another* frontier— by having a dancer, illustrator, or puppeteer for a bandmate.
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
@@ -575,7 +571,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. And yet— as we've also seen— the indie camp is committed to *celebrating* any such *indie*-pendent *indie*-vidual! So now, in our indiefying world, this worsening can only accelerate…
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. And yet— as we've also seen— the indie camp is here to *celebrate* these *indie*-pendent *indie*-viduals! So now, under their watch, this worsening can only accelerate…
 
 ${'  ' || `
 // TODO: Revise. I don't think it makes the collectivist point. Make it more clear that you have to forgo most experiences.
@@ -596,7 +592,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Need proof? The artist who made *Yearling's Bobtail*— i.e., me!— just happens to be from a more [collectivist race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=The%20mismatch%20between,exploring%20personal%20passions.), and [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Yes, the Romantics rose up as *individualists*; but what if it's only *because* they lived in collectivist times? In that case, come join BYCombo, and help to give us a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in our individualistic times!
+Let's face it, the artist who made *Yearling's Bobtail*— i.e., me!— just happens to be from a more [collectivist race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=The%20mismatch%20between,exploring%20personal%20passions.), and [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Yes, the Romantics rose up as *individualists*; but what if it's *only* because they lived in collectivist times? In that case, come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in our individualistic times!
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
