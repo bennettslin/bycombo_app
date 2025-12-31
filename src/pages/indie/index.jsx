@@ -217,7 +217,11 @@ By contrast, the indie labels sign just one artist at a time, so they go with th
 
 ### ${++sectionCounter}. Creativity gets its chance from the clueless
 
-In the past, the indie tastemakers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. What's not to like? Well, in *my* case… this is what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
+${'  ' || `
+// TODO: Review.
+`}
+
+In the past, the indie tastemakers stayed close to their local scenes, making them both "in the know" and "one of us." And now online, they offer the same assurance: What they like is what others like *us* have liked— which means it's what *we'll* like. "What's not to like?" Well, in *my* case… this is what led them to reject *Yearling's Bobtail*— my "*Ulysses* of rock albums"!
 
 What confused me is that I'd [explicitly set out](https://yearlingsbobtail.com/8-good-night-sita/?verse=61&annotation=40) to make a [work of art](https://yearlingsbobtail.com/10-constellations/?verse=1&annotation=9) whose creativity *can't* be disputed. Only later did it hit me: If a tastemaker is one of *us*, then this is the *last* thing they'd want— since it's the last thing *we* want. Our human nature is to [*dis*-like creativity](http://archive.today/2024.08.26/https://www.nytimes.com/2022/04/16/science/creativity-implicit-bias.html); we just don't realize this, because whatever it is we *do* like… we simply call *that* the creative idea of our times!
 
@@ -451,7 +455,11 @@ By contrast, the indie labels simply pick what the people want, going by the siz
 
 So when the tech platforms arrived to disrupt the majors using data-driven methods, the indie camp was *fully* on board. I still recall how they rushed to defend file sharing: "Real artists earn a living by going on tour. Recordings are just for publicity; they *should* be free!" And social networks: "Real artists engage with their fans after a show— and now they can at *any* time!"
 
-To sum up, it was the *indie camp* who gave us today's [data-driven](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music) industry! Thanks to them— and their grievances— even the *majors* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) indies now, by forcing you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers… but to pursue a vision that few others see.
+${'  ' || `
+// TODO: Review link position change.
+`}
+
+To sum up, it was the *indie camp* [who gave us](https://www.theguardian.com/music/2014/nov/17/steve-albini-at-face-the-music-how-the-internet-solved-problem-with-music) today's data-driven industry! Thanks to them— and their grievances— even the *majors* [behave like](https://www.honest-broker.com/p/record-labels-dig-their-own-grave#:~:text=Record%20labels%20have%20lost,record%20labels%20anymore.) indies now, by forcing you to empower yourself using online tools. The only way to revolt, then, is to reject indie rock *itself*. This is why BYCombo tells you *not* to boost your numbers… but to pursue a vision that few others see.
 
 ### ${++sectionCounter}. Unenlightened romanticism is a dark age
 
