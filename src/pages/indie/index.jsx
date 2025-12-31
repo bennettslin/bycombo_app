@@ -628,7 +628,11 @@ In other words, the popular model of an "[upside-down horseshoe](https://en.wiki
 
 Which means we'll [need to quit](https://jasonpargin.substack.com/p/is-modern-mass-media-a-mind-prison#:~:text=The%20reality%20is,to%20peacefully%20cooperate.) "larping" as revolutionaries— that is, to quit equating virtue with *identity*, rather than with *impact*— and instead, master the skills needed to analyze our problems and propose solutions. But how? Beyond acknowledging the messiness of our human nature… we must also appreciate systems in all their complexity.
 
-So if I could get every progressive— in both politics and the arts— to read just one book, it would be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission… and hopefully, it can lead to some of your own!
+${'  ' || `
+// TODO: Review.
+`}
+
+So if I could get every progressive— in both politics and the arts— to read just one book, it'd be [*Thinking in Systems*](https://www.chelseagreen.com/product/thinking-in-systems) by Donella Meadows, who shows us how to understand systems in terms of their connections and feedback loops. It's what led to many of the insights that shaped BYCombo's mission; I'm hoping it can lead to some of your own!
 
 ### ${++sectionCounter}. The simplest explanation is likely correct
 
