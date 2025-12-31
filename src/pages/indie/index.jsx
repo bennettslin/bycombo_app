@@ -565,13 +565,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while delivering exactly what the people expect. And this is how indie rock *itself* took over in the '00s, no? "AI," then… could easily stand for "accelerated indiefication"!
+The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people exactly what they expect. And this is how indie rock *itself* took over in the '00s, no? "AI," then… could easily stand for "accelerated indiefication"!
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. And yet— as we've also seen— the indie camp is here to *celebrate* these *indie*-pendent *indie*-viduals! So now, with them in charge, the worsening can only accelerate…
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. And yet— as we've also seen— the indie camp lives to *support* such *indie*-pendent *indie*-viduals! So now, in our indiefying world, the worsening can only accelerate…
 
 ${'  ' || `
 // TODO: Revise. I don't think it makes the collectivist point. Make it more clear that you have to forgo most experiences.
@@ -586,13 +586,13 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and an indiefied world grants this high status to artists who strive hardest to *get* the job. To double down on simply *deserving* it, then, is to be low in status— possibly for life! So who'd ever try? No one… but us collectivists.
+And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and an indiefied world grants this high status to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low in status— possibly for life! So who'd ever try? No one… but us collectivists.
 
 ${'  ' || `
-// TODO: Review. Review links.
+// TODO: Review. Also review links.
 `}
 
-Let's face it, the artist who made *Yearling's Bobtail*— i.e., me!— just happens to be from a more [collectivist race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=The%20mismatch%20between,exploring%20personal%20passions.), and [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Yes, the Romantics rebelled as *individualists*; but what if it's only *because* theirs was a collectivist world? In that case, come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in our individualistic times!
+Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a more [collectivist race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=The%20mismatch%20between,exploring%20personal%20passions.), *and* [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Coincidence? I say no. Sure, the old Romantics were individualists… but *only* because they lived in collectivist times. So come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in today's *individualistic* world!
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
@@ -600,7 +600,11 @@ In his book [*The Nineties*](https://www.penguinrandomhouse.com/books/557048/the
 
 As a result, Millennials *readily* sell out, insisting that survival today depends on it— even as they retain the [core belief](https://bennettsamuellin.blogspot.com/2013/06/unjamming-next-generation.html#:~:text=For%20Generation%20X,who%20you%20are.) underlying a *refusal* to do so: "Who you *are* matters more than what you get *done*." But this contradiction gives us the *worst* of both worlds, in which artists brazenly boost their numbers— while we're told to cheer them on, for being the underdogs they are!
 
-Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=For%20mainstream%20rock,were%20overblown%20frauds%3B) to *spurn* those bands.
+${'  ' || `
+// TODO: Review.
+`}
+
+Meanwhile, '90s alternative bands like Nirvana gave us the *best* of both: They wrestled with being sellouts, yet signed with major labels all the same— thus inspiring us Xennials to ditch our *own* individualist concerns for identity, in favor of a collectivist one for impact. So what happened? Millennials are too young to remember: The indie camp [branched off](https://www.avclub.com/part-6-1995-live-bush-and-alanis-morissette-take-th-1798223405#:~:text=For%20mainstream%20rock,were%20overblown%20frauds%3B) to *spurn* such bands.
 
 Then indie rock took over in the '00s… and now faces no opposition in turn. After all, it's the first rock movement based on *ethics*, not *aesthetics*— which means history neither shows us how to rebel… nor even says that we *should*. And with ethics being central to one's identity, Millennials have long insisted that we *shouldn't*— to the detriment of our impact.
 
