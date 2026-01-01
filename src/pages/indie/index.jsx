@@ -575,7 +575,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. And yet— as we've also seen— the indie camp lives to *support* such *indie*-pendent *indie*-viduals! So now, in our indiefying world, the worsening can only accelerate…
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. And yet— as we've also seen— the indie camp is here to *defend* any such *indie*-pendent *indie*-vidual! So now, with them in charge, the worsening can only accelerate…
 
 ${'  ' || `
 // TODO: Revise. I don't think it makes the collectivist point. Make it more clear that you have to forgo most experiences.
@@ -596,7 +596,7 @@ ${'  ' || `
 // TODO: Review. Also review links.
 `}
 
-Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a more [collectivist race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=The%20mismatch%20between,exploring%20personal%20passions.), *and* [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Coincidence? I say no. Sure, the old Romantics were individualists… but *only* because they lived in collectivist times. So come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in today's *individualistic* world!
+Remember, the artist who made *Yearling's Bobtail*— i.e., me!— comes from a more [collectivist race](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative#:~:text=Psychologists%20have%20known,grains%20to%20sow.), [class](http://archive.today/2023.10.15/https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class#:~:text=The%20mismatch%20between,exploring%20personal%20passions.), *and* [generation](https://www.npr.org/2014/10/14/352979540/getting-some-me-time-why-millennials-are-so-individualistic). Coincidence? I say no. Sure, the old Romantics were individualists… but only *because* they lived in collectivist times. So come join BYCombo, and help us deliver a hundred more *Yearling's Bobtail*s— by rebelling as a *collectivist* in today's *individualistic* world!
 
 ### ${++sectionCounter}. Consequentialists care about impact
 
