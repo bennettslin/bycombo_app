@@ -22,7 +22,7 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 ### The revolution will *not* be decentralized
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review. Also review every other use of "zero to one" and "deserving it."
 `}
 
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known… rather than rely on others to say we *deserve* it. As a result, any ideal that serves this goal now passes for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
@@ -31,7 +31,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you* can take yourself "from one to *n*"— to get the public to believe you deserve it; whereas a tastemaker does it vice versa. "Okay. And being aware of this leads to revolution… how?"
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you* can take yourself "from one to *n*"— to convince the public that you deserve it; whereas a tastemaker does it vice versa. "Okay. And being aware of this leads to revolution… how?"
 
 Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. Tastemakers, however, prefer an artist who's *already* gone from zero to one, and thus *already* enjoys high status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
 
@@ -221,7 +221,11 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
-In the past, bands relied on *others* to make them known— to take them "from zero to one." In turn, it was on *them* to get the public to care— to go "from one to *n*"— and so they'd explore at will, hoping to find the unexpected. But today, indie artists get *themselves* known— leaving them reluctant to experiment, for fear of losing hard-won fans.
+${'  ' || `
+// TODO: Review.
+`}
+
+In the past, you needed *partners* to make you known— to take you "from zero to one." It was then on *you*, the artist, to convince the public that you deserve it— to go "from one to *n*." And so you'd start out by exploring at will, hoping to find the unexpected. But today, indie artists get *themselves* known… leaving them reluctant to experiment, for fear of losing hard-won fans.
 
 Meanwhile, the major labels in their heyday had hefty budgets to work with, which allowed them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd keep a few slots open for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
 
