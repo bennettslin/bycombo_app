@@ -22,16 +22,16 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 ### The revolution will *not* be decentralized
 
 ${'  ' || `
-// TODO: Review. Also review every other use of "zero to one" and "deserving it."
+// TODO: Review a few more times. Also review again every other use of "zero to one" and "deserving it."
 `}
 
-First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known… rather than rely on others to say we *deserve* it. As a result, any ideal that serves this goal now passes for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
+First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for *all* of us to get ourselves known… rather than rely on elites to say we *deserve* it. As a result, any ideal that serves this goal now passes for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 `}
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you* can take yourself "from one to *n*"— to convince the public that you deserve it; whereas a tastemaker does it vice versa. "Okay. And being aware of this leads to revolution… how?"
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if you, on your *own*, can go "from one to *n*"— to convince the public that you deserve it; whereas a tastemaker does it vice versa. "Okay. And being aware of this leads to revolution… how?"
 
 Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. Tastemakers, however, prefer an artist who's *already* gone from zero to one, and thus *already* enjoys high status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
 
@@ -75,9 +75,17 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 
 **Why interdependence?**
 
-Partners are most impactful when helping to make you known as an artist— to take you "from zero to one," as they say. But an indie tastemaker holds off *until* you're known, then helps to make the public care— to take you "from one to *n*." Yet, at that point, their business skills have far less impact…
+${'  ' || `
+// TODO: Review a few more times.
+`}
 
-Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's the latter effort— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
+Partners are most impactful when helping to make you known as an artist— that is, to take you "from zero to one." But an indie tastemaker holds off *until* you're known, then helps to convince the public that you deserve it— to take you "from one to *n*." Yet on this matter, their efforts have far less impact…
+
+${'  ' || `
+// TODO: Review.
+`}
+
+Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's the latter feat— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
 
 **Why demos?**
 
@@ -201,7 +209,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "Whatever happens is what history will remember!" As a result, they [were thrilled](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) to see *anything* happen… and never wondered what could've happened *instead*, had they held out for better works. Still, why didn't more of us try to *show* them how much better a work can be?
+But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "History is whatever happens!" As a result, they were [glad to see](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) *anything* happen, and never wondered what might've happened *instead*, had they held out for better works. Still, why didn't more artists join me in trying to *show* them how much better a work can be?
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
@@ -222,7 +230,7 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 `}
 
 In the past, you needed *partners* to make you known— to take you "from zero to one." It was then on *you*, the artist, to convince the public that you deserve it— to go "from one to *n*." And so you'd start out by exploring at will, hoping to find the unexpected. But today, indie artists get *themselves* known… leaving them reluctant to experiment, for fear of losing hard-won fans.
@@ -551,7 +559,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered us artists to release our own works. But what if we were to combine mediums in unprecedented ways? At long last… we'd be the real heroes! So get ready to explore *another* frontier— by having BYCombo put a dancer, illustrator, or puppeteer in your band.
+Unlike what the indie camp believes, then, music history *won't* care how the Internet empowered us artists to self-release our works. But what if we were to combine mediums in unprecedented ways? At long last… we'd be the real heroes! So get ready to explore *another* frontier— by having BYCombo put a dancer, illustrator, or puppeteer in your band.
 
 ### ${++sectionCounter}. A renaissance of elders awaits
 
