@@ -25,7 +25,7 @@ ${'  ' || `
 // TODO: Review a few more times. Also review again every other use of "zero to one" and "deserving it."
 `}
 
-First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for *all* of us to get ourselves known… rather than rely on elites to say we *deserve* it. As a result, any ideal that serves this goal now passes for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
+First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known… instead of relying on *elites* to say we deserve it. As a result, any ideal that serves this goal now passes for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
 ${'  ' || `
 // TODO: Review a few more times.
@@ -33,7 +33,11 @@ ${'  ' || `
 
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if you, on your *own*, can go "from one to *n*"— to convince the public that you deserve it; whereas a tastemaker does it vice versa. "Okay. And being aware of this leads to revolution… how?"
 
-Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. Tastemakers, however, prefer an artist who's *already* gone from zero to one, and thus *already* enjoys high status. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
+${'  ' || `
+// TODO: Review a few more times.
+`}
+
+Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. Tastemakers, however, prefer the artist who's *already* gone from zero to one, and is now due to gain in status even further. Which means they up-*hold* the hierarchy— putting them on the *right*! So here's what we need to explain:
 
 **By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
@@ -209,7 +213,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "History is whatever happens!" As a result, they were [glad to see](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) *anything* happen, and never wondered what might've happened *instead*, had they held out for better works. Still, why didn't more artists join me in trying to *show* them how much better a work can be?
+But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "History is whatever happens!" As a result, they were [glad to see](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) *anything* happen, and never wondered what might've happened *instead*, had they held out for better works. Still, why didn't more artists join me in *showing* them how much better a work can be?
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
