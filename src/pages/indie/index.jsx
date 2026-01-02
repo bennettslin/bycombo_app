@@ -210,10 +210,10 @@ Yet the past artists we love most *don't* require us to dive into any surroundin
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the world's handwringing in preparation for Y2K.
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review a few more times.
 `}
 
-But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "History is whatever happens!" As a result, they were [glad to see](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) *anything* happen, and never wondered what might've happened *instead*, had they held out for better works. Still, why didn't more artists join me in *showing* them how much better a work can be?
+But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "History is whatever happens!" As a result, they were [glad to see](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) *anything* happen, and never wondered what might've happened *instead*, had they held out for better works. Still, why didn't more artists join with me, and try to *show* them how much better a work can be?
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
