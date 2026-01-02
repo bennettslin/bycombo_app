@@ -331,6 +331,12 @@ Let's imagine, though, that you *refuse* to be indie; you've hustled a few times
 
 So instead, you build yourself up into what a future audience— or romantic partner!— *would* [want you](https://www.yearlingsbobtail.com/7-m/?verse=2&annotation=4) to be, based on theories that you revise and refine over time. Which is also more fun and fulfilling for *you*, right? Yet from what I've seen… the indie tastemakers will never "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
 
+${'  ' || `
+// TODO: Consider revising?
+
+But why would future historians side with past tastemakers who *didn't* care what the audience wants, over past artists who *did*? Like today's gatekeepers, they'll take you "from zero to one," but *not* "one to *n*"— which means they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery… by letting you think in the future.
+`}
+
 But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 
 ### ${++sectionCounter}. Welfare gets cut by past beneficiaries
