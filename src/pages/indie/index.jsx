@@ -25,7 +25,7 @@ ${'  ' || `
 // TODO: Review a few more times. Also review again every other use of "zero to one" and "deserving it."
 `}
 
-First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known… instead of relying on *elites* to say we deserve it. As a result, any ideal that serves this goal now passes for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
+First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than rely on *elites* to say we deserve it. As a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
 ${'  ' || `
 // TODO: Review a few more times.
@@ -37,7 +37,7 @@ ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. Tastemakers, however, prefer the artist who's *already* gone from zero to one, and is now due to gain in status even further. Which means they up-*hold* the hierarchy— putting them on the *right*! So here's what we need to explain:
+Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. Tastemakers, however, prefer the artist who's *already* gone from zero to one, and is now due to gain in status even *further*. Which means they up-*hold* the hierarchy— putting them on the *right*! So here's what we need to explain:
 
 **By telling *all* artists to be indie— in other words, to get themselves known— Millennials swung hard to the artistic right. If the arts are to be saved, then, a counterculture of the left must now rise up to *oppose* indie rock's ideals.**
 
