@@ -22,19 +22,19 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 ### The revolution will *not* be decentralized
 
 ${'  ' || `
-// TODO: Review a few more times. Also review again every other use of "zero to one" and "deserving it."
+// TODO: Review. Also review again every other use of "zero to one" and "deserving it."
 `}
 
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than rely on *elites* to say we deserve it. As a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
 ${'  ' || `
-// TODO: Review a few more times. Revise blog to say "base number of your actual being"?
+// TODO: Review. Revise blog to say "base number of your actual being"?
 `}
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if you, on your *own*, can go "from one to *n*"— to convince the public that you deserve it; whereas a tastemaker does it vice versa. "Okay. And being aware of this leads to revolution… how?"
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, can go "from one to *n*"— to convince the public that you deserve it; whereas a tastemaker does it vice versa. "Okay. And being aware of this leads to revolution… how?"
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one, and is now due to gain status even *further*. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
@@ -80,14 +80,10 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 **Why interdependence?**
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Review.
 `}
 
 Partners are most impactful when helping to make you known as an artist— that is, to take you "from zero to one." But an indie tastemaker holds off *until* you're known, then helps to convince the public that you deserve it— to take you "from one to *n*." Yet on this matter, their efforts have far less impact…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's this latter feat— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
 
@@ -189,7 +185,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket"— at least the best of us aren't. But if a critical darling strikes us as a "lottery" winner, we won't pretend otherwise. And this gets at why critics can be bad at making [timeless judgments](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad): They rarely consider how things look to us *other* artists.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket"— at least the best of us aren't. But if a critical darling strikes us as a "lottery" winner, we won't pretend otherwise. And this gets at why critics are so bad at making [timeless judgments](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad): They rarely consider how things look to us *other* artists.
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is merely artsy, not innovative. And we commit fewer false *negatives*: We'll give radical new ideas a chance, knowing the courage it takes to carry them through. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
 
@@ -541,7 +537,11 @@ Thankfully, some of you now *agree* with me that the arts have declined, and you
 
 ### ${++sectionCounter}. Music recording is its own medium
 
-Now that content is abundant, the new Romantics long for a return to live shows. Yet shows are fleeting by nature… just like content! It's why the best live performers, like content creators, strive to *consistently* deliver; theirs is the ultimate "workhorse art." And music needs that! But who'll deliver this generation's "windfall art"— which calls for betting it all on a *single* chance?
+${'  ' || `
+// TODO: Review.
+`}
+
+Now that content is abundant, the new Romantics long for a return to live shows. Yet shows are fleeting by nature… just like content! It's why the best live performers, like content creators, strive to *consistently* deliver; theirs is the ultimate "workhorse art." And music needs that! But who'll deliver this century's "windfall art"— which calls for betting it all on a *single* chance?
 
 To make *Pet Sounds*, Brian Wilson pushed the studio to its limits, never once considering how the album now seen as his masterpiece might be recreated live. As home studios grew affordable in the '00s, then, I foresaw a revival in which hundreds of unknown artists would take the art of music recording to new heights, each by making a [stellar demo](https://yearlingsbobtail.com/6-ash-wednesday/?verse=10&annotation=17)— and so I set to [work on mine](https://yearlingsbobtail.com/16-cremated/?verse=1&annotation=4).
 
