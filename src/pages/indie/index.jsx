@@ -21,21 +21,9 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 
 ### The revolution will *not* be decentralized
 
-${'  ' || `
-// TODO: Review.
-`}
-
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than rely on *elites* to say we deserve it. As a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, can go "from one to *n*"— to convince the public that you deserve it; whereas a tastemaker does it vice versa. "Okay. And being aware of this leads to revolution… how?"
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one, and is now due to gain status even *further*. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
 
@@ -79,10 +67,6 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 
 **Why interdependence?**
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Partners are most impactful when helping to make you known as an artist— that is, to take you "from zero to one." But an indie tastemaker holds off *until* you're known, then helps to convince the public that you deserve it— to take you "from one to *n*." Yet on this matter, their efforts have far less impact…
 
 Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's this latter feat— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
@@ -112,10 +96,6 @@ Here are fifty ways…
 In the '90s, "indie" referred to bands like Pavement, who'd only *ever* signed to an indie label. Since Nirvana and Radiohead were on *major* labels, then, this [made them](https://substack.com/@bobtail/note/c-106073033) alternative, not indie— as Gen X knows. To Millennials, though, a band is indie if they *sound* indie… so now they're waiting for the *indies* to give us the next Nirvana or Radiohead. Oof! How did they get so confused?
 
 Simply put, indie rock doesn't know what it stands *for*, only whom it stands *against*: the majors and their middlemen. Like MAGA, it's a culture driven by anti-establishment grievances— and as such, it shares the same weakness for confusion. After all: "Who cares if those on our side are confused in their beliefs? This is what fires them up to tear down the system!"
-
-${'  ' || `
-// TODO: Review link change.
-`}
 
 For instance, even after Goatse proved that the Internet caters to the lowest common denominator… the indie camp concluded that going viral is the new [word-of-mouth](http://archive.today/2025.03.05/https://pitchfork.com/reviews/albums/1811-clap-your-hands-say-yeah/#:~:text=While%20a%20lot,supposed%20to%20work!) buzz?! And when Amanda Palmer crowdfunded her way to a million dollars upon leaving a major… this was seen as proof that artists *don't* benefit from a label deal?! Yes, I'm talking about the former [human statue](https://www.ted.com/talks/amanda_palmer_the_art_of_asking)!
 
@@ -185,11 +165,7 @@ By blocking access to the majors, then, indie rock *didn't* help the most worthy
 
 The reverse is also true, of course: Those who'd settle for a "thousand true fans" *won't* try to make the best art. Yet indie rock wants a "long tail" of such artists! So how are *any* of them expected to make history? The critics have a plan: Pick a few to represent the underdogs of our times, then rally around them. After all: "Who wouldn't root for an underdog to win?"
 
-${'  ' || `
-// TODO: Review.
-`}
-
-Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket"— at least the best of us aren't. But if a critical darling strikes us as a "lottery" winner, we won't pretend otherwise. And this gets at why critics are so bad at making [timeless judgments](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad): They rarely consider how things look to us *other* artists.
+Um… all of us other artists who *weren't* picked, that's who! To be clear, we're not "crabs in a bucket"— at least the best of us aren't. But if a critical darling strikes us as a "lottery" winner, we won't pretend otherwise. And this gets at why critics [are so bad](https://www.honest-broker.com/p/why-did-the-beatles-get-so-many-bad) at making timeless judgments: They rarely consider how things look to us *other* artists.
 
 Because we're invested in the creative process ourselves, we commit fewer false *positives*: We know when a work that gets rave reviews is merely artsy, not innovative. And we commit fewer false *negatives*: We'll give radical new ideas a chance, knowing the courage it takes to carry them through. In short, what historians will see in *time*… other artists [come closest](https://www.gsb.stanford.edu/insights/managers-are-not-best-judge-creative-ideas#:~:text=Berg%20attributes%20creators,ideas%20may%20succeed.%E2%80%9D) to seeing *today*.
 
@@ -340,7 +316,7 @@ Let's imagine, though, that you *refuse* to be indie; you've hustled a few times
 So instead, you build yourself up into what a future audience— or romantic partner!— *would* [want you](https://www.yearlingsbobtail.com/7-m/?verse=2&annotation=4) to be, based on theories that you revise and refine over time. Which is also more fun and fulfilling for *you*, right? Yet from what I've seen… the indie tastemakers will never "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
 
 ${'  ' || `
-// TODO: Review a few more times.
+// TODO: Revise. Make it clear that historians think more in line with gatekeepers, who treat artists as investments.
 
 But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 `}
@@ -550,10 +526,6 @@ Look… either it's an advantage to hustle, or it *isn't* a disadvantage not to.
 Thankfully, some of you now *agree* with me that the arts have declined, and you're ready to walk away from this delusion of pro-artist unity! But where to? Why, you can join us at BYCombo, and stand fiercely for the artistic *left*… knowing that those on the *right*— the indie camp— are still good people.
 
 ### ${++sectionCounter}. Music recording is its own medium
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Now that content is abundant, the new Romantics long for a return to live shows. Yet shows are fleeting by nature… just like content! It's why the best live performers, like content creators, strive to *consistently* deliver; theirs is the ultimate "workhorse art." And music needs that! But who'll deliver this century's "windfall art"— which calls for betting it all on a *single* chance?
 
