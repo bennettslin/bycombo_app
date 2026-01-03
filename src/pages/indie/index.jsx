@@ -193,7 +193,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "History is whatever happens!" As a result, they were [glad to see](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) *anything* happen, and never wondered what might've happened *instead*, had they held out for better works. Still, why didn't more artists join with me, and try to *show* them how much better a work can be?
+But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "History is whatever happens!" As a result, they were [glad to see](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) *anything* happen, and never wondered what might've happened *instead*, had they held out for better works. Still, why didn't more artists join with me in *showing* them how much better a work can be?
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
 
@@ -217,7 +217,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the past, you needed *partners* to make you known— to take you "from zero to one." It'd then be on *you*, the artist, to convince the public that you deserve it— to go "from one to *n*." And so you'd explore at will, hoping to discover the unexpected. But today, indie artists get *themselves* known, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
+In the past, you needed *partners* to make you known— to take you "from zero to one." It'd then be on *you*, the artist, to convince the public that you deserve it— to go "from one to *n*"— and so you'd explore at will, hoping to discover the unexpected. But today, indie artists get *themselves* known, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
 
 Meanwhile, the major labels in their heyday had hefty budgets to work with, which allowed them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd keep a few slots open for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
 
