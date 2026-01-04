@@ -523,7 +523,11 @@ Back when content was scarce, joining a scene— goth, punk— was a full-time e
 
 Furthermore: "If 99% of us can see we're all in this together, then you'd best believe the other 1% is *that* awful. Still, we can beat them on size alone!" So Millennials never learned to disagree, but instead to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— leading political progressives to unite with right-wing populists against the left's elites! And in the arts, it's the same muddled thinking…
 
-Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that the same labels reject *another* artist, for *not* having a proven fanbase. This time the crowd boos. Except… the one scenario leads to the other, doesn't it? So how are the *labels* to blame?!
+${'  ' || `
+// TODO: Review.
+`}
+
+Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that these same labels reject *another* artist, for *lacking* a proven fanbase. This time the crowd boos. Except… the one scenario leads to the other, doesn't it? So how are the *labels* to blame?!
 
 Look… either it's an advantage to hustle, or it *isn't* a disadvantage not to. You *can't* want both; they're opposite outcomes! Yet when I pointed this out in the '00s… no one backed me up. Worse, by threatening their delusion that artists can— and thus *should*— be united, I became that 1% for the other 99% to beat down… like the brutalized child in Ursula Le Guin's [fictional utopia](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas).
 
