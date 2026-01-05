@@ -211,6 +211,8 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 
 ${'  ' || `
 // TODO: Revise. Make more about zero?
+
+In the past, you needed *partners* to make you known— to take you "from zero to one." It'd then be on *you*, the artist, to convince the public that you deserve it— to go "from one to *n*"— and so you'd explore at will, hoping to discover the unexpected. But today, indie artists get *themselves* known, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
 `}
 
 In the past, you needed *partners* to make you known— to take you "from zero to one." It'd then be on *you*, the artist, to convince the public that you deserve it— to go "from one to *n*"— and so you'd explore at will, hoping to discover the unexpected. But today, indie artists get *themselves* known, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
