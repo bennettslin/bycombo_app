@@ -215,7 +215,9 @@ ${'  ' || `
 In the past, you needed *partners* to make you known— to take you "from zero to one." It'd then be on *you*, the artist, to convince the public that you deserve it— to go "from one to *n*"— and so you'd explore at will, hoping to discover the unexpected. But today, indie artists get *themselves* known, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
 `}
 
-In the past, you needed *partners* to make you known— to take you "from zero to one." It'd then be on *you*, the artist, to convince the public that you deserve it— to go "from one to *n*"— and so you'd explore at will, hoping to discover the unexpected. But today, indie artists get *themselves* known, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
+In the past, you needed *partners* to make you known— to take you "from zero to one." 
+
+It'd then be on *you*, the artist, to convince the public that you deserve it— to go "from one to *n*"— and so you'd explore at will, hoping to discover the unexpected. But today, indie artists get *themselves* known, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
 
 Meanwhile, the major labels in their heyday had hefty budgets to work with, which allowed them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd keep a few slots open for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
 
@@ -353,7 +355,11 @@ The issue is that these labels are run by society's most privileged groups— an
 
 So far, though, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
 
-But if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://genius.com/Eminem-white-america-lyrics#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "old-boy network"; with BYCombo, you can partner with a capitalist who'll *happily* assure you, "Yes, I'm in it for the money!"
+${'  ' || `
+// TODO: Review link.
+`}
+
+But if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://www.eminem.com/song/white-america/#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "old-boy network"; with BYCombo, you can partner with a capitalist who'll *happily* assure you, "Yes, I'm in it for the money!"
 
 ### ${++sectionCounter}. Elitism is the great equalizer
 
