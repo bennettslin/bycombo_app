@@ -23,10 +23,6 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than rely on *elites* to say we deserve it. As a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
-${'  ' || `
-// TODO: Review.
-`}
-
 And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, can go "from one to *n*"— to convince the public that you deserve it; whereas, for a tastemaker, the roles are reversed. "Okay, and this awareness leads to revolution… how?"
 
 Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one, and is now due to gain status even *further*. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
@@ -193,10 +189,6 @@ Yet the past artists we love most *don't* require us to dive into any surroundin
 
 Guess who thought music was already worse by the '90s? [Kurt Cobain](https://www.harpercollins.com/products/the-amplified-come-as-you-are-michael-azerrad)! He didn't think Gen X could rival the Silents and Boomers who started the rock renaissance. Of course, this "[anxiety of influence](https://en.wikipedia.org/wiki/Anxiety_of_influence)" is precisely what got them to try much harder, to be much better, thus averting any predicted disaster— like the world's handwringing in preparation for Y2K.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 But in hindsight, it all *seemed* to be much ado about nothing— so Millennials drew the wrong lesson: "History is whatever happens!" As a result, they were [glad to see](https://bennettsamuellin.blogspot.com/2013/05/undoing-stupid-damage.html#:~:text=In%20other%20words%2C%20their,be%20a%20schlep.) *anything* happen, and never wondered what might've happened *instead*, had they held out for better works. Still, why didn't more artists join with me in *showing* them how much better a work can be?
 
 Well, let's examine today's options. An artist can hustle to build a fanbase— which yields *compound* returns, as each fan brings in new fans; plus, with no talent scouts to discover them, it's a huge disadvantage *not* to. Or, they can go above and beyond to make the best works— which yields *diminishing* returns for every *increase* in effort; yet, by definition, it *isn't* a disadvantage not to!
@@ -218,7 +210,7 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Revise. Make more about zero?
 `}
 
 In the past, you needed *partners* to make you known— to take you "from zero to one." It'd then be on *you*, the artist, to convince the public that you deserve it— to go "from one to *n*"— and so you'd explore at will, hoping to discover the unexpected. But today, indie artists get *themselves* known, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
@@ -309,21 +301,11 @@ From there, we note that this vast majority only want the *best* artists… and 
 
 Nick Drake was ignored in his own time— yet the next generation made him known to history. Did they need to see him hustle? No, they judged his works! So there's a lesson here for all tastemakers: To discover an artist that future audiences will want to *re*-discover, simply… [think like](https://en.wikipedia.org/wiki/Theory_of_mind) a future audience.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 In the past, the major labels did just that: Their talent scouts would sign *any* artist on the strength of a stellar demo— even a low-status nobody, like Nick. Yet indie rock tells *every* artist to get themselves known… effectively saying they're each entitled to it. As a result, the notion is now vulgar that anyone who doesn't hustle could ever be *made* known— simply by *deserving* it!
 
 Let's imagine, though, that you *refuse* to be indie; you've hustled a few times, and it felt icky… like being a "pickup artist." Because, sure, it's a proven way to get fans— or dates!— but does society *want* this to be the case? Besides, most of us have now grown wise to being "negged"; sooner or later, then, won't we *also* wise up to, let's say, artists milking us for [free labor](https://exiledfan.substack.com/p/revenge-of-the-stans#:~:text=It%E2%80%99s%20easy%20to,Swifties%20Unionize%E2%80%9D%20prank.)?
 
 So instead, you build yourself up into what a future audience— or romantic partner!— *would* [want you](https://www.yearlingsbobtail.com/7-m/?verse=2&annotation=4) to be, based on theories that you revise and refine over time. Which is also more fun and fulfilling for *you*, right? Yet from what I've seen… the indie tastemakers will never "forgive" your defiance. They're loyal to the hustlers— having hustled to get where they are themselves!
-
-${'  ' || `
-// TODO: Review reversion back to original.
-
-But why would any *future* historian feel the same? Like today's gatekeepers, they *won't* care whether you got yourself known— only whether you deserve it. By replacing gatekeepers with tastemakers, then… "indiefication" has put us on the wrong side of history! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
-`}
 
 But why would the next generation side with past tastemakers who *didn't* care what they'd want, over past artists who *did*? In this light, they just might dismiss *all* of indie rock as disposable content! Luckily, BYCombo can make *your* art worthy of rediscovery— by letting you think like a future audience.
 
@@ -522,10 +504,6 @@ Yet my warning remains valid: "Indie rock is this generation's *glam metal*, not
 Back when content was scarce, joining a scene— goth, punk— was a full-time effort; it meant rejecting the rest. This taught Gen X to stand fiercely for their side… knowing that others are still [good people](https://web.archive.org/web/2012/http://www.mitchclem.com/nothingnice/196). Now for Millennials, it's the other way around: Each scene is just an "era" to try on— but any threat to the structures that allow for such "larping"… must be fiercely opposed by *all*.
 
 Furthermore: "If 99% of us can see we're all in this together, then you'd best believe the other 1% is *that* awful. Still, we can beat them on size alone!" So Millennials never learned to disagree, but instead to [hold out](https://en.wikipedia.org/wiki/We_are_the_99%25) for a crushing majority— leading political progressives to unite with right-wing populists against the left's elites! And in the arts, it's the same muddled thinking…
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Let's say an indie artist hustles to build a fanbase on their own, thus making themselves more attractive to the labels. The pro-artist crowd cheers, right? Okay. Now imagine that these same labels reject *another* artist, for *lacking* a proven fanbase. This time the crowd boos. Except… the one scenario leads to the other, doesn't it? So how are the *labels* to blame?!
 
