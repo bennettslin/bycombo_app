@@ -23,7 +23,11 @@ Thus I was forced to struggle in a world that *wouldn't* speak out against indie
 
 First, we raise *awareness*. Since so many of us treat the indie camp as "good guys," few see the pitfalls of what I call "indiefication"— namely, their goal for all of us to get *ourselves* known, rather than rely on *elites* to say we deserve it. As a result, the ideals that serve this goal now pass for *universal*: cutting out the middleman, lowering barriers to entry, respecting fan engagement…
 
-And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, can go "from one to *n*"— to convince the public that you deserve it; whereas, for a tastemaker, the roles are reversed. "Okay, and this awareness leads to revolution… how?"
+${'  ' || `
+// TODO: Review.
+`}
+
+And… of course: replacing elitist gatekeepers with indie tastemakers! What's the difference? A gatekeeper helps to take you "from [zero to one](https://bennettsamuellin.blogspot.com/2012/08/pseudepigrapha.html#:~:text=Because%2C%20when%20you%27re,And%E2%80%A6%20so%20forth.)"— that is, to make you known as an artist… but only if *you*, on your own, can go "from one to *n*"— to convince all others that you deserve it; whereas, for a tastemaker, the roles are reversed. "Okay, and this awareness leads to revolution… how?"
 
 Well, since gatekeepers prefer a low-status no-name with one-to-*n* talents, their aim is to up-*end* the status hierarchy— putting them on the artistic *left*. But tastemakers prefer the artist who's *already* gone from zero to one, and is now due to gain status even *further*. This means they up-*hold* the hierarchy— which puts them on the *right*! So here's what needs to be explained:
 
@@ -67,7 +71,11 @@ To make history, a band must be exceptionally strong in the ways of art. But thi
 
 **Why interdependence?**
 
-Partners are most impactful when helping to make you known as an artist— that is, to take you "from zero to one." But an indie tastemaker holds off *until* you're known, then helps to convince the public that you deserve it— to take you "from one to *n*." Yet on this matter, their efforts have far less impact…
+${'  ' || `
+// TODO: Review.
+`}
+
+Partners are most impactful when helping to make you known as an artist— that is, to take you "from zero to one." But an indie tastemaker holds off *until* you're known, then helps to convince all others that you deserve it— to take you "from one to *n*." Yet on this matter, their efforts have far less impact…
 
 Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's this latter feat— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
 
@@ -210,14 +218,10 @@ But… this won't happen if you're always multitasking. No wonder, then, that "i
 In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant points out that in any hierarchy, the ones eager to take risks are those securely perched at the top, as well as those at the bottom with nothing to lose. The ones in the middle, by contrast, are the most risk-*averse*. Which explains why indie rock is so *un*-original: Its artists *seek* greater standing while its labels *cede* it— so *no one* takes any risks!
 
 ${'  ' || `
-// TODO: Review a few more times.
-`}
-
-In the past, you weren't told to get yourself known— to go "from zero to one," as they say; instead, it was on you to convince others that you deserve it— to go "from one to *n*." And so, as a zero, you'd explore at will, hoping to find the unexpected. But today, *any* artist can be indie, from the get-go— which then leaves them reluctant to experiment, for fear of losing hard-won fans.
-
-${'  ' || `
 // TODO: Review.
 `}
+
+In the past, you weren't told to get *yourself* known— to go "from zero to one," as they say; instead, it was on you to convince *others* that you deserve it— to go "from one to *n*." And so, as a zero, you'd explore at will, hoping to find the unexpected. But today, *any* artist can be indie, from the get-go— which then leaves them reluctant to experiment, for fear of losing hard-won fans.
 
 Meanwhile, the major labels in their heyday had hefty budgets to work with, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd keep several slots open for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
 
@@ -354,10 +358,6 @@ While being alternative is an *artistic* choice, being indie is a *business* sta
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](http://archive.today/2024.05.12/https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality *can't* be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
 So far, though, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
-
-${'  ' || `
-// TODO: Review link.
-`}
 
 But if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://www.eminem.com/song/white-america/#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "old-boy network"; with BYCombo, you can partner with a capitalist who'll *happily* assure you, "Yes, I'm in it for the money!"
 
