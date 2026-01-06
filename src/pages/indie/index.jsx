@@ -211,15 +211,15 @@ In his book [*Originals*](https://adamgrant.net/book/originals), Adam Grant poin
 
 ${'  ' || `
 // TODO: Review a few more times.
-
-In the past, you needed *partners* to make you known— to take you "from zero to one." It'd then be on *you*, the artist, to convince the public that you deserve it— to go "from one to *n*"— and so you'd explore at will, hoping to discover the unexpected. But today, indie artists get *themselves* known, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
-
-In the past, a *label* would make you known— or, take you "from zero to one"— so long as you *alone* could build a case that you deserve it— or, go "from one to *n*." While still a zero, then, you'd explore at will, hoping to come across the unexpected. But today, indie artists get *themselves* known, from the get-go… leaving them reluctant to experiment, for fear of losing hard-won fans.
 `}
 
-In the past, you weren't told to get yourself known— to go "from zero to one," as they say; it was simply on you to convince others that you deserve it— to go "from one to *n*." And so, as a zero, you'd explore at will, hoping to find the unexpected. But today, indie artists get *themselves* known, from the *get-go*… leaving them reluctant to experiment, for fear of losing hard-won fans.
+In the past, you weren't told to get yourself known— to go "from zero to one," as they say; instead, it was on you to convince others that you deserve it— to go "from one to *n*." And so, as a zero, you'd explore at will, hoping to find the unexpected. But today, *any* artist can be indie, from the get-go— which then leaves them reluctant to experiment, for fear of losing hard-won fans.
 
-Meanwhile, the major labels in their heyday had hefty budgets to work with, which allowed them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd keep a few slots open for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
+${'  ' || `
+// TODO: Review.
+`}
+
+Meanwhile, the major labels in their heyday had hefty budgets to work with, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd keep several slots open for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
 
 By contrast, the indie labels sign just one artist at a time, so they go with the safe bet, *every* time, of simply picking what the people want. But people only want what they [know to expect](https://www.goodreads.com/quotes/988332-some-people-say-give-the-customers-what-they-want-but)… thus creating an echo chamber! This is why BYCombo lets you explore and experiment, while you have no fans to lose: It makes you the *smart* bet, for those seated high— or low!— enough to see it.
 
