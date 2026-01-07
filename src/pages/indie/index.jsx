@@ -273,6 +273,10 @@ But being indie is all about gaining public exposure— and this is a zero-sum g
 
 The problem, then, is that indie rock's artistic libertarianism is a *partisan* ideal that gets mistaken as *universal*; thus an "opposition party" has never arisen. So how do we start one? Here's a clue: In Ayn Rand's *Atlas Shrugged*— a novel popular with libertarians— the industrial world's "indie camp" goes on strike against collectivism by *refusing* to help society advance.
 
+${'  ' || `
+// TODO: Revise? Specifically mention low status?
+`}
+
 To oppose "indiefication," then, interdependent bands can "cross the picket line" by *readily* advancing the art form— without any thought for being fairly compensated! "Won't indie rock punish us with lifelong obscurity, though?" Yes, but fear not: With BYCombo, you can now request amnesty from artistic *progressives*… by appealing to their love of the craft.
 
 ### ${++sectionCounter}. Mutual reliance creates wealth
