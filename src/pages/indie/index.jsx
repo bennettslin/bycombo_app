@@ -75,7 +75,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Partners are most impactful when helping to make you known as an artist— that is, to take you "from zero to one." But an indie tastemaker holds off *until* you're known, then helps to convince all others that you deserve it— to take you "from one to *n*." Yet on this matter, their efforts have far less impact…
+Partners are most impactful when helping to make you known as an artist— that is, to take you "from zero to one." But an indie tastemaker holds off *until* you're known, then helps to convince everyone else you deserve it— to take you "from one to *n*." Yet on this matter, their efforts have far less impact…
 
 Meanwhile, your artistic talents work the *opposite* way: They get you far once you're *already* known; where they stumble, though, is in getting you known to *begin* with. Yet it's this latter feat— a sign of your *indie*-pendence— that a tastemaker needs to see! Which raises a good question: If your partner can't grasp the concept of *inter*-dependence… are they even a partner at all?
 
@@ -159,7 +159,11 @@ Yet the same camp then gripes about the Rock and Roll Hall of Fame, saying it do
 
 Let's be honest, we're cultural chauvinists either way; all we can do is not be hypocrites as well. Fortunately, BYCombo is here to make us the world's best once more, in the only way now possible: by matching you with artists from other countries, who *could* rival you… but will join your band instead.
 
-### ${++sectionCounter}. Talent seeks a path to stardom
+${'  ' || `
+// TODO: Review title.
+`}
+
+### ${++sectionCounter}. Talent eyes the path to stardom
 
 By the '00s, the major labels had gutted the local scenes in their search for the next superstars. So when the Internet promised us a vibrant "long tail" decoupled from the rat race for stardom, indie rock went all in: Any artist could now flourish on the fringes! Yet today… superstars are bigger than ever, while indie artists have *lost* cultural relevance. Why is this?
 
@@ -473,6 +477,10 @@ To sum up, it was the *indie camp* [who gave us](https://www.theguardian.com/mus
 
 Are we headed for a new Romanticism? Some foresee a [rebellion brewing](https://www.theguardian.com/commentisfree/2023/dec/28/new-romanticism-technology-backlash) against science, as algorithms take over the arts. And yet, algorithms simply reflect what the people want, just like word of mouth does; it's why indie rock defended them for as long as it did. In this light, then, maybe we *shouldn't* be upset with the algorithms, but rather with *ourselves*— the people!
 
+${'  ' || `
+// TODO: Revise. Links to Solomon Asch and smoke in room experiment instead?
+`}
+
 As stated earlier, we humans dislike creative ideas… but we're *also* biased against the underclass who generates them! And [when in doubt](https://en.wikipedia.org/wiki/Mimetic_theory), we look to others… yet they *share* our status-based prejudices! So the research is clear: Creative ideas *must* be spread from the top down, by the elites— who alone have a "noblesse oblige" to help those being *hurt* by our human nature.
 
 Yet indie rock told us to do *away* with elitism: "Any good idea is *sure* to spread from the bottom up… by *us*." Which is to say, we've been scoffing at science— while "larping" as Romantics— all along! In fact, this is why it was so *easy* for the algorithms to take over: The tech platforms just had to speak of "freeing the human spirit," or some other such cliche… and we fell for it every time.
@@ -586,7 +594,7 @@ ${'  ' || `
 After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. And yet— as we've also seen— the indie camp has sworn to *defend* any such *indie*-pendent *indie*-vidual! So now, with the arts governed by "indieocracy," this worsening can only accelerate…
 
 ${'  ' || `
-// TODO: Revise. Make it about cred, authentic personas, and identity-based art.
+// TODO: Revise. Make it about craft over "cred", mastery over authenticity, "forgiveness" for inventors over fair compensation for hustlers. Ideals that haven't been seen in over a generation.
 
 To counter AI slop, then, a new movement must arise to favor the *collective*. Luckily, if your hope is to make history, chances are good you *already* think like a collectivist: You already find fulfillment in the experiences of others, just like they were your own— knowing it's the only way others will feel the same about your achievements.
 
