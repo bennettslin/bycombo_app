@@ -221,7 +221,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-In the past, you weren't told to get *yourself* known— to go "from zero to one," as they say; instead, it was on you to convince *others* that you deserve it— to go "from one to *n*." And so, as a zero, you'd explore at will, hoping to find the unexpected. But today, *any* artist can be indie, from the get-go— which then leaves them reluctant to experiment, for fear of losing hard-won fans.
+In the past, you *weren't* told to get yourself known— to go "from zero to one," as they say; instead, it was on you to convince others that you deserve it— to go "from one to *n*." And so, as a zero, you'd explore at will, hoping to find the unexpected. But today, *any* artist can be indie, from the get-go— which then leaves them reluctant to experiment, for fear of losing hard-won fans.
 
 Meanwhile, the major labels in their heyday had hefty budgets to work with, allowing them to [diversify their rosters](https://www.investopedia.com/investing/importance-diversification) by casting a wide net for talent. And since greater risks yield [greater rewards](https://www.investopedia.com/terms/r/riskreturntradeoff.asp), they'd keep several slots open for unknown artists with unexpected ideas— some of whom ended up making the boldest art!
 
@@ -357,7 +357,11 @@ While being alternative is an *artistic* choice, being indie is a *business* sta
 
 The issue is that these labels are run by society's most privileged groups— and to perpetuate inequality, the privileged *don't* need to harm others. They *only* need to [help their own](http://archive.today/2024.05.12/https://hbr.org/2014/01/white-people-do-good-things-for-one-another-and-thats-bad-for-hiring#:~:text=Whites%20don%E2%80%99t%20have,all%20the%20time.)— which is what any circle of friends will do! So indie rock's inequality *can't* be fixed at the root; its White male tastemakers just have to be more inclusive in whom they accept as their own.
 
-So far, though, their efforts have only helped women, not us minorities— or *male* minorities, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
+${'  ' || `
+// TODO: Review.
+`}
+
+So far, though, their efforts have only helped women, not us minorities— or minority *men*, anyway. Why? Because our struggles *aren't* alike: Minorities [face stereotypes](https://en.wikipedia.org/wiki/Stereotype_content_model) of low *warmth*— and women, of low *competence*. Yet social justice, when self-enforced, *only* helps those misjudged as incompetent; by contrast, a circle of friends has every *right* to feel warmest toward its own.
 
 But if our kind *isn't* desired as friends… we can still be valued as *investments*! After all, a [smart investor](https://www.eminem.com/song/white-america/#:~:text=When%20I%20was,under%20his%20ass) buys low and sells high— and in music, this means betting on us low-status outsiders with history-making talents. So leave the indie camp to their "old-boy network"; with BYCombo, you can partner with a capitalist who'll *happily* assure you, "Yes, I'm in it for the money!"
 
@@ -576,19 +580,20 @@ ${'  ' || `
 The new Romantics wistfully recall those last few decades before the rise of soulless AI "slop." But AI simply allows each artist to put out far more works, for far less effort— all while giving the people exactly what they expect. And this is how indie rock *itself* took over in the '00s, no? "AI," then… could easily stand for "accelerated indiefication"!
 
 ${'  ' || `
-// TODO: Revise. Maybe mention "indieocracy" one last time?
+// TODO: Review.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. And yet— as we've also seen— the indie camp is here to *defend* any such *indie*-pendent *indie*-vidual! So now, with them in charge, the worsening can only accelerate…
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. And yet— as we've also seen— the indie camp has sworn to *defend* any such *indie*-pendent *indie*-vidual! So now, with the arts governed by "indieocracy," this worsening can only accelerate…
 
 ${'  ' || `
-// TODO: Revise. I don't think it makes the collectivist point. Make it more clear that you have to forgo most experiences.
+// TODO: Revise. Make it about cred, authentic personas, and identity-based art.
 
 To counter AI slop, then, a new movement must arise to favor the *collective*. Luckily, if your hope is to make history, chances are good you *already* think like a collectivist: You already find fulfillment in the experiences of others, just like they were your own— knowing it's the only way others will feel the same about your achievements.
+
+Luckily, if your hope is to make history, chances are good you *already* think like a collectivist: Being the best doesn't just mean sticking to one job; it also means living one life. You'll simply need to find fulfillment in those of others, just like they were your own— knowing it's the only way others will feel the same about your achievements.
 `}
 
-To counter AI slop, then, a new movement must arise to favor the *collective*. Luckily, if your hope is to make history, chances are good you *already* think like a collectivist: Being the best doesn't just mean sticking to one job; it also means living one life. You'll simply need to find fulfillment in those of others, just like they were your own— knowing it's the only way others will feel the same about your achievements.
-
+To counter AI slop, then, a new movement must arise to favor the *collective* over the *individual*.
 
 ${'  ' || `
 // TODO: Review.
