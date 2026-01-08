@@ -571,23 +571,21 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing others to do the same. And yet— as we've also seen— the indie camp has sworn to *defend* these *indie*-pendent *indie*-viduals! So now that they've "indiefied" the arts, this worsening can only accelerate…
+After all, AI creates a collective action problem, which— as you'll recall— is when individuals act in their [own interest](https://consequence.net/2025/02/lady-gaga-manager-accent-hot-ones) by leaving others [worse off](https://consequence.net/2025/10/taylor-swift-the-life-of-a-showgirl-album-variants), thus forcing these others to do the same. And yet— as we've also seen— the indie camp has sworn to *defend* any such *indie*-pendent *indie*-vidual! So now that they've "indiefied" the arts, this worsening can only accelerate…
 
 ${'  ' || `
-// TODO: Revise. Make it about craft over "cred", mastery over authenticity, "forgiveness" for inventors over fair compensation for hustlers. Ideals that haven't been seen in over a generation.
+// TODO: Revise. Ideals that haven't been seen in over a generation.
 
-To counter AI slop, then, a new movement must arise to favor the *collective*. Luckily, if your hope is to make history, chances are good you *already* think like a collectivist: You already find fulfillment in the experiences of others, just like they were your own— knowing it's the only way others will feel the same about your achievements.
-
-Luckily, if your hope is to make history, chances are good you *already* think like a collectivist: Being the best doesn't just mean sticking to one job; it also means living one life. You'll simply need to find fulfillment in those of others, just like they were your own— knowing it's the only way others will feel the same about your achievements.
+Might also need to change title based on this change.
 `}
 
-To counter AI slop, then, a new movement must arise to favor the *collective* over the *individual*.
+To oppose AI slop, then, a counterculture must arise to favor the *collective* over the individual. This means rewarding craft over "cred," mastery over authenticity— as well as "forgiving" any inventor, who simply won't value fair compensation the way a hustler does.
 
 ${'  ' || `
 // TODO: Review.
 `}
 
-And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," this high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— possibly for life! So who'd ever try? No one… but us collectivists.
+And this matters, because status hierarchies are self-reinforcing: Those at the top have both the will *and* the way to favor others like themselves— and under "indieocracy," such high status is given to artists who strive hardest to *get* the job. To double down instead on *deserving* it, then, is to be low-status— possibly for life! So who'd ever try? No one… but us collectivists.
 
 ${'  ' || `
 // TODO: Review links.
